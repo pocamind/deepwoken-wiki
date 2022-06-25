@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 32070
+revid: 32819
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -21,34 +21,38 @@ categories: [Resonance]
 
 ## Description
 
+**Resurrection** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+
 ### _Appearance_
 
-The target of the resonance is represented with a star, while the user is represented with a spinning circle on their back.
+When used, the target is represented with a star, while the user is represented with a spinning circle on their back.
 
 ## Usage
 
-Pressing C tags the target with a star, be it an NPC or a player (can be allies and non allies) (this can target the user). While the effect is a active, a white circle is visible on the back of the user. These effects last for 5 seconds.
+Pressing C tags any humanoid with a star. This can be inflicted on NPCs, allies, non-allies and yourself. This effect lasts for five seconds.
 
-If the target is not downed by the time the star fades away, the resonance will not go on cooldown (the exception being a self-revive).
+While Resurrection is active:
 
-If the target is knocked while the star is active, they will be brought into the air, restoring 40% HP.
+-   If the target is knocked, they will be brought into the air and regain 40% of their health.
+-   If the target is not knocked by the time the star fades away, the Resonance will not go on cooldown. _(the exception being a self-revive)_
+-   If the target is **executed,** the resurrection will not trigger. _(common examples include [Primadon](Primadon,_Titan_of_the_East.md), [Stone Knights](Stone_Knight.md), [Jar of Souls](Jar_of_Souls.md) or [Lionfish](Lionfish.md))_
 
-If the target is **executed** (common examples include Primadon, Stone Knights, Soul Jar or Lionfish's beam attack), the resurrection will not trigger.
+### Variants
 
-### _Variants_
+#### Versions
 
-Resurrection has 2 variants, with a common varying factor being the amount of HP restored. (apparently as if in the last patch note, it was a bug and it was fixed, and the definitive amount of health restored is 40%. Further testing needed)
+Resurrection has 2 versions, restoring 40% of the target's health.
 
 -   Variant 1 resurrects the target at the location of their death.
--   Variant 2 resurrects the target and returns them to the user (much like Vow of Mastery's "return" command).
+-   Variant 2 resurrects the target and returns them to the user. (much like [Vow of Mastery's](Vow_of_Mastery.md) "return" command).
 
-#### _Corrupted_
+#### Corrupted
 
-**Corrupted Resurrection** lasts 7 seconds on the target instead of 5.
+**Corrupted Resurrection** lasts seven seconds on the target instead of five.
 
 ## Trivia/Notes
 
 -   When someone or something is getting resurrected, they cannot be damaged.
--   Casting this resonance gives you hyperarmor. It won't cancel if you are hit, and you can cast it mid-stun.
--   Keep in mind that the target can still be gripped if the star is active while they are downed/carried. The resurrection will not take place if the star fades during that time.
--   If an ally's health drops below half resurrection users will be able to see their health.
+-   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
+-   A very powerful corrupted Resonance, as the fire and damage downsides of Resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40%-80% back.
+-   If an ally's health drops below half, players with Resurrection will be able to see their health.

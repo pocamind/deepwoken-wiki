@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 32791
+revid: 32804
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -147,4 +147,3 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   The Isle of Crows was mentioned by an NPC here, possibly a removed island.
     -   The NPC was later removed in shadow updates.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
--   Fort merit used to have many different events but this was removed in past updates.

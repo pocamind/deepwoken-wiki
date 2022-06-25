@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 32785
+revid: 32834
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -483,7 +483,9 @@ Mirage Clone
 
  | 
 
-Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent)
+Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire.
+
+(Legendary Talent)
 
  | 
 
@@ -498,7 +500,9 @@ Exploding Mirage Clone
 
  | 
 
-Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent)
+Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire.
+
+(Legendary Talent)
 
  | 
 
@@ -519,7 +523,9 @@ Last Laugh
 
  | 
 
-Gain the ability to incinerate your self when down.(rare talent)
+Gain the ability to incinerate your self when down.
+
+-   Rare talent
 
  | 
 
@@ -549,7 +555,9 @@ Undying Flame
 
  | 
 
-Your flame can be casted in the depths. (Rare card) \[Prerequisites: 40 Willpower\]
+Your flame can be casted in the depths.
+
+-   Rare card \[Prerequisites: 40 Willpower\]
 
  | 
 

@@ -1,9 +1,9 @@
 ---
 title: Primal Vesperian
-revid: 31632
+revid: 32826
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Races, Character]
 ---
 
 # Primal Vesperian

@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 32115
+revid: 32825
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -64,6 +64,10 @@ To use a Pluripotent Alloy, you must be at least power level 30 and equip an app
 -   [Tanto](Tanto.md)
 -   [Steel Maul](Steel_Maul.md)
 -   [Messer](Messer.md)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Falchion](Falchion.md)
+-   [Crescent Cleaver](Crescent_Cleaver.md)
+-   [Canorian Axe](Canorian_Axe.md)
 
 ## Effects of the Pluripotent Alloys
 

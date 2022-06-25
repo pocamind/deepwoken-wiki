@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 32794
+revid: 32809
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -51,6 +51,6 @@ Zartania has spec which is called “Skeleton Key”. The spec allows him to loc
 
 They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the action-RPG _Genshin Imapct,_ they also have the "Cosmic" enchant on their fists and are able to conjure enchants and use the hive construct tree move using lifeweaver.
 
-Dex
+### Dex
 
 This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride with him

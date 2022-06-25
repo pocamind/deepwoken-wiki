@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 32684
+revid: 32818
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -14,15 +14,19 @@ categories: [Pages with broken file links, Resonance, Character, Boss, Locations
 
 **Resonances** are one of the many skills that players can obtain. They are the most varied when it comes to all the abilities, and are quite powerful, having effects from perfect invisibility, map-wide teleportation, and instantaneous gripping.
 
-## Normal Resonances
+Certain Resonances have a set of "points" given when they are obtained. The points are randomly spent and dictate certain parts of the Resonance, such as their variant and damage for example. Each resonances uses these points differently. Corrupted Resonances have more points to spend.
+
+Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
+
+## Variants
+
+Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
+
+### Normal Resonance
 
 Normal Resonances are the basic version of each Resonance, and the most common. They do not have any buffs or debuffs compared to sub-category Resonances, but they are still susceptible to being a variant.
 
-**From data of 100 rerolls, the calculated chance of getting a normal resonance was 92% (276/300, almost guaranteed per reroll)**
-
-## Resonance Variants
-
-Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose, such as an Instant-grip AOE becoming ranged, instead of melee, but still having the same function of being an Instant-grip AOE. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
+_From data of 100 rerolls, the calculated chance of getting a normal Resonance was 92% (276/300, almost guaranteed per reroll)_
 
 ### Corrupted Resonance
 
@@ -30,7 +34,7 @@ Resonances of any category are susceptible to Variants. Resonance Variants are v
 
 Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
 
-**From data of 100 rerolls, the calculated chance of getting a corrupted resonance was 4% (12/300, 12% per reroll)**
+_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4%. (12/300, 12% per reroll)_
 
 However, similarly to [Cursed Enchants](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 
@@ -44,13 +48,13 @@ These downsides do not appear to be correlated to any Resonances, meaning any Re
 
 All Corrupted Resonance effects are listed in their corresponding Resonance page.
 
-### **Legendary Resonance**
+### Legendary Resonance
 
 **Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
 
-**From data of 100 rerolls, the calculated chance of getting a legendary resonance was 3.67% (11/300, 11% per reroll)**
+_From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67%. (11/300, 11% per reroll)_
 
-**From data of 100 rerolls, the calculated chance of getting a corrupted legendary resonance (drowned) was 0.333% (1/300, 1% per reroll)**
+_From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333%. (1/300, 1% per reroll)_
 
 ### Tarnished Resonances
 
@@ -66,26 +70,16 @@ File:Tarnish removal.png
 
 Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
-### Resonance Variants Summary
-
-Resonances are obtained as **Common** or, much more rarely, **Legendary,** with **Common** Resonances being basic and numerous and **Legendary** Resonances being more unique and rare. **Legendary Resonances are NOT just stronger versions of Common ones. They are completely different abilities.**
-
-Resonances of both types are able to have **Variants,** which are sidegrades that change how a Resonance executes its function, but still has the same function.
-
-There is a very small chance that both types and their **Variants** can also become **Corrupted,** increasing their effect and strength, but adding a downside.
-
-Finally, if you reroll (see below) your Resonance, the next one you get will become **Tarnished,** making the Resonance weaker, and acting like a opposite of, but still being able to overlap with **Corrupted**.
-
-## Obtainment Process
+## Obtaining
 
 ### Finding the Nature of your Soul & Progress
 
 The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
 
-| **What he says to you:** |
+| **Possible dialogue results:** |
 | --- |
 | 
-**Exhibit A**
+**Exhibit A** 
 
  | 
 
@@ -93,7 +87,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 
  | 
 
-**Exhibit C**
+**Exhibit C** 
 
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
@@ -166,47 +160,30 @@ File:Image of Card Selection.png
 
 Around [The Depths](The_Depths.md) and Overworld, Resonance Doors can be found. Resonance Doors are greyish doors with a white sphere in their center, that require a Resonance to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
+A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). _Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you._Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
 
 This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. **(Do not do this).**
 
-  
-
 Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
-
-File:Arch says Wishes have cooldowns.png
-
-## Resonances Points
-
-Certain resonances have a set of "points" given when they are obtained. The points are randomly spent and dictate certain parts of the resonance, such as their variant and damage for example. Each resonances uses these points differently. Corrupted Resonances have more points to spend.
 
 ## Unobtainable Resonances
 
--   **Corrupted** Skull popper (Akira's Resonance)
+-   **Corrupted** Skull Popper (Akira's Resonance)
 -   Golem Creation (Duke Erisia's Resonance)  
     
 
-## Resonance Cosmetic
-
-Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
-
-  
-
-Assumed to be a bug, sometimes if you choose a resonance - or reroll a bell will no longer be visible on your characters body.
-
 ## Trivia
 
--   Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
-    
-    File:Bellprog.png
+-   File:Bellprog.png
     
     Arch Mage confirming both talent cards do not affect resonance progression.
     
+    Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
 -   Resonances were once presumed to have level, luck, and time in The Depths requirements, but all these were eventually debunked. With hindsight of the real requirements, these were all TECHNICALLY true, being byproducts of getting Progress.
 -   The most popular, now debunked, method involved staying in The Depths for seven hours straight. While being comically wrong, it set the groundwork for people to discover the truth.
--   **Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you.**
--   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
--   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
+-   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at [Aratel Island](Aratel_Island.md).
+-   It also seems like the amount of Progression needed for a Resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
--   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occured when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
+-   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occurred when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
 -   Contrary to popular belief, Blessed versions of Resonances DO NOT exist. Dumbass.
+-   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.

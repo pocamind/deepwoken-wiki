@@ -1,11 +1,13 @@
 ---
 title: Ministry Necromancer
-revid: 31762
+revid: 32833
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ministry Necromancer
+
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -15,7 +17,7 @@ Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and alway
 
 ## Moves
 
-Their arsenal consists of a [Krulian Dagger](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) Attunement:
+Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -27,12 +29,12 @@ Assault
 
 Critical
 
- | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
+ | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | 
 
 Shadow Roar
 
- | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ◯ | ◯ | (★★☆) |
+ | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ✗ | ◯ | (★★☆) |
 | 
 
 Summon
@@ -44,6 +46,7 @@ Necro-skippers
 ### Boons
 
 -   Third Eye - User cannot be assassinated under any circumstances.
+-   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Trivia
 

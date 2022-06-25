@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 32727
+revid: 32836
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -640,11 +640,13 @@ These talents are found in the _Silencer_ category.
 | File:A World Without Song.jpg | 
 A World
 
-Without Song (Legendary)
+Without Song
 
  | 
 
 All of your wind attacks apply 'Suffocate'.
+
+(Legendary)
 
  | 
 
