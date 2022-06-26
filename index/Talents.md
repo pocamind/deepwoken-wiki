@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32802
+revid: 32874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -194,7 +194,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Negate movement speed penalty of blocking.
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
--   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
+-   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +5 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
     -   Prerequisite: 90 Fortitude
 
@@ -1476,7 +1476,7 @@ Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substanc
 True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)  
 Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.  
 Piercing Will \[Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)  
-Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)  
+Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +5 Health)  
 Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)  
 Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health) (Requires an unknown amount of strength and prerequisites.)  
 Vanishing Follow-up \[Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.  
