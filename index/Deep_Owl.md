@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 32877
+revid: 32881
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,7 +32,9 @@ The corrupted Deep Owls that spawn in _The Depths_ follow the aforementioned beh
 | Name | Description | Parry-able? | Danger |
 | --- | --- | --- | --- |
 | 
-**Talon Swipe**
+**Talon**
+
+**Swipe**
 
  | Three slow, consecutive swipes. Can do this multiple times
 
@@ -41,7 +43,9 @@ back-to-back. Swipes that come from the left side of your screen come swiftly, w
  | ◯ | (★☆☆) |
 | 
 
-**Feather Teleport**
+**Feather**
+
+**Teleport**
 
  | Turns into a burst of feathers, emerging at the target it is
 
@@ -50,12 +54,16 @@ pursuing after a bit. Typically used after Talon Swipe.
  | ◯ | (★☆☆) |
 | 
 
-**Whirling Dash**
+**Whirling**
+
+**Dash**
 
  | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
 | 
 
-**Flying Grab**
+**Flying**
+
+**Grab**
 
  | Disappears into a burst of feathers, becomes invulnerable
 

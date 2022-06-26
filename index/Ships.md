@@ -1,6 +1,6 @@
 ---
 title: Ships
-revid: 13936
+revid: 32887
 source: https://deepwoken.fandom.com/wiki/Ships
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,5 +31,5 @@ The Dockmaster at Greathive Aratel says he can Lifeweave modifications into your
 ## Trivia/Notes
 
 -   Being a [Celtor](Celtor.md) reduces the prices of ships by 20%.
--   It's much cheaper to repair a ship when it almost broken than to salvage a ship that broke (e.g. an ironclad at 250/10000 health would cost a few hundred notes to repair, while a broken one would cost 3000).
--   Ships with a resting table can be spawned on by members of your guild through roblox resetting or dying.
+-   It's much cheaper to repair a ship when its almost broken than to salvage a ship that is (e.g. an ironclad at 250/10000 health would cost a few hundred notes to repair, while a broken one would cost 3000).
+-   Ships with a resting table can be spawned on by members of your guild through Roblox resetting or dying.

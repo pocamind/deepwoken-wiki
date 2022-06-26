@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 32439
+revid: 32894
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -88,27 +88,70 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a Training Vest, or feel the crushing weight of a Boulder.
 
--   **Rally** - Strike your shield a few times to absorb some of the posture received by your allies.
-    -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
-        -   This weapon actually prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the [Sharko](Megalodaunt.md)/[Primadon](Primadon,_Titan_of_the_East.md) kick and the [Thresher](Thresher.md) burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)
-
--   **Reinforce** - Buff those around you with extra defense.
-    -   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
-    -   Needs further testing, but seems to give a 10% damage boost as well (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
-    -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
-    -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
-    -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced back onto you until the effect wears off._
-    -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (The user included)_
-
--   **Brace** - Brace yourself against attacks and gain hyperarmor.
-    -   Prevents your attacks/mantras from getting cancelled.
-    -   Requirements: 75 Fortitude, _Fortitude Support Mantra_
-    -   Base 5 second duration, every upgrade increases it by 1 up to 9 max seconds
-
--   **Shoulder Bash** - Rush at your enemies with your full physical force.
-    -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
-    -   Upgrades based on fortitude from the Attunement-less trainer
-    -   Requirements: Shield & 10 FTD
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b><u>Media</u></b></th>
+  <th><b><u>Name</u></b></th>
+  <th><b><u>Card Description</u></b></th>
+  <th><b><u>Effect &amp; Info</u></b></th>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Rally<p>(☆☆☆)</p></td>
+  <td><i>Strike your shield a few times to absorb some of the posture received by your allies.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> Fortitude + <i><b>Any Shield</b></i>, <i>Support Mantra</i>
+  <ul>
+    <li>This weapon actually prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the <a href="Megalodaunt.md">Sharko</a>/<a href="Primadon,_Titan_of_the_East.md">Primadon</a> kick and the <a href="Thresher.md">Thresher</a> burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Reinforce<p>(☆☆☆)</p></td>
+  <td><i>Buff those around you with extra defence.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>50 Fortitude</b></i>, <i>Support Mantra</i></li>
+    <li>Reduces incoming damage and <s>completely negate armor damage</s> I tested this, and my armor did still take damage.</li>
+    <li>Needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)</li>
+    <li><i><b>Can be upgraded</b></i> with the following <i><b>Fortitude Talents,</b></i>
+  <ul>
+    <li><i>Can be upgraded with the <b>"Lord Commander" talent card</b>, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed.</i></li>
+    <li><i>Can be upgraded with the <b>"Blood Shadow" talent card,</b> which saps health from people you reinforced back onto you until the effect wears off.</i></li>
+    <li><i>Can be upgraded with the <b>"Grand Support" talent card,</b> which slightly heals people upon reinforcing. (The user included)</i></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Brace<p>(☆☆☆)</p></td>
+  <td><i>Brace yourself against attacks and gain hyperarmour.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>75 Fortutude,</b></i> <i>Support Mantra</i></li>
+    <li>Prevents your attacks/mantras from getting cancelled when being hit. (Nanomachines son!)</li>
+    <li>5 Second duration at base upgrade, each upgrade increases its duration up by 1 up to a maximum of 9 seconds.</li>
+    <li>Needs testing with Logstones to find out if it affects duration,</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Shoulder Bash<p>(☆☆☆)</p></td>
+  <td><i>Rush at your enemies with your full physical force.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>10 Fortitude + Any shield</b></i>, <i>??? Mantra (please add)</i></li>
+    <li>Dash forwards with your shield infront, colliding with a surface or NPC will bash them and deal light damage.</li>
+    <li><i><u>Parry-able.</u></i> Getting parried ends the mantra early.</li>
+    <li>Solid mantra that can be used to chase your opponents.</li>
+    <li>Can break surfaces. (Tested with Tomb of Nameless Warrior hidden door.)</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### _**Agility Mantras**_
 

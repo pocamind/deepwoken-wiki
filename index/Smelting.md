@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 26028
+revid: 32888
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,18 +9,12 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Concept of Smelting
 
-Smelting is an obscure mechanic that involves combining 2 pieces of equipment to create a higher quality piece of equipment that has altered stats while retaining its original look.
+Smelting is an obscure mechanic that involves combining 2 pieces of equipment to give stats to a piece of equipment while also keeping its appearance.
 
-To start smelting, Head to the forge/Pvp arena found at [Summer isle](Summer_Isle.md) and talk to Jarvis. It costs 1000 notes to combine equipment. Simply hold the piece that you want to transfer stats from and another piece that you want to keep the looks of. The first piece will be lost and the second will take a random stat from the first piece to add onto itself.
+To start smelting, Head to the Forge/PvP arena found at [Summer Isle](Summer_Isle.md) and talk to Jarvis. It costs 1000 notes to combine equipment.
 
-Smelting now only works on the same type of item (e.g. boots to boots) and only changes the appearance.
-
-Not much is known on how smelting has changed, other than it has been nerfed.
-
-\- more will be added when more is known -
-
-Some Users have Said that the health, ect merge together, Lets say something like a 9 health demon mask and a 3 ether blindfold are merged together, you would get something between the two, like a 9 health 2 ether demon mask, or a 3 ether 8 health blindfold.
-
-Rlmega has also discovered that TALENT items can be merged together. A Blindfold and a demon mask would make a blinding demon mask, but the mask would keep the name blindfold  
+-   **The first piece you hold out is the one you keep the stats of, while the second piece is the one you keep the appearance of.**
+-   If you back out of the dialogue without completing the smelt, you will lose the piece of armor you offered.
+-   User "Rlmega" has discovered that items talents can be carried over. A Blindfold and a Demon Mask would make a blinding Demon Mask, but the mask would keep the name of the Blindfold.
 
 NOTE: Level Requirement is based on the Armor Piece's name, as you can see a freshie wearing a Fleet Warden Cape (Tundra Scarf) but can't wear the 'Vanguard Brace'

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 32878
+revid: 32890
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -212,6 +212,24 @@ _A flurry of ice spikes._
 -   Deals moderate damage.
 -   Slows target(s) down.
 -   Leaves ice where Mantra is casted.
+
+ |
+| 180x180 | 
+
+Ice Stomp
+
+(???)
+
+ | 
+
+_i dunno what to put here lol_
+
+ | The user performs a stomp, which makes massive icebergs come out the ground.
+
+-   Deals moderate-high damage.
+-   Has a slow windup.
+
+Disclaimer: This is from the Deepwoken Layer 2 Combat Direct video. This may change, or might never be added into the game anyways.
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
