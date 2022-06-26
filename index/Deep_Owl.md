@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 31884
+revid: 32877
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -119,7 +119,6 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   If you are so unfortunate, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check[\[2\]](#cite-note-2) it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
 -   Corrupted Deep Owls are guaranteed to drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md). Normal owls will rarely drop them.
--   Deep Owls spawn regardless of the current [Season](Seasons.md) but _are_ however, affected by the current time in-game. At the time of writing, it is believed that Deep Owls only spawn at night, or at least are significantly rarer during the daytime.
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
 -   Don't try to hide in the buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   The Deep Owl is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.

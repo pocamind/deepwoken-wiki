@@ -1,8 +1,9 @@
 ---
 title: Officers Note
-revid: 32873
+revid: 32880
 source: https://deepwoken.fandom.com/wiki/Officers_Note
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Officers Note

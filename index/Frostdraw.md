@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 32728
+revid: 32878
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -836,3 +836,4 @@ Your ice spear now lodges into human opponents and explodes.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   Ice Eruption does less damage the larger it gets?
     -   Never tested, but was stated in update log.
+-   Wardens blades is very easy to movestack with, you can use other mantras or just m1 while using it.
