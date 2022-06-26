@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 24968
+revid: 32906
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Luck, Character, Ingredients]
@@ -44,3 +44,4 @@ A Celtor finding the pulsating rings.
 -   If found in Erisia, it's recommended to take the Artifact to Isle of Vigils rather than Etris, As Vigils is both closer to Erisia, and its bank is closer to the docks.
 -   Before the update, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed and luck now being granted, it's highly sought after again.
 -   Anyone standing near your whilst you turn in the Artifact will also receive luck and exp.
+-   Dropping it in the ocean causes them to sink and be lost.

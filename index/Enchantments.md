@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32863
+revid: 32905
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -61,30 +61,39 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><b>Name</b></td>
   <td><b>Description</b></td>
+  <td><b>Cursed Effect</b></td>
+  <td><b>Visual Effect</b></td>
 </tr>
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
-  Hitting non humanoid entities deals the slash both to the monster and user.<br>
   The slash is parryable.</p></div></td>
+  <td><div>Hitting non humanoid entities and bosses deals the slash both to the monster and user.</div></td>
+  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss. Self-Damage does not Proc when below 10%HP.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and have increased blood damage.</p></div></td>
+  <td><div>While above 10% HP, missing an M1 deal 1% of max HP as self damage. Blocked/Parried/Dodged hits do not count as a miss.</div></td>
+  <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:New-nlk2.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
+  <td><div><p>On hit, give&nbsp;?? insanity.<br>
+  While held, gain passive health regen.<br>
   <b>This enchant is disabled in Arena</b><br>
-  <b>Viscosity is Disabled</b></p></div></td>
+  <b>When using this enchant,Viscosity is disabled</b></p></div></td>
+  <td><div>Permanently stained health bar.<br>
+  <p>2x blood damage taken in the Etrean Luminant.<br>
+  When held, -100 sanity.</p></div></td>
+  <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>On proc deals double damage.<br>
-  deals additional m1 damage in pve<br>
-  chance to deal m1 damage to yourself</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>On proc, deals double damage.<br>
+  Deal bonus damage in PVE.</p></div></td>
+  <td><div>Rarely, take self damage equal to 90% of the weapon's damage.</div></td>
+  <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
 </tbody>
 </table>
@@ -96,102 +105,97 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><b>Name</b></td>
   <td><b>Description</b></td>
+  <td><b>Visual Effect</b></td>
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When the user is above 90% HP&nbsp;:<br>
   Your m1's will deal 25% extra dmg. This doesn't apply to mantras nor heavy swings.</p></div></td>
+  <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>After hitting a target a certain amount of time (Guns: 5, LHT: 7, MED: 4, HVY: 3), make them explode, dealing bonus damage + AOE damage around them. The explosion can execute.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>After hitting a target a certain amount of time (Guns: 5, LHT: 7, MED: 4, HVY: 3), make them explode, dealing bonus damage + AOE damage around them. The explosion can execute.</p></div></td>
+  <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales on Flamecharm.<br>
   If the user have the Eruption Path: Lava Serpent talent, create an explosion instead.<br>
-  <b>Azure Flame will now show on Blazing</b></p>
-  <p><br>
   </p></div></td>
+  <td><div>Weapon is covered in orange flames. The flames are blue if the user has Azure Flame.</div></td>
 </tr>
 <tr>
   <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div>Elastic</div></td>
-  <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>On proc, create a purple string, pulling the target toward you.</p></div></td>
+  <td><div>Weapon is covered in a purple/pink haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:Storm.webp<figcaption></figcaption></figure><div>Storm</div></td>
-  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
+  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
   <td><figure>File:Obfusnew.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds. Attack speed buff is inversely proportional to the base attack speed: slower weapons gains a greater increase in attack speed than fast weapons.</div></td>
+  <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p></div></td>
+  <td><div>Weapon gives off a brown particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
   <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
-  Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p>
-  <p><br>
-  </p></div></td>
+  Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
+  <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>After a certain amount of hits (LHT: 6, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>After a certain amount of hits (LHT: 6, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p></div></td>
+  <td><div>Weapon turn completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Does not hit allies.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Does not hit allies.</p></div></td>
+  <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
   <td><div><p>On hit, steal 11% of the target's armor durability and add it to your own.<br>
-  Works on NPCs and Monsters.</p>
-  <p><br>
-  </p></div></td>
+  Works on NPCs and Monsters.</p></div></td>
+  <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
   <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Your weapon has a 10% damage increase, as well as having damage dealt applied over time instead of instantly. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
+  <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.<br>
-  Power scaling is based 0.043% x ()power in PVP.<br>
-  Power scaling is based 10% x ()power in PVE.<br>
-  Damage capped at <b>500</b>.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>Parrying an attack deal damage to the attacker. Deal 0.043% x ()userpower in PVP.<br>
+  Deal 10% x ()userpower in PVE.<br>
+  Damage capped at <b>500</b>.</p></div></td>
+  <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
-  Deal bonus damage on a posture break. Bonus damage scales inversely with weapon damage, from 2x to 1.25x</p>
-  <p><br>
-  </p></div></td>
+  Deal bonus damage on a posture break. Bonus damage scales inversely with weapon damage, from 2x to 1.25x</p></div></td>
+  <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
   <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
   <td><div><p>On proc, freeze the opponent.<br>
   If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p></div></td>
+  <td><div>Weapon turn completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 15% of damage dealt. Heals blood bar</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt.<br>
+  Heals blood bar</p></div></td>
+  <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
 </tbody>
 </table>
@@ -324,7 +328,7 @@ Viscosity
 
  | 
 
-Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times. The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
+Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times. The user **cannot be knocked or executed unless they are hit while at 1% HP**. (This enchant does not have a visual effect.  
 Disabled if using Curse of the No Life King.
 
   

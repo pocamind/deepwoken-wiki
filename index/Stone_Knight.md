@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 32484
+revid: 32909
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -82,10 +82,6 @@ Terra Eruption
 
  | ✗ | ✗ | ◯ | (★★☆) |
 
-### Boons
-
--   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
-
 ## **Finisher**
 
 A Stone Knight executes the player:
@@ -97,6 +93,7 @@ A Stone Knight executes the player:
 ## **Trivia**
 
 -   When spawning Blizzard Knights on [Minityrsa](Minityrsa.md) (When the meteors fall), be sure to run all the way out of the Valley of Heroes. Because if you will aggravate one of the golems right when they spawn, all of them will aggravate on you.
+-   They do not have slash resistance.
 -   Blizzard Knights are not effected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you.
     -   If you are quick enough you can run away and get some of them off your tail, but the closest ones will still follow you.
 -   **Do note that [Rogue Hive Construct](Hive_Construct.md) won't attack Blizzard Knights, they will instead team up on you if you aggravate them both.**

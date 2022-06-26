@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 32737
+revid: 32900
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -717,25 +717,6 @@ File:Flame Blind with Magnet Spark.gif
  | 
 
 -   This modifier makes the "Flame Blind" Mantra follow and flash towards the opponent.
-
- |
-| 
-
-Ice Chain
-
-(★)
-
- | 
-
-File:Icechain.gif
-
- | 
-
-File:Ice Chain with Magnet Spark.gif
-
- | 
-
--   This modifier seems to have no effect on the "Ice Chain" mantra.
 
  |
 | 

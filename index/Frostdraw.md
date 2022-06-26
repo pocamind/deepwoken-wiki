@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 32890
+revid: 32904
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -83,6 +83,7 @@ _An icy chokehold._
 
  | User performs a quick dash before grabbing the opponent in front of them.
 
+-   Bad targeting.
 -   Can be used for slight forwards mobility until the user gets Glacial Arc.
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
@@ -128,8 +129,10 @@ _Swift bolts of frozen air._
 
  | Fires a penetrating bullet of ice.
 
+-   Bad Hitbox.
 -   Damages opponents, _possibly slows them down._
 -   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
+-   Ice Beam is better.
 
  |
 | File:Ice Daggers.gif | 
@@ -222,12 +225,13 @@ Ice Stomp
 
  | 
 
-_i dunno what to put here lol_
+_Placeholder"_
 
- | The user performs a stomp, which makes massive icebergs come out the ground.
+ | The user performs a stomp, which makes massive icebergs come out the ground. Anyone hit becomes encased in ice. The ice then shatters after a brief period.
 
--   Deals moderate-high damage.
+-   Probably deals moderate-high damage.
 -   Has a slow windup.
+-   If trapped in ice, the ice will shatter early if hit
 
 Disclaimer: This is from the Deepwoken Layer 2 Combat Direct video. This may change, or might never be added into the game anyways.
 
