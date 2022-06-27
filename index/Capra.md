@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 32854
+revid: 32911
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -79,6 +79,8 @@ Unknown
 -   Tulad
 -   Truad
 -   Arad
+-   Mirad
+-   Emirad
     
 
 ## Notes

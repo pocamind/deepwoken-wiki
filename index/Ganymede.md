@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 32858
+revid: 32912
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -30,7 +30,6 @@ Template:Races-Main
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
   </ul></li>
-    <li>+1 Health</li>
   </ul></td>
 </tr>
 <tr>

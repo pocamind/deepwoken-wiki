@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32905
+revid: 32910
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -45,6 +45,8 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md), along with Starswept Valley Events (as of the buffed chests) is a good way to increase your chances of finding one.
 
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
+
+A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur.
 
 **WHEN THE LAYER 2 UPDATE RELEASES ALL ENCHANT VFX MOSTLY FOR WEAPON WILL BE CHANGED!**
 
