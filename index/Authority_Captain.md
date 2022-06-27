@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 32882
+revid: 32926
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Commander is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) fighting [Legion Captains](Legion_Captain.md) or [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured. It is unknown whether this is a personal choice or the rank's uniform.
+An Authority Commander is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) fighting [Legion Captains](Legion_Captain.md) or [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
+
+Their appearance consists of an [Authority Commander](Authority_Commander.md) outfit.
 
 ## Moveset
 
@@ -36,7 +38,7 @@ Critical
 
 Ice Eruption
 
- | Stomps the ground, causing needles of ice to form around the user. | ◯ | ◯ | (★★☆) |
+ | Stomps the ground, causing thick needles of ice to form around the user. | ◯ | ◯ | (★★☆) |
 | 
 
 Glacial Shower

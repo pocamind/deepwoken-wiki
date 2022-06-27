@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 32885
+revid: 32934
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,7 +46,10 @@ Critical
 
 Jolt Grab
 
-or Gale Lunge
+or  
+Gale Lunge
+
+  
 
  | \[[Thundercall](Thundercall.md)\] Teleports to the nearest opponent before sending out a shocking AoE.
 
@@ -61,6 +64,6 @@ An Apprentice Diver executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Razor Cutlass](Razor_Cutlass.md) & [Silver Dagger](Silver_Dagger.md)\] Pins down opponent before slicing their throat.
-\[[Iron Birch](Iron_Birch.md)\] Raises axe before firmly slamming it down, splitting their head open.
+\[[Iron Birch](Iron_Birch.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
 
  |

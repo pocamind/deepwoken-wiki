@@ -1,8 +1,9 @@
 ---
 title: The Knives of Eylis
-revid: 31677
+revid: 32932
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Factions]
 ---
 
 # The Knives of Eylis
@@ -13,4 +14,4 @@ The Knives of Eylis are an organization of sea pirates and mercenaries. They ser
 
 ## Trivia
 
--   They are the only faction with members that can use Murmurs.
+-   They are the only faction with members that can use oaths.

@@ -1,6 +1,6 @@
 ---
 title: Beeswax
-revid: 32414
+revid: 32923
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,6 +21,6 @@ Beeswax can be found hanging off of large trees everywhere, especially in Etris 
 
 **Usage**
 
-Beeswax is used for crafting a Canteen, which is achievable by pairing it with a Calabash at a crafting table.
+Beeswax is used for crafting a Canteen, which is achievable by pairing it with a [Calabash](Calabash.md) at a [crafting table](Crafting_Station.md).
 
 It also serves as an ingredient in potions, giving regeneration effects.
