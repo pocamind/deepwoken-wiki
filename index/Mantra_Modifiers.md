@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 32900
+revid: 32942
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -229,7 +229,11 @@ Magnifying Stone
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
- |  |
+ | 
+
+-   Works well with mantras like "Ice Beam".
+
+ |
 |  | 
 
 Vibrant
@@ -350,10 +354,6 @@ Magnet Spark
  | 
 
 -   Flame Blind
-
--   Ice Chains
-
--   Ice Forge
 
 -   Jolt Grab
 
@@ -505,7 +505,7 @@ Tornado Spark
 
  | 
 
--   Fire Blade (Confirmed broken as of 1st of May 2022)
+-   Fire Blade (Confirmed broken as of the 1st of May 2022)
 
 -   Champion's Whirlthrow
 
@@ -593,7 +593,7 @@ File:Frost Grab with Blast Spark.gif
 
  | 
 
--   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" Mantra.
+-   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" mantra.
 
  |
 | 
@@ -627,7 +627,7 @@ File:Lightning Clones with Blast Spark.gif
 
  | 
 
--   This modifier causes the clones in the "Lightning Clones" Mantra to explode on death.
+-   This modifier causes the clones in the "Lightning Clones" mantra to explode on death.
 
  |
 | 
@@ -695,7 +695,7 @@ File:Shadow Gun with Blast Spark.gif
 
  | 
 
--   This modifier causes the "Shadow Gun" Mantra to hit multiple times.
+-   This modifier causes the "Shadow Gun" mantra to hit multiple times.
 
  |
 
@@ -716,24 +716,7 @@ File:Flame Blind with Magnet Spark.gif
 
  | 
 
--   This modifier makes the "Flame Blind" Mantra follow and flash towards the opponent.
-
- |
-| 
-
-Ice Forge
-
-(★)
-
- | 
-
- | 
-
-File:Ice Forge with Magnet Spark.gif
-
- | 
-
--   (Work in Progress)
+-   This modifier causes the projectile in the "Flame Blind" mantra to follow and flash towards the direction of the opponent.
 
  |
 | 
@@ -763,7 +746,7 @@ File:Lightning Blade with Magnet Spark.gif
 
  | 
 
--   This makes you do a third teleport slash on the end of the 2 slashes. Do note that You can stack this with Stormcaller slash, which makes your lightningblade hit 4 times.
+-   This makes you do a third teleport slash on the end of the 2 slashes. Do note that You can stack this with Stormcaller slash, which makes your lightning blade hit 4 times.
 
  |
 | 
@@ -812,8 +795,8 @@ File:Strong Leap with Magnet Spark.gif
 
  | 
 
--   This modifier is compatible with "Strong Leap" Strength mantra.
-    -   Appears to jump slightly more in the direction of an ally.
+-   This modifier is compatible with the "Strong Leap" Strength mantra.
+    -   It appears to jump slightly more in the direction of an ally.
 
  |
 
@@ -851,7 +834,7 @@ Shade Bringer
 
  | 
 
--   This modifier adds 2 more cuts onto "Shade Bringer".
+-   This modifier adds 2 more cuts onto the "Shade Bringer" mantra.
     -   Can be paired with a Spring Spark.
 
  |
@@ -869,7 +852,7 @@ File:Shade Devour with Multiplying Spark.gif
 
  | 
 
--   This modifier makes "Shade Devour" perform 3 shockwaves instead of 1.
+-   This modifier causes the "Shade Devour" mantra to perform 3 shockwaves instead of 1.
     -   Can be paired with a Blast Spark.
 
  |
@@ -908,7 +891,7 @@ File:Flame Leap with Reversal Spark.gif
 
  | 
 
--   This modifier reverses the "Flame Leap" Mantra causing the caster to slam the ground, throwing those around them into the air.
+-   This modifier reverses the "Flame Leap" mantra causing the caster to slam the ground, throwing those around them into the air.
     -   Beware, this has a very buggy hitbox.
 
  |
@@ -956,7 +939,7 @@ File:Air Force with Reversal Spark.gif
 
  | 
 
--   This modifier reverses the "Air Force" Mantra to pull targets in, instead of blasting them away.
+-   This modifier reverses the "Air Force" mantra to pull targets in, instead of blasting them away.
 
  |
 | 
@@ -1021,7 +1004,7 @@ File:Adrenaline Surge with Reversal Spark.gif
 
  | 
 
--   This modifier is compatible with the "Revenge" Mantra, causing it to deal no damage.
+-   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage.
 
  |
 
@@ -1060,7 +1043,7 @@ File:Ice Eruption with Round Spark.gif
  | 
 
 -   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
-    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) Ice Eruption.
+    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) and [Authority Commander's](Authority_Commander.md) Ice Eruption.
 
  |
 
@@ -1082,7 +1065,7 @@ File:Ice Laser with Spring Spark.gif
  | 
 
 -   This modifier causes the projectile of the "Ice Laser" mantra to stop in place when shot for a brief amount of time, then goes forward.
-    -   Think Knives in a certain stopping of time
+    -   Think Knives in a certain stopping of time.
 
  |
 | 
@@ -1152,6 +1135,7 @@ File:Fire Blade with Tornado Spark.gif
  | 
 
 -   This modifier seems to have no effect on the "Fire Blade" mantra.
+    -   Confirmed broken as of the 1st of May 2022.
 
  |
 | 
@@ -1207,6 +1191,7 @@ File:Dark Blade with Tornado Spark.gif
 
 ## Trivia/Notes
 
+-   Mantras that aren't written/listed are incompatible.
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
 -   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   Mantra Modifiers that directly affect a mantra will glow white after rising from the modification table- Mantra Modifiers that either indirectly affect a mantra or are entirely incompatible in the first place will dissolve into black.
