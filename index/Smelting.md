@@ -1,13 +1,13 @@
 ---
 title: Smelting
-revid: 32888
+revid: 32916
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Smelting
 
-## Concept of Smelting
+## Description
 
 Smelting is an obscure mechanic that involves combining 2 pieces of equipment to give stats to a piece of equipment while also keeping its appearance.
 

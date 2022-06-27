@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32910
+revid: 32914
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -55,50 +55,6 @@ Astral can only be obtained through a wishmaker. Iltria Dev Spec is being a Wish
 **Weapons:**
 
 Will have an effect upon hitting something. Can range from status effects to more damage, or unique effects.
-
-**Curses:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Cursed Effect</b></td>
-  <td><b>Visual Effect</b></td>
-</tr>
-<tr>
-  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
-  The slash is parryable.</p></div></td>
-  <td><div>Hitting non humanoid entities and bosses deals the slash both to the monster and user.</div></td>
-  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and have increased blood damage.</p></div></td>
-  <td><div>While above 10% HP, missing an M1 deal 1% of max HP as self damage. Blocked/Parried/Dodged hits do not count as a miss.</div></td>
-  <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
-</tr>
-<tr>
-  <td><figure>File:New-nlk2.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>On hit, give&nbsp;?? insanity.<br>
-  While held, gain passive health regen.<br>
-  <b>This enchant is disabled in Arena</b><br>
-  <b>When using this enchant,Viscosity is disabled</b></p></div></td>
-  <td><div>Permanently stained health bar.<br>
-  <p>2x blood damage taken in the Etrean Luminant.<br>
-  When held, -100 sanity.</p></div></td>
-  <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>On proc, deals double damage.<br>
-  Deal bonus damage in PVE.</p></div></td>
-  <td><div>Rarely, take self damage equal to 90% of the weapon's damage.</div></td>
-  <td><div>Weapon is completely black and slightly transparent.</div></td>
-</tr>
-</tbody>
-</table>
 
 **Regular:**
 
@@ -198,6 +154,50 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>Heal for 15% of damage dealt.<br>
   Heals blood bar</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
+</tr>
+</tbody>
+</table>
+
+**Curses:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+  <td><b>Cursed Effect</b></td>
+  <td><b>Visual Effect</b></td>
+</tr>
+<tr>
+  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
+  The slash is parryable.</p></div></td>
+  <td><div>Hitting non humanoid entities and bosses deals the slash both to the monster and user.</div></td>
+  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1s deal 10% more damage and have increased blood damage.</p></div></td>
+  <td><div>While above 10% HP, missing an M1 deal 1% of max HP as self damage. Blocked/Parried/Dodged hits do not count as a miss.</div></td>
+  <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
+</tr>
+<tr>
+  <td><figure>File:New-nlk2.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><div><p>On hit, give&nbsp;?? insanity.<br>
+  While held, gain passive health regen.<br>
+  <b>This enchant is disabled in Arena</b><br>
+  <b>When using this enchant,Viscosity is disabled</b></p></div></td>
+  <td><div>Permanently stained health bar.<br>
+  <p>2x blood damage taken in the Etrean Luminant.<br>
+  When held, -100 sanity.</p></div></td>
+  <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><div><p>On proc, deals double damage.<br>
+  Deal bonus damage in PVE.</p></div></td>
+  <td><div>Rarely, take self damage equal to 90% of the weapon's damage.</div></td>
+  <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
 </tbody>
 </table>

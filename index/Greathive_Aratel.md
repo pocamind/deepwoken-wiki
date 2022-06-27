@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 32608
+revid: 32921
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
