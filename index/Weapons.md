@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 32956
+revid: 32971
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -255,7 +255,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td><a href="Fists.md">Jus Karita</a></td>
   <td>40 LHT</td>
-  <td>13</td>
+  <td>13.5</td>
   <td>20%</td>
   <td>LHT: 9</td>
   <td>3</td>
@@ -378,7 +378,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>75 LHT</td>
   <td>15</td>
   <td>20%</td>
-  <td>LHT: 9</td>
+  <td>LHT: 8</td>
   <td>4</td>
   <td>8</td>
   <td>0.82x</td>
@@ -918,7 +918,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40/<font>75</font> HVY, 10 STR</td>
   <td>26</td>
   <td>N/A/<font>10% Chip Damage</font></td>
-  <td>HVY: 7/<font>8</font></td>
+  <td>HVY: 7/<font>7.5</font></td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -984,7 +984,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
-  <td>20/<font>75</font> HVY, 10/<font>20</font> STR</td>
+  <td>20/<font>75</font> HVY, 10 STR</td>
   <td>22/<font>24</font></td>
   <td>N/A/<font>10%</font></td>
   <td>HVY: 7/<font>8</font></td>

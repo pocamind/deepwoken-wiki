@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 32490
+revid: 32968
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -124,6 +124,7 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 -   A chest containing **Amethyst Pendant Earrings** and (very rarely) a **Finisher's Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
+-   **Ardour Manifestation** - A item can summon [Dread Serpent](Dread_Serpent.md) in the voidsea, rare(?) drop from defeating ferryman.
 
 ## Dialogues
 
