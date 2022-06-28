@@ -1,0 +1,20 @@
+---
+title: Ardour Manifestation
+revid: 32954
+source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
+---
+
+# Ardour Manifestation
+
+“ A manifestation of dark energy while holding it you feel drawn to the Voidsea itself as if something were calling you waiting for you there. ”
+
+― In game descripion
+
+  
+Ardour Manifestation is an item dropped from other bosses besides Kaido. You can use this in the Voidsea to summon Kaido.
+
+## Notes
+
+-   It has no model.

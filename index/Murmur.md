@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 32578
+revid: 32952
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -30,11 +30,7 @@ You can only get one murmur.
 
 A Murmur will be nearly unusable until it is fully trained, either having too short of a duration to be useful or draining your entire [Ether](Combat_Mechanics.md) bar in seconds.
 
-A Murmur can be trained simply by using it, over and over. This process can take hours, and it is recommended you are at a campfire and have armor such as the [Pathfinder-Arch Sorcerer](Pathfinder_Arch-Sorcerer.md) or the [Prophet's Cloak](<Prophet's_Cloak.md>) equipped.
-
-**NOTE:** Spamming Murmur or waiting for max Ether doesn't make a difference when training (needs more testing).
-
-Repeating the task required for your murmur will cause it to "awaken" further training it. \[TESTED ON ARDOUR\]
+A Murmur's training level is dependent on your Power level. The higher the Power, the more effective it is.
 
 ## Murmur: Ardour
 
@@ -42,7 +38,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage.
 
-The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but training it will reduce the cost down to zero (will take hours to do so, I would reccomend just watching youtube in the meanwhile, it isn't the most active way of training).
+The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but being the necessary Power level will reduce the cost down to zero.
 
 **Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -58,7 +54,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour.
 
-Unlike Ardour, Ardour Scream does **NOT** need to be trained.
+Unlike Ardour, Ardour Scream can not be made more effective with Power level.
 
 ## Murmur: Tacet
 
@@ -72,9 +68,7 @@ The only actions a user can perform during Tacet are movement, such as sliding a
 
 Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes ANY NPC such as golems, megalodaunts, bandits, etc. Once Tacet is trained enough, NPCs will no longer aggro on you, regardless of distance when Tacet is active, letting you physically touch and push hostile NPCs without them noticing you. Tacet's NPC range is only determined by it's "training level". Having poor stealth or the Obvious flaw will not impact Tacet.
 
-When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
-
-Once Tacet is fully trained, 2 rings will appear when activating/deactivating instead of 1. (Could other Tacet users back this up? I've recently received Tacet and have been using it a lot, and suddenly two rings appear instead of one. Might be a Roblox bug.)
+When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, the higher Power level you are, the more effective it is. The minimum detection range for players is ~40 studs.
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 

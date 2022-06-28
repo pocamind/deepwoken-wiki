@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 32746
+revid: 32956
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -55,7 +55,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **End Lag:** How long you linger after attacking.
 -   **Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md).
 
--   Types of Weapons
+Types of Weapons
 
 **Light Weapons:**
 
@@ -911,7 +911,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>No</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
