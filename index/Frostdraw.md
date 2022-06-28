@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 32904
+revid: 32980
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -119,9 +119,9 @@ _A legion of frost._
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a Reversal Spark to get the same effect.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | 
+|  | 
 
-Ice Laser
+Ice Lasers
 
  | 
 
@@ -131,7 +131,7 @@ _Swift bolts of frozen air._
 
 -   Bad Hitbox.
 -   Damages opponents, _possibly slows them down._
--   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
+-   Similar to Galebreathe's [Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7CWind).
 -   Ice Beam is better.
 
  |
@@ -169,7 +169,7 @@ _A barrage of freezing blades._
 -   _Can be parried on 1st and 2nd hits_.
 
  |
-| File:Icechain.gif | 
+|  | 
 
 Ice Chain
 
@@ -179,7 +179,7 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3-4 (Minimum) chains of ice that lock-on and stun for a brief period of time dealing light damage.
+ | Conjures 3 chains of ice that lock-on and stun for a brief period of time dealing light damage.
 
 -   The number of chains can be increased with Cloudstones presumably increasing the damage, but it's a pretty bad mantra in general considering it's lackluster hitbox.
 
@@ -330,6 +330,8 @@ Glacial Arc
 
 (★)
 
+  
+
  | 
 
 _An arc of ice._
@@ -347,6 +349,8 @@ _An arc of ice._
 Ice Skates
 
 (★★★)
+
+  
 
  | 
 
@@ -373,7 +377,9 @@ _Skate freely on paths of ice._
 </tr>
 <tr>
   <td><center><figure>File:Giphy 8.gif<figcaption></figcaption></figure></center></td>
-  <td><center>Iceberg<p>(★★★)</p></center></td>
+  <td><center>Iceberg<p>(★★★)</p>
+  <p><br>
+  </p></center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
   <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit(s) while this is active.
   <ul>

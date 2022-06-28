@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 32962
+revid: 32992
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry]
@@ -18,7 +18,7 @@ categories: [Weapons, Items, Weaponry]
 | swing speed | 0.6x |
 | endlag | 0.1 sec |
 | penetration | none / 10% |
-| selling price | 25 notes |
+| selling price | 7 notes |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
@@ -38,3 +38,4 @@ The steel maul is a heavy weapons hammer that deals a base damage of 22 with 7 s
 ## Trivia
 
 -   Generally regarded as a bad weapon when not alloyed
+-   Basically a starter great hammer.

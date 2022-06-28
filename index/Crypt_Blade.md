@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 32955
+revid: 33008
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -33,10 +33,9 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The **Crypt Blade** is a legendary weapon and is currently the best usable heavy weapon in the game. It can be obtained from both [The Depths](The_Depths.md) and [The Duke](Duke_Ishamon_Erisia.md) loot pools. It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values. It has a base damage of 23, and scales to 54.1 damage with max Shadowcast and max heavy weapon.
+The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from both [The Depths](The_Depths.md) and [The Duke](Duke_Ishamon_Erisia.md) loot pools. It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values. It has a base damage of 23, and scales to 54.1 damage with max Shadowcast and max heavy weapon.
 
 ## Trivia
 
--   The Crypt blade is a dark gray greatsword. It has Symbols on it, and an animated darkness effect that wraps around the sword.
+-   The original model for the Crypt Blade more heavily resembled a reskin of the [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons, Crypt Blade doesn't have any surviving Enchanted counterparts.
--   If you don't invest any fortitude to your stats, I highly suggest that you run if you see a Crypt Blade user, as they will violate you in 6 swings.

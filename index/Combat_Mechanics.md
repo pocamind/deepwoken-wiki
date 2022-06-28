@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 29432
+revid: 32990
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -12,7 +12,7 @@ This page contains basic information about **combat** and its mechanics/bars to 
 
 ## GUI
 
-File:Gui.png
+File:Newguiwithparrycooldowns.jpeg
 
 _There's a lot of aspects to the GUI, each one playing their own part. In order to get a chance at surviving, learning these are essential._
 
@@ -222,7 +222,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Perfect Casting</th>
-  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and talents utilise Perfect Casting to better strengthen their power, but all around, Perfect Casting will-
+  <td>Clicking M1 during a specific time of your Mantra cast will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and talents utilise Perfect Casting to better strengthen their power, but all around, Perfect Casting will:
   <ul>
     <li>Cast the spell faster.</li>
     <li>Increase damage.</li>
@@ -256,4 +256,4 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 -   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
 -   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen.
--   Press G while crouched to **listen**. Your screen will turn a grey color, and you'll be able to hear clearly for the duration you're crouched.
+-   Press G while crouched to **listen**. Your screen will turn a grey color, and you'll be able to hear clearly for the duration you're crouched. While that you cannot have active/activate Murmur Ardour and Tacer (not sure about this one)

@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 32975
+revid: 33009
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ An Etrean Guard is a enemy NPC that can only be found in the following events:
 -   Invasion of Etris ([Etris](Etris.md))
 -   Etrean Guards vs Hive soldiers ([Starswept Valley](The_Starswept_Valley.md))
 
-An Etrean Guard wears a purple uniform with their race being an [Etrean](Etrean.md) along with their gender varying.
+An Etrean Guard wears a purple uniform. They are [Etrean](Etrean.md) and their gender varies.
 
 ## Moveset
 

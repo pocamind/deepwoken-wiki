@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 30628
+revid: 33010
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -31,7 +31,7 @@ notices:
 
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical.
 -   **Grand Javelin** is inspired by the Lightning Spear spells (Lightning Spear, Great Lightning Spear and Sunlight Spear) in _Dark Souls_.
--   **Bolt piercer** might be a reference to Uryu's [_Ginrei Kojaku_](https://bleach.fandom.com/wiki/Spirit_Weapon) from Bleach.
+-   **Bolt piercer** might be a reference to Uryu's [_Ginrei Kojaku_](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
 
 ### **Frostdraw**
 
@@ -57,7 +57,6 @@ notices:
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   [**Deep Owl's**](Deep_Owl.md) look is similar to the [Owl](https://avatar.fandom.com/wiki/Wan_Shi_Tong) from _Avatar: The Last Airbender._ The Deep Owl doesn't posses any abilities nor anything related to it, besides look.
 
 ## Resonance
 
@@ -87,7 +86,7 @@ notices:
 
 ## Weapons
 
--   The **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime _Black Clover._
+-   The old model of the **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime/manga _Black Clover._
 -   The model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.

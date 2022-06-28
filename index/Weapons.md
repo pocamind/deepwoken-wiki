@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 32971
+revid: 32995
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -76,7 +76,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Stiletto.md">Stiletto</a></td>
@@ -87,7 +86,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
@@ -98,7 +96,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -109,7 +106,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.03x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -120,7 +116,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -131,18 +126,16 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
-  <td>40/<font>75</font> LHT</td>
+  <td>40 LHT</td>
   <td>15</td>
-  <td>N/A/<font>10%</font></td>
-  <td>LHT: 5/<font>8</font></td>
+  <td>N/A</td>
+  <td>LHT: 5</td>
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -153,7 +146,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.03x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -164,18 +156,16 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>7</td>
   <td>1.03x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
-  <td>50/<font>80</font> LHT</td>
-  <td>15.5/<font>16</font></td>
-  <td>N/A/<font>5%</font></td>
-  <td>LHT: 8/<font>8.5</font></td>
+  <td>50 LHT</td>
+  <td>15.5</td>
+  <td>N/A</td>
+  <td>LHT: 8</td>
   <td>3</td>
   <td>7</td>
-  <td>0.85x/<font>0.88x</font></td>
-  <td>Yes</td>
+  <td>0.85x</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -186,7 +176,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -197,7 +186,26 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
-  <td>No</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
+  <td><font>75</font> LHT</td>
+  <td>15</td>
+  <td><font>10%</font></td>
+  <td>LHT: <font>8</font></td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.05x</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
+  <td><font>80</font> LHT</td>
+  <td><font>16</font></td>
+  <td><font>5%</font></td>
+  <td>LHT: <font>8.5</font></td>
+  <td>3</td>
+  <td>7</td>
+  <td><font>0.88x</font></td>
 </tr>
 </tbody>
 </table>
@@ -217,7 +225,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-Able</b></td>
 </tr>
 <tr>
   <td><a href="Fists.md">Fist (Way of Navae/Legion Kata)</a></td>
@@ -228,7 +235,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
@@ -239,7 +245,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Legion_Cestus.md">Legion Cestus</a></td>
@@ -250,7 +255,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Fists.md">Jus Karita</a></td>
@@ -261,7 +265,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
@@ -272,7 +275,6 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -296,7 +298,6 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
@@ -307,7 +308,6 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>8</td>
   <td>1.3x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
@@ -318,7 +318,6 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
@@ -329,7 +328,6 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -349,7 +347,6 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
@@ -360,7 +357,6 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></td>
@@ -371,7 +367,6 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.81x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Crucible_Rapier.md">Crucible Rapier</a></td>
@@ -382,7 +377,6 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -402,187 +396,231 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-Able</b></td>
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
   <td>0 MED</td>
   <td>18</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 2</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>
-  <td>10/<font>75</font> MED</td>
-  <td>20/<font>21</font></td>
-  <td>N/A/<font>10% &amp; 10% Chip Damage</font></td>
-  <td>MED: 5/<font>6</font></td>
-  <td>6/<font>7</font></td>
+  <td>10 MED</td>
+  <td>20</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MED: 5</td>
+  <td>6</td>
   <td>7.5</td>
   <td>0.7</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Falchion.md">Falchion</a></td>
-  <td>20/<font>75</font> MED</td>
-  <td>16/<font>16.6</font></td>
-  <td>N/A/<font>20%</font></td>
-  <td>MED: 6/<font>7</font></td>
+  <td>20 MED</td>
+  <td>16</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Scimitar.md">Scimitar</a></td>
   <td>20 MED</td>
   <td>15</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 3</td>
   <td>6</td>
   <td>5</td>
   <td>0.85x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Katana.md">Katana</a></td>
   <td>25 MED</td>
   <td>18</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Worshipper_Longsword.md">Worshipper Longsword</a></td>
   <td>30 MED</td>
   <td>20</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Officer_Saber.md">Officer Saber</a></td>
   <td>30 MED</td>
   <td>22</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 4</td>
   <td>7</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Vigil_Longsword.md">Vigil Longsword</a></td>
-  <td>40/<font>75</font> MED</td>
+  <td>40 MED</td>
   <td>20</td>
-  <td>N/A/<font>15%</font></td>
-  <td>MED: 6/<font>7</font></td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Champion's_Sword.md">Champion's Sword</a></td>
   <td>40 MED</td>
   <td>19</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Cavalry_Saber.md">Cavalry Saber</a></td>
   <td>40 MED</td>
   <td>21</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Shotel.md">Shotel</a></td>
-  <td>45/<font>75</font> MED</td>
+  <td>45 MED</td>
   <td>22</td>
-  <td>N/A/<font>10%</font> &amp; 15% Chip Damage</td>
-  <td>MED: 5/<font>6</font></td>
+  <td>N/A</td>
+  <td>15%</td>
+  <td>MED: 5</td>
   <td>2</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></td>
   <td>50 MED</td>
   <td>17</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>4</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>0.8x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Razor_Cutlass.md">Razor Cutlass</a></td>
   <td>60 MED</td>
   <td>18</td>
   <td>20%</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
   <td>65 MED</td>
   <td>18</td>
   <td>13%</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>5</td>
-  <td>8</td>
+  <td>7.5</td>
   <td>0.78x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
   <td>75 MED</td>
   <td>22</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>MED: 6</td>
   <td>6</td>
   <td>8.5</td>
   <td>0.75x</td>
-  <td>No</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Messer#Alloyed"><font>Alloyed Messer</font></a></td>
+  <td><font>75 MED</font></td>
+  <td><font>21</font></td>
+  <td><font>10%</font></td>
+  <td><font>10%</font></td>
+  <td><font>MED: 6</font></td>
+  <td><font>7</font></td>
+  <td>7.5</td>
+  <td>0.7x</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Falchion#Alloyed"><font>Alloyed Falchion</font></a></td>
+  <td><font>75 MED</font></td>
+  <td>16</td>
+  <td><font>20%</font></td>
+  <td>N/A</td>
+  <td><font>MED: 7</font></td>
+  <td>4</td>
+  <td>7.5</td>
+  <td>0.8x</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Vigil_Longsword#Alloyed"><font>Alloyed Vigil Longsword</font></a></td>
+  <td><font>75 MED</font></td>
+  <td>20</td>
+  <td><font>15%</font></td>
+  <td>N/A</td>
+  <td><font>MED: 7</font></td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Shotel#Alloyed"><font>Alloyed Shotel</font></a></td>
+  <td><font>75 MED</font></td>
+  <td>22</td>
+  <td><font>10%</font></td>
+  <td>15%</td>
+  <td><font>MED: 6</font></td>
+  <td>2</td>
+  <td>8</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
   <td>100 MED</td>
   <td>20</td>
   <td>25%</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -598,99 +636,121 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Iron_Spear.md">Iron Spear</a></td>
   <td>0 MED</td>
   <td>17</td>
   <td>10%</td>
+  <td>N/A</td>
   <td>MED: 2.5</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Gremorian_Longspear.md">Gremorian Longspear</a></td>
-  <td>20/<font>75</font> MED</td>
-  <td>18/<font>20</font></td>
-  <td>N/A/<font>10%</font></td>
+  <td>20 MED</td>
+  <td>18</td>
+  <td>N/A</td>
+  <td>N/A</td>
   <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x/<font>0.69x</font></td>
-  <td>Yes</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td><a href="Ritual_Spear.md">Ritual Spear</a></td>
   <td>35 MED</td>
   <td>19</td>
   <td>25%</td>
+  <td>N/A</td>
   <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Acheron's_Warspear.md">Acheron's Warspear</a></td>
   <td>40 MED</td>
   <td>18</td>
   <td>15%</td>
+  <td>N/A</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Trident_Spear.md">Trident Spear</a></td>
-  <td>50/<font>85</font> MED</td>
+  <td>50 MED</td>
   <td>19</td>
   <td>25%</td>
-  <td>MED: 6/<font>7</font></td>
+  <td>N/A</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x/<font>0.69x</font></td>
-  <td>Yes</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td><a href="Serrated_Warspear.md">Serrated Warspear</a></td>
   <td>65 MED</td>
   <td>20</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
-  <td>No</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gremorian_Longspear#Alloyed"><font>Alloyed Gremorian Longspear</font></a></td>
+  <td><font>75 MED</font></td>
+  <td><font>20</font></td>
+  <td><font>10%</font></td>
+  <td>N/A</td>
+  <td>MED: 5</td>
+  <td>5</td>
+  <td>9</td>
+  <td><font>0.69x</font></td>
 </tr>
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
   <td>80 MED</td>
   <td>20</td>
   <td>25%</td>
+  <td>N/A</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
-  <td>No</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Trident_Spearl#Alloyed"><font>Alloyed Trident Spear</font></a></td>
+  <td><font>85 MED</font></td>
+  <td>19</td>
+  <td>25%</td>
+  <td>N/A</td>
+  <td><font>MED: 7</font></td>
+  <td>5</td>
+  <td>9</td>
+  <td><font>0.69x</font></td>
 </tr>
 <tr>
   <td>True Seraph's Spear</td>
   <td>90 MED</td>
   <td>18.5</td>
-  <td>20% PEN &amp; 40% Chip Damage</td>
+  <td>20%</td>
+  <td>40%</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -710,7 +770,6 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Mace.md">Mace</a></td>
@@ -721,7 +780,6 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>6</td>
   <td>7.5</td>
   <td>0.7x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
@@ -732,7 +790,6 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
-  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -752,121 +809,143 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Battleaxe.md">Battleaxe</a></td>
   <td>0 HVY</td>
   <td>20</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 5</td>
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
   <td>40 HVY</td>
   <td>24</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.62x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
   <td>35 HVY</td>
   <td>23.5</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.6x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
   <td>55 HVY</td>
   <td>26.5</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
-  <td>25/<font>75</font> HVY</td>
-  <td>22/<font>24</font></td>
-  <td>N/A/<font>15%</font></td>
-  <td>HVY: 7/<font>8</font></td>
+  <td>25 HVY</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a></td>
   <td>70 HVY</td>
   <td>25</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 9</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Night_Axe.md">Night Axe</a></td>
   <td>75 HVY</td>
   <td>22</td>
-  <td>70% Chip Damage</td>
+  <td>N/A</td>
+  <td>70%</td>
   <td>HVY: 7</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
   <td>75 HVY</td>
   <td>24.5</td>
-  <td>25% Chip Damage</td>
+  <td>N/A</td>
+  <td>25%</td>
   <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
   <td>75 HVY</td>
   <td>25</td>
-  <td>8% Chip Damage &amp; 10% PEN</td>
+  <td>10%</td>
+  <td>8%</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
   <td>75 HVY</td>
   <td>26</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 10</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
-  <td>No</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
+  <td><font>75 HVY</font></td>
+  <td><font>24</font></td>
+  <td><font>10%</font></td>
+  <td><font>10%</font></td>
+  <td><font>HVY: 9</font></td>
+  <td><font>8</font></td>
+  <td>8</td>
+  <td>0.6x</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Halberd#Alloyed"><font>Alloyed Halberd</font></a></td>
+  <td><font>75 HVY</font></td>
+  <td><font>24</font></td>
+  <td><font>15%</font></td>
+  <td>N/A</td>
+  <td><font>HVY: 8</font></td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.6x</td>
 </tr>
 </tbody>
 </table>
@@ -882,84 +961,120 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td>Zweihänder</td>
-  <td>20/<font>75</font> HVY, 10 STR</td>
-  <td>22/<font>23</font></td>
-  <td>N/A/<font>10%</font></td>
-  <td>HVY: 7/<font>10</font></td>
+  <td>20 HVY, 10 STR</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
-  <td>0.6x/<font>0.62x</font></td>
-  <td>0.25s/<font>0.1s</font></td>
-  <td>Yes</td>
+  <td>0.6x</td>
+  <td>0.25s</td>
 </tr>
 <tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a></td>
-  <td>40/<font>75</font> HVY, 10 STR</td>
+  <td>40 HVY, 10 STR</td>
   <td>22.4</td>
-  <td>N/A/<font>10%Chip Damage</font></td>
-  <td>HVY: 8/<font>9</font></td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
-  <td>40/<font>75</font> HVY, 10 STR</td>
+  <td>40 HVY, 10 STR</td>
   <td>26</td>
-  <td>N/A/<font>10% Chip Damage</font></td>
-  <td>HVY: 7/<font>7.5</font></td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
   <td>40 HVY</td>
   <td>23.5</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 8.3</td>
   <td>9</td>
   <td>9</td>
   <td>0.63x</td>
   <td>0.1s</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="First_Light.md">First Light</a></td>
   <td>75 HVY</td>
   <td>23</td>
   <td>30%</td>
+  <td>N/A</td>
   <td>HVY: 7</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.6x</td>
-  <td></td>
-  <td>No</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Zweihänder#Alloyed"><font>Alloyed Zweihänder</font></a></td>
+  <td><font>75 HVY</font>, 10 STR</td>
+  <td><font>23</font></td>
+  <td><font>10%</font></td>
+  <td>N/A</td>
+  <td><font>HVY: 10</font></td>
+  <td>7</td>
+  <td>9</td>
+  <td><font>0.62x</font></td>
+  <td><font>0.1s</font></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Crescent_Cleaver#Alloyed"><font>Alloyed Crescent Cleaver</font></a></td>
+  <td><font>75 HVY</font>, 10 STR</td>
+  <td>22.4</td>
+  <td>N/A</td>
+  <td><font>10%</font></td>
+  <td><font>HVY: 9</font></td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Darksteel_Greatsword#Alloyed"><font>Darkalloy Greatsword</font></a></td>
+  <td><font>75 HVY</font>, 10 STR</td>
+  <td>26</td>
+  <td>N/A</td>
+  <td><font>10%</font></td>
+  <td><font>HVY: 7.5</font></td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
   <td>80 HVY, 25 STR</td>
   <td>25</td>
-  <td>15% Chip Damage</td>
+  <td>N/A</td>
+  <td>15%</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
-  <td></td>
-  <td>No</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>
@@ -980,19 +1095,17 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
-  <td>20/<font>75</font> HVY, 10 STR</td>
-  <td>22/<font>24</font></td>
-  <td>N/A/<font>10%</font></td>
-  <td>HVY: 7/<font>8</font></td>
+  <td>20 HVY, 10 STR</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Forge_Greathammer.md">Forge Greathammer</a></td>
@@ -1003,8 +1116,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
-  <td></td>
-  <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Great_Maul.md">Great Maul</a></td>
@@ -1016,7 +1128,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Pale_Morning.md">Pale Morning</a></td>
@@ -1028,7 +1139,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
-  <td>No</td>
 </tr>
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>
@@ -1039,8 +1149,18 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>8</td>
   <td>0.6x</td>
-  <td></td>
-  <td>No</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Steel_Maul#Alloyed"><font>Alloyed Steel Maul</font></a></td>
+  <td><font>75 HVY</font>, 10 STR</td>
+  <td><font>24</font></td>
+  <td><font>10%</font></td>
+  <td><font>HVY: 8</font></td>
+  <td>7</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1</td>
 </tr>
 </tbody>
 </table>
