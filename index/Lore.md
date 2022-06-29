@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 32781
+revid: 33014
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -1001,7 +1001,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded."
     -   In the game, you can only obtain your Resonance Bell in The Depths, as well as Sibex noting they are particularly good for drawing them out. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
--   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
+-   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
 
   

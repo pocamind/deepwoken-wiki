@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 33010
+revid: 33015
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -114,3 +114,4 @@ notices:
 ### **Races**
 
 -   **Vesperians** may resemble the many mask-wearing insects in the game Hollow Knight.
+-   **Khans** reference The Monkey King a lot, having near identical hair on sideburns and cheeks, having a headband that seems inspired by many interpretations of Sun Wukong. It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back thought instead of the text saying "Switch to race" it says "Return to Khan"
