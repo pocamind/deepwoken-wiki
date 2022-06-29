@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 32818
+revid: 33037
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -20,7 +20,7 @@ Resonances are universally represented as an item attached on your waist. This i
 
 ## Variants
 
-Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
+Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page. Resonances use a "pointbuy" system which determines basic things such as variants and effectiveness. Such as a high-healing reaper bell is less likely to have massive AOE unless the pointbuy system is in your favor.
 
 ### Normal Resonance
 

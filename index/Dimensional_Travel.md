@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 32681
+revid: 33041
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,10 +47,6 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   **Use in combat:** If this stat is used, this resonance can be used while in combat.
 -   **Travel Speed:** The more points are spent on this stat, the faster players travels while inside the dimension.
     -   Faster travel means that the Dimension/Etrean Luminant distance ratio is amplified.
-
-#### Corrupted
-
-If **Dimensional Travel** is found to be Corrupted, the **Distortion Realm** to Etrean Luminant distance ratio is amplified, meaning you can much travel further within a less amount of time.
 
 ## Trivia
 

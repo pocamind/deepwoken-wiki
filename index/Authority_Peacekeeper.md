@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 32238
+revid: 33029
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,17 +17,17 @@ Their appearance consists of a Authority Peacekeeper Uniform and an Authority He
 
 ## Moveset
 
-Their arsenal is composed of a [Rifle Spear](Weapons.md) and the [Flamecharm](Flamecharm.md) Attunement:
+Their arsenal is composed of a [Rifle Spear](Weapons.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 ### Moves:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Pulls the trigger on the spear that fires a bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
+| Critical | Pulls the trigger on the spear that fires a bullet at opponent. | ◯ | ✗ | (★★☆) |
+| Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 
 ## Trivia
 
--   As well as being almost identical in appearance, both the Prison Guard and Authority Flamecharmer use [Flamecharm](Flamecharm.md) mantras.
+-   They used to be called "Authority Peacekeepers".
 -   They will hit you if you try to nudge them.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32914
+revid: 33038
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -38,7 +38,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
--   **Curses** - They have a very strong effect but a Big/Small downside depending on the curse.
+-   **Curses** - They have a very strong effect but a Big/Small downside depending on the curse. i like men
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 32980
+revid: 33039
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -179,7 +179,7 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3 chains of ice that lock-on and stun for a brief period of time dealing light damage.
+ | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time dealing light damage.
 
 -   The number of chains can be increased with Cloudstones presumably increasing the damage, but it's a pretty bad mantra in general considering it's lackluster hitbox.
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 32978
+revid: 33031
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -645,6 +645,7 @@ File:Lightning Stream with Blast Spark.gif
  | 
 
 -   This modifier causes the "Lightning Stream" mantra to shock it's opponent instead of pulling them.
+    -   Similar to that of the [Songseeker Thundercaller's](Songseeker_Thundercaller.md) Lightning Stream.
 
  |
 | 
@@ -732,6 +733,7 @@ File:Jolt Grab with Magnet Spark.gif
  | 
 
 -   This modifier changes "Jolt Grab" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
+    -   Similar to that of the \[\[Authority Footsoldier\]Authority Footsoldier's\]\] Jolt Grab.
 
  |
 | 
@@ -746,7 +748,7 @@ File:Lightning Blade with Magnet Spark.gif
 
  | 
 
--   This makes you do a third teleport slash on the end of the 2 slashes. Do note that You can stack this with Stormcaller slash, which makes your lightning blade hit 4 times.
+-   This makes you do a third teleport slash on the end of the 2 slashes. Do note that you can stack this with the "[Stormcaller Slash](Thundercall.md)" Talent, which causes your lightning blade hit a total of 4 times.
 
  |
 | 
@@ -819,7 +821,8 @@ File:Wind Gun with Multiplying Spark.gif
 
  | 
 
--   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range wind bullets instead of 1 long-range bullet.
+-   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range bullets instead of 1 long-range bullet.
+    -   Do note that this Spark will override the effects of a Blast Spark.
 
  |
 | 
@@ -1113,7 +1116,7 @@ File:Dash with Spring Spark.gif
 
  | 
 
--   This modifier shortens the "Dash" mantra's travel distance but increases the uses from 1 to 2.
+-   This modifier shortens the "Dash" mantra's travel distance but increases it's uses from 1 to 2.
 
  |
 
