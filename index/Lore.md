@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 33014
+revid: 33020
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -338,7 +338,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
--   Though they appear to be the inventors of the fist style 'The Way of Navae,' they are never shown using it, instead using Gremorian Longspears.
+-   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 
 ### The Hundred Legions
 
@@ -1114,6 +1114,8 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Humanoid squid monsters found digging in [The City of Celtor.](The_City_of_the_Drowned.md)
 -   Though one is only seen at a time, there are multiple of them.
     -   They may be very territorial, thus not letting others in to their digging spot.
+-   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).
+-   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.
 
 ## Player Lore
 
