@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33042
+revid: 33063
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -81,7 +81,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales on Flamecharm.<br>
   If the user have the Eruption Path: Lava Serpent talent, create an explosion instead.<br>
   </p></div></td>
-  <td><div>Weapon is covered in orange flames. The flames are blue if the user has Azure Flame.</div></td>
+  <td><div>Weapon is covered in orange flames.</div></td>
 </tr>
 <tr>
   <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div>Elastic</div></td>

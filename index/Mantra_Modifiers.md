@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 33031
+revid: 33065
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -733,7 +733,7 @@ File:Jolt Grab with Magnet Spark.gif
  | 
 
 -   This modifier changes "Jolt Grab" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
-    -   Similar to that of the \[\[Authority Footsoldier\]Authority Footsoldier's\]\] Jolt Grab.
+    -   Similar to that of the [Authority Footsoldier's](Authority_Officer.md) Jolt Grab.
 
  |
 | 

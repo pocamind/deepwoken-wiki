@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 32944
+revid: 33070
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -13,7 +13,7 @@ categories: [D]
 To obtain a Regalia, the player must:
 
 1.  Perform certain task related to the Regalia the player wants to unlock
-2.  Wipe
+2.  Wipe (_this is not true i have proof of an animal king slot with 0 wipes)_
 
 The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
 

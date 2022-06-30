@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 32515
+revid: 33061
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,6 +30,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 ### Boons
 
 -   Third Eye - User cannot be assassinated under any circumstances.
+-   Experienced Fighter - They can parry. Do not underestimate.
 
 ## Finisher
 
