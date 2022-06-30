@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 33041
+revid: 33060
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -54,7 +54,6 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking others.
 -   Gravity inside the **Distortion Realm** used to be reduced.
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)
--   As of 2022-03-21, The Interstice has been changed to no longer have bumps or big gaps, leaving only a flat land of symetrical blocks to travel The Interstice. (Probably due to the many complains of people teleporting inside The Interstice only to fall in the void and get teleported out because they did not spawn on a platform).
 -   Similar to _Minecraft_'s Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   Recently, buildings have been found in the Distortion Realm.
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance

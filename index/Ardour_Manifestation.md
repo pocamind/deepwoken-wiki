@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 33044
+revid: 33058
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,3 +18,4 @@ Ardour Manifestation is an item dropped from other bosses besides The Dread Serp
 ## Trivia
 
 -   It has no model.
+-   It will not drop if you already have Ardour or Ardour Scream.

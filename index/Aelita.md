@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 33043
+revid: 33056
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,7 +60,6 @@ Aelita sitting in the fetal position on a rock
 -   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   She is speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to teleport over large distances in an instant and appear out of nowhere.
 -   Aelita has purple eyes, her clones will never have purple eyes.
--   She is the only non-Enemy NPC with an Oath and the second NPC to have one, the first being the Knives of Eylis Captains.
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Hereos](The_Valley_of_Heroes.md), even sticking to the walls, it is almost impossible to avoid Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Before attempting this event be aware of other enemies, such as [Songseekers](Songseeker_Frostdrawer.md) and [Necromancers](Ministry_Necromancer.md), as they can spawn in peculiar places and interrupt you while doing the event, though you get i-frames during Aelita's dialogue as of now.
