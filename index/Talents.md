@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33040
+revid: 33051
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1080,7 +1080,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   effect: Make your servant run very fast, they cant stop running until the duration of effect ends.
 
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
-    -   Prerequisites: 15 Charisma, Vow of Mastery
+    -   Prerequisites: Vow of Mastery
     -   Effect: buff speed slightly and major power boost.
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery

@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 32292
+revid: 33045
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,3 +27,4 @@ A small fruit found in many places all across the Etrean Luminant. They grow on 
 
 -   The image under a player's hunger bar looks identical to a Redd.
 -   Redds are most likely based on oranges, due to the name and similarities.
+-   Redds also heal the player for a minuscule amount of health, similar to it’s potion effect.

@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 33036
+revid: 33044
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -15,6 +15,6 @@ categories: [Items]
   
 Ardour Manifestation is an item dropped from other bosses besides The Dread Serpent. You can use this in the [Voidsea](Voidsea.md) to summon [Ardour](Dread_Serpent.md).
 
-## Notes
+## Trivia
 
 -   It has no model.

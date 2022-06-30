@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 32049
+revid: 33050
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -22,8 +22,6 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 60:
 -   10 from mantra/attunementless
 -   4 from race
 -   13 from character creation
-
-Character Sheet of Helena Dusselden
 
 All Attributes can be improved up to 75 points but may be uncapped to 100 once you [do a specific task](Attributes_Unbound.md) to unlock an Attribute's full potential.
 
