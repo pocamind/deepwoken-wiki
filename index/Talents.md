@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33051
+revid: 33071
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1160,7 +1160,7 @@ These Talents are designed to make you more effective in water.
 
 ### Wraith
 
--   Concentrated Reload \[Rare Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
+-   Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
     -   Prerequisites: Ether Bullets
 
 ### **Miscellaneous**

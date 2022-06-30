@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 33026
+revid: 33081
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -143,7 +143,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
   <td><i>Rush at your enemies with your full physical force.</i></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>10 Fortitude + Any shield</b></i>, <i>??? Mantra (please add)</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>10 Fortitude + Any shield</b></i>, <i>mobility Mantra</i></li>
     <li>Dash forwards with your shield infront, colliding with a surface or NPC will bash them and deal light damage.</li>
     <li><i><u>Parry-able.</u></i> Getting parried ends the mantra early.</li>
     <li>Solid mantra that can be used to chase your opponents.</li>

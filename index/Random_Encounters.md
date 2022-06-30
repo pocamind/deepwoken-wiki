@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 32364
+revid: 33080
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -20,9 +20,15 @@ Random encounters are randomly spawning events that occur throughout target area
 
 ### _AI-Driven Encounters_
 
-**The End**
+**Authority's raid on Etris**
 
-A very rare event, newly added in the 5/22/2022 update. The Central Authority's military launches a full out raid on the capital of Etrea, burning the port and town as the navy signals the guards. The mobs found in the event range from regular scouts found in Erisia to the Wardens themselves. Most of Etris will be set on fire during this raid, signalling the start. Wave after wave of Authority soldiers crash down into Etrea, eventually defeating the Etrean Guards if left alone. Polis, the guy who gives you the ring when talked to, gets up and fights with his Darksteel Greatsword, fighting to defend the town he lived in for so long. The Etreans are reinforced by their navy and the Lord Regent's Royal Guard but their lack of mantras results in them being overwhelmed. If the Authority raid were to be defeated, three chests will spawn next to the big white tree where Polis resides. Polis can also be killed during the raid but it does not affect the world in any meaningful way, he'll still be by the tree. The loot is very high tier with deep gems and legendary rings. The extremely rare armor schematic _Lightkeeper can be found in these chests._
+The Authority's raid on Etris is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins.
+
+The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the later being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
+
+Once the event is fully completed by killing all Authority NPCs, 3 large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of Lightkeeper armor schematics.
+
+During this event, most regular NPCs from the town will not be available.
 
 #### **Bandit Camp**
 

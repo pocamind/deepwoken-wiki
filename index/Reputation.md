@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 32577
+revid: 33077
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -166,7 +166,7 @@ Some quests in the game allow you to get reputation with certain factions, some 
 -   The Divers
 -   The Central Authority
 -   The Summer Company
--   The 11th Legion/The Empire
+-   The Hundred Legions
 -   The Children of Navae
 -   The Ministry File:Eylisiconfactoin.png
 -   Knives of Eylis
@@ -178,6 +178,8 @@ Some quests in the game allow you to get reputation with certain factions, some 
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen
+-   The Drowned Gods
+-   The Deep
 
 ## Trivia
 
