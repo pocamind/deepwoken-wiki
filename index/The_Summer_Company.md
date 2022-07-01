@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 33109
+revid: 33119
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -43,7 +43,7 @@ In addition, completing the Explosives Crate quest will allow you to increase yo
 
 Neutral-Good Reputation:
 
--   "Did you make any new discoveries?"
+-   Hello friend, make any new discoveries?"
 
 Neutral Reputation:
 

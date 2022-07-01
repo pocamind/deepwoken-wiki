@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 32228
+revid: 33131
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Chur
 -   Wave 2 - Four [Bandit Leaders](Bandit_Leader.md)
 -   Wave 3 - A [Rock Golem](Rock_Golem.md)
 
-A Forgotten Villager wears a Stranded outfit with their [race](Aspects.md) and gender varying.
+A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [race](Aspects.md) and gender varying.
 
 ## Moveset
 

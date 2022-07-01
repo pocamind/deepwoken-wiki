@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 33029
+revid: 33130
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,13 +19,23 @@ Their appearance consists of a Authority Peacekeeper Uniform and an Authority He
 
 Their arsenal is composed of a [Rifle Spear](Weapons.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
-### Moves:
-
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Pulls the trigger on the spear that fires a bullet at opponent. | ◯ | ✗ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
+
+### Boons
+
+-   Experienced Fighter - Can block and parry common attacks and mantras.
+
+## Finisher
+
+An Authority Guard executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down the opponent before impaling them through the chest with spear |
 
 ## Trivia
 

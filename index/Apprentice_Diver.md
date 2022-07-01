@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 33028
+revid: 33128
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -57,6 +57,10 @@ Gale Lunge
 
  | ◯ | ◯ | (★★☆) |
 
+### Boons
+
+-   Mantra Modification - An Apprentice Diver's Jolt Grab is modified with a [Magnet Spark](Mantra_Modifiers.md).
+
 ## Finisher
 
 An Apprentice Diver executes it's opponent after knocking them:
@@ -67,3 +71,7 @@ An Apprentice Diver executes it's opponent after knocking them:
 \[[Iron Birch](Iron_Birch.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
 
  |
+
+## Trivia
+
+-   It's very common to accidentally kill them during the Apprentice Divers vs Monster event.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33063
+revid: 33126
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -24,7 +24,6 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted weapon or armor will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
--   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 -   Enchanted items appear as light purple in your inventory
 -   Face, Ears and Back equipment cannot be enchanted
     -   Enchanted Face, Ears and Back equipment created before 18/02/2022 are still enchanted and still applies their effect.
@@ -382,3 +381,7 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 -   It is speculated that it passively repaired your armor durability over time, though.
 
  |
+
+## Trivia
+
+-   Enchanted equipment used to not be able to be merged together by Jarvis. When you try it he will respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'

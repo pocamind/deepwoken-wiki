@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 32554
+revid: 33129
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and gives a Gold Ring to those who interact with him. Polis' motive for fighting The Central Authority is to defend his home, [Etris](Etris.md).
+Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and gives a Gold Ring to those who interact with him. Polis' motive for fighting back against The Central Authority is to defend his home, [Etris](Etris.md).
 
 ## Moveset
 

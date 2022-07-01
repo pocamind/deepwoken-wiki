@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 33086
+revid: 33125
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -187,5 +187,5 @@ Some quests in the game allow you to get reputation with certain factions, some 
 -   There are some factions who for, various reasons, players can only get one kind of rep with.
     -   You cannot get good rep with Celtor, but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
--   Spitting on a guard sets your reputation with that faction to Negative.
+-   Spitting on a guard causes them to become aggressive.
 -   The Ministry is the only Faction that all players start out with Negative Reputation on spawn.
