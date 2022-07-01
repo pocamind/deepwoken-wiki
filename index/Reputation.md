@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 33077
+revid: 33086
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -178,8 +178,6 @@ Some quests in the game allow you to get reputation with certain factions, some 
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen
--   The Drowned Gods
--   The Deep
 
 ## Trivia
 

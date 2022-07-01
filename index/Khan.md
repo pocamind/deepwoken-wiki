@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 33082
+revid: 33088
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -46,7 +46,7 @@ _Chance of obtaining race: **8%**_
 **Lore:**
 
   
-They hail from the Western Luminant, they are the legion, they have told us that they want to exterminate the authority,  
+They hail from the Western Luminant and are the most prominent race in The Hundred Legions.  
 
 **Strengths:**
 
@@ -75,11 +75,10 @@ Allows the use of equipment 3 points earlier than other races.
 ## Notes/Trivia
 
 -   JUST BECAUSE YOU LOOK LIKE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE! -Reaconteur
--   The race is based off Sun Wukong and monkeys.
--   Khan means "ruler" in Mongolian, Chinese and Hindi.
--   In the novel "Journey to the West", The crown of Sun Wukong is actually a curse.
+-   The race is based on Sun Wukong and monkeys.
+-   Khan means "King" in Mongolian and Hindi.
+-   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Ghengis Khan.
--   Could be inspired by the Monkey King
 -   The Racial trait "versatile" only works on stat points. Not levels.
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan as a reference to the "Reject humanity, return to monke" meme
