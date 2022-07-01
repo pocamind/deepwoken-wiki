@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 32936
+revid: 33109
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -53,7 +53,7 @@ Neutral Reputation:
 Neutral-Bad Reputation:
 
 -   "Keep your hands to yourself, thief."
--   "We've got our eye son you."
+-   "We've got our eyes on you."
 
 ## NPCs
 
