@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 32631
+revid: 33105
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Items, Weaponry, Swords]
@@ -28,7 +28,9 @@ notices:
 | obtainment | Chests from Songseeker Wilds, Minityrsa, Depths |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
-_**A Longsword, with the name of a whole place, with people who only use katanas. "how funny"**_
+“ A Longsword, with the name of a whole place, with people who only use katanas. "How funny." ”
+
+― Unknown
 
 ## Description
 
@@ -49,3 +51,4 @@ With the new Alloy update, Vigil Longswords are on the same level if not better 
 -   Scaling: 7
 
 -   Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
+-   When alloyed, its basically a shattered katana with unnerfed swing speed, for full effect try to obtain one with 2-3 stars of penetration.
