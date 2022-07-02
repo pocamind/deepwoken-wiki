@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 31579
+revid: 33151
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -61,6 +61,7 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   [Derelict Highchurch](Derelict_Highchurch.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
     
 
 **The Aratel Sea:**
@@ -146,3 +147,4 @@ A list of named locations that can be found in the Arena or Mission experience.
 ## Trivia/Notes
 
 -   Do note that most of these locations are only in the [Etrean Luminant](Luminants.md).
+-   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place, it is likely located in Minityrsa.
