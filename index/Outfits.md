@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32943
+revid: 33132
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -339,7 +339,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Orange & Purple (Work in progress) |
+ | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
 +X% Damage VS Beast _Requires Power 30_

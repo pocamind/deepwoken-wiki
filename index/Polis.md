@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 33129
+revid: 33142
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and gives a Gold Ring to those who interact with him. Polis' motive for fighting back against The Central Authority is to defend his home, [Etris](Etris.md).
+Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and worshiper of the god, Alsin. He gives a Gold Ring to those who interact with him. When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
 
 ## Moveset
 
@@ -34,3 +34,4 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), the
 
 -   Killing him will give the player negative [reputation](Reputation.md) with Etrea.
 -   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.
+-   The Gold Ring's price used to be 25 notes. Now it sells for 14 notes.
