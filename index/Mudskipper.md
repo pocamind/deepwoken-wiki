@@ -1,12 +1,16 @@
 ---
 title: Mudskipper
-revid: 32018
+revid: 33143
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Mudskipper
+
+“ IT'S EZ JUST PARRY BLOCK DODGE! ”
+
+― Anonymous
 
 Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
 
