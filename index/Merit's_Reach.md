@@ -1,9 +1,9 @@
 ---
 title: "Merit's Reach"
-revid: 22024
+revid: 33163
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Pages with broken file links]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -19,4 +19,6 @@ LocationL Merit's Reach LocationR
 
 ## Overview
 
-Placeholder
+There is an npc called Rashet who resets reputation with the Authority for 300 notes
+
+File:RobloxScreenShot20220702 180357640.png

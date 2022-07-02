@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 33142
+revid: 33153
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

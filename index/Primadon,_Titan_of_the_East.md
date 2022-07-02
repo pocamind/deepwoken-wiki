@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 32497
+revid: 33157
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -49,7 +49,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 -   **Elemental Resistance** - Primadon have 95~% mantra defence and elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
     -   True Ether Bullet will make guns deal pitiful damage.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing).
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing). This is false. I died with a clean HP bar and didn’t get sent to the Depths.
 
 ## Rewards
 

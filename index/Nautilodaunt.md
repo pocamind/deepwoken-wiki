@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 32461
+revid: 33164
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -13,7 +13,7 @@ categories: [Boss]
 ― Nautilodaunt before showing a Canor what it's like to evolve diagonally
 
   
-_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
+_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_
 
 ## Description
 
