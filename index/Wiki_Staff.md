@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 30382
+revid: 33183
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ Staff
 <table>
 <tbody>
 <tr>
-  <td>Admins</td>
+  <td>Administrators</td>
 </tr>
 </tbody>
 </table>
