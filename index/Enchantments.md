@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33194
+revid: 33234
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -66,13 +66,12 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When the user is above 90% HP&nbsp;:<br>
-  Your m1's will deal 25% extra dmg. This doesn't apply to mantras nor heavy swings.</p></div></td>
+  <td><div><p>Weapon gain 1.25x damage if the user is above 90% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>After hitting a target a certain amount of time (Guns: 5, LHT: 7, MED: 4, HVY: 3), make them explode, dealing bonus damage + AOE damage around them. The explosion can execute.</p></div></td>
+  <td><div><p>After hitting a target [Guns: 5, LHT: 7, MED: 4, HVY: 3] times, they explode, dealing&nbsp;?? damage to them and others around beside the user. The explosion can execute.</p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
@@ -110,28 +109,31 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>After a certain amount of hits (LHT: 6, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p></div></td>
+  <td><div><p>After hitting the target [LHT: 6, MED: 5, HVY: 4] time, target is afflicted with Grim for 4 seconds.<br>
+  <b>Grim</b>: All incoming damage are increased by 1.2x</p></div></td>
   <td><div>Weapon turn completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Does not hit allies.</p></div></td>
+  <td><div><p>On hit, deal 10% of the weapon damage in an AOE. Does not hit allies.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>On hit, steal 11% of the target's armor durability and add it to your own.<br>
+  <td><div><p>On hit, steal some of the target's armor durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
   <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Your weapon has a 10% damage increase, as well as having damage dealt applied over time instead of instantly. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
+  <td><div><p>Weapon deal 1.1x damage.<br>
+  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>Parrying an attack deal damage to the attacker. Deal 0.043% x ()userpower in PVP.<br>
+  <td><div><p>Parrying an attack deal damage to the attacker.<br>
+  Deal 0.043% x ()userpower in PVP.<br>
   Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
@@ -139,7 +141,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
-  Deal bonus damage on a posture break. Bonus damage scales inversely with weapon damage, from 2x to 1.25x</p></div></td>
+  Deal bonus damage on a posture break. Scales inversely with weapon damage, from 2x to 1.25x</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
@@ -241,127 +243,69 @@ Will have an effect upon hitting something. Can range from status effects to mor
 
 Will have an effect upon getting hit (beside Drowned). Can range from mere damage reduction, punishment to the attacker or other things that aid the user.
 
-| **Name** | **Description** |
-| --- | --- |
-| 
-File:Screenshot 1.png
-
-Entanglement
-
- | 
-
-On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
-
-  
-
- |
-| 
-
-File:AllureEnchant.png
-
-Allure
-
- | 
-
-On proc, apply Charm on the enemy. All charm related talent that the user have are applied.
-
- |
-| 
-
-File:MultiplicityEnchant.png
-
-Multiplicity
-
- | 
-
-On proc, recover hunger, thirst and blood.  
-Does not proc against NPCs.
-
-  
-
- |
-| 
-
-File:Stench.png
-
-Stench
-
- | 
-
-On proc, release a cloud of gas that deal damage to nearby enemies.
-
-  
-
- |
-| 
-
-thumb
-
-thumb
-
-Adhesive
-
- | 
-
-On proc, pull the attacker toward you.
-
-  
-
- |
-| 
-
-File:Bounce.png
-
-Bounce
-
- | 
-
-On proc, push the attacker away, making it harder to chain attacks.
-
-  
-
- |
-| 
-
-File:Viscositydoesnthaveavisualeffect.png
-
-Viscosity
-
- | 
-
-Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times. The user **cannot be knocked or executed unless they are hit while at 1% HP**. (This enchant does not have a visual effect.  
-Disabled if using Curse of the No Life King.
-
-  
-
- |
-| 
-
-File:Drowned.png
-
-Drowned
-
- | 
-
-Drowned equipments grant, on top of their base stat:  
-10 Health  
-10 Ether  
-20 Reservoir  
-10 Sanity  
-Due to a bug, the stats will not be showned when looking at the equipment throught a campfire, they do apply normally however.
-
- |
-| 
-
-File:Displacement.png
-
-Displacement
-
- | 
-
-On proc, grant a speed boost and hyperarmor.
-
- |
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+  <td><b>Visual Effect</b></td>
+</tr>
+<tr>
+  <td><figure>File:Screenshot 1.png<figcaption></figcaption></figure><div>Entanglement</div></td>
+  <td><div><p>On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.</p></div></td>
+  <td><div>Armor piece is covered in green and yellow particle effects.</div></td>
+</tr>
+<tr>
+  <td><figure>File:AllureEnchant.png<figcaption></figcaption></figure><div>Allure</div></td>
+  <td><div><p>On proc, apply Charm on the enemy. All charm related talent that the user have are applied.</p></div></td>
+  <td><div>Armor piece release some hearts.</div></td>
+</tr>
+<tr>
+  <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><div>Multiplicity</div></td>
+  <td><div><p>On proc, recover hunger, thirst and blood.<br>
+  Does not proc against NPCs.</p></div></td>
+  <td><div>Armor piece is covered in white electricity.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Stench.png<figcaption></figcaption></figure><div>Stench</div></td>
+  <td><div><p>On proc, release a cloud of gas that deal damage to nearby enemies.</p></div></td>
+  <td><div>Armor piece is covered in a green mist.</div></td>
+</tr>
+<tr>
+  <td><figure>thumb<figcaption>thumb</figcaption></figure><div>Adhesive</div></td>
+  <td><div><p>On proc, pull the attacker toward you.</p></div></td>
+  <td><div>Armor piece is covered in a pink/purple mist.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Bounce.png<figcaption></figcaption></figure><div>Bounce</div></td>
+  <td><div><p>On proc, push the attacker away, making it harder to chain attacks.</p></div></td>
+  <td><div>Armor piece is covered in a slight, black particle effects<p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><div>Viscosity</div></td>
+  <td><div><p>Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
+  The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
+  Disabled if using Curse of the No Life King.</p></div></td>
+  <td><div>None</div></td>
+</tr>
+<tr>
+  <td><figure>File:Drowned.png<figcaption></figcaption></figure><div>Drowned</div></td>
+  <td><div><p>Drowned equipments grant, on top of their base stat:<br>
+  10 Health<br>
+  10 Ether<br>
+  20 Reservoir<br>
+  10 Sanity<br>
+  These stats do not consume stat rolls for armor pieces.</p></div></td>
+  <td><div>Armor piece is covered in a slight, black particle effects</div></td>
+</tr>
+<tr>
+  <td><figure>File:Displacement.png<figcaption></figcaption></figure><div>Displacement</div></td>
+  <td><div><p>On proc, grant a speed boost and hyperarmor.</p></div></td>
+  <td><div>Armor piece is covered in a white particle effect.</div></td>
+</tr>
+</tbody>
+</table>
 
 **Removed:**
 

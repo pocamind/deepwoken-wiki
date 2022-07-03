@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 32358
+revid: 33203
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
 -   Authority Footsoldiers vs Etrean Footsoldiers
--   Authority Footsoldiers vs Legion Soldiers
+-   Authority Footsoldiers vs [Legion Soldiers](Legion_Soldier.md)
 -   Authority Footsoldiers with [Authority Flamcharmers](Authority_Soldier.md) patrolling [Upper Erisia](Upper_Erisia.md)
     -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
@@ -36,12 +36,8 @@ Assault
 
 Critical
 
- | Performs a wind-up before thrusting sword forward. (**Officer Saber)**
-
-  
-Raises club before swinging down; block breaking the enemy. **(Mace)**
-
- | ◯ | ◯ | (★☆☆) |
+ | \[[Officer Saber](Officer_Saber.md)\] Performs a wind-up before thrusting sword forward.  
+\[[Mace](Mace.md)\] Raises club upward before slamming it down to the ground. | ◯ | ✗ | (★☆☆) |
 | 
 
 Jolt Grab
@@ -64,4 +60,7 @@ An Authority Footsoldier executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent before slicing their throat with blade. |
+| Execute | \[[Officer Saber](Officer_Saber.md)\] Pins down opponent before slicing their throat with blade.
+\[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace.
+
+ |

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 33195
+revid: 33204
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -26,11 +26,11 @@ Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour)
 
 You can only get one murmur.
 
-## Training Murmurs
+## Murmurs Strengths
 
-A Murmur will be nearly unusable until it is fully trained, either having too short of a duration to be useful or draining your entire [Ether](Combat_Mechanics.md) bar in seconds.
+Murmurs are strong, but hard to master abilities. A weak user will have a harder time making a good use of them until they become strong enough.
 
-A Murmur's training level is dependent on your Power level. The higher the Power, the more effective it is.
+Murmurs scales with player level, reaching their maximum potential at power 60.
 
 ## Murmur: Ardour
 
@@ -38,7 +38,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage.
 
-The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but being the necessary Power level will reduce the cost down to zero.
+By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost is reduced to 0 at power 60.
 
 **Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -52,9 +52,11 @@ This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour).
 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour.
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour and 40 willpower.
 
-Unlike Ardour, Ardour Scream can not be made more effective with Power level.
+Affected targets will take increased damage and deal less posture damage.
+
+This ability does not scale on Power, therefore, it will always cost ether.
 
 ## Murmur: Tacet
 
@@ -66,9 +68,12 @@ Tacet potentially has a multiple modes, since when the user presses G while crou
 
 The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
 
-Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes ANY NPC such as golems, megalodaunts, bandits, etc. Once Tacet is trained enough, NPCs will no longer aggro on you, regardless of distance when Tacet is active, letting you physically touch and push hostile NPCs without them noticing you. Tacet's NPC range is only determined by it's "training level". Having poor stealth or the Obvious flaw will not impact Tacet.
+The detection of Tacet can be reduced the higher Power the player is.
 
-When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, the higher Power level you are, the more effective it is. The minimum detection range for players is ~40 studs.
+Tacet has two different detection radius, one for PVE and PVP:
+
+-   In PVE, the detection radius is effectively 0 at Power 60, the player can avoid any and all monsters or NPCs even when touching them. Can even be used mid combo to immediatly lose aggro.
+-   In PVE, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not.
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 

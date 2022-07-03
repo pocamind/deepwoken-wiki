@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33132
+revid: 33236
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -266,6 +266,7 @@ _Disappears on death or leaving the game._
 |  | Tracker's Brace | Grants a random buff. | Erisia Chests | N/A |
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests | N/A |
 | File:Autumn pauldrons.png | Autumn Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+| File:Azure Royal Guard.png | Azure Royal Guard | Grants a random buff. | Duke Chests | N/A |
 | File:Black Fur Pauldrons.png | Black Fur Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
