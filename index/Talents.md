@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33134
+revid: 33297
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -697,7 +697,9 @@ Most of these Talents are designed to benefit you when the situation is dire.
 ### Lone Warrior
 
 -   Mark of the Lone Warrior \[Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
-    -   2x EXP gain for Power and every [Attribute](Attributes.md).
+    -   Lower the EXP curve.
+    -   The reduction is weaker than Adept.
+    -   Stacks with Adept.
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
 
 ### Marauder
@@ -747,7 +749,11 @@ These are just raw stat increase and are beneficial to anyone.
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
 -   Adept \[ Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   1.5x EXP gain for Power and every [Attribute](Attributes.md).
+    -   Lower the EXP curve.
+    -   The reduction is stronger than Mark of the Lone Warrior
+    -   Stacks with Mark of the Lone Warrior
+    -   Prerequisite: Must be below Power 55.
+        
 
 ### **Mr Charm**
 

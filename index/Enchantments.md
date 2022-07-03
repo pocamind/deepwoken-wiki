@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33234
+revid: 33316
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -92,7 +92,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Obfusnew.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds. Attack speed buff is inversely proportional to the base attack speed: slower weapons gains a greater increase in attack speed than fast weapons.</div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
@@ -109,7 +109,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>After hitting the target [LHT: 6, MED: 5, HVY: 4] time, target is afflicted with Grim for 4 seconds.<br>
+  <td><div><p>After hitting the target [LHT: 7, MED: 5, HVY: 4] time, target is afflicted with Grim for 4 seconds.<br>
   <b>Grim</b>: All incoming damage are increased by 1.2x</p></div></td>
   <td><div>Weapon turn completely black and is covered in a black and red mist.</div></td>
 </tr>
@@ -178,7 +178,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and have increased blood damage.</p></div></td>
+  <td><div><p>Weapon gain 1.1x damage.<br>
+  Blood damage is increased.</p></div></td>
   <td><div>While above 10% HP, missing an M1 deal 1% of max HP as self damage. Blocked/Parried/Dodged hits do not count as a miss.</div></td>
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
@@ -328,4 +329,4 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 
 ## Trivia
 
--   Enchanted equipment used to not be able to be merged together by Jarvis. When you try it he will respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
+-   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'

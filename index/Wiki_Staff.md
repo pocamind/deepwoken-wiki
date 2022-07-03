@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 33183
+revid: 33252
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,6 +29,14 @@ Staff
 <tbody>
 <tr>
   <td>Moderators</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td>Enforcers</td>
 </tr>
 </tbody>
 </table>

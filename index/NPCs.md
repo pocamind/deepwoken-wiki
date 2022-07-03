@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 32579
+revid: 33304
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -61,6 +61,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
   <td>Grants assassinations</td>
   <td>Requires the player to have negative Etrean reputation</td>
+</tr>
+<tr>
+  <td><a href="Attunement_Trainers.md">Friid</a></td>
+  <td>Unaligned</td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a></td>
+  <td><a href="Galebreathe.md">Galebreathe</a> <a href="Attunement_Trainers.md">Spelltrainer</a></td>
+  <td></td>
 </tr>
 <tr>
   <td>Glid</td>

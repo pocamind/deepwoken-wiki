@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 32556
+revid: 33309
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -146,7 +146,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Dark Blue version of the Megalodaunt, exclusive to The Depths and Trial Of One. They are at the top of the Megalodaunt social hierarchy, boasting in extra strength and health.
+Dark Blue version of the Megalodaunt, exclusive to The Depths and [Trial Of One](Trial_of_One.md). They are at the top of the Megalodaunt social hierarchy, boasting in extra strength and health.
 
 ## **Attacks**
 

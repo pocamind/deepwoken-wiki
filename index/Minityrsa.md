@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 30905
+revid: 33306
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -100,5 +100,5 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   To travel to Minityrsa, the easiest way to know where to go is to start from Etris.
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing. Until you see an Island with trees and land, that is Minityrsa.
 
--   ~Beating the [Trial of One](Trial_of_One.md) unlocks the ability to spawn here as your starting island for all future characters on that slot.~ After 3/15/2022, you unlock the spawn after you beat the thresher (halfway of the trial).
+-   Beating the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md) unlocks the ability to spawn here as your starting island for all future characters on that slot.
 -   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.

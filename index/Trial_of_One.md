@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 31494
+revid: 33315
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,7 +38,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 2.  [Weakened Megalodaunt](Megalodaunt.md)
 3.  [Weakened Rock Golem](Rock_Golem.md)
 4.  [Weakened Thresher](Thresher.md)
-5.  [2 Greater Angels](Hollow_Angel.md)
+5.  [Two Greater Angels](Hollow_Angel.md)
 6.  [Weakened Enforcer](Enforcer.md)
 7.  [Weakened Sand Knight](Stone_Knight.md)
 8.  Parry Check
@@ -53,7 +53,7 @@ Mark of the Lone Warrior's talent description
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-9, Finishing the trial will result in reaching power 18 with 85 investment point used.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
--   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
+-   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, which lower the EXP curve, similar to Adept.
     -   Does not give [resonance](Resonance.md) progress boost. Confirmed by devs.
 -   Minityrsa starting spawn point when creating a character for reaching past the half-way point (Thresher)
 

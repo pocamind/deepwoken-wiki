@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 33076
+revid: 33314
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]

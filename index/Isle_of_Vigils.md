@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 32806
+revid: 33274
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Camp
 
--   Players can find Friid, a Celtor spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
 -   Players can find a permanent campfire here.
 
 #### Inn
@@ -48,7 +48,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 #### Bank & Antiquarian
 
 -   Players can find a Banker who they can turn in artifacts to.
--   Players can find an Antiquarian who will purchase their sellable items.
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
 #### [Mantra Collector](Mantra_Collector.md)
 
@@ -58,7 +58,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 Events that spawn in Isle of Vigils that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Bandit Attack
+-   [Bandit](Bandit.md) Attack
 
 ## Quests
 
