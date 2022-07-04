@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33316
+revid: 33338
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -329,4 +329,4 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 
 ## Trivia
 
--   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
+-   ~Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'~ Update 6/27 allow's enchant's to be smelted now.

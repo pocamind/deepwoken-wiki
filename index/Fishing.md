@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 33329
+revid: 33334
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -8,13 +8,11 @@ categories: [Pages with broken file links, Fishing, Mechanics, Luck]
 
 # Fishing
 
-**Fishing** is a mechanic that allows you to obtain seafood using a Fishing Rod.
-
 “ "It's time to become a master baiter!" ”
 
 ― Some random Man of Culture
 
-  
+**Fishing** is a mechanic that allows you to obtain seafood using a Fishing Rod.
 
 ## How to Fish
 

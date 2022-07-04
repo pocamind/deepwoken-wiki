@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 33200
+revid: 33337
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,12 +25,12 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 ## Event
 
-1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "Oh yeah, my name is Aelita. Lets begin shall we?"_
-2.  _"Use some of that magic you guys love."_
+1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "People come up here all the time... I wonder why they're always so disappointed to see me, everyone loves games, right? ... Anyway, I'm Aelita. Let's begin, shall we? "_
+2.  _"Cast a Mantra. Any Mantra!"_
     -   This is your cue to cast a mantra.
-3.  _"Pick your favorite NOT me."_
+3.  _"One of these is me, but I want you to stick near a fake this time."_
     -   Stand next to any of her clones, her clones do not have purple eyes.
-4.  _"Alright lets see if you remember what I look like."_
+4.  _"Alright, let's see if you remember what I look like."_
     -   Stand next to Aelita, she has purple eyes.
 5.  _"See? That was fun right? You can have a lot more fun if you come back during the winter."_
 
