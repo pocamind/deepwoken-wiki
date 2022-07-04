@@ -1,9 +1,9 @@
 ---
 title: Ingredients
-revid: 32384
+revid: 33328
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Ingredients, Items, World, Locations, Talents]
+categories: [Ingredients, Items, World, Locations, Talents]
 ---
 
 # Ingredients
@@ -45,6 +45,3 @@ Raw materials harvested from the environment.
 -   Miasmic Lotus
 -   Skyvalor Lotus
 -   Zephyr Lotus
--   [https://discord.gg/kBut6ZrzB9](https://discord.gg/kBut6ZrzB9) more leaks
-
-File:Lotus Ingredients.png

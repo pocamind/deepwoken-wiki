@@ -1,12 +1,14 @@
 ---
 title: Fishing
-revid: 33124
+revid: 33329
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
 ---
 
 # Fishing
+
+**Fishing** is a mechanic that allows you to obtain seafood using a Fishing Rod.
 
 “ "It's time to become a master baiter!" ”
 
@@ -15,8 +17,6 @@ categories: [Pages with broken file links, Fishing, Mechanics, Luck]
   
 
 ## How to Fish
-
-Fishing is a mechanic that allows you to obtain Fish Meat, Squids, Urchins and other items.
 
 To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber. You can also buy it at the docks for 30 Notes, though this is a pretty bad deal.
 
