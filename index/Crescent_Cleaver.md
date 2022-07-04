@@ -1,9 +1,9 @@
 ---
 title: Crescent Cleaver
-revid: 32643
+revid: 33364
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items, Greatswords]
+categories: [Weapons, Greatswords]
 ---
 
 # Crescent Cleaver
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need to only follow the blood. |
 
-_**"Why is this still not alloyable?"** -a Heavy Weapon user using his trusty Crescent Cleaver_
+_**"Finally it's alloyable"** -a Heavy Weapon user using his new Alloyed Crescent Cleaver_
 
 ## Description
 

@@ -1,15 +1,11 @@
 ---
 title: Summer Company Guard
-revid: 32305
+revid: 33365
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Summer Company Guard
-
-“ If you're not here to buy something, then just leave. ”
-
-― Summer Company Guard
 
 Template:EnemyInfobox1.0
 

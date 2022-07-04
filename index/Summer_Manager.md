@@ -1,10 +1,44 @@
 ---
 title: Summer Manager
-revid: 33333
+revid: 33366
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Summer Manager
 
-realy kool
+Template:EnemyInfobox1.0
+
+## Description
+
+Summer Company Managerss are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
+
+-   A Summer Company Manager standing around Ignition Union corpses with an Explosive Crate
+
+A Summer Company Manager only wears a Summer Company Uniform outfit with their [race](Aspects.md) varying.
+
+## Moveset
+
+A Summer Company Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Pulls the trigger an fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
+
+### Boons
+
+-   Experienced Fighter - Can parry and block common attacks and mantras.
+
+## Finisher
+
+A Summer Company Manager executes the player after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down the opponent and shoots them in the head. |
+
+## Trivia
+
+-   Despite supposedly holding a higher rank than [Summer Company Guards](Summer_Company_Guard.md), their uniform is identical.
+-   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.

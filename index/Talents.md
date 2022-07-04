@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33357
+revid: 33360
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -843,6 +843,7 @@ These Talents are meant to make foraging and mining grant more resources.
 ### Pyromancer
 
 -   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+3 Health, +5 Elemental Intensity)
+    -   Prerequisite: ?? Flamecharm, 10 or 15 Fortitude (unknown)
 
 ### Raging Bull
 

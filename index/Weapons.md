@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 33299
+revid: 33385
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -53,7 +53,9 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **End Lag:** How long you linger after attacking.
--   **Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md).
+-   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
+
+  
 
 Types of Weapons
 
