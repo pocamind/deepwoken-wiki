@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33297
+revid: 33357
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -59,10 +59,9 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
 
-### Aerial Dancer
+### Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
 
--   Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
-    -   Prerequisites: 15 Strength, Aerial Stab
+-   -   Prerequisites: 15 Strength, Aerial Stab
     -   Synergizes well with Aerial attack Talents.
     -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
 
@@ -698,7 +697,6 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Mark of the Lone Warrior \[Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
     -   Lower the EXP curve.
-    -   The reduction is weaker than Adept.
     -   Stacks with Adept.
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
 
@@ -707,7 +705,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 Most of these Talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
--   Thresher Scales \[Common Talent\] - You regenerate your armor at campfires. (+9 Health)
+-   Thresher Scales \[Common Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisites: Bloodiron Spirit
 -   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
@@ -906,7 +904,7 @@ Prerequisite: Charisma
 
 ### Soul Converter
 
--   Bloodiron Spirit \[Rare Talent\] - You regain some armor upon killing enemies.
+-   Bloodiron Spirit \[Rare Talent\] - You regain some armor upon killing enemies.(+5 Health)
 
 ### Soverign of Slaughter
 
@@ -1457,7 +1455,7 @@ Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra build
 Gale Dash \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)  
 Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)  
 Uproar \[Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)  
-Thresher Scales \[Rare Talent\] - You regenerate your armor at campfires. (+9 Health)  
+Thresher Scales \[Rare Talent\] - You regenerate your armor at campfires. (+5 Health)  
 Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)  
 Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)  
 Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]  

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 33065
+revid: 33339
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -333,6 +333,8 @@ Wind
 Gem
 
  | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
+
+  
 
 **Sparks:**
 
