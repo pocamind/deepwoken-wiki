@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 33125
+revid: 33428
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -60,7 +60,7 @@ Whenever your reputation drops too low, you'll be deemed a criminal, with the me
 
 Dying to that faction results in the text "The perceived threat you pose against \[Faction Name\] has been reduced...' with you losing negative rep each time this appears.
 
-Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting..." This is the point at which Negative Reputation effects are removed.
+Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting..." This is the point at which negative reputation effects are removed.
 
 File:Summer Company Postives.png
 
@@ -106,7 +106,7 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 <tr>
   <td>File:Rashet.png</td>
   <td><p><a href="The_Central_Authority.md">The Authority</a></p></td>
-  <td><b>Rashet</b>: Removes negative rep with the Fort merit guards</td>
+  <td><b>Rashet</b>: Removes negative reputation with Fort Merit guards</td>
   <td>Standing by a pillar at the <a href="Merit's_Reach.md">Merit's Reach</a> from across the river</td>
 </tr>
 </tbody>
@@ -144,7 +144,7 @@ Some quests in the game allow you to get reputation with certain factions, some 
 </tr>
 <tr>
   <td>Loan Sharking</td>
-  <td>A man named Trig can be found outside the Summer Isle inn, He will complain about someone owing his boss money, to which the player offers to help. The Adret in question can be found on a small beach nearby, under the area where the Blindseer glyphs are. Talking to him gives you two options, agree to help him, as he has lost the investment he owes, or threaten him and hustle him for all he has. Choosing the first option and returning to Trig will have result in him giving you negative reputation and sending two guards after your. Choosing the latter will cause the Adret to give you the papers for his ship, all he has left, and returing to Trig nets you postivie rep and some exp.</td>
+  <td>A man named Trig can be found outside the Summer Isle inn, He will complain about someone owing his boss money, to which the player offers to help. The Adret in question can be found on a small beach nearby, under the area where the Blindseer glyphs are. Talking to him gives you two options, agree to help him, as he has lost the investment he owes, or threaten him and hustle him for all he has. Choosing the first option and returning to Trig will have result in him giving you negative reputation and sending two guards after you. Choosing the latter will cause the Adret to give you the papers for his ship, all he has left, and returning to Trig nets you positive rep and some exp.</td>
   <td>Summer Company</td>
 </tr>
 <tr>
@@ -188,4 +188,5 @@ Some quests in the game allow you to get reputation with certain factions, some 
     -   You cannot get good rep with Celtor, but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to become aggressive.
--   The Ministry is the only Faction that all players start out with Negative Reputation on spawn.
+-   The Ministry is the only Faction that all players start out with negative reputation on spawn.
+-   Speaking to Rashet to remove negative Authority reputation will not make Authority Wardens neutral to you.

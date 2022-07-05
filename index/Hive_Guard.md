@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 31963
+revid: 33424
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,3 +24,7 @@ A Hive Guard's kit consists of a [Ritual Spear](Ritual_Spear.md) and the [Flamec
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Unleash a quick slash and short lunge. | ◯ | ◯ | (★☆☆) |
 | Flame Assault | User dashes forward covered in flames, hitting anyone in their path. | ◯ | ◯ | (★★☆) |
+
+## Trivia
+
+-   This NPC should be avoided since it has an extremely high HP. Higher then most other humanoid NPCs.

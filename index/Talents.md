@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33420
+revid: 33421
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -59,9 +59,10 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
 
-### Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
+### Aerial Dancer
 
--   -   Prerequisites: 15 Strength, Aerial Stab
+-   Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
+    -   Prerequisites: 15 Strength, Aerial Stab
     -   Synergizes well with Aerial attack Talents.
     -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
 
