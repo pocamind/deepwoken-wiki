@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 32082
+revid: 33466
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -35,4 +35,4 @@ There is also a mechanic in which each power level, you deal about 10% of your b
 
 **Weapon Skills -** Heavy, Medium, Light
 
-**Magic Skills -** Flamecharm, Frostdraw, Thundercall, Galebreathe, Shadowcast (Potentially Light, requires confirmation)
+**Magic Skills -** [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Shadowcast](Shadowcast.md) (Potentially Light, requires confirmation)

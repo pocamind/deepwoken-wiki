@@ -1,13 +1,16 @@
 ---
 title: Hell Mode
-revid: 33449
+revid: 33467
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress with reason, InProgressPages]
+notices:
+  - This page is currently being worked on. Some things may still be incomplete
 ---
 
 # Hell Mode
 
-“ A strange bell as been spotted within the Celtor Waste. Only a quintuplet of powerful adventurers may ring it to bring unfortold consequences... but the rewards are just as great. ”
+“ A strange bell as been spotted within the Celtor Waste. Only a quintuplet of powerful adventurers may ring it to bring unforetold consequences... but the rewards are just as great. ”
 
 ―
 
@@ -30,6 +33,7 @@ Once the conditions are met, the entire depths (the current server) will take on
 
 -   Every mob that can spawn corrupted will be corrupted
 -   Spawnrate is increased by 10x
+-   The Enforcer and the Nautilodaunt are added to the regular spawn pool
 
 These conditions affect everybody in the server, not just the people who interacted with the bell.
 
