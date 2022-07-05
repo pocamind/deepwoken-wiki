@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33360
+revid: 33420
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -463,6 +463,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
     -   5 seconds cooldown.
+    -   Uses ether and does not proc if you don’t have enough ether
     -   Prerequisite: 65 Flamecharm
 -   Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
     -   Prerequisite: Mirage Clone

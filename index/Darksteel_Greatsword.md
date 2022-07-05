@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 32823
+revid: 33388
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords]
 | obtainment | Hive, Summer Isle, Depths and PVP Arena chests |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
-“ It was too big to be called a sword. Massive, thick, heavy and far too rough. Indeed, it was a raw heap of iron. ”
+“ It was too big to be called a sword. Massive, thick, heavy and far too rough. Indeed, it was like a heap of raw iron. ”
 
 ― Berserk
 
