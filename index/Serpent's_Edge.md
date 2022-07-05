@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 32742
+revid: 33453
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -39,3 +39,4 @@ The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curve
 
 -   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
 -   Pro tip: If you're in a bad situation, quickly jump into water and spam R. Works best with the [Portals](Portals.md) resonance.
+-   Has a unique critical. You do three slashes that move you a good deal forward

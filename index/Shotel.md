@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 32628
+revid: 33452
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -38,6 +38,6 @@ The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 15%
 
 ## Notes/Trivia
 
--   Has a unique critical attack.
+-   Has a unique critical attack. You basically do a barrel roll slash.
 -   Can be upgraded using the [Pluripotent Alloy](Pluripotent_Alloy.md) to become the _Alloyed Shotel_, to gain an increase to 22 base damage, 6 Weapon Scaling, and an extra 10% PEN.
-    -   This is **THE META** now, the [Shattered Katana](Shattered_Katana.md) is already being dropped for the alloyed version or the [Serpent's Edge](<Serpent's_Edge.md>).
+    -   ~This is **THE META** now, the [Shattered Katana](Shattered_Katana.md) is already being dropped for the alloyed version or the [Serpent's Edge](<Serpent's_Edge.md>).~ As of writing this, the Forgotten Gladius and Alloyed Falchion are **THE META** now. This will probably change **alot**

@@ -1,9 +1,9 @@
 ---
 title: Wiki Staff
-revid: 33412
+revid: 33459
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Staff]
+categories: [Staff, Community]
 ---
 
 # Wiki Staff
