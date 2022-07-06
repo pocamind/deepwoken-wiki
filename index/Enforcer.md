@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 33507
+revid: 33551
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss, Monsters, Monster, Enemies, Enforcers]
+categories: [Pages with broken file links, Monsters, Boss]
 ---
 
 # Enforcer
@@ -99,6 +99,8 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 -   Parrying 5-6 times, attacking 1-2 times, and repeating is an easy way to kill The Enforcer.
 -   It is possible to cheese it by just running away and throwing potions.
+
+  
 
 1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)

@@ -1,9 +1,9 @@
 ---
 title: Kana
-revid: 33515
+revid: 33559
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPC, Npc]
+categories: [NPCs]
 ---
 
 # Kana

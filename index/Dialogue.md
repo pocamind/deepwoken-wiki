@@ -1,9 +1,9 @@
 ---
 title: Dialogue
-revid: 31212
+revid: 33568
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Dialogue, NPCs, NPC, Npc, Locations, Character, Reputation]
+categories: [Mechanics]
 ---
 
 # Dialogue
@@ -129,6 +129,6 @@ Talking to Guards
 
 -   Neutral+ - "\*_A low groan releases from within their helmet, as if wheezing through a punctured lung.\*_"
 
-## Notes/Trivia
+## Trivia
 
--   Some NPCs react to your Character's Age, such as the old Etrean in Etrea calling you a Youngster if you're under 20. (Assumption)
+-   \]\]

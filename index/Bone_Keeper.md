@@ -1,9 +1,9 @@
 ---
 title: Bone Keeper
-revid: 33508
+revid: 33553
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monster, Monsters, Boss, Enemies]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Bone Keeper
