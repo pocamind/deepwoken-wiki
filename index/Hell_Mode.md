@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 33467
+revid: 33473
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -46,7 +46,7 @@ Hell Mode can be completed by fulfilling these two conditions:
 
 If the 20 minutes mark is reached before the kill requirement, the event will forcefully end and no reward will be granted.
 
-Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near one of the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece.
+Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near someof the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece.
 
 ## Notes and Trivia
 

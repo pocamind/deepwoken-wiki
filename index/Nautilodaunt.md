@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 33164
+revid: 33475
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -77,6 +77,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 ## **Notes/Tips**
 
 -   This enemy is extremely easy to defeat with multiple people. It only has 1000 hp and barely any armor or resistances. Just gang up on it and parry when possible.
+-   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
 -   The Nautilodaunt is one of the only monsters that can be both guard broken and posture stunned (the other being [The Enforcer](Enforcer.md))
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.

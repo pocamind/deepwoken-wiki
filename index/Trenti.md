@@ -1,6 +1,6 @@
 ---
 title: Trenti
-revid: 33335
+revid: 33471
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -14,4 +14,4 @@ Trenti is an Etrean NPC you can find at the [Etris](Etris.md) Inn. He is usually
 
 ## Notes
 
-You can find another NPC in the [Isle of Vigils](Isle_of_Vigils.md) Inn that does the same things that Trenti does.
+You can find [Aristo](Aristo.md), an NPC in the [Isle of Vigils](Isle_of_Vigils.md) Inn that does the same things that Trenti does.
