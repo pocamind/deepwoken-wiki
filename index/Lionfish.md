@@ -1,9 +1,9 @@
 ---
 title: Lionfish
-revid: 32805
+revid: 33495
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Pages with broken file links, Monsters, Monster, Enemies, Fishing]
 ---
 
 # Lionfish

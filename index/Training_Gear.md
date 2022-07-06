@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 32402
+revid: 33476
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,11 @@ categories: [Pages with broken file links]
 
 # Training Gear
 
-**Training Items** are tools that increase the players [Attributes](Attributes.md), with each one improving one specific stat.
+**Training Items** are tools that increase the player's [Attributes](Attributes.md), with each one improving one specific stat.
 
 ## Training
+
+Each Attribute has a Training Item correlated to it. Using these Training Items will allow you to automatically increase the Attribute connected to it.
 
 File:Image (5).png
 
@@ -20,18 +22,16 @@ A boulder in front of the Antiquarian shop at Etris
 
 ### Strength
 
--   Dumbbell - Template:Cost / **200 uses**
+-   [Dumbbell](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 A training vest hanging in the Antiquarian shop at Etris.
 
--   It takes around 34-35 pumps to upgrade strength one time with a dumbbell.
-
 ### Fortitude
 
--   Training Vest - Template:Cost / **50 uses** (On the white and black armor)
--   Boulder - Template:Cost / **200 uses**
+-   [Training Vest](Training_Gear.md#attribute-training-gears) - Template:Cost / **50 uses** (On the white and black armor)
+-   [Boulder](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. Isle of Vigils does not have a boulder.
 
@@ -39,7 +39,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
 ### Agility
 
--   Ankle Weights - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
+-   [Ankle Weights](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -49,14 +49,14 @@ A question from the math textbook
 
 ### Intelligence
 
--   Encyclopedia - Template:Cost / **200 uses**
--   Math Textbook - Template:Cost / **200 uses**
+-   [Encyclopedia](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
+-   [Math Textbook](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
 
 Located at the bookstore.
 
 ### Willpower
 
--   Prayer Beads - Template:Cost / **100 uses**
+-   [Prayer Beads](Training_Gear.md#attribute-training-gears) - Template:Cost / **100 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -66,52 +66,35 @@ Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 Located at the bookstore and also in the Isle of Vigils library.
 
-## [Weaponry](Weapons.md) Training
+### Light/Medium/Heavy Weapons
 
-_To train your weapon. See the [Weaponry](Weapons.md) page for more info about how stats work._
-
-File:Weapon Manual.png
-
-Weapon Manual in the Bookstore at Etris
-
-_Purchased at Etris and Isle of Vigils library._
-
-### Light/Medium/Heavy
-
--   Weapon Manual - Template:Cost / **250 uses**
+-   [Weapon Manual](Weapon_Manual.md) - Template:Cost / **250 uses**
 
 ## [Attunement](Attunements.md) Training
 
-_To train your mantra. See the [Attunement](Attunements.md) page for more info about how stats work._
-
-The "Self-Conducting Loop".
-
-_Purchased from Mantra Shops at any area._
+Like Attributes, Attunements also have Training Items correlated to them and will allow them to be increased when used.
 
 ### [Thundercall](Thundercall.md)
 
--   Self-Conducting Loop - Template:Cost / **200 uses**
+-   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
 ### [Frostdraw](Frostdraw.md)
 
--   Hemafrost - Template:Cost / **200 uses**
+-   [Hemafrost](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
 ### [Flamecharm](Flamecharm.md)
 
--   Hearthgem - Template:Cost / **200 uses**
+-   [Hearthgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
 ### [Shadowcast](Shadowcast.md)
 
--   Pure Heart - Template:Cost / **200 uses**
+-   [Pure Heart](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
 ### Galebreath
 
--   Gale Kata - Template:Cost / **200 uses**
+-   [Gale Kata](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
 ## Trivia
 
 -   Upon spawning, you will be given a Training Item correlated with your highest stat (for example, if your highest stat is strength, you will spawn with a dumbell).
--   All Training Items, besides the one you spawn with, will require [notes](Notes.md) to purchase.
--   When using "How to Make Friends," players nearby will be forced to respond with various phrases such as 'Err...' or 'I dont have time for this...'
-    -   If your charisma is higher than 33, players around you will say different, less negative phrases such as 'Mhm.' or 'Oh, sure.'
-    -   If your charisma is higher than about 60-70 they will say things like: "Yeah! Sure! Mhm!"
+-   All Training Items, besides the one you spawn with, will require [Notes](Notes.md) to purchase.

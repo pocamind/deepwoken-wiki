@@ -1,9 +1,9 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 30630
+revid: 33520
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Drowned Gods, NPC]
+categories: [Drowned Gods, NPC, NPCs, Npc]
 ---
 
 # Shrine of Yun'Shul, Keeper of Hearts

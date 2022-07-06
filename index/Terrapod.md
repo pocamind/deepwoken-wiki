@@ -1,9 +1,9 @@
 ---
 title: Terrapod
-revid: 30771
+revid: 33492
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Monster]
+categories: [Monsters, Monster, Enemies]
 ---
 
 # Terrapod

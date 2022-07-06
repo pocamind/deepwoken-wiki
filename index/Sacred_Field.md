@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 32513
+revid: 33480
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -10,8 +10,8 @@ categories: [Resonance]
 
 | Sacred Field | |
 |---|---|
-| effect | Grants yourself and allies incredible defense. |
-| appearance | Orange field that spreads around the user. |
+| effect | Protects you and allies from harm substantially. |
+| appearance | Various colored field that spreads around the user. |
 
 “ Conjure a field of sacred light, protecting you and your allies from harm. ”
 
@@ -25,7 +25,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, an orange, red, blue, green or purple field will appear around the user for around fifteen to twenty seconds. There is also a chance for a blue field, but it's very rare.
+When used, an orange, red, blue, green or purple field will appear around the user for around fifteen to twenty seconds.
 
 ## Usage
 
@@ -41,7 +41,7 @@ When obtained, Sacred Field will spend its points on the following stats:
 -   **Elemental Armor:** The more points are spent on this stat, the more resistant to elemental damage the user become.
 -   **Range:** The more points are spent on this stat, the larger the area covered by the resonance is.
 -   **Duration:** The more points are spent on this stat, the longer the resonance last.
--   **Color:** A free stat. Changes the color of the field, colors include Yellow, Blue, Purple, Red, Orange and Green.
+-   **Color:** A free stat. Changes the color of the field, colors include yellow, blue, purple, red, orange and green.
 
 ## Trivia/Notes
 

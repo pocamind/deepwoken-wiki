@@ -1,9 +1,9 @@
 ---
 title: Sparkblood
-revid: 18257
+revid: 33485
 source: https://deepwoken.fandom.com/wiki/Sparkblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Items]
 ---
 
 # Sparkblood
