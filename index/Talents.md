@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33430
+revid: 33533
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -631,6 +631,16 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
     -   Prerequisites: Grand Javelin (2 Star Thundercall Mantra)
+
+### **Justicar**
+
+-   Justicar's Prowess \[Common Talent\] - Jus Karita deal bonus posture damage against other fist styles.
+    -   Deal ??x posture damage against Fist of Navae and Legion Kata
+    -   Requirement: Jus Karita
+-   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
+    -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.
+        -   This effect can only happen every 10 seconds.
+    -   Requirement: Jus Karita
 
 ### Immolator
 

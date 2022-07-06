@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 33385
+revid: 33534
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -65,7 +65,7 @@ Light weapons are one-handed weapons. They are fast and agile, with high attack 
 
 **Daggers:**
 
-Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. Despite this, they have very low damage and range.
+Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They also have a chance to deal bonus blood damage, signified by a sound effect and large blood splatter. Despite this, they have very low damage and range.
 
 <table>
 <tbody>
@@ -798,7 +798,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Heavy Weapons:**
 
-Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. Passively, heavy weapon grant the user a charge of Hyper Armor when they parry an attack. The next attack performed will grant the user Hyper Armor, allowing them to resist hitstun for the duration of the attack. If the weapon has Endlag, the hyper armor extends to it. Most of these weapons come from drops from mobs
+Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. Passively, heavy weapon grant the user a charge of Hyper Armor when they parry an attack. The next attack performed will grant the user Hyper Armor, allowing them to resist hitstun for the duration of the attack. If the weapon has Endlag, the hyper armor extends to it. The critical of heavy weapons also have Hyper Armor and apply hard knockdown on hit. Most of these weapons come from drops from mobs
 
 **Greataxes:**
 

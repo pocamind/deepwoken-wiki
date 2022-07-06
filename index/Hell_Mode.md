@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 33478
+revid: 33531
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -35,7 +35,7 @@ Once the conditions are met, the entire depths (the current server) will take on
 -   Spawnrate is increased by 10x
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
 
-These conditions affect everybody in the server, not just the people who interacted with the bell.
+These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 
 ## Completion and reward
 
@@ -45,6 +45,8 @@ Hell Mode can be completed by fulfilling these two conditions:
 -   Have killed 100 monsters (shared across all players)
 
 If the 20 minutes mark is reached before the kill requirement, the event will forcefully end and no reward will be granted.
+
+The event will end early if the original 5 players who activated the event all died.
 
 Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near someof the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece.
 

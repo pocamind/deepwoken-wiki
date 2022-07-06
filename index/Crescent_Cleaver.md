@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 33451
+revid: 33529
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -47,7 +47,7 @@ _**"Finally it's alloyable"** -a Heavy Weapon user using his new Alloyed Crescen
 
 ## Description
 
-The Crescent Cleaver is a mid-game Heavy Weapon, and is a drop from chests on [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md). This weapon have a unique Critical Attack, which consist of a forward lunge in an attempt to impale the first target hit, then slamming them on the ground.
+The Crescent Cleaver is a mid-game Heavy Weapon, and is a drop from chests on [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md). This weapon has a unique Critical Attack, which consists of a forward lunge in an attempt to impale the first target hit, then slamming them on the ground.
 
 ## Notes & Trivia
 

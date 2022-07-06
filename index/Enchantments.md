@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33363
+revid: 33532
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -71,7 +71,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>After hitting a target [Guns: 5, LHT: 7, MED: 4, HVY: 3] times, they explode, dealing&nbsp;?? damage to them and others around beside the user. The explosion can execute.</p></div></td>
+  <td><div><p>After hitting a target [Guns: 5, LHT: 7, MED: 4, HVY: 3] times, they explode, dealing 1.15x weapon damage to them and others around beside the user. The explosion can execute.</p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
