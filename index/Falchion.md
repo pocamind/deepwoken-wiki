@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 33106
+revid: 33576
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -31,22 +31,25 @@ categories: [Weapons, Weaponry, Items, Swords]
 
 ## Description
 
-The Falchion is a Medium type weapon that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade. The weapon has a base damage of 16 and requires 20 MED to equip. This weapon can be alloyed for an upgrade to 16.6 Base Damage, 7 Medium Weapon Scaling and 20% PEN
+The Falchion is a Medium type weapon that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade. The weapon has a base damage of 16 and requires 20 MED to equip. This weapon can be alloyed for an upgrade to 16.6 Base Damage, 7 Medium Weapon Scaling and 20% PEN.
 
-### Alloyed Falchion stats:
+## Alloyed Falchion stats:
 
-Damage: 16
+-   Damage: 16
 
-PEN: 20%
+-   PEN: 20%
 
-Scaling 7
+-   Scaling 7
 
-Range: Needs to be confirmed, either it's 8 or 7.5
+-   Weight: 4
 
-Swing speed: 0.8x
+-   Range: 7.5
 
-## Notes
+-   Swing Speed: 0.8x
 
--   The Ignition Union uses this and [Darksteel Greatswords](Darksteel_Greatsword.md)
+## Notes & Trivia
+
+-   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union.
 -   Can be alloyed.
--   Inferior to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Even when alloyed, the Falchion has the same scaling and does 1 less damage compared to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). However it has 20% PEN as the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) has none
+-   Inferior to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Even when alloyed, the Falchion has the same scaling and does 1 less damage compared to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   However, it has 20% PEN, while the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) has none.

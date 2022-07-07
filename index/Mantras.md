@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 32557
+revid: 33572
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -130,6 +130,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > -   The user can also modify their mantras with Deep Gems. These do not need to be used at a mantra table but can be directly applied to the mantra at a campfire.
 > -   Modifications will fail when you have placed incompatible ingredients on the table. The mantra placed will return to your inventory, however the ingredient(s) will be lost.
 > -   Most mantra modifiers increase the ether cost of a mantra. It is possible for a mantra to consume most or all of a player's ether upon one use.
+> -   You can also change the name of a mantra by putting it on a mantra table and saying the name you want it to be.
 > 
 > ## Upgrading Mantras
 > 

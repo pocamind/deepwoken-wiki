@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33532
+revid: 33569
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -34,16 +34,19 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 **WARNING: You are capable of selling enchants whether they are soulbounded or not.  
 **
 
+Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
+
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a Big/Small downside depending on the curse.
 
-Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
+Changelogs:
 
-The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md), along with Starswept Valley Events (as of the buffed chests) is a good way to increase your chances of finding one.
-
-As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
+-   **Feburary 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
+-   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment became Soulboundable. - Enchants could no longer drop on death.
+-   **April 11th, 2022** - Enchant rates have been buffed again.
+-   **June 27th, 2022** - Enchanted equipment could be now smelted at Jarvis.
 
 A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur.
 
@@ -211,31 +214,37 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><b>Name</b></td>
   <td><b>Description</b></td>
+  <td><b>Visual Effect</b></td>
 </tr>
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
   <td><div><p>Every weapon enchant are enabled. Randomly proc or activate the effect of an enchant on hit.<br>
   <b>Enchant is disabled for Non-Moderators</b></p></div></td>
+  <td><div>Weapon is covered with combination of Mulpicity Enchant and Wild Enchant VFX.</div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
   <td><div><p>On hit, gain the ability to pull the victim toward the user by pressing R. Flourishing make all subsequents attack fling the target upward.<br>
   <b>Enchant is disabled for Non-Moderators</b><br>
   <b>Enchant is enabled for (original) players with fist</b></p></div></td>
+  <td><div>Weapon is covered with blue and white fuzziness.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
   <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.<br>
   <b>Enchant is disabled for Non-Moderators</b></p></div></td>
+  <td><div>Weapon is covered with yellow mist with dots all around.</div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Deal 20% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
+  <td><div><p>Deal 20% more damage in PVE.</p></div></td>
+  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
   <td><div><p>A super charged attack on proc.<br>
-  <b>Zithori Vhemm Rybak Diri Dev Spec</b></p></div></td>
+  <b>yayafino Dev Spec</b></p></div></td>
+  <td><div>Weapon is blown out with shooting out exhausts of colors Red Yellow Green.</div></td>
 </tr>
 </tbody>
 </table>

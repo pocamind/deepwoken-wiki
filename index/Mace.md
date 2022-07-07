@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 32752
+revid: 33578
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -25,9 +25,9 @@ categories: [Weapons, Clubs]
 | obtainment | Weapon Shop in Etris and at lower Erisia |
 | description | A simple blunt weapon effective at breaking guards. |
 
-“ Uhm actually.. BONK. OW, stop hitting me with a... BONK. ”
+“ You're hitting people with medieval weaponry; isn't it kinda weird you don't have any notable enemies? Maybe because they're dead? ”
 
-― A Felinor trying to explain something
+― The Justicar League remembering Birdman exists
 
   
 

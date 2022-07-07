@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 32649
+revid: 33579
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -25,6 +25,10 @@ categories: [Weapons, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon |
 | description | "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World." |
+
+“ That's it I'm gettin' me mallet ”
+
+― Old Enrique hunting Canor
 
 ## Description
 
