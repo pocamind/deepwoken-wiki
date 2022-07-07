@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 31658
+revid: 33612
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -83,10 +83,14 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Khan Boots
 -   Ranger's Boots
 -   Crimson Blindfold
+-   Gold and Black Cape
+-   Royal Duelist, including varients.
 
  | 
 
+-   [Apprentice Rapier](Apprentice_Rapier.md)
 -   [Canorian Axe](Canorian_Axe.md)
+-   [Canor Fang](Canor_Fang.md)
 -   [Crescent Cleaver](Crescent_Cleaver.md)
 -   [Iron Cestus](Iron_Cestus.md)
 -   [Katana](Katana.md)

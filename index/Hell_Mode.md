@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 33570
+revid: 33621
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -20,20 +20,18 @@ notices:
 
 Hell Mode is a player summoned event that take place within the depths.
 
-A group of powerful adventurers must joins forces in this hellish variant of The Depths to obtain great rewards.
+A group of powerful adventurers must join forces in this hellish variant of The Depths to obtain great rewards.
 
 ## Activating the event and its effects
 
-The Hell Bell can be found within the Celtor Waste near ???. To activate Hell mode, the following condition must be met:
-
--   5 players must ring the bell
--   The same 5 players must be at least power 50
+The Hell Bell can be found within the Celtor Waste. To activate Hell mode, 5 players who are at least power 50 must ring the bell.
 
 Once the conditions are met, the entire depths (the current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Every mob that can spawn corrupted will be corrupted
 -   Spawnrate is increased by 10x
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
+-   Mute [Regalia](Regalia.md) is disabled, and tacet will not work with the monsters.
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 
@@ -48,7 +46,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near some of the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece.
+Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near some of the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece. These chests are restricted to the 5 players who activated the event and cannot be interacted with by other players.
 
 ## Notes and Trivia
 
@@ -57,5 +55,5 @@ Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near som
 -   Always have someone with you who has Undying Flame as you **will** need to heal
 -   Bring potions that give health and clear insanity as these can be a good alternative to a Undying Flame
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground
--   The Nautolidaunt and Enforcer spawn freely here so watch out for them
 -   Servers in Hell Mode will be identifiable in the server menu by a light red hue.
+-   Blindseer oath speculated to negate the reddish tint of hell mode

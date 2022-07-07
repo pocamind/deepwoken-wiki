@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 32379
+revid: 33627
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -29,7 +29,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
     -   Potions
     -   Status Effects
     -   Flinging
-    -   Stunned (if they get hit hard and fast enough.)
+-   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monsters fills their psoture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. You can use this time to whale on the monsters, flee or do something else, whatever you see fit.
 
 ### The Depths
 

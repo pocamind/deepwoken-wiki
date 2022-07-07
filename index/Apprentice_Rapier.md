@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 32764
+revid: 33600
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -34,7 +34,7 @@ categories: [Weapons, Rapiers]
 
 ## Description
 
-The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), and [Minityrsa](Minityrsa.md).
+The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Minityrsa](Minityrsa.md).
 
 ## Trivia
 

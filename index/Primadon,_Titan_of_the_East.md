@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 33549
+revid: 33625
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -38,7 +38,7 @@ Only used if the player is in front of Primadon and not near his legs.
  | ◯ | (★★★) |
 | **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm having 3 rocks hurled at the player. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
 | **Disengage** | Primadon jump backward, creating distance while hurling a rock at the player. | ◯ | (★★★) |
-| **Enrage** | Screams, giving a significant amount of insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight.
+| **Enrage** | Screams, giving 70(?) insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight.
 
 Automatically used after the first posture stun or when dropping below 50% health, whichever happens first.
 
@@ -49,7 +49,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 -   **Elemental Resistance** - Primadon have 95~% mantra defence and elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
     -   True Ether Bullet will make guns deal pitiful damage.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. It is somewhat inconsistent.
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
 
 ## Rewards
 
@@ -76,6 +76,8 @@ Image of Primadon's boss arena.
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the [Scuba Drowner](https://deepwoken.fandom.com/wiki/Talents?so=search#Waterborne) talent or lived the fall.
 -   Blessed, Wind, Wayward, and Insignia gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage
     -   Debuffs from Mantras do affect Primadon.
+-   If you achieve 210 Sanity or more, the scream will not be a threat to you.
+    -   At 107 Sanity or more, you will only suffer from Tier 1 Insanity.
 
 ### General Combat
 

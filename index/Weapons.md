@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 33534
+revid: 33631
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -18,9 +18,9 @@ categories: [Weaponry, Character]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient_ _killing devices._
 
-Weapons can be bought from shops, or obtained from [Chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it to 100 by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest).
 
-When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
+When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
 
 ## Stances
 
@@ -46,7 +46,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
--   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore through armor.
+-   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore armor.
 -   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
 -   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
 -   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
@@ -55,13 +55,11 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **End Lag:** How long you linger after attacking.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
 
-  
-
-Types of Weapons
+## Types of Weapons
 
 **Light Weapons:**
 
-Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they lack damage and range.
+Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they often lack damage and range.
 
 **Daggers:**
 

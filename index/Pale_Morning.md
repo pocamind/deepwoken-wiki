@@ -1,9 +1,9 @@
 ---
 title: Pale Morning
-revid: 33579
+revid: 33598
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Greathammers]
 ---
 
 # Pale Morning
@@ -34,6 +34,6 @@ categories: [Weapons, Weaponry, Items]
 
 The Pale Morning is a endgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (very rare), [The Duke](Duke_Ishamon_Erisia.md), [The Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives.
 
-## Notes & Trivia
+## Trivia
 
 -   Pale Morning is currently tied for best weapon of the Greathammers (with [Petra's Anchor](<Petra's_Anchor.md>)).

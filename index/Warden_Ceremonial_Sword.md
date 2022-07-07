@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 33102
+revid: 33593
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Depths, Duke Erisia, Deep Widow |
+| obtainment | Chests from:, Primadon, Fort Merit, The Depths, Duke Erisia, Deep Widow |
 | description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies. |
 
 ## Description
