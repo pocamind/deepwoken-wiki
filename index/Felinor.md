@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 33673
+revid: 33704
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -84,4 +84,4 @@ Sero
 -   Felinors are somewhat negatively looked upon in the community, due to their design appealing to a certain audience.
 -   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
--   Arch\_Mage has confirmed Canors to be based off of Lions, essentially making them related to Felinors.
+-   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.

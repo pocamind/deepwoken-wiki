@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 33700
+revid: 33702
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,14 +34,14 @@ Critical
 
 Shadow Roar
 
- | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ✗ | ◯ | (★★☆) |
+ | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it. | ◯ | ◯ | (★★☆) |
 | 
 
 Summon
 
 Necro-skippers
 
- | Summons 3 [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
+ | Summons three [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
 
 ### Boons
 
@@ -53,6 +53,4 @@ Necro-skippers
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
 -   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
--   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
 -   They are believed to be brainwashed, because when the [scouts](Ministry_Scout.md) have conversations in-between themselves or with a necromancer, they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
--   Everyone except the [scouts](Ministry_Scout.md) are their enemies, even NPCs.

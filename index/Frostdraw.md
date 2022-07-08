@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33039
+revid: 33705
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -83,7 +83,6 @@ _An icy chokehold._
 
  | User performs a quick dash before grabbing the opponent in front of them.
 
--   Bad targeting.
 -   Can be used for slight forwards mobility until the user gets Glacial Arc.
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
