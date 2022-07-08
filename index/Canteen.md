@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 28012
+revid: 33650
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,4 +30,5 @@ You can easily get canteen at power level 1 if you know where to look: [https://
   
 **Trivia**
 
-The canteen is known by many as the red calabash.
+-   The canteen is known by many as the red calabash.
+-   You can fill the Canteen with ocean water, but don't do this unless if you have a purifying ring. Otherwise, you will throw up.

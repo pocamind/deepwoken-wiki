@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 31984
+revid: 33657
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -14,9 +14,9 @@ A gallery of audio that is related to _Deepwoken_.
 
 ## Overview
 
-There are currently two albums in _Deepwoken_, with thirty-eight songs total in each of them. There are also extra songs that are undiscovered or not inserted into the game.
+There are currently two albums in _Deepwoken_, with 40 songs in each of them combined. There are also extra songs that are undiscovered or not inserted into the game.
 
-Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_, the composer of _Deepwoken's_ original soundtrack, on these platforms:
+Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_, the composer of the _Deepwoken_ original soundtrack, on these platforms:
 
 -   [SoundCloud](https://soundcloud.com/naktigonis)
 -   [Spotify](https://open.spotify.com/artist/2wg1HTtnou9pLMFJrMEZ0N?si=2AIt9Vz4Si6uHK6rPupftg)

@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 31732
+revid: 33664
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -39,5 +39,5 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 -   Probably a reference to Totsugeki May from _Guilty Gear_.
 -   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
 -   Or it could just... you know... be an anchor.
--   No it's a reference to Nautilus from League of Legends
--   Petra's Anchor has the highest base damage beside [Divine weapons](Crazy_Slots.md).
+-   No, it's a reference to Nautilus from League of Legends
+-   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).

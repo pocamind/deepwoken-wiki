@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 33621
+revid: 33668
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -31,7 +31,8 @@ Once the conditions are met, the entire depths (the current server) will take on
 -   Every mob that can spawn corrupted will be corrupted
 -   Spawnrate is increased by 10x
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
--   Mute [Regalia](Regalia.md) is disabled, and tacet will not work with the monsters.
+-   Mute [Regalia](Regalia.md) is disabled
+-   Tacet will not work on monsters
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 
@@ -48,12 +49,22 @@ The event will end early if the original 5 players who activated the event all d
 
 Upon reaching 100 kills and the 20 minutes mark, three chest will spawn near some of the players that rung the bell. These chest contain very high tiers items, including a large amount of [Deep Gems](Deep_Gems.md), end game armor pieces and weapons with high odds of obtaining a star rating and the unique Diver Light Plate armor piece. These chests are restricted to the 5 players who activated the event and cannot be interacted with by other players.
 
+## Tips
+
+(In progress, feel free to add)
+
+Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
+
+-   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies, you're not ready for. Be wary though, as Nautilodaunt, The Enforcer, and Deep Owls can scale even the greatest of walls.
+-   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
+-   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a lot darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
+-   Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.
+
 ## Notes and Trivia
 
 -   This isn't perfect so feel free to add anything
--   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness
--   Always have someone with you who has Undying Flame as you **will** need to heal
--   Bring potions that give health and clear insanity as these can be a good alternative to a Undying Flame
--   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground
+-   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness.
+-   Always have someone with you who has Undying Flame as you **will** need to heal.
+-   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
+-   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server menu by a light red hue.
--   Blindseer oath speculated to negate the reddish tint of hell mode

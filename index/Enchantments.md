@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33642
+revid: 33647
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -337,9 +337,30 @@ Enchant Ore
 
  | 
 
+**May 29th, 2022**  
 "A shard of enchantment; it can apply it's given Enchant to your currently equipped weapon"  
-**May 29th, 2022** Update, 1 hour after release it was removed from the game.  
+Update, 1 hour after release it was removed from the game.  
 Was found in fishing loot pool.
+
+ |
+| 
+
+Hero Blade Enchants
+
+ | 
+
+**January 2nd, 2022**  
+Enchanted Hero blades were removed from the loot pool.
+
+ |
+| 
+
+Face, Ears, Back accessories Enchants
+
+ | 
+
+**February 18th, 2022**  
+Enchanted face, ears, back accessories were removed from the loot pool.
 
  |
 

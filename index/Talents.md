@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33533
+revid: 33665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -385,6 +385,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: ?? Strength, ?? Fortitude
 -   Duelist Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
+    -   When below 15% HP, gain 10% damage.
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
     -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
     -   Prequesite: ?? Strength, ?? Agility
