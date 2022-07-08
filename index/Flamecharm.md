@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 32834
+revid: 33697
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -649,6 +649,27 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
  | 
 
 Reduces the caster's ether cost by 70% while on fire. Hitting an opponent while on fire causes them to be lit on fire.
+
+ |
+
+**Lava Serpent:**
+
+These are talents found in "_Lava Serpent_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Eruption Path: Lava Serpent
+
+ | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
+
+-   Requires 40 Flamecharm
+
+ | 
+
++4 Elemental Intensity
 
  |
 

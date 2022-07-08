@@ -1,20 +1,32 @@
 ---
 title: Pickaxe
-revid: 28647
+revid: 33688
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Pickaxe
 
-Pickaxes are used for mining ores (rock, iron, irithine, etc.)
+| Pickaxe | |
+|---|---|
+| usage | To Harvest Ores/Minerals. |
+| recipe | (1) Iron, (1) Wood |
 
-There are 4 preferable locations you can obtain pickaxes:
+## Description
 
-1) The [General Store](Etris.md) located in Etris which costs 3 notes.
+Pickaxes are used for mining ores/minerals such as rock, iron, irithine, etc.
 
-2) Next to the innkeeper at Isle Of Vigils which costs 2 notes.
+## Locations
 
-3) In the Bandit Camp at Lower Erisia which is free (you need 1 Strength).
+-   The General Store located in [Etris](Etris.md).
+    -   Costs **3 notes**.
 
-4) you can craft a pickaxe with iron and wood.
+-   Next to the innkeeper on [Isle Of Vigils](Isle_of_Vigils.md).
+    -   Costs **2 notes**.
+
+-   Bandit Camp in [Lower Erisia](Lower_Erisia.md).
+    -   The cost is free but it requires a minimum of **1 Strength**.
+
+## Trivia
+
+-   A pickaxe can also be crafted using (1) Iron and (1) Wood.

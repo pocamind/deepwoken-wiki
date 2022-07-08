@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 32833
+revid: 33700
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

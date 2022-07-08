@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33674
+revid: 33690
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -506,7 +506,7 @@ _\+ 2 Health_
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests | N/A |
 |  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests, Fort Merit Chests | N/A |
 | File:Khanboots.png | Khan Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
-|  | Silver Sabatons | Grants a random buff. | Hive Chests | N/A |
+| File:Silver Sabatons.png | Silver Sabatons | Grants a random buff. | Hive Chests | N/A |
 |  | Star Boots | Grants a random buff.
 
 _Requires Power 30_

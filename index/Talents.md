@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33681
+revid: 33701
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -411,12 +411,6 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Give and Take \[Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates take less damage from you and deal less damage to you.
     -   Canors passively benefit from a similar effect.
-        -   Prerequisite: Friends in High Places
-
-### Lava Serpent
-
--   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm
 
 ### Escape Artist
 
@@ -667,6 +661,11 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Natural increase in Stealth. Gain bonus agility when climbing wooden bricks, like trees.
 -   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. (+1 Health)
     -   Status effects, good or bad, are shorter.
+
+### Lava Serpent
+
+-   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
+    -   Prerequisites: 40 Flamecharm
 
 ### Legion Shock Trooper
 
