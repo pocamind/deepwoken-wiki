@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 33366
+revid: 33716
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Summer Company Managerss are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
+Summer Company Managers are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
 
 -   A Summer Company Manager standing around Ignition Union corpses with an Explosive Crate
 
@@ -24,7 +24,7 @@ A Summer Company Manager's arsenal only consists of a [Flintlock](Flintlock.md) 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Pulls the trigger an fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Critical | Fires a long-ranged bullet at opponent. | ◯ | ✗ | (★★☆) |
 
 ### Boons
 
