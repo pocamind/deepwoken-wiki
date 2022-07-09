@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 33016
+revid: 33708
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -15,6 +15,7 @@ notices:
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from _Devil May Cry series_.
 -   The mod spec Outfit **Hive Leader's Garment** is Scaramouche's outfit from _Genshin Impact_.
+-   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
 
 ## Attunements
 
