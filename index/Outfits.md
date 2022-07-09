@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33690
+revid: 33748
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -112,8 +112,9 @@ _\+ Talent: Apothecary_
 _\+ Talent: Pitcher_
 
  | Hive Chests | N/A |
-| File:Static-assets-upload10220259416551286672.png | Strapped Hat (Series) | Grants a random buff. | Depths Chests | Black & Double (Work in Progress) |
 | File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
+|  | Ten-Gallon Hat | Grants a random buff. | Hive Chests | N/A |
+| File:Static-assets-upload10220259416551286672.png | Strapped Hat (Series) | Grants a random buff. | Depths Chests | Black & Double (Work in Progress) |
 | File:Investigator's Hat.png | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
 | File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests | N/A |
@@ -122,14 +123,9 @@ _\+ Talent: Pitcher_
 
 _\+ 4% Stealth_
 
- | Depths Chests | N/A |
-| File:Brown Hood.png | Brown Hood | Grants a random buff.
-
-_\+ 4% Stealth_
-
- | Depths Chests | N/A |
+ | Depths Chests | Black & Brown |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants a random buff. | Fort Merit Chests, Depths Chests | N/A |
-| File:VigilHood.png | Pale Assassin Hood | Grants a random buff. | Hive Chests | N/A |
+| File:VigilHood.png | Assassin's Hood | Grants a random buff. | Hive Chests | Gold & Pale |
 | 
 
  | Vigil Hood | Grants a random buff. | Hive Chests, Depths Chests | N/A |
@@ -215,7 +211,7 @@ File:Royal Guard's Kabuto.png
 _\+ Talent: Blinded_
 
  | Minityrsa Chests, Songseeker Chests | N/A |
-| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Black, Orange, Red & Yellow |
+| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Black, Blue, Green, Orange, Red & Yellow |
 | File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies, Erisia Chests, Songseeker Chests & Minityrsa Chests | N/A |
 | File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests | N/A |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
@@ -438,7 +434,7 @@ Grants one random buff. _Requires Power 10_
 _Requires Power 40_
 
  | Primadon Chests, Depths Chests |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chest, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
 |  | Silver Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests |
 |  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
 
@@ -453,7 +449,7 @@ Grants one random buff. _Requires Power 10_
 
 "Requires Power 20".
 
- | Ferryman Chest, Deep Widow Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests, Aelita's Chest. |
+ | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests. |
 |  | Dawnfist's Ring
 
 (Legendary)
@@ -476,12 +472,12 @@ _Requires Power 15_
 
 _Requires Power 40_
 
- | Aelita Chests, Arena Chests, Duke Chests |
+ | Aelita Chests, Arena Chests, Duke Erisia's Chests |
 | File:Moon Ring.png | Moon Ring
 
 (Legendary)
 
- | Conceal your age, appearing as if you were younger than 40. | Depths Chests, Duke, Aelita's Chests, Arena Chests |
+ | Conceal your age, appearing as if you were younger than 40. | Aelita's Chests, Deep Widow's Chests, Depths Chests, Duke Erisia's Chests, Arena Chests |
 
   
 

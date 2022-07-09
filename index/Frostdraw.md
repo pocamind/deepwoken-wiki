@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33705
+revid: 33730
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -115,7 +115,7 @@ _A legion of frost._
 -   Deals Moderate damage if both blows hit.
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
--   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a Reversal Spark to get the same effect.
+-   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 
  |
 |  | 
@@ -147,7 +147,7 @@ _Form and toss daggers of ice at your aimed opponent._
  | User forms three daggers of ice before throwing them towards the nearest person.
 
 -   Homing attack.
--   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)
+-   Can be upgraded with the "Frozen Pin-Cushion" talent (Freezes opponents for a long period of time).
 -   If out of range it will take ether and create daggers but they will not be thrown.
 -   Also doesn't work if you are just a couple of studs higher than your opponent, though this is often inconsistent.
 
@@ -165,7 +165,7 @@ _A barrage of freezing blades._
  | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
--   _Can be parried on 1st and 2nd hits_.
+-   1st and 2nd hit are parryable.
 
  |
 |  | 
@@ -178,7 +178,7 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time dealing light damage.
+ | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
 -   The number of chains can be increased with Cloudstones presumably increasing the damage, but it's a pretty bad mantra in general considering it's lackluster hitbox.
 
@@ -214,6 +214,7 @@ _A flurry of ice spikes._
 -   Deals moderate damage.
 -   Slows target(s) down.
 -   Leaves ice where Mantra is casted.
+-   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form around the user instead of it erupting forward.
 
  |
 | 180x180 | 
@@ -232,7 +233,7 @@ _Placeholder"_
 -   Has a slow windup.
 -   If trapped in ice, the ice will shatter early if hit
 
-Disclaimer: This is from the Deepwoken Layer 2 Combat Direct video. This may change, or might never be added into the game anyways.
+Disclaimer: This is from the Deepwoken Layer 2 Combat Direct video. This may change, or might not get added into the game.
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -300,7 +301,7 @@ _Knock your enemy skyward with a kick of crystal._
 
  | Perform a short flipkick that throws your enemies into the air
 
--   Compatible with a Spring Spark to launch the opponent away instead of upward.
+-   Compatible with a [Spring Spark](Mantra_Modifiers.md) to launch opponents away instead of launching them upward.
 
  |
 | 
@@ -316,7 +317,7 @@ _Impale your foes with a brutal crystal smash._
  | User briefly ascends before swiftly descends
 
 -   Deals around six to eight hits.
--   Can be combo-ed into from an unmodified Crystal Knee.
+-   Can be combo-ed if paired with an unmodified "Crystal Knee" mantra.
 
  |
 
@@ -337,10 +338,10 @@ _An arc of ice._
 
  | Conjures a solid ice pillar that follows the cursor is.
 
--   Can be used to climb or cross gaps.
+-   Can be used to climb walls or cross gaps.
 -   Deals heavy damage and briefly slows targets.
--   Can be upgraded with a Glass Stone; This makes it form a small glacial eruption at the end of it.
--   Can be upgraded with Cloudstones to form more arcs.
+-   Can be modified with a Glass Stone; this causes it form a small ice eruption at the end of the pillar.
+-   Can be modified with Cloudstones to form more arcs.
 
  |
 | File:Ice Skate.png | 
@@ -358,7 +359,8 @@ _Skate freely on paths of ice._
  | While on or above water, create a frozen platform that you slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active
--   The legendary talent "Frozone" allows the user to cast this mantra anywhere, this includes [The Depths](The_Depths.md).
+-   The legendary "Frozone" talent allows the user to cast this mantra anywhere
+    -   This includes [The Depths](The_Depths.md).
 
   
 
@@ -387,7 +389,7 @@ _Skate freely on paths of ice._
   <ul>
     <li>Needs more testing.</li>
   </ul></li>
-    <li>Don't use when your teammates are nearby, because this can freeze others.</li>
+    <li>Do not use near teammates as it can freeze them.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -634,7 +636,7 @@ These talents are found in the _Ice Age_ category.
 | 
  | 
 
-Crystallization
+Glass Path: Crystallization
 
  | 
 
@@ -855,12 +857,12 @@ Your ice spear now lodges into human opponents and explodes.
 -   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
 -   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
--   The "Frozone" Talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
--   The "Cryonis" Talent card has a faulty description, it only reduced ether of certain moves (Last Updated: 27th of March 2022).
-    -   List of mantras that DO get a ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc.
+-   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
+-   The "Cryonis" talent has a faulty description, it only reduced ether of certain moves :
+    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc.
     -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
     -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Frozen Servants, Ice Laser, Ice Blade, Ice Chain, Ice Forge & Ice Skates.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   Ice Eruption does less damage the larger it gets?
-    -   Never tested, but was stated in update log.
--   Wardens blades is very easy to movestack with, you can use other mantras or just m1 while using it.
+    -   Never tested, but was stated in an update log.
+-   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.

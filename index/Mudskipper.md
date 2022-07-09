@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 33535
+revid: 33753
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -48,6 +48,8 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.
 -   Don't let your allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be gripped by the explosion.
     -   This can also be a good way of managing numbers, allowing you to grip many enemies at once.
+
+-   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 32302
+revid: 33734
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -29,7 +29,7 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 | Critical | \[[Falchion](Falchion.md)\] Performs a windup before thrusting sword forward.
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Raises blade upward before slamming it down to the ground.
 
- | ◯ | ◯ | (★★☆) |
+ | ◯ | ✗ | (★★☆) |
 
 ### Boons
 

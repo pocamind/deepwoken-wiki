@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 31136
+revid: 33752
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,18 +12,24 @@ notices:
 
 This is a list of several materials in Deepwoken as well as their uses.
 
-  
+Wood - Received by cutting down trees. Cannot be sold to Antiquarian. However, it can be crafted into a campfire pit and three sticks.(The original person who wrote this sentence does not know how to spell.)
 
-Wood - Recieved by cutting down tree's. Cannot be sold to appraiser, can be crafted into a fire pit and sticks.
+Coal - Can be combined with a rock to create flint.
 
-Coal - Can be combined with a rock to create flint. (Probably used for fuel of a furnace)
+Rock - Used for the [Hive Drone](Hive_Drone.md) schematic and can be combined with 1 Coal to make Flint. You can also throw it.
 
-Flint - Used to light fires. Has 15 uses.
+[Flint](Flint.md)\- Used to light fires. Has 15 uses.
 
-Umbral Flint - Made with 1X Coal and 1X Umbral Obsidian. A Flint with 150 uses.
+Umbral Flint - Made with 1 Coal and 1 Umbral Obsidian. It has 150 uses.
 
-Cloth - Can be used in crafts by the blacksmith (Probably other uses). (Talk to the boy to get a discount on buying them)
+Cloth - Used in schematics.
 
-Fiber - Made from bamboo. Used in schematics by the blacksmiths. (Possibly other uses)
+Fiber - Made from bamboo and spider eggs. Used in schematics and to craft cloth. Also used to craft a fishing rod.
 
-Iron - Used in multiple schematics and crafted items, 1X iron in normal crafting window creates 5x bullets. (More uses to be added)
+Iron - Used in multiple schematics and crafted items, Craft one Iron to create 5 bullets. (More uses to be added)
+
+Gold, [Irithine](Ores.md#irithine), and Erisore - Used in schematics.
+
+## Notes
+
+-   Talk to the apprentice near the [Blacksmith](Blacksmith.md) in Etris and choose the first option to get a material discount.
