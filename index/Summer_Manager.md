@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 33716
+revid: 33778
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,15 +11,15 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Summer Company Managers are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
+Summer Managers are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
 
--   A Summer Company Manager standing around Ignition Union corpses with an Explosive Crate
+-   A Summer Manager accompanied by 2 Summer Company Guards standing around Ignition Union corpses with an Explosive Crate
 
-A Summer Company Manager only wears a Summer Company Uniform outfit with their [race](Aspects.md) varying.
+A Summer Manager only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 
-A Summer Company Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
+A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ A Summer Company Manager's arsenal only consists of a [Flintlock](Flintlock.md) 
 
 ## Finisher
 
-A Summer Company Manager executes the player after knocking them:
+A Summer Manager executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |

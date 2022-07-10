@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33748
+revid: 33770
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -75,11 +75,11 @@ _Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen
 
 Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
 
-Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat and Royal Pathfinder Coat.**
+Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (Variants vary, 2+), **the exceptions being Star Duster, Providence Coat and Royal Pathfinder Coat.**
 
-When an armor piece is generated, it will roll its stats a certain amounts of times to decide what its stats will be. The amount of stats per roll varies from armor to armor (E.G: an item could obtain 2 hp per roll, while another would get 5), so does the amount of rolls (E.G: an item would roll 1 time, while another would roll 4 times). More common armor pieces will have a lower amount of rolls and weaker stats, while a higher rarity piece would roll more times with better stats per roll. Star Rating gives an additional roll for each star. Note that whenever a stat is rolled, the odds of rolling it again are reduced. This stacks indefinitely, making each succesive roll have less and less chance of getting the same stat.
+When an armor piece is generated, it will roll its stats a certain amounts of times to decide what its stats will be. The amount of stats per roll varies from armor to armor (E.G: an item could obtain **2 HP** per roll, while another would get 5), so does the amount of rolls (E.G: an item would roll 1 time, while another would roll 4 times). More common armor pieces will have a lower amount of rolls and weaker stats, while a higher rarity piece would roll more times with better stats per roll. Star Rating gives an additional roll for each star. Note that whenever a stat is rolled, the odds of rolling it again are reduced. This stacks indefinitely, making each succesive roll have less and less chance of getting the same stat.
 
-Some armor pieces comes with stats that will always appear, like +1 posture for Star Dusters. These guaranted stats does not consume a stat roll.
+Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters. These guaranteed stats do not consume a stat roll.
 
 **Head:**
 
@@ -113,13 +113,13 @@ _\+ Talent: Pitcher_
 
  | Hive Chests | N/A |
 | File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
-|  | Ten-Gallon Hat | Grants a random buff. | Hive Chests | N/A |
 | File:Static-assets-upload10220259416551286672.png | Strapped Hat (Series) | Grants a random buff. | Depths Chests | Black & Double (Work in Progress) |
 | File:Investigator's Hat.png | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
+|  | Ten-Gallon Hat | Grants a random buff. | Hive Chests | N/A |
 | File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests | N/A |
 |  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests, Duke Chests | N/A |
-| File:Black Hood.png | Black Hood | Grants a random buff.
+| File:Black Hood.png | Hood (Series) | Grants a random buff.
 
 _\+ 4% Stealth_
 
@@ -226,15 +226,15 @@ _\+ Talent: Blinded_
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
+|  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
 |  | Amethyst Pendant Earrings | Grants a random buff. | (Work in Progress) | N/A |
 |  | Crystal Pendant Earrings | Grants a random buff. | Hive Chests | N/A |
-|  | Dewdrop Earrings | Grants a random buff. | Hive Chests | N/A |
+|  | Ruby Pendant Earrings | Grants a random buff. | Fishing Chests | N/A |
+|  | Dew Drop Earrings | Grants a random buff. | Hive Chests | N/A |
+|  | Ruby Drop Earrings | Grants a random buff. | Hive Chests | N/A |
 | File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests, Duke Chests | N/A |
 | File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests | N/A |
-|  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
 | File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |
-|  | Rubydrop Earrings | Grants a random buff. | Hive Chests | N/A |
-|  | Ruby Pendant Earrings | Grants a random buff. | Fishing Chests | N/A |
 
 **Back:**
 

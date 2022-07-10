@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 33752
+revid: 33773
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,7 +12,7 @@ notices:
 
 This is a list of several materials in Deepwoken as well as their uses.
 
-Wood - Received by cutting down trees. Cannot be sold to Antiquarian. However, it can be crafted into a campfire pit and three sticks.(The original person who wrote this sentence does not know how to spell.)
+Wood - Received by cutting down trees. Cannot be sold to Antiquarian. However, you can sell 10 of them for 5 notes at certain NPCs in Etris and Vigils. It can be crafted into a campfire pit and three sticks.
 
 Coal - Can be combined with a rock to create flint.
 
