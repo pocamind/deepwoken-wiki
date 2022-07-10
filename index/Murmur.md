@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 33204
+revid: 33757
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -73,7 +73,7 @@ The detection of Tacet can be reduced the higher Power the player is.
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 60, the player can avoid any and all monsters or NPCs even when touching them. Can even be used mid combo to immediatly lose aggro.
--   In PVE, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not.
+-   In PVP, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not.
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 

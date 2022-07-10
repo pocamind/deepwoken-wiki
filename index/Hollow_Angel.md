@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 33539
+revid: 33756
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,8 @@ categories: [Pages with broken file links, Monsters]
 
 # Hollow Angel
 
-**Lesser:**
+-   **Lesser:**
+    
 
 “ Want to meet God? C'mon!!! Let's go together! ”
 
@@ -18,7 +19,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Lesser Angels are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and can be associated with Unknown divine light attunements. They are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
+Lesser Angels are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and use the Crazy slots spear ability. They are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
 
 If a Watcher catches a player in its line of sight, its light beam will turn red, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters".
 
@@ -44,8 +45,6 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 -   Probably a reference to the angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
     
 
-**Regular:**
-
 “ IT HAS NO FUCKING ANIMATIONS!!! ”
 
 ― Level 8 Vesperian, desperately trying to do trial of one.
@@ -55,7 +54,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and can be associated with unknown divine light attunements.
+White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability.
 
 Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
