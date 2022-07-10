@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 31617
+revid: 33764
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,6 +48,8 @@ Death Causes listed by the game
 
 -   A Fearsome Opponent
 -   A Raging Inferno
+-   A Lowly Bandit
+-   Enemy Name
 -   Monster Name
 -   Player Name
 -   Starvation

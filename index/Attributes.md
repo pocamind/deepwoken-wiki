@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 33523
+revid: 33765
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -61,7 +61,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ― Canor merchant to a Fugitive Vesperian escaping Etrean guards.
 
-List of agility talents
+  
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
@@ -123,7 +123,7 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ― A stranded Felinor, describing the Crypt Blade.
 
-\- A Freshie Felinor Describing a Greatsword
+  
 
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
