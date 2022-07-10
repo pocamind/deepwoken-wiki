@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 33128
+revid: 33796
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -59,7 +59,7 @@ Gale Lunge
 
 ### Boons
 
--   Mantra Modification - An Apprentice Diver's Jolt Grab is modified with a [Magnet Spark](Mantra_Modifiers.md).
+-   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 
 ## Finisher
 

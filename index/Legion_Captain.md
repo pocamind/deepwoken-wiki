@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 32196
+revid: 33803
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Reputation, Random Encounters]
@@ -8,38 +8,66 @@ categories: [Enemies, Reputation, Random Encounters]
 
 # Legion Captain
 
-Template:EnemyInfobox1.0  
+Template:EnemyInfobox1.0
 
 ## Description
 
-The Legion Captain is a Humanoid NPC which appears to wear the [Legion Centurion](Legion_Centurion.md) outfit, Khan Boots, Khan Helmet and Khan Pauldrons. They have two variants: One that attacks on sight, dubbed the [Legion Javelin Captain](Legion_Sniper.md) and a neutral one that fights the Authority Commander. These encounters are exclusive to [Starswept Valley](The_Starswept_Valley.md).
+The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md) on [Aratel Island](Aratel_Island.md). They have two variants: A neutral one that is always seen fighting an [Authority Captain](Authority_Captain.md) and an aggressive one that attacks anyone on sight, dubbed the Legion Javelin Captain.
 
-## **Moves**
+A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots with their [race](Aspects.md) and gender varying.
 
-**The Captain has access to different weapons, those being:** A Champion Sword or Ritual Spear and Legion Kata without Cestus.
+## Moveset
 
-| Name | Description | Parryable? | Bloakcable? | Danger |
+A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>) or [Ritual Spear](Ritual_Spear.md) and [Fists](Fists.md) (**Legion Kata**) without Cestus along with the [Galebreathe](Galebreathe.md) attunement:
+
+| Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Rising Wind | The Captain uppercuts their opponent, rapidly damaging them.
-Compared to it's player counterpart, this attack is very deadly and can deal up to 2 bars of damage.
+| Assault | \[[Champion's Sword](<Champion's_Sword.md>)\] Firmly swings blade at opponent and finishing up the combo by kicking them.
+\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
 
- | ◯ | ◯ | (★★★) |
-| Heavenly Wind | The Captain jumps into the air and strikes down. | ◯ | ◯ | (★☆☆) |
-| Gale Lunge | The Captain lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
-| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
-| Rapid Punches | Unleash a barrage of blows against their opponent | ◯ | ◯ | (★★☆) |
+\[[Fists](Fists.md)\] Firmly pummels opponent and finishing up the combo by kicking them.
 
-  
+ | ◯ | ◯ | (★☆☆) |
+| Critical | \[[Champion's Sword](<Champion's_Sword.md>)\] Performs a wind-up before firmly thrusting blade forward.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+\[[Fists](Fists.md)\] Raises leg before firmly slamming it down to the ground.
+
+ | ◯ | ✗ | (★★☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+| Heavenly Wind | User leaps high into the air before striking down. | ◯ | ◯ | (★☆☆) |
+| Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★☆☆) |
+| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
+
+### Boons
+
+-   Experienced Fighter - Can block and parry common attacks and mantras.
+
+## Finisher
+
+A Legion Captain executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Champion's Sword](<Champion's_Sword.md>)\] Pins down opponent before slicing their throat with blade.
+\[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
+
+\[[Fists](Fists.md)\] Pins down opponent before firmly bashing their face.
+
+ |
 
 ## Trivia
 
 -   The weapon they spawn with appears to affect their chance of winning:
-    -   **Legion Kata:** Almost always results in victory.
-    -   **Champion's Sword:** Will only lose if the Authority Commander also has a sword.
-    -   **Ritual Spear:** Loss.
+    -   [Fists](Fists.md) (**Legion Kata**): Almost always results in victory.
+    -   [Champion's Sword](<Champion's_Sword.md>): Will only lose if the Authority Commander also has a sword.
+    -   [Ritual Spear](Ritual_Spear.md): Loss.
 -   The Legion Captain, after killing the Authority Commander, instantly aggravates on the nearest enemy NPC, regardless if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have anymore targets**, therefore, you will not be able to talk to them.
 -   Along with the Javelin Captain, he's one of the strongest NPCs due to all of his mantras and being able to "spam" them.
 -   Normally called "Legion Centurion" or just "Khan" by the playerbase.
 -   Definitely one of the most Player-like NPCs.
 -   Your starter rep with the legion is actually "negative"/neutral, they use the negative rep text but won't attack you.
 -   If you're looking to do the Legion Cosplay, they're optimal NPCs to help, they drop Khan Helmets, Pauldrons, Shields, Champion Swords, Legion Cestuses if they win the encounter.
+-   Almost has the same moveset as [Polis](Polis.md).

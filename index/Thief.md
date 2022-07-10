@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 33739
+revid: 33793
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Their arsenal only consists of a [Gilded Knife](Gilded_Knife.md):
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
-| Critical | Unleash a quick flurry attack on opponent. | ◯ | ◯ | (★★☆) |
+| Critical | Unleash a quick flurry attack on opponent. | ◯ | ✗ | (★★☆) |
 
 ### Finisher
 

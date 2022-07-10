@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 32517
+revid: 33808
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,9 +11,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Legion Soldier is an enemy NPC that can be found in the [Viper's Jaw](<The_Viper's_Jaw.md>) and during a Legion vs Authority event in [Upper Erisia](Upper_Erisia.md).
+A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's_Jaw.md>) and the following events:
 
-A Legion Soldier wears a 11th Legion Plate, a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots with their [race](Aspects.md) and gender varying.
+-   Legion Soldiers vs Authority Footsoldiers event ([Upper Erisia](Upper_Erisia.md))
+
+A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots with their [race](Aspects.md) and gender varying.
 
 ## Moveset
 
@@ -27,7 +29,7 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Champion's Sword](<Champion's_Sword.md>)\] Performs a wind-up before firmly thrusting blade forward.
 
-\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the hit lands.
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |

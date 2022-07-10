@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 32744
+revid: 33792
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,7 @@ A Bandit Leader's arsenal consists of a starter weapon, them being a [Battleaxe]
 \[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.  
 \[[Gilded Knife](Gilded_Knife.md)\] Performs a windup before unleashing a flurry of slashes.
 
- | ◯ | ◯ | (★★☆) |
+ | ◯ | ✗ | (★★☆) |
 
 ### Boons
 

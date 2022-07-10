@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 33694
+revid: 33789
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

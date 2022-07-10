@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 31406
+revid: 33794
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,5 +20,5 @@ An Authority Flamecharmer's arsenal consists of either a [Battleaxe](Battleaxe.m
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Performs a windup before thrusting blade forward. | ◯ | ◯ | (★★☆) |
+| Critical | Performs a windup before thrusting blade forward. | ◯ | ✗ | (★★☆) |
 | Flare | Conjures a ball of fire before throwing it at opponent. | (Work in Progress) | (Work in Progress) | (★★☆) |

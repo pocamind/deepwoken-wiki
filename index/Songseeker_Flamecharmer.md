@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 32321
+revid: 33806
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted
 
 ## Moveset
 
-A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (Fist of Navae) and the [Flamecharm](Flamecharm.md) attunement:
+A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (Way of Navae) and the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 30830
+revid: 33812
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -25,7 +25,9 @@ categories: [Weapons, Weaponry, Items]
 | obtainment | Picking Heavy in Character Creation, Etris Weapons Shop |
 | description | A sturdy axe perfect for splitting bone. |
 
-_**What do you mean, this axe should be able to be used as an axe. I mean it's a axe. "A freshie trying to get some wood"**_
+“ What do you mean, this axe should be able to be used as an axe. I mean it's a axe. ”
+
+― A freshie trying to chop down some trees.
 
 ## Description
 

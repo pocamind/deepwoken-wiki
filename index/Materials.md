@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 33773
+revid: 33802
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -33,3 +33,4 @@ Gold, [Irithine](Ores.md#irithine), and Erisore - Used in schematics.
 ## Notes
 
 -   Talk to the apprentice near the [Blacksmith](Blacksmith.md) in Etris and choose the first option to get a material discount.
+-   The talent Survival Kit makes your flint never run out of uses.

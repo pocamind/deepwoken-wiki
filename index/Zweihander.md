@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 32642
+revid: 33813
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Weapon Shop at Etris (100 notes), or at Erisa (Quite rare droprate). |
+| obtainment | Weapon Shop at Etris (100 notes), or at Erisia (Quite rare droprate). |
 | description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
 
 “ INITIATE PHASE ONE. POWER UP THE BASS CANNON. ”
@@ -37,7 +37,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords
 
 Zweihänder is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md).
 
-Like any other greatsword you get super armor if you swing after a parry.  
+Like any other greatsword you get hyper armor if you swing after a parry.  
 
 ## Trivia
 

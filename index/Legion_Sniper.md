@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 32884
+revid: 33805
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,15 +17,11 @@ According to [Amara](Amara.md), these Legion Captains are hostile to "outlanders
 
 ## Moveset
 
-A Hostile Legion Captain's arsenal consists of a [Ritual Spear](Ritual_Spear.md) and the [Thundercall](Thundercall.md) attunement:
+A Hostile Legion Captain's arsenal consists of a [Ritual Spear](Ritual_Spear.md) along with the [Thundercall](Thundercall.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| 
-Grand Javelin
-
- | User throws a spear of lightning in front of them.
-
+| Grand Javelin | User throws a spear of lightning in front of them.
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 
  | ◯ | ✗ | (★★★) |

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 33121
+revid: 33816
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -32,7 +32,7 @@ During this event, most regular NPCs from the town will not be available.
 
 #### **Bandit Camp**
 
-A campfire, circled by three NPCs, consisting of two regular bandits and one Bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
+A campfire, circled by three NPCs, consisting of two regular bandits and one Bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
 
 **Weapons:** Basic or semi advanced
 
@@ -90,7 +90,7 @@ A group of three villager NPCs spawn around a campfire in Erisor's Church. Skept
 
 #### **Brainsucker Swarm**
 
-Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Multiple [Brainsuckers](Brainsucker.md) spawn in mid air, in groups of two, and swarm their prey, all dive bombing them at once. Killing them all spawns a chest.
+Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### **Mudskipper Emergence**
 
@@ -186,7 +186,7 @@ If the player were to have 100 charisma, you can side with The Union and insult 
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
-The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in Upper Erisia and Summer Isle. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
+The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in Upper Erisia and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
 
 ### **Stranger NPC**
 

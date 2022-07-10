@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 33550
+revid: 33801
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -29,7 +29,7 @@ They may only spawn in the area during the Winter [Season](Seasons.md). This wil
 
 Defeating the whole group will spawn a chest near the frozen river that guarantees to contain at least one of the five [Heroes Blade](Hero_Blades.md) and or possibly one of the many variant of [Ministry Cloak](Outfits.md#arms).
 
-**Desert Knight:**
+**Stone Knight:**
 
 “ A wild Regirock has appeared ”
 

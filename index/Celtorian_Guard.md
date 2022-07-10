@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 32313
+revid: 33811
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Celtor Guard is an NPC that can only be found in [The Depths](The_Depths.md). They are found in and around Celtor. Having spent so long in The Depths has lead to them degrading over time, referred to only as 'losing their self.'
+A Celtor Guard is an NPC that can only be found in [The Depths](The_Depths.md). They are found in and around Celtor. Having spent so long in [The Depths](The_Depths.md) has lead to them degrading overtime, referred to only as 'losing their self'.
 
 ## Moveset
 
@@ -25,7 +25,7 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.
 
-\[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the hit lands.
+\[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★☆☆) |
 
@@ -33,21 +33,20 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 
 A Celtor Guard executes it's opponent after knocking them:
 
-<table>
-<tbody>
-<tr>
-  <td>Execute</td>
-  <td>[<a href="Messer.md">Messer</a>] Pins down opponent before slicing throat with blade.<p>[<a href="Trident_Spear.md">Trident Spear</a>] Pins down opponent before impaling their chest with spear.</p></td>
-</tr>
-</tbody>
-</table>
+| Name | Description |
+| --- | --- |
+| Execute | \[[Messer](Messer.md)\] Pins down opponent before slicing throat with blade.
+\[[Trident Spear](Trident_Spear.md)\] Pins down opponent before impaling their chest with spear.
+
+ |
 
 ## Tips
 
--   This enemy isn't very challenging, nor is it very smart. Most basic humanoid attack strategies will kill it, and quickly.
-    -   Feinting and parrying frequently.
--   A heavy weapons critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
--   Decent health-pack in the event that a Gigamed is not nearby.
+-   This enemy isn't very hard to kill, nor is it very smart. Most basic attack strategies will work and it can be killed quickly.
+    -   Feinting and parrying frequently is a good idea.
+-   A heavy weapon critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
+-   Decent health-pack in the event that a [Gigamed](Gigamed.md) is not nearby.
+-   If you have bad rep with Celtor, these guys will chase you.
 
 ## Trivia
 
