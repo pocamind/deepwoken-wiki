@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 33066
+revid: 33869
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils]
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings sword at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before unleashing a quick slash. | ◯ | ✗ | (★★☆) |
+| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
 
 ### Boons
 
@@ -26,7 +26,7 @@ Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils]
 
 ## Finisher
 
-A Blade Temple Guard executes the player after knocking them.
+A Blade Temple Guard executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33856
+revid: 33872
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -321,6 +321,11 @@ _Requires Power 30_
 (Legendary)
 
  | Placeholder | Primadon Chests | Black (Work in Progress) |
+|  | Diver's Light Plate
+
+(Legendary)
+
+ | Grants a random buff. | The Depths Monster Drops (Hell Mode) | N/A |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power 40_
