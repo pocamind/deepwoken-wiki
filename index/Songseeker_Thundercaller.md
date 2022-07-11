@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 32341
+revid: 33877
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlis
 
 ## Moveset
 
-A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) (Fist of Navae) and the [Thundercall](Thundercall.md) attunement:
+A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) (**Fist of Navae**) and the [Thundercall](Thundercall.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

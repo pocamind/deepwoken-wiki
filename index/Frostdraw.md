@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33730
+revid: 33891
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -271,8 +271,8 @@ _Form an ice spear and lunges forward._
  |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
 
-Ice Fissure
-
+  
+Ice Fissure  
 (★★★)
 
  | 

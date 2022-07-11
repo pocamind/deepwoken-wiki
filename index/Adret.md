@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 33854
+revid: 33897
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -26,10 +26,10 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
   <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
   <td><b>Maudet</b>
   <ul>
-    <li><i>Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking.</i>
+    <li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i>
   <ul>
-    <li>Given stat point every power to use at a campfire</li>
-    <li>Starts with better reputation with village NPCs</li>
+    <li>Receive 1 free point whenever you Power up.</li>
+    <li>Your starting reputation with all factions is higher.</li>
     <li>+1 Health</li>
   </ul></li>
   </ul></td>

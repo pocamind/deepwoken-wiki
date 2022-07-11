@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 33037
+revid: 33894
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -28,7 +28,7 @@ Normal Resonances are the basic version of each Resonance, and the most common. 
 
 _From data of 100 rerolls, the calculated chance of getting a normal Resonance was 92% (276/300, almost guaranteed per reroll)_
 
-### Corrupted Resonance
+### Corrupted Resonances
 
 **Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however, they are rarer and stronger.
 
@@ -48,7 +48,7 @@ These downsides do not appear to be correlated to any Resonances, meaning any Re
 
 All Corrupted Resonance effects are listed in their corresponding Resonance page.
 
-### Legendary Resonance
+### Legendary Resonances
 
 **Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
 

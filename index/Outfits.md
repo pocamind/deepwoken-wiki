@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33872
+revid: 33898
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -351,7 +351,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Valley of Heroes Chests | Onyx, Scarlet & Smoke (Work in Progress) |
+ | Valley of Heroes Chests | Onyx, Peach, Scarlet & Smoke (Work in Progress) |
 | File:Pale.jpg | Assassin's Cloak | Grants a random buff.
 
 _Requires Power 30_

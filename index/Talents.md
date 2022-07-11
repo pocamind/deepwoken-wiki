@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33845
+revid: 33895
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -375,8 +375,11 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Reservoir. (Better Reservoir Regeneration)
     -   Prerequisite: Automatically granted when you escape from The Depths once.
 
--   Spell Shout-You will now shout your mantra name upon cast.
-    -   Prerequisite: Buying the talent from [Valkior](Valikor.md)
+-   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
+    -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
+    -   Renamed mantras will use the new name. Casting Agility renamed to Speed Boost will say "Speed Boost!".
+    -   If a mantra name gets moderated by the chat (####), the shout will default to the original name of the mantra.
+    -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
 
 ### Duelist
 

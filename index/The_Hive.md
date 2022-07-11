@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 33871
+revid: 33886
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -41,6 +41,11 @@ In addition, helping Hive Guards in the following events will allow you to incre
 
 ### **Dialogue**
 
+Good Reputation:
+
+-   "I hope your journeys outside the Hive go well, \[Name\]"
+-   "Welcome back, \[Name\]. It's good to see you among us again."
+
 Neutral-Good Reputation:
 
 -   "Welcome, friend of the Hive."
@@ -63,6 +68,7 @@ Neutral-Bad Reputation:
 
 ## NPCs
 
+-   [Regek](Regek.md)
 -   [Suri](Suri.md)
 -   Laplace
 -   Kaab

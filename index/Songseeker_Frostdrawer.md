@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 32123
+revid: 33876
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ A Songseeker Frostdrawer wears a Royal Guard Mask (Blue) and an Unknown/Unlisted
 
 ## Moveset
 
-A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (Fist of Navae) and the [Frostdraw](Frostdraw.md) attunement:
+A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (**Fist of Navae**) and the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

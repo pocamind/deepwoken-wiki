@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33861
+revid: 33907
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]

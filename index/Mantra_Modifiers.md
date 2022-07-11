@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 33339
+revid: 33883
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -507,7 +507,7 @@ Tornado Spark
 
  | 
 
--   Fire Blade (Confirmed broken as of the 1st of May 2022)
+-   Fire Blade (Might be or might not be broken as of the 1st of May 2022)
 
 -   Champion's Whirlthrow
 
@@ -1048,7 +1048,7 @@ File:Ice Eruption with Round Spark.gif
  | 
 
 -   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
-    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) and [Authority Commander's](Authority_Commander.md) Ice Eruption.
+    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) and [Authority Captain's](Authority_Captain.md) Ice Eruption.
 
  |
 
@@ -1098,8 +1098,6 @@ Shade Bringer
 
  | 
 
-File:Shade Bringer with Spring Spark.gif
-
  | 
 
 -   This modifier causes the "Shade Bringer" mantra perform a jump before slamming the blade down.
@@ -1139,8 +1137,8 @@ File:Fire Blade with Tornado Spark.gif
 
  | 
 
--   This modifier seems to have no effect on the "Fire Blade" mantra.
-    -   Confirmed broken as of the 1st of May 2022.
+-   Reduces Ether cost?
+    -   Might be or might not be broken as of the 1st of May 2022.
 
  |
 | 
