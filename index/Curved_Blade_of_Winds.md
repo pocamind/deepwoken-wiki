@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 32775
+revid: 33844
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -43,3 +43,4 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   The sword is similar to a Chinese Dadao sword.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
     -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably buy your kidney.
+-   When using the weapon one handed it becomes 2 swords

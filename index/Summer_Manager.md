@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 33778
+revid: 33821
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Template:EnemyInfobox1.0
 
 Summer Managers are enemy NPCs that can only be found on Summer Isle. They can only spawn at this event:
 
--   A Summer Manager accompanied by 2 Summer Company Guards standing around Ignition Union corpses with an Explosive Crate
+-   A Summer Manager accompanied by two Summer Company Guards standing around Ignition Union corpses with an Explosive Crate
 
 A Summer Manager only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [race](Aspects.md) varying.
 

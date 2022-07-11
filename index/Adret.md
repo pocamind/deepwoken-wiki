@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 33564
+revid: 33854
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -104,3 +104,4 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
     
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
+-   Adret innate talent stacks with Autodidact,so every power up you get 2 points

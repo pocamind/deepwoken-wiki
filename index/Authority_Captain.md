@@ -1,15 +1,11 @@
 ---
 title: Authority Captain
-revid: 33810
+revid: 33825
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Captain
-
-“ WHY WON'T IT JUST DIE ALREADY! ”
-
-― A power 40 fighting an Authority Captain
 
 Template:EnemyInfobox1.0
 
@@ -56,7 +52,6 @@ Glacial Shower
 ### Boons:
 
 -   Mantra Modification - An Authority Captain's "Ice Eruption" mantra is modified with a [Round Spark](Mantra_Modifiers.md).
--   Experienced Fighter - Can block and parry common attacks and mantras.
 
 ## Finisher
 

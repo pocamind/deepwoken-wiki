@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33766
+revid: 33845
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -374,6 +374,9 @@ These Talents are mainly aimed at making assassination much more potent, especia
     -   Prerequisites: Automatically granted when you reach Power 2.
 -   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Reservoir. (Better Reservoir Regeneration)
     -   Prerequisite: Automatically granted when you escape from The Depths once.
+
+-   Spell Shout-You will now shout your mantra name upon cast.
+    -   Prerequisite: Buying the talent from [Valkior](Valikor.md)
 
 ### Duelist
 
