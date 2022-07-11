@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33770
+revid: 33856
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -427,7 +427,7 @@ Grants one random buff. _Requires Power 10_
 
  | Duke Chests, Primadon Chests, Depths Chests |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
-| File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Primadon Chests, Depths Chests |
+| File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater and acid with no side effects. | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 50%
 
