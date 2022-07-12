@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 33034
+revid: 33936
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -651,6 +651,21 @@ All of your wind attacks apply 'Suffocate'.
  | 
 
 +1 Elemental Intensity +2 Health
+
+FROM: Silencer's Edge
+
+ |
+| File:Galebreathe Talent Placeholder.png | 
+
+Silencer's Blade
+
+ | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
+
+-   Rare Talent
+
+ | 
+
++1 Elemental Intensity +3 Health
 
 FROM: Silencer's Edge
 

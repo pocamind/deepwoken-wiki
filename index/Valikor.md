@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 33863
+revid: 33923
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]

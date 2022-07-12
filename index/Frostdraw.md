@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33891
+revid: 33935
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -344,7 +344,7 @@ _An arc of ice._
 -   Can be modified with Cloudstones to form more arcs.
 
  |
-| File:Ice Skate.png | 
+| [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
 
 Ice Skates
 
