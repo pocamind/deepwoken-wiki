@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 31436
+revid: 33944
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -86,6 +86,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
 -   This resonance also may be inspired by Shardblades in _The Stormlight Archive_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
 -   Though it is unclear if this Resonance have a variants but it seems each player got their different percentage of what weapon they will conjure. For example my friend who had a 100 MED weapon often got Divine Spear while I 100 HVY often got Divine Greatsword and my second friend who is unlucky with also 100 MED often get Divine Greataxe or Divine Flintlocks. Though this is still unclear
+-   While crazy slot's roll chances are effected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common, depending on where the points are spent. This is just speculation, however.
+-   It is possible that "time" may be a stat in which points can be allocated when rolling crazy slots, as your weapon will only last a certain amount of time before disappearing on it's own.
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
     -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Axes.
     -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 33936
+revid: 33943
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -745,3 +745,4 @@ FROM: Inhale
     -   _"Winded"_ reduces your opponent's attack speed.
     -   _"Suffocate"_ reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
     -   It is the only Attunement to be able to do this without any evolution paths.
+-   Galebreathe is usually used for metamancing, as almost every build (including attunementless with Gale stat 1) can be very strong (obv skill also matters)

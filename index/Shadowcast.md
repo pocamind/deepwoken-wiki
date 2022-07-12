@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 33804
+revid: 33949
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Mantras]
 
 Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
 
-The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential, especially with the LordSendo shadowblade mantra cancel technique, which is very hard to deal with. Arguably the best element to use heavy with, most likely only rivaled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
+The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential, especially with the LordSendo shadowblade mantra cancel technique, which is very hard to deal with. Arguably the best element to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
 
 ## Obtainment & Training
 
@@ -389,3 +389,4 @@ File:Blackhole.png
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
+-   Shadow has the least mantras out of all attunements.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 33724
+revid: 33939
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -706,3 +706,4 @@ Azure Flames
 -   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.
 -   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air but expect fall damage upon use.
 -   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like "Agitating Spark" where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes "Flame Within" talent equal if not better than the "Static withdraw" talent or "Lightning Cloak" mantra.
+-   Flamecharm is the only attunement that can benefit it's [Hero Blade](https://deepwoken.fandom.com/wiki/Hero_Blades) as it has at least some sort of insta-grip.

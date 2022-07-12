@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33935
+revid: 33946
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -130,7 +130,8 @@ _Swift bolts of frozen air._
 
 -   Bad Hitbox.
 -   Damages opponents, _possibly slows them down._
--   Similar to Galebreathe's [Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7CWind).
+-   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
 -   Ice Beam is better.
 
  |
@@ -866,3 +867,5 @@ Your ice spear now lodges into human opponents and explodes.
 -   Ice Eruption does less damage the larger it gets?
     -   Never tested, but was stated in an update log.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
+-   Frostdraw has the most mantras with 3 stars on them.
+-   Frostdraw has the most mantras out of all attunements.
