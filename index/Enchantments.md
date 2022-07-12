@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33907
+revid: 33920
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -57,25 +57,25 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><figure>File:Blazing.png<figcaption></figcaption></figure><div><font>Blazing</font></div></td>
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
+  <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div><font>Chilling</font></div></td>
   <td><div><p>On proc, freeze the opponent.<br>
   If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p></div></td>
   <td><div>Weapon turn completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Weapon deal 1.1x damage.<br>
+  <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div><font>Deferred</font></div></td>
+  <td><div><p>Weapon deals 1.1x damage.<br>
   Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
+  <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div><font>Detonation</font></div></td>
   <td><div><p>After hitting a target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
@@ -83,18 +83,18 @@ Changelogs:
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div><font>Elastic</font></div></td>
   <td><div><p>On proc a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
+  <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div><font>Gluttony</font></div></td>
   <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
   Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div><font>Grim</font></div></td>
   <td><div><p><br>
   After hitting the target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
@@ -102,18 +102,17 @@ Changelogs:
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div><font>Heroism</font></div></td>
   <td><div><p>Weapon gain 1.25x damage if the user is above 90% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
+  <td><figure>File:Metal.png<figcaption></figcaption></figure><div><font>Metal</font><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure><figcaption></figcaption></figure><div><font>Ofuscation</font></div></td>
   <td><div><p>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds.<br>
   Attack speed buff is inversely proportional to the base attack speed:<br>
   slower weapons gains a greater increase in attack speed than fast weapons.</p></div></td>
@@ -128,30 +127,30 @@ Changelogs:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div><font>Seer</font></div></td>
   <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p></div></td>
   <td><div>Weapon gives off a brown particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div><font>Stone</font></div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Storm.webp<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:Storm.webp<figcaption></figcaption></figure><div><font>Storm</font></div></td>
   <td><div><p>On proc stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
+  <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div><font>Vampirism</font></div></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
+  <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div><font>Wild</font></div></td>
   <td><div><p>On hit, deal 10% of the weapon damage in an AOE.<br>
   M1s and Wild AOE to allies deals 0 damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
@@ -169,7 +168,7 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
   The slash is parryable.<br>
   Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 33894
+revid: 33918
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -42,7 +42,7 @@ Known downsides include:
 
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
--   On use, player will have a set amount of their health taken.
+-   On use, player will have exactly 20% taken from their health.
 
 These downsides do not appear to be correlated to any Resonances, meaning any Resonance can get any downside, and are very minor in effect. At most, the health one deals like 20%. Ironically, many Resonance effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances.
 

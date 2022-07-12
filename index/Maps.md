@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 33521
+revid: 33921
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -14,7 +14,7 @@ A gallery of maps for _Deepwoken_ locations.
 
 ## Overview
 
-Navigation in _Deepwoken_ can be confusing at first. Ues these maps if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
+Navigation in _Deepwoken_ can be confusing at first. Use these maps if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
 
 ## Maps
 
