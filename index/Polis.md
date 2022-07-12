@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 33818
+revid: 33957
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,7 @@ Polis executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | User pins down the opponent and slices their throat with their blade. |
+| **Execute** | User pins down the opponent and slices their throat with their blade. |
 
 ## Trivia
 

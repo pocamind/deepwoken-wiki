@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 31936
+revid: 33953
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -8,9 +8,9 @@ categories: [Luck, Mechanics]
 
 # Bounty Hunting
 
-“ My time has come. ”
+“ This is the way. ”
 
-― Fugitive players after bounty hunting was released.
+― Bounty hunters chasing Fugitive Players
 
 A Bounty Board located in Etris.
 
@@ -33,14 +33,14 @@ Examples:
 
 -   Taking as many bounties as possible is recomended as it gives you easy access to where people in your server are, espescially usefull if others plan on hunting you.
 -   If hunting as a team, make sure the bounty holder contributes enough damage and performs a **MANUAL** grip to the target for the bounty to be counted as complete.
--   if you are struggling to find targets you may find better luck by using the server browser to locate populated servers with more targets.
+-   If you are struggling to find targets you may find better luck by using the server browser to locate populated servers with more targets.
 -   Fort merit, (due to the popularly grinded hostage quest.) and Etris are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting aswell
 -   Carrying rocks aswell as either an Alchemist hat or the "pitcher" talent will prove usefull to prevent your adversaries from logging as not many people will appreciate your hunting.
 -   Bounty hunting is Tacet's best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log, be wary of what time you choose to attack however and take advantage of your enviroment to achieve the greatest effect.
 
 ## Trivia
 
--   The stars might be inspired from GTA, where in GTA the more stars you have the more wanted you are.
+-   The stars might be inspired by GTA, where in GTA the more stars you have the more wanted you are.
 -   You can hunt more people at once.
 -   Using Blood Scourge might not work since I think you actually have to grip the person.
 -   The least amount of stars someone can have is 2 stars

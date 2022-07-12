@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 33885
+revid: 33958
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,11 +13,11 @@ Template:EnemyInfobox1.0
 
 Legion Snipers are Humanoid NPCs which appear to wear a [Legion Centurion](Legion_Centurion.md) outfit along with a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots. They only use a single attack, that being the "[Grand Javelin](Thundercall.md)" mantra. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
 
-According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone. The Legion does not appear to care about their death all too much either, as unlike the Authority Patrol event, killing them does not affect your Reputation.
+According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone. The Legion does not appear to care about their death all too much either, killing them does not affect your [Reputation](Reputation.md).
 
 ## Moveset
 
-A Legion Sniper's arsenal consists of a [Ritual Spear](Ritual_Spear.md) along with the [Thundercall](Thundercall.md) attunement:
+A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or [Fists](Fists.md) (**Legion Kata**) along with the [Thundercall](Thundercall.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -40,7 +40,6 @@ A Legion Sniper's arsenal consists of a [Ritual Spear](Ritual_Spear.md) along wi
 ## Trivia
 
 -   Due to them being completely still, having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies with a high amount of HP and ranged moves (ex: [Desert Knights](Stone_Knight.md)) or [Threshers](Thresher.md) which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.
--   They're friendly to normal Legion NPCs and wont attack them.
+-   They're friendly to normal Legion NPCs and won't attack them.
 -   Even if it doesn't change anything, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
--   If you're looking to do the Legion Cosplay, they're optimal enemies to kill, they drop Khan Helmets, Pauldrons, Shields, Champion Swords and Legion Cestuses regularly.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.

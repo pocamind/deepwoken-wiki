@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 33870
+revid: 33955
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]

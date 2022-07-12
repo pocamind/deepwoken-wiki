@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33898
+revid: 33952
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -227,7 +227,7 @@ _\+ Talent: Blinded_
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
-|  | Amethyst Pendant Earrings | Grants a random buff. | (Work in Progress) | N/A |
+|  | Amethyst Pendant Earrings | Grants a random buff. | Ferryman drop(Summer) | N/A |
 |  | Crystal Pendant Earrings | Grants a random buff. | Hive Chests | N/A |
 |  | Ruby Pendant Earrings | Grants a random buff. | Fishing Chests | N/A |
 |  | Dew Drop Earrings | Grants a random buff. | Hive Chests | N/A |
