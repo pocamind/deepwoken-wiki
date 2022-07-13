@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 33979
+revid: 33986
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -70,8 +70,9 @@ Self: "Yeah, I suppose it is. Come speak to me again when you want to... Well.. 
 
 -   Clicking \[The End\] will wipe your character and transfer you to the character creation screen.
 
-## Trivia/Notes
+## Trivia
 
--   If you fell off the Fragment of Self floating island, you will be teleported back to spawn.
+-   If you fall off the Fragments of Self, you will be teleported back to spawn.
+-   You cannot M1 in the Fragments of Self but you can use your weapon's critical, though it can't interact with the environment.
 -   There is currently no known way to die in Fragments of Self, as fall damage is disabled and so is any form (Potions?) of PVP damage, starving also only drains the player's health down to 50%, it is unclear if bleeding out is possible, boulder does not execute you here, and dying here would most definitely be a bug and would respawn you in Fragments of Self again.
 -   Owls can seeming spawn up here, but can't actually damage you

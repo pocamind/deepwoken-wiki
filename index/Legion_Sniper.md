@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 33982
+revid: 33984
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,12 +8,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Legion Sniper
 
 Template:EnemyInfobox1.0
-
-“ Hey look it's someone from the Legi- AHHHHHHHHHHH ”
-
-― Level 45 Vesperian after getting Grand Skewered off of Hive
-
-  
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 33714
+revid: 33987
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -13,8 +13,8 @@ notices:
 ## Armors/Equipments
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
--   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from _Devil May Cry series_.
--   The mod spec Outfit **Hive Leader's Garment** is Scaramouche's outfit from _Genshin Impact_.
+-   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
+-   The mod spec Outfit **Hive Leader's Garment** is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
 
 ## Attunements
@@ -31,8 +31,8 @@ notices:
 ### **Thundercall**
 
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical.
--   **Grand Javelin** is inspired by the Lightning Spear spells (Lightning Spear, Great Lightning Spear and Sunlight Spear) in _Dark Souls_.
--   **Bolt piercer** might be a reference to Uryu's [_Ginrei Kojaku_](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
+-   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear) and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
+-   **Bolt Piercer** might be a reference to Uryu's [Ginrei Kojaku](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
 
 ### **Frostdraw**
 
@@ -45,6 +45,8 @@ notices:
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
+    -   It is also possibly a reference to **Duelist Dash** from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
+-   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
 
 ## Enemies/Bosses
 
@@ -67,7 +69,7 @@ notices:
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
--   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto_
+-   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
     -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter X Hunter_ Greed Island Arc.
 -   **Shard Bow** may be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archives._
     -   It is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
@@ -78,9 +80,9 @@ notices:
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line, or possibly [this meme](https://www.youtube.com/watch?v=5_Xdi4T8mgI).
--   **Fishman** and its description are a reference to two series.
-    -   The name is a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
-    -   The description is a reference to the famous quote made by Qui Gon Jinn in _Star Wars: A Phantom Menace_.
+-   **Fishman** and its description are possible references to two series.
+    -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
+    -   The description is a reference to the famous quote made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
@@ -96,13 +98,12 @@ notices:
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   The **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
--   **Razor Cutlass**’s description “A serrated cutlass fashioned after the brutal bite of a Lionfish” is a possible reference to “The bite of ‘87”.
 
 ## World
 
 ### **The Etrean Luminant**
 
--   [Suri's quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
+-   [Suri's Quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   The faction of Etrea as a whole is very similar to a mixture of various Asian countries.
 
 ### **The Depths**
@@ -115,5 +116,5 @@ notices:
 ### **Races**
 
 -   **Vesperians** may resemble the many mask-wearing insects in the game Hollow Knight.
--   **Khans** reference The Monkey King a lot, having near identical hair on sideburns and cheeks, having a headband that seems inspired by many interpretations of Sun Wukong.
+-   **Khans** reference [The Monkey King](https://en.wikipedia.org/wiki/Monkey_King) a lot. They are seen having near identical hair on sideburns and cheeks, and having a headband that seems inspired by many interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King).
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
