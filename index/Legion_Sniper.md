@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 33958
+revid: 33982
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,12 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Legion Sniper
 
 Template:EnemyInfobox1.0
+
+“ Hey look it's someone from the Legi- AHHHHHHHHHHH ”
+
+― Level 45 Vesperian after getting Grand Skewered off of Hive
+
+  
 
 ## Description
 
@@ -43,3 +49,4 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 -   They're friendly to normal Legion NPCs and won't attack them.
 -   Even if it doesn't change anything, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
+-   Can be blocked with high posture
