@@ -1,9 +1,9 @@
 ---
 title: Shard Bow
-revid: 29737
+revid: 33961
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Resonance]
 ---
 
 # Shard Bow

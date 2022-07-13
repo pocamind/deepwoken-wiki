@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 32736
+revid: 33969
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -95,7 +95,7 @@ categories: [Weapons, Swords]
 
 _**"Hmm... Aelita said to come back here during the winter... Wait are those...meteors?"**_
 
-_**\- A unaware Aelita fan**_
+_**\- An unaware Aelita fan**_
 
 ## Description
 

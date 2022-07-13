@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 33020
+revid: 33963
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -405,6 +405,8 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   (Arch\_Mage) The Ministry Scouts in Minityrsa were previously affected by the [Animal King](Regalia.md) (Or Mute Talent), but was declared a bug by Arch\_Mage.
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
+-   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
+-   The Ministry is allegedly able to share the Whispers of Tacet, or murmur(s) to those with no connection to the song.
 
 A Dark Mage, located in Minityrsa.
 
@@ -439,7 +441,7 @@ A Dark Mage, located in Minityrsa.
 ### The Ignition Union
 
 -   **Territory:** _Unknown_
--   **Encountered In:** _Summer Isles, The Depths (Akira's rare event)_
+-   **Encountered In:** _Summer Isles, The Depths (Akira's rare event), Depths Layer 2 (Ignition Union Base)_
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
@@ -1003,6 +1005,9 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
+    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
+
+  
 
   
 
@@ -1235,5 +1240,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.
 -   It was also confirmed by Archmage that Stormcall/Plasmacast (Purple Lightning) is old lore that they've forgotten to remove. No leancall, everyone.
+-   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there are so few oaths or none not mentioned in the lore AND only 3 in-game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
 
 Talking Mudskippers

@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 32261
+revid: 33968
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -39,7 +39,36 @@ Fragment of Self acts as the purgatory of _Deepwoken_. Players are sent to it wh
 #### Self
 
 -   Located past the stone arch, a pure reflection of yourself that will remove your character from _Deepwoken_.
-    -   Clicking \[The End\] will wipe your character and transfer you to the character creation screen.
+
+Self: "So... This is it for us, huh?"
+
+\[What do you mean?\]
+
+Self: "You know what I mean. You're me, after all. This is where we as a person end."
+
+\[But I don't want to go.\]
+
+Self: "\*_Sigh._\* There was so much left for us to do, wasn't there?"
+
+\[Isn't there something we can do?\]
+
+Self: \*_You see your face racked with a pained expression.\*_ "No. You know there isn't."
+
+\[What is all this?\]
+
+Self: "This... All of this around us... Is all our mind is able to make sense of right now. It's just holding on to all it can still remember."
+
+\[So, is this really the end?\]
+
+Self: "Yeah, I suppose it is. Come speak to me again when you want to... Well.. You know."
+
+\[End Dialogue\]
+
+(On talking to Self again) Self: "\*_You see yourself smile weakly._\* Don't want to go out without a smile, do we?"
+
+\[The End\]
+
+-   Clicking \[The End\] will wipe your character and transfer you to the character creation screen.
 
 ## Trivia/Notes
 
