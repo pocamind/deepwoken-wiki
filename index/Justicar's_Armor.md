@@ -1,13 +1,13 @@
 ---
 title: "Justicar's Armor"
-revid: 31975
+revid: 33974
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Justicar's Armor
 
-Template:ArmorInfoboxLightkeeper is a Master [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfoboxJusticar's Armor is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 33969
+revid: 33976
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -93,9 +93,11 @@ categories: [Weapons, Swords]
 | obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
-_**"Hmm... Aelita said to come back here during the winter... Wait are those...meteors?"**_
+“ Hmm... Aelita said to come back here during the winter... Wait are those...meteors? ”
 
-_**\- An unaware Aelita fan**_
+― An Aelita fan, unaware that he is going to die.
+
+  
 
 ## Description
 
