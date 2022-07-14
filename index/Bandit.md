@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 32967
+revid: 34010
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -40,8 +40,8 @@ A Bandit executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Sword](<Sword_(weapon).md>), [Messer](Messer.md), Broadsword & [Stiletto](Stiletto.md)\] User pins down the opponent and slices their throat with their blade.
-\[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] User pins raises weapon before firmly bashing the opponent's face.
+| Execute | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md), Broadsword & [Stiletto](Stiletto.md)\] Pins down opponent and slices their throat with their blade.
 
  |
 

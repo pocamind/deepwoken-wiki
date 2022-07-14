@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 33203
+revid: 34007
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,14 +13,14 @@ Template:EnemyInfobox1.0
 
 An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
--   Authority Footsoldiers vs Etrean Footsoldiers
--   Authority Footsoldiers vs [Legion Soldiers](Legion_Soldier.md)
--   Authority Footsoldiers with [Authority Flamcharmers](Authority_Soldier.md) patrolling [Upper Erisia](Upper_Erisia.md)
+-   Authority Footsoldiers vs Etrean Footsoldiers ([Erisia](Erisia.md))
+-   Authority Footsoldiers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
+-   Authority Footsoldiers with [Authority Flamcharmers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
     -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
 
-Authority Footsoldiers wear an Authority Helm and an [Authority Commander Uniform](Authority_Captain_Uniform.md). All of them are also Adrets with their gender varying.
+Authority Footsoldiers wear an Authority Helm, a pair of Bluesteel Pauldrons, an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a pair of Bluesteel Boots. All of them are also [Adrets](Adret.md) with their gender varying.
 
 ## Moveset
 

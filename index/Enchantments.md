@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 33996
+revid: 34014
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -190,7 +190,7 @@ Changelogs:
   Permanently stained health bar.<br>
   2x blood damage taken in the Etrean Luminant.<br>
   When held, -100 sanity.<br>
-  <b>Curse of The No-Life King is disabled in Areana</b><br>
+  <b>Disabled in Areana</b><br>
   <b>Viscosity is disabled</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 34003
+revid: 34006
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-_"felinor scum."_
+_"Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
 ## Racial Traits
 
