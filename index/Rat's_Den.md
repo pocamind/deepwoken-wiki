@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 29230
+revid: 33999
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Outside, a Golden Rat Bouncer will tell you to enter. If you obtain 5 Gold Plate
 
 -   Rat Fighter
 
-_Rat Fighters are equipped with heavy weapons. The enemies will use the Galebreathe Mantras Gale Lunge and Heavenly Wind._
+_Rat Fighters are equipped with The Divine Greataxe. The enemies will use the Galebreathe Mantras Gale Lunge and Heavenly Wind._
 
 ## Trivia
 

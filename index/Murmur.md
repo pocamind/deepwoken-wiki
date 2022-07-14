@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 33757
+revid: 34000
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -66,7 +66,9 @@ Murmur: Tacet is a Murmur that, when active, makes the user completely invisible
 
 Tacet potentially has a multiple modes, since when the user presses G while crouching Tacet is quickly activated and deactivated, indicated by its rings quickly going in and out, as if sending out a signal or radar. It is unknown what this does. Pressing G while Tacet is already activated will deactivate it. (This not about the default ctrl + G with non-Tacet users. Do not say otherwise.)
 
-The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
+The only actions a user can perform during Tacet are movement, such as sliding and rolling. Activating a mantra or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
+
+You can equip different items while Tacet is activated and it will no longer deactivate.
 
 The detection of Tacet can be reduced the higher Power the player is.
 
