@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 20461
+revid: 34005
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
