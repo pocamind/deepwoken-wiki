@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 33990
+revid: 33991
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,6 +18,6 @@ Bone Keeper appears to be a giant, armored humanoid creature, with inhuman propo
 
 Bone Keepers are INCREDIBLY fast, being able to leap from across the room in less than a second, towards any unfortunate victims.
 
-There's a few interesting things about Boners: It uses a ground-pound attack similar to Nautilodaunt, and is also found within the same location as [Bounders](Bounder.md), who are similar to Megalodaunts (who are similar to Nautilodaunts) so it's just one giant chain of similarities.
+There's a few interesting things about the Bone Keepers: It uses a ground-pound attack similar to Nautilodaunt, and is also found within the same location as [Bounders](Bounder.md), who are similar to Megalodaunts (who are similar to Nautilodaunts) so it's just one giant chain of similarities.
 
 Some extra information regarding this enemy, Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) from his live stream called it "The Bone One". He also mentioned it being as annoying as a Megalodaunt.

@@ -1,9 +1,9 @@
 ---
 title: Maps
-revid: 33921
+revid: 33995
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
+categories: [Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
 ---
 
 # Maps
@@ -11,6 +11,10 @@ categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
 Icon by Tako#3245
 
 A gallery of maps for _Deepwoken_ locations.
+
+File:Updated Depths Map.png
+
+An Updated map of The Depths
 
 ## Overview
 
