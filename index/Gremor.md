@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 33052
+revid: 34044
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -98,7 +98,8 @@ SURNAMES
 -   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 -   The compass points towards Navae, which in turn, is in the Southern Luminant, which in turn make the compass work like a normal compass, pointing South instead of North.
 -   As a Gremor, you will get boosted reputation with the Navaen Nomads.
--   During 1/4/2022 April Fools update (Mudwoken), Gremor race name was changed to Hornskipper.
+-   During 1/4/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
+-   When wearing a helmet/hat, it won't hide the horns.
 
 <table>
 <tbody>

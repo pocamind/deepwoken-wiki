@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 33565
+revid: 34043
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,4 +86,5 @@ Loyalty makes combat practice and spars with housemates difficult
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
 -   Canors are based of mereleona from black clover confirmed by arch\_mage
 -   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
--   During the 4/1/2022 April Fools update (Mudwoken), Canor's race name was changed to Muttskipper.
+-   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
+-   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.

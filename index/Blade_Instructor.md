@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 34030
+revid: 34039
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,14 +17,12 @@ An Instructor wears a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) o
 
 ## Moveset
 
-An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md), [Iron Spear](Iron_Spear.md) or [Stiletto](Stiletto.md):
+An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | \[[Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) & [Mace](Mace.md)\] Firmly swings sword at opponent and finishing the combo by kicking them.
 \[[Iron Spear](Iron_Spear.md)\] Firmly thrusts spear at opponent and finishing the combo by kicking them.
-
-\[[Stiletto](Stiletto.md)\] Swiftly swings sword at opponent and finishing the combo by kicking them.
 
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
@@ -33,18 +31,19 @@ An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](
 
 \[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
-\[[Stiletto](Stiletto.md)\] Performs a windup before unleashing a flurry of slashes.
-
  | ◯ | ✗ | (★☆☆) |
 
 ## Finisher
 
-An Instructor disappears after making the player get to 0 health. You will regenerate all your health back, but still keep the blood loss.
+An Instructor disappears after defeating the player. The player will receive all his/her health back, but still keep the blood loss:
 
 | Name | Description |
 | --- | --- |
-| Dissapear | Unequips weapon and disappears into thin air. |
+| Disappear | Unequips weapon before disappearing into thin air. |
 
 ## Trivia
 
--   An Instructor doesn't execute the player 99.9% of the time but there has been some clips showing it executing players after sparring.
+-   The Instructor doesn't execute the player 99.9% of the time but there has been some clips showing it executing players after sparring.
+-   You can kill the Instructor by using moves that instantly grip opponents when they are on low hp.
+-   ~Defeating one grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md).~ From personal testing and experience, the instructor gives reputation on occasion. Usually when you don't get a health pack from killing them
+-   They will grip a knocked player
