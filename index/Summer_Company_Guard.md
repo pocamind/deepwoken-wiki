@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 33715
+revid: 34017
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,3 +44,4 @@ A Summer Company Guard executes the player after knocking them:
 ## Trivia
 
 -   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
+-   They are often not mentally competent and will attack you for random ass reasons.

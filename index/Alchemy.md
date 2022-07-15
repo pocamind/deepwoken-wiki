@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 32081
+revid: 34024
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -223,7 +223,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Focus-Enhancing</b></td>
   <td>Elixir<br>
   Salve</td>
-  <td>Gathered Wheat</td>
+  <td>2 Gathered Wheat<p>2 Browncaps</p></td>
   <td>Greatly increases elixir regeneration for 15 seconds.<br>
   Quickly depletes the reservoir while regenerating elixir, but the effect still works when reservoir is empty.</td>
   <td>Opposite effect to <b>Icky</b>.<br>

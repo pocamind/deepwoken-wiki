@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 34011
+revid: 34029
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,16 +39,11 @@ An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](
 
 ## Finisher
 
-An Instructor executes it's opponent after knocking them:
+An Instructor disappears after making the player get to 0 health. You will regenerate all your health back, but still keep the blood loss.
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
-\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md), & [Stiletto](Stiletto.md)\] Pins down opponent and slices their throat with their blade.
-
-\[[Iron Spear](Iron_Spear.md)\] Pins down opponent before impaling their chest with their spear.
-
- |
+| Dissapear | Unequips weapon and disappears into thin air. |
 
 ## Trivia
 
