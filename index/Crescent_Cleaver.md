@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 34002
+revid: 34031
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
