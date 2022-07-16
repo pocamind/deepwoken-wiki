@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 34060
+revid: 34061
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -118,18 +118,19 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, rarely dropped by [Deep Owls](Deep_Owl.md) but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras, together with Blindseer.
 
-### Obtaining
+### Obtainment
 
-1.  Complete Aelita's Encounter in Valley of Heroes at least once.
-2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
-3.  Bring him a Void Feather. If Surge becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options "I accept" once the Nestmind mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the Nestmind's food will wipe you.
-4.  Bring additional Void Feathers to Surge to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
+1.  Have 50 [charisma](Attributes.md) and 10 [willpower](Attributes.md).
+2.  Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once.
+3.  Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+4.  Bring him a Void Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
+5.  Bring additional Void Feathers to [Surge](Surge.md) to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
 
 ### Known Abilities
 
 The mantras and passives are obtained by giving additional feathers to Surge after the first one required to obtain the oath.
 
-\[Talents\] are rolled like regular talents when powering up.
+Visionshaper also has two talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
@@ -156,10 +157,11 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
+The following two talents are obtained by leveling up after obtaining Visionshaper.
+
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
     -   No (or very low) cooldown.
-    -   Enchant and visionshaper effect are still visible due to a bug.
 
 -   **Lasting Image - \[Common talent, Visionshaper\]**
     -   **Illusionary Servant** and **Cheap Trick** last longer
@@ -168,13 +170,13 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
 
 This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
 
-The oath change the eye color of the user to purple and make a purple particle effect emanate from their right eye.
+The oath changes the eye color of the user to purple, and makes a purple zig-zag line emanate from their right eye.
 
 Does not grant any special cosmetic based on race.
 
 ### Notes
 
--   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last.
+-   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last dramatically.
 
   
 
@@ -208,5 +210,5 @@ None.
     
 -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
--   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them
+-   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
