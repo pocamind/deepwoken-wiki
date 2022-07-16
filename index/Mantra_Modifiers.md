@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 33997
+revid: 34065
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -263,9 +263,13 @@ Gem
 
 ### **Specific Effects of Modifiers**
 
+#### Cloudstone
+
+-   This modifier causes the projectiles from the "Ice Lasers" mantra to shoot multiple bullets consecutively.
+
 #### Glass Stone
 
--   This modifier adds a massive AoE explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
+-   This modifier adds a massive AoE explosion of ice spikes for "Glacial Arc", and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
     
 
 **Deep Gems:**
@@ -1069,8 +1073,7 @@ File:Ice Lasers with Spring Spark.gif
 
  | 
 
--   This modifier causes the projectile of the "Ice Laser" mantra to stop in place when shot for a brief amount of time, then goes forward.
-    -   Think Knives in a certain stopping of time.
+-   This modifier causes the projectile from the "Ice Laser" mantra to stop in place for a brief second after being shot before going forward.
 
  |
 | 

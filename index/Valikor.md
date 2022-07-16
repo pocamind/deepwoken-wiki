@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 33923
+revid: 34063
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -31,7 +31,7 @@ You can get the [Spell Shout](Valikor.md) talent by talking to him.
 > 
 > 2\. Um.
 > 
-> Valikor:
+> Valikor: Do you FEAR learning through VOCAL EXERCISE? The only way you're gonna learn this technique is by having it SCREAMED into your skull.
 > 
 > 3\. How about I shout at YOU? \[Strength\] (You cant pass this check anyway, tested with 100 strength)
 > 
