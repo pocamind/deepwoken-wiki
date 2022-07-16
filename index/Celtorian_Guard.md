@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 34040
+revid: 34048
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,9 +46,8 @@ A Celtor Guard executes it's opponent after knocking them:
     -   Feinting and parrying frequently is a good idea.
 -   A heavy weapon critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
 -   Decent health-pack in the event that a [Gigamed](Gigamed.md) is not nearby.
--   If you have bad rep with Celtor, these guys will chase you.
--   They are celtor you can clip your camera through their helmet.
 
 ## Trivia
 
 -   Celtor Guards only speak in growls and gurgles, with few exceptions.
+-   They are all Celtor.

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 34045
+revid: 34046
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -47,7 +47,7 @@ notices:
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
     -   It is also possibly a reference to **Duelist Dash** from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
 -   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
--   **Shadow Travel** may be reference to
+-   **Shadow Travel** may be reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 
 ## Enemies/Bosses
 

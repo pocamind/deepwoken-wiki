@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 34039
+revid: 34047
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,5 +45,4 @@ An Instructor disappears after defeating the player. The player will receive all
 
 -   The Instructor doesn't execute the player 99.9% of the time but there has been some clips showing it executing players after sparring.
 -   You can kill the Instructor by using moves that instantly grip opponents when they are on low hp.
--   ~Defeating one grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md).~ From personal testing and experience, the instructor gives reputation on occasion. Usually when you don't get a health pack from killing them
--   They will grip a knocked player
+-   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.

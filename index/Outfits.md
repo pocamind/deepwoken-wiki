@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 33975
+revid: 34051
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -125,7 +125,7 @@ _\+ 4% Stealth_
 
  | Depths Chests | Black & Brown |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants a random buff. | Fort Merit Chests, Depths Chests | N/A |
-| File:VigilHood.png | Assassin's Hood | Grants a random buff. | Hive Chests | Gold & Pale |
+| File:VigilHood.png | Assassin's Hood | Grants a random buff. | Hive Chests, Gold and Mist rarely from Aelita | Gold, Pale & Mist |
 | 
 
  | Vigil Hood | Grants a random buff. | Hive Chests, Depths Chests | N/A |
@@ -341,7 +341,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Jet Black, Orange & Purple |
+ | Aelita Chests, Minityrsa Chests, Depths Chests, Corrupt King Threshers | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
 +X% Damage VS Beast _Requires Power 30_

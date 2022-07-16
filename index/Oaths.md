@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 33672
+revid: 34060
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -70,7 +70,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-You can unlock the abilities by helping players escape the depths trial. Each complete Depths trial saving another player while they are alive, will gain you Blindseer progress.
+You can unlock the abilities by helping players escape the depths trial. This can be done by going up the elevator with at least one other player of any level, and then beating the trial without anyone dying. Used to have a level requirement (<9) for those who come with you, but was changed due to the difficulty of finding a player that's the perfect level and getting them up the elevator. The first mantra is unlocked after 1 trial, the second at 10, and the last at 20. Nothing is gained after the 20th trial.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -78,7 +78,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 -   **Mindsoothe - Support Mantra**
     -   Resets the insanity of nearby players, and in turn gives you the insanity that they once had.
-    -   Heals nearby players in exchange for your own health, evens out the HP between you and the players you are trying to heal
+    -   Heals nearby players.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Obtaining: 1 player helped in the Depth Trial (must be alive)
 
