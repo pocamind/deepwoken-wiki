@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 33963
+revid: 34067
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -338,7 +338,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
--   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
+-   Inventors of the fist style 'The Way of Navae,'
 
 ### The Hundred Legions
 
