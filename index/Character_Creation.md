@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 33528
+revid: 34073
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -104,8 +104,8 @@ There may be some changes to dialogue with NPCs depending on what 'Tier' of age 
 -   **(Tier 0) Adult:** 18-39
 -   **(Tier 1) Middle Aged, Phase 1:** 40-49 \[45 or more leads to greying of hair)
 -   **(Tier 2) Middle Aged, Phase 2:** 50-59
--   **(Tier 3) Elderly, Phase 1: 60 - ???**
--   **(Tier 4)**
+-   **(Tier 3) Elderly, Phase 1:** 60 - 69
+-   **(Tier 4) Elderly, Phase 2:** 70 - ???
 
 Helena Dusselden, at Age 40
 

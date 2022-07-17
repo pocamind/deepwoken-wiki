@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 34061
+revid: 34071
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -85,6 +85,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius
         -   This affects everybody, including the caster and their allies.
+    -   Gives a decent boost of PvE damage (Level 60 can do 300+ more damage)
     -   While inside the circle, gain mantra immunity.
     -   About the size of a medium Sacred field roll
     -   Obtaining: 10 players helped in the Depth Trial (must be alive)

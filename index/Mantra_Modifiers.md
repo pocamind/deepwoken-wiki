@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 34065
+revid: 34069
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -1073,7 +1073,7 @@ File:Ice Lasers with Spring Spark.gif
 
  | 
 
--   This modifier causes the projectile from the "Ice Laser" mantra to stop in place for a brief second after being shot before going forward.
+-   This modifier causes the projectile from the "Ice Lasers" mantra to stop in place for a brief second after being shot before going forward.
 
  |
 | 
