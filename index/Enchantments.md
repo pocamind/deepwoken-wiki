@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 34028
+revid: 34106
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -367,7 +367,6 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 ## Trivia
 
 -   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur.
--   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
 -   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
     

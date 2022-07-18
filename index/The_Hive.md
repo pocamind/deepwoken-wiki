@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 34070
+revid: 34103
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -23,11 +23,11 @@ notices:
 
 The Hive is a faction that operates in their territory [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. Which can only be accessed through washing your face before using the teleporter.
 
-The Hive was founded by the ancestors of the [Vesperians](Vesperian.md), also known as the Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating the Hive.
+The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), also known as the Hivelords; with the current Hivelord being "Zithori Vhemm Diri", a **Ganymede**. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating the Hive.
 
-The Hive uses an unobtainable attunement known as Lifeweaving. It is used to "give life" by creating [Hive Constructs](Hive_Construct.md), possibly teleporters and fixed campfires around [Greathive Aratel](Greathive_Aratel.md). In addition to that, Kaab, the shipwright of Greathive Aratel states that he is able to "Lifeweave modifications" onto ship vessels, showing off how powerful this faction could be.
+The Hive uses an unobtainable attunement known as Lifeweaving. It is used to "give life" by creating [Hive Constructs](Hive_Construct.md), possibly teleporters and fixed campfires around [Greathive Aratel](Greathive_Aratel.md). In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels, showing off how technologically advanced this faction is.
 
-They frequently get into battles with [Etrea](Etrea.md), who steal attempt to steal their artifacts at Lord Regent's request.
+They frequently get into battles with [Etrea](Etrea.md), who steal attempt to steal their Lifeweaving artifacts at Lord Regent's request.
 
 ## Reputation
 
@@ -43,7 +43,7 @@ In addition, helping Hive Guards in the following events will allow you to incre
 
 Good Reputation:
 
--   "I hope your journeys outside the Hive go well, \[Name\]"
+-   "I hope your journeys outside the Hive go well, \[Name\]."
 -   "Welcome back, \[Name\]. It's good to see you among us again."
 
 Neutral-Good Reputation:

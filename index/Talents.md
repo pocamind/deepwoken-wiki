@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34084
+revid: 34100
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -627,6 +627,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
+-   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
 
 ### Javelin Lord
 

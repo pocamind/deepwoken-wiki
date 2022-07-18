@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 34086
+revid: 34107
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -75,67 +75,6 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 ### Finding the Nature of your Soul & Progress
 
 The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
-
-| **Possible dialogue results:** |
-| --- |
-| 
-**Exhibit A** 
-
- | 
-
-**Exhibit B**
-
- | 
-
-**Exhibit C** 
-
- |
-| **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
-| **What to do:** |
-| Fight and kill [Boss](Bosses.md) Monsters, including:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [The Duke](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md)
--   [The Ferryman](The_Ferryman.md)
--   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
--   [Nautilodaunt](Nautilodaunt.md)
-
- | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
-| **Extra/Important information:** |
-| Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
-
--   **Primadon** is generally regarded as the best overall, having a high Progress reward, incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
--   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard and tedious to find without a large group of players.
--   **The Duke** gives a good amount of Progress on grip, and is reliable to summon, but has an annoying and somewhat dangerous fight. (Rewards good bell progression regardless of if you participated in the fight)
--   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
--   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal.
--   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
--   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
--   Deep Widows are unknown to give Progress.
-
- | Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). Other monsters WILL NOT give progress, unless they are Corrupted.
-
-  
-Luck rules apply when it comes to killing other players. You will not gain Progress from killing other people unless you also gain Luck, requiring you to be within their level range.
-
- | 
-
-  
-
-  
-Luck rules apply when it comes to killing other players. You will not gain Progress from killing other people unless you also gain Luck, requiring you to be within their level range.
-
-Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md), which is safer and will give more Progress, as opposed to The Overworld or The Depths.
-
- |
-| For all three natures, an important word is "Fight". You need to FIGHT, not just KILL whatever you are after. Dealing damage is actually where a significant amount of the Progress comes from, and not just killing.
-
-  
-Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you.
-
- |
 
 ### Obtaining Your Resonance
 
