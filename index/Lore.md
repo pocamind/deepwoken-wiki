@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 34080
+revid: 34090
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -153,8 +153,8 @@ Yun'shul
 -   Sees reality in a different way compared to us.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
-    -   The Nestmind assumes the people of the New World misunderstanding the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
-    -   The Nestmind is NOT a Drowned God and simply a strong Depths entity like the [Deep Voices](Voices_of_the_Depths.md).
+    -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
+    -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
 
 ### **The Ferryman**
 
@@ -940,7 +940,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
 -   (Arch\_Mage) The Tides were caused by the Drowned Gods; who were awaken from their slumber by the people of the Canticlysm via the sound of the Song.
--   The Tide also brought upon the [Voidsea](Voidsea.md) to the Luminants, a gateway to both worlds between the surface and [The Depths](The_Depths.md).
+-   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, it is a gateway to both worlds between the surface and [The Depths](The_Depths.md).
 
 ### The Great Drowning
 
@@ -967,6 +967,9 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   As the name applies, godlike beings who originated from The Depths. one notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Mortals (And even players themselves) cannot win against a Drowned God- As they have no chance of fighting a being powerful enough to explode their heads in an instant.
+-   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
+-   Were the drowned gods to fully awaken, the world would be destroyed.
+-   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
 ### Ancestors of Ganymedes & Vesperians
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 33950
+revid: 34084
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -379,6 +379,8 @@ These Talents are mainly aimed at making assassination much more potent, especia
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Agility renamed to Speed Boost will say "Speed Boost!".
     -   If a mantra name gets moderated by the chat (####), the shout will default to the original name of the mantra.
+    -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
+        -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
     -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
 
 ### Duelist
@@ -706,7 +708,8 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
--   Piercing Will \[Rare Talent\] - When your sanity is at stake gain additional pen on your attacks. (+4 Ether)
+-   Piercing Will \[Rare Talent, Willpower\] - When your sanity is at stake gain +10% PEN on your attacks. (+4 Ether)
+    -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
 
 ### Lone Warrior
