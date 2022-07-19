@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 33976
+revid: 34119
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | N/A |
 
 | Hero Blade of Frost | |
@@ -39,7 +39,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | N/A |
 
 | Hero Blade of Lightning | |
@@ -56,7 +56,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, FIshing |
 | description | N/A |
 
 | Hero Blade of Wind | |
@@ -73,7 +73,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | N/A |
 
 | Hero Blade of Shadow | |
@@ -90,7 +90,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | N/A |
 
 “ Hmm... Aelita said to come back here during the winter... Wait are those...meteors? ”

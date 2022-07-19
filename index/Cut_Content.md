@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 33929
+revid: 34114
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -21,16 +21,15 @@ notices:
 
 ## Player
 
--   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md).
+-   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md). Not to be confused with Venting from the Layer 2 update.
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual dual between two players. However, the loser would instantly wipe.
 
 ## Mantras
 
--   **Mantras Stat -** Itemized mantras would read their level and stat change in their tooltip like so: Mantra Name, Lv.1, 0 Sz, 0 AoE, 0 Dur, 0 Spd, 0 Rng.
+-   **Mantras Stat -** Itemized mantras would read their level and stat change in their tooltip like so: Mantra Name, Lv.1, 0 Sz (Size), 0 AoE (Area of Effect), 0 Dur (Duration), 0 Spd (Speed), 0 Rng (Range).
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantras Cores that would then be the basis of your spell creation.
--   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This has now been replaced with earning 'Whisper Cards' every few levels and editing mantra on the Mantra Table.
--   **Announced Casting -** Characters used to announce their mantra cast via text chat. This was removed shortly before release, as it made the game "Too anime," but was reimplemented due to popular demand. However, later clips show the move names being announced in a red highlight on the screen whenever used. This has been removed and with the return of Voiced Casting, unlikely to return.
+-   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantra on the Mantra Table.
 
 ## Monsters
 
@@ -44,6 +43,7 @@ notices:
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **A deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
+-   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 
 ## Other
 

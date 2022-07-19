@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34100
+revid: 34121
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -253,8 +253,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Intelligence
 -   Eureka \[Rare Talent, Intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30 Intelligence
-    -   Refunds 15% of the ether cost of the mantra.
-        -   Because of this, the effect is barely noticeable on cheaper mantras.
+    -   Refunds ??% (scales with INT) of the ether cost of the mantra.
     -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)

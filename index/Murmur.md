@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 34112
+revid: 34113
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -95,7 +95,7 @@ Upon activation, the user goes invisible and teleports above the opponent and sl
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 
-This quest requires 10 [Charisma](Attributes.md#charisma), 75 [Agility](Attributes.md), and bad [reputation](Reputation.md) with Etrea to obtain.
+This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
