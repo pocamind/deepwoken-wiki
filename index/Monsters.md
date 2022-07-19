@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 33703
+revid: 34123
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -145,23 +145,23 @@ Calculating how much health a Monster has from just your damage alone won't be c
 
 The formula you can use to calculate how many hits you need to kill a monster is:
 
-_**HitsNeeded = MonsterHealth / (PowerLevel ⋅ WeaponDamage ⋅ 0.089)**_
+_**HitsNeeded = MonsterHealth / ((PowerLevel + 10) ⋅ (WeaponDamage ⋅ (DmgVsMonsters /100+1)) ⋅ 0.089)**_
 
-So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, and at level 60, you would do:
+So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, with 10% Damage VS monsters, and at level 60, you would do:
 
-**1000 /(60 ⋅ 40 ⋅ 0.089)**, which would come out to 4.6 hits.
+**1000 /((60 + 10) ⋅ (40 _⋅ (10/100+1)_) ⋅ 0.089)**, which would come out to 3.6480373559 hits.
 
 The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
 
-_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt⋅ (PowerLevel ⋅ WeaponDamage ⋅ 0.089))**_
+_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt⋅ ((PowerLevel + 10) ⋅ (WeaponDamage ⋅ (DmgVsMonsters/100+1)) ⋅ 0.089))**_
 
 _**note, 'PercentOfDamageDealt' means how much you DO to them WITH the resistance, not how much the resistance IS. If they have a 60% resistance, you do 40% damage, so you put 40%. Not 60%.**_
 
 If you were to fight a Stone Knight, which has a 55% resistance to slashing, with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
 
-**9000 / (0.45 ⋅ (60 ⋅ 40 ⋅ 0.089))**, which would come out to 93.6 hits.
+**9000 / (0.45 ⋅ ((60 + 10) ⋅ (40 _⋅ (10/100+1))_ ⋅ 0.089))**, which would come out to 72.9607471 hits.
 
-_[Easily calculate damage done to monsters](https://www.desmos.com/calculator/cp551objtw)_.
+_[Easily calculate damage done to monsters](https://www.desmos.com/calculator/cp551objtw)_.<--- This is wrong I do not know how to change it
 
 ## Trivia
 

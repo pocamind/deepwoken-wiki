@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34121
+revid: 34128
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -675,6 +675,13 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm
 
+### Lancer
+
+-   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
+-   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
+-   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
+-   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility, +3 Health)
+
 ### Legion Shock Trooper
 
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
@@ -762,7 +769,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain.
+-   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load, +3 Health)
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
 -   Adept \[ Legendary Talent\] - Taking this Talent will make it easier to progress.
@@ -919,7 +926,7 @@ Prerequisite: Charisma
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
     -   Gain 1.5x more notes from selling items (replace Salesperson).
 -   Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
-    -   Prerequisite: 35 Charisma
+    -   Prerequisite: 40 Charisma
     -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
 
 ### Soul Converter
@@ -1106,6 +1113,8 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
     -   Effect: buff speed slightly and major power boost.
+-   Command: Locate \[Common Talent\] - Locate one of your vow members (+4 Ether, +3 Health)
+    -   Prerequisites: Vow of Mastery
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
 
