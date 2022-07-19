@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 33144
+revid: 34130
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -81,7 +81,7 @@ Allows the use of equipment 3 points earlier than other races.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
 -   The Racial trait "versatile" only works on stat points. Not levels.
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
--   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan as a reference to the "Reject humanity, return to monke" meme
+-   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme
     
     Monkskippers
     
