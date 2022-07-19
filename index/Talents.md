@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34128
+revid: 34145
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -288,7 +288,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - **Allies** you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisite: Reinforce, 80 Shadowcast
+    -   Prerequisite: Reinforce
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce
 
@@ -378,6 +378,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Agility renamed to Speed Boost will say "Speed Boost!".
     -   If a mantra name gets moderated by the chat (####), the shout will default to the original name of the mantra.
+    -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
     -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
@@ -457,7 +458,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Preqequisite: 35 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
--   To The Finish \[Rare Talent\] - You take 15% less damage when below 30% health. (+3 Health)
+-   To The Finish \[Rare Talent\] - You take 10% less damage when below 30% health. (+3 Health)
     -   Prerequisite: 50 Fortitude
 
 ### The Emperor's Blade
@@ -927,7 +928,7 @@ Prerequisite: Charisma
     -   Gain 1.5x more notes from selling items (replace Salesperson).
 -   Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
     -   Prerequisite: 40 Charisma
-    -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
+    -   There is a chance for the above buff to be applied, OR you will regain 30% of Reservoir & Ether(Tested)
 
 ### Soul Converter
 
@@ -1508,7 +1509,7 @@ Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster th
 Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
 Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)  
 Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
-Exoskeleton \[Legendary Talent, 35 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
+Exoskeleton \[Legendary Talent, 35 Fortitude\] You have natural armor that decreases all damage taken by 10%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
 Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)  

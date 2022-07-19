@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 34136
+revid: 34142
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -33,6 +33,7 @@ notices:
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical. The name matches up and works nearly the same as the "Lightning Release Armour" jutsu, often called "Cloak of Lightning"
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear) and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
 -   **Bolt Piercer** might be a reference to Uryu's [Ginrei Kojaku](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
+-   **Lightning Assault** is a direct reference to Zenitsu's Thunder breathing first form: sixfold
 
 ### **Frostdraw**
 
