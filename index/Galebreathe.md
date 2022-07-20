@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 33943
+revid: 34158
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -50,20 +50,6 @@ _Slicing blades of Wind._
  |
 |  | 
 
-Gale Lunge
-
- | 
-
-_Green particles appear and then lunges you forward._
-
- | User lunges forward with their weapon coated in wind.
-
--   Deals moderate damage.
--   Can be used as mobility to push the user forward.
-
- |
-|  | 
-
 Air Force
 
  | 
@@ -76,6 +62,21 @@ _Shoots out an air blast._
 -   Knocks opponents back and stuns them.
 -   Deals immense posture damage.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
+
+ |
+|  | 
+
+Gale Lunge  
+(★)
+
+ | 
+
+_Green particles appear and then lunges you forward._
+
+ | User lunges forward with their weapon coated in wind.
+
+-   Deals moderate damage.
+-   Can be used as mobility to push the user forward.
 
  |
 | 
