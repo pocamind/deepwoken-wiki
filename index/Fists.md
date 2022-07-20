@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 34066
+revid: 34165
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -87,7 +87,7 @@ File:Jus Karita Description.png
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs instead of your fists. This style is sometimes referred to as "Sanji/Black leg style".
 
-Debatably the worst fist style. Dealing 25.3 damage with max light. What it lacks in damage, posture damage and the ability to have an enchantment it makes up for in a deceptive range, movement critical and animations that are difficult to keep track of. Unfortunately, the other two styles simply outclass it with better criticals, damage and even utility.
+~Debatably the worst fist style~ has gotten better as of recent updates, with Justicar armor now giving 15% damage boost and new talents which buff the style; additionally Jus Karita weapons have been confirmed to be coming in a future update. Dealing 25.3 damage with max light. What it lacks in damage, posture damage and the ability to have an enchantment it makes up for in a deceptive range, movement critical and animations that are difficult to keep track of. Unfortunately, the other two styles simply outclass it with better criticals, damage and even utility.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 33545
+revid: 34176
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -80,10 +80,10 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Arm Swipe** | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage. | ◯ | (★☆☆) |
-| **Bite** | The King Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. | ◯ | (★★☆) |
+| **Bite** | The King Thresher bites 3 times in quick succession. Deals moderate damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
 | **Burrow** | The King Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
-| **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Must be dodged. | ✗ | (★★★) |
+| **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. | ✗ | (★★★) |
 
 ## Passives
 

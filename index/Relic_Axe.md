@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 32639
+revid: 34173
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -27,4 +27,4 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 ## Description
 
-The Relic Axe is a HVY weapon in the Greataxe category and can be obtained through defeating [Stone Knights](Stone_Knight.md) in [Starswept Valley](The_Starswept_Valley.md).
+The Relic Axe Is A Great Axe In The Heavy Weapon Category, The Only Known Methods Of Obtainment Are Through Killing Stone Knights And Frostdraw Songseekers At Minityrsa

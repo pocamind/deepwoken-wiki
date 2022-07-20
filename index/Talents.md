@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34145
+revid: 34170
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -221,6 +221,20 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
+
+### Bruiser
+
+-   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor (20 second cooldown). (+3 Health)
+    -   Prerequisites: Use a Greataxe, Impairing Blow
+
+-   Heavy Fatigue \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how fair they can roll. (+3 Health)
+    -   Prerequisites: Use a Greataxe, Impairing Blow
+-   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. (+3 Health)
+    -   Prerequisite: Use a Greataxe
+-   Rending Impact \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown. (+3 Health)
+    -   Prerequisite: Use a Greataxe
+-   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them (+3 Health)
+    -   Prerequisite: Use a Greataxe
 
 ### Bulwark
 
@@ -631,18 +645,23 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Javelin Lord
 
--   Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
-    -   Prerequisites: Grand Javelin (2 Star Thundercall Mantra)
+-   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
+    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra)
 
 ### **Justicar**
 
+-   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
+    -   Prerequisites: Jus Karita and Swiftkick Prodigy
+
 -   Justicar's Prowess \[Common Talent\] - Jus Karita deal bonus posture damage against other fist styles.
     -   Deal ??x posture damage against Fist of Navae and Legion Kata
-    -   Requirement: Jus Karita
+    -   Prerequisite: Jus Karita
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
     -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.
         -   This effect can only happen every 10 seconds.
-    -   Requirement: Jus Karita
+    -   Prerequisite: Jus Karita
+-   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff. (+2 Health, +1 Posture)
+    -   Prerequisite: Jus Karita
 
 ### Immolator
 
@@ -678,10 +697,11 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Lancer
 
--   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
--   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
--   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility, +3 Health)
+
+-   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
+-   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
+-   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
 
 ### Legion Shock Trooper
 
@@ -837,9 +857,9 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
 -   All knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: 80 Intelligence + Prediction (Intelligence Mantra)
+    -   Prerequisite: 76 Intelligence + Prediction (Intelligence Mantra)
 -   Successive Prediction \[Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: 80 Intelligence + Prediction (Intelligence Mantra)
+    -   Prerequisite: 76 Intelligence + Prediction (Intelligence Mantra)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
 
 ### One Eyed King
@@ -1401,11 +1421,15 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Ferryman's Coat
 
--   Ferryman's Curse - Being hit by a Lightning mantra will cause you to teleport to a random location within a set radius, and you take reduced damage from Lightning mantras. (I think this is a discount Lannis Amulet) (Obtained by wearing the Ferryman's Outfit)
+-   Ferryman's Curse - Being hit by a Lightning mantra will cause you to teleport to a random location within a set radius, and you take reduced damage from Lightning mantras. (Obtained by wearing the Ferryman's Outfit)
+
+### Justicar
+
+-   The Path, Unveiled - Your Jus Karita attacks deal 15% more damage. (+3 Passive Agility) (Obtained by wearing the Justicar Outfit)
 
 ### Navaen-Nomad
 
--   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit )
+-   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
     -   This talent is currently bugged and currently does nothing.
 
 ### Flamecharmer
