@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 33388
+revid: 34163
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -37,7 +37,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Darksteel Greatsword is one of the many heavy weapons you can obtain in the game. This weapon has a very low drop rate in the overworld in places like [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). It can also drop from [The Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md). It has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. This weapon has no special effects or passives.  
+The Darksteel Greatsword is one of the many heavy weapons you can obtain in the game. This weapon has a very low drop rate in the overworld in places like [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). It can also drop from [The Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md). It has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. ~This weapon has no special effects or passives~ Now has a unique crit that knocks people backwards  
 
 ## Notes
 

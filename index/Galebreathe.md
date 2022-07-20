@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 34158
+revid: 34162
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -71,7 +71,7 @@ Gale Lunge
 
  | 
 
-_Green particles appear and then lunges you forward._
+_A rush of piercing wind._
 
  | User lunges forward with their weapon coated in wind.
 

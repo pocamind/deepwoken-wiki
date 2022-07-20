@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 32741
+revid: 34164
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -45,3 +45,4 @@ The Shattered Katana across various updates has been nerfed and is no longer the
 ## Notes/Trivia
 
 -   The sword could be referencing the game Sekiro. The black mortal blade that was used by Genichiro is almost identical to the Shattered Katana.
+-   Based on the incredible length of the blade, we can say that this is a Nodachi, not a Katana.
