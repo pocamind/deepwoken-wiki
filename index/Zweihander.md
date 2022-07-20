@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 33813
+revid: 34155
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords]
@@ -44,7 +44,7 @@ Like any other greatsword you get hyper armor if you swing after a parry.
 -   Has the best range a Heavy Weapon could have.
 
 -   "Zweihänder" means "Two-handed sword" in German.
-    -   Pronounced "Zv-eye-hander."
+    -   Pronounced "Zv-eye-hen-dah."
 
   
 

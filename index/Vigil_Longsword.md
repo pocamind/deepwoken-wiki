@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 33575
+revid: 34156
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Items, Weaponry, Swords]
@@ -59,3 +59,4 @@ With the new Alloy update, Vigil Longswords are on the same level if not better 
 -   The Vigil Longsword is the cost effective, mass produced blade created by Etrea.
 
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) with unnerfed swing speed, for full effect try to obtain one with 2-3 stars of penetration.
+-   Its model was changed to match the length of it's stats.
