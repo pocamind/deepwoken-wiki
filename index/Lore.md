@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 34090
+revid: 34211
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -28,7 +28,7 @@ _"Ah, perfect. All I needed was for you to secure the area. Your services will n
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The Lord Regent is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
+The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
   
 
@@ -68,7 +68,7 @@ The Duke
 
   
 
--   The Duke, known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
+-   The [Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, who wants the Forge of Sin from his hands.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
@@ -160,7 +160,7 @@ Yun'shul
 
 **Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned)_
 
--   The Ferryman is a Krulian that has taken the appearance of an Etrean and resides within the Boatman's Watch in the Void Sea.
+-   The [Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
@@ -172,13 +172,13 @@ Yun'shul
 **Lore Sources:**
 
 -   A region consisting of a variety of islands; from deserts, arctic and normal ones.
--   The Eastern Luminant (or the Etrean Luminant) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
+-   [The Eastern Luminant](Luminants.md) (or the Etrean Luminant) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
     -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive and the Children of Navae.
 
 #### Eastern Interstitial Lighthouse (Etrean Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
--   As of Deepwoken's Release, the Lighthouse cannot be accessed into its interior, nor does it allow anyone to go to The Central Luminant. Due to the fact that only Lightkeepers can operate them.
+-   As of Deepwoken's Release, the [Lighthouse](Eastern_Interstitial_Lighthouse.md) cannot be accessed into its interior, nor does it allow anyone to go to [The Central Luminant](Luminants.md). Due to the fact that only Lightkeepers can operate them.
 
 #### Erisia Island (Etrean Luminant)
 
@@ -195,12 +195,12 @@ Yun'shul
 
 **Lore Sources:** _Arch\_Mage (Discord)_
 
-_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - Starswept Valley Flavour Text_
+_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavour Text_
 
   
 
--   A desert land that occupies most of Aratel Island; consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
--   Blue stars of light rain down upon the Valley, thus getting the title of Starswept.
+-   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
+-   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
     -   (Arch\_Mage) Thanks to Arch\_Mage, its confirmed that the blue particles that rain down the Valley are fragments of Stars.
     -   Along with blue fragmented stars; Blue Meteorites, containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
 
@@ -230,7 +230,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 A frozen Tundra.
 
-Probably home to Frostdraw.
+Probably home to [Frostdraw](Frostdraw.md).
 
 ### **Western Luminant**
 
@@ -240,8 +240,8 @@ Probably home to Frostdraw.
 
 **Lore Sources:**
 
--   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
--   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
+-   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
+-   There are little to no NPCs or texts that explains the lore of the [Voidsea](Voidsea.md), as of 1/10/2022.
     -   It is assumed that the Voidsea is the byproduct or the result of The Tides.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
@@ -252,7 +252,7 @@ Probably home to Frostdraw.
 
 _"A place remembered only by the waves"_
 
--   The Ferryman can be found here, as well as a secret library  
+-   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library  
     
 
 ### **The Depths**
@@ -347,12 +347,12 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:** _???_
 -   **Enemies:** _The Central Authority_
--   **Lore Sources:** _Amara, Brutus_
+-   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
--   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Authority or The Hive.
+-   Also known as the [11th Legion](The_Hundred_Legions.md), a military organization from the [Western Luminant](Luminants.md). They are not to be confused with [The Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
 -   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
--   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
--   They appear to have once been allies with the Authority, but some treaty was broken between them and are now at war.
+-   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
+-   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
 
 Amara, a Member of The Legion.
 
@@ -362,23 +362,23 @@ Amara, a Member of The Legion.
 
 _"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
 
--   **Territory:** _Summer Isles_
--   **Encountered In:** _Summer Isles_
+-   **Territory:** _[Summer Isle](Summer_Isle.md)_
+-   **Encountered In:** _[Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _N/A_
--   **Alliances:** _The Central Authority (Business Relations)_
--   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
+-   **Alliances:** _[The Central Authority](The_Central_Authority.md) (Business Relations)_
+-   **Enemies:** _The Children of Navae, The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), Arch\_Mage (Discord)_
 
 -   A Faction that resides in Summer Isles. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
--   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
+-   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
--   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
+-   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
--   As of 1271, Summer Company has ties with The Authority. They contract the Company for Firearms in exchange for goods and the likings.
-    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company secrets are being stolen by Authority they are still in business with them.
-        -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
+-   As of 1271, [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
+    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [Authority](The_Central_Authority.md) they are still in business with them.
+        -   Explained by Arch\_Mage, [Summer Company](The_Summer_Company.md) overlooked the [Authority](The_Central_Authority.md)'s actions under their noses and ignored them; presumably to avoid ruining their business relationship with [The Authority](The_Central_Authority.md).
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
@@ -392,10 +392,10 @@ A Summer Company Member.
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
 
 -   **Territory:** _Unknown_
--   **Encountered In**: _Minityrsa, Summer Isles_
--   **Attunements:** _Shadowcast_
+-   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
+-   **Attunements:** _[Shadowcast](Shadowcast.md)_
 -   **Alliances:** _The Contractors (Neutral)_
--   **Enemies:** _Ignition Union, The Children of Navae, The Summer Company_
+-   **Enemies:** _[Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md)_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
