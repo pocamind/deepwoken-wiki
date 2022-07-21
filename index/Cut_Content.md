@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 34114
+revid: 34178
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -30,6 +30,7 @@ notices:
 -   **Mantras Stat -** Itemized mantras would read their level and stat change in their tooltip like so: Mantra Name, Lv.1, 0 Sz (Size), 0 AoE (Area of Effect), 0 Dur (Duration), 0 Spd (Speed), 0 Rng (Range).
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantras Cores that would then be the basis of your spell creation.
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantra on the Mantra Table.
+-   **Announced Casting -** Characters used to announce their mantra cast via text chat. This was removed shortly before release, as it made the game "Too anime," but was reimplemented due to popular demand. However, later clips show the move names being announced in a red highlight on the screen whenever used. This has been removed and with the return of Voiced Casting, unlikely to return.
 
 ## Monsters
 

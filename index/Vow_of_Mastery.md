@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 31891
+revid: 34179
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -36,6 +36,7 @@ The player must respond with "yes." after responding yes, you will have a menu a
 
  |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) |
+| Locate | Yes, ?? Charisma | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. |
 | Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  |
