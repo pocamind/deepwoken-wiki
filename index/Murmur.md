@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 34242
+revid: 34256
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -77,25 +77,11 @@ Tacet has two different detection radius, one for PVE and PVP:
 -   In PVE, the detection radius is effectively 0 at Power 60, the player can avoid any and all monsters or NPCs even when touching them. **Do keep in mind**, if you activate Tacet while a NPC is chasing you and is extremely close, they will not de-aggro. You must make a bit of distance between you and it.
 -   In PVP, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not.
 
-File:Tacet Drop Kick Card.png
-
-Tacet Drop Kick in "Whispers from the deep beckon you..." card pulls.
-
-### **Tacet Drop Kick**
-
-> _"Disguise yourself in tacet and drop kick your enemies."_
-
-**Tacet Drop Kick** is a **combat** mantra found in "Whispers from the deep beckon you..." card pulls.
-
-To get it to appear, the user must have the fist style Jus Karita equipped, Murmur: Tacet, and 20 strength.
-
-Upon activation, the user goes invisible and teleports above the opponent and slams down, briefly stunning the opponent upon successful hit. This move is slow and easily parry-able however, if you're planning to use this to sneak attack someone I suggest just going in for a assassination while out of combat.
-
 ### **Obtainment**
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 
-This quest requires 10 [Charisma](Attributes.md#charisma), 75 [Agility](Attributes.md#agility), and bad [reputation](Reputation.md) with Etrea to obtain.
+This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 

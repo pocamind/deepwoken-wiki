@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34220
+revid: 34255
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1206,7 +1206,7 @@ These Talents are designed to make you more effective in water.
 ### Whisper
 
 -   Haunted Gale \[Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
-    -   Prerequisites: Master Galebreather/50 Galebreathe
+    -   Prerequisites: Unknown, but it is less than 50 Galebreath
 
 ### Windrunner
 

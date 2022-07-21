@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 34247
+revid: 34252
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters]
@@ -10,9 +10,9 @@ notices:
 
 # Mudskipper
 
-“ IT'S EZ JUST PARRY BLOCK DODGE! ”
+“ These abominations are too weak to kill you ”
 
-― Anonymous
+― Kirk Corbet
 
 _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
 

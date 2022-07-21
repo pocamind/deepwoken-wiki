@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 33897
+revid: 34258
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 33765
+revid: 34248
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -92,7 +92,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ― Etrean before prostrating themselves before Yun'Shul.
 
--   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
+-   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower. Each willpower point will add 2 reservoir.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 -   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
