@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 34219
+revid: 34245
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -9,8 +9,6 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 # Galebreathe
 
 "Your ability to call upon the wind, and control the air around you."
-
-HAMON... OVERDRIVO!!!!!!!
 
 ## Description
 
@@ -262,7 +260,7 @@ _A servant of wind._
 
 These talents are found in the _Aeromancy_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Aeronade
@@ -356,7 +354,7 @@ When falling from a high place, hold spacebar to generate wind currents until yo
 
 These talents are found in the _Aeromancy_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Gale Trap
@@ -377,7 +375,7 @@ FROM: Wind Step
 
 These talents are found in the _Cloudwalker_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 |  | 
 Gale Leap
@@ -400,7 +398,7 @@ FROM: Galebreather
 
 These talents are found in the _Galebreather_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Galebreather
@@ -472,7 +470,7 @@ Glide straight with the power of Gales.
 
 These talents are found in the _Gale Duelist_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 |  | 
 Tempest Wind
@@ -491,7 +489,7 @@ Sends user and opponent into the air.
 
 These talents are found in the _Galeforce_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Breathing Impact
@@ -562,7 +560,7 @@ FROM: Breathing Impact
 
 These talents require stats in agility.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Air Pressure
@@ -638,7 +636,7 @@ Costs _[Ether](Combat_Mechanics.md)_.
 
 These talents are found in the _Silencer_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:A World Without Song.jpg | 
 A World
@@ -693,7 +691,7 @@ FROM: Galebreather
 
 These talents are found in the _Whisper_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 |  | 
 Haunted Gale
@@ -713,7 +711,7 @@ Every 5 hits landed by perfectly casted Galebreathe mantras will cause the targe
 
 These talents are found in the _Vigil of Winds_ category.
 
-| Media | Talent | Card Description | Effect |
+| Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | 
 Maestro's Blade

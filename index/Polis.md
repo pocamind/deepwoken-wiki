@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 34200
+revid: 34230
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,15 +15,15 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and worshiper of the god, Alsin. He gives a Gold Ring to those who interact with him. When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
+Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and a worshiper of the god, Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him. When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
 
 ## Moveset
 
-Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), the [Jus Karita](Jus_Karita.md) fighting style and the [Galebreathe](Galebreathe.md) Attunement:
+Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**Jus Karita**) and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| **Assault** | User firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| **Assault** | User heavily swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | **Critical** | User raises sword upward before slamming it into the ground. | ◯ | ✗ | (★★☆) |
 | **Gale Lunge** | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | **Rising Wind** | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |

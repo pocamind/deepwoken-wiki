@@ -1,9 +1,11 @@
 ---
 title: Mudskipper
-revid: 33753
+revid: 34247
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [In progress with reason, InProgressPages, Monsters]
+notices:
+  - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
 
 # Mudskipper
@@ -12,21 +14,160 @@ categories: [Monsters]
 
 ― Anonymous
 
-Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
+_Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
 
-  
+**Normal:**
 
-  
+Template:Creature Infobox V3
 
 ## Description
 
 Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
 
-## Moves
+## Moveset
 
--   **Scratch -** Scratches you, dealing low damage, it does this fast enough to almost stun-lock you, so you must parry this to escape / fight back.
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
 
--   **Jugular Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their nail.
+ | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+
+## Tips
+
+**Green:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Jugular Slice | Pins down opponent before slicing their throat with their blade. |
+
+## Tips
+
+**Black:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+
+## Tips
+
+**Necro:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+
+## Moveset
+
+### **Redskipper**
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+| 
+
+Flare
+
+ | Conjures a ball of fire before throwing it at an opponent. | (Work in Progress) | (Work in Progress) | (★★☆) |
+
+### **Blueskipper**
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+| 
+
+Ice Spikes
+
+ | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★★☆) |
+| 
+
+Warden's Blades
+
+ | User forms 4 ice blades around them before rapidly rotating them dealing light damage. | ◯ | ◯ | (★★☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+
+## Tips
+
+**Swordsman:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Mindless enemies are summoned to fight the weak during the [Trial of One](Trial_of_One.md). Unlike most mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a sword and wear armor. They are smarter than the average Mudskipper, being able to block and parry attacks.
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Firmly swings sword at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+
+### Boons
+
+-   Experienced Fighter - Can block and parry common attacks and mantras.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down the opponent and slices their throat with their blade. |
 
 ## Variants
 

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 32968
+revid: 34233
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -50,8 +50,16 @@ able?
 (★☆☆)
 
  | **I**/**II** |
-| **Lightning Clones** | The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing. He only uses Lightning Clones in Phase 1. | ◯ | (☆☆☆) | **I** |
-| **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them. Becomes much faster in Phase 2. | ◯ | (★☆☆)
+| **Lightning Clones** | The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
+
+-   He only uses Lightning Clones in Phase 1.
+
+ | ◯ | (☆☆☆) | **I** |
+| **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
+
+-   Becomes much faster in Phase 2.
+
+ | ◯ | (★☆☆)
 
 (★★☆)
 
@@ -61,8 +69,16 @@ able?
 (★★★)
 
  | **I**/**II** |
-| **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulse. He only uses this attack in Phase 2. | ◯ | (★☆☆) | **II** |
-| **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack in Phase 2. (Each spear does about 220 damage; this is a rough estimate though.) | ◯ | (★★★) | **II** |
+| **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulse.
+
+-   He only uses this attack in Phase 2.
+
+ | ◯ | (★☆☆) | **II** |
+| **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools.
+
+-   He only uses this attack in Phase 2. (Each spear does about 220 damage; this is a rough estimate though.)
+
+ | ◯ | (★★★) | **II** |
 
 ### Finishers
 
@@ -121,10 +137,10 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 
 **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+16%\]. This boss also gives [Resonance](Resonance.md)Progress, moreso if they have the corrresponding [Nature](Resonance.md#obtainment-process).
 
--   A chest containing **Amethyst Pendant Earrings** and (very rarely) a **Finisher's Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
+-   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
--   **Ardour Manifestation** - A item can summon [Dread Serpent](Dread_Serpent.md) in the voidsea, rare(?) drop from defeating ferryman.
+-   **Ardour Manifestation** - A item can summon [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md), rare(?) drop from defeating ferryman.
 
 ## Dialogues
 
@@ -180,10 +196,6 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
     Yamaketzal mentioning the Ferryman.
     
-
-  
-
-  
 
 ## Bugs
 

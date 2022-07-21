@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 33538
+revid: 34236
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -23,7 +23,7 @@ An unfortunate group of individuals that became victims of [The Duke](Duke_Isham
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Weakly smacks opponent and finishing up the combo by kicking them | ◯ | ◯ | (★☆☆) |
+| Assault | Weakly smacks opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
@@ -33,7 +33,7 @@ An unfortunate group of individuals that became victims of [The Duke](Duke_Isham
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent before slicing their throat with their thumbnail. |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
 
 ## Trivia
 

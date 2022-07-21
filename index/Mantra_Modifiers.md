@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 34150
+revid: 34222
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -55,6 +55,7 @@ Cloudstone
 
 -   Increases mantra/hitbox size.
 -   Projectiles lose distance.
+-   Compatible with the "Ice Lasers" mantra for a unique effect.
 
  |
 | File:Stratus.png | 
@@ -211,7 +212,7 @@ Stone
 
  | 
 
--   Compatible with Glacial Arc for a unique effect.
+-   Compatible with the "Glacial Arc" mantra for a unique effect.
     -   Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
 
  |

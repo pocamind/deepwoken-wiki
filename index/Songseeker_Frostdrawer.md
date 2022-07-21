@@ -1,13 +1,13 @@
 ---
 title: Songseeker Frostdrawer
-revid: 33876
+revid: 34237
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Frostdrawer
 
-Template:EnemyInfobox1.0 **Frostdrawer Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

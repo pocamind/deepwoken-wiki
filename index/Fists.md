@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 34165
+revid: 34229
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -23,10 +23,10 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae) , -> Navaen Nomad Hostage , --> Camp Master , or , --> Eastern Tribal Leader , (Legion Kata) , -> Help Legion Captains , --> Get their recommendation , ---> Amara , (Jus Karita) , -> 40 LHT, Power 30 , --> Polis |
+| obtainment | (Way of Navae) , -> Navaen Nomad Hostage , --> Eastern Camp Master , or , --> Eastern Tribal Leader , (Legion Kata) , -> Help Legion Captains , --> Get their recommendation , ---> Amara , (Jus Karita) , -> 40 LHT, Power 30 , --> Polis |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita |
 
-“ I COULD BREAK THE REGENT OF ETREA IN TWO... WITH MY BARE HANDS! ”
+“ I COULD BREAK LORD REGENT OF ETREA IN TWO... WITH MY BARE HANDS! ”
 
 ― Senator Corbet
 
@@ -54,15 +54,15 @@ File:Way Of Navae.png
 
 #### **CRITICAL: User raises their leg before firmly slamming it down, breaking the opponent's guard. Do note that the windup is slow.**
 
--   To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Erisia](Erisia.md) but it is also possible to find them in [Fort Merit](Fort_Merit.md). Once you've acquired one, you can bring them back to either of these NPCs:
-    -   Navaen Camp Master on [Etris](Etris.md)
+-   To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Erisia](Erisia.md) but it is also possible to find them in [Fort Merit](Fort_Merit.md). Once you've acquired one, you can bring them back to either one of these NPCs:
+    -   Eastern Camp Master on [Etris](Etris.md)
     -   [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md)
 
 Note: After unlocking Way of Navae on the following slot, you can choose Fists as your starter weapon in the character menu. This is only possible on the same slot in which you unlocked Way of Navae.
 
 Debatably the best fist style. While it ties in damage with Kata, the critical possesses more range and is able to instantly guard break most players if they fail to parry it. While the windup is longer, this is a great mix up when using your normal M1's which is what usually leads to guard breaks.
 
-### Legion Kata (Legion Martial Arts)
+### Legion Kata
 
 File:Legion fist.png
 

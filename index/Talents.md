@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34208
+revid: 34220
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -901,7 +901,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 -   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
     -   Prerequisite: 25 Strength
 -   Treefelling Blow \[Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
-    -   Prerequisite: Unknown amount of strength. (Requires Strong Left - Strength Mantra.)
+    -   Prerequisite: Strong Left
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 34213
+revid: 34243
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -8,25 +8,24 @@ categories: [Weapons, Swords]
 
 # Curved Blade of Winds
 
-| Curved Blade of the Cum | |
+| Curved Blade of Winds | |
 |---|---|
-| type | cum blade |
-| requirements | get butt fucked by me and give me head |
-| damage | 69.9 |
-| scaling | +10 dmg per Cum drop |
-| range | 69 |
-| swing speed | 0.1x |
-| endlag | none |
-| penetration | 69999999% |
-| chip damage | 100% |
-| special effect | apply cum efffect to pepole |
+| type | Sword |
+| requirements | 25 MED, 75 WND |
+| damage | 17.5 |
+| scaling | MED: 5, WND: 4 |
+| range | 8 |
+| swing speed | 0.8x |
+| penetration | 15% |
+| special effect | Aftercut is applied to all attacks. |
+| stances | 2 Handed, 1 Handed |
 | selling price | 25 Notes |
-| weight | cum weight |
+| weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | succ my pp |
+| obtainment | Chests in The Depths |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 ## **Description**

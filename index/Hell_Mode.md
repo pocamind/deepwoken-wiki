@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 34217
+revid: 34244
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -55,12 +55,12 @@ Upon reaching 100 kills and the 20 minutes mark, three chests will spawn near so
 
 Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 
--   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies, you're not ready for. Be wary though, as Nautilodaunt and Deep Owls can scale even the greatest of walls. ~The Enforcer doesn't have mobility but has a pull with nasty range that can force you back into the hellish arena so make sure to **dodge** its grab or not confront it.~The Enforcer can't pull players in Hell Mode anymore due to an recent update.
+-   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies, you're not ready for. Be wary though, as Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a lot darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.
 
-## Notes and Trivia
+## Trivia
 
 -   This isn't perfect so feel free to add anything
 -   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness. (This is likely due to the natural blue tint of the depths clashing with the dark red tint of Hell Mode)

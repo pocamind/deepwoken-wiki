@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 33822
+revid: 34246
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ An Etrean Guard is a enemy NPC that can only be found in the following events:
 -   Invasion of Etris ([Etris](Etris.md))
 -   Etrean Guards vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 
-An Etrean Guard wears a purple uniform. They are [Etrean](Etrean.md) and their gender varies.
+An Etrean Guard wears a purple uniform with their race being an [Etrean](Etrean.md) and their gender varying. They also can appear younger or older than 40 years old.
 
 ## Moveset
 
@@ -36,3 +36,7 @@ An Etrean Guard executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with axe. |
+
+## Trivia
+
+-   They appear to act as naval officers, as they spawn on ships and are found in areas that are easier to reach via boat.

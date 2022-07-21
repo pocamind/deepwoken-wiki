@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 33946
+revid: 34238
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -54,7 +54,7 @@ Ice Spikes
 
 _Piercing spikes of ice._
 
- | Thrusts a spike of ice from the ground at cursor location.
+ | Conjure a spike of ice from the ground at cursor location.
 
 -   Deals moderate damage and sends target into the air.
 -   Leaves ice where the Mantra is casted.

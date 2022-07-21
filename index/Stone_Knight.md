@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 33824
+revid: 34221
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -92,7 +92,7 @@ A Stone Knight executes the player:
 
 | Name | Description |
 | --- | --- |
-| Slash | Firmly slashes the player, killing them. |
+| Executing Cut | Firmly slashes the player, killing them. |
 
 ## **Trivia**
 
