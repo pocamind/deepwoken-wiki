@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 34071
+revid: 34262
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -92,7 +92,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
-    -   The entire beam deals around 120 damage.
+    -   The entire beam deals around 80 damage with zero insanity.
         -   Damage scales with your current insanity, so the potential DPS could be even higher
     -   Has a HIGH windup
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).

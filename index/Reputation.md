@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 34260
+revid: 34261
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -33,8 +33,6 @@ Certain questlines will be unlocked with positive reputation.
 ##### Guard Behavior
 
 Players can talk to the NPC guards posted within villages and islands. Depending on your current reputation, guards will respond with [dialogue](Dialogue.md) that is established with that level of reputation. Guards will speak in a more friendly manner the higher your reputation is.
-
-Tip: [O~fficers Note~](Cut_Content.md) ~can be used to increase reputation in Etrea.~(No more Officers Note in the game)
 
 Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
