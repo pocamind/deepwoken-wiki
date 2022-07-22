@@ -1,13 +1,13 @@
 ---
 title: Songseeker Flamecharmer
-revid: 33875
+revid: 34265
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Flamecharmer
 
-Template:EnemyInfobox1.0 **Flamecharmer Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+Template:EnemyInfobox1.0 **Songseeker Flamecharmers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 
@@ -78,7 +78,7 @@ A Songseeker Flamcharmer executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Incineration | The flame status effect from the Flamecharm attunement burns away the opponents corpse. |
+| Incineration | The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
 | Execute | Pins down opponent before firmly bashing their face. |
 
 ## Tips

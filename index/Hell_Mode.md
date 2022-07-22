@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 34259
+revid: 34264
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -33,6 +33,8 @@ Once the conditions are met, the entire depths (the current server) will take on
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
 -   Mute [Regalia](Regalia.md) is disabled (Tested it, it's not disabled)
 -   Tacet will not work on monsters
+-   Megalodaunts will always spawn as their Alpha version.
+-   King Thresher is removed from spwan pool.
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 
@@ -68,5 +70,3 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server menu by a light red hue.
--   Megalodaunt will always spawn as their Alpha version during Hell Mode.
--   King Thresher wont spawn during Hell Mode.

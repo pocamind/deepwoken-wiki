@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34238
+revid: 34266
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -97,7 +97,7 @@ Warden's Blades
 
 _Revolving blades of ice._
 
- | User forms 4 ice blades around them before rapidly rotating them dealing light damage.
+ | User forms 4 ice blades around them before rapidly rotating them, dealing light damage.
 
 -   Can be modified with Stratus Stones to create some serious area denial.
 

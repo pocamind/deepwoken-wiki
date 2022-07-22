@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 34245
+revid: 34270
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -56,7 +56,7 @@ Air Force
 
 _Shoots out an air blast._
 
- | Shoots out air from your hands in the direction of your mouse and staggers target.
+ | Conjure a strong blast air from your hands in the direction of your mouse that staggers target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
