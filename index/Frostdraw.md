@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34266
+revid: 34274
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -294,7 +294,7 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | 
-Crystal Knee
+Crystal Knee\[☆☆\]
 
  | 
 
@@ -309,7 +309,7 @@ _Knock your enemy skyward with a kick of crystal._
 
  | 
 
-Crystal Impale
+Crystal Impale\[☆☆\]
 
  | 
 

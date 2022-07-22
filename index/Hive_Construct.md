@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 34272
+revid: 34277
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 _Also known as Hive Mechs, Life Weaver Golem, Transformers, Mechs, Golems, Senju, Forest Golems, or Obsidian Golems._
 
-Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bluster's Rift](Bluster_Rift.md); while as Rogue Constructs can only spawn and on the ice lake on top of [Minityrsa](Minityrsa.md).
+Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bluster's Rift](Bluster_Rift.md); while as Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.md).
 
 **Hive Construct:**
 
