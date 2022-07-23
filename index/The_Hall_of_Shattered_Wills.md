@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 31513
+revid: 34293
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ Screenshot found in Hidden Sidden's [video](https://youtu.be/EA08_TNDuII).
 
 ## Overview
 
-The Hall of Shattered Wills is an office workspace filled with cubicles. It is inaccessible to those who are not testers or developers.
+The Hall of Shattered Wills is an office workspace filled with cubicles. It is inaccessible to non-moderators.
 
 It has no known function and is purely there for appearance.
 
