@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 34047
+revid: 34294
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Template:EnemyInfobox1.0
 
 An Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to Das who is located in the Sparring Arena on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
 
-An Instructor wears a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) outfit.
+An Instructor wears a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [race](Aspects.md) and gender varying.
 
 ## Moveset
 
@@ -41,8 +41,14 @@ An Instructor disappears after defeating the player. The player will receive all
 | --- | --- |
 | Disappear | Unequips weapon before disappearing into thin air. |
 
+## Tips
+
+-   It's an instructor, he's meant for practicing skill.
+
 ## Trivia
 
 -   The Instructor doesn't execute the player 99.9% of the time but there has been some clips showing it executing players after sparring.
 -   You can kill the Instructor by using moves that instantly grip opponents when they are on low hp.
 -   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
+-   You can glitch an instructor by starting the spar and not doing anything at all.
+    -   To fix it, you just need to defeat him.

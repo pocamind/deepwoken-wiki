@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 33711
+revid: 34298
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -57,7 +57,7 @@ categories: [Weapons, Daggers]
 
 The Whaling knife is a dagger type weapon with a requirement of 40 LHT. It has a base damage of 15 and a weapon scaling of 5. This weapon can be upgraded with [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy), allowing it to match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md).
 
-Instead of the normal dagger critical, this dagger has a [unique critical attack](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal) consisting of a single forward slash with a red trail. This critical benefits from Knife's Journey greatly.
+Instead of the normal dagger critical, this dagger has a [unique critical attack](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal) consisting of a single forward slash with a red trail. This attack passively benefit from the talent Knife's Journey, which increase damage by 1.2x with a 30% chance (instead of the talent's regular 10%). Having the talent stacks the chance to 40%.
 
 ## Trivia
 
