@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 32963
+revid: 34287
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ Their appearance possibly only consists of a [RagoozaRequest7](Outfits.md) outfi
 
 ## Moveset
 
-An Etrean Footsoldier's arsenal consists of either a [Vigil Longsword](Vigil_Longsword.md), [Mace](Mace.md) or [Ritual Spear](Ritual_Spear.md) along with the [Galebreathe](Galebreathe.md) attunement:
+An Etrean Footsoldier's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
