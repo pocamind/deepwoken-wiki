@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 34321
+revid: 34327
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,10 +30,3 @@ categories: [Weapons, Weaponry]
 ## **Description**
 
 The Messer is a Medium Weapon that can be obtained by buying it at Etris or from Erisia Chests. This weapon has no special effects or passives. It can be alloyed to create Alloyed Messer.
-
-## Trivia
-
--   If you want to buy this as your freshie weapon, keep in mind there are better alternatives depending for what you want to use this for. For example, in PVE, the [Iron Spear](Iron_Spear.md) is reccommended, and it can be found in the same armory shop at where you'd buy the Messer.
-    -   However, the [Iron Spear](Iron_Spear.md) is slower than the Messer and deals less damage. Therefore, using it is not reccommended.
-    -   The Messer is still better than the starting sword though.
--   It can be alloyed.

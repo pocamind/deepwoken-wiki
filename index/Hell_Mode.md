@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 34309
+revid: 34323
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -70,3 +70,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server menu by a light red hue.
+-   Enforcers pull move have been disabled during hell mode, so it'll be more easy to heal
