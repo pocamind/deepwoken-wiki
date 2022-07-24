@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34051
+revid: 34322
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -336,7 +336,7 @@ _Requires Power 40_
 _Requires Power 40_
 
  | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
-| File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre & White |
+| File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests, Dread serpent | Dark, Ochre & White |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
