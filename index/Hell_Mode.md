@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 34264
+revid: 34309
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -34,7 +34,7 @@ Once the conditions are met, the entire depths (the current server) will take on
 -   Mute [Regalia](Regalia.md) is disabled (Tested it, it's not disabled)
 -   Tacet will not work on monsters
 -   Megalodaunts will always spawn as their Alpha version.
--   King Thresher is removed from spwan pool.
+-   King Thresher is removed from spawn pool.
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 

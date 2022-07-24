@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 34292
+revid: 34312
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Mantras]
 
 # Shadowcast
 
-“ Did the lights go out or is it just me? ”
+“ I'll be borrowing that ether. ”
 
-― A random Canor afflicted with Shadowcast
+― Unknown Shadowcaster about to drain someones entire ether and reservoir
 
   
 
