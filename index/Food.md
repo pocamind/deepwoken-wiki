@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 32610
+revid: 34319
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -16,12 +16,13 @@ An example of a differently colored bar
 
 Food is a necessary need for your Character's survival.
 
-_**To get food one must collect ingredients**_
+_**To get food one must collect ingredients or buy the food**_
 
 -   Mushrooms and fruits are very easy to get, plentiful on both starter islands.
 -   On every season (except winter), the player can find fruits on smaller trees, an easy and safe source of nutrition.
+-   You can buy food from Lance Leshi (Etris), his brother (Isle of Vigils), and [The Meat Lord](The_Meat_Lord.md)
 
-Although you can eat the ingredients directly this may cause vomiting which leads to a immense decrease in thirst and hunger.
+Although you can eat the ingredients directly, certain ingredients may cause vomiting which leads to a immense decrease in thirst and hunger.
 
 _**To cook food, one must rest at a campfire**_
 
@@ -46,7 +47,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 ### **Known Boosts:**
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
--   _"You Feel as though you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
+-   _"You feel as though you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.

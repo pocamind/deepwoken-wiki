@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 33792
+revid: 34318
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandit Leaders can only be found on [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually spawn in groups of 3 with 2 being normal bandits and 1 being the captain on [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can spawn in groups of 2 in events that involve them fighting Summer Company Guards.
+Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. They're can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards.
 
 A Bandit Leader wears an Unknown/Unlisted Outfit with their [race](Aspects.md) and gender varying.
 
@@ -50,4 +50,5 @@ A Bandit Leader executes their opponent after knocking them:
 ## Tips
 
 -   Parry trade them until their posture breaks.
+-   Alternatively, parry then use your critical.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
