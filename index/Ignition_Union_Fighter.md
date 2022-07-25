@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 34341
+revid: 34354
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,8 +14,9 @@ Template:EnemyInfobox1.0
 
 An Ignition Union Fighter is a type of enemy NPC that can spawn in the following events:
 
--   Ignition Union vs Akira in [The Depths](The_Depths.md)
--   Ignition Union vs Summer Company events. Interactable only after Ignition Union vs Summer Company event finishes.
+-   Ignition Union Fighters vs Akira ([The Depths](The_Depths.md))
+-   Ignition Union Fighters vs Summer Company Guards ([Summer Isle](Summer_Isle.md))
+    -   **Interactable only after event finishes.**
 
 They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 

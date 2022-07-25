@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34329
+revid: 34350
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1084,6 +1084,10 @@ These Talents are meant to reap the reward of your latest hunt.
 
 -   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load, +2 Elemental Intensity)
     -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
+-   Jolt Cast \[common talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 staks, your next lightning mantra will take less time to cast.
+    -   Requirements: ?? intelligence (probably 30), ?? thundercall
+
+  
 
 ### Thunderblade
 
