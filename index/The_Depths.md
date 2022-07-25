@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 32797
+revid: 34349
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -96,7 +96,7 @@ These numbers are not set in stone, you may get a trial at power 9, or not get a
 | --- | --- |
 | 1- ~10 | Nothing (you are sent up without a fight) |
 | ~11- ~18 | [Mudskipper Knight](Mudskipper.md) |
-| ~19 - ~28 | [Angels](Hollow_Angel.md) (Lesser) |
+| ~19 - ~28 | [Angel](Hollow_Angel.md) (Lesser) |
 | ~29 - ~39 | [Megalodaunt](Megalodaunt.md) |
 | ~40 - ~49 | Still just [Megalodaunt](Megalodaunt.md), but maybe higher chance of corrupted |
 | ~50+ | [Enforcer](Enforcer.md) |

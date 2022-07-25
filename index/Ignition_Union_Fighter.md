@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 33734
+revid: 34341
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -27,7 +27,7 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Falchion](Falchion.md)\] Performs a windup before thrusting sword forward.
-\[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Raises blade upward before slamming it down to the ground.
+\[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★★☆) |
 
@@ -49,6 +49,7 @@ An Ignition Union Fighter executes the player after knocking them:
 -   Apply standard humanoid fighting tactics.
 -   They don't use mantras. It is easy to escape them when you're getting low.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
+-   Make sure to roll when you see them use their **Critical** as hitting them during the **Critical** won't cancel it.
 
 ## Trivia
 

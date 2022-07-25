@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 34056
+revid: 34346
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -27,14 +27,14 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Raises left leg before firmly slamming it down into the ground below. | ◯ | ✗ | ◯ | (★★☆) |
+| **Critical** | Raises left leg before firmly slamming it down to the ground. | ◯ | ✗ | ◯ | (★★☆) |
 | **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage.
 -   He laughs afterward when something strikes his counter.
 
  | N/A | N/A | N/A | (★★☆) |
 | **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
--   Essentially an average Legion-Kata feint.
+-   Essentially an average Legion Kata feint.
 
  | ✗ | ✗ | ◯ | (★☆☆) |
 | **Binding Tempest** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away.
@@ -118,5 +118,5 @@ You also gain a large amount of [Luck](Luck.md) (16%), and [Resonance](Resonance
     -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture.
     -   A **[Heavy Hands Ring](Outfits.md)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
     -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
-        -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.
+        -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
