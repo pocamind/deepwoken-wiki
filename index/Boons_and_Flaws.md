@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 32600
+revid: 34330
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -42,6 +42,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Fugitive | "All factions hate you." | Start with low reputation toward all factions.
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian
+-   Low enough that, starting from power 15, you can be hunted for [bounties](Bounty_Hunting.md).
 
 Default reputation is set to low.
 

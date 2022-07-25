@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 34323
+revid: 34339
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Hell Mode
 
-“ A strange bell as been spotted within the Celtor Waste. Only a quintuplet of powerful adventurers may ring it to bring unforetold consequences... but the rewards are just as great. ”
+“ A strange bell has been spotted within the Celtor Waste. Only a quintuplet of powerful adventurers may ring it to bring unforetold consequences... but the rewards are just as great. ”
 
 ―
 
@@ -18,21 +18,21 @@ Template:Areainfobox
 
 ## Description
 
-Hell Mode is a player summoned event that take place within the depths.
+Hell Mode is a player summoned event that takes place within the depths.
 
 A group of powerful adventurers must join forces in this hellish variant of The Depths to obtain great rewards.
 
 ## Activation Method and Effects
 
-The Hell Bell can be found within the Celtor Waste. To activate Hell mode, 5 players who are at least power 50 must ring the bell.
+The Hell Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 50 must ring the bell.
 
-Once the conditions are met, the entire depths (the current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
+Once the conditions are met, the depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Every mob that can spawn corrupted will be corrupted
 -   Spawnrate is increased by 10x
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
 -   Mute [Regalia](Regalia.md) is disabled (Tested it, it's not disabled)
--   Tacet will not work on monsters
+-   Tacet will not work on monsters(Tested, does work)
 -   Megalodaunts will always spawn as their Alpha version.
 -   King Thresher is removed from spawn pool.
 
@@ -57,10 +57,11 @@ Upon reaching 100 kills and the 20 minutes mark, three chests will spawn near so
 
 Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 
--   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies, you're not ready for. Be wary though, as Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
+-   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies you're not ready for. Be wary though, as the Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a lot darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.
+-   **When fighting monsters in a group, do NOT hit your allies.** This will put them in player combat, which means they will not get health and posture back when killing monsters, which exacts a heavy toll on their survivability for an extended period of fighting.
 
 ## Trivia
 
@@ -70,4 +71,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server menu by a light red hue.
--   Enforcers pull move have been disabled during hell mode, so it'll be more easy to heal
+-   The Enforcer's pull move has been disabled during hell mode, so it'll be more easy to get away.

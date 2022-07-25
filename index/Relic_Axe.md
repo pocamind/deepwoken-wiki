@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 34284
+revid: 34340
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -27,4 +27,4 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 ## Description
 
-The Relic Axe is a Heavy Weapon that is obtainable from defeating a [Stone Knight](Stone_Knight.md) at [Minityrsa](Minityrsa.md) or [Starswept Valley](The_Starswept_Valley.md). It has 25 base damage and a Swing Speed of 0.54x.
+The Relic Axe is a Heavy Weapon that is obtainable from [Minityrsa](Minityrsa.md) or [Starswept Valley](The_Starswept_Valley.md). It has 25 base damage and a Swing Speed of 0.54x.

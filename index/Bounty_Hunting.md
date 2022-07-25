@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 33953
+revid: 34332
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -14,8 +14,9 @@ categories: [Luck, Mechanics]
 
 A Bounty Board located in Etris.
 
--   Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction, once they are dead the hunter gets a chest full of loot, EXP and some luck. You can choose which player to hunt on Bounty Board. It will tell their name, race and oath. If the player has no oath, it will appear as "Pathfinder" The more the stars they have, the better the reward is, however more stars also represent that it's more dangerous (Higher stars = Worse rep, TESTED). You cannot hunt low level players for an obvious reason and you cannot hunt your guildmates.
-
+-   Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction, once they are dead the hunter gets a chest full of loot, EXP and some luck. You can choose which player to hunt on Bounty Board. It will tell their name, race and oath. If the player has no oath, it will appear as "Pathfinder".
+-   The star rating is a combination of their Power and their negative reputation toward the faction: stronger players will have more stars, players with more negative reputation will have more stars.
+-   Players below Power 15 do not appear on the bounty board. A power range that is too large also prevent the target from being hunted.
 -   When you take a bounty, at the top left corner of your screen it will say the name of the person you're hunting and where they are located. The location will be refreshed every once in a while.
 
 The details of the Bounty.
@@ -37,6 +38,7 @@ Examples:
 -   Fort merit, (due to the popularly grinded hostage quest.) and Etris are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting aswell
 -   Carrying rocks aswell as either an Alchemist hat or the "pitcher" talent will prove usefull to prevent your adversaries from logging as not many people will appreciate your hunting.
 -   Bounty hunting is Tacet's best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log, be wary of what time you choose to attack however and take advantage of your enviroment to achieve the greatest effect.
+-   Players who take the Fugitive flaw will appear on every single faction's bounty board as soon that they reach power 15 if they havent fixed their reputation with each one of them.
 
 ## Trivia
 

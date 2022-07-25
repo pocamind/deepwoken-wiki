@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34274
+revid: 34333
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -390,6 +390,7 @@ _Skate freely on paths of ice._
   <ul>
     <li>Needs more testing.</li>
   </ul></li>
+    <li>Add drift and rush shards to increase healing Amount(around a bar to half a bar)</li>
     <li>Do not use near teammates as it can freeze them.</li>
   </ul></td>
 </tr>
@@ -556,7 +557,7 @@ Preceding Chill
 
  | 
 
-Enemies hit during the last moments of your ice beam are frozen.
+Enemies hit during the last moments of your ice beam are frozen.(doesn’t freeze with Crystal path, instead adds another Crystal on final hit)
 
  | 
 
@@ -596,7 +597,7 @@ Orbital Ice
 
  | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage.
 
--   Requires ~20 Agility
+-   Requires ~20 Agility & 50 Frostdraw
 
  | 
 
@@ -715,6 +716,8 @@ Glacial Ice
 
 Your frost is now considerably more intense.
 
+Req:20 will power
+
  | 
 
 +3 Health  
@@ -745,7 +748,7 @@ File:Saint Jay.png
 
 Saint Jay
 
- | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled.
+ | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled.(while obtainable with crystallization it rarely ever procs)
 
 -   Requires the "Frostbite" Talent.
 
@@ -779,7 +782,7 @@ File:Frozen pin cushion.png
 
 Frozen Pin-Cushion
 
- | Ice Daggers now freeze opponents.
+ | Ice Daggers now freeze opponents.(adds another Crystal shard instead of freezing with glass path)
 
 -   Requires the "Ice Daggers" combat mantra
     -   I was able to get this without having Ice Daggers, however I had Ice Forge.
