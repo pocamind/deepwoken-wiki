@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 34372
+revid: 34379
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -28,7 +28,7 @@ The raid can be identified by the presence of Authority NPCs, specifically the A
 
 Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of [Justicar](<Justicar_(Origin).md>) armor schematic.
 
-During this event, most regular NPCs from the town will not be available.
+During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as it's location. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat.
 
 #### **Bandit Camp**
 
