@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34350
+revid: 34373
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -162,7 +162,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Heavy Lifting \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   Negate the movement speed penalty of heavy weapons.
     -   Contrary to popular belief, this does not affect food/gunpowder crates from Isle of Vigils or Summer Isle, nor does it affect the Boulder training gear.
-        -   Prerequisites: Strength
+        -   Prerequisites: ?? Strength and ?? Fortitude
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: 5 Strength and ?? Agility
 

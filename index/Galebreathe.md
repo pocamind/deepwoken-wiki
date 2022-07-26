@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 34355
+revid: 34365
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -40,7 +40,7 @@ Wind Blade
 
  | 
 
-_Slicing blades of Wind._
+_Slicing blades of wind._
 
  | Launches a wind projectile to cursor's position.
 
@@ -62,6 +62,24 @@ _Shoots out an air blast._
 -   Knocks opponents back and stuns them.
 -   Deals immense posture damage.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
+
+ |
+| 
+
+TBA
+
+ | 
+
+Tornado Kick
+
+ | 
+
+_Slicing blades of wind._
+
+ | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more projectiles if the mantra lands.
+
+-   Deals moderate damage.
+-   Projectile is medium-ranged.
 
  |
 |  | 
@@ -90,11 +108,10 @@ Tornado
 
 _A rushing current of wind._
 
- | AOE attack that also functions as a ranged attack.
+ | Conjure a small vortex around yourself, M1 to cast it forward.
 
--   Summons a tornado where the user is standing.
--   This tornado can be moved by "hitting it" with an M1.
 -   Deals light damage and hits multiple times.
+-   Projectile is short-ranged.
 
  |
 |  | 
@@ -106,7 +123,7 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- | User jumps into the air and strikes down.
+ | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.

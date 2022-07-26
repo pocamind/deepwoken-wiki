@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 33816
+revid: 34372
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -20,13 +20,13 @@ Random encounters are randomly spawning events that occur throughout target area
 
 ### _AI-Driven Encounters_
 
-**Authority's raid on Etris**
+**Authority's Invasion of Etris**
 
-The Authority's raid on Etris is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins.
+The Authority's invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins.
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of Lightkeeper armor schematics.
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of [Justicar](<Justicar_(Origin).md>) armor schematic.
 
 During this event, most regular NPCs from the town will not be available.
 
@@ -34,13 +34,13 @@ During this event, most regular NPCs from the town will not be available.
 
 A campfire, circled by three NPCs, consisting of two regular bandits and one Bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
 
-**Weapons:** Basic or semi advanced
+**Weapons:** Basic or Semi advanced.
 
 #### **Bandit Ambush**
 
 While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat [Assassin](Talents.md) Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at [Erisia](Erisia.md).
 
-**Weapons:** Basic or Semi advanced
+**Weapons:** Basic or Semi advanced.
 
 #### **Thieves**
 
@@ -54,7 +54,7 @@ In Etris or Vigils, two bandits can spawn in front of the guards near their resp
 
 **Weapons:** Basic
 
-#### **Summer Bandit Raid**
+#### **Summer Isle Bandit Raid**
 
 Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various locations. There are two main types:
 
@@ -62,7 +62,7 @@ Regular bandit raid: Three bandits, the type of bandits is random, can range fro
 
 Greater bandit raid: Seven or so regular bandits that spawn on the steps.
 
-**Weapons:** Basic
+**Weapons:** Basic.
 
 #### **Knives of Eylis**
 
@@ -70,7 +70,7 @@ Similar to bandit events, with three to four enemies spawning. They wield a dagg
 
 Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village. In Songseeker, there is an event where three Knives Of Eylis bandits spawn with no magic and no hostage.
 
-**Weapons:** Whaling Knife, Time Magic
+**Weapons:** Whaling Knife & Time-Slowing Orb Magic.
 
 #### **Authority Scouts**
 
@@ -100,27 +100,28 @@ An encounter limited to [Erisia](Erisia.md), can happen during any season, contr
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon three special [Mudskippers](Mudskipper.md), consisting of two that can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md), though the Frostdraw Mudskipper is bugged and cannot use it's Mantra.
 
-**Weapons:** Krulian Knife, Shadowcast, Necroskippers
+**Weapons:** Krulian Knife, Shadowcast & Necroskippers.
 
 #### **Songseeker**
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
-**Weapons:** Fists, random attunement from the above three
+**Weapons:** Fists along with a random attunement from the three above.
 
 #### **_X_ vs _X_**
 
 Groups of NPCs from different factions will spawn and attack each other. Helping a side will usually reward you with their respective reputation, though it may be bugged. Some of these events may include but are not limited to:
 
--   Etrean Footsoldiers vs The Central Authority (Erisia)
--   Etrean Sailors vs The Central Authority (Upper Erisia)
--   The Hundredth Legion vs The Central Authority (Upper Erisia)
--   The Summer Company vs The Ignition Union (Summer Isle)
--   Children of Navae vs The Ministry File:Eylisiconfactoin.png (Summer Isle)
--   Etrean Sailors vs Knives of Eylis (The Aratel Sea)
--   Etrea vs Hive (Starswept Valley)
--   Legion Captain/Centurion vs Authority Commander (Starswept Valley)
--   Hive Construct vs Authority Commander (Starswept Valley)
+-   Etrean Footsoldiers vs Authority Footsoldiers ([Erisia](Erisia.md))
+-   Etrean Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
+-   Legion Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
+-   Summer Company Guards vs Bandits ([Summer Isle](Summer_Isle.md))
+-   Summer Company Guards vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md))
+-   Eastern Tribe Nomad & Eastern Tribal Leader vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
+-   Etrean Guards vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Footsoldiers vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
+-   Legion Captain vs Authority Captain ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Construct vs Authority Captain ([Starswept Valley](The_Starswept_Valley.md))
 
 a golden warrior bouncer in the neutral position
 
@@ -156,11 +157,11 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 A Megalodaunt feasting on the corpse of a Vesperian Authority Footsoldier, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
 
-One in the Towerstruck lands
+One in the Towerstruck lands.
 
-One near the teleporter to The Duke's Manor, on a ledge over a body of water
+One near the teleporter to The Duke's Manor, on a ledge over a body of water.
 
-One in the Hidden Village
+One in the Hidden Village.
 
 #### **Divers vs Monster**
 
@@ -190,4 +191,4 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 
 ### **Stranger NPC**
 
-An incredibly rare event which has only been spotted in Erisia so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. If you have an unknown amount of Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped.
+An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. If you have an unknown amount of Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.

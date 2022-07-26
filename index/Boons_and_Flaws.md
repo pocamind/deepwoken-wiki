@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 34330
+revid: 34375
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -83,7 +83,7 @@ The flaw is only obtainable by wishing through a developer, which it will grant 
 -   While _Deepwoken_ is largely PvE, many players who use _Marauder_ will usually be more hostile towards anyone to gain higher luck from gripping. Be extremely cautious of [Lower Erisia](Lower_Erisia.md).
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras. Generally not worth taking.
-    -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (respectivelly, The Divers and Celtor for example).
+    -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impposible to fix).
     -   Gluton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
     -   Manic is basically a free point. The increased insanity gain is minimal, and scratching can be completely avoid if you play properly.

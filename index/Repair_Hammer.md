@@ -1,6 +1,6 @@
 ---
 title: Repair Hammer
-revid: 29779
+revid: 34366
 source: https://deepwoken.fandom.com/wiki/Repair_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -16,12 +16,11 @@ categories: [Utilities, Items]
 
 ― A group of Etrean Naval Officers in their rapidly sinking boat
 
-  
 The **Repair Hammer** is a utility item that is used to recover the health of damaged [boats.](Ships_&_Sailing.md)
 
 ## Overview
 
-The Repair Hammer is a tool that can be found useful when traversing the [Aratel Sea](The_Aratel_Sea.md) on low-end boats. It can be bought for in the [Etris Docks](Etris_Docks.md) next to [Schnitzel](Mantra_Collector.md).
+The Repair Hammer is a tool that can be found useful when traversing the [Aratel Sea](The_Aratel_Sea.md) on low-end boats. It can be bought for on the [Etris Docks](Etris_Docks.md) next to [Schnitzel](Mantra_Collector.md).
 
 ## Usage
 
