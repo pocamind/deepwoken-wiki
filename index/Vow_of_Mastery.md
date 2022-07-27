@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 34390
+revid: 34398
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -14,7 +14,7 @@ This is what pops up when saying yes to a Vow of Mastery
 
 **Vow of Mastery** is a [Talent](Talents.md) which allows you to turn people into Subject. A Subject will lose their **Vow of Mastery** if they get wiped.
 
-You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. ~There is no limit to how many players can be your Subject.~ You can have a subject for every 10 levels of charisma, so someone who has just gotten vow of mastery unlocked can have 2 subjects, as they'll have 20 charisma.
+You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. You can have a subject for every 10 levels of charisma, so someone who has just gotten vow of mastery unlocked can have 2 subjects, as they'll have 20 charisma.
 
 ## How to Use
 
@@ -82,14 +82,12 @@ Conjure the ether of your vow into essence and transfer it to yourself.
 -   This Talent is often regarded as a joke, due to the mischief it can cause, but in the right hands, it can turn the tides of some fights.
 -   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ can be used to stall time or win.
 -   As long as you have friends and/or alts, you may use Vow of Mastery to improve a bossraid. You can stuff a bunch of alts in an obscure location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
--   ~You cant make a vow on the same person, even if you originally had a vow, and you got wiped, and they lived, you cant make a vow with them again.~ This is false.
 -   You can still get Vow of Mastery with the Oathless Talent.
 -   _Return_ can save someone from being gripped, but not from being carried. (3220)
 -   _The Fight, Return and Live_ have cooldowns them being; 3 minutes for Fight, 20 seconds for Return, and 1 hour for Live.
 
--   ~TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!~ Not really important because you get a ui prompt even when you say yes.
 -   TRUST NOBODY!!!
--   The _Live_ command is likely a referrence to _Code Geass_
+-   The _Live_ command is likely a reference to _Code Geass_
 -   The Return command unknocks but will not heal them more then normal
 -   Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk.
 -   Only really useful if you're going for 75 Charisma

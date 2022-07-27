@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 34142
+revid: 34396
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -109,10 +109,14 @@ notices:
 
 -   [Suri's Quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   The faction of Etrea as a whole is very similar to a mixture of various Asian countries.
+-   Erisia may be based on the Nameless God's island from _Salt and Sanctuary._
+-   The _Legendary Boot_ is an interactive boot found on the island of Erisia, up the waterfall. Attempting to wear the boot will produce different results depending on where the player is on their progression.
+    -   Spoiler: You cannot wear the boot. It is simply too small for your feet.
 
 ### **The Depths**
 
 -   Among one of the cliffs, a pineapple can be found. This is a reference to [Spongebob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
+    -   King Gigameds that spawn with hats near it may start dancing to a tune from Spongebob.
 -   The Depths itself was confirmed to have drawn inspiration from two series, _Made In Abyss_ and _Salt and Sanctuary_.
     -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
