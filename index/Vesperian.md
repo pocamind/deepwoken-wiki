@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 33154
+revid: 34391
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -51,7 +51,7 @@ A vesperian with hair.
 
   
 
-Aeons ago, a long Extinct species faced a cultural schizm in response to the rising tides, those talented few blessed with the art of LifeWeaving vowed to turn their backs to the tides and grow Great living hives above the ocean deep becoming what we in the modern world know as Vesperians. With the minor few embracing those coming waves, sinking to the deep and settling in as it's latest drowned inhabitants. these adventurous folk becoming our modern ganymedes.
+Aeons ago, a long extinct species faced a cultural schizm in response to the rising tides. Those talented few were blessed with the art of Lifeweaving. They vowed to turn their backs to the tides and grow great living hives above the ocean deep becoming what we in the modern world know as Vesperians. The few embracing the coming waves sunk to the deep and settling in as it's latest drowned inhabitants. These adventurous folk became what we know as Ganymedes.
 
 This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
