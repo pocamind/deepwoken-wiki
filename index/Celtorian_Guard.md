@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 34048
+revid: 34406
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,9 +45,10 @@ A Celtor Guard executes it's opponent after knocking them:
 -   This enemy isn't very hard to kill, nor is it very smart. Most basic attack strategies will work and it can be killed quickly.
     -   Feinting and parrying frequently is a good idea.
 -   A heavy weapon critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
--   Decent health-pack in the event that a [Gigamed](Gigamed.md) is not nearby.
+-   Decent health-pack in an event that a [Gigamed](Gigamed.md) is not present nearby.
 
 ## Trivia
 
 -   Celtor Guards only speak in growls and gurgles, with few exceptions.
 -   They are all Celtor.
+-   They are potentially mudskippers, got attacked by a mudskipper with the same armor and a trident spear when game released.

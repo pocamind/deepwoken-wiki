@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 33998
+revid: 34408
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -46,7 +46,7 @@ Zartania has spec which is called “Skeleton Key”. The spec allows him to loc
 -   Zeppelli Caesar
 -   Zoltorias Caesar
 -   Vortex Caesar
--   Yangu Caesar
+-   Kryphus Caesar
 
 ### yayafino (Zithori Vhemm Rybak Diri)
 
