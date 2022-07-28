@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 33944
+revid: 34410
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -71,7 +71,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Dagger | Dagger | 18.7 | 10% | LHT: 4 | 4 | 6.5 | 1.15x | Rush forward in a flurry of divine slashes. |
+| Divine Dagger | Dagger | 18 | 10% | LHT: 4 | 4 | 6.5 | 1.15x | Rush forward in a flurry of divine slashes. |
 | Divine Flintlock | Flintlock | 15 | 10% | LHT: 15 | 5 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. |
 
 ## Trivia/Notes

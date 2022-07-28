@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 34130
+revid: 34409
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -54,8 +54,9 @@ They hail from the Western Luminant and are the most prominent race in The Hundr
 
 +2 Strength  
 +2 Agility  
-
 Allows the use of equipment 3 points earlier than other races.  
+
+May have increased rep with The 11th Legion  
 
 **Surnames:**
 
