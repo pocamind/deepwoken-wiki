@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34404
+revid: 34412
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1238,8 +1238,8 @@ These Talents are designed to make you more effective in water.
 
 -   Full Reset \[Rare Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
--   Ready or Not \[Common Talent\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
-    -   Due to a bug, it is not limited to just mantras, it applies to physical attacks too.
+-   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health)
+    -   ~Due to a bug, it is not limited to just mantras, it applies to physical attacks too.~ The card's description has been updated in the game by the devs in a recent update.
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
