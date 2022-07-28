@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 34310
+revid: 34415
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -55,7 +55,7 @@ Air Force
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
     
 
-**Green:**
+**Bloat:**
 
 Template:Creature Infobox V3
 
@@ -86,7 +86,7 @@ Scratch
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
         
 
-**Black:**
+**Rot:**
 
 Template:Creature Infobox V3
 

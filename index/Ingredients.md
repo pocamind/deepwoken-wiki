@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 33859
+revid: 34418
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents]
@@ -40,7 +40,7 @@ Raw materials harvested from the environment.
 -   Bluecaps - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in Lower Erisia where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
 
--   Alyssian Coral: idk what it's purpose is. Found in The Depths
+-   Alestrian Coral: Mainly used in speed potions. Found in The Depths.
 
 -   Brilliant Lotus
 -   Empyrean Lotus
