@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 34431
+revid: 34436
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,4 +32,4 @@ You can easily get canteen at power level 1 if you know where to look: [https://
 
 -   The canteen is known by many as the red calabash.
 -   You can fill the Canteen with ocean water, but don't do this unless if you have a purifying ring. Otherwise, you will throw up.
--   You need a Purifying Ring to drink through a canteen as a Carnivore.
+-   Contrary to popular belief, you do **not** need the Purifying Ring to drink water with the **Carnivore** talent.
