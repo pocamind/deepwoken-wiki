@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34425
+revid: 34434
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -208,7 +208,8 @@ File:Royal Guard's Kabuto.png
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
-|  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests | Default & Black |
+|  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests | White |
+|  | Black Blindfold | _\+ Talent: Blinded_ | Arena Chests | Black |
 |  | Crimson Blindfold | Grants a random buff.
 _\+ Talent: Blinded_
 
