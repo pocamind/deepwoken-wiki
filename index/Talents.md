@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34441
+revid: 34443
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -755,7 +755,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 ### Lone Warrior
 
--   Mark of the Lone Warrior \[Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
+-   Mark of the Lone Warrior \[Common Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
     -   Lower the EXP curve.
     -   Stacks with Adept.
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
