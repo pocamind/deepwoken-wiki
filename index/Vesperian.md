@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 34391
+revid: 34440
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -28,7 +28,7 @@ A vesperian with hair.
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
-    <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
+    <li>3% damage reduction. Degrades with damage but can be replenished at a campfire</li>
     <li>This buff also stacks with Exoskeleton (Legendary Talent)</li>
   </ul></li>
     <li>+2 Health</li>
@@ -99,7 +99,7 @@ A layer of protective armor that regenerates at rest.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md)
 -   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
 -   Ragoozer and Arch Mage are coming, I don't have much time left but... The blue Vesperian, is REAL
--   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 20% physical damage.
+-   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 13% physical damage.
 
 ## Trivia
 

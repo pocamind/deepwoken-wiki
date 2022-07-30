@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 34398
+revid: 34438
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -36,7 +36,12 @@ The player must respond with "yes." after responding yes, you will have a menu a
 
  |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) |
-| Locate | Yes, ?? Charisma | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. |
+| Locate | Yes, 25 Charisma | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. |
+| Leech | Yes, 25 Charisma | _"Leech \[Name\]"_ | 
+
+File:Leech Talent.png
+
+Conjure the ether of your vow into essence and transfer it to yourself. |
 | Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  |
@@ -56,23 +61,6 @@ Charisma, Rare
 
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a range limit. |
 | Live | Yes, 75 Charisma, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko \[Once per hour\]. Has a range limit. |
-| Leech | Yes, ?? Charisma | _"Leech \[Name\]"_ | 
-
-File:Leech Talent.png
-
-Conjure the ether of your vow into essence and transfer it to yourself.
-
-  
-
-  
-
-  
-
-  
-
-  
-
- |
 
 ## Trivia/Notes
 
