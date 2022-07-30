@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34434
+revid: 34451
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -209,7 +209,7 @@ File:Royal Guard's Kabuto.png
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests | White |
-|  | Black Blindfold | _\+ Talent: Blinded_ | Arena Chests | Black |
+|  | Black Blindfold | _\+ Talent: Blinded_ | Arena Chests | Default |
 |  | Crimson Blindfold | Grants a random buff.
 _\+ Talent: Blinded_
 
@@ -297,7 +297,7 @@ File:Grand Pauldrons.png
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
 | File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Depths Chests, Primadon Chests | N/A |
-| File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests | Brown (Work in Progress) |
+| File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests | Brown & White (Work in Progress) |
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
@@ -319,7 +319,7 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Fort Merit Chests | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
-|  | Deepwoken Cloak
+| File:Deepwoken Cloak.png | Deepwoken Cloak
 
 (Legendary)
 
@@ -526,11 +526,11 @@ _Requires Power 30_
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   Arch confirmed that there are **5** master outfits. ~So far, only 4 outfits have been found.~
-    -   This is no longer the case since all 5 have been found and the first statement needs proof because there is still a Insignia Gem. Future updates might change this.
+    -   This is no longer the case since all 5 have been found and the first statement needs proof because there is still an Insignia Gem. Future updates might change this.
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
     -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
-    -   **Pathfinder Journeyman** is also bugged, and it will give you Grandmaster Pathfinder instead.
+    -   **Pathfinder Journeyman** is also bugged, and will give you a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) instead.
 -   Some Armors such as Star Duster, the Royal Duelist and its variants and the Megalodaunt Coat require you to be at a certain Power level to use.
 -   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche?so=search)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
