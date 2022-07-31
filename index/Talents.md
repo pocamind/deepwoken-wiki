@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34458
+revid: 34469
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1211,6 +1211,7 @@ These Talents are designed to make you more effective in water.
 -   One Handed Training \[Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
+    -   Prerequisites: ~30 Heavy Weapon
 -   Heavy Hitter \[Common Talent\] - \[Greatsword/Greathammer\] Your posture damage is increased by 20%. (+3 Health) \[This is a _FULL-ON Lie_, It still doubles the GreatSword Posture Damage, and does _NOT_ increase GreatHammer's.\] \[\[Tested Through Guards and Players.\]\]
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
     -   Prerequisite: 25 Strength, Harsh Response & greatsword equipped.

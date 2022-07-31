@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 34161
+revid: 34470
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -147,7 +147,7 @@ Talk to Sibex until he tells you this lines:
 
 Once you get knocked in The Depths with max progress:
 
--   You'll be revived and healed to 100%. If you were knocked by a player, they will be healed to 100% aswell.
+-   You'll be revived and healed to 100%.
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
 -   A hand of 3 cards will be dealt, with each card giving the name, rarity, and a brief description of the Resonance, but it does NOT tell you the Variation. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
