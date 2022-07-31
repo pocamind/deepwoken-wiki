@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 34415
+revid: 34465
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
 
-**Normal:**
+**Mudskipper:**
 
 Template:Creature Infobox V3
 
@@ -30,11 +30,6 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 Scratch
 
  | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
-| 
-
-Air Force
-
- | Conjure a strong blast air from your hands in the direction of your mouse that staggers target. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -55,7 +50,7 @@ Air Force
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
     
 
-**Bloat:**
+**Bloatskipper:**
 
 Template:Creature Infobox V3
 
@@ -71,6 +66,11 @@ Mindless enemies that sprout out of the ground to surprise their prey. This vari
 Scratch
 
  | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+| 
+
+Air Force
+
+ | Conjure a strong blast air from your hands in the direction of your mouse that staggers target. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -86,7 +86,7 @@ Scratch
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
         
 
-**Rot:**
+**Rotskipper:**
 
 Template:Creature Infobox V3
 
@@ -120,7 +120,7 @@ Scratch
 -   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
     
 
-**Necro:**
+**Necroskipper:**
 
 Template:Creature Infobox V3
 
@@ -176,7 +176,7 @@ Warden's Blades
 -   Do note that it is possible for a [Ministry Necromancer](Ministry_Necromancer.md) to spam summon them.
     
 
-**Knight:**
+**Mudskipper Knight:**
 
 Template:Creature Infobox V3
 

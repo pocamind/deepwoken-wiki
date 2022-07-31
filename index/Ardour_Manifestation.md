@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 33058
+revid: 34459
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -8,7 +8,7 @@ categories: [Items]
 
 # Ardour Manifestation
 
-“ A manifestation of dark energy while holding it you feel drawn to the Voidsea itself as if something were calling you waiting for you there. ”
+“ A manifestation of dark energy. While holding it, you feel drawn to the Voidsea itself, as if... something were calling to you, waiting for you there. ”
 
 ― In game descripion
 

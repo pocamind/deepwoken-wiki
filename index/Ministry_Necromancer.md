@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 34299
+revid: 34463
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,7 +41,7 @@ Summon
 
 Necro-skippers
 
- | Summons three [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
+ | Summons three [Mudskippers](Mudskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
 
 ### Boons
 
