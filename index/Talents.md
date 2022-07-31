@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34453
+revid: 34458
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1050,6 +1050,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Prerequisite: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
+    -   Requirements (talent): 25 fortitude + 15 willpower
 
 ### Survivor
 
@@ -1117,7 +1118,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Use kickstart on a knocked target to bring them back up in roughly 3.5 seconds at the cost of some ether.
         -   For reference, default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
         -   All talents that proc when getting up from being knocked will be triggered by Kickstart.
-    -   ?? Thundercall + ?? Fortitude
+    -   55 Thundercall + 50 Fortitude
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
 -   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
