@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34443
+revid: 34453
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -801,7 +801,7 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 
 These are just raw stat increase and are beneficial to anyone.
 
--   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+9 Health)
+-   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load, +3 Health)
     -   This applies to the mob **DROP** and not the chest they spawn.
