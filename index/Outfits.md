@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34451
+revid: 34473
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -300,7 +300,7 @@ File:Grand Pauldrons.png
 | File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests | Brown & White (Work in Progress) |
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
-| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest, Widow's Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator's Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -308,7 +308,7 @@ _Requires Power 40_
  | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable & Tawny |
 | 
 
- | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown & Green (Work in progress) |
+ | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green, White (Work in progress) |
 | File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
 
 _Requires Power 40_

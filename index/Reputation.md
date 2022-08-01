@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 34261
+revid: 34507
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -36,7 +36,7 @@ Players can talk to the NPC guards posted within villages and islands. Depending
 
 Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
-Upon being knocked by a guard that you have very high rep with (tested with max rep) they will not grip you but instead just insult you and go back to their post.
+Upon being knocked by a guard that you have very high rep with (tested with max rep) ~they will not grip you~ (i tested this, they do grip UNLESS you have the "friends in high places" talent) but instead just insult you and go back to their post.
 
 #### _Negative Reputation_
 

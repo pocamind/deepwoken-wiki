@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 32656
+revid: 34491
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Spears]
@@ -29,9 +29,8 @@ categories: [Weapons, Weaponry, Items, Spears]
 
 ## Description
 
-The True Seraph's Spear is a MED weapon that can be obtained by defeating King Threshers (Refer to [Thresher](Thresher.md) page due to king threshers not currently having their own page as of 23/05/2022) in [The Depths](The_Depths.md). It has the highest MED requirement out of all the spears and probably is the most tedious spear to obtain. It outranks most spears by it's penetration, chip damage and swing speed but has the second lowest weapon scaling; the only downfall to this weapon is it's scaling. The True Seraph's Spear does 29.6 damage at 100 MED and 28.49 damage at 90 MED (the requirement to use this weapon).
+The True Seraph's Spear is a MED weapon. This spear can be obtained from killing a [Crustaceous Rex](Crustaceous_Rex.md) with a 0.1% chance. in [The Depths](The_Depths.md). It has the highest MED requirement out of all the spears and probably is the most tedious spear to obtain. It outranks most spears by it's penetration, chip damage and swing speed but has the second lowest weapon scaling; the only downfall to this weapon is it's scaling. The True Seraph's Spear does 29.6 damage at 100 MED and 28.49 damage at 90 MED (the requirement to use this weapon).
 
 ## Trivia
 
--   It is assumed by large amounts of the community to drop from lesser angels, however no evidence proving this was ever found, however there is recorded proof of it dropping from a King Thresher as seen in this footage: [https://medal.tv/games/roblox/clips/lpSNFuJd958Be/d1337R8aENMK?invite=cr-MSxUYVEsNzU5MDYwNCw](https://medal.tv/games/roblox/clips/lpSNFuJd958Be/d1337R8aENMK?invite=cr-MSxUYVEsNzU5MDYwNCw)
 -   The spear is named after "Seraphs" the highest level of angels in originating in Ancient Judaism.
