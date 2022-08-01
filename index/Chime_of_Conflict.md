@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 31852
+revid: 34519
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -26,8 +26,8 @@ The Chime of Conflict is unusable while in [The Depths](The_Depths.md). This wil
 
 Players using the bell will be prompted to select a gamemode between 1v1 and 3v3. Depending on their selection, 2 things can happen:
 
--   **1v1 -** The player is instantly taken to the matchmaking queue.
--   **2v2 -** Almost exactly the same as 3v3. Also has the same maps as 3v3. The only difference is that it's a 2v2 not a 3v3 (duh)
+-   **1v1 -** The player is instantly taken to the matchmaking queue. 1v1 arena maps are unique from 2v2 and 3v3 maps.
+-   **2v2 -** A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
 -   **3v3 -** A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
 
 Afterwards, players will be waiting in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to be ready

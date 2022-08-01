@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 32296
+revid: 34527
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ They wear a [Rebel's Bandana](Outfits.md) and the [Navaen Nomad Robes](Navaen_No
 
 ## Moveset
 
-Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) and the [Frostdraw](Frostdraw.md) attunement:
+Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 34437
+revid: 34518
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster, Enemies]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ### **Finisher**
 
--   **Devour** - Floats over your dead body and pulls you into its main body, consuming you.
+-   **Suck** - Floats over you and drives itself into your body, consuming you.
 
 ## Notes/Trivia
 
@@ -32,9 +32,9 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 **King Gigamed:**
 
-“ WHY ARE THERE SO MANY ”
+“ SHIVR ME TIMBER ”
 
-― A power 40 getting bombarded by 4 king jellyfish.
+― An ordinary average Freshie getting the electric chair. Also he was an Adret
 
 Template:Creature Infobox V3
 

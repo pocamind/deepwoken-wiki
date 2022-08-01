@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 34007
+revid: 34526
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ An Authority Footsoldier are a type of enemy NPC that is frequently found around
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
 
-Authority Footsoldiers wear an Authority Helm, a pair of Bluesteel Pauldrons, an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a pair of Bluesteel Boots. All of them are also [Adrets](Adret.md) with their gender varying.
+Authority Footsoldiers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair of Bluesteel Boots and an [Authority Commander Uniform](Authority_Captain_Uniform.md). All of them are also [Adrets](Adret.md) with their gender varying.
 
 ## Moveset
 
@@ -64,3 +64,7 @@ An Authority Footsoldier executes it's opponent after knocking them:
 \[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace.
 
  |
+
+## Trivia
+
+-   An Authority Footsoldier can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.

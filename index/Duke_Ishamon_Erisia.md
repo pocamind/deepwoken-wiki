@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 34515
+revid: 34522
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -8,7 +8,7 @@ categories: [Boss, Enemies]
 
 # Duke Ishamon Erisia
 
-“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
+“ -I can see you trembling with fear so go ahead and run you swine but first I'd like to teach you something about aesthetics. This is what a real-world class villain looks like you son of a \[\_\] ”
 
 ― Duke
 
