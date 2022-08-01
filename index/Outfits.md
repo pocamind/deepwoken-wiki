@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34473
+revid: 34513
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -12,7 +12,7 @@ notices:
 
 File:Armoricon.png
 
-**Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
+**Armor** is an essential part to _Deep woken_, being the primary means of resisting damage from most sources.
 
 ## Overview
 

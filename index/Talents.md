@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34469
+revid: 34512
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1004,9 +1004,10 @@ Prerequisite: Charisma
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
+    -   Prerequisite: 30 fortitude + 10 willpower + Have a shield equipped
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
     -   From: Knight's Rally
-    -   Prerequisite: 55 Fortitude
+    -   Prerequisite: 55 Fortitude + have a shield equipped
 
 ### Shipwright
 
@@ -1050,7 +1051,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Prerequisite: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
-    -   Requirements (talent): 25 fortitude + 15 willpower
+    -   Requirements (talent): 30 fortitude + 10 willpower
 
 ### Survivor
 

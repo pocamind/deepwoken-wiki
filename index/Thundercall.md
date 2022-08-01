@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 34414
+revid: 34509
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -152,7 +152,7 @@ Grand Javelin
  | A javelin of lightning. | User throws a spear of lightning in front of them.
 
 -   Ragdolls, flings and deals moderate damage.
--   Does not guard break but gives a lot of posture if blocked. also fuck anyone who uses this i fucking hate you
+-   Does not guard break but gives a lot of posture if blocked.
 
  |
 |  | 
