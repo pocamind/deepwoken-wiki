@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 34490
+revid: 34633
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,9 +10,9 @@ categories: [Monsters]
 
 _Commonly referred to as Shark, Sharko._
 
-“ primadon has nothing against me ”
+“ URAOblOblOOblWAUUGH ”
 
-― ivxx steven before being booty raped by sharkos in lower erisia
+― Megalodaunt Roar
 
   
 
@@ -36,7 +36,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 
 ## **Attacks**
 
-| Name | Description | killable? | rapable? | fuckable? | Danger |
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | 
 Slash
@@ -76,7 +76,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★★) |
+ | ✗ | ◯ | ✗ | (★★☆) |
 
 **Crimson:**
 
@@ -99,7 +99,7 @@ Slash
 -   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
 -   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
 
- | ◯ | ◯ | ◯ | (★★★) |
+ | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Kick
@@ -114,12 +114,12 @@ Kick
 
 Jump
 
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★★) |
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★★★) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
 | 
 
 Roar
@@ -128,7 +128,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★★) |
+ | ✗ | ◯ | ✗ | (★★☆) |
 | 
 
 Fire Roar
@@ -138,7 +138,7 @@ Fire Roar
 -   Exclusive to the Crimson variant.
 -   While the swords are raining down, the megalodaunt seems unable to attack.
 
- | ◯ | ◯ | ◯ | (★★★) |
+ | ◯ | ◯ | ◯ | (★☆☆) |
 
 **Alpha:**
 
@@ -190,7 +190,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★) |
+ | ✗ | ◯ | ✗ | (★★☆) |
 
 ## **Finisher**
 

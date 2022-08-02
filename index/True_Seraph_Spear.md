@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 34491
+revid: 34599
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Spears]
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry, Items, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | King threshers. |
+| obtainment | Crustorixes Rex |
 | description | "" |
 
 ## Description

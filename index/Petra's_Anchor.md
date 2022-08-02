@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 34506
+revid: 34646
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -8,43 +8,32 @@ categories: [Weapons, Weaponry, Items]
 
 # Petra's Anchor
 
-| Koraterys Anchor | |
+| Petras Anchor | |
 |---|---|
 | type | Heavy Greathammer |
-| requirements | 90 HVY 65 STR |
-| damage | 36.5 |
-| scaling | 13 |
+| requirements | 75 HVY 10 STR |
+| damage | 26.5 |
+| scaling | 8 |
 | range | 8 |
-| swing speed | 0.75x |
-| endlag | None |
-| penetration | 70% |
-| chip damage | 90% |
+| swing speed | 0.6 |
+| endlag | 0.1 |
+| penetration | 15% |
+| chip damage | 0 |
 | selling price | N/A |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Directly dropped by the Qusays Dead Bird |
-| description | A weapon that bootyrapes freshies such as kenny rico |
+| obtainment | Directly dropped by the Dread Serpent* |
+| description | A fast hitting weapon with decent damage |
 
 ## Description
 
-Koraterys anchor is infact THE GAYEST GREATHAMMER IN ALL OF DEEPWOKEN! it can be obtained from Qusays Dead Ass Bird. This weapon has a base damage of 36.5, and a Heavy Weapons requirement 90 and a Strength requirement of 65 to equip.
-
-(my fucking bird just flew into the ceiling fan..\] - Letri
-
-dead ass bird mf keep talking shit @Qusay @Koratery
-
-(page edited by kenton, chester, wis)
-
-DAYUM THIS WEAPON HELLA GOOD SLIGHTLY UNDERRATED - Wisdomets
+Petra's Anchor is one of the best heavy weapons in Deepwoken. It can be obtained from defeating the [Dread Serpent](Dread_Serpent.md). This weapon has a base damage of 26.5 and a Heavy Weapon scaling of 8. It has a Heavy Weapon requirement of 75 and a Strength requirement of 10 to equip.
 
 ## Trivia
 
--   Could be a reference to Beverly's Dead Grandma
--   Probably a reference to Kora love story Episode 3
--   Unlikely but it could also be a reference to qusays dead ahh bird
--   Or it could just... you know... be an anchor.
--   No, it's a reference to choc, qusay, centecar about to have an orgy on call.
--   Koraterys Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).
+-   Could be a reference to Guilty Gear?
+-   It could just be a anchor?
+-   Petras Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).

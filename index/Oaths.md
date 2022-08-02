@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 34357
+revid: 34537
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -37,11 +37,11 @@ There are currently only three Oaths in _Deepwoken_. More are planned to be adde
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 25-30+ to obtain in card rolls.
+**Oath: Oathless** requires [Power Level](Power.md) 30 and no Oath to obtain in card rolls.
 
 ### Obtaining
 
-Oathless is possible to roll in a hand of Talent Cards and does not require a task.
+Oathless must be selected when draw from the hand of cards when powering up. It will always appear between power 30 and 40 if the player have no oath.
 
 ### Effects
 

@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 33561
+revid: 34638
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,7 +27,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
         -   [Trident Spear](Trident_Spear.md) (300 )
         -   [Whaling Knife](Whaling_Knife.md)
         -   [Adretian Axe](Adretian_Axe.md)
-        -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+        -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (300 )
         -   [Vigil Longsword](Vigil_Longsword.md) (300 )
 -   **Armor Schematic:**
     -   [Mercenary Armor](Hired_Mercenary.md)

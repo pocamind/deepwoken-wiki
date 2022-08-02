@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 34486
+revid: 34643
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Boss, Monsters]
 
 # Primadon, Titan of the East
 
-“ MARCUS DETNON! IS THAT YOU? ”
+“ I shall summon HARAMBE! ”
 
-― Kenny Talo before getting booty raped by primadon denton
+― Jonathan Talo before being annihilated by the Primadon
 
   
 
@@ -22,23 +22,23 @@ Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The 
 
 ## Description
 
-Loud and enormous, Marcus denton is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 ## Attacks
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| Dick Slam | Marcus slams his dick at the player, resulting in a far fling. | ◯ | (★☆☆) |
-| Asscheek Choke | Marcus grabs an opponent and puts it between his ass cheeks. Resulting in a choke. | ◯ | (★★☆) |
+| **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
+| **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are in front of him but not near his legs. | ◯ | (★☆☆) |
 | **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air. Deals 100~ damage.
 Only used if the player is in front of Primadon and not near his legs.
 
  | ◯ | (★★★) |
-| Cum Shot | Marcus whips his dick out and shoots a shot of cum at the player. | ◯ | (★★★) |
+| **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm having 3 rocks hurled at the player. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
 | **Disengage** | Primadon jump backward, creating distance while hurling a rock at the player. | ◯ | (★★★) |
-| **Enrage** | Screams, giving 70(?) insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight.
+| **Enrage** | Screams, giving a significant amount of insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight.
 
 Automatically used after the first posture stun or when dropping below 50% health, whichever happens first.
 
@@ -76,8 +76,6 @@ Image of Primadon's boss arena.
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the [Scuba Drowner](https://deepwoken.fandom.com/wiki/Talents?so=search#Waterborne) talent or lived the fall.
 -   Blessed, Wind, Wayward, and Insignia gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage
     -   Debuffs from Mantras do affect Primadon.
--   If you achieve 210 Sanity or more, the scream will not be a threat to you.
-    -   At 107 Sanity or more, you will only suffer from Tier 1 Insanity.
 
 ### General Combat
 

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 33925
+revid: 34548
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -11,7 +11,7 @@ categories: [Weapons, Rapiers]
 | Apprentice Rapier | |
 |---|---|
 | type | Rapier |
-| requirements | 40 LHT |
+| requirements | 20 LHT |
 | damage | 13 |
 | scaling | 6 |
 | range | 8 |
@@ -25,23 +25,22 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept ValleyThe Depths [?] Songseeker Wilds Minityrsa |
+| obtainment | ErisiaMinityrsa |
 | description | "Your trusty weapon." |
 
-“ It's not that you ain't skilled, it's because you aren't balling on that stank ass Windows 95 Puter ”
+“ Funny stab go brr ”
 
-― Ganymede fighting a Felinor in the chime of conflict
+― A lvl 5 Canor fighting the Duke
 
 ## Description
 
-The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Minityrsa](Minityrsa.md).
+The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can now be bought from [Etris Weaponry](https://deepwoken.fandom.com/wiki/Etris#Weaponry).
 
 ## Trivia
 
 -   Despite being a light weapon, it's stats are closer to that of medium weapon, featuring a slightly faster attack speed and the common 8 range of most medium weapon.
 -   When using this weapon your left hand is hidden, so you can equip a [Gun](https://deepwoken.fandom.com/wiki/Guns) on an unsuspecting foe.
 -   In PVE, the crit is very strong and should be used if given the occasion instead of a regular m1, as the critical hits 4 time.
--   This weapon is an uncommon/rare drop from Starswept Valley. Alternatively, King Threshers also have a chance to directly drop the rapier.
 -   This was accidentally added to the game and obtainable in the depths before it was released for a short time, but they deleted it from everyone before it's actual release.
     -   When it was deleted, it was turned into a regular sword.
--   The Apprentice Rapier previously required 60 points in light weapons to be wielded.
+-   The Apprentice Rapier previously required 60, then 40, and now 20 light weapon to be used.

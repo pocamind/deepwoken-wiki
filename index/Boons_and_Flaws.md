@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 34375
+revid: 34556
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -53,9 +53,9 @@ Paying to restore reputation only resets up to the default, low reputation.
  | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increase by ??% | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by ??%. | 1 |
-| Manic | "All sanity damage toward you is heavily amplified." | Incoming insanity is increased by 10%. Damage from scratching is increased by ??% | 1 |
+| Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by ??%. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
-| Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
+| Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
 Count as 2 flaws, cannot be taken with another flaw.
 

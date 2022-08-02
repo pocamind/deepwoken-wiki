@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 32804
+revid: 34584
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -117,6 +117,10 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Haze Authority Commander Coat
 -   Amber Authority Commander Coat
 -   Bronze Authority Commander Coat
+
+#### Rings
+
+Akira's Ring (Found this while farming (Also don't know how to add the dot thingy so someone should do that >.>))
 
 ### [Weapons](Weapons.md)
 

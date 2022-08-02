@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 28140
+revid: 34538
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Parry Dagger | |
 |---|---|
 | type | Offhand Weapon |
-| requirements | 10 LHT |
+| requirements | 10 AGI |
 | damage | 4 |
 | scaling | 0 |
 | range | 8 |
@@ -37,9 +37,13 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Parry Dagger is an Off-hand tool used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes and requires 10 light weapon training.
+The Parry Dagger is an Off-hand tool used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes and requires 10 Agility.
 
-The parry dagger increase posture damage dealt with parries and decrease posture damage suffered from getting parried.
+The parry dagger does the following:
+
+-   More posture damage dealt on parry
+-   More posture restored (+15%) on parry
+-   Less posture damage received when parried
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 34295
+revid: 34568
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -127,9 +127,11 @@ Changelogs:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p></div></td>
-  <td><div>Weapon gives off a brown particle effect.</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Sear</div></td>
+  <td><div><p>Apply <b>cauterize</b> on hit. Cauterized targets:<br>
+  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
+  lose thirst equal to 20% of damage taken.</p></div></td>
+  <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
@@ -151,7 +153,7 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>On hit, deal 10% of the weapon damage in an AOE.<br>
+  <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim.<br>
   M1s and Wild AOE to allies deals 0 damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
