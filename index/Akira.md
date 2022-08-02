@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 33557
+revid: 34669
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -13,9 +13,9 @@ categories: [NPCs, Random Encounters]
 | name | Akira |
 | location | Castle Light, Celtor Wastes (Random Event) |
 
-“ Still alive, are you? Not bad. ”
+“ I'll take a potato chip... AND EAT IT!!! ”
 
-― Akira, after meeting him in Castle Light.
+― Akira sapping 17 years of his life away because a bell user called him dumb
 
 ## Description
 
