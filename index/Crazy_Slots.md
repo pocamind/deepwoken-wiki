@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 34410
+revid: 34666
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -57,14 +57,14 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Axe | Greataxe | 28 | 10% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. |
+| Divine Axe | Greataxe | 28 | 5% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. |
 | Divine Greatsword | Greatsword | 30 | 10% | HVY: 15 | 8.5 | 9.2 | 0.67x | Boosts speed and propels you into the air, crashing down at your cursor. |
 
 **Medium:**
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Spear | Spear | 25 | 10% | MED: 10 | 5 | 10 | 0.6x | Jump into the air and fire three divine beams, similar to a Lesser/Upper Angel. |
+| Divine Spear | Spear | 22.5 | 5% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Upper Angel. |
 | Divine Longsword | Sword | 25 | 10% | MED: 9 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
 
 **Light:**

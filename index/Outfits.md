@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34531
+revid: 34667
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -309,7 +309,7 @@ _Requires Power 40_
 | 
 
  | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green, White (Work in progress) |
-| File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
+| File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff. | +Talent: Art of the Deal
 
 _Requires Power 40_
 

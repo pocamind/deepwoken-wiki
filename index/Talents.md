@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34512
+revid: 34668
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -797,9 +797,15 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
       
     When you get all these talents you are eligible to get the Oath [Blindseer](Oaths.md)
 
+### Merchant
+
+Improves buying items from merchants.
+
+-   Art of the Deal \[Common Talent\] - Your rapport with merchants gives you lower prices!
+
 ### Metamancer
 
-These are just raw stat increase and are beneficial to anyone.
+These are just raw stat increases and are beneficial to anyone.
 
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
