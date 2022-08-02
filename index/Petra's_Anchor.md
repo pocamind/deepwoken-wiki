@@ -1,9 +1,9 @@
 ---
 title: "Petra's Anchor"
-revid: 34662
+revid: 34674
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Greathammers]
 ---
 
 # Petra's Anchor

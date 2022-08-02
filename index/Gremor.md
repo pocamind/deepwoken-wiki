@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 34044
+revid: 34670
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -32,6 +32,7 @@ Gremors are a race similar to deer. They appear with greenish or brown skin, wit
   <ul>
     <li>Gain a compass at the top of your screen.</li>
     <li>Reduced hunger loss.</li>
+    <li>Starts with increased rep to Children of Navae</li>
   </ul></li>
   </ul></td>
 </tr>
