@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 34568
+revid: 34711
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -96,7 +96,7 @@ Changelogs:
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p><br>
-  After hitting the target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times,<br>
+  After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>

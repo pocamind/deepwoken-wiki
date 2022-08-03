@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 32992
+revid: 34698
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry]
@@ -33,7 +33,7 @@ categories: [Weapons, Items, Weaponry]
 
 ## Description
 
-The steel maul is a heavy weapons hammer that deals a base damage of 22 with 7 scaling and 9 range. The steel maul can be purchased in the weapons shop of Etris or in Lower erisia chests. This weapon **can** be alloyed, this raises the stats to match late game tier weaponry.
+The steel maul is a heavy weapons hammer that deals a base damage of 22 with 7 scaling and 9 range. The steel maul can be purchased in the weapons shop of Etris or found in Lower Erisia chests. This weapon **can** be alloyed, this raises the stats to match late game tier weaponry.
 
 ## Trivia
 

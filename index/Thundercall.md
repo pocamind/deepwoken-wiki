@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 34520
+revid: 34706
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -8,15 +8,17 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 # Thundercall
 
-“ Go go gadget, Medium Lightning Spam! ”
+“ IM WIPED ”
 
-― Classic Thundercaller
+― George Juno
 
   
 
 ## Description
 
-_A Thundercall infused sword_
+File:George final moments.png
+
+Lightning User Wipes After Insane Nerfs
 
 Thundercall grants the user ability to control thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 
@@ -608,7 +610,12 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Proof of Lightning cloak([https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png](https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png))
--   Thundercall used to be the most damaging attunement before it was nerfed greatly.  
+-   Thundercall used to be the most damaging attunement before it was nerfed greatly.
+-   MAKE DEEPWOKEN GREAT AGAIN WE NEED BUFFS TO THUNDERCALL!  
+    
+    File:George final moments.png
+    
+    Wiped
     
     Virudhaka's Sword
     

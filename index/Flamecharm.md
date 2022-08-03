@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 34234
+revid: 34710
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -17,7 +17,7 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 ## Description
 
-Flamecharm icon
+average shitter metamancer flamecharm user
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning (Explosion with the right talents), damage per second and AoE effects.
 
