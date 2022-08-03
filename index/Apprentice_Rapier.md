@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 34548
+revid: 34753
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -28,9 +28,9 @@ categories: [Weapons, Rapiers]
 | obtainment | ErisiaMinityrsa |
 | description | "Your trusty weapon." |
 
-“ Funny stab go brr ”
+“ It's not that you ain't skilled, it's because you aren't balling on that stank ass Windows 95 Puter ”
 
-― A lvl 5 Canor fighting the Duke
+― Ganymede fighting a Felinor in the chime of conflict
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 34426
+revid: 34757
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -79,7 +79,7 @@ _Slicing blades of wind._
  | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more projectiles if the mantra lands.
 
 -   Deals moderate damage.
--   Projectile is medium-ranged.
+-   Projectile is medium-ranged and explodes on impact.
 
  |
 |  | 

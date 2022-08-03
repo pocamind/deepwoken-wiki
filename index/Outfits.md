@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34740
+revid: 34748
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -542,7 +542,7 @@ _Requires Power 30_
 
 ## Speculation
 
--   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
+-   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven. <-- blinded talent gives +20 sanity so it prob does
 -   The only gem that is not used in any armor set is insignia gem.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
 -   The **Vagabond's Bicorn** and **Brigand's Bicorn** are most likely a reference to **Captain Jack Sparrow** from the **Pirates of the Caribbean**.

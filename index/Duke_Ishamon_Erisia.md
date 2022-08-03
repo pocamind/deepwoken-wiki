@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 34522
+revid: 34749
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -8,7 +8,7 @@ categories: [Boss, Enemies]
 
 # Duke Ishamon Erisia
 
-“ -I can see you trembling with fear so go ahead and run you swine but first I'd like to teach you something about aesthetics. This is what a real-world class villain looks like you son of a \[\_\] ”
+“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
 ― Duke
 
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Duke Erisia also happens to be in a loving relationship with The Ferryman. (Source: Trust me)
+Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
