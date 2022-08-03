@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 34408
+revid: 34747
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -30,7 +30,7 @@ Arch\_Mage has the ability to steal people's soul and take mantras from them. He
 
 ### Melonbeard (Zastra, Prince of the Moon)
 
-Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center, he can jump extremely high and also has an exclusive armor called "Moonseye". He is currently using Zartania's "Skeleton Key" spec aswell as his is unfinished.
+Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center. He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked nad only dodged. he can jump extremely high and also has an exclusive armor called "Moonseye". He is currently using Zartania's "Skeleton Key" spec aswell as his is unfinished.
 
 ### Iltria (Leafre Spellhardt)
 
@@ -38,7 +38,7 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 
 ### Zartania (Stannis Caesar)
 
-Zartania has spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. Zartaina has also stated that the spec isn’t full completed.
+Zartania has a spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. Zartaina has also stated that the spec isn’t full completed.
 
 #### Family Members:
 
@@ -52,10 +52,10 @@ Zartania has spec which is called “Skeleton Key”. The spec allows him to loc
 
 They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the action-RPG _Genshin Imapct,_ they also have the "Cosmic" enchant on their fists and are able to conjure enchants and use the hive construct tree move using lifeweaver.
 
-### Dex
+### Dexerius (Sadreyus)
 
 This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride with him.
 
-Par
+### Melon\_Sensei/Par
 
 Par has the spec to spawn a cat maid that will excite any downed player/npc not much is known about this spec at the moment.

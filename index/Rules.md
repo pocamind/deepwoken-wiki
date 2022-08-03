@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 33460
+revid: 34744
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -37,7 +37,7 @@ The page contains rules and punishments for violating them. If you see another u
 1
 
  | 1 Week Block |
-| **Irrelevant Image** | Adding a image that is for jokes or vandalism | 
+| **Irrelevant Image** | Adding an image that is for jokes or vandalism | 
 
 1
 
