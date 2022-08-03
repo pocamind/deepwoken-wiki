@@ -1,9 +1,9 @@
 ---
 title: Gravity Field
-revid: 34594
+revid: 34681
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonance]
+categories: [Resonance]
 ---
 
 # Gravity Field
@@ -32,10 +32,6 @@ When obtained, Gravity Field will spend its points on the following stats:
 -   Jump power (either a positive or negative debuff)
 -   Size
 -   Cooldown
-
-## Gallery
-
-File:New bell.png
 
 ## Trivia/Notes
 

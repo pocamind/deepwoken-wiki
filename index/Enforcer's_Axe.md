@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 32641
+revid: 34679
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greataxes]
@@ -26,7 +26,7 @@ categories: [Weapons, Items, Weaponry, Greataxes]
 
 “ Oh shit it's an Enforcer Axe. From my experience, they're either boosted as fuck or they will whoop your ass in mere seconds. There is no in between. ”
 
-― Jonathan Talo
+― Jonathan Talo while jumping an Enforcer Axe user.
 
   
 
