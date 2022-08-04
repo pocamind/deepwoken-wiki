@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 34682
+revid: 34763
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -96,11 +96,15 @@ Each section describing the phases explains in great detail how to deal with his
 
 ### In General
 
--   A near necessity for the fight is using [fires](Campfire_Pit.md) to heal, which are thankfully already nearby due to the process of summoning him. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will **NOT** guarantee your safety.
+-   A near necessity for the fight is using [fires](Campfire_Pit.md) to heal, which are thankfully already nearby due to the process of summoning him. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will **NOT** guarantee your safety. Always keep something to light a campfire with, as if you run out mid-fight, you wont be able to conventionally heal.
     -   _Try to heal at most one bar before continuing the fight. If in dire need, try to go for two._
+-   Both variations of the lightning strike move can be interrupted by simply hitting the Ferryman. The best strategy is to simply run at him and start wailing on him, as the lightning strikes won't work.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
+-   It is heavily recommended to use light or medium weapons as the running attack of a heavy weapon will knock him back, making the fight more tedious than it has to be.
+    -   If you do choose to fight the Ferryman with heavy weapons, you should always have a good approaching move such as shoulder bash or rapid punches, as this will cancel your dash attack and put the Ferryman in hitstun.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
+-   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
     
 
 **Phase One:**
@@ -189,6 +193,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
+-   The Ferryman is now completely ignores the mantra-cancelling effects of suffocation, making a previous cheese unusable.
 -   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.  
     
@@ -202,3 +207,4 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier. (This works with many other instant teleports moves such as Jolt Grab)
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
+    -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.

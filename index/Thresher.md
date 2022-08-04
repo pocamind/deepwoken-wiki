@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 34176
+revid: 34765
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -48,6 +48,7 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 -   When it bites, parry the first then parry the other two using muscle memory. This isn't like the sharko swipes, meaning you'll have some time to react in between the bites.
 -   If you see it turn around, you can wait for around half a second to press block. This will usually parry it and you should be fine. If you accidentally react too quickly and miss the parry window, don't be shy to dash backwards. You'll usually have enough time to get your roll cooldown back even if it goes underground.
 -   When you see burrow underground to dig after you, it is going to pop up to hit you after 2 red flashes. To avoid this, right as you see the second flash you should roll.
+-   Although difficult to pull off and inconsistent, you can get to a certain range with a spear or guns where you can hit the thresher but the thresher can't hit you.
 
 ## Notes
 

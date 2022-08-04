@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 33537
+revid: 34787
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
+“ Hey Spongebob where are my plastic dildos? 🤓 ”
 
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
+― Squidward before shoving a plastic dick in his ass... -thughunter
 
   
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_
