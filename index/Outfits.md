@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34748
+revid: 34793
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -295,10 +295,10 @@ File:Grand Pauldrons.png
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
 | File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Depths Chests, Primadon Chests | N/A |
-| File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests | Brown & White (Work in Progress) |
+| File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests & Summer Isle Chests | Brown & White (Work in Progress) |
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
-| File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
-| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest, Widow's Chest | N/A |
+| File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Wilds Chests | N/A |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chests, Widow's Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator's Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -307,9 +307,9 @@ _Requires Power 40_
 | 
 
  | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green, White (Work in progress) |
-| File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff. | +Talent: Art of the Deal
+| File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
 
-_Requires Power 40_
++Talent: Art of the Deal _Requires Power 40_
 
  | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Royal Auth Commander.png | Authority Commander Coat (Series) | Grants a random buff.

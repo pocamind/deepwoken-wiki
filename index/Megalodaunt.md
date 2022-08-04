@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 34633
+revid: 34794
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ _Commonly referred to as Shark, Sharko._
 
   
 
-**Regular:**
+**Megalodaunt:**
 
 Template:Creature Infobox V3
 
@@ -78,7 +78,7 @@ Roar
 
  | ✗ | ◯ | ✗ | (★★☆) |
 
-**Crimson:**
+**Crimson Megalodaunt:**
 
 Template:Creature Infobox V3
 
@@ -140,7 +140,7 @@ Fire Roar
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 
-**Alpha:**
+**Alpha Megalodaunt:**
 
 Template:Creature Infobox V3
 

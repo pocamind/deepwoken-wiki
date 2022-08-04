@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 34362
+revid: 34792
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -350,7 +350,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
-  <td>40 LHT</td>
+  <td>20 LHT</td>
   <td>13</td>
   <td>N/A</td>
   <td>LHT: 6</td>
