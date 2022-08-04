@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 32754
+revid: 34760
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -37,4 +37,4 @@ The Katana is a Medium type weapon that can be obtained from chests found in [Mi
 
 -   The Vigil Guards on The Isle of Vigils use Katanas.
 -   Katana damage is increased by 20% when wearing Vigil Initiate or Cloak of Winds armor (Paired Soul talent).
--   The Katana is the only weapon in the game with a scabbard.
+-   The Katana along with the [Shattered Katana](Shattered_Katana.md) are the only weapons in the game with a scabbard.
