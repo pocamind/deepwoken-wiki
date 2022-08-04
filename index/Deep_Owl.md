@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 33651
+revid: 34795
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 ## Description
 
-Template:Creature Infobox V3 The **Deep Owl** (also referred to as "Owl", or "Wan Shi Tong") is an exceptionally uncommon [monster](Monsters.md) with juggernaut-like traits found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. If you want to find it quickly, higher player populated servers have higher spawn chances.
+Template:Creature Infobox V3 The **Deep Owl** (also referred to as "Owl", "Wan Shi Tong", or "Big black man") is an exceptionally uncommon [monster](Monsters.md) with juggernaut-like traits found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. If you want to find it quickly, higher player populated servers have higher spawn chances.
 
   
 Deep Owls will spawn in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restriction does not apply to The Depths.

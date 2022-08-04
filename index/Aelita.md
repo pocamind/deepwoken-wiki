@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 34751
+revid: 34805
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,9 +13,9 @@ categories: [NPCs]
 | name | Aelita |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 
-“ See? That was fun right? You can have a lot more fun if you come back during the winter. ”
+“ Aelita my beloved ”
 
-― Aelita
+― a random tier 3 sub Capra
 
 ## Description
 
