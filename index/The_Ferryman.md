@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 34763
+revid: 34810
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -21,7 +21,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
+**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. The Ferryman is also in extreme love with Duke Erisia. (Source: Trust me, Arch\_Mage said it in my DMs)
 
 #### Summoning **The Ferryman**
 

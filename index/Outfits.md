@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34793
+revid: 34817
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -73,13 +73,15 @@ _Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
+An example of an item with rolled stats (in beige) and guaranted stats (in grey)
 
-Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (Variants vary, 2+), **the exceptions being Star Duster, Providence Coat and Royal Pathfinder Coat.**
+Armor Pieces are items that can be found usually in chests. They can be equipped to grant their listed stat bonuses.
 
-When an armor piece is generated, it will roll its stats a certain amounts of times to decide what its stats will be. The amount of stats per roll varies from armor to armor (E.G: an item could obtain **2 HP** per roll, while another would get 5), so does the amount of rolls (E.G: an item would roll 1 time, while another would roll 4 times). More common armor pieces will have a lower amount of rolls and weaker stats, while a higher rarity piece would roll more times with better stats per roll. Star Rating gives an additional roll for each star. Note that whenever a stat is rolled, the odds of rolling it again are reduced. This stacks indefinitely, making each succesive roll have less and less chance of getting the same stat.
+The player can wear 7 type of armor pieces: Head, Face, Ears, Back, Arms, Rings and Boots.
 
-Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters. These guaranteed stats do not consume a stat roll.
+Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. These stats are displayed in grey.
+
+All armor pieces, when obtained, will roll for random stats. These stats are displayed in beige. The amount of stats obtained and their value varies per armor pieces. Rarer armor pieces will roll more stats with higher values. When an armor pieces have a star in their name (**★**), it means they have rolled for an extra stat, equal to the amount of **★**.
 
 **Head:**
 
