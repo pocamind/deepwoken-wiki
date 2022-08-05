@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 34336
+revid: 34826
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -338,7 +338,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
 -   **Ether Restoration** (Focus-Enhancing) - 1 (2) Gathered Wheat + 2 (1) Plumfruit + 2 Spider Eggs
     -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
--   **Fast Ether Regen** (Invigorating Elixir) - 1 Gathered Wheat + 1 Gobletto
+-   **Fast Ether Regen** (Invigorating Elixir) - 1 Gathered Wheat + 1 Gobletto OR 1 Gobletto + 1 Bamboo Bundle
     -   A very potent Ether Regen Potion that makes your reservoir pointless-- Constantly regenerating your ether at an alarming rate with Apothecary if consumed.
 -   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Redd
     -   Rapidly drains ether and prevents reservoir draw for 15 seconds. Will almost immediately drain target's entire ether bar.
