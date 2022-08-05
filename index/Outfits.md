@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34817
+revid: 34838
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -10,7 +10,7 @@ notices:
 
 # Outfits
 
-**Armor** is an essential part to _Deep woken_, being the primary means of resisting damage from most sources.
+**Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
 
 ## Overview
 
@@ -79,7 +79,7 @@ Armor Pieces are items that can be found usually in chests. They can be equipped
 
 The player can wear 7 type of armor pieces: Head, Face, Ears, Back, Arms, Rings and Boots.
 
-Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. These stats are displayed in grey.
+Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms item can have these). These stats are displayed in grey.
 
 All armor pieces, when obtained, will roll for random stats. These stats are displayed in beige. The amount of stats obtained and their value varies per armor pieces. Rarer armor pieces will roll more stats with higher values. When an armor pieces have a star in their name (**★**), it means they have rolled for an extra stat, equal to the amount of **★**.
 
@@ -271,7 +271,7 @@ _Disappears on death or leaving the game._
 | 
 
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
-| File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
+| File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Summer Isle Chests, Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 |  | Enforcer's Plate | Grants a random buff | Duke chests | N/A |
 |  | Gladiator Pauldrons | Grants a random buff. | Depths Chests (Work in progress) | N/A |
@@ -296,7 +296,7 @@ File:Grand Pauldrons.png
  | Fort Merit Chests | N/A |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
-| File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Depths Chests, Primadon Chests | N/A |
+| File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Summer Isle Chests, The Depths Chests, Primadon Chests | N/A |
 | File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests & Summer Isle Chests | Brown & White (Work in Progress) |
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Wilds Chests | N/A |
@@ -462,7 +462,8 @@ Grants one random buff. _Requires Power 10_
 
 (Legendary)
 
- | Gives every weapon 1.5 strength scaling when equipped. | Rare frop from trading Deep Gems to Jeremiah in The Depths. |  | Deepfire Ring
+ | Gives every weapon 1.5 strength scaling when equipped. | Rare drop from trading Deep Gems to Jeremiah in The Depths & Summer Isle Chests (Very Rare) |
+|  | Deepfire Ring
 
 (Legendary)
 
