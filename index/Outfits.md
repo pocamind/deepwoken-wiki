@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34838
+revid: 34860
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -88,30 +88,26 @@ All armor pieces, when obtained, will roll for random stats. These stats are dis
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Herbalist's Hat.png | Herbalist's Hat | Grants a random buff.
-_\+ Talent: Iron Gut_
-
-_\+ Talent: Herbivore_
+-   _\+ Talent: Iron Gut_
+-   _\+ Talent: Herbivore_
 
  | Depths Chests | N/A |
 | File:Big Herbalist's Hat.png | Big Herbalist's Hat | Grants a random buff.
 
-_\+ Talent: Iron Gut_
-
-_\+ Talent: Herbivore_
+-   _\+ Talent: Iron Gut_
+-   _\+ Talent: Herbivore_
 
  | Hive Chests | N/A |
 | File:Alchemist Hat.png | Alchemist's Hat | Grants a random buff.
 
-_\+ Talent: Apothecary_
-
-_\+ Talent: Pitcher_
+-   _\+ Talent: Apothecary_
+-   _\+ Talent: Pitcher_
 
  | Depths Chests | N/A |
 | File:AlchemistHat.png | Big Alchemist's Hat | Grants a random buff.
 
-_\+ Talent: Apothecary_
-
-_\+ Talent: Pitcher_
+-   _\+ Talent: Apothecary_
+-   _\+ Talent: Pitcher_
 
  | Hive Chests | N/A |
 | File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
@@ -123,7 +119,7 @@ _\+ Talent: Pitcher_
 |  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests, Duke Chests | N/A |
 | File:Black Hood.png | Hood (Series) | Grants a random buff.
 
-_\+ 4% Stealth_
+-   _\+ 4% Stealth_
 
  | Depths Chests | Black & Brown |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants a random buff. | Fort Merit Chests, Depths Chests | N/A |
@@ -133,31 +129,31 @@ _\+ 4% Stealth_
  | Vigil Hood | Grants a random buff. | Hive Chests, Depths Chests | N/A |
 | File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants a random buff.
 
-_\+ 4% Stealth_
+-   _\+ 4% Stealth_
 
  | Artifact Turn-ins, Depths Chests | N/A |
 | File:Authorityhelm.png | Authority Helm | Grants a random buff.
 
-_Requires Fortitude 10_
+**Requires Fortitude 10**
 
- | Authority Enemies, Hive Chests | N/A |
+ | Authority Enemies & Hive Chests | N/A |
 | File:Barrel Helmet.png | Barrel Helm | Grants a random buff.
 
-_Requires Fortitude 10_
+**Requires Fortitude 10**
 
  | Artifact Turn-ins, Arena Chests, Duke Chests, Depths Chests | N/A |
 | 
 
  | Blackleaf Helm | Grants a random buff.
 
-_Requires Fortitude 20_
+**Requires Fortitude 20**
 
  | Hive Chests, Arena Chests, Depths Chests | N/A |
 | 
 
  | Blacksteel Helm | Grants a random buff.
 
-_Requires Fortitude 15_
+**Requires Fortitude 15**
 
  | Arena Chests, Depths Chests, Duke Chests | N/A |
 | 
@@ -168,12 +164,14 @@ File:Captainskabuto.png
 | File:Feathertop Helm.png | Feathertop Helm | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 
-_\+ 2 Posture_ _Requires Fortitude 15_
+-   _\+ 2 Posture_
+
+**Requires Fortitude 15**
 
  | Hive Chests | N/A |
 |  | Goldleaf Helm | Grants a random buff.
 
-_Requires Fortitude 10_
+**Requires Fortitude 10**
 
  | Duke Chests, Depths, Golden Warrior Erisia Event, Artifact Turn-ins | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifact Turn-ins, Primadon Chests | N/A |
@@ -182,19 +180,19 @@ _Requires Fortitude 10_
 
 File:Khan Helmet.png
 
- | Khan Helmet | Grants a random buff. | Hive Chests. (Work in Progress) | N/A |
+ | Khan Helmet | Grants a random buff. | Hive Chests (Work in Progress) | N/A |
 | 
 
 File:KnightHelm.png
 
  | Knight's Helm | Grants a random buff.
 
-_Requires Fortitude 15_
+**Requires Fortitude 15**
 
  | Hive Chests | N/A |
 |  | Legate Helm | Grants a random buff.
 
-_Requires Fortitude 5_
+**Requires Fortitude 5**
 
  | Arena Chests | N/A |
 | 
@@ -208,10 +206,18 @@ File:Royal Guard's Kabuto.png
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
-|  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests | White |
-|  | Black Blindfold | _\+ Talent: Blinded_ | Arena Chests | Default |
+|  | Blindfold | 
+-   _\+ Talent: Blinded_
+
+ | Erisia Chests | White |
+|  | Black Blindfold | 
+
+-   _\+ Talent: Blinded_
+
+ | Arena Chests | Default |
 |  | Crimson Blindfold | Grants a random buff.
-_\+ Talent: Blinded_
+
+-   _\+ Talent: Blinded_
 
  | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Black, Blue, Green, Orange, Red & Yellow |
@@ -230,7 +236,7 @@ _\+ Talent: Blinded_
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
-|  | Amethyst Pendant Earrings | Grants a random buff. | Ferryman drop(Summer) | N/A |
+|  | Amethyst Pendant Earrings | Grants a random buff. | Ferryman Drop (Summer Season) | N/A |
 |  | Crystal Pendant Earrings | Grants a random buff. | Hive Chests | N/A |
 |  | Ruby Pendant Earrings | Grants a random buff. | Fishing Chests | N/A |
 |  | Dew Drop Earrings | Grants a random buff. | Hive Chests | N/A |
@@ -248,9 +254,9 @@ _\+ Talent: Blinded_
 | File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight & White |
 | File:Crimson Scarf.png | Scarf (Series) | Grants a random buff. | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
-_Requires Power 40_
+**Requires Power 40**
 
- | Summer Isle Chest Rewards and fishing | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+ | Summer Isle Chests and Fishing Chests | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 
 **Arms:**
 
@@ -303,7 +309,7 @@ File:Grand Pauldrons.png
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chests, Widow's Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator's Coat (Series) | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
  | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable & Tawny |
 | 
@@ -311,12 +317,14 @@ _Requires Power 40_
  | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green, White (Work in progress) |
 | File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
 
-+Talent: Art of the Deal _Requires Power 40_
+-   _+Talent: Art of the Deal_
+
+**Requires Power 40**
 
  | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Royal Auth Commander.png | Authority Commander Coat (Series) | Grants a random buff.
 
-_Requires Power 30_
+**Requires Power 30**
 
  | Fort Merit Chests | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 | File:Deepwoken Cloak.png | Deepwoken Cloak
@@ -331,33 +339,33 @@ _Requires Power 30_
  | Grants a random buff. | The Depths Monster Drops (Hell Mode) | N/A |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
  | Nautilodaunt (Very Rare) | Ash, Black, Crimson & Magenta (Work in Progress) |
 | File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
  | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests, Dread serpent | Dark, Ochre & White |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
- | Aelita Chests, Minityrsa Chests, Depths Chests, Corrupt King Threshers | Red, Black, Faded, Jet Black, Orange & Purple |
+ | Aelita Chests, Minityrsa Chests, Depths Chests, Corrupted King Threshers | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
-+X% Damage VS Beast _Requires Power 30_
++X% Damage VS Beast **Requires Power 30**
 
  | Megalodaunts Drop | Red, Purple, Brown, Green, Blue & Peach |
 | File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
  | Valley of Heroes Chests | Onyx, Peach, Scarlet & Smoke (Work in Progress) |
 | File:Pale.jpg | Assassin's Cloak | Grants a random buff.
 
-_Requires Power 30_
+**Requires Power 30**
 
  | Hive Chests, Minityrsa (Rogue Mech) Chests, Aelita Chests, Depths Chests, Primadon Chests | Crimson, Gold, Mist & Pale (Work in Progress) |
 |  | Providence Coat
@@ -367,12 +375,12 @@ _Requires Power 30_
  | Grants a random buff. | Primadon Chests, Depths Chests | N/A |
 | File:Dark Royal Duelist.png | Royal Duelist (Series) | Grants a random buff.
 
-_Requires Power 40_
+**Requires Power 40**
 
  | Songseeker Chests, Minityrsa Chests | Dark, Faded, Purple, Red, Rose & Stained |
 |  | Royal Pathfinder | Grants a random buff.
 
-_Requires Power 30_
+**Requires Power 30**
 
  | Hive Chests, Depths Chests | N/A |
 |  | Star Duster
@@ -381,7 +389,7 @@ _Requires Power 30_
 
  | Grants a random buff.
 
-_Requires Power 30_
+**Requires Power 30**
 
  | Duke Erisia's Chest, Primadon Chests, Depths Chests | N/A |
 
@@ -397,56 +405,61 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
-|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill (Stacks with Bloodiron Spirit).
+|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
+-   Stacks with Bloodiron Spirit
+
 Grants one random buff.
 
  | Duke Erisia's Chest, Primadon Chests, Depths Chests |
 | File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
 
-_Requires Power 10_
+**Requires Power 10**
 
  | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
 | File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed while out of combat.
 
-_Requires Power 10_
+**Requires Power 10**
 
  | Primadon Chests, Depths Chests |
 |  | Gold Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests, Polis |
 | File:Heavy Hand's Ring.png | Heavy Hands Ring | Makes your "M1" attack slower but do more posture damage.
 
-_\+ 30% posture damage_
-
-_\- 15% swing speed_
+-   _\+ 30% posture damage_
+-   _\- 15% swing speed_
 
  | Primadon Chests, Depths Chests |
 | File:Isshin.png | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
 
-_Requires Power 15_
+**Requires Power 15**
 
  | Pirate Event Chests, Primadon Chests, Depths Chests |
 |  | Konga's Clutch Ring | Allows the user to slide without delay.
 
-_Requires Power 10_
+**Requires Power 10**
 
  | Mudskipper Chests, Primadon Chests, Depths Chests |
 | File:Light eater ring.jpg | Light Eater Ring | Getting hit by a Lightning or Fire mantra recovers ether.
 
-Grants one random buff. _Requires Power 10_
+Grants one random buff. **Requires Power 10**
 
  | Duke Chests, Primadon Chests, Depths Chests |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you.
+
+-   Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority.
+
+ | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater and acid with no side effects. | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 50%
 
-_Requires Power 40_
+**Requires Power 40**
 
  | Primadon Chests, Depths Chests |
 | File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
 |  | Silver Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests |
 |  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
 
-Grants one random buff. _Requires Power 10_
+Grants one random buff. **Requires Power 10**
 
  | Songseeker Chests, Arena Chests |
 |  | Akira's Ring
@@ -455,7 +468,7 @@ Grants one random buff. _Requires Power 10_
 
  | Gives every weapon 1.5 Willpower scaling when equipped.
 
-"Requires Power 20".
+**Requires Power 20**
 
  | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests. |
 |  | Dawnfist's Ring
@@ -469,16 +482,18 @@ Grants one random buff. _Requires Power 10_
 
  | Flames burn 1.5x faster but goes out 1.5x faster.
 
-_Requires Power 15_
+**Requires Power 15**
 
  | Ferryman Chest, Arena Chests, Duke's Chests |
 |  | Finisher's Ring
 
 (Legendary)
 
- | Reduces your flourish count by 1 (Allows you to flourish someone with 1 less m1)
+ | Reduces your flourish count by 1
 
-_Requires Power 40_
+-   Allows you to flourish someone with 1 less M1.
+
+**Requires Power 40**
 
  | Aelita Chests, Arena Chests, Duke Erisia's Chests |
 | File:Moon Ring.png | Moon Ring
@@ -501,10 +516,10 @@ _Requires Power 40_
 |  | Enforcer Boots | Grants a random buff. | Depths Chests | N/A |
 | File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests | N/A |
 | File:Leather boots.png | Leather Boots | Grants a random buff.
-_\+ 2 Health_
+-   _\+ 2 Health_
 
  | Erisia Chests, Primadon Chests | N/A |
-|  | Novice Boots | Grants a random buff. | Scope's Quest on Summer Isle | N/A |
+|  | Novice Boots | Grants a random buff. | Summer Isle Chests | N/A |
 | File:Imperial Boots.png | Imperial Boots | Grants a random buff. | Hive Chests | N/A |
 | File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants a random buff. | Depths Chests | N/A |
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests | N/A |
@@ -513,7 +528,7 @@ _\+ 2 Health_
 | File:Silver Sabatons.png | Silver Sabatons | Grants a random buff. | Hive Chests | N/A |
 |  | Star Boots | Grants a random buff.
 
-_Requires Power 30_
+**Requires Power 30**
 
  | Primadon Chests, Depths Chests | N/A |
 |  | Tracker's Boots | Grants a random buff. | Erisia Chests | N/A |
