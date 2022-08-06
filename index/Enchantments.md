@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 34791
+revid: 34850
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -94,7 +94,7 @@ Changelogs:
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p><br>
   After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
@@ -119,7 +119,7 @@ Changelogs:
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Providence's Thorns</div></td>
+  <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
   <td><div><p>Parrying an attack deal damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
   Deal 10% x ()userpower in PVE.<br>
@@ -135,7 +135,7 @@ Changelogs:
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
@@ -237,8 +237,8 @@ Changelogs:
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
   <td><div><p>On hit, M2 is replaced with the ability to pull the victim towards the user. Flourishing make all subsequents attack fling the target upward.<br>
-  <b>Enchant is disabled for Non-Moderators</b><br>
-  <b>Enchant is enabled for (original) players with fist</b></p></div></td>
+  <b>Enchant is currently unobtainable (mods do not have access to this enchant)</b><br>
+  <b>Only obtainable via dev interaction</b></p></div></td>
   <td><div>Weapon is covered with blue and white fuzziness.</div></td>
 </tr>
 <tr>
