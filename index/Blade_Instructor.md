@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 34294
+revid: 34865
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

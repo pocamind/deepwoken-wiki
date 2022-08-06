@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 34756
+revid: 34872
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -36,7 +36,7 @@ The Shattered Katana is an endgame Medium [Weapon](Weapons.md) and is the go-to 
 
 The Shattered Katana across various updates has been nerfed and is no longer the best medium weapon or even one of the best. The new alloy-able weapons update has made weapons such the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and in some aspects better weapon than the Shattered Katana.
 
-## Notes/Trivia
+## Trivia
 
 -   One of two weapons that comes with a sheath, the other being the [Katana](Katana.md).
 -   The sword could be referencing the game "[Sekiro: Shadows Die Twice](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro:_Shadows_Die_Twice_Wiki)". The black mortal blade that was used by Genichiro is almost identical to the Shattered Katana.

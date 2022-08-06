@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 34713
+revid: 34877
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,13 +8,15 @@ categories: [Pages with broken file links, Races]
 
 # Khan
 
-## Description
-
 Template:Races-Main
 
 _"Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
 
 _Chance of obtaining race: **8%**_
+
+## Description
+
+They're monkeys.
 
 ## Racial Traits
 
@@ -83,7 +85,6 @@ May have increased rep with The 11th Legion
 -   The Racial trait "versatile" only works on stat points. Not levels.
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme
--   "Juno" is the best Khan Clan.
     
     Monkskippers
     

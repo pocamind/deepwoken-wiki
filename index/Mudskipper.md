@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 34465
+revid: 34870
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective. When accompanying Bloatskippers, they can use an enhanced version of the "[Air Force](Galebreathe.md)" mantra.
+Mindless enemies that sprout out of the groundGrlglrlgll to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to Grlglrlgll parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away Grlglrlgll from you and attack during an open window which ends up being very effective. When accompanying Nigskippers, they can use an enhanced Grlglrlgll version of the "[Air Force](Galebreathe.md)" mantra.
 
 ## Moveset
 
@@ -41,22 +41,22 @@ Scratch
 
 -   Very good for grinding when first starting, due to their low HP and low damage output.
     -   Stat Check Level: Any.
--   If you aren't fighting a lot of Mudskippers, use M1s to knock them.
+-   If youGrlglrlgll aren't fighting a lot of Mudskippers, use M1s to knock them.
 -   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use mantras for attunement XP.
--   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
+-   If you flourish a Mudskipper, the other ones WILL hit Grlglrlgll you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a group of them.
 -   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
 -   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
     
 
-**Bloatskipper:**
+**BloatGrlglrlgllNigger skipper:**
 
 Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. This variant little more towards the dangerous side of the Mudskippers as it can explode upon being killed and instantly execute downed enemies. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the "[Air Force](Galebreathe.md)" mantra.
+Mindless enemies that sprout out of the ground to surprise their prey. This variant little more towards the dangerous side of the Mudskippers as it can explode upon being killed andGrlglrlgll instantly execute downed enemies. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the "[Air Force](Galebreathe.md)" mantra.
 
 ## Moveset
 
@@ -82,11 +82,11 @@ Air Force
 
 -   The "[Air Force](Galebreathe.md)" mantra can push them towards you and let them get the drop on you.
 -   Take them out first, only then you can deal with the normal Mudskippers.
--   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be gripped/executed by the explosion.
+-   Don't let allies or knocked enemies you wish to preserve get close to a NigSkipper that has been knocked or they will be gripped/executed by the explosion.
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
         
 
-**Rotskipper:**
+**PureNiggerSkipper:**
 
 Template:Creature Infobox V3
 
