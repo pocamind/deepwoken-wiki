@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 34882
+revid: 34896
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Deepwoken, Monster, Enemies, Boss]
@@ -8,9 +8,9 @@ categories: [Monsters, Deepwoken, Monster, Enemies, Boss]
 
 # Deep Widow
 
-“ The Giant Enemy Spider! ”
+“ New Widow Cheese 🤓 ”
 
-― Jerma
+― widow cheesing nerd
 
   
 
