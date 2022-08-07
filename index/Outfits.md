@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34860
+revid: 34889
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -400,6 +400,10 @@ File:Grand Pauldrons.png
 “ Wt ring u got bithc? ”
 
 ― PL99 Flamecharm Canor.
+
+“ How my blood boils... Face me, Sekiro! ”
+
+― 80 year old etrean using Ishiin's ring, a shattered katana and a gun.
 
 Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver and Gold Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
 
