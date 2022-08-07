@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 32771
+revid: 34908
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,9 +26,9 @@ categories: [Weapons, Daggers]
 | obtainment | Drops from Ferryman during Winter season |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
 
-“ Let’s dance! ”
+“ Crow, can you hear us? We are playing a requiem for you. ”
 
-― Wham-slam-bam Sam
+― Power 60 etrean commanding his whole guild to terrorize etris.
 
   
 
