@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 34863
+revid: 34915
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,7 +21,7 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 You don't have an attunement, so your mantras scale off of Strength or other sources, if it has scaling at all.
 
-Most of your mantras focus on your character, such as making you faster, helping you do more damage when things look ugly, or removing stun. Although attunementless sounds horrible on paper, Deepwoken does a good job of making it as good as any other attunement.
+Most of your mantras focus on your character, such as making you faster, helping you do more damage when things look ugly, or removing stun. Although attunementless sounds horrible on paper, Deepwoken does a good job of making it as good as any other attunement. While the moves are on par if not better than most attunements, it has some drawbacks being you don't get to experience the passives of other attunements, despite having 100 extra points, you likely won't get the chance to obtain most of the mantras, and you don't have much utility outside of fighting.
 
 Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few moves, the community has discovered much about it. One of it's moves that seemingly had nothing to do with combat, was turned into a wall to proc flourish talents, effectively turning it into unironically one of the best combat mantras. The playstyle of this lifestyle is straight forward. You see an opening and you take it without a second thought because it's going to be hard to get close to your opponent. Many of the moves are good for combat, which is very beneficial in a game like Deepwoken, because it has a large arsenal of moves including it's very own counter, something that little to no attunements have. This attunement (If you could even call it that) is for a warrior, as it can excel in fights, but is not very useful outside of fights.
 

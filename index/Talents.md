@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34668
+revid: 34920
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -897,7 +897,7 @@ These Talents are meant to make foraging and mining grant more resources.
 ### Public Figure
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
-    -   Requires Friends in High Places + around 40 charisma - The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
+    -   Requires Friends in High Places + 50 charisma - The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
 -   Diplomat \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   Prerequisites For All: Charisma

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 34762
+revid: 34913
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -178,7 +178,6 @@ Does not grant any special cosmetic based on race.
 ### Notes
 
 -   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last dramatically.
--   This may be a reference to The Sharingan And/Or The Rinnegan from the Shonen franchise Naruto
 
   
 

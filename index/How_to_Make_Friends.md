@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 31159
+revid: 34923
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 
 -   Me-wow, is that the latest Felinor fashion?
 -   So, what's keeping you busy these days?
--   Hey hivekin, can I bug you for a moment?
+-   Hey Hivekin, can I bug you for a moment?
 -   So, how's work?
 -   Wow, this breeze is great, right?
 -   Sometimes I have really deep thoughts about life and stuff.
@@ -49,13 +49,14 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   Mhm.
 -   Yeah.
 
-### Charisma 66+
+### Charisma 68+
 
 -   Oh! I see!
 -   Wow!
 -   Of course!
 -   No way!
 -   Alright!
+-   Hah!
 
 ## Notes/Trivia
 

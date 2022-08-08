@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 33568
+revid: 34919
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -55,7 +55,7 @@ Talking to guards/camp masters
 -   Very Good Reputation - "Placeholder" | "Placeholder"
 -   Good Reputation - "Ah homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
--   Unfriendly Reputation - ~\*you cannot become enemies with the whole faction\*~ (I don't think so, by killing enough Navaean nomads you can. However it seems as if the dialogue does not change)
+-   Unfriendly Reputation - No change
 
 _Do note that alongside Adrets, Gremors start off with Good reputation with the Children of Navae_
 
