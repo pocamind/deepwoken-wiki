@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 34758
+revid: 34924
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -121,6 +121,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 #### Rings
 
 -   Akira's Ring
+-   Moon Ring
 
 ### [Weapons](Weapons.md)
 

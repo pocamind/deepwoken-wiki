@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 32713
+revid: 34926
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -34,5 +34,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   One of the most easiest expert armor to make
--   Better then [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability and cheaper to make despite being a expert outfit.
+-   One of the easiest expert armors to make.
+-   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an expert outfit.
