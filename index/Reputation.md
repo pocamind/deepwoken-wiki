@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 34675
+revid: 34950
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -164,4 +164,4 @@ Some quests in the game allow you to get reputation with certain factions, some 
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to become aggressive.
 -   The Ministry is the only Faction that all players start out with negative reputation on spawn.
--   Speaking to Rashet to remove negative Authority reputation will not make Authority Wardens neutral to you.
+-   Speaking to Rashet to remove negative Authority reputation ~will not make Authority Wardens neutral to you.~ MOST of the time makes Authority Wardens neutral.

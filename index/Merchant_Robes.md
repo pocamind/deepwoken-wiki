@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 32690
+revid: 34949
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   The outfit is worn by Lance Leshi's brother at Isle Of Vigils who sells food near the docks.
+-   The outfit is worn by Lance Leshi and his brother at Isle Of Vigils who sells food near the docks.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34400
+revid: 34948
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -284,6 +284,7 @@ _Send ice rippling out in a shockwave._
 
 -   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
 -   This is a legendary mantra
+-   This is extremely good in fights/area denial because when casted it will keep emitting the ice shockwaves while allowing the user to still use their weapon and other mantras. Also great for dealing constant damage while it is active.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 31853
+revid: 34947
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -212,3 +212,4 @@ Possible items found after completing Scope's quest
 -   [Summer Company Uniform](Summer_Company_Uniform.md)
 -   [Verdant Sniper](Verdant_Sniper.md)
 -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
+-   Dawnfist's Ring
