@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34920
+revid: 34942
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1136,7 +1136,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Undying Ember
 
--   Last Laugh \[Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
+-   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
     -   Prerequisites: 20 Willpower, flame within, who ever put flame of denial probably thought it was that.
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 34887
+revid: 34943
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
