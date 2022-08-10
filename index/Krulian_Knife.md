@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 34908
+revid: 34980
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,9 +26,9 @@ categories: [Weapons, Daggers]
 | obtainment | Drops from Ferryman during Winter season |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
 
-“ Crow, can you hear us? We are playing a requiem for you. ”
+“ Let’s dance! ”
 
-― Power 60 etrean commanding his whole guild to terrorize etris.
+― Wham-slam-bam Sam
 
   
 
@@ -36,7 +36,7 @@ categories: [Weapons, Daggers]
 
 The Krulian Knife is a dagger weapon that drops by defeating the [Ferryman](The_Ferryman.md) during Winter season. This weapon has a base damage of 13.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling. The Krulian Knife does 23.625 damage at 75 LHT, and 27 damage at 100 LHT.  
 
-## Notes
+## Trivia
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   It is possible for [The Ferryman](The_Ferryman.md) to give starred and enchanted versions of this weapon.

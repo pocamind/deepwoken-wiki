@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 34915
+revid: 34981
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -131,7 +131,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
   <td><i>Brace yourself against attacks and gain hyperarmour.</i></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>75 Fortutude,</b></i> <i>Support Mantra</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>75 Fortitude,</b></i> <i>Support Mantra</i></li>
     <li>Prevents your attacks/mantras from getting cancelled when being hit. (Nanomachines son!)</li>
     <li>5 Second duration at base upgrade, each upgrade increases its duration up by 1 up to a maximum of 9 seconds.</li>
     <li>Needs testing with Logstones to find out if it affects duration,</li>
