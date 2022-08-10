@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 32819
+revid: 34965
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -10,12 +10,12 @@ categories: [Resonance]
 
 | Resurrection | |
 |---|---|
-| effect | Prevent the death of the target entity, return them to the user and heal them. |
-| appearance | A white star and a white circle. |
+| effect | Resurrects the target with 40% health |
+| appearance | A white star with a spinning circle on the back of a person using Resonance. |
 
 “ Bless targeted allies on the battlefield that revives them when defeated. ”
 
-― Resurrection description
+― Resurrection Description
 
   
 
@@ -25,34 +25,37 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, the target is represented with a star, while the user is represented with a spinning circle on their back.
+A spinning white circle appears on the back of the player who used resonance. A white star appears on the target.
 
 ## Usage
 
-Pressing C tags any humanoid with a star. This can be inflicted on NPCs, allies, non-allies and yourself. This effect lasts for five seconds.
+Pressing C will activate **Resurrection** Resonance. Has a 1 minute cooldown.
 
-While Resurrection is active:
+Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self.
 
--   If the target is knocked, they will be brought into the air and regain 40% of their health.
--   If the target is not knocked by the time the star fades away, the Resonance will not go on cooldown. _(the exception being a self-revive)_
--   If the target is **executed,** the resurrection will not trigger. _(common examples include [Primadon](Primadon,_Titan_of_the_East.md), [Stone Knights](Stone_Knight.md), [Jar of Souls](Jar_of_Souls.md) or [Lionfish](Lionfish.md))_
+During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health. Stacks with [Talents](Talents.md) and [Mantras](Mantras.md) like Polite Awakening. If not, then the star on the target will fade away and the resonance will not go on cooldown, the only exception is the resurrection of yourself (Note that resonance can only be activated twice, after that it will go on cooldown no matter what happens to the target). If the attack instant-grips then the resurrection will not trigger.
 
-### Variants
+### _Resonance Point usage_
 
-#### Versions
+When obtained, Resurrection will spend its points on the following stats:
 
-Resurrection has 2 versions, restoring 40% of the target's health.
+-   **Resurrection type:** Decides the type of resurrection that will be used.
+    -   Teleporting resurrection teleports the target to the player using resonance after a successful resurrection.
+    -   Resurrect knocked targets is the version of resurrection that has the ability to resurrect targets even if they have been knocked.
+    -   Normal resurrection doesn't have these features but probably has improved range and duration stats.
+-   **Range:** The more points spent on this stat, the further the resurrection can be activated on the target.
+-   **Duration:** The more points spent on this characteristic, the longer the resurrection lasts on the target.
 
--   Variant 1 resurrects the target at the location of their death.
--   Variant 2 resurrects the target and returns them to the user. (much like [Vow of Mastery's](Vow_of_Mastery.md) "return" command).
+  
 
-#### Corrupted
+### _Corrupted_
 
-**Corrupted Resurrection** lasts seven seconds on the target instead of five.
+**Corrupted Resurrection** has more points which means it has improved stats compared to normal resurrection.
 
-## Trivia/Notes
+## Trivia
 
 -   When someone or something is getting resurrected, they cannot be damaged.
+-   Due to the latest updates, you can now use this bell on yourself by holding the C button.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
--   A very powerful corrupted Resonance, as the fire and damage downsides of Resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40%-80% back.
+-   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If an ally's health drops below half, players with Resurrection will be able to see their health.
