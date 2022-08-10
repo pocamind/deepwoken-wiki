@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 32614
+revid: 34957
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Daggers]

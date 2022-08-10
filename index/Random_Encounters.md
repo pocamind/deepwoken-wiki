@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 34392
+revid: 34958
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -66,11 +66,11 @@ Greater bandit raid: Seven or so regular bandits that spawn on the steps.
 
 #### **Knives of Eylis**
 
-Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Navaean Hostage. Occurs at Upper Erisia and Songseeker Wilds.
+Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a [Gremor](Gremor.md) Hostage. Occurs at [Upper Erisia](Upper_Erisia.md) and [Songseeker Wilds](Songseeker_Wilds.md).
 
 Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village. In Songseeker, there is an event where three Knives Of Eylis bandits spawn with no magic and no hostage.
 
-**Weapons:** Whaling Knife & Time-Slowing Orb Magic.
+**Weapons:** [Whaling Knife](Whaling_Knife.md) & Time-Slowing Orb Magic.
 
 #### **Authority Scouts**
 
@@ -82,7 +82,7 @@ A single Ministry scout, sitting around a campfire in Summer Isle, surrounded by
 
 #### **Lost Villagers**
 
-In Upper Erisia, the player can encounter two villager NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+In [Upper Erisia](Upper_Erisia.md), the player can encounter two villager NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
 
 #### **Raid on Erisor's Church**
 
@@ -100,7 +100,7 @@ An encounter limited to [Erisia](Erisia.md), can happen during any season, contr
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon three special [Mudskippers](Mudskipper.md), consisting of two that can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md), though the Frostdraw Mudskipper is bugged and cannot use it's Mantra.
 
-**Weapons:** Krulian Knife, Shadowcast & Necroskippers.
+**Weapons:** [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md) & [Necroskippers](Mudskipper.md).
 
 #### **Songseeker**
 
@@ -143,11 +143,11 @@ If you open one of their chests don't have to take the loot, they will yell at y
 
 #### **Pathfinders**
 
-Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia
+Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
 
 #### **Megalodaunt vs Golem**
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) or two in Upper Erisia. The Golem will usually be victorious.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) or two in [Upper Erisia](Upper_Erisia.md). The Golem will usually be victorious.
 
 #### **Megalodaunt vs Red Megalodaunt**
 
@@ -155,13 +155,13 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### **Feasting Megalodaunt**
 
-A Megalodaunt feasting on the corpse of a Vesperian Authority Footsoldier, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
 
-One in the Towerstruck lands.
+One in the [Towerstruck lands](Towerstruck_Lands.md).
 
-One near the teleporter to The Duke's Manor, on a ledge over a body of water.
+One near the teleporter to [The Duke's Manor](Duke_Ishamon_Erisia.md), on a ledge over a body of water.
 
-One in the Hidden Village.
+One in the [Hidden Village](The_Hidden_Village.md).
 
 #### **Divers vs Monster**
 
@@ -177,7 +177,7 @@ The first order is to use a mantra, the second order is to choose a clone that i
 
 ### **[Akira](Akira.md)**
 
-Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of Ignition Union soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
+Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
 The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 

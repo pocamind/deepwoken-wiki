@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 33657
+revid: 34951
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -167,3 +167,4 @@ Miscellaneous sounds found in _Deepwoken_.
 
 -   The Voidheart music was the music for Corvus Manor on the Isle of Crows.
 -   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
+-   A small part of "The Gideshu March" is used in "And Let Slip The Hounds of War" at 0:48

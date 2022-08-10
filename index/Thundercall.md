@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 34842
+revid: 34955
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -119,7 +119,6 @@ Lightning Strike
 -   Deals _possibly light_ damage.
 -   Can strike a total of 1-7 times, but can be cancelled by user damage.
 -   Spell can hit you, causing the spell to cancel itself midway.
--   Currently broken of 2/18/2022
 
  |
 |  | 
@@ -179,7 +178,7 @@ Lightning Stream
  | A stream of lightning. | Grapples onto an enemy and pulls them in.
 
 -   Stuns the opponent, allowing a chance to begin a combo.
--   Can be upgraded with a Blast Spark.
+-   Can be upgraded with a Blast Spark to deal extra damage and stop enemies but no longer pull them towards you.
 
  |
 |  | 
@@ -300,7 +299,7 @@ Grand Skewer
 
  | 
 
-Grand Javelin now carries opponents with it through the skies.
+Grand Javelin now carries opponents with it through the skies.(Press F while casting to activate)
 
 (Legendary)
 
@@ -604,7 +603,6 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
--   The Support Mantra _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Proof of Lightning cloak([https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png](https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png))
