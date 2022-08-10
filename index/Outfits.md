@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34931
+revid: 34975
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -1688,6 +1688,7 @@ Grants a random buff.
 
 ## Trivia/Notes
 
+-   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   Arch confirmed that there are **5** master outfits. ~So far, only 4 outfits have been found.~
     -   This is no longer the case since all 5 have been found and the first statement needs proof because there is still an Insignia Gem. Future updates might change this.
