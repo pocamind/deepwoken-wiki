@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 18823
+revid: 35067
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,9 +20,11 @@ If you have a large sum of notes it is recommended to buy a large ship such as t
 
 The Shipwright
 
-**As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), for example, Etris and Isle of Vigils. When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
+**As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), at Etris, Isle of Vigils, [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md) and [Greathive Aratel](Greathive_Aratel.md). When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
 
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
+
+(You can now respawn on any boat)
 
 | Image | Boat | Details |
 | --- | --- | --- |

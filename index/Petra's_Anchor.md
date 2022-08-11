@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 34674
+revid: 35074
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -39,3 +39,6 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 -   Or it could just... you know... be an anchor.
 -   No, it's a reference to Nautilus from League of Legends
 -   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).
+-   why on earth does a species of big ass dragons consistently consume anchors like is no one talking about that
+-   it makes sense for a few clothing items to be there if the dude ate someone he wouldve eaten the clothes along with them but how does a dragon accidentally eat an anchor
+-   he has 4 eyes. 4 of them. he has twice the vision of a human and somehow accidentally eats a fucking anchor

@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 34681
+revid: 35071
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -10,29 +10,47 @@ categories: [Resonance]
 
 | Gravity Field | |
 |---|---|
-| effect | Getting into the effect of this bell, the player will not be able to jump and will move slowly and attack. |
-| appearance | Purple hemisphere |
+| effect | Changes the gravity of all who are under the effect, changes the speed of attack, movement, disables mobility mantras, and also pushes inward when trying to get out. |
+| appearance | Transparent hemisphere with purple stroke and purple circle. |
+
+“ ??? ”
+
+― Gravity Field description
+
+  
 
 ## Description
 
-A field which is very difficult or near impossible to escape is placed down. If players try to hit the edge of the field, they will be ragdolled back inwards.
+**Gravity Field** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
-Useful to use when you know that your opponent is low and want to trap them to ensure their demise.
+### _Appearance_
 
-There are variants that are currently unknown.
+A transparent hemisphere that has a purple edging and a purple circle. The hemisphere shrinks over time.
 
 ## Usage
 
-Pressing C will activate the **Gravity Field** Resonance and its unique special skill
+Pressing C will activate **Gravity Field** Resonance.
+
+## Description
+
+When pressed, creates a hemisphere at the location of the resonance activation, from which it is very difficult or almost impossible to get out. Will decrease over time.
+
+The cooldown starts after setting the field and ends only after the action of the field is completely over.
+
+If someone touches the border of the field, he will be pushed back.
 
 ### _Resonance Point usage_
 
 When obtained, Gravity Field will spend its points on the following stats:
 
--   Jump power (either a positive or negative debuff)
--   Size
--   Cooldown
+-   **Gravity:** Determines whether the gravity will be reduced or increased (the jump will be lower or higher).
+-   **Size:** The more points spent on this stat, the larger the field size will be when it is created.
 
-## Trivia/Notes
+### _Corrupted_
 
--   The size of the bubble determines the duration.
+**Corrupted Gravity Field** has more points which means it has improved stats compared to normal gravity field.
+
+## Trivia
+
+-   The size of the field determines the duration of the resonance.
+-   Useful to use when you know your opponent is low and want to trap them to ensure their demise.

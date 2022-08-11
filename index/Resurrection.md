@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 35058
+revid: 35072
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,11 +29,11 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 ## Usage
 
-Pressing C will activate **Resurrection** Resonance. Has a 1 minute cooldown.
+Pressing C will activate **Resurrection** Resonance.
 
 Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self.
 
-During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health. Stacks with [Talents](Talents.md) and [Mantras](Mantras.md) like Polite Awakening. If not, then the star on the target will fade away and the resonance will not go on cooldown, the only exception is the resurrection of yourself (Note that resonance can only be activated twice on the same person, after that it will go on cooldown no matter what happens to the target). If the attack instant-grips then the resurrection will not trigger.
+During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health. Stacks with [Talents](Talents.md) and [Mantras](Mantras.md) like Polite Awakening. ~If not, then the star on the target will fade away and the resonance will not go on cooldown, the only exception is the resurrection of yourself (Note that resonance can only be activated twice on the same person, after that it will go on cooldown no matter what happens to the target)~ This resurrection has a rather strange cooldown system, currently being tested. If the attack instant-grips then the resurrection will not trigger.
 
 ### _Resonance Point usage_
 
