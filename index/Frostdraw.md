@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34948
+revid: 34982
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -133,6 +133,7 @@ _Swift bolts of frozen air._
 -   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
 -   Ice Beam is better.
+-   Use 2 stratus stones to turn it into a 5 shot burst gun.
 
  |
 | File:Ice Daggers.gif | 

@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 32004
+revid: 34985
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -44,6 +44,8 @@ The player can join The Divers, like a Guild. Finding Akira in the Celtor Wastes
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
 
 Note: don't mess with him
+
+Reputation reset diver: A diver found on the way to the hell mode bell who can reset your reputation with The Divers for notes.
 
 **Pleeksty**: Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
 
