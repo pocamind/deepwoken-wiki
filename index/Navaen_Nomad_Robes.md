@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 34983
+revid: 35037
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -35,6 +35,6 @@ This Outfit's Schematic can be found in:
 -   [Minityrsa](Minityrsa.md)
 -   [Summer company](Summer_Isle.md)
 
-## Trivia/Notes
+## Trivia
 
--   Navaen Nomads can be seen wearing this Outfit.
+-   Despite not appearing to be affiliated with the Nomads, Nanji wears this outfit.

@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 34744
+revid: 35046
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -8,12 +8,17 @@ categories: [Browse, Deepwoken Wiki, Rules, Community]
 
 # Rules
 
-## Violations
+## General
 
-The page contains rules and punishments for violating them. If you see another user violating one of these rules please contact an [administrator](https://deepwoken.fandom.com/wiki/Staff). **Staff members are not bound to only deal with these cases and may deal with the violation with their own judgment based on the circumstances**.
+This page contains a **set of rules** established by the local [Wiki Staff members](Wiki_Staff.md) that all users should follow to keep the [Wiki](Deepwoken_Wiki.md) in good shape and to maintain the safe environment it provides. Additionally to these rules, all users should abide by all **Fandom policies and reguations**. For each violation, there are **consequences**, which are listed below too.
 
--   If you believe your punishment is unfair and want an appeal, contact an [administrator](https://deepwoken.fandom.com/wiki/Staff) via message wall or on this wiki's [discord server](https://discordapp.com/invite/PFpqDWm5Pa).
--   Loopholing rules, meaning finding flaws in the rules and doing the flaws will land you an offence.
+Even though it is not mandatory, it's in your best interest to report a user who violates a rule. Wiki Staff members may decide to **carry out a lighter punishment** to anyone who has decided to **cooperate** with the violator or **hinder** the process of moderation.
+
+You may report violators by contacting a [Moderator](Moderators.md) or an [Administrator](Administrators.md) through their DMs, their message walls, our [Discord server](https://discord.com/invite/PFpqDWm5Pa) or any other communication channel they made available for the public (usually found on their profiles).
+
+You may appeal a punishment (if you deem it is not correct) by contacting an [Administrator](Administrators.md) the same way as cited above.
+
+Staff members are **not bound to only deal with these cases** and **may deal with the violation with their own judgment** based on the circumstances. **Loopsholes are to** **be reported** and **not abused**, abusing loopholes will result in a more **severe consequence**.
 
 ## **Level 1 Offense**
 

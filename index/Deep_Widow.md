@@ -1,24 +1,23 @@
 ---
 title: Deep Widow
-revid: 34896
+revid: 35047
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Deepwoken, Monster, Enemies, Boss]
+categories: [Monsters]
 ---
 
 # Deep Widow
 
-“ New Widow Cheese 🤓 ”
+“ The Giant Enemy Spider! ”
 
-― widow cheesing nerd
-
-  
+― Jerma
 
   
+Template:Creature Infobox V3
 
 ## Description
 
-Template:Creature Infobox V3 The **Deep Widow** is a giant enemy spider [Boss Monster](Bosses.md) that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
+The **Deep Widow** is a giant enemy spider [Boss Monster](Bosses.md) that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
 
 This Boss also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. If you break the door using a Mantra or Heavy Critical Attack, it leads you to the Widow. Behind the Deep Widow in the Depths is an NPC related to the Visionshaper [Oath](Oaths.md) talent.
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 32074
+revid: 35048
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Uses]
@@ -24,3 +24,4 @@ The Dark Feather is used in these recipes:
 -   [Authority Commander Uniform](Authority_Captain_Uniform.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
 -   [Hive Tactician Armor](Hive_Tactician_Armor.md)
+-   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md)

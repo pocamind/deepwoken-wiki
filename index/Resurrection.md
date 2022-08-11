@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 34971
+revid: 35058
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 “ Bless targeted allies on the battlefield that revives them when defeated. ”
 
-― Resurrection Description
+― Resurrection description
 
   
 
