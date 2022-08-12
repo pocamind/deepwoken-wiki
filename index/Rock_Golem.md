@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 34900
+revid: 35092
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -100,10 +100,6 @@ In combat, Primal Golems are very hardy having moderately high health, and high 
 | Name | Description |
 | --- | --- |
 | Crushing Stomp | A Primal Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. |
-
-**Passives**
-
--   **Rock Shell -** Golems have 25% Slash Resistance.
 
 ## Tips for fighting
 
