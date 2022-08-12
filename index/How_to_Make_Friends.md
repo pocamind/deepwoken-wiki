@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 34923
+revid: 35075
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Responses
 
-### Charisma 1-33
+### Charisma 1-34
 
 -   I don't have time for this...
 -   Ahah...

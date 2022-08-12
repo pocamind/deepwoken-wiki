@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 35073
+revid: 35080
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -40,7 +40,7 @@ able?
 
 -   **Disembowl** - The Dread Serpent effortlessly swings its claw to finish their prey.
 
-## Notes/Tips/Trivia
+## Notes/Tips
 
 -   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe.
 -   Spawns in large patches of floating bubbles.
@@ -48,6 +48,3 @@ able?
 -   You will only get hit if you are close to him, so keep your distance while behind him.
 -   Its general design appears to be a reference to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
 -   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
--   why on earth does a species of big ass dragons consistently consume anchors like is no one talking about that
--   it makes sense for a few clothing items to be there if the dude ate someone he wouldve eaten the clothes along with them but how does a dragon accidentally eat an anchor
--   he has 4 eyes. 4 of them. he has twice the vision of a human and somehow accidentally eats a fucking anchor

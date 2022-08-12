@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 34155
+revid: 35078
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords]
@@ -35,7 +35,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords
 
 ## Description
 
-Zweihänder is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md).
+Zweihänder is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md) and it can also be obtained at [Erisia](Erisia.md)
 
 Like any other greatsword you get hyper armor if you swing after a parry.  
 
