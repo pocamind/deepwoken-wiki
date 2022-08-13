@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 34839
+revid: 35105
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Boss, Monsters]
 
 # Primadon, Titan of the East
 
-“ I shall summon HARAMBE! ”
+“ Hey guys, what's with the guild of people with enchants and bells behind me? ”
 
-― Jonathan Talo before being annihilated by the Primadon
+― Esther Calico's last words at Monkey's Paw
 
   
 

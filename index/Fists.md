@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 34229
+revid: 35096
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -99,10 +99,7 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling Light Weapon Scaling anyway.
 -   Slide jumping with using the Way of Navae critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
--   A good fist user can counter heavy user. As they don't have the time to swing their weapon but don't be fooled, after all this game is very skill based (SKILL?). But most of the time, they will having a hard time just trying to land a hit on you.
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
--   The Way of Navae and Legion Kata fist styles are very difficult to obtain _consistently_ on low powers, while Jus Karita only requires a Power 12 character with the right attributes.
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists...
-    -   This is probably a bug and probably will get patched soon.
--   ~If you talk to the Nomad Camp Master as an Etrean without the hostage,~ he will say either the phrase "Ah, a homelander." or "Stay away from my people, I do not wish this to get violent." before ending the dialogue.
-    -   He will actually say this to you regardless of your race if you have neutral reputation with them.
+    -   This is probably a bug and probably will get patched soon
+-   If you have both fist styles you can switch between them quickly by pressing Y(Does not work with Jus Karita)

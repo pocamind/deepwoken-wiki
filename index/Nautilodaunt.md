@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 34845
+revid: 35109
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
+“ Stop hitting yourself! Stop hitting yourself! ”
 
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
+― Nautilodaunt, taunting Catria Zeneki as she literally dies on the floor being kicked to death
 
   
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_

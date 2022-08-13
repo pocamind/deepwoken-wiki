@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 34749
+revid: 35104
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -8,9 +8,9 @@ categories: [Boss, Enemies]
 
 # Duke Ishamon Erisia
 
-“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
+“ You call this resisting the Depths!? We call this a DIFFICULTY TWEAK! ”
 
-― Duke
+― Duke, moments before doing his crit.
 
 Template:EnemyInfobox1.0
 

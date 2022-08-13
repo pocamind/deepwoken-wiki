@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 33544
+revid: 35107
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters]
 
 # Lionfish
 
-“ This is the power of a released Espada... Cero Oscuras ”
+“ ASH LOOK BEHIND Y- ”
 
-― A Lionfish before instakilling a freshspawn in the depths
+― Tybalt Sokolof, warning Ash Talo about the Lionfish behind him that's about to one shot him
 
 _Commonly refered to as: Menos Grande_ Template:Creature Infobox V3
 

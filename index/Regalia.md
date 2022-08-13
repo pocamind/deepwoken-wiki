@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 33070
+revid: 35124
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -50,4 +50,4 @@ Another possible method is doing [Trial of One](Trial_of_One.md), and then wipin
 -   **Regalia are not random. This has been confirmed by developers.**
 -   There may be more Regalia, however only one has been found.
 -   Regalia are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
--   Regalia in Spanish means gift, perhaps hinting at how it is an invisible powerful boon that gives power to it's user.
+-   ~Regalia in Spanish means gift, perhaps hinting at how it is an invisible powerful boon that gives power to it's user.~ Regalia does _not_ mean gift in Spanish.

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 35088
+revid: 35106
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -62,9 +62,9 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 
 # King Thresher
 
-“ Come to Mama! ”
+“ The hell goin' on in Etris? ”
 
-― Corrupted King Thresher as it eats the 25th player for the day
+― Etris guard watching someone with Teleportation bring a King Thresher to the blacksmith
 
 _Also known as Big Mom, Big Croc, Mother Thresher, and many other names_
 

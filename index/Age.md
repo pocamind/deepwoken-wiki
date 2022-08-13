@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 35081
+revid: 35095
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -13,7 +13,7 @@ Age in Deepwoken is viewable by going to your stats menu. Your age increases eve
 ## Notes
 
 -   Some NPCs have dialogue depending on your age.
--   It is said that characters suffer from appearance changes the older they get depending on their race, such as getting wrinkles, the facial mark on [Celtors](Celtor.md) getting darker.
+-   It is said that characters suffer from appearance changes the older they get depending on their race, such as getting wrinkles, the facial mark on [Celtors](Celtor.md) getting lighter to match your hair color
     
 -   Your character can age in the character creation screen aswell
     
