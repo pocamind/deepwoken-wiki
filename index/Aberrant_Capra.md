@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 35121
+revid: 35125
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -24,7 +24,7 @@ The Aberrant Capra has many differences from the average Capra, most notably lac
 Those who are expecting must be within [the depths](The_Depths.md), exposed to its negative effects for a prolonged period of time.  
 It begins to alter the development of the child in their fetal stages."
 
-Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Capra, and is a lore character.
+Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Capra, and is a lore character. The reason behind the exclusivity of the race is due to the mutations caused by the depths leading to miscarriages or stillbirths, with only a very slim chance of surviving into adulthood in the rare case they're born alive.
 
 ## Trivia
 

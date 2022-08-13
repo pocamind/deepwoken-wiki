@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 35084
+revid: 35128
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -27,7 +27,7 @@ All Attributes can be improved up to 75 points but may be uncapped to 100 once y
 
 If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
 
-You can plan out a character to fit your needs here:[https://www.roblox.com/games/9671425923/Deepwoken-Stat-Calculator](https://www.roblox.com/games/9671425923/Deepwoken-Stat-Calculator)
+Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build)
 
 ### Strength
 
