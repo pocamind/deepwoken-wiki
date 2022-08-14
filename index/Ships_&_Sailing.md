@@ -1,8 +1,11 @@
 ---
 title: "Ships & Sailing"
-revid: 35164
+revid: 35172
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Stub pages without reason, StubPages]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Ships & Sailing
@@ -20,7 +23,7 @@ If you have a large sum of notes it is recommended to buy a large ship such as t
 
 The Shipwright
 
-**As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), at Etris, Isle of Vigils, [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), [Erisia](Erisia.md) beach, Hive beaches and [Greathive Aratel](Greathive_Aratel.md). When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
+**As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), at Etris, Isle of Vigils, [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), and [Greathive Aratel](Greathive_Aratel.md). When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
 
 Once a boat has been purchased and isn't destroyed, you can deploy a boat at any jettison post. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts can be found on the beaches of islands and appear as a small wooden post.
 
@@ -75,5 +78,3 @@ Lantern (Respawn Point)
 Lantern (Respawn Point)
 
  |
-
-**This page is not yet finished \[Work in Progress\]**

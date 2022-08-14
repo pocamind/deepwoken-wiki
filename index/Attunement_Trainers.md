@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 33514
+revid: 35173
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, NPC, Npc]
@@ -12,9 +12,9 @@ categories: [Pages with broken file links, NPCs, NPC, Npc]
 
 NPCs hidden around the map that level up spells for money. Each trainer will increase a mantra level by one depending on which element they train. (An ice trainer will level up ice elements, etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled up mantra will (double?) its damage. (and possibly change other stats too but untested)(Increase size of Ice Spike)
 
-A spell trainer **WILL NOT** train you if you do not have the element learned (An ice trainer needs some amount of points put into frostdrawer) or a mantra of the same elemental type as the trainer to upgrade (an ice trainer needs an ice mantra to level). If your character does not have any points into the element of the trainer, talking to them (assuming you have good karma) will result in quotes such as "you do not know of the wind". This means you need to find a way to unlock that element.
+A spell trainer **WILL NOT** train you if you do not have the element learned (An ice trainer needs some amount of points put into [Frostdraw](Frostdraw.md)) or a mantra of the same elemental type as the trainer to upgrade (an ice trainer needs an ice mantra to level).
 
-You can also learn different attunments in a cost of 5 elemental ingredients (ex- 5 Spark Gland for Thundercall) Unlocking said attunement is permanently unlocked and can be chosen when you get wiped. Trying to learn more than 2 elements will cause the trainers to deny you as you have picked another trainer, although, people have gotten 3 elements before or more by getting the blood potions all at once then drinking them, there is another way to get 3 elements at the same time without drinking the potions at once but it's not fully understood.
+You can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) Unlocking said attunement is permanently unlocked and can be chosen when you get wiped. Trying to learn more than 2 elements will cause the trainers to deny you as you have picked another trainer, although, people have gotten 3 elements before or more by getting the blood potions all at once then drinking them, there is another way to get 3 elements at the same time without drinking the potions at once but it's not fully understood.
 
 ## List of Trainers
 
@@ -64,5 +64,3 @@ You can also learn different attunments in a cost of 5 elemental ingredients (ex
 </tr>
 </tbody>
 </table>
-
-NOTE: These are not all the trainers

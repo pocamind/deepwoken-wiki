@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35162
+revid: 35170
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -257,6 +257,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Agility
     -   Mutually Exclusive: Risky Moves
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility
     -   User is covered in a blue outline when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
     -   Mutually Exclusive: Observation, Safety Dance
@@ -633,6 +634,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Ice Age
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
+    -   Ice Mantras cost 40% less ether if casted while standing on ice.
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity, +3 Health)
