@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 35120
+revid: 35159
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -24,7 +24,11 @@ _This is not an entirely different race in and of itself, more so a racial varia
 
 Primal Vesperians do not play a significant role in the lore, though they did exist, and have some brief lore behind them.
 
+Emblem of the Primal Vesperian clan Stag was a part of (Made by Nuttoons)
+
 Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md). They eventually died off as a group leaving one sole surviving member, with this member being Stag Acrossus.
+
+Not much is known of Stag's past, but what we do know is that they have been granted immortality via unnatural means, perhaps chosen by some wayward or depthsbound god? Dark runes cover Stag's forearms and constantly emit a shadowy mist, he covers these marks with inscribed wraps. It's said that after he first gained whatever power he was granted that he served under the ministry for a short period, but after witnessing their wicked prophecies he quickly abandoned their cause and returned to the Hive as a sort of ambassador.
 
 <table>
 <tbody>

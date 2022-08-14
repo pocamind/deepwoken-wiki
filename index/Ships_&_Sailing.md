@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 35087
+revid: 35164
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,15 +16,17 @@ Boats and ships are the main method of transportation in Deepwoken which is used
 -   Frigate
 -   Ironclad
 
-If you have a large sum of notes it is recommended to buy a large ship such as the Merchant Schooner due to it having cannons and Lantern (which works as a campfire and respawn point) which will be useful during your travel into the Aratel Sea and Voidsea. You earn a decent amount of respect from other players if you use large ships like Sloop and above.
+If you have a large sum of notes it is recommended to buy a large ship such as the Merchant Schooner due to it having cannons and Lantern (which works as a campfire and respawn point for members of your guild) which will be useful during your travel into the Aratel Sea and Voidsea.
 
 The Shipwright
 
 **As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), at Etris, Isle of Vigils, [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), [Erisia](Erisia.md) beach, Hive beaches and [Greathive Aratel](Greathive_Aratel.md). When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
 
+Once a boat has been purchased and isn't destroyed, you can deploy a boat at any jettison post. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts can be found on the beaches of islands and appear as a small wooden post.
+
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
-(You can now respawn on any boat)
+You can respawn on any boat, given that you haven't been sent to the depths.
 
 | Image | Boat | Details |
 | --- | --- | --- |

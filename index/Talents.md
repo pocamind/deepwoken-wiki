@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 34968
+revid: 35162
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -802,6 +802,8 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 Improves buying items from merchants.
 
 -   Art of the Deal \[Common Talent\] - Your rapport with merchants gives you lower prices!
+    -   Reduces an item's price by about 12%.
+    -   Can be obtained by equipping an Aristocrat Coat, which can be found in [Summer Isle](Summer_Isle.md)
 
 ### Metamancer
 
