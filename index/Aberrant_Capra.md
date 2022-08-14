@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 35125
+revid: 35141
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -29,3 +29,5 @@ Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Cap
 ## Trivia
 
 -   The current design of the Aberrant Capra marks a possible redesign for the Capra race as a whole, according to TheRealPunchee's [video on it](https://www.youtube.com/watch?v=6pQsohP3Ois).
+-   The 'Sir' isn't canon, and is just filler as the system doesn't allow for one of the name slots to be blank.
+-   The original name was Draconian, but was shot down for not making lore sense.

@@ -1,11 +1,15 @@
 ---
 title: Authority Commander (Enemy)
-revid: 34976
+revid: 35144
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Commander (Enemy)
+
+“ Better scramble like an egg before you get folded like an omelet- ”
+
+― Famous last words of an Authority Warden after the 8/01/2022 update
 
 Template:EnemyInfobox1.0
 
