@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 35179
+revid: 35184
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -19,7 +19,7 @@ Boats and ships are the main method of transportation in Deepwoken which is used
 -   Frigate
 -   Ironclad
 
-If you have a large sum of notes it is recommended to buy a large ship such as the Merchant Schooner due to it having cannons and Lantern (which works as a campfire) which will be useful during your travel into the Aratel Sea and Voidsea.
+If you have a large sum of notes, it is recommended to buy a large ship such as the Merchant Schooner due to it having cannons and Lantern (which works as a campfire) which will be useful during your travel into the Aratel Sea and Voidsea.
 
 The Shipwright
 
