@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 34277
+revid: 35180
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -56,7 +56,7 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 ## Trivia
 
 -   Technically the most powerful and hard-hitting enemy in the entire game when fought directly.
--   Hive Constructs will be aggressive against you if your reputation with [The Hive](The_Hive.md) is **positive** or **pure-neutral**. Accordingly, they will be hostile to you if you have **negative reputation**, regardless of Animal King.
+-   Rogue Hive Constructs will be aggressive against you if your reputation with [The Hive](The_Hive.md) is **positive** or **pure-neutral**. Accordingly, regular constructs will be hostile to you if you have **negative reputation**, regardless of Animal King.
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
