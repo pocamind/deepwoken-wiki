@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 33326
+revid: 35202
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -18,25 +18,25 @@ Template:NPC name
 
 Antiquarians are NPCs that purchase certain items. They are typically your main source of [Notes](Notes.md).
 
-They can be found in the Surface in:
+They can be found on the Surface in:
 
--   [Isle of Vigils](Isle_of_Vigils.md)
--   [Etris](Etris.md)
+-   [Isle of Vigils](Isle_of_Vigils.md)(right next to the banker)
+-   [Etris](Etris.md)(right behind the lumberjack quest)
 -   [Greathive Aratel](Greathive_Aratel.md)
--   [Summer Isle](Summer_Isle.md)
+-   [Summer Isle](Summer_Isle.md)(just to the right of the gun seller)
 -   [Fort Merit](Fort_Merit.md)
 
 ## Prices
 
-Antiquarians can buy weapons, gems and other items for [Notes](Notes.md). These can be improved greatly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md).
+Antiquarians can buy weapons, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md). How ever, the amount of stars that are on an item does not change the items value.
 
 **Gems:**
 
 | **Item** | **Price** |
 | --- | --- |
-| Sapphire | 4 |
 | Amethyst | 5 |
 | Ruby | 6 |
+| Sapphire | 7 |
 | Emerald | 7 |
 | Gold Bar | 7 |
 | Platinum Bar | 18 |
@@ -46,6 +46,8 @@ Antiquarians can buy weapons, gems and other items for [Notes](Notes.md). These 
 
 | **Item** | **Price** |
 | --- | --- |
+| Steel Maul | 7 |
+| Messer | 7 |
 | Sword | 10 |
 
 **Items:**
