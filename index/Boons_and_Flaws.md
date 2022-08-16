@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35237
+revid: 35243
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -76,7 +76,7 @@ Start with the talent "Deepbound Contract":
 Can be obtained by talking to Akira in Castle Light (probably requires joining The Divers)
 
  | 2 |
-| Blind | TBA | TBA | TBA |
+| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. | 1 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 

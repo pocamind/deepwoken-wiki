@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 35148
+revid: 35240
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 ### Mechanics
 
-Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation within the territories of Etrean and [Aratel](The_Aratel_Sea.md) Seas. It can be more easily increased using various [Charisma](Attributes.md#charisma) talents.
+Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation. It can be more easily increased using various [Charisma](Attributes.md#charisma) talents.
 
 ### Determining Reputation
 

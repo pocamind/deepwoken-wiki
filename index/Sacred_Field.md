@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 35070
+revid: 35245
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -37,8 +37,9 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 When obtained, Sacred Field will spend its points on the following stats:
 
--   **Physical Armor:** The more points are spent on this stat, the more resistant to physical damage the user become.
--   **Elemental Armor:** The more points are spent on this stat, the more resistant to elemental damage the user become.
+-   **Resistance type:** Decides the type of resistance that will be used.
+    -   Physical resistance reduces damage from physical attacks (example: m1, critical, etc.)
+    -   Elemental resistance reduces damage from magical attacks (example: [Lionfish](Lionfish.md) beam, mantras, etc.)
 -   **Range:** The more points are spent on this stat, the larger the area covered by the resonance is.
 -   **Duration:** The more points are spent on this stat, the longer the resonance last.
 -   **Color:** A free stat. Changes the color of the field, colors include yellow, blue, purple, red, orange and green.

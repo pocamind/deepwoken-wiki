@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 31585
+revid: 35242
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -184,6 +184,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 > For guns we forge and bullets make, Leave fire in our wake - We work for the Summer Company!
 > 
 > We're workers of Summer Company, We work for the Summer Company...
+> 
+> -   From the description of Summer Company music on Naktigonis' YouTube channel.
 
 ### Tale of the Storm
 
@@ -518,6 +520,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 > * * *
 > 
 > The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
+> 
+> From the description of The Gideshu March on Naktigonis' YouTube channel.
 
 ### The Hammer's Call
 
