@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 34946
+revid: 35214
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -404,6 +404,17 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
+  <td>0 MED</td>
+  <td>18</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>MED: 2</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td><a href="False_Memory.md">False Memory</a></td>
   <td>0 MED</td>
   <td>18</td>
   <td>N/A</td>

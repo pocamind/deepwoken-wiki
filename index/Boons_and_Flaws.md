@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35212
+revid: 35213
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -111,6 +111,6 @@ The flaw is only obtainable by wishing through a developer, which it will grant 
     -   Marauder is great for obtaining rare/legendary cards faster, but is usually a waste of a boon, as the improved luck gain is negligible and would only need an extra player or two to make up for the difference. Also becomes useless once you reach power 60.
     -   Maverick's exp boost is a nice bonus, but is too poor to be viable and is negated by playing with some friends. Also becomes useless once you reach power 60.
     -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long lasting boon like Survivalist, Gourmet or Steadfast.
-    -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Ironblood Spirit. Feel free to take it if you want to omit the talent however.
+    -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Bloodiron Spirit. Feel free to take it if you want to omit the talent however.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons.
