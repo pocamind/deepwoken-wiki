@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 34943
+revid: 35204
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -129,7 +129,7 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 Just some information to keep in mind and remember.
 
--   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
+-   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character ~kills themselves~ (Correction: Your character doesnt die when you reach max insanity). Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
     -   Blindseer most likely doubles or even triples the time you can stay in the depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.
@@ -269,6 +269,7 @@ Legendary = Gold
 
 ## **Trivia**
 
+-   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   You can gain luck by killing corrupted [Monsters](Monsters.md) in the Depths.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.

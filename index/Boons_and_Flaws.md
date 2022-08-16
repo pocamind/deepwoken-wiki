@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 34827
+revid: 35212
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -62,6 +62,19 @@ Count as 2 flaws, cannot be taken with another flaw.
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
+| Deepbound | "Your very soul is in eternal contract with The Depths. Gain talent 'Deepbound Contract'." | Spawn at Castle Light, in The Depths
+
+Start with the Diver Apprentice armor
+
+Start with tha talent "Deepbound Contract":
+
+-   EXP gain increased in The Depths
+-   EXP gain reduced in the overworld
+-   Castle Light restore Sanity
+-   The Enforcer will always be fought in the Depth Trial
+
+ | 2 |
+| Blind | TBA | TBA | TBA |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 
