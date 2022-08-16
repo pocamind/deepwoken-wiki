@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 35225
+revid: 35227
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -43,3 +43,4 @@ The False Memory is a near exact replica of the basic [Sword](<Sword_(weapon).md
 -   It is possible that the False Memory may reflect the appearance and stats of any of the base weapons, though that theory is currently untested.
 -   The weapon has a low chance to be blessed with one of the many [Enchantments](Enchantments.md) when pulling it from the Hippocampal Pool, and can be soulbound to the player.
 -   Author's note: I actually have no idea how I got it, just kind of happened one time.
+-   You bring the false memory weapon to the overworld if you last wind after pulling the sword from the pool.

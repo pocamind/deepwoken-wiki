@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 34311
+revid: 35234
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,18 +11,18 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Etrean Guard is a enemy NPC that can only be found in the following events:
+An Etrean Naval Guard is a enemy NPC that can only be found in the following events:
 
--   Etrean Guards vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
--   Etrean Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
+-   Etrean Naval Guards vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Naval Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
--   Etrean Guards vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Naval Guards vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 
-An Etrean Guard wears a purple uniform with their race being an [Etrean](Etrean.md) and their gender varying. They also can appear younger or older than 40 years old.
+An Etrean Naval Guard wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They also can appear younger or older than 40 years old.
 
 ## Moveset
 
-An Etrean Guard's arsenal only consists of a [Battleaxe](Battleaxe.md):
+An Etrean Naval Guard's arsenal only consists of a [Battleaxe](Battleaxe.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ An Etrean Guard's arsenal only consists of a [Battleaxe](Battleaxe.md):
 
 ## Finisher
 
-An Etrean Guard executes it's opponent after knocking them:
+An Etrean Naval Guard executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

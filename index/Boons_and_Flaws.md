@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35213
+revid: 35237
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -66,12 +66,14 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 Start with the Diver Apprentice armor
 
-Start with tha talent "Deepbound Contract":
+Start with the talent "Deepbound Contract":
 
 -   EXP gain increased in The Depths
 -   EXP gain reduced in the overworld
 -   Castle Light restore Sanity
 -   The Enforcer will always be fought in the Depth Trial
+
+Can be obtained by talking to Akira in Castle Light (probably requires joining The Divers)
 
  | 2 |
 | Blind | TBA | TBA | TBA |
@@ -113,4 +115,4 @@ The flaw is only obtainable by wishing through a developer, which it will grant 
     -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long lasting boon like Survivalist, Gourmet or Steadfast.
     -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Bloodiron Spirit. Feel free to take it if you want to omit the talent however.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.
--   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons.
+-   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can be obtained as of the 16/08/22 through unlocking.
