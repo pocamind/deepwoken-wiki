@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 35182
+revid: 35296
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -187,3 +187,4 @@ Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to 
 -   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occurred when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
 -   Contrary to popular belief, Blessed versions of Resonances DO NOT exist.
 -   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.
+-   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne

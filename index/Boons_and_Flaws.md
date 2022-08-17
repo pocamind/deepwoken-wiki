@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35243
+revid: 35288
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -71,9 +71,9 @@ Start with the talent "Deepbound Contract":
 -   EXP gain increased in The Depths
 -   EXP gain reduced in the overworld
 -   Castle Light restore Sanity
--   The Enforcer will always be fought in the Depth Trial
+-   The Enforcer will always be fought in the Depth Trial You cannot do the Trial of One (I tested)
 
-Can be obtained by talking to Akira in Castle Light (probably requires joining The Divers)
+Can be obtained by talking to Akira in Castle Light (you do not have to join The Divers, you just need to talk enough to get the prompt)
 
  | 2 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. | 1 |

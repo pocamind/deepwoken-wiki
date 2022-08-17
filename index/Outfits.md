@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 34975
+revid: 35299
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -452,7 +452,7 @@ Cosmetic
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
-Blindfold
+[Blindfold](Blindfold.md)
 
  | 
 
@@ -461,7 +461,7 @@ _\+ Talent: Blinded_
  | Erisia Chests | White |
 |  | 
 
-Black Blindfold
+[Black Blindfold](Blindfold.md)
 
  | 
 
@@ -470,7 +470,7 @@ _\+ Talent: Blinded_
  | Arena Chests | Default |
 |  | 
 
-Crimson Blindfold
+[Crimson Blindfold](Blindfold.md)
 
  | 
 

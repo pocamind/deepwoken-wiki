@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35170
+revid: 35261
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1034,9 +1034,9 @@ These Talent are meant to make maintaining your ship easier.
 
 -   A World Without Song \[Galebreathe Exclusive, Legendary Talent\] Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
-    -   Note that the requirement for this talent is ~75~ _friend got it with 61_ galebreath and Silencer's Edge, it is not required to be uncapped as has been proven.
+    -   Prerequisite: Silencer's Edge, 75 Galebreath, Power 25
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
-    -   Requires power 40 and a good ammount of galebreath. It's equal to or lower than 75, but I haven't tested it thoroughly.
+    -   A World Without Song
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
 ### Singer
