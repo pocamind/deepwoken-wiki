@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 35124
+revid: 35372
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -13,7 +13,7 @@ categories: [D]
 To obtain a Regalia, the player must:
 
 1.  Perform certain task related to the Regalia the player wants to unlock
-2.  Wipe (_this is not true i have proof of an animal king slot with 0 wipes)_
+2.  Wipe
 
 The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
 
@@ -39,7 +39,7 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 -   Progress toward a regalia might be saved between wipes.
 
-So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% (although according to my experience it is more like 3%) chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)
+So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)
 
 Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times
 

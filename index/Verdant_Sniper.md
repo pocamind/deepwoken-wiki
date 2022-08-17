@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 32716
+revid: 35374
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -31,4 +31,4 @@ This Outfit's Schematic can be found at:
 
 ## Trivia/Notes
 
--   Player notes here
+-   Drippy collar, similar to the Prophet's Cloak
