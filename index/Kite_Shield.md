@@ -1,9 +1,9 @@
 ---
 title: Kite Shield
-revid: 32672
+revid: 35361
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Weaponry, Items, Shields]
 ---
 
 # Kite Shield

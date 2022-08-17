@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 35295
+revid: 35304
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

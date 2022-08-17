@@ -1,12 +1,12 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 17688
+revid: 35370
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Big Alchemist's Hat
 
-+[Talent](Talents.md): Pitcher  
-+20 [Reservoir](Reservoir.md)  
-+Talent: Apothecary,
+Template:ArmorInfobox
+
+The Big Alchemist’s Hat is a _Helmet_ item in Deepwoken. It is primarily used for its guaranteed talents rather than its stats.
