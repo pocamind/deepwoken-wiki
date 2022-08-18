@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 35236
+revid: 35389
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -22,7 +22,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 
 -   You do not drop enchanted items on death.
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
--   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
+-   Equipping an enchanted weapon or equipment will make it soul-bound to you. A soul-bound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted items appear as light purple in your inventory
 -   Face, Ears and Back equipment cannot be enchanted
@@ -373,12 +373,12 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 -   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
     
-    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you dont grip one person per day will be absorbed into the blade.
+    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day will be absorbed into the blade.
 -   Enchanted Hero Blades were in the game before they were removed.
 
 ## Name Change
 
--   Curse of the Umbral Knight > Umbral Knight
--   Bungee Gum > Elastic
--   Combustion > Blazing
--   Hero > Heroism
+-   Curse of the Umbral Knight, > Umbral Knight
+-   Bungee Gum, > Elastic
+-   Combustion, > Blazing
+-   Hero, > Heroism

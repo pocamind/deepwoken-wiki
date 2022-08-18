@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 34925
+revid: 35420
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -84,7 +84,11 @@ Shadow Chains
 Shadow Eruption  
 (★☆☆)
 
- | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable. |
+ | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable.
+
+-   Unaffected by Glass & Magnifying Stones.
+
+ |
 |  | 
 
 Shadow Seekers  

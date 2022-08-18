@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 35299
+revid: 35407
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -88,7 +88,7 @@ All armor pieces, when obtained, will roll for random stats. These stats are dis
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Herbalist's Hat.png | 
-Herbalist's Hat
+[Herbalist's Hat](<Herbalist's_Hat.md>)
 
  | 
 
@@ -102,7 +102,7 @@ _\+ Talent: Herbivore_
  | Depths Chests | N/A |
 | File:Big Herbalist's Hat.png | 
 
-Big Herbalist's Hat
+[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
 
  | 
 
@@ -116,7 +116,7 @@ _\+ Talent: Herbivore_
  | Hive Chests | N/A |
 | File:Alchemist Hat.png | 
 
-Alchemist's Hat
+[Alchemist's Hat](<Alchemist's_Hat.md>)
 
  | 
 
@@ -129,7 +129,7 @@ _\+ Talent: Pitcher_
  | Depths Chests | N/A |
 | File:AlchemistHat.png | 
 
-Big Alchemist's Hat
+[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
 
  | 
 
@@ -142,7 +142,7 @@ _\+ Talent: Pitcher_
  | Hive Chests | N/A |
 | File:GreyGumshoeHat.png | 
 
-Gumshoe Hat
+[Gumshoe Hat](Gumshoe_Hat.md)
 
 (Series)
 
@@ -153,7 +153,7 @@ Grants a random buff.
  | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
 | File:Static-assets-upload10220259416551286672.png | 
 
-Strapped Hat
+[Strapped Hat](Strapped_Hat.md)
 
 (Series)
 
@@ -166,7 +166,7 @@ _+Talent: The Exterminator_
  | Depths Chests | Black & Double (Work in Progress) |
 | File:Investigator's Hat.png | 
 
-Investigator's Hat
+[Investigator's Hat](<Investigator's_Hat.md>)
 
  | 
 
@@ -177,7 +177,7 @@ _+Talent: Diplomat_
  | Aratel Island Chests | N/A |
 |  | 
 
-Ten-Gallon Hat
+[Ten-Gallon Hat](Ten-Gallon_Hat.md)
 
  | 
 
@@ -186,7 +186,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 | File:Tophat.png | 
 
-Tophat
+[Tophat](Tophat.md)
 
  | 
 
@@ -195,7 +195,7 @@ Cosmetic
  | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Static-assets-upload12843990363310254802.png | 
 
-Brigand's Bicorn
+[Brigand's Bicorn](<Brigand's_Bicorn.md>)
 
  | 
 
@@ -206,7 +206,7 @@ _+Talent: Spare Nails, Emergency Repairs_
  | Depths Chests | N/A |
 |  | 
 
-Vagabond's Bicorn
+[Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
 
  | 
 
@@ -229,7 +229,7 @@ _\+ 4% Stealth_
  | Summer Isle Chests, Depths Chests | Black & Brown |
 | File:Deepwoken hood.jpg | 
 
-Deepwoken Hood
+[Deepwoken Hood](Deepwoken_Hood.md)
 
  | 
 
@@ -238,7 +238,7 @@ Grants a random buff.
  | Fort Merit Chests, Depths Chests | N/A |
 | File:VigilHood.png | 
 
-Assassin's Hood
+[Assassin's Hood](<Assassin's_Hood.md>)
 
  | 
 
@@ -251,7 +251,7 @@ _+Talent: Assassin_
 
  | 
 
-Vigil Hood
+[Vigil Hood](Vigil_Hood.md)
 
  | 
 
@@ -260,7 +260,7 @@ Grants a random buff.
  | Hive Chests, Depths Chests | N/A |
 | File:Static-assets-upload321884259233421803.png | 
 
-Dark Cowl
+[Dark Cowl](Dark_Cowl.md)
 
  | 
 
@@ -272,7 +272,7 @@ _\+ 4% Stealth_
  | Artifact Turn-ins, Depths Chests | N/A |
 | File:Authorityhelm.png | 
 
-Authority Helm
+[Authority Helm](Authority_Helm.md)
 
  | 
 
@@ -285,7 +285,7 @@ _+Talent: Strong Hold_
  | Authority Enemies & Hive Chests | N/A |
 | File:Barrel Helmet.png | 
 
-Barrel Helm
+[Barrel Helm](Barrel_Helm.md)
 
  | 
 
@@ -298,7 +298,7 @@ Grants a random buff.
 
  | 
 
-Blackleaf Helm
+[Blackleaf Helm](Blackleaf_Helm.md)
 
  | 
 
@@ -311,7 +311,7 @@ Grants a random buff.
 
  | 
 
-Blacksteel Helm
+[Blacksteel Helm](Blacksteel_Helm.md)
 
  | 
 
@@ -326,7 +326,7 @@ File:Captainskabuto.png
 
  | 
 
-Captain's Kabuto
+[Captain's Kabuto](<Captain's_Kabuto.md>)
 
  | 
 
@@ -335,7 +335,7 @@ Grants a random buff.
  | (Work in Progress) | N/A |
 | File:Feathertop Helm.png | 
 
-Feathertop Helm
+[Feathertop Helm](Feathertop_Helm.md)
 
  | 
 

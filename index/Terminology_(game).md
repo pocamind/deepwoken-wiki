@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 21492
+revid: 35414
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -13,6 +13,8 @@ notices:
 
 The following article contains a glossary for general game terms related to _Deepwoken_.
 
+  
+
 ## General Terms
 
 ### Corrupted (Cursed)
@@ -24,7 +26,18 @@ _adjective_
 
 Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
-  
+### Chime
+
+_noun_
+
+1.  A shortened version of "[Chime of Conflict](Chime_of_Conflict.md)".
+
+### Boosted
+
+_adjective_
+
+1.  A name typically given to players that typically get powerful/enchanted items to use by friends, and tend to act like assholes towards other players despite their usually lower than average skill level.
+    1.  "I just killed some boosted trash when they tried to gank me earlier"
 
 ## Combat Terms
 
@@ -86,7 +99,7 @@ _verb_
 
 1.  To get gripped/executed in The Depths; erasing the current character slot.
 
-## Acryonyms
+## Acronyms
 
 ### HVY
 
@@ -115,6 +128,8 @@ _noun_
 
 1.  Armor penetration.
     1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armor value.
+
+  
 
 ## For Editors
 

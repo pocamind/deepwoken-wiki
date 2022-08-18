@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 35386
+revid: 35415
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,8 @@ Template:EquipmentStats
 
 ## Description
 
-The Big Herbalist's Hat, is an equipment you can find in Starswept Valley, equipping this item will give you the
+The Big Herbalist's Hat is a _helmet_. Equipping this item will give you the [Iron Gut](Talents.md) and [Herbivore](Talents.md) talents, along with random placeholder stats.
 
 ## Notes
 
-The Herbalist Hat and Big Herbalist Hat, are stat wise, the same, and only differ in appearance
+The Herbalist Hat and Big Herbalist Hat are stat wise the same and only differ in appearance.
