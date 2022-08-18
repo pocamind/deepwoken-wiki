@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 32606
+revid: 35461
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -12,7 +12,7 @@ categories: [Sailing]
 
 ## Description
 
-Sailing is a crucial part to Deepwoken, you cannot cross the sea without a [boat](Ships_&_Sailing.md). The sea has many threats, including Whirlpools, Lionfish, Giant Sea Dragons (Kaido) and the eternal Void.
+Sailing is a crucial part to Deepwoken, ~you cannot cross the sea without a [boat](Ships_&_Sailing.md)~ Not Technically True as you can Swim (assuming you have enough food) or Use some mantra's. The sea has many threats, including Whirlpools, Lionfish, Giant Sea Dragons (Kaido) and the eternal Void.
 
 ## Sailing the High Seas
 
@@ -74,5 +74,4 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
     -   (Assumption) The Ironclad is the only boat to ignore this rule (Since it's steam powered)
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is a Ironclad, the side lining would change instead.
-    -   ~And please, don't pick pink/peach. It looks like you hooked up parchments of your panties to the sail~
 -   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats.

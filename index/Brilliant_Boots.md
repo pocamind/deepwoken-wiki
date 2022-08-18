@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 35449
+revid: 35454
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,8 @@ Template:EquipmentStats
 
 ## Description
 
-Brilliant Boots are a pair of accessories under the "Boots" category. They can only be found in [Songseeker Wilds](Songseeker_Wilds.md).
+Brilliant Boots are accessories under the "Boots" category.
 
 ## Appearance
 
-Each pair of Brilliant Boots are coated in dark blue with gold linings and edges carved on the front. As for the back, nothing but the sole of the boots are covered.
+They are coated in dark blue with gold linings and edges carved on the front. As for the back, nothing but the sole of the boots are covered.

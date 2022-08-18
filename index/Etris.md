@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 34807
+revid: 35452
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -273,3 +273,4 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
+-   Most ganks/guild wars happen here.

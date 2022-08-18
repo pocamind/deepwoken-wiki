@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 35436
+revid: 35451
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -114,6 +114,7 @@ notices:
 -   Erisia may be based on the Nameless God's island from _Salt and Sanctuary._
 -   The _Legendary Boot_ is an interactive boot found on the island of Erisia, up the waterfall. Attempting to wear the boot will produce different results depending on where the player is on their progression.
     -   Spoiler: You cannot wear the boot. It is simply too small for your feet.
+-   The Hundredth Legion faction is possibly referencing to Roman Empire, due to it having common things like: Centurion and Legionnaires rankings, similar armor plates and that.
 
 ### **The Depths**
 
