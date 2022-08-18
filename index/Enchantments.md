@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 35389
+revid: 35435
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
@@ -378,7 +378,7 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 
 ## Name Change
 
--   Curse of the Umbral Knight, > Umbral Knight
--   Bungee Gum, > Elastic
--   Combustion, > Blazing
--   Hero, > Heroism
+-   Curse of the Umbral Knight > Umbral Knight
+-   Bungee Gum > Elastic
+-   Combustion > Blazing
+-   Hero > Heroism
