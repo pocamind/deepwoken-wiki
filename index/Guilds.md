@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 35417
+revid: 35533
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World]
@@ -26,6 +26,6 @@ Members of a guild including its leader will stay in their guild after death. Cu
 
 ## Notes
 
--   There is a guild that players can actually join by talking to an NPC: [The Divers](The_Divers.md), this guild is joinable by talking to Akira in the Celtor Wastlelands and then travelling to Castle Light and ask him to join. This currently provides players with nothing more than status but that has been confirmed to change in future updates.
+-   There is a guild that players can actually join by talking to an NPC: [The Divers](The_Divers.md), this guild is joinable by talking to Akira in the Celtor Wastlelands and then travelling to Castle Light and ask him to join. ~This currently provides players with nothing more than status but that has been confirmed to change in future updates.~ The account you join the divers on obtains the Deepbound flaw.
 -   If a Guild Leader leaves the Guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership.
 -   Guild outposts are confirmed and are dropping soon.

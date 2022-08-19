@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 33984
+revid: 35530
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,14 +21,29 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Grand Javelin | User throws a spear of lightning in front of them.
+| 
+Assault
+
+ | \[[Champion's Sword](<Champion's_Sword.md>)\] Firmly swings blade at opponent and finishing up the combo by kicking them.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
+
+\[[Fists](Fists.md)\] Firmly pummels opponent and finishing up the combo by kicking them.
+
+ | ◯ | ◯ | (★☆☆) |
+| 
+
+Grand Javelin
+
+ | User throws a spear of lightning in front of them.
+
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 
  | ◯ | ✗ | (★★★) |
 
 ### Boons
 
--   Grand Skewer - Grand Javelin now carries opponents with it through the skies.
+-   Grand Skewer - A Legion Sniper's "Grand Javelin" mantra carries opponents with it through the skies.
 
 ## Tips
 

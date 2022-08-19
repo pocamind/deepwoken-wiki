@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 35454
+revid: 35519
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,4 @@ Template:EquipmentStats
 
 ## Description
 
-Brilliant Boots are accessories under the "Boots" category.
-
-## Appearance
-
-They are coated in dark blue with gold linings and edges carved on the front. As for the back, nothing but the sole of the boots are covered.
+Brilliant Boots are accessories under the "Boots" category. They can be found through chests in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md) & [Minityrsa](Minityrsa.md).

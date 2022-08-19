@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 35394
+revid: 35509
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,10 +11,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― Vesperian Royal Pathfinder to his friend
 
-  
-Template:ArmorInfoboxThe Royal Pathfinder is an Arms type of Armor that is found in chests from the Starswept Valley. This armor requires a power level of 30 in order to equip.
+Template:EquipmentStats
 
-  
+## Description
+
+The Royal Pathfinder is an Arms type of Armor that is found in chests from [Starswept Valley](The_Starswept_Valley.md). This armor requires a **Power Level** of **30** in order to equip.
 
 ## Trivia
 

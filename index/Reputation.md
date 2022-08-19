@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 35240
+revid: 35528
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -77,15 +77,27 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 
 | Image | Faction | Description | Location |
 | --- | --- | --- | --- |
-| File:Screenshot 2021-12-24 222420.jpg | File:EtreaSymbol.png
+| 
+File:Screenshot 2021-12-24 222420.jpg
+
+ | 
+
+File:EtreaSymbol.png
+
 [The Kingdom of Etrea](Etrea.md)
 
  | **Nerin**: Removes hostilities with Etrean and Vigil guards | Outside a house in the area above the Etris Antiquarian and near Frostdrawer Nell's house. |
-| File:Screenshot 2021-12-24 221619.jpg | File:SummerCompanySymbol.png
+| 
+
+File:Screenshot 2021-12-24 221619.jpg
+
+ | 
+
+File:SummerCompanySymbol.png
 
 [Summer Company](The_Summer_Company.md)
 
- | **Nepo**: Removes hostilities with the Summer Company. | In the archway reached by going across a series of bridges behind the Summer Isle Castle. |
+ | **Nepo**: Removes hostilities with the Summer Company. | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
 | 
 
 File:Zirik.png
@@ -94,17 +106,25 @@ File:Zirik.png
 
 [The Hive](The_Hive.md)
 
- | **Zirik**: Removes hostilities with the Greathive Aratel guards | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
-| File:Rashet.png | 
+ | **Zirik**: Removes hostilities with the Greathive Aratel guards. | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
+| 
+
+File:Rashet.png
+
+ | 
 
 [The Authority](The_Central_Authority.md)
 
- | **Rashet**: Removes negative reputation with Fort Merit guards | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
-|  | 
+ | **Rashet**: Removes hostilities with Fort Merit guards. | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
+| 
+
+File:Gudrin, Vindicator of The Divers.png
+
+ | 
 
 [The Divers](The_Divers.md)
 
- | \[Name\]: Removes negative reputation with The Divers. | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
+ | **Gudrin**: Removes hostilities with Apprentice Divers and Divers. | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
 
 ### Player vs. Environment (PVE) Events
 
@@ -126,9 +146,32 @@ Some quests in the game allow you to get reputation with certain factions, some 
 
 | Quests | Details | Faction |
 | --- | --- | --- |
-| Lumberjack Quest | A unique quest as it's shared between two npcs, the quest can be started and completed in two locations, Etris and the Isle of Vigils. At Etris, the quest NPC can be found outside a house next to the Antiquarian. At the Isle of Viglis, the the quest NPC is standing next to a log outside the Banker and Antiquariant. Talking to them and accepting the quest gives you a free Lumber Axe. Collecting 10 pieces of Wood and returning it to either NPC will give 5 Notes and positive Etrean reputation. | The Kingodm of Etrea |
-| Loan Sharking | A man named Trig can be found outside the Summer Isle inn, He will complain about someone owing his boss money, to which the player offers to help. The Adret in question can be found on a small beach nearby, under the area where the Blindseer glyphs are. Talking to him gives you two options, agree to help him, as he has lost the investment he owes, or threaten him and hustle him for all he has. Choosing the first option and returning to Trig will have result in him giving you negative reputation and sending two guards after you. Choosing the latter will cause the Adret to give you the papers for his ship, all he has left, and returning to Trig nets you positive rep and some exp. | Summer Company |
-| Crate Retrieval | A Vesperian, going by the name of Scope, found in a small tower, right next to the stairs of the Summer Isle Castle will ask you to bring him any red crates of gunpowder that have been won from the Ignition Union by Summer Company Guards. These can be found near the corpses of two Ignition Union solderis, guarded by two Summer Company Guards and a Summer Company Manager, who orders you to take them to Scope. Taking them to Scope rewards you with a chest and good reputation with the Summer Company. This quest is repeatable and does not require you to talk to Scope first to start it. | Summer Company |
+| 
+Lumberjack Quest
+
+ | A unique quest as it's shared between two npcs, the quest can be started and completed in two locations, Etris and the Isle of Vigils. At Etris, the quest NPC can be found outside a house next to the Antiquarian. At the Isle of Viglis, the the quest NPC is standing next to a log outside the Banker and Antiquariant. Talking to them and accepting the quest gives you a free Lumber Axe. Collecting 10 pieces of Wood and returning it to either NPC will give 5 Notes and positive Etrean reputation. | 
+
+**The Kingdom of Etrea**
+
+ |
+| 
+
+Loan Sharking
+
+ | A man named Trig can be found outside the Summer Isle inn, He will complain about someone owing his boss money, to which the player offers to help. The Adret in question can be found on a small beach nearby, under the area where the Blindseer glyphs are. Talking to him gives you two options, agree to help him, as he has lost the investment he owes, or threaten him and hustle him for all he has. Choosing the first option and returning to Trig will have result in him giving you negative reputation and sending two guards after you. Choosing the latter will cause the Adret to give you the papers for his ship, all he has left, and returning to Trig nets you positive rep and some exp. | 
+
+**Summer Company**
+
+ |
+| 
+
+Crate Retrieval
+
+ | A Vesperian, going by the name of Scope, found in a small tower, right next to the stairs of the Summer Isle Castle will ask you to bring him any red crates of gunpowder that have been won from the Ignition Union by Summer Company Guards. These can be found near the corpses of two Ignition Union solderis, guarded by two Summer Company Guards and a Summer Company Manager, who orders you to take them to Scope. Taking them to Scope rewards you with a chest and good reputation with the Summer Company. This quest is repeatable and does not require you to talk to Scope first to start it. | 
+
+**Summer Company**
+
+ |
 
   
 
