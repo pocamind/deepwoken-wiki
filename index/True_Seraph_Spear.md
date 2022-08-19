@@ -1,9 +1,9 @@
 ---
 title: True Seraph Spear
-revid: 34599
+revid: 35504
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items, Spears]
+categories: [Weapons, Spears]
 ---
 
 # True Seraph Spear
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry, Items, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crustorixes Rex |
+| obtainment | Crustaceous Rex |
 | description | "" |
 
 ## Description
