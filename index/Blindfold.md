@@ -1,12 +1,17 @@
 ---
 title: Blindfold
-revid: 35468
+revid: 35470
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Blindfold
 
+“ Help how do i take it out ”
+
+― New player who joined 3 days ago and just found a blindfold
+
+  
 Template:EquipmentStats
 
 ## Description

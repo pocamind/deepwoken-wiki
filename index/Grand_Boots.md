@@ -1,8 +1,9 @@
 ---
 title: Grand Boots
-revid: 35464
+revid: 35473
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Boots]
 ---
 
 # Grand Boots

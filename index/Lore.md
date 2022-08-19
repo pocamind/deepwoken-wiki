@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 34211
+revid: 35469
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -576,7 +576,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
--   (Arch\_Mage) Although there are no Songseekers who use Galebreathe seen in the Etrean Luminant, thanks to information given by Arch\_Mage, there is a possibility that there are Galebreathe Songseekers.
+-   Galebreathe Songseekers have been added since 08/15/2022, they were on vacation.
 
 ### Bandits
 

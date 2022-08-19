@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 35204
+revid: 35494
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -155,7 +155,7 @@ Marauder's Entrance and Castle Light are two spots where close to zero people go
 
 -   Akira, a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
     -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers.
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the flaw Deepbound.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (100). Failing this check leads to the same fate as the Ignition Union group.
 
 ### **Visionshaper**
