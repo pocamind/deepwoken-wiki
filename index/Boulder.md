@@ -1,10 +1,30 @@
 ---
 title: Boulder
-revid: 18224
+revid: 35578
 source: https://deepwoken.fandom.com/wiki/Boulder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Boulder
 
-This training item slowly kills you by draining 1-2% of your hp, do I need to say more? Oh yeah and it uhhh, trains your strength and fortitude. It's advised to train strength using the boulder near a campfire or with the Warrior's Respite talent
+| Boulder | |
+|---|---|
+| usage | 200 |
+| recipe | None |
+
+## Description
+
+This training item slowly drains 1-2% of the user's HP while training both [Strength](Attributes.md) and [Fortitude](Attributes.md). It can also **KILL THE USER** if their health reaches 0%.
+
+It can be found outside of the [Antiquarian's Store](Antiquarian.md) at the right in [Etris](Etris.md). It can also be found sitting on a stone slab in [Fort Merit](Fort_Merit.md).
+
+## Notes
+
+-   It's mostly used to quickly convert **Fortitude EXP** to **Points**.
+    -   It's not like the Training Vest where the user needs to take damage over and over again to covert **Fortitude EXP** to **Points**.
+-   It is advised to train near a lit campfire or with the "**Warrior's Respite**" talent.
+    -   However, training near a campfire works better since the user wouldn't need to wait **15 Seconds** for "**Warriors Respite**" to initiate.
+
+## Trivia
+
+-   It is the only Training Item that can kill the user.
