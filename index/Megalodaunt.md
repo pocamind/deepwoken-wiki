@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 35393
+revid: 35564
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,9 +10,9 @@ categories: [Monsters]
 
 _Commonly referred to as Shark, Sharko._
 
-“ In to the void you go ”
+“ URAOblOblOOblWAUUGH ”
 
-― Sharko in the depths
+― Megalodaunt Roar
 
   
 
@@ -190,7 +190,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ✗ | ✗ | (★★☆) |
+ | ✗ | ◯ | ✗ | (★★☆) |
 
 ## **Finisher**
 

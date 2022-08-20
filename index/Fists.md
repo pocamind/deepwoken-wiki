@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 35096
+revid: 35571
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -30,7 +30,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 
 ― Senator Corbet
 
-  
+"MAKING THE MOTHER OF ALL OMLETES HERE JACK!"
 
 ## Terminology
 

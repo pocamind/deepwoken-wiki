@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 34888
+revid: 35563
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -29,10 +29,6 @@ categories: [Weapons, Swords, Katanas]
 “ You deny our weapon its purpose! ”
 
 ― Deepwoken players after SK got nerfed
-
-“ Heresy, you say? If it is for the sake of preserving Etris, I will seize any manner of heretical strength, I will endure any burden. Behold - the Thundercall of Tomoe. ”
-
-― Power 60 Genichiro Ashina on his way to gank a random freshie.
 
 ## Description
 

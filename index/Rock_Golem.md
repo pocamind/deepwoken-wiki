@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 35110
+revid: 35565
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Rock Golem
 
-“ Awww man, not agaain.. ”
+“ I'll try spinning, that's a good trick ”
 
-― Erisian Golems after the 9048th parrying session at Church of Erisor with a Power 19
+― Primal golems before shredding a player's health and posture bar
 
 **Erisian Golem:**
 

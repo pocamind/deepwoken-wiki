@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35288
+revid: 35561
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -38,8 +38,23 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
+| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. | 1 |
+| Deepbound | "Your very soul is in eternal contract with The Depths. Gain talent 'Deepbound Contract'." | Spawn at Castle Light, in The Depths
+Start with the Diver Apprentice armor
+
+Start with the talent "Deepbound Contract":
+
+-   EXP gain increased in The Depths
+-   EXP gain reduced in the overworld
+-   Castle Light restore Sanity
+-   The Enforcer will always be fought in the Depth Trial You cannot do the Trial of One (I tested)
+
+Can be obtained by talking to Akira in Castle Light (you do not have to join The Divers, you just need to talk enough to get the prompt)
+
+ | 2 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
 | Fugitive | "All factions hate you." | Start with low reputation toward all factions.
+
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian
 -   Low enough that, starting from power 15, you can be hunted for [bounties](Bounty_Hunting.md).
@@ -55,28 +70,13 @@ Paying to restore reputation only resets up to the default, low reputation.
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by ??%. | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by ??%. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
+| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
 Count as 2 flaws, cannot be taken with another flaw.
 
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
-| Deepbound | "Your very soul is in eternal contract with The Depths. Gain talent 'Deepbound Contract'." | Spawn at Castle Light, in The Depths
-
-Start with the Diver Apprentice armor
-
-Start with the talent "Deepbound Contract":
-
--   EXP gain increased in The Depths
--   EXP gain reduced in the overworld
--   Castle Light restore Sanity
--   The Enforcer will always be fought in the Depth Trial You cannot do the Trial of One (I tested)
-
-Can be obtained by talking to Akira in Castle Light (you do not have to join The Divers, you just need to talk enough to get the prompt)
-
- | 2 |
-| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. | 1 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 
@@ -86,7 +86,7 @@ Can be obtained by talking to Akira in Castle Light (you do not have to join The
 This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to make a deal with him for your soul. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
 
  | N/A |
-| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
+| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
 
 The flaw is only obtainable by wishing through a developer, which it will grant you whatever wish you want and gives you this flaw in return.

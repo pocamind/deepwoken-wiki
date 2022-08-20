@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 34927
+revid: 35568
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -43,12 +43,12 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Authority Footsoldier](Authority_Officer.md)
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
--   [Thief](Thief.md)
 -   Etrean Footsoldier
--   Etrean Sailor
+-   Etrean Naval Guard
 -   [Legion Captain](Legion_Captain.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
+-   [Thief](Thief.md)
 
 ## Missions
 

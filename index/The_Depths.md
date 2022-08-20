@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 35494
+revid: 35562
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -13,11 +13,6 @@ LocationL The Depths LocationR
 You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
-
-“ Ahh, hello. Was it you who rang the Bell of Awakening? ”
-
-― The Corrupted Owl speaking to a power 10 freshie after they rang the depths bell
-
 Template:Areainfobox**The Depths**, canonically named Scyphozia, is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
@@ -59,7 +54,7 @@ _Not to be confused with [Resonances](Resonance.md)._
 
 The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across The Depths, signalling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### **Climbing the Walls**
 
@@ -129,7 +124,7 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 Just some information to keep in mind and remember.
 
--   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character ~kills themselves~ (Correction: Your character doesnt die when you reach max insanity). Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
+-   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
     -   Blindseer most likely doubles or even triples the time you can stay in the depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.

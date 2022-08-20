@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 35397
+revid: 35559
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Mudskipper
 
-“ Parrying Nah you can't do that ”
+“ These abominations are too weak to kill you ”
 
-― LordAbyss
+― Kirk Corbet
 
 _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
 

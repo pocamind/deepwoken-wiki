@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 34802
+revid: 35549
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents]
@@ -32,11 +32,11 @@ Raw materials harvested from the environment.
 -   Dentifilo - Smallest mushroom with a dotted cap.
 -   Gathered Wheat - Self-explanatory.
 -   Bamboo Bundle - Bamboo sticks, growing mostly on beaches and shores.
--   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger. (Best food in-game)
+-   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   Redd - Small round, orange (are you kidding me) fruit. They do not grow during summer.
 -   Plumfruit - It's a plum, what did you expect?
--   Ongo - Brown, round fruit. (Very luxurious item)
--   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten. (Pomar my beloved)
+-   Ongo - Brown, round fruit.
+-   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   Bluecaps - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in Lower Erisia where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a [Soul Hearthgem](Soul_Hearthgem.md) for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
 

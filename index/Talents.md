@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35434
+revid: 35551
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -213,14 +213,14 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Blindseer
 
 -   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
-    -   Prerequisite: Escape the depths with a player substantially lower level than you once.
     -   Allows you to absorb the insanity of other players.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
 -   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
     -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
-    -   Prerequisite: Escape the depths with a player substantially lower level than you 10 times.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
     -   After a short wind-up, shoots a multi-hit laser beam from your eyes which does more damage depending on how insane you are.
-    -   Prerequisite: Escape the depths with a player substantially lower level than you 25 times.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 25 times.
 
 ### Brawler
 
@@ -708,7 +708,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
-    -   Instead of setting your target on fire, create an eruption on their feet that deal a burst of damage.
+    -   Instead of setting your target on fire, create an eruption where they were last standing that deal a burst of damage.
     -   Prerequisites: 40 Flamecharm
 
 ### Lancer
@@ -797,7 +797,7 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 -   Encouraging Presence \[Common Talent\] - Allies that grip enemies near you recover Sanity. (+5 Sanity)
 -   Unyielding Focus \[Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)  
       
-    When you get all these talents you are eligible to get the Oath [Blindseer](Oaths.md)
+    When you get all these talents you are eligible to get the Oath [Blindseer.](Oaths.md)
 
 ### Merchant
 
@@ -957,6 +957,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
     -   Prerequisites: Agility
 -   Vanishing Follow-up \[Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
+    -   A stationary roll is activated upon teleport
     -   Prerequisite: 40 Agility
 
 ### Silvertongue

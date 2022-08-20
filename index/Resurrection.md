@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 35419
+revid: 35572
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,7 +41,7 @@ If not, then the star on the target will fade away and the resonance will not go
 
 If the resurrection went on cooldown and the target was not knocked, then this is a bug, in order to avoid it, it is advisable to add gaps between the use of the resurrection.
 
-If the attack instant-execute then the resurrection will not trigger. (example: [Lionfish](Lionfish.md) beam, [The Ferryman](The_Ferryman.md) attacks)
+If the attack instant-execute then the resurrection will not trigger, examples including: [Lionfish](Lionfish.md) Ceros and [The Ferryman's](The_Ferryman.md) attacks.
 
 ### _Resonance Point usage_
 

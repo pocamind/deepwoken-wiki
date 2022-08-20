@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 35469
+revid: 35566
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -576,7 +576,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
--   Galebreathe Songseekers have been added since 08/15/2022, they were on vacation.
 
 ### Bandits
 
@@ -737,7 +736,7 @@ _"The stars call you back..."_
 
 ### Primal Vesperians
 
--   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who left The Convicts Hand and went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
+-   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
 -   "Ancient Vesperians lost to time."
 
   

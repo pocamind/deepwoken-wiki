@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 35452
+revid: 35556
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -60,10 +60,9 @@ The Etris blacksmith house.
 
 -   Players can buy a variety of starter weapons from Astra here:
     -   Light Weapon users can purchase:
-        1.  [Stiletto](Stiletto.md) for.
-        2.  Parrying Dagger (requires 10 LHT) for.
-        3.  Bullets for Gun users for per.
-        4.  [Apprentice Rapier](Apprentice_Rapier.md) (requires 20 LHT) for
+        -   [Stiletto](Stiletto.md) for.
+        -   Parrying Dagger (requires 10 LHT) for.
+        -   Bullets for Gun users for per.
     -   Medium Weapon users can purchase:
         -   [Iron Spear](Iron_Spear.md) for.
         -   [Messer](Messer.md) (requires 10 MED) for.
@@ -273,4 +272,3 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
--   Most ganks/guild wars happen here.

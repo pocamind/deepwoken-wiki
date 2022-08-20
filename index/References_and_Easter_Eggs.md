@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 35451
+revid: 35553
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -110,11 +110,9 @@ notices:
 ### **The Etrean Luminant**
 
 -   [Suri's Quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
--   The faction of Etrea as a whole is very similar to a mixture of various Asian countries.
 -   Erisia may be based on the Nameless God's island from _Salt and Sanctuary._
 -   The _Legendary Boot_ is an interactive boot found on the island of Erisia, up the waterfall. Attempting to wear the boot will produce different results depending on where the player is on their progression.
     -   Spoiler: You cannot wear the boot. It is simply too small for your feet.
--   The Hundredth Legion faction is possibly referencing to Roman Empire, due to it having common things like: Centurion and Legionnaires rankings, similar armor plates and that.
 
 ### **The Depths**
 
@@ -124,6 +122,11 @@ notices:
     -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological feature of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle feature a large cavern, while the second feature cold and harsh winds.
+
+### **Factions**
+
+-   The Hundred Legions is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor.
+-   The faction of Etrea is very similar to a mixture of various East Asian countries.
 
 ### **Races**
 

@@ -1,9 +1,9 @@
 ---
 title: Enchantments
-revid: 35435
+revid: 35569
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weaponry, Equipments, Items, Mechanics]
+categories: [Pages with broken file links, Weaponry, Mechanics]
 ---
 
 # Enchantments
@@ -22,7 +22,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 
 -   You do not drop enchanted items on death.
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
--   Equipping an enchanted weapon or equipment will make it soul-bound to you. A soul-bound item will restrict you from dropping it, however you can still switch weapons and gear.
+-   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted items appear as light purple in your inventory
 -   Face, Ears and Back equipment cannot be enchanted
@@ -30,7 +30,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   You cannot have more than 3 equipment enchants at once.
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 2/18/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
--   **You are capable of selling enchants whether they are soul-bounded or not.**
+-   **You are capable of selling enchants whether they are soulbound or not.**
 
 There are two variants that enchantments come in:
 
@@ -41,7 +41,7 @@ Changelogs:
 
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment became Soul-boundable. - Enchants could no longer drop on death.
+-   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment became soulbound. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed again.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
 
@@ -376,9 +376,8 @@ Enchanted face, ears, back accessories were removed from the loot pool.
     -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day will be absorbed into the blade.
 -   Enchanted Hero Blades were in the game before they were removed.
 
-## Name Change
-
--   Curse of the Umbral Knight > Umbral Knight
--   Bungee Gum > Elastic
--   Combustion > Blazing
--   Hero > Heroism
+-   Some enchants used to have different names:
+    -   Curse of the Umbral Knight > Umbral Knight
+    -   Bungee Gum > Elastic
+    -   Combustion > Blazing
+    -   Hero > Heroism
