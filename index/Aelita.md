@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 34904
+revid: 35542
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,9 +13,9 @@ categories: [NPCs]
 | name | Aelita |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 
-“ Aelita my beloved ”
+“ See? That was fun right? You can have a lot more fun if you come back during the winter. ”
 
-― a random tier 3 sub Capra
+― Aelita
 
 ## Description
 
@@ -58,7 +58,6 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 Aelita sitting in the fetal position on a rock
 
 -   Aelita is a [Felinor](Felinor.md).
--   Aelita's hair is the "[Long Black Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair)"
 -   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
