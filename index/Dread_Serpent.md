@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 35080
+revid: 35639
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -40,7 +40,7 @@ able?
 
 -   **Disembowl** - The Dread Serpent effortlessly swings its claw to finish their prey.
 
-## Notes/Tips
+## Trivia
 
 -   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe.
 -   Spawns in large patches of floating bubbles.

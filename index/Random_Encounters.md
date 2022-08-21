@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 35592
+revid: 35632
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -106,7 +106,7 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or Galebreathe. They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
-**Weapons:** Fists along with a random attunement from the three above.
+**Weapons:** Fists along with a random attunement from the four above.
 
 #### **_X_ vs _X_**
 

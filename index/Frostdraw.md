@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 34982
+revid: 35631
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -15,6 +15,8 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
   
 
 ## Description
+
+Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
 

@@ -1,14 +1,18 @@
 ---
 title: Bluesteel Boots
-revid: 35517
+revid: 35629
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Bluesteel Boots
 
+“ Hmph, Redsteel Boots? Really? Your lacking standard. Be like me, choose blue instead. ”
+
+― A Vesperian insulting a Capra
+
 Template:EquipmentStats
 
 ## Description
 
-Bluesteel Boots are accessories under the "Boots" category. They can only be found through chests in [Starswept Valley](The_Starswept_Valley.md).
+Bluesteel Boots are accessories under the "Boots" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).

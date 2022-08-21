@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 34981
+revid: 35637
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,10 @@ categories: [Pages with broken file links]
 
 ― Journal of Jericho
 
-  
+File:No attunement.png
+
+Attunementless icon
+
 Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
 **NOTE: Attunement-less mantras are rarer if you have an attunement. (Also very dependent on how much you have in said stat opposed to your attunement)**
@@ -34,7 +37,7 @@ Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few move
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
-<table><caption></caption>
+<table><caption>added attunementless icon to go with other pages.</caption>
 <tbody>
 <tr>
   <th><b><u>Media</u></b></th>

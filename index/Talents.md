@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35600
+revid: 35622
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -831,10 +831,6 @@ These are just raw stat increases and are beneficial to anyone.
 ### **Mr Charm**
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
-
-### **Mindbreaker**
-
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity.
 
 ### Ministry Operative
 
