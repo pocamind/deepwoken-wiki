@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 35407
+revid: 35699
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -917,7 +917,7 @@ Grants a random buff.
  | Arena Chests, Knives of Eylis Chests | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
 
-Sliver Pauldrons
+Silver Pauldrons
 
  | 
 
@@ -1501,7 +1501,7 @@ Conceal your age, appearing as if you were younger than 40.
 | Image | Armor | Effects | Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
-Autumn Boots
+[Autumn Boots](Autumn_Boots.md)
 
  | 
 
@@ -1510,25 +1510,16 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
 
-Azure Royal Guard Boots
+[Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
 
  | 
 
 Grants a random buff.
 
- | Depths Chests | N/A |
-| File:Black fur boots 1.png | 
-
-Black Fur Boots
-
- | 
-
-Grants a random buff.
-
- | Erisia Chests | N/A |
+ | The Depths Chests | N/A |
 |  | 
 
-Bluesteel Boots
+[Bluesteel Boots](Bluesteel_Boots.md)
 
  | 
 
@@ -1537,7 +1528,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 | File:Brilliant Boots.png | 
 
-Brilliant Boots
+[Brilliant Boots](Brilliant_Boots.md)
 
  | 
 
@@ -1546,25 +1537,34 @@ Grants a random buff.
  | Songseeker Chests | N/A |
 |  | 
 
-Enforcer Boots
+[Enforcer Boots](Enforcer_Boots.md)
 
  | 
 
 Grants a random buff.
 
- | Depths Chests | N/A |
+ | The Depths Chests | N/A |
+| File:Black fur boots 1.png | 
+
+[Fur Boots](Fur_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+ | Erisia Chests | Black & White |
 | File:Grand Boots.png | 
 
-Grand Boots
+[Grand Boots](Grand_Boots.md)
 
  | 
 
 Grants a random buff.
 
- | Depths Chests | N/A |
+ | The Depths Chests | N/A |
 | File:Leather boots.png | 
 
-Leather Boots
+[Leather Boots](Leather_Boots.md)
 
  | 
 
@@ -1575,7 +1575,7 @@ _\+ 2 Health_
  | Erisia Chests, Primadon Chests | N/A |
 |  | 
 
-Novice Boots
+[Novice Boots](Novice_Boots.md)
 
  | 
 
@@ -1584,7 +1584,7 @@ Grants a random buff.
  | Summer Isle Chests | N/A |
 | File:Imperial Boots.png | 
 
-Imperial Boots
+[Imperial Boots](Imperial_Boots.md)
 
  | 
 
@@ -1593,16 +1593,16 @@ Grants a random buff.
  | Hive Chests | N/A |
 | File:Static-assets-upload12369006146430102616.png | 
 
-Iron Boots
+[Iron Boots](Iron_Boots.md)
 
  | 
 
 Grants a random buff.
 
- | Depths Chests | N/A |
+ | The Depths Chests | N/A |
 | File:Ranger Boots.png | 
 
-Ranger's Boots
+[Ranger's Boots](<Ranger's_Boots.md>)
 
  | 
 
@@ -1611,16 +1611,16 @@ Grants a random buff.
  | Hive Chests, Arena Chests | N/A |
 |  | 
 
-Redsteel Boots
+[Redsteel Boots](Redsteel_Boots.md)
 
  | 
 
 Grants a random buff.
 
- | Arena Chests, Depths Chests, Fort Merit Chests | N/A |
+ | Arena Chests, The Depths Chests, Fort Merit Chests | N/A |
 | File:Khanboots.png | 
 
-Khan Boots
+[Khan Boots](Legion_Boots.md)
 
  | 
 
@@ -1629,7 +1629,7 @@ Grants a random buff.
  | Erisia Chests, Hive Chests | N/A |
 | File:Silver Sabatons.png | 
 
-Silver Sabatons
+[Silver Sabatons](Silver_Sabatons.md)
 
  | 
 
@@ -1638,7 +1638,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 |  | 
 
-Star Boots
+[Star Boots](Star_Boots.md)
 
  | 
 
@@ -1649,25 +1649,7 @@ Grants a random buff.
  | Primadon Chests, Depths Chests | N/A |
 |  | 
 
-Tracker's Boots
-
- | 
-
-Grants a random buff.
-
- | Erisia Chests | N/A |
-|  | 
-
-Vanguard Boots
-
- | 
-
-Grants a random buff.
-
- | Erisia Chests, Hive Chests | N/A |
-| File:White fur boots.png | 
-
-White Fur Boots
+[Tracker's Boots](<Tracker's_Boots.md>)
 
  | 
 
@@ -1676,7 +1658,16 @@ Grants a random buff.
  | Erisia Chests, Hive Chests | N/A |
 |  | 
 
-Woodland Boots
+[Vanguard Boots](Vanguard_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+ | Erisia Chests, Hive Chests | N/A |
+|  | 
+
+[Woodland Boots](Woodland_Boots.md)
 
  | 
 

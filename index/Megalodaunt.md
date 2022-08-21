@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 35564
+revid: 35652
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -76,7 +76,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★☆) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 
 **Crimson Megalodaunt:**
 
@@ -128,15 +128,14 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★☆) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
 Fire Roar
 
- | Similar to the standard **Roar**, but this one has the ability to rain down fiery swords from the sky.
+ | Similar to the standard **Roar**, but this one is orange and has the ability to rain down fiery swords from the sky.
 
 -   Exclusive to the Crimson variant.
--   While the swords are raining down, the megalodaunt seems unable to attack.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 
@@ -190,7 +189,7 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 
- | ✗ | ◯ | ✗ | (★★☆) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 
 ## **Finisher**
 

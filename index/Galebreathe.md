@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 35635
+revid: 35650
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -46,7 +46,7 @@ Wind Blade
 
 _Slicing blades of wind._
 
- | Launches a wind projectile to cursor's position.
+ | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
@@ -60,7 +60,7 @@ Air Force
 
 _Shoots out an air blast._
 
- | Conjure a strong blast air from your hands in the direction of your mouse that staggers target.
+ | Conjure a strong blast of air from the user's hands in the direction of your mouse that staggers target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
@@ -145,7 +145,7 @@ Galetrap
 
 _Toss a wind landmine._
 
- | Deploy a small, green landmine at your cursor location.
+ | Deploy a small green landmine at the cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
@@ -161,7 +161,7 @@ Gale Punch
 
 _Form a punch of wind in your fist and release it._
 
- | AOE punch that deals damage and knocks opponents away.
+ | Conjure a wind AoE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
@@ -175,7 +175,7 @@ Champion's Whirlthrow
 
 _Grab your opponent and toss them with the power of gale._
 
- | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
+ | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
 
 -   Deals good-high damage.
 -   Might be able to break block?
@@ -227,7 +227,7 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- | Summons many small wind projectiles.
+ | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
@@ -243,7 +243,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | Several fast, wind-enhanced slashes that form a star and release winds in all directions in front.
+ | Several fast, wind-enhanced slashes in a form a star and release winds in all directions in front.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.

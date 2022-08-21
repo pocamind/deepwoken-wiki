@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 35208
+revid: 35641
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -8,9 +8,9 @@ categories: [Boss, Enemies]
 
 # Duke Ishamon Erisia
 
-“ You call this resisting the Depths!? We call this a DIFFICULTY TWEAK! ”
+“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
-― Duke, moments before doing his crit.
+― Duke
 
 Template:EnemyInfobox1.0
 
@@ -112,8 +112,6 @@ You also gain a large amount of [Luck](Luck.md) (16%), and [Resonance](Resonance
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   The also both laugh manically following a successful counter
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   The Duke drinks protein shakes.
-    
 -   The Duke's respawn timer is anywhere from 25 to 30 minutes, seemingly being random inbetween each time the Duke spawns.
 -   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   It is recommended to fight The Duke with the following:

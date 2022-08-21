@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 35108
+revid: 35646
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Terrapod
 
-“ It's like Half-Life all over agai- NEVERMIND. ”
+“ YOU THINK I'M A COWARD LIKE YOU? ”
 
-― Cicero Dise trying to hit a Terrapod with a stick
+― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
 Template:Creature Infobox V3 **Also known as Turtles, Annoying Scissor Things or Headcrabs.**
 
