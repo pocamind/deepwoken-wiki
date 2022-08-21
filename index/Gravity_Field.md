@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 35071
+revid: 35591
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -37,7 +37,7 @@ When pressed, creates a hemisphere at the location of the resonance activation, 
 
 The cooldown starts after setting the field and ends only after the action of the field is completely over.
 
-If someone touches the border of the field, he will be pushed back.
+If someone touches the border of the field, they will be pushed back.
 
 ### _Resonance Point usage_
 

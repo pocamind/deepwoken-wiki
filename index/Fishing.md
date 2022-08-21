@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 35194
+revid: 35590
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -60,11 +60,10 @@ Everything you can get from fishing has it's own chat bubble pop-up, as a reacti
 -   If you fish a Lionfish: "A LIONFISH?!"
 -   If you fish a Treasure Chest: "Woah! A Treasure Chest!"
 
+  
 Fishing a Golden Fish doesn't change the chat bubble.
 
-File:RobloxScreenShot20220410 233312197.png
-
-A lot of fish (with crow tarsus)
+A lot of fish
 
 ## **Talents**
 
@@ -119,4 +118,4 @@ If you want to add more, feel free. I'm done for the time being.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   Fishing enough can train willpower, and occasionally fortitude.
--   The harder the difficulty (aka how fast direction changes) the more rare things you fish up. File:The Truth.png
+-   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.

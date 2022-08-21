@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 35321
+revid: 35618
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -74,7 +74,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Removed Phrases
 
--   You doing anything next week? Because I'd like to see you greMORE. ~Once got someone fucking banned off Roblox~ Not confirmed but yeah, Roblox diddn't approve.
+-   You doing anything next week? Because I'd like to see you greMORE. (Roblox did not approve.)
 
 -   So, you doing anything on the weekend?
 

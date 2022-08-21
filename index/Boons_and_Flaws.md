@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35561
+revid: 35598
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -49,7 +49,7 @@ Start with the talent "Deepbound Contract":
 -   Castle Light restore Sanity
 -   The Enforcer will always be fought in the Depth Trial You cannot do the Trial of One (I tested)
 
-Can be obtained by talking to Akira in Castle Light (you do not have to join The Divers, you just need to talk enough to get the prompt)
+Can be obtained by talking to Akira in Castle Light (just initiating the dialogue is enough, you dont have to get the "Join the Diver?" prompt)
 
  | 2 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |

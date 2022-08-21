@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 35244
+revid: 35599
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -31,8 +31,6 @@ Once the conditions are met, the depths (current server) will take on a hellish 
 -   Every mob that can spawn corrupted will be corrupted
 -   Spawnrate is increased by 10x
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
--   Mute [Regalia](Regalia.md) is disabled (Tested it, it's not disabled)
--   Tacet will not work on monsters(Tested, does work)
 -   Megalodaunts will always spawn as their Alpha version.
 -   King Thresher is removed from spawn pool.
 

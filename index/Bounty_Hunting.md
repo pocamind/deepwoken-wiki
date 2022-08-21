@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 34824
+revid: 35614
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -25,6 +25,7 @@ The details of the Bounty.
 
 Examples:
 
+-   Gray Rethige - Pathfinder ★
 -   Aesop Truad - Pathfinder ★★
 -   River Hasteshi - Blindseer ★★★
 -   Kaido Etudi - Oathless ★★★★
@@ -35,9 +36,9 @@ Examples:
 -   Taking as many bounties as possible is recommended as it gives you easy access to where people in your server are, especially useful if others plan on hunting you.
 -   If hunting as a team, make sure the bounty holder contributes enough damage and performs a **MANUAL** grip to the target for the bounty to be counted as complete.
 -   If you are struggling to find targets you may have better luck by using the server browser to locate populated servers with more targets.
--   Fort Merit, (due to the popularly grinded hostage quest) and Etris are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting as well.
--   Carrying rocks as well as either an Alchemist hat or the "pitcher" talent will prove useful to prevent your adversaries from logging as not many people will appreciate your hunting.
--   Bounty hunting is Tacet's best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log, be wary of what time you choose to attack however and take advantage of your environment to achieve the greatest effect.
+-   Fort Merit, (due to the popularly grinded hostage quest) and [Etris](Etris.md) are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting as well.
+-   Carrying rocks as well as either an Alchemist hat or the "[pitcher](Talents.md)" talent will prove useful to prevent your adversaries from logging as not many people will appreciate your hunting.
+-   Bounty hunting is [Tacet's](Murmur.md) best application as it allows you to get within range of your opponent to enter combat without giving them the chance to log, be wary of what time you choose to attack however and take advantage of your environment to achieve the greatest effect.
 -   Players who take the Fugitive flaw will appear on every single faction's bounty board as soon as they reach power 15 if they haven't fixed their reputation with each of them.
 
 ## Trivia

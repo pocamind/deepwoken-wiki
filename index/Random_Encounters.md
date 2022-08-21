@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 35061
+revid: 35592
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -104,7 +104,7 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has
 
 #### **Songseeker**
 
-In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or Galebreathe. They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
 **Weapons:** Fists along with a random attunement from the three above.
 
@@ -155,7 +155,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### **Feasting Megalodaunt**
 
-A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three( false. I saw one feasting on a cliff next to Erisor's church. ) locations they can be found at:
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three locations they can be found at:
 
 One in the [Towerstruck lands](Towerstruck_Lands.md).
 
