@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 35531
+revid: 35700
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -79,16 +79,16 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
 -   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
--   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
+-   **\[V\]** **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
--   **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
--   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
--   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
--   **Seafood Boil** - 1 Squid, 1 Fish Meat, 1 Crustacean Meat _(You feel as though you could go longer without food...)_
--   **Fish Stew** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
--   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
--   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
--   **Sauteed Scallops** - 2 Scallops
+-   **\[V\]** **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
+-   **\[C\]** **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
+-   **\[C\]** **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
+-   **\[C\]** **Seafood Boil** - 1 Squid, 1 Fish Meat, 1 Crustacean Meat _(You feel as though you could go longer without food...)_
+-   **\[C\]** **Fish Stew** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
+-   **\[C\]** **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
+-   **\[C\]** **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
+-   **\[C\]** **Sauteed Scallops** - 2 Scallops
 -   **Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility) _To see all crafting recipes, click here_
 
 ## Trivia
