@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 35048
+revid: 35706
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Uses]

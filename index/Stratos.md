@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 25831
+revid: 35709
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -19,6 +19,8 @@ Stratos is an npc found sitting at the fountain in the courtyard of the "[Temple
 ## The Quest
 
 To complete the quest, you need to sail for some good amount of time with the wind. To do this, you can sail in the same direction the wind is blowing or you can change the direction of your sail. This cannot be done using an ironclad.
+
+**Note: You cannot complete this quest if you do not have [Galebreathe](Galebreathe.md)**
 
 ## The Reward
 
