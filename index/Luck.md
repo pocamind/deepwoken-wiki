@@ -1,9 +1,9 @@
 ---
 title: Luck
-revid: 35714
+revid: 35715
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Luck, Mechanics]
+categories: [Luck, Mechanics]
 ---
 
 # Luck
@@ -14,11 +14,7 @@ categories: [Pages with broken file links, Luck, Mechanics]
 
 The new luck effect, emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
-Luck is a feature shown on the bottom right of your screen. ~This value currently has a maximum of 50%, although the maximum displayable value is 43% for some reason. To get to 50% luck, you need to be below 43% and then gain enough of it to add up to 50%, for example fishing up a golden fish or handing in an artifact.~ If you are at 43%, you cannot gain any more luck to get to the absolute limit~. Unsure of whether the 50% actually affects rolling rares/legendaries.~
-
-File:2022 08 21 22 04 24 246.png
-
-**The max amount of luck is 43%, not 50%. The intention is that after getting a rare card, it takes more luck the next roll. Stop spreading misinformation.**
+Luck is a feature shown on the bottom right of your screen. This value has a maximum of 43%.
 
 You begin with 20% luck every time you start a new character.
 
@@ -31,10 +27,6 @@ Having Luck allows you to draw Rare and Legendary Talents, which will greatly im
 ## Obtaining Luck
 
 **The Marauder Boon increases Luck Gain from all sources by 33%.**
-
-Killing something that provides you with Luck will cause "shining" noise and has a oval-like shape which zooms in and out on the character.
-
-Your Luck percentage can be seen at the bottom right corner of the screen.
 
 ### From Players
 
@@ -83,10 +75,12 @@ Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If y
 
 There is a rare chance to catch a golden fish/seaweed which rewards the player with luck when caught.
 
+Obtaining Luck will cause "shining" noise, along with a transparent, white oval to appear over whoever received said luck.
+
 ## Losing Luck
 
 -   Taking a rare or legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
-    -   Generally you lose 10% luck from a rare card and 13.33% luck from a legendary card (tested with 4 of each).
+    -   Generally you lose 10% luck from a rare card and 13.33% luck from a legendary card.
 
 ## Notes
 

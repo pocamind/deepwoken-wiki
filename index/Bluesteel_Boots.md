@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 35693
+revid: 35720
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,4 +21,4 @@ Bluesteel Boots are part of the "**Bluesteel**" set; with the only other armor p
 
 ## Trivia
 
--   The **Blue** counterpart to the [Redsteel Boots](Redsteel_Boots.md).
+-   The **Blue** counterpart to [Redsteel Boots](Redsteel_Boots.md).

@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 35683
+revid: 35719
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -22,4 +22,4 @@ Redsteel Boots are part of the "**Redsteel**" set; with the only other armor pie
 
 ## Trivia
 
--   The **Red** counterpart to the Bluesteel Boots.
+-   The **Red** counterpart to [Bluesteel Boots](Bluesteel_Boots.md).
