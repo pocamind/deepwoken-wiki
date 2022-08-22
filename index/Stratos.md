@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 35709
+revid: 35712
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -25,3 +25,7 @@ To complete the quest, you need to sail for some good amount of time with the wi
 ## The Reward
 
 After you complete the quest, you will receive the talent "Windwaker." This talent can be activated by clicking while you are holding it out, similar to "Produce Spark," "Discovery of Fire," and "Flame Within." When you activate it, you will gain a short highway speed boost on your boat (similar to going through gates) and it will go on a long cooldown.
+
+## Trivia
+
+-   The name of the talent is taken from _The Legend of Zelda: The Wind Waker_.
