@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 35556
+revid: 35782
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -234,6 +234,7 @@ After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths
 -   That capra at the port (placeholder)
 -   [The Den Master](Den_Master.md)
 -   Eastern Camp Master
+-   [Barber](Barber.md)
 
 ## Side Quests
 
