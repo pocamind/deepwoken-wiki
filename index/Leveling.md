@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 32067
+revid: 35736
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ Power Levels are your character's experience and combat ability. The more power 
 
 ## Investment & Free Points
 
-Investment Points always start and refresh at 5, and decreases per attribute increase. Once your number of investment points reaches 0, you level up.
+Investment Points always start and refresh at 5 (unless you choose no attunement, in which case it will be 15 at first, and then go back to 5), and decreases per attribute increase. Once your number of investment points reaches 0, you level up.
 
 If you have the Autodidact Boon, for every Power Level after Power 1, gain a Free Point. Free Points allows you to increase all of your attributes of your choice.
 

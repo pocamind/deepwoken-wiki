@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 35718
+revid: 35733
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -358,7 +358,7 @@ _\+ 2 Posture_
  | Hive Chests | N/A |
 |  | 
 
-Goldleaf Helm
+[Goldleaf Helm](Goldleaf_Helm.md)
 
  | 
 
@@ -378,7 +378,7 @@ Grants a random buff.
  | Artifact Turn-ins, Primadon Chests | N/A |
 | File:Guard's Kabuto.png | 
 
-Guard's Kabuto
+[Guard's Kabuto](<Guard's_Kabuto.md>)
 
  | 
 
@@ -391,7 +391,7 @@ File:Khan Helmet.png
 
  | 
 
-Khan Helmet
+[Khan Helmet](Legion_Helmet.md)
 
  | 
 
@@ -404,7 +404,7 @@ File:KnightHelm.png
 
  | 
 
-Knight's Helm
+[Knight's Helm](<Silver_Knight's_Helm.md>)
 
  | 
 
@@ -415,7 +415,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 |  | 
 
-Legate Helm
+[Legate Helm](Legate_Helm.md)
 
  | 
 
@@ -430,7 +430,7 @@ File:Royal Guard's Kabuto.png
 
  | 
 
-Royal Guard's Kabuto
+[Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
 
  | 
 
@@ -481,7 +481,7 @@ _\+ Talent: Blinded_
  | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Hairband.jpg | 
 
-Headband (Series)
+[Headband](Headband.md) (Series)
 
  | 
 
@@ -490,7 +490,7 @@ Cosmetic
  | Erisia Chests | Black, Blue, Green, Orange, Red & Yellow |
 | File:Rabel Bandana.png | 
 
-Rebel's Bandana
+[Rebel's Bandana](<Rebel's_Bandana.md>)
 
  | 
 
@@ -499,7 +499,7 @@ Cosmetic
  | Navae Enemies, Erisia Chests, Songseeker Chests & Minityrsa Chests | N/A |
 | File:Static-assets-upload9013636473975687804.png | 
 
-Ten-Gallon Bandana
+[Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
 
  | 
 
@@ -508,7 +508,7 @@ Cosmetic
  | Songseeker Chests, Depths Chests | N/A |
 |  | 
 
-Eyeglasses
+[Eyeglasses](Eyeglasses.md)
 
  | 
 
@@ -526,7 +526,7 @@ Grants a random buff.
  | Minityrsa Chests, Songseeker Chests | N/A |
 |  | 
 
-Hivelord Mask
+[Hivelord Mask](Hivelord_Mask.md)
 
  | 
 
@@ -535,7 +535,7 @@ Cosmetic
  | Hive Contructs, Arena Chests | N/A |
 |  | 
 
-Iron Mask
+[Iron Mask](Iron_Mask.md)
 
  | 
 
@@ -544,7 +544,7 @@ Cosmetic
  | Erisia Chests | N/A |
 | File:Songseekermask.png | 
 
-Royal Guard
+[Royal Guard](Aspirant_Mask.md)
 
  | 
 
@@ -553,7 +553,7 @@ Cosmetic
  | Songseeker Mobs, Duke of Erisia chest | Blue, Green & Red |
 | File:Smith Goggles.png | 
 
-Smith Goggles
+[Smith Goggles](<Smith's_Goggles.md>)
 
  | 
 
@@ -562,7 +562,7 @@ Cosmetic
  | Erisia Chests, The Depths Chests | N/A |
 |  | 
 
-Warrior's Eyepatch
+[Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
 
  | 
 
@@ -575,7 +575,7 @@ Cosmetic
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
-Pendant Earrings
+[Pendant Earrings](Pendant_Earrings.md)
 
  | 
 

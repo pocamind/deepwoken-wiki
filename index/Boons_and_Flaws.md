@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35598
+revid: 35759
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -38,22 +38,17 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. | 1 |
-| Deepbound | "Your very soul is in eternal contract with The Depths. Gain talent 'Deepbound Contract'." | Spawn at Castle Light, in The Depths
-Start with the Diver Apprentice armor
+| Blind | "You cannot see." | Obtained by getting the Blindseer Oath. (Theorized to be obtained by getting the Blinded Talent itself).
+  
+You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 
-Start with the talent "Deepbound Contract":
-
--   EXP gain increased in The Depths
--   EXP gain reduced in the overworld
--   Castle Light restore Sanity
--   The Enforcer will always be fought in the Depth Trial You cannot do the Trial of One (I tested)
-
-Can be obtained by talking to Akira in Castle Light (just initiating the dialogue is enough, you dont have to get the "Join the Diver?" prompt)
-
- | 2 |
+ | 1 |
+|  |  |  |  |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive | "All factions hate you." | Start with low reputation toward all factions.
+| Fugitive | "All factions hate you." | Obtained by having atleast 1 Faction to hate you.
+
+  
+Start with low reputation toward all factions.
 
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian

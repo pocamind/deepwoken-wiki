@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 35704
+revid: 35737
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -52,9 +52,8 @@ Reputation reset diver: A diver found on the way to the hell mode bell who can r
 ## Trivia
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   Current officers of The Divers are:
-    -   Aeronautic
-    -   colddeathmaker
+-   The current leader of The Divers in-game is Shirafune
+-   The current officers of The Divers in-game are:
     -   R0bustic
     -   ViolaIsSilent
 -   Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.

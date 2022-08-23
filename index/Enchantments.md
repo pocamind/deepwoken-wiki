@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 35569
+revid: 35742
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -64,8 +64,7 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
-  <td><div><p>On proc, freeze the opponent.<br>
-  If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p></div></td>
+  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement.</p></div></td>
   <td><div>Weapon turn completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
@@ -102,7 +101,8 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>Weapon gain 1.25x damage if the user is above 90% HP.</p></div></td>
+  <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP.<br>
+  When below 25% HP: gain 4% damage for every 5% HP below 25% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
@@ -113,14 +113,15 @@ Changelogs:
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds.<br>
-  Attack speed buff is inversely proportional to the base attack speed:<br>
-  slower weapons gains a greater increase in attack speed than fast weapons.</p></div></td>
+  <td><div><p>Weapon gain 50% chip damage.<br>
+  Weapon deal less posture damage.<br>
+  Landing hits give a speed boost.</p></div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>Parrying an attack deal damage to the attacker.<br>
+  <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
+  PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
   Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
