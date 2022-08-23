@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 35797
+revid: 35808
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -12,7 +12,7 @@ LocationL Voidheart LocationR
 
 TERRITORY OF The Knives of Eylis
 
-Halls of incrutable architecture stretch as far as the eye can see. No human could've constructed this, almost defying the laws of the realm itself.
+Halls of inscrutable architecture stretch as far as the eye can see. No human could've constructed this, almost defying the laws of the realm itself.
 
   
 
@@ -20,7 +20,17 @@ Halls of incrutable architecture stretch as far as the eye can see. No human cou
 
 ## Overview
 
-An empty part of the map that used to be behind Boatman's Watch. There were nothing there.
+An empty part of the map that used to be behind Boatman's Watch. There is nothing there.
+
+## Points of Interest
+
+-   A bounty board that's always full (Knives of Eylis rep is catching up to a shit ton of people now)
+-   The [Dusklit Garden](Dusklit_Garden.md)
+-   A chess board
+-   The Voidmother, can teleport you to [Songseeker Wilds](Songseeker_Wilds.md)
+-   Antiquarian, as well as General/Mantra Shop items
+
+  
 
 ## Trivia/Notes
 

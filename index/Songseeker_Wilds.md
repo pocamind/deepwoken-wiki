@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 33612
+revid: 35811
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -58,8 +58,9 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
 -   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 -   [Thundercaller Monk](Songseeker_Thundercaller.md)
+-   [Galebreather Monk](Songseeker_Galebreather.md)
 -   [Megalodaunt](Megalodaunt.md)
-    -   Red Megalodaunt
+    -   Crimson Megalodaunt
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 

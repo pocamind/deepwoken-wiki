@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 35555
+revid: 35807
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -179,23 +179,22 @@ Crate Retrieval
 
 ### Reputable Factions
 
--   Etrea
--   The Hive
--   The Divers
--   The Central Authority
--   The Summer Company
--   The Hundred Legions
+-   [Etrea](Etrea.md)
+-   [The Hive](The_Hive.md)
+-   [The Divers](The_Divers.md)
+-   [The Central Authority](The_Central_Authority.md)
+-   [The Summer Company](The_Summer_Company.md)
+-   [The Hundred Legions](The_Hundred_Legions.md)
 -   The Children of Navae
 -   The Ministry File:Eylisiconfactoin.png
--   Knives of Eylis
--   The Ignition Union
--   Celtor
+-   [Knives of Eylis](The_Knives_of_Eylis.md)
+-   [The Ignition Union](The_Ignition_Union.md)
+-   [Celtor](The_City_of_the_Drowned.md)
 
 ### Non-Reputable Factions
 
--   Bandits
--   The Contractors
--   Songseekers
+-   [Bandits](Bandit.md)
+-   [Songseekers](Songseeker_Wilds.md)
 
 ## Trivia
 
