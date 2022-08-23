@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 35632
+revid: 35793
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -28,7 +28,7 @@ The raid can be identified by the presence of Authority NPCs, specifically the A
 
 Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of [Justicar](<Justicar_(Origin).md>) armor schematic.
 
-During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its location. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's winter.
+During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's winter.
 
 #### **Bandit Camp**
 
@@ -46,7 +46,7 @@ While in Erisia, there is a chance that three bandits will fall from the sky and
 
 A group of three thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for their Notes and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
 
-**Weapons:** Stilleto
+**Weapons:** Stiletto
 
 #### **Bandit Attack**
 
@@ -155,7 +155,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### **Feasting Megalodaunt**
 
-A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three locations they can be found at:
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never despawn and are found in set locations. There are three locations they can be found at:
 
 One in the [Towerstruck lands](Towerstruck_Lands.md).
 

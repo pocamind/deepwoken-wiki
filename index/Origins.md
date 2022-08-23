@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35781
+revid: 35799
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -10,31 +10,33 @@ categories: [Character]
 
 Origins are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which origin is chosen.
 
-## Origins
+## Castaway
 
-### Castaway
-
-_"Wilson! I'm sorry, Wilson. Wilson, I'm sorry! I'm sorry!"_
+> “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
+> 
+> ― Flavour Text
 
 **Requirements:** N/A
 
 **Obtainment:** Entering Deepwoken for the first time.
 
--   Offers starting locations to be drifted into.
+-   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 -   Begin with nothing but tattered armor and a starting weapon; along with a training item of your highest attribute.
 -   No pros or cons; a blank slate for your character.
 
-### Lone Warrior
+## Lone Warrior
 
 **Requirements:** N/A
 
-**Obtainment:** Successfully reach the halfway point of the Trial. (Threshers)
+**Obtainment:** Successfully reach the halfway point of the trial, which are the [Threshers](Thresher.md).
 
--   Allows instant access/teleportation to the Trial of One.
+-   Instantly teleports you into the Trial of One on spawn.
 
-### Deepbound
+## Deepbound
 
-_"Your very soul is in eternal contract with The Depths." - Obsolete Flavour Text_
+> “ Your training is almost complete, though you were born in these halls, you must now venture out into the Wastes to prove your worth. ”
+> 
+> ― Flavour Text
 
 **Requirements:** Ask about signing up in the Divers to Akira during his encounter between the Ignition Union in Celtor Wastes.
 
@@ -46,9 +48,9 @@ _"Your very soul is in eternal contract with The Depths." - Obsolete Flavour Tex
 -   \[PRO\] Can enter through the barrier between Castle Light and the Celtor Waste regardless if you are drowned or not.
 -   \[CON\] Depths Trial will always be Enforcers.
 
-### Voidwalker
+## Voidwalker
 
-**Requirements (Theorized):** ??? Bounties Fulfilled or ??? PVP Victories
+**Requirements (Theorized):** Decent rep with Knives of Elyis and ~10~ 15 kills in the overworld
 
 **Obtainment:** Good Reputation with the Knives of Elyis, and talking to Eiris using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble
 

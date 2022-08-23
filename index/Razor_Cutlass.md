@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 33851
+revid: 35795
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -16,13 +16,13 @@ categories: [Weapons, Weaponry]
 | scaling | 7.5 |
 | range | 8 |
 | swing speed | 0.7x |
-| penetration | 20-25% |
+| penetration | 20% |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | SongseekerMinityrsaArtifact |
+| obtainment | Songseeker Wilds (Chests), Minityrsa (Chests), Artifact Turn-Ins |
 | description | "A serrated cutlass fashioned after the famously brutal bite of a lionfish" |
 
 “ Yarr, matey! Shiver me timbers! ”
@@ -33,4 +33,4 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Razor Cutlass is considered by many the start to endgame weaponry, boasting high damage and MED weapon multiplier.
+The Razor Cutlass is considered by many the midgame to endgame weaponry, boasting high damage and MED weapon multiplier.
