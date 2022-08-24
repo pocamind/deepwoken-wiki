@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35838
+revid: 35852
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -28,10 +28,10 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
 | Packmule | "You have a much higher max. carry load" | Carry load is increased by 50. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to burn an extra card. | 1 |
-| Sly | Placeholder | Placeholder
+| Sly | Placeholder | Obtained by clearing your negative rep with any fraction
 
   
-Suspected to involve the Fugitive flaw.
+Reduce the amount of negative rep earned.
 
  | N/A |
 | Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by an unknown amount | 1 |

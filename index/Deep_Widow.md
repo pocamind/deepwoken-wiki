@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 35450
+revid: 35850
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Deep Widow
 
-“ STOP SERVER HOPING ”
+“ The Giant Enemy Spider! ”
 
-― says demi
+― Jerma
 
   
 Template:Creature Infobox V3

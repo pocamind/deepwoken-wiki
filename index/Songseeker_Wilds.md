@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 35811
+revid: 35853
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -113,3 +113,4 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 ## Trivia/Notes
 
 -   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to lower [Minityrsa](Minityrsa.md)'s drops.
+-   Songseeker Isles appears to be a rainforest area, judging by the many bird noises, large variety of fruit, and thick woods

@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 33510
+revid: 35869
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster, Enemies]
@@ -8,15 +8,17 @@ categories: [Pages with broken file links, Monsters, Monster, Enemies]
 
 # Carbuncle
 
-File:UnknownThree.png
+File:Wertgyuytre.png
+
+"The Uncle"
 
 “This is what happens when you literally think with your crotch”
 
 ## Description
 
-Carbuncle(s), also known as Mudspider, Spiderskipper, Spidercrab, Corrupted Mudskippers, Down-Bad Blokes, Mudsuckers and Charles, is a new monster in Layer 2 of The Depths.
+Carbuncle(s), also known as Mudspider, Spiderskipper, Cocksucker, Spidercrab, Corrupted Mudskippers, Down-Bad Blokes, Mudsuckers, Charles, Mudnappers, My Assholes, Your Mothers, Go Fuck Yourselfs, Stans, Octopussys, Barnacles and my Nuts is a new monster in Layer 2 of The Depths.
 
-Carbuncles are easily the most identifiable of the three leaked layer 2 monsters, being a [Mudskipper](Mudskipper.md), but from that it all goes downhill. They appear to be giant barnacle-like organisms fused to the backs of mudskippers, either has parasites or some sort of symbiosis. Interestingly, the creatures are reminiscent of [Brainsuckers](Brainsucker.md), with the reddish coloring, many eyes, and teeth arranged in a circle around a open mouth facing down.
+Carbuncles are identifiable due to their resemblance to mudskippers. They appear to be giant barnacle-like organisms fused to the backs of mudskippers, either has parasites or some sort of symbiosis. Interestingly, the creatures are reminiscent of [Brainsuckers](Brainsucker.md), with the reddish coloring, many eyes, and teeth arranged in a circle around a open mouth facing down.
 
 Said creatures are covered in eyes on all sides in an almost perfect row of two, along with a gaping mouth directly behind them full of sharp teeth, and three, disturbingly human (not robloxian) arms and hands coming out of them, which they use to attack and move around with.
 
