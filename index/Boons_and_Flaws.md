@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35759
+revid: 35838
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -19,16 +19,23 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
-(THIS DOES NOT ALLOW YOU TO GO OVER THE USUAL MAXIMUM AMOUNT OF POINTS. It only makes progression faster early game, but puts you in XP debt late-game)
+  
+Does not generate points over the total maximum, and instead, takes them away from levels in the late-game.
 
  | 1 |
-| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by ??%. | 1 |
+| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by an unknown amount. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
 | Packmule | "You have a much higher max. carry load" | Carry load is increased by 50. | 1 |
-| Scrapper | "You gain an extra card burn every other Whisper roll." | Gain an additional card burn every **other** "Whisper from the deep" roll. So you get an extra burn on the 2nd, 4th, 6th, so on. | 1 |
-| Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by ??%. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
+| Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to burn an extra card. | 1 |
+| Sly | Placeholder | Placeholder
+
+  
+Suspected to involve the Fugitive flaw.
+
+ | N/A |
+| Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by an unknown amount | 1 |
+| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain. | 1 |
 
 ## Flaws
 
@@ -38,12 +45,11 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Blind | "You cannot see." | Obtained by getting the Blindseer Oath. (Theorized to be obtained by getting the Blinded Talent itself).
+| Blind | "You cannot see." | Obtained by getting the Blindseer Oath. Potentially gained from getting the blinded talent itself.
   
 You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 
  | 1 |
-|  |  |  |  |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
 | Fugitive | "All factions hate you." | Obtained by having atleast 1 Faction to hate you.
 
@@ -61,10 +67,10 @@ Reputation can still be gained normally.
 Paying to restore reputation only resets up to the default, low reputation.
 
  | 1 |
-| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increase by ??% | 1 |
-| Haemophilia | "You bleed more." | Blood loss from all sources is increased by ??%. | 1 |
-| Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by ??%. | 1 |
-| Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
+| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
+| Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
+| Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |
+| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters will aggregate onto you from a further distance, and with more ease. | 1 |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
@@ -72,19 +78,27 @@ Count as 2 flaws, cannot be taken with another flaw.
 
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | N/A |
+| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance.
+
+  
+Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes.
+
+ | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 
 -   Entering Castle Light
 -   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
 
-This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to make a deal with him for your soul. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
+Gained from making a deal with [Arch\_Mage](Developer_Specs.md#arch-mage-haske-vantage), a developer for Deepwoken, who has an ability that allows players to make a deal with him for their soul.
+
+Additionally, has a chance of being gained from making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
  | N/A |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
+| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
 
-The flaw is only obtainable by wishing through a developer, which it will grant you whatever wish you want and gives you this flaw in return.
+  
+Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.
 
  | N/A |
 

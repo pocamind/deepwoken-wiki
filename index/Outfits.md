@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 35733
+revid: 35822
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -524,6 +524,15 @@ Polarized Eyeglasses
 Grants a random buff.
 
  | Minityrsa Chests, Songseeker Chests | N/A |
+| 81x81px | 
+
+[Demon Mask](Demon_Mask.md)
+
+ | 
+
+Grants a random buff.
+
+ | Depths Chests | N/A |
 |  | 
 
 [Hivelord Mask](Hivelord_Mask.md)

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35799
+revid: 35829
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -50,9 +50,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ## Voidwalker
 
-**Requirements (Theorized):** Decent rep with Knives of Elyis and ~10~ 15 kills in the overworld
+**Requirements: 15 Overworld grips (tested it without gaining any rep with eylis and it let me get voidwalker)**
 
-**Obtainment:** Good Reputation with the Knives of Elyis, and talking to Eiris using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble
+**Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble
 
 -   \[Placeholder\]
 
