@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 33593
+revid: 35889
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -30,8 +30,6 @@ categories: [Weapons, Swords]
 
 The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests in [Fort Merit](Fort_Merit.md) and [The Depths](The_Depths.md). It requires 50 MED to equip, has a Base Damage of 17, and a scaling of 7.
 
-  
-
 ## Notes & Trivia
 
--   The better version of the [Falchion](Falchion.md)
+-   The better version of the [Falchion](Falchion.md) (Unalloyed).

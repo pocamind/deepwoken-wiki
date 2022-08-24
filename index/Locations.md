@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 34898
+revid: 35892
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -87,14 +87,16 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 -   [Greathive Aratel](Greathive_Aratel.md)
     
 
-**The Void Sea:**
+**The Voidsea:**
 
-A list of locations that can be found in [the Voidsea](Voidsea.md).
+A list of locations that can be found in [The Voidsea](Voidsea.md).
 
 ### The Void Sea
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
-    
+-   [Voidheart](Voidheart.md)
+    -   [Dusklit Garden](Dusklit_Garden.md)
+        
 
 ## The Depths
 

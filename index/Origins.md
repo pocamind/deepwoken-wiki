@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35829
+revid: 35883
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -30,7 +30,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Successfully reach the halfway point of the trial, which are the [Threshers](Thresher.md).
 
--   Instantly teleports you into the Trial of One on spawn.
+-   Your spawnpoint is [Minityrsa](Minityrsa.md).
+-   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
 
 ## Deepbound
 
@@ -42,22 +43,30 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
 
--   Grants innate Talent "Deepbound Contract"; increasing EXP Gain in the Depths while reducing EXP Gain in the Overworld, along with granting both good and bad features.
--   \[PRO\] Your starting location is always Castle Light; and you always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md), your starting weapon and training gear of your highest attribute.
--   \[PRO\] Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
--   \[PRO\] Can enter through the barrier between Castle Light and the Celtor Waste regardless if you are drowned or not.
--   \[CON\] Depths Trial will always be Enforcers.
+-   Grants innate Talent "Deepbound Contract".
+    -   **\[PRO\]** This increases EXP Gain in the Depths.
+    -   **\[CON\]** ..but reduces EXP Gain in the Overworld.
+    -   Your starting location is always Castle Light.
+-   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
+-   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
+-   **\[PRO\]** Can enter through the barrier between Castle Light and the Celtor Wastes regardless if you are drowned or not.
+-   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
+-   **\[CON\]** You cannot do the Trial of One.
 
 ## Voidwalker
 
-**Requirements: 15 Overworld grips (tested it without gaining any rep with eylis and it let me get voidwalker)**
+**Requirements:** 15 grips in the overworld. These can be anyone; including freshies. You do **not** need good reputation with the Knives of Eylis.
 
-**Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble
+**Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble.
 
--   \[Placeholder\]
+-   You spawn at [Voidheart](Voidheart.md). Leaving will teleport you to the [Songseeker Wilds](Songseeker_Wilds.md).
+    -   **\[PRO\]** You will always have an item to teleport back to your spawnpoint anywhere.
+-   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
+-   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 
 ## Trivia
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
--   Deepbound is obtained _only_ after talking to Akira about joining the divers; but not actually saying yes. This misconception led to a handful amount of players leaving/disbanding their guilds.
+    -   Deepbound is obtained _only_ after talking to Akira about joining the divers; but not actually saying yes. This misconception led to a handful amount of players leaving/disbanding their guilds.
+    -   There was a bug in which joining The Divers as an Officer or Leader in your guild will in turn make you one in the guild. This led to players running away from Officers or Leaders in The Divers, since they were exiling everyone left and right.
 -   Eiris (The NPC needed to do the Voidwalker Origin) has a chance to spawn in the main deck of the Knives' Schooner; the only place where they can spawn in.

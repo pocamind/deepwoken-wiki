@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 35532
+revid: 35888
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Power.md) 15 and [Intelligence](Attributes.md
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +5% Physical resistance, +20% Elemental resistance and +100% Ether Regen.
+This Outfit has 1000 durability and grants +10% Physical resistance, +15% Elemental resistance and +100% Ether Regen.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 33484
+revid: 35890
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Swords]
@@ -24,7 +24,7 @@ categories: [Weapons, Items, Weaponry, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley |
+| obtainment | Starswept Valley (Chests) |
 | description | N/A |
 
 “ A trustworthy weapon, just for 3k notes. Since you are my friends, it's only 400. ”
@@ -33,9 +33,9 @@ categories: [Weapons, Items, Weaponry, Swords]
 
 ## Description
 
-A mid-game weapon dropped from mobs at the [Starswept Valley](The_Starswept_Valley.md). The Champion's Sword is almost a direct downgrade from the [Vigil Longsword](Vigil_Longsword.md)  
+A mid-game weapon dropped from mobs at the [Starswept Valley](The_Starswept_Valley.md). The Champion's Sword is almost a direct downgrade from the [Vigil Longsword](Vigil_Longsword.md).
 
 ## Notes
 
--   Not to be confused with [Hero Blades](Hero_Blades.md)
--   The inferior version of the [Forgotten Gladius](Forgotten_Gladius.md)
+-   Not to be confused with [Hero Blades](Hero_Blades.md).
+-   The inferior version of the [Forgotten Gladius](Forgotten_Gladius.md).
