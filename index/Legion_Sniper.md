@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 35896
+revid: 35923
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,14 +44,17 @@ Grand Javelin
 ### Boons
 
 -   Grand Skewer - A Legion Sniper's "Grand Javelin" mantra carries opponents with it through the skies.
+-   Lightning Fragmentation - The Grand Javelin will harmlessly explode on contact with walls or floors.
+-   Trained Javelin Thrower - If you're far away enough, the Sniper can aim their Grand Javelin upwards/downwards to account for possible height differences.
 
 ## Tips
 
 -   They are always hostile, no matter your Reputation with the Legion, **you will not lose Reputation from killing this one.**
 -   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
--   Using bolt piercer or shard bow, or any projectile-based mantras **will make him walk towards you a few steps,** they can also aim their javelins, but only at further ranges.
+-   Using bolt piercer or shard bow, or any projectile-based mantras **will make him walk towards you a few steps.**
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back (sometimes, don’t forget that they can walk they are able to move)
 -   They will parry all of your attacks, so expect to get in a very very long party trade with one. Once they flourish you or once you roll away from him he’ll use his grand jav. Also beware because he will follow you now you can’t just easily run from him.
+-   If they spawn near a ledge, they can snipe you out of the air even if you're gliding.
 
 ## Trivia
 

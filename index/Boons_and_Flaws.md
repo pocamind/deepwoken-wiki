@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35852
+revid: 35909
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -10,9 +10,11 @@ categories: [Mechanics, Character, Creation]
 
 **Boons and Flaws** are unique attributes players must choose when creating their character.
 
+They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
+
 ## Boons
 
-Boons are modifiers that you get to pick when you create your character alongside Flaws. These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character. Your choice of Flaws affects how many Boons you are allowed to have.
+Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The amount of Boons able to be picked is dependent on the amount of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
 ### List of Boons
 
@@ -28,33 +30,30 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
 | Packmule | "You have a much higher max. carry load" | Carry load is increased by 50. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to burn an extra card. | 1 |
-| Sly | Placeholder | Obtained by clearing your negative rep with any fraction
+| Sly | Placeholder | Reduces amount of negative rep gained.
 
   
-Reduce the amount of negative rep earned.
+Gained from paying off your negative reputation with any faction.
 
  | N/A |
-| Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by an unknown amount | 1 |
+| Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain. | 1 |
 
 ## Flaws
 
-Flaws are modifiers that you get to pick when you create your character alongside boons. It is possible to pick more than one flaw, this allows you to get more than one boon.
+Flaws are negative and harmful effects. They usually have more of an impact than Boons. Picking more Flaws allows more Boons to be picked.
 
 ### List of Flaws
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Blind | "You cannot see." | Obtained by getting the Blindseer Oath. Potentially gained from getting the blinded talent itself.
+| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
   
-You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
+Gained from obtaining the Blindseer Oath.
 
  | 1 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive | "All factions hate you." | Obtained by having atleast 1 Faction to hate you.
-
-  
-Start with low reputation toward all factions.
+| Fugitive | "All factions hate you." | Start with low reputation toward all factions.
 
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian
@@ -66,12 +65,19 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
+Gained from being hated by atleast one faction.
+
  | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |
-| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters will aggregate onto you from a further distance, and with more ease. | 1 |
-| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
+| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty. | 1 |
+| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You regenerate slightly less at campfires.
+
+  
+Has a small chance of being gained when rerolling an Oath at Yun'Shul.
+
+ | N/A |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
 Count as 2 flaws, cannot be taken with another flaw.

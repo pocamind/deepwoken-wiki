@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 35553
+revid: 35912
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -33,7 +33,7 @@ notices:
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical. The name matches up and works nearly the same as the "Lightning Release Armour" jutsu, often called "Cloak of Lightning"
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear) and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
 -   **Bolt Piercer** might be a reference to Uryu's [Ginrei Kojaku](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
--   This is a very farfetched claim, but **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_.
+-   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_.
 
 ### **Frostdraw**
 
@@ -90,7 +90,7 @@ notices:
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
 -   **Ice Age** talent section name maybe a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
--   **Safety Dance** talent can be reference from music with the same name by Man Without Hats
+-   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 
 ## Weapons
 
@@ -111,8 +111,6 @@ notices:
 
 -   [Suri's Quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   Erisia may be based on the Nameless God's island from _Salt and Sanctuary._
--   The _Legendary Boot_ is an interactive boot found on the island of Erisia, up the waterfall. Attempting to wear the boot will produce different results depending on where the player is on their progression.
-    -   Spoiler: You cannot wear the boot. It is simply too small for your feet.
 
 ### **The Depths**
 

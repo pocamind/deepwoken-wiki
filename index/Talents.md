@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35832
+revid: 35915
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -178,14 +178,11 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
-    -   Electrify is essentially a slow similar to Frostdraw Chill effect.
+    -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All thundercal mantras always apply this, despite the description saying "a chance".
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
-    -   Misleading. Thundercall mantras deal 50% less posture damage.
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
-    -   Broken. Does not work.
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
-    -   Broken. Does not work.
 
 ### Bastion
 

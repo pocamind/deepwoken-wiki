@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 35834
+revid: 35908
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -162,9 +162,9 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
--   Can be modified with a[Magnet Spark](Mantra_Modifiers.md).
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamcharm mantra.
-    -   Unaffected by [luck](Luck.md))[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
+    -   Unaffected by [Luck](Luck.md).[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
@@ -215,7 +215,6 @@ Toss a nimble dagger.
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
--   Can not be upgraded with a [Multiplying Spark](Mantra_Modifiers.md).
 
  |
 |  | 

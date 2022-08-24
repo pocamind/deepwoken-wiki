@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35883
+revid: 35920
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -63,6 +63,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[PRO\]** You will always have an item to teleport back to your spawnpoint anywhere.
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
+-   **\[CON\]** You can't place spawnpoint anywhere, except Voidheart.
 
 ## Trivia
 

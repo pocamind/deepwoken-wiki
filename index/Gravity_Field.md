@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 35591
+revid: 35919
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,9 @@ categories: [Resonance]
 | effect | Changes the gravity of all who are under the effect, changes the speed of attack, movement, disables mobility mantras, and also pushes inward when trying to get out. |
 | appearance | Transparent hemisphere with purple stroke and purple circle. |
 
-“ ??? ”
+“ Conjure a gravity field that cripples your foes. ”
 
-― Gravity Field description
+― Gravity Field description.
 
   
 
