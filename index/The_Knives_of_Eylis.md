@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 35806
+revid: 35950
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -25,4 +25,4 @@ The Knives of Eylis are an organization of ruthless mercenaries. They serve Eyli
 
 ## Lore
 
-todo
+A group of bounty hunters who work for eylis

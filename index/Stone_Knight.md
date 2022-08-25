@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 35582
+revid: 35960
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -16,7 +16,7 @@ Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily i
 
 “ That... wasn't fun at all... ”
 
-― A Felinor, moments before death, who listened to Aelita
+― A Felinor who listened to Aelita
 
   
 Template:Creature Info Box v2
@@ -44,7 +44,7 @@ Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights 
 
 They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors.
 
-**Tip**: Pretty sure that if you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
+**Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
 
 ## **Attacks**
 

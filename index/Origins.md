@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35936
+revid: 35957
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -44,7 +44,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
 
 -   Grants innate Talent "Deepbound Contract".
-    -   **\[PRO\]** This increases EXP Gain in the Depths.
+    -   **\[PRO\]** This increases EXP Gain in the Depths...
     -   **\[CON\]** ..but reduces EXP Gain in the Overworld.
     -   Your starting location is always Castle Light.
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
@@ -65,7 +65,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You get much more EXP from completing bounties, and guaranteed 3% luck from completing one. (needs more testing)
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
--   **\[CON\]** You can't place spawnpoint anywhere, except Voidheart.
 -   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
 -   **\[CON\]** Etris will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
 

@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 33857
+revid: 35952
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,6 +39,6 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 ## Trivia/Notes
 
 -   There are patches of bubbles around the Void Sea and hitting one can cause a Dread Serpent (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
--   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to Voidheart)
--   The voidheart once existed here, A private island where developers and their friends could play chess together.
+-   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to [Voidheart](Voidheart.md))
+
 -   Dying in boatman’s watch will not send you to the depths

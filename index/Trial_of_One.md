@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 35874
+revid: 35956
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,7 +55,7 @@ Mark of the Lone Warrior's talent description
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
 -   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, which lower the EXP curve, similar to Adept.
     -   Does not give [resonance](Resonance.md) progress boost. Confirmed by devs.
--   The Lone Warrior Origin when creating a character for reaching past the half-way point (Thresher)
+-   The [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) when creating a character for reaching past the half-way point (Thresher)
 
 ## Tips and Tricks
 
