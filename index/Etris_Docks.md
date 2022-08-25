@@ -1,8 +1,9 @@
 ---
 title: Etris Docks
-revid: 24211
+revid: 36041
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Etris Docks

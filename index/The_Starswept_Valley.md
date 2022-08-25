@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 31052
+revid: 36096
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
@@ -13,10 +13,11 @@ LocationL Starswept Valley LocationR
 Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands.
 
   
-
 **Starswept Valley** is a location in _Deepwoken_. It is a sub-location of [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
+
+Starswept Valley gate
 
 The Starswept Valley is a desert-like area containing a massive gate that leads to [The Lordsgrove](The_Lordsgrove.md) and [Bluster Rift](Bluster_Rift.md).
 
@@ -43,7 +44,7 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Etrea vs Hive
+-   [Etrea](Etrea.md) vs [The Hive](The_Hive.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Commander](https://deepwoken.fandom.com/wiki/Fort_Merit_Captain)
 -   [Hive Construct](Hive_Construct.md) vs Authority Commander
 

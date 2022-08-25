@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 35754
+revid: 36106
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map, Origins]
@@ -107,8 +107,10 @@ There may be some changes to dialogue with NPCs depending on what 'Tier' of age 
 -   **(Tier 3) Elderly, Phase 1:** 60 - 69
 -   **(Tier 4) Elderly, Phase 2:** 70 - ???
 
-Helena Dusselden, at Age 40
+**(Tier 1) Middle Aged, Phase 1:** 40-49 \[Wrinkles are visible on the eye and hair color has been changed.)
 
-Age 50
+**(Tier 2) Middle Aged, Phase 2:** 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)
 
-Helena Dusselden, at Age 60
+**(Tier 3) Elderly, Phase 1:** 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)
+
+**(Tier 4) Elderly, Phase 2:** 70 - ??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)

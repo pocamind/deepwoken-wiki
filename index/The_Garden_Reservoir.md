@@ -1,9 +1,9 @@
 ---
 title: The Garden Reservoir
-revid: 35993
+revid: 36050
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Locations]
 ---
 
 # The Garden Reservoir
@@ -22,7 +22,7 @@ File:GardenEther.png
 
 The Garden Reservoir
 
-The Garden Reservoir
+The Garden Reservoir is a location down below the Burning Stone Gardens. It is a gloomy area covered with pillars of stone and acid running along everywhere, possibly the main cause of acid in the Burning Stone Gardens. Going into the acid will end up with you taking damage, unless you are an Etrean or have the 'Survivalist' boon.
 
 ## Points of Interest
 
@@ -32,4 +32,4 @@ The Garden Reservoir
 
 ## Trivia/Notes
 
--   Player notes go here
+-   Nothing yet

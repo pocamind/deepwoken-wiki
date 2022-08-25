@@ -1,8 +1,9 @@
 ---
 title: Lightkeeper Temple
-revid: 35238
+revid: 36079
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links, Locations]
 ---
 
 # Lightkeeper Temple
@@ -14,6 +15,10 @@ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoul
   
 
 ## Info
+
+File:Изображение 2022-08-25 151516857.png
+
+Lightkeeper Temple shrine
 
 _Lightkeeper Temple_ is a seemingly abandoned temple, occupied by many [Threshers](Thresher.md). (there are actually not that much, only 4 excluding king one) It serves as a place for players to wash their face in order to open the gate at [Starswept Valley](The_Starswept_Valley.md) and access the fountain teleports in [The Lordsgrove](The_Lordsgrove.md), [Greathive Aratel](Greathive_Aratel.md), behind the [King's Garden in Etris](Etris.md) and [The Hidden Village](The_Hidden_Village.md).
 

@@ -1,8 +1,9 @@
 ---
 title: The Frontier Furnace
-revid: 34903
+revid: 36071
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # The Frontier Furnace

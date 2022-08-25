@@ -1,8 +1,9 @@
 ---
 title: Songseeker Temple
-revid: 32452
+revid: 36084
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Songseeker Temple

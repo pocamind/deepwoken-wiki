@@ -1,9 +1,9 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 23614
+revid: 36054
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Locations]
 ---
 
 # Eastern Interstitial Lighthouse
@@ -14,9 +14,7 @@ The only means of transportation to other Luminants. Without it, we may as well 
 
   
 
-File:Eastern Continental Lighthouse1.png
-
-The lighthouse from afar
+Eastern Interstital Lighthouse
 
 **Eastern Interstitial Lighthouse** is a location in _Deepwoken_. It is found in the [Etrean Sea](The_Etrean_Sea.md).
 

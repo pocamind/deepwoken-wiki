@@ -1,8 +1,9 @@
 ---
 title: Towerstruck Lands
-revid: 35987
+revid: 36047
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Towerstruck Lands

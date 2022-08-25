@@ -1,8 +1,9 @@
 ---
 title: "Widow's Hollow"
-revid: 32424
+revid: 36080
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Widow's Hollow
@@ -15,6 +16,8 @@ LocationL Widow's Hollow LocationR
 **Widow's Hollow** is a location in _Deepwoken_. It is a landmark in [Starswept Valley](The_Starswept_Valley.md) found in [Aratel Island](Aratel_Island.md).
 
 ## Overview
+
+Widow's Hollow
 
 Placeholder
 

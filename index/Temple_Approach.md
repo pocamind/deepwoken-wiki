@@ -1,8 +1,9 @@
 ---
 title: Temple Approach
-revid: 22015
+revid: 36043
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Temple Approach

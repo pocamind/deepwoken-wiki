@@ -1,8 +1,9 @@
 ---
 title: Ancient Rotlands
-revid: 31578
+revid: 36058
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Ancient Rotlands

@@ -1,9 +1,9 @@
 ---
 title: "Erisor's Church"
-revid: 25045
+revid: 36046
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Locations]
 ---
 
 # Erisor's Church
@@ -17,6 +17,8 @@ Why does this name speak to me and why do I know it so well?
 **Erisor's Church** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
+
+Erisor's Church
 
 Erisor's Church is a small ruined church. It can be found by the entrance to the [Towerstruck Lands](Towerstruck_Lands.md).
 

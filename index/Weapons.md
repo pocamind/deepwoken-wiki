@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 35575
+revid: 36105
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -86,16 +86,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
-</tr>
-<tr>
-  <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
-  <td>10 LHT</td>
-  <td>4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>2</td>
-  <td>N/A</td>
-  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -1273,7 +1263,9 @@ Weapons that scale with a certain element
 </tbody>
 </table>
 
-**Shield:**
+**Offhand:**
+
+Offhand tools/weapons, are tools/weapons that you wield in your offhand and in order to be used require you to one hand your main weapon. These offhand tools/weapons have their own requirements, and can range from shields, to guns. {{#tag:tabber|Shields=
 
 <table>
 <tbody>
@@ -1304,6 +1296,25 @@ Weapons that scale with a certain element
 </tr>
 </tbody>
 </table>
+
+|-| Miscellaneous= Miscellaenous offhands are tools that do not fit being a shield or a weapon, and serve more as utility rather than offense or defense.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+</tr>
+<tr>
+  <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
+  <td>10 AGI</td>
+</tr>
+</tbody>
+</table>
+
+|-| Weapons=
+
+weapon offhands are weapons that can be wielded at the same time along with your mainhand weapon as long as you are one handing them. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. (For example offhand guns have their damage reduced if you are using them with anything else but a gun in your mainhand, and they will match the swingspeed of the main weapon
 
 ## Calculating Damage and Attack Speed
 

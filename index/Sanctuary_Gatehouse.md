@@ -1,8 +1,9 @@
 ---
 title: Sanctuary Gatehouse
-revid: 31574
+revid: 36069
 source: https://deepwoken.fandom.com/wiki/Sanctuary_Gatehouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Sanctuary Gatehouse

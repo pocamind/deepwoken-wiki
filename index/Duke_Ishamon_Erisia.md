@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 35907
+revid: 36090
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
+Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -85,7 +85,7 @@ Duke Erisia executes his opponent after knocking them:
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras. To destroy The Duke's Wind Shield, land attacks until it breaks. Focuses on **posture damage**.
--   **Phase 2 -** **Hand-to-hand combat (75%)**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Usually 2-4 Mindless Servants per player, depends on how many).
+-   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Usually 2-4 Mindless Servants per player, depends on how many).
 
 ### Rewards
 
@@ -95,7 +95,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Schematics
 -   [Rare Weapons](Weapons.md) (Shattered Katana, etc.)
 -   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.)
--   [Deep Gem](Deep_Gems.md)
+-   [Deep Gems](Deep_Gems.md)
+-   Legendary rings
 
 You also gain a large amount of [Luck](Luck.md) (16%), and [Resonance](Resonance.md) (Bell) progression.
 

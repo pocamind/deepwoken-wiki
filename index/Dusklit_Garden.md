@@ -1,8 +1,9 @@
 ---
 title: Dusklit Garden
-revid: 35846
+revid: 36039
 source: https://deepwoken.fandom.com/wiki/Dusklit_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Dusklit Garden

@@ -1,8 +1,9 @@
 ---
 title: Isle of Vigils
-revid: 33274
+revid: 36042
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Isle of Vigils

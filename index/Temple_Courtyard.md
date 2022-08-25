@@ -1,9 +1,9 @@
 ---
 title: Temple Courtyard
-revid: 35990
+revid: 36049
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Locations]
 ---
 
 # Temple Courtyard
@@ -27,7 +27,7 @@ Temple Courtyard
 -   Watcher
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
--   [Bandit Assassin](Thief.md)
+-   [Theif](Thief.md)
 
 ## Trivia/Notes
 

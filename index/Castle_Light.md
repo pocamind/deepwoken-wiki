@@ -1,26 +1,58 @@
 ---
 title: Castle Light
-revid: 25200
+revid: 36036
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Castle Light
 
-**Castle Light** is an unnamed location in _Deepwoken_. It is a landmark in the [Celtor Wastes](Celtor_Wastes.md).
+LocationL Castle Light LocationR
+
+TERRITORY OF The Divers
+
+A hidden operating base for the Divers of the First Layer, where many apprentices come to learn the harsh reality of the Depths.
+
+  
+Template:Areainfobox
+
+**Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
+
+Optionally is a starting location for those using [Deepbound](Origins.md) origin.
 
 ## Overview
 
-Castle Light, or Markor Citadel, is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
+Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening surronding area and making it visible from outside. It's guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool or has a Deepbound origin.
 
-## Contents
+## Points of Interest
 
+### Vendors and Notable NPC
+
+-   [Antiquarian](Antiquarian.md)
 -   [Blacksmith](Blacksmith.md)
--   [Akira](Akira.md) (if you have talked to him before.)
--   [Nyanna](Nyanna.md) (weapon and armor schematic shop with a rotation)
+-   [Nyanna](Nyanna.md)
+-   [Akira](Akira.md) (if met in a random encounter)
+
+### Items
+
+-   Weapon Manual
+-   Encyclopedia
+-   How to Make Friends
+-   Self-Conducting Loop
+-   Pure Heart
+-   Hemafrost
+-   Gale Kata
+-   Hearthgem
+-   Dumbbell
+-   Praying Beads
+-   Training Vest
+-   Ankle Weights
+-   Cloth
+-   Fiber
 
 ## Notes
 
 -   While considered a "safe zone" to some extents, monsters can enter the barrier and also spawn in the castle. Apprentice Divers might be able to defeat said monster, but will have no chance against Corrupted one.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
 -   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning.
+-   As of _08/15/22_, Castle Light can be considered the safest area in The Depths to take a break in, featuring a stove, multiple vendors and sanity regeneration for those using Deepbound.

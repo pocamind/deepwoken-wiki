@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 35802
+revid: 36027
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Moveset
 
-A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
+A Silver Whalers Assasin arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
 ## Finisher
 
-A Knife of Eylis executes it's opponent after knocking them:
+A Silver Whalers Assasin executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

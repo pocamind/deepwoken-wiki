@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 35786
+revid: 36098
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -76,9 +76,8 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 -   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
--   You can spawn Lionfish by fishing with a low chance
--   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md)
--   Not confirmed, but the cero beam may be programmed to be used whenever the lionfish is on land.
+-   You can spawn Lionfish by fishing with a low chance.
+-   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md).
     
     File:Big ass fish.jpg
     
@@ -88,4 +87,4 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 ## Trivia
 
 -   Seems to be based on the Underwater panther or ''_**[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)''**_ from Native American mythology (Or Arch got it off from ark's Shadowmane which is what I know the myth from). Considering that Deep's landscape seems to take inspiration from early American settlers (especially seen in the Summer Company's teritories) and Chinese/Japanese architecture in other areas this is possible.
--   Also based on the actual Lionfish, a species of poisonous fish that can extend spines outward that resemble the mane of a lion
+-   Also based on the actual Lionfish, a species of poisonous fish that can extend spines outward that resemble the mane of a lion.

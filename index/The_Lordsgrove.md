@@ -1,8 +1,9 @@
 ---
 title: The Lordsgrove
-revid: 30580
+revid: 36081
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # The Lordsgrove
@@ -18,6 +19,8 @@ Generations of Hivelords stand watch over the lush passage, a stark contrast to 
 **The Lordsgrove** is a location in _Deepwoken_. It is a sub-location in [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
+
+The Lordsgrove
 
 The Lordsgrove is a jungle-like passage that is accessed through [Starswept Valley](The_Starswept_Valley.md) behind a massive gate. To open this gate, you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md).
 

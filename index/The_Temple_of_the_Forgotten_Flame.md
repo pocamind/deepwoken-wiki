@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 30401
+revid: 36099
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -22,7 +22,7 @@ Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](Uppe
 
 To enter the Temple, you must either:
 
--   Enter The Courtyard, where a Watcher and bandit spawns can be found.
+-   Enter [the courtyard](Temple_Courtyard.md), where a Watcher and bandit spawns can be found.
 -   Climb around the walls and enter through the rear garden.
 -   Use a fountain found in [Greathive Aratel](Greathive_Aratel.md), that will teleport you to the rear garden.
 

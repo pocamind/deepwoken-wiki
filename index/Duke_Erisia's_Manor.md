@@ -1,8 +1,9 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 35998
+revid: 36087
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Duke Erisia's Manor
@@ -26,7 +27,7 @@ Or you can try to gather enough agility or environmental height to get on top of
 ## Potential Enemies
 
 -   [The Duke](Duke_Ishamon_Erisia.md)
--   [Experimented Bandits](Bandit.md)
+-   [Mindless Servants](Mindless_Servant.md)
 -   [Brainsuckers](Brainsucker.md)
 -   [Prime Golems](Rock_Golem.md)
 

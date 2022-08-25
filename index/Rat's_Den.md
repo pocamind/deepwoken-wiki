@@ -1,8 +1,9 @@
 ---
 title: "Rat's Den"
-revid: 33999
+revid: 36053
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Rat's Den
