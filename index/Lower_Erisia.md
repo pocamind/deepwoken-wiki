@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 35568
+revid: 35972
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,6 +16,8 @@ A land lost to time, now made a battleground for warriors who know not why they 
 **Lower Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
+
+Lower Erisia
 
 Lower Erisia is a portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents.
 

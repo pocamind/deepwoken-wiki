@@ -1,9 +1,8 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 34380
+revid: 35978
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Tomb of the Nameless Warrior
@@ -15,9 +14,7 @@ LocationL Tomb of the Nameless warrior LocationR
 
 _**I suddenly feel lucky... I should cast my rod into the water underneath...**_
 
-File:Tombofthenamelesswarrior1.png
-
-Tomb Entrance seen in Asiany's [video](https://youtu.be/TNnoMQjSgow).
+Tomb of the Nameless Warrior
 
 **Tomb of the Nameless Warrior** is a location in _Deepwoken_. It is a landmark below the [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
 

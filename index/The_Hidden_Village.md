@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 25255
+revid: 35989
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -15,6 +15,8 @@ A village created far away from the watchful eyes of the Stonelife Lord.
   
 
 **The Hidden Village** is a location found in _Deepwoken._ It is a landmark found in the [Towerstruck Lands](Towerstruck_Lands.md).
+
+The Hidden Village
 
 ## Overview
 

@@ -1,8 +1,9 @@
 ---
 title: The Garden Reservoir
-revid: 19063
+revid: 35993
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # The Garden Reservoir
@@ -16,6 +17,10 @@ Down below the gardens lay a home left to rot.
 **The Garden Reservoir** is a location in _Deepwoken_. It is a sub-location found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
+
+File:GardenEther.png
+
+The Garden Reservoir
 
 The Garden Reservoir
 

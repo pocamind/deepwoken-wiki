@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 18200
+revid: 35987
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,11 @@ A rich stone quarry, perfect for creating life.
 
 ## Overview
 
-The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy mountainous terrain. Ruins of towers lay littered across the surface. The Towerstruck Land has a chance of precipitating Poison Rain.
+The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy mountainous terrain. Ruins of towers lay littered across the surface. The Towerstruck
+
+Towerstruck Lands
+
+Land has a chance of precipitating Poison Rain.
 
 ## Points of Interest
 

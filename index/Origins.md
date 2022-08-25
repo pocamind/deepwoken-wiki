@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35957
+revid: 35996
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -50,8 +50,10 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
 -   **\[PRO\]** Can enter through the barrier between Castle Light and the Celtor Wastes regardless if you are drowned or not.
+-   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
+-   **\[PRO/CON DEPENDING ON SKILL\]** You start off in the Depths (Castle Light).
 
 ## Voidwalker
 
@@ -65,8 +67,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You get much more EXP from completing bounties, and guaranteed 3% luck from completing one. (needs more testing)
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
+-   **\[CON\]** Most factions will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
 -   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
--   **\[CON\]** Etris will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
+-   **\[CON\]** The Voidheart is located far away from other islands, and the only choice for you to leave is by talking to the Voidmother, which takes you to [Songseeker Wilds](https://deepwoken.fandom.com/wiki/Songseeker_Wilds?so=search).
 
 ## Trivia
 

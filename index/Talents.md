@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35915
+revid: 35963
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1486,7 +1486,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Shadow Hunter
 
--   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit) (Can also be obtained through cards)
+-   Now You See Me - Increases stealth. (Can be obtained through most armors)
 
 ### Darksteel Plate
 

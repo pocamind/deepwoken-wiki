@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 26507
+revid: 35980
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -17,6 +17,8 @@ A land lost to time, now made a battlefield for warriors who know not why they f
 **Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia, sharing the island with [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
+
+Upper Erisia
 
 Upper Erisia is home to many sub-locations and is home to a variety of NPCs and Monsters.
 
