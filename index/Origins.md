@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 35920
+revid: 35936
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -60,10 +60,14 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked-- then through a Knife's Time Bubble.
 
 -   You spawn at [Voidheart](Voidheart.md). Leaving will teleport you to the [Songseeker Wilds](Songseeker_Wilds.md).
+-   Grants the innate talent "Voidwalker Contract"
     -   **\[PRO\]** You will always have an item to teleport back to your spawnpoint anywhere.
+-   **\[PRO\]** You get much more EXP from completing bounties, and guaranteed 3% luck from completing one. (needs more testing)
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[CON\]** You can't place spawnpoint anywhere, except Voidheart.
+-   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
+-   **\[CON\]** Etris will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
 
 ## Trivia
 

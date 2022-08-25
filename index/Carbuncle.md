@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 35872
+revid: 35949
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster, Enemies]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters, Monster, Enemies]
 
 # Carbuncle
 
-File:The car.png
+File:Wertgyuytre.png
 
-A picture of a Carbuncle
+"The Uncle"
 
 “This is what happens when you literally think with your crotch”
 

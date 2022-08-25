@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35909
+revid: 35934
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -20,24 +20,23 @@ Boons are positive and helpful effects. They usually have less of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
+| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by an unknown amount. | 1 |
 | Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
   
 Does not generate points over the total maximum, and instead, takes them away from levels in the late-game.
 
  | 1 |
-| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by an unknown amount. | 1 |
-| Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Packmule | "You have a much higher max. carry load" | Carry load is increased by 50. | 1 |
+| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain. | 1 |
+| Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
+| Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to burn an extra card. | 1 |
-| Sly | Placeholder | Reduces amount of negative rep gained.
+| Packmule | "You have a much higher max. carry load." | Carry load is increased by 50. | 1 |
+| Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained.
 
-  
 Gained from paying off your negative reputation with any faction.
 
  | N/A |
-| Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain. | 1 |
 
 ## Flaws
 
@@ -52,6 +51,10 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 Gained from obtaining the Blindseer Oath.
 
  | 1 |
+| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
+| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
+| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty. | 1 |
+| Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
 | Fugitive | "All factions hate you." | Start with low reputation toward all factions.
 
@@ -65,25 +68,22 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
-Gained from being hated by atleast one faction.
+Gained by becoming an enemy of a faction.
 
  | 1 |
-| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
-| Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |
-| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty. | 1 |
+| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
+| Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
+
+Count as 2 flaws, cannot be taken with another flaw.
+
+ | 2 |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You regenerate slightly less at campfires.
 
   
 Has a small chance of being gained when rerolling an Oath at Yun'Shul.
 
  | N/A |
-| Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
-
-Count as 2 flaws, cannot be taken with another flaw.
-
- | 2 |
-| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance.
 
   
@@ -100,7 +100,6 @@ Gained from making a deal with [Arch\_Mage](Developer_Specs.md#arch-mage-haske-v
 Additionally, has a chance of being gained from making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
  | N/A |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
 
   
