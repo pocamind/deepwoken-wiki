@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 35948
+revid: 36114
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,7 +27,7 @@ The Voidheart resembles a castle, having alot of rooms in it and high ceilings. 
 ## Points of Interest
 
 -   A Bounty Board
-    -   It is always full (Basically, everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) from start).
+    -   It is always full as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
 -   [Dusklit Garden](Dusklit_Garden.md)
 -   Voidheart chessboard
     
@@ -40,8 +40,8 @@ The Voidheart resembles a castle, having alot of rooms in it and high ceilings. 
 
 ## Trivia/Notes
 
--   **Voidheart** is 70K studs away from [Etris](Etris.md).
--   If you talk to Eylis and pick fourth option (Can you join Knives of Eylis as guild) nothing will happen, probably because there is no guild created yet.
+-   **Voidheart** is 70k studs away from [Etris](Etris.md).
+-   If you talk to Eylis and pick the fourth option (Can you join Knives of Eylis as guild) nothing will happen, probably because there is no guild created yet.
 -   Originally, The **Voidheart** was a sea of complete nothingness, and was removed for it's uselessness, but now has returned in a form of a base for the Knives of Eylis
 
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0))

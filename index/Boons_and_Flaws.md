@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 35934
+revid: 36121
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -130,3 +130,4 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
     -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Bloodiron Spirit. Feel free to take it if you want to omit the talent however.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can be obtained as of the 16/08/22 through unlocking.
+-   As of August 2022, Deepbound is no longer a flaw but now an unlockable origin.

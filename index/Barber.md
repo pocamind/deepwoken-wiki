@@ -1,8 +1,9 @@
 ---
 title: Barber
-revid: 35937
+revid: 36119
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Barber
@@ -35,3 +36,4 @@ To use its features, a hair ID from the catalog is needed.
 
 -   Unlike other NPCs, you can walk while talking to him.
 -   The barber is the only NPC that can customize your character
+-   Oddly, you can change your gender if you talk to the Barber, which may leave you with questionable thoughts

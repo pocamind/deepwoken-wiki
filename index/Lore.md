@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 35881
+revid: 36126
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -1114,7 +1114,8 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 ### The Enforcer(s)
 
--   A legion of creatures clad in black armor that serve as loyal soldiers of [The Voices](Voices_of_the_Depths.md).
+-   A nearly endless, robitic legion of soldiers that serve [The Voices](Voices_of_the_Depths.md).
+-   They are powered by the souls of those who have failed the Depth Trials, and thus, the more people that die in the trials, creates more Enforcers in the future.
 
 ### Nautilodaunt
 
