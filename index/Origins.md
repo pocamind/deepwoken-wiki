@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36122
+revid: 36130
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -49,11 +49,12 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Your starting location is always Castle Light.
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
--   **\[PRO\]** Can enter through the barrier between Castle Light and the Celtor Wastes regardless if you are drowned or not.
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
 -   **\[PRO/CON DEPENDING ON SKILL\]** You start off in the Depths (Castle Light).
+
+  
 
 ## Voidwalker
 

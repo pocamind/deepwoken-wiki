@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36111
+revid: 36132
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -25,7 +25,9 @@ One of the most eventful populated islands in the Etrean Luminant, having basica
 
 Summer Isle's points of interest, from highest to lowest priority.
 
-### _**Firearms**_
+### _**The Castle**_
+
+#### _**Gunsmith**_
 
 Main Article - [Weaponry](Weapons.md)
 
@@ -49,18 +51,36 @@ Notes:
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
 -   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks, punts, etc.)
 
-### _Shipwright_
-
-The Shipwright is located on the rocky beach within a castle like structure.
-
--   Works like any other shipwright, won't communicate with you if you have negative rep.
-
-### _**Thundercall Trainer**_
+#### _**Thundercall Trainer**_
 
 On the first floor of the Summer Company's castle is the spelltrainer for Thundercall.
 
 -   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
 -   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
+
+#### _**Blacksmith**_
+
+Within the tower on the right side of the castle's entrance stairs.
+
+-   Works like any other blacksmith, won't communicate with you if you have negative rep.
+
+#### _**Antiquarian**_
+
+Within the castle's ground floor, situated in the same room as the Gunsmith.
+
+-   Works like any other antiquarian, won't communicate with you if you have negative rep.
+
+#### _**Modifier Trader**_
+
+Within the castle's ground floor, on the opposite side of where the Antiquarian/Gunsmith are.
+
+-   Didn't check if you need neutral/positive reputation to communicate with them.
+
+### _**Shipwright**_
+
+The Shipwright is located on the rocky beach within a castle like structure.
+
+-   Works like any other shipwright, won't communicate with you if you have negative rep.
 
 ### _**Inn**_
 
@@ -68,6 +88,8 @@ On the first floor of the Summer Company's castle is the spelltrainer for Thunde
 -   The Guildmaster: Allows you to make a guild/leave an existing one.
 
 ### _**The Furnace**_
+
+#### _**Jarvis**_
 
 Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
@@ -77,9 +99,10 @@ Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 item
 -   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
 -   You need neutral or positive reputation to interact with him.
 
-### _**Brawling Arena**_
+#### _**Brawling Arena**_
 
--   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
+The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
+
 -   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
 -   The Summer Company will not get angry if you hurt a player during this session.
 
@@ -96,17 +119,15 @@ A cave opening facing the Shipwright's building, easy to spot.
 -   Within the structure is presumably a hive teleporter prototype, out of function.
 -   In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md), hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
 
-## Vendors & Purchasable Items
+### _**Castle Ruins**_
 
-#### _**Vendors:**_
+-   A castle like building in ruins, nothing of interest is inside or near it.
 
-The Summer Isle has similar vendors to the spawn islands, these being the:
+## Loot Table & Purchasable Items
 
--   Antiquarian : Buys any type of loot excluding mantra modifiers and some clothing including hats,
--   The Blacksmith: Located within the castle's outer Palisades.
--   Modifier Trader : Buys gems and mantra modifiers only.
+### _**Purchasable Items/Blueprints/Weapons**_
 
-#### _**Purchasable Items/Blueprints/Weapons**_
+Items and equipment that can be directly bought with currency.
 
 ##### Items
 
@@ -137,6 +158,48 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 -   [Revolver](Repeater.md)
 -   [Dragoon](Dragoon.md)
 -   [Silver Dagger](Silver_Dagger.md)
+
+### _**Loot Table**_
+
+Items and equipment that can be obtained from loot chests.
+
+#### Weapons
+
+-   [Trident Spear](Trident_Spear.md) (0-1 star)
+-   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
+-   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star) - Also with a higher chance of being enchanted.
+-   [Iron Cestus](Iron_Cestus.md)(0-3 star)
+-   [Ritual Spear](Ritual_Spear.md)
+
+#### Equipment
+
+-   Practitioner's Earrings(0-1 star)
+-   Burgundy/Beige/Slate Tophat (0-2 star)
+-   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
+-   Novice Boots
+-   Rebel's Bandana (0-2 star)
+-   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
+-   Red Headband
+
+#### Treasury
+
+-   Amethyst(4-5)
+-   Ruby(3-4)
+-   Saphire(3-4)
+-   Emerald(3-4)
+-   Gold Bar(4)
+
+#### Blueprints
+
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
+-   [Verdant Sniper](Verdant_Sniper.md)
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
+
+#### Rings
+
+-   Dawnfist's Ring
 
 ## Island Denizens
 
@@ -214,35 +277,3 @@ _Red Crate, & Summer Company Guards after dunking on the Ignition Union._
 File:Summer Company Postives.png
 
 _Positive rep with the Summer Company, after delivering a box of explosives._
-
-  
-
-  
-
-_Loot_
-
-Possible items found after completing Scope's quest
-
--   [Trident Spear](Trident_Spear.md) (0-1 star)
--   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
--   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star)
--   [Iron Cestus](Iron_Cestus.md)(0-3 star)
--   [Ritual Spear](Ritual_Spear.md)
--   Practitioner's Earrings(0-1 star)
--   Burgundy/Beige/Slate Tophat (0-2 star)
--   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
--   Novice Boots
--   Rebel's Bandana (0-2 star)
--   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
--   Amethyst(4-5)
--   Ruby(3-4)
--   Saphire(3-4)
--   Emerald(3-4)
--   Gold Bar(4)
--   [Summer Company Uniform](Summer_Company_Uniform.md)
--   [Verdant Sniper](Verdant_Sniper.md)
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
--   Dawnfist's Ring
--   Red Headband
