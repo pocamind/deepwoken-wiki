@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 36105
+revid: 36108
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1265,7 +1265,11 @@ Weapons that scale with a certain element
 
 **Offhand:**
 
-Offhand tools/weapons, are tools/weapons that you wield in your offhand and in order to be used require you to one hand your main weapon. These offhand tools/weapons have their own requirements, and can range from shields, to guns. {{#tag:tabber|Shields=
+Offhand tools/weapons, are tools/weapons that you wield in your offhand and in order to be used require you to one hand your main weapon. These offhand tools/weapons have their own requirements, and can range from shields, to guns.
+
+**Shields:**
+
+Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. The more weight a shield has, the more posture you will gain from the shield. Certain talents and mantras will also require having a shield.
 
 <table>
 <tbody>
@@ -1297,7 +1301,9 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 </tbody>
 </table>
 
-|-| Miscellaneous= Miscellaenous offhands are tools that do not fit being a shield or a weapon, and serve more as utility rather than offense or defense.
+**Miscellaneous:**
+
+Miscellaenous offhands are tools that do not fit being a shield or a weapon, and serve more as utility rather than offense or defense.
 
 <table>
 <tbody>
@@ -1312,9 +1318,54 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 </tbody>
 </table>
 
-|-| Weapons=
+**Weapons:**
 
-weapon offhands are weapons that can be wielded at the same time along with your mainhand weapon as long as you are one handing them. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. (For example offhand guns have their damage reduced if you are using them with anything else but a gun in your mainhand, and they will match the swingspeed of the main weapon
+weapon offhands are weapons that can be wielded at the same time along with your mainhand weapon as long as you are one handing them. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. (For example offhand guns have their damage reduced if you are using them with anything else but a gun in your mainhand, and they will match the swingspeed of the main weapon)
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td><a href="Flintlock.md">Flintlock</a></td>
+  <td>20 LHT</td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>LHT: 10</td>
+  <td>3</td>
+  <td>8</td>
+  <td>1.3x</td>
+</tr>
+<tr>
+  <td><a href="Repeater.md">Revolver</a></td>
+  <td>65 LHT</td>
+  <td>13</td>
+  <td>N/A</td>
+  <td>LHT: 15</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.3x</td>
+</tr>
+<tr>
+  <td><a href="Dragoon.md">Dragoon</a></td>
+  <td>65 LHT</td>
+  <td>20</td>
+  <td>N/A</td>
+  <td>LHT: 12</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.3x</td>
+</tr>
+</tbody>
+</table>
 
 ## Calculating Damage and Attack Speed
 

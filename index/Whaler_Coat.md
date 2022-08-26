@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 32717
+revid: 36109
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -34,3 +34,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   This Outfit can be found worn by Whalers.
+-   This Outfit is granted for free upon starting with the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker).

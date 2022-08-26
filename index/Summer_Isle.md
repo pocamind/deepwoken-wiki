@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 35982
+revid: 36111
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -19,7 +19,11 @@ Template:Areainfobox
 
 Summer Isle is a populated island in the [Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
+One of the most eventful populated islands in the Etrean Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment.
+
 ## Points Of Interest
+
+Summer Isle's points of interest, from highest to lowest priority.
 
 ### _**Firearms**_
 
@@ -45,13 +49,25 @@ Notes:
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
 -   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks, punts, etc.)
 
-### _**Brawling Arena**_
+### _Shipwright_
 
--   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
--   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
--   The Summer Company will not get angry if you hurt a player during this session.
+The Shipwright is located on the rocky beach within a castle like structure.
 
-### _**Forge**_
+-   Works like any other shipwright, won't communicate with you if you have negative rep.
+
+### _**Thundercall Trainer**_
+
+On the first floor of the Summer Company's castle is the spelltrainer for Thundercall.
+
+-   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
+-   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
+
+### _**Inn**_
+
+-   The Innkeeper: Allows you to set your spawnpoint at Summer Isle for 5 notes.
+-   The Guildmaster: Allows you to make a guild/leave an existing one.
+
+### _**The Furnace**_
 
 Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
@@ -59,22 +75,26 @@ Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 item
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
 -   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever
 -   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
+-   You need neutral or positive reputation to interact with him.
 
-### _**Inn**_
+### _**Brawling Arena**_
 
--   The Innkeeper: Allows you to set your spawnpoint for 5 notes.
--   The Guildmaster: Allows you to make a guild/leave an existing one. (Located in the building behind Trig's Quest)
+-   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
+-   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
+-   The Summer Company will not get angry if you hurt a player during this session.
 
-### _**Thundercall Trainer**_
+### _**Cave**_
 
-On the second level of the Summer Company's castle is the spelltrainer for Thundercall.
+A cave opening facing the Shipwright's building, easy to spot.
 
--   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
--   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
+-   Contains Coal, Rock and Iron, enough for bullets and flint.
+-   Within the cave is presumably a hive teleporter prototype, out of function
 
-### Mysterious Glyphs
+### _**Circular Structure**_
 
-In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md) hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
+-   A circular building located outside of the castle, near the blacksmith's place on the other side of the river
+-   Within the structure is presumably a hive teleporter prototype, out of function.
+-   In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md), hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
 
 ## Vendors & Purchasable Items
 
@@ -90,6 +110,8 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 
 ##### Items
 
+-   Encyclopedia
+-   Math Textbook
 -   Hunter's Brace
 -   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears)
 -   [Pure Heart](Training_Gear.md#attunement-training-gears)
@@ -135,13 +157,23 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 
 ### NPC events:
 
--   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives, which you can turn in for a chance at good loot.
+-   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in for a chance at good loot.
+-   From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
+
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
+-   You will be rewarded with a decent amount of XP upon killing all the seven bandits.
+
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
-    -   A random combination of them in groups of three, any combination can spawn except three Bandit Captains.
+-   You will be rewarded with a decent amount of XP and a chest if you help the Summer Company Thugs win.
+
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
+-   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter.
+
 -   A Ministry Scout sitting at a campfire with several Bandit corpses around them.
+-   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
+
 -   Nomads fighting off Ministry Scouts.
+-   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.
 
 ### **Clearing Bad rep.**
 
