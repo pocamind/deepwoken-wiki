@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 35951
+revid: 36143
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -82,7 +82,7 @@ The method **requires no encounters with Watchers.**
 
 ## **The Trial**
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, ~The Trial will average out the player levels of all participants and spawn one mob for each of them. There is a chance that there will be a fewer number of mobs even if there are more players.~ The enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 60 player and two power 40 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 60 player and two power 40 players will only spawn a single [Enforcer](Enforcer.md)).
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 

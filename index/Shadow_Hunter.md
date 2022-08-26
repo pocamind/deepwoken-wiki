@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 32705
+revid: 36145
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -29,7 +29,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   the weapon shop in Etris, on the second floor.
+-   The weapon shop in Etris, on the second floor.
+-   In the lodge underneath [Etris](Etris.md).
 
 ## Trivia/Notes
 

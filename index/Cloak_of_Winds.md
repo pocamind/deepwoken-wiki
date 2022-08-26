@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 32710
+revid: 36136
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -36,4 +36,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md).
--   This is the uniform worn by those guarding the Temple of the Blade.
+-   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).

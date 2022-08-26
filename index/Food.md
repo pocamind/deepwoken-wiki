@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 35700
+revid: 36142
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -62,8 +62,8 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
 ### _Non-Campfire Recipes_
 
--   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
--   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
+-   **\[V\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
+-   **\[V\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -72,15 +72,15 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
--   **\[V\] \[C\] [Bread](Bread.md)** - _3 Gathered Wheat_
--   **Omelette/Cooked Egg** - _2 Eggs_
--   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
+-   **\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
+-   **\[V\] Omelette/Cooked Egg** - _2 Eggs_
+-   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Any mushroom)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
+-   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
--   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
+-   **\[V\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **\[V\]** **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
--   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
+-   **\[V\]** **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **\[V\]** **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **\[C\]** **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **\[C\]** **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
@@ -89,7 +89,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[C\]** **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **\[C\]** **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **\[C\]** **Sauteed Scallops** - 2 Scallops
--   **Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility) _To see all crafting recipes, click here_
+-   **\[V\] Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility) _To see all crafting recipes, click here_
 
 ## Trivia
 
