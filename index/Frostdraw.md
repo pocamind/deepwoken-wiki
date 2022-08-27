@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 35631
+revid: 36152
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -37,7 +37,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
 
-The spelltrainer, [Nell](Attunement_Trainers.md), can be found in [Etris](Etris.md) in the brewing hut.
+The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. It requires 5 [Frigid Prisms](Frigid_Prism.md) in order to unlock Frostdraw.
 
 ## Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 35822
+revid: 36151
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -76,6 +76,8 @@ _Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen
 An example of an item with rolled stats (in beige) and guaranted stats (in grey)
 
 Armor Pieces are items that can be found usually in chests. They can be equipped to grant their listed stat bonuses.
+
+Armor Pieces can also be randomly obtained by giving an Artifact to a banker.
 
 The player can wear 7 type of armor pieces: Head, Face, Ears, Back, Arms, Rings and Boots.
 

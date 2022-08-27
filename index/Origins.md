@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36130
+revid: 36148
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -50,6 +50,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
 -   **\[PRO\]** You regain sanity in Castle Light.
+-   **\[PRO\]** Killing a monster with more than 500 HP gives 3% luck.
 -   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
 -   **\[PRO/CON DEPENDING ON SKILL\]** You start off in the Depths (Castle Light).
@@ -68,6 +69,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You get much more EXP from completing bounties, and guaranteed 3% luck from completing one. (needs more testing)
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
+-   **\[PRO\]** Have access to the Bounty Board of the Knives of Eylis.
+    -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is no NPC to clear your reputation for them, the bounty board is always full.
 -   **\[CON\]** Most factions will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
 -   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
 -   **\[CON\]** The Voidheart is located far away from other islands, and the only choice for you to leave is by talking to the Voidmother, which takes you to [Songseeker Wilds](https://deepwoken.fandom.com/wiki/Songseeker_Wilds?so=search).
