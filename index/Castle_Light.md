@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 36128
+revid: 36164
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ Optionally is a starting location for those using [Deepbound](Origins.md) origin
 
 ## Overview
 
-Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening surronding area and making it visible from outside. It's guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
+Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening surronding area and making it visible from outside. It's guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool or has a Deepbound origin.
 
 ## Points of Interest
 

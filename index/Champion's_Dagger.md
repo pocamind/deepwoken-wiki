@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 32770
+revid: 36159
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley Chests |
+| obtainment | Starswept Valley ChestsDepths Chests |
 | description | Your trusty weapon. |
 
 “ It ain't much, but it's honest work. ”
@@ -34,7 +34,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Champion's Dagger is a Dagger and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md).
+The Champion's Dagger is a Dagger and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
 
 ## Notes
 

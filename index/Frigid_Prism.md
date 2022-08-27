@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 35606
+revid: 36160
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,3 +19,5 @@ File:23rq3fasdfew.png
 -   The nomad tribe can spawn at anytime and is peaceful until you attack it.
 -   Any NPC that uses [Frostdraw](Frostdraw.md) has a chance to drop the prisms.
 -   An easy way to get the prisms is to go to [summer isle](Summer_Isle.md) and kill the [nomads](Eastern_Nomad.md) there, as they are peaceful and easy to defeat.
+
+\[Improfessional Page\]
