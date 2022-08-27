@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 35057
+revid: 36183
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 “ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
 
-― ???
+― Deep Owl about to give a new player trauma
 
 Template:Creature Infobox V3
 

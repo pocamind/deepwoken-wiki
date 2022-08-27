@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 35782
+revid: 36179
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -61,7 +61,6 @@ The Etris blacksmith house.
 -   Players can buy a variety of starter weapons from Astra here:
     -   Light Weapon users can purchase:
         -   [Stiletto](Stiletto.md) for.
-        -   Parrying Dagger (requires 10 LHT) for.
         -   Bullets for Gun users for per.
     -   Medium Weapon users can purchase:
         -   [Iron Spear](Iron_Spear.md) for.
@@ -71,8 +70,9 @@ The Etris blacksmith house.
     -   Heavy Weapon users can purchase:
         -   [Battleaxe](Battleaxe.md) for.
         -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
-        -   Zweihander(nonstickk fixed the spelling) (requires 20 HVY, 10 STR) for.
+        -   Zweihander (requires 20 HVY, 10 STR) for.
     -   Players can purchase a Targe (requires 10 FTD) for.
+    -   Players can purchase a Parrying Dagger (requires 10 AGI) for.
     -   On the second floor, players can also purchase the schematic for:
         -   [Skeptic Pioneer](Skeptic_Pioneer.md) for.
         -   [Shadow Hunter](Shadow_Hunter.md) for.

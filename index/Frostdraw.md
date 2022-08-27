@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 36152
+revid: 36178
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -56,7 +56,7 @@ Ice Spikes
 
 _Piercing spikes of ice._
 
- | Conjure a spike of ice from the ground at cursor location.
+ | Conjure a spike of ice from the ground at the cursor's location.
 
 -   Deals moderate damage and sends target into the air.
 -   Leaves ice where the Mantra is casted.
@@ -128,7 +128,7 @@ Ice Lasers
 
 _Swift bolts of frozen air._
 
- | Fires a penetrating bullet of ice.
+ | Fires a bullet of ice.
 
 -   Bad Hitbox.
 -   Damages opponents, _possibly slows them down._
