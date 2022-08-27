@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36148
+revid: 36176
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -70,8 +70,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[PRO\]** Have access to the Bounty Board of the Knives of Eylis.
-    -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is no NPC to clear your reputation for them, the bounty board is always full.
--   **\[CON\]** Most factions will always hate you, and there is no way to reset the rep, similar to having the [fugitive](Boons_and_Flaws.md) flaw.
+    -   ~Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is no NPC to clear your reputation for them, the bounty board is always full.~ (You can gain reputation with the Knives of Eylis through helping them in events, although these are quite specific so _normally_ there are bounties on the board. In larger servers, the bounty board almost always has large amounts of bounties.
+-   **\[PRO\]** Whalers will not attack you at the beginning.
+-   **\[CON\]** Most factions will always hate you and at the beginning will attack you. There is no way to reset the rep with notes, similar to having the [fugitive](Boons_and_Flaws.md) flaw which is passive.
 -   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
 -   **\[CON\]** The Voidheart is located far away from other islands, and the only choice for you to leave is by talking to the Voidmother, which takes you to [Songseeker Wilds](https://deepwoken.fandom.com/wiki/Songseeker_Wilds?so=search).
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 36121
+revid: 36168
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -112,7 +112,7 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 -   While _Deepwoken_ is largely PvE, many players who use _Marauder_ will usually be more hostile towards anyone to gain higher luck from gripping. Be extremely cautious of [Lower Erisia](Lower_Erisia.md).
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras. Generally not worth taking.
-    -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impposible to fix).
+    -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impossible to fix).
     -   Gluton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
     -   Manic is basically a free point. The increased insanity gain is minimal, and scratching can be completely avoid if you play properly.
@@ -130,4 +130,4 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
     -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Bloodiron Spirit. Feel free to take it if you want to omit the talent however.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can be obtained as of the 16/08/22 through unlocking.
--   As of August 2022, Deepbound is no longer a flaw but now an unlockable origin.
+-   Deepbound used to be a flaw but was change to an unlockable [origin](Origins.md).
