@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 36151
+revid: 36200
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -1277,7 +1277,7 @@ _+Talent: Firmly Planted_
 
 ― PL99 Flamecharm Canor.
 
-Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver and Gold Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
+Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver,Gold and Moon Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |

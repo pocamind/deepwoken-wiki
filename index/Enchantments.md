@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 35742
+revid: 36202
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -180,7 +180,7 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>Weapon gain 1.1x damage.<br>
+  <td><div><p>Weapon gain 1.2x damage.<br>
   <br>
   Blood damage is increased.<br>
   While above 10% HP, missing an M1 deal 1% of max HP as self damage.</p></div></td>
@@ -374,7 +374,7 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 -   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
     
-    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day will be absorbed into the blade.
+    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day you will be absorbed into the blade.
 -   Enchanted Hero Blades were in the game before they were removed.
 
 -   Some enchants used to have different names:

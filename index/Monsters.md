@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 34846
+revid: 36196
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -161,7 +161,7 @@ If you were to fight a Stone Knight, which has a 55% resistance to slashing, wit
 
 **9000 / (0.45 ⋅ ((60 + 10) ⋅ (40 _⋅ (10/100+1))_ ⋅ 0.089))**, which would come out to 72.9607471 hits.
 
-_[Easily calculate damage done to monsters](https://www.desmos.com/calculator/1qjzxb2c0g)_.
+_[Easily calculate damage done to monsters](https://www.desmos.com/calculator/usavuouqfq)_.
 
 ## Trivia
 
