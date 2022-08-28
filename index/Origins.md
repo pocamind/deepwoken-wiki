@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36186
+revid: 36193
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -32,6 +32,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 -   Your spawnpoint is [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
+-   **\[CON\]** You spawn without a training item.
 
 ## Deepbound
 
