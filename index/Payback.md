@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 32068
+revid: 36185
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -68,3 +68,4 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".
 -   The best way to counter variant 2 payback resonance is by using variant 1 payback. This usually will mess them up real bad
+-   Prediction mantra but better

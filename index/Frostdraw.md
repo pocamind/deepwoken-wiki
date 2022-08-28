@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 36178
+revid: 36189
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -326,7 +326,7 @@ _Impale your foes with a brutal crystal smash._
 
  |
 
-### **Mobility**
+### **penis**
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
