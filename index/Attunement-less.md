@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36131
+revid: 36191
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -436,4 +436,4 @@ For example:
 -   Rapid Punches is the single Attunement-less mantra that has a star. Also, the animation changed sadly.
 -   Revenge really be a Afro Samurai wannabe type of move.
 -   Exhaustion Strike is glorified spit.
--   \-But what is the megalodaunt roar skill?
+-   \-But what is the megalodaunt roar skill? <- It's a murmur dumbass
