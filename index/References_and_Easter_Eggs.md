@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 36208
+revid: 36216
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -42,6 +42,11 @@ notices:
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
 
+### **Galebreathe**
+
+-   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling
+-   Champions Whirl Throw is a reference to Goku's [Dragon Throw](https://dragonball.fandom.com/wiki/Dragonthrow)
+
 ### **Shadowcast**
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
@@ -50,9 +55,14 @@ notices:
 -   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
 -   **Shadow Travel** may be reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 
+### **Attunementless**
+
+Rapid punch’s resembles star platinum barrage move from Jojo’s bizarre adventure
+
 ## Enemies/Bosses
 
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+-   **[Deep Owls](Deep_Owl.md)** have a vaguely reminicist design to [Wan Shi Tong](https://avatar.fandom.com/wiki/Wan_Shi_Tong) from _Avatar_
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
     -   **Watchers**, the monsters that summon Angels, also share similarities with both [Sirenhead](https://trevorhenderson.fandom.com/wiki/Siren_Head) from the _Trevor Henderson Mythos_, and the [Demogorgon](https://strangerthings.fandom.com/wiki/The_Demogorgon) from _Stranger Things_.

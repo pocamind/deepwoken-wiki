@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 35572
+revid: 36217
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -60,6 +60,7 @@ When obtained, Resurrection will spend its points on the following stats:
 
 ## Trivia
 
+-   For some reason, sometimes the bell may not activate immediately, which gives the enemies the opportunity to grip you.
 -   When someone or something is getting resurrected, they cannot be damaged.
 -   Due to the latest updates, you can now use this bell on yourself by holding the C button.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.

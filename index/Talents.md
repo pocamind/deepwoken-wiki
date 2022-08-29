@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 35963
+revid: 36212
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -992,7 +992,7 @@ Prerequisite: Charisma
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-    -   Prerequisite: Static Link, ?? Fortitude
+    -   Prerequisite: Static Link, No more then 20 Fortitude
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
     -   Prerequisite: Static Link
 

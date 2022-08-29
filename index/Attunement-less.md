@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36205
+revid: 36214
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -438,12 +438,7 @@ For short: Every 20 points in a specific attribute will unlock the next level fo
 
 ### _**Trivia**_
 
--   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
--   _Strong Left or the so called: "Retard!"_
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
--   Rapid Punches is the single Attunement-less mantra that has a star. Also, the animation changed sadly.
--   Revenge really be a Afro Samurai wannabe type of move.
--   Exhaustion Strike is glorified spit.
--   \-But what is the megalodaunt roar skill? <- It's a murmur dumbass
+-   Rapid Punches is the single Attunement-less mantra that has a star.
