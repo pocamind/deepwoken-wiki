@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36218
+revid: 36232
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -439,7 +439,12 @@ For short: Every 20 points in a specific attribute will unlock the next level fo
 
 ### _**Trivia**_
 
+-   The majority of mantra modifiers have gotten their functionality removed from attunement-less mantras, due that they made them too damn overpowered.
+    -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
+    -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase it's range with Drift/Rush shards.
+    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a Fortitude/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
+-   Summoning Cauldron was one of the most powerful mantras out there, excluding pre-nerf Strong Left.
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.

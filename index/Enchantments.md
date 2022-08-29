@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36210
+revid: 36233
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -70,7 +70,8 @@ Changelogs:
 <tr>
   <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Weapon deal 1.1x damage.<br>
-  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
+  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.<br>
+  The damage overtime have 100% PEN.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -226,7 +227,7 @@ Changelogs:
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
   <td><div><p>A super charged attack on proc.<br>
   <b>yayafino Dev Spec</b></p></div></td>
-  <td><div>Weapon is blown out with shooting out exhausts of colors Red Yellow Green.</div></td>
+  <td><div>Weapon is blown out with shooting out exhausts of the colors red, yellow, and green.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><div>Providence's Storms</div></td>

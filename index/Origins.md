@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36222
+revid: 36231
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -45,9 +45,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
 
 -   Grants innate Talent "Deepbound Contract".
-    -   **\[PRO\]** This increases EXP Gain in the Depths...
-    -   **\[CON\]** ..but reduces EXP Gain in the Overworld.
-    -   Your starting location is always Castle Light.
+    -   **\[PRO\]** Increased EXP Gain in the Depths...
+    -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
+    -   Your starting location is Castle Light.
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
 -   **\[PRO\]** You regain sanity in Castle Light.
@@ -64,24 +64,23 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked (-- then through a Knife's Time Bubble.
 
--   You spawn at [Voidheart](Voidheart.md). Leaving will teleport you to the [Songseeker Wilds](Songseeker_Wilds.md).
 -   Grants the innate talent "Voidwalker Contract"
-    -   **\[PRO\]** You will always have an item to teleport back to your spawnpoint anywhere.
--   **\[PRO\]** You get much more EXP from completing bounties, and guaranteed 3% luck from completing one. (needs more testing)
+    -   **\[PRO\]** Increased EXP Gain from bounties...
+    -   **\[CON\]** ...but reduced EXP Gain from events.
+    -   **\[CON\]** You start with negative reputation toward most factions
+    -   Your starting location is [The Voidheart](Voidheart.md).
+-   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
+    -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[PRO\]** Have access to the Bounty Board of the Knives of Eylis.
     -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is only a single way to get Knife of Eylis reputation (Etrea VS Knife of Eylis), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
 -   **\[PRO\]** Whalers will not attack you at the beginning.
--   **\[CON\]** You start with negative reputation toward most factions (similar in a vein to the Fugitive flaw, which start you with negative reputation toward all factions).
-    -   You can still gain reputation normally to gain neutrality or more.
-    -   Similar to Fugitive, you can only pay to clear your crimes that brings you below your initial, starting rep.
--   **\[CON\]** You gain less EXP from everything besides pvp and bounties.
--   **\[CON\]** The Voidheart is located far away from other islands, and the only choice for you to leave is by talking to the Voidmother, which takes you to [Songseeker Wilds](https://deepwoken.fandom.com/wiki/Songseeker_Wilds?so=search).
+-   **\[CON\]** The only way to access The Voidheart is throught the Void Eye.
+-   **\[CON\]** Leaving the Voidheart always take you to [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Trivia
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
     -   Deepbound is obtained _only_ after talking to Akira about joining the divers; but not actually saying yes. This misconception led to a handful amount of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader in your guild will in turn make you one in the guild. This led to players running away from Officers or Leaders in The Divers, since they were exiling everyone left and right.
--   As of August 2022, Voidwalker is the most controversial and problematic origin to unlock.

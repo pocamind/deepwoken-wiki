@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 36179
+revid: 36234
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -65,14 +65,14 @@ The Etris blacksmith house.
     -   Medium Weapon users can purchase:
         -   [Iron Spear](Iron_Spear.md) for.
         -   [Messer](Messer.md) (requires 10 MED) for.
-        -   Mace (requires 10 MED) for.
-        -   Ritual Spear (requires 35 MED) for.
+        -   [Mace](Mace.md) (requires 10 MED) for.
+        -   [Ritual Spear](Ritual_Spear.md) (requires 35 MED) for.
     -   Heavy Weapon users can purchase:
         -   [Battleaxe](Battleaxe.md) for.
         -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
         -   Zweihander (requires 20 HVY, 10 STR) for.
-    -   Players can purchase a Targe (requires 10 FTD) for.
-    -   Players can purchase a Parrying Dagger (requires 10 AGI) for.
+    -   Players can purchase a [Targe](Targe.md) (requires 10 FTD) for.
+    -   Players can purchase a [Parrying Dagger](Parrying_Dagger.md) (requires 10 AGI) for.
     -   On the second floor, players can also purchase the schematic for:
         -   [Skeptic Pioneer](Skeptic_Pioneer.md) for.
         -   [Shadow Hunter](Shadow_Hunter.md) for.
@@ -91,16 +91,16 @@ The Etris blacksmith house.
 
 #### General Store
 
--   Players can purchase a Pickaxe (requires STR 1), Lumber Axe, Flint and Fiber for each.
--   Players can purchase Wood here for eas
+-   Players can purchase a Pickaxe, Lumber Axe, Flint and Fiber for each.
+-   Players can purchase Wood here for.
 
 #### Lance's Food
 
--   Lance Leshi and Ploom can be found here.
+-   Lance Leshi and [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest) can be found here.
 -   Mushroom Omelettes can be purchased on the grill for.
 -   Mushroom Bisque can be purchased for.
 -   Mushroom Omelettes on the table can be purchased for.
--   Flame Worshipper Shield can be purchased for.
+-   [Flame Worshipper Shield](<Worshipper's_Shield.md>) can be purchased for.
 -   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
 
 #### The Lord Regent's Palace
@@ -109,16 +109,16 @@ The Etris blacksmith house.
 
 #### The Den
 
--   Den Master can be found here. He sells Cloudstone, Amnesic Driftwood, Drift shard and Crystal Lens each for 10 Notes.
+-   Den Master can be found here. He sells [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift shard](Mantra_Modifiers.md#regular-modifiers), and [Crystal Lens](Mantra_Modifiers.md#regular-modifiers), each for 10 Notes.
 
 #### Alchemist's Lodge
 
--   Nell, a spelltrainer that can upgrade [Frostdraw](Frostdraw.md) Mantras, can be found here.
+-   Nell, a [spelltrainer](Attunement_Trainers.md) that can upgrade [Frostdraw](Frostdraw.md) Mantras, can be found here.
 -   A functional cauldron can be found here.
 
 #### Miscellaneous
 
--   Polis can be found in the middle of the city, and on first dialogue will give you a Gold Ring.
+-   [Polis](Polis.md) can be found in the middle of the city, and on first dialogue will give you a Gold Ring.
 
 ## Quests
 
@@ -131,13 +131,13 @@ The Etris blacksmith house.
 
 ### Slim Jim Quest
 
--   Talk to Jim, a Red-Haired Canor located in a house within Etris Docks.
+-   Talk to Jim, a Red-Haired Canor located in a house within [Etris Docks](Etris_Docks.md).
 -   He mutters about lacking the necessary ingredients- Agreeing to help him requires 2 Dying Embers.
 -   Reward of completing this quest is a random high tier manta modifier.
 
 ### Lumberjack Quest
 
--   Talk to the Etrean that is idling outside a house by the exit to the Etrean wilds
+-   Talk to the Etrean that is idling outside a house by the exit to the [Etrean wilds.](Etrean_Wilds.md)
 -   He will ask you to chop wood for him so that they have a sustainable supply of lumber for the Winter.
 -   Accepting his quest gives you a Lumber Axe for free.
 -   10 Wood for 5 Notes.
@@ -145,16 +145,16 @@ The Etris blacksmith house.
 
 ### Nomad Meeting Mishap Quest
 
--   Talk to the Navaen Nomad in Etris, located near the big slope ramp close to the Alchemy House.
--   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
+-   Talk to [Nanji](Nanji.md) in **Etris**, located near the big slope ramp close to the Alchemy House.
+-   She'll talk to you about a missing individual, whom they were suppose to meet in **Etris**. Agreeing to help to find this person accepts the quest.
 -   Look at: [Nanji](Nanji.md)
 
 ### The Lord Regent's Quest
 
 Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and properly equipped players.
 
--   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrean Guards in the Etrean Guard vs Adret event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
--   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
+-   To begin this quest, you must have a positive reputation in [Etrea](Etrea.md). Can be achieved by helping the Etrean Guards in the [Etrea vs Authority](https://deepwoken.fandom.com/wiki/Random_Encounters#X_vs_X) event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
+-   Once you've become popular with the residence of [Etrea](Etrea.md) (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the The Lord Regent's Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
 
@@ -162,10 +162,10 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 
 -   Make sure you talk to the Royal Guards that the The Lord Regent is expecting you, making them docile unless provoked.
 
--   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through [Erisia,](Erisia.md) go through [Towerstruck Lands](Towerstruck_Lands.md) and into the [Garden Reservoir](The_Garden_Reservoir.md), there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing white.
--   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
+-   Descend to the Elevators, and fight against a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
 -   After you defeat the Duke, if you visit The Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
@@ -174,11 +174,11 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 
 ### Diver Escort Quest
 
-To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
+To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. She is located in a house near the Signs, next to the General Store.
 
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in [Erisia](Erisia.md). (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You must have Charisma ~10 to charge Karliah.
--   Save her from the Mudskipper that is attacking her.
+-   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.
 -   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful. (Don’t be a chad)
 
@@ -186,14 +186,14 @@ To begin this quest, talk to Karliah, an Adret Diver. She is located in a house 
 
 _"Don't be scared. I promise I'll protect you no matter what."_
 
--   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by [horseshoe crabs](Horseshoe_Crab.md) and explode.
+-   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by [Horseshoe Crabs](Horseshoe_Crab.md) and explode.
 -   There is no reward for this ending. (The four horseshoe crabs on the ground can be seen beforehand but cannot be attacked or killed, neither before or during the attack. This route is meant only as some twisted humorous ending.)
 
 #### Ending 2: Eyes Wide Open
 
 _"You've been through alot- Maybe you should go home and study on your own for awhile and come back later."_
 
--   Picking the 2nd option, Karliah returns back home and studies. If the Player checks up on Karliah's Home in Etris, she is covered in blood and mentally deranged- along with petting the head of an Old Etrean she once helped.
+-   Picking the 2nd option, [Karliah](Karliah.md) returns back home and studies. If the Player checks up on [Karliah](Karliah.md)'s Home in **Etris**, she is covered in blood and mentally deranged, along with petting the head of an [Old Etrean](Joshua.md) she once helped.
 -   She greets you with a friendly tone, and talks about her studies. Her eyes to the truth of the world was revealed due to the studies you ask her to.
 -   There is no way to save her, as the only option is to put her down; snapping her neck from behind.
 -   The reward from this ending is a fistful of EXP, and a shiver down your spine.
@@ -202,23 +202,23 @@ _"You've been through alot- Maybe you should go home and study on your own for a
 
 _"I don't think you're cut out for this. Mudskippers are small fry, and you'll face much worse as a Diver. You need to rethink your life goals."_
 
--   Picking the 3rd option, Karliah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
--   Checking up on Karliah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
+-   Picking the 3rd option, [Karliah](Karliah.md) accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in **Etris**.
+-   Checking up on [Karliah](Karliah.md), back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of **Etris** being friendly with her.
 -   The reward from this ending increases your charisma cap to 100, a fistful of EXP, and a moment of harmony and relief.
 -   Requires 50 Charisma \[Confirmed by SkipperFalconeer, If you don't have enough and try to get the 3rd ending anyway, You won't be able to try again. Keep this in mind before trying out to this.\]
--   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.e
+-   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.
 
 ### Etris War Event
 
 This event is an extremely rare event that happens every so often.
 
-At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to Aid Etris.
+At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to aid **Etris**.
 
 After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths loot will spawn at the Tree in the center of Etris.
 
 ## NPCs
 
--   Ploom
+-   [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest)
 -   Theadre
 -   [Lord Regent](The_Lord_Regent.md)
 -   Innkeeper
@@ -229,10 +229,10 @@ After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths
 -   Kennith
 -   [Royal Guard](Etrean_Guardsmen.md)
 -   [Karliah](Karliah.md)
--   The old guy Karliah kills (placeholder)
+-   [Joshua](Joshua.md)
 -   Frostdrawer Nell
--   That capra at the port (placeholder)
 -   [The Den Master](Den_Master.md)
+-   Serephina
 -   Eastern Camp Master
 -   [Barber](Barber.md)
 
@@ -246,29 +246,29 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Further through the dialogue, you can choose 3 ways of doing this quest.
     -   1\. Do the quest normally, and accept his offer. Fetch him 3 Dying Embers for him.
     -   2\. Perform a Charisma Check, which requires Charisma 50.
-    -   3\. Perform a Flamecharm Check, which requires Flamecharm 40.
+    -   3\. Perform a [Flamecharm](Flamecharm.md) Check, which requires [Flamecharm](Flamecharm.md) 40.
 
 -   Reward of doing Ploom's bidding is the Pleeksty's Will Talent, which increases Ether and Reservoir gain from consuming elemental ingredients.
 
 ### Frostdrawer Nell Quest
 
 -   Talk to Nell, located in the Alchemy House.
--   Accepting Nell's quest requires you to bring 5 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use Frostdraw.)
--   After giving her the required items, she will then use them and give you Glassblood to your inventory.
--   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw Talents.
+-   Accepting Nell's quest requires you to bring 5 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use [Frostdraw](Frostdraw.md).)
+-   After giving her the required items, she will then use them and give you [Glassblood](Attunement_Potions.md) to your inventory.
+-   Drinking [Glassblood](Attunement_Potions.md) will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast [Frostdraw](Frostdraw.md) and learn [Frostdraw](Frostdraw.md) Talents.
 
 ### Navaen Tribe Rescue Quest
 
 -   Find and rescue a Navaen tribe member either in [Erisia](Erisia.md) in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn.
     -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
--   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
--   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
+-   The reward for this quest is the "[Way of Navae](Fists.md)" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
+-   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [Lionfish](Lionfish.md) spawns, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 
 ## Trivia
 
--   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
+-   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met each other, and is honored that you serve Etrea well.
 -   After talking to the Bookworm in The Lord Regent's Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.

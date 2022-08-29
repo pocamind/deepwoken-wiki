@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36132
+revid: 36225
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -76,6 +76,18 @@ Within the castle's ground floor, on the opposite side of where the Antiquarian/
 
 -   Didn't check if you need neutral/positive reputation to communicate with them.
 
+File:Red Crate.png
+
+"You brought a knife to a GUN BATTLE!"
+
+#### _**Scope \[QUEST\]**_
+
+Within the tower on the left side of the castle's entrance stairs, Scope needs to recover crates filled with explosives that have been stolen by the bandits/Ignition Union, and what other better way to retrieve the crates is there than just sending you to do it.
+
+These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
+
+-   Scope could be a pun based on sniper rifles and other guns that have a "scope".
+
 ### _**Shipwright**_
 
 The Shipwright is located on the rocky beach within a castle like structure.
@@ -84,8 +96,36 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 ### _**Inn**_
 
--   The Innkeeper: Allows you to set your spawnpoint at Summer Isle for 5 notes.
--   The Guildmaster: Allows you to make a guild/leave an existing one.
+#### _**The Innkeeper**_
+
+-   Allows you to set your spawnpoint at Summer Isle for 5 notes.
+
+#### _**The Guildmaster**_
+
+-   Allows you to make a guild/leave an existing one.
+
+#### _**Trig \[QUEST\]**_
+
+Trig is an NPC at the entrance of the Inn. His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
+
+File:RobloxScreenShot20211227 094500945.png
+
+Asius can be found in the circular structure found behind the Inn if you follow the path leading away from the Inn in an alcove.
+
+You will be given two quest dialogue options after answering why you're meeting him:
+
+1.  I'll see what I can do.
+2.  No you bottom feeding lowlife, pay up or I'll send you to the 3rd Layer.
+3.  \[ End Dialogue \]
+
+1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
+2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare talent called "Armor Piercing" that can be obtained when leveling up.** (obviously, it affects only guns)
+
+-   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
+
+### _**Crime Tax Collector**_
+
+-   Nepo, an NPC found on a bridge can clear your bounty with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
 
 ### _**The Furnace**_
 
@@ -123,85 +163,7 @@ A cave opening facing the Shipwright's building, easy to spot.
 
 -   A castle like building in ruins, nothing of interest is inside or near it.
 
-## Loot Table & Purchasable Items
-
-### _**Purchasable Items/Blueprints/Weapons**_
-
-Items and equipment that can be directly bought with currency.
-
-##### Items
-
--   Encyclopedia
--   Math Textbook
--   Hunter's Brace
--   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears)
--   [Pure Heart](Training_Gear.md#attunement-training-gears)
--   [Hemafrost](Training_Gear.md#attunement-training-gears)
--   [Gale Kata](Training_Gear.md#attunement-training-gears)
--   Praying Beads
--   Ankle Weights
--   Training Vest
--   Dumbbell
--   Wood
--   Cloth
--   Fiber
--   Flint
--   Bullet
-
-##### Blueprints
-
--   [Summer Company Uniform](Summer_Company_Uniform.md)
-
-##### Weapons
-
--   [Flintlock](Flintlock.md)
--   [Revolver](Repeater.md)
--   [Dragoon](Dragoon.md)
--   [Silver Dagger](Silver_Dagger.md)
-
-### _**Loot Table**_
-
-Items and equipment that can be obtained from loot chests.
-
-#### Weapons
-
--   [Trident Spear](Trident_Spear.md) (0-1 star)
--   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
--   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star) - Also with a higher chance of being enchanted.
--   [Iron Cestus](Iron_Cestus.md)(0-3 star)
--   [Ritual Spear](Ritual_Spear.md)
-
-#### Equipment
-
--   Practitioner's Earrings(0-1 star)
--   Burgundy/Beige/Slate Tophat (0-2 star)
--   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
--   Novice Boots
--   Rebel's Bandana (0-2 star)
--   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
--   Red Headband
-
-#### Treasury
-
--   Amethyst(4-5)
--   Ruby(3-4)
--   Saphire(3-4)
--   Emerald(3-4)
--   Gold Bar(4)
-
-#### Blueprints
-
--   [Summer Company Uniform](Summer_Company_Uniform.md)
--   [Verdant Sniper](Verdant_Sniper.md)
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
-
-#### Rings
-
--   Dawnfist's Ring
-
-## Island Denizens
+## Island Inhabitants
 
 Main Faction - [Summer Company](The_Summer_Company.md)
 
@@ -214,66 +176,117 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 -   Ministry Scouts
 -   Bandits
 
-### Relationships inbetween NPCs:
+### NPC Relationship
 
 -   Basically everyone hates everyone, if it's on their side, they wont attack.
 
-### NPC events:
+### NPC Events
+
+#### Explosive Crate \[QUEST\]
 
 -   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in for a chance at good loot.
+-   This crate can be returned to Scope in the Castle for a loot chest.
 -   From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
+
+#### Bandit Ambush
 
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   You will be rewarded with a decent amount of XP upon killing all the seven bandits.
 
+#### Bandits V.S. Summer Company
+
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
 -   You will be rewarded with a decent amount of XP and a chest if you help the Summer Company Thugs win.
+
+#### Ignition Union V.S. Summer Company
 
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter.
 
+#### Ministry Massacre
+
 -   A Ministry Scout sitting at a campfire with several Bandit corpses around them.
 -   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
+
+#### Nomads V.S. The Ministry
 
 -   Nomads fighting off Ministry Scouts.
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.
 
-### **Clearing Bad rep.**
+## Loot Table & Purchasable Items
 
--   Nepo, an NPC found on a bridge can clear your bounty with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
+### _**Purchasable Items/Blueprints/Weapons**_
 
-## Quests
+Items and equipment that can be directly bought with currency.
 
-### _**Trig's Quest**_
+#### _**Items**_
 
-Trig is an NPC that can be talked to who stands at the entrance of the Inn. His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
+-   Encyclopedia
+-   Math Textbook
+-   Hunter's Brace
+-   Self-Conducting Loop
+-   Pure Heart
+-   Hemafrost
+-   Gale Kata
+-   Praying Beads
+-   Ankle Weights
+-   Training Vest
+-   Dumbbell
+-   Wood
+-   Cloth
+-   Fiber
+-   Flint
+-   Bullet
 
-File:RobloxScreenShot20211227 094500945.png
+#### _**Blueprints**_
 
-Asius can be found in the circular structure found behind the Inn if you follow the path leading away from the Inn in an alcove. You will be given two quest dialogue options after answering why you're meeting him.
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
 
-1.  I'll see what I can do.
-2.  No you bottom feeding lowlife, pay up or I'll send you to the 3rd Layer.
-3.  \[ End Dialogue \]
+#### _**Weapons**_
 
-Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
+-   [Flintlock](Flintlock.md)
+-   [Revolver](Repeater.md)
+-   [Dragoon](Dragoon.md)
+-   [Silver Dagger](Silver_Dagger.md)
 
-Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, ~but also a new Gun Technique, which is a talent called Armor Piercing.~ _I did the quest and did not get the talent. I had dual guns and shortly after, I rolled Armor Piercing. The reward may be that you are able to roll Armor Piercing after completing the quest. It's a rare btw._
+### _**Loot Table**_
 
--   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
+Items and equipment that can be obtained from loot chests.
 
-### _**Scope's Fetch Quest**_
+#### _**Weapons**_
 
-Scope can be found in a building opposite to the blacksmith in the above image mentioning the Blacksmith. He needs you to recover boxes of explosives that Summer Company guards cannot deliver at the time, due to being too busy fighting off the Ignition Union.
+-   [Trident Spear](Trident_Spear.md) (0-1 star)
+-   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
+-   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star) - Also with a higher chance of being enchanted.
+-   [Iron Cestus](Iron_Cestus.md)(0-3 star)
+-   [Ritual Spear](Ritual_Spear.md)
 
-These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these big boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
+#### _**Equipment**_
 
--   Scope could be a pun based on sniper rifles and other guns that have a "scope".
+-   Practitioner's Earrings(0-1 star)
+-   Burgundy/Beige/Slate Tophat (0-2 star)
+-   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
+-   Novice Boots
+-   Rebel's Bandana (0-2 star)
+-   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
+-   Red Headband
 
-File:Red Crate.png
+#### _**Treasury**_
 
-_Red Crate, & Summer Company Guards after dunking on the Ignition Union._
+-   Amethyst(4-5)
+-   Ruby(3-4)
+-   Saphire(3-4)
+-   Emerald(3-4)
+-   Gold Bar(4)
 
-File:Summer Company Postives.png
+#### _**Blueprints**_
 
-_Positive rep with the Summer Company, after delivering a box of explosives._
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
+-   [Verdant Sniper](Verdant_Sniper.md)
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
+
+#### _**Rings**_
+
+-   Dawnfist's Ring
