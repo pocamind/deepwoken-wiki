@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 32694
+revid: 36219
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -29,7 +29,3 @@ This Outfit's Schematic can be found in:
 -   [Erisia](Erisia.md)
 -   [The Depths](The_Depths.md) (Chest)
 -   [Deep Widow](Deep_Widow.md) (Chest)
-
-## Trivia/Notes
-
--   One of the only Outfits in the game named after a faction.

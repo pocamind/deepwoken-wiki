@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36214
+revid: 36218
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -190,8 +190,9 @@ File:No Attunement Revamp.png
 
  | _An agile dash._ | 
 
--   **Requirements:** _**40 agility** Mobility Mantra_
+-   **Requirements:** _**20 agility**_ _Mobility Mantra_
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
+    -   A Multiplying Spark allows 2 separate dashes.
 
  |
 | 
@@ -204,7 +205,7 @@ File:No Attunement Revamp.png
 
  | _Kick off of the ground with your strength, sending you into the air_ | 
 
--   **Requirements:** _**40 Agility**_ _Support Mantra_
+-   **Requirements:** _**20 Agility**_ _Support Mantra_
     -   Restores a decent amount of ether periodically, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
 
  |
