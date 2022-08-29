@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 36200
+revid: 36207
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -519,7 +519,7 @@ Grants a random buff.
  | Minityrsa Chests, Songseeker Chests | N/A |
 |  | 
 
-Polarized Eyeglasses
+[Polarized Eyeglasses](Eyeglasses.md)
 
  | 
 
@@ -528,7 +528,7 @@ Grants a random buff.
  | Minityrsa Chests, Songseeker Chests | N/A |
 | 81x81px | 
 
-[Demon Mask](Demon_Mask.md)
+Demon Mask
 
  | 
 
@@ -537,7 +537,7 @@ Grants a random buff.
  | Depths Chests | N/A |
 |  | 
 
-[Hivelord Mask](Hivelord_Mask.md)
+Hivelord Mask
 
  | 
 
@@ -546,7 +546,7 @@ Cosmetic
  | Hive Contructs, Arena Chests | N/A |
 |  | 
 
-[Iron Mask](Iron_Mask.md)
+Iron Mask
 
  | 
 

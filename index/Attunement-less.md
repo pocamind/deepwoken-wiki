@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36191
+revid: 36205
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -63,7 +63,7 @@ File:No Attunement Revamp.png
 
  | Rapid Punches
 
-(☆☆☆)
+(★☆☆)
 
  | _Unleash a barrage of blows against your foes._ | 
 
@@ -121,9 +121,9 @@ File:No Attunement Revamp.png
 -   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
 -   Needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
 -   _**Can be upgraded**_ with the following _**Fortitude Talents,**_
-    -   _Can be upgraded with the **"Lord Commander" talent card**, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
-    -   _Can be upgraded with the **"Blood Shadow" talent card,** which saps health from people you reinforced back onto you until the effect wears off._
-    -   _Can be upgraded with the **"Grand Support" talent card,** which slightly heals people upon reinforcing. (The user included)_
+    -   _Can be upgraded with the **"Lord Commander" rare talent card**, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
+    -   _Can be upgraded with the **"Blood Shadow" rare talent card,** which saps health from people you reinforced back onto you until the effect wears off._
+    -   _Can be upgraded with the **"Grand Support" rare talent card,** which slightly heals people upon reinforcing. (The user included\[stacks with Lord Commander\])_
 
  |
 | 
@@ -162,7 +162,7 @@ File:No Attunement Revamp.png
 
 ### _**Agility Mantras**_
 
-Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the duration/level cap, bolster your agility and wisdom with Ankle weights.
+Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the duration/level cap, bolster your agility and parkour abilities with Ankle weights, by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _**assassinations.**_
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -177,6 +177,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**5 Agility**_ _Combat Mantra_
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 5 agility, agility _Combat Mantra_.
+    -   Additionally, it scales with it's Level and Agility points, further increasing it's damage potential when dangerously low on health.
 
  |
 | 
@@ -190,7 +191,7 @@ File:No Attunement Revamp.png
  | _An agile dash._ | 
 
 -   **Requirements:** _**40 agility** Mobility Mantra_
-    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark, reversal spark and drift/rush shards.
+    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
 
  |
 | 
@@ -204,13 +205,13 @@ File:No Attunement Revamp.png
  | _Kick off of the ground with your strength, sending you into the air_ | 
 
 -   **Requirements:** _**40 Agility**_ _Support Mantra_
-    -   Restores a decent amount of ether, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
+    -   Restores a decent amount of ether periodically, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
 
  |
 
 ### _**Intelligence Mantras**_
 
-Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook.
+Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook, by discovering new locations, making new discoveries from crafting, or by simply scavenging natural resources.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -241,13 +242,13 @@ File:No Attunement Revamp.png
     -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. ~Does not work on M1's/Critical Attacks.~ This is false.
     -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
         -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.
-        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after it activates (Stacks).
+        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after it activates (Stacks). \[did you mean to say that it will continue reflecting back damage until the mantra wears off?\]
 
  |
 
 ### _**Willpower Mantras**_
 
-Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate.
+Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or ~your beloved~ players/NPCs,be the one to quickly end their life OR endure a long stay in [The Depths](The_Depths.md).
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -261,10 +262,10 @@ File:No Attunement Revamp.png
  | _An ability where you stare at your enemy, combat tagging them, giving slowness and reducing their defense._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
-    -   Requirement: 30 willpower, willpower _Support Mantra_.
+    -   You summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
+    -   Requirement: 30 Willpower, Willpower _Support Mantra_.
     -   Could be very dangerous for Agility-less or a Curse of the No Life King user.
-    -   Inflicts insanity.
+    -   Inflicts insanity and reduces defense by an unknown amount.
 
  |
 | 
@@ -294,12 +295,13 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**40 Willpower**_ _Combat Mantra_
     -   The mantra does not only clear your posture, it transfers it to the target.
+    -   It can also guard-break the enemy if enough posture is inflicted on the target.
 
  |
 
 ### _**Charisma Mantras**_
 
-Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
+Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends', that's literally it, there is honestly no other way to train this other than ~copy and pasting~ reading a phrase and typing it out near an unfortunate Etris guard.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -314,6 +316,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**25 Willpower**_ _Support Mantra_
     -   Combat tags enemies, and causes them to take 20% more damage, while they do 10% more damage to you specifically. They also can't jump anymore.
+    -   Stacks with Gaze.
 
  |
 | 
@@ -336,7 +339,7 @@ File:No Attunement Revamp.png
 
 -   These mantras are based on the amount of weapons points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
--   Read a 'Weapon Manual' in order to improve your damage with these mantras.
+-   To increase the damage/level cap, read a "Weapon Manual", parry, block and hit enemies with your weapon. (haha no dodging fuck you)
 
 ### _**Light Weapon Mantras**_
 
@@ -397,12 +400,12 @@ File:No Attunement Revamp.png
 
 The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
-1.  The user must be at least neutral with Hive.
+1.  ~The user must be at least neutral with Hive.~ This is false. I went to the trainer with Fugitive and negative reputation and he still allowed me to upgrade my mantras despite my heinous, _heinous_ crimes.
 2.  Must be able to use the wells to travel to the Greathive Aratel.
 3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
-    -   2 of them are located in the blacksmith's area.
-    -   1 is located outside of the observatory.
+    -   2 of them are located in the Blacksmith's area.
+    -   1 is located outside of the Observatory.
 
 Once completed, the user can upgrade their attunement-less mantras. NOTE:
 
@@ -415,23 +418,30 @@ For example:
 3.  40+ points in Intelligence => Level 3.
 4.  20+ points in Agility => Level 2.
 
+For short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more.
+
 ## Tips/Trivia
 
 ### _**Tips**_
 
--   You can increase the distance travelled of dashes with Drift Shard and Rush Shards, although this does not work with Strong Leap, this make the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
--   Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats more.
--   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
+-   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
+-   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
+-   You can increase the duration of Fortitude and Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md), although this does not work for Adrenaline Rush.
 -   ~You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.~
     -   You used to be able to use Summoning Cauldron to climb high obstacles, however, after an update, the Cauldron can no longer be summoned stick to walls due to the new way it is cast.
+    -   It still maintains a little bit of usefulness excluding the ability to make potions anywhere, that being: portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
--   Charisma mantras are a very good choice for gunslinger related builds.
+-   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance travelled BUT allows you to use it twice before it goes on cooldown.
+-   You can modify Revenge with a [Reversal Spark](Mantra_Modifiers.md), which makes it do _**absolutely nothing.**_
+-   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
+-   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 
 ### _**Trivia**_
 
 -   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
--   _Strong Left or the so called: "hot men"_
+-   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
+-   _Strong Left or the so called: "Retard!"_
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star. Also, the animation changed sadly.
 -   Revenge really be a Afro Samurai wannabe type of move.

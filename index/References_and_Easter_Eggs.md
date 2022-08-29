@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 36198
+revid: 36208
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -52,8 +52,7 @@ notices:
 
 ## Enemies/Bosses
 
--   **[Megalodaunts](Megalodaunt.md)** design is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
--   [**Deep Owls**](Deep_Owl.md) are vaguely reminisct of [Wan Shi Tong](https://avatar.fandom.com/wiki/Wan_Shi_Tong), from _Avatar_.
+-   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
     -   **Watchers**, the monsters that summon Angels, also share similarities with both [Sirenhead](https://trevorhenderson.fandom.com/wiki/Siren_Head) from the _Trevor Henderson Mythos_, and the [Demogorgon](https://strangerthings.fandom.com/wiki/The_Demogorgon) from _Stranger Things_.
