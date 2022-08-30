@@ -1,6 +1,6 @@
 ---
 title: Boulder
-revid: 35578
+revid: 36267
 source: https://deepwoken.fandom.com/wiki/Boulder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This training item slowly drains 1-2% of the user's HP while training both [Strength](Attributes.md) and [Fortitude](Attributes.md). It can also **KILL THE USER** if their health reaches 0%.
 
-It can be found outside of the [Antiquarian's Store](Antiquarian.md) at the right in [Etris](Etris.md). It can also be found sitting on a stone slab in [Fort Merit](Fort_Merit.md).
+It can be found in the following locations:
+
+-   Outside of the [Antiquarian's Store](Antiquarian.md) at the right in [Etris](Etris.md).
+-   At the right inside the entrance of [Temple of the Blade's](Temple_of_the_Blade.md) on [Isle of Vigils](Isle_of_Vigils.md).
+-   Sitting on a stone slab at the left of the entrance to [Fort Merit](Fort_Merit.md).
 
 ## Notes
 

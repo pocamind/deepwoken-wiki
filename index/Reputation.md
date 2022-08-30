@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 35807
+revid: 36268
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -36,18 +36,18 @@ Players can talk to the NPC guards posted within villages and islands. Depending
 
 Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
-Using a talent called 'friends in high places' the guards will not grip but instead knock you and insult you as they return to their posts.
+Using a [talent](Talents.md) called '[friends in high places](https://deepwoken.fandom.com/wiki/Talents#Silvertongue)' the guards will not grip but instead knock you and insult you as they return to their posts.
 
 #### _Negative Reputation_
 
 Players with negative reputation from factions **will be** attacked by NPCs from that faction.
 
 -   Guards within villages and islands will chase and attack you within line-of-sight.
--   Guards will aggro you if you grip another player in their vicinity.
+-   Guards will become aggressive towards you if you grip another player in their vicinity.
 -   Certain questlines will be disabled until reputation is restored to Neutral or Positive
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
-    -   If you became a criminal in an area where you've set your spawn, you will respawn at the Etris Inn instead.
-        -   In the scenario where you are also considered a criminal by the Etreans, you will instead respawn on the beach of Etrea.
+    -   If you became a criminal in an area where you've set your spawn, you will respawn at the [Etris](Etris.md) Inn instead.
+        -   In the scenario where you are also considered a criminal by the [Etreans](Etrea.md), you will instead respawn on the beach of [Etris](Etris.md).
 -   Blacksmiths will not allow you to access any of their services.
 
 ### Changes in Reputation
@@ -134,7 +134,7 @@ Etrean Guards vs. Authority Peacekeepers in Lower Erisia
 
 Battles between factions can randomly occur at any time, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
 
-For example, in Erisia Island players may find Etrean Footsoldiers fighting off another faction, such as The Authority. Assisting the Etreans by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
+For example, in [Erisia](Erisia.md), players may find Etrean Footsoldiers fighting off another faction, such as [The Authority](The_Central_Authority.md). Assisting the [Etreans](Etrea.md) by managing to attack and kill their enemies will **gain** you reputation within the territories of [Etrea](Etrea.md).
 
 You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Footsoldiers for reputation THEN grip the Footsoldiers for exp.
 
@@ -198,11 +198,11 @@ Crate Retrieval
 
 ## Trivia
 
--   Brutus' dialogue varies depending on your Authority reputation.
+-   [Brutus](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound)' dialogue varies depending on your [Authority](The_Central_Authority.md) reputation.
 -   The "Diplomat" charisma talent significantly increases reputation gain.
 -   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
 -   There are some factions who for, various reasons, players can only get one kind of rep with.
-    -   You cannot get good rep with Celtor, but can lose rep, essentially meaning once you are in the negative you will stay that way.
+    -   You cannot get good rep with [Celtor](The_City_of_the_Drowned.md), but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to become aggressive.
 -   The Ministry is the only Faction that all players start out with negative reputation on spawn.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 35650
+revid: 36260
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -754,13 +754,13 @@ FROM: Inhale
 
 -   Primadon is completely immune to suffocation.
 -   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
--   Arch\_mage stated that Galebreathe is "least me" out of all the elements.
+-   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
 -   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI.
 -   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
 -   The _"Gale Leap"_ talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
--   The _"Tempest Wind"_ talent requires the player to perform a jump to activate it.
 -   The \[Q\] key activates Gale Dash.
+-   Jumping before activating the _"Tempest Wind"_ talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.

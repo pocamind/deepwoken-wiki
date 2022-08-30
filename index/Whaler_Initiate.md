@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 36243
+revid: 36270
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:ArmorInfobox**Whaler Initiate** is an Adept [Outfit](Outfits.md) in _De
 
 ## Statistics
 
-This Outfit requires [Power Level](Power.md) 15 even though its only obtainable by being a void walker.
+This Outfit requires [Power Level](Power.md) 15, however, it appears to only be obtainable by spawning with the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) selected.
 
 ### _Armor Stats_
 
@@ -20,3 +20,4 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +5% Element
 ## Trivia/Notes
 
 -   This Outfit is granted for free upon starting with the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker).
+-   This Outfit appears near-identical to the [Whaler Coat](Whaler_Coat.md) Outfit.
