@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 34912
+revid: 36241
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Smelting is an obscure mechanic that involves combining 2 pieces of equipment to give stats to a piece of equipment while also keeping its appearance.
+Smelting is a mechanic that involves combining 2 pieces of equipment to give stats to a piece of equipment while also keeping its appearance.
 
 To start smelting, Head to the Forge/PvP arena found at [Summer Isle](Summer_Isle.md) and talk to Jarvis. It costs 1000 notes to combine equipment.
 

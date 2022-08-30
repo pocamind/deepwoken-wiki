@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36231
+revid: 36242
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -77,7 +77,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is only a single way to get Knife of Eylis reputation (Etrea VS Knife of Eylis), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
 -   **\[PRO\]** Whalers will not attack you at the beginning.
 -   **\[CON\]** The only way to access The Voidheart is throught the Void Eye.
--   **\[CON\]** Leaving the Voidheart always take you to [Songseeker Wilds](Songseeker_Wilds.md).
+-   **\[CON\]** Leaving the Voidheart always take you to [Songseeker Wilds](Songseeker_Wilds.md) or etris.
 
 ## Trivia
 

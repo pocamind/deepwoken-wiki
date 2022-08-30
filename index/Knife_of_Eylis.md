@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 36163
+revid: 36239
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,11 +12,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-[The Knives of Eylis](The_Knives_of_Eylis.md), also referred to as the Silver Whalers, are a gang of mercenaries hired by [The Authority](The_Central_Authority.md) to cause carnage in the Etrean Luminant. They are found in two locations, a group of five escorting a captured Navean Nomad in [Upper Erisia](Upper_Erisia.md), consisting of four Knives and one Knife Captain and a group of three raiding an Etrean Naval [Frigate](Ships_&_Sailing.md) in [The Aratel Sea](The_Aratel_Sea.md), consisting of two Knives and one Knife Captain. True to their name, they all wield [Whaling Knives](Whaling_Knife.md) and wear [Whaler Coats](Whaler_Coat.md).
+[The Knives of Eylis](The_Knives_of_Eylis.md), also referred to as the Silver Whalers, are a gang of mercenaries hired by [The Authority](The_Central_Authority.md) to cause carnage in the Etrean Luminant. They are found in two locations, a group of five escorting a captured Navean Nomad in [Upper Erisia](Upper_Erisia.md), consisting of four Knives and one [Knife Captain](Subtle_Knife_of_Eylis.md) and a group of three raiding an Etrean Naval [Frigate](Ships_&_Sailing.md) in [The Aratel Sea](The_Aratel_Sea.md), consisting of two Knives and one [Knife Captain](Subtle_Knife_of_Eylis.md). True to their name, they all wield [Whaling Knives](Whaling_Knife.md) and wear [Whaler Coats](Whaler_Coat.md).
 
 ## Moveset
 
-A Silver Whalers Assasin arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
+A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ A Silver Whalers Assasin arsenal only consists of a [Whaling Knife](Whaling_Knif
 
 ## Finisher
 
-A Silver Whalers Assasin executes it's opponent after knocking them:
+A Knife of Eylis executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

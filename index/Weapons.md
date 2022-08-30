@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 36108
+revid: 36247
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -886,23 +886,23 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="Night_Axe.md">Night Axe</a></td>
   <td>75 HVY</td>
   <td>22</td>
-  <td>N/A</td>
-  <td>70%</td>
-  <td>HVY: 7</td>
+  <td>5%</td>
+  <td>60%</td>
+  <td>HVY: 7.5</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.54x</td>
+  <td>0.57x</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
   <td>75 HVY</td>
   <td>24.5</td>
   <td>N/A</td>
-  <td>25%</td>
+  <td>30%</td>
   <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.54x</td>
+  <td>0.57x</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
@@ -913,7 +913,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.54x</td>
+  <td>0.57x</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
