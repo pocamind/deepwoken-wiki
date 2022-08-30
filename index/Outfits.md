@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 36244
+revid: 36255
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -343,7 +343,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Artifact Turn-ins | N/A |
+ | Artifact Turn-ins, Duke chest | N/A |
 | File:Gladiator Helmet.png | 
 
 Gladiator Helmet
