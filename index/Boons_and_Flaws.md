@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 36168
+revid: 36259
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -46,16 +46,16 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
-  
-Gained from obtaining the Blindseer Oath.
-
- | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
+| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
+  
+Gained from obtaining the Blindseer Oath.
+
+ | 1 |
 | Fugitive | "All factions hate you." | Start with low reputation toward all factions.
 
 -   Low enough for guards to aggro on sight

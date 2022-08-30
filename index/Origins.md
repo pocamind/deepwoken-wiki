@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36242
+revid: 36257
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -69,15 +69,21 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[CON\]** ...but reduced EXP Gain from events.
     -   **\[CON\]** You start with negative reputation toward most factions
     -   Your starting location is [The Voidheart](Voidheart.md).
+-   Grants the innate talent "Grasp of Eylis"
+    -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice (if available)...
+    -   **\[CON\]** ...but if they run too far away, you are brought back to the Voidheart.
+    -   **\[PRO\]** You gain vision of your selected target throught walls.
 -   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
     -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
+    -   Talking to the Voidmother brings you back to where you used the Void Eye to return to the Voidheart.
+
+-   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
 -   **\[PRO\]** You always spawn wearing the [Whaler's Coat](Whaler_Coat.md).
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[PRO\]** Have access to the Bounty Board of the Knives of Eylis.
     -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is only a single way to get Knife of Eylis reputation (Etrea VS Knife of Eylis), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
 -   **\[PRO\]** Whalers will not attack you at the beginning.
 -   **\[CON\]** The only way to access The Voidheart is throught the Void Eye.
--   **\[CON\]** Leaving the Voidheart always take you to [Songseeker Wilds](Songseeker_Wilds.md) or etris.
 
 ## Trivia
 
