@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 35618
+revid: 36286
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -74,7 +74,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Removed Phrases
 
--   You doing anything next week? Because I'd like to see you greMORE. (Roblox did not approve.)
+-   You doing anything next week? Because I'd like to see you greMORE. (Roblox did not approve.) (more accurately coppa didnt. if u want to know what coppa is, to remain as short as possible without going ot of context it says it protects kids privacy altho it actuallya buses them an whenever a company lets a under 13 year old who was ''harmed'' by their website just because of their age, lets just say the ''harmed'' kid doesnt get no nothing.)
 
 -   So, you doing anything on the weekend?
 

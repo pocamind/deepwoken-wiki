@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36225
+revid: 36285
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -99,6 +99,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 #### _**The Innkeeper**_
 
 -   Allows you to set your spawnpoint at Summer Isle for 5 notes.
+-   Won't communicate with you if you have negative reputation AND you will be kicked out if you set your spawnpoint at this inn and then get negative reputation.
 
 #### _**The Guildmaster**_
 
@@ -184,8 +185,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 
 #### Explosive Crate \[QUEST\]
 
--   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in for a chance at good loot.
--   This crate can be returned to Scope in the Castle for a loot chest.
+-   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a chance at good loot.
 -   From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
 
 #### Bandit Ambush
@@ -283,6 +283,8 @@ Items and equipment that can be obtained from loot chests.
 
 #### _**Blueprints**_
 
+-   [Hive Drone](Hive_Drone.md)
+-   [Hive Tactician](Hive_Tactician_Armor.md)
 -   [Summer Company Uniform](Summer_Company_Uniform.md)
 -   [Verdant Sniper](Verdant_Sniper.md)
 -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 35910
+revid: 36284
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -117,5 +117,5 @@ If you want to add more, feel free. I'm done for the time being.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish to get food, luck, and loot.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
--   Fishing enough can train willpower, and occasionally fortitude.
+-   Fishing enough can train willpower, fortitude, intelligence, strength, and charisma.
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
