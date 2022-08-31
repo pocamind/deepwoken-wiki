@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36232
+revid: 36291
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,7 @@ File:No Attunement Revamp.png
 
  | _A powerful, flinging punch that shatters the air._ | 
 
--   **Requirements:** _**5 Strength**_ _Combat Mantra_
+-   **Requirements:** _**5 Strength,**_ _Combat Mantra_
 -   A powerful left hook, that ragdolls and knockbacks hit enemies.
 -   Unlike other mantras, Strong Left scales with your strength level.
 
@@ -67,7 +67,7 @@ File:No Attunement Revamp.png
 
  | _Unleash a barrage of blows against your foes._ | 
 
--   **Requirements:** _**5 Strength** Combat Mantra_
+-   **Requirements:** _**5 Strength,** Combat Mantra_
 -   A flurry of blows that hitstun and pound your enemy.
 -   If parried during its startup it gets cancelled, otherwise not.
 
@@ -82,7 +82,7 @@ File:No Attunement Revamp.png
 
  | _Kick off of the ground with your strength, sending you into the air_ | 
 
--   **Requirements:** _**50 Strength**_ _Mobility Mantra_
+-   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
 -   A vertical jump that sends the user into the air.
 -   Altitude travelled decreases significantly as the user loses health, making it inopportune for retreating.
 
@@ -104,7 +104,7 @@ File:No Attunement Revamp.png
  | _Strike your shield a few times to absorb some of the posture received by your allies._ | 
 
 -   **Requirements:** Fortitude + _**Any Shield**_, _Support Mantra_
-    -   This weapon actually prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the [Sharko](Megalodaunt.md)/[Primadon](Primadon,_Titan_of_the_East.md) kick and the [Thresher](Thresher.md) burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)
+    -   This mantra prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the [Sharko](Megalodaunt.md)/[Primadon](Primadon,_Titan_of_the_East.md) kick and the [Thresher](Thresher.md) burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)
 
  |
 | 
@@ -139,7 +139,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
 -   Prevents your attacks/mantras from getting cancelled when being hit. (Nanomachines son!)
 -   5 Second duration at base upgrade, each upgrade increases its duration up by 1 up to a maximum of 9 seconds.
--   Needs testing with Logstones to find out if it affects duration,
+-   Needs testing with Logstones to find out if it affects duration.
 
  |
 | 
@@ -152,7 +152,7 @@ File:No Attunement Revamp.png
 
  | _Rush at your enemies with your full physical force._ | 
 
--   **Requirements:** _**10 Fortitude + Any shield**_, _mobility Mantra_
+-   **Requirements:** _**10 Fortitude + Any shield**_, _Mobility Mantra_
 -   Dash forwards with your shield infront, colliding with a surface or NPC will bash them and deal light damage.
 -   _Parry-able._ Getting parried ends the mantra early.
 -   Solid mantra that can be used to chase your opponents.
@@ -175,8 +175,8 @@ File:No Attunement Revamp.png
 
  | _A vengeful rush._ | 
 
--   **Requirements:** _**5 Agility**_ _Combat Mantra_
-    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 5 agility, agility _Combat Mantra_.
+-   **Requirements:** _**5 Agility,**_ _Combat Mantra_
+    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health.
     -   Additionally, it scales with it's Level and Agility points, further increasing it's damage potential when dangerously low on health.
 
  |
@@ -190,9 +190,8 @@ File:No Attunement Revamp.png
 
  | _An agile dash._ | 
 
--   **Requirements:** _**20 agility**_ _Mobility Mantra_
+-   **Requirements:** _**40 Agility,**_ _Mobility Mantra_
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
-    -   A Multiplying Spark allows 2 separate dashes.
 
  |
 | 
@@ -205,7 +204,7 @@ File:No Attunement Revamp.png
 
  | _Kick off of the ground with your strength, sending you into the air_ | 
 
--   **Requirements:** _**20 Agility**_ _Support Mantra_
+-   **Requirements:** _**20 Agility,**_ _Support Mantra_
     -   Restores a decent amount of ether periodically, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
 
  |
@@ -225,8 +224,9 @@ File:No Attunement Revamp.png
 
  | _Make a cauldron appear from your memories._ | 
 
--   **Requirements:** _**20 Intelligence.**_ _Support Mantra_
-    -   After inputting a note ( X or C ) summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
+-   **Requirements:** _**20 Intelligence,**_ _Support Mantra_
+    -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
+    -   A spell-casting minigame must be completed in order to summon the cauldron, just like the Wisps and Graceful Flame.
 
  |
 | 
@@ -239,8 +239,8 @@ File:No Attunement Revamp.png
 
  | _Predict an opponent's attack and reflect it._ | 
 
--   **Requirements:** _**40 agility** Mobility Mantra_
-    -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. ~Does not work on M1's/Critical Attacks.~ This is false.
+-   **Requirements:** _**50 Intelligence,**_ _Mobility Mantra_
+    -   Spawns a white flooring pattern around the user. Any type of damage that were to be dealt to you will get reflected back onto the attacker, including it's negative effect.
     -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
         -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.
         -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after it activates (Stacks). \[did you mean to say that it will continue reflecting back damage until the mantra wears off?\]
@@ -279,9 +279,8 @@ File:No Attunement Revamp.png
 
  | _Opponents facing you (And that are not blocking) are briefly rendered immobile._ | 
 
--   **Requirements:** _**5 Willpower, 25 Charisma** Support Mantra_
+-   **Requirements:** _**5 Willpower, 25 Charisma,** Support Mantra_
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
-    -   Requirement: 5 Willpower, 25 Charisma, Willpower _Support Mantra._
 
  |
 | 
@@ -294,7 +293,7 @@ File:No Attunement Revamp.png
 
  | _A melee strike that removes your posture's damage on hit._ | 
 
--   **Requirements:** _**40 Willpower**_ _Combat Mantra_
+-   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The mantra does not only clear your posture, it transfers it to the target.
     -   It can also guard-break the enemy if enough posture is inflicted on the target.
 
@@ -355,7 +354,7 @@ File:No Attunement Revamp.png
 
  | _Rush down your opponent cutting them apart._ | 
 
--   **Requirements:** _**30 Light Weapon**_ _Combat Mantra_
+-   **Requirements:** _**30 Light Weapon,**_ _Combat Mantra_
     -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high damage when upgraded and 75+ LHT.
 
  |
@@ -373,7 +372,7 @@ File:No Attunement Revamp.png
 
  | _A powerful slash that chips through block and slashes through armor._ | 
 
--   **Requirements:** _**30 Medium Weapon**_ _Combat Mantra_
+-   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
     -   A spinning double slice with your sword. Chips through block and builds posture.
 
  |
@@ -391,7 +390,7 @@ File:No Attunement Revamp.png
 
  | _Unleash a powerful pressure blast from the weight of your weapon._ | 
 
--   **Requirements:** _**30 Heavy Weapon**_ _Combat Mantra_
+-   **Requirements:** _**30 Heavy Weapon,**_ _Combat Mantra_
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Unlike other weapon mantras, this move isn't a main damage dealer. Instead, it dazes your opponent when they hit the ground.
 

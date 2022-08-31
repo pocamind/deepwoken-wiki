@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 35128
+revid: 36290
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -163,7 +163,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-“ KILL IT! **KILL IT!** KILL IT WITH FIRE! ”
+“ Hanz get za **flammenwerfer!** ”
 
 ― Ganymede Pyromancer, fighting the Deep Widow.
 
