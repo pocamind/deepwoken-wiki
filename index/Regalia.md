@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 36315
+revid: 36318
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -19,8 +19,7 @@ The Regalia will be granted on the next character after wiping. It must be reobt
 
 Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
 
-\[You can just pass the parry test on Trial and get killed by any monsters/trial. Go to the depths and kill any monster. WIPE FOR THE MONSTERS! NOT FOR THE VOID!\]
-
+  
 Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
 
 ## Mute (Animal King)
@@ -40,6 +39,7 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 -   Something to do with wiping to monsters
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 -   Progress toward a regalia might be saved between wipes.
+-   \[You can just pass the parry test on Trial and get killed by any monsters/trial. Go to the depths and kill any monster. WIPE FOR THE MONSTERS! NOT FOR THE VOID!\]
 
 So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)
 

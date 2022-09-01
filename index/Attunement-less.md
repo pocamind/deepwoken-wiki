@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36291
+revid: 36321
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -211,7 +211,7 @@ File:No Attunement Revamp.png
 
 ### _**Intelligence Mantras**_
 
-Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook, by discovering new locations, making new discoveries from crafting, or by simply scavenging natural resources.
+Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook, by discovering new locations, crafting new items for the first time, scavenge natural resources and by making potions.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
