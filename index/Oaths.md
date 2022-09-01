@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 36256
+revid: 36299
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -75,7 +75,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 ### Known Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Resets the insanity of nearby players, and in turn gives you the insanity that they once had.
+    -   Regain sanity to nearby Players at the cost of your Sanity.
     -   Heals nearby players.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Obtaining: 1 player helped in the Depth Trial (must be alive)
