@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 35372
+revid: 36315
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -18,6 +18,8 @@ To obtain a Regalia, the player must:
 The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
 
 Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
+
+\[You can just pass the parry test on Trial and get killed by any monsters/trial. Go to the depths and kill any monster. WIPE FOR THE MONSTERS! NOT FOR THE VOID!\]
 
 Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
 

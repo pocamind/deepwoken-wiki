@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36266
+revid: 36311
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -52,7 +52,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
-    -   Prequesites: 5 Strength & 15 Agility
+    -   Prequesites: ANY Strength above 0 & 15 Agility
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility + 1 Health)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
 -   Quick Recovery \[Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)

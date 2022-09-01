@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 36126
+revid: 36313
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -426,12 +426,13 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
 -   **Attunements:** _None_
--   **Alliances:** _Unknown_
+-   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
--   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord)_
+-   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord), Eylis, The Punished Dreamer (NPC)._
 
--   Also known as Whalers, The Knives of Eylis are a gang of assassins that work under Eylis; presumably the Boss.
+-   The Knives of Eylis are an organization of ruthless or randomly hired mercenaries that work under Eylis, the Punished Dreamer.
 -   They live in the sewers of the Central Luminant.
+-   Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md).
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.

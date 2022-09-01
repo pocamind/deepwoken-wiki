@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 36302
+revid: 36314
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -136,7 +136,7 @@ Visionshaper also has two talents obtained via standard level up.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   While the clone deal fake damage, it still applies hit-stun.
     -   Is very similar to Lightning Clone but work slightly different in execution.
--   **Illusionary Realm - Combat Mantra**
+-   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
     -   Cooldown is 2 minutes and 40 seconds.
     -   Damage taken in the realm is real, but 50% of lost HP while inside is restored when the realm expires.
