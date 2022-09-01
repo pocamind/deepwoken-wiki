@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 36299
+revid: 36302
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -39,7 +39,7 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 ### Obtaining
 
-Oathless must be selected when draw from the hand of cards when powering up. It will always appear between power 30 and 40 if the player have no oath.
+Oathless must be selected when draw from the hand of cards when powering up. It will always appear between power 30 and 40 if the player has no oath.
 
 ### Effects
 
@@ -183,7 +183,7 @@ Does not grant any special cosmetic based on race.
 
 ### Obtaining
 
-Unobtainable, exclusive to The Knives of Eylis Captains. May become obtainable when the Central Luminant is added to the game.
+Unobtainable, exclusive to The Knives of Eylis Captains. Might become a [Voidwalker](Origins.md) exclusive.
 
 ### Known abilities
 
