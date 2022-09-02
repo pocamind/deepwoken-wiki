@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36311
+revid: 36342
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1159,18 +1159,24 @@ These Talents are meant to reap the reward of your latest hunt.
 
 -   Command: Run \[Common Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
-    -   effect: Make your servant run very fast, they cant stop running until the duration of effect ends.
+    -   Effect: Make your subject run very fast, they can't stop running until the duration of effect ends.
 
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
-    -   Effect: buff speed slightly and major power boost.
+    -   Effect: Buff speed slightly and major power boost
+-   Command: Leech \[Common Talent\] - Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
+    -   Prerequisites: Vow of Mastery
+    -   Effect: Transfers the ether of your subject to yourself
 -   Command: Locate \[Common Talent\] - Locate one of your vow members (+4 Ether, +3 Health)
     -   Prerequisites: Vow of Mastery
+    -   Effect: Outlines your subject in red briefly
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
+    -   Effect: Takes the hp of a servant until you are full hp
 
 -   Command: Return \[Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
     -   Prerequisites: 60 Charisma, Vow of Mastery
+    -   Effect: Pulls the subject to you and passes through walls, revives them if they are knocked
 
 -   Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
     -   Prerequisites: 75 Charisma, Vow of Mastery

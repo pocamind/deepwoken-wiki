@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36285
+revid: 36344
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -44,12 +44,11 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 
 Notes:
 
--   Bullets are required for the player to use the critical attack unless they have Ether Bullets talent. If the player doesn't have bullets, it will consume ether instead.
+-   ~Bullets are required for the player to use the critical attack unless they have Ether Bullets talent. If the player doesn't have bullets, it will consume ether instead.~ This has been removed, if you dual wield you can use the critical attack.
 -   They're currently the only known weapons to have a critical attack that travels a long distance.
 -   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
--   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks, punts, etc.)
 
 #### _**Thundercall Trainer**_
 
