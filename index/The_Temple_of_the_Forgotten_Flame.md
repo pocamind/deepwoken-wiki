@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 36099
+revid: 36347
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -18,7 +18,7 @@ A temple as old as the island itself, robbed of it's heart.
 
 ## Overview
 
-Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](Upper_Erisia.md) that perches over the beach of [Lower Erisia](Lower_Erisia.md). The Temple can be found above the Bandit Village in [Lower Erisia](Lower_Erisia.md), or across from the upper exit of the Megalodaunt Nest.
+Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](Upper_Erisia.md) that perches over the beach of [Lower Erisia](Lower_Erisia.md). The Temple can be found above the Bandit Village in [Lower Erisia](Lower_Erisia.md), or across from the upper exit of the [Megalodaunt](Megalodaunt.md) Nest.
 
 To enter the Temple, you must either:
 
@@ -30,7 +30,7 @@ Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious
 
 ## Contents
 
--   Mysterious Glyphs
+-   [Mysterious Glyphs](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Blindseer)
 
 ## Potential Enemies
 

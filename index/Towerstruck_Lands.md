@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 36047
+revid: 36350
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,22 +18,20 @@ A rich stone quarry, perfect for creating life.
 
 ## Overview
 
-The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy mountainous terrain. Ruins of towers lay littered across the surface. The Towerstruck
+The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy mountainous terrain. Ruins of towers lay littered across the surface. The Towerstruck Lands will precipitate acid rain, rather than normal rain.
 
 Towerstruck Lands
-
-Land has a chance of precipitating Poison Rain.
 
 ## Points of Interest
 
 #### [The Hidden Village](The_Hidden_Village.md)
 
--   Players can find Erisore here, a substantial part to building an outfit.
--   Players can find Cestis and Nimea here.
+-   Players can find [Erisore](https://deepwoken.fandom.com/wiki/Ore#Erisore) here, a substantial part to building an outfit.
+-   Players can find [Cestis](Cestis.md) and Nimea here.
 
 ## Potential Enemies
 
--   Legion Footsoldier
+-   [Legion Soldier](Legion_Soldier.md)
 -   [Legion Captain](Legion_Captain.md)
 -   Etrean Footsoldier
 -   [Rock Golem](Rock_Golem.md)
@@ -42,4 +40,4 @@ Land has a chance of precipitating Poison Rain.
 
 ## Trivia/Notes
 
--   Player notes here
+-   Take caution in this area while using a [Glider](Gliders.md), as acid rain can start abruptly and cause you to fall.

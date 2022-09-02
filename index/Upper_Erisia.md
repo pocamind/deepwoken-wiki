@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 35980
+revid: 36354
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,13 +14,13 @@ A land lost to time, now made a battlefield for warriors who know not why they f
 
   
 
-**Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia, sharing the island with [Lower Erisia](Lower_Erisia.md).
+**Upper Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
 
 Upper Erisia
 
-Upper Erisia is home to many sub-locations and is home to a variety of NPCs and Monsters.
+Upper Erisia is home to many sub-locations and is home to a variety of NPCs and [Monsters](Monsters.md).
 
 ## Points of Interest
 
@@ -42,16 +42,16 @@ Events that spawn in Upper Erisia that involve combat. For more info, see [Rando
 -   [Megalodaunt](Megalodaunt.md) vs [Rock Golem](Rock_Golem.md)
 -   [Deep Owl](Deep_Owl.md)
 -   [Terrapod](Terrapod.md)
--   Golden Warrior
--   Etrean Guards vs The Central Authority
--   The Eleventh Legion vs The Central Authority
+-   [Golden Warrior](Golden_Warrior.md)
+-   Etrean Footsoldiers vs [Authority Footsoldiers](Authority_Officer.md)
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 
 ## Events
 
 Events that spawn in Upper Erisia that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Hobo
--   Pathfinders
+-   [Hobo](Hobo.md)
+-   [Pathfinders](Teacher.md)
 -   Lost Villagers
 
 ## Loot Table
@@ -69,19 +69,19 @@ _This list is incomplete, please contribute **correct** information._
 -   [Pathfinder Cloak](Pathfinder_Cloak.md)
 -   [Shadow Hunter](Shadow_Hunter.md)
 -   [Skeptic Pioneer](Skeptic_Pioneer.md)
--   Tactician
+-   [Tactician](Hive_Tactician_Armor.md)
 
  | 
 
--   Black Headband
--   Orange Headband
--   Yellow Headband
+-   [Black Headband](Headband.md)
+-   [Orange Headband](Headband.md)
+-   [Yellow Headband](Headband.md)
 -   Iron Mask
--   Smith's Goggles
--   Blindfold
--   Autumn Boots
--   Black Fur Boots
--   White Fur Boots
+-   [Smith's Goggles](<Smith's_Goggles.md>)
+-   [Blindfold](Blindfold.md)
+-   [Autumn Boots](Autumn_Boots.md)
+-   [Black Fur Boots](Fur_Boots.md)
+-   [White Fur Boots](Fur_Boots.md)
 
  | 
 
@@ -97,11 +97,11 @@ _This list is incomplete, please contribute **correct** information._
 
  | 
 
--   Three to eight Sapphires.
--   Three to eight Amethysts.
--   Three to seven Rubies.
--   Three to seven Emeralds.
--   Three to eleven Gold Bars.
+-   Three to eight [Sapphires](Treasures.md).
+-   Three to eight [Amethysts.](https://deepwoken.fandom.com/wiki/Gems?so=search)
+-   Three to seven [Rubies](https://deepwoken.fandom.com/wiki/Gems?so=search).
+-   Three to seven [Emeralds](https://deepwoken.fandom.com/wiki/Gems?so=search).
+-   Three to eleven [Gold Bars](https://deepwoken.fandom.com/wiki/Gems?so=search).
 -   One to four [Mantra Modifiers](Mantra_Modifiers.md).
 
  |
