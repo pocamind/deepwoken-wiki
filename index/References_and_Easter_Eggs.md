@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 36230
+revid: 36341
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -58,7 +58,7 @@ notices:
 
 ### **Attunementless**
 
-Rapid punch’s resembles star platinum barrage move from Jojo’s bizarre adventure
+-   **Rapid Punches** is a reference to the various punch barrages made by Stands (notably Star Platinum or The World) in JoJo's Bizarre Adventure.
 
 ## Enemies/Bosses
 
@@ -114,40 +114,42 @@ Rapid punch’s resembles star platinum barrage move from Jojo’s bizarre adven
 -   The old model of the **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime/manga _Black Clover._
 -   The model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
--   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
--   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
+-   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
+-   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
+-   **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
--   The **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
+-   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
--   The **First Light** is a possible reference to [Reinhardt's Dragon Sword](https://rezero.fandom.com/wiki/Terminology#Ten_Swords_of_Power) from _Re: Zero._
+-   **First Light** is a possible reference to [Reinhardt's Dragon Sword](https://rezero.fandom.com/wiki/Terminology#Ten_Swords_of_Power) from _Re: Zero._
 
 ## World
 
 ### **The Etrean Luminant**
 
--   [Suri's Quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
--   Erisia may be based on the Nameless God's island from _Salt and Sanctuary._
+-   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
+-   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 
 ### **The Depths**
 
--   Among one of the cliffs, a pineapple can be found. This is a reference to [Spongebob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
-    -   King Gigameds that spawn with hats near it may start dancing to a tune from Spongebob.
--   The Depths itself was confirmed to have drawn inspiration from three series, _Made In Abyss_ and _Salt and Sanctuary_.
+-   Among one of the cliffs, a **pineapple** can be found. This is a reference to [Spongebob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
+    -   Some of the King Gigameds that spawn with hats near it may start dancing to a tune from Spongebob.
+-   **The** **Depths** itself was confirmed to have drawn inspiration from three series, _Made In Abyss_ and _Salt and Sanctuary_.
     -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological feature of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle feature a large cavern, while the second feature cold and harsh winds.
 
 ### **Factions**
 
--   The Hundred Legions is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor.
--   The faction of Etrea is very similar to a mixture of various East Asian countries.
+-   **The Hundred Legions** is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor.
+
+-   **Etrea** is very similar to a mixture of various East Asian countries.
+
+-   **The Ministry** is possibly a reference to [the Ministry from the 2018 adaptation of Fahrenheit 451](<https://en.wikipedia.org/wiki/Fahrenheit_451_(2018_film)>)
 
 ### **Races**
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   When it comes to their culture, they have similarities to Eastern civilizations, in both architecture, and names.
--   **Celtors** resemble [Michiru](https://brand-new-animal.fandom.com/wiki/Michiru_Kagemori) from _Brand New Animal_, who is a Tanuki.
 -   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry#Obligator) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based off the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
@@ -155,4 +157,4 @@ Rapid punch’s resembles star platinum barrage move from Jojo’s bizarre adven
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** all wearing masks somewhat resembles the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
--   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game.
+-   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
