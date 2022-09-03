@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 36284
+revid: 36369
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -43,7 +43,7 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests..
+-   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.
 -   Golden Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 43% (tested).
 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
@@ -119,3 +119,4 @@ If you want to add more, feel free. I'm done for the time being.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   Fishing enough can train willpower, fortitude, intelligence, strength, and charisma.
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
+-   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare.

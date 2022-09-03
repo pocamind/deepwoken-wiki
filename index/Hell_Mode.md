@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 36188
+revid: 36368
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -57,14 +57,16 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 
 -   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies you're not ready for. Be wary though, as the Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
--   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a lot darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
+-   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.
 -   **When fighting monsters in a group, do NOT hit your allies.** This will put them in player combat, which means they will not get health and posture back when killing monsters, which exacts a heavy toll on their survivability for an extended period of fighting.
 -   If you want to **Survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to Yun'Shul (bell reroll place). Get someone with Undying Flame to regen hp and sanity. Kamui bell is awesome in hell mode (danger version), you can just go into Kamui Dimension and spawn Graceful Flame.
+-   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
 
 ## Trivia
 
 -   This isn't perfect so feel free to add anything
+-   If you get trapped in the Castle Light during the activation of Hell Mode, you won't be granted any reward.
 -   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness. (This is likely due to the natural blue tint of the depths clashing with the dark red tint of Hell Mode)
 -   Always have someone with you who has Undying Flame as you **will** need to heal.
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.

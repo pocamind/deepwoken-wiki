@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 35908
+revid: 36366
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -633,14 +633,14 @@ Any time you would burn to death, you instead rise again with 50% of your health
 
  | 
 
-When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh.
+When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh. FROM: Immolation
 
  |
 | 
 
  | 
 
-Immolator
+Immolation
 
  | 
 

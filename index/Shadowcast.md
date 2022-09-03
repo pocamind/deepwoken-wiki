@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 35636
+revid: 36370
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -167,7 +167,7 @@ File:Shade Devour.png
 Shade Devour  
 (★☆☆)
 
- | Gorge on your own health for raw strength | You buff yourself in exchange of your HP |
+ | Gorge on your own health for raw strength | +20% weapon damage, consumes health upon use. |
 
 ### **Mobility**
 

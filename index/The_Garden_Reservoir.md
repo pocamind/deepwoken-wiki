@@ -1,6 +1,6 @@
 ---
 title: The Garden Reservoir
-revid: 36353
+revid: 36359
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -30,6 +30,13 @@ The Garden Reservoir is a location down below [Burning Stone Gardens](Burning_St
 -   [Burning Stones Garden](Burning_Stone_Gardens.md)
     -   [Rat's Den](<Rat's_Den.md>)
 
+## Enemies
+
+-   [Rock Golem](Rock_Golem.md)
+-   [Megalodaunt](Megalodaunt.md)
+-   [Golden Warrior](Golden_Warrior.md)
+
 ## Trivia/Notes
 
 -   Players can find [Irithine](https://deepwoken.fandom.com/wiki/Ore?so=search#Irithine) here, which is a metal used in crafting some [Oufits](Outfits.md).
+-   Very common place for experienced players to grind, due to the amount of [Golems](Rock_Golem.md) and [Megalodaunts](Megalodaunt.md) found here, as they can be a low risk/high reward for skilled players
