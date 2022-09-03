@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36374
+revid: 36375
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -161,7 +161,7 @@ A cave opening facing the Shipwright's building, easy to spot.
 
 ### _**Castle Ruins**_
 
--   A castle like building in ruins, nothing of interest is inside or near it.
+-   A castle like building in ruins, nothing of interest is inside or near it, _until you look closely._ Inside the ruins, on the left or right side of the inside, you may find a small crack in the floor which you may drop down into. Inside, a basement could be found with barrels, and possibly chests.
 
 ## Island Inhabitants
 

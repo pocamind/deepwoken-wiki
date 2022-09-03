@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 32712
+revid: 36378
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -8,7 +8,7 @@ categories: [Armors, Items]
 
 # Grand Pathfinder Cloak
 
-Template:ArmorInfobox**Grandmaster Pathfinder Cloak** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Grand Pathfinder Cloak** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

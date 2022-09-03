@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 36133
+revid: 36379
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -65,3 +65,4 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 ## Trivia
 
 -   They're relatively easy to fight, even at low Power.
+-   They look exactly like [Thunder Songseekers](Songseeker_Thundercaller.md).

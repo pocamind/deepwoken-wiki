@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 35559
+revid: 36377
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Mudskipper
 
-“ These abominations are too weak to kill you ”
+“ Whoever said that 'these abominations are too weak to kill you' clearly never fought a Mudskipper Knight. ”
 
-― Kirk Corbet
+― Phoenix Nephidra
 
-_Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abomination._
+_Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
 
 **Mudskipper:**
 
@@ -182,7 +182,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies are summoned to fight the weak during The Depths (Trial). Unlike most mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a sword and wear armor. They are smarter than the average Mudskipper, being able to block and parry attacks.
+Mindless enemies are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Razor Cutlass](Razor_Cutlass.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md). They are much smarter than the average Mudskipper, being able to block, parry and roll away from attacks.
 
 They can only be encountered in The Depths (Trial) while the character's power is between 10 - 19.
 
@@ -197,7 +197,7 @@ Assault
 
 ### Boons
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
+-   Experienced Fighter - Can block and parry common attacks and mantras, as well as roll away from criticals.
 
 ## Finisher
 
@@ -209,14 +209,15 @@ Assault
 
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
-        
+-   This trial is genuinely harder than the [The Enforcer](Enforcer.md) due to you being almost completely unable to cheese it and being forced to fight it on completely flat ground.
+    
 
 ## Trivia
 
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   There is a bug where Mudskippers use idle chat/dialogue used by most NPCs when idle for long periods of time.
 -   Mudskippers are people slain by [Nautilodaunts](Nautilodaunt.md), though it is unknown, considering how large their numbers are, if there are other methods of producing them.
--   On April Fool's Day, 2022 The Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
+-   On April Fool's Day 2022, Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having six in total, not including the April Fool's variants.
