@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36344
+revid: 36374
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -195,7 +195,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 #### Bandits V.S. Summer Company
 
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
--   You will be rewarded with a decent amount of XP and a chest if you help the Summer Company Thugs win.
+-   You will be rewarded with a small amount of XP and a chest if you help the Summer Company Thugs win.
 
 #### Ignition Union V.S. Summer Company
 
@@ -222,11 +222,14 @@ Items and equipment that can be directly bought with currency.
 
 -   Encyclopedia
 -   Math Textbook
+-   How to Make Friends
+-   Weapon Manual
 -   Hunter's Brace
 -   Self-Conducting Loop
 -   Pure Heart
 -   Hemafrost
 -   Gale Kata
+-   Hearthgem
 -   Praying Beads
 -   Ankle Weights
 -   Training Vest
@@ -287,6 +290,7 @@ Items and equipment that can be obtained from loot chests.
 -   [Summer Company Uniform](Summer_Company_Uniform.md)
 -   [Verdant Sniper](Verdant_Sniper.md)
 -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
+-   [Darksteel Plate](Darksteel_Plate.md)
 
 #### _**Rings**_
 
