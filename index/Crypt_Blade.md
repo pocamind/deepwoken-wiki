@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 33008
+revid: 36417
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests in The Depths; The Duke loot pools |
-| description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
+| description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 “ Hi son, I'm back! ”
 

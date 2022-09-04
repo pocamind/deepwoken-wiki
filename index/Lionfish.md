@@ -1,9 +1,9 @@
 ---
 title: Lionfish
-revid: 36389
+revid: 36419
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Lionfish
@@ -72,11 +72,6 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   You can spawn Lionfish by fishing with a low chance.
 -   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md).
-    
-    File:Big ass fish.jpg
-    
-    Lionfish on Land
-    
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 36192
+revid: 36418
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -867,9 +867,9 @@ Your ice spear now lodges into human opponents and explodes.
 -   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
 -   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The "Cryonis" talent has a faulty description, it only reduced ether of certain moves :
-    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg.
+    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg, Frozen Servants.
     -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
-    -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Frozen Servants, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
+    -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   Ice Eruption does less damage the larger it gets?
     -   Never tested, but was stated in an update log.
