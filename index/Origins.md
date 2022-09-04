@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36386
+revid: 36408
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -63,7 +63,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ― A gremor furiously trying to gun down there bounty
 
-**Requirements:** 15 grips in the overworld. These can be anyone; including freshies. The player has to be above level 5. Chime and bounties DO count towards Voidwalker. You do **not** need good reputation with the Knives of Eylis.
+**Requirements:** 15 grips in the overworld. These can be anyone; including freshies. The player has to be above level 5. Chime and bounties don't count towards Voidwalker. You do need good reputation with the Knives of Eylis.
 
 **Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked (-- then through a Knife's Time Bubble.
 
