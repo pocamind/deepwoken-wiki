@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 36098
+revid: 36389
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -44,16 +44,10 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
   <td>(☆☆☆)</td>
 </tr>
 <tr>
-  <td>Cero</td>
-  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>55 damage</b></i>. If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. (<b>Depths Exclusive</b>)</td>
+  <td><b>Cero</b></td>
+  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>55 damage</b></i>. (Corrupted Lionfish deal <i><b>165 damage</b></i> with this move.) If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. (<b>Depths Exclusive</b>)</td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
-</tr>
-<tr>
-  <td><b>Corrupted Cero</b></td>
-  <td>The Corrupted Lionfish raises its entire body upwards, charging up a purple-orb. However, unlike its non-corrupted counterparts, it will deal <i><b>150+ damage</b></i> to its opponent. If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. <u><i>There is no <b>visual</b> difference between the Corrupted and Regular versions of the Beam.</i></u> (<b>Corrupted Depths Exclusive</b>)</td>
-  <td><font>✗</font></td>
-  <td>(★★★)</td>
 </tr>
 </tbody>
 </table>

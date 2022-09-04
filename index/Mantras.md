@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 33572
+revid: 36390
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -72,13 +72,13 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > ### [**Flamecharm Mantras**](Flamecharm.md)
 > 
-> Large and threatening damage-over-time fire based spells. Excels in crowd control and area denial as many spells have large range.
+> Large and threatening fire based spells. Excels in crowd control and area denial as many spells have large range.
 > 
-> -   Not recommended to use in close proximity to allies.
-> -   Can be upgraded through Willpower for the "Azure Flames" Talent.
-> -   Typically used close/mid range.
+> -   No recomended to use i close proxiity to allies.
+> -   Can be pgraded through Willpowr for the "Azure Flames" alent
+> -   Typically use close/mid rage.
 > -   Great for support.
-> -   Good pressure.
+> -   Goo pressure.
 > 
 > ### [**Thundercall Mantras**](Thundercall.md)
 > 
