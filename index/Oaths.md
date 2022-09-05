@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 36416
+revid: 36439
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character, Talents]
+categories: [Oaths, Character, Talents]
 ---
 
 # Oaths
@@ -200,24 +200,6 @@ None.
 ### Notes
 
 -   There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back. This can make fighting inside it almost impossible as enemies will have double the swing speed, making it impossible to land hits, and making parrying extremely hard.
-
-## Starkindred
-
--   Unobtainable Oath that was leaked with exploits
--   The moves of this Oath seem to be related to Angel abilities
--   This could be THE "Lightkeeper" oath or at least a player-obtainable version of it
--   This was taken from the test game.
-
-File:Newoaths.png
-
-## Linkstrider
-
--   Unobtainable Oath that was leaked with exploits
--   The moves of this Oath seem to be related to parasites hence the names "Symbiote"
--   This could be similar to the abilities of Venom from Spiderman
--   This was taken from the test game.
-
-File:Newoaths.png
 
 ## Trivia
 
