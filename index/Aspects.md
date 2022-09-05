@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 35165
+revid: 36425
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -39,3 +39,4 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
 -   There are races which only NPCs are confirmed to have (Krulian, Bald). These may be made player accessible in the future but likely will not.
+-   Khan, Gremor, Adret, and Canor are the only races to have an in game item named after them.

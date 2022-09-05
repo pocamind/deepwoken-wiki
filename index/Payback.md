@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 36185
+revid: 36424
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,7 +35,7 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 ### **Variants**
 
-**Payback** has two different versions and a unique Tarnished effect.
+**Payback** has three different versions and a unique Tarnished effect.
 
 #### _Versions_
 
@@ -46,7 +46,7 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 #### _Tarnished_
 
-If the owner of this Resonance is Tarnished, **Payback** will be given a two second start-up. During this time, **Payback** can be easily interrupted.
+If the owner of this Resonance is Tarnished, **Payback** will be given a one second start-up. During this time, **Payback** can be easily interrupted.
 
 #### _Corrupted_
 

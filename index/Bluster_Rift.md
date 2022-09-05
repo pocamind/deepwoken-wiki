@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 36082
+revid: 36422
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -48,7 +48,7 @@ Events that spawn in Starswept Valley that involve combat. For more info, see [R
 
 ## Events
 
-Events that spawn in Bluster Rift that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md). meat lord is the best
+Events that spawn in Bluster Rift that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [The Meat Lord](The_Meat_Lord.md)
 

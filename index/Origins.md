@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36408
+revid: 36421
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -75,12 +75,11 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   Grants the innate talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice (if available)...
     -   **\[CON\]** ...but if they run too far away, you are brought back to the Voidheart.
-    -   **\[PRO\]** You gain vision of your selected target throught walls for a moment when teleporting.
+    -   **\[PRO\]** You gain vision of your selected target through walls for a moment when teleporting.
 -   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
     -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
     -   Talking to the Voidmother brings you back to where you used the Void Eye to return to the Voidheart.
 
--   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[PRO\]** Have access to the Bounty Board of the Knives of Eylis.
