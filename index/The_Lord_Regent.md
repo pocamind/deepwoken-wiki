@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 31943
+revid: 36451
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,9 +24,9 @@ The Lord Regent seems to be very secretive about where he obtained power, and wi
 
 He does not leave his throne under any circumstances. It is unclear whether this is due to choice, or because he is forced to remain there for reasons unknown. Because of this, his subjects believe that he is stricken with some kind of illness and is therefore remaining inside his palace to recover.
 
-He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace. He was even willing to take Etrea to war with The Hive over green variants of them.
+He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace.
 
-If given reason to, The Lord Regent can suspend his target in the air, using strings made of [Shadowcast](Shadowcast.md) magic before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
+If given reason to, The Lord Regent can suspend his target in the air, using strings made of what seems to be [Shadowcast](Shadowcast.md) magic before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
 
 Despite his mystique and power, he is still very much a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging.
 
