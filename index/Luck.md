@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 36459
+revid: 36482
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -80,7 +80,7 @@ Obtaining Luck will cause "shining" noise, along with a transparent, white oval 
 ## Losing Luck
 
 -   Taking a rare or legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
-    -   Generally you lose 10% luck from a rare card and 13.33% luck from a legendary card.
+    -   Generally you lose 3% luck from a rare card and 13.33% luck from a legendary card.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 35221
+revid: 36484
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,4 +12,4 @@ Found in the [Fragments of Self](Fragments_of_Self.md),The Hippocampal Pool allo
 
 Weapons can be passed down, for example, the Darksteel Greatsword and a Shattered Katana. Legendary Weapons are the only weapons not able to be passed down, like Hero Blades or the Crypt Blade. (Not sure about if you can pass down every weapon except legendary weapons.) Along with Legendary weapons, [enchanted](Enchantments.md) items cannot be passed down either. This includes all enchanted items, being weapons and armor pieces with enchantments.
 
-There is also an option, dubbed "\[False Memory\]", which grants you the [False Memory](False_Memory.md) upon selecting it. This allows you to equip the false memory and pass down your current weapon. It is currently unknown what conditions must be met in order to allow this option to appear, along with many other unknown things about the False Memory.
+There is also an option, dubbed "\[False Memory\]", which grants you the [False Memory](False_Memory.md) upon selecting it. This allows you to equip the false memory and pass down your current weapon.
