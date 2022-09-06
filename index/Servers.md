@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 36437
+revid: 36462
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -24,11 +24,10 @@ Chilled, Kind, Flaming, Angry, Drowned, Terrific, Crying, Screaming, Snarky, Bas
 
 Last Names:
 
-God, Demon Celestial, Horror, Fence, Executioner, Capra, Felinor, Galebreather, House, Warrior, Adret, Canor, Shark, Sky, Rogue, Megalodaunt, Shark, Thundercaller, Frostdrawer, Magician, Crab, Ruffian, Lightborn, Hangman, Tree, Ironsinger, Etc.
+God, Demon, Celestial, Horror, Fence, Executioner, Capra, Felinor, Galebreather, House, Warrior, Adret, Canor, Shark, Sky, Rogue, Megalodaunt, Shark, Thundercaller, Frostdrawer, Magician, Crab, Ruffian, Lightborn, Hangman, Tree, Squire, Ironsinger, Etc.
 
 ## Trivia
 
--   God and Demon are a clear reference to most religion.
 -   Rogue might be a reference to Rogue Lineage, a game made by Arch\_mage and Ragoozer like Deepwoken.
 -   Ironsinger is the only unreleased element to be a server last name.
 -   Every race except for [Aberrant Capra](Aberrant_Capra.md), And [Primal Vesparian](Primal_Vesperian.md) are server names.

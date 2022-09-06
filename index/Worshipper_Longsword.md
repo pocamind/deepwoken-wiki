@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 34268
+revid: 36455
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -31,12 +31,11 @@ categories: [Weapons, Weaponry, Items, Swords]
 
 ## Description
 
-The Worshipper Longsword is a midgame sword obtained from chests in [Minityrsa](Minityrsa.md). The weapon has a base damage of 19, and a scaling of 4.
+The Worshipper Longsword is a midgame [sword](https://deepwoken.fandom.com/wiki/Weaponry#Swords) obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widows](Deep_Widow.md). The [weapon](Weapons.md) has a base damage of 19, and a scaling of 4.
 
   
 
 ## Notes & Trivia
 
--   Why would anyone get this? Also literal garbage
--   Just because it does 3 more damage than a regular sword doesn't mean it's very good. Use a mace/katana.
--   It now has 0.75 swing speed, making it a bit more viable midgame and worth using if you happen to get a enchanted one, though still not the smartest idea as it only does 30 damage at 100 medium (or so i have heard)
+-   Not too viable in comparison to other midgame [Medium Weapons](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons).
+-   Outclassed by the [Mace](Mace.md) and [Katana](Katana.md).

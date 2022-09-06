@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 35715
+revid: 36459
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -14,9 +14,9 @@ categories: [Luck, Mechanics]
 
 The new luck effect, emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
-Luck is a feature shown on the bottom right of your screen. This value has a maximum of 43%.
+Luck is a feature shown on the bottom right of your screen. This value has a maximum of 45%.
 
-You begin with 20% luck every time you start a new character.
+You begin with 25% luck every time you start a new character.
 
 Having Luck allows you to draw Rare and Legendary Talents, which will greatly impact your character's build.
 
