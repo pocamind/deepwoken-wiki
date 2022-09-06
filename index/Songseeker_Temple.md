@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 36084
+revid: 36497
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,14 +22,14 @@ The interior of the temple
 
 Songseeker Temple resembles a dojo on the interior. It can be found higher in the island with the windmill on it.
 
-Inside the Temple is Amashi, a spelltrainer.
+Inside the Temple is Amashi, a [spelltrainer](Attunement_Trainers.md).
 
 ## Contents
 
 ### NPCs
 
--   Players can find Amashi, a spelltrainer who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing Flamecharm Mantras.
--   Just outside the temple, players can find Yamaketzal, which can give you [Chime of Conflict](Chime_of_Conflict.md) or remove your [Tarnished](Boons_and_Flaws.md) flaw.
+-   Players can find Amashi, a [spelltrainer](Attunement_Trainers.md) who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing [Flamecharm](Flamecharm.md) [Mantras](Mantras.md).
+-   Just outside the temple, players can find [Yamaketzal](Yamaketzal.md), which can give you [Chime of Conflict](Chime_of_Conflict.md) or remove your [Tarnished](Boons_and_Flaws.md) flaw.
 
 ## Potential Enemies
 
@@ -40,10 +40,10 @@ Inside the Temple is Amashi, a spelltrainer.
 
 ### Flamecharm Spelltrainer Quest
 
--   If you are unattuned with [Flamecharm](Flamecharm.md), the spelltrainer will give you a quest.
--   He will ask for five Dying Embers, obtain them and give them to him.
--   Doing this will result in a potion that will attune you with Flamecharm.
+-   If you are unattuned with [Flamecharm](Flamecharm.md), the [spelltrainer](Attunement_Trainers.md) will give you a quest.
+-   He will ask for five [Dying Embers](Dying_Embers.md), obtain them and give them to him.
+-   Doing this will result in a potion that will attune you with [Flamecharm](Flamecharm.md).
 
 ## Trivia/Notes
 
--   Player notes here
+-   It is recommended to sneak past the Monks at the Temple if you can, or alternatively lure one out with a ranged [Mantra](Mantras.md) (e.g. Wind Gun) and fight them one by one.

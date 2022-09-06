@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 36481
+revid: 36494
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 45.
 
 This Outfit has 3000 durability and grants +30% Physical Armor, 50% Stealth, +5% Shadow Armor, +10% Ice Armor, and +25% Elemental Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 15% pen buff on Navae fists.
+This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 25% pen buff on Navae fists.
 
 ## Location
 

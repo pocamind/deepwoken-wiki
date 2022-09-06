@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 36485
+revid: 36495
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -14,7 +14,7 @@ notices:
 
 As of September 4th, 2022, There are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-Servers are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. Servers can usually only have a limit of 20 players in a single server, with the limit being reduced to 12 in a [Depths](The_Depths.md) server.
+Servers are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. Servers can usually only have a limit of 20 players in a single server, with the limit being reduced to 16 in a [Depths](The_Depths.md) server.
 
 Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode.
 

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 36206
+revid: 36491
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -90,6 +90,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[C\]** **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **\[C\]** **Sauteed Scallops** - 2 Scallops
 -   **\[V\] Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility) _To see all crafting recipes, click here_
+-   **\[V\]** **Cooked** **Egg**, 1, Egg. plus a campfire (duh)
 
 ## Trivia
 
