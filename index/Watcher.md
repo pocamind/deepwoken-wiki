@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 31105
+revid: 36463
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -27,3 +27,4 @@ Two **Watchers** on the rooftop of a depths building
 -   The Watcher located in the Temple Of The Forgotten Flame only summons one Angel.
 -   The Watcher by the Temple of the Forgotten Flame is also known as the "God on the Peak" from [Alastir's](Alastir.md) dialog upon bringing him the surviving villagers.
 -   After being spotted, there is a decent cooldown on being spotted again.
+-   The Watcher’s appearance is a possible reference to the Demogorgon from Stranger Things

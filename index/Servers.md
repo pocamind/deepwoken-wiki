@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 36462
+revid: 36472
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,25 +12,92 @@ notices:
 
 ## Description
 
-Servers are the way to join deepwoken. They can be randomized names from the list below.
+As of September 4th, 2022, There are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
-Servers look different if a hell mode is currently going on. It will appear red instead of green, indicating hell mode.
+Servers are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. Servers in [The Depths](The_Depths.md) will look different if Hell Mode is currently active. The border will be red instead of the usual white, indicating Hell Mode.
 
-## First Names and Last names
+## Adjectives and Nouns
 
-First Names:
+**Adjectives:**
 
-Chilled, Kind, Flaming, Angry, Drowned, Terrific, Crying, Screaming, Snarky, Based, Spritely, Crimson, Fashionable, Dumb, Shocking, Steadfast, Platinum, Awful, Eccentric, Vainglorious, Mischievous, Incompetent, Furious, Running, Prudent, Golden, Etc.
+### List of Adjectives
 
-Last Names:
+-   Angry
+-   Awful
+-   Based
+-   Burning
+-   Chilled
+-   Crimson
+-   Crying
+-   Drowned
+-   Dumb
+-   Eccentric
+-   Fashionable
+-   Flaming
+-   Furious
+-   Golden
+-   Incompetent
+-   Kind
+-   Mischievous
+-   Platinum
+-   Prudent
+-   Running
+-   Screaming
+-   Shocking
+-   Snarky
+-   Spritely
+-   Steadfast
+-   Terrific
+-   Vainglorious
+    
 
-God, Demon, Celestial, Horror, Fence, Executioner, Capra, Felinor, Galebreather, House, Warrior, Adret, Canor, Shark, Sky, Rogue, Megalodaunt, Shark, Thundercaller, Frostdrawer, Magician, Crab, Ruffian, Lightborn, Hangman, Tree, Squire, Ironsinger, Etc.
+**Nouns:**
+
+### List of Nouns
+
+-   Adret
+-   Canor
+-   Capra
+-   Castle
+-   Celestial
+-   Celtor
+-   Crab
+-   Demon
+-   Etrean
+-   Executioner
+-   Felinor
+-   Fence
+-   Fish
+-   Flamecharmer
+-   Frostdrawer
+-   Galebreather
+-   Ganymede
+-   God
+-   Gremor
+-   Hangman
+-   Horror
+-   House
+-   Ironsinger
+-   Island
+-   Khan
+-   Lightborn
+-   Magician
+-   Megalodaunt
+-   Ocean
+-   Rogue
+-   Ruffian
+-   Shadowcaster
+-   Shark
+-   Sky
+-   Squire
+-   Thundercaller
+-   Tree
+-   Vesperian
+-   Warrior
+    
 
 ## Trivia
 
--   Rogue might be a reference to Rogue Lineage, a game made by Arch\_mage and Ragoozer like Deepwoken.
--   Ironsinger is the only unreleased element to be a server last name.
--   Every race except for [Aberrant Capra](Aberrant_Capra.md), And [Primal Vesparian](Primal_Vesperian.md) are server names.
--   Example Of A Server
-    
-    As of September 4th, 2022, There are new server names. These include Executioner, Fence, and Vainglorious.
+-   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
+-   Ironsinger is the only unreleased [Attunement](Attunements.md) to be a server's noun.
+-   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), And [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.

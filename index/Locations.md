@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 35892
+revid: 36479
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -107,7 +107,8 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
         -   [Varicosa District](Varicosa_District.md)
-        -   [District of Commerce](District_of_Commerce.md)
+    -   [District of Commerce](District_of_Commerce.md)
+
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
 ### **Layer 2**

@@ -1,9 +1,8 @@
 ---
 title: Regalia
-revid: 36318
+revid: 36477
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [D]
 ---
 
 # Regalia
@@ -17,10 +16,7 @@ To obtain a Regalia, the player must:
 
 The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
 
-Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
-
-  
-Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
+While Regalia's DO have a way to obtain them, they CAN be obtained randomly, as many have gotten them from simply starting the game for the first time, or making a new slot.
 
 ## Mute (Animal King)
 
@@ -49,7 +45,5 @@ Another possible method is doing [Trial of One](Trial_of_One.md), and then wipin
 
 ## Trivia/Notes
 
--   **Regalia are not random. This has been confirmed by developers.**
--   There may be more Regalia, however only one has been found.
--   Regalia are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
--   ~Regalia in Spanish means gift, perhaps hinting at how it is an invisible powerful boon that gives power to it's user.~ Regalia does _not_ mean gift in Spanish.
+-   There may be more Regalia, however only one is known to exist, either because it is the only one in the game, or the only one currently found.
+-   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.

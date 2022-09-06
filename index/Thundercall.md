@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 36261
+revid: 36478
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -186,7 +186,12 @@ Lightning Stream
 Spark Swap  
 (★★★)
 
- | Instant swap of location with whoever your cursor is on. | Swap positions with another humanoid.
+ | Almost instantaneous swap of location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CANNOT be parried, blocked, or dodged.**
+
+  
+(outdated video)
+
+ | Swap positions with another humanoid.
 
 -   This can be used on NPCs or players.
 -   Estimated 300 - 350 Stud Range

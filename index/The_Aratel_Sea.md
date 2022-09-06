@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 35239
+revid: 36476
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ A turbulent region fraught with disputes major and minor.
 
 The Aratel Sea is a region in the Etrean Luminant. It shares the Etrean Luminant with the [Etrean Sea](The_Etrean_Sea.md). You can typically find more experienced players here.
 
-The Aratel Sea is a lot more violent, with frequent pirate attacks and being inhabited by various monsters.
+The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), with frequent pirate attacks and being inhabited by various monsters.
 
 ## Points of Interest
 
