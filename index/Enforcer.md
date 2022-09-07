@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 36441
+revid: 36544
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -68,9 +68,9 @@ All in all, keep your nerves hardened, don't be fooled by its intimidating situa
 
 ### Rewards
 
--   **Enforcer's Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
--   **Enforcer's Blade:** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
--   **Progress:** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
+-   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
+-   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
+-   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
 -   **Confidence about being able to escape The Depths in the future:** :)
 
 ## Lore
