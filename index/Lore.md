@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 36506
+revid: 36509
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -129,7 +129,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 
--   He is a Vesperian, according to Arch\_Mage
+-   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         

@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 28316
+revid: 36508
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -14,11 +14,11 @@ Luminants are described to be certain regions of the world in Deepwoken. As of 1
 
 Once more Luminants are added, you will most likely be able to spawn in a different Luminant when creating a character. However, this is just speculation.
 
-## Eastern/Etrean Luminant
+## Etrean Luminant
 
 A Luminant that is mostly under the rule of Etrea. It is the only current released Luminant. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. The Luminant is currently in a never-ending state of war, as the Central Authority has been fighting against Etrea for a while.
 
-The Eastern/Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
+The Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
 
 In the Legion camp in Lower Erisia there is a NPC named Gaius who implies the Luminant in game is the Eastern Luminant.
 
