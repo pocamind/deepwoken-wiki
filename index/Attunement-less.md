@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36321
+revid: 36522
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -239,7 +239,7 @@ File:No Attunement Revamp.png
 
  | _Predict an opponent's attack and reflect it._ | 
 
--   **Requirements:** _**50 Intelligence,**_ _Mobility Mantra_
+-   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
     -   Spawns a white flooring pattern around the user. Any type of damage that were to be dealt to you will get reflected back onto the attacker, including it's negative effect.
     -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
         -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.

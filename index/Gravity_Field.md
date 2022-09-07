@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 35919
+revid: 36524
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,9 +35,9 @@ Pressing C will activate **Gravity Field** Resonance.
 
 When pressed, creates a hemisphere at the location of the resonance activation, from which it is very difficult or almost impossible to get out. Will decrease over time.
 
-The cooldown starts after setting the field and ends only after the action of the field is completely over.
+The coold-own starts after setting the field and ends only after the action of the field is completely over.
 
-If someone touches the border of the field, they will be pushed back.
+If someone touches the border of the field, they will be pushed back. On top of this, mobility mantras (such as [dash](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras)) are not usable.
 
 ### _Resonance Point usage_
 
