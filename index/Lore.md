@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 36313
+revid: 36506
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -96,6 +96,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
+    -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
@@ -146,7 +147,7 @@ Yun'shul
 
 ### **The Nestmind**
 
-**Lore Sources:** _N/A_
+**Lore Sources:** _Visionshaper Obtainment Method_
 
 -   A visual representation of the hivemind that all owls are a part of.
 -   Consumes human thought as food.
@@ -478,7 +479,7 @@ A Dark Mage, located in Minityrsa.
     -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
 -   The Central Authority (as of we know now) use three attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
-    -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests.
+    -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests. According to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
@@ -571,7 +572,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Territory:** _Unknown (Presumably Aratel Island)_
 -   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
--   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe (?)_
+-   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
 -   **Lore Sources:** _Arch\_Mage (Discord), Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
