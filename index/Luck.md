@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 36493
+revid: 36568
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -58,6 +58,8 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 ### **From NPCs**
 
 NPCs have a chance to drop a Soul Orb on death, which grant 1 free point and 3.33% luck.
+
+some NPCs give luck just by killing them such as a sharko that give 1% luck and widow gives 3% ( please enter more mobs that give luck)
 
 ### **From Artifacts**
 
