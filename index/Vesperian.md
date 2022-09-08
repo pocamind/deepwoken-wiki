@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 36532
+revid: 36585
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Races]
 ## Description
 
 Template:Races-Main
+
+File:Vesperian...........png
 
 A vesperian with hair.
 

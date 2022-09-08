@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 32626
+revid: 36573
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry, Items, Swords]
 |---|---|
 | type | Medium Sword |
 | requirements | 20 MED |
-| damage | 16 |
+| damage | 15 |
 | scaling | 3 |
 | range | 8 |
 | swing speed | 0.85x |
