@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 36262
+revid: 36605
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,27 +16,41 @@ Halls of inscrutable architecture stretch as far as the eye can see. No human co
 
   
 
-**The Voidheart** is a location in _Deepwoken._ It is a landmark in the [Voidsea](Voidsea.md) and the current forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
+**The Voidheart** is a location in _Deepwoken._ It is the forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
 
 ## Overview
 
 Halls of the Voidheart
 
-The Voidheart resembles a castle, having alot of rooms in it and high ceilings. Due to the atmosphere in the Voidsea, there isn't any color here, and everything seems grey, similarly to Boatman's Watch. The Voidheart, similarly to Castle Light, it has its own Antiquarian and Training Items. It's located somewhere inside the Voidsea, and is the main base for the Knives of Eylis.
+The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dream, it represents itself as a large set of corridors and grey walls.
+
+Only players who have selected the Voidwalker [Origin](Origins.md) can access this area.
 
 ## Points of Interest
 
 -   A Bounty Board
     -   It is always full as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
+-   Raen, who guides the player throught their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
--   Voidheart chessboard
-    
-    A [Chessboard](Chessboard.md)
+
+Voidheart chessboard
+
+-   A [Chessboard](Chessboard.md)
+
 -   [The Voidmother](The_Voidmother.md)
-    -   Teleports the player to [Songseeker Wilds](Songseeker_Wilds.md) upon leaving.
+    -   Wake the player up from the dream, taking them to where they last used their Void Eye.
+-   Eylis, the Punished Dreamer
+    -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
 
   
+
+## Lore
+
+-   The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themself within it. Leaving the Voidheart is referred to as "waking up".
+-   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exist. According to it, their is no a singular, unified Voidheart. Everybody sees it differently, but it maintains the immuculate white hallway appearance across each person.
+-   Some member of the Knife Of Eylis are here by choice, while other arent. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
+    -   While a less universal goal, Eylis herself have her own set of plan and goals which she does not reveal, but hint at the player's inclusion in them, saying that "You're... different, from the rest".
 
 ## Trivia/Notes
 
@@ -45,3 +59,4 @@ The Voidheart resembles a castle, having alot of rooms in it and high ceilings. 
 
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0))
     -   This has been partially confirmed, as there is now a chess board there.
+-   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here.

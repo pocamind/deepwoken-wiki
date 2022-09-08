@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 36377
+revid: 36596
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -182,7 +182,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Razor Cutlass](Razor_Cutlass.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md). They are much smarter than the average Mudskipper, being able to block, parry and roll away from attacks.
+Mindless enemies are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md). They are much smarter than the average Mudskipper, being able to block, parry and roll away from attacks.
 
 They can only be encountered in The Depths (Trial) while the character's power is between 10 - 19.
 
