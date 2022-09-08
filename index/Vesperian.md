@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 36585
+revid: 36589
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-File:Vesperian...........png
+File:Screenshot 2022-09-08 15.47.14.png
 
 A vesperian with hair.
 
@@ -95,7 +95,7 @@ A layer of protective armor that regenerates at rest.
 
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it.
 -   It's assumed that Vesperians are indeed bugs, but there is a possible relation to the Deep Owl, opening new theories.
--   File:Sample e84822294049b9ba3d61c5bc1f324710.jpg
+-   File:Screenshot 2022-09-08 15.47.14.png
     
     A Vesperian with Blindseer
     

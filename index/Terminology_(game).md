@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 35414
+revid: 36590
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -146,6 +146,14 @@ _verb, noun_
 2.  Secondary Definition.
 
 Extra information about term.  
+
+**Ganking**
+
+Using a group of friends for an unfair advantage over solo players.
+
+for example 5v1 is an extreme level of disgusting when looking for an unfair advantage.
+
+_DO, NOT, GANK. It is not officially rule breaking but is very unfair against solo players._
 
 ## Blacklisted Terms
 
