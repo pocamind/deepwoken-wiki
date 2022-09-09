@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36571
+revid: 36627
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -384,3 +384,4 @@ Enchanted face, ears, back accessories were removed from the loot pool.
     -   Bungee Gum > Elastic
     -   Combustion > Blazing
     -   Hero > Heroism
+-   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.

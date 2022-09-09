@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36342
+revid: 36624
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -454,7 +454,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Ether Adept
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
-    -   Prerequisite: ?? Strength, ?? Intelligence
+    -   Prerequisite: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
     -   Prerequisite: Battle Tendency
