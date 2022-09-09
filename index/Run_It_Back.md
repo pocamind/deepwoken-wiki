@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 36278
+revid: 36612
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,7 +47,7 @@ Run it Back has randomized attunements upon obtaining the bell.
 
 -   The [Flamecharm](Flamecharm.md) variant will burn players nearby on use.
 -   The [Thundercall](Thundercall.md) variant shock players nearby on use.
--   The [Shadowcast](Shadowcast.md) variant will experience a much shorter ability, ending prematurely when too much damage has been taken, however this has an extremely low cooldown ranging from 15-20 seconds.(although some players say that the shadow cast version dose not do this)
+-   The [Shadowcast](Shadowcast.md) variant will steal ether on use.
 
 #### _Corrupted_
 

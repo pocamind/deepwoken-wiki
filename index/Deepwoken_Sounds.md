@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 35826
+revid: 36611
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -57,7 +57,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 26 | Dance, If You Can! | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) | File:Dance, If You Can!.mp3 |
 | 27 | Pelagic Slumber | 2:08 | [The Depths](The_Depths.md) (Ambience) | File:DepthsAmbience.ogg |
 | 28 | Oscillation | 2:54 | [The Depths](The_Depths.md) | File:Drowned City - 7394909817.ogg |
-| 29 | The Final Seal (Interlude) | 1:36 | Unknown | File:The Final Seal (Interlude).mp3 |
+| 29 | The Final Seal (Interlude) | 1:36 | Ringing the bells in the depths, causing the gate to open | File:The Final Seal (Interlude).mp3 |
 | 30 | Lacrimosa Dies Illa | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
