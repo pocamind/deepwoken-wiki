@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 36605
+revid: 36617
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -59,4 +59,4 @@ Voidheart chessboard
 
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0))
     -   This has been partially confirmed, as there is now a chess board there.
--   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here.
+-   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here. (The Voidheart now has a lot of Eylis NPC so attacking players may anger the fraction).

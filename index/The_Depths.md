@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 36507
+revid: 36620
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -104,6 +104,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 -   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
+-   If you are deepbound then you will have to fight an Enforcer no matter what your power is
 
 ## **Farming in The Depths**
 
@@ -131,10 +132,11 @@ Just some information to keep in mind and remember.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
+-   If you are deepbound remember to regularly visit Castle Light as it will restore your sanity
 
 ### **Good Grinding Spots:**
 
-Marauder's Entrance and Castle Light are two spots where close to zero people go. Additionally, if you ever get low when farming at Castle Light, you can just let the divers take the monsters' aggro. However, this place tends to be a bit more populated than the Maraurder's Entrance. Stay safe and good luck!
+Marauder's Entrance and Castle Light (outdated after the 'Deepbound' update) are two spots where close to zero people go. Additionally, if you ever get low when farming at Castle Light, you can just let the divers take the monsters' aggro. However, this place tends to be a bit more populated than the Maraurder's Entrance. Stay safe and good luck!
 
 ## **Quests**
 
