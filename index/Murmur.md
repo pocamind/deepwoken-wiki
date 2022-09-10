@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 36519
+revid: 36648
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -77,7 +77,7 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained by completing 10 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
+Murmur: Tacet can be obtained by completing 10 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md). OR be a [Voidwalker](Origins.md).
 
 This quest also takes into account the number of completed bounty quests from the [Bounty Hunting](Bounty_Hunting.md) board.
 
@@ -85,6 +85,8 @@ This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](R
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
-You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With an unknown large amount of [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. However it is buggy beyond belief and and the NPC can glitch frequently.
+-   You also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With an unknown large amount of [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. However it is buggy beyond belief and and the NPC can glitch frequently.
 
-After speaking to the NPC, he disappears. If you lack a high amount of [Charisma](Attributes.md#cha), you will not obtain anything from him. Negative [reputation](Reputation.md) with Etrea is not required to obtain Tacet from the "Stranger".
+-   After speaking to the NPC, he disappears. If you lack a high amount of [Charisma](Attributes.md#cha), you will not obtain anything from him. Negative [reputation](Reputation.md) with Etrea is not required to obtain Tacet from the "Stranger".
+
+-   If you are a [Voidwalker](Origins.md) (AKA Knife of Elyis), taking a visit to Cestis instantly grants you Tacet.
