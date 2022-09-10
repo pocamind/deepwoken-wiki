@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 33453
+revid: 36652
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Killing Primadon, You can get it on Summer island by handing over "Explosion" boxes, Summer Isle events, Also obtainable from Duke Erisia's chests. |
+| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests. |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 “ Long and wiggly :D ”
@@ -33,10 +33,11 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curved design, resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
+The Serpent's Edge is a popular endgame [Medium Weapon](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons), know for its iconic curved design, resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
 
 ## Trivia
 
 -   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
--   Pro tip: If you're in a bad situation, quickly jump into water and spam R. Works best with the [Portals](Portals.md) resonance.
--   Has a unique critical. You do three slashes that move you a good deal forward
+-   Has a unique critical. You do three slashes that move you a good deal forward.
+    -   This critical can be used in water as a method of escape, due to the speed boost.
+    -   However, do note that the above strategy will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)

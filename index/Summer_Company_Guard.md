@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 34462
+revid: 36656
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Summer Company Guard is enemy NPC that can only be found on Summer Isle. They can spawn manually around the castle on the island or during one of these events:
+A Summer Company Guard is enemy NPC that can only be found on Summer Isle. They can spawn in preset locations around the castle on the island or during one of these events:
 
 -   Summer Company Guards defending the castle against a wave of bandits ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards vs Bandits ([Summer Isle](Summer_Isle.md))

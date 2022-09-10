@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 35795
+revid: 36650
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -33,4 +33,8 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Razor Cutlass is considered by many the midgame to endgame weaponry, boasting high damage and MED weapon multiplier.
+The Razor Cutlass is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons) found inside [chests](Chests_&_Sacks.md) dropped by [enemies](Enemies.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be obtained via turning in an [Artifact](Artifacts.md) to a Banker NPC.
+
+## Trivia
+
+-   Best used midgame to endgame.

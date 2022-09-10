@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36600
+revid: 36654
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -28,9 +28,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Requirements:** N/A
 
-**Obtainment:** Successfully reach the halfway point of the trial, which are the [Threshers](Thresher.md).
+**Obtainment:** Successfully defeat the halfway point of the trial, which is the [Thresher](Thresher.md).
 
--   Your spawnpoint is [Minityrsa](Minityrsa.md).
+-   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
 
 ## Deepbound
@@ -59,36 +59,36 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ## Voidwalker
 
-“ The contract is sealed, enlisting you into an otherworldly mercenary group, the KNives of Eylis. Despite the brutal training, it seems Eylis herself have a plan in mind for you. ”
+“ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself have a plan in mind for you. ”
 
 ― Flavour Text
 
-**Requirements:** 15 grips in the overworld. (Not Chime) These can be anyone; including freshies. Chime and bounties don't count towards Voidwalker. You do need good reputation with the Knives of Eylis.
+**Requirements:** 15 grips in the overworld. These can be anyone; including freshies. [Chime of Conflict](Chime_of_Conflict.md) and [Bounties](Bounty_Hunting.md) don't give progress towards Voidwalker. You do need good reputation with the [Knives of Eylis](The_Knives_of_Eylis.md).
 
-**Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked (-- then through a Knife's Time Bubble.
+**Obtainment:** Talking to Eylis using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 
 -   Your starting location is [The Voidheart](Voidheart.md).
-    -   [The Voidheart](Voidheart.md) is a HUB area with basic necessities and a few NPCs.
-    -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to Lower Erisia the first time.
+    -   [The Voidheart](Voidheart.md) is an area exclusively for Voidwalkers, accessibly only via the Void eye or failing a Grasp of Eylis hunt.
+    -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Void eye after.
 -   Grants the innate talent "Voidwalker Contract"
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
-    -   **\[CON\]** Start with negative reputation toward The Kingdom of Etrea and The Hive...
-    -   **\[PRO\]** ...but start with positive reputation toward The Knives Of Eylis.
+    -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md)...
+    -   **\[PRO\]** ...but start with positive reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
 -   Grants the innate talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice (if available and within power range)...
-    -   **\[CON\]** ...but if they run too far away and are no longer in combat, you are brought back to the Voidheart.
+    -   **\[CON\]** ...but if they run too far away and are no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
     -   **\[PRO\]** You gain vision of your selected target through walls for a moment when teleporting.
     -   While on the hunt, gain a particle effect around you, signifying your activity.
--   **\[PRO\]** Obtain the Void Eye, which bring you backs to the Voidheart.
+-   **\[PRO\]** Obtain the Void Eye, which bring you backs to the [Voidheart](Voidheart.md).
     -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
-    -   Talking to the Voidmother brings you back to where you used the Void Eye to return to the Voidheart.
+    -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Void Eye to return to the Voidheart.
 
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
 -   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
--   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the Knives of Eylis.
-    -   Every player (beside Voidwalkers) start the game with negative reputation toward the Knives of Eylis. Since there is only a single way to get Knife of Eylis reputation (Etrea VS Knife of Eylis), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
--   **\[CON\]** The only way to access The Voidheart is through the Void Eye or failing a hunt with Grasp of Eylis.
+-   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
+    -   Every player (beside Voidwalkers) start the game with negative reputation toward the [Knives of Eylis](The_Knives_of_Eylis.md). Since there is only a single way to get [Knives of Eylis](The_Knives_of_Eylis.md) reputation [(The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
+-   **\[CON\]** The only way to access the [Voidheart](Voidheart.md) is through the Void Eye or failing a hunt with Grasp of Eylis.
 
 ## Trivia
 
