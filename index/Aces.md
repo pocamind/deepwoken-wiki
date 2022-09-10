@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 36628
+revid: 36647
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,4 +27,5 @@ Used to freeze talents. Once a talent is frozen, it will remain in your selectio
 
 -   Freezes did not exist until the update on 9/5/22, but burns have existed since an update on 4/11/22.
 -   Freezes work on Whispers too, however, the frozen mantra will only appear at the next Whisper.
+-   If you freeze a card, then freeze another card in the next draw, it does not use another ace.
 -   Images to come whenever my screenshot tool is fixes itself
