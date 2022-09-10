@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 36394
+revid: 36638
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -26,3 +26,7 @@ The Knives of Eylis are an organization of ruthless mercenaries. They serve Eyli
 ## Lore
 
 A group of bounty hunters who work for a mysterious woman named Eylis.
+
+The most hated faction among the new origins, because all of the people that play it have complaints, and all of them that dont also have complaints.
+
+[https://www.youtube.com/watch?v=oHg5SJYRHA0](https://www.youtube.com/watch?v=oHg5SJYRHA0)

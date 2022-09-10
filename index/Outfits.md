@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 36550
+revid: 36633
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -83,7 +83,7 @@ The player can wear 7 type of armor pieces: Head, Face, Ears, Back, Arms, Rings 
 
 Some armor pieces comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms item can have these). These stats are displayed in grey.
 
-All armor pieces, when obtained, will roll for random stats. These stats are displayed in beige. The amount of stats obtained and their value varies per armor pieces. Rarer armor pieces will roll more stats with higher values. When an armor pieces have a star in their name (**★**), it means they have rolled for an extra stat, equal to the amount of **★**.
+All armor pieces (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far).
 
 **Head:**
 
