@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36624
+revid: 36666
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -92,7 +92,7 @@ These Talents are designed to make your potions making and usage more efficient.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
     -   Soothing, Rejuvenating, Strengthening, Focus Enhancing, Heartening, Invigorating, Steadfast, Hastening and Staggering are more powerful froms potions you drinks.
--   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Exterminator \[Common Talent, Intelligenplacece\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
     -   Appaling, Disguting, Dulling, Icky, Mindbreaker, Gureling and Buckling are more powerful from potions you throw.
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
@@ -100,6 +100,9 @@ These Talents are designed to make your potions making and usage more efficient.
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make diluted potions.
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
+
+-   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
+    -   Theres a chance you can share your effects with allies
 
 ### Alley Cat
 
@@ -163,7 +166,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: Agility 30-35~, 20-25~ Intelligence
+    -   Prerequisites: Agility 20-30~, 20-25~ Intelligence
 
 ### Athlete
 

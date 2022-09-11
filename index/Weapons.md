@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 36663
+revid: 36667
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -324,7 +324,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 
 **Rapiers:**
 
-Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon. They boast a power 4 hit critical attack that deal full damage.
+Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon. They boast a powerful 4 hit critical attack that deals full damage.
 
 <table>
 <tbody>

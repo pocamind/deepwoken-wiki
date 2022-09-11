@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 36263
+revid: 36664
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -91,7 +91,7 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 
 ## Notes/Trivia
 
--   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).
+-   Half of the surnames of the Celtors are of Russian origin \[Baranof (Baran=Ram), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof, Pavel\].
 -   Celtors have a black-hair variant, which was only added later or simply wasn't in the game at release. Most people are unaware of such, and even their facial markings are changed into black spots.
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor race name was changed to Mustskipper.
     

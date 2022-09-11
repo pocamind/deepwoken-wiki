@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 36409
+revid: 36668
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -20,7 +20,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > ## Rarities of Mantras
 > 
-> THere are different rarities for mantras, similarly to talents.
+> There are different rarities for mantras, similarly to talents.
 > 
 > ### Legendary Mantras
 > 
