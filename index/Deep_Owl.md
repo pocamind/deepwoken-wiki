@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 36183
+revid: 36698
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 “ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
 
-― Deep Owl about to give a new player trauma
+― ???
 
 Template:Creature Infobox V3
 
@@ -130,6 +130,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
 -   Don't try to hide in the buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   The Deep Owl is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
+-   Despite having lower health than a lionfish, they are foes to be beckoned since they deal an unholy amount of damage.
 
 1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
 2.  [↑](#cite-ref-2) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.

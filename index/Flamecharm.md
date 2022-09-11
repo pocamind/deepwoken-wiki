@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 36677
+revid: 36691
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -320,7 +320,6 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Size Buffs.
--   If a Vibrant gem is used, food's can be cooked at a Graceful Flame. (Unless it depends on Mantra level)
 -   Ritual casting.
 -   Will be put out if it's raining, unless used with the unyielding inferno talent.
 -   Using Blue Gem will NOT work.

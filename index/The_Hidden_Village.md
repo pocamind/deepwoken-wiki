@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 36351
+revid: 36697
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -49,6 +49,7 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 
 -   You can find one of [The Hive](The_Hive.md)'s fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
 -   You can find plenty of [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore) ore here.
+-   You can find [The Meat Lord](The_Meat_Lord.md) here.
 
 ## Quests
 

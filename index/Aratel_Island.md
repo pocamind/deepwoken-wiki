@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 36555
+revid: 36693
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,4 +28,4 @@ TERRITORY OF
 ## Trivia
 
 -   The island may also be called "Hive Island" by other players.
--   Blue objects were seen falling from the sky and landing on Aratel Island in the year 1286. They are speculated to be fragments of the Celestial Civilization. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))
+-   Blue objects often fall from the sky and land on Aratel Island. They were speculated to be fragments of the Celestial Civilization, but now it is known that they are fragments of stars. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))
