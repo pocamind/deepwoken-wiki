@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36654
+revid: 36679
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -59,7 +59,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ## Voidwalker
 
-“ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself have a plan in mind for you. ”
+“ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
 
 ― Flavour Text
 

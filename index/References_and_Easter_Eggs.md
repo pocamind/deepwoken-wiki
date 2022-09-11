@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 36341
+revid: 36682
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -45,8 +45,7 @@ notices:
 
 ### **Galebreathe**
 
--   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling
--   Champions Whirl Throw is a reference to Goku's [Dragon Throw](https://dragonball.fandom.com/wiki/Dragonthrow)
+-   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
 
 ### **Shadowcast**
 
@@ -56,14 +55,9 @@ notices:
 -   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
 -   **Shadow Travel** may be reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 
-### **Attunementless**
-
--   **Rapid Punches** is a reference to the various punch barrages made by Stands (notably Star Platinum or The World) in JoJo's Bizarre Adventure.
-
 ## Enemies/Bosses
 
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
--   **[Deep Owls](Deep_Owl.md)** have a vaguely reminicist design to [Wan Shi Tong](https://avatar.fandom.com/wiki/Wan_Shi_Tong) from _Avatar_
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
     -   **Watchers**, the monsters that summon Angels, also share similarities with both [Sirenhead](https://trevorhenderson.fandom.com/wiki/Siren_Head) from the _Trevor Henderson Mythos_, and the [Demogorgon](https://strangerthings.fandom.com/wiki/The_Demogorgon) from _Stranger Things_.
@@ -157,4 +151,4 @@ notices:
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** all wearing masks somewhat resembles the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
--   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
+    -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).

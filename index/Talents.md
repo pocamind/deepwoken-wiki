@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36666
+revid: 36678
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1021,7 +1021,7 @@ Prerequisite: Charisma
     -   Prerequisite: 30 fortitude + 10 willpower + Have a shield equipped
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
     -   From: Knight's Rally
-    -   Prerequisite: 55 Fortitude + have a shield equipped
+    -   Prerequisite: 50 Fortitude + have a shield equipped
 
 ### Shipwright
 

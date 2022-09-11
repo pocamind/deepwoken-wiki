@@ -1,14 +1,15 @@
 ---
 title: Ships
-revid: 35163
+revid: 36676
 source: https://deepwoken.fandom.com/wiki/Ships
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion]
-notices:
-  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
 ---
 
 # Ships
+
+Redirect to:
+
+-   [Boats](Boats%253Fredirect=no.md)
 
 _"Soon may the Wellerman come, To bring us Redds and Pomars and Calabash" - A Celtor, hanging on with a sea shanty_
 
