@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 36668
+revid: 36717
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -74,11 +74,10 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > Large and threatening fire based spells. Excels in crowd control and area denial as many spells have large range.
 > 
-> -   Very recomndd to ue i close proxiity to all.
-> -   an be pgrdedthrough Wlpor for the "Azur Flames"ale
-> -   /midrage.
-> -   eat foppot
-> -   Goo pressure.
+> -   Very good at close range
+> -   Can be further upgraded with Azure Flame for even more damage
+> -   Decent midrange presence
+> -   Good pressure
 > 
 > ### [**Thundercall Mantras**](Thundercall.md)
 > 

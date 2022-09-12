@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36716
+revid: 36718
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -44,7 +44,7 @@ Changelogs:
 -   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment became soulbound. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed again.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
--   **September 12th, 2022** - Enchant rates increased to 2x as Deepwoken won a Bloxy Award
+-   **September 12th, 2022** - In celebreation of Deepwoken obtaining the Best New Game award in the Bloxy Award, enchant rate have been increased by 2x temporarily.
 
 **Weapons:**
 
