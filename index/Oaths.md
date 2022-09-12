@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 36439
+revid: 36702
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -39,7 +39,7 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 ### Obtaining
 
-Oathless must be selected when draw from the hand of cards when powering up. It will always appear between power 30 and 40 if the player has no oath.
+Oathless must be selected when draw from the hand of cards when powering up. It will always appear from power 30 to 39 if the player has no oath.
 
 ### Effects
 

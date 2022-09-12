@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 36617
+revid: 36704
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ Halls of inscrutable architecture stretch as far as the eye can see. No human co
 
 Halls of the Voidheart
 
-The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dream, it represents itself as a large set of corridors and grey walls.
+The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dreams, it represents itself as a large set of corridors and grey walls.
 
 Only players who have selected the Voidwalker [Origin](Origins.md) can access this area.
 
@@ -30,7 +30,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 
 -   A Bounty Board
     -   It is always full as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
--   Raen, who guides the player throught their first step as a voidwalker.
+-   Raen, who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 
 Voidheart chessboard
@@ -47,12 +47,12 @@ Voidheart chessboard
 
 ## Lore
 
--   The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themself within it. Leaving the Voidheart is referred to as "waking up".
--   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exist. According to it, their is no a singular, unified Voidheart. Everybody sees it differently, but it maintains the immuculate white hallway appearance across each person.
--   Some member of the Knife Of Eylis are here by choice, while other arent. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
+-   The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up".
+-   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exist. According to it, their is no a singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
+-   Some member of the Knives Of Eylis are here by choice, while other arent. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
     -   While a less universal goal, Eylis herself have her own set of plan and goals which she does not reveal, but hint at the player's inclusion in them, saying that "You're... different, from the rest".
 
-## Trivia/Notes
+## Trivia
 
 -   **Voidheart** is 70k studs away from [Etris](Etris.md).
 -   Originally, The **Voidheart** was a sea of complete nothingness, and was removed for it's uselessness, but now has returned in a form of a base for the Knives of Eylis

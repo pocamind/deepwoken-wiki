@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 36235
+revid: 36703
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonance, Charater, Boss]
+categories: [Pages with broken file links, Resonance, Mechanics]
 ---
 
 # Resonance
