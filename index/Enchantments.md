@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36720
+revid: 36730
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -45,6 +45,7 @@ Changelogs:
 -   **April 11th, 2022** - Enchant rates have been buffed again.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
 -   **September 12th, 2022** - In celebreation of Deepwoken obtaining the Best New Game award in the Bloxy Award, enchant rate have been increased by 2x temporarily.
+-   **September 13th, 2022** - Enchanted weapons and equipment now have at least 1 star quality at minimum.
 
 **Weapons:**
 
