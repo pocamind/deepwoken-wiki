@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36718
+revid: 36720
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -247,7 +247,7 @@ Changelogs:
 <tr>
   <td><figure>File:Newunstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
   <td><div><p>Every M1 has a chance proc a random enchant on hit.<br>
-  <b>Enchant is disabled for Non-Moderators</b></p></div></td>
+  <b>Only obtainable via Developer</b></p></div></td>
   <td><div>Weapon is covered with combination of Mulpicity Enchant and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>
