@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 36731
+revid: 36733
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -14,7 +14,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 > “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
 > 
-> ― Flavour Text
+> ― Flavor Text
 
 **Requirements:** N/A
 
@@ -37,7 +37,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 > “ Your training is almost complete, though you were born in these halls, you must now venture out into the Wastes to prove your worth. ”
 > 
-> ― Flavour Text
+> ― Flavor Text
 
 **Requirements:** Ask about signing up in the Divers to Akira during his encounter between the Ignition Union in Celtor Wastes.
 
@@ -62,7 +62,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
 
-― Flavour Text
+― Flavor Text
 
 **Requirements:** 15 grips in the overworld. These can be anyone; including freshies. [Chime of Conflict](Chime_of_Conflict.md) and [Bounties](Bounty_Hunting.md) don't give progress towards Voidwalker. You do need good reputation with the [Knives of Eylis](The_Knives_of_Eylis.md).
 
