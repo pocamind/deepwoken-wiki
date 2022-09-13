@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 36700
+revid: 36740
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -196,7 +196,8 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   The Ferryman is now completely ignores the mantra-cancelling effects of suffocation, making a previous cheese unusable.
 -   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
--   Despite being called The Ferryman he does not actually have a ferry, at least not as of now.  
+-   Despite being called The Ferryman he does not actually have a ferry, at least not as of now.
+-   (unsure if this is a bug) The Ferryman's lightning clones can actually drop luck. As they are counted as an enemy, when they disappear they have a chance to drop luck.  
     
     File:Yamaketzalferryman.png
     

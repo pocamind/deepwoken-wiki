@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 36509
+revid: 36737
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -431,9 +431,9 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord), Eylis, The Punished Dreamer (NPC)._
 
--   The Knives of Eylis are an organization of ruthless or randomly hired mercenaries that work under Eylis, the Punished Dreamer.
+-   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
 -   They live in the sewers of the Central Luminant.
--   Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md).
+-   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
@@ -476,10 +476,10 @@ A Dark Mage, located in Minityrsa.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
 -   They purchase firearms from The Summer Company.
-    -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
+    -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses.
 -   The Central Authority (as of we know now) use three attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
-    -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests. According to Kelsius, this division is called the "Shock Corps"
+    -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.

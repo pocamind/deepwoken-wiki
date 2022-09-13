@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 36324
+revid: 36735
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -163,9 +163,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-“ Hanz get za **flammenwerfer!** ”
+“ KILL IT! **KILL IT!** KILL IT WITH FIRE! ”
 
-― An Adretian Metamancer, saying to a Ganymede Pyromancer, fighting the Deep Widow.
+― Ganymede Pyromancer, fighting the Deep Widow.
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.

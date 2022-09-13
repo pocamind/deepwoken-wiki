@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 36312
+revid: 36736
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,7 +12,6 @@ notices:
 
 ## Location
 
--   **The Voidheart -** ~While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.~ Voidheart was added back into the game, and is a possible spawn point with the Voidwalker origin
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
 -   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon Enforcers. Primadon was also spawned here initially.
 -   **The Floating Keep -** While it is possible to see using exploits, the actual content of The Floating Keep has been removed. The only remaining evidence of this area is exploit location markers.
@@ -30,7 +29,7 @@ notices:
 -   **Mantras Stat -** Itemized mantras would read their level and stat change in their tooltip like so: Mantra Name, Lv.1, 0 Sz (Size), 0 AoE (Area of Effect), 0 Dur (Duration), 0 Spd (Speed), 0 Rng (Range).
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantras Cores that would then be the basis of your spell creation.
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantra on the Mantra Table.
--   **Announced Casting -** ~Characters used to announce their mantra cast via text chat. This was removed shortly before release, as it made the game "Too anime," but was reimplemented due to popular demand. However, later clips show the move names being announced in a red highlight on the screen whenever used. This has been removed and with the return of Voiced Casting, unlikely to return.~ As of 07.10.2022, this was added back under the name of **Spell Shout** and is obtained by paying 50 notes to NPC in Isle of Vigil's library.
+-   **Announced Casting -** Characters used to announce their mantra cast via text chat. This was removed shortly before release, as it made the game "Too anime," but was reimplemented due to popular demand. However, later clips show the move names being announced in a red highlight on the screen whenever used. This has been removed and with the return of Voiced Casting, unlikely to return. As of 07.10.2022, this was added back under the name of **Spell Shout** and is obtained by paying 50 notes to NPC in Isle of Vigil's library.
 
 ## Monsters
 

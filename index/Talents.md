@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36719
+revid: 36734
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -237,7 +237,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor (20 second cooldown). (+3 Health)
     -   Prerequisites: Use a Greataxe, Impairing Blow
 
--   Heavy Fatigue \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how fair they can roll. (+3 Health)
+-   Heavy Fatigue \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. (+3 Health)
     -   Prerequisites: Use a Greataxe, Impairing Blow
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. (+3 Health)
     -   Prerequisite: Use a Greataxe

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 36667
+revid: 36739
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1229,7 +1229,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
-  <td>50 SHD, LVL 20</td>
+  <td>50 SDW, LVL 20</td>
   <td>20</td>
   <td>N/A</td>
   <td>SHD: 6.5</td>
@@ -1251,10 +1251,10 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td>75 SHD, 40 HVY</td>
+  <td>75 SDW, 40 HVY</td>
   <td>23</td>
   <td>N/A</td>
-  <td>SHD: 10 HVY: 3.5</td>
+  <td>SDW: 10 HVY: 3.5</td>
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>
