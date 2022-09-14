@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36742
+revid: 36756
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -905,6 +905,7 @@ These Talents are meant to make foraging and mining grant more resources.
     -   Requires Friends in High Places + 50 charisma - The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
 -   Diplomat \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
+-   Under The Radar \[Rare Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher (+4 Ether, 4+ Health)
     -   Prerequisites For All: Charisma
 
 ### Puppet Master
