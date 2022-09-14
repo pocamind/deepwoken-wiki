@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 36280
+revid: 36745
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ A training vest hanging in the Antiquarian shop at Etris.
 -   [Training Vest](Training_Gear.md#attribute-training-gears) - Template:Cost / **50 uses** (On the white and black armor)
 -   [Boulder](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
 
-Located at the antiquarian shop, and in the training room at Isle of Vigils. ~Isle of Vigils does not have a boulder.~ False. It does have a purchasable boulder located to the right of Stratos in the Temple entrance.
+Located at the antiquarian shop, and in the training room at Isle of Vigils. ~Isle of Vigils does not have a boulder.~ False. It does have a purchasable boulder located to the right of Stratos in the Temple entrance. (Not many spot it cause it looks like a normal boulder)
 
 Ankle weights hanging in the Antiquarian shop at Etris
 

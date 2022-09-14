@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 33802
+revid: 36752
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -10,25 +10,97 @@ notices:
 
 # Materials
 
-This is a list of several materials in Deepwoken as well as their uses.
+Materials are items in Deepwoken that can be used for many different things, mainly [Armors](Outfits.md).
 
-Wood - Received by cutting down trees. Cannot be sold to Antiquarian. However, you can sell 10 of them for 5 notes at certain NPCs in Etris and Vigils. It can be crafted into a campfire pit and three sticks.
+## Wood
 
-Coal - Can be combined with a rock to create flint.
+### Obtainment
 
-Rock - Used for the [Hive Drone](Hive_Drone.md) schematic and can be combined with 1 Coal to make Flint. You can also throw it.
+Wood can be obtained using the Lumber Axe on a tree. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Can be bought at the Etris General Store for (3?) notes.
 
-[Flint](Flint.md)\- Used to light fires. Has 15 uses.
+### Uses
 
-Umbral Flint - Made with 1 Coal and 1 Umbral Obsidian. It has 150 uses.
+Building a Campfire Pit, making 3 sticks, crafting a Lumber Axe or Picaxe at a crafting station, selling to the Lumberjack at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md)
 
-Cloth - Used in schematics.
+## Coal
 
-Fiber - Made from bamboo and spider eggs. Used in schematics and to craft cloth. Also used to craft a fishing rod.
+### Obtainment
 
-Iron - Used in multiple schematics and crafted items, Craft one Iron to create 5 bullets. (More uses to be added)
+Mining or buying at the blacksmith shop in Etris
 
-Gold, [Irithine](Ores.md#irithine), and Erisore - Used in schematics.
+### Uses
+
+Crafting Flint, crafting Umbral Flint, [Alchemy](Alchemy.md)
+
+## Rock
+
+### Obtainment
+
+Mining or buying at Etris
+
+### Uses
+
+Crafting Flint, throwing at pedestrians
+
+## Cloth
+
+### Obtainment
+
+Can be bought from the Blacksmith for 6 notes (3 if, you're at Etris and have the discount).
+
+### Uses
+
+Used in all armor schematics.
+
+## Fiber
+
+### Obtainment
+
+Can be bought from the Blacksmith for 3 notes.
+
+### Uses
+
+Used in all armor schematics except the Traveler Coats. 3 can be used to craft 1 cloth. Can be used to craft a fishing rod
+
+## Iron
+
+### Obtainment
+
+Mining or buying at Etris and Vigils
+
+### Uses
+
+Crafting a Lumber Axe or Picaxe at a crafting station, crafting bullets, [Alchemy](Alchemy.md), most schematics
+
+## Gold
+
+### Obtainment
+
+Mining or buying at Etris and Vigils
+
+### Uses
+
+[Alchemy](Alchemy.md), many schematics
+
+## [Irithine](Ores.md#irithine)
+
+### Obtainment
+
+Mining at Upper Erisia
+
+### Uses
+
+[Alchemy](Alchemy.md), some schematics
+
+## Erisore
+
+### Obtainment
+
+Mining at Upper Erisia
+
+### Uses
+
+[Alchemy](Alchemy.md), Some Schematics
 
 ## Notes
 

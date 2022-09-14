@@ -1,21 +1,23 @@
 ---
 title: Royal Pathfinder
-revid: 35509
+revid: 36747
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Royal Pathfinder
 
-“ Thanks for the free enchants bro! ”
+“ im about to kill 9 freshies ”
 
-― Vesperian Royal Pathfinder to his friend
+― a level 54 in lower erisia
 
 Template:EquipmentStats
 
 ## Description
 
 The Royal Pathfinder is an Arms type of Armor that is found in chests from [Starswept Valley](The_Starswept_Valley.md). This armor requires a **Power Level** of **30** in order to equip.
+
+A decent armor but glass dancer wraps are usually better.
 
 ## Trivia
 

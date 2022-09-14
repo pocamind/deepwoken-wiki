@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 36081
+revid: 36755
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -26,6 +26,8 @@ The Lordsgrove is a jungle-like passage that is accessed through [Starswept Vall
 
 The Lordsgrove contains a fountain that will transport you to [Greathive Aratel](Greathive_Aratel.md). It also includes Zirik, an NPC who can alter your reputation with The Hive.
 
+Large statues of Vesperians can be seen to the sides of the Lordsgrove.
+
 ## Contents
 
 ### NPCs
@@ -40,3 +42,4 @@ The Lordsgrove contains a fountain that will transport you to [Greathive Aratel]
 
 -   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and have an oath. (Oathless is an oath)
 -   The statues lines along the walls of The Lordsgrove depict previous Hivelords, including one with the unique [Oath: Blindseer](Oaths.md) variant for Vesperians.
+-   One of the statues hints at the Hivelord Mask, before it was finally added to the game
