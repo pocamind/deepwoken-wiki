@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 36739
+revid: 36741
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1187,7 +1187,7 @@ Weapons that scale with a certain element
   <td><a href="Hero_Blades.md">Hero Blade of Flame</a></td>
   <td>75 FIR, LVL 35</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>FIR: 6.5</td>
   <td>5</td>
   <td>8</td>
@@ -1198,7 +1198,7 @@ Weapons that scale with a certain element
   <td><a href="Hero_Blades.md">Hero Blade of Lightning</a></td>
   <td>75 THD, LVL 35</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>THD: 6.5</td>
   <td>5</td>
   <td>8</td>
@@ -1209,7 +1209,7 @@ Weapons that scale with a certain element
   <td><a href="Hero_Blades.md">Hero Blade of Frost</a></td>
   <td>75 ICE, LVL 35</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>ICE: 6.5</td>
   <td>5</td>
   <td>8</td>
@@ -1220,7 +1220,7 @@ Weapons that scale with a certain element
   <td><a href="Hero_Blades.md">Hero Blade of Wind</a></td>
   <td>75 WND, LVL 35</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>WND: 6.5</td>
   <td>5</td>
   <td>8</td>
@@ -1231,7 +1231,7 @@ Weapons that scale with a certain element
   <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
   <td>50 SDW, LVL 20</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>SHD: 6.5</td>
   <td>5</td>
   <td>8</td>
