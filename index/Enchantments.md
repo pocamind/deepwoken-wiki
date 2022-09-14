@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36730
+revid: 36757
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -183,10 +183,10 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>Weapon gain 1.2x damage.<br>
+  <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
-  While above 10% HP, missing an M1 deal 1% of max HP as self damage.</p></div></td>
+  While above 10% HP, missing an M1 deal 2% of max HP as self damage.</p></div></td>
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>

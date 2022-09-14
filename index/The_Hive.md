@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 36316
+revid: 36759
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,11 +21,11 @@ notices:
 
 ## Description
 
-The Hive is a faction that operates in their territory [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. Which can only be accessed through washing your face before using the teleporter.
+The Hive is a faction that operates in their territory [Greathive Aratel](Greathive_Aratel.md), which is located in the upper north of Aratel Island. Which can only be accessed through washing your face in the [Lightkeeper Temple](Lightkeeper_Temple.md) before using the shrine teleporter.
 
-The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), also known as the Hivelords; with the current Hivelord being "**Zithori Vhemm Diri**", a **Ganymede**. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating the Hive.
+The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), also known as the Hivelords; with the current Hivelord being "**Zithori Vhemm Diri**", a **Ganymede**. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
 
-The Hive uses an unobtainable attunement known as Lifeweaving. It is used to "give life" by creating [Hive Constructs](Hive_Construct.md), possibly teleporters and fixed campfires around [Greathive Aratel](Greathive_Aratel.md). In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels, showing off how technologically advanced this faction is.
+The Hive uses an unobtainable attunement known as Lifeweaving. It is used to "give life" by creating [Hive Constructs](Hive_Construct.md), possibly teleporting shrines and fixed campfires around [Greathive Aratel](Greathive_Aratel.md). In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels, showing off how technologically advanced this faction is.
 
 They frequently get into battles with [Etrea](Etrea.md), who steal attempt to steal their Lifeweaving artifacts at Lord Regent's request.
 
@@ -79,5 +79,5 @@ Neutral-Bad Reputation:
 ## Trivia
 
 -   All Hive members/NPCs are either [Vesperians](Vesperian.md) or [Ganymedes](Ganymede.md).
--   You can get Neutral-Good reputation with the Hive just by helping in the **Hive Guards vs Etrean Footsoldiers** event 3 times OR only once with some talents, like diplomat.
+-   You can get Neutral-Good reputation with the Hive just by helping in the **Hive Guards vs Etrean Footsoldiers** event 3 times OR only once with some talents, like Diplomat.
     -   From Neutral to Neutral-Good.
