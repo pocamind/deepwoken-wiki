@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 36369
+revid: 36775
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Fishing, Mechanics, Luck]
+categories: [Pages with broken file links, Fishing, Mechanics, Luck, Locations]
 ---
 
 # Fishing

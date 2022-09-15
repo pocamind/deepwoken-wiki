@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36756
+revid: 36765
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -709,6 +709,16 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Natural increase in Stealth. Gain bonus agility when climbing wooden bricks, like trees.
 -   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. (+1 Health)
     -   Status effects, good or bad, are shorter.
+
+-   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
+    -   Passive insanity gain from The Depths is reduced.
+
+-   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
+    -   Buffs HP regen of one person they choose around them as long as they are at a campfire or power 5+.
+-   Mark of Nemit \[Green [Capra](Capra.md) Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
+    -   Buffs food of one person they choose around them as long as they are at a campfire or power 5+.
+-   Mark of Jurik \[Blue [Capra](Capra.md) Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
+    -   Buffs sanity of one person they choose around them as long as they are at a campfire or power 5+.
 
 ### Lava Serpent
 

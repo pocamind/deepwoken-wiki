@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 36757
+revid: 36766
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -72,8 +72,7 @@ Changelogs:
 <tr>
   <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Weapon deal 1.1x damage.<br>
-  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.<br>
-  This enchant does NOT currently work how it's supposed to. Proof in this vid: <a href="https://youtu.be/qW3mb4e7MS0">https://youtu.be/qW3mb4e7MS0</a></p></div></td>
+  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
