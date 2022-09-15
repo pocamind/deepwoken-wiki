@@ -1,9 +1,9 @@
 ---
 title: Dragoon
-revid: 36657
+revid: 36892
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Guns]
+categories: [Weapons, Guns, Weaponry, Items]
 ---
 
 # Dragoon

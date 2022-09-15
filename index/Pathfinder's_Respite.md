@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 36045
+revid: 37010
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -44,3 +44,4 @@ Events that spawn in Pathfinder's Respite that involve combat. For more info, se
 
 -   There will be wooden planks blocking the entrance. Only some mantras can break it (Strong Left, Lightning beam)
 -   Despite being in Lower Erisia, Upper Erisia events can still spawn here
+-   Artifacts can also spawn here.

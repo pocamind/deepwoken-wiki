@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 36817
+revid: 36851
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken, Locations, Factions, Monsters, Character, Map, Drowned Gods, Death, Exclusive Races, Resonance, Islands, Origins, Oaths, Attunement, Boss, NPCs]
@@ -1113,6 +1113,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
         -   This could be because, being bats, they prefer environments with fewer transients passing through, and thus inhabit deeper Layers.
             -   As no Brainsuckers are seen heading to the surface, this would imply there is a method to get straight from at least the second Layer of The Depths straight to the overworld.
         -   Alternatively, the conditions in the overworld may have just been more favourable, and they have all migrated there and left The Depths behind.
+    -   Despite the name, they don't suck brains
 
 ### The Enforcer(s)
 
@@ -1154,8 +1155,9 @@ At the year 1271 of Spring, The Player makes their first appearance in the world
 
 ### Character Slots
 
--   Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.
-    -   For the confused folk, each Character Slot acts like a different account.
+-   ~Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.~
+    -   ~For the confused folk, each Character Slot acts like a different account.~
+-   With a new update, all unlocks (Origins, Attunements, Weapons, etc) are unlocked for all slots.
 
 ## Miscellaneous
 

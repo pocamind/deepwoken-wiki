@@ -1,9 +1,9 @@
 ---
 title: Status Effects
-revid: 36607
+revid: 36974
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Mechanics]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

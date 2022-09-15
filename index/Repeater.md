@@ -1,9 +1,9 @@
 ---
 title: Repeater
-revid: 36223
+revid: 36882
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Guns]
+categories: [Weapons, Guns, Weaponry, Items]
 ---
 
 # Repeater

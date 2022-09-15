@@ -1,9 +1,9 @@
 ---
 title: Lumber Axe
-revid: 33750
+revid: 37004
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Utilities, Items]
 ---
 
 # Lumber Axe

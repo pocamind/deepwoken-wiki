@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 36778
+revid: 36884
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Helpful, Talents, Ingredients]
@@ -42,7 +42,8 @@ Picture of a Crafting Bench
 -   **Sharkscale Glider** (Requires Glider Schematic) - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
--   **Fishing Rod** - 2 Stick, 1 Fiber  
+-   **Fishing Rod** - 2 Stick, 1 Fiber
+-   [Repair Kit](Repair_Kit.md) 3 wood, 5 iron  
     
 
 ## Food Recipes

@@ -1,8 +1,9 @@
 ---
 title: Legendary Boot
-revid: 34005
+revid: 36825
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics, NPCs]
 ---
 
 # Legendary Boot

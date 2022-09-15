@@ -1,9 +1,9 @@
 ---
 title: Navaen Hostage
-revid: 25711
+revid: 36880
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, NPCs, Factions]
 ---
 
 # Navaen Hostage

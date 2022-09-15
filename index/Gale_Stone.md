@@ -1,8 +1,9 @@
 ---
 title: Gale Stone
-revid: 32295
+revid: 36844
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Attunement]
 ---
 
 # Gale Stone

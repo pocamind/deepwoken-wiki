@@ -1,8 +1,9 @@
 ---
 title: Fountain Gates
-revid: 21466
+revid: 36925
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Mechanics, Map, Utilities]
 ---
 
 # Fountain Gates

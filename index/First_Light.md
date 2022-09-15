@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 34454
+revid: 36852
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords]
+categories: [Weapons, Greatswords, Weaponry, Items]
 ---
 
 # First Light

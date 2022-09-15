@@ -1,8 +1,9 @@
 ---
 title: Megalodaunt Hide
-revid: 28642
+revid: 36987
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Drops, Uses, Ingredients, Items]
 ---
 
 # Megalodaunt Hide

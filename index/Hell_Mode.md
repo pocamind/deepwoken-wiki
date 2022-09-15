@@ -1,9 +1,9 @@
 ---
 title: Hell Mode
-revid: 36368
+revid: 36829
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, Mechanics]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---

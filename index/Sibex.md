@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 36165
+revid: 36823
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Resonance]
 ---
 
 # Sibex

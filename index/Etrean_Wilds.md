@@ -1,9 +1,9 @@
 ---
 title: Etrean Wilds
-revid: 36040
+revid: 36977
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Map]
 ---
 
 # Etrean Wilds

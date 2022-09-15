@@ -1,8 +1,9 @@
 ---
 title: Sanity
-revid: 32260
+revid: 36969
 source: https://deepwoken.fandom.com/wiki/Sanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Sanity

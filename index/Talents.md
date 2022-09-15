@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36788
+revid: 36888
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -1211,6 +1211,9 @@ These Talents are meant to reap the reward of your latest hunt.
 ### Visionshaper
 
 -   Lasting Image \[Visionshaper Exclusive, Common Talent\] - Your illusions last longer.
+-   Vanishing Closure - \[Rare talent, Visionshaper Exclusive\]
+    -   Become invisible for 2.5 seconds whenever you knock an enemy.
+    -   No (or very low) cooldown.
 
 ### Warrior
 

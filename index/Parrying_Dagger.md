@@ -1,9 +1,9 @@
 ---
 title: Parrying Dagger
-revid: 34538
+revid: 36894
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items, Daggers]
 ---
 
 # Parrying Dagger

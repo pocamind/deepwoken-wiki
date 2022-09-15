@@ -1,9 +1,9 @@
 ---
 title: Mushroom Soup
-revid: 18228
+revid: 36995
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Food]
+categories: [Pages with broken file links, Food, Items]
 ---
 
 # Mushroom Soup

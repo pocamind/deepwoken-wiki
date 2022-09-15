@@ -1,9 +1,9 @@
 ---
 title: Controls
-revid: 23555
+revid: 36834
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helpful]
+categories: [Helpful, Mechanics, Character, Browse]
 ---
 
 # Controls
