@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 36789
+revid: 37022
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > ### Legendary Mantras
 > 
 > -   Lightning Cloak (Confirmed)
-> -   Ice Fissures (Speculated)
+> -   Ice Fissures (Confirmed)
 > 
 > ### Rare Mantras
 > 

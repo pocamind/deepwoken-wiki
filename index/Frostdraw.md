@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 36706
+revid: 37017
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -876,4 +876,3 @@ Your ice spear now lodges into human opponents and explodes.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
 -   Frostdraw has the most mantras with 3 stars on them.
 -   Frostdraw has the most mantras out of all attunements.
--   This [attunement](Attunements.md) is one of the most annoying mantras in the game. First being [Flamecharm](Flamecharm.md)

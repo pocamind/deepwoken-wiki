@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 36042
+revid: 37033
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -54,6 +54,10 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 #### [Mantra Collector](Mantra_Collector.md)
 
 -   Players can find Cumberland, an NPC who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
+
+### Sparring Arena
+
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md).
 
 ## Missions
 

@@ -1,9 +1,9 @@
 ---
 title: Enchantments
-revid: 36805
+revid: 37030
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weaponry, Mechanics, Armors]
+categories: [Pages with broken file links, Weaponry, Mechanics]
 ---
 
 # Enchantments
@@ -121,7 +121,7 @@ Changelogs:
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Provdrip.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
+  <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
   <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
@@ -138,7 +138,7 @@ Changelogs:
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>

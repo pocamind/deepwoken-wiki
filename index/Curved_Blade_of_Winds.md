@@ -1,9 +1,9 @@
 ---
 title: Curved Blade of Winds
-revid: 36855
+revid: 37018
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Attunement, Weaponry, Items]
+categories: [Weapons, Swords, Attunement, Weaponry, Items, "Attunement-based Weapons"]
 ---
 
 # Curved Blade of Winds
