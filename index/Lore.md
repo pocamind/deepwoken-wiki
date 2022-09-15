@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 36737
+revid: 36817
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World]
+categories: [Pages with broken file links, World, Deepwoken, Locations, Factions, Monsters, Character, Map, Drowned Gods, Death, Exclusive Races, Resonance, Islands, Origins, Oaths, Attunement, Boss, NPCs]
 ---
 
 # Lore

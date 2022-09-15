@@ -1,9 +1,9 @@
 ---
 title: Outfits
-revid: 36633
+revid: 36812
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
+categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character, Helmets, Boots, Arms, Face]
 notices:
   - This page is currently being separated. Some things may look out of place.
 ---

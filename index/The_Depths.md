@@ -1,9 +1,9 @@
 ---
 title: The Depths
-revid: 36620
+revid: 36818
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Death, Mantras, Locations]
+categories: [Pages with broken file links, Death, Mantras, Locations, Map, Oaths, Monsters, Mechanics]
 ---
 
 # The Depths

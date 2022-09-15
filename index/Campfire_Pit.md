@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 29635
+revid: 36811
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ Crafted by using 3 Sticks **OR** 1 Wood.
 
 Equipping and using a Campfire will then place it down at your mouse. They cannot be placed if you click a location that isn't in your general vicinity.
 
-Can be lit up by using a Flint (1 Coal + 1 Rock), using [Produce Spark](Flamecharm.md#talents), [Discovery of Fire](Thundercall.md#talents), Flame Wisp, or using Fire Gun.
+Can be lit up by using a Flint (1 Coal + 1 Rock), using [Produce Spark](Flamecharm.md#talents), [Discovery of Fire](Thundercall.md#talents), Flame Wisp, Umbral Flint, or using Fire Gun.
 
 While resting at a campfire, the player can cook [Food](Food.md) while also regaining their [Blood](Combat_Mechanics.md#survival-basics), [Health](Combat_Mechanics.md#gui), [Armor](Combat_Mechanics.md#gui) (requires the [Thresher Scales](Talents.md#marauder) Talent), Natural Armor (requires the [Vesperian](Vesperian.md) race **OR** the [Exoskeleton](Talents.md#freak-of-nature) talent) and [Sanity](Insanity.md).
 
