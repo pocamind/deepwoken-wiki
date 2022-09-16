@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 37017
+revid: 37044
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -118,24 +118,6 @@ _A legion of frost._
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
-
- |
-|  | 
-
-Ice Lasers
-
- | 
-
-_Swift bolts of frozen air._
-
- | Fires a bullet of ice.
-
--   Bad Hitbox.
--   Damages opponents, _possibly slows them down._
--   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
--   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
--   Ice Beam is better.
--   Use 2 stratus stones to turn it into a 5 shot burst gun.
 
  |
 | File:Ice Daggers.gif | 
@@ -271,6 +253,28 @@ _Form an ice spear and lunges forward._
 
 -   Deals moderate damage.
 -   Briefly slows target.
+
+ |
+|  | 
+
+Ice Lasers
+
+(★★)
+
+ | 
+
+_Swift bolts of frozen air._
+
+ | Fires a bullet of ice.
+
+-   Bad Hitbox.
+-   Damages opponents, _possibly slows them down._
+-   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
+-   Ice Beam is better.
+-   Use 2 stratus stones to turn it into a 5 shot burst gun.
+
+  
 
  |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 

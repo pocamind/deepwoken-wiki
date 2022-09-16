@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 36812
+revid: 37043
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character, Helmets, Boots, Arms, Face]
@@ -1473,7 +1473,7 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 
 **Requires Power 15**
 
- | Ferryman Chest, Arena Chests, Duke Erisia Chests |
+ | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive) |
 |  | 
 
 [Finisher's Ring](<Finisher's_Ring.md>)

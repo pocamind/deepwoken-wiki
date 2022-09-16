@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 34222
+revid: 37045
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -1066,6 +1066,8 @@ File:Ice Eruption with Round Spark.gif
 | 
 Ice Lasers
 
+(★★)
+
  | 
 
  | 
@@ -1080,6 +1082,8 @@ File:Ice Lasers with Spring Spark.gif
 | 
 
 Crystal Knee
+
+(★★)
 
  | 
 

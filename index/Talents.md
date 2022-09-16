@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 36888
+revid: 37042
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -1233,7 +1233,7 @@ These Talents are designed to make you more effective in water.
 
 -   Matador \[Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
 -   Aerial Spin \[Common Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
-    -   Prerequisite: ?? Light Weapon
+    -   Prerequisite: 30 Light Weapon
 -   Aerial Stab \[Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: Medium Weapons ~25
 -   Aerial Kick \[Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
