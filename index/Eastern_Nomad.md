@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 36645
+revid: 37037
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,12 +8,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Eastern Nomad
 
 Template:EnemyInfobox1.0
-
-“ Please... Please just hear me out... ”
-
-― Skyler White (nomad)
-
-  
 
 ## Description
 

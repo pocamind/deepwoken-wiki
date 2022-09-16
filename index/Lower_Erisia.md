@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 35972
+revid: 37036
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -69,7 +69,7 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 Events that spawn in Lower Erisia that typically do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Hobo](Hobo.md)
--   Pathfinders
+-   Pathfinder Gathering (the [Teacher](Teacher.md) event)
 
 ## Loot Table
 
