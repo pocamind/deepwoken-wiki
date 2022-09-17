@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 33931
+revid: 37055
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -104,3 +104,4 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.
 -   If for some reason you don't have the requirements for any mantras, completing "The Librarian" Quest will not give you any reward.
+-   If you asked for Lance's brother name 3 times before delivered the food crate, Stratos will say his real name which is "@#$%&".

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 37046
+revid: 37061
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -146,6 +146,7 @@ _Strike the ground, turning it to ash._
 
 -   Requires 40 Strength and 60+ Flamecharm.
 -   Deals high posture damage.
+-   Burns target(s).
 
  |
 |  | 

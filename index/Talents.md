@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37042
+revid: 37058
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -1112,6 +1112,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Master Thief \[Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
     -   Can take enchants despite them being un-droppable upon death
+    -   Requirements: 30-35 Charisma, Master Thief talent
 
 ### Thunder Brawler
 
@@ -1155,7 +1156,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Undying Ember
 
--   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
+-   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
     -   Prerequisites: 20 Willpower, flame within, who ever put flame of denial probably thought it was that.
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
@@ -1570,7 +1571,7 @@ Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x pos
 Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)  
 Bloodiron Spirit \[Rare Talent\] - You regain some Armor upon killing enemies.  
 Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)  
-Last Laugh \[Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
+Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health) Prerequisites: Flamecharm  
 Command: Sacrifice \[50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)  
