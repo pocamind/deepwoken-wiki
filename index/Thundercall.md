@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 36683
+revid: 37052
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -41,8 +41,8 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 
 ### **Combat Mantras**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Effect | Stats |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Blade  
 (☆☆☆)
@@ -53,15 +53,31 @@ Lightning Blade
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
 
+ | Damage:
+
+Cooldown: 10 Seconds
+
+Properties:
+
+Modifiers:
+
  |
 |  | 
 
 Jolt Grab  
 (☆☆☆)
 
- | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands.
+ | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
 
--   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range.
+-   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown framees.
+
+ | Damage:
+
+Cooldown: 10 Seconds
+
+Properties:
+
+Modifiers:
 
  |
 |  | 
@@ -73,6 +89,14 @@ Electro Carve
 
 -   Shocks opponents inside of it while dealing damage.
 
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 |  | 
 
@@ -83,6 +107,15 @@ Lightning Impact
 
 -   Can be upgraded with the Talent, Rains of Static.
 -   Can light opponents and the player on fire. (Tested. happened to me while I was testing it)
+-   Applies knockup.
+
+ | Damage:
+
+Cooldown: 12 Seconds
+
+Properties: Knockup
+
+Modifiers:
 
  |
 |  | 
@@ -96,6 +129,14 @@ Lightning Clones
 -   Modifying the Mantra with a Cloudstone does not produce more clones.
 -   Can be upgraded with the Talent, Static Flash Clones. When used with a Blast Spark, the clone summons a Lightning Strike when it disappears.
 
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 |  | 
 
@@ -106,6 +147,14 @@ Lightning Beam
 
 -   Has a talent that makes it cast instantly after flourishing an enemy, pretty much guaranteed hit after flourish.
 -   Appears after a second of casting.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
 
  |
 |  | 
@@ -120,6 +169,14 @@ Lightning Strike
 -   Can strike a total of 1-7 times, but can be cancelled by user damage.
 -   Spell can hit you, causing the spell to cancel itself midway.
 
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 |  | 
 
@@ -129,6 +186,14 @@ Thunder Kick
  | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
 -   This can be upgraded with the Talent, Volt Kick, which allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning the talent will not activate if they block, dodge, or parry it.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
 
  |
 |  | 
@@ -142,6 +207,14 @@ Storm Blades
 -   Has a short delay before exploding.
 -   With a Tornado Spark, Storm Blades deploys a arena-like circle; shocking those who touch its walls.
 
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 |  | 
 
@@ -152,6 +225,14 @@ Grand Javelin
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
 
  |
 |  | 
@@ -165,12 +246,20 @@ Bolt Piercer
 -   Self Damaging
 -   Was formerly a legendary mantra, now either rare or common.
 
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 
 ### **Support Mantras**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Effect | Stats |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Stream  
 (★☆☆)
@@ -179,6 +268,14 @@ Lightning Stream
 
 -   Stuns the opponent, allowing a chance to begin a combo.
 -   Can be upgraded with a Blast Spark to deal extra damage and stop enemies but no longer pull them towards you.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
 
  |
 |  | 
@@ -198,12 +295,20 @@ Spark Swap
 -   Cannot be used while in water or airborne.
 -   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
 
+ | Damage: N/A
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
  |
 
 ### **Mobility Mantras**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Effect | Stats |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Assault  
 (★★☆)
@@ -212,6 +317,14 @@ Lightning Assault
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be upgraded with Cloudstones. I tested with drift shards, but didn't see a huge difference.
+
+ | Damage:
+
+Cooldown: 10 Seconds
+
+Properties:
+
+Modifiers:
 
  |
 | 
@@ -228,6 +341,14 @@ Lightning Cloak
 -   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
 -   **Lightning cloak has only one requirement.** 100 Thundercall, proven by archmage (link below talents)
 -   Drains Ether. (Almost at par with a well-trained Murmur: Ardour.)
+
+ | Duration:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
 
  |
 
@@ -628,10 +749,6 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Proof of Lightning cloak([https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png](https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png))
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.  
-    
-    File:George final moments.png
-    
-    Wiped
     
     Virudhaka's Sword
     

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 36723
+revid: 37047
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -198,6 +198,7 @@ _Use wind to uppercut and propel yourself into the air._
 -   Rapidly deals light damage to the opponent while rising.
 -   Missing will not send the user into the air.
 -   Can be upgraded with the "_Reverse Gale Kick"_ Talent.
+    -   Applies Knockdown frames on proc.
 -   I-Frames
 
  |

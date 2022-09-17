@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 36691
+revid: 37046
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -198,6 +198,7 @@ _A pyroclastic eruption._
 -   The second explosion ragdolls enemies.
 -   NPCs have trouble blocking the second explosion.
 -   The second explosion posture breaks.
+-   Burns target(s).
 
  |
 |  | 
