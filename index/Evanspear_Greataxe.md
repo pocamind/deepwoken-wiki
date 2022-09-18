@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 37053
+revid: 37075
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weaponry, Items]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| description | "" |
+| description | Dropped by threshers and legion soldiers at starswept |
 
 ## Description
 
