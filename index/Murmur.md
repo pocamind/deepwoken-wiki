@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 36891
+revid: 37076
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics, World]
@@ -89,4 +89,4 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 
 -   After speaking to the NPC, he disappears. If you lack a high amount of [Charisma](Attributes.md#cha), you will not obtain anything from him. Negative [reputation](Reputation.md) with Etrea is not required to obtain Tacet from the "Stranger".
 
--   If you are a [Voidwalker](Origins.md) (AKA Knife of Elyis), taking a visit to Cestis instantly grants you Tacet without the need of Charisma. However, having a good reputation with Etris would overwrite this; with Cestis commenting you being with good ties with them.
+-   If you are a [Voidwalker](Origins.md) (AKA Knife of Elyis), taking a visit to Cestis instantly grants you Tacet without the need of Charisma (10 bounty board kills are still required). However, having a good reputation with Etris would overwrite this; with Cestis commenting you being with good ties with them.
