@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 37041
+revid: 37067
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -70,11 +70,11 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Glid</td>
+  <td>Gild</td>
   <td>Unaligned</td>
   <td>The Depths, Varicosa District</td>
   <td>None</td>
-  <td></td>
+  <td>Talks about the Celtors being forgotten to time</td>
 </tr>
 <tr>
   <td>Jeremiah</td>

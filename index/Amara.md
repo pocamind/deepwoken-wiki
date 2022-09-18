@@ -1,9 +1,9 @@
 ---
 title: Amara
-revid: 35880
+revid: 37062
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Whats the hair]
 ---
 
 # Amara

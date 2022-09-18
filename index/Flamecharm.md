@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 37061
+revid: 37065
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -560,7 +560,7 @@ Undying Flame
 
  | 
 
- ???
+Graceful Flame is Able to Be Casted In The Depths
 
  |
 | 

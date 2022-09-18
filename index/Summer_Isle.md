@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 36559
+revid: 37064
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -114,7 +114,7 @@ Asius can be found in the circular structure found behind the Inn if you follow 
 You will be given two quest dialogue options after answering why you're meeting him:
 
 1.  I'll see what I can do.
-2.  No you bottom feeding lowlife, pay up or I'll send you to the 3rd Layer.
+2.  No you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.
 3.  \[ End Dialogue \]
 
 1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
@@ -130,7 +130,7 @@ You will be given two quest dialogue options after answering why you're meeting 
 
 #### _**Jarvis**_
 
-Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
+Jarvis is a unique NPC in the Etrean Luminant. He will allow you to smelt two items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
 -   It costs 1000 Notes per smelt, regardless of the items being smelted.
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
