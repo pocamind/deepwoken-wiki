@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 34438
+revid: 37072
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -14,7 +14,7 @@ This is what pops up when saying yes to a Vow of Mastery
 
 **Vow of Mastery** is a [Talent](Talents.md) which allows you to turn people into Subject. A Subject will lose their **Vow of Mastery** if they get wiped.
 
-You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. You can have a subject for every 10 levels of charisma, so someone who has just gotten vow of mastery unlocked can have 2 subjects, as they'll have 20 charisma.
+You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. ~You can have a subject for every 10 levels of charisma, so someone who has just gotten vow of mastery unlocked can have 2 subjects, as they'll have 20 charisma.~ This was changed in an early game patch, you no longer have limited slots and can vow anybody you choose.
 
 ## How to Use
 
@@ -64,7 +64,7 @@ Charisma, Rare
 
 ## Trivia/Notes
 
--   All commands excluding _Locate,_ _Return_, _Sacrifice_ and _Live_ have no radius, meaning you can command your Subject in separate seas if wanted.
+-   All commands excluding _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no radius, meaning you can command your Subject in separate seas if wanted.
 -   Commands can be stacked, example being if you say "_\[Name\]_, say I will sleep now." The Subject will both sleep and say "I will sleep now."
 -   Commands can be used as "_\[All\]_ " or "_\[Everyone\]_" if you want to affect all your servants
 -   This Talent is often regarded as a joke, due to the mischief it can cause, but in the right hands, it can turn the tides of some fights.
