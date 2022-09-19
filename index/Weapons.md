@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37013
+revid: 37095
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character, Mechanics, Swords, Spears, Shields, Daggers, Guns, Greataxes, Greatswords, Greathammers, Attunement]
@@ -732,7 +732,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Trident_Spearl#Alloyed"><font>Alloyed Trident Spear</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Trident_Spear#Alloyed"><font>Alloyed Trident Spear</font></a></td>
   <td><font>85 MED</font></td>
   <td>19</td>
   <td>25%</td>
