@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 35158
+revid: 37109
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -14,7 +14,7 @@ Template:Races-Main
 
 ## Description
 
-The Aberrant Capra is a subrace of the [Capra](Capra.md). Much like the [Primal Vesperian](Primal_Vesperian.md), it is exclusive to SudoMesh, the winner of the most recent Deepwoken art contest held in the Discord server. (Specific date unknown, don't check the server that often)
+The Aberrant Capra is a subrace of the [Capra](Capra.md). Much like the [Primal Vesperian](Primal_Vesperian.md), it is exclusive to SudoMesh, the winner of the Deepwoken art contest for weapon concepts held in the Discord server.
 
 The Aberrant Capra has many differences from the average Capra, most notably lacking the distinct animal skull that masks their face, having goat-like ears, blue eyes, four dark curved horns and spikes protruding from their face.
 

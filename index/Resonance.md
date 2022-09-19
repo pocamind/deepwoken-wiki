@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 37068
+revid: 37108
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -50,7 +50,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### Legendary Resonances
 
-**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
+**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
 
 _From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67%. (11/300, 11% per reroll)_
 
@@ -164,7 +164,7 @@ A very specific and unique Resonance Door is within a cave in The Depths, and wi
 
 This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. **(Do not do this).**
 
-Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
+Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited number of times, as long as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 
 ## Unobtainable Resonances
 
@@ -187,4 +187,5 @@ Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to 
 -   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occurred when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
 -   Contrary to popular belief, Blessed versions of Resonances DO NOT exist.
 -   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.
--   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne
+-   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne.
+-   Resonances can be found in forms of other instruments, but bells are the only one in-game.

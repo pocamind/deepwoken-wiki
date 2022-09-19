@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 37099
+revid: 37104
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -104,7 +104,6 @@ File:No Attunement Revamp.png
  | _Strike your shield a few times to absorb some of the posture received by your allies._ | 
 
 -   **Requirements:** Fortitude + _**Any Shield**_, _Support Mantra_
-    -   This mantra prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the [Sharko](Megalodaunt.md)/[Primadon](Primadon,_Titan_of_the_East.md) kick and the [Thresher](Thresher.md) burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)
 
  |
 | 
@@ -120,10 +119,10 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
 -   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
 -   Needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
--   _**Can be upgraded**_ with the following _**Fortitude Talents,**_
-    -   _Can be upgraded with the **"Lord Commander" rare talent card**, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
-    -   _Can be upgraded with the **"Blood Shadow" rare talent card,** which saps health from people you reinforced back onto you until the effect wears off._
-    -   _Can be upgraded with the **"Grand Support" rare talent card,** which slightly heals people upon reinforcing. (The user included\[stacks with Lord Commander\])_
+-   _**Can be upgraded**_ with the following _**Fortitude Talents:**_
+    -   _**"Lord Commander" rare talent card**, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
+    -   _**"Blood Shadow" rare talent card,** which saps health from people you reinforced back onto you until the effect wears off._
+    -   _**"Grand Support" rare talent card,** which slightly heals people upon reinforcing. (The user included\[stacks with Lord Commander\])_
 
  |
 | 
@@ -202,7 +201,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Kick off of the ground with your strength, sending you into the air_ | 
+ | _An adrenaline rush of mobility._ | 
 
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
     -   Restores a decent amount of ether periodically, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
