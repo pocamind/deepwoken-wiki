@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 36818
+revid: 37098
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations, Map, Oaths, Monsters, Mechanics]
@@ -62,7 +62,7 @@ File:Scuffed map Depths.png
 
 Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of each other to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
 
-This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you if you don't grab onto the walls or use some of the inner structures to break your fall.
+This is certainly a faster method to escape, although still poses the threat of being spotted by Watchers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you if you don't grab onto the walls or use some of the inner structures to break your fall.
 
 ### **Barrels**
 
@@ -149,7 +149,7 @@ Marauder's Entrance and Castle Light (outdated after the 'Deepbound' update) are
 
 -   Akira, a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
     -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the flaw Deepbound.
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin Deepbound.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (100). Failing this check leads to the same fate as the Ignition Union group.
 
 ### **Visionshaper**

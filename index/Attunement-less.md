@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 36522
+revid: 37099
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -314,7 +314,7 @@ File:No Attunement Revamp.png
 
  | _Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._ | 
 
--   **Requirements:** _**25 Willpower**_ _Support Mantra_
+-   **Requirements:** _**25 Charisma**_ _Support Mantra_
     -   Combat tags enemies, and causes them to take 20% more damage, while they do 10% more damage to you specifically. They also can't jump anymore.
     -   Stacks with Gaze.
 

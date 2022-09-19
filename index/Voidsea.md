@@ -1,13 +1,15 @@
 ---
 title: Voidsea
-revid: 35952
+revid: 37097
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Voidsea
 
-> "Is erisia in voidsea?" - a stranded Felinor
+> “ Is erisia in voidsea? ”
+> 
+> ― A Stranded Felinor
 
 LocationL Voidsea LocationR
 
