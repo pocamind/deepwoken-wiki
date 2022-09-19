@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 37069
+revid: 37101
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -767,5 +767,6 @@ FROM: Inhale
     -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.
     -   _"Winded"_ reduces your opponent's attack speed.
-    -   _"Suffocate"_ reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
+    -   _"Suffocate"_ prevents the opponent from using mantras; the opponent will also have a resonance-like effect circling their neck when applied.
+        -   The duration can be extended with the _"Gale Coil"_ talent.
     -   It is the only Attunement to be able to do this without any evolution paths.

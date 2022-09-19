@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 37039
+revid: 37102
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords]
 | obtainment | Starswept Valley, King Thresher drop and Primadon chests |
 | description | TBA |
 
-“ I forgor ”
+“ I forgor 💀 ”
 
 ― Historians naming this ancient blade
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 36735
+revid: 37100
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -55,7 +55,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
--   Uncapped by talking to the large Khan in one of the cells and letting him beat you up.
+-   Uncapped by talking to the large Khan in one of the cells at Fort Merit and letting him beat you up.
 
 ### Agility
 
