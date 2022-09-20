@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 36692
+revid: 37159
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -26,3 +26,5 @@ The Knives of Eylis are an organization of ruthless mercenaries. They serve Eyli
 ## Lore
 
 A group of bounty hunters who work for a mysterious woman named Eylis.
+
+Something interesting is said when you talk to the Voidmother and more NPCs, as well as reading the flavor text for when the contracted target escapes. The Voidheart doesn’t actually exist, but is instead a collective dream you and others have while being in the Voidsea, and that the power you get to teleport to people and such are gifts from the Voidmother herself.
