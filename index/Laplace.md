@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 37146
+revid: 37151
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ― Laplace
 
   
-Laplace is located in Lordsgrove near the big Oath Well, walking to the left (Or right, coming out of Greathive Aratel) and he will be seen looking over a cliff. He lets you trade 3 armor enchants for a randomized enchant on your currently equipped weapon. He will explain you through dialogue a tutorial on what he does.
+Laplace is located in [Lordsgrove](The_Lordsgrove.md) near the big Oath Well, walking to the left (Or right, coming out of Greathive Aratel) and he will be seen looking over a cliff. He lets you trade 3 armor enchants for a randomized enchant on your currently equipped weapon. He will explain you through dialogue a tutorial on what he does.
 
 ## Information
 
@@ -23,3 +23,4 @@ Laplace is located in Lordsgrove near the big Oath Well, walking to the left (Or
 ## Trivia
 
 -   Laplace's method of transmuting 3 Armor Enchants into 1 Weapon enchant is by wrapping all 3 Armor Enchants together in Linen (presumably rope, not cloth).
+-   Laplace once used to be in the Greathive Aratel's R&D Branch, but was moved as of the new update.
