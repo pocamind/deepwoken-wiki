@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37135
+revid: 37144
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -31,6 +31,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 2/18/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 -   **You are capable of selling enchants whether they are soulbound or not.**
+-   You can trade in 3 Armor Enchants into a Enchant Weapon by talking to [Laplace](Laplace.md), a Ganymede in Lordsgrove.
 
 There are two variants that enchantments come in:
 

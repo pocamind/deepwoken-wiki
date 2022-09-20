@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 37128
+revid: 37137
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -27,7 +27,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Raises left leg before firmly slamming it down to the ground. | ◯ | ✗ | ◯ | (★★☆) |
+| **Critical** | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ✗ | ◯ | (★★☆) |
 | **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage.
 -   He laughs afterward when something strikes his counter.
 
@@ -53,6 +53,8 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
  | ◯ | ✗ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
+
+**This move will insta-grip if it hits you while knocked or at low health .**
 
 -   Covers a large AoE.
 

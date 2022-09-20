@@ -1,11 +1,15 @@
 ---
 title: Blade Instructor
-revid: 34865
+revid: 37140
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Blade Instructor
+
+“ Oh, did you want to practice first?. ”
+
+― Blade Instructor when comboing a freshie into a wall.
 
 Template:EnemyInfobox1.0
 

@@ -1,12 +1,25 @@
 ---
 title: Laplace
-revid: 37131
+revid: 37146
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Laplace
 
-He is located in Lordsgrove near the portal. Walk to the left and he will be looking over a cliff. He lets you trade 3 armor enchants for a randomized enchant on your currently equipped weapon.
+“ Hand what in? There's nothing in your hands. ”
 
-Heavy W.I.P
+― Laplace
+
+  
+Laplace is located in Lordsgrove near the big Oath Well, walking to the left (Or right, coming out of Greathive Aratel) and he will be seen looking over a cliff. He lets you trade 3 armor enchants for a randomized enchant on your currently equipped weapon. He will explain you through dialogue a tutorial on what he does.
+
+## Information
+
+-   Laplace can accept both Enchanted and Soulbounded Armor Items.
+-   For each armor enchant you gave to Laplace, they tally them to mark how many armor enchants you given to successfully seal the deal.
+-   Laplace cannot enchant legendary weapons (ex. Crypt Blade, Curved Blade of Winds) or any weapon that cannot hold an enchant.
+
+## Trivia
+
+-   Laplace's method of transmuting 3 Armor Enchants into 1 Weapon enchant is by wrapping all 3 Armor Enchants together in Linen (presumably rope, not cloth).
