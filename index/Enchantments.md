@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37090
+revid: 37135
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -46,6 +46,7 @@ Changelogs:
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
 -   **September 12th, 2022** - In celebreation of Deepwoken obtaining the Best New Game award in the Bloxy Award, enchant rate have been increased by 2x temporarily.
 -   **September 13th, 2022** - Enchanted weapons and equipment now have at least 1 star quality at minimum.
+-   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 
 **Weapons:**
 
@@ -288,8 +289,9 @@ Changelogs:
   <br>
   10 Health<br>
   10 Ether<br>
-  20 Reservoir<br>
-  10 Sanity These stats do not consume stat rolls for equipment.</p></div></td>
+  5% Monster Damage<br>
+  5% Monster Armor</p>
+  <p>These stats do not consume stat rolls for equipment.</p></div></td>
   <td><div>Equipment is covered in a slight, black particle effects</div></td>
 </tr>
 <tr>

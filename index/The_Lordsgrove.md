@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 36755
+revid: 37132
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -33,6 +33,7 @@ Large statues of Vesperians can be seen to the sides of the Lordsgrove.
 ### NPCs
 
 -   You can find Zirik, an NPC who will alter your [reputation](Reputation.md) with The Hive in cost of [Notes](Notes.md).
+-   You can find [Laplace](Laplace.md), bring him 3 [enchants](Enchantments.md) and he will enchant your current weapon.
 
 ### Miscellaneous
 

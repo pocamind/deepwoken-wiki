@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37095
+revid: 37124
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character, Mechanics, Swords, Spears, Shields, Daggers, Guns, Greataxes, Greatswords, Greathammers, Attunement]

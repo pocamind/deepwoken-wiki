@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37058
+revid: 37127
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -61,7 +61,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Stacks with other means of fall damage reduction.
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red mist around the player's eyes.
--   Blood Frenzy \[Rare Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
+-   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
     -   The same red mist from time to go is applied here.
     -   Prerequesite: Time To Go
 
@@ -756,7 +756,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
     -   Prerequisites: 25 Agility, Fists
--   Uproar \[Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration (+4 Ether, Hyperarmor Benefit)
+-   Uproar \[Common Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration (+4 Ether, Hyperarmor Benefit)
     -   Prerequisite: 35 Fortitude
 -   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 1.2x faster (+4 Health, +5 Sanity)
     -   Grant up 1.25x damage when nearing 100% insanity.
@@ -1112,7 +1112,6 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Master Thief \[Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
     -   Can take enchants despite them being un-droppable upon death
-    -   Requirements: 30-35 Charisma, Master Thief talent
 
 ### Thunder Brawler
 
@@ -1156,7 +1155,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Undying Ember
 
--   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
+-   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
     -   Prerequisites: 20 Willpower, flame within, who ever put flame of denial probably thought it was that.
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
@@ -1218,7 +1217,8 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Warrior
 
--   Chronostasis \[Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration
+-   Chronostasis \[Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration.
+
 -   Engage \[Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
 -   Critical Attack \[Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
@@ -1274,7 +1274,7 @@ These Talents are designed to make you more effective in water.
 
 ### **Miscellaneous**
 
--   Full Reset \[Rare Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
+-   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
@@ -1571,7 +1571,7 @@ Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x pos
 Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)  
 Bloodiron Spirit \[Rare Talent\] - You regain some Armor upon killing enemies.  
 Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)  
-Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
+Last Laugh \[Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health) Prerequisites: Flamecharm  
 Command: Sacrifice \[50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)  
