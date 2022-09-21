@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 34424
+revid: 37176
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ Template:EnemyInfobox1.0
 
 Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. They're can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards.
 
-A Bandit Leader wears a white variation of the [Bandit](Bandit.md) armor (unknown) with their [race](Aspects.md) and gender varying.
+A Bandit Leader wears the unobtainable Bounty Hunter armor with their [race](Aspects.md) and gender varying.
 
 ## Moveset
 

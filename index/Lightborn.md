@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 35118
+revid: 37169
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -77,3 +77,8 @@ Spellhardt
 -   Lightborn halos can also be on their wrists or around their neck.
 
 -   Devs have mentioned plans on this being an **Obtainable** race in the future but not via the reroll system instead the player having to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable but obviously this has not been proven as of yet.
+-   it seems that some lightborns have they're halo's in their neck not head
+    
+    File:..png
+    
+    a lightborn with their halo in they're neck

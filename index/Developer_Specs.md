@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 34747
+revid: 37174
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -51,6 +51,8 @@ Zartania has a spec which is called “Skeleton Key”. The spec allows him to l
 ### yayafino (Zithori Vhemm Rybak Diri)
 
 They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the action-RPG _Genshin Imapct,_ they also have the "Cosmic" enchant on their fists and are able to conjure enchants and use the hive construct tree move using lifeweaver.
+
+They may also be related to Laplace due to them having the same last name Diri.
 
 ### Dexerius (Sadreyus)
 

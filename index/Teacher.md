@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 31508
+revid: 37177
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,28 +8,23 @@ categories: [Pages with broken file links]
 
 # Teacher
 
-# _Teacher_
+## _Overview_
 
-The teacher is a NPC that gives free attributes. (for example, if you choose a story that gives intelligence, it will give you 1 intelligence)
+The Teacher (listed as " teacher" in-game) is a Pathfinder NPC that effectively grants a free attribute point. They wear the unobtainable "Veteran Adventurer" outfit.
 
 File:Eae.png
 
-  
+A story of bravery. (Willpower)  
+A story of cunning. (Intelligence)  
+A story of speed. (Agility)  
+A story of power. (Strength)  
+A story of great leadership. (Charisma)  
+A story of survival. (Fortitude)  
 
-Note: you can only pick 1 attribute, after that he will say he doesn't have anymore stories and you will have to wait till his next spawn.
+After a story has been told, you will have to wait until another event spawn to listen to another story.
 
-Known attributes:
+The Teacher spawns along with 2 more NPCs sitting next to a campfire, two of which wield powerful modified [Frostdraw](Frostdraw.md) mantras.
 
-A story of bravery (Willpower)
+## _Trivia_
 
-A story of cunning (Intelligence)
-
-A story of speed (Agility)
-
-A story of power (Strength)
-
-A story of Great Leadership (Charisma)
-
-A story of survival (Fortitude)
-
-The teacher spawns along with a 2 more NPCs sitting next to a campfire.
+-   The "great leadership" story makes the player wonder if the Teacher is talking about the past King of Etrea.
