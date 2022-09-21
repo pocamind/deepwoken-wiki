@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 36273
+revid: 37210
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -10,7 +10,7 @@ categories: [Armors, Items]
 
 Template:ArmorInfobox
 
-**Pathfinder Thaumaturge** is a Adept [Outfit](Outfits.md) in _Deepwoken._
+**Pathfinder Thaumaturge** is an Adept [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 
