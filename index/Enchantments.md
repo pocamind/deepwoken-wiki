@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37262
+revid: 37264
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -191,7 +191,7 @@ Changelogs:
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:New-nlk2.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><figure>File:NLK.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
   Permanently stained health bar.<br>

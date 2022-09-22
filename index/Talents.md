@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37127
+revid: 37265
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -222,10 +222,10 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
 -   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
     -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 5 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
     -   After a short wind-up, shoots a multi-hit laser beam from your eyes which does more damage depending on how insane you are.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 25 times.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
 
 ### Brawler
 
