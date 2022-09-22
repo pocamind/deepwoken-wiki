@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 37124
+revid: 37258
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weaponry, Character, Mechanics, Swords, Spears, Shields, Daggers, Guns, Greataxes, Greatswords, Greathammers, Attunement]
+categories: [Weapons, Character, Mechanics]
 ---
 
 # Weapons
@@ -795,6 +795,35 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 </tbody>
 </table>
 
+**Guns:**
+
+Guns.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td>Rifle</td>
+  <td>?</td>
+  <td>?</td>
+  <td>N/A</td>
+  <td>MED:&nbsp;?</td>
+  <td>?</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+</tbody>
+</table>
+
 **Heavy Weapons:**
 
 Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. Passively, heavy weapon grant the user a charge of Hyper Armor when they parry an attack. The next attack performed will grant the user Hyper Armor, allowing them to resist hitstun for the duration of the attack. If the weapon has Endlag, the hyper armor extends to it. The critical of heavy weapons also have Hyper Armor and apply hard knockdown on hit. Most of these weapons come from drops from mobs
@@ -1258,6 +1287,17 @@ Weapons that scale with a certain element
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>
+  <td>No</td>
+</tr>
+<tr>
+  <td>Lantern</td>
+  <td>40 WLL, 75 LHT</td>
+  <td>?</td>
+  <td>N/A</td>
+  <td>?</td>
+  <td>?</td>
+  <td>?</td>
+  <td>?</td>
   <td>No</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37233
+revid: 37262
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -380,7 +380,10 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
     
-    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day you will be absorbed into the blade.
+    Vamparism enchant on a Khan Shield
+    
+    Vamparism enchant on a Khan Shield
+    
 -   Enchanted Hero Blades were in the game before they were removed.
 
 -   Some enchants used to have different names:
