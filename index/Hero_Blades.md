@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 37269
+revid: 37321
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]

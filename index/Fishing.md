@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 36775
+revid: 37293
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck, Locations]
@@ -44,7 +44,7 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.
--   Golden Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 43% (tested).
+-   Golden Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 45% (tested).
 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
 

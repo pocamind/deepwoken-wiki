@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 36234
+revid: 37295
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -61,6 +61,7 @@ The Etris blacksmith house.
 -   Players can buy a variety of starter weapons from Astra here:
     -   Light Weapon users can purchase:
         -   [Stiletto](Stiletto.md) for.
+        -   [Apprentice Rapier](Apprentice_Rapier.md) for.
         -   Bullets for Gun users for per.
     -   Medium Weapon users can purchase:
         -   [Iron Spear](Iron_Spear.md) for.

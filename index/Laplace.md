@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 37151
+revid: 37323
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,6 +19,8 @@ Laplace is located in [Lordsgrove](The_Lordsgrove.md) near the big Oath Well, wa
 -   Laplace can accept both Enchanted and Soulbounded Armor Items.
 -   For each armor enchant you gave to Laplace, they tally them to mark how many armor enchants you given to successfully seal the deal.
 -   Laplace cannot enchant legendary weapons (ex. Crypt Blade, Curved Blade of Winds) or any weapon that cannot hold an enchant.
+-   Laplace cannot enchant duped weapon. Due to dupe check only being ran on enchanted items and legendary weapons.
+    -   It is impossible to know if the weapon you are using is duped (assuming you traded for it). Otherwise, weapon that you obtained yourself are safe.
 
 ## Trivia
 
