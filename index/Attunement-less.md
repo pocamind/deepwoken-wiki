@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 37104
+revid: 37342
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -300,7 +300,7 @@ File:No Attunement Revamp.png
 
 ### _**Charisma Mantras**_
 
-Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends', that's literally it, there is honestly no other way to train this other than ~copy and pasting~ reading a phrase and typing it out near an unfortunate Etris guard.
+Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends' to level up charisma. You do not have to read the book near an NPC or player, as you will still gain experience by correctly typing the instructed phrase.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |

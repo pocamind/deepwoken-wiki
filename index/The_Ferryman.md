@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 37326
+revid: 37345
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -30,7 +30,7 @@ Template:Creature Infobox V3
 3.  Light the campfires using flint or any other attunement-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle.
 
-This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 30-40+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended fighting him alone.
+This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 30-40+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry.**
 
@@ -139,7 +139,7 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 
 ## Rewards
 
-**Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+16%\]. This boss also gives [Resonance](Resonance.md)Progress, moreso if they have the corrresponding [Nature](Resonance.md#obtainment-process).
+**Luck** - During all seasons, you will automatically receive max luck. This boss also gives [Resonance](Resonance.md) Progress, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
 -   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Moon Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
@@ -155,7 +155,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   _"Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!"_
     -   After defeating the Ferryman and receiving a reward, either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
-    -   This would be how you obtain the Rythm Murmur (confirmed), however it is disabled at the moment due to possible balancing and/or not being complete. If you talk to him whilst having a Murmur, he mentions that you already have another gift and disappears. While talking to him without a Murmur, he rewards you with the above dialogue. There is a chance its disabled because Rythm murmur is planned to be obtained another way, and that this text hints towards something **else.**
+    -   This would be how you obtain the Rhythm Murmur (confirmed), however it is disabled at the moment due to possible balancing and/or not being complete. If you talk to him whilst having a Murmur, he mentions that you already have another gift and disappears. While talking to him without a Murmur, he rewards you with the above dialogue. There is a chance its disabled because Rhythm murmur is planned to be obtained another way, and that this text hints towards something **else.**
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
     -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once in Summer or Spring)
@@ -194,9 +194,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman is now completely ignores the mantra-cancelling effects of suffocation, making a previous cheese unusable.
--   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
--   Despite being called The Ferryman he does not actually have a ferry, at least not as of now.
 -   (unsure if this is a bug) The Ferryman's lightning clones can actually drop luck. As they are counted as an enemy, when they disappear they have a chance to drop luck.  
     
     File:Yamaketzalferryman.png
