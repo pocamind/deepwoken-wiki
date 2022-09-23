@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37308
+revid: 37341
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -61,7 +61,7 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Retake blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><figure>File:Blaze.png<figcaption></figcaption></figure><div>Blazing</div></td>
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames.</div></td>
@@ -86,25 +86,25 @@ Changelogs:
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Retake elastic.png<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><div>Elastic</div></td>
   <td><div><p>On proc a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Retake gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
+  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><div>Gluttony</div></td>
   <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
   Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Retake grim.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:GRIM.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p><br>
   After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP.<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
@@ -116,7 +116,7 @@ Changelogs:
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div><p>Weapon gain 50% chip damage.<br>
   Weapon deal less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>
@@ -132,7 +132,7 @@ Changelogs:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:SEAR.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Apply <b>cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
@@ -140,20 +140,20 @@ Changelogs:
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:STONE.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:STORM.png<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Vampirism</div></td>
+  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><div>Vampirism</div></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
@@ -176,14 +176,14 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
   The slash is parryable.<br>
   Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
@@ -202,7 +202,7 @@ Changelogs:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>On proc, deals double damage.<br>
   Deal bonus damage in PVE.<br>
   <br>

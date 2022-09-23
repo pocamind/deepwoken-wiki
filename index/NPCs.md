@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 37067
+revid: 37327
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -109,7 +109,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
   <td>Food Vendor, gives crate delivery quest</td>
-  <td></td>
+  <td>His name is apparently a cognitive hazard and your character forgets it immediately after being told.</td>
 </tr>
 <tr>
   <td>Lance Leshi</td>

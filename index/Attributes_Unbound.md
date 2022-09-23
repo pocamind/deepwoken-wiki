@@ -1,15 +1,15 @@
 ---
 title: Attributes Unbound
-revid: 31438
+revid: 37328
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attributes Unbound
 
-“ And this... is... to go... EVEN FURTHER BEYOND! ”
+“ I'm Stronger!...I'm Smarter!...I'm Better.. I AM BETTER!!!!! ”
 
-― A khan attaining maximum power
+― the homelander
 
   
 
