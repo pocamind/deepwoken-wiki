@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 35970
+revid: 37364
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -84,6 +84,6 @@ A Songseeker Flamcharmer executes it's opponent after knocking them:
 ## Tips
 
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
--   If not constantly attacked, they become a real threat as they can sometimes only spam Flame Repulsion.
+-   If not constantly attacked, they become a real threat as they can sometimes only spam Flame Repulsion, which if you're unlucky enough, will hit _and_ aggro other Songseekers.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   If you are facing against them with a Frostdrawer Monk, take caution and know what to do. Otherwise you may be knocked and burned.
+-   If you're fighting against this and other Monks, make sure it is _never_ a Galebreather or Thundercaller. The constant mantra spam from the Flamecharmer, as well as having to parry trade and fight against the primary Monk will easily begin to overwhelm you, as well as having anti-running mantras to keep you from going too far.

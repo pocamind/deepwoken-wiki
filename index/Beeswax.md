@@ -1,16 +1,12 @@
 ---
 title: Beeswax
-revid: 36992
+revid: 37372
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Uses]
 ---
 
 # Beeswax
-
-“ Slimy, Wet and Sticky, perfect for creation. ”
-
-― Ganymede blacksmith explaining crafting to inept Canor.
 
 Beeswax on a tree
 

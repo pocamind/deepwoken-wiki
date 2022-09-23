@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 36634
+revid: 37370
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,12 +12,6 @@ categories: [NPCs]
 |---|---|
 | name | Barber |
 | location | Near Nerin in Etris, Inside the castle on Summer Isle, On the balconies in Greathive Aratel. |
-
-“ They call me butcher because I chop off- ...Well, that's not a very good introduction, now is it? ”
-
-― Barber
-
-  
 
 The Barber allows hair customization to your character; no notes needed!
 

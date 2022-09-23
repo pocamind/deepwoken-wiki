@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 36835
+revid: 37367
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weaponry, Items]
@@ -27,10 +27,6 @@ categories: [Weapons, Rapiers, Weaponry, Items]
 | pass down | Yes |
 | obtainment | ErisiaMinityrsa |
 | description | "Your trusty weapon." |
-
-“ It's not that you ain't skilled, it's because you aren't balling on that stank ass Windows 95 Puter ”
-
-― Ganymede fighting a Felinor in the chime of conflict
 
 ## Description
 

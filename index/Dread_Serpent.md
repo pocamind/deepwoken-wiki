@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 36162
+revid: 37368
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,11 +8,6 @@ categories: [Boss, Monsters]
 
 # Dread Serpent
 
-“ Don't worry dude. All we need to do is sail to Boatman's Watch. It'll be fine! Trust m- ”
-
-― Last words of a level 40 Adret
-
-  
 _Also referred to as Kaido, Ardour or Sea Serpent._
 
 Template:Creature Infobox V3

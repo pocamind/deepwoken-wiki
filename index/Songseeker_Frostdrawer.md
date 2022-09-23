@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 35886
+revid: 37360
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,6 +45,7 @@ Ice Eruption
 
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
 -   High Supply - A Songseeker Frostdrawer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Frozen Pincushion - If the victim is hit by every dagger from Ice Daggers, they will become completely frozen for a short period of time.
 -   Mantra Modification - A Songseeker Frostdrawer's "Ice Eruption" mantra is modified with a [Round Spark](Mantra_Modifiers.md).
 
 ## Finisher

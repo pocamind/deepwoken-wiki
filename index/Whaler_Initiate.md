@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 36270
+revid: 37351
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

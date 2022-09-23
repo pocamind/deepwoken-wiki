@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 33763
+revid: 37366
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -9,10 +9,6 @@ categories: [Pages with broken file links, Monsters]
 # Hollow Angel
 
 **Lesser:**
-
-“ Want to meet God? C'mon!!! Let's go together! ”
-
-― Lesser Angels relocating freshies to the afterlife
 
 Template:Creature Infobox V3
 
@@ -46,11 +42,6 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 
 **Regular:**
 
-“ IT HAS NO FUCKING ANIMATIONS!!! ”
-
-― Level 8 Vesperian, desperately trying to do trial of one.
-
-  
 Template:Creature Infobox V3
 
 ## Description
