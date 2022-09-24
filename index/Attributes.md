@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 37362
+revid: 37383
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -31,6 +31,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Strength
 
+“ SAIDO CHESTO! ”
+
+― Chad Khan, flexing their superior physique.
+
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
     -   For every 10 Points of Strength, gain 1% Penetration.
@@ -42,6 +46,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Fortitude
 
+“ Fortitude Unbound son! You can't hurt me Jack! ”
+
+― Senator Corbet, tanking through Rapid Punches.
+
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
@@ -50,6 +58,12 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Uncapped by talking to the large Khan in one of the cells at Fort Merit and letting him beat you up.
 
 ### Agility
+
+“ You better run, boy. And fast! ”
+
+― Canor merchant to a Fugitive Vesperian escaping Etrean guards.
+
+  
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
@@ -62,6 +76,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Intelligence
 
+“ What's 9 + 10? ”
+
+― Big brain Adret to an inept Canor.
+
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat gives 2 Ether and Reservoir every point.
 -   Affects potion potency.
@@ -72,6 +90,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Willpower
 
+“ I know what I have to do, I just don't know if I have the strength to do it... ”
+
+― Etrean before prostrating themselves before Yun'Shul.
+
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower. Each willpower point will add 2 reservoir.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
@@ -81,6 +103,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   (requires 30 willpower) gain the ability to get mantras like Gaze, Ardour Scream and Exhaustion Strike.
 
 ### Charisma
+
+“ You wanna make a vow of mastery? You wanna make a vow of mastery? C'mon you wanna make a vow of mastery? ”
+
+― Felinor offering legal slavery to anyone he can.
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
@@ -95,6 +121,12 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Heavy Weapons
 
+“ That thing was too big to be called a sword. Too big, too thick, too heavy, and far too rough, it was more like a large hunk of iron. ”
+
+― A stranded Felinor, describing the Crypt Blade.
+
+  
+
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
 -   Certain Heavy Weapons, such as the Steel Maul, requires a Heavy Weapons requirement.
@@ -103,6 +135,10 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Medium Weapons
 
+“ Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked. ”
+
+― Maestro Evengarde Rest.
+
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
 -   Certain Medium Weapons, such as the Gremorian Longspear, requires a Medium Weapons requirement.
@@ -110,6 +146,10 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 -   Gain Medium Weapons EXP by dealing damage with Medium Weapons or parrying attacks.
 
 ### Light Weapons
+
+“ **YOU FOOL!** You brought a knife to a gunfight! ”
+
+― An overconfident Capra to a dagger wielding Canor.
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -123,6 +163,10 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
+“ KILL IT! **KILL IT!** KILL IT WITH FIRE! ”
+
+― Ganymede Pyromancer, fighting the Deep Widow.
+
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
 -   Increases intensity of flames.
@@ -131,12 +175,20 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
+“ FREEZE! DON'T MOVE! ”
+
+― Gremorian Frostdrawer, charging their Ice Beam at a clueless Khan.
+
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
 -   Unlocks Frostdraw related Talents.
 -   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
 
 ### Thundercall
+
+“ Lanza del relampago! ”
+
+― Celtor yeeting a grand javelin.
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -145,11 +197,19 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
+“ Taste my wind! ”
+
+― Galebreathe user, using their "Flatulence Mantra"
+
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
 -   Gain Galebreathe EXP by dealing damage to Enemies and Monsters using Galebreathe Mantras.
 
 ### Shadowcast
+
+“ Feel the power... OF THE DARK SIDE! ”
+
+― 'Uber' Shadowcaster.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.

@@ -1,12 +1,16 @@
 ---
 title: Death
-revid: 37358
+revid: 37384
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character]
 ---
 
 # Death
+
+“ Hello darkness my old friend, I've come to talk with you again. ”
+
+― Celtor after being sent to the depths for the 69th time.
 
 _If you want to know more about where you go after dying twice, see [The Depths](The_Depths.md)._
 

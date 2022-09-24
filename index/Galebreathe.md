@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 37101
+revid: 37395
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -164,7 +164,6 @@ _Form a punch of wind in your fist and release it._
  | Conjure a wind AoE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
--   May have been inspired by [Neji's Vacuum Palm](https://naruto.fandom.com/wiki/Eight_Trigrams_Vacuum_Palm) from Naruto : Shippuden.
 
  |
 |  | 

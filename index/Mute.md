@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 36722
+revid: 37397
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,6 +27,7 @@ This means you have to hit the mob first if you want them to aggro on you.
 -   [Deep Owls](Deep_Owl.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Threshers](Thresher.md)
+-   [Desert Knights](Stone_Knight.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Enforcer](Enforcer.md)
 -   [Nautilodaunt](Nautilodaunt.md)
@@ -34,12 +35,11 @@ This means you have to hit the mob first if you want them to aggro on you.
 ### Hostile Mobs:
 
 -   [Erisia Golems](Rock_Golem.md)
--   [Blizzard Knights](Stone_Knight.md)
--   [Desert Knights](Stone_Knight.md)  
+-   [Blizzard Knights](Stone_Knight.md)  
     
 
 ## Trivia
 
--   There is a certain unknown way to obtain it. People either obtain it the instant they start (as power 1), or they obtain it eventually after a few levels.
-    -   It's likely there is also a random chance to get it since you can get it on newly bought slots right away
+-   There is a certain unconfirmed way to obtain it. Mute can only be obtained from wiping.
+    -   The most functional theorized method of obtaining it involves killing monsters. Mute has a base chance to obtain after wiping, this chance can presumably be increased by killing more monsters before wiping. While this method has yet to be confirmed, this is most likely the obtainment due to it also fitting all the statements by Arch\_Mage on it.
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by this Talent.

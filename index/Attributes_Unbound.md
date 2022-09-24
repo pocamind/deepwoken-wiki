@@ -1,11 +1,17 @@
 ---
 title: Attributes Unbound
-revid: 37369
+revid: 37392
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attributes Unbound
+
+“ I'm Stronger!...I'm Smarter!...I'm Better.. I AM BETTER!!!!! ”
+
+― The Homelander
+
+  
 
 ## Descriptions
 

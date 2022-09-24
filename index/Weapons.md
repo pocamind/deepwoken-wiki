@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37258
+revid: 37398
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -296,7 +296,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>N/A</td>
   <td>LHT: 10</td>
   <td>3</td>
-  <td>8</td>
+  <td>10</td>
   <td>1.3x</td>
 </tr>
 <tr>
