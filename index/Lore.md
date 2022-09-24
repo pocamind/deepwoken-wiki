@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 36851
+revid: 37413
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World, Deepwoken, Locations, Factions, Monsters, Character, Map, Drowned Gods, Death, Exclusive Races, Resonance, Islands, Origins, Oaths, Attunement, Boss, NPCs]
+categories: [Pages with broken file links, World, Deepwoken]
 ---
 
 # Lore
@@ -1152,12 +1152,6 @@ At the year 1271 of Spring, The Player makes their first appearance in the world
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
 -   The Hippocampal Pool allows your current character to pass down two of their items to another soul; your character's legacy, transferred to a different character.
 -   There is a mysterious tent and campfire in the Fragments of Self that allows you to remove gear you wish to pass on.
-
-### Character Slots
-
--   ~Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.~
-    -   ~For the confused folk, each Character Slot acts like a different account.~
--   With a new update, all unlocks (Origins, Attunements, Weapons, etc) are unlocked for all slots.
 
 ## Miscellaneous
 

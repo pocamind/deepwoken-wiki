@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 36785
+revid: 37405
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -75,18 +75,18 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 ### Known Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Regain sanity to nearby Players at the cost of your Sanity.
-    -   Heals nearby players.
+    -   Heal nearby Players at the cost of your Sanity.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Obtaining: 1 player helped in the Depth Trial (must be alive)
+    -   Obtainment: 1 player helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
-    -   Disables mantras from being used in it's radius
+    -   Gives 30% PvE damage boost at the cost of Sanity, (Level 60 can do 300+ more damage)
+    -   Disables mantras from being used in it's radius.
         -   This affects everybody, including the caster and their allies.
-    -   Gives 30% PvE damage boost (Level 60 can do 300+ more damage)
     -   While inside the circle, gain mantra immunity.
-    -   About the size of a medium Sacred field roll
-    -   Obtaining: 5 players helped in the Depth Trial (must be alive)
+    -   About the size of a medium Sacred field roll.
+    -   Cannot be augmented by Spark Ingredients.
+    -   Obtainment: 5 players helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
