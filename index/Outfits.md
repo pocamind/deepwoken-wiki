@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 37352
+revid: 37404
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character, Helmets, Boots, Arms, Face]
@@ -601,7 +601,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Ferryman Drop (Summer Season) | N/A |
+ | Ferryman Drop (Summer Season), Fishing | N/A |
 |  | 
 
 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
