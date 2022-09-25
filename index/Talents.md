@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37433
+revid: 37440
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -435,7 +435,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
     -   Prerequisites: 60 Agility
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
-    -   Prerequisite: 30 Strength, 25 Fortitude
+    -   Prerequisite: 25 Strength, 25 Fortitude
 -   Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals 50% of the original damage
     -   Can proc from physical mantras
