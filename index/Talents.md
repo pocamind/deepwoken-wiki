@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37417
+revid: 37433
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -166,7 +166,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: Agility 20-30~, 20-25~ Intelligence
+    -   Prerequisites: Agility 20, 20 Intelligence
 
 ### Athlete
 
@@ -1208,7 +1208,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Spinning Swordsman \[Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
-    -   Prerequisite: ?? Strength, ?? Agility
+    -   Prerequisite: 20 Strength, 20 Agility
 -   Speed Demon \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
     -   "Bleed" is actually a small damage overtime and not an actual decrease in the blood gauge.
     -   Prerequisite: 25 Agility
