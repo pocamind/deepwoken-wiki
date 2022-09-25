@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 37032
+revid: 37429
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -70,15 +70,19 @@ Similar to bandit events, with three to four enemies spawning. They wield a dagg
 
 Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village. In Songseeker, there is an event where three Knives Of Eylis bandits spawn with no magic and no hostage.
 
-**Weapons:** [Whaling Knife](Whaling_Knife.md) & Time-Slowing Orb Magic.
+**Weapons:** [Whaling Knife](Whaling_Knife.md) & Time-Slowing Oath Magic.
 
 #### **Authority Scouts**
 
 In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use [Thundercall](Thundercall.md) and the Peacekeepers use an unknown [Flamecharm](Flamecharm.md) mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
 
+**Weapons:** [Semiadvanced](Weapons.md), [Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md)
+
 #### **Ministry Massacre**
 
 A single Ministry scout, sitting around a campfire in Summer Isle, surrounded by the corpses of bandits. Killing them will reward you with EXP and the campfire will turn into a chest.
+
+Weapons: [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md)
 
 #### **Lost Villagers**
 

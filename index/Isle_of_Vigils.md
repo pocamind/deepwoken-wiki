@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 37033
+revid: 37427
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -59,6 +59,10 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 -   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md).
 
+### Unknown Zipline
+
+-   Up in the mountains(climb from the bottom of temple via trees and you will see a zipline no cap), there is a zipline. This zipline will lead you to a unknown place, I have zero agility sadly so idk what is on top of that mountain. I will try and send a screenshot of it between 9/25-9/30. I can also confirm it's true, since I went there myself obviously.
+
 ## Missions
 
 Events that spawn in Isle of Vigils that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
@@ -87,3 +91,4 @@ Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best fishing spots which is near the docks. Testing showed that there is a high chance of a chest as I found in 1 hour about 30-40 chests.
 -   The Isle of Vigils used to be attached to Etris, but now they are separate.
+-   There is more lore added. Lance's brother(aka RRR) may be a shapeshifter and Stratos mentions RRR. Something is going on...
