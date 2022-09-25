@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37265
+revid: 37417
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -418,19 +418,24 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Concussive Force \[Common Talent\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
     -   Enemies remain knocked for 15 seconds instead of 10.
+    -   Prerequisite: 15 Strength
 -   Concussion \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
-    -   Prerequisite: ?? Strength, ?? Fortitude
+    -   Prerequisite: 20 Strength, 15 Fortitude
 -   Duelist Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
+    -   Prerequisite: 20 Strength
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
     -   When below 15% HP, gain 10% damage.
+    -   Prerequisite: 35 Willpower
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
     -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
-    -   Prequesite: ?? Strength, ?? Agility
+    -   Prequesite: 25 Strength, 15 Agility
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
+    -   Prerequisite: 30 Strength, 30 Medium Weapon
 -   Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
     -   Prerequisites: 60 Agility
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
+    -   Prerequisite: 30 Strength, 25 Fortitude
 -   Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals 50% of the original damage
     -   Can proc from physical mantras

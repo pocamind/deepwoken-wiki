@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 36494
+revid: 37421
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -14,7 +14,7 @@ Template:ArmorInfoboxNavaen War Chief is a Master [Outfit](Outfits.md) in _Deepw
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth, five (5) Fiber, eight (8) Erisore, two (2) Frigid Prisms, one (1) Odd Tentacle, two (2) Thresher Spines, and one (1) Wind Gem.
+This Outfit costs and requires five (5) Cloth, five (5) Fiber, eight (8) [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore), two (2) [Frigid Prisms](Frigid_Prism.md), one (1) Odd Tentacle, two (2) Thresher Spines, and one (1) [Wind Gem](Deep_Gems.md).
 
 This Outfit requires [Power Level](Talents.md) 45.
 
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 45.
 
 This Outfit has 3000 durability and grants +30% Physical Armor, 50% Stealth, +5% Shadow Armor, +10% Ice Armor, and +25% Elemental Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 25% pen buff on Navae fists.
+This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which grants a 25% penetration buff on the [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) fist style.
 
 ## Location
 
@@ -35,4 +35,5 @@ This Outfit's Schematic is obtainable from:
 
 ## Trivia/Notes
 
--   This is the best armor for those who want to do a lot of damage with the Way of Navae fist syle. If you want good armor for Legion Kata, I would recommend using the [Legion Centurion](Legion_Centurion.md) armor, because of its Talent.
+-   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) fist style.
+-   One of four armors that buff one fist style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), and [Justicar](<Justicar_(Origin).md>).

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37341
+revid: 37420
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -78,7 +78,7 @@ Changelogs:
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonic.png<figcaption></figcaption></figure><div>Detonation</div></td>
+  <td>File:Detonation png.png<div>Detonation</div></td>
   <td><div><p>After hitting a target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>

@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 35873
+revid: 37418
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Bounder
 
-Skrillbo
+Bounder about to chomp this player harder than a megurger
 
 ## Description
 
