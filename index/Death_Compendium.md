@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 37444
+revid: 37467
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,6 +39,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Drop an item whilst in the middle of resetting? I have dropped items whilst resetting and never died.
 -   Getting dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 -   Be detected logged by the anti-cheat, typically without actually cheating and without being banned. Also known as _being AA-gunned_.
+-   Go down a whirlpool. (Technically a way of ''dying'' But can also be considered as traveling between different luminants.)
 
 This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 

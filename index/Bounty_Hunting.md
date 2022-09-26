@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 36721
+revid: 37463
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -21,7 +21,7 @@ A Bounty Board located in Etris.
 
 The details of the Bounty.
 
--   When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot, (depending on how many stars the person you hunted has) exp and some luck. The person who got killed will get forgiven by the faction for a little bit since they don't see them as a threat anymore.
+-   When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot, (depending on how many stars the person you hunted has) exp and some luck. The person who got killed will have their reputation pushed toward their default value (usually neutrallity).
 
 Examples:
 

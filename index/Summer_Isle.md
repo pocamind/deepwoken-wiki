@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 37064
+revid: 37472
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -48,10 +48,11 @@ Notes:
 -   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
+-   One of the safest islands from player activity.
 
 #### _**Thundercall Trainer**_
 
-On the first floor of the Summer Company's castle is the spelltrainer for Thundercall.
+On the second floor of the Summer Company's castle is the spelltrainer for Thundercall.
 
 -   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
 -   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.

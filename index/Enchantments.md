@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37453
+revid: 37464
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -35,8 +35,8 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 
 There are two variants that enchantments come in:
 
--   **Blessing** - They have an effect and no downsides.
--   **Curse** - They have a very strong effect but a Big/Small downside depending on the curse.
+-   **Blessing** - They have an effect and little to no downsides.
+-   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
 
 Changelogs:
 

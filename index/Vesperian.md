@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 37027
+revid: 37468
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -28,8 +28,8 @@ A vesperian with hair.
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
-    <li>3% damage reduction. Degrades with damage but can be replenished at a campfire</li>
-    <li>This buff also stacks with Exoskeleton (Legendary Talent)</li>
+    <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
+    <li>This buff also stacks with Exoskeleton (Legendary Talent) albeit is slightly reduced.</li>
   </ul></li>
     <li>+2 Health</li>
   </ul></td>
@@ -104,6 +104,7 @@ A layer of protective armor that regenerates at rest.
 ## Trivia
 
 -   Vesperians may be somewhat based off of Bombardier beetles.
+    -   However, their name is based off of the Vespa, the largest eusocial hornet.
 -   Vesperians were inspired by the game Hollow Knight.
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
 -   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
