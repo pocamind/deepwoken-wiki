@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 34413
+revid: 37454
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -30,7 +30,7 @@ categories: [Weapons, Weaponry, Items]
 
 ― A flame user playing fists for the first time
 
-sex
+  
 
 ## Description
 

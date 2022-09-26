@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 37403
+revid: 37455
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -32,6 +32,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 -   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
+-   **\[CON\]** You have to boat to Etris to get your training gear after the trial.
 
 ## Deepbound
 
@@ -53,7 +54,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more hp/more difficult give more bell progress.
 -   **\[PRO\]** Killing a monster with more than 500 HP gives 3% luck.
 -   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
--   **\[CON\]** You cannot do the Trial of One.
+-   **\[CON\]** **You cannot do the Trial of One.**
 -   **\[PRO/CON DEPENDING ON SKILL\]** You start off in the Depths (Castle Light).
 
   
