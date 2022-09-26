@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37440
+revid: 37456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -113,6 +113,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
+    -   Prerequisites; ? Amount Of Backstabs
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
     -   Prerequisites: 15 Agility & 5 Fortitude
