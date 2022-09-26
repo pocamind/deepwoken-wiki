@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 34877
+revid: 37447
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,7 +16,7 @@ _Chance of obtaining race: **8%**_
 
 ## Description
 
-They're monkeys.
+They're monkeys. (Fr fr)
 
 ## Racial Traits
 

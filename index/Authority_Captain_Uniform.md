@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 32709
+revid: 37452
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -34,3 +34,4 @@ This Outfit's Schematic can be found:
 
 -   This outfit is worn by the Authority Wardens and [Authority Thundercallers](Authority_Officer.md).
 -   It is essentially just an Authority Peacekeeper Uniform with a red cloak on top.
+-   Very good substitute for master armors, as it gives the same physical damage resistance as most of them.
