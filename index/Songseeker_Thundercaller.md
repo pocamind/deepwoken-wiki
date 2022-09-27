@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 35969
+revid: 37506
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,7 +55,7 @@ Thunder Kick
 
 User heavily kicks forward.
 
- | ◯ | ◯ | (★★☆) |
+ | ◯ | ✗ | (★★☆) |
 | 
 
 Lightning Stream

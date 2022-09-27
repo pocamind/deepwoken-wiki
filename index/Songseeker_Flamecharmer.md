@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 37364
+revid: 37504
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -70,6 +70,7 @@ User dashes forward covered in flames; hitting anyone in their path.
 
 -   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
 -   High Supply - A Songseeker Flamecharmer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Phoenix Flames - Instead of burning to death, Songseeker Flamecharmers are revived with some of their health in a fiery explosion.
 -   Mantra Modifications - A Songseeker Flamecharmer's "Flame Repulsion" mantra is modified with 3 [Cloudstones](Mantra_Modifiers.md).
 
 ## Finisher

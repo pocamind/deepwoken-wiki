@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 37360
+revid: 37502
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (**Fist of Nava
 | 
 Assault
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly pummels opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | 
 
 Ice Spikes
@@ -46,6 +46,7 @@ Ice Eruption
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
 -   High Supply - A Songseeker Frostdrawer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
 -   Frozen Pincushion - If the victim is hit by every dagger from Ice Daggers, they will become completely frozen for a short period of time.
+-   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
 -   Mantra Modification - A Songseeker Frostdrawer's "Ice Eruption" mantra is modified with a [Round Spark](Mantra_Modifiers.md).
 
 ## Finisher
