@@ -1,6 +1,6 @@
 ---
 title: Monster Bait
-revid: 31962
+revid: 37500
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,8 +15,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Megalodaunt Bait is a craftable item in Deepwoken. It costs two Chum to craft.
 
 Like the name suggests, it is used to spawn [Megalodaunts](Megalodaunt.md). Megalodaunt Bait may also spawn Red Megalodaunts in their place, but very rarely.
-
-**Note: This item is disabled temporarily.**
 
 ## **Trivia**
 
