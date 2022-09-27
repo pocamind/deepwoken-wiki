@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 36763
+revid: 37475
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -46,7 +46,7 @@ Crafting Flint, throwing at pedestrians
 
 ### Obtainment
 
-Can be bought from the Blacksmith for 6 notes (3 if, you're at Etris and have the discount).
+Can be bought from the Blacksmith for 6 notes (3 if, you're at Etris and have the discount) or crafted using fiber.
 
 ### Uses
 
@@ -56,7 +56,7 @@ Used in all armor schematics.
 
 ### Obtainment
 
-Can be bought from the Blacksmith for 3 notes.
+Can be bought from the Blacksmith for 3 notes or crafted with bamboo bundles.
 
 ### Uses
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37456
+revid: 37483
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -46,9 +46,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ## Talents
 
-### Acrobat
-
-These talents improve the user's aerial mobility without the use of Galebreathe.
+Acrobat These talents improve the user's aerial mobility without the use of Galebreathe.
 
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
@@ -599,7 +597,10 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Glassdancer
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying slow or freeze now applies ice crystals on the enemy instead. Stacking 7 ice crystal make them explode, damaging the target.
+    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode, damaging 10 damage to the target.
+    -   Requirement: 40 Frostdraw
+-   Crystal Breaker \[Frostdraw Exclusive\] - When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
+    -   Detonate crystals on a player when they are guardbroken. Each crystal will deal 4 damage.
 
 ### Great Wall
 
@@ -656,6 +657,8 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers
 -   Saint Jay \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
+    -   Saint Jay last for double the duration of Chill.
+    -   If using Glass Path: Crystallization, Saint Jay is active for 2 seconds when a crystal is applied.
     -   Prerequisite: Frostbite
 -   Frozone \[Legendary Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Skate (3 Star Frostdraw Mantra)
@@ -729,7 +732,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
-    -   Instead of setting your target on fire, create an eruption where they were last standing that deal a burst of damage.
+    -   Instead of setting your target on fire, create an eruption on hit, dealing 10 damage. (0.5s cooldown)
     -   Prerequisites: 40 Flamecharm
 
 ### Lancer
@@ -738,6 +741,10 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
+
+### Leader
+
+-   Callout \[Common Talent\] - you can mark objects or enemies by pressing Z, which will mark them for all nearby allies (+1 Ether +3 Health)
 
 ### Legion Shock Trooper
 

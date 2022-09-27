@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 32843
+revid: 37487
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley chests |
+| obtainment | Starswept Valley chests and Minityrsa chests |
 | description | ? |
 
 “ The axe that nobody asked for, but looks sick ”
