@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 27966
+revid: 37497
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -36,7 +36,7 @@ _"The state or feeling of being actively opposed or hostile to someone or someth
 -   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial.
 -   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, forcing them to kill eachother until it decides that the trial can finally start.
 -   It enjoys the scene of players being attacked by the monsters of the trial, hoping that they will be defeated.
--   It seems to be in charge of the other voices, as whether or not it views players as strong enough will decide whether or not a trial will commence.
+-   It seems to be somewhat in charge of the other voices, as whether or not it views players as strong enough will decide whether or not a trial will commence.
 
 ### Voice of Authority
 
@@ -44,6 +44,7 @@ _"The power or right to give orders, make decisions, and enforce obedience."_
 
 -   The Voice of Authority only appears after the player successfully completes the trial.
 -   It will order the other voices to send the player back up into the Etrean Luminant.
+-   Noting it’s title, and dialogue, it seems to have the final say in all decisions.
 
 ### Voice of Solitude
 

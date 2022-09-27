@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37464
+revid: 37498
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -187,7 +187,7 @@ Changelogs:
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
-  While above 10% HP, missing an M1 deal 2% of max HP as self damage.</p></div></td>
+  While above 10% HP, missing an M1 deal 1% of max HP as self damage.</p></div></td>
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>
@@ -203,10 +203,10 @@ Changelogs:
 </tr>
 <tr>
   <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>On proc, deals double damage.<br>
+  <td><div><p>On proc, deals 20% more damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
-  Rarely, take self damage equal to 90% of the weapon's damage.</p></div></td>
+  Rarely, take self damage equal to 90% of the weapon's damage and inflicts a great amount of damage to the opponent, more than 20% damage (tested with exploits).</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
 </tbody>

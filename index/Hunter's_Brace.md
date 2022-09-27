@@ -1,27 +1,26 @@
 ---
 title: "Hunter's Brace"
-revid: 37477
+revid: 37491
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hunter's Brace
 
-| Hunters brace | |
+| Hunters Brace | |
 |---|---|
 | value | 50 |
 | weight | ??? |
-| type | armour |
+| type | Support |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 
-Hunters brace is an item purchased within the fist floor of the castle on [summer isle](Summer_Isle.md).
+## Info
 
-It alows you to parry greater attacks including primadon, sharko, blizzard and sand night, and enforcer kick, aswell as other unparry/blockable attacks
+The Hunter's Brace is an item purchased on the first floor of the castle on [Summer Isle](Summer_Isle.md). It allows you to parry greater attacks including Sharko Kick, Blizzard and Desert Knight Kick, as well as other unparryable attacks.
 
 ## Notes:
 
-item is temporary, it disapears when you logout.
-
-recommended to buy before fighting primadon or depths grinding.
+-   The item is temporary, it disappears when you logout.
+-   It's recommended to buy before fighting Primadon or Depths grinding.
