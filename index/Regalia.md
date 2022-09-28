@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 36477
+revid: 37511
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,25 +25,21 @@ While Regalia's DO have a way to obtain them, they CAN be obtained randomly, as 
 ― Fallout 3 Animal Friend Description
 
   
-
--   All [Monsters](Monsters.md) (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
--   Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds.
-    -   Humanoid Enemies will still aggro the player on sight. However, [Cultist Necromancer](Ministry_Necromancer.md) will not aggro on sight.
+All [Monsters](Monsters.md) (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md). Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds. Humanoid enemies will still aggro the player on sight except for [Cultist Necromancer](Ministry_Necromancer.md).
 
 ### Theorized Obtainment:
 
 -   Something to do with wiping to monsters
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 -   Progress toward a regalia might be saved between wipes.
--   \[You can just pass the parry test on Trial and get killed by any monsters/trial. Go to the depths and kill any monster. WIPE FOR THE MONSTERS! NOT FOR THE VOID!\]
+    -   You can just pass the parry test on Trial and get killed by any monsters/trial. Go to the depths and kill any monster. WIPE FOR THE MONSTERS! NOT FOR THE VOID!
+-   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
 
 So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)
 
 Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times
 
--   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
-
-## Trivia/Notes
+## Notes
 
 -   There may be more Regalia, however only one is known to exist, either because it is the only one in the game, or the only one currently found.
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
