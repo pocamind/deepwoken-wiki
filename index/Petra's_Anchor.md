@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 35079
+revid: 37534
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -27,6 +27,10 @@ categories: [Weapons, Greathammers]
 | obtainment | Directly dropped by the Dread Serpent |
 | description | An unwieldy weapon that promises to hold fast in battle. |
 
+“ Let's go get a Murmur. ”
+
+― Khan challenging a Dread Serpent
+
 ## Description
 
 Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a Heavy Weapons requirement 75 and a Strength requirement of 10 to equip.
@@ -34,8 +38,9 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 ## Trivia
 
 -   Could be a reference to Mr Krab's house from Spongebob.
--   Probably a reference to Totsugeki May from _Guilty Gear_.
--   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
--   Or it could just... you know... be an anchor.
--   No, it's a reference to Nautilus from League of Legends
+    -   Probably a reference to Totsugeki May from _Guilty Gear_.
+    -   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
+    -   Or it could just... you know... be an anchor.
+    -   No, it's a reference to Nautilus from League of Legends
+    -   please ignore the facts above as this is clearly a reference to the [anchor](https://terraria.fandom.com/wiki/Anchor) from terraria
 -   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).

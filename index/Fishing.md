@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 37408
+revid: 37541
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -119,4 +119,4 @@ If you want to add more, feel free. I'm done for the time being.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   Fishing enough can train willpower, fortitude, intelligence, strength, and charisma.
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
--   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare.
+-   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare. (edit: specific locations have higher chances of getting these, was confirmed by me dm solhur if u have doubts)

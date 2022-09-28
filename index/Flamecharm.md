@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 37382
+revid: 37536
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -19,11 +19,11 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 Flamecharm icon
 
-Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning (Explosion with the right talents), damage per second and AoE effects.
+Flamecharm grants the user the ability to conjure fire using ether, giving them access to abilities which focus on burning (Explosions with the talent Lava Serpent), damage per second and AoE effects.
 
-While Flamecharm overwhelms the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
+Flamecharm overwhelms the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
 
-The playstyle of this element is a jack of all trades and combat mobility. Despite what that quote usually means for something, flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is a very, very, diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
+The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is a very, very, diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
 
 ## Training
 

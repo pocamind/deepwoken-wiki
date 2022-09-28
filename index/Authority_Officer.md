@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 37525
+revid: 37533
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -64,6 +64,10 @@ An Authority officer executes it's opponent after knocking them:
 \[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace.
 
  |
+
+## Tips
+
+-   Run if you're a freshie as it's Jolt Grab is OP
 
 ## Trivia
 

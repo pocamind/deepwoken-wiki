@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 37451
+revid: 37535
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -61,7 +61,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Unknown Zipline
 
--   Up in the mountains(climb from the bottom of temple via trees and you will see a zipline no cap), there is a zipline. This zipline will lead you to a unknown place, I have zero agility sadly so idk what is on top of that mountain. I will try and send a screenshot of it between 9/25-9/30. I can also confirm it's true, since I went there myself obviously.
+-   Up in the mountains(climb from the bottom of temple via trees and you will see a zipline no cap), there is a zipline. This zipline will lead you to a unknown place, I have zero agility sadly so idk what is on top of that mountain.
     
     File:Unknownzipline.png
     

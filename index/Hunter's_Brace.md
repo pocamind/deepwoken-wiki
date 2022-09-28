@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 37518
+revid: 37532
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Info
 
-The Hunter's Brace is an item purchased on the first floor of the castle on [Summer Isle](Summer_Isle.md). It allows you to parry greater attacks including Sharko Kick, Blizzard and Desert Knight Kick, as well as other unparryable attacks.
+The Hunter's Brace is an item purchased on the first floor of the castle on [Summer Isle](Summer_Isle.md). It allows you to parry attacks that can only be dodged including Sharko Kick, Thresher Burrow, as well as other unparryable attacks.
 
 ## Notes:
 

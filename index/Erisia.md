@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 37320
+revid: 37538
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Islands]
@@ -28,3 +28,4 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 -   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, second to [Aratel Island](Aratel_Island.md).
+-   It's better to do [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP.
