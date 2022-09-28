@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 37515
+revid: 37517
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -22,9 +22,7 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-asssslicker 222.11111
-
-1on with their chilling environment
+Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
 
 The playstyle of this element is territory control and defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice making this a good defensive attunement. Although the first few mantras of frostdraw are considered generally weak, later mantras soon show the power of frostdraw. Though this attunement is slow compared to others, it is a heavy hitter. This attunement would most likely fit someone who likes playing defensive heavies.
 
@@ -355,10 +353,22 @@ _An arc of ice._
 -   Can be modified with Cloudstones to form more arcs.
 
  |
-| [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 123123123132 | 23123123123123 | While on or above water, create a frozen platform that you slide on at a high velocity.
+| [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
+
+Ice Skates
+
+(★★★)
+
+  
+
+ | 
+
+_Skate freely on paths of ice._
+
+ | While on or above water, create a frozen platform that you slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active
--   The legendary "Frozone" talent allows the user to cast th123231323231231231231231231231231313123123 mantra anywhere
+-   The legendary "Frozone" talent allows the user to cast this mantra anywhere
     -   This includes [The Depths](The_Depths.md).
 
   
@@ -376,10 +386,21 @@ _An arc of ice._
   <th>Effect</th>
 </tr>
 <tr>
-  <td>31</td>
-  <td>23</td>
-  <td>312312312</td>
-  <td>23</td>
+  <td><center><figure>File:Giphy 8.gif<figcaption></figcaption></figure></center></td>
+  <td><center>Iceberg<p>(★★★)</p>
+  <p><br>
+  </p></center></td>
+  <td><center><i>Enter a state of cryostasis.</i></center></td>
+  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit(s) while this is active.
+  <ul>
+    <li>Heals 1-3%</li>
+    <li>Can be upgraded with Stratus Stones and Eternal Logstones.
+  <ul>
+    <li>Needs more testing.</li>
+  </ul></li>
+    <li>Add drift and rush shards to increase healing Amount(around a bar to half a bar)</li>
+    <li>Do not use near teammates as it can freeze them.</li>
+  </ul></td>
 </tr>
 </tbody>
 </table>

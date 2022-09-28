@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37498
+revid: 37516
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -8,15 +8,9 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 # Enchantments
 
-<table>
-<tbody>
-<tr>
-  <td>Description</td>
-</tr>
-</tbody>
-</table>
+**Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
 
-Enchantments are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
+## Limitations
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
@@ -33,12 +27,14 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   **You are capable of selling enchants whether they are soulbound or not.**
 -   You can trade in 3 Armor Enchants into a Enchant Weapon by talking to [Laplace](Laplace.md), a Ganymede in Lordsgrove.
 
+## Variants
+
 There are two variants that enchantments come in:
 
 -   **Blessing** - They have an effect and little to no downsides.
 -   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
 
-Changelogs:
+## Changelogs
 
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
@@ -48,6 +44,8 @@ Changelogs:
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily.
 -   **September 13th, 2022** - Enchanted weapons and equipment now have at least 1 star quality at minimum.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+
+## List of Enchantements
 
 **Weapons:**
 
@@ -374,19 +372,17 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 
 ## Trivia
 
+File:Vamparism shield.png
+
+Vamparism enchant on a Khan Shield
+
 -   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter.
 -   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
 -   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
     -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day you will be absorbed into the blade.
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
-    
-    Vamparism enchant on a Khan Shield
-    
-    Vamparism enchant on a Khan Shield
-    
 -   Enchanted Hero Blades were in the game before they were removed.
-
 -   Some enchants used to have different names:
     -   Curse of the Umbral Knight > Umbral Knight
     -   Bungee Gum > Elastic

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 37170
+revid: 37524
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -33,6 +33,7 @@ This Outfit's Schematic can be found in:
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   Fishing at any location
 -   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
 ## Trivia/Notes
 

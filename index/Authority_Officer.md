@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 36032
+revid: 37525
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,16 +11,16 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
+An Authority officer are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
--   Authority Footsoldiers vs Etrean Footsoldiers ([Erisia](Erisia.md))
--   Authority Footsoldiers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
--   Authority Footsoldiers with [Authority Flamecharmer](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
+-   Authority officers vs Etrean Footsoldiers ([Erisia](Erisia.md))
+-   Authority officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
+-   Authority officers with [Authority Flamecharmer](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
     -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
 
-Authority Footsoldiers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair of Bluesteel Boots and an [Authority Commander Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
+Authority officers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair of Bluesteel Boots and an [Authority Commander Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
 
 ## Moveset
 
@@ -52,11 +52,11 @@ Thunder Kick
 ### **Boons:**
 
 -   Experienced Fighter - Can parry and and block common attacks and mantras.
--   Mantra Modification - An Authority Footsoldier's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+-   Mantra Modification - An Authority officer's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 
 ## Finisher
 
-An Authority Footsoldier executes it's opponent after knocking them:
+An Authority officer executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -67,4 +67,4 @@ An Authority Footsoldier executes it's opponent after knocking them:
 
 ## Trivia
 
--   An Authority Footsoldier can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.
+-   An Authority officer can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.

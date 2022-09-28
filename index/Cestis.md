@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 37105
+revid: 37527
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPC, Npc]
@@ -19,46 +19,91 @@ A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md)
 
 ## Dialogue
 
-**Good Etrean Reputation**
+### Good Etrean Reputation
 
-> Cestis: Oh ho ho... Another goody two shoes? You'd best get running, little one. Before you get hurt.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oh ho ho... Another goody two shoes? You'd best get running, little one. Before you get hurt.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-**First Confrontation**
+### First Confrontation
 
-> Cestis: Oooo aren't you scary? Picked some fights? Stole some things? Maybe talked back to a guard or two? Hahaha.. It matters not.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oooo aren't you scary? Picked some fights? Stole some things? Maybe talked back to a guard or two? Hahaha.. It matters not.</td>
+</tr>
+<tr>
+  <td colspan="12">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="12">I'm Cestis. I have a few generous benefactors from the Western Luminant, perhaps you know who I'm speaking of?</td>
+</tr>
+<tr>
+  <td colspan="6">Yeah, I do. <b>[10 Charisma]</b></td>
+  <td colspan="6">No, I don't.</td>
+</tr>
+<tr>
+  <td colspan="3"><b>[Fail Charisma Check]</b> You were really thinking about that answer, huh? Try lying to someone a little more gullible next time.</td>
+  <td colspan="3"><b>[Pass Charisma Check]</b> Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?</td>
+  <td colspan="6">It's best it stay that way then. You'd do best not to cross your betters. *<i>He gives you a crooked smile that sends shivers down your spine.</i>*</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
+  <td colspan="3">Dialogue Continues</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="12">I'm interested.</td>
+</tr>
+<tr>
+  <td colspan="12">That's the spirit. Go find and kill [Name], the [Race]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-> 1\. Who are you?
+### Subsequent Confrontation
 
-> Cestis: I'm Cestis. I have a few generous benefactors from the Western Luminant, perhaps you know who I'm speaking of?
-
-> 1\. Yeah, I do. \[10 Charisma\]
-
-> \[Fail Charisma Check\] Cestis: You were really thinking about that answer, huh? Try lying to someone a little more gullible next time.
-
-> \[Pass Charisma Check\] Cestis: Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?
-
-> 2\. No, I don't.
-
-> Cestis: It's best it stay that way then. You'd do best not to cross your betters. \*_He gives you a crooked smile that sends shivers down your spine._\*
-
-> 1\. I'm Interested.
-
-> Cestis: That's the spirit. Go find and kill \[Name\], the \[Race\]. You'll make quick work of them, no? Word is they were last seen around \[Location\]...
-
-> Cestis: Shoo shoo... Go kill your target. Quit dragging your feet.
-
-**1-3 Assassinations**
-
-> Cestis: Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?
-
-**1-5 Assassinations**
-
-> Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought initally..
-
-**1-10 Assassinations**
-
-> Cestis: Ahaha.. A natural born killer.. Although you may want to make use of Tacet to sneak up on your foes more easily...
-
-**Subsequent Confrontation**
-
-> Cestis: Ah, you're back, looking to get your hands dirty?.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">1-3 Assasinations</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?</td>
+</tr>
+<tr>
+  <td colspan="12">1-5 Assasinations</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, good work as always. You know what? You might be of more use to us than I thought initally..</td>
+</tr>
+<tr>
+  <td colspan="12">1-10 Assasinations</td>
+</tr>
+<tr>
+  <td colspan="12">Ahaha.. A natural born killer.. Although you may want to make use of <font>Tacet</font> to sneak up on your foes more easily...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
