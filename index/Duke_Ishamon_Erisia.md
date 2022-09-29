@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 37537
+revid: 37543
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -117,7 +117,7 @@ You also gain a large amount of [Luck](Luck.md) (16%), and [Resonance](Resonance
 -   ~The Duke's respawn timer is anywhere from 25 to 30 minutes~ The respawn time has been lowered.
 -   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   It is recommended to fight The Duke with the following:
-    -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture.
+    -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture. Mantras like "Fire Blade," "Ice Smash," "Exhaustion Strike," "Master's Flourish," and even "Glacial Arc," with the right modifiers work very well against him.
     -   A **[Heavy Hands Ring](Outfits.md)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
     -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's)
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 37541
+revid: 37544
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -12,17 +12,17 @@ categories: [Pages with broken file links, Fishing, Mechanics, Luck]
 
 ― Some random Man of Culture
 
-**Fishing** is a mechanic that allows you to obtain seafood using a Fishing Rod.
+**Fishing** is a mechanic that allows you to obtain seafood and various valuables using a Fishing Rod.
 
 ## How to Fish
 
 To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber. You can also buy it at the docks for 30 Notes, though this is a pretty bad deal.
 
-The next step to fishing is cast out your Fishing Rod at an area with alot of fish, such as Docks. Soon you will get a bite, and when you get a bite your character will be leaning in a certain direction. it can lean backwards, leftwards and rightwards. you must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
+The next step to fishing is cast out your Fishing Rod at an area with a general connection to the seas, such as Docks. Soon you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually neglible.
+Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
 
-Fishing levels your willpower, fortitude and intelligence. It also levels charisma if you catch a gold fish.
+Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item.
 
 ## Loot From Fishing
 
@@ -43,8 +43,8 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.
--   Golden Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 45% (tested).
+-   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
+-   Golden/Enchanted Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 45% (tested).
 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
 
@@ -117,6 +117,5 @@ If you want to add more, feel free. I'm done for the time being.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish to get food, luck, and loot.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
--   Fishing enough can train willpower, fortitude, intelligence, strength, and charisma.
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
 -   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare. (edit: specific locations have higher chances of getting these, was confirmed by me dm solhur if u have doubts)
