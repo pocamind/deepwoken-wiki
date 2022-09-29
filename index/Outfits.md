@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 37521
+revid: 37548
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character, Helmets, Boots, Arms, Face]
@@ -1710,7 +1710,7 @@ Grants a random buff.
 
 ## Speculation
 
--   The **Blindfold** protects against certain attacks that affect sanity such as flame blind.
+-   The **Blindfold** protects against certain attacks that affect visibility such as flame blind.
 -   The only gem that is not used in any armor set is insignia gem.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
 -   The **Vagabond's Bicorn** and **Brigand's Bicorn** are most likely a reference to **Captain Jack Sparrow** from the **Pirates of the Caribbean**.

@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 36829
+revid: 37547
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -62,6 +62,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **When fighting monsters in a group, do NOT hit your allies.** This will put them in player combat, which means they will not get health and posture back when killing monsters, which exacts a heavy toll on their survivability for an extended period of fighting.
 -   If you want to **Survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to Yun'Shul (bell reroll place). Get someone with Undying Flame to regen hp and sanity. Kamui bell is awesome in hell mode (danger version), you can just go into Kamui Dimension and spawn Graceful Flame.
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
+-   The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably the best weapon for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high health.
 
 ## Trivia
 
