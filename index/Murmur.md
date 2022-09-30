@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 37412
+revid: 37613
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -81,7 +81,7 @@ Murmur: Tacet can be obtained by completing 10 assassinations for [Cestis](Cesti
 
 This quest also takes into account the number of completed bounty quests from the [Bounty Hunting](Bounty_Hunting.md) board.
 
-This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
+This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain, if you aren't a [Voidwalker](Origins.md).
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 

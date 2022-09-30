@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 37321
+revid: 37616
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | damage | 20 |
 | scaling | FIR: 6.5 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
@@ -32,7 +32,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
@@ -49,7 +49,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
@@ -66,7 +66,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |
@@ -83,7 +83,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |

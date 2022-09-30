@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 37455
+revid: 37614
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -16,23 +16,22 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Requirements:** N/A
-
 **Obtainment:** Entering Deepwoken for the first time.
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 -   Begin with nothing but tattered armor and a starting weapon; along with a training item of your highest attribute.
 -   No pros or cons; a blank slate for your character.
+-   This is the default origin, available to all players when first starting the game.
 
 ## Lone Warrior
 
-**Requirements:** N/A
+**Requirements:** Find and enter the [Trial of One](Trial_of_One.md), at [Minityrsa](Minityrsa.md), as a Power 1 character.
 
 **Obtainment:** Successfully defeat the halfway point of the trial, which is the [Thresher](Thresher.md).
 
 -   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
--   **\[CON\]** You have to boat to Etris to get your training gear after the trial.
+-   **\[CON\]** You have to boat back to Etris to get your starting gear after the trial.
 
 ## Deepbound
 
@@ -40,7 +39,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Requirements:** Ask about signing up in the Divers to Akira during his encounter between the Ignition Union in Celtor Wastes.
+**Requirements:** Ask about signing up in the Divers to Akira during his encounter event between the Ignition Union in Celtor Wastes.
 
 **Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
 

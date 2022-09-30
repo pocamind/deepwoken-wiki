@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37588
+revid: 37592
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -8,15 +8,9 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 # Enchantments
 
-<table>
-<tbody>
-<tr>
-  <td>Description</td>
-</tr>
-</tbody>
-</table>
+**Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
 
-Enchantments are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
+## Limitations
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
@@ -33,12 +27,14 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   **You are capable of selling enchants whether they are soulbound or not.**
 -   You can trade in 3 Armor Enchants into a Enchant Weapon by talking to [Laplace](Laplace.md), a Ganymede in Lordsgrove.
 
+## Variants
+
 There are two variants that enchantments come in:
 
 -   **Blessing** - They have an effect and little to no downsides.
 -   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
 
-Changelogs:
+## Changelogs
 
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
@@ -48,6 +44,8 @@ Changelogs:
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily.
 -   **September 13th, 2022** - Enchanted weapons and equipment now have at least 1 star quality at minimum.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+
+## List of Enchantements
 
 **Weapons:**
 
@@ -61,24 +59,24 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Blaze.png<figcaption></figcaption></figure><div><a href="Blazing.md">Blazing</a></div></td>
+  <td><figure>File:Blaze.png<figcaption></figcaption></figure><div>Blazing</div></td>
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Chilled.png<figcaption></figcaption></figure><div><a href="Chilling.md">Chilling</a></div></td>
+  <td><figure>File:Chilled.png<figcaption></figcaption></figure><div>Chilling</div></td>
   <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Differed.png<figcaption></figcaption></figure><div><a href="Deferred.md">Deferred</a></div></td>
+  <td><figure>File:Differed.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Weapon deal 1.1x damage.<br>
   Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonic.png<figcaption></figcaption></figure><div><a href="Detonation.md">Detonation</a></div></td>
+  <td><figure>File:Detonic.png<figcaption></figcaption></figure><div>Detonation</div></td>
   <td><div><p>After hitting a target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
@@ -86,44 +84,44 @@ Changelogs:
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><div><a href="Elastic.md">Elastic</a></div></td>
+  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><div>Elastic</div></td>
   <td><div><p>On proc a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><div><a href="Gluttony.md">Gluttony</a></div></td>
+  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><div>Gluttony</div></td>
   <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
   Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GRIM.png<figcaption></figcaption></figure><div><a href="Grim.md">Grim</a></div></td>
+  <td><figure>File:GRIM.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p><br>
   After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><div><a href="Heroism.md">Heroism</a></div></td>
+  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP.<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Metalic.png<figcaption></figcaption></figure><div><a href="Metal.md">Metal</a></div></td>
+  <td><figure>File:Metalic.png<figcaption></figcaption></figure><div>Metal</div></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
-  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div><a href="Obfuscation.md">Obfuscation</a></div></td>
+  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div><p>Weapon gain 50% chip damage.<br>
   Weapon deal less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><div><a href="Providence's_Thorns.md">Providence's Thorns</a></div></td>
+  <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
   <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
@@ -132,7 +130,7 @@ Changelogs:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:SEAR.png<figcaption></figcaption></figure><div><a href="Sear.md">Sear</a></div></td>
+  <td><figure>File:SEAR.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Apply <b>cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
@@ -140,25 +138,25 @@ Changelogs:
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:STONE.png<figcaption></figcaption></figure><div><a href="Stone.md">Stone</a></div></td>
+  <td><figure>File:STONE.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure>File:STORM.png<figcaption></figcaption></figure><div><a href="Storm.md">Storm</a></div></td>
+  <td><figure>File:STORM.png<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><div><a href="Vampirism.md">Vampirism</a></div></td>
+  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><div>Vampirism</div></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Wild.png<figcaption></figcaption></figure><div><a href="Wild.md">Wild</a></div></td>
+  <td><figure>File:Wild.png<figcaption></figcaption></figure><div>Wild</div></td>
   <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim.<br>
   M1s and Wild AOE to allies deals 0 damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
@@ -176,14 +174,14 @@ Changelogs:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><div><a href="Umbral_Knight.md">Umbral Knight</a></div></td>
+  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
   The slash is parryable.<br>
   Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><div><a href="Curse_of_the_Bloodthirsty.md">Curse of the Bloodthirsty</a></div></td>
+  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
@@ -202,7 +200,7 @@ Changelogs:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
-  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><div><a href="Curse_of_Yun'Shul.md">Curse of Yun'Shul</a></div></td>
+  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>On proc, deals 20% more damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
@@ -374,19 +372,17 @@ Enchanted face, ears, back accessories were removed from the loot pool.
 
 ## Trivia
 
+File:Vamparism shield.png
+
+Vampirism enchant on a Khan Shield
+
 -   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter.
 -   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
 -   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
 -   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
     -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day you will be absorbed into the blade.
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
-    
-    Vamparism enchant on a Khan Shield
-    
-    Vamparism enchant on a Khan Shield
-    
 -   Enchanted Hero Blades were in the game before they were removed.
-
 -   Some enchants used to have different names:
     -   Curse of the Umbral Knight > Umbral Knight
     -   Bungee Gum > Elastic
