@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37592
+revid: 37632
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
--   You do not drop enchanted items on death.
+-   You do not drop enchanted items on death unless you have it equipped
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
@@ -115,25 +115,19 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Weapon gain 50% chip damage.<br>
-  Weapon deal less posture damage.<br>
-  Landing hits give a speed boost.</p></div></td>
+  <td><div><p>when landing a successful M1 users character turns invisible including the weapon for a short amount of time.</p></div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
-  PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
-  Deal 0.043% x ()userpower in PVP.<br>
-  Deal 10% x ()userpower in PVE.<br>
-  Damage capped at <b>500</b>.</p></div></td>
+  <td><div><p>PVE: blocking an attack deal posture damage to the attacker.<br>
+  PVP: blocking 2 attacks within 3 seconds deal extra posture damage</p></div></td>
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:SEAR.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Apply <b>cauterize</b> on hit. Cauterized targets:<br>
-  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
-  (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
+  Sear now on proc deals 100% blood damage and 2% damage over time<br>
   Lose thirst equal to 20% of damage taken.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
@@ -192,7 +186,7 @@ There are two variants that enchantments come in:
   <td><figure>File:NLK.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
-  Permanently stained health bar.<br>
+  Permanently stained health bar But people you grip get sent to the depths 50% chance (the deep is calling).<br>
   2x blood damage taken in the Etrean Luminant.<br>
   When held, -100 sanity.<br>
   <b>Disabled in Areana</b><br>
@@ -232,7 +226,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><div>Providence's Storms</div></td>
-  <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.<br>
+  <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, blocking will reflect posture damage just like Providence's Thorns.<br>
   <b>Enchant is disabled for Non-Developers</b><br>
   <b>Removed from the game</b></p></div></td>
   <td><div>Weapon is invisible and covered with yellow mist with dots all around.</div></td>

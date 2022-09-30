@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 37414
+revid: 37621
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -35,6 +35,9 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
     -   [Fragments of Self](Fragments_of_Self.md)
     -   Marauders Entrance
 -   Layer 2
+-   The upper Void sea
+-   the forbidden corridors
+-   Fragments of trial ( a way to un wipe your slot without last winding)
 
 ## **Escaping The Depths**
 
