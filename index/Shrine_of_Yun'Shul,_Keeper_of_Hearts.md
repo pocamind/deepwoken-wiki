@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 37620
+revid: 37634
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -16,7 +16,7 @@ Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC and Drowned God, found
 
 ## Overview
 
-Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths. He allows players to make wishes. In layer 2 its shown that you will be able to see Yun'shul bubbles around the overworld and if you manage to get to one it gives you bell progression.
+Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths. He allows players to make wishes.
 
 ## Wishes
 

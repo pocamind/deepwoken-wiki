@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 37536
+revid: 37660
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -385,6 +385,21 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 +3 Elemental Intensity +3 Health FROM: Meteor Impact
 
  |
+| 
+
+ | 
+
+Thorns of Fire
+
+ | 
+
+Taking damage while using Flame Repulsion reflects the damage back to the attacker.
+
+ | 
+
++2 Elemental Intensity +3 Health
+
+ |
 
 **Flamecharmer:**
 
@@ -434,6 +449,21 @@ Pressing \[F\] before releasing your Flame Impact will release a wider but short
  | 
 
 Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range.
+
+ |
+| 
+
+ | 
+
+Unyielding Inferno
+
+ | 
+
+Your flames burn just as strong even in the fiercest of storms.
+
+ | 
+
+Graceful Flames and lit campfires will not be extinguished in rain (not in depths).
 
  |
 

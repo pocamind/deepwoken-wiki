@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 36903
+revid: 37651
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weaponry, Items]
@@ -31,7 +31,7 @@ categories: [Weapons, Spears, Weaponry, Items]
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame weapon obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him. Its max damage is 32.
+The Serrated Warspear is a midgame to endgame weapon obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him. Its max damage is 32. And its one of the most rarest weapons in deepwoken.
 
   
 

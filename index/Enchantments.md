@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37632
+revid: 37650
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
--   You do not drop enchanted items on death unless you have it equipped
+-   You do not drop enchanted items on death.
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
@@ -115,25 +115,31 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>when landing a successful M1 users character turns invisible including the weapon for a short amount of time.</p></div></td>
+  <td><div><p>Weapon gain 50% chip damage.<br>
+  Weapon deal less posture damage.<br>
+  Landing hits give a speed boost.</p></div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>PVE: blocking an attack deal posture damage to the attacker.<br>
-  PVP: blocking 2 attacks within 3 seconds deal extra posture damage</p></div></td>
+  <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
+  PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
+  Deal 0.043% x ()userpower in PVP.<br>
+  Deal 10% x ()userpower in PVE.<br>
+  Damage capped at <b>500</b>.</p></div></td>
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:SEAR.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Apply <b>cauterize</b> on hit. Cauterized targets:<br>
-  Sear now on proc deals 100% blood damage and 2% damage over time<br>
+  <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
+  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
+  (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
   Lose thirst equal to 20% of damage taken.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:STONE.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
+  <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
@@ -186,9 +192,9 @@ There are two variants that enchantments come in:
   <td><figure>File:NLK.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
-  Permanently stained health bar But people you grip get sent to the depths 50% chance (the deep is calling).<br>
+  Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Etrean Luminant.<br>
-  When held, -100 sanity.<br>
+  When equioped, -100 sanity.<br>
   <b>Disabled in Areana</b><br>
   <b>Viscosity is disabled</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
@@ -215,7 +221,8 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Deal 50% more damage in PVE.</p></div></td>
+  <td><div><p>Deal 50% more damage in PVE.<br>
+  Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -226,23 +233,23 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><div>Providence's Storms</div></td>
-  <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, blocking will reflect posture damage just like Providence's Thorns.<br>
+  <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.<br>
   <b>Enchant is disabled for Non-Developers</b><br>
   <b>Removed from the game</b></p></div></td>
   <td><div>Weapon is invisible and covered with yellow mist with dots all around.</div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>On hit, M2 is replaced with the ability to pull the victim towards the user. Flourishing make all subsequents attack fling the target upward.<br>
+  <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
   <b>Enchant is currently unobtainable (mods do not have access to this enchant)</b><br>
   <b>Only obtainable via dev interaction</b></p></div></td>
-  <td><div>Weapon is covered with blue and white fuzziness.</div></td>
+  <td><div>Weapon has the effects of the Displacement and Wild enchants, combined with a purple-blue haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:Newunstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
-  <td><div><p>Every M1 has a chance proc a random enchant on hit.<br>
+  <td><div><p>Every M1 has a chance proc a random enchant's effect on hit.<br>
   <b>Only obtainable via Developer</b></p></div></td>
-  <td><div>Weapon is covered with combination of Mulpicity Enchant and Wild Enchant VFX.</div></td>
+  <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>
 </table>
@@ -264,33 +271,33 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:AllureEnchant.png<figcaption></figcaption></figure><div>Allure</div></td>
   <td><div><p>On proc, apply Charm on the enemy. All charm related talent that the user have are applied.</p></div></td>
-  <td><div>Equipment release some hearts.</div></td>
+  <td><div>Equipment releases some hearts, similar to the Charm effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Bounce.png<figcaption></figcaption></figure><div>Bounce</div></td>
   <td><div><p>On proc, push the attacker away, making it harder to chain attacks.</p></div></td>
-  <td><div>Equipment is covered in a slight, black particle effects</div></td>
+  <td><div>Equipment is covered in black particle effects.</div></td>
 </tr>
 <tr>
   <td><figure>File:Displacement.png<figcaption></figcaption></figure><div>Displacement</div></td>
   <td><div><p>On proc, grant a speed boost and hyperarmor.</p></div></td>
-  <td><div>Equipment is covered in a white particle effect.</div></td>
+  <td><div>Equipment is covered in a white, unstable looking particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Drowned.png<figcaption></figcaption></figure><div>Drowned</div></td>
-  <td><div><p>Drowned equipments grant, on top of their base stat:<br>
+  <td><div><p>Drowned equipments grant, on top of their innate stats and talents:<br>
   <br>
   10 Health<br>
   10 Ether<br>
   5% Monster Damage<br>
   5% Monster Armor</p>
   <p>These stats do not consume stat rolls for equipment.</p></div></td>
-  <td><div>Equipment is covered in a slight, black particle effects</div></td>
+  <td><div>Equipment is covered in a near invisible particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 1.png<figcaption></figcaption></figure><div>Entanglement</div></td>
   <td><div><p>On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.</p></div></td>
-  <td><div>Equipment is covered in green and yellow particle effects.</div></td>
+  <td><div>Equipment is covered in small particles that cycle between green, cyan and yellow.</div></td>
 </tr>
 <tr>
   <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><div>Multiplicity</div></td>
@@ -300,14 +307,14 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Stench.png<figcaption></figcaption></figure><div>Stench</div></td>
-  <td><div><p>On proc, release a cloud of gas that deal damage to nearby enemies.</p></div></td>
+  <td><div><p>On proc, release a cloud of gas that deals damage to nearby enemies who stand in it.</p></div></td>
   <td><div>Equipment is covered in a green mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><div>Viscosity</div></td>
   <td><div><p>Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
   The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
-  Disabled if using Curse of the No Life King.</p></div></td>
+  <b>Disabled if using Curse of the No Life King.</b> <b>Disabled in Arena</b></p></div></td>
   <td><div>None</div></td>
 </tr>
 </tbody>
@@ -326,21 +333,23 @@ Auto-Repair
 
 An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken's release, and has since become unobtainable. Arch has confirmed there was no data associated with this. As such, we don't know the true function of this enchant.
 
--   It is speculated that it passively repaired your equipment durability over time, though.
+-   It is speculated that it passively repaired your equipment's durability over time, though.
 
  |
 | 
 
 File:Ore.png
 
-Enchant Ore
+Enchantment Ore
 
  | 
 
 **May 29th, 2022**  
-"A shard of enchantment; it can apply it's given Enchant to your currently equipped weapon"  
-Update, 1 hour after release it was removed from the game.  
-Was found in fishing loot pool.
+"A shard of aenchantment; it can apply it's given Enchant to your currently equipped weapon."  
+Included in an update, and 1 hour after release it was removed from the game.  
+Was initially found in the fishing loot pool near the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) with Curse of the No-Life King, as seen in _supaa'_s video.
+
+-   Arch has said that this was an accidental Layer 2 leak.
 
  |
 | 
