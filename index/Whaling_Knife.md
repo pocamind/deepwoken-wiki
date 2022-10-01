@@ -1,9 +1,9 @@
 ---
 title: Whaling Knife
-revid: 36861
+revid: 37684
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weaponry, Items]
+categories: [Weapons, Daggers]
 ---
 
 # Whaling Knife

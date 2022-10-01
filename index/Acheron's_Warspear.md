@@ -1,9 +1,9 @@
 ---
 title: "Acheron's Warspear"
-revid: 37344
+revid: 37692
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weaponry, Items]
+categories: [Weapons, Spears]
 ---
 
 # Acheron's Warspear
@@ -26,13 +26,9 @@ categories: [Weapons, Spears, Weaponry, Items]
 | obtainment | Corrupted King Thresher |
 | description | "" |
 
-“ Life is pain ”
-
-― An Etrean trying to harvest a spear from one of the hardest mobs in the game.
-
 ## Description
 
-Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md). ~This weapon just isn't worth it as it is outranked by the [Ritual Spear](Ritual_Spear.md) in requirements, damage, penetration and obtainment difficulty. The only thing this weapon can do better is it's scaling and swing speed which isn't enough to outrank the [Ritual Spear](Ritual_Spear.md).~ The stats do look bad but it deals bleed damage, which means that the spear does more than what's shown.
+Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md). Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Pale Morning
-revid: 37615
+revid: 37699
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weaponry, Items]
+categories: [Weapons, Greathammers]
 ---
 
 # Pale Morning
@@ -26,13 +26,9 @@ categories: [Weapons, Greathammers, Weaponry, Items]
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon |
 | description | "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World." |
 
-“ That's it I'm gettin' me mallet ”
-
-― Old Enrique hunting Canor
-
 ## Description
 
-The Pale Morning is an endgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (very rare), [The Duke](Duke_Ishamon_Erisia.md), [The Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives.
+The Pale Morning is a endgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (very rare), [The Duke](Duke_Ishamon_Erisia.md), [The Primadon](Primadon,_Titan_of_the_East.md), or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Ardour Manifestation
-revid: 37432
+revid: 37694
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Utilities, Boss]
+categories: [Items]
 ---
 
 # Ardour Manifestation

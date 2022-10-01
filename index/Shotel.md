@@ -1,9 +1,9 @@
 ---
 title: Shotel
-revid: 36146
+revid: 37685
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items, Swords]
+categories: [Weapons, Swords]
 ---
 
 # Shotel
@@ -25,12 +25,6 @@ categories: [Weapons, Weaponry, Items, Swords]
 | pass down | Yes |
 | obtainment | Songseeker WildsMinityrsa |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
-
-“ Oh Navae The Almighty, Navae oh Navae ”
-
-― The people of Markor, probably
-
-  
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 37664
+revid: 37669
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -103,7 +103,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 ## Tips
 
--   A way to cheese a Construct is to find a ledge nearby that's slightly taller than it.
+-   ~A way to cheese a Construct is to find a ledge nearby that's slightly taller than it.~ Patched.
 -   Can easily kill you even at level 60 if you're solo and inexperienced.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.

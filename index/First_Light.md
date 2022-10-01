@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 36852
+revid: 37681
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weaponry, Items]
+categories: [Weapons, Greatswords]
 ---
 
 # First Light
@@ -26,10 +26,6 @@ categories: [Weapons, Greatswords, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Red Megalodaunt at Songseeker Wilds |
 | description | Long white blade with a red overlay in the center. Gold adorns the grip and makes up the hilt as well as the pommel. |
-
-“ Sometimes you defeat your enemy, just by showing your weapon. ”
-
-― A wise Capra
 
 ## Description
 

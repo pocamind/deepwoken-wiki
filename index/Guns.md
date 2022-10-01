@@ -1,9 +1,9 @@
 ---
 title: Guns
-revid: 36867
+revid: 37688
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weaponry, Weapons, Items]
+categories: [Pages with broken file links, Weapons]
 ---
 
 # Guns

@@ -1,9 +1,9 @@
 ---
 title: Serrated Warspear
-revid: 37651
+revid: 37702
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weaponry, Items]
+categories: [Weapons, Spears]
 ---
 
 # Serrated Warspear
@@ -24,10 +24,6 @@ categories: [Weapons, Spears, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Dropped directly from The Duke |
 | description | N/A |
-
-“ Oh boy I do love the forgotten gladius ”
-
-― Weaponsmith about to turn the best med weapon into a spear
 
 ## Description
 

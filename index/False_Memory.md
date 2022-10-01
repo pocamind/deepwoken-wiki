@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 35501
+revid: 37670
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -40,4 +40,3 @@ The False Memory is a near exact replica of the basic [Sword](<Sword_(weapon).md
 -   The weapon does not stay with you when creating a new character, and cannot be passed down. Instead, it's only known purpose is to allow you to switch weapons at [Fragments of Self](Fragments_of_Self.md) in order to pass down your current weapon
 -   It is possible that the False Memory may reflect the appearance and stats of any of the base weapons, though that theory is currently untested.
 -   The weapon has a low chance to be blessed with one of the many [Enchantments](Enchantments.md) when pulling it from the Hippocampal Pool, and can be soulbound to the player.
--   ~You are able bring the false memory weapon to the overworld if you purchase last wind after pulling the sword from the pool.~ Tested, This is not true. your sword is replaced with the starting sword.

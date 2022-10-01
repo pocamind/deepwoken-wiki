@@ -1,9 +1,9 @@
 ---
 title: Repeater
-revid: 37507
+revid: 37697
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Guns, Weaponry, Items]
+categories: [Weapons, Guns]
 ---
 
 # Repeater
@@ -24,12 +24,8 @@ categories: [Weapons, Guns, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bought at Summer Isle for 200 Notes, The Depths (Chests), Deep Widow (Chest) |
+| obtainment | Bought at Summer Isle for 200 Notes, The Depths (Chests) |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
-
-“ You are speed? Then Francesco is TRIPLE speed! ”
-
-― The revolver and it's stupidly fast attack speed
 
 ## Description
 
@@ -39,4 +35,4 @@ The Revolver has a base damage of 13 and scales off of 15 light weapon. Much lik
 
 ## Trivia
 
--   As with all the other guns in the game, Revolvers found in chests via [The Depths](The_Depths.md) or [Deepwidow](Deep_Widow.md) and can come with **Stars** or even **Enchants** on them.
+-   As with all the other guns in the game, Revolvers found in chests via [The Depths](The_Depths.md) can come with **Stars** or even **Enchants** on them.
