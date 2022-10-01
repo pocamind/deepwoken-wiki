@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 37660
+revid: 37667
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -345,6 +345,7 @@ _Undying flame._
 -   Ritual casting.
 -   Resets some of the user's sanity.
 -   Putting _Vibrant Gems_ on it seems to add more keys, but Logstones don't seem to be compatible.
+-   Upon successfully casting this mantra, it will freeze you in place allowing the opponent an opportunity to strike, so it is advised to use this before you get too low to withstand another blow
 
  |
 
