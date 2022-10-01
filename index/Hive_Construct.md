@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 37657
+revid: 37664
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -107,7 +107,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Can easily kill you even at level 60 if you're solo and inexperienced.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
--   Animations are currently very weird and fucky, so it messes with parry timing if fought directly.
+-   Animations are currently very weird, so it messes with parry timing if fought directly.
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
