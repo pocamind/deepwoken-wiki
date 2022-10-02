@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 37681
+revid: 37817
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,12 +24,12 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Red Megalodaunt at Songseeker Wilds |
-| description | Long white blade with a red overlay in the center. Gold adorns the grip and makes up the hilt as well as the pommel. |
+| obtainment | Red Megalodaunt |
+| description | "" |
 
 ## Description
 
-The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md). Keep in mind it isn't a guaranteed drop, it's speculated to be around the same rate as an [Enforcer's Axe](<Enforcer's_Axe.md>) (50% chance) (the chance of getting the Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md) is very rare)  
+The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md). Keep in mind it isn't a guaranteed drop, it's speculated to be around the same rate as an [Enforcer's Axe](<Enforcer's_Axe.md>).  
 
 ## Trivia
 

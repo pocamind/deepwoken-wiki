@@ -1,12 +1,16 @@
 ---
 title: Watcher
-revid: 36463
+revid: 37826
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Watcher
+
+“ Mfs watching us in 4k 120fps ”
+
+― some random Gremor
 
 ## Description
 
@@ -28,3 +32,4 @@ Two **Watchers** on the rooftop of a depths building
 -   The Watcher by the Temple of the Forgotten Flame is also known as the "God on the Peak" from [Alastir's](Alastir.md) dialog upon bringing him the surviving villagers.
 -   After being spotted, there is a decent cooldown on being spotted again.
 -   The Watcher’s appearance is a possible reference to the Demogorgon from Stranger Things
+-   Apparently, Watchers are able to drop an item called "Watcher's Petal" that is used to make the potion called "Moonseye's Vigor" that make you transcend to a body that defies natural reasoning. (Source: Doc)

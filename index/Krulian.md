@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 36665
+revid: 37823
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,4 +28,4 @@ The known Krulians NPC's are:
 
 [The Ferryman](The_Ferryman.md)
 
-Probally the Krulian's Knife users are also krulians.
+Probably the Krulian's Knife users are also krulians.
