@@ -1,9 +1,9 @@
 ---
 title: Gremorian Longspear
-revid: 36920
+revid: 37714
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weaponry, Items]
+categories: [Weapons, Spears]
 ---
 
 # Gremorian Longspear

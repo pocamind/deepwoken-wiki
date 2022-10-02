@@ -1,9 +1,9 @@
 ---
 title: Gilded Knife
-revid: 36916
+revid: 37710
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weaponry, Items]
+categories: [Weapons, Daggers]
 ---
 
 # Gilded Knife
@@ -29,10 +29,6 @@ categories: [Weapons, Daggers, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Erisia |
 | description | A knife of fine craftmanship, bearing an equally fine sharpness. |
-
-“ CMON BOSSMAN SHANK EM' WANKERS UP ALREADY BRUV, THEIR BARE CLAPPED FAM ”
-
-― Adret Bandit encouraging their Captain to knock the goofy out of a freshie's blood bar.
 
 ## Description
 

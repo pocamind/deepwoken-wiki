@@ -1,9 +1,9 @@
 ---
 title: Character Stats
-revid: 36942
+revid: 37716
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Character, Creation, Death, Attributes, Attunement]
+categories: [Mechanics]
 ---
 
 # Character Stats

@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 36948
+revid: 37718
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weaponry, Items]
+categories: [Weapons, Daggers]
 ---
 
 # Canor Fang
@@ -28,10 +28,6 @@ categories: [Weapons, Daggers, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa |
 | description | An exceptionally sharp knife forged by unknown means. Carries and intense aura of foreboding. |
-
-“ They stole me tooth, can't have shit in Detroit. ”
-
-― Some random Canor
 
 ## Description
 

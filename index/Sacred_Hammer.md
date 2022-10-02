@@ -1,9 +1,9 @@
 ---
 title: Sacred Hammer
-revid: 36914
+revid: 37709
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Weaponry, Clubs, Items]
+categories: [Weapons, Pages with broken file links, Clubs]
 ---
 
 # Sacred Hammer
@@ -27,10 +27,6 @@ categories: [Weapons, Pages with broken file links, Weaponry, Clubs, Items]
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Starswept Valley, supposedly Primadon |
 | description | -- |
-
-“ HOOOOOG RIDAAAAAAAAAAAAAAA! ”
-
-― Khan, using Shoulder Bash.
 
 ## Description
 

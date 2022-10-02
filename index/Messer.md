@@ -1,9 +1,9 @@
 ---
 title: Messer
-revid: 37674
+revid: 37704
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, In progress with reason, InProgressPages, Weaponry, Swords, Items]
+categories: [Weapons, In progress with reason, InProgressPages, Swords]
 notices:
   - This page is currently being worked on. Alloyed stats need to be updated.
 ---
@@ -39,10 +39,6 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Applying a Pluripotent Alloy on the weapon. |
-
-“ NICE KNIFE! ”
-
-― Mace user flaunting the superior weapon.
 
 **Base:**
 

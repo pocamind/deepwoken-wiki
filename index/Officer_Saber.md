@@ -1,9 +1,9 @@
 ---
 title: Officer Saber
-revid: 36944
+revid: 37726
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weaponry, Items]
+categories: [Weapons, Swords]
 ---
 
 # Officer Saber
@@ -25,12 +25,6 @@ categories: [Weapons, Swords, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Fort MeritThe Depths |
 | description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
-
-“ I DO NOT LOOK DOWN ON BUGS, DOGS, SNAILS OR CATS, HERE YOU ARE ALL EQUALLY WORTHLESS! ”
-
-― Authority Warden lecturing his new recruits.
-
-  
 
 ## Description
 

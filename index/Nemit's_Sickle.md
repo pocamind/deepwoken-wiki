@@ -1,9 +1,9 @@
 ---
 title: "Nemit's Sickle"
-revid: 36912
+revid: 37707
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weaponry, Items]
+categories: [Weapons, Daggers]
 ---
 
 # Nemit's Sickle
@@ -29,14 +29,6 @@ categories: [Weapons, Daggers, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Songseeker Isles, Minityrsa, Starswept Valley(Might be from other places too) |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding."(all the new daggers share the same description as the Krulian Knife) |
-
-“ Now I just need the hammer. ”
-
-― Anti-Capitalist Celtor
-
-  
-
-  
 
 ## Description
 

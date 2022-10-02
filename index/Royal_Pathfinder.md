@@ -1,17 +1,27 @@
 ---
 title: Royal Pathfinder
-revid: 36747
+revid: 37763
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Royal Pathfinder
 
-“ im about to kill 9 freshies ”
-
-― a level 54 in lower erisia
-
-Template:EquipmentStats
+| Royal Pathfinder | |
+|---|---|
+| type | Arms |
+| rarity | Legendary |
+| selling price | ?? |
+| requirements | Power 30 |
+| weight | 2 |
+| innate stats | 6 HP |
+| innate talent | Ready or Not |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Starswept Valley |
+| description | '"Lorem ipsum."' |
 
 ## Description
 

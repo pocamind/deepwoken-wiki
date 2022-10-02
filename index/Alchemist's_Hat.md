@@ -1,6 +1,6 @@
 ---
 title: "Alchemist's Hat"
-revid: 36295
+revid: 37765
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -12,7 +12,7 @@ Template:EquipmentStats
 
 ## Description
 
-The Alchemist's Hat is a _helmet_ item. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) talents, along with random placeholder stats.
+The Alchemist's Hat is an Equipment Armor in the Helmet category. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) talents, along with the randomized stats you get from the Pips. It can only be found in Hive Chests
 
 ## Notes
 
