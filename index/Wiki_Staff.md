@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 33638
+revid: 37806
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Community]
@@ -15,6 +15,7 @@ These users are commonly known as _"staff members"_, _"staff team"_, or _"staff"
 -   [Bureaucrats](Bureaucrats.md)
 -   [Administrators](Administrators.md)
 -   [Moderators](Moderators.md)
+-   [Discussion Moderators](Discussion_Moderators.md)
 -   Enforcers
 
   
@@ -41,6 +42,14 @@ Staff
 <tbody>
 <tr>
   <td>Moderators</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td>Discussion Moderators</td>
 </tr>
 </tbody>
 </table>

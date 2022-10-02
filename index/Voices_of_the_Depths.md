@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 37799
+revid: 37813
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -8,9 +8,9 @@ categories: [NPC]
 
 # Voices of the Depths
 
-## Description
+The **Voices of the Depths** are encountered when the player attempts to escape The Depths and in the Trial of One. As the name suggests, they are simply voices and cannot be interacted with. They seem to oversee The City of The Drowned, with the few that remain their living in terror of them.
 
-The Voices of the Depths are encountered when the player attempts to escape The Depths and in the Trial of One. As the name suggests, they are simply voices and cannot be interacted with. They seem to oversee The City of The Drowned, with the few that remain their living in terror of them.
+## The Voices
 
 ### Voice of Odium
 
