@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 37036
+revid: 37801
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -88,9 +88,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   [Shadow Hunter](Shadow_Hunter.md)
 -   [Skeptic Pioneer](Skeptic_Pioneer.md)
 -   [Vigil Initiate](Vigil_Initiate.md)
-
- | 
-
+-   Duelist's attire
 -   Black Headband
 -   Orange Headband
 -   Yellow Headband
