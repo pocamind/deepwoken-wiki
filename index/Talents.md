@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37774
+revid: 37827
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -339,7 +339,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 30 - 40 Light (?)
 -   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
     -   Critical Strike can attack twice.
-    -   Prerequisite: 75 Light Weapon Mastery, Knife's Journey
+    -   Prerequisite: 40 Light Weapon Mastery, Knife's Journey
 
 ### Cryomancer
 
