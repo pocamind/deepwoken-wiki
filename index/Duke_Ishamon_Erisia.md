@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 37543
+revid: 37831
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -59,7 +59,13 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 -   Covers a large AoE.
 
  | ◯ | ✗ | ✗ | (★★★) |
-| **Strong Left** | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | ◯ | (★★★) |
+| **Strong Left** | Duke will charge up a punch, and teleport to his target,
+
+just to hit them.
+
+After this attack he will use his fists for around 30 seconds.
+
+ | ◯ | ✗ | ◯ | (★★★) |
 | **Summon Mindless Servants** | The Duke snaps his fingers, summoning 3 mindless servants from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat.

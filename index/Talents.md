@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37827
+revid: 37832
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -1079,6 +1079,7 @@ These Talent are meant to make maintaining your ship easier.
 -   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
     -   Negate tier 1 insanity: Shivering.
     -   Prerequisites: 50 Fortitude and 50 Willpower, Grasp on Reality
+    -   Prequisite: Grasp on Reality
 
 ### Survival Instinct
 
