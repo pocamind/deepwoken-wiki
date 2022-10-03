@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 37756
+revid: 37847
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -487,7 +487,7 @@ Hivelord Mask
 
 Cosmetic
 
- | Hive Contructs, Arena Chests | N/A |
+ | Hive Constructs, Arena Chests | N/A |
 |  | 
 
 Iron Mask
@@ -1287,12 +1287,12 @@ _\- 15% swing speed_
 
  | 
 
-Take 1.4x damage and deal 1.2x damage.
+Take 1.25x damage and deal 1.2x damage.
 
 **Requires Power 15**
 
  | Pirate Event Chests, Primadon Chests, Depths Chests |
-|  | 
+| File:Ff's Clutch Ring.png | 
 
 [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
 

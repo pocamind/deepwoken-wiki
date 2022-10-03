@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37824
+revid: 37836
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -25,7 +25,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 2/18/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 -   **You are capable of selling enchants whether they are soulbound or not.**
--   You can trade in 3 Armor Enchants into a Enchant Weapon by talking to [Laplace](Laplace.md), a Ganymede in Lordsgrove.
+-   You can trade in 3 Armor/Weapon Enchants grant a randomized Weapon Enchant by talking to [Laplace](Laplace.md), a Ganymede in [The Lordsgrove](The_Lordsgrove.md).
 
 ## Variants
 
@@ -38,14 +38,14 @@ There are two variants that enchantments come in:
 
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment became soulbound. - Enchants could no longer drop on death.
+-   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed again.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily.
--   **September 13th, 2022** - Enchanted weapons and equipment now have at least 1 star quality at minimum.
+-   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 
-## List of Enchantements
+## List of Enchantments
 
 **Weapons:**
 
@@ -381,9 +381,9 @@ Vampirism enchant on a Khan Shield
 
 -   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter.
 -   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
--   Providence's Storms enchant idea was to combine fast attack swing speed and inflict damage to others, which was separated as 2 enchants known as **Obfuscation** and **Providence's Thorns**
--   Umbral Knight lost its curse in a shadow update of **26-27 December, 2021**
-    -   Curse of the Umbral Knight - On proc will summon the Umbral Knight behind your target and will copy your M1s. If you don't grip one person per day you will be absorbed into the blade.
+-   The idea behind the Providence's Storms enchant was to combine fast attack swing speed while being able to inflict damage to others without directly attacking, which was eventually turned into 2 separate enchants known as **Obfuscation (pre-rework)** and **Providence's Thorns**.
+-   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
+    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief that if you didn't grip at least one person per day, you would be absorbed into the weapon.
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:

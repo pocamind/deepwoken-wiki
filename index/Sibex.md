@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 37673
+revid: 37834
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -24,27 +24,51 @@ Where Sibex can be found
 -   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (Currently glitched, if it says this but you do not have a bell available, rejoin to different servers until he changes his dialogue.)
 -   **Arena, Bosses and Depths:** "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 
-### Dialogue when meeting him:
+## Dialogue
 
-Sibex: Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... **OH, A LOCAL!**
+### Initial
 
-You: I'm not a local.
-
-Sibex: Oh? Then what are you?
-
-Option 1: A Pathfinder.
-Option 2: A Warrior. 
-Option 3: A Scholar.
-Option 4: None of your business.
-
-Sibex:(When prompted with options 1-3) Wow... You really are full of yourself, huh?
-
-Sibex:(When prompted with option 4) That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?
-
-Option 1: Sure.                                                                                                                 
-Option 2: No.
-
-Sibex:(When prompted with option 1) Great! See you soon!
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... <b>OH, A LOCAL!</b></td>
+</tr>
+<tr>
+  <td colspan="12">I'm not a local.</td>
+</tr>
+<tr>
+  <td colspan="12">Oh? Then what are you?</td>
+</tr>
+<tr>
+  <td colspan="3">A Pathfinder</td>
+  <td colspan="3">A Warrior.</td>
+  <td colspan="3">A Scholar.</td>
+  <td colspan="3">None of your business.</td>
+</tr>
+<tr>
+  <td colspan="9">Wow... You really are full of yourself, huh?</td>
+  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
+</tr>
+<tr>
+  <td colspan="9">End</td>
+  <td colspan="3">Dialogue Continues</td>
+</tr>
+<tr>
+  <td colspan="6">Sure.</td>
+  <td colspan="6">No.</td>
+</tr>
+<tr>
+  <td colspan="6">Great! See you soon!</td>
+  <td colspan="6">-</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ### Dialogue after bringing him a thresher spine:
 
