@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 37826
+revid: 37829
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters]
 
 # Watcher
 
-“ Mfs watching us in 4k 120fps ”
+“ these MFs are the pixar lamp but as your sleep paralysis demon ”
 
-― some random Gremor
+― the lord of pianos
 
 ## Description
 
