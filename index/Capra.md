@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 35722
+revid: 37884
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,10 +90,10 @@ Unknown
 ## Notes
 
 -   Each of the marks appear to originate from a different real-world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
--   One of the Capra-exclusive ornaments does not have teeth included to the mask, while the rest does.
+-   One of the Capra-exclusive ornaments does not have teeth included on the mask, while the rest do.
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair that's pretty fair-looking.
--   Once using a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs correlating to the different Marks.
--   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)). Capra race name was changed to Skullskipper.
--   Possible a reference to the dark souls enemy of the same name and features, Capra
--   They are slightly inspired by the Shin from stormlight archive, which is reflected by the race having wider eyes than average.
+-   Once you a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Marks.
+-   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra race name was changed to Skullskipper.
+-   Possibly a reference to the Dark Souls enemy of the same name and features.
+-   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archives_, which is reflected by the race having wider eyes than average.
 -   Capra means Mountain Goats.

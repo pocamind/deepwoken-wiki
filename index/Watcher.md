@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 37829
+revid: 37880
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters]
 
 # Watcher
 
-“ these MFs are the pixar lamp but as your sleep paralysis demon ”
+“ Yeah, the Pixar Lamp recreated as a sleep paralysis demon should be a good idea. ”
 
-― the lord of pianos
+― Ragoozer while making the Watcher concept
 
 ## Description
 

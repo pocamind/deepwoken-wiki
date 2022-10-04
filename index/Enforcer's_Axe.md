@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 37209
+revid: 37883
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greataxes]
@@ -24,11 +24,9 @@ categories: [Weapons, Items, Weaponry, Greataxes]
 | obtainment | Enforcer Drop |
 | description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
 
-“ Oh, I'll try spinning, that's a good trick! ”
+“ BEYBLADE BEYBLADE, LET IT RIP ”
 
-― Enforcer Axe users 5 nanoseconds after a parry.
-
-  
+― Enforcer Axe users 5 nanoseconds after a parry
 
 ## Description
 

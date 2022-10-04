@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 36354
+revid: 37888
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -45,14 +45,21 @@ Events that spawn in Upper Erisia that involve combat. For more info, see [Rando
 -   [Golden Warrior](Golden_Warrior.md)
 -   Etrean Footsoldiers vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
+-   [Knives of Eylis](Knife_of_Eylis.md)
 
 ## Events
 
-Events that spawn in Upper Erisia that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+Events that spawn in Upper Erisia that typically do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Hobo](Hobo.md)
--   [Pathfinders](Teacher.md)
+-   [Pathfinder Gathering](Teacher.md)
 -   Lost Villagers
+
+## Weather
+
+The weather for Upper Erisia.
+
+-   Acid Rain
 
 ## Loot Table
 

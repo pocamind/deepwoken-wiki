@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 37801
+revid: 37887
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -69,7 +69,13 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 Events that spawn in Lower Erisia that typically do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Hobo](Hobo.md)
--   Pathfinder Gathering (the [Teacher](Teacher.md) event)
+-   [Pathfinder Gathering](Teacher.md)
+
+## Weather
+
+The weather for Lower Erisia.
+
+-   Rain
 
 ## Loot Table
 
@@ -88,7 +94,10 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   [Shadow Hunter](Shadow_Hunter.md)
 -   [Skeptic Pioneer](Skeptic_Pioneer.md)
 -   [Vigil Initiate](Vigil_Initiate.md)
--   Duelist's attire
+-   [Duelist's Attire](<Duelist's_Attire.md>)
+
+ | 
+
 -   Black Headband
 -   Orange Headband
 -   Yellow Headband
@@ -108,13 +117,18 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
  | 
 
+-   Zweihänder
 -   [Halberd](Halberd.md)
+-   [Apprentice Rapier](Apprentice_Rapier.md)
 -   [Mace](Mace.md)
 -   [Iron Spear](Iron_Spear.md)
 -   [Messer](Messer.md)
 -   [Steel Maul](Steel_Maul.md)
 -   [Scimitar](Scimitar.md)
 -   [Iron Cestus](Iron_Cestus.md)
+-   [Stiletto](Stiletto.md)
+-   [Sword](<Sword_(weapon).md>)
+-   [Battleaxe](Battleaxe.md)
 -   [Legion Cestus](Legion_Cestus.md)
 -   [Gilded Knife](Gilded_Knife.md)
 

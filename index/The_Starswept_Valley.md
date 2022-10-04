@@ -1,9 +1,9 @@
 ---
 title: The Starswept Valley
-revid: 36096
+revid: 37889
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
+categories: [Locations]
 ---
 
 # The Starswept Valley
@@ -38,7 +38,7 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 -   Etrean Footsoldier
 -   Hive Footsoldier
 -   [Legion Captain](Legion_Captain.md)
--   [Legion Javelin Captain](Legion_Sniper.md)
+-   [Legion Sniper](Legion_Sniper.md)
 
 ## Missions
 
@@ -47,75 +47,57 @@ Events that spawn in Starswept Valley that involve combat. For more info, see [R
 -   [Etrea](Etrea.md) vs [The Hive](The_Hive.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Commander](https://deepwoken.fandom.com/wiki/Fort_Merit_Captain)
 -   [Hive Construct](Hive_Construct.md) vs Authority Commander
+-   [Legion Sniper](Legion_Sniper.md)
 
 ## Events
 
-Events that spawn in Starswept Valley that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md). meat lord is the best
+Events that spawn in Starswept Valley that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [The Meat Lord](The_Meat_Lord.md)
+
+## Weather
+
+The weather for Starswept Valley.
+
+-   Sandstorm
 
 ## Loot Table
 
 Below is a list of potential items that can spawn in chests in Starswept Valley.
 
-### Outfits
-
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [11th Legion Plate](11th_Legion_Plate.md)
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   [Hive Drone](Hive_Drone.md)
 
-### Equipment
-
-#### Head
+ | 
 
 -   Big Alchemist's Hat
 -   Big Herbalist's Hat
 -   Authority Helm
--   Blackleaf Helm
+-   Black/Goldleaf Helm
 -   Gladiator Helm
 -   Knight's Helm
 -   Khan Helmet
 -   Pale Assassin's Hood
 -   Vigil Hood
-
-#### Face
-
 -   Warrior's Eyepatch
--   Blue Headband
--   Green Headband
--   Red Headband
--   White Headband
-
-#### Ears
-
+-   Headband (Series)
 -   Ruby Drop Earrings
 -   Crystal Pendant Earrings
 -   Practitioner's Earrings
-
-#### Back
-
--   Adventurer's Scarf
--   Black Scarf
--   Crimson Scarf
--   Dawn Scarf
--   Forest Scarf
--   Tundra Scarf
--   White Scarf
-
-#### Arms
-
--   Pale Assassins Cloak (Uncommon)
--   Star Duster (Rare)
--   Black Parka
--   Brown Parka
--   White Parka
+-   Scarf (Series)
+-   Pale Assassins Cloak
+-   Star Duster
+-   Black Parka (Series)
 -   Royal Pathfinder
 -   White Fur Pauldrons
 -   Khan Pauldrons
 -   Silver Pauldrons
 -   Woodland Pauldrons
-
-#### Boots
-
 -   Bluesteel Boots
 -   Flameguard Boots
 -   Imperial Boots
@@ -126,28 +108,33 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   Woodland Boots
 -   Silver Sabatons
 
-### [Weapons](Weapons.md)
+ | 
 
--   [Apprentice's Rapier](Apprentice_Rapier.md) (uncommon/rare)
--   Master Hawk's Handaxe (rare)
--   [Champion's Sword](<Champion's_Sword.md>) (uncommon)
--   [Darksteel Greatsword](Darksteel_Greatsword.md) (very rare)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (very rare)
--   [Khan Shield](Legion_Shield.md) (very rare)
--   [Legion Cestus](Legion_Cestus.md) (uncommon)
--   [Nemit's Sickle](<Nemit's_Sickle.md>) (common)
--   [Pale Morning](Pale_Morning.md) (rare)
--   [Sacred Hammer](Sacred_Hammer.md) (rare)
--   [Shattered Katana](Shattered_Katana.md) (very rare)
--   [Tanto](Tanto.md) (rare)
--   [Forgotten Gladius](Forgotten_Gladius.md) (rare)
--   [Iron Cestus](Iron_Cestus.md) (common)
--   [Iron Birch](Iron_Birch.md) (Rare)
+-   [Apprentice Rapier](Apprentice_Rapier.md)
+-   Master Hawk's Handaxe
+-   [Champion's Sword](<Champion's_Sword.md>)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
+-   [Khan Shield](Legion_Shield.md)
+-   [Legion Cestus](Legion_Cestus.md)
+-   [Nemit's Sickle](<Nemit's_Sickle.md>)
+-   [Pale Morning](Pale_Morning.md)
+-   [Sacred Hammer](Sacred_Hammer.md)
+-   [Shattered Katana](Shattered_Katana.md)
+-   [Tanto](Tanto.md)
+-   [Forgotten Gladius](Forgotten_Gladius.md)
+-   [Iron Cestus](Iron_Cestus.md)
+-   [Iron Birch](Iron_Birch.md)
 
-### Miscellaneous
+ | 
 
--   [Platinum Bar](Treasures.md)(2-10)
--   [Diamond](Treasures.md)(4-8)
+-   [Platinum Bar](Treasures.md)
+-   [Diamond](Treasures.md)
+-   [Gold Bar](Treasures.md)
+-   [Ruby](Treasures.md)
+-   [Sapphire](Treasures.md)
+
+ |
 
 ## Trivia/Notes
 
