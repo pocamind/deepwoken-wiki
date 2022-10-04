@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 37820
+revid: 37874
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,9 +20,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ### Strength Unbound
 
 1.  Reach 75 Strength.
-2.  Enter the Tomb of the Nameless Warrior.
+2.  Enter the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Approch the coffin then attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
+4.  Approach the coffin then attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
 5.  Read the book in the room to obtain Strength Unbound.
 
 ### Fortitude Unbound
@@ -44,7 +44,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soul Hearthgem, guarded by a guaranteed [Megalodaunt](Megalodaunt.md) spawn.
+2.  Enter the Garden Reservoir and obtain a [Soul Hearthgem](Soul_Hearthgem.md), guarded by a guaranteed [Megalodaunt](Megalodaunt.md) spawn.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
@@ -74,7 +74,7 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 1.  Reach 75 Heavy/Medium/Light
 2.  Start the A lost sibling quest by talking to Apprentice Kj.
 3.  Obtain a Gale Stone.
-4.  Head on to Upper Erisia and to the Acid Garden's.
+4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the Acid Garden's.
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
 6.  Hold the Gale Stone and talk to the NPC bleeding all over.
 7.  Return to Apprentice Kj to finish the quest.

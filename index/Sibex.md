@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 37857
+revid: 37875
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -70,47 +70,63 @@ Where Sibex can be found
 </tbody>
 </table>
 
-### Dialogue after bringing him a thresher spine:
+### Continued
 
-Sibex: Oh local! You're back! Did you bring me that uhhhh... What was it again?
-
-You: A Thresher Spine?
-
-Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.
-
-You: Listen to my Soul?
-
-Sibex: Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to _Resonating_ with it.
-
-  
-
-You: Alright, tell me what my soul says.
-
-Sibex:**(If you have Low Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
-
-Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
-
-Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few? 
-
-Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression, Bells are not predetermined)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few?
- 
-Sibex:**(You are very close or are able to get your Bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
-
-Sibex:**(You have already obtained your bell. (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
-
-Sibex:**(Between some bell prog and decent)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
-
-Sibex:**(Unknown, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
-
-  
-
-You: What should I do?
-
-Sibex:**(If you have +PVP Arena Gain)** Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
-
-Sibex:**(If you have +DEPTHS MOB Gain)** Ah... an Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
-
-Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oh local! You're back! Did you bring me that uhhhh... What was it again?</td>
+</tr>
+<tr>
+  <td colspan="12">A Thresher Spine?</td>
+</tr>
+<tr>
+  <td colspan="12">Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.</td>
+</tr>
+<tr>
+  <td colspan="12">Listen to my Soul?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to <i>Resonating</i> with it.</td>
+</tr>
+<tr>
+  <td colspan="12">Alright, tell me what my soul says.</td>
+</tr>
+<tr>
+  <td colspan="4">No/Small Bell Progress<br>
+  You must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.</td>
+  <td colspan="4">Some Bell Progress<br>
+  Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.</td>
+  <td colspan="4">Half-Decent Bell Progress<br>
+  Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...</td>
+</tr>
+<tr>
+  <td colspan="4">Decent Bell Progress, No Pre-determined Bell<br>
+  Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?</td>
+  <td colspan="4">Close Bell Progress<br>
+  Morphed like clay... The soul and Ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.</td>
+  <td colspan="4">Obtained Bell<sup><a href="#cite-note-1">[1]</a></sup><br>
+  Well look at you, my friend! You're practically beaming with the song!</td>
+</tr>
+<tr>
+  <td colspan="12">What should I do?</td>
+</tr>
+<tr>
+  <td colspan="4">PVP Preferred<br>
+  Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out song within all of us...</td>
+  <td colspan="4">Depths Preferred<br>
+  Ah... an Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...</td>
+  <td colspan="4">Bosses Preferred<br>
+  Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out the song within all of us...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
@@ -120,3 +136,7 @@ Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lini
 -   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.
 -   He used to wear Hive Leader Garment armor, this was changed due to reasons unknown.
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
+
+## References
+
+1.  [↑](#cite-ref-1) Can be occasionally broken, player must rejoin if this dialogue appears and they haven't gotten the bell.

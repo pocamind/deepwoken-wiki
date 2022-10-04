@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37836
+revid: 37872
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -152,7 +152,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 15% of damage dealt. Heals blood bar.</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
 <tr>
