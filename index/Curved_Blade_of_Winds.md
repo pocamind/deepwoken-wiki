@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 37682
+revid: 37877
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -44,3 +44,4 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
     -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably buy your kidney.
 -   When using the weapon one handed it becomes 2 swords
+-   Ironically, is one of the worst weapons ingame, as the base sword damage is also affected by mantra resistances, making you deal 0 damage to mobs as well as people who are using "Return to the Dark Ages" or Wind resistant armors.
