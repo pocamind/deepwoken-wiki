@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 36593
+revid: 37861
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,3 +28,11 @@ This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which inc
 This Outfit's Schematic can be found in:
 
 -   Etris War Event (Super Rare)
+
+## Trivia
+
+-   This used to have the most physical resistance in the game on release, with a whopping 40%. It did not have ether regen or blunt damage.
+-   This was later nerfed to 35% but given 100% ether regen.
+-   It was then gutted to 30% physical resistance but given an additional 5% blunt damage.
+    -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Fists.md) users.
+-   This is the only armor in the game to increase blunt damage.

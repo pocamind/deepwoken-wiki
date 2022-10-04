@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 37817
+revid: 37862
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords]
 |---|---|
 | type | Greatsword |
 | requirements | 75 HVY |
-| damage | 23 |
+| damage | 24 |
 | scaling | 7 HVY |
 | range | 8.5 |
 | swing speed | .6x |

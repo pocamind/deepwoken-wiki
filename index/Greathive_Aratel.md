@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 35241
+revid: 37848
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,7 +23,7 @@ Greathive Aratel is a small island with a massive tree flooded on top of it. Ins
 
 To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you met these requirements, you are able to invoke with the Greathive Fountain in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village in Upper Erisia](The_Hidden_Village.md), or behind the [King's Palace in Etris](Etris.md).
 
-It is also possible to just sail to it, but actually getting to the top requires mobility mantras, clever usage of gliders, lots of parkour and jumping on the heads of players.
+It is also possible to just [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
 
 ## Contents
 
@@ -42,7 +42,7 @@ The doors to enter the Lordsgrove.
 
 #### Shipyard
 
--   The player can find a Shipwright who will spawn, craft and recall your ships.
+-   The player can find a Shipwright who will spawn, craft and recall your [ships](Ships_&_Sailing.md).
     -   If the player is famous with The Hive, the Shipwright will bring up ship modification, or Lifeweaving, which could be a upcoming or undiscovered feature.
 
 #### Library
@@ -70,7 +70,7 @@ The doors to enter the Lordsgrove.
 #### R&D
 
 -   There is a hidden laboratory behind a breakable bookshelf, it serves no purpose as of 05/23/2022.
--   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "A memory of tides" by naktigonis.
+-   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by naktigonis.
 
 ### Canopy Plaza
 
@@ -109,7 +109,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 -   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face as the temple to be able to take the quest)
     -   A red flower located outside near the observatory balcony. Mind your footing.
-    -   A white flower, located near the Blacksmith, facing in front of it.
+    -   A white flower, located near the [Blacksmith](Blacksmith.md), facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
 -   Completing this quest gives a handful of EXP and access to upgrade [Physical Mantras](Attunement-less.md).
 
@@ -118,7 +118,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. Lorewise, Regek tells us that this is one of four greathives.(Physical mantra trainer)
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
--   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
+-   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a [Ganymede](Ganymede.md).
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.

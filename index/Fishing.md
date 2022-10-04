@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 37544
+revid: 37856
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Fishing, Mechanics, Luck]
+categories: [Pages with broken file links, Fishing, Mechanics]
 ---
 
 # Fishing
@@ -85,29 +85,27 @@ A lot of raw food can be used as bait, obviously I didn't have them all while te
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
--   Plumfruit. Effects: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch, or maybe I'm just bad. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
+-   Plumfruit. Effects: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits/
 
--   Pomar. Effects: I had one pomar and near instantly got a sea bass, not much of a test.
+-   Pomar. Effects: Had one pomar and near instantly got a sea bass, not much of a test.
 
 -   Gobletto. Effects: Getting bites was quite fast. Results of testing: 7 gobletto. 2 Miss, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
 
--   Squid: Effect: I seemed to get a lot of squid using squid. Results: 3 squid: 2 Squid, 1 Miss, 1 Sea Bass, 1 Pufferfish
+-   Squid: Effect: Seemed to get a lot of squid using squid. Results: 3 squid: 2 Squid, 1 Miss, 1 Sea Bass, 1 Pufferfish
 
--   Dentiflo: Unfortunately tested it in a laggy server. Effects: I get bites quick seemingly. Results: 8 Dentiflo: 2 Seaweed, 6 Miss
+-   Dentiflo: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results: 8 Dentiflo: 2 Seaweed, 6 Miss
 
--   Seaweed Bundle: Effect: Fast catches. 2 seaweed gave me: 1 Seabass and 1 Miss
+-   Seaweed Bundle: Effect: Fast catches. 2 seaweed gave: 1 Seabass and 1 Miss
 
--   Urchin. Effect: Decent speed of bites. Result: 4 Urchins gave me 2 Sea Bass, 1 Squid, 1 Miss
+-   Urchin. Effect: Decent speed of bites. Result: 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 
--   Browncap: Effect Average bite times: Result: 10 browncaps gave me: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
+-   Browncap: Effect Average bite times: Result: 10 browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 
--   Chum: Effects: Slower bite times Results: 3 Chum gave me: 1 Urchin, 2 Red Snapper, 1 Pufferfish
+-   Chum: Effects: Slower bite times Results: 3 Chum gave : 1 Urchin, 2 Red Snapper, 1 Pufferfish
 
--   Calabash: Effects: Unknown (If any). 1 Calabash gave me 1 Miss
+-   Calabash: Effects: Unknown (If any). 1 Calabash gave: 1 Miss
 
--   Fish Meat: Effects: Average, maybe slightly slower Bites, Result: For this test I'm only using up 15 while having 35. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Honestly no idea how I missed so much, pretty sure I just got unlucky and had a bad camera angle, or I'm coping.) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
-
-If you want to add more, feel free. I'm done for the time being.  
+-   Fish Meat: Effects: Average, maybe slightly slower Bites, Result: For this test 15 were used while having 35. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Misses may be a result of human errot) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 
 ## Notes/Trivia
 
@@ -118,4 +116,4 @@ If you want to add more, feel free. I'm done for the time being.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
--   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare. (edit: specific locations have higher chances of getting these, was confirmed by me dm solhur if u have doubts)
+-   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.

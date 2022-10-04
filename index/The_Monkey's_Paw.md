@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 37161
+revid: 37852
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -28,7 +28,7 @@ Once you enter the main area of the island, there is a ridge which overlooks a m
 
 The island is very abundant with food. Calabash, wheat, mushrooms, and other things can be found at this island. If you're a carnivore, there's not much for you to eat besides the players who come here to fight [Primadon](Primadon,_Titan_of_the_East.md).
 
-On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, mantra modifiers, and raw materials. This fire is used to summon the [Primadon](Primadon,_Titan_of_the_East.md), a massive aquatic ape. The recognized items that work are 3 Umbral Obsidian or 5 Megalodaunt hides. Once the [Primadon](Primadon,_Titan_of_the_East.md) is successfully summoned, the island's name changes to the [Primadon](Primadon,_Titan_of_the_East.md)'s Hunting Grounds.
+On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, mantra modifiers, and raw materials. This fire is used to summon the [Primadon](Primadon,_Titan_of_the_East.md), a massive aquatic ape. The recognized items that work are three Umbral Obsidian or five Megalodaunt hides. Once the [Primadon](Primadon,_Titan_of_the_East.md) is successfully summoned, the island's name changes to the [Primadon](Primadon,_Titan_of_the_East.md)'s Hunting Grounds.
 
 ## Trivia
 

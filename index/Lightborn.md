@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 37434
+revid: 37853
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -80,4 +80,4 @@ Spellhardt
     
     File:..png
     
-    A Nuttoons with lightborn race has halo on his neck
+    Nuttoons' Lightborn has a halo around his neck

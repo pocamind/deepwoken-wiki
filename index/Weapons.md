@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37398
+revid: 37870
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -160,7 +160,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
   <td>60 LHT</td>
-  <td>9</td>
+  <td>10</td>
   <td>30%</td>
   <td>LHT: 13</td>
   <td>4</td>
@@ -577,7 +577,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>MED: 6</font></td>
   <td><font>7</font></td>
   <td>7.5</td>
-  <td>0.7x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Falchion#Alloyed"><font>Alloyed Falchion</font></a></td>
@@ -1049,7 +1049,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><a href="First_Light.md">First Light</a></td>
   <td>75 HVY</td>
-  <td>23</td>
+  <td>24</td>
   <td>30%</td>
   <td>N/A</td>
   <td>HVY: 7</td>

@@ -1,15 +1,11 @@
 ---
 title: Blade Instructor
-revid: 37140
+revid: 37865
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Blade Instructor
-
-“ Oh, did you want to practice first?. ”
-
-― Blade Instructor when comboing a freshie into a wall.
 
 Template:EnemyInfobox1.0
 
@@ -48,6 +44,7 @@ An Instructor disappears after defeating the player. The player will receive all
 ## Tips
 
 -   It's an instructor, he's meant for practicing skill.
+-   Same skill level as a non dagger bandit leader.
 
 ## Trivia
 

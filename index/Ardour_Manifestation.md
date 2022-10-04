@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 37694
+revid: 37855
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -8,9 +8,11 @@ categories: [Items]
 
 # Ardour Manifestation
 
-Ardour Manifestation is a reward granted upon killing ; The Ferryman, The Duke, and Ardour themselves. The only time this item is not granted is either which you already own the item in your inventory or if you already possess the Murmur : Ardour.
+“ A manifestation of dark energy. While holding it, you feel drawn to the Voidsea itself, as if... something were calling to you, waiting for you there. ”
 
-The description upon being held states "A manifestation of dark energy. While holding it, you feel drawn to the Voidsea itself, as if... something were calling to you, waiting for you there." Referring that you may only use the item in the void sea to summon Ardour
+― In game description
+
+Ardour Manifestation is a reward granted upon killing ; The Ferryman, The Duke, and Ardour themselves. The only time this item is not granted is either which you already own the item in your inventory or if you already possess the Murmur : Ardour.
 
 ## Trivia
 
