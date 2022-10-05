@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37870
+revid: 37899
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -295,9 +295,9 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>10</td>
   <td>N/A</td>
   <td>LHT: 10</td>
-  <td>3</td>
+  <td>1</td>
   <td>10</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
@@ -305,9 +305,9 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>13</td>
   <td>N/A</td>
   <td>LHT: 15</td>
-  <td>3</td>
+  <td>1</td>
   <td>12</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
@@ -315,9 +315,9 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>20</td>
   <td>N/A</td>
   <td>LHT: 12</td>
-  <td>3</td>
+  <td>1</td>
   <td>12</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 </tbody>
 </table>
@@ -1380,9 +1380,9 @@ weapon offhands are weapons that can be wielded at the same time along with your
   <td>10</td>
   <td>N/A</td>
   <td>LHT: 10</td>
-  <td>3</td>
+  <td>1</td>
   <td>8</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
@@ -1390,9 +1390,9 @@ weapon offhands are weapons that can be wielded at the same time along with your
   <td>13</td>
   <td>N/A</td>
   <td>LHT: 15</td>
-  <td>3</td>
+  <td>1</td>
   <td>12</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
@@ -1400,9 +1400,9 @@ weapon offhands are weapons that can be wielded at the same time along with your
   <td>20</td>
   <td>N/A</td>
   <td>LHT: 12</td>
-  <td>3</td>
+  <td>1</td>
   <td>12</td>
-  <td>1.3x</td>
+  <td>0.8x</td>
 </tr>
 </tbody>
 </table>

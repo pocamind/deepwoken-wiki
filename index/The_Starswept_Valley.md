@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 37889
+revid: 37893
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -13,11 +13,12 @@ LocationL Starswept Valley LocationR
 Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands.
 
   
+
+Starswept Valley gate
+
 **Starswept Valley** is a location in _Deepwoken_. It is a sub-location of [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
-
-Starswept Valley gate
 
 The Starswept Valley is a desert-like area containing a massive gate that leads to [The Lordsgrove](The_Lordsgrove.md) and [Bluster Rift](Bluster_Rift.md).
 
@@ -30,15 +31,16 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 
 ## Potential Enemies
 
--   [King Thresher](https://deepwoken.fandom.com/wiki/Thresher#King_Thresher)
--   [Thresher](Thresher.md#king-thresher)
+-   [King Thresher](Thresher.md#king-thresher)
+-   [Thresher](Thresher.md)
 -   [Hive Construct](Hive_Construct.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Desert Knight](Stone_Knight.md)
 -   Etrean Footsoldier
--   Hive Footsoldier
+-   [Hive Footsoldier](Hive_Guard.md)
 -   [Legion Captain](Legion_Captain.md)
 -   [Legion Sniper](Legion_Sniper.md)
+-   [Brainsuckers](Brainsucker.md)
 
 ## Missions
 
@@ -72,6 +74,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   [Hive Drone](Hive_Drone.md)
+-   [Hive Tactician Armor](Hive_Tactician_Armor.md)
 
  | 
 
@@ -111,6 +114,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
  | 
 
 -   [Apprentice Rapier](Apprentice_Rapier.md)
+-   [Crucible Rapier](Crucible_Rapier.md)
 -   Master Hawk's Handaxe
 -   [Champion's Sword](<Champion's_Sword.md>)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
