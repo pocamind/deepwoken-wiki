@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 37831
+revid: 37912
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -106,7 +106,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Deep Gems](Deep_Gems.md)
 -   Legendary rings
 
-You also gain a large amount of [Luck](Luck.md) (16%), and [Resonance](Resonance.md) (Bell) progression.
+You also gain max [Luck](Luck.md), and [Resonance](Resonance.md) (Bell) progression.
 
 ## Trivia
 

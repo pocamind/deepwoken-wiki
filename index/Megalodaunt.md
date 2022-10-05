@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 37107
+revid: 37907
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,9 +28,9 @@ Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of 
 
 This monster is hostile to every other creature in _The Etrean Luminant_ and will attack them on sight, apart from other Megalodaunts. It will, however, still attack its rarer Crimson variant.
 
-Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a [Megalodaunt Coat](Outfits.md).
+Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a [Megalodaunt Coat](Megalodaunt_Coat.md).
 
-They could also be spawned using [Megalodaunt Bait](Monster_Bait.md). (Note: The item is currently disabled in light of the Sharko Rumbling.)
+They could also be spawned using [Megalodaunt Bait](Monster_Bait.md). (Note: The item is currently disabled in light of the [Sharko Rumbling](Lore.md).)
 
 Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
 
