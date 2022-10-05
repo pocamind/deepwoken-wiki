@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 37916
+revid: 37918
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -33,6 +33,7 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool
 -   Megalodaunts will always spawn as their Alpha version.
 -   King Gigamed is removed from spawn pool.
+-   King Thresher can't spawn in corrupted version.
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 

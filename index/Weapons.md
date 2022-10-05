@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37899
+revid: 37925
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1381,7 +1381,7 @@ weapon offhands are weapons that can be wielded at the same time along with your
   <td>N/A</td>
   <td>LHT: 10</td>
   <td>1</td>
-  <td>8</td>
+  <td>10</td>
   <td>0.8x</td>
 </tr>
 <tr>

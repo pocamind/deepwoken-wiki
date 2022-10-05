@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 37798
+revid: 37928
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -102,6 +102,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
     -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
+    -   If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
 -   If you are deepbound then you will have to fight an Enforcer no matter what your power is
@@ -147,9 +148,9 @@ Marauder's Entrance and Castle Light (outdated after the 'Deepbound' update) are
 
 ### **Joining The Divers**
 
--   Akira, a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
+-   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin Deepbound.
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (100). Failing this check leads to the same fate as the Ignition Union group.
 
 ### **Visionshaper**
@@ -159,7 +160,7 @@ Deep down in the Depths, you can find a secret room located near the Deep Widow.
 When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
--   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level.
+-   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level, however, most visionshaper mantras and abilities scale off charisma.
 -   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
 
 ## **Potential Enemies**

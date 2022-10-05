@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 35461
+revid: 37919
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -46,7 +46,7 @@ Usually the first boat you buy from the Shipwright. It's free but is the smalles
 
 ### Sloop
 
-Cheapest boat not including the Dingy. Size suitable for groups of 2-3.
+Cheapest boat not including the Dinghy. Size suitable for groups of 2-3.
 
 ### Schooner
 
