@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 36590
+revid: 37917
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -128,6 +128,18 @@ _noun_
 
 1.  Armor penetration.
     1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armor value.
+
+### Clog
+
+_verb_ A short term for
+
+1.  Leaving or disconnecting while you are in combat, making you automatically "killed" by the player/mob that grant you the combat tag.
+
+Not to be confounded with the verb outside of deepwoken _to clog_.
+
+1.  1.  Ex. This guy clogged while we were fighting, probably because of his wifi. He has good loot though.
+
+To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.  
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 32723
+revid: 37914
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -29,7 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Ferryman's Curse_, which 
 This Outfit's Schematic can be found in:
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
-    -   A drop when defeating [The Ferryman](The_Ferryman.md) during Autumn.
+    -   A drop when defeating [The Ferryman](The_Ferryman.md) during [Autumn](Seasons.md).
 
 ## Trivia/Notes
 
