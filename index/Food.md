@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 37411
+revid: 37938
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -58,12 +58,10 @@ Probably these buffs can also be amplified with the "Apothecary" talent perhaps?
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
-(somebody deleted the recipes here so i added them back)
-
 ### _Non-Campfire Recipes_
 
--   **\[V\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
--   **\[V\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
+-   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
+-   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -72,13 +70,13 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
--   **\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
+-   **\[V\] \[C\] [Bread](Bread.md)** - _3 Gathered Wheat_
 -   **\[V\] Omelette/Cooked Egg** - _2 Eggs_
 -   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Any mushroom)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
+-   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
--   **\[V\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
+-   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **\[V\]** **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **\[V\]** **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **\[V\]** **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_

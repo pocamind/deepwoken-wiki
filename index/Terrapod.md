@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 37094
+revid: 37943
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,13 +12,13 @@ categories: [Monsters]
 
 ― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
-Template:Creature Infobox V3 **Also known as Turtles, Annoying Scissor Things or Headcrabs.**
+Template:Creature Infobox V3 **Also known as Crazy-Crabs, Annoying Scissor Things or Headcrabs.**
 
 The Terrapod is a monster notorious for shredding health quickly and having very high mobility.
 
 ## **Description**
 
-Terrapods are purple turtle-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes.
+Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes.
 
   
 

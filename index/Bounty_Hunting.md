@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 37463
+revid: 37939
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -47,3 +47,4 @@ Examples:
 -   You can hunt more than one person at once at once.
 -   Using Blood Scourge might not work since you actually have to grip the person.
 -   The least amount of stars someone can have is one star.
+-   If you bounty hunt power 20's, you are fatherless

@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 37489
+revid: 37933
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -42,7 +42,7 @@ Minityrsa
 -   [Ministry Scouts](Ministry_Scout.md)
 -   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Rogue Constructs](Hive_Construct.md)
--   [Snow Knight](Stone_Knight.md)
+-   [Snow Knight](Stone_Knight.md) (during [winter](Seasons.md))
 -   [Brain Suckers](Brainsucker.md)
 -   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
