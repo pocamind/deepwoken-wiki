@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 32711
+revid: 37961
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found:
 
 -   Above the Lord Regent's throne in Etris
 -   Bandit chests in [Lower Erisia](Lower_Erisia.md)
+-   Songseeker Monk chests in [Songseeker wilds](Songseeker_Wilds.md)
 
 ## Trivia/Notes
 

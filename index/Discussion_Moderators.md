@@ -1,8 +1,9 @@
 ---
 title: Discussion Moderators
-revid: 37807
+revid: 37965
 source: https://deepwoken.fandom.com/wiki/Discussion_Moderators
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Staff, Discussion Moderators]
 ---
 
 # Discussion Moderators

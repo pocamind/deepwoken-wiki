@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 37024
+revid: 37960
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -64,7 +64,7 @@ Killing any Boss will immediately give you max luck.
 
 #### Monsters
 
-Any Monster with HP above 1,000 will give 1% luck. Most of the monsters in the Etrean Luminant all have 1,000+ HP, so even easy mobs like the Megalodaunt or Rock Golem will provide luck.
+Any Monster with HP above 1,000 will give 1% luck. Most of the monsters in the Etrean Luminant all have 1,000+ HP, so even easy mobs like the Megalodaunt or Rock Golem will provide luck. (Thresher wont give luck for unknown reason, probably bugged)
 
 #### Corrupted Monsters
 
