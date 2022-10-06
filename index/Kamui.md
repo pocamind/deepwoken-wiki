@@ -1,6 +1,6 @@
 ---
 title: Kamui
-revid: 16903
+revid: 37987
 source: https://deepwoken.fandom.com/wiki/Kamui
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Distortion Realm](Distortion_Realm%253Fredirect=no.md)
+-   [Dimensional Travel](Dimensional_Travel.md)

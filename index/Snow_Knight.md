@@ -1,11 +1,11 @@
 ---
-title: Rock Knight
-revid: 37992
-source: https://deepwoken.fandom.com/wiki/Rock_Knight
+title: Snow Knight
+revid: 37991
+source: https://deepwoken.fandom.com/wiki/Snow_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Rock Knight
+# Snow Knight
 
 Redirect to:
 
