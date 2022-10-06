@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 37932
+revid: 37959
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,11 +19,11 @@ Template:Areainfobox
 
 **Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
 
-Optionally is a starting location for those using [Deepbound](Origins.md) origin.
+Optionally is a starting location for those using the [Deepbound](Origins.md) origin.
 
 ## Overview
 
-Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening surronding area and making it visible from outside. It's guarded by [apprentice divers](Apprentice_Diver.md) and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool or has a [Deepbound origin](Origins.md).
+Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from outside. It's guarded by [Apprentice Divers](Apprentice_Diver.md) and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool or is using the [Deepbound Origin](Origins.md).
 
 ## Points of Interest
 
@@ -53,7 +53,7 @@ Castle Light is a safe area within the First Layer belonging to [The Divers](The
 
 ## Notes
 
--   While considered a "safe zone" to some extents, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Apprentice Divers might be able to defeat said monster, but will have no chance against Corrupted one.
+-   While considered a "safe zone" to some extents, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Apprentice Divers might be able to defeat said monster, but will have no chance against a Corrupted one.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
 -   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning.
--   As of _08/15/22_, Castle Light can be considered the safest area in The Depths to take a break in, featuring a stove, multiple vendors and sanity regeneration for those using Deepbound.
+-   As of _08/15/22_, Castle Light can be considered the safest area in The Depths to take a break in, featuring a stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).

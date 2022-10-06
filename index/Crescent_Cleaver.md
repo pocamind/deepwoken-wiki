@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 37671
+revid: 37953
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -40,10 +40,6 @@ categories: [Weapons, Greatswords]
 | pass down | Yes |
 | obtainment | Using Pluripotent Alloy on the base weapon, Rare drop from Primadon |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need to only follow the blood. |
-
-“ Finally it's alloyable. ”
-
-― A Heavy Weapon user using his new Alloyed Crescent Cleaver
 
 **Base:**
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 37410
+revid: 37948
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -82,7 +82,7 @@ Every single Monster in the game is part of a single family. Families are all to
   <th>Depths</th>
 </tr>
 <tr>
-  <td>Megalodaunt</td>
+  <td>Primadon</td>
   <td>Lionfish</td>
   <td>(King) Gigamed</td>
 </tr>
@@ -104,7 +104,7 @@ Every single Monster in the game is part of a single family. Families are all to
 <tr>
   <td>Black Widow</td>
   <td></td>
-  <td></td>
+  <td>Megalodaunt</td>
 </tr>
 <tr>
   <td>Rock Golem</td>
@@ -121,15 +121,10 @@ Every single Monster in the game is part of a single family. Families are all to
   <td></td>
   <td></td>
 </tr>
-<tr>
-  <td>Primadon</td>
-  <td></td>
-  <td></td>
-</tr>
 </tbody>
 </table>
 
-One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea.**
+One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A King Thresher in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea.**
 
 What purpose does this serve? Absolutely nothing. Before, accessories would give bonus damage types to Monsters depending on their type, but that got changed to make all Monsters take the same, however it might be worth noting for the future that Monsters have families.
 
@@ -172,4 +167,4 @@ _[Easily calculate damage done to monsters](https://www.desmos.com/calculator/us
 -   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw), [Also Here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
 -   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
-    -   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.
+    -   Although many may consider Megalodaunts to be a "Giant Monster". The Megalodaunt Hide reveals they are native from the Depths.

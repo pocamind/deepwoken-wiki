@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 37055
+revid: 37957
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -20,7 +20,7 @@ A solemn sanctuary carved in the stone, where warriors hone the dancing steps of
 
 ## Overview
 
-The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_Vigils.md). It contains most of the Isle's necessities and has a unique Sparring Arena for players.
+The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_Vigils.md). It contains most of the Isle's necessities and has a unique Sparring Arena, where players may practice fighting [the trainer](Blade_Instructor.md), without the risk of being gripped, usually good for beginners who want to learn the combat basics.
 
 ## Points of Interest
 
@@ -42,7 +42,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 #### Blacksmith
 
--   Players can find Baragan, a Blacksmith NPC.
+-   Players can find Baragan, a [Blacksmith](Blacksmith.md) NPC.
 -   Players can purchase materials here:
     -   Fiber for per.
     -   Flint for.
@@ -80,9 +80,9 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 ### A Lost Sibling Quest
 
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
--   He asks you to rescue, or find his sibling in Erisia.
--   His sibling is found in an Abandoned Wood Lodge in Burning Stone Gardens, near a cliff where the Glowing Trees are.
--   Equip a Gale Stone to give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.
+-   He asks you to rescue, or find his sibling in [Erisia](Erisia.md).
+-   His sibling is found in an Abandoned Wood Lodge in [Burning Stone Gardens](Burning_Stone_Gardens.md), near a cliff where the Glowing Trees are.
+-   Equip a [Gale Stone](Gale_Stone.md) to give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.
 -   Talking to Apprentice Kj after giving the Gale Stone finishes the quest.
 -   This quest will allow you to obtain [Weaponry Unbound](Attributes_Unbound.md).
 -   Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.

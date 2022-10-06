@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 37139
+revid: 37955
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Way of Navae) , -> Navaen Nomad Hostage , --> Eastern Camp Master , or , --> Eastern Tribal Leader , (Legion Kata) , -> Help Legion Captains , --> Get their recommendation , ---> Amara , (Jus Karita) , -> 40 LHT, Power 20 , --> Polis |
-| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita |
+| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita |
 
 “ I COULD BREAK LORD REGENT OF ETREA IN TWO... WITH MY BARE HANDS! ”
 
