@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 38038
+revid: 38047
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -48,6 +48,8 @@ As it stands currently. There is an active, and generally supportive Discord. As
 Note: don't mess with him
 
 **Pleeksty**: Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
+
+**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing black diver uniform and are both stationed in overworld. Not alot is known about those 2 as there is no dialogue or a way to ask them about it.
 
 ## Trivia
 

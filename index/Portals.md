@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 33932
+revid: 38040
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -43,6 +43,7 @@ When obtained, Portals will spend its points on the following stats:
 
 ## Trivia/Notes
 
+-   If portals is found to be corrupted, its downside will only be applied after exiting the portal.
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using. Meaning if you have [spell shout](Valikor.md) you always giving your enemies your positions
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, hence why it's nicknamed **"Yoru."**
