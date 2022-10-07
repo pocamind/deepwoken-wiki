@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 37533
+revid: 38008
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority officer are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
+Authority officers are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
 -   Authority officers vs Etrean Footsoldiers ([Erisia](Erisia.md))
 -   Authority officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))

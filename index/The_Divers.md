@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 37164
+revid: 38038
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -36,6 +36,8 @@ The Diver is a faction that the player can interact with. They are seen within [
 Apprentice Divers can spawn in packs of 1 to 3, usually fighting a nearby monster. Their low HP of 150 and their low damage means they will very commonly lose to said monster.
 
 The player can join The Divers, like a Guild. Finding Akira in the Celtor Wastes and returning to him at Castle Light let the player join them.
+
+As it stands currently. There is an active, and generally supportive Discord. Ask any current officer for an invite to The Diver Citadel to be officially involved within the guild.
 
 ## NPC
 

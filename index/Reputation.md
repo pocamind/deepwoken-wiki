@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 37407
+revid: 38019
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -26,7 +26,7 @@ Players can determine their reputation within a territory in many ways:
 
 #### _Positive Reputation_
 
-Players with positive reputation from factions **will not** be attacked by NPCs from that faction.
+Players with positive reputation from factions **will not** be attacked by NPCs from that faction unless provoked.
 
 Certain questlines will be unlocked with positive reputation.
 
@@ -48,7 +48,7 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
     -   If you became a criminal in an area where you've set your spawn, you will respawn at the [Etris](Etris.md) Inn instead.
         -   In the scenario where you are also considered a criminal by the [Etreans](Etrea.md), you will instead respawn on the beach of [Etris](Etris.md).
--   Blacksmiths will not allow you to access any of their services.
+-   [Blacksmiths](Blacksmith.md) will not allow you to access any of their services.
 
 ### Changes in Reputation
 
@@ -167,7 +167,7 @@ Loan Sharking
 
 Crate Retrieval
 
- | A Vesperian, going by the name of Scope, found in a small tower, right next to the stairs of the Summer Isle Castle will ask you to bring him any red crates of gunpowder that have been won from the Ignition Union by Summer Company Guards. These can be found near the corpses of two Ignition Union solderis, guarded by two Summer Company Guards and a Summer Company Manager, who orders you to take them to Scope. Taking them to Scope rewards you with a chest and good reputation with the Summer Company. This quest is repeatable and does not require you to talk to Scope first to start it. | 
+ | A [Vesperian](Vesperian.md), going by the name of Scope, found in a small tower, right next to the stairs of the [Summer Isle Castle](Summer_Isle.md) will ask you to bring him any red crates of gunpowder that have been won from the Ignition Union by Summer Company Guards. These can be found near the corpses of two [Ignition Union soldiers](Ignition_Union_Fighter.md), guarded by two [Summer Company Guards](Summer_Company_Guard.md) and a [Summer Company Manager](Summer_Manager.md), who orders you to take them to Scope. Taking them to Scope rewards you with a chest and good reputation with the Summer Company. This quest is repeatable and does not require you to talk to Scope first to start it. | 
 
 **Summer Company**
 
@@ -205,4 +205,4 @@ Crate Retrieval
     -   You cannot get good rep with [Celtor](The_City_of_the_Drowned.md), but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to become aggressive.
--   The Ministry is the only Faction that all players start out with negative reputation on spawn.
+-   The Ministry and Knives of Eylis are the only Factions that all players start out with negative reputation on spawn.

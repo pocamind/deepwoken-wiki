@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 37860
+revid: 38009
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -934,7 +934,7 @@ These Talents are meant to make foraging and mining grant more resources.
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by corpse explosion will lift into the air and track onto an enemy. (1+ Elemntal Intensity, +2 Health)
+-   Twisted Puppets \[Common Talent\] - Bodies affected by corpse explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health)
     -   Prerequisite: 75 Flamecharm & 75 Shadowcast (needs confirming)
 
 ### Pyromancer

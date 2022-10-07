@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 37375
+revid: 38015
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -93,7 +93,7 @@ Image of Primadon's boss arena.
 
 ## Trivia
 
--   Deep Gems were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
+-   [Deep Gems](Deep_Gems.md) were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes.
     -   This cooldown is in effect for the player who summoned Primadon, and everyone involved (Dealt damage at least once). The cooldown is for the account in use and is not a slot cooldown, for some weird reason. (Has been tested by me multiple times)
 -   In the game files, it is called "MonkyWorldBoss."

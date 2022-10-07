@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 37462
+revid: 38004
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -58,6 +58,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 Aelita sitting in the fetal position on a rock
 
 -   Aelita is a [Felinor](Felinor.md).
+    -   She was one speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not make [oaths](Oaths.md).
 -   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.

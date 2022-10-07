@@ -1,9 +1,9 @@
 ---
 title: Zweihander
-revid: 38003
+revid: 38039
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords]
+categories: [Weapons, Weaponry, Items, Greatswords]
 ---
 
 # Zweihander
@@ -27,30 +27,43 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords
 | obtainment | Weapon Shop at Etris (100 notes), or at Erisia (Quite rare droprate). |
 | description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
 
+| Alloyed Zweihänder | |
+|---|---|
+| type | Heavy Weapon |
+| requirements | 75 HVY, 10 STR |
+| damage | 23 |
+| scaling | 10 |
+| range | 9 |
+| swing speed | 0.62x |
+| endlag | 0.1s |
+| penetration | 10% |
+| special effect | N/A |
+| weight | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Using a Pluripotent Alloy on a Zweihänder. |
+| description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
+
 “ INITIATE PHASE ONE. POWER UP THE BASS CANNON. ”
 
 ― PL99 Flamecharm Canor, wielding an alloyed Zweihander.
 
-  
+**Base:**
 
-## Description
+**Zweihänder** is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md) and it can also be obtained at [Erisia](Erisia.md).
 
-Zweihänder is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md) and it can also be obtained at [Erisia](Erisia.md)
+Like any other greatsword you get hyper armor if you swing after a parry.
 
-Like any other greatsword you get hyper armor if you swing after a parry.  
+Can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md).
+
+**Alloyed:**
+
+10% penetration + 1 DMG + 0.02x swing speed + 3 scaling
 
 ## Trivia
 
--   Has the best range a Heavy Weapon could have.
-
+-   Has the best range out of other Heavy Weapons.
 -   "Zweihänder" means "Two-handed sword" in German.
     -   Pronounced "Zv-eye-hen-dah."
-
-  
-
--   Can be upgraded using [Pluripotent Alloy](Pluripotent_Alloy.md) for an increase to 23 base damage, weapon scaling becomes 10, an extra 10% pen, and reduction of endlag from 0.25 to 0.15s (This increases weapon requirement to 75 heavy so be careful)
-
-File:Aaaaaa.png
-
-  
-An alloyed Zweihänder ( This person has 90 points in Heavy) with Storm enchant.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 37752
+revid: 38012
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Outfits
 
 **Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
+
+Armor can refer to either Equipment or Outfits (this page).
 
 ## Overview
 
@@ -32,7 +34,7 @@ Outfits are craftable forms of defense that typically reduce oncoming damage by 
 
 The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its set buffs until it is repaired.
 
-The most common and effective way to repair an outfit is at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through certain talents or Armor buffs.
+The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through certain talents or Armor buffs.
 
 Thanks to a recent update, you can now craft armor repair kits to repair your armor. You can craft them with 3 wood and 5 iron at a crafting table. They give back about 2000 of an armor's durability.
 
