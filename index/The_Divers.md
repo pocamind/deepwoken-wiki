@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 38047
+revid: 38055
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -23,7 +23,7 @@ notices:
 
 ## Description
 
-The Divers is a faction implanted in The Central Luminant at the Island of Markor. They are more notably seen in [The Depths](The_Depths.md). They are an organization focused on the traversal and research of The Depths, discovering and reporting valuable data to the surface to their father faction, The Citadel.
+The Divers are a faction implanted in The Central Luminant at the Island of Markor. They are more notably seen in [The Depths](The_Depths.md). They are an organization focused on the traversal and research of The Depths, discovering and reporting valuable data to the surface to their father faction, The Citadel.
 
 ## Lore
 
@@ -31,7 +31,7 @@ The Divers are a group of researchers and scholars funded by the Central Authori
 
 ## Gameplay
 
-The Diver is a faction that the player can interact with. They are seen within [The Depths](The_Depths.md). They have a camp setup within the Celtor Waste and an FOB, [Castle Light](Castle_Light.md).
+The Diver are a faction that the player can interact with. They are seen in [The Depths](The_Depths.md). They have a camp setup within the Celtor Wastes and an FOB, [Castle Light](Castle_Light.md).
 
 Apprentice Divers can spawn in packs of 1 to 3, usually fighting a nearby monster. Their low HP of 150 and their low damage means they will very commonly lose to said monster.
 
@@ -49,7 +49,7 @@ Note: don't mess with him
 
 **Pleeksty**: Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
 
-**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing black diver uniform and are both stationed in overworld. Not alot is known about those 2 as there is no dialogue or a way to ask them about it.
+**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing Black Diver uniforms and are both stationed in overworld. Not a lot is known about those 2 as there is no dialogue or a way to ask them about it.
 
 ## Trivia
 

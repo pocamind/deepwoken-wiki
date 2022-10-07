@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 36424
+revid: 38052
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,10 +39,10 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 #### _Versions_
 
--   **Version 1** will reflect any damage/status effects taken within ~2.43 seconds to the user's opponents.
+-   **Version 1** will instantly reflect any damage/status effects taken within ~2.43 seconds to the user's opponents.
 -   **Version 2** will multiply all damage taken 3x within ~2.43 seconds and fire a thin beam that damages the user's opponents.
--   **Version 3** will multiply all damage taken within ~2.43 seconds and will deal damage to the user's opponents.
-    -   Basically Version 2 of Payback except it's not a beam and will always deal damage to opponent without fail, unless they roll or parry.
+-   **Version 3** will multiply all damage taken within ~2.43 seconds and will deal damage to the user's opponents at the end of the bell's usage.
+    -   Basically Version 1 of Payback except it will always deal damage to opponent without fail, unless they roll or parry.
 
 #### _Tarnished_
 
@@ -55,10 +55,6 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 -   If **Version 1** of this Resonance is found to be Corrupted, **Payback** will multiply the damage reflected to the opponent by ~2.5x.
 
 -   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will be shot out with less ticks of damage, giving your opponent less of a chance to parry it mid beam (It does not reduce the damage at all). The damage multiplier for this variant will also be slightly increased.
-
-  
-
-  
 
 ## Trivia/Notes
 

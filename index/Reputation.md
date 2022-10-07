@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 38019
+revid: 38054
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -54,11 +54,11 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 
 Whenever you perform an action that affects your reputation with a faction, a message will appear on your screen, reading "Your actions please \[Faction Name\]..." or "Your actions anger \[Faction Name\]...", both topped with the faction's logo.
 
-Whenever your reputation drops too low, you'll be deemed a criminal, with the message "\[Faction Name\] have declared you their enemy..." This the point at which Negative Reputation effects are applied.
+Whenever your reputation drops too low, you'll be deemed a criminal, with the message "\[Faction Name\] has/have declared you their enemy!" This the point at which Negative Reputation effects are applied.
 
 Dying to that faction results in the text "The perceived threat you pose against \[Faction Name\] has been reduced...' with you losing negative rep each time this appears.
 
-Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting..." This is the point at which negative reputation effects are removed.
+Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer sees you as worth fighting..." This is the point at which negative reputation effects are removed.
 
 File:Summer Company Postives.png
 

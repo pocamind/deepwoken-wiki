@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 36779
+revid: 38056
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -22,7 +22,7 @@ Once you are **Power Level 15**, a guild can be founded for 100 notes by talking
 
 Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild.
 
-Members of a guild including its leader will stay in their guild after death. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. Being in the same guild as someone with a Merchant Schooner, Frigate, or Ironclad will allow you to spawn on their boat upon dying or resetting your character. Other benefits/changes from being in a guild are currently absent, but being in the same guild would help seperate enemies from allies for support [Mantras](Mantras.md) such as [Rally](Attunement-less.md). [Canor](Canor.md) also have a damage reduction buff for their allies within the same guild.
+Members of a guild including its leader will stay in their guild after death. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. Being in the same guild as someone with ~a Merchant Schooner, Frigate, or Ironclad~ a spawned boat will allow you to spawn on their boat upon dying or resetting your character. Other benefits/changes from being in a guild are currently absent, but being in the same guild would help seperate enemies from allies for support [Mantras](Mantras.md) such as [Rally](Attunement-less.md). [Canor](Canor.md) also have a damage reduction buff for their allies within the same guild.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 38012
+revid: 38053
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -81,6 +81,6 @@ _Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
 -   **Pathfinder Journeyman** is also bugged and will give you a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) instead.
--   A schematic called **VigilCloak** seems to be bugged. This is most likely **NOT** [Vigil Initiate](Vigil_Initiate.md) or [Cloak of the Winds](Cloak_of_Winds.md).
+-   ~A schematic called **VigilCloak** seems to be bugged. This is most likely **NOT** [Vigil Initiate](Vigil_Initiate.md) or [Cloak of the Winds](Cloak_of_Winds.md).~ (Note:Turning In the "VigilCloak" Will give you the Cloak of the Wind if you restart your game)
 -   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche?so=search)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
