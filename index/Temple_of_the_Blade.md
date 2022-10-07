@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 37957
+revid: 38001
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -62,8 +62,6 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 ## Quests
 
-  
-
 ### Lance's Brother Quest
 
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
@@ -95,6 +93,14 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. He will ask if you know that you are working for a murderer, Further dialogue triggers a bone-chilling atmosphere.
 -   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, and the option to increase 1 of your Attributes at the cost of Notes.
     -   You can question Kelsius what Khan told you, either bluntly or politely ("Are you a Murderer?" or "Who are you, really?")
+
+### The Wind Woken Quest
+
+-   Speak to Stratos with an unknown amount of Galebreathe.
+-   He will tell you that he is willing to teach you a talent, but you must learn to be one with the wind first.
+-   Go to the docks and get on a boat, and once you begin sailing, turn your sails to match the directions of the wind trails on the sea for ~10 minutes.
+-   Come back to Stratos and he will teach you the _Windwaker_ talent, which allows you to obtain a temporary massive speed boost while sailing akin to that of a sea gate.
+    -   This is currently broken, as you need to be actively sailing the boat, and equipping anything will kick you off from the steering, which is required for Windwaker to activate.
 
 ## Trivia/Notes
 

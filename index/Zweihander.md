@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 37130
+revid: 38003
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Greatswords]
@@ -48,7 +48,7 @@ Like any other greatsword you get hyper armor if you swing after a parry.
 
   
 
--   Can be upgraded using "[Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy)" for an increase to 23 base damage, weapon scaling becomes 10, an extra 10% pen, and reduction of endlag from 0.25 to 0.15s (This increases weapon requirement to 75 heavy so be careful)
+-   Can be upgraded using [Pluripotent Alloy](Pluripotent_Alloy.md) for an increase to 23 base damage, weapon scaling becomes 10, an extra 10% pen, and reduction of endlag from 0.25 to 0.15s (This increases weapon requirement to 75 heavy so be careful)
 
 File:Aaaaaa.png
 

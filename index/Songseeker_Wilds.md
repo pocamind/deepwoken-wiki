@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 35968
+revid: 37994
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -74,6 +74,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 | --- | --- | --- | --- |
 | 
 -   [Hive Tactician Armor](Hive_Tactician_Armor.md)
+-   [Cloak of Winds](Cloak_of_Winds.md)
 
  | 
 
