@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 37872
+revid: 38069
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -44,6 +44,7 @@ There are two variants that enchantments come in:
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily.
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+    -   -   October 3rd, 2022 - 2x Enchant Rates from September 12th has been set to permanent.
 
 ## List of Enchantments
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 37948
+revid: 38066
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -38,7 +38,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 -   **No longer attack each other based on species**, instead completely focusing on players.
 -   **Benefiting from the lower gravity of The Depths**, being able to jump much higher to pursue players.
 -   **Being much more aware**, noticing players from further away, or even behind them.
--   **Gaining new behaviors/abilities**, such as Lionfish Cero.
+-   **Gaining new behaviors/abilities**, such as Lionfish Beam.
 -   **Becoming much more persistent in chasing**, rarely stopping until the death of them or the player.
 -   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
 

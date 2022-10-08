@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 37828
+revid: 38068
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -37,7 +37,7 @@ The player must respond with "yes." after responding yes, you will have a menu a
  |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) |
 | Locate | Yes, 25 Charisma | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. |
-| Leech | Yes, 25 Charisma | _"Leech \[Name\]"_ | 
+| Leech | Yes, 20 Charisma | _"Leech \[Name\]"_ | 
 
 File:Leech Talent.png
 

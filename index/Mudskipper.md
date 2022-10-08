@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 36596
+revid: 38065
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -209,7 +209,7 @@ Assault
 
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
--   This trial is genuinely harder than the [The Enforcer](Enforcer.md) due to you being almost completely unable to cheese it and being forced to fight it on completely flat ground.
+-   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights, and it being an overall skill check for the level. Though with enough practice it can be done flawless like any other monster.
     
 
 ## Trivia
