@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 32692
+revid: 38092
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -27,6 +27,7 @@ This Outfit has 1000 durability grants the user +15% Physical resistance and +10
 This Outfit's schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   [The Depths](The_Depths.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes

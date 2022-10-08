@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 37900
+revid: 38090
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 25-30+ |
+| oath_req | Power 30-40 |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -212,3 +212,4 @@ None.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   the windrunner and eylis, the punished dreamer are potential future oath npc's.
+-   Visionshaper has the most oath mantras out of all current oaths.
