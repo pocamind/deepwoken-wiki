@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 37940
+revid: 38086
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -85,4 +85,4 @@ Loyalty makes combat practice and spars with housemates difficult
 -   Canors are based of mereleona from black clover confirmed by arch\_mage
 -   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
--   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.
+-   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors _(where tf did you guys get this from, im sorry but show me the proof)_.
