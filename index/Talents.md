@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38099
+revid: 38112
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -79,7 +79,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-    -   Prerequisite: 30 Strength, Master Galebreather/50 Galebreathe
+    -   Prerequisite: Suffocating Impact, 30 Strength, 50 Galebreathe
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
@@ -663,7 +663,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Hunter
 
--   Eyes in the back of your head \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
+-   Peripheral Vision \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
     -   Prerequisites: 40 Willpower, Glare
 
 ### Ice Age
