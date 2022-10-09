@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38112
+revid: 38124
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -285,6 +285,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Refunds ??% (scales with INT) of the ether cost of the mantra.
     -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+    -   Prerequisites: 15 Intelligence
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   Prerequisite : 15 Intelligence
@@ -472,9 +473,10 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
-    -   Prerequisite: Battle Tendency
+    -   Prerequisites: Battle Tendency
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
+    -   Prerequisites: 25 Intelligence
 
 ### Falling Star Guard
 
@@ -541,12 +543,12 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Flamecharmer
 
 -   Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Flamecharm at Power Level 2 or obtain through Flamecharm Trainer (Amashi)
+    -   Prerequisites: Flamecharm at Power 2 or obtain through Flamecharm Trainer (Amashi)
 -   Adept Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
     -   Prerequisites: 20 Flamecharm
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Prerequisites: 30 Flamecharm
--   Master Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
+-   Master Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
     -   Prerequisites: 50 Flamecharm
 -   Produce Spark \[Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: 20 Flamecharm
@@ -558,7 +560,25 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
     -   Prerequisites: 40 Willpower, 70 Flamecharm
 
-### **Frostthorn**
+### Frostdrawer
+
+-   Frostdrawer \[Frostdraw Exclusive\] - Grants you the ability to command Ice as a Frostdrawer.
+    -   Prerequisites: Frostdraw at Power 2 or obtain through Frostdraw Trainer (Nell)
+-   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
+    -   Prerequisites: 20 Frostdraw
+-   Expert Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
+    -   Prerequisites: 30 Frostdraw
+-   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
+    -   Prerequisites: 50 Frostdraw
+
+### Frost Forger
+
+-   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while sliding to perform a running attack with your ice sabers. (+3 Health)
+    -   Prerequisites: Ice Blades
+-   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
+    -   Prerequisites: Ice Smash
+
+### Frostthorn
 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: ?? Agility, ?? Frostdraw, Orbital Ice
@@ -695,6 +715,9 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: 20 Flamecharm or Complete "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
     -   Prerequisites: 40 Flamecharm
+-   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
+    -   Reduces the damage taken from your flames done to you by 50%
+    -   Prerequisites: Agitating Spark
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
@@ -898,6 +921,11 @@ These are just raw stat increases and are beneficial to anyone.
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
 
+### Mindbreaker
+
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+3 Health, +5 sanity)
+    -   Prerequisites: 80 Willpower
+
 ### [Murmur](Murmur.md)
 
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
@@ -1072,7 +1100,7 @@ Prerequisite: Charisma
 ### Shadowcaster
 
 -   Black Out \[Common Talent, Shadowcast Exclusive\] - Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisites: 40 Shadowcast
+    -   Prerequisites: 30 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets. (+1 Elemental Intensity, +3 Health)
     -   Prerequisites: Shadow Roar
@@ -1363,7 +1391,7 @@ These Talents are designed to make you more effective in water.
 ### Wraith
 
 -   Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
-    -   Prerequisites: Ether Bullets
+    -   Prerequisites: Ether Bullets, 25 Intelligence
 
 ### **Miscellaneous**
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 38083
+revid: 38120
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -158,7 +158,27 @@ Duke: There's no real point in explaining further, as this is the end of the lin
 
 Knives of Eylis Dialogue
 
-N/A
+This dialogue is only obtainable through having the [Voidwalker](Origins.md) Origin.
+
+Duke: So you're the one running about tripping my alarms. Care to explain yourself?
+
+1: The Lord Regent sent me to retrieve the Forge.
+
+Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
+
+1: That 'thing'? Agent?
+
+Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
+
+1: What?
+
+Duke: _\*The Duke smiles.\*_ Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...
+
+1: What are you talking about?
+
+Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
+
+1: \[End Dialogue\]
 
 ## Trivia
 
