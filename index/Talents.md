@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38095
+revid: 38099
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -592,6 +592,8 @@ These Talents are meant to improve your overall combat effectiveness.
     -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
 -   Inhale \[Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
     -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
+-   Skull Crusher \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
+    -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
 -   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
     -   You can no longer abuse this. **You cannot spell cancel consecutively as there is now a 2 second cooldown.**
 

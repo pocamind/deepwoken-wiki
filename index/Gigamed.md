@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 37268
+revid: 38104
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster, Enemies]
@@ -12,15 +12,15 @@ categories: [Monsters, Monster, Enemies]
 
 ## Description
 
-Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
+Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Curiously Gigameds can only give passable strength XP. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
 
 ## **Attacks**
 
--   **Electric Stun Pulse (Gigablast)** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds. Before they do this, there is a brief flash above their heads if you look closely. Sadly, it is nearly impossible to react to especially with higher pings.
+-   **Electric Stun Pulse (Gigablast)** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds. Before they do this, there is a brief flash above their heads if you look closely. Sadly, it is nearly impossible to react to especially with higher pings. Avoid fighting more than one at low health, as this attack does considerable posture damage.
 
 ### **Finisher**
 
--   **Suck** - Floats over you and drives itself into your body, consuming you.
+-   **Suck** - Floats over you and drives itself into your body, consuming you. This unfortunately is a very fast gripping animation, which is not to be underestimated.
 
 ## Notes/Trivia
 
