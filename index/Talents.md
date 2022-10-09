@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38124
+revid: 38132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -287,6 +287,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
+    -   Prerequisites: 30 intelligence
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   Prerequisite : 15 Intelligence
     -   Mutually Exclusive: Return to the Dark Ages
@@ -476,7 +477,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: Battle Tendency
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
-    -   Prerequisites: 25 Intelligence
+    -   Prerequisites: 20 Intelligence
 
 ### Falling Star Guard
 
@@ -693,6 +694,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
     -   Prerequisites: 25 Frostdraw
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
+    -   Prerequisites: 50 Frostdraw, 20 Willpower
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: Ice Forge
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity, +3 Health)
@@ -1177,21 +1179,22 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 -   Herbivore \[Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Prerequisite: Herbivore
+    -   Prerequisites: Herbivore
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
-    -   Prerequisite: Iron gut
+    -   Prerequisites: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
     -   Requirements (talent): 20 fortitude + 10 willpower
 
 ### Survivor
 
--   Pack Mule \[Common Talent\] - The max quantity of carrying food has increased. (+3 Health, +1 Carry Load)
-    -   Prerequisites: 2 Strength (May require none)
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+3 Health, +1 Carry Load)
 
 ### Tactician
 
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed. (+4 Ether)
+    -   Prerequisites: 20 Intelligence
 -   Target Switch \[Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
+    -   Prerequisites: 20 Intelligence
 -   Punishing Blow \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
     -   Prerequisite: 20 Heavy Weapons Mastery
 
@@ -1391,7 +1394,7 @@ These Talents are designed to make you more effective in water.
 ### Wraith
 
 -   Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
-    -   Prerequisites: Ether Bullets, 25 Intelligence
+    -   Prerequisites: Ether Bullets
 
 ### **Miscellaneous**
 

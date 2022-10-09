@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 37976
+revid: 38131
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,4 +11,4 @@ Template:EquipmentStats
 
 ## Description
 
-The Justicar Defender Coat is an ornate coat with an almost unrivaled level of Pips. It can be very rarely dropped from [King Threshers](Thresher.md), and is considered a legendary.
+The Justicar Defender Coat is an ornate coat with an almost unrivaled level of Pips. It can be very rarely dropped from [King Threshers](Thresher.md) or from [Aelita Chests](Aelita.md).
