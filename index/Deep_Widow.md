@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 37659
+revid: 38135
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,15 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
 ✗
 
  | (★★☆) |
-| **Venomous Bite** | The Widow delivers a crushing bite, dealing moderate damage and inflict a lingering poison that damages over time. **This move will auto-grip if it hits you while knocked or at low health.** | 
+| **Venomous Bite** | The Widow delivers a crushing bite, dealing moderate damage and inflict a lingering poison that damages over time.
+
+  
+
+**This move will auto-grip if it hits you while knocked or at low h**
+
+**ealth.**
+
+ | 
 
 ✗
 
@@ -62,5 +70,6 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
     -   This poison goes through armor.
 -   Try to deal only two attacks and always be ready for the bite. Don't get too greedy.
 -   You can identify combos by their slower charging and faster swiping.
+-   The bite's venom will bypass every resistance in the game, even [run](Run_It_Back.md) it back's invincibility.
 -   You can cheese the Widow by going atop a ledge in the cave, she will be unable to damage you and your Light Attacks will connect.
 -   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
