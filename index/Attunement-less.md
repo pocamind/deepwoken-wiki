@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 37342
+revid: 38143
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -286,7 +286,7 @@ File:No Attunement Revamp.png
 
 File:No Attunement Revamp.png
 
- | Exhaustion Stike
+ | Exhaustion Strike
 
 (☆☆☆)
 

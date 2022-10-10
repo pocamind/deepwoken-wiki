@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 38005
+revid: 38138
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -1211,7 +1211,7 @@ _+Talent: Firmly Planted_
 
 **Requires Power 30**
 
- | Duke Erisia's Chest, Primadon Chests, Depths Chests | N/A |
+ | Duke Erisia's Chest, Primadon Chests, Depths Chests, Fishing Chests | N/A |
 
   
 

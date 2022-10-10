@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 38098
+revid: 38145
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -304,7 +304,7 @@ _A servant of flames._
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
 -   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses
     -   Requires confirmation.
--   The HP given from the wisp will go lower every time its used, eventually ending up at 3% at around the 5-6th use and continuing to be 3% until it dissipates.
+-   The HP given from the wisp will go lower if you are in combat. Without combat each time it heals for around half a bar (10%) while in combat the heal will be reduced to around 3%
 
  |
 |  | 
