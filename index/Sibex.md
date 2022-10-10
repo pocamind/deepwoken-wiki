@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 37875
+revid: 38150
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -132,6 +132,7 @@ Where Sibex can be found
 
 -   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
     -   He's been described as missing on duty, the Authority appears to have lost him.
+    -   Due to the fact that he is able to have some sort of reading on your bell and is still being sent on patrol, it is very likely that the authority has had access to bells for a decent amount of time, seeing as if Sibex was unique in his bell checking he would likely never be sent on any kind of mission due to his value.
 -   Sibex will not take your thresher spine, you just need it to talk to him.
 -   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.
 -   He used to wear Hive Leader Garment armor, this was changed due to reasons unknown.

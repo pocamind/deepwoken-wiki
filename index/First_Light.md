@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 37862
+revid: 38149
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md). Keep in mind it isn't a guaranteed drop, it's speculated to be around the same rate as an [Enforcer's Axe](<Enforcer's_Axe.md>).  
+The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md). The drop is very rare.  
 
 ## Trivia
 
