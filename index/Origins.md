@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 38074
+revid: 38171
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -25,6 +25,10 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ## Lone Warrior
 
+“ You awake to find yourself in a hall of ivory white, your memories of all other than combat are hazy. ”
+
+― Flavor Text
+
 **Requirements:** Find and enter the [Trial of One](Trial_of_One.md), at [Minityrsa](Minityrsa.md), as a Power 1 character.
 
 **Obtainment:** Successfully defeat the halfway point of the trial, which is the [Thresher](Thresher.md).
@@ -43,6 +47,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
 
+-   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
 -   Grants innate Talent "Deepbound Contract".
     -   **\[PRO\]** Increased EXP Gain in the Depths...
     -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
@@ -51,11 +56,10 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
 -   **\[PRO\]** You regain sanity in Castle Light and by killing monsters.
--   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more hp/more difficult give more bell progress.
+-   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more hp give more bell progress.
 -   **\[PRO\]** Killing a monster with more than 500 HP gives 3% luck.
--   **\[CON\]** Depths Trial will always be Enforcers at their max HP. Killing one at Power 1 will take 10 or so minutes.
--   **\[CON\]** **You cannot do the Trial of One.**
--   **\[PRO/CON DEPENDING ON SKILL\]** You start off in the Depths (Castle Light).
+-   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
+-   **\[CON\]** You cannot do the Trial of One.
 
   
 
@@ -87,7 +91,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Void Eye to return to the Voidheart.
 
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
--   **\[PRO\]** There is a functional chessboard in the [Voidheart](Voidheart.md). Yay!
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
     -   Every player (beside Voidwalkers) start the game with negative reputation toward the [Knives of Eylis](The_Knives_of_Eylis.md). Since there is only a single way to get [Knives of Eylis](The_Knives_of_Eylis.md) reputation [(The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
 -   **\[CON\]** The only way to access the [Voidheart](Voidheart.md) is through the Void Eye or failing a hunt with Grasp of Eylis.

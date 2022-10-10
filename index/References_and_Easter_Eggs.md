@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 36682
+revid: 38163
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -135,10 +135,9 @@ notices:
 ### **Factions**
 
 -   **The Hundred Legions** is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor.
-
 -   **Etrea** is very similar to a mixture of various East Asian countries.
-
--   **The Ministry** is possibly a reference to [the Ministry from the 2018 adaptation of Fahrenheit 451](<https://en.wikipedia.org/wiki/Fahrenheit_451_(2018_film)>)
+-   **The Ministry** is possibly a reference to [the Ministry from the 2018 adaptation of Fahrenheit 451](<https://en.wikipedia.org/wiki/Fahrenheit_451_(2018_film)>).
+-   **The Knives of Eylis** is a reference to a faction in Dishonored with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
 
 ### **Races**
 

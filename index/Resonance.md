@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 38151
+revid: 38156
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -32,7 +32,7 @@ _From data of 100 rerolls, the calculated chance of getting a normal Resonance w
 
 **Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however, they are rarer and stronger.
 
-Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
+Corrupted Resonances give more points for the "pointbuy" system of Resonance, allowing them to grant more benefits.
 
 _From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4%. (12/300, 12% per reroll)_
 

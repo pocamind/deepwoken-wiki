@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 36880
+revid: 38170
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Factions]
@@ -10,18 +10,18 @@ categories: [Pages with broken file links, NPCs, Factions]
 
 File:Navae front.PNG
 
-Front view of a navaen hostage.
+Front view of a Navaen hostage.
 
   
 _Looking for the [combat style?](Fists.md)_
 
-You become a target if your holding a hostage careful
+Most times, you become a target if your holding a hostage so be careful.
 
 ## Description
 
-Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They appear as [Gremorian](Gremor.md)s, having brown hair and long horns. They have magenta eyes that fade into a darker shade toward the bottom of the iris. As for their clothing, they sport the [Navaen Nomad](Navaen_Nomad_Robes.md) robes, as all the [Children of Navae](Reputation.md) do.
+Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They appear as [Gremors](Gremor.md), having brown hair and long horns. They have magenta eyes that fade into a darker shade toward the bottom of the iris. As for their clothing, they sport the [Navaen Nomad](Navaen_Nomad_Robes.md) robes, as all the [Children of Navae](Reputation.md) do.
 
-They are found kneeled down on both knees and having their arms behind them, seemingly being locked together with a rope or some sort of cuffs. They usually randomly spawn anywhere ranging from [Erisia](Erisia.md) or [Fort Merit](Fort_Merit.md).
+They are found kneeled down on both knees and having their arms behind them, seemingly being locked together with a rope or some sort of cuffs. They usually randomly spawn randomly in [Erisia](Erisia.md) or in the prison cells in [Fort Merit](Fort_Merit.md).
 
 You can pick them up using the V key. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn.
 

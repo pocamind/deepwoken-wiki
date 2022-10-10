@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 37634
+revid: 38164
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -24,7 +24,7 @@ The player can interact with Yun'Shul to obtain a wish. Making a wish requires s
 
 -   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
--   You need to have not made a wish within your last 3 levels. So if you made a wish at 45, your next minimum level to get a wish would be 48. It's generally recommended to only make wishes on levels that are multiples of 10, as to maximize wish potential. It can also be assumed that you would need to level up 10 times to get your first wish.
+-   You need to have not made a wish within your last 10 levels. So if you made a wish at 45, your next minimum level to get a wish would be 55. It's generally recommended to only make wishes on levels that are multiples of 10, as to maximize wish potential. It can also be assumed that you would need to level up 10 times to get your first wish.
 
 If you meet all the criteria, you are able to make one of four wishes:
 

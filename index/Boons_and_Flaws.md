@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 36259
+revid: 38161
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -34,9 +34,9 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Packmule | "You have a much higher max. carry load." | Carry load is increased by 50. | 1 |
 | Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained.
 
-Gained from paying off your negative reputation with any faction.
+Unlocked from paying off your negative reputation with any faction.
 
- | N/A |
+ | 1 |
 
 ## Flaws
 
@@ -68,7 +68,7 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
-Gained by becoming an enemy of a faction.
+Unlocked by becoming an enemy of a faction.
 
  | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |

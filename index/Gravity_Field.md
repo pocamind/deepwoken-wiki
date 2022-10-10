@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 37026
+revid: 38155
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -45,10 +45,6 @@ When obtained, Gravity Field will spend its points on the following stats:
 
 -   **Gravity:** Determines whether the gravity will be reduced or increased (the jump will be lower or higher).
 -   **Size:** The more points spent on this stat, the larger the field size will be when it is created.
-
-### _Corrupted_
-
-**Corrupted Gravity Field** has more points which means it has improved stats compared to normal gravity field.
 
 ## Trivia
 

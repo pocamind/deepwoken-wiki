@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 37448
+revid: 38157
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,9 +29,9 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 ## Usage
 
-Pressing C will activate **Resurrection** Resonance. Has a 1 minute cooldown
+Pressing C will cast the **Resurrection** Resonance on a target. Has a 1 minute cooldown
 
-Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self.
+Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self (hold the C button to forcefully cast on self without fail)
 
 During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
 
@@ -60,7 +60,6 @@ When obtained, Resurrection will spend its points on the following stats:
 
 -   For some reason, sometimes the bell may not activate immediately, which gives the enemies the opportunity to grip you.
 -   When someone or something is getting resurrected, they cannot be damaged.
--   Due to the latest updates, you can now use this bell on yourself by holding the C button.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
 -   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If an ally's health drops below half, players with Resurrection will be able to see their health.

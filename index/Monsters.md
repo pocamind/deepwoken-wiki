@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 38066
+revid: 38160
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -29,7 +29,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
     -   Potions
     -   Status Effects
     -   Flinging
--   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monsters fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. You can use this time to whale on the monsters, flee or do something else, whatever you see fit.
+-   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monsters fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
 
 ### The Depths
 
@@ -65,68 +65,6 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 **Unknown**
 
 **Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
-
-## Monster Families
-
-Every single Monster in the game is part of a single family. Families are all together just trivia and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
-
--   Any Monster native to islands is a Giant Monster.
--   Any Monster native to oceans is a Sea Monster.
--   Any Monster native to The Depths is a Depths Monster.
-
-<table><caption><b>Monster Families</b></caption>
-<tbody>
-<tr>
-  <th>Giants</th>
-  <th>Sea</th>
-  <th>Depths</th>
-</tr>
-<tr>
-  <td>Primadon</td>
-  <td>Lionfish</td>
-  <td>(King) Gigamed</td>
-</tr>
-<tr>
-  <td>Deep Owl</td>
-  <td>Brainsucker</td>
-  <td>Crustaceous Rex</td>
-</tr>
-<tr>
-  <td>Terrapod</td>
-  <td>Dread Serpent</td>
-  <td>Nautilodaunt</td>
-</tr>
-<tr>
-  <td>(King) Thresher</td>
-  <td></td>
-  <td>Enforcer</td>
-</tr>
-<tr>
-  <td>Black Widow</td>
-  <td></td>
-  <td>Megalodaunt</td>
-</tr>
-<tr>
-  <td>Rock Golem</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>(Rogue/Hive) Construct</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>(Sand/Snow) Knight</td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
-
-One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A King Thresher in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea.**
-
-What purpose does this serve? Absolutely nothing. Before, accessories would give bonus damage types to Monsters depending on their type, but that got changed to make all Monsters take the same, however it might be worth noting for the future that Monsters have families.
 
 ## PVE Scaling/Monster Health
 

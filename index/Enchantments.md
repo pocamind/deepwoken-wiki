@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38114
+revid: 38169
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -38,13 +38,12 @@ There are two variants that enchantments come in:
 
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27th, 2022** - Enchant rates have been buffed 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
--   **April 11th, 2022** - Enchant rates have been buffed again.
+-   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
+-   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
--   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily.
+-   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
-    -   -   October 3rd, 2022 - 2x Enchant Rates from September 12th has been set to permanent.
 
 ## List of Enchantments
 
@@ -60,24 +59,28 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Blaze.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><figure>File:Blaze.png<figcaption></figcaption></figure><center><br>
+  <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Chilled.png<figcaption></figcaption></figure><div>Chilling</div></td>
+  <td><figure>File:Chilled.png<figcaption></figcaption></figure><center><br>
+  <font>Chilling<div></div></font></center></td>
   <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Differed.png<figcaption></figcaption></figure><div>Deferred</div></td>
+  <td><figure>File:Differed.png<figcaption></figcaption></figure><center><br>
+  <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deal 1.1x damage.<br>
   Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonic.png<figcaption></figcaption></figure><div>Detonation</div></td>
+  <td><figure>File:Detonic.png<figcaption></figcaption></figure><center><br>
+  <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
@@ -85,44 +88,51 @@ There are two variants that enchantments come in:
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
+  <font>Elastic<div></div></font></center></td>
   <td><div><p>On proc a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><div>Gluttony</div></td>
+  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><center><br>
+  <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
   Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GRIM.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:GRIM.png<figcaption></figcaption></figure><center><br>
+  <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><center><br>
+  <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP.<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Metalic.png<figcaption></figcaption></figure><div>Metal</div></td>
+  <td><figure>File:Metalic.png<figcaption></figcaption></figure><center><br>
+  <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
-  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
+  <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Weapon gain 50% chip damage.<br>
   Weapon deal less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>
   <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
+  <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><center><br>
+  <font>Providence Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
@@ -131,7 +141,8 @@ There are two variants that enchantments come in:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:SEAR.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:SEAR.png<figcaption></figcaption></figure><center><br>
+  <font>Sear<div></div></font></center></td>
   <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
@@ -139,25 +150,29 @@ There are two variants that enchantments come in:
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:STONE.png<figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:STONE.png<figcaption></figcaption></figure><center><br>
+  <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure>File:STORM.png<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:STORM.png<figcaption></figcaption></figure><center><br>
+  <font>Storm<div></div></font></center></td>
   <td><div><p>On proc stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><div>Vampirism</div></td>
+  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
+  <font>Vampirism<div></div></font></center></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon</p></div></td>
   <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Wild.png<figcaption></figcaption></figure><div>Wild</div></td>
+  <td><figure>File:Wild.png<figcaption></figcaption></figure><center><br>
+  <font>Deferred<div></div></font></center></td>
   <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim.<br>
   M1s and Wild AOE to allies deals 0 damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>

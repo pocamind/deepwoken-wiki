@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 37955
+revid: 38168
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -29,6 +29,10 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 “ I COULD BREAK LORD REGENT OF ETREA IN TWO... WITH MY BARE HANDS! ”
 
 ― Senator Corbet
+
+“ Come, I shall show you my years of Minecraft PVP experience! ”
+
+― Jonathan Talo, commonly known as Jo Talo
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 
