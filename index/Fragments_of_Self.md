@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 37897
+revid: 38228
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -64,7 +64,7 @@ Located past the stone arch, a pure reflection of yourself that will remove your
   <td colspan="12">Isn't there something we can do?</td>
 </tr>
 <tr>
-  <td colspan="12"><i>You see your face racked with a pained expression.*</i> "No. You know there isn't.</td>
+  <td colspan="12">*<i>You see your face racked with a pained expression.</i>* No. You know there isn't.</td>
 </tr>
 <tr>
   <td colspan="12">What is all this?</td>
@@ -102,6 +102,10 @@ Located past the stone arch, a pure reflection of yourself that will remove your
 </table>
 
 Clicking \[The End\] will wipe your character and transfer you to the character creation screen.
+
+### Captain
+
+The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and (presumably) start with the [Castaway Origin](Origins.md#castaway).
 
 ## Trivia
 

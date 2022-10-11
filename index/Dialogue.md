@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 34919
+revid: 38221
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,9 @@ categories: [Mechanics]
 
 # Dialogue
 
-_"Ey, Migi Veru? ...Wait, wrong game." - Weird looking Gremor_
+“ Ey, Migi Veru? ...Wait, wrong game. ”
+
+― Some weird-looking Gremor
 
 ## Description
 

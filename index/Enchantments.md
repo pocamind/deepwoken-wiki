@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38185
+revid: 38230
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -174,7 +174,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Wild.png<figcaption></figcaption></figure><center><br>
-  <font>Deferred<div></div></font></center></td>
+  <font>Wild<div></div></font></center></td>
   <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim.<br>
   M1s and Wild AOE to allies deals 0 damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>

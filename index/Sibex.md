@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 38150
+revid: 38225
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,7 +8,11 @@ categories: [NPCs]
 
 # Sibex
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and wears a white unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
+“ What in the Drowned Gods happened to your so- Oh, wait. Someone said something about that being cute, but not true. ”
+
+― Sibex talking to a Vacant Canor
+
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and wears a white unconfirmed armor. A member of the Authority gone missing on duty, he has a Gale Wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
 
 Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isles, the 3rd one has a big cliff right next to it on the right when facing the statue. When leaving Summer Isle and heading for Hive, Sibex will be on the left most island, sitting on the shoulder of a statue.
 
@@ -16,12 +20,12 @@ Sibex is located at the 3rd statue when passing by the first one next to Songsee
 
 Where Sibex can be found
 
-**Sibex** is capable of telling you your current [resonance](Resonance.md) progress, and what gives you the most **resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him (You keep the spine), and in return he will tell you the details of your resonance obtainment method.
+**Sibex** is capable of telling you your current [Resonance](Resonance.md) progress, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him (You keep the spine), and in return he will tell you the details of your Resonance obtainment method.
 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
--   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (Currently glitched, if it says this but you do not have a bell available, rejoin to different servers until he changes his dialogue.)
+-   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
 -   **Arena, Bosses and Depths:** "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 
 ## Dialogue
@@ -107,9 +111,9 @@ Where Sibex can be found
   <td colspan="4">Decent Bell Progress, No Pre-determined Bell<br>
   Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?</td>
   <td colspan="4">Close Bell Progress<br>
-  Morphed like clay... The soul and Ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.</td>
+  Morphed like clay... The soul and ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.</td>
   <td colspan="4">Obtained Bell<sup><a href="#cite-note-1">[1]</a></sup><br>
-  Well look at you, my friend! You're practically beaming with the song!</td>
+  Well look at you, my friend! You're practically beaming with the Song!</td>
 </tr>
 <tr>
   <td colspan="12">What should I do?</td>
