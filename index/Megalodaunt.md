@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 37907
+revid: 38218
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -180,7 +180,7 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar

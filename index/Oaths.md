@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 38090
+revid: 38214
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -139,13 +139,15 @@ Visionshaper also has two talents obtained via standard level up.
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
     -   Cooldown is 2 minutes and 40 seconds.
-    -   Damage taken in the realm is real, but 50% of lost HP while inside is restored when the realm expires.
+    -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
 -   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
         -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
+    -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
+    -   Active frames are larger while in the Illusionary Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
 
 -   **Mirage From the Deep - Passive**

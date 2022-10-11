@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 37022
+revid: 38220
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -186,3 +186,9 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > #### Vibrant Gems
 > 
 > Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific mantras.
+> 
+> ## Trivia
+> 
+> -   Mantras _can_ be levelled beyond the normal limit of 5, but it effectively requires the player's soul to be taken by Arch\_Mage in order to make them _much_ more powerful than normal.
+>     -   Mantras become renamed upon their leveling past 5, this is hard-coded into the game.
+>     -   There are two known mantras that go past level 5, being a level 6 Fire Palm (Drake's Breath) and level 7 Strong Left (God's Left).

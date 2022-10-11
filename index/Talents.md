@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38210
+revid: 38213
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -195,7 +195,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity, +1 Posture)
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+3 Health, +1 Sanity)
+-   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   From: Perseverance
     -   Prerequisite: 100 fortitude and 100 willpower
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
@@ -205,7 +205,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Negate movement speed penalty of blocking.
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
--   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +5 Health)
+-   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +3 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
     -   Prerequisite: 90 Fortitude
 
@@ -264,7 +264,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Agility
     -   Mutually Exclusive: Risky Moves
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility ([Source](https://media.discordapp.net/attachments/686031706733543479/1009691828896927865/unknown.png))
+    -   Prerequisites: 25 Agility
     -   User is covered in a blue outline when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
     -   Mutually Exclusive: Observation, Safety Dance
@@ -501,6 +501,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Exoskeleton \[Legendary Talent\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Stacks additively with Chitin's 3% for 13% physical damage resistance.
+    -   Natural Armors can be affected by PEN but 25% as effective against it.
     -   Preqequisite: 40 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
@@ -920,7 +921,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Ministry Operative
 
 -   Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 passive agility)
-    -   Prerequisites: 35 Agility, Risky Moves
+    -   Prerequisites: 40 Agility, Risky Moves
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
 

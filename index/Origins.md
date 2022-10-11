@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 38171
+revid: 38219
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -16,7 +16,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Obtainment:** Entering Deepwoken for the first time.
+**Obtainment:** Entering Deepwoken for the first time and completing the tutorial.
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 -   Begin with nothing but tattered armor and a starting weapon; along with a training item of your highest attribute.
