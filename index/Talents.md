@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38144
+revid: 38196
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -161,7 +161,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 ### Assassin
 
--   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
+-   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health, +1 Posture)
     -   Also apply to sheathing.
     -   Does nothing on fist as they are silent by default.
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
@@ -192,7 +192,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
--   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
+-   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity, +1 Posture)
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+3 Health, +1 Sanity)
@@ -201,9 +201,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
--   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
+-   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
--   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
+-   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
 -   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +5 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
@@ -455,7 +455,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are now Dazed for 2 seconds.
     -   This talent may need strength
-    -   Prerequisite: Flame Blind
+    -   Prerequisite: Flame Blind, 40 Flamecharm and 40 Strength
 
 ### Empath
 
@@ -599,7 +599,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: 20 Galebreathe
 -   Expert Galebreather \[Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
     -   Prerequisites: 30 Galebreathe
--   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
+-   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +5 Health)
     -   Prerequisites: 50 Galebreathe
 -   Reverse Gale Kick \[Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
     -   Prerequisites: Rising Wind (Galebreathe Mantra)
@@ -669,9 +669,10 @@ These Talents are meant to improve your overall combat effectiveness.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > ??? > ??? > ??? > ???
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
--   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. (+4 Ether, +8 reservoir, +1 Health)
+-   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
     -   Allow the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Dual Guns passively benefit from this and does not require this talent.
+    -   Prerequisites: 55 Light Weapon, Using a Gun
 
 ### Heretic
 
@@ -1171,7 +1172,6 @@ These Talent are meant to make maintaining your ship easier.
 -   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
     -   Negate tier 1 insanity: Shivering.
     -   Prerequisites: 50 Fortitude and 50 Willpower, Grasp on Reality
-    -   Prequisite: Grasp on Reality
 
 ### Survival Instinct
 
@@ -1251,7 +1251,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Prerequisites: 20 Thundercall
 -   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Thundercall
--   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
+-   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +5 Health)
     -   Prerequisites: 50 Thundercall
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
@@ -1400,7 +1400,7 @@ These Talents are designed to make you more effective in water.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
--   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health)
+-   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)

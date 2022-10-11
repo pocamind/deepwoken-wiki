@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38169
+revid: 38185
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 # Enchantments
 
 **Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
+
+  
 
 ## Limitations
 
@@ -190,14 +192,16 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
+  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><center><br>
+  <font>Umbral Knight<div></div></font></center></td>
+  <td><div><p><br>
   The slash is parryable.<br>
   Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><center><br>
+  <font>Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
@@ -205,7 +209,8 @@ There are two variants that enchantments come in:
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:NLK.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><figure>File:NLK.png<figcaption></figcaption></figure><center><br>
+  <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
@@ -216,7 +221,8 @@ There are two variants that enchantments come in:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
-  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><center><br>
+  <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, deals 20% more damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
@@ -236,33 +242,38 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
+  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><center><br>
+  <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 50% more damage in PVE.<br>
   Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
+  <td><figure>File:Cosmic.png<figcaption></figcaption></figure><center><br>
+  <font>Cosmic<div></div></font></center></td>
   <td><div><p>A super charged attack on proc.<br>
   <b>yayafino Dev Spec</b></p></div></td>
   <td><div>Weapon is blown out with shooting out exhausts of the colors red, yellow, and green.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><div>Providence's Storms</div></td>
+  <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><center><br>
+  <font>Providence of Storms<div></div></font></center></td>
   <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.<br>
   <b>Enchant is disabled for Non-Developers</b><br>
   <b>Removed from the game</b></p></div></td>
   <td><div>Weapon is invisible and covered with yellow mist with dots all around.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
+  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><center><br>
+  <font>Tainted Sorrow<div></div></font></center></td>
   <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
   <b>Enchant is currently unobtainable (mods do not have access to this enchant)</b><br>
   <b>Only obtainable via dev interaction</b></p></div></td>
   <td><div>Weapon has the effects of the Displacement and Wild enchants, combined with a purple-blue haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Newunstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
+  <td><figure>File:Newunstable.png<figcaption></figcaption></figure><center><br>
+  <font>Unstable<div></div></font></center></td>
   <td><div><p>Every M1 has a chance proc a random enchant's effect on hit.<br>
   <b>Only obtainable via Developer</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
@@ -280,27 +291,32 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>thumb<figcaption>thumb</figcaption></figure><div>Adhesive</div></td>
+  <td><figure>thumb<figcaption>thumb</figcaption></figure><center><br>
+  <font>Adhesive<div></div></font></center></td>
   <td><div><p>On proc, pull the attacker toward you.</p></div></td>
   <td><div>Equipment is covered in a purple haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:AllureEnchant.png<figcaption></figcaption></figure><div>Allure</div></td>
+  <td><figure>File:AllureEnchant.png<figcaption></figcaption></figure><center><br>
+  <font>Allure<div></div></font></center></td>
   <td><div><p>On proc, apply Charm on the enemy. All charm related talent that the user have are applied.</p></div></td>
   <td><div>Equipment releases some hearts, similar to the Charm effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Bounce.png<figcaption></figcaption></figure><div>Bounce</div></td>
+  <td><figure>File:Bounce.png<figcaption></figcaption></figure><center><br>
+  <font>Bounce<div></div></font></center></td>
   <td><div><p>On proc, push the attacker away, making it harder to chain attacks.</p></div></td>
   <td><div>Equipment is covered in black particle effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Displacement.png<figcaption></figcaption></figure><div>Displacement</div></td>
+  <td><figure>File:Displacement.png<figcaption></figcaption></figure><center><br>
+  <font>Displacement<div></div></font></center></td>
   <td><div><p>On proc, grant a speed boost and hyperarmor.</p></div></td>
   <td><div>Equipment is covered in a white, unstable looking particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Drowned.png<figcaption></figcaption></figure><div>Drowned</div></td>
+  <td><figure>File:Drowned.png<figcaption></figcaption></figure><center><br>
+  <font>Drowned<div></div></font></center></td>
   <td><div><p>Drowned equipments grant, on top of their innate stats and talents:<br>
   <br>
   10 Health<br>
@@ -311,23 +327,27 @@ There are two variants that enchantments come in:
   <td><div>Equipment is covered in a near invisible particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Screenshot 1.png<figcaption></figcaption></figure><div>Entanglement</div></td>
+  <td><figure>File:Screenshot 1.png<figcaption></figcaption></figure><center><br>
+  <font>Entanglement<div></div></font></center></td>
   <td><div><p>On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.</p></div></td>
   <td><div>Equipment is covered in small particles that cycle between green, cyan and yellow.</div></td>
 </tr>
 <tr>
-  <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><div>Multiplicity</div></td>
+  <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><center><br>
+  <font>Multiplicity<div></div></font></center></td>
   <td><div><p>On proc, recover hunger, thirst and blood.<br>
   Does not proc against NPCs.</p></div></td>
   <td><div>Equipment is covered in white electricity.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Stench.png<figcaption></figcaption></figure><div>Stench</div></td>
-  <td><div><p>On proc, release a cloud of gas that deals damage to nearby enemies who stand in it.</p></div></td>
+  <td><figure>File:Stench.png<figcaption></figcaption></figure><center><br>
+  <font>Stench<div></div></font></center></td>
+  <td><div>On proc, release a cloud of gas that deals damage to nearby enemies who stand in it.</div></td>
   <td><div>Equipment is covered in a green mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><div>Viscosity</div></td>
+  <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><center><br>
+  <font>Viscocity<div></div></font></center></td>
   <td><div><p>Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
   The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
   <b>Disabled if using Curse of the No Life King.</b> <b>Disabled in Arena</b></p></div></td>
@@ -343,7 +363,8 @@ There are two variants that enchantments come in:
 | 
 File:Auto-repair.png
 
-Auto-Repair
+  
+Auto Repair
 
  | 
 
@@ -356,6 +377,7 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 
 File:Ore.png
 
+  
 Enchantment Ore
 
  | 
@@ -370,6 +392,7 @@ Was initially found in the fishing loot pool near the [Eastern Interstitial Ligh
  |
 | 
 
+  
 Hero Blade Enchants
 
  | 
@@ -380,6 +403,7 @@ Enchanted Hero blades were removed from the loot pool.
  |
 | 
 
+  
 Face, Ears, Back accessories Enchants
 
  | 

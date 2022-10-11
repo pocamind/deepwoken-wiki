@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 36135
+revid: 38207
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | damage | 25 |
 | scaling | 9 |
 | range | 8.5 |
-| swing speed | 0.54x |
+| swing speed | 0.57x |
 | chip damage | 15% |
 | weight | 10 |
 | bankable | Yes |
@@ -35,6 +35,6 @@ The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapons and
 
 ## Trivia/Notes
 
--   The Enforcer's Blade is the slowest weapon in-game (Just Matching the Axe).
+-   ~The Enforcer's Blade is the slowest weapon in-game (Just Matching the Axe).~ This is no longer true, as it was buffed to have a higher(although still slow) swing speed.
 -   The drop appears to be much rarer than the Enforcer's Axe. (It took me 23 Enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade)
 -   With 80 Heavy Weapons, the Enforcer's Blade does exactly 43 damage.

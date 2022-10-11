@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 37925
+revid: 38202
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -566,7 +566,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 6</td>
   <td>6</td>
   <td>8.5</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Messer#Alloyed"><font>Alloyed Messer</font></a></td>
@@ -1103,7 +1103,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.54x</td>
+  <td>0.57x</td>
   <td>N/A</td>
 </tr>
 </tbody>
