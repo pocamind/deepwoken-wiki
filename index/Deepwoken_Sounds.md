@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 38201
+revid: 38212
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -100,10 +100,6 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | N/A | Ash For The Altar | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
 | N/A | ??? | 0:20 | Layer 2 Trailer Music |  |
-| ? | N/A | 3:31 | ? | File:Combat.mp3 |
-| ? | N/A | 3:01 | ? | File:Ambience.mp3 |
-| ? | N/A | 2:46 | ? | File:Trailer (1).mp3 |
-| ? | N/A | 3:24 | ? | File:Special (1).mp3 |
 
 ## Sound Effects
 

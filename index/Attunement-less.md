@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 38143
+revid: 38211
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,7 @@ File:No Attunement Revamp.png
 
  | _A powerful, flinging punch that shatters the air._ | 
 
--   **Requirements:** _**5 Strength,**_ _Combat Mantra_
+-   **Requirements:** _**20 Strength,**_ _Combat Mantra_
 -   A powerful left hook, that ragdolls and knockbacks hit enemies.
 -   Unlike other mantras, Strong Left scales with your strength level.
 
@@ -67,7 +67,7 @@ File:No Attunement Revamp.png
 
  | _Unleash a barrage of blows against your foes._ | 
 
--   **Requirements:** _**5 Strength,** Combat Mantra_
+-   **Requirements:** _**20 Strength,**_ _Combat Mantra_
 -   A flurry of blows that hitstun and pound your enemy.
 -   If parried during its startup it gets cancelled, otherwise not.
 
@@ -151,7 +151,7 @@ File:No Attunement Revamp.png
 
  | _Rush at your enemies with your full physical force._ | 
 
--   **Requirements:** _**10 Fortitude + Any shield**_, _Mobility Mantra_
+-   **Requirements:** _**10 Fortitude**_, _Mobility Mantra_
 -   Dash forwards with your shield infront, colliding with a surface or NPC will bash them and deal light damage.
 -   _Parry-able._ Getting parried ends the mantra early.
 -   Solid mantra that can be used to chase your opponents.
@@ -197,7 +197,7 @@ File:No Attunement Revamp.png
 
 File:No Attunement Revamp.png
 
- | Adrenaline Rush
+ | Adrenaline Surge
 
 (☆☆☆)
 

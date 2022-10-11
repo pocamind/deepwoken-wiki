@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38196
+revid: 38210
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -114,7 +114,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Prerequisites; ? Amount Of Backstabs
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility & 5 Fortitude
+    -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
