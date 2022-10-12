@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 37922
+revid: 38260
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -35,4 +35,4 @@ The Revolver has a base damage of 13 and scales off of 15 light weapon. Much lik
 
 ## Trivia
 
--   As with all the other guns in the game, Revolvers found in chests via [The Depths](The_Depths.md) can come with **Stars** or even **Enchants** on them.
+-   As with all the other guns in the game, Revolvers found in chests via [The Depths](The_Depths.md) can come with **Stars** or even [Enchants](Enchantments.md) on them.

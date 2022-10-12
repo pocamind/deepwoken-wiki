@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 38065
+revid: 38240
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry or block and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective. When accompanying Bloatskippers, they can use an enhanced version of the "[Air Force](Galebreathe.md)" mantra.
+Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective. When accompanying Bloatskippers, they can use an enhanced version of the "[Air Force](Galebreathe.md)" mantra.
 
 ## Moveset
 

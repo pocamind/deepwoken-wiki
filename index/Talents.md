@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38213
+revid: 38266
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -1185,6 +1185,7 @@ These Talents are designed to let you survive against starvation and thirst by l
     -   Prerequisites: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
     -   Requirements (talent): 20 fortitude + 10 willpower
+    -   Note: Allows user to eat inedible items under the food category (green colored ones, for example: bamboo bundle, gathered wheat, etc.)
 
 ### Survivor
 

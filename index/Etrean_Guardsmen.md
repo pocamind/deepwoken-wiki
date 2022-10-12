@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 32359
+revid: 38243
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Although not fully considered an enemy until you provoke them or approach them with bad reputation with Etrea, the Etrean Guardsmen are NPC type of enemies that are found in [Etris](Etris.md). Typically more will come after defeating them. After defeating a lot of the Etrean Guards, the King's Guards will begin to come after you.
+Although not fully considered an enemy until you provoke them or approach them with bad reputation with [Etrea](Etrea.md), the Etrean Guardsmen are NPC type of [enemies](Enemies.md) that are found in [Etris](Etris.md). They use common Etrean weapons along with [Galebreathe](Galebreathe.md) [Mantras](Mantras.md). Typically more will come after defeating them. After defeating a lot of the Etrean Guards, the King's Guards will begin to come after you.
 
 Etrean Guardsmen wear an Unknown outfit with their race being [Etreans](Etrean.md) along with their gender varying.
 
@@ -37,5 +37,6 @@ Etrean Guardsmen wear an Unknown outfit with their race being [Etreans](Etrean.m
 ## Tips
 
 -   Just don't get bad reputation or do any of the actions considered by the guards to be "disrespectful".
+    -   Examples can be spitting on a guard or attacking another player who has positive reputation with Etrea
 -   More HP and damage than say a power 10 in terms of m1s.
 -   Feints SOMETIMES.

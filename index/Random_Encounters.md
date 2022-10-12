@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 37429
+revid: 38259
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -22,7 +22,7 @@ Random encounters are randomly spawning events that occur throughout target area
 
 **Authority's Invasion of Etris**
 
-The Authority's invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins.
+The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. More information can be found [here](Cinders_of_Etris.md).
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
@@ -32,25 +32,25 @@ During this event, most regular NPCs from the town will not be available. If you
 
 #### **Bandit Camp**
 
-A campfire, circled by three NPCs, consisting of two regular bandits and one Bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
+A campfire, circled by three NPCs, consisting of two [regular bandits](Bandit.md) and one [Bandit Captain](Bandit_Leader.md). Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
 
 **Weapons:** Basic or Semi advanced.
 
 #### **Bandit Ambush**
 
-While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat [Assassin](Talents.md) Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at [Erisia](Erisia.md).
+While in [Erisia](Erisia.md), there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat [Assassin](Talents.md) Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at [Erisia](Erisia.md).
 
 **Weapons:** Basic or Semi advanced.
 
 #### **Thieves**
 
-A group of three thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for their Notes and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
+A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow_Hunter.md) and the lack of [campfire](Campfire_Pit.md). They will always wield a [dagger](Silver_Dagger.md). In the event where the player is knocked in their presence, the bandits will mug the player for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
 
 **Weapons:** Stiletto
 
 #### **Bandit Attack**
 
-In Etris or Vigils, two bandits can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. The bandits rarely drop lesser mantra modifiers.
+In Etris or Vigils, two [bandits](Bandit.md) can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. The bandits rarely drop lesser mantra modifiers.
 
 **Weapons:** Basic
 
@@ -147,7 +147,7 @@ If you open one of their chests don't have to take the loot, they will yell at y
 
 #### **Pathfinders**
 
-Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
+Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
 
 #### **Megalodaunt vs Golem**
 
@@ -183,7 +183,7 @@ The first order is to use a mantra, the second order is to choose a clone that i
 
 Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
-The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
+The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
 After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
 
@@ -191,7 +191,7 @@ If the player were to have 100 charisma, you can side with The Union and insult 
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
-The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in Upper Erisia and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
+The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md) and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
 
 ### **Stranger NPC**
 

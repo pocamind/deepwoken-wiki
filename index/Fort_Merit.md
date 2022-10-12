@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 36017
+revid: 38242
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
+Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 
@@ -27,7 +27,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 ### Docks
 
--   A functional port with a Shipwright to spawn, craft or recall your boats.
+-   A functional port with a Shipwright to spawn, craft or recall your [boats](Ships_&_Sailing.md).
 -   Guarded by a Authority Peacekeeper and a weaker variant of the Authority Warden
 
 ### Prison
@@ -50,7 +50,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 -   There is a guy you can see through a window, you can bribe him with an officer note for a key. This will open the door to the forgotten temple.
 
--   Alternatively, if your reputation with the authority is positive, he will give you the key for free.
+-   Alternatively, if your [reputation](Reputation.md) with the authority is positive, he will give you the key for free.
 
 ### **[Brutus Quest(Fortitude Uncap)](Attributes_Unbound.md)**
 
@@ -63,7 +63,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 ## Rep Resets
 
 -   To reset your reputation with the Authority, you can speak to Rashet in the Merit's reach. He is located next to a pillar across from a river and Fort Merit.
-    -   If you walk from Greathive to Fort Merit, you can find him easily
+    -   If you walk from [Greathive](Greathive_Aratel.md) to Fort Merit, you can find him easily
     -   Alternatively, if you arrive from the docks, you have to run through the fort to reach Rashet.
 
 ## NPCs
@@ -92,11 +92,8 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 #### Head
 
--   Deepwoken Hood
--   White Gumshoe Hat
--   Dark Gumshoe Hat
--   Grey Gumshoe Hat
--   Ochre Gumshoe Hat
+-   [Deepwoken Hood](Deepwoken_Hood.md)\* White Gumshoe Hat
+-   [Gumshoe Hat](Gumshoe_Hat.md)
 
 #### Ears
 
@@ -104,7 +101,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 #### Arms
 
--   Stygian Authority Commander Coat
+-   [Authority Commander Coat](Authority_Commander_Coat.md)
 -   Imperial Pauldrons
 -   Sable Adjudicator's Coat
 -   Ash Adjudicator's Coat
@@ -112,11 +109,6 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Pink Adjudicator's Coat
 -   Rural Adjudicator's Coat
 -   Warden Pauldrons
--   Gold Authority Commander Coat
--   Verdant Authority Commander Coat
--   Haze Authority Commander Coat
--   Amber Authority Commander Coat
--   Bronze Authority Commander Coat
 
 #### Rings
 

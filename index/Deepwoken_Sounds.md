@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 38235
+revid: 38264
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -74,6 +74,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) War | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
+| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | Layer 2 | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
+| 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | Tutorial | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 
 ### Additional Songs
 

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 37850
+revid: 38244
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -32,8 +32,8 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Camp
 
--   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
--   Players can find a permanent campfire here.
+-   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+-   Players can find a permanent [campfire](Campfire_Pit.md) here.
 
 #### Inn
 
@@ -48,12 +48,12 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Bank & Antiquarian
 
--   Players can find a Banker who they can turn in artifacts to.
+-   Players can find a Banker who they can turn in [artifacts](Artifacts.md) to.
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find Cumberland, an NPC who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Cumberland, a [Canorian](Canor.md) NPC who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
 
 ### Sparring Arena
 
@@ -92,6 +92,6 @@ Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 ## Trivia
 
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
--   Vigils has one of the best fishing spots which is near the docks. Testing showed that there is a high chance of a chest as I found in 1 hour about 30-40 chests.
+-   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. Testing showed that there is a high chance of a chest as I found in 1 hour about 30-40 chests.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
 -   There is more lore added. Lance's brother(aka RRR) may be a shapeshifter and Stratos mentions RRR. Something is going on...

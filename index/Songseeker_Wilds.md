@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 37994
+revid: 38251
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -33,7 +33,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 ### Large Island
 
--   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit and Pomar.
+-   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras can open it up, containing several nodes of Rock, Coal, Iron and Gold.
 -   There are two structures:
     1.  A Windmill, by climbing up the window there is a small room. (nothing of interest inside)
@@ -78,14 +78,14 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
  | 
 
--   Blindfold
--   Eyeglasses
--   Polarized Eyeglasses
+-   [Blindfold](Blindfold.md)
+-   [Eyeglasses](Eyeglasses.md)
+-   [Polarized Eyeglasses](Eyeglasses.md)
 -   Flameguard Pauldrons
--   Glassdancer Wraps
+-   [Glassdancer Wraps](Glassdancer_Wraps.md)
 -   Brilliant Boots
 -   Khan Boots
--   Ranger's Boots
+-   [Ranger's Boots](<Ranger's_Boots.md>)
 -   Crimson Blindfold
 -   Gold and Black Cape
 -   Royal Duelist, including varients.
