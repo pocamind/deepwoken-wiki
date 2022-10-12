@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 38248
+revid: 38269
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -25,6 +25,10 @@ These races are obtainable by any player. One of these races will be given to th
 | **[Felinor](Felinor.md)** | 7.27% |
 
   
+
+## Obtainable Races
+
+Races that can't be rolled at the start of the game but can be obtained in the Layer 2 update through unknown means.
 
 ## Exclusive Races/Unobtainable
 

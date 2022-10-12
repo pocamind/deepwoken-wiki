@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 38148
+revid: 38274
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]
@@ -133,4 +133,4 @@ The Hero Blade of Shadow is an elemental weapon that is obtained by defeating al
         -   ~They are still generally considered really bad weapons, with most considering only the Frost Blade viable.~ No.
     -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
         -   These runes translate to "jfeondkthz", from the tip of the sword to the guard
-    -   !! THESE LOOK DIFFERENT NOW PLEASE UPLOAD PICTURES IF YOU HAVE THEM !!
+    -   ~!! THESE LOOK DIFFERENT NOW PLEASE UPLOAD PICTURES IF YOU HAVE THEM !!~ Done :)
