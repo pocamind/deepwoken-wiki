@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 37971
+revid: 38282
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:EquipmentStats
 
 ## Description
 
-Glassdancer Wraps are an accessory under the "Arms" category. They can be found through chests in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md) random events.
+Glassdancer Wraps are an accessory under the "Arms" category. They can be found through chests in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). They have innate stats of \[placeholder\], making them the best for early-game progression.
 
 ## Trivia
 

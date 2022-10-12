@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38266
+revid: 38278
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -715,7 +715,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Inferno
 
--   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients. However, deal half as much damage with your M1.
+-   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: 20 Flamecharm or Complete "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
     -   Prerequisites: 40 Flamecharm
