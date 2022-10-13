@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 37839
+revid: 38399
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -25,6 +25,10 @@ categories: [Weapons, Swords]
 | pass down | Yes |
 | obtainment | Starswept Valley, King Thresher drop and Primadon chests |
 | description | TBA |
+
+“ If it means having no bitches, then so be it. ”
+
+― some poor soul about to finish his attunementless metamancer build with a Storm FG
 
 ## Description
 

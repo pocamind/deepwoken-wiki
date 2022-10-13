@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 35589
+revid: 38409
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md
 
 ## Moveset
 
-Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md), [Officer Saber](Officer_Saber.md) or [Shotel](Shotel.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
+Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Officer Saber](Officer_Saber.md) along with the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
 
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

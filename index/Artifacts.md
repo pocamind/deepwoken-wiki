@@ -1,12 +1,16 @@
 ---
 title: Artifacts
-revid: 36777
+revid: 38415
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Luck, Character, Ingredients, Mechanics]
 ---
 
 # Artifacts
+
+“ RUN! RUN FOR YOUR LIFE! ”
+
+― A freshie after picking up an Artifact that some Power 60 Lower Erisia farmer saw 5 nanoseconds before
 
 An Adret carrying a piece of The Forge.
 
@@ -16,7 +20,7 @@ Artifacts in Deepwoken are valuable pieces of technology or objects that can be 
 
 Artifacts are generally found around [Lower](Lower_Erisia.md) and [Upper Erisia](Upper_Erisia.md) but can be found on other islands, as well as being able to spawn on rock formations out at sea such as the ones in the vicinity of [Erisia](Erisia.md). Due to the random nature of where they spawn you may find them guarded by [enemies](Enemies.md) or completely unguarded making it easy to pick up and run off with. You will know an Artifact has spawned near you as a loud pulsating noise can be heard emitting from it and large purple rings can be spotted flying upwards away from the Artifact's vicinity.
 
-When you pick up an Artifact it will make a loud noise and will then stop making further loud pulsating noises as well losing the purple rings that would appear around it before.
+When you pick up an Artifact it will make a loud noise and will then stop making further loud pulsating noises as well as losing the purple rings that would appear around it before.
 
 ## Rewards
 
@@ -34,7 +38,7 @@ A Celtor finding the pulsating rings.
 
 ## Locations
 
--   They spawn randomly around [Erisia](Erisia.md).
+-   They spawn randomly around [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Starswept Valley](The_Starswept_Valley.md).
 
 ## Notes/Trivia
 

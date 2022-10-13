@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 37690
+revid: 38406
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,3 +33,5 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 ## Notes & Trivia
 
 -   The better version of the [Falchion](Falchion.md) (Unalloyed).
+-   It also has the exact same stats as [Falchion](Falchion.md) (Alloyed), but without the pen.
+-   Despite its name, the Authority Warden does NOT use this.

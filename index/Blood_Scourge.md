@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 38154
+revid: 38391
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,6 +41,10 @@ When obtained, Blood Scourge will spend its points on the following stats:
 -   **Range:** The more points are spent on this stat, the further the range of the AOE becomes.
 -   **Cast Time:** The more points are spent on this stat, the faster the resonance is casted, allowing for faster grips.
 -   **Healing:** The more points are spent on this stat, the more health is given per grips.
+
+_**Corrupted**_
+
+If Blood Scourge is corrupted, it simply makes it bigger. A downside to the corrupted variant is that if you have something like the fire downside you cannot move during the windup so you take more damage. However, if you block before you use it, the downside will be negated and you won’t take any damage or go insane,
 
 ## Trivia/Notes
 
