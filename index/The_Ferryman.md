@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 37913
+revid: 38375
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -17,13 +17,9 @@ The flames have called the Ferryman!
 
 ― The Ferryman's Theme
 
-Template:Creature Infobox V3
+Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
 
-## Description
-
-**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
-
-#### Summoning **The Ferryman**
+#### Summoning The Ferryman
 
 1.  Find the ritual grounds at Boatman's Watch.
 2.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
@@ -32,11 +28,7 @@ Template:Creature Infobox V3
 
 This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 30-40+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
 
-**Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry.**
-
-**The only way to escape is to either die, or defeat The Ferryman.**
-
-  
+**Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry. The only way to escape is to either die, or defeat The Ferryman.**
 
 ## Moves
 
@@ -185,11 +177,6 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
     _Petris, found traumatised in The Depths._
     
-
-  
-
-  
-
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
