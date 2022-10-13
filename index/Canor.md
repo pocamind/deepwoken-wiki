@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 38086
+revid: 38362
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,6 +15,10 @@ _"With canine features, the Canor are fiercely loyal._
 _Often found as guards and personal servants in the retinue of powerful people."_
 
 _Chance of obtaining race: **15.2%**_
+
+## Description
+
+Canors are uncommon races.
 
 ## Racial Traits
 

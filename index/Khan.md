@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 38265
+revid: 38346
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,7 +16,7 @@ _Chance of obtaining race: **8%**_
 
 ## Description
 
-They're monkeys.
+Khans are a rare race with light skin, and a monkey-like theme. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, as well as having the ability to use equipment early.
 
 ## Racial Traits
 
@@ -75,7 +75,7 @@ May have increased rep with The 11th Legion
 -   Juno
     
 
-## Notes/Trivia
+## Trivia
 
 -   JUST BECAUSE YOU LOOK LIKE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE! -Reaconteur
 -   The race is based on Sun Wukong and monkeys.

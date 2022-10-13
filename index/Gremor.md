@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 36510
+revid: 38344
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -102,11 +102,3 @@ SURNAMES
 -   As a Gremor, you will get boosted reputation with the Navaen Nomads.
 -   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.
-
-<table>
-<tbody>
-<tr>
-  <td>Variants</td>
-</tr>
-</tbody>
-</table>

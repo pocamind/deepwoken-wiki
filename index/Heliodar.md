@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 38257
+revid: 38364
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -36,7 +36,7 @@ An entirely new race which does not resemble any other race, they have orange ey
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Unknown</li>
+    <li>+2 Agility</li>
     <li>+2 Unknown</li>
   </ul></td>
 </tr>

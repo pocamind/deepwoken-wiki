@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 38008
+revid: 38368
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 32633
+revid: 38286
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Greataxes, Items]
@@ -22,7 +22,7 @@ categories: [Weapons, Weaponry, Greataxes, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from, Fort Merit, Primadon, Depths, Other locations (?) |
+| obtainment | Chests from, Fort Merit, Primadon, Depths, Duke, Other locations (?) |
 | description | A bound axe in the typical Adretian fashion. |
 
 ## Description

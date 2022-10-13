@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 37514
+revid: 38365
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 ― Authority soldier before being shaken apart by a Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco, glizzard (glizzy lizard), and many other Lizard names._
+_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38278
+revid: 38352
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -353,9 +353,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
     -   Prerequisite: ?? Frostdraw
--   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+-   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
     -   Reduce thirst drain by 75(?)%
-    -   Prerequisite: ?? Intelligence and ?? Frostdraw
+    -   Prerequisite: 20 Intelligence and 15 Frostdraw
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity, +2 Health)
     -   If you were to catch fire while on ice, gain total immunity to the burning status effect for ?? seconds.
         -   While the effect is active, the user breath cold air.
@@ -470,7 +470,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Ether Adept
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
     -   Prerequisite: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
@@ -863,7 +863,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 -   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
     -   Flint have infinite durability.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
-    -   Requirement: 25 charisma
+    -   Requirement: Power 8 and higher
 
 ### Meditative Trance
 
