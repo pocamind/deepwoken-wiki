@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 38410
+revid: 38422
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -8,12 +8,27 @@ categories: [Helmets]
 
 # Brigand's Bicorn
 
+| Brigand's Bicorn | |
+|---|---|
+| type | Helmet |
+| rarity | Uncommon |
+| selling price | ?? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | Spare Nails, Emergency Repairs |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | The Depths |
+| description | '"Lorem ipsum."' |
+
 “ I'M FUCKING INVINCIBLE!! ”
 
 ― some random Celtor constantly repairing their ship while under attack by two Ironclads
 
-Template:EquipmentStats
-
 ## Description
 
-The Brigand's Bicorn is an accessory under the "Helmet" category. Equipping this item will give you random placeholder stats.
+The Brigand's Bicorn is an accessory under the "Helmet" category. It can be found primarily in [The Depths](The_Depths.md).
+
+Equipping this item will give you 2 random stats, as well as grant you the innate talents _Spare Nails_ and _Emergency Repairs_, which increases the amount of health gained from repairing your ship and increases the efficiency of the repairs when your ship is low on health, respectively. It's great as a utility equip for people who sail around [The Aratel Sea](The_Aratel_Sea.md) or the [Voidsea](Voidsea.md) a lot or fight other ships via cannons due to these talents, but is otherwise weak by itself on a build.

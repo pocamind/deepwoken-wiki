@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38352
+revid: 38419
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -318,7 +318,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Charismatic Cast
 -   Familiar Sight \[Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
-    -   Prerequisites: 25 Charisma and Charismatic Cast
+    -   Prerequisites: 45 Charisma and Charismatic Cast
     -   Mutual exclusive: Vanishing Follow-up
 
 ### Comrade
@@ -505,6 +505,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Preqequisite: 40 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
+    -   Prerequisites: Drinked potion, 15 Fortitude and 15 Willpower
 -   To The Finish \[Rare Talent\] - You take 10% less damage when below 30% health. (+3 Health)
     -   Prerequisite: 50 Fortitude
 
@@ -585,7 +586,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: ?? Agility, ?? Frostdraw, Orbital Ice
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a ring of gravitaional ring of ice that absorbs 25% of the physical damage you take. The ring break after substaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
-    -   Prerequisites: 20 Agility, 50 Frostdraw
+    -   Prerequisites: 20 Agility, 65 Frostdraw
 
 ### Frozen Warrior
 
@@ -863,7 +864,6 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 -   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
     -   Flint have infinite durability.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
-    -   Requirement: Power 8 and higher
 
 ### Meditative Trance
 
