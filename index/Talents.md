@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38419
+revid: 38445
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -41,6 +41,8 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Vanishing follow-up with Dazing Finisher.
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
 -   You cannot roll Orbital Ice with Fist of fortitude. Note: These all apply vice versa
+
+Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
@@ -652,7 +654,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Gunslinger
 
--   Aerial Shot \[Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+-   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
@@ -668,7 +670,7 @@ These Talents are meant to improve your overall combat effectiveness.
                 -   Galebreathe Your bullets after cut
                 -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
-            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > ??? > ??? > ??? > ???
+            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
@@ -853,7 +855,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 Most of these Talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
--   Thresher Scales \[Common Talent\] - You regenerate your armor at campfires. (+5 Health)
+-   Thresher Scales \[Common Priority Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisites: Bloodiron Spirit and Power 40
 -   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
     -   Prerequisites: Power 40
@@ -1027,6 +1029,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 ### Rampant Static
 
 -   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity, +3 Health)
+    -   Prerequisites: 35 Thundercall
 
 ### Saint of Blades
 
@@ -1243,6 +1246,7 @@ These Talents are meant to reap the reward of your latest hunt.
 ### Thunderblade
 
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - \[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+2 Elemental Intensity, +1 Health)
+    -   Prerequisites: 20 Medium Weapon, 40 Thundercall
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
 
 ### Thundercaller
@@ -1255,9 +1259,12 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Prerequisites: 30 Thundercall
 -   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +5 Health)
     -   Prerequisites: 50 Thundercall
--   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
+-   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
+    -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
+    -   Prerequisites: 50 Thundercall
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
     -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related talents.
+    -   Prerequisites: 25 Thundercall
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in roughly 3.5 seconds at the cost of some ether.
         -   For reference, default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
@@ -1266,6 +1273,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
 -   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
+    -   Prerequisites: 20 Thundercall
 
 ### Trickster
 
@@ -1338,8 +1346,8 @@ These Talents are meant to reap the reward of your latest hunt.
 
 -   Chronostasis \[Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration.
 
--   Engage \[Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
--   Critical Attack \[Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
+-   Engage \[Common Priority Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
+-   Critical Attack \[Common Priority Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
 ### **Waterborne**
 
@@ -1352,12 +1360,12 @@ These Talents are designed to make you more effective in water.
 ### **Weapon Master**
 
 -   Matador \[Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
--   Aerial Spin \[Common Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+-   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 30 Light Weapon
--   Aerial Stab \[Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+-   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
 
--   Aerial Kick \[Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+-   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
     -   Prerequisites: 25 Light Weapon, Using Fists
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards

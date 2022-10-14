@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 37524
+revid: 38440
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -39,3 +39,8 @@ This Outfit's Schematic can be found in:
 
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
+
+## Bugs
+
+-   Currently, a separate bugged version of this schematic, known as "VigilCloak," will spawn in this schematic's place more often than not.
+    -   Turning in VigilCloak will **not** grant you the Cloak of Winds, and will possibly void your chances of being to turn in the actual thing.

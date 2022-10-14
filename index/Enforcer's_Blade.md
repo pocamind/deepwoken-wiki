@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 38207
+revid: 38438
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -23,18 +23,18 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Enforcer |
-| description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood. |
+| description | 'Lorem Ipsum.' |
 
-_**A greatsword main realisising, that the enforcer blade is slow.**_
+“ Okay, so you can have a great life, get a girlfriend, have a family to care for- ”
+
+― An Enforcer Blade user being told the things he can do while waiting for another opportunity to swing
 
 ## Description
 
-The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapons and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing the [Enforcer](Enforcer.md). It is dropped randomly, and seems rarer than the Enforcer's Axe. It does 47.5 damage at 100 heavy weapons
+The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapons and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing the [Enforcer](Enforcer.md). It is dropped randomly, and is significantly rarer than the Enforcer's Axe. It does 47.5 damage at maximum Heavy Weapons.
 
   
 
 ## Trivia/Notes
 
--   ~The Enforcer's Blade is the slowest weapon in-game (Just Matching the Axe).~ This is no longer true, as it was buffed to have a higher(although still slow) swing speed.
--   The drop appears to be much rarer than the Enforcer's Axe. (It took me 23 Enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade)
--   With 80 Heavy Weapons, the Enforcer's Blade does exactly 43 damage.
+-   The drop appears to be much rarer than the Enforcer's Axe. (It took 23 Enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade)

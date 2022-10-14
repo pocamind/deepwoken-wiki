@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 38138
+revid: 38446
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,9 +22,116 @@ Armor equipment can also be randomly obtained by giving an Artifact to a banker.
 
 The player can wear 7 type of armor equipment: Head, Face, Ears, Back, Arms, Rings and Boots.
 
-Some armor equipment comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms item can have these). These stats are displayed in grey.
+Some armor equipment comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms items can have these). These stats are displayed in grey.
 
 All armor equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far).
+
+## Pips Value
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Buffs</th>
+  <th>Head</th>
+  <th>Arms</th>
+  <th>Boots</th>
+  <th>Torso</th>
+  <th>Face</th>
+  <th>Ears</th>
+  <th>Ring</th>
+</tr>
+<tr>
+  <td>HP</td>
+  <td>4 5 6</td>
+  <td>4 5 6</td>
+  <td>5 6</td>
+  <td>5 6</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>2 3 4 5</td>
+</tr>
+<tr>
+  <td>Ether</td>
+  <td>8 10 12</td>
+  <td>8 10 12</td>
+  <td>10 12</td>
+  <td>10 12</td>
+  <td>4 6 8</td>
+  <td>4 8</td>
+  <td>6 8</td>
+</tr>
+<tr>
+  <td>Reservoir</td>
+  <td>16 20 24</td>
+  <td>16 20 24</td>
+  <td>20 24</td>
+  <td>20 24</td>
+  <td>16</td>
+  <td>16</td>
+  <td>8 12 16</td>
+</tr>
+<tr>
+  <td>Sanity</td>
+  <td>4 6 8</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>4 6</td>
+  <td>6</td>
+  <td>4 6</td>
+</tr>
+<tr>
+  <td>Posture</td>
+  <td><p>NONE</p></td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>%Monster</td>
+  <td>2 2 5</td>
+  <td>2 5</td>
+  <td>2 5</td>
+  <td>2 5</td>
+  <td>2</td>
+  <td>2</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>%Physical</td>
+  <td>3 4</td>
+  <td>3 4</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+</tr>
+<tr>
+  <td>%Elemental</td>
+  <td>3 4</td>
+  <td>3 4</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+</tr>
+<tr>
+  <td>%Monster Armor</td>
+  <td>4</td>
+  <td>4</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+  <td>NONE</td>
+</tr>
+</tbody>
+</table>
 
 **Head:**
 
