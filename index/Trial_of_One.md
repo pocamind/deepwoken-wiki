@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 38222
+revid: 38428
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -59,9 +59,10 @@ Mark of the Lone Warrior's talent description
 
 ## Tips and Tricks
 
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 20 minutes and giving a boost to further progression.
+-   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 10 minutes and giving a boost to further progression.
 -   **All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.**
--   **Parrying challenge -** While you get auto parrying frames, it's not a bad idea to spam F decently fast to make sure you parry everything.
+-   **Parrying challenge -** Simply spam F. Don’t try to use your autoparry frames for as long as possible, just click F as fast as possible.
 -   **Megalodaunt -** Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP. (22 sword hits)
 -   **Rock Golem -** Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. 400 HP. (36 sword hits)
 -   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP. (35 sword hits)
