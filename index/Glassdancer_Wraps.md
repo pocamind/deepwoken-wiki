@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 38421
+revid: 38434
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | ?? |
 | requirements | N/A |
 | weight | 2 |
-| innate stats | [placeholder] |
+| innate stats | +10 Health, +3 Posture |
 | innate talent | Lightweight |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,7 +31,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Glassdancer Wraps are an equipment piece under the "Arms" category. They can be found through chests in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md).
 
-They have innate stats of \[placeholder\], and grant you the talent _Lightweight_, making you move slightly faster when your armor runs out of durability, making them the best for early-game progression.
+They have innate stats of +10 health and +3 posture, and grant you the talent _Lightweight_, making you move slightly faster when your armor runs out of durability, making them the best for early-game progression.
 
 ## Trivia
 
