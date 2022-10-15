@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38462
+revid: 38466
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -321,7 +321,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Charismatic Cast
 -   Familiar Sight \[Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
-    -   Prerequisites: 45 Charisma and Charismatic Cast
+    -   Prerequisites: 40 Charisma and Charismatic Cast
     -   Mutual exclusive: Vanishing Follow-up
 
 ### Comrade
@@ -655,7 +655,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Gunslinger
 
--   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+-   Aerial Shot \[Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
@@ -1361,12 +1361,12 @@ These Talents are designed to make you more effective in water.
 ### **Weapon Master**
 
 -   Matador \[Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
--   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+-   Aerial Spin \[Common Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 30 Light Weapon
--   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+-   Aerial Stab \[Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
 
--   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+-   Aerial Kick \[Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
     -   Prerequisites: 25 Light Weapon, Using Fists
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
