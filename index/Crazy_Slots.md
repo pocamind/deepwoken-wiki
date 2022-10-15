@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 37546
+revid: 38461
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -76,8 +76,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
 ## Trivia/Notes
 
--   This Resonance has the potential to be very powerful. For example, a non-corrupted version of the Divine Spear with a user possessing 100 MED will do 50 points of damage per hit. As the corrupted bell version doubles that, a corrupted Divine Spear user with 100 med will do an estimated 100 points of scaled damage if the opponent is not using any armor. This can be further buffed by food buffs and talents like the [Flamecharm](Flamecharm.md) talent "Flame Within" that increases damage and movement speed while set on fire.
-    -   However, it is also widely considered hit-or-miss by the community. While there's the potential for the weapons to be very strong if they match your weapon type, they may also be weaker than some late-game weapons otherwise.
+-   Corrupted Crazy Slots increases the duration of the divine weapons.
 -   Even without decent weapon proficiency (i.e the user is a Hero Blade user), Crazy Slots weapons can still be used for their powerful abilities. They also possess fairly high base stats to begin with.
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.
 -   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
@@ -85,7 +84,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 -   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin Impact_.
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
 -   This resonance also may be inspired by Shardblades in _The Stormlight Archive_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
--   Though it is unclear if this Resonance have a variants but it seems each player got their different percentage of what weapon they will conjure. For example my friend who had a 100 MED weapon often got Divine Spear while I 100 HVY often got Divine Greatsword and my second friend who is unlucky with also 100 MED often get Divine Greataxe or Divine Flintlocks. Though this is still unclear
 -   While crazy slot's roll chances are effected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common, depending on where the points are spent. This is just speculation, however.
 -   It is possible that "time" may be a stat in which points can be allocated when rolling crazy slots, as your weapon will only last a certain amount of time before disappearing on it's own.
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 37647
+revid: 38460
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -52,16 +52,9 @@ Celestials are said to be Gods of the Deepwoken world, but as we see through the
 
   
 
--   direction
--   magnitude
-    
-
 **Weaknesses:**
 
   
-
--   warm piss
-    
 
 **Names:**
 
