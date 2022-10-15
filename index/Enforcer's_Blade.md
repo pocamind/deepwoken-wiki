@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 38438
+revid: 38509
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -24,10 +24,6 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | pass down | Yes |
 | obtainment | The Enforcer |
 | description | 'Lorem Ipsum.' |
-
-“ Okay, so you can have a great life, get a girlfriend, have a family to care for- ”
-
-― An Enforcer Blade user being told the things he can do while waiting for another opportunity to swing
 
 ## Description
 

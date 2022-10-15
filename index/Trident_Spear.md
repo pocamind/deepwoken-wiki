@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 34907
+revid: 38502
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Spears]
@@ -25,14 +25,6 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Spears]
 | pass down | Yes |
 | obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia, Fishing |
 | description | "A surprisingly effective weapon despite its previous use by fishermen" |
-
-“ NIHIL, NIHIL, NIHIL! ”
-
-― disfigured lightborn, after having kidnapped someones little brother
-
-“ Welcome, honoured guest. To the birthplace of our dynasty! ”
-
-― disfigured lightborn, about to eviscerate some random gremor.
 
 ## Description
 

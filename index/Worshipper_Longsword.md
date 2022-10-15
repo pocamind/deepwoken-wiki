@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 36455
+revid: 38494
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -24,10 +24,6 @@ categories: [Weapons, Weaponry, Items, Swords]
 | pass down | Yes |
 | obtainment | Chests in: , Minityrsa, Deep Widow, Songseeker Wilds |
 | description | "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from." |
-
-“ You are now a new member of my vow of mastery! ”
-
-― A Flamecharm user who became a flame priest, just by training charisma.
 
 ## Description
 

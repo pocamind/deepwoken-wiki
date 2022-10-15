@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 38389
+revid: 38483
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -26,10 +26,6 @@ categories: [Weapons, Guns]
 | pass down | Yes |
 | obtainment | Bought at Summer Isle for 500 notes |
 | description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mastlepieces of the wealthy. |
-
-“ GOD SAVE THE QUEEN! ”
-
-― Celtor sailor embracing the Dragoon's British power
 
 ## **Description**
 

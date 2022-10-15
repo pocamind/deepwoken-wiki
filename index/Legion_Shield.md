@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 37539
+revid: 38516
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -28,10 +28,6 @@ categories: [Weapons, Shields]
 | pass down | Yes |
 | obtainment | Starswept Valley Chests |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
-
-“ Legion Assemble! ”
-
-― Captain AmeriKhan
 
 ## Description
 

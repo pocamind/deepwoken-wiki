@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 36957
+revid: 38510
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greathammers]
@@ -26,8 +26,6 @@ categories: [Weapons, Weaponry, Items, Greathammers]
 | pass down | Yes |
 | obtainment | Found in Chests from Summer Isle, The Depths, Primadon, the PVP Arena, and Deep Widow |
 | description | "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." |
-
-_**"A blacksmith is getting ready to get his payment"**_
 
 ## Description
 

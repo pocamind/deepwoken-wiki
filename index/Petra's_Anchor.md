@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 37534
+revid: 38511
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -26,10 +26,6 @@ categories: [Weapons, Greathammers]
 | pass down | Yes |
 | obtainment | Directly dropped by the Dread Serpent |
 | description | An unwieldy weapon that promises to hold fast in battle. |
-
-“ Let's go get a Murmur. ”
-
-― Khan challenging a Dread Serpent
 
 ## Description
 

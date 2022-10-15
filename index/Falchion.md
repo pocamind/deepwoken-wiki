@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 33576
+revid: 38491
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Swords]
@@ -24,10 +24,6 @@ categories: [Weapons, Weaponry, Items, Swords]
 | pass down | Yes |
 | obtainment | Chests in:, Lower Erisia |
 | description | "A surpisingly effective weapon, despite its previous use by fisherman." |
-
-“ Watch me catch fish! (jumps into the sea and drowns) ”
-
-― Cheapskate Etrean
 
 ## Description
 

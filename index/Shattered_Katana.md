@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 37038
+revid: 38500
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -25,10 +25,6 @@ categories: [Weapons, Swords, Katanas]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita, Rogue Construct, Fishing, Fort Merit |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
-
-“ You deny our weapon its purpose! ”
-
-― Deepwoken players after SK got nerfed
 
 ## Description
 

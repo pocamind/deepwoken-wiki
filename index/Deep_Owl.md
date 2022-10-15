@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 38285
+revid: 38468
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -119,6 +119,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   The Owls nest in the interstice between human minds, further enhancing their connection to illusion magic.
 -   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the owls to feast. it is said that the _Visionshapers_ themself will also eventually become a feast.
 -   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue, the player character however seems to remember, as after making the pact you can ask Surge: "What was that place you took me?" Surge however denies having taken you anywhere.
+-   The pact can be compared to a deal a Warlock may make with a diety similar to the nestmind, in exchange for recieving the power of visionshaping in your living life, when you die your soul will be consumed into the nestmind and it's remenants will become an owl.
 
 ## Notes
 

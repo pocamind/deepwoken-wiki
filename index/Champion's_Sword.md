@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 38133
+revid: 38496
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Swords]
@@ -26,10 +26,6 @@ categories: [Weapons, Items, Weaponry, Swords]
 | pass down | Yes |
 | obtainment | Starswept Valley (Chests) |
 | description | N/A |
-
-“ A trustworthy weapon, just for 3k notes. Since you are my friends, it's only 400. ”
-
-― Somebody who trained his Charisma.
 
 ## Description
 

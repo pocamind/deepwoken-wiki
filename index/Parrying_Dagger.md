@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 37696
+revid: 38517
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -28,12 +28,6 @@ categories: [Weapons, Daggers]
 | pass down | Yes |
 | obtainment | Obtained from Etris Store, Erisia, Depths. |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
-
-“ I shall never financially recover from this ”
-
-― Players after putting points in light weapon and spending 25 notes to buy a useless weapon so they can dual wield.
-
-  
 
 ## Description
 

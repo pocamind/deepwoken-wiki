@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 38135
+revid: 38489
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,6 @@ categories: [Monsters]
 
 # Deep Widow
 
-“ The Giant Enemy Spider! \*aggressive beatboxing\* ”
-
-― Jerma
-
-  
 Template:Creature Infobox V3
 
 ## Description

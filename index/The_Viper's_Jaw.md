@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 29572
+revid: 38470
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -25,16 +25,19 @@ The entrance can be found just past the Bandit village or underneath [The Birdca
 
 -   Materials like Rock, Coal, Iron and Gold ore.
 
-## Potential Enemies
+## Potential Events
 
 -   Legion vs The Central Authority
 -   [Deep Owl](Deep_Owl.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
 -   Etrea vs The Central Authority
--   [Bandit](Bandit.md) Camps
--   Knives of Eylis (usually spawn with a Navaen Hostage (Way of Navae))
+-   [Bandit](Bandit.md) Camp
+-   Knives of Eylis along with a Navaen Hostage
 -   [Hobo](Hobo.md)
--   Those pathfinders that you can turn in to Alastir in the Pathfinder's Respite (the Legion NPCs will grip them on sight, some spawned right in front of the camp.)
--   I seem to remember Central Authority NPCs spawning by the Legion camp, spawning to attack the NPCs in the camp, and some spawning in wars with the Legion. It was a while ago, though, so, correct me if I'm wrong, please.
--   If I edited anything wrongly, please message me. Chezzy#0873
+-   Pathfinder Camp
+
+## Trivia/Notes
+
+-   One of the only locations in Lower Erisia known to spawn Terrapods.
+-   Shares a name with 3 other locations being, The cave where the glider schematic is obtained past the mudskippers event, and the Sharkos nest.

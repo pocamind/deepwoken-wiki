@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 37881
+revid: 38514
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -27,10 +27,6 @@ categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
 | pass down | Yes |
 | obtainment | Chests in The Depths |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
-
-“ I know no nerf. ”
-
-― CBoW user seeing Forgotten Gladius being nerfed
 
 ## **Description**
 

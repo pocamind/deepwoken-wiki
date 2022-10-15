@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 38463
+revid: 38472
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -24,12 +24,6 @@ categories: [Weapons, Daggers]
 | pass down | Yes |
 | obtainment | Starter Weapon, Etris, Lower Erisia |
 | description | "A remarkably thin blade often likened to (and used as) a toothpick." |
-
-“ Oi, you got a license for that knoife? ”
-
-― Authority Peacekeeper watching a bandit shank a loyal citizen, and doing absolutely nothing about it
-
-  
 
 ## Description
 

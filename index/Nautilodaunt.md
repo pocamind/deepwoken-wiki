@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 37838
+revid: 38488
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,11 +8,6 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
-
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
-
-  
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_
 
 ## Description

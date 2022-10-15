@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 38427
+revid: 38479
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Daggers, Weaponry]
@@ -26,10 +26,6 @@ categories: [Weapons, Items, Daggers, Weaponry]
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Fishing Chests, Voidwalker's chest |
 | description | "" |
-
-“ This is a medium, right? Woah guys im so good at the game i fought a king thresher ”
-
-― A Medium User farming on Aratel Island
 
 ## Description
 

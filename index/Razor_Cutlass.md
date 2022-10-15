@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 36918
+revid: 38497
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Swords, Items]
@@ -24,12 +24,6 @@ categories: [Weapons, Weaponry, Swords, Items]
 | pass down | Yes |
 | obtainment | Songseeker Wilds (Chests), Minityrsa (Chests), Artifact Turn-Ins |
 | description | "A serrated cutlass fashioned after the famously brutal bite of a lionfish" |
-
-“ Yarr, matey! Shiver me timbers! ”
-
-― Unknown Celtor
-
-  
 
 ## Description
 

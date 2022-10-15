@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 37737
+revid: 38501
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -25,12 +25,6 @@ categories: [Weapons, Spears]
 | pass down | Yes |
 | obtainment | Etris Weapon Store |
 | description | "A spear perfect for poking at a safe distance" |
-
-“ HOW AM I STILL DYING TO MUDSKIPPERS EVEN THO THE SPEAR HAS 10 RANGE ”
-
-― A clueless freshie
-
-  
 
 ## Description
 

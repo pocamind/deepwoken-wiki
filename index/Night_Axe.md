@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 32638
+revid: 38505
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -28,10 +28,6 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | pass down | Yes |
 | obtainment | Confirmed drop from Minityrsa shadow npcs, |
 | description | N/A |
-
-“ The night begins to shine! ”
-
-― A Ganymede screaming to a freshie
 
 ## Description
 

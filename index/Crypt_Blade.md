@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 38007
+revid: 38513
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -26,10 +26,6 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 | pass down | Yes |
 | obtainment | Chests in The Depths; The Duke loot pools |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
-
-“ Hi son, I'm back! ”
-
-― Deepwoken player's dad coming home after he decides to stop using Crypt Blade.
 
 ## Description
 

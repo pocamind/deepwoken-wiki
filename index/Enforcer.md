@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 38429
+revid: 38484
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters, Boss]
 
 # Enforcer
 
-“ Alright, time to go beat the trial sharko. ”
+“ ...It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 
-― Level 50 Etrean, unaware of his fate
+― Enforcer's Axe description
 
   
 Template:Creature Info Box v2
