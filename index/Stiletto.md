@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 38426
+revid: 38463
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -39,3 +39,4 @@ The Stiletto is a dagger that Light weapon users start with when beginning the g
 
 -   This is the only starter weapon not used by NPCs, instead Bandits use the [Gilded Knife](Gilded_Knife.md).
 -   It does less damage than [Fists](Fists.md) for some reason :|
+-   Pretty bad weapon overall, you should replace it with something better as soon as possible.

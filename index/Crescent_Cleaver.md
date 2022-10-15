@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 37953
+revid: 38464
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords]
 |---|---|
 | type | Heavy Greatsword |
 | requirements | 40 HVY, 10 STR |
-| damage | 22.4 |
+| damage | 22 |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.6x |
