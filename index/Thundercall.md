@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 37385
+revid: 38525
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -339,7 +339,7 @@ Lightning Cloak
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning cloak has only one requirement.** 100 Thundercall, proven by archmage (link below talents)
+-   **Lightning cloak has a requirement of 75 Thundercall since 10/10/2022.**
 -   Drains Ether. (Almost at par with a well-trained Murmur: Ardour.)
 
  | Duration:
@@ -747,7 +747,6 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
--   Proof of Lightning cloak([https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png](https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png))
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.  
     
     Virudhaka's Sword
