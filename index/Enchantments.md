@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38277
+revid: 38521
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -106,7 +106,7 @@ There are two variants that enchantments come in:
   <td><figure>File:GRIM.png<figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
-  After hitting the target there is a random chance for Grim proccing Signaled by red bubbles.<br>
+  After hitting the target up to 5 times, this will cause Grim to proc, signaled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
@@ -195,7 +195,8 @@ There are two variants that enchantments come in:
   <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><center><br>
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
-  The slash is parryable.<br>
+  On proc, a red slash will follow up after a successful m1 on the target<br>
+  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
   Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
@@ -223,7 +224,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, deals 20% more damage.<br>
+  <td><div><p>On proc, deals 40% more damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
   Rarely, take self damage equal to 90% of the weapon's damage and inflicts a great amount of damage to the opponent, more than 20% damage (tested with exploits).</p></div></td>
