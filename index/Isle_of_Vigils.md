@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 38244
+revid: 38537
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -94,4 +94,3 @@ Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. Testing showed that there is a high chance of a chest as I found in 1 hour about 30-40 chests.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
--   There is more lore added. Lance's brother(aka RRR) may be a shapeshifter and Stratos mentions RRR. Something is going on...
