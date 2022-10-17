@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 38485
+revid: 38556
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -1412,7 +1412,9 @@ Allows the user to slide without delay.
  | Mudskipper Chests, Primadon Chests, Depths Chests |
 | File:Light eater ring.jpg | 
 
-[Light Eater Ring](Light_Eater_Ring.md)|
+[Light Eater Ring](Light_Eater_Ring.md)
+
+ | 
 
 Getting hit by a Lightning or Fire mantra recovers ether.
 
@@ -1432,7 +1434,9 @@ Grants one random buff.
  | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
 | File:Purifyingring.PNG | 
 
-[Purifying Ring](Purifying_Ring.md)|
+[Purifying Ring](Purifying_Ring.md)
+
+ | 
 
 Allows wearer to drink seawater and acid with no side effects.
 

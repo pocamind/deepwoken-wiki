@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 38415
+revid: 38555
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Luck, Character, Ingredients, Mechanics]
@@ -32,7 +32,7 @@ A Celtor finding the pulsating rings.
 -   10 Common to Rare Items, including:
     -   [Armor Schematics](https://deepwoken.fandom.com/wiki/Armors?so=search#Outfit_List)
     -   [Weapons](Weapons.md)
-    -   [Equipment](https://deepwoken.fandom.com/wiki/Armors?so=search#Armor)
+    -   Equipment
 
   
 
