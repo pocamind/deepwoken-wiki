@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 38217
+revid: 38591
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -95,8 +95,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 | 1 - 10 | Nothing (you are sent up without a fight) |
 | 11 - 19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30 - 39 | [Megalodaunt](Megalodaunt.md) |
-| 40 - 49 | Corrupted [Megalodaunt](Megalodaunt.md) |
+| 30 - 49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.

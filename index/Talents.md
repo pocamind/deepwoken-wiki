@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38466
+revid: 38589
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -61,6 +61,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
     -   Stacks with other means of fall damage reduction.
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red mist around the player's eyes.
+    -   Prerequisites: 5 Agility
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
     -   The same red mist from time to go is applied here.
     -   Prerequesite: Time To Go
@@ -798,9 +799,14 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Lancer
 
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility, +3 Health)
+    -   Prerequisites: 30 Medium, Using a spear
 -   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
+    -   Prerequisites: 50 Medium, Using a spear
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
+    -   Can be identified by purple aura surrounding the character, goes on ?? second cooldown
+    -   Prerequisites: 30 Medium, Using a spear
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
+    -   Prerequisites: 30 Medium, Using a spear
 
 ### Leader
 
@@ -814,6 +820,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
     -   Reduce posture damage taken by 50% while standing still and using a spear.
+    -   Prerequisites: 15 Fortitude, Using a spear
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
 -   Gale Dash \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
