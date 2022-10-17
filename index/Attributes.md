@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 37383
+revid: 38577
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -175,9 +175,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
-“ FREEZE! DON'T MOVE! ”
+“ You already know, I'm cold with it! ”
 
-― Gremorian Frostdrawer, charging their Ice Beam at a clueless Khan.
+― Adret Frostdrawer after landing the coldest combo known to man.
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
