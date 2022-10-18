@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 37968
+revid: 38666
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,7 +10,7 @@ categories: [Items]
 
 | Umbral Obsidian | |
 |---|---|
-| value | (Work in Progress) |
+| value | 10 |
 | weight | (Work in Progress) |
 | type | Attunement Item |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 38551
+revid: 38670
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -108,8 +108,6 @@ The most important part of this fight is parrying the **Talon Swipe** attack. Af
 When using **Feather Teleport** or **Whirling Dash**, the Owl will likely then attempt to **Flying Grab** the player. The optimal course of action is to roll to the left or right when the Owl tilts its head down to grab.
 
 The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key, similar to blocking multi-hit moves from other enemies.
-
-  
 
 ## Lore
 
