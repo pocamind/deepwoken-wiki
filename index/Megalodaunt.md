@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 38603
+revid: 38654
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-_Commonly referred to as Shark, Sharko._
+_Commonly referred to as a sharko_
 
 “ ...Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. ”
 
@@ -206,6 +206,7 @@ A Megalodaunt swimming.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
+-   They can give you head but be careful they dont bite your dick off
     -   Moves such as **Thousand Needles** and **Spit** are, however, really hard to avoid, as it covers a good Area of Effect.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](Outfits.md#arms) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.

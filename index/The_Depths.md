@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 38647
+revid: 38662
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -35,7 +35,6 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
     -   [Fragments of Self](Fragments_of_Self.md)
     -   Marauders Entrance
 -   Layer 2
-    -   Chicky pie
 
 ## **Escaping The Depths**
 
