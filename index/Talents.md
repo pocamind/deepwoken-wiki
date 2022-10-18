@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38589
+revid: 38628
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -52,7 +52,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
-    -   Prequesites: ANY Strength above 0 & 15 Agility
+    -   Prequesites: 15 Agility
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility + 1 Health)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
 -   Quick Recovery \[Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
@@ -175,9 +175,9 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 ### Athlete
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
--   Heavy Lifting \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
-    -   Negate the movement speed penalty of heavy weapons.
-        -   Prerequisites: ?? Strength and ?? Fortitude
+-   ~Heavy Lifting \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)~
+    -   ~Prerequisites: ?? Strength and ?? Fortitude~ (Removed as of **18/10/2022**)
+
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: 5 Strength and ?? Agility
 
@@ -656,12 +656,12 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Gunslinger
 
--   Aerial Shot \[Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+-   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   Allows you to use gun critical.
-    -   Prerequisites: 10 Intelligence, use a Gun
+    -   Prerequisites: 15 Intelligence, use a Gun
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence, Use a Gun, Ether Bullets
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
@@ -1368,12 +1368,12 @@ These Talents are designed to make you more effective in water.
 ### **Weapon Master**
 
 -   Matador \[Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
--   Aerial Spin \[Common Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+-   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 30 Light Weapon
--   Aerial Stab \[Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+-   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
 
--   Aerial Kick \[Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+-   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
     -   Prerequisites: 25 Light Weapon, Using Fists
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
@@ -1386,16 +1386,16 @@ These Talents are designed to make you more effective in water.
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
--   One Handed Training \[Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon
--   Heavy Hitter \[Common Talent\] - \[Greatsword/Greathammer\] Your posture damage is increased by 20%. (+3 Health) \[This is a _FULL-ON Lie_, It still doubles the GreatSword Posture Damage, and does _NOT_ increase GreatHammer's.\] \[\[Tested Through Guards and Players.\]\]
+-   Heavy Hitter \[Common Talent\] - \[Greatsword/Greathammer\] Your posture damage is increased by 25%. (+3 Health) \[This is a _FULL-ON Lie_, It still doubles the GreatSword Posture Damage, and does _NOT_ increase GreatHammer's.\] \[\[Tested Through Guards and Players.\]\]
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
     -   Prerequisite: 25 Strength, Harsh Response & greatsword equipped.
 
 -   Boom, Headshot \[Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
--   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+2 Health)
+-   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
     -   Prerequisite: 40 Strength
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisite: ?? Agility, ?? Light Weapon, Aerial Spin

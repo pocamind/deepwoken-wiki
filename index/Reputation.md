@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 38054
+revid: 38600
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -74,6 +74,8 @@ The Summer Company Logo, w/ Indication of positive rep.
 ### Resetting Enmity
 
 Players can reset their reputation of a faction to Neutral by **bribing** their respective NPCs.
+
+At the lowest reputation possible, it will cost 300 notes to clear your name.
 
 | Image | Faction | Description | Location |
 | --- | --- | --- | --- |

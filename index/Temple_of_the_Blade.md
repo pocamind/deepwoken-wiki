@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 38001
+revid: 38599
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -93,6 +93,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. He will ask if you know that you are working for a murderer, Further dialogue triggers a bone-chilling atmosphere.
 -   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, and the option to increase 1 of your Attributes at the cost of Notes.
     -   You can question Kelsius what Khan told you, either bluntly or politely ("Are you a Murderer?" or "Who are you, really?")
+    -   Talking to Kelsius after completing [Tutorial](Tutorial.md) will give you unique dialogue, but you will not recieve a mantra hand due to already getting one
 
 ### The Wind Woken Quest
 

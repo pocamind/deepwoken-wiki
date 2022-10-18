@@ -1,18 +1,12 @@
 ---
 title: Frostdraw
-revid: 37517
+revid: 38624
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Frostdraw
-
-“ Ka...me...ha...me... ”
-
-― An unknown Khan using an ice beam with 9 Stratus Stones
-
-  
 
 ## Description
 
@@ -255,28 +249,6 @@ _Form an ice spear and lunges forward._
 -   Briefly slows target.
 
  |
-|  | 
-
-Ice Lasers
-
-(★★)
-
- | 
-
-_Swift bolts of frozen air._
-
- | Fires a bullet of ice.
-
--   Bad Hitbox.
--   Damages opponents, _possibly slows them down._
--   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
--   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
--   Ice Beam is better.
--   Use 2 stratus stones to turn it into a 5 shot burst gun.
-
-  
-
- |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
 
   
@@ -327,6 +299,26 @@ _Impale your foes with a brutal crystal smash._
 
 -   Deals around six to eight hits.
 -   Can be combo-ed if paired with an unmodified "Crystal Knee" mantra.
+
+ |
+|  | 
+
+Ice Lasers
+
+(★★)
+
+ | 
+
+_Swift bolts of frozen air._
+
+ | Fires a bullet of ice.
+
+-   Bad Hitbox.
+-   Damages opponents, _possibly slows them down._
+-   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
+-   Ice Beam is better.
+-   Use 2 stratus stones to turn it into a 5 shot burst gun.}
 
  |
 

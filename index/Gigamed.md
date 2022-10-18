@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 38104
+revid: 38614
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster, Enemies]
@@ -31,10 +31,6 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
     
 
 **King Gigamed:**
-
-“ SHIVR ME TIMBER ”
-
-― An ordinary average Freshie getting the electric chair. Also he was an Adret
 
 Template:Creature Infobox V3
 

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 37512
+revid: 38613
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster, Enemies]
@@ -9,10 +9,6 @@ categories: [Monsters, Monster, Enemies]
 # Brainsucker
 
 Template:Creature Infobox V3
-
-“ JESUS CHRIST PISS OFF ALREADY!! ”
-
-― A power 20 Gremor trying to sail to Summer Isle
 
 ## Description
 

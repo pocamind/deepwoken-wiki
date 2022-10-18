@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 38493
+revid: 38618
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,10 +27,10 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Katana is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Talents?so=search#Vigil) that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), The Depths and Primadon. This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack, a forward stab, the katana will make the user lunge forward.  
+The Katana is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Talents?so=search#Vigil) that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack, a forward stab, the katana will make the user lunge forward.  
 
 ## Trivia
 
--   The Blade Temple Guards on The Isle of Vigils use Katanas.
+-   The [Blade Temple Guards](Blade_Temple_Guard.md) on The Isle of Vigils use Katanas.
 -   Katana damage is increased by 25% when wearing the [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) [Outfit](Outfits.md), due to the [Outfit](Outfits.md)'s innate talent, _[Paired Soul](https://deepwoken.fandom.com/wiki/Talents?so=search#Vigil)_.
 -   The Katana along with the [Shattered Katana](Shattered_Katana.md) are the only weapons in the game with a scabbard.

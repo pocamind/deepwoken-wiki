@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 34672
+revid: 38615
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,11 +8,6 @@ categories: [Pages with broken file links, Monsters]
 
 # Crustaceous Rex
 
-“ Hello, I like breaking your ribcage. ”
-
-― Crustaceous Rex when asked what inspired them to build a second church right next to the original.
-
-  
 Template:Creature Infobox V3
 
 _Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_

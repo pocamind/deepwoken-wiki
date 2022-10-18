@@ -1,16 +1,12 @@
 ---
 title: Thundercall
-revid: 38588
+revid: 38620
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
 ---
 
 # Thundercall
-
-“ Go go gadget, Medium Lightning Spam! ”
-
-― Classic Thundercaller
 
 _Thundercall icon_
 

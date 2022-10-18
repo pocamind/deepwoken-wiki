@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 38550
+revid: 38623
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -58,7 +58,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 **Exclusive to The Depths: Scyphozia (Layer 1)**
 
-**Exclusive to The Depths: Etheron (Layer 2)**
+**Exclusive to The Depths: Ethiron(Layer 2)**
 
 **Dungeon: Trial of One**
 

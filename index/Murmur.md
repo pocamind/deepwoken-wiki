@@ -1,16 +1,12 @@
 ---
 title: Murmur
-revid: 38134
+revid: 38602
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
 ---
 
 # Murmur
-
-“ Become Sharko ”
-
-― Journal of Jericho
 
 File:Ardour Scream gif.gif
 
@@ -34,7 +30,7 @@ Murmurs scales with player level, reaching their maximum potential at power 60.
 
 Template:ImageCaption Infobox _"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage.
+**Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
 By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost is reduced to 0 at power 58
 

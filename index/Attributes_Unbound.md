@@ -1,19 +1,15 @@
 ---
 title: Attributes Unbound
-revid: 37874
+revid: 38597
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attributes Unbound
 
-“ I'm Stronger!...I'm Smarter!...I'm Better.. I AM BETTER!!!!! ”
-
-― The Homelander
-
 **Attributes Unbound**, also known as _uncapping_ or _limit breaking_, are a set of Talent Cards that the player can obtain to push their training further than that of the common man.
 
-[Attributes](Attributes.md) are normally allowed to go up to 75 (77 if a race start with +2 in it). Obtaining these cards allow the player to go up to 100 (102 if a race start with +2 in it). Note that there are no talent or anything else requiring to specifically be above 75 in a given attributes, these only allow player to min-max their build more to their liking.
+[Attributes](Attributes.md) are normally allowed to go up to 75 (77 if a race start with +2 in it). Obtaining these cards allow the player to go up to 100 (102 if a race start with +2 in it). Only a handful of talents require stats past 75, so uncapping is not a necessity for every build.
 
 ## Character Attributes Unbound
 
@@ -44,7 +40,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a [Soul Hearthgem](Soul_Hearthgem.md), guarded by a guaranteed [Megalodaunt](Megalodaunt.md) spawn.
+2.  Enter the Garden Reservoir and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located inside a small cave with acid that must be ran throught, not far from the Megalodaunt in the area.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps

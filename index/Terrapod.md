@@ -1,16 +1,12 @@
 ---
 title: Terrapod
-revid: 37943
+revid: 38611
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Terrapod
-
-“ YOU THINK I'M A COWARD LIKE YOU? ”
-
-― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
 Template:Creature Infobox V3 **Also known as Crazy-Crabs, Annoying Scissor Things or Headcrabs.**
 
