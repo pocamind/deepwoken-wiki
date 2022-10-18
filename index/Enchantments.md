@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38554
+revid: 38649
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -428,7 +428,11 @@ Vampirism enchant on a Khan Shield
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
-    -   Curse of the Umbral Knight > Umbral Knight
+    -   File:Azure flames blazing.png
+        
+        Azure Flames Blazing
+        
+        Curse of the Umbral Knight > Umbral Knight
     -   Bungee Gum > Elastic
     -   Combustion > Blazing
     -   Hero > Heroism

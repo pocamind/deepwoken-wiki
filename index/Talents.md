@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38628
+revid: 38634
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
@@ -117,7 +117,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Prerequisites; ? Amount Of Backstabs
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility & 20 Fortitude
+    -   Prerequisites: 15 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
@@ -776,7 +776,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger.
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
-    -   Natural increase in Stealth. Gain bonus agility when climbing wooden bricks, like trees.
+    -   Natural increase in Stealth. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 -   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. (+1 Health)
     -   Status effects, good or bad, are shorter.
 
