@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 38100
+revid: 38708
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1119,13 +1119,14 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 -   A nearly endless, robotic legion of soldiers that serve [The Voices](Voices_of_the_Depths.md).
 -   They are powered by the souls of those who have failed the Depth Trials, and thus, the more people that die in the trials, creates more Enforcers in the future.
+-   They are hostile to every monster.
 
 ### Nautilodaunt
 
 -   Humanoid squid monsters found digging in [The City of Celtor.](The_City_of_the_Drowned.md)
 -   Though one is only seen at a time, there are multiple of them.
     -   They may be very territorial, thus not letting others in to their digging spot.
--   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).
+-   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md) and other Nautilodaunts (small chance.)
 -   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.
 
 ## Player Lore

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38684
+revid: 38711
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -660,8 +660,9 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   Allows you to use gun critical.
-    -   Prerequisites: 15 Intelligence, use a Gun
+    -   Allows you to use gun critical if you don't have bullets
+        -   With bullets crit unlocks at 10 intelligence
+    -   Prerequisites: 10 Intelligence, use a Gun
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence, Use a Gun, Ether Bullets
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
