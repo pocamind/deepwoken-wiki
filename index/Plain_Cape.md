@@ -1,8 +1,9 @@
 ---
 title: Plain Cape
-revid: 37998
+revid: 38689
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Back]
 ---
 
 # Plain Cape

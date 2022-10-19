@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 37848
+revid: 38705
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -71,6 +71,7 @@ The doors to enter the Lordsgrove.
 
 -   There is a hidden laboratory behind a breakable bookshelf, it serves no purpose as of 05/23/2022.
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by naktigonis.
+    
 
 ### Canopy Plaza
 

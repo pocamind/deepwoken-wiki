@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 38620
+revid: 38702
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -335,10 +335,10 @@ Lightning Cloak
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning cloak has a requirement of 75 Thundercall since 10/10/2022.**
+-   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
 -   Now requires you to hit an opponent within 3 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 30 seconds. (buff to at least 5 secs pls)
 
- | Duration:
+ | Duration: 3.5-30 secs
 
 Cooldown:
 
