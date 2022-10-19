@@ -1,9 +1,9 @@
 ---
 title: Mudwoken
-revid: 36586
+revid: 38685
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, April Fools]
 ---
 
 # Mudwoken

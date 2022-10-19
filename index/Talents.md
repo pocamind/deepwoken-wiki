@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 38671
+revid: 38684
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
 notices:
   - This page is currently being worked on. Categories shall be added soon.
 ---
