@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38649
+revid: 38721
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -246,21 +246,22 @@ There are two variants that enchantments come in:
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 50% more damage in PVE.<br>
-  Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.</p></div></td>
+  Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.<br>
+  <b>Obtainable</b></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><center><br>
-  <font>Cosmic<div></div></font></center></td>
-  <td><div><p>A super charged attack on proc.<br>
-  <b>yayafino Dev Spec</b></p></div></td>
+  <font>Life Weave<div></div></font></center></td>
+  <td><div><p>A super charged attack on proc. Exclusive power belonging to the Hive.<br>
+  <b>yayafino Dev Spec</b><br>
+  <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is blown out with shooting out exhausts of the colors red, yellow, and green.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><center><br>
   <font>Providence of Storms<div></div></font></center></td>
   <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.<br>
-  <b>Enchant is disabled for Non-Developers</b><br>
   <b>Removed from the game</b></p></div></td>
   <td><div>Weapon is invisible and covered with yellow mist with dots all around.</div></td>
 </tr>
@@ -268,15 +269,16 @@ There are two variants that enchantments come in:
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><center><br>
   <font>Tainted Sorrow<div></div></font></center></td>
   <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
-  <b>Enchant is currently unobtainable (mods do not have access to this enchant)</b><br>
-  <b>Only obtainable via dev interaction</b></p></div></td>
+  <b>Currently unobtainable (mods do not have access to this enchant)</b><br>
+  <b>Obtainable via dev interaction</b></p></div></td>
   <td><div>Weapon has the effects of the Displacement and Wild enchants, combined with a purple-blue haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:Newunstable.png<figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
-  <td><div><p>Every M1 has a chance proc 3 random enchant's effect on hit.<br>
-  <b>Only obtainable via Developer</b></p></div></td>
+  <td><div><p>Variant 1: Each (LHT: 7, MED: 5, HVY: 3) M1 hits will proc a random enchant.<br>
+  Variant 2: Same with Variant 1 but your weapon will have a random selected weapon animations. <b>Fist doesn't get affected by this variant</b><br>
+  <b>Only obtainable via Developer by reporting serious bugs/exploits or having a big impact in the community</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 38708
+revid: 38715
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -149,12 +149,12 @@ Yun'shul
 
 **Lore Sources:** _Visionshaper Obtainment Method_
 
--   A visual representation of the hivemind that all owls are a part of.
--   Consumes human thought as food.
--   Sees reality in a different way compared to us.
+-   The Nestmind is a visual representation of the hivemind that every [Deep Owl](Deep_Owl.md) is a part of.
+-   The Nestmind, and Deep Owls as an extension, consume human thought as food.
+-   They see reality in a different way compared to the player.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
-    -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
+    -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
 
 ### **The Ferryman**
@@ -215,12 +215,12 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 #### Markor
 
--   A savanah nation conquered by The Central Authority.
--   Creators of Scimitars and similar blades.
+-   A savannah nation conquered by The Central Authority.
+-   The origin of Scimitars and similar blades.
 
 #### Markor Citadel
 
--   A building used as the headquaters of The Divers.
+-   A building used as the headquarters of The Divers.
 
 ### **Southern Luminant**
 
@@ -331,13 +331,13 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown/None_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, The Knives of Eylis, The Songseekers, The Kingdom of Etrea_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
--   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, their beliefs primarily of Navae.
-    -   (Arch\_Mage) Navae is personified as a Female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
-        -   In the Etrean Luminant (East), The Gremor Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
+-   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
+    -   (Arch\_Mage) Navae is personified as a female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
+        -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
         -   Assumed to be a Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
--   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
--   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight
+-   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
+-   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 

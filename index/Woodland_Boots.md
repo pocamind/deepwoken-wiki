@@ -1,15 +1,15 @@
 ---
 title: Woodland Boots
-revid: 35687
+revid: 38724
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Woodland Boots
 
-“ Placeholder ”
+“ I took the wooooock to poland ”
 
-― Placeholder
+― Lil yachty
 
 Template:EquipmentStats
 

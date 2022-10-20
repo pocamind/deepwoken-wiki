@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 37814
+revid: 38716
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -10,11 +10,11 @@ categories: [Map, Attunement, Mantras, Magic, Locations]
 
 ## Description
 
-Luminants are described to be certain regions of the world in Deepwoken. As of 1/20/22, there is only one Luminant in the game, which is the Etrean Luminant, implied to be ruled by people of Etrea. In the future, you will be able to travel to other Luminants through the use of a [Lighthouse](Lore.md#eastern-interstitial-lighthouse). Lighthouses are explained in the lore of [Lightkeepers](Lore.md#lightkeepers).
+Luminants are described to be certain regions of the world in Deepwoken. As of 1/20/22, there is only one Luminant in the game, which is the Etrean Luminant, implied to be ruled by people of Etrea. In the future, you will be able to travel to other Luminants through the use of an [Interstitial Lighthouse](Lore.md#eastern-interstitial-lighthouse). Lighthouses are explained in the lore of [Lightkeepers](Lore.md#lightkeepers).
 
 Once more Luminants are added, you will most likely be able to spawn in a different Luminant when creating a character. However, this is just speculation.
 
-## Etrean Luminant
+## Etrean/Eastern Luminant
 
 A Luminant that is mostly under the rule of Etrea. It is the only current released Luminant. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. The Luminant is currently in a never-ending state of war, as the Central Authority has been fighting against Etrea for a while.
 
@@ -26,7 +26,7 @@ This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all 
 
 ## Central Luminant
 
-A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by the Knives of Eylis, also known as the Whalers, which use an [Oath](Oaths.md) magic called _Adagio_ that slows down time in a bubble.
+A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers, which use an [Oath](Oaths.md) magic called _Adagio_ that slows down time in a bubble.
 
 This Luminant is probably a link between all [Attunements](Attunements.md), or home to people with [no attunement](Attunement-less.md).
 
@@ -36,10 +36,10 @@ It is home to the Legion and might be ruled over by the Khans. This is hinted at
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here.
 
 ## Northern Luminant
 
-The Northern Luminant holds the frigid landscape of the Glacial Coast, commented by Polis in Etris.
+The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris.
 
 This Luminant is probably home to [Frostdraw](Frostdraw.md).
