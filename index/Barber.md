@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 38668
+revid: 38743
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,8 +29,9 @@ To use some of his features, a hair ID from the catalog is needed.
 
 1.  Sure. (Allows Hair Customization.)
 2.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
-3.  Change my gender. (Changes gender to male, female, or neutral.)
-4.  Change my face. (Changes face decal.)
+3.  Change my eyelashes (Changes your eyelashes as said.)
+4.  Change my gender. (Changes gender to male, female, or neutral.)
+5.  Change my face. (Changes face decal.)
 
 ## Trivia
 

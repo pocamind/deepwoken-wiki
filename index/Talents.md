@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38711
+revid: 38737
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -53,12 +53,15 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
     -   Prequesites: 15 Agility
--   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility + 1 Health)
+-   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
+    -   Prerequisites: 10 Agility, 10 Strength
 -   Quick Recovery \[Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
+    -   Prerequisites: 15 Agility
 -   Graceful Landing \[Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
+    -   Prerequisites: 25 Agility
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red mist around the player's eyes.
     -   Prerequisites: 5 Agility
@@ -68,7 +71,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 
 ### Aerial Dancer
 
--   Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
+-   Wyvern's Claw \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
     -   Prerequisites: 15 Strength, Aerial Stab
     -   Synergizes well with Aerial attack Talents.
     -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
@@ -111,6 +114,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
+    -   Prerequisites: 5 Agility
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
@@ -123,6 +127,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Negate the speed penalty of critical health (<30% HP)
 
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
+    -   Prerequisites: 20 Agility
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, Swift Rebound
 
@@ -164,9 +169,10 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 ### Assassin
 
--   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health, +1 Posture)
+-   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   Also apply to sheathing.
     -   Does nothing on fist as they are silent by default.
+    -   Prerequisites: 20 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -205,6 +211,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   15 Fortitude + ?? Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
+    -   Prerequisites: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
@@ -263,6 +270,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+    -   Prerequisites: 15 Agility
 -   Observation \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
     -   Prerequisite: 20 Agility
@@ -1060,8 +1068,8 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 
 ### Shade
 
--   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
-    -   Prerequisites: Agility
+-   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +3 Health)
+    -   Prerequisites: 20 Agility
 -   Vanishing Follow-up \[Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
     -   A stationary roll is activated upon teleport
     -   Prerequisite: 40 Agility
@@ -1337,6 +1345,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Blade Dancer \[Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
 -   Spinning Swordsman \[Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Prerequisite: 20 Strength, 20 Agility
