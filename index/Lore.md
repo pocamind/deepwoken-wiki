@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 38715
+revid: 38730
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -790,6 +790,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
     -   Thundercall concentrates the energies of electricity.
+    -   Has been quoted by the Pathfinder Neero to be a power source for most everything.
 
   
 
@@ -818,6 +819,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
+-   Lightkeepers are possibly important for nautical travel between luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between luminants without any blessing from a Lightkeeper.
 -   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.

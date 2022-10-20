@@ -1,15 +1,15 @@
 ---
 title: Legion Boots
-revid: 35711
+revid: 38727
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Legion Boots
 
-“ Placeholder ”
+“ I'm one step closer to becoming a legionnaire if I put on these boots. ”
 
-― Placeholder
+― Excited Khan
 
 Template:EquipmentStats
 

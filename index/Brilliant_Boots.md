@@ -1,11 +1,15 @@
 ---
 title: Brilliant Boots
-revid: 36194
+revid: 38726
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Brilliant Boots
+
+“ Brilliant? These boots aren't brilliant, they're mid. ”
+
+― Random Guy
 
 Template:EquipmentStats
 

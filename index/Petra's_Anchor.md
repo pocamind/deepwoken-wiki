@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 38511
+revid: 38731
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -30,6 +30,8 @@ categories: [Weapons, Greathammers]
 ## Description
 
 Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a Heavy Weapons requirement 75 and a Strength requirement of 10 to equip.
+
+"The Anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
 
 ## Trivia
 
