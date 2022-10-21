@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 34669
+revid: 38768
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -13,9 +13,9 @@ categories: [NPCs, Random Encounters]
 | name | Akira |
 | location | Castle Light, Celtor Wastes (Random Event) |
 
-“ I'll take a potato chip... AND EAT IT!!! ”
+“ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”
 
-― Akira sapping 17 years of his life away because a bell user called him dumb
+― Akira
 
 ## Description
 

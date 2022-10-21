@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 38372
+revid: 38769
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -116,4 +116,4 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
--   You can get **enchants**, **gems**, and **legendary equipment** (maybe weapons) from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.
+-   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.

@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 37855
+revid: 38773
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ categories: [Items]
 
 ― In game description
 
-Ardour Manifestation is a reward granted upon killing ; The Ferryman, The Duke, and Ardour themselves. The only time this item is not granted is either which you already own the item in your inventory or if you already possess the Murmur : Ardour.
+Ardour Manifestation is a reward granted upon killing any bosses, even Dread Serpent themselves. The only time this item is not granted is either which you already own the item in your inventory or if you already possess a Murmur (Ardour or Tacet).
 
 ## Trivia
 
