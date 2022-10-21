@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 38702
+revid: 38760
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -102,7 +102,7 @@ Lightning Impact
  | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
 -   Can be upgraded with the Talent, Rains of Static.
--   Can light opponents and the player on fire. (Tested. happened to me while I was testing it)
+-   Can light opponents and the player on fire.
 -   Applies knockup.
 
  | Damage:
@@ -312,7 +312,7 @@ Lightning Assault
  | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be upgraded with Cloudstones. I tested with drift shards, but didn't see a huge difference.
+-   Can be upgraded with Cloudstones.
 
  | Damage:
 

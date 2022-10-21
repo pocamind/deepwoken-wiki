@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 38375
+revid: 38756
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -93,8 +93,7 @@ Each section describing the phases explains in great detail how to deal with his
 -   Both variations of the lightning strike move can be interrupted by simply hitting the Ferryman. The best strategy is to simply run at him and start wailing on him, as the lightning strikes won't work.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
--   It is heavily recommended to use light or medium weapons as the running attack of a heavy weapon will knock him back, making the fight more tedious than it has to be.
-    -   If you do choose to fight the Ferryman with heavy weapons, you should always have a good approaching move such as shoulder bash or rapid punches, as this will cancel your dash attack and put the Ferryman in hitstun.
+-   With the update to giving heavy weapons an aerial attack, it is now alot easier to beat the Ferryman with heavy weapons, making it easy to beat with any weapon.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 -   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
     

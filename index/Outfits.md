@@ -1,8 +1,9 @@
 ---
 title: Outfits
-revid: 38053
+revid: 38762
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Outfits
@@ -55,6 +56,10 @@ _Deepwoken_ currently has 9 Expert Outfits that have been discovered.
 ### Master
 
 _Deepwoken_ currently has 5 Master Outfits that have been discovered.
+
+File:Kanye west.jpg
+
+Great Kanye West Armour
 
 ### Unique
 

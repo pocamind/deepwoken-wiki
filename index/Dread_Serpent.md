@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 38738
+revid: 38753
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -23,7 +23,7 @@ able?
 
  | Danger |
 | --- | --- | --- | --- |
-| Ice Beam | The Dread Serpent opens its mouth and releases a white-frost beam, dealing massive damage to those around it and freezing the water. | ? | (★★★) |
+| Ice Beam | The Dread Serpent opens its mouth and releases a white-frost beam, dealing massive damage to those around it and freezing the water. | ✗ | (★★★) |
 | Claw Swipe | Swipes two or one time in rapid succession
 
 **Note that this will insta-grip you if you are hit by the second hit on low health/knocked.**

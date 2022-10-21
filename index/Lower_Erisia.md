@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 38747
+revid: 38761
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -70,12 +70,6 @@ Events that spawn in Lower Erisia that typically do not involve combat. For more
 
 -   [Hobo](Hobo.md)
 -   [Pathfinder Gathering](Teacher.md)
-
-## Weather
-
-The weather for Lower Erisia.
-
--   Rain
 
 ## Loot Table
 
