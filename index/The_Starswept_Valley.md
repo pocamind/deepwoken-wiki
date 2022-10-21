@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 37893
+revid: 38785
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -61,7 +61,7 @@ Events that spawn in Starswept Valley that do not involve combat. For more info,
 
 The weather for Starswept Valley.
 
--   Sandstorm
+-   Sandstorm (Vision is obscured majorly while active)
 
 ## Loot Table
 

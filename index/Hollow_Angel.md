@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 37964
+revid: 38783
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -9,10 +9,6 @@ categories: [Pages with broken file links, Monsters]
 # Hollow Angel
 
 **Lesser:**
-
-“ Want to meet God? C'mon!!! Let's go together! ”
-
-― Lesser Angels relocating freshies to the afterlife
 
 Template:Creature Infobox V3
 
@@ -29,14 +25,10 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 ## Moveset
 
 -   **Light Attack** - Angels use black spears which deal 20-30 damage each hit.
--   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
+-   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
     
 
 **Regular:**
-
-“ IT HAS NO FUCKING ANIMATIONS!!! ”
-
-― Level 8 Vesperian, desperately trying to do trial of one.
 
 Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
@@ -44,7 +36,11 @@ Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings
 
 -   **Light Attack** - Angels use their Divine Spears dealing ~35 damage each hit. (they can feint)
 -   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal 15 damage, and stun.
--   **Heavy attack** - Regular spear heavy attack.
+-   **Critical** - Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes
+
+## Passive
+
+-   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
     
 
 ## Trivia

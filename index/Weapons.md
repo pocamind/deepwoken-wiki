@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 38701
+revid: 38781
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1409,18 +1409,15 @@ weapon offhands are weapons that can be wielded at the same time along with your
 
 ## Calculating Damage and Attack Speed
 
-Players can use this formula to figure out their complete damage.
+Players can use this formula to figure out their complete damage.  
+D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t e L e v e l 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling \\times AttributeLevel}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling\\times AttributeLevel}{1000}}}
 
-_**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling)**_
+Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.  
+D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u t e L e v e l 1 1000 + B a s e D m g × S c a l i n g 2 × A t t r i b u t e L e v e l 2 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling1 \\times AttributeLevel1}{1000} + \\frac{BaseDmg \\times Scaling2 \\times AttributeLevel2}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling1\\times AttributeLevel1}{1000}}+{\\frac {BaseDmg\\times Scaling2\\times AttributeLevel2}{1000}}}
 
-Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.
-
-_**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + AttributeLevel2((BaseDmg / 1000) ⋅ Scaling2))**_
-
-[_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)
-
-_[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_
-
+[_New damage calculator (non-legendary & legendary weapons, akira's & dawnfist ring)_](https://www.desmos.com/calculator/qioxvuo3kb)  
+[_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)  
+_[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_  
 _[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/yy8xvtjliq?lang=en)_
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)

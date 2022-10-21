@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 38211
+revid: 38776
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -225,7 +225,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**20 Intelligence,**_ _Support Mantra_
     -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
-    -   A spell-casting minigame must be completed in order to summon the cauldron, just like the Wisps and Graceful Flame.
+    -   A ritual spell must be completed in order to summon the cauldron, just like the Wisps and Graceful Flame.
 
  |
 | 
@@ -239,10 +239,10 @@ File:No Attunement Revamp.png
  | _Predict an opponent's attack and reflect it._ | 
 
 -   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
-    -   Spawns a white flooring pattern around the user. Any type of damage that were to be dealt to you will get reflected back onto the attacker, including it's negative effect.
+    -   Spawns a white flooring pattern around the user. Any type of damage that were to be dealt to you will get reflected back onto the attacker, including its negative effect.
     -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
         -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.
-        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after it activates (Stacks). \[did you mean to say that it will continue reflecting back damage until the mantra wears off?\]
+        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after the first prediction activates (Stacks).
 
  |
 

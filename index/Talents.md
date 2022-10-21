@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38737
+revid: 38784
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -79,6 +79,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 ### Aeromancy
 
 -   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisites: 25 Galebreathe
 -   Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
     -   Requirements: 30 Agility and Unknown amount of Galebreathe (30-45 Galebreathe)
@@ -172,7 +173,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   Also apply to sheathing.
     -   Does nothing on fist as they are silent by default.
-    -   Prerequisites: 20 Agility
+    -   Prerequisites: 15 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -380,6 +381,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Cryostasis
 -   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam
+-   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
 
 ### Cutthroat
 
@@ -395,6 +397,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 
 -   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping while sliding down a slope or off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
     -   Very tight activation window.
+    -   Prerequisites: 25 Galebreathe
 
 ### Darksiphon
 
@@ -625,6 +628,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
     -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
+    -   Prerequisites: 30 Galebreathe
 -   Inhale \[Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
     -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
 -   Skull Crusher \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)

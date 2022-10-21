@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 37133
+revid: 38779
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items, Gems]
 
 # Deep Gems
 
-**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but not 100% of the time. You get Deep Gems more often from the Depths than from Primadon or the Duke.
+**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but this is much less consistent and rarer than the other two methods. You get Deep Gems more often from the Depths than from Primadon or the Duke, especially from chests spawned from [Enforcers](Enforcer.md) or [Nautilodaunts](Nautilodaunt.md) during [Hell Mode](Hell_Mode.md).
 
 ~You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you _do_ kill it quickly~ Needs to be proven.
 
@@ -36,12 +36,12 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blessed Gem</td>
-  <td>Blessed Gem now halves the cooldown of the move you landed it on, and no longer affects other mantras</td>
+  <td>On hit, reduces the cooldown of the mantra it's on by half.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
-  <td>Reduces Mantra ether cost by half. (<s>Does not work with ritual casted mantras</s> works now)</td>
+  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.</td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>
@@ -49,7 +49,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
   <td>You will teleport to the first enemy hit by the mantra.</td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure>File:Wind gem 1st.png<figcaption></figcaption></figure></td>
   <td>Wind Gem</td>
   <td>Hitting an enemy with the mantra will increase your speed for 8 seconds, equivalent to the speed buff given after sliding down a slope.</td>
 </tr>
