@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 37887
+revid: 38747
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -145,4 +145,4 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
 ## Trivia/Notes
 
--   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend/boyfriend, so be careful.
+-   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.

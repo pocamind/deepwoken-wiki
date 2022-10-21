@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 38513
+revid: 38746
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -24,12 +24,12 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in The Depths; The Duke loot pools |
+| obtainment | Chests in The Depths |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
 
-The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from both [The Depths](The_Depths.md) and [The Duke](Duke_Ishamon_Erisia.md) loot pools. It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values. It has a base damage of 23, and scales to 54.1 damage with max Shadowcast and max heavy weapon.
+The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values. It has a base damage of 23, and scales to 54.1 damage with max Shadowcast and max heavy weapon.
 
 ## Trivia
 
