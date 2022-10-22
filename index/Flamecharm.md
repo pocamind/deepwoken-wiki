@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 38619
+revid: 38805
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -294,7 +294,6 @@ _A servant of flames._
 
 -   Heals the caster 5% HP over 5 seconds every 10 seconds.
 -   Ignites nearby campfire pits if not busy healing you.
-    -   ~Does not consume Wisp uses.~ This is false. I tested it with my hypermodded wisp and it could only like 23 fires before dissapearing.
 -   Ritual casting.
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
 -   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses
