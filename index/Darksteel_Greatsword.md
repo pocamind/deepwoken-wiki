@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 38508
+revid: 38800
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -35,5 +35,6 @@ The Darksteel Greatsword is one of the many heavy weapons you can obtain in the 
 
 ## Trivia
 
+-   Just like [Enforcer axe](<Enforcer's_Axe.md>). Darksteel greatsword critical attack gives a full hyperbody in the duration of the critical attack.
 -   Now it can be Alloyed it can be use as a endgame weapon. making it a good midgame weapon.
     -   When Alloyed, it's name is changed from Darksteel Greatsword to Darkalloy Greatsword.

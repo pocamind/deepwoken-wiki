@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 36274
+revid: 38791
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -8,9 +8,11 @@ categories: [Armors, Items]
 
 # Pathfinder Arch-Sorcerer
 
-Template:ArmorInfobox
+“ Spider Cloak in Deepwoken??!!!?? ”
 
-> "Spider Cloak in Deepwoken??!!!??" - an sc dsage that started to play deepwoken
+― An SC DSage that started to play Deepwoken
+
+Template:ArmorInfobox
 
 **Pathfinder Arch-Sorcerer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 

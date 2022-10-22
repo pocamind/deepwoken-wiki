@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 38130
+revid: 38792
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,7 +21,7 @@ categories: [NPCs]
 
 _Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you, which can make you fail the game. She posses the [Visionshaper](Oaths.md#oath-visionshaper) Oath, allowing her to cast illusions and create false versions of herself.
 
-Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if you come back during the winter."
+Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if you come back during the winter." This is a trap, as 4 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
 ## Event
 
