@@ -1,6 +1,6 @@
 ---
 title: Dockson
-revid: 38750
+revid: 38813
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Dockson is a Gunsmith at [Summer Isle](Summer_Isle.md), specifically, the [Summer Company's](The_Summer_Company.md) Castle near the Antiquarian. Like the most Summer Company's NPCS he use guns and sell them. Dockson have a table with 3 guns:
+Dockson is a Gunsmith at [Summer Isle](Summer_Isle.md), specifically, the [Summer Company's](The_Summer_Company.md) Castle near the Antiquarian. Like the most Summer Company's NPCS he use guns and sell them. Dockson have a table with 3 guns.
 
 He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt or killed by players or other npcs.
 

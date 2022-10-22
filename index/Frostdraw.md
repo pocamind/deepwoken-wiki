@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 38624
+revid: 38814
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -19,6 +19,8 @@ Frostdraw allows the user the ability to manipulate temperature to crystallize t
 Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
 
 The playstyle of this element is territory control and defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice making this a good defensive attunement. Although the first few mantras of frostdraw are considered generally weak, later mantras soon show the power of frostdraw. Though this attunement is slow compared to others, it is a heavy hitter. This attunement would most likely fit someone who likes playing defensive heavies.
+
+Also, the Chilling [Enchantment](Enchantments.md) inflicts the same effect that this attunement inflicts.
 
 ## Training
 

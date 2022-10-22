@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 36830
+revid: 38811
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -84,7 +84,7 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 
 ### [Flamecharm](Flamecharm.md)
 
--   [Hearthgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   [Hearthgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **100 uses**
 
 ### [Shadowcast](Shadowcast.md)
 

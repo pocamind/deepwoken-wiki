@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38808
+revid: 38816
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1407,7 +1407,7 @@ These Talents are designed to make you more effective in water.
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
+-   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon

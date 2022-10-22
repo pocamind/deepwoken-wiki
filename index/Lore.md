@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 38730
+revid: 38812
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1143,10 +1143,7 @@ At the year 1271 of Spring, The Player makes their first appearance in the world
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
 -   The Player was frequently on the ocean before the events of the game, as the entering the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
 -   The Player was found on the beaches of Etris or Isle of Vigils, and were escorted to the Inns of both Islands.
-    -   There are two possibilities as to what happened here
-        -   The player was on the sea but they were wrecked by a storm or attacked.
-        -   The player had already escaped The Depths once.
-            -   However this does not explain why the player gets the 'Depths Connection' talent when they escape for the first time in-game, as it would make more sense for them to already have it.
+-   The Player was once part of a pirates guild but the authority attacked the ship and him being found on the beaches of either etris or vigil.
 
 ### Character Deaths
 
