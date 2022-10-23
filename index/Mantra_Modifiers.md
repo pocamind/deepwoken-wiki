@@ -1,16 +1,12 @@
 ---
 title: Mantra Modifiers
-revid: 38823
+revid: 38831
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 ---
 
 # Mantra Modifiers
-
-“ I'm going to add a copious amount of cloudstones to my mantra! ”
-
-― some poor idiot who just learned how to use the mantra table
 
 A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 

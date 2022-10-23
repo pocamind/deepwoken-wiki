@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 34638
+revid: 38842
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -52,3 +52,4 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 
 -   You can check her wares, log and wait an hour or more to try to get a specific weapon or armor.
 -   Nyanna's name likely comes from the Japanese word for meow: '"Nyan"'.
+-   Nyanna's hair can be found here: [https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde](https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde)

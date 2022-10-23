@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 36414
+revid: 38840
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,3 +25,4 @@ Kana is an interactable NPC located in [Fort Merit](Fort_Merit.md). She is stand
 -   As she is at Fort Merit, it can be inferred she works for The Authority, making her the only non-Adret to use Thundercall in their ranks.
 -   The Ball that Kana uses used to be blue, although it has been changed to become yellow to match the current [Thundercall](Thundercall.md).
 -   It has been confirmed by Arch\_Mage as of 04/09/2022 that Kana is cut content.
+-   Kana's hair can be found here: [https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde](https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde)

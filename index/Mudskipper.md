@@ -1,16 +1,12 @@
 ---
 title: Mudskipper
-revid: 38686
+revid: 38837
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
 ---
 
 # Mudskipper
-
-“ Whoever said that 'these abominations are too weak to kill you' clearly never fought a Mudskipper Knight. ”
-
-― Phoenix Nephidra
 
 _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
 
@@ -193,7 +189,7 @@ They can only be encountered in The Depths (Trial) while the character's power i
 | 
 Assault
 
- | Firmly swings sword at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
