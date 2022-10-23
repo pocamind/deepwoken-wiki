@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38816
+revid: 38822
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -76,7 +76,7 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
     -   Synergizes well with Aerial attack Talents.
     -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
 
-### Aeromancer
+### Aeromancy
 
 -   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 25 Galebreathe
@@ -88,11 +88,14 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
     -   Prerequisites: 30 Strength, 50 Galebreathe, Drifting Wind
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: Suffocating Impact, 30 Strength, 50 Galebreathe
--   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
-    -   Prerequisites: Wind Step
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
+
+### Aeromancer
+
+-   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
+    -   Prerequisites: Wind Step
 
 ### Alchemist
 
@@ -629,7 +632,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Galeforce
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity, +3 Health)
-    -   Prerequisites: 40 Galebreathe
+    -   Prerequisites: 40 Galebreathe, Breathing Impact
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
     -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
     -   Prerequisites: 30 Galebreathe
@@ -843,6 +846,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Prerequisites: 50 Galebreathe, Gale Leap
 -   Gale Dash \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
+    -   Prerequisites: 25 Agility, 50 Galebreathe
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility, +2 Health)
 
@@ -1407,7 +1411,7 @@ These Talents are designed to make you more effective in water.
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
--   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon

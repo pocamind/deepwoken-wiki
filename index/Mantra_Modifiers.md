@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 37661
+revid: 38823
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -30,8 +30,7 @@ Keep in mind not all mantra modifiers are obvious and may _**not**_ work correct
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
-The player can put up to 3 of the same modifier (A player can do 3 of everything if they feel so inclined). _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra and may exceed your maximum Ether. This downside can be alleviated (but not negated) if the player have the legendary talent Neuroplasticity, which reduce the ether cost associated to mods.__  
-Unknown whether or not Sparks count towards the 6 modifier limit._
+A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 times. Adding mods increase the ether cost of mantras by 7% and 14% for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 50%, down to 3.5% and 7%.
 
 After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
 
@@ -49,7 +48,7 @@ Cloudstone
 +2 Size
 
 \-1 Speed  
-+8.5 Ether Cost
++7% Ether Cost
 
  | 
 
@@ -66,7 +65,7 @@ Stratus Stone
 
 +3 Size  
 
-+?? Ether Cost
++14% Ether Cost
 
  | 
 
@@ -84,7 +83,7 @@ Lens
 +2 Range
 
 \-1 Size  
-+?? Ether Cost
++7% Ether Cost
 
  | 
 
@@ -102,7 +101,7 @@ Lens
 
 +3 Range  
 
-+?? Ether Cost
++14% Ether Cost
 
  | 
 
@@ -118,7 +117,7 @@ Aeon Logstone
 +2 Duration
 
 \-1 Range  
-+?? Ether Cost
++7% Ether Cost
 
  | 
 
@@ -135,9 +134,7 @@ Eternal Logstone
 
 +3 Duration  
 
-+?? Ether Cost
-
- | 
++14% Ether Cost|
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
@@ -154,7 +151,7 @@ Shard
 +2 Speed
 
 \-1 Duration  
-+?? Ether Cost
++7% Ether Cost
 
  | 
 
@@ -172,7 +169,7 @@ Shard
 
 +3 Speed  
 
-+10 Ether Cost
++14% Ether Cost
 
  | 
 
@@ -203,7 +200,7 @@ Stone
 
 +1 Size  
 +1 Range  
-+?? Ether Cost  
++7% Ether Cost  
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
@@ -224,7 +221,7 @@ Magnifying Stone
 
 +2 Size  
 +2 Range  
-+?? Ether Cost  
++14% Ether Cost  
 
 -   Crafted with a Stratus Stone and Perfect Lens
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 38172
+revid: 38824
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -8,15 +8,6 @@ categories: [Mechanics, Ingredients, Items]
 
 # Alchemy
 
-“ Yo, Mister White! ”
-
-― Young Etrean
-
-“ Jesse, where did you put the methé? ”
-
-― Jonathan Talo, commonly known as Jo Talo
-
-  
 Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
 
 The Crafting Recipes & Alchemy page contains some simple potion recipes, though some of the information is incorrect. At some point we'll update it.
@@ -70,7 +61,7 @@ Every ingredient has two effects - sometimes both are obvious, other times one i
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
 Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing Redd's will partially cancel out the _Icky_ effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
-Potions containing only one ingredient suffer a penalty to the strength of all effects (often resulting in a Diluted potion), which can be avoided by adding any ingredient (including ones with no effect, like a Stick or a Rock).
+Potions containing only one ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including ones with no effect, like a Stick or a Rock.
 
 Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
 
@@ -229,11 +220,11 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Focus-Enhancing</b></td>
   <td>Elixir<br>
   Salve</td>
-  <td>2 Gathered Wheat<p>2 Browncaps</p></td>
+  <td>Gathered Wheat</td>
   <td>Greatly increases elixir regeneration for 15 seconds.<br>
   Quickly depletes the reservoir while regenerating elixir, but the effect still works when reservoir is empty.</td>
   <td>Opposite effect to <b>Icky</b>.<br>
-  The strongest effect on wheat is Dulling, so a potion with the Focus-Enhancing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient.</td>
+  The strongest effect on wheat is Dulling, so a potion with the Focus-Enhancing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</td>
 </tr>
 <tr>
   <td><b>Heartening</b></td>
@@ -275,7 +266,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Plumfruit</td>
   <td>Deals a small amount of damage over 15 seconds.</td>
   <td>Appears to be the opposite effect to <b>Invigorating</b>.<br>
-  Some players report being able to brew grueling potions using only plumfruit, while the same recipes produce Strengthening potions for others.</td>
+  The prefix of a potion brewed using only plumfruit depends on the talents of the brewer - if the brewer only has Apothecary, the prefix is Strengthening.</td>
 </tr>
 <tr>
   <td><b>Steadfast</b></td>
@@ -305,7 +296,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Alestrian Coral<br>
   Sap(?)</td>
   <td>Applies a 15 second speed boost.</td>
-  <td>We currently don't know how to find the name of the opposite effect but can be found on Beeswax.</td>
+  <td>We currently don't know how to find the name of the opposite effect, but it can be found on Beeswax.</td>
 </tr>
 <tr>
   <td><b>Unknown Name</b></td>
@@ -344,8 +335,6 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
 -   **Ether Restoration** (Focus-Enhancing) - 1 (2) Gathered Wheat + 2 (1) Plumfruit + 2 Spider Eggs
     -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
--   **Fast Ether Regen** (Invigorating Elixir) - 1 Gathered Wheat + 1 Gobletto OR 1 Gobletto + 1 Bamboo Bundle
-    -   A very potent Ether Regen Potion that makes your reservoir pointless-- Constantly regenerating your ether at an alarming rate with Apothecary if consumed.
 -   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Redd
     -   Rapidly drains ether and prevents reservoir draw for 15 seconds. Will almost immediately drain target's entire ether bar.
 -   **Fast Ether Drain** (Icky Bane) - 1 Calabash + 1 Redd

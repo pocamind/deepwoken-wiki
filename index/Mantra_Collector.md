@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 29324
+revid: 38817
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, World]
@@ -48,7 +48,7 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
 | Glass Stone | ?/?/? |
 | Magnifying Stone | ?/?/? |
 | Amnesic Driftwood | 2/?/? |
-| Vibrant Gem | ?/?/? |
+| Vibrant Gem | 10/13/? |
 
 **Sparks:**
 
