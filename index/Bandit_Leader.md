@@ -1,15 +1,11 @@
 ---
 title: Bandit Leader
-revid: 37176
+revid: 38830
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Bandit Leader
-
-“ The Freshie Deleter™️(especially if they have a dagger) ”
-
-― A wise Canor
 
 Template:EnemyInfobox1.0
 

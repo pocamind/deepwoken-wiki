@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 38826
+revid: 38829
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -8,11 +8,6 @@ categories: [Npc]
 
 # Bandit
 
-“ BRO JUST PARRY HIS ATTACKS, IT'S NOT THAT HARD!! ”
-
-― Power 29 Celtor helping a freshie
-
-  
 Template:EnemyInfobox1.0
 
 ## Description
