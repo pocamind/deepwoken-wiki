@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 37234
+revid: 38884
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ When used, the user will leave a portal and be transported into the **Distortion
 
 Pressing C will activate the **Dimensional Travel** Resonance.
 
-When used, this ability will transport the user into the Distortion Realm known as **The Interstice,** and will briefly leave a lingering portal to allow other players to enter. _This cannot be used while in combat1, unless you have the second variant._ Each step taken in the Distortion Realm equals around five steps taken in the Etrean Luminant or [The Depths](The_Depths.md).
+When used, this ability will transport the user into the Distortion Realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. _This cannot be used while in combat1, unless you have the second variant._ Each step taken in the Distortion Realm equals around five steps taken in the Etrean Luminant or [The Depths](The_Depths.md).
 
 #### _Distortion Realm_
 
