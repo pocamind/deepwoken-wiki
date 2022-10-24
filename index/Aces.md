@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 38770
+revid: 38847
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,3 +33,4 @@ A frozen mantra
 -   Supaa originally suggested the concept of Freezes to Arch\_Mage.
 -   Freezes did not exist until the update on September 5th, 2022; however, Burns have existed since March 11th, 2022.
 -   Freezes work on Whispers too; however, the frozen Mantra will only appear at the next Whisper.
+-   Freezing a rare card will convert it to common in the next draw, allowing you to pick it without losing any luck.

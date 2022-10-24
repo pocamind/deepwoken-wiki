@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 38751
+revid: 38856
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -14,7 +14,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 > “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
 > 
-> ― Walter White
+> ― Flavor Text
 
 **Obtainment:** Entering Deepwoken for the first time and completing the tutorial.
 

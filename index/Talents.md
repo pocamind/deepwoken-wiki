@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38822
+revid: 38859
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -467,7 +467,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
     -   Prerequisite: 25 Strength, 25 Fortitude
 -   Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
-    -   Deals 50% of the original damage
+    -   Deals 100% of the original damage
     -   Can proc from physical mantras
     -   Prerequisites: 20 Strength, 25 Agility
 
@@ -765,8 +765,8 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
     -   Prerequisites: Jus Karita and Swiftkick Prodigy
 
--   Justicar's Prowess \[Common Talent\] - Jus Karita deal bonus posture damage against other fist styles.
-    -   Deal ??x posture damage against Fist of Navae and Legion Kata
+-   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
+    -   Deal +30% posture damage against Fist of Navae and Legion Kata
     -   Prerequisite: Jus Karita
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
     -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.

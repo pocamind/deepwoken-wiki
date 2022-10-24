@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 38780
+revid: 38853
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -28,27 +28,29 @@ The Hell Bell can be found within the Celtor Wastes. To activate Hell mode, 5 pl
 
 Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
--   Every mob that can spawn corrupted, _will_ be corrupted. (Excluding King Thresher)
 -   Monster spawn rate is increased by 10x.
+-   Every mob that can spawn corrupted, _will_ be corrupted.
+    -   However, only King Threshers are able to spawn in both variants.
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool for the duration of the event.
     -   The Enforcer's pull attack is disabled to prevent people being wiped to Enforcers falling into a void zone.
--   ~Megalodaunts will always spawn as their Alpha version~. (Untrue, Megalodaunts can still spawn in the normal variation but Alphas are more common)
+    -   King Thresher's dig move is disabled.
+-   Megalodaunts will always spawn as their Alpha version.
+    -   Alpha vs. 2 Divers event is able to spawn as well.
 -   King Gigamed is removed from spawn pool.
 
 These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
 
 ## Completion and Reward
 
-Hell Mode can be completed by fulfilling these two conditions:
+Hell Mode can be completed by fulfilling one requirement:
 
--   Survive 20 minutes
 -   Have killed 100 monsters (shared across all players)
 
 If the 20 minutes mark is reached before the kill requirement, the event will forcefully end, and no reward will be granted.
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 kills and the 20 minutes mark, three chests will spawn near some of the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the 5 players who activated the event and cannot be interacted with by other players.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the players who activated the event and cannot be interacted with by other players.
 
 ## Tips
 

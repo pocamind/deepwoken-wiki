@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 38755
+revid: 38855
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors, Items]
+categories: [Armors, Items]
 ---
 
 # Pathfinder Thaumaturge
@@ -30,11 +30,7 @@ This Outfit also grants the [Talent Card](Talents.md) "_Now you see me.._", whic
 
 This outfit can be found in:
 
--   File:Kanye west.jpg
-    
-    kanye west
-    
-    [Erisia](Erisia.md)
+-   [Erisia](Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 
