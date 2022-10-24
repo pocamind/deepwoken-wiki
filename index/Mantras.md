@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 38725
+revid: 38903
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > File:Wiped3.png
 > 
-> Considered to be the root of Ether's usage, mantras are the heart of Deepwoken's magic system and take the form of various spells and abilities. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
+> Considered to be the root of Ether's usage, Mantras are the heart of Deepwoken's magic system and take the form of various spells and abilities. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 > 
 > ## Rarities of Mantras
 > 
@@ -30,7 +30,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > ### Rare Mantras
 > 
 > -   Bolt Piercer (Speculated)
-> -   Ice Dagger (Speculated)
+> -   Ice Daggers (Speculated)
 > -   Flame Blind (Speculated)
 > -   Flame of Denial (Speculated)
 > 
@@ -48,7 +48,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > -   **Wildcard Mantra (1)** - This is not a type of mantra, but it refers to a slot that can be taken up by any kind of Mantra - Combat, Support, or Mobility.
 > 
-> It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting certain talents.
+> It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting certain talents.
 > 
 > ## Combat Usage
 > 
@@ -61,10 +61,6 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > #### Mantra Cancelling
 > 
 > Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown, but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling mantras, such as Galebreathe users being able to Inhale their mantras for buffs.
-> 
-> ### Movestacking
-> 
-> Activating a mantra while swinging your main weapon is known as **movestacking,** and it can provide various effects based on your feint cooldowns and what attack you combine your mantra with. Movestacking a mantra with a normal attack while your feint is **available** will immediately cancel your attack and use the mantra, allowing you to use mantras as part of a weapon combo. Attempting to movestack a mantra while your feint is **on cooldown** will instead cause you to use your mantra once your attack animation ends, allowing you to use it as a finisher but with the risk of your mantra being parried or dodged. Mantras can also be movestacked on running attacks or on flourishes, but the timing is stricter and the application relies on your technical skill and mantra of choice. Movestacking a Mantra on a running attack will neither cancel the attack nor delay your mantra, essentially allowing you to use your weapon and mantra simultaneously. Movestacking a Mantra on a flourish can potentially be a powerful combo extender, though this requires a strong, fast, and/or long-ranged mantra or specific positioning on the user's part.
 > 
 > ## Types of Mantras
 > 
@@ -191,4 +187,5 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > 
 > -   Mantras _can_ be levelled beyond the normal limit of 5, but it effectively requires the player's soul to be taken by Arch\_Mage in order to make them _much_ more powerful than normal.
 >     -   Mantras become renamed upon their leveling past 5, this is hard-coded into the game.
->     -   There are two known mantras that go past level 5, being a level 6 Fire Palm (Drake's Breath) and level 7 Strong Left (God's Left).
+>     -   There are three known mantras that go past level 5, being a level 6 Fire Palm (Drake's Breath), level 7 Strong Left (God's Left) and a level 7 Rapid Punches (God's Fury).
+> -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Songkeeper Temple](Songseeker_Temple.md).

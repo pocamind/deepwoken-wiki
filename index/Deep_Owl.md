@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 38857
+revid: 38904
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,56 +29,35 @@ The corrupted Deep Owls that spawn in _The Depths_ follow the aforementioned beh
 
 ## Attacks
 
-| Name | Description | Parry-able? | Danger |
-| --- | --- | --- | --- |
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
 | 
-**Talon**
+**Talon Swipe**
 
-**Swipe**
-
- | Three slow, consecutive swipes. Can do this multiple times
-
-back-to-back. Swipes that come from the left side of your screen come swiftly, while swings that come from the right side of your screen are slightly delayed.
-
- | ◯ | (★☆☆) |
+ | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
-**Feather**
+**Feather Teleport**
 
-**Teleport**
-
- | Turns into a burst of feathers, emerging at the target it is
-
-pursuing after a bit. Typically used after Talon Swipe.
-
- | ◯ | (★☆☆) |
+ | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
+Typically used after Talon Swipe. | ◯ | **?** | **?** | (★☆☆) |
 | 
 
-**Whirling**
+**Owl Dash**
 
-**Dash**
-
- | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
+ | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
-**Flying**
+**Overhead Grab**
 
-**Grab**
-
- | Disappears into a burst of feathers, becomes invulnerable
-
-and attempts a grab before flying upward. Can be noticed by a lack of feather for an extended period of time within your peripheral vision, as well as looking up and spotting the owl.
-
- | ✗ | (★★★) |
+ | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
+Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you. | ✗ | ✗ | ◯ | (★★★) |
 | 
 
 **Flock of Feathers**
 
- | Bursts into a puff of feathers which does substantial armor
-
-and chip damage on block.
-
- | ◯ | (★★☆) |
+ | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.  
+Overhead Grab/Owl Dash is typically used after this. | ◯ | ◯ | **\-** | (★★☆) |
 
   
 **Finisher**
@@ -103,33 +82,35 @@ If choosing to fight the Deep Owl for the first time, there are several things t
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 
-The most important part of this fight is parrying the **Talon Swipe** attack. Afterwards, the Owl can usually be hit once by any weapon type. It is best to look out for this move specifically for damage opportunities, but only get one or two swings - greed will usually lead to the player taking unnecessary damage. The Owl will typically, but not always, repeat the **Talon Swipe** attack once more. The alternative is usually that it'll use **Feather Teleport** or **Whirling Dash**, both of which can be parried on reaction.
+The most important part of this fight is parrying the **Talon Swipe** attack. Afterwards, the Owl can usually be hit once by any weapon type. It is best to look out for this move specifically for damage opportunities, but only get one or two swings - greed will usually lead to the player taking unnecessary damage. The Owl will typically, but not always, repeat the **Talon Swipe** attack once more. The alternative is usually that it'll use **Feather Teleport** or **Owl Dash**, both of which can be parried on reaction.
 
-When using **Feather Teleport** or **Whirling Dash**, the Owl will likely then attempt to **Flying Grab** the player. The optimal course of action is to roll to the left or right when the Owl tilts its head down to grab.
+When using **Feather Teleport** or **Owl Dash**, the Owl will likely then attempt to **Overhead Grab** the player. The optimal course of action is to roll to the left or right when the Owl tilts its head down to grab.
 
 The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key, similar to blocking multi-hit moves from other enemies.
 
 ## Lore
 
--   The main source of lore comes from the Nestmind, the trainer of the _Visionshaper_ Oath.
+-   The main source of lore comes from [The Nestmind](The_Nestmind.md), the trainer of the _[Visionshaper](Oaths.md#visionshaper)_ Oath.
 -   The Nestmind's dialogue hints at the owl form we see not actually being what the owls are.
 -   Deep Owls may be the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". As it grants you the _Visionshaper_ oath, this implies they are the source of it.
 -   The Owls nest in the interstice between human minds, further enhancing their connection to illusion magic.
--   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the owls to feast. it is said that the _Visionshapers_ themself will also eventually become a feast.
+-   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the Owls to feast. It is said that the _Visionshapers_ themself will also eventually become a feast for them.
 -   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue, the player character however seems to remember, as after making the pact you can ask Surge: "What was that place you took me?" Surge however denies having taken you anywhere.
--   The pact can be compared to a deal a Warlock may make with a diety similar to the nestmind, in exchange for recieving the power of visionshaping in your living life, when you die your soul will be consumed into the nestmind and it's remenants will become an owl.
+-   The pact can be compared to a deal a Warlock may make with a deity similar to the Nestmind, in exchange for receiving the power of Visionshaping in your living life, and when you die your soul will be consumed into the Nestmind and it's remnants will become an owl.
 
 ## Notes
 
--   Feared by lower level players, but heavily sought out by mid-high level players for its Dark Feather(s) considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
--   Normal Deep Owls have around 1.5x the health of a normal thresher.
--   If you are so unfortunate, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
--   Due to the fact that the Owl has 1.8k health, it is possible to stat check[\[2\]](#cite-note-2) it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
+-   Feared by lower level players, but heavily sought out by mid-high level players for its Dark/Void Feather(s), considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
+-   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
+-   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
 -   Corrupted Deep Owls are guaranteed to drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md). Normal owls will rarely drop them.
--   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
--   Don't try to hide in the buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
--   The Deep Owl is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
--   Despite having lower health than a lionfish, they are foes to be beckoned since they deal an unholy amount of damage.
+-   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[2\]](#cite-note-2)
+-   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
+-   The Deep Owl's design is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
+-   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
+-   Used to be commonly called "Tyrone" in the earlier days of Deepwoken.
+
+## References
 
 1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
-2.  [↑](#cite-ref-2) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.
+2.  [↑](#cite-ref-2) [\[1\]](https://www.youtube.com/watch?v=J9OIBuv2Tl4)

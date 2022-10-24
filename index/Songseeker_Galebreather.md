@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 36379
+revid: 38896
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) (**Fist of Nav
 | 
 Assault
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | 
 
 Gale Lunge

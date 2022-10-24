@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 38206
+revid: 38888
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -12,15 +12,15 @@ categories: [Drowned Gods, NPCs]
 
 ― Yun'Shul to the none worthy
 
-Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC and Drowned God, found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within [The Depths](The_Depths.md).
+Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within [The Depths](The_Depths.md).
 
 ## Overview
 
-Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths. He allows players to make wishes.
+Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths. They allow players to make wishes.
 
 ## Wishes
 
-The player can interact with Yun'Shul to obtain a wish. Making a wish requires some criteria:
+The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
 -   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
@@ -43,5 +43,4 @@ If you meet all the criteria, you are able to make one of four wishes:
     -   This trait is also shared with Ya'Alda from Rogue Lineage.
 -   It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.
 -   Yun'Shul is one of two confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire.
--   Yun-Shul is the heart of the temple - and may have been a God of Celtor or worshipped before the Great Drowning.
 -   Talking to Yun-Shul without any wishes does not kill you as long as you have a bell.

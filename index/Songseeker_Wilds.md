@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 38251
+revid: 38901
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -42,7 +42,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 #### Obelisk
 
 -   A glowing obelisk surrounded by monks.
-    -   Looking from the entrance, a [Thundercaller](Thundercall.md) on the right, a [Flamecharmer](Flamecharm.md) in the middle and a [Frostdrawer](Frostdraw.md) on the left.
+    -   Looking from the entrance, a [Thundercaller](Songseeker_Thundercaller.md) on the right, a [Flamecharmer](Songseeker_Flamecharmer.md) in the middle and a [Galebreather](Songseeker_Galebreather.md) or [Frostdrawer](Songseeker_Frostdrawer.md) on the left.
     -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 #### Ravine Entrance

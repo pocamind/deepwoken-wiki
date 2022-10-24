@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38879
+revid: 38891
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -656,7 +656,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
     -   Prerequisite: 30 Intelligence (can not activated with warrior's respite)
 -   Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
-    -   The increased Ether Cost from Modified Mantras is reduced.
+    -   The increased Ether Cost from Modified Mantras is reduced by 50% (ether cost increase for tier 1 modifications is reduced from 7% to 3.5%, for tier 2 - from 14% to 7%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
     -   Requirements : 35 Willpower/ 35 Intelligence/ 35 Charisma. (As confirmed by arch\_mage.) Only one of the three is required, not all three
         
