@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38859
+revid: 38879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -666,10 +666,10 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Glassdancer
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode, damaging 10 damage to the target.
+    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 7 ice crystal make them explode.
     -   Requirement: 40 Frostdraw
 -   Crystal Breaker \[Frostdraw Exclusive\] - When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
-    -   Detonate crystals on a player when they are guardbroken. Each crystal will deal 4 damage.
+    -   Detonate crystals on a player when they are guardbroken.
 
 ### Great Wall
 
@@ -1526,9 +1526,9 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Strength Combat
 
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
-    -   Prerequisite: 5 Strength
+    -   Prerequisite: 20 strength
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
-    -   Prerequisite: 5 Strength
+    -   Prerequisite: 20 Strength
 
 #### Strength Mobility
 

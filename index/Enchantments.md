@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38844
+revid: 38866
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -18,7 +18,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 
 -   You do not drop enchanted items on death.
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
--   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.finland is the best
+-   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted items appear as light purple in your inventory
 -   Face, Ears and Back equipment cannot be enchanted anymore, but:
@@ -107,7 +107,7 @@ There are two variants that enchantments come in:
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to 5 times, this will cause Grim to proc, signaled by red bubbles.<br>
-  the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x.</p></div></td>
+  the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 38698
+revid: 38878
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1441,6 +1441,15 @@ Grants one random buff.
 Allows wearer to drink seawater and acid with no side effects.
 
  | Primadon Chests, Depths Chests |
+| File:RingofCurses.PNG | 
+
+Ring Of Curses
+
+ | 
+
+This ring runs the random event check more frequently and partially ignores anti-event stacking.
+
+ | Arena Chests, Primadon, The Depths, Fishing, and Deep Widow |
 |  | 
 
 [Ring of Casters](Ring_of_Casters.md)

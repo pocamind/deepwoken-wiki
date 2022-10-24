@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 38811
+revid: 38872
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -30,8 +30,8 @@ A training vest hanging in the Antiquarian shop at Etris.
 
 ### Fortitude
 
--   [Training Vest](Training_Gear.md#attribute-training-gears) - Template:Cost / **50 uses** (On the white and black armor)
--   [Boulder](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
+-   Training Vest - Template:Cost / **50 uses** (On the white and black armor)
+-   Boulder - Template:Cost / **200 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. ~Isle of Vigils does not have a boulder.~ False. It does have a purchasable boulder located to the right of Stratos in the Temple entrance. (Not many spot it cause it looks like a normal boulder)
 
@@ -39,7 +39,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
 ### Agility
 
--   [Ankle Weights](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
+-   Ankle Weights - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -49,26 +49,26 @@ A question from the math textbook
 
 ### Intelligence
 
--   [Encyclopedia](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
--   [Math Textbook](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
+-   Encyclopedia - Template:Cost / **200 uses**
+-   Math Textbook - Template:Cost / **200 uses**
 
 Located at the bookstore.
 
 ### Willpower
 
--   [Prayer Beads](Training_Gear.md#attribute-training-gears) - Template:Cost / **100 uses**
+-   Prayer Beads - Template:Cost / **100 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 ### Charisma
 
--   How to Make Friends - Template:Cost / **200 uses**
+-   How To Make Friends - Template:Cost / **200 uses**
 
 Located at the bookstore and also in the Isle of Vigils library.
 
 ### Light/Medium/Heavy Weapons
 
--   [Weapon Manual](Weapon_Manual.md) - Template:Cost / **250 uses**
+-   Weapon Manual - Template:Cost / **250 uses**
 
 ## [Attunement](Attunements.md) Training
 
@@ -76,25 +76,25 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 
 ### [Thundercall](Thundercall.md)
 
--   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Self-Conducting Loop - Template:Cost / **200 uses**
 
 ### [Frostdraw](Frostdraw.md)
 
--   [Hemafrost](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Hermafrost - Template:Cost / **200 uses**
 
 ### [Flamecharm](Flamecharm.md)
 
--   [Hearthgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **100 uses**
+-   Hearthgem - Template:Cost / **100 uses**
 
 ### [Shadowcast](Shadowcast.md)
 
--   [Pure Heart](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Pure Heart - Template:Cost / **200 uses**
 
 ### Galebreath
 
--   [Gale Kata](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Gale Kata - Template:Cost / **200 uses**
 
 ## Trivia
 
--   Upon spawning, you will be given a Training Item correlated with your highest stat (for example, if your highest stat is strength, you will spawn with a dumbell).
+-   Upon spawning, you will be given a Training Item correlated with your highest stat (for example, if your highest stat is strength, you will spawn with a dumbbell).
 -   All Training Items, besides the one you spawn with, will require [Notes](Notes.md) to purchase.

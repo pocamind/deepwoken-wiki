@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 37770
+revid: 38873
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -222,15 +222,15 @@ Items and equipment that can be directly bought with currency.
 
 -   Encyclopedia
 -   Math Textbook
--   How to Make Friends
+-   How To Make Friends
 -   Weapon Manual
--   Hunter's Brace
+-   [Hunter's Brace](<Hunter's_Brace.md>)
 -   Self-Conducting Loop
 -   Pure Heart
--   Hemafrost
+-   Hermafrost
 -   Gale Kata
 -   Hearthgem
--   Praying Beads
+-   Prayer Beads
 -   Ankle Weights
 -   Training Vest
 -   Dumbbell
