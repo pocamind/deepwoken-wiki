@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 38878
+revid: 38927
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -24,9 +24,7 @@ The player can wear 7 type of armor equipment: Head, Face, Ears, Back, Arms, Rin
 
 Some armor equipment comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms items can have these). These stats are displayed in grey.
 
-All armor equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far).
-
-## Pips Value
+All armor equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far). Pips gained from stars will be Rare, however, the pip gained from the 3rd star will be Legendary.
 
 <table><caption></caption>
 <tbody>

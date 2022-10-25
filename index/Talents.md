@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38891
+revid: 38925
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -113,7 +113,8 @@ These Talents are designed to make your potions making and usage more efficient.
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
 
 -   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   Theres a chance you can share your effects with allies
+    -   There's a chance you can share your effects with allies
+    -   Prerequisite: 80 Intelligence, Drink Potions
 
 ### Alley Cat
 
@@ -128,6 +129,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Prerequisites; ? Amount Of Backstabs
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
+    -   The regeneration only applies on 75% of Health and lower
     -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
@@ -680,12 +682,12 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
--   Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   Allows you to use gun critical if you don't have bullets
-        -   With bullets crit unlocks at 10 intelligence
-    -   Prerequisites: 10 Intelligence, use a Gun
+-   ~Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)~
+    -   ~Allows you to use gun critical if you don't have bullets~
+        -   ~With bullets crit unlocks at 10 intelligence~
+        -   ~Prerequisites: 10 Intelligence, use a Gun~ (Was removed as of **25th of October 2022**)
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Prerequisites: 30 Intelligence, Use a Gun, Ether Bullets
+    -   Prerequisites: 30 Intelligence, Use a Gun
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
@@ -708,8 +710,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 3 seconds.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 75 Willpower and 75 Intelligence
-        -   Nobody has gotten it at 50 Willpower and 50 Intelligence. It's safe to say that's not the requirement.
+    -   Prerequisite: 50 Intelligence and 65 Willpower
 
 ### Hunter
 
@@ -1436,8 +1437,8 @@ These Talents are designed to make you more effective in water.
 
 ### Wraith
 
--   Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
-    -   Prerequisites: Ether Bullets
+-   ~Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)~
+    -   ~Prerequisites: Ether Bullets~ (Was removed with Ether Bullets as of **25th of October 2022**)
 
 ### **Miscellaneous**
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 38815
+revid: 38924
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -133,21 +133,6 @@ A fiery chokehold.
  |
 |  | 
 
-Ash Slam
-
- | 
-
-_Strike the ground, turning it to ash._
-
- | User strikes twice in front of the user, creating a fiery blast each time.
-
--   Requires 40 Strength and 60+ Flamecharm.
--   Deals high posture damage.
--   Burns target(s).
-
- |
-|  | 
-
 Flame
 
 Blind
@@ -249,6 +234,21 @@ _Burst forward in flames._
 -   Good for chasing/escaping.
 -   Moves in a straight horizontal line.
     -   Can propel the user in midair.
+
+ |
+|  | 
+
+Ash Slam (★★★)
+
+ | 
+
+_Strike the ground, turning it to ash._
+
+ | User strikes twice in front of the user, creating a fiery blast each time.
+
+-   Requires 30 Strength and 60+ Flamecharm.
+-   Deals high posture damage.
+-   Burns target(s).
 
  |
 
