@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 23478
+revid: 38958
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ Talking to him will give you the talent card "[Chimes of Conflict](Chime_of_Conf
 
 After attaining "Chimes of Conflict", he will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
 
-Furthermore, if the player character has the "Tarnished" flaw, Yamaketzal can remove it from the player for the price of 1000 notes, making it possible to reroll their [Resonance](Resonance.md) again.
+Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
 
 ### Below is dialogue of Yamaketzal responding when asked who he is.
 

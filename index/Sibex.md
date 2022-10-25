@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 38225
+revid: 38941
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -109,7 +109,7 @@ Where Sibex can be found
 </tr>
 <tr>
   <td colspan="4">Decent Bell Progress, No Pre-determined Bell<br>
-  Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?</td>
+  Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few? Ahh... The tone is growing clearer, and with the tempo matched it's starting to sound quite intriguing... Could you be one of the few?</td>
   <td colspan="4">Close Bell Progress<br>
   Morphed like clay... The soul and ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.</td>
   <td colspan="4">Obtained Bell<sup><a href="#cite-note-1">[1]</a></sup><br>

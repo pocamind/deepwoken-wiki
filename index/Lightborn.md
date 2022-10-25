@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 37974
+revid: 38944
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -73,7 +73,7 @@ Spellhardt
 
 -   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race).
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race.
--   Pupils are a reference to Jin Mori from God Of Highschool.
+-   ~Pupils are a reference to Jin Mori from God Of Highschool.~ not proven. just because your favorite anime character has odd eyes doesn't mean its a reference
 
 -   Devs have mentioned plans on this being an **Obtainable** race in the future but not via the reroll system instead the player having to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable but obviously this has not been proven as of yet.
     

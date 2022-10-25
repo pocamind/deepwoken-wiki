@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 38362
+revid: 38953
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -26,9 +26,9 @@ Canors are uncommon races.
 <tbody>
 <tr>
   <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
-  <td><b>Loyalty</b>
+  <td><b>Loyalty -</b> <i>Your bond with your allies is strong enough to reduce damage between you.</i>
   <ul>
-    <li>Allies take less damage from attacks.</li>
+    <li>Guildmates take less damage from you and deal less damage to you.</li>
   </ul></td>
 </tr>
 <tr>

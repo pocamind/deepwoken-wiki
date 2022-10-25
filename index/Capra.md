@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 38298
+revid: 38929
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -95,5 +95,5 @@ Unknown
 -   Once you a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Marks.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra race name was changed to Skullskipper.
 -   Possibly a reference to the Dark Souls enemy of the same name and features.
--   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archives_, which is reflected by the race having wider eyes than average.
+-   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the race having wider eyes than average because they lack epicanthic folds.
 -   Capra means Mountain Goats.

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 38597
+revid: 38930
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -91,4 +91,4 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 
 ## Notes
 
--   The Windrunner is yet another reference to _The Stormlight Archives_
+-   The Windrunner is yet another reference to _The Stormlight Archive_

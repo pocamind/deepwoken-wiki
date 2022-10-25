@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38925
+revid: 38956
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -128,8 +128,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Crouching is now as fast as walking.
     -   Prerequisites; ? Amount Of Backstabs
 
--   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
-    -   The regeneration only applies on 75% of Health and lower
+-   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting bellow 75% HP. (+1 Passive Agility)
     -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
@@ -478,7 +477,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are now Dazed for 2 seconds.
     -   This talent may need strength
-    -   Prerequisite: Flame Blind, 40 Flamecharm and 40 Strength
+    -   Prerequisite: Flame Blind, 40 Flamecharm and 25 Strength
 
 ### Empath
 
@@ -899,6 +898,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 -   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
     -   Flint have infinite durability.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
+    -   Prerequisites: 20 Intelligence / 20 Willpower / 20 Charisma.
 
 ### Meditative Trance
 

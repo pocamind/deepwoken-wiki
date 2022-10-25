@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 38736
+revid: 38939
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]

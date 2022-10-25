@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38866
+revid: 38936
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -63,14 +63,14 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Blaze.png<figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
+  <td><div><p>On hit, set your enemy on fire(cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames.</div></td>
 </tr>
 <tr>
   <td><figure>File:Chilled.png<figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement.</p></div></td>
+  <td><div><p>After hitting a target (with a cooldown of seven seconds) times, apply Bottom Freeze, negating all movement. If the user has Crystallization, apply an ice crystal.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
