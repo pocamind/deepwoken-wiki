@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 38956
+revid: 39021
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -128,7 +128,8 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Crouching is now as fast as walking.
     -   Prerequisites; ? Amount Of Backstabs
 
--   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting bellow 75% HP. (+1 Passive Agility)
+-   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting, but regenerate less when not running. (+1 Passive Agility)
+    -   Only activates when below 75% HP.
     -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
@@ -210,6 +211,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity, +1 Posture)
+    -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
@@ -217,7 +219,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 100 fortitude and 100 willpower
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
-    -   15 Fortitude + ?? Willpower
+    -   Prerequisites: 15 Fortitude, 20 Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
     -   Prerequisites: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
@@ -496,7 +498,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
-    -   Prerequisites: Battle Tendency
+    -   Prerequisites: Battle Tendency, 40 Willpower
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
     -   Prerequisites: 20 Intelligence
@@ -706,8 +708,8 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal.
-    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 3 seconds.
-        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
+    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 6 seconds.
+        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, Bloodless Gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 50 Intelligence and 65 Willpower
 
@@ -1037,8 +1039,8 @@ These Talents are meant to make foraging and mining grant more resources.
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by corpse explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health)
-    -   Prerequisite: 70 Flamecharm & 70 Shadowcast (I got it at 75 flame and 73 shadow)
+-   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health)
+    -   Prerequisite: 65 Flamecharm & 70 Shadowcast
 
 ### Pyromancer
 
@@ -1050,6 +1052,7 @@ These Talents are meant to make foraging and mining grant more resources.
 These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength is required).
 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks.
+    -   Prerequisites: 25 Strength
 
 -   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
     -   Prerequisite: 25 Strength
@@ -1393,7 +1396,8 @@ These Talents are designed to make you more effective in water.
 
 ### **Weapon Master**
 
--   Matador \[Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
+-   Matador \[Common Talent\] - Deal +20% more damage to enemies with hyperarmor. (+3 Health)
+    -   Prerequisites: 20 Strength, 10 Agility
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 30 Light Weapon
 -   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
@@ -1416,9 +1420,9 @@ These Talents are designed to make you more effective in water.
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon
--   Heavy Hitter \[Common Talent\] - \[Greatsword/Greathammer\] Your posture damage is increased by 25%. (+3 Health) \[This is a _FULL-ON Lie_, It still doubles the GreatSword Posture Damage, and does _NOT_ increase GreatHammer's.\] \[\[Tested Through Guards and Players.\]\]
+-   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
-    -   Prerequisite: 25 Strength, Harsh Response & greatsword equipped.
+    -   Prerequisite: 25 Strength, Harsh Response & Greatsword equipped.
 
 -   Boom, Headshot \[Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)

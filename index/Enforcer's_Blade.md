@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 38862
+revid: 38989
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -15,7 +15,8 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | damage | 25 |
 | scaling | 9 |
 | range | 8.5 |
-| swing speed | 0.57x |
+| swing speed | 0.59x |
+| penetration | 5% |
 | chip damage | 15% |
 | weight | 10 |
 | bankable | Yes |

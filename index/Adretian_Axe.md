@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 38286
+revid: 38985
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Greataxes, Items]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry, Greataxes, Items]
 | damage | 24 |
 | scaling | 7 |
 | range | 8 |
-| swing speed | 0.62x |
+| swing speed | 0.64x |
 | penetration | N/A |
 | weight | 5 |
 | bankable | Yes |

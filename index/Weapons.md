@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 38963
+revid: 39012
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -795,9 +795,9 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 </tbody>
 </table>
 
-**Guns:**
+**Rifles:**
 
-Guns.
+An upcoming weapon type for medium, similar to spears. Rifles use melee attacks that incorporate the firing of the rifle itself, but not much is known for it as it is a Layer 2 weapon.
 
 <table>
 <tbody>
@@ -931,7 +931,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.57x</td>
+  <td>0.6x</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
@@ -948,7 +948,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
   <td>75 HVY</td>
   <td>26</td>
-  <td>N/A</td>
+  <td>5%</td>
   <td>N/A</td>
   <td>HVY: 10</td>
   <td>8</td>
@@ -1103,7 +1103,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.57x</td>
+  <td>0.59x</td>
   <td>N/A</td>
 </tr>
 </tbody>

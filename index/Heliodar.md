@@ -1,9 +1,9 @@
 ---
 title: Heliodar
-revid: 38364
+revid: 38998
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Pages with broken file links, Races, Exclusive Races]
 ---
 
 # Heliodar
@@ -28,7 +28,7 @@ An entirely new race which does not resemble any other race, they have orange ey
   <ul>
     <li><i>*description unknown*</i>
   <ul>
-    <li>Gives the user the ability to temporarily fly sprouting glowing orange wings being able to move forwards backwards left right up and down, though this is temporary and lasts about 15 seconds. This race is also not immune to fall damage and can still die from it.<b></b></li>
+    <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This race is also not immune to fall damage and can still die from it.<b></b></li>
   </ul></li>
   </ul></td>
 </tr>

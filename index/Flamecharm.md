@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 38957
+revid: 38997
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -731,7 +731,6 @@ Azure Flames
     -   Although the "Fire Palm" mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead being a single large hit that sets on fire.
     -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involve throwing an orb flash made of fire.
     -   Flamecharm is the best attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of denial" mantra which can reset some sanity upon use.
--   The Flamecharm attunement does not currently possess any 3-star Mantras, being the only Attunement not to.
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in Ganks/Guild wars.
 -   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.
 -   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air but expect fall damage upon use.

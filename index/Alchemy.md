@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 38824
+revid: 39007
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -299,7 +299,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>We currently don't know how to find the name of the opposite effect, but it can be found on Beeswax.</td>
 </tr>
 <tr>
-  <td><b>Unknown Name</b></td>
+  <td><b>Diluted Salve</b></td>
   <td>???</td>
   <td>Beeswax</td>
   <td>Reduces speed temporarily.</td>

@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 38505
+revid: 38991
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -13,7 +13,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | type | Greataxe |
 | requirements | 75 HVY |
 | damage | 22 |
-| scaling | 7 HVY |
+| scaling | 8 HVY |
 | range | 8.5 |
 | swing speed | 0.54x |
 | endlag | N/A |
@@ -31,7 +31,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 ## Description
 
-The Night Axe is a HVY weapon in the Greataxe category. It can be obtained from [Brainsucker](Brainsucker.md) and [Minityrsa](Minityrsa.md) [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer) (Shadow NPCs). It has a base damage of 22 and a heavy weapon scaling of 7 and the requirement of 75 HVY.
+The Night Axe is a HVY weapon in the Greataxe category. It can be obtained from [Brainsucker](Brainsucker.md) and [Minityrsa](Minityrsa.md) [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer) (Shadow NPCs). It has a base damage of 22 and a heavy weapon scaling of 8 and the requirement of 75 HVY.
 
 ## Notes
 

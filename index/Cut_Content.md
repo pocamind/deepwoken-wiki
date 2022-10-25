@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 36736
+revid: 39022
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -26,10 +26,8 @@ notices:
 
 ## Mantras
 
--   **Mantras Stat -** Itemized mantras would read their level and stat change in their tooltip like so: Mantra Name, Lv.1, 0 Sz (Size), 0 AoE (Area of Effect), 0 Dur (Duration), 0 Spd (Speed), 0 Rng (Range).
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantras Cores that would then be the basis of your spell creation.
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantra on the Mantra Table.
--   **Announced Casting -** Characters used to announce their mantra cast via text chat. This was removed shortly before release, as it made the game "Too anime," but was reimplemented due to popular demand. However, later clips show the move names being announced in a red highlight on the screen whenever used. This has been removed and with the return of Voiced Casting, unlikely to return. As of 07.10.2022, this was added back under the name of **Spell Shout** and is obtained by paying 50 notes to NPC in Isle of Vigil's library.
 
 ## Monsters
 
@@ -39,11 +37,14 @@ notices:
 
 ## Talents
 
--   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
--   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
--   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **A deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
+-   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
+-   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
+-   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
+-   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
+-   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
+-   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 
 ## Other
 

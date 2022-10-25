@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 38538
+revid: 39017
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,7 +13,9 @@ categories: [Resonance]
 | effect | Collects souls, can be used as damage output against players. |
 | appearance | White beam that appears in front of the user. |
 
-“ Consume the souls of your enemies and unleash them in devastating attacks. ”
+“ Consume the souls of your enemies and unleash them in devastating attacks.
+
+Souljar Boy ”
 
 ― Jar of Souls description
 
@@ -41,7 +43,7 @@ When obtained, Jar of Soul will spend its points on the following stats:
 
 -   **Beam type:** Decides the type of beam that will be used.
     -   The "sniper" beam is a singular beam that use all stored souls at once to deal damage in one instance.
-    -   The "continuous" beam is a long lasting beam that hit multiple time and use the souls stored overtime. Hold C to keep firing the laser if available.
+    -   The "continuous" beam is a long lasting beam that hits multiple time and uses the souls stored over time. Hold C to keep firing the laser if available.
 -   **Refill multiplier:** The more points are spent on this stat, the easier it is to recharge the resonance to full.
 -   **Auto Execute:** Decides if your attack can auto execute (Must have atleast one soul to do this)
 -   **Range:** The more points are spent on this stat, the further the beam can reach.

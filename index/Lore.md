@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 38812
+revid: 39000
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -105,11 +105,12 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
--   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A wandering chef and salesman that dons the [Authority Commander Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
--   Sells the best food for the best price.
--   He appears to have blue skin, so is likely an Adret.
--   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of ultimate power.
+-   Sells the best carnivorous food for the best price.
+-   He is an Adret.
+    -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
+-   Arch\_Mage and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
 
 The one and only... MEAT LORD!
 
