@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 38776
+revid: 38965
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -80,11 +80,23 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Kick off of the ground with your strength, sending you into the air_ | 
+ | _Kick off of the ground with your strength, sending you into the air._ | 
 
 -   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
 -   A vertical jump that sends the user into the air.
 -   Altitude travelled decreases significantly as the user loses health, making it inopportune for retreating.
+
+ |
+| 
+
+ | Tacet Drop Kick
+
+(☆☆☆)
+
+ | _Disguise yourself in tacet and drop kick your enemies._ | 
+
+-   **Requirements: 20 Strength, Murmur: Tacet and Jus Kaita,** _Combat Mantra_
+-   The user cover themselves in Tacet, shortly after that performing a dropkick from above, dealing knockdown.
 
  |
 

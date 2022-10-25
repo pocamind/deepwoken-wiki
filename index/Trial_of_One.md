@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 38428
+revid: 38970
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -34,21 +34,30 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 ## Challenges
 
-1.  Parry Checks
-2.  [Weakened Megalodaunt](Megalodaunt.md)
-3.  [Weakened Rock Golem](Rock_Golem.md)
-4.  [Weakened Thresher](Thresher.md)
-5.  [Two Greater Angels](Hollow_Angel.md)
-6.  [Weakened Enforcer](Enforcer.md)
-7.  [Weakened Sand Knight](Stone_Knight.md)
-8.  Parry Check
-9.  [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
+-   Parry Checks
+    -   Simply spam F. Don’t try to use your autoparry frames for as long as possible, just click F as fast as possible.
+-   [Weakened Megalodaunt](Megalodaunt.md)
+    -   Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP. (22 sword hits)
+-   [Weakened Rock Golem](Rock_Golem.md)
+    -   Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. 400 HP. (36 sword hits)
+-   [Weakened Thresher](Thresher.md)
+    -   If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP. (35 sword hits)
+-   [Two Greater Angels](Hollow_Angel.md)
+    -   Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommend to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit more safe and repeatable. If you're able to knock one of the Angels try gripping them since gripping one of them will automatically kill the other. (7 sword hits per Angel)
+-   [Weakened Enforcer](Enforcer.md)
+    -   Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. (16 sword hits)
+-   [Weakened Sand Knight](Stone_Knight.md)
+    -   Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto.
+-   Parry Check
+    -   See the first parry check.
+-   [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
+    -   Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
+
+## Rewards
 
 File:Reward for finishing.png
 
 Mark of the Lone Warrior's talent description
-
-## Rewards
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-9, Finishing the trial will result in reaching power 18 with 85 investment point used.
@@ -60,18 +69,8 @@ Mark of the Lone Warrior's talent description
 ## Tips and Tricks
 
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 10 minutes and giving a boost to further progression.
--   **All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.**
--   **Parrying challenge -** Simply spam F. Don’t try to use your autoparry frames for as long as possible, just click F as fast as possible.
--   **Megalodaunt -** Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP. (22 sword hits)
--   **Rock Golem -** Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. 400 HP. (36 sword hits)
--   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP. (35 sword hits)
--   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommend to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit more safe and repeatable. If your are able to knock one of the Angels try gripping them since gripping one of them will automatically kill the other. (7 sword hits per Angel)
--   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. (16 sword hits)
--   **Stone Knight -** Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto.
--   **Alpha Megalodaunt + Parrying Challenge -** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
-
-[Health Source](https://www.youtube.com/watch?v=hbnVDA0b41Q) (Unorthodox, but quick and easy.)
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 18 in roughly 10 minutes and giving a boost to further progression.
+-   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 
 ## Trivia
 

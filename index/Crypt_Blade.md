@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 38746
+revid: 38979
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -13,7 +13,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 | type | Greatsword |
 | requirements | 75 SDW, 40 HVY, Power 30 |
 | damage | 23 |
-| scaling | SDW: 10, HVY: 3.5 |
+| scaling | SDW: 9.5, HVY: 3.5 |
 | range | 9 |
 | swing speed | 0.65x |
 | endlag | 0.25s |
@@ -29,9 +29,9 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 
 ## Description
 
-The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values. It has a base damage of 23, and scales to 54.1 damage with max Shadowcast and max heavy weapon.
+The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values as if you had a built-in Ring on your weapon. It has a base damage of 23, and scales to 52.9 damage with max Shadowcast and max heavy weapon.
 
 ## Trivia
 
--   The original model for the Crypt Blade was just [Darksteel Greatsword](Darksteel_Greatsword.md) but with black particles coming out of the blade
--   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons, Crypt Blade doesn't have any surviving Enchanted counterparts.
+-   The original model for the Crypt Blade was just [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
+-   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons (i.e Hero Blades,) the Crypt Blade doesn't have any surviving Enchanted counterparts.

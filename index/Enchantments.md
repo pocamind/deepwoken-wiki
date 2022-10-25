@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 38936
+revid: 38981
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -63,14 +63,14 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Blaze.png<figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>On hit, set your enemy on fire(cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales of elemental intensity.<br>
+  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales off of your elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
-  <td><div>Weapon is covered in orange flames.</div></td>
+  <td><div>Weapon is covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
   <td><figure>File:Chilled.png<figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>After hitting a target (with a cooldown of seven seconds) times, apply Bottom Freeze, negating all movement. If the user has Crystallization, apply an ice crystal.</p></div></td>
+  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement. If the user has Crystallization, apply an ice crystal. Per-victim cooldown of 7 seconds.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
@@ -202,7 +202,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><center><br>
-  <font>Bloodthirsty<div></div></font></center></td>
+  <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
   Blood damage is increased.<br>
@@ -229,6 +229,14 @@ There are two variants that enchantments come in:
   <br>
   Rarely, take self damage equal to 90% of the weapon's damage and inflicts a great amount of damage to the opponent, more than 20% damage (tested with exploits).</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Curse of Zariffs Absorption<div></div></font></center></td>
+  <td><div><p>Currently a placeholder.<br>
+  <b>Unobtainable</b><br>
+  <b>Confirmed by Yayafino</b></p></div></td>
+  <td><div>Static flaming purple.</div></td>
 </tr>
 </tbody>
 </table>
@@ -411,7 +419,8 @@ Face, Ears, Back accessories Enchants
 
  | 
 
-**February 18 real rx**
+**February 18, 2022**  
+Enchanted face, ears, back accessories were removed from the loot pool.
 
  |
 

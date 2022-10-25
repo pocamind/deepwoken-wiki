@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 38835
+revid: 38963
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -271,11 +271,11 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead.
+Guns are a ranged weapon designed to shoot projectiles. If the user has Bullets in their inventory, they will deal 20% PEN.
 
 Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M2.
 
-As of the update on 3/12/22, wielding offhand guns with a primary weapon that isn't a gun will reduce the offhand damage by 20%
+As of the update on 3/12/22, wielding offhand guns with a primary weapon that isn't a gun will reduce the offhand damage by 20%. Guns used to consume bullets and Ether bullets before the 24th of October 2022, where the consumption was removed along with their associated Talents (Ether Bullets, Concentrated Reload).
 
 <table>
 <tbody>

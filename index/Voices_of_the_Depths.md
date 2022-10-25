@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 38960
+revid: 38962
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -60,4 +60,4 @@ _"The state or situation of being alone."_
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
 -   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.
--   [They "Voices of the Depths" got sound now (10/25/2022)](https://medal.tv/games/roblox/clips/FXscKysJP6GFQ/d1337kYffpSq?invite=cr-MSxCWW8sMTQ3NTQ1MTIs)
+-   [They "Voices of the Depths" got sound now (10/25/2022)](https://www.youtube.com/watch?v=5oQ1i9VRVxM)
