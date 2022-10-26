@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 38998
+revid: 39043
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -16,7 +16,7 @@ Template:Races-Main
 
 ## Description
 
-An entirely new race which does not resemble any other race, they have orange eyes that emit a faint orange fire similar to Visionshaper eyes. They also have a unique glowing orange pendant of a phoenix on their torso.
+"The Phoenix Race" - An entirely new race which does not resemble any other race, they have orange eyes that emit a faint orange fire similar to Visionshaper eyes. They also have a unique glowing orange pendant of a phoenix around their neck.
 
 ## Racial Traits
 
@@ -37,7 +37,7 @@ An entirely new race which does not resemble any other race, they have orange ey
   <td><b>Attribute Boosts</b>
   <ul>
     <li>+2 Agility</li>
-    <li>+2 Unknown</li>
+    <li>+2 Willpower</li>
   </ul></td>
 </tr>
 </tbody>
@@ -57,3 +57,5 @@ Unknown
 ## Notes
 
 Race created by Dexerius, they are based off his phoenix spec which allows him to summon a glowing rideable phoenix.
+
+Literally Ashiins from Rogue Lineage with fire wings.

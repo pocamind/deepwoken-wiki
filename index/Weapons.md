@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39012
+revid: 39052
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -54,6 +54,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **End Lag:** How long you linger after attacking.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
+-   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total.
 
 ## Types of Weapons
 
@@ -170,7 +171,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>75 LHT</td>
-  <td>13.5</td>
+  <td>12.5</td>
   <td>20%</td>
   <td>LHT: 10</td>
   <td>4</td>
@@ -536,7 +537,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.8x</td>
 </tr>
 <tr>
-  <td><a href="Razor_Cutlass.md">Razor Cutlass</a></td>
+  <td><a href="Razor_Cutlass.md">Razor Cutlass</a> (<b>Bleed</b>)</td>
   <td>60 MED</td>
   <td>18</td>
   <td>20%</td>
@@ -677,7 +678,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td><a href="Acheron's_Warspear.md">Acheron's Warspear</a></td>
+  <td><a href="Acheron's_Warspear.md">Acheron's Warspear</a> (<b>Bleed</b>)</td>
   <td>40 MED</td>
   <td>18</td>
   <td>15%</td>
@@ -865,7 +866,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.62x</td>
+  <td>0.64x</td>
 </tr>
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
@@ -876,7 +877,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 7</td>
   <td>4</td>
   <td>8</td>
-  <td>0.6x</td>
+  <td>0.62x</td>
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
@@ -901,7 +902,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.6x</td>
 </tr>
 <tr>
-  <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a></td>
+  <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a> (<b>Bleed</b>)</td>
   <td>70 HVY</td>
   <td>25</td>
   <td>N/A</td>
@@ -917,7 +918,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>22</td>
   <td>5%</td>
   <td>60%</td>
-  <td>HVY: 7.5</td>
+  <td>HVY: 8</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.57x</td>
@@ -938,11 +939,11 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>75 HVY</td>
   <td>25</td>
   <td>10%</td>
-  <td>8%</td>
+  <td>10%</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.57x</td>
+  <td>0.58x</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
@@ -953,7 +954,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>HVY: 10</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.55x</td>
+  <td>0.57x</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
@@ -1011,7 +1012,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.25s</td>
 </tr>
 <tr>
-  <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a></td>
+  <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<b>Bleed</b>)</td>
   <td>40 HVY, 10 STR</td>
   <td>22.4</td>
   <td>N/A</td>
@@ -1071,7 +1072,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><font>0.1s</font></td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Crescent_Cleaver#Alloyed"><font>Alloyed Crescent Cleaver</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Crescent_Cleaver#Alloyed"><font>Alloyed Crescent Cleaver</font></a> (<b>Bleed</b>)</td>
   <td><font>75 HVY</font>, 10 STR</td>
   <td>22.4</td>
   <td>N/A</td>
@@ -1283,7 +1284,7 @@ Weapons that scale with a certain element
   <td>75 SDW, 40 HVY</td>
   <td>23</td>
   <td>N/A</td>
-  <td>SDW: 10 HVY: 3.5</td>
+  <td>SDW: 9.5 HVY: 3.5</td>
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>

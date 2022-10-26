@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 38594
+revid: 39047
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -72,7 +72,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Willpower
 
--   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower. Each willpower point will add 2 reservoir.
+-   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower. Each willpower point will add 1.5 reservoir.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 -   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
@@ -127,34 +127,34 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 -   Unlocks Flamecharm related Talents.
 -   Increases intensity of flames.
 -   Determines your character's Knowledge of the arts of Flamecharm, unlocking dialogue to certain NPCs.
--   Gain Flamecharm EXP by dealing damage to Enemies and Monsters using Flamecharm Mantras.
+-   Gain Flamecharm EXP by dealing damage to Enemies and Monsters using Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md).
 
 ### Frostdraw
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
 -   Unlocks Frostdraw related Talents.
--   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
+-   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras or eating [Frigid Prism](Frigid_Prism.md).
 
 ### Thundercall
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
 -   Unlocks Thundercall related Talents.
--   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras.
+-   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras or eating [Spark Gland](Spark_Gland.md).
 
 ### Galebreathe
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
--   Gain Galebreathe EXP by dealing damage to Enemies and Monsters using Galebreathe Mantras.
+-   Gain Galebreathe EXP by dealing damage to Enemies and Monsters using Galebreathe Mantras or eating [Gale Stone](Gale_Stone.md).
 
 ### Shadowcast
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.
 -   Unlocks Shadowcast related Talents.
--   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras.
+-   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
 ## Tips
 

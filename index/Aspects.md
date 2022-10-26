@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 38664
+revid: 39045
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -30,7 +30,7 @@ These races are obtainable by any player. One of these races will be given to th
 
 Races that can't be rolled at the start of the game but can be obtained in the Layer 2 update through unknown means.
 
-## Exclusive Races/Unobtainable
+## Exclusive "Spec" Races/Unobtainable
 
 These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it.
 
