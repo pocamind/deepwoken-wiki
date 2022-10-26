@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 36925
+revid: 39033
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Mechanics, Map, Utilities]
@@ -24,6 +24,6 @@ Fountain located in Hidden Village (Erisia)
 
 Fountain located in Lord Regent's Garden (Etris)
 
-[Greathive Aratel](Greathive_Aratel.md): [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)/[Upper Erisia](Upper_Erisia.md)
+[Greathive Aratel](Greathive_Aratel.md): Temple Of The Forgotten Flame/[Upper Erisia](Upper_Erisia.md)
 
 [Greathive Aratel](Greathive_Aratel.md): Greathive Docks

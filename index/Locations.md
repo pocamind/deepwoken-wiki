@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 36831
+revid: 39032
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Deepwoken]
@@ -41,7 +41,7 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
     -   [Erisor's Church](<Erisor's_Church.md>)
     -   [Towerstruck Lands](Towerstruck_Lands.md)
         -   [The Hidden Village](The_Hidden_Village.md)
-    -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
+    -   Temple Of The Forgotten Flame
         -   [Temple Courtyard](Temple_Courtyard.md)
     -   [The Garden Reservoir](The_Garden_Reservoir.md)
         -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
