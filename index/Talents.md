@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39021
+revid: 39025
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -219,11 +219,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 100 fortitude and 100 willpower
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
-    -   Prerequisites: 15 Fortitude, 20 Willpower
+    -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
     -   Prerequisites: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
+    -   Prerequisites: 10 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
 -   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +3 Health)

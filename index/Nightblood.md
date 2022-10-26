@@ -1,6 +1,6 @@
 ---
 title: Nightblood
-revid: 36929
+revid: 39031
 source: https://deepwoken.fandom.com/wiki/Nightblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attunement]
@@ -41,6 +41,6 @@ You've officially obtained [Shadowcasting](Shadowcast.md)!
 ## Notes
 
 -   You cannot get the potion if you already have used another on your current character.
--   The best way to get the _Nightblood_ potion is to get it on a throwaway/fresh character, _**IF**_ you want to escape [The Depths](The_Depths.md) after.
--   Unlocking [Shadowcasting](Shadowcast.md) once will enable you to start with it _**BUT ONLY ON THE SAME CHARACTER SLOT!**_
+-   The best way to get the _Nightblood_ potion is to get it on a throwaway/fresh character, if you want to escape [The Depths](The_Depths.md) after.
+-   Unlocking [Shadowcasting](Shadowcast.md) once will enable you to start with it, along with other slots.
 -   The _Nightblood_ potion looks identical to all the other [Attunement](Attunements.md) potions.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 39006
+revid: 39030
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -26,7 +26,7 @@ Some armor equipment comes with stats that will always appear, for example: **+1
 
 All armor equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far). Pips gained from stars will be Rare, however, the pip gained from the 3rd star will be Legendary.
 
-<table><caption></caption>
+<table><caption>Pips</caption>
 <tbody>
 <tr>
   <th>Buffs</th>
