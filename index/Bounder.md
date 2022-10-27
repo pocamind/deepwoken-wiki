@@ -1,12 +1,14 @@
 ---
 title: Bounder
-revid: 37509
+revid: 39118
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Bounder
+
+This page contains spoilers!
 
 Bounder about to chomp this player harder than a megurger
 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 39069
+revid: 39125
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -18,7 +18,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the Valley of Heroes. This is the more powerful version of the two, boasting a large health pool, almost 3x that of the Desert Knight and spawning in a group of six.
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
@@ -43,7 +43,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 | 
 **Slash**
 
- | Firmly swings it's sword at opponent once or twice.
+ | Swings its sword at the opponent once or twice.
 
 -   **Insta-executes the player if health is low.**
 
@@ -52,7 +52,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 **Kick**
 
- | Firmly and swiftly kicks opponent.
+ | Swiftly kicks the opponent with added momentum from its body.
 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
@@ -61,7 +61,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 **Wind Cutter**
 
- | Firmly slashes air with sword, creating a wind projectile aimed at the opponent. | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Terra Eruption**

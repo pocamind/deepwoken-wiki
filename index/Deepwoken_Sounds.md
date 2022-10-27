@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 38264
+revid: 39126
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -32,7 +32,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
 | 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Running away from a mob and standin still in the depths will overlap this with the combat music. | File:To Sleep, Dreaming (Contour 3).mp3 |
-| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Unknown, most likely In the depths or fragments of self | File:To Sleep, Dreaming (Contour 4).mp3 |
+| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Unknown, most likely In [the depths](The_Depths.md) or fragments of self | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
 | 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) | File:Isle of Vigils - Deepwoken OST.mp3 |
@@ -151,20 +151,20 @@ Miscellaneous sounds found in _Deepwoken_.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.1s | Gaining Notes |
-|  | 1.3s | Losing Notes |
+|  | 1.1s | Gaining [Notes](Notes.md) |
+|  | 1.3s | Losing [Notes](Notes.md) |
 
 ### Miscellaneous
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 3.0s | Changing Area |
-|  | 6.0s | Alternative leveling up |
+|  | 6.0s | Alternative [powering up](Power.md) |
 |  | 0.3s | Zipline loop |
-|  | 0.1s | Bell on active |
+|  | 0.1s | [Bell](Resonance.md) on active |
 |  | 0.1s | Legendary bell on active |
 |  | 0.2s | Corrupt bell on active |
-|  | 0.02s | Blood scourage on active |
+|  | 0.02s | [Blood scourage](Blood_Scourge.md) on active |
 |  | 0.01s | blood scourage after execute |
 |  | 0.8s | Foraging |
 

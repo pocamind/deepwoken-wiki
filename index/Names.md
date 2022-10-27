@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 36956
+revid: 39124
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -558,3 +558,4 @@ You can choose whatever your name could be, but your last name can be limited de
 
 -   Names such as "Kaladin" and "Adolin" are references to the book series, "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Zote" and "Quirrel" are references to the indie game, "Hollow Knight" by Team Cherry.
+-   The name "Link" is a reference to- wait does this one really need explaining?

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 39000
+revid: 39121
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -438,7 +438,7 @@ A Dark Mage, located in Minityrsa.
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
-    -   Given there are no actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname  
+    -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname  
         
 
 ### The Ignition Union

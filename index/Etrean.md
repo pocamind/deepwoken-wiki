@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 38732
+revid: 39119
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -91,4 +91,4 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese peoples due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, etc)
--   A few of the Etrean surnames end in "et," something characteristic of Adret surnames. Perhaps some Etreans and Adrets share ancestry? This wouldn't exactly line up with lore as Adrets supposedly come from the sea- and there's the fact that the Authority and Etrea despise each other, but it's something to think about.
+-   A few of the Etrean surnames end in "et," something characteristic of Adret surnames. Perhaps some Etreans and Adrets share ancestry? This could be true given that Arch\_Mage stated in the deepwoken discord that the Adrets were a mountain people
