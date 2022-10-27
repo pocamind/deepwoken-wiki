@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 39066
+revid: 39072
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -42,4 +42,5 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
     -   No, it's a reference to Nautilus from League of Legends
     -   please ignore the facts above as this is clearly a reference to the [anchor](https://terraria.fandom.com/wiki/Anchor) from terraria
     -   Clearly that is false, it is obviously a reference to Elden Ring's Rusted Anchor
+    -   No it's literally just an anchor
 -   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).

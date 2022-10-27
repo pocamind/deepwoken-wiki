@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39053
+revid: 39071
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -346,7 +346,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   Blood Shadow \[Rare Talent\] - **Allies** you Reinforce are drained of their HP until you are fully healed.
+-   Blood Shadow \[Rare Talent\] - **Allies** you Reinforce are drained of their HP until you are fully healed. (Only works on guildmates.)
     -   Prerequisite: Reinforce
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce
@@ -1464,6 +1464,12 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
+
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
+    -   Increases food satiation by 25%.
+
+-   MasterChef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
+    -   Increases food boosts by 30%.
 
 ## Whispers
 
