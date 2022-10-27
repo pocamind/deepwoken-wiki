@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 39027
+revid: 39064
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -438,12 +438,21 @@ Vampirism enchant on a Khan Shield
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
-    -   File:Azure flames blazing.png
-        
-        Azure Flames Blazing
-        
-        Curse of the Umbral Knight > Umbral Knight
+    
+    File:Azure flames blazing.png
+    
+    Azure Flames Blazing
+    
+    -   Curse of the Umbral Knight > Umbral Knight
     -   Bungee Gum > Elastic
     -   Combustion > Blazing
     -   Hero > Heroism
 -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
+
+  
+
+## Trading
+
+Trading within Deepwoken is an integral part of the circulation of Enchantments. Various trading networks have been made in this player-based economy to ensure smoother transactions and safer deals. With this in mind, one trading network has been an integral part of providing secure and quick transactions between players, and that network is the Deepwoken Trading Hub.
+
+-   If you want to trade enchants, suggest looking into DWTH: [https://discord.gg/dwth](https://discord.gg/dwth)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39025
+revid: 39053
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -128,8 +128,8 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Crouching is now as fast as walking.
     -   Prerequisites; ? Amount Of Backstabs
 
--   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting, but regenerate less when not running. (+1 Passive Agility)
-    -   Only activates when below 75% HP.
+-   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting(+1 Passive Agility)
+    -   When below 75% HP and not receiving damage for 3 seconds, gain 3x health regen while running.
     -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
@@ -684,10 +684,6 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
--   ~Ether Bullets \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)~
-    -   ~Allows you to use gun critical if you don't have bullets~
-        -   ~With bullets crit unlocks at 10 intelligence~
-        -   ~Prerequisites: 10 Intelligence, use a Gun~ (Was removed as of **25th of October 2022**)
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence, Use a Gun
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
@@ -1439,11 +1435,6 @@ These Talents are designed to make you more effective in water.
 ### Windrunner
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest. (+10 Ether, +9 Health)
-
-### Wraith
-
--   ~Concentrated Reload \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)~
-    -   ~Prerequisites: Ether Bullets~ (Was removed with Ether Bullets as of **25th of October 2022**)
 
 ### **Miscellaneous**
 

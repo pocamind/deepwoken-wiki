@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 38935
+revid: 39057
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,7 +18,7 @@ Chance of obtaining race: **13.6%**
 
 ## Description
 
-Gremors are a race similar to deer. They appear with greenish or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate.  
+Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate.  
 
 ## Racial Traits
 

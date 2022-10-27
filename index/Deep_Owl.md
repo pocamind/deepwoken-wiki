@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 38904
+revid: 39055
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,10 +16,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to as "Owl", "Wan Shi Tong", or "Big black man") is an exceptionally uncommon [monster](Monsters.md) with juggernaut-like traits found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
+The **Deep Owl** (also referred to as "Owl", "Wan Shi Tong", or "Big black man") is an exceptionally uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
 
   
-Deep Owls will spawn in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restriction does not apply to The Depths.
+
+Deep Owls will only spawn in the _Etrean Luminant_[\[1\]](#cite-note-1) while the moon is out, This restriction does not apply to The Depths.
 
 When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 

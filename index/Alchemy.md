@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 39007
+revid: 39062
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -213,7 +213,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Calabash<br>
   Redd</td>
-  <td>Drains elixir for 15 seconds and prevents drawing elixir from the reservoir.</td>
+  <td>Drains Ether for 15 seconds and prevents drawing Ether from the reservoir.</td>
   <td>Opposite effect to <b>Focus Enhancing</b>.</td>
 </tr>
 <tr>
@@ -221,8 +221,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Elixir<br>
   Salve</td>
   <td>Gathered Wheat</td>
-  <td>Greatly increases elixir regeneration for 15 seconds.<br>
-  Quickly depletes the reservoir while regenerating elixir, but the effect still works when reservoir is empty.</td>
+  <td>Greatly increases Ether regeneration for 15 seconds.<br>
+  Quickly depletes the reservoir while regenerating Ether, but the effect still works when reservoir is empty.</td>
   <td>Opposite effect to <b>Icky</b>.<br>
   The strongest effect on wheat is Dulling, so a potion with the Focus-Enhancing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.</td>
 </tr>
