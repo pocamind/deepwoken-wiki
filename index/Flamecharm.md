@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 38997
+revid: 39074
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -14,13 +14,9 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 Flamecharm icon
 
-Flamecharm grants the user the ability to conjure fire using ether, giving them access to abilities which focus on burning (Explosions with the talent Lava Serpent), damage per second and AoE effects.
+Flamecharm grants the user the ability to conjure fire using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
-Flamecharm overwhelms the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
-
-The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is a very, very, diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
-
-Also, the Blazing [Enchantment](Enchantments.md) can use Flamecharm talents and inflicts the same effect that this attunement inflicts.
+The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
 
 ## Training
 
@@ -51,8 +47,8 @@ _Slicing blades of flame._
  | User slams down with their blade coated in flames.
 
 -   Deals moderate damage.
--   Burns target(s).
--   Can block break some targets at mantra level 1, and almost all targets at higher levels.
+-   Inflicts Burn.
+-   Deals high posture damage.
 -   User can walk while casting.
     -   User is slowed while casting.
 -   Breaks certain tiles.
@@ -70,7 +66,7 @@ _An exertion of flames._
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
--   Unable to move in wind-up.
+-   Unable to move during wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
 -   User takes reduced damage and has hyper-armor during casting.
@@ -89,7 +85,7 @@ _A legion of flames._
  | User conjures six burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
--   Burns target(s).
+-   Inflcits Burn.
 -   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras), as both do the same thing and can be modified with a Reversal Spark to achieve the same effect.
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors.
 
@@ -106,7 +102,7 @@ _A bullet of flames shot through each hand._
 
 -   Deals light damage.
 -   No Cooldown.
--   Burns target(s).
+-   Inflicts Burn.
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
@@ -125,7 +121,7 @@ A fiery chokehold.
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
 -   Inflicts light damage.
--   Burns target(s).
+-   Inflicts Burn.
 -   The Flamecharm counterpart to [Frostdraw's Frost Grab](Frostdraw.md).
 -   Can **NOT** be modified with Drift/Rush Shards or Crystal/Perfect Lens.
     -   Might have changed, requires more testing.
@@ -144,7 +140,6 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
  | User snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
--   _Radius unknown._
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamcharm mantra.
     -   Unaffected by [Luck](Luck.md).[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
@@ -161,10 +156,9 @@ _A blast of flame._
 
  | User releases a burst of flame in front of them.
 
--   Cone hitbox.
+-   Cone shaped hitbox.
 -   Deals moderate damage.
--   Burns target(s).
--   Can be improved with Cloud/Stratus Stones.
+-   Inflicts Burn.
 
  |
 |  | 
@@ -181,7 +175,7 @@ _A pyroclastic eruption._
 -   The second explosion ragdolls enemies.
 -   NPCs have trouble blocking the second explosion.
 -   The second explosion posture breaks.
--   Burns target(s).
+-   Inflicts Burn.
 
  |
 |  | 
@@ -195,10 +189,9 @@ Toss a nimble dagger.
  | User throws 3 quick burning daggers.
 
 -   Deal light damage.
--   Burns target(s).
+-   Inflicts Burn.
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
--   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
 
  |
 |  | 
@@ -211,9 +204,9 @@ _A rising tornado of flames._
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals moderate to high damage.
--   Can be combo-ed with the Talents "Meteor Impact" and "Phoenix Impact", dealing immense damage.
--   Initial slashes are Blockable, and final hit is Parryable.
+-   Deals moderate-high damage.
+-   Improved by Talents "Meteor Impact" and "Phoenix Impact".
+-   Initial slashes are Blockable, and the final hit is Parryable.
 
  |
 |  | 
@@ -228,12 +221,10 @@ _Burst forward in flames._
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire.
-    -   Highly recommended to turn around after using it as you will be facing away the opponent.
--   Can be upgraded with Drift/Rush Shards and Crystal/Perfect Lens.
--   Great movement when upgraded despite being a combat mantra.
--   Good for chasing/escaping.
--   Moves in a straight horizontal line.
-    -   Can propel the user in midair.
+-   Compatible with Cast Speed and Visibility Modifiers.
+-   Provides adequate mobility.
+-   Moves in a straight path.
+    -   Can propel the user midair.
 
  |
 |  | 
@@ -248,7 +239,7 @@ _Strike the ground, turning it to ash._
 
 -   Requires 30 Strength and 50 Flamecharm.
 -   Deals high posture damage.
--   Burns target(s).
+-   Inflicts Burn.
 
  |
 
@@ -271,9 +262,8 @@ Leap up leaving behind a burst of flames.
 
 -   On flat ground, will usually lead to fall damage for the user.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
--   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
--   With the talent _Meteor Impact_ you can still damage enemies with it as long as the initial leap hits and the opponent(s) are sent upwards with you.
--   Shares the same casting timer with Strong Leap, regardless of its Reversal Spark Modification.
+-   Is able to proc _Meteor Impact,_ as long as the initial leap hits and the opponent(s) are sent upwards with you.
+-   Shares similar traits to the Strong Leap mantra.
 
  |
 
@@ -298,9 +288,9 @@ _A servant of flames._
 -   Ignites nearby campfire pits if not busy healing you.
 -   Ritual casting.
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses
-    -   Requires confirmation.
--   The HP given from the wisp will go lower if you are in combat. Without combat each time it heals for around half a bar (10%) while in combat the heal will be reduced to around 3%
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
+-   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
+    -   Heal amount may vary from player to player.
 
  |
 |  | 
@@ -317,12 +307,10 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
--   Compatible with Duration, Intensity and Size Buffs.
+-   Compatible with Duration, Intensity and Mantra Size modifiers.
 -   Ritual casting.
--   Will be put out if it's raining, unless used with the unyielding inferno talent.
--   ~Using Blue Gem will NOT work.~ Whoever said this is an idiot.
--   Does not work in The Depths unless used with Undying Flames.
-    -   Rare Flamecharm mantra.
+-   Will be put out if it's raining, unless used with the Unyielding Inferno talent.
+-   Does not work in The Depths unless used with the Undying Flames talent.
 
  |
 |  | 
@@ -340,8 +328,9 @@ _Undying flame._
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
 -   Resets some of the user's sanity.
--   Putting _Vibrant Gems_ on it seems to add more keys, but Logstones don't seem to be compatible.
--   Upon successfully casting this mantra, it will freeze you in place allowing the opponent an opportunity to strike, so it is advised to use this before you get too low to withstand another blow
+-   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
+    -   Potentially Incompatible with Duration modifiers.
+-   Freezes user in place for a brief moment on a successful cast.
 
  |
 
@@ -733,6 +722,5 @@ Azure Flames
     -   Flamecharm is the best attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of denial" mantra which can reset some sanity upon use.
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in Ganks/Guild wars.
 -   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.
--   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air but expect fall damage upon use.
--   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like "Agitating Spark" where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes "Flame Within" talent equal if not better than the "Static withdraw" talent or "Lightning Cloak" mantra.
--   Flamecharm is the only attunement that can benefit it's [Hero Blade](https://deepwoken.fandom.com/wiki/Hero_Blades) as it has at least some sort of insta-grip.
+-   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air, but expect fall damage upon use.
+-   Flamecharm is the only attunement that can benefit it's [Hero Blade](https://deepwoken.fandom.com/wiki/Hero_Blades) as it has something akin to an insta-grip.

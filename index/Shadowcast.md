@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 38621
+revid: 39076
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -72,7 +72,7 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | Creates to chains conjuring from portals, that auto connects to the selected target, drains the targets ether, and slows them for ~3 seconds. It fills the user's ether simultaneously. |
+ | Chains of shadow. | Creates chains conjuring from portals that auto connect to the cursor's position. Drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
 | 
 
  | 

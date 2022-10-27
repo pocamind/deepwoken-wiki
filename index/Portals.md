@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 38040
+revid: 39097
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -38,8 +38,8 @@ Pressing C will activate the **Portal** Resonance.
 When obtained, Portals will spend its points on the following stats:
 
 -   **Dive:** If this stat is used, this resonance gains an alternative use: Press C again right before going into the portal to dive. When the duration ends or after pressing C again, kick out of the portal, dealing damage and sending the user and target into the air. The user can true combo with fast attacks.
--   **Duration:** The more poinst are spent on this stat, the longer the user can stay in the portal.
--   **Speed:** The more poinst are spent on this stat, the faster the user move while inside the portal.
+-   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
+-   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
 
 ## Trivia/Notes
 
