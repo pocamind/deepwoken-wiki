@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 37769
+revid: 39132
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,6 +21,8 @@ Amara is a Khan, she's around 40 years old based on her wrinkles. She wears the 
 Amara and the 11th Legion seem to come all the way out west, as suggested by Gaius in [Viper's Jaw](<The_Viper's_Jaw.md>) ranting about how he was posted in the east, even though the description of the [11th Legion](The_Hundred_Legions.md) suggests they've always been there. Apparently the whole Legion is made of scouts as that is Amara's task in the East.
 
 According to Arch\_Mage, she's just a normal Centurion.
+
+When giving the recommendation to Amara, she mentions that you were recommended by Captain Acheron, not only meaning meaning that the [Acheron's Warspear](<Acheron's_Warspear.md>) is owned by said Captain, who might've lost it to a corrupted King [Thresher](Thresher.md) during a fight or something of the sort, but that Acheron is still alive.
 
 ## Trivia
 

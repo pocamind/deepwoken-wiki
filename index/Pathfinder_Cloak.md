@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 32704
+revid: 39136
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Power.md) 15.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance and +5% Slash resistance.
+This Outfit has 1200 durability and grants +18% Physical Armor and +8% Elemental Armor.
 
 This Outfit also grants the [Talent Card](Talents.md) _Environmentalist_, which reduces the damage from certain weather effects.
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 38433
+revid: 39130
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -74,7 +74,7 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
 ### Finding the Nature of your Soul & Progress
 
-The main factor in obtaining a Resonance is known as Progress. There are many ways to obtain Progress, and the most effective ways can vary from character to character. To find out the most effective way for you to obtain Progress, you can talk to [Sibex](Sibex.md), a unique NPC. He will inspect your Soul and tell you what is the best way for you to obtain Progress. He can also tell you how close you are to obtaining you Resonance.
+The main factor in obtaining a Resonance is known as Progress (commonly referred to as "bell prog"). There are many ways to obtain Progress, and the most effective ways can vary from character to character. To find out the most effective way for you to obtain Progress, you can talk to [Sibex](Sibex.md), a unique NPC. He will inspect your Soul and tell you what is the best way for you to obtain Progress. He can also tell you how close you are to obtaining you Resonance.
 
 | **Possible dialogue results:** |
 | --- |

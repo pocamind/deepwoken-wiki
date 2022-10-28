@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 37409
+revid: 39137
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -75,7 +75,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
--   **\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
+-   **\[C\]\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
 -   **\[V\]** **Omelette/Cooked Egg** - _2 Eggs_
 -   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
