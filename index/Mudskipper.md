@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 38837
+revid: 39154
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -25,7 +25,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+ | Weakly smacks opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 
 ## Finisher
 
