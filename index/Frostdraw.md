@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 38814
+revid: 39141
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -869,6 +869,7 @@ Your ice spear now lodges into human opponents and explodes.
     -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
     -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
+-   The "Glacial Arc mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
 -   Ice Eruption does less damage the larger it gets?
     -   Never tested, but was stated in an update log.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.

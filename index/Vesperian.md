@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 39101
+revid: 39143
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Races]
 ## Description
 
 Template:Races-Main
-
-A vesperian with hair.
 
 “ Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents. ”
 
