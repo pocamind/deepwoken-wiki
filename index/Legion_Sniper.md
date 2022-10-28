@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 35923
+revid: 39177
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,18 +24,18 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 | 
 Assault
 
- | \[[Champion's Sword](<Champion's_Sword.md>)\] Firmly swings blade at opponent and finishing up the combo by kicking them.
+ | \[[Champion's Sword](<Champion's_Sword.md>)\] Swings blade at the opponent and finishes the combo by kicking them away.
 
-\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
+\[[Ritual Spear](Ritual_Spear.md)\] Thrusts spear at opponent and finishes up the attack by kicking them.
 
-\[[Fists](Fists.md)\] Firmly pummels opponent and finishing up the combo by kicking them.
+\[[Fists](Fists.md)\] Pummels opponent with their fists and flourishes the opponent away.
 
  | ◯ | ◯ | (★☆☆) |
 | 
 
 Grand Javelin
 
- | User throws a spear of lightning in front of them.
+ | User throws a spear made of pure lightning in front of them.
 
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 
@@ -51,10 +51,10 @@ Grand Javelin
 
 -   They are always hostile, no matter your Reputation with the Legion, **you will not lose Reputation from killing this one.**
 -   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
--   Using bolt piercer or shard bow, or any projectile-based mantras **will make him walk towards you a few steps.**
+-   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
+-   Grand Javelin can be blocked with high enough posture.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back (sometimes, don’t forget that they can walk they are able to move)
--   They will parry all of your attacks, so expect to get in a very very long party trade with one. Once they flourish you or once you roll away from him he’ll use his grand jav. Also beware because he will follow you now you can’t just easily run from him.
--   If they spawn near a ledge, they can snipe you out of the air even if you're gliding.
+-   They will parry all of your attacks, so expect to get in a very very long party trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
 
 ## Trivia
 
@@ -62,4 +62,4 @@ Grand Javelin
 -   They're friendly to normal Legion NPCs and won't attack them.
 -   Even if it doesn't change anything, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
--   Can be blocked with high posture
+-   Despite being a Thundercall user, they can drop [Gale Stones](Gale_Stone.md).

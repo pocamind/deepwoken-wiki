@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39093
+revid: 39157
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1265,7 +1265,9 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Thunder Brawler
 
--   Discharge \[Common Talent, Thundercall Exclusive, \] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load, +2 Elemental Intensity, +3 Health)
+-   Discharge \[Common Talent, Thundercall Exclusive\] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load, +2 Elemental Intensity, +3 Health)
+-   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to followup on your opponent with a less potent kick. (+7 Carry Load, +2 Elemental Intensity)
+    -   Prerequisites: Thunder Kick
 
 ### Thunder Caster
 

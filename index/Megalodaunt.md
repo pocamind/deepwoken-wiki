@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 39035
+revid: 39169
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -62,7 +62,7 @@ Kick
 
 Jump
 
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used to catch up to players attempting to retreat from it by using height to their advantage. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
