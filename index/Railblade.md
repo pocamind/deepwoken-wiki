@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 39158
+revid: 39194
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -34,3 +34,6 @@ Note: This is unconfirmed and purely speculation, do not spread rumors unless yo
 ## Notes
 
 -   Nanoprodigy is the only player who owns this weapon currently.
+
+-   It is the first known weapon to have a 2 diffrent criticals with an ground and aerial crit, it also applies flames to enemies hit (excluding the first hit of the grounded critical)
+-   It's description eludes to a new mechanic for Layer 2, describing the weapon's capability to ward off the cold in the Eternal Gale. This infers that the cold weather and winds will be an environmental hazard, it may function as a temperature mechanic which may require players to stave off the cold in order to stay alive.

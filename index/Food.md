@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 37938
+revid: 39201
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -68,7 +68,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 ### _Campfire Recipes_
 
 -   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
--   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
+-   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo - **This does not actually exist. This recipe was posted by a troll as it makes a Mushroom Omelette**_
 -   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
 -   **\[V\] \[C\] [Bread](Bread.md)** - _3 Gathered Wheat_
 -   **\[V\] Omelette/Cooked Egg** - _2 Eggs_
@@ -94,8 +94,9 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
 A Individual who has crossed paths with The Meat Lord.
 
--   Pomar is the only fruit that will damage you.
-    -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they hurt you.
+-   Pomar is the only fruit that appears to damage you.
+    -   Upon eating a Pomar, the character model will lean back or to the side as if being damaged, but no health will actually be lost.
+        -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they appear you.
 -   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and rarely [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
     -   He also sells one of the best food items in the game, as it takes no inventory space.
 -   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.

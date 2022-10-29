@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39146
+revid: 39203
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -542,7 +542,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>18</td>
   <td>20%</td>
   <td>N/A</td>
-  <td>MED: 7</td>
+  <td>MED: 7.5</td>
   <td>7</td>
   <td>8</td>
   <td>0.7x</td>
@@ -1433,7 +1433,7 @@ D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u
 _[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_  
 _[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/yy8xvtjliq?lang=en)_
 
-Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
+Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
 Players can use this formula to figure out their swing speed
 
