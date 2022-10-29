@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39157
+revid: 39186
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -210,7 +210,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
--   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity, +1 Posture)
+-   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
@@ -240,14 +240,18 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Blindseer
 
+These are not talents but mantras exclusive for blindseers. All blindseer mantras gives insanity.
+
 -   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
-    -   Allows you to absorb the insanity of other players.
+    -   Heals and absorbs insanity of other players.
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
 -   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
     -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
+    -   Seems to give bonus damage against monsters.
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 5 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
-    -   After a short wind-up, shoots a multi-hit laser beam from your eyes which does more damage depending on how insane you are.
+    -   After a short wind-up, shoots a multi-hit laser beam from your eyes, if not blocked will do huge damage.
+    -   This mantra doesn't give posture damage.
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
 
 ### Brawler
