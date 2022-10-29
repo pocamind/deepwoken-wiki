@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 37506
+revid: 39210
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -64,7 +64,7 @@ Lightning Stream
 
 A stream of lightning that hooks onto an opponent before shocking them multiple times.
 
- | ✗ | ◯ | (★★☆) |
+ | ◯ | ◯ | (★★☆) |
 
 ### **Boons:**
 

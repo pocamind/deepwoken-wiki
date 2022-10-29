@@ -1,16 +1,12 @@
 ---
 title: How to Make Friends
-revid: 38871
+revid: 39209
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # How to Make Friends
-
-Redirect to:
-
--   [Training Items](Training_Items%253Fredirect=no.md)
 
 ## Overview
 
