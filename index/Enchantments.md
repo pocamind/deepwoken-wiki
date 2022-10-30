@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 39064
+revid: 39230
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -346,8 +346,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><center><br>
   <font>Multiplicity<div></div></font></center></td>
-  <td><div><p>On proc, recover hunger, thirst and blood.<br>
-  Does not proc against NPCs.</p></div></td>
+  <td><div><p>On proc, recover hunger, thirst or blood. Also can negate and heal damage or give damage reduction on proc. (proof <a href="https://www.youtube.com/watch?v=tjP4vsDejH0&amp;ab_channel=Nogo">https://www.youtube.com/watch?v=tjP4vsDejH0&amp;ab_channel=Nogo</a>)<br>
+  </p>
+  <p>Does not proc against NPCs.</p></div></td>
   <td><div>Equipment is covered in white electricity.</div></td>
 </tr>
 <tr>

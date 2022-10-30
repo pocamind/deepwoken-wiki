@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39186
+revid: 39231
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1113,6 +1113,7 @@ Prerequisite: Charisma
 ### Soul Converter
 
 -   Bloodiron Spirit \[Rare Talent\] - You regain some armor upon killing enemies.(+5 Health)
+-   Prerequisite: 5 Strength/Fortitude/Agility
 
 ### Soverign of Slaughter
 

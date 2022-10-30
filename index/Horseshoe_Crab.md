@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 33930
+revid: 39232
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,8 +22,10 @@ Isopods are small, brown creatures with a spike protruding out of its head. They
 
 ## Moves
 
--   **Swarm** - The Isopods come together and crawl all over their victim's body, tearing apart its flesh and killing them.
+-   **Swarm** - The Isopods come together and crawl all over their victim's body, greatly lowering their blood overtime, more potent the more Isopods are on the player.
 
 ## Trivia
 
 -   They were originally going to be in the game, but were removed due to them being buggy and very dangerous if solo encountered.
+-   Only found via a dev spawning them in.
+-   Can easily be killed by hitting them once.

@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 38921
+revid: 39228
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -52,7 +52,7 @@ A question from the math textbook
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**
 
-Located at the bookstore.
+Located at the bookstores in Etris and the Isle of Vigils.
 
 ### Willpower
 
@@ -64,7 +64,7 @@ Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 -   How To Make Friends - Template:Cost / **200 uses**
 
-Located at the bookstore and also in the Isle of Vigils library.
+Located at the bookstores in Etris and the Isle of Vigils.
 
 ### Light/Medium/Heavy Weapons
 
