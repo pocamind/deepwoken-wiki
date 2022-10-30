@@ -1,16 +1,12 @@
 ---
 title: Horseshoe Crab
-revid: 39232
+revid: 39241
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Horseshoe Crab
-
-“ The enemy? THE ENEMY? THE ENEMY!!! the enemy. ”
-
-― A group of Isopods on their way to kill an innocent Adret Diver Apprentice
 
 Template:Creature Infobox V3
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39239
+revid: 39244
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1227,6 +1227,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Herbivore \[Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: Herbivore
+    -   Requirements: Vomit at least once
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Prerequisites: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
@@ -1245,6 +1246,18 @@ These Talents are designed to let you survive against starvation and thirst by l
     -   Prerequisites: 20 Intelligence
 -   Punishing Blow \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
     -   Prerequisite: 20 Heavy Weapons Mastery
+
+### Tavernkeep
+
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
+    -   Increases food satiation by 25%.
+    -   Known Prerequisites: 25 Intelligence
+    -   Speculated Prerequisites: 25 Charisma, Cook 50+ Foods, Food Type Does Not Matter
+
+-   MasterChef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
+    -   Increases food boosts by 30%.
+    -   Known Prerequisites: 25 Intelligence
+    -   Speculated Prerequisites: 25 Charisma, Cook 50+ Foods, Food Type Does Not Matter
 
 ### The Demon Blade
 
