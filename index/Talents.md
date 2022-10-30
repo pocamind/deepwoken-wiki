@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39231
+revid: 39239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -256,6 +256,8 @@ These are not talents but mantras exclusive for blindseers. All blindseer mantra
 
 ### Brawler
 
+-   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. (+3 Health)
+    -   Prerequisites: Trained Fists
 -   Trained Fist \[Common Talent\] - You can now equip Cestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
 
@@ -421,7 +423,8 @@ These Talents are mainly aimed at making assassination much more potent, especia
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast mantras deal 20% more damage at night.
--   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
+-   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves. (+3 Elemental Intensity, +3 Health)
+    -   Prerequisites: 40 Shadowcast, Dark God
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
     -   Prerequisites: Shadow Eruption
@@ -740,6 +743,8 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Saint Jay last for double the duration of Chill.
     -   If using Glass Path: Crystallization, Saint Jay is active for 2 seconds when a crystal is applied.
     -   Prerequisite: Frostbite
+-   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
+    -   Prerequisites: Ice Lance
 -   Frozone \[Legendary Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Skate (3 Star Frostdraw Mantra)
 
@@ -1013,7 +1018,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   All knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity, +10 Ether)
     -   Prerequisite: 76 Intelligence + Prediction (Intelligence Mantra)
 -   Successive Prediction \[Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: 76 Intelligence + Prediction (Intelligence Mantra)
+    -   Prerequisite: 60 Intelligence + Prediction (Intelligence Mantra)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
 
 ### One Eyed King
@@ -1305,6 +1310,8 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
     -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related talents.
     -   Prerequisites: 25 Thundercall
+-   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
+    -   Prerequisites: 35 Thundercall, 30 Agility
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in roughly 3.5 seconds at the cost of some ether.
         -   For reference, default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
