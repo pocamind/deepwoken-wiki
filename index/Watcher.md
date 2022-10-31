@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 37936
+revid: 39252
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Watcher
 
-“ Yeah, the Pixar Lamp recreated as a sleep paralysis demon should be a good idea. ”
+“ H-How many times am I going to die? Stay away! Stay the hell away from me! ”
 
-― Ragoozer while making the Watcher concept
+― The "I" in Pixar.
 
 ## Description
 
