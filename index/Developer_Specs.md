@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 38453
+revid: 39249
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -26,7 +26,7 @@ Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www
 
 ### Arch\_Mage (Haske Vantage)
 
-Arch\_Mage has the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. He is also able to spawn horseshoe crabs (like the ones in the Karliah quest) that kill players nearby. Arch\_Mage also seems to posses a teleportation ability which spawns chains around him when he disappears, not much is know about this ability currently.
+Arch\_Mage has the ability to steal people's soul and take mantras from them. He can upgrade them to whatever level he sees fit. He is also able to spawn horseshoe crabs (like the ones in the Karliah quest) that kill players nearby. Arch\_Mage also seems to posses a teleportation ability which spawns chains around him when he disappears, not much is know about this ability currently.
 
 ### Melonbeard (Zastra, Prince of the Moon)
 

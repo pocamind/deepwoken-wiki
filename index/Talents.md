@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39244
+revid: 39251
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -297,6 +297,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   User is covered in a blue outline when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
     -   Mutually Exclusive: Observation, Safety Dance
+        -   formerly halved the users dodge frames
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a succesful dodge.
     -   Prerequisite: ?? Strength, ?? Agility.
