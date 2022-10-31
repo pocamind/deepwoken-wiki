@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 38965
+revid: 39260
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,11 +22,11 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 ## Description
 
-You don't have an attunement, so your mantras scale off of Strength or other sources, if it has scaling at all.
+You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focus on your character, such as making you faster, helping you do more damage when things look ugly, or removing stun. Although attunementless sounds horrible on paper, Deepwoken does a good job of making it as good as any other attunement. While the moves are on par if not better than most attunements, it has some drawbacks being you don't get to experience the passives of other attunements, despite having 100 extra points, you likely won't get the chance to obtain most of the mantras, and you don't have much utility outside of fighting.
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunementless sounds horrible on paper, it is, in reality, just as viable as having an Attunement. While the mantras associated with Attunementless are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunementless mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way.
 
-Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few moves, the community has discovered much about it. One of it's moves that seemingly had nothing to do with combat, was turned into a wall to proc flourish talents, effectively turning it into unironically one of the best combat mantras. The playstyle of this lifestyle is straight forward. You see an opening and you take it without a second thought because it's going to be hard to get close to your opponent. Many of the moves are good for combat, which is very beneficial in a game like Deepwoken, because it has a large arsenal of moves including it's very own counter, something that little to no attunements have. This attunement (If you could even call it that) is for a warrior, as it can excel in fights, but is not very useful outside of fights.
+In spite of it's shortcomings, the potential of Attunementless is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunementless Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts, but with your bare hands alone.
 
 ## Attribute Mantras
 
@@ -49,12 +49,10 @@ File:No Attunement Revamp.png
  | _A powerful, flinging punch that shatters the air._ | 
 
 -   **Requirements:** _**20 Strength,**_ _Combat Mantra_
--   A powerful left hook, that ragdolls and knockbacks hit enemies.
--   Unlike other mantras, Strong Left scales with your strength level.
+-   A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.
+-   Strong Left scales with your Strength attribute.
 
 -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
-
--   Name may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
 
  |
 | 
@@ -68,8 +66,8 @@ File:No Attunement Revamp.png
  | _Unleash a barrage of blows against your foes._ | 
 
 -   **Requirements:** _**20 Strength,**_ _Combat Mantra_
--   A flurry of blows that hitstun and pound your enemy.
--   If parried during its startup it gets cancelled, otherwise not.
+-   A flurry of blows that inflicts light damage on your opponent.
+-   The move is cancelled upon getting parried in the initial hit.
 
  |
 | 
@@ -84,7 +82,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
 -   A vertical jump that sends the user into the air.
--   Altitude travelled decreases significantly as the user loses health, making it inopportune for retreating.
+-   Altitude travelled decreases significantly as the user loses health.
 
  |
 | 
@@ -96,7 +94,8 @@ File:No Attunement Revamp.png
  | _Disguise yourself in tacet and drop kick your enemies._ | 
 
 -   **Requirements: 20 Strength, Murmur: Tacet and Jus Kaita,** _Combat Mantra_
--   The user cover themselves in Tacet, shortly after that performing a dropkick from above, dealing knockdown.
+-   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
+-   Inflicts knockdown.
 
  |
 
@@ -129,12 +128,9 @@ File:No Attunement Revamp.png
  | _Buff those around you with extra defence._ | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
--   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
--   Needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
--   _**Can be upgraded**_ with the following _**Fortitude Talents:**_
-    -   _**"Lord Commander" rare talent card**, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
-    -   _**"Blood Shadow" rare talent card,** which saps health from people you reinforced back onto you until the effect wears off._
-    -   _**"Grand Support" rare talent card,** which slightly heals people upon reinforcing. (The user included\[stacks with Lord Commander\])_
+-   Decreases damage received by allies for the duration of the effect.
+    -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
+-   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grant Support'._
 
  |
 | 
@@ -148,9 +144,8 @@ File:No Attunement Revamp.png
  | _Brace yourself against attacks and gain hyperarmour._ | 
 
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
--   Prevents your attacks/mantras from getting cancelled when being hit. (Nanomachines son!)
--   5 Second duration at base upgrade, each upgrade increases its duration up by 1 up to a maximum of 9 seconds.
--   Needs testing with Logstones to find out if it affects duration.
+-   User gains hyperarmor, negating hitstun for the duration of the effect.
+-   Last 5 Seconds by default.
 
  |
 | 
@@ -164,16 +159,16 @@ File:No Attunement Revamp.png
  | _Rush at your enemies with your full physical force._ | 
 
 -   **Requirements:** _**10 Fortitude**_, _Mobility Mantra_
--   Dash forwards with your shield infront, colliding with a surface or NPC will bash them and deal light damage.
--   _Parry-able._ Getting parried ends the mantra early.
--   Solid mantra that can be used to chase your opponents.
--   Can break surfaces. (Tested with Tomb of Nameless Warrior hidden door.)
+-   User charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
+-   Deals light damage.
+-   The charge is cancelled upon getting parried.
+-   Can break parts of the map.
 
  |
 
 ### _**Agility Mantras**_
 
-Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the duration/level cap, bolster your agility and parkour abilities with Ankle weights, by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _**assassinations.**_
+Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -187,8 +182,11 @@ File:No Attunement Revamp.png
  | _A vengeful rush._ | 
 
 -   **Requirements:** _**5 Agility,**_ _Combat Mantra_
-    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health.
-    -   Additionally, it scales with it's Level and Agility points, further increasing it's damage potential when dangerously low on health.
+    -   A quick dash signified by a red-line effect.
+    -   The move is only activated upon hitting an opponent.
+    -   Teleports the user some distance forward upon activation.
+    -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
+    -   Scales with the user's Power Level and Agility Attribute.
 
  |
 | 
@@ -202,7 +200,8 @@ File:No Attunement Revamp.png
  | _An agile dash._ | 
 
 -   **Requirements:** _**40 Agility,**_ _Mobility Mantra_
-    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
+    -   Sends the user a considerable distance forward.
+    -   Range significantly decreases as the user loses health.
 
  |
 | 
@@ -216,13 +215,14 @@ File:No Attunement Revamp.png
  | _An adrenaline rush of mobility._ | 
 
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
-    -   Restores a decent amount of ether periodically, and increases your movement speed and parkour abilities by 25% ( Your current agility points + (your current agility points/4).
+    -   Restores a decent amount of ether periodically.
+    -   Increases movement speed and parkour abilities by ~25%.
 
  |
 
 ### _**Intelligence Mantras**_
 
-Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook, by discovering new locations, crafting new items for the first time, scavenge natural resources and by making potions.
+Intelligence mantras act as "wildcards" in the user's arsenal as they compliment well with existing mantras. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -236,8 +236,9 @@ File:No Attunement Revamp.png
  | _Make a cauldron appear from your memories._ | 
 
 -   **Requirements:** _**20 Intelligence,**_ _Support Mantra_
-    -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
-    -   A ritual spell must be completed in order to summon the cauldron, just like the Wisps and Graceful Flame.
+    -   Summons a cauldron that can be used to concoct potions.
+    -   Despawns when the user moves away from the Cauldron.
+    -   The Mantra is Ritual Casted.
 
  |
 | 
@@ -251,16 +252,15 @@ File:No Attunement Revamp.png
  | _Predict an opponent's attack and reflect it._ | 
 
 -   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
-    -   Spawns a white flooring pattern around the user. Any type of damage that were to be dealt to you will get reflected back onto the attacker, including its negative effect.
-    -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
-        -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.
-        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after the first prediction activates (Stacks).
+    -   Spawns a white flooring pattern around the user.
+    -   **Deflects** an attack back to the attacker.
+    -   Can be upgraded with Intelligence Talent Cards 'All Knowing' and 'Successive Prediction'.
 
  |
 
 ### _**Willpower Mantras**_
 
-Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or ~your beloved~ players/NPCs,be the one to quickly end their life OR endure a long stay in [The Depths](The_Depths.md).
+Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -271,13 +271,10 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _An ability where you stare at your enemy, combat tagging them, giving slowness and reducing their defense._ | 
+ | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   You summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
-    -   Requirement: 30 Willpower, Willpower _Support Mantra_.
-    -   Could be very dangerous for Agility-less or a Curse of the No Life King user.
-    -   Inflicts insanity and reduces defense by an unknown amount.
+    -   User summons an invisible projectile, inflicting a considerable amount of insanity on an opponent upon collision.
 
  |
 | 
@@ -288,10 +285,12 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Opponents facing you (And that are not blocking) are briefly rendered immobile._ | 
+ | _Opponents facing you are briefly rendered immobile._ | 
 
 -   **Requirements:** _**5 Willpower, 25 Charisma,** Support Mantra_
-    -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
+    -   User summons an invisible AoE projectile upon activating,
+    -   May still combat tag opponents who are not facing you.
+    -   This move causes humanoid NPCs to block less.
 
  |
 | 
@@ -305,8 +304,7 @@ File:No Attunement Revamp.png
  | _A melee strike that removes your posture's damage on hit._ | 
 
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
-    -   The mantra does not only clear your posture, it transfers it to the target.
-    -   It can also guard-break the enemy if enough posture is inflicted on the target.
+    -   The user empties their posture damage, and transfers it to their opponent.
 
  |
 
@@ -326,8 +324,9 @@ File:No Attunement Revamp.png
  | _Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._ | 
 
 -   **Requirements:** _**25 Charisma**_ _Support Mantra_
-    -   Combat tags enemies, and causes them to take 20% more damage, while they do 10% more damage to you specifically. They also can't jump anymore.
-    -   Stacks with Gaze.
+    -   Affected entities receive 20% more damage.
+    -   Affected entities deal 10% more damage to you specifically.
+    -   Disables Jumping.
 
  |
 | 
@@ -341,8 +340,7 @@ File:No Attunement Revamp.png
  | _Charm those around you with your powerful voice._ | 
 
 -   **Requirements:** _**25 Charisma** Support Mantra_
-    -   Inflicts enemies with a long lasting charmed debuff. Combat tags enemies.
-    -   Can be upgraded with a Talent to buff yourself.
+    -   Inflicts Charm on nearby entities.
 
  |
 
@@ -366,7 +364,9 @@ File:No Attunement Revamp.png
  | _Rush down your opponent cutting them apart._ | 
 
 -   **Requirements:** _**30 Light Weapon,**_ _Combat Mantra_
-    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high damage when upgraded and 75+ LHT.
+    -   Teleports the user to the enemy which the cursor is pointed at.
+    -   Deals moderate damage.
+    -   Damage scales off LHT Weapons Attribute.
 
  |
 
@@ -384,7 +384,8 @@ File:No Attunement Revamp.png
  | _A powerful slash that chips through block and slashes through armor._ | 
 
 -   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
-    -   A spinning double slice with your sword. Chips through block and builds posture.
+    -   A spinning double slice with your sword.
+    -   Deals Chip Damage.
 
  |
 
@@ -403,7 +404,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**30 Heavy Weapon,**_ _Combat Mantra_
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
-    -   Unlike other weapon mantras, this move isn't a main damage dealer. Instead, it dazes your opponent when they hit the ground.
+    -   Dazes opponents on hit.
 
  |
 
@@ -458,3 +459,5 @@ For short: Every 20 points in a specific attribute will unlock the next level fo
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.
+-   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
+-   Reinforce needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)

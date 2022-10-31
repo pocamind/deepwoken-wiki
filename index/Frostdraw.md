@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 39141
+revid: 39257
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,24 +16,22 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
+Frostdraw is an attunement that focuses on Environment Manipulation, Area-Denial and Defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice, highlighting the Defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow attunement when compared it's other counterparts, it makes up by having unapparelled damage output.
 
-The playstyle of this element is territory control and defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice making this a good defensive attunement. Although the first few mantras of frostdraw are considered generally weak, later mantras soon show the power of frostdraw. Though this attunement is slow compared to others, it is a heavy hitter. This attunement would most likely fit someone who likes playing defensive heavies.
-
-Also, the Chilling [Enchantment](Enchantments.md) inflicts the same effect that this attunement inflicts.
+A favorite by both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
 ## Training
 
-Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears) and Frostdraw Mantras.
+Frostdraw can be trained by conventional methods, via using a the [Hemafrost](Training_Gear.md#attunement-training-gears) to freeze their blood to attune more with the Frost, and by using Frostdraw Mantras.
 
-Along with all other elements, users can see their Mantras becoming stronger with training:
+Much like every other attunements, users can see their Mantras become stronger with enough training:
 
 -   At Power 2, players receive the _Frostdrawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
--   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
+-   At Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
 
-The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. It requires 5 [Frigid Prisms](Frigid_Prism.md) in order to unlock Frostdraw.
+The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. She requires you to provide her with 5 [Frigid Prisms](Frigid_Prism.md) in order to unlock Frostdraw.
 
 ## Mantras
 
@@ -68,7 +66,8 @@ _Fire a beam of ice._
 
  | Fires a penetrating beam of ice.
 
--   Deals multiple attacks and light damage.
+-   Deals light damage.
+-   Hits multiple times in a row.
 
  |
 | File:Frostgrab base range.gif | 
@@ -81,10 +80,10 @@ _An icy chokehold._
 
  | User performs a quick dash before grabbing the opponent in front of them.
 
--   Can be used for slight forwards mobility until the user gets Glacial Arc.
+-   User gains a brief forward momentum on use.
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
--   This move can insta-grip if it posture breaks a target with low enough health.
+-   If damage is enough to reduce opponent's health to 0, Instantly kills upon posture break.
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
@@ -95,9 +94,10 @@ Warden's Blades
 
 _Revolving blades of ice._
 
- | User forms 4 ice blades around them before rapidly rotating them, dealing light damage.
+ | User forms 4 ice blades around them, which rapidly rotates shortly after casting.
 
--   Can be modified with Stratus Stones to create some serious area denial.
+-   Deals light damage.
+-   Hits multiple times in a row.
 
  |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | 
@@ -111,7 +111,7 @@ _A legion of frost._
  | Conjures four to five frozen servants that emits two blasts of frost mist to the center.
 
 -   Deals Moderate damage if both blows hit.
--   Area of Effect attack that damages and slows targets inside.
+-   Inflicts Chill.
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 
@@ -129,9 +129,8 @@ _Form and toss daggers of ice at your aimed opponent._
  | User forms three daggers of ice before throwing them towards the nearest person.
 
 -   Homing attack.
--   Can be upgraded with the "Frozen Pin-Cushion" talent (Freezes opponents for a long period of time).
--   If out of range it will take ether and create daggers but they will not be thrown.
--   Also doesn't work if you are just a couple of studs higher than your opponent, though this is often inconsistent.
+-   Can be upgraded with the "Frozen Pin-Cushion" talent.
+-   Consumes ether even if desired target is out of range.
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 
@@ -162,7 +161,7 @@ _Chains of ice._
 
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
--   The number of chains can be increased with Cloudstones presumably increasing the damage, but it's a pretty bad mantra in general considering it's lackluster hitbox.
+-   Cloudstones would increase the number of chains conjured.
 
  |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
@@ -178,7 +177,7 @@ _Conjure and throw weapons of ice._
  | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
 -   Rapidly deals light damage.
--   Briefly slows target(s).
+-   Inflicts Chill.
 
  |
 | [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | 
@@ -194,28 +193,9 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage.
--   Slows target(s) down.
+-   Inflicts Chill.
 -   Leaves ice where Mantra is casted.
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form around the user instead of it erupting forward.
-
- |
-| 180x180 | 
-
-Ice Stomp
-
-(???)
-
- | 
-
-_Placeholder"_
-
- | The user performs a stomp, which makes massive icebergs come out the ground. Anyone hit becomes encased in ice. The ice then shatters after a brief period.
-
--   Probably deals moderate-high damage.
--   Has a slow windup.
--   If trapped in ice, the ice will shatter early if hit
-
-Disclaimer: This is from the Deepwoken Layer 2 Combat Direct video. This may change, or might not get added into the game.
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -231,8 +211,8 @@ _A colossal mace of ice._
  | User performs a wind-up before slamming an ice club into the ground.
 
 -   Deals heavy damage and low knockback.
--   Briefly slows target down.
--   Can destroy certain parts.
+-   Inflicts Chill.
+-   Is capable of breaking parts of the map.
 
  |
 | File:Icelance.gif | 
@@ -248,7 +228,8 @@ _Form an ice spear and lunges forward._
  | User forms an ice spear and lunges forward towards the opponent.
 
 -   Deals moderate damage.
--   Briefly slows target.
+-   Inflicts Chill.
+-   User gains considerable forward momentum on use.
 
  |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
@@ -264,8 +245,7 @@ _Send ice rippling out in a shockwave._
  | Forms a beacon infront of the player.
 
 -   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
--   This is a legendary mantra
--   This is extremely good in fights/area denial because when casted it will keep emitting the ice shockwaves while allowing the user to still use their weapon and other mantras. Also great for dealing constant damage while it is active.
+-   This is a legendary mantra.
 
  |
 
@@ -299,8 +279,8 @@ _Impale your foes with a brutal crystal smash._
 
  | User briefly ascends before swiftly descends
 
--   Deals around six to eight hits.
--   Can be combo-ed if paired with an unmodified "Crystal Knee" mantra.
+-   Deals light damage.
+-   Inflicts Chill.
 
  |
 |  | 
@@ -315,12 +295,11 @@ _Swift bolts of frozen air._
 
  | Fires a bullet of ice.
 
--   Bad Hitbox.
--   Damages opponents, _possibly slows them down._
+-   Inconsistent Hitbox.
+-   Deals light damage.
 -   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
--   Ice Beam is better.
--   Use 2 stratus stones to turn it into a 5 shot burst gun.}
+-   Using Cloudstones/Stratus Stones would increase the number of projectiles fired.
 
  |
 
@@ -339,11 +318,12 @@ Glacial Arc
 
 _An arc of ice._
 
- | Conjures a solid ice pillar that follows the cursor is.
+ | Conjures a solid ice pillar that points toward the user's cursor.
 
--   Can be used to climb walls or cross gaps.
--   Deals heavy damage and briefly slows targets.
--   Can be modified with a Glass Stone; this causes it form a small ice eruption at the end of the pillar.
+-   Can be used to scale walls and terrain.
+-   Deals heavy damage when it hits an opponent.
+-   Inflicts Chill.
+-   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to form more arcs.
 
  |
@@ -359,9 +339,9 @@ Ice Skates
 
 _Skate freely on paths of ice._
 
- | While on or above water, create a frozen platform that you slide on at a high velocity.
+ | While on or above water, create a frozen platform to slide on at a high velocity.
 
--   Knocked players cannot be held while this mantra is active
+-   Knocked players cannot be held while this mantra is active.
 -   The legendary "Frozone" talent allows the user to cast this mantra anywhere
     -   This includes [The Depths](The_Depths.md).
 
@@ -385,15 +365,11 @@ _Skate freely on paths of ice._
   <p><br>
   </p></center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
-  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit(s) while this is active.
+  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit while this is active.
   <ul>
     <li>Heals 1-3%</li>
-    <li>Can be upgraded with Stratus Stones and Eternal Logstones.
-  <ul>
-    <li>Needs more testing.</li>
-  </ul></li>
-    <li>Add drift and rush shards to increase healing Amount(around a bar to half a bar)</li>
-    <li>Do not use near teammates as it can freeze them.</li>
+    <li>Compatible with Stratus Stones and Eternal Logstones.</li>
+    <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -855,13 +831,16 @@ Your ice spear now lodges into human opponents and explodes.
 
   
 
-## Trivia/Notes
+## Trivia
 
--   Frostdraw is slightly slower compared other magics but is still quick and cunning.
--   Frostdraw mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that allow you or your opponents can collide with.
+-   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
+    -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
+-   Frostdraw mantras afflict a brief Agility penalty when targets are hit, and is the only element so far that can create physical objects that allow you or your opponents can collide with.
+-   The Chilling [Enchantment](Enchantments.md) inflicts the same effect that this attunement inflicts.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), as well as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
 -   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
+    
 -   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
 -   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The "Cryonis" talent has a faulty description, it only reduced ether of certain moves :
@@ -870,8 +849,9 @@ Your ice spear now lodges into human opponents and explodes.
     -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The "Glacial Arc mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
--   Ice Eruption does less damage the larger it gets?
-    -   Never tested, but was stated in an update log.
+-   Ice Eruption's damage scales with it's size, dealing lesser when becoming larger.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
 -   Frostdraw has the most mantras with 3 stars on them.
 -   Frostdraw has the most mantras out of all attunements.
+-   A new Frostdraw Mantra dubbed "Ice Stomp" is planned to be added into the game, coming the Layer 2 update as shown in the Layer 2 Combat Direct video.
+    -   The inclusion of this Mantra in Layer 2 is never confirmed.
