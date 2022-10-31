@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 38672
+revid: 39286
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,6 +13,10 @@ Template:Races-Main
 ""
 
 _Chance of obtaining race: ?%_
+
+## Description
+
+The most that's known about this race from the screenshot and _TheRealPunchee'_s video is that this race is based off of a bird, and the accompanying race being based off of a moth.
 
 ## Racial Traits
 

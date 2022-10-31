@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39245
+revid: 39292
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -462,10 +462,10 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td><a href="Worshipper_Longsword.md">Worshipper Longsword</a></td>
   <td>30 MED</td>
-  <td>20</td>
+  <td>19</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>MED: 5</td>
+  <td>MED: 4</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>

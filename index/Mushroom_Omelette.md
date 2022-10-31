@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 36994
+revid: 39303
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -8,20 +8,16 @@ categories: [Food, Items]
 
 # Mushroom Omelette
 
-# Mushroom Omelette
+“ Why is an OMELETTE stronger than an Enchant? ”
 
-> "Why... Is an **OMELETTE** stronger than an enchant?" -[Reaconteur](https://youtu.be/2hKI-Tf6h0c?t=281)
+― Reaconteur
 
 Template:Food Template V1
 
 ## Effects
 
-Possible life regen?? 20% max hunger.
+20% max hunger and 10% max thirst, majority of the max hunger granted will be a weapon power boost.
 
-**Browncap:** 25% damage increase on all weapons _(2.5X better than curse of bloodthirsty btw)_  
+## Where to Obtain
 
-## Where to obtain
-
-Mushroom Omelette can be crafted or purchased at Lances food. The item is sold on the grill for 15 notes, and on the counter for 25 notes.
-
-Buying an omelette will grant you the browncap version of the Mushroom Omelette.
+Mushroom Omelette can be crafted or purchased at Lance's Food in [Etris](Etris.md), or by Lance's Brother in [Isle of Vigils](Isle_of_Vigils.md). The item is sold on the grill for 15 notes, and on the counter for 25 notes.

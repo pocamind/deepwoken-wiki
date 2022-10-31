@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 38744
+revid: 39294
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -8,7 +8,7 @@ categories: [Armors, Items]
 
 # Cloak of Winds
 
-Template:ArmorInfobox**Cloak of Winds (Vigil Cloak)** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Cloak of Winds (VigilCloak)** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -42,5 +42,4 @@ This Outfit's Schematic can be found in:
 
 ## Bugs
 
--   Currently, a separate bugged version of this schematic, known as "VigilCloak," will spawn in this schematic's place more often than not.
-    -   ~Turning in VigilCloak will **not** grant you the Cloak of Winds, and will possibly void your chances of being to turn in the actual thing.~ This is false, all you need to do is rejoin the game once you turn in the schematic and it should be there.
+-   Currently, this outfit's Schematic will spawn as a bugged variant known as "VigilCloak." Turning this schematic in to the [Blacksmith](Blacksmith.md) will not immediately give you the Outfit; you instead have to rejoin the game in order for it to show up.

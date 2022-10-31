@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 38435
+revid: 39287
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,6 +15,10 @@ Template:Races-Main
 Unreleased Obtainable Race
 
 Will likely release in the Layer 2 update.
+
+## Description
+
+The most that's known about this race from the screenshot and _TheRealPunchee'_s video is that this race is based off of a moth, and the accompanying race being based off of a bird.
 
 ## Racial Trait
 

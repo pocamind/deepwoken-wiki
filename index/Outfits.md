@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 39092
+revid: 39301
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,19 +68,17 @@ _Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
 
 ### **Unconfirmed/Speculated**
 
-_Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen on npc's through the game.
+_Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen on NPCs throughout the game.
 
   
 
 ## Trivia
 
--   The only gem that is not used in any armor set is Insignia Gem.
+-   The only [Deep Gem](Deep_Gems.md) that is not used in any armor set is the Insignia Gem.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
--   Arch confirmed that there are **5** master outfits.
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
 -   **Pathfinder Journeyman** is also bugged and will give you a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) instead.
--   ~A schematic called **VigilCloak** seems to be bugged. This is most likely **NOT** [Vigil Initiate](Vigil_Initiate.md) or [Cloak of the Winds](Cloak_of_Winds.md).~ (Note:Turning In the "VigilCloak" Will give you the Cloak of the Wind if you restart your game)
--   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
--   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche?so=search)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
+-   There is a secret beginner armor called 'RagoozaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
+-   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).

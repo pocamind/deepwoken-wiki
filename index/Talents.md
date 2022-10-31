@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39259
+revid: 39280
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1676,61 +1676,65 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ## Outfit Talents
 
-### Ferryman's Coat
+### **[Ferryman's Coat](<Ferryman's_Coat.md>)**
 
 -   Ferryman's Curse - Being hit by a Lightning mantra will cause you to teleport to a random location within a set radius, and you take reduced damage from Lightning mantras. (Obtained by wearing the Ferryman's Outfit)
+    -   The talent is currently bugged and does nothing.
 
-### Justicar
+### **[Justicar](<Justicar_(Origin).md>)**
 
 -   The Path, Unveiled - Your Jus Karita attacks deal 15% more damage. (+3 Passive Agility) (Obtained by wearing the Justicar Outfit)
 
-### Navaen-Nomad
+### **[Navaen-Nomad](Navaen_Nomad_Robes.md)**
 
 -   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
     -   This talent is currently bugged and currently does nothing.
 
-### Flamecharmer
+### **[Navaen War Chief](Navaen_War_Chief.md)**
+
+-   Chief's Will - Your Way of Navae fist style has 25% armor PEN.
+
+### **Flamecharmer**
 
 -   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing Flame Worshipper Robes Outfit)
 
-### Pathfinder
+### _Pathfinder_
 
--   Environmentalist - Resist the effects of some Weather Effects. (Obtained by wearing the Pathfinder Cloak Outfit)
--   Legendary - Parrying and landing hits with your weapon gives you ether back. (Obtained by wearing the Grand Pathfinder Cloak Outfit)
--   Devastating Power - Gain extra Ether for every Mantra in your arsenal - (Obtained by wearing the Pathfinder Arch-Sorcerer Outfit)
+-   Environmentalist - Resist the effects of some Weather Effects. (Obtained by wearing the [Pathfinder Cloak](Pathfinder_Cloak.md) Outfit)
+-   Legendary - Parrying and landing hits with your weapon gives you ether back. (Obtained by wearing the [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) Outfit)
+-   Devastating Power - Gain extra Ether for every Mantra in your arsenal. - (Obtained by wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) Outfit)
 
-### Cutthroat
+### **Cutthroat**
 
--   Hunter's reflexes - slightly larger dodge window. (Obtained by wearing the Cutthroat Light Armor Outfit)
+-   Hunter's Reflexes - Your dodge window is slightly increased. (Obtained by wearing the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) Outfit)
 
-### Vigil
+### '_Vigil_
 
--   Paired Soul - Increases _Katana_ damage. (Obtained by wearing the Vigil Initiate or the Cloak of Winds Outfit)
-    -   Works with the _Shattered Katana_, although it's less effective.
+-   Paired Soul - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
 
-### Experienced Adventurer
+### **[Experienced Adventurer](Experienced_Adventurer.md)**
 
--   Looter - Get extra loot from items you turn in for rewards. (Obtained by wearing the Experienced Adventurer Outfit)
+-   Looter - Get extra loot from items you turn in for rewards. (Obtained by wearing the Experienced Adventurer Outfit, increases the loot you get from Artifact turn-ins)
 
-### Shadow Hunter
+### **Shadow Hunter**
 
--   Now You See Me - Increases stealth. (Can be obtained through most armors)
+-   Now You See Me - Increases stealth while crouching. (Can be obtained through most armors, being [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), etc.) ( Can also be obtained through cards.)
 
-### Darksteel Plate
+### **Tower Knight**
 
--   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the Darksteel Plate)
+-   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the [Darksteel Plate](Darksteel_Plate.md))
 
-### Alchemist
+### **Alchemist**
 
--   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)(Can also be obtained through cards)
+-   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit) (Can also be obtained through cards. Talents will not stack.)
 
-### **Prophet's Cloak**
+### **[Prophet's Cloak](<Prophet's_Cloak.md>)**
 
--   Crippling Darkness - Your non-basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
+-   Crippling Darkness - Your non-basic attacks have 25% PEN.
 
-### **Legion Centurion**
+### **[Legion Centurion](Legion_Centurion.md)**
 
--   Centurion's Resolve - Your Legion Kata attacks now do 15 percent more damage. (Obtained by wearing the Legion Centurian outfit)
+-   Centurion's Resolve - Your Legion Kata attacks now do 15 percent more damage.
 
   
 

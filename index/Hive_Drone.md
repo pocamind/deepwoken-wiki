@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 39142
+revid: 39291
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -30,10 +30,10 @@ This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
--   [Summer Isles](Summer_Isle.md) Chests
+-   [Summer Isle](Summer_Isle.md) Chests
+-   [Rogue Construct](Hive_Construct.md#rogue-construct) chests on [Minityrsa](Minityrsa.md)
 
 ## Trivia/Notes
 
--   One of the easiest expert armors to make.
--   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an expert outfit.
--   Can also be found in [Rogue Golem](Hive_Construct.md) chests
+-   One of the cheapest Expert armors to make.
+-   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an Expert-tier outfit.
