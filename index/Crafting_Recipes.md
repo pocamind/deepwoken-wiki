@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 39197
+revid: 39312
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,10 +11,6 @@ categories: [Mechanics]
 _icon credit to Tortaa#9000_
 
 One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere at anytime, while others require a [crafting station](Crafting_Station.md), [campfire](Campfire_Pit.md), or cauldron.
-
-  
-
-For more information about Food, go [here](Food.md).
 
 ## Utility Recipes
 
@@ -31,7 +27,7 @@ These are recipes that are not used to produce food or potions.
 -   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **Megalodaunt bait** - 2 Chum
+-   **Monster Bait** - _2 Chum_
 
 Picture of a Crafting Bench
 
@@ -43,10 +39,11 @@ Picture of a Crafting Bench
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber
--   [Repair Kit](Repair_Kit.md) 3 wood, 5 iron  
-    
+-   **[Repair Kit](Repair_Kit.md)** 3 Wood, 5 Iron
 
 ## Food Recipes
+
+**Main Article - [Food](Food.md)**
 
 Recipes that satiate _**Hunger**_ and _**Thirst**_ levels.
 
@@ -55,11 +52,10 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 ### **Known Boosts:**
 
 -   _"You feel your wounds closing up..."_ This buff significantly increases the user's health regeneration speed.
--   _"Slowed Stomach" =_ This buff significantly decreases the user's starvation speed.
+-   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
--   _"You feel as though you could go longer without food..." =_ This buff completely stops hunger from draining until it's gone.
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
@@ -72,27 +68,26 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
 ### _Campfire Recipes_
 
--   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
--   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo - **This does not actually exist. This recipe was posted by a troll as it makes a Mushroom Omelette**_
--   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
+-   **\[V\] Mushroom Soup** - _2 different mushrooms, 1 from each kind._ (example: 1 Gobletto, 1 Browncap)
+-   **\[C\] Mushroom Bisque** - _Any Mushroom + Crustacean Meat_
 -   **\[C\]\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
--   **\[V\]** **Omelette/Cooked Egg** - _2 Eggs_
+-   **\[V\] Omelette/Cooked Egg** - _2 Eggs_
 -   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
--   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
+-   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantra damage)
+-   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regeneration)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
--   **\[V\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
--   **\[V\]** **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
--   **\[V\]** **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
--   **\[V\]** **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
--   **\[C\]** **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
--   **\[C\]** **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
--   **\[C\]** **Seafood Boil** - 1 Squid, 1 Fish Meat, 1 Crustacean Meat _(You feel as though you could go longer without food...)_
--   **\[C\]** **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
--   **\[C\]** **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
--   **\[C\]** **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
--   **\[C\]** **Sauteed Scallops** - 2 Scallops
--   **\[V\]** **Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility)
+-   **\[V\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - _1 Plumfruit, 1 Gathered Wheat_
+-   **\[V\] [Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
+-   **\[V\] [Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
+-   **\[V\] [Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
+-   **\[C\] [Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
+-   **\[C\] Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
+-   **\[C\] Seafood Boil** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss)
+-   **\[C\] [Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
+-   **\[C\] [Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
+-   **\[C\] [Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
+-   **\[C\] Sauteed Scallops** - _2 Scallops_
+-   **\[V\] Cake** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
 
 ## Alchemy
 

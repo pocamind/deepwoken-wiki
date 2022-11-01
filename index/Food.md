@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 39308
+revid: 39323
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -16,23 +16,19 @@ An example of a differently colored bar
 
 Food is a necessary need for your Character's survival.
 
-_**To get food one must collect ingredients or buy the food**_
+_**To get food, one must collect various ingredients found around the world or buy the food.**_
 
--   Mushrooms and fruits are very easy to get, plentiful on both starter islands.
--   On every season (except winter), the player can find fruits on smaller trees, an easy and safe source of nutrition.
--   You can buy food from Lance Leshi (Etris), his brother (Isle of Vigils), and [The Meat Lord](The_Meat_Lord.md)
+-   Mushrooms and fruits are very easy to get, they are plentiful and various on both starter islands.
+-   On every [season](Seasons.md) (except Winter), the player can find fruits on smaller trees, an easy and safe source of nutrition.
+-   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
 
-Although you can eat the ingredients directly, certain ingredients may cause vomiting which leads to a immense decrease in thirst and hunger.
+Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
 
-_**To cook food, one must rest at a campfire**_
+_**To cook food, one must rest at a campfire.**_
 
 -   By combining ingredients together, the player can make various types of foods/drinks.
--   2-3 types of ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different type)
+-   2-3 types of ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different types)
 -   Sometimes it may require more ingredients. (Sticky Bun for example, 3 wheat and one sap)
-
-## **Recipes**
-
--   The foods/potions recipes can be found [here](https://deepwoken.fandom.com/wiki/Crafting_Recipes_%26_Alchemy#Food_Recipes), and ingredients [here](Ingredients.md).
 
 ## Food Boosts
 
@@ -52,7 +48,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
 
-Probably these buffs can also be amplified with the "Apothecary" talent perhaps?
+These buffs can have their durations increased by the _[Tavernkeep](Talents.md#tavernkeep)_ category of talents.
 
 ## Food recipes
 
@@ -62,8 +58,8 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
 -   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
--   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
--   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
+-   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits, 1 from a separate kind._ (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases health regeneration rate)
+-   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed_
 
 ### _Campfire Recipes_
 
@@ -73,12 +69,12 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[V\] Omelette/Cooked Egg** - _2 Eggs/1 Egg_
 -   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs, 1 Mushroom (Any mushroom)_ (Increased weapon damage)
 -   **\[C\] Fish Omelette** - _1 Fish Meat, 2 Eggs_ (Buffs Mantra damage)
--   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - _1 Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
+-   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - _1 Sap, 3 Gathered Wheat_ (Buffs ether regen)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
 -   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - _1 Plumfruit, 1 Gathered Wheat_
 -   **\[V\] [Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **\[V\] [Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
--   **\[V\] [Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap_ (Makes your Ether regen faster. Increases mantra damage temporarily)
+-   **\[V\] [Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap_ (Makes your Ether regen faster and increases mantra damage temporarily)
 -   **\[C\] [Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **\[C\] Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
 -   **\[C\] Seafood Boil** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss)
@@ -86,7 +82,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[C\] [Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **\[C\] [Glazed Fish](Glazed_Fish.md)** - _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **\[C\] Sauteed Scallops** - _2 Scallops_
--   **\[V\] Cake** - _1 Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility) _To see all crafting recipes, click here_
+-   **\[V\] Cake** - _1 Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
 
 ## Trivia
 
@@ -95,6 +91,6 @@ A Individual who has crossed paths with The Meat Lord.
 -   Pomar is the only fruit that appears to damage you.
     -   Upon eating a Pomar, the character model will lean back or to the side as if being damaged, but no health will actually be lost.
         -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they appear you.
--   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and rarely [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
-    -   He also sells one of the best food items in the game, as it takes no inventory space.
+-   Sometimes there's a rare chance for an NPC called "[The Meat Lord](The_Meat_Lord.md)" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and [Fort Merit](Fort_Merit.md), and rarely, [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes each.
+    -   He also sells one of the best food items in the game, Sushi, as it takes no inventory space and bypasses the normal food limit, stacking up to 99.
 -   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 39169
+revid: 39324
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-_Commonly referred to as a sharko_
+_Commonly referred to as a Sharko._
 
 “ ...Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. ”
 
@@ -30,7 +30,7 @@ This monster is hostile to every other creature in _The Etrean Luminant_ and wil
 
 Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a [Megalodaunt Coat](Megalodaunt_Coat.md).
 
-They could also be spawned using [Megalodaunt Bait](Monster_Bait.md). (Note: The item is currently disabled in light of the [Sharko Rumbling](Lore.md).)
+They can also be spawned using [Megalodaunt Bait](Monster_Bait.md).
 
 Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
 
@@ -212,3 +212,4 @@ A Megalodaunt swimming.
 -   They very closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree and let the sharko stand on top, which will make the Sharko miss all it's attacks. It's very risky but it is profitable.
 -   Unless you're a high enough level to consistently skill-check the sharko (typically somewhere around power 40 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
+-   Likely a reference to the Shark Giant from the Darksouls series

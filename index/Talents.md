@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39280
+revid: 39325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -107,7 +107,7 @@ These Talents are designed to make your potions making and usage more efficient.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
     -   Soothing, Rejuvenating, Strengthening, Focus Enhancing, Heartening, Invigorating, Steadfast, Hastening and Staggering are more powerful froms potions you drinks.
--   Exterminator \[Common Talent, Intelligenplacece\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
     -   Appaling, Disguting, Dulling, Icky, Mindbreaker, Gureling and Buckling are more powerful from potions you throw.
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
@@ -187,7 +187,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Does nothing on fist as they are silent by default.
     -   Prerequisites: 15 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
-    -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
+    -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: Agility 20, 20 Intelligence
 
@@ -205,7 +205,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
-    -   All thundercal mantras always apply this, despite the description saying "a chance".
+    -   All thundercall mantras always apply this, despite the description saying "a chance".
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
@@ -303,7 +303,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutually Exclusive: Observation, Safety Dance
         -   formerly halved the users dodge frames
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
-    -   Restore 5% Posture on a succesful dodge.
+    -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: ?? Strength, ?? Agility.
 
 ### Caster
