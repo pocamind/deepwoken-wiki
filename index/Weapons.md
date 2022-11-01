@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39326
+revid: 39418
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -16,7 +16,7 @@ categories: [Weapons, Character, Mechanics]
 </tbody>
 </table>
 
-_Tools_ _constructed with the intent to harm others, polished to be efficient_ _killing devices._
+_Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
 Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it to 100 by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest).
 
@@ -52,7 +52,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
--   **End Lag:** How long you linger after attacking.
+-   **Endlag:** How long you linger after attacking.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
 -   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total.
 

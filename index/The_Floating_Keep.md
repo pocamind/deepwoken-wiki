@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39359
+revid: 39411
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -17,11 +17,7 @@ The moving keep of the Spellhardts.
   
 Template:Areainfobox
 
-# [The Floating Keep](https://www.roblox.com/library/9840060449/Audio-spellhardt1)
-
-## Contents
-
-### Cathedral
+## Cathedral
 
 In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need Shell Stock, Paperette and Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander for items. Joy can be exchanged for:
 
@@ -34,7 +30,7 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 
 ### General, Weaponry and Mantra Shop
 
--   Players can buy several things here.
+-   Players can buy several things here:
     -   Players can purchase a Lumber Axe for, and a Pickaxe for.
     -   Players can purchase a Dumbbell for, Ankle Weights for, and a Training Vest for
     -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
@@ -45,7 +41,11 @@ The Dining Hall.
 ### Food
 
 -   Players can buy several foods here from an NPC called Mikhail.
-    -   Players can purchase a Mushroom Omelette for, Fish Stew for, Glazed Fish for, Mushroom Bisque for, and Sushi for.
+    -   Glazed Fish for.
+    -   Sushi for.
+    -   Mushroom Omelette for.
+    -   Mushroom Bisque for.
+    -   Fish Stew for.
 
 ### Library
 
@@ -54,4 +54,4 @@ The Dining Hall.
 
 ## Trivia
 
--   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event
+-   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
