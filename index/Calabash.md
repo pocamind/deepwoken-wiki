@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 39127
+revid: 39428
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Items]
@@ -27,8 +27,9 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 ## Trivia
 
 -   The Calabash has become quite a meme in the Deepwoken community, referred to as the Food of the Gods.
-    -   It has a counterpart called the Red Calabash, similar to the Heroism Egg hoax that went around earlier in 2022. This joke or meme is portrayed in images through exploits.
+    -   It has a counterpart called the Red Calabash, similar to the Heroism Egg hoax that went around a few days earlier in April 2022. The Heroism Egg's genuine existence was disproved by Arch\_Mage, stating that whoever made it "has a good sense of humour... and Synapse."
         -   This exists through one of _Key Exploits_'s livestreams. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.
+        -   However, at the end of it all, a then-moderator of the game (Tarvero as Lightseeker Araki) was seen holding the Red Calabash in-game. When asked about it, he said that "You don't understand the sacrifice..."
     -   It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its similar reddish/deep orange color.
 -   Calabash in real life are actually poisonous, being able to cause stomach ulcers and other gourd-related injuries.
-    -   Someone's gonna do it without this warning, please do not eat Calabashes IRL.
+    -   Someone's gonna do it without this warning, please do not eat a Calabash IRL.

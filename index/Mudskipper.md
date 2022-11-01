@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 39154
+revid: 39438
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -122,7 +122,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as it can use mantras. In addition, it also spawns in groups of 3.
+Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as they can use mantras. In addition, it also spawns in groups of 3 and wear two completely unknown armors, being color-coded fur cloaks and boots over a plated outfit.
 
 ## Moveset
 
@@ -133,12 +133,12 @@ Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necroman
 | 
 Scratch
 
- | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+ | Weakly scratches opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
 | 
 
 Flare
 
- | Conjures a ball of fire before throwing it at an opponent. | (Work in Progress) | (Work in Progress) | (★★☆) |
+ | Conjures a ball of fire before throwing it at an opponent. | ◯ | ◯ | (★★☆) |
 
 ### **Blueskipper**
 
@@ -157,7 +157,7 @@ Ice Spikes
 
 Warden's Blades
 
- | User forms 4 ice blades around them before rapidly rotating them, dealing light damage. | ◯ | ◯ | (★★☆) |
+ | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished. | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -168,8 +168,8 @@ Warden's Blades
 
 ## Tips
 
--   Try to hit all of them at once so one doesn't use a mantra while your preoccupied with another.
--   Do note that it is possible for a [Ministry Necromancer](Ministry_Necromancer.md) to spam summon them.
+-   Try to hit all of them at once so one doesn't use a Mantra while you're preoccupied with another.
+-   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
     
 
 **Mudskipper Knight:**
@@ -178,7 +178,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md). They are much smarter than the average Mudskipper, being able to block, parry and roll away from attacks.
+Mindless enemies that are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
 They can only be encountered in The Depths (Trial) while the character's power is between 10 - 19.
 
@@ -190,22 +190,27 @@ They can only be encountered in The Depths (Trial) while the character's power i
 Assault
 
  | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Critical
+
+ | Winds up by pulling their sword back before suddenly thrusting it forwards. | ✗ | ◯ | (★★☆) |
 
 ### Boons
 
--   Experienced Fighter - Can block and parry common attacks and mantras, as well as roll away from criticals.
+-   Memory Retainment - Can block and parry common attacks and mantras, as well as roll away from criticals and feint their own attacks.
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down the opponent and slices their throat with their blade. |
+| Execution | Pins down the opponent and slices their throat with their blade. |
 
 ## Tips
 
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
--   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights, and it being an overall skill check for the level. Though with enough practice it can be done flawless like any other monster.
+-   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
     
 
 ## Trivia

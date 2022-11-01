@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 37520
+revid: 39448
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,21 +18,15 @@ He is located in a fishing hut, on the closest small rocky island in front of Lo
 
 ## Features
 
-Mortus is capable of crafting fishing baits that can help you fish different monsters.
+Mortus is capable of crafting fishing baits that can help you "fish up" different monsters.
 
 These monsters are:
 
--   [Megalodaunt](Megalodaunt.md)
+-   [Megalodaunts](Megalodaunt.md)
 -   [Threshers](Thresher.md)
 -   [Terrapods](Terrapod.md)
 
-_(needs verification)_
-
-In order to craft the Megalodaunt bait, you'll need to bring him 2 megalodaunt hide.
-
-In order to craft the Thresher bait, you'll need to bring him 2 Thresher Spines.
-
-In order to craft the Terrapod bait, you'll need to bring him 2 Strange Claws.
+To obtain the recipes for the bait, you must bring two of each respective monster part to him.
 
 ### Dialogue
 
@@ -80,3 +74,7 @@ In order to craft the Terrapod bait, you'll need to bring him 2 Strange Claws.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already being known for their absurd intelligence and power in combat compared to other monsters.

@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39411
+revid: 39451
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -21,7 +21,7 @@ Template:Areainfobox
 
 In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need Shell Stock, Paperette and Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander for items. Joy can be exchanged for:
 
--   Void Feather \[15 Joy\]
+-   Void Feather \[~15~ 5 Joy\]
 -   Deep Gem \[15 Joy\]
 -   Familiar Priest Helmet \[30 Joy\]
 -   Familiar Heretic Helmet \[35 Joy\]
@@ -55,3 +55,4 @@ The Dining Hall.
 ## Trivia
 
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
+-   Despite void feather saying its 15 Joy, it's 5 Joy. Just remember the max stack is 6, and cannot be dropped.

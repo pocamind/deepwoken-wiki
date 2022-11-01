@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 39417
+revid: 39433
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -56,7 +56,7 @@ This is used to scare any interactable NPC throughout the game by interacting wi
 
 | Item | Joy |
 | --- | --- |
-| Void Feather | 15 Joy |
+| Void Feather | 5 Joy (tested) |
 | Deep Gem | 15 Joy |
 | Familiar Priest Helmet | 30 Joy |
 | Familiar Heretic Helmet | 35 Joy |

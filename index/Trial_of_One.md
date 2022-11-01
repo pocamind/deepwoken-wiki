@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 38970
+revid: 39440
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -22,7 +22,7 @@ The **Trial of One** is a location in _Deepwoken_. It is a unique event in the D
 
 The Trial of One is a dungeon designed to assist experienced players progress easily through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
-The entrance is located under the Stronghold in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points, otherwise the gate would stun and knock the player back if they exceed the required Power.
+The entrance is located under the Stronghold in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power.
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire floats down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
@@ -75,7 +75,7 @@ Mark of the Lone Warrior's talent description
 ## Trivia
 
 -   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
--   Failing the trial returns you to your starting island.
+-   Failing the trial sends you straight to [Fragments of Self](Fragments_of_Self.md).
 -   You can go through the Light gate behind you to return to Minityrsa
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
