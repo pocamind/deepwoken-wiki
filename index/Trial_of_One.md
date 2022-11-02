@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 39440
+revid: 39477
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -20,7 +20,7 @@ The **Trial of One** is a location in _Deepwoken_. It is a unique event in the D
 
 ## Overview
 
-The Trial of One is a dungeon designed to assist experienced players progress easily through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
+The Trial of One is a dungeon designed to boost experienced players progress easily through early-game progression stat wise, The Trial consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
 The entrance is located under the Stronghold in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power.
 
@@ -83,3 +83,4 @@ Mark of the Lone Warrior's talent description
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
+-   Spawning with the origin "Lone Warrior" will automatically send you to the [Fragments of Self](Fragments_of_Self.md) to make it easier on players to wipe after failing the trial once.

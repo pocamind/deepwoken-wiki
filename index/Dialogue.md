@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 38221
+revid: 39456
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -54,7 +54,7 @@ Talking to Nerin
 
 Talking to guards/camp masters
 
--   Very Good Reputation - "Placeholder" | "Placeholder"
+-   Very Good Reputation - "Navae guide you, homelander." | "Blessings of Navae upon you, homelander."
 -   Good Reputation - "Ah homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
 -   Unfriendly Reputation - No change

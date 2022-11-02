@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 39335
+revid: 39476
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -64,7 +64,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 33 | On The Shoulder Of Giants | 5:24 | Unknown | File:On The Shoulders Of Giants.mp3 |
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
 | 35 | Masters of the House | 2:06 | N/A | File:Masters of the House.mp3 |
-| 36 | The Gideshu March | 1:57 | N/A | File:The Gideshu March.mp3 |
+| 36 | The Gideshu March | 1:57 | N/A (small cut of the soundtrack can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
 
 ### Deepwoken: Original Soundtrack (Vol. II)
 
@@ -76,7 +76,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) War | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
 | 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | Layer 2 Trailer Music | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | Tutorial | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
-| 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | Floating Keep | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
+| 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
 
 ### Additional Songs
 

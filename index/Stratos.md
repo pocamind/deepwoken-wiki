@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 35712
+revid: 39483
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links, NPCs]
 
 File:Vigil.png
 
-An albino Felinor, dressed up as a Temple of Blades Guard. (Does not affect dialogue)
+An albino [Felinor](Felinor.md), dressed up as a Temple of Blades Guard. (Does not affect dialogue)
 
 ## Stratos
 
-Stratos is an npc found sitting at the fountain in the courtyard of the "[Temple of the Blade](Temple_of_the_Blade.md)" in [Isle of Vigils](Isle_of_Vigils.md). In order to talk to him, you need to have good [reputation](Reputation.md) with Etrea. He says that he will teach you once you feel the "essence of the wind," starting a quest.
+Stratos is an npc found sitting at the fountain in the courtyard of the "[Temple of the Blade](Temple_of_the_Blade.md)" in [Isle of Vigils](Isle_of_Vigils.md). In order to talk to him, you need to have good [reputation](Reputation.md) with [Etrea](Etrea.md). He says that he will teach you once you feel the "essence of the wind," starting a quest.
 
 ## The Quest
 
@@ -29,3 +29,4 @@ After you complete the quest, you will receive the talent "Windwaker." This tale
 ## Trivia
 
 -   The name of the talent is taken from _The Legend of Zelda: The Wind Waker_.
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "Nice try."

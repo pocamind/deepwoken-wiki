@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 34037
+revid: 39487
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -26,10 +26,14 @@ A Hive Adjudicator's arsenal only consists of a [Katana](Katana.md):
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
+| Rising Flame | Spins and releases a fury of flames that sends both the caster and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
+| Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
+| Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+-   Heavy Support- Spawns with two [Hive Constructs](Hive_Construct.md)
 
 ## Finisher
 
@@ -38,3 +42,7 @@ A Hive Adjudicator executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | User pins down the opponent and slices their throat with their blade. |
+
+## Tips
+
+-   Just don't anger the Hive and you won't have to deal with it.

@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 38779
+revid: 39482
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items, Gems]
 
 # Deep Gems
 
-**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but this is much less consistent and rarer than the other two methods. You get Deep Gems more often from the Depths than from Primadon or the Duke, especially from chests spawned from [Enforcers](Enforcer.md) or [Nautilodaunts](Nautilodaunt.md) during [Hell Mode](Hell_Mode.md).
+**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but this is much less consistent and rarer than the other two methods. You get Deep Gems more often from the Depths than from Primadon or the Duke, especially from chests spawned from [Enforcers](Enforcer.md) or [Nautilodaunts](Nautilodaunt.md) during [Hell Mode](Hell_Mode.md). They can also be obtained as a reward from the Halloween Event.
 
 ~You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you _do_ kill it quickly~ Needs to be proven.
 
