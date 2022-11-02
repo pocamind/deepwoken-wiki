@@ -1,12 +1,16 @@
 ---
 title: Sanity
-revid: 36969
+revid: 39584
 source: https://deepwoken.fandom.com/wiki/Sanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
 ---
 
 # Sanity
+
+Redirect to:
+
+-   [Insanity](Insanity.md)
 
 “ Do you know the definition of insanity? ”
 

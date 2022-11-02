@@ -1,16 +1,18 @@
 ---
 title: Mushroom Omelette
-revid: 39303
+revid: 39526
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Candidates for deletion, Food, Items]
+notices:
+  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
 ---
 
 # Mushroom Omelette
 
 “ Why is an OMELETTE stronger than an Enchant? ”
 
-― Reaconteur
+― Gayconteur
 
 Template:Food Template V1
 

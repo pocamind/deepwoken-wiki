@@ -1,11 +1,15 @@
 ---
 title: Spell Shout
-revid: 37126
+revid: 39609
 source: https://deepwoken.fandom.com/wiki/Spell_Shout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Spell Shout
+
+Redirect to:
+
+-   [Valikor](Valikor.md)
 
 “ You will now shout the name of your spells upon cast. ”
 

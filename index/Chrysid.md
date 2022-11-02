@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 39509
+revid: 39593
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]

@@ -1,12 +1,16 @@
 ---
 title: Last Wind
-revid: 17714
+revid: 39590
 source: https://deepwoken.fandom.com/wiki/Last_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
 ---
 
 # Last Wind
+
+Redirect to:
+
+-   [Fragments of Self](Fragments_of_Self.md)
 
 The Last Wind is a mechanic that allows characters who have died in [The Depths](The_Depths.md) to get a second chance at life, returning them from [Fragments of Self](Fragments_of_Self.md).
 

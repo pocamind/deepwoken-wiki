@@ -1,11 +1,15 @@
 ---
 title: Multiplying Spark
-revid: 33948
+revid: 39585
 source: https://deepwoken.fandom.com/wiki/Multiplying_Spark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Multiplying Spark
+
+Redirect to:
+
+-   [Mantra Modifiers](Mantra_Modifiers.md)
 
 **Item Obtainability:**
 

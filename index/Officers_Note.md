@@ -1,12 +1,16 @@
 ---
 title: Officers Note
-revid: 32880
+revid: 39588
 source: https://deepwoken.fandom.com/wiki/Officers_Note
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
 ---
 
 # Officers Note
+
+Redirect to:
+
+-   [Cut Features](Cut_Features%253Fredirect=no.md)
 
 The Officers Note is an item that had a chance to drop from bandits in Lower Erisia, though it could of have been dropped by other enemies as well.
 
