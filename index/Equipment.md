@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 39096
+revid: 39514
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1247,7 +1247,7 @@ Grants a random buff.
 
 **Requires Power 40**
 
- | Valley of Heroes Chests | Onyx, Peach, Scarlet & Smoke (Work in Progress) |
+ | Valley of Heroes Chests | Onyx, Peach, Scarlet, Rose & Smoke (Work in Progress) |
 | File:Pale.jpg | 
 
 [Assassin's Cloak](<Assassin's_Cloak.md>)

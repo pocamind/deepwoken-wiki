@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 37823
+revid: 39510
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,20 +12,20 @@ categories: [Pages with broken file links]
 
 ― The Ferryman
 
-  
-
 ## Description
 
-Krulians are a mysterious race possessing demigod-like powers. The Ferryman says that they are essentially the missing link between the Drowned Gods and the people of the Deepwoken world. According to The Ferryman, not many Krulians have been seen by the people of The Etrean Luminant, implying that Krulians are either from The Depths or some islands in the Voidsea. It also says that they are the "next step in the evolutionary chain" which could mean they are a more advanced civilization or a superior race, given that the Krulian Knife appears to originate from them.
+Krulians are a mysterious race, possessing demigod-like powers. They are essentially the missing link between the Drowned Gods and the people of the Deepwoken world. According to The Ferryman, not many Krulians have been seen by the people of The Etrean Luminant, implying that Krulians are either from The Depths or some islands in the Voidsea. It also says that they are the "next step in the evolutionary chain," which could mean they are a more advanced civilization or a superior race, given that the [Krulian Knife](Krulian_Knife.md) appears to originate from them.
 
-They have no set appearance, shapeshifting into whatever suits them.
+They have no set appearance, shapeshifting into whatever suits them. In the Ferryman's case, he appears as a white-haired Etrean wearing the [Ferryman's Coat](<Ferryman's_Coat.md>).
 
 File:The Ferryman.png
 
 Krulian Example
 
-The known Krulians NPC's are:
+The Ministry seems to worship the Krulians in some form, considering how every member wields a [Krulian Knife](Krulian_Knife.md).
 
-[The Ferryman](The_Ferryman.md)
+## Known Krulians
 
-Probably the Krulian's Knife users are also krulians.
+The only known Krulian NPC right now is:
+
+-   The Ferryman.
