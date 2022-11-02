@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 38242
+revid: 39496
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -146,4 +146,5 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   The Isle of Crows was mentioned by an NPC here, possibly a removed island.
     -   The NPC was later removed in shadow updates.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
--   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authroity.
+-   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
+-   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says, "When are you gonna learn your lesson?"

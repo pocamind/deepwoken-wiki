@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 39230
+revid: 39500
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -217,7 +217,7 @@ There are two variants that enchantments come in:
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Etrean Luminant.<br>
   When equipped, -100 sanity. This means you will immediately die upon equipping the curse in the Depths.<br>
-  <b>Disabled in Areana</b><br>
+  <b>Disabled in Arena</b><br>
   <b>Viscosity is disabled</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 39016
+revid: 39492
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -109,7 +109,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 > 
 > 1\. Then why are you waiting here?
 > 
-> Akira: _\*You feel murderous intent wash over you as the man glares in your direction,\*_ Come again? I didn't quite hear you.
+> Akira: _\*You feel murderous intent wash over you as the man glares in your direction\*_ Come again? I didn't quite hear you.
 > 
 > 1\. Nothing.
 > 
@@ -117,7 +117,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 ## Joining [the Divers](The_Divers.md)
 
-Once you reach [Castle Light](Castle_Light.md), you're only able to pass the barrier and go inside if you have entered [the Depths](The_Depths.md) via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with benefits, and it removes your guild. However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
+Once you reach [Castle Light](Castle_Light.md), you're only able to pass the barrier and go inside if you have entered [the Depths](The_Depths.md) via the Whirlpool. You can find him inside the Main Hall, and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with benefits, and it removes your guild. However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
 
 There is no level requirement to joining [the Divers](The_Divers.md).
 
@@ -128,3 +128,4 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
 -   Choosing option 2 without 100 charisma instantly wipes you.
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."

@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 39287
+revid: 39497
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,6 +58,10 @@ The most that's known about this race from the screenshot and _TheRealPunchee'_s
   
 
 **Weaknesses:**
+
+  
+
+your mother  
 
   
 

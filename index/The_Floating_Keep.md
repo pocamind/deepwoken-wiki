@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39472
+revid: 39493
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -36,9 +36,9 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 
 -   Players can buy several things here:
     -   Players can purchase a Lumber Axe for, and a Pickaxe for.
-    -   Players can purchase a Dumbbell for, Ankle Weights for, and a Training Vest for
+    -   Players can purchase a Dumbbell for, Ankle Weights for, and a Training Vest for.
+    -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for.
     -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
-    -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for
 
 The Dining Hall.
 
@@ -60,4 +60,3 @@ The Dining Hall.
 
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
 -   Despite void feather saying its 15 Joy, it's 5 Joy. Just remember the max stack is 6, and cannot be dropped.
--   Unlike the other blacksmiths, you can spook the blacksmith at the Floating Keep with a Hallowtide mask.
