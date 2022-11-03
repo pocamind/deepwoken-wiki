@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39479
+revid: 39671
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -231,8 +231,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 10 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
--   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +3 Health)
-    -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
+-   Reinforced Armor \[Legendary Talent\] - Your M1s deal 75% less damage, but you take 10% less damage. (+10 Ether, +3 Health)
     -   Prerequisite: 90 Fortitude
 
 ### Beast Slayer
@@ -716,7 +715,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Heretic
 
--   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal.
+-   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal for 6 seconds, and your M1 damage is tripled.
     -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 6 seconds.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, Bloodless Gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.

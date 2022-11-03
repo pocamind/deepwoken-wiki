@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 39625
+revid: 39663
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,4 +48,4 @@ Polis executes his opponent after knocking them:
 -   During the event there's a bug where his face mask changes to a different pattern than the one he has while he is static.
 -   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.
 -   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I may be old, but I'm still brave, young one."
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."

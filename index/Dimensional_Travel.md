@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 39427
+revid: 39665
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,9 +46,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 ## Trivia
 
 -   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Ninjutsu "Kamui" ability.
-
-(Deleted for promoting ganking. please do not practice this act of unfairly outnumbering people.)
-
+-   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking others.
 -   Gravity inside the Distortion Realm used to be reduced.
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
