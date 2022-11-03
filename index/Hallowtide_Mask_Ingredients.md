@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 39654
+revid: 39682
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia Chests, Upper Erisia Chests |
+| obtainment | Lower Erisia Chests, Upper Erisia Chests, Fishing Chests, Songseeker Chests |
 | description | A small vial of dark black ink, perfect for illustrations. |
 
 | Paperette | |
@@ -82,7 +82,7 @@ This is an item found within chests of any mob (depths included), used for the H
 
 ## Description
 
-This is used to scare any interactable NPC throughout the game by interacting with them as normal. All NPCs have a 1 hour cooldown before they can be scared again. Each time you scare an NPC you are given 1 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md) NOTE: the Hallowtide race variant saves across all slots and races (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different races) (tested)
+This is used to scare any interactable NPC (guards do not count) throughout the game by interacting with them as normal. All NPCs have a 1 hour cooldown before they can be scared again. Each time you scare an NPC you are given 1 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md) NOTE: the Hallowtide race variant saves across all slots and races (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different races) (tested)
 
 | Item | Joy |
 | --- | --- |

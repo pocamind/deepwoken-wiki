@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 36542
+revid: 39681
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,3 +37,4 @@ It's kit consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attuneme
 -   The Golden rat Bouncer counterpart of the Golden warrior has around 10,000 health or maybe more. its unknown how much health it really has.
 -   This is a [Random encounter](Random_Encounters.md). Not to be mistaken with The Golden Warriors in the [Golden Rat](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
 -   The Divine Axe can only be obtained by the player having the [Crazy Slots Resonance](Crazy_Slots.md).
+-   The stationery Golden Warrior outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, albeit it is unknown what he gives you, if anything at all.

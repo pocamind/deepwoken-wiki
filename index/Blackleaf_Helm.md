@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 39643
+revid: 39684
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
