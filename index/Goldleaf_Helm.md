@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 36541
+revid: 39642
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -9,6 +9,10 @@ categories: [Helmets]
 # Goldleaf Helm
 
 Template:EquipmentStats
+
+## Description
+
+The _Goldleaf Helm_ is a helmet, obviously being a golden variant of the [Blackleaf Helm](Blackleaf_Helm.md). Equipping this will give you random stats.
 
 ## Trivia
 

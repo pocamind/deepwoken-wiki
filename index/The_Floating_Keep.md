@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39493
+revid: 39630
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ Template:Areainfobox
 
 ## Description
 
-The Floating Keep is a temporary location in Deepwoken. It appears to be a medival keep, and very grand in appearance. The entire island is floating in the air next th the Isle of Vigils. You can reach this place by interacting with the Jack'olantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellheardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellheardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
+The Floating Keep is a temporary location in Deepwoken. It appears to be a medival keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
 
 ## Cathedral
 
@@ -60,3 +60,4 @@ The Dining Hall.
 
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
 -   Despite void feather saying its 15 Joy, it's 5 Joy. Just remember the max stack is 6, and cannot be dropped.
+-   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.

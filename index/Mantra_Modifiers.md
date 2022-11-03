@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 39501
+revid: 39620
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -70,9 +70,7 @@ Stratus Stone
  |
 |  | 
 
-Crystal
-
-Lens
+Crystal Lens
 
  | 
 
@@ -89,9 +87,7 @@ Lens
  |
 |  | 
 
-Perfect
-
-Lens
+Perfect Lens
 
  | 
 
@@ -130,7 +126,9 @@ Eternal Logstone
 
 +3 Duration  
 
-+14% Ether Cost|
++14% Ether Cost
+
+ | 
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
@@ -157,9 +155,7 @@ Shard
  |
 | File:Drift & Rush shard.png | 
 
-Rush
-
-Shard
+Rush Shard
 
  | 
 
@@ -183,7 +179,7 @@ Removes all Modifiers on a Mantra.
 
  | 
 
--   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
+-   Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
 
  |
 |  | 

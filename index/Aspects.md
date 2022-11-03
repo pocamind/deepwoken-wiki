@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 39045
+revid: 39622
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -34,6 +34,10 @@ Races that can't be rolled at the start of the game but can be obtained in the L
 
 These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it.
 
+## NPC races
+
+These races are currently exclusive to NPCs, and have not been confirmed to be obtainable by players.
+
 ## Notes
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Many of the factions in Deepwoken are inherently xenophobic/racist.
@@ -42,5 +46,4 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   There are races which only NPCs are confirmed to have (Krulian, Bald). These may be made player accessible in the future but likely will not.
 -   Khan, Gremor, Adret, and Canor are the only races to have an in game item named after them.

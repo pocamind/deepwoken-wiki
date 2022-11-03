@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 32706
+revid: 39614
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   Innate talent is very nice if you aren't looking to waste a Talent hand on Armor Piercing, but is mostly overshadowed by the October 17, 2022 update that adds 20% PEN to your guns if you have bullets in your inventory.

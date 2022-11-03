@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 39448
+revid: 39610
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,14 +12,13 @@ File:Mortus.png
 
 Mortus's appearance
 
-**Mortus** is a Capra with gray hair that is wearing the same outfit as [Lower Erisa bandits](Bandit.md).
+**Mortus** is a Capra with gray hair that wears the same outfit as the [Bandits](Bandit.md) from [Lower Erisia](Lower_Erisia.md).
 
-He is located in a fishing hut, on the closest small rocky island in front of Lower Erisia's main beach.
+He is located in a fishing hut, on the closest small rocky island in front of Lower Erisia's main/gate beach.
 
 ## Features
 
-Mortus is capable of crafting fishing baits that can help you "fish up" different monsters.
-
+Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player.  
 These monsters are:
 
 -   [Megalodaunts](Megalodaunt.md)
@@ -77,4 +76,4 @@ To obtain the recipes for the bait, you must bring two of each respective monste
 
 ## Trivia
 
--   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already being known for their absurd intelligence and power in combat compared to other monsters.
+-   The "octopus" that Mortus talks about is more likely than not a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.

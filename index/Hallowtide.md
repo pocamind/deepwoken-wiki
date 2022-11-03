@@ -1,0 +1,49 @@
+---
+title: Hallowtide
+revid: 39637
+source: https://deepwoken.fandom.com/wiki/Hallowtide
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Hallowtide
+
+“ Hallowtide arrives in Deepwoken... Seek out the mysterious Floating Keep and complete your tasks to be awarded limited edition loot and cosmetics! ”
+
+― Hallowtide Update Logs
+
+  
+
+## Description
+
+The Hallowtides is an event that started on Halloween Night 2022, and will end on November 13th. This event adds..
+
+-   [The Floating Keep](The_Floating_Keep.md)
+-   Shell Stock, Paperette, Fine Ink
+-   A "Joy" System
+-   New Race Variants
+
+## New Content
+
+### The Floating Keep
+
+The Floating Keep is a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the pumpkin near the mantra shop at the Isle of Vigils.
+
+### Joy
+
+-   Joy can be obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
+    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others. have unique interactions when you attempt to scare them.
+
+### Race Variants
+
+-   The Hallowtide update added a new variant for each race in the game, to unlock the race variants, you will have to turn in 70 ''Joy'' to Lysander "Spellhardt" who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
+
+### Trivia
+
+-   The Floating Keep is the only place in the game where you can actually see NPC Lightborns.
+-   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
+
+### The Hallowtide Calling
+
+[https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs](https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs)
+
+(An Animation added for The Floating Keep when you speak to the **Hallowtide Caller** for the first time.)
