@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 34463
+revid: 39701
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,7 +51,7 @@ Necro-skippers
 ## Trivia
 
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
+-   Auto-grip talents are recommended as they can guarantee a kill on the first 3 hits.
 -   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
 -   They are believed to be brainwashed, because when the [scouts](Ministry_Scout.md) have conversations in-between themselves or with a necromancer, they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
 -   They have a rare chance of dropping the Night Axe on death.

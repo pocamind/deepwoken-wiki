@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 38477
+revid: 39698
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -53,25 +53,15 @@ categories: [Weapons, Daggers]
 
 The Whaling knife is a dagger type weapon with a requirement of 40 LHT. It has a base damage of 15 and a weapon scaling of 5. This weapon can be upgraded with [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy), allowing it to match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-Instead of the normal dagger critical, this dagger has a [unique critical attack](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal) consisting of a single forward slash with a red trail. This attack passively benefit from the talent Knife's Journey, which increase damage by 1.2x with a 30% chance (instead of the talent's regular 10%). Having the talent stacks the chance to 40%.
-
-## Trivia
-
--   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
-    -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
--   The Knives of Eylis will always spawn with this Alloyed.
--   The critical attack will activate Knife's Journey at an extremely high rate
-    
+Instead of the normal dagger critical, this dagger has a [unique critical attack](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal) consisting of a single forward slash with a red trail. This attack passively benefits from the talent _Knife's Journey_, which has a 30% chance to proc a red swing trail that increases damage by 1.2x. for 10 seconds Having the talent stacks the chance to 40%.
 
 **Alloyed:**
 
 ## Description
 
-The upgraded version of the Whaling Knife. Just the normal Whaling Knife with increased stats.
+The upgraded version of the Whaling Knife. Just the normal Whaling Knife with increased stats. It has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
 
 ## Trivia
 
 -   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
     -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
--   The Knives of Eylis will always spawn with this Alloyed.
--   The critical attack will activate Knife's Journey at an extremely high rate
