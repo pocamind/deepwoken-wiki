@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 39637
+revid: 39724
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 -   [The Floating Keep](The_Floating_Keep.md)
 -   Shell Stock, Paperette, Fine Ink
 -   A "Joy" System
+-   New Helmets
 -   New Race Variants
 
 ## New Content
@@ -31,7 +32,14 @@ The Floating Keep is a floating island near the [Isle of Vigils](Isle_of_Vigils.
 ### Joy
 
 -   Joy can be obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
-    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others. have unique interactions when you attempt to scare them.
+    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
+
+### New Helmets
+
+-   The Familiar Priest Helmet, Familiar Heretic Helmet, and Familiar Knight Helmet can be obtained by turning in 30, 35, and 50 "Joy" respectively. All three of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
+    -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
+    -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
+    -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
 
 ### Race Variants
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 39257
+revid: 39727
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -26,7 +26,7 @@ Frostdraw can be trained by conventional methods, via using a the [Hemafrost](Tr
 
 Much like every other attunements, users can see their Mantras become stronger with enough training:
 
--   At Power 2, players receive the _Frostdrawer_ Talent.
+-   At Power 1, players receive the _Frostdrawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   At Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.

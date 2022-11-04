@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 37459
+revid: 39728
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -28,7 +28,7 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 
 Like all other elements, users can see their Mantras become stronger with training:
 
--   At Power 2, Galebreathers receive the _Galebreather_ Talent.
+-   At Power 1, Galebreathers receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one-star Mantras.
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.

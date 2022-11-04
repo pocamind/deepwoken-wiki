@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 39682
+revid: 39722
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -62,7 +62,7 @@ These items are generally used for the Deepwoken Halloween 2022 event to complet
 
 ## Description
 
-This is an item found within chests of Erisia from any mob, used for the Halloween 2022 quest. The item cannot be used further besides the quest at the moment. This item can be dropped.
+This is an item found within chests of any mob (depths included), used for the Halloween 2022 quest. The item cannot be used further besides the quest at the moment. This item can be dropped.
 
 **Paperette:**
 
@@ -71,8 +71,6 @@ This is an item found within chests of Erisia from any mob, used for the Hallowe
 This is an item found within chests of any mob (depths included), used for the Halloween 2022 quest. The item cannot be used further besides the quest at the moment. This item can be dropped.
 
 **Shell Stock:**
-
-  
 
 ## Description
 
