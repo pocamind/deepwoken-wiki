@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 39709
+revid: 39714
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -53,5 +53,7 @@ _**(Work in progress, add more locations if you know any and remove this text wh
     
 -   Agamatsu asked Ragoozer on who would win Big Hoss or the Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says from these lines: "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." "Dress up as a salad and maybe then you'll get a reaction from me."
+    -   Before November 3rd, 2022, The Meat Lord would've be spooked like any other ordinary static NPC.
 
 Meat Lord in Summer Isle

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 38259
+revid: 39710
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -44,7 +44,7 @@ While in [Erisia](Erisia.md), there is a chance that three bandits will fall fro
 
 #### **Thieves**
 
-A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow_Hunter.md) and the lack of [campfire](Campfire_Pit.md). They will always wield a [dagger](Silver_Dagger.md). In the event where the player is knocked in their presence, the bandits will mug the player for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
+A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow_Hunter.md) and the lack of [campfire](Campfire_Pit.md). They will always wield a [dagger](Silver_Dagger.md). In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
 
 **Weapons:** Stiletto
 

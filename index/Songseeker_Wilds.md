@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 38901
+revid: 39711
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -57,10 +57,10 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 ## Potential Enemies
 
--   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
--   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
--   [Thundercaller Monk](Songseeker_Thundercaller.md)
--   [Galebreather Monk](Songseeker_Galebreather.md)
+-   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
+-   [Songseeker Galebreather](Songseeker_Galebreather.md)
 -   [Megalodaunt](Megalodaunt.md)
     -   Crimson Megalodaunt
 

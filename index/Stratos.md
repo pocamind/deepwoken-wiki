@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 39483
+revid: 39715
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -29,4 +29,4 @@ After you complete the quest, you will receive the talent "Windwaker." This tale
 ## Trivia
 
 -   The name of the talent is taken from _The Legend of Zelda: The Wind Waker_.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "Nice try."
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says from these lines: "Nice try." "What was that? I felt a calm breeze..."
