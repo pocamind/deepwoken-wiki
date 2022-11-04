@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 39665
+revid: 39743
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,17 +16,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― Dimensional Travel description
 
-**Dimensional Travel**, also referred to as _Kamui_ or _Distortion Realm,_ is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
+**Dimensional Travel**, also referred to as _Kamui_ or _Distortion Realm,_ is a [Resonance](Resonance.md) also known as "bell" that players can obtain, and is extremely rare to roll.
 
 ### Appearance
 
-When used, the user will leave a portal and be transported into the Distortion Realm, where surfaces are dark and the fog is heavy.
+When used, the user will leave a portal and be transported into the Distortion Realm called "The Interstice", where surfaces are dark, the fog is heavy and where lays abandoned destroyed buildings.
 
 ## Usage
 
 Pressing C will activate the Dimensional Travel Resonance.
 
-When used, this ability will transport the user into the Distortion Realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. This cannot be used while in combat1, unless you have the second variant. Each step taken in the Distortion Realm equals around five steps taken in the Etrean Luminant or [The Depths](The_Depths.md).
+When used, this ability will transport the user into the Distortion Realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. This cannot be used while in combat1, unless you have the second variant. Each step taken in the Distortion Realm equals around three steps taken in the Etrean Luminant or [The Depths](The_Depths.md).
 
 #### Distortion Realm
 

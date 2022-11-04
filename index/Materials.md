@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 37492
+revid: 39747
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -20,7 +20,7 @@ Wood can be obtained chopping down trees. You can obtain more wood from bigger t
 
 ### Uses
 
-Crafting a campfire pit, 3 sticks, a Lumber Axe or a Pickaxe at a crafting station, and selling it to the girl at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
+Crafting a Campfire Pit, 3 sticks, a Lumber Axe or a Pickaxe at a crafting station, and selling it to the Lumberjack Quest giver at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
 
 ## Coal
 
@@ -40,13 +40,13 @@ Mining at various places.
 
 ### Uses
 
-Throwing it at people and used to craft flint.
+Throwing it at people to combat tag them and used to craft flint.
 
 ## Cloth
 
 ### Obtainment
 
-Can be bought from the Blacksmith in Etris/Isle of Vigils for 6 notes (3 if, you have the discount) or crafted using 3 fiber.
+Can be bought from the Blacksmith in Etris/Isle of Vigils for or crafted using 3 fiber.
 
 ### Uses
 
@@ -56,21 +56,21 @@ Used for schematics.
 
 ### Obtainment
 
-Can be bought from the General Store for 3 notes or crafted with bamboo bundles/spider eggs.
+Can be bought from the General Store for or crafted with Bamboo Bundles/Spider Eggs.
 
 ### Uses
 
-Used in all armor schematics except the Traveler Coats. Can be used to craft a fishing rod
+Used in all armor schematics except the Traveler Coats. Can be used to craft a [Fishing Rod](Fishing.md).
 
 ## Iron
 
 ### Obtainment
 
-Mining at various places or buying it at the Blacksmith in Etris/Isle of Vigils
+Mining at various places or buying it from the Blacksmith in Etris/Isle of Vigils for.
 
 ### Uses
 
-Can be used to craft bullets, make a Lumber Axe or Pickaxe at a crafting station, and required for most schematics
+Can be used to craft bullets, make a Lumber Axe or Pickaxe at a crafting station, and required for most schematics.
 
 ## Gold
 
@@ -96,7 +96,7 @@ Required in some schematics.
 
 ### Obtainment
 
-Mining at Upper Erisia
+Mining at Upper Erisia.
 
 ### Uses
 

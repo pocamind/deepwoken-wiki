@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 39726
+revid: 39744
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -279,7 +279,7 @@ Modifiers:
 Spark Swap  
 (★★★)
 
- | Almost instantaneous swap of location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CANNOT be parried, blocked, or dodged.**
+ | Almost instantaneous swap of location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CAN ONLY BE PARRIED.**
 
   
 (outdated video)
