@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 39714
+revid: 39738
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -36,6 +36,7 @@ The Meat Lord in all his glory.
 -   [Summer Isle](Summer_Isle.md)
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
+-   Temple Of The Forgotten Flame
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 

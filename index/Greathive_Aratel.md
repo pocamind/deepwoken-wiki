@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 38705
+revid: 39737
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -119,8 +119,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. Lorewise, Regek tells us that this is one of four greathives.(Physical mantra trainer)
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
--   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a [Ganymede](Ganymede.md).
--   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
+-   Everyone inside Greathive Aratel is a Vesperian. However, there is one ganymede guard in Greathive Aratel.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).

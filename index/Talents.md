@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39671
+revid: 39736
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -231,7 +231,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 10 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
--   Reinforced Armor \[Legendary Talent\] - Your M1s deal 75% less damage, but you take 10% less damage. (+10 Ether, +3 Health)
+-   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
+    -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
     -   Prerequisite: 90 Fortitude
 
 ### Beast Slayer
@@ -582,7 +583,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Flamecharmer
 
 -   Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Flamecharm at Power 2 or obtain through Flamecharm Trainer (Amashi)
+    -   Prerequisites: Flamecharm at Power 1 or obtain through Flamecharm Trainer (Amashi)
 -   Adept Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
     -   Prerequisites: 20 Flamecharm
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
@@ -602,7 +603,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Frostdrawer
 
 -   Frostdrawer \[Frostdraw Exclusive\] - Grants you the ability to command Ice as a Frostdrawer.
-    -   Prerequisites: Frostdraw at Power 2 or obtain through Frostdraw Trainer (Nell)
+    -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Prerequisites: 20 Frostdraw
 -   Expert Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
@@ -632,7 +633,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Galebreather
 
 -   Galebreather \[Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
-    -   Prerequisites: Galebreathe at power 2 or obtain from Galebreathe trainer (Friid)
+    -   Prerequisites: Galebreathe at power 1 or obtain from Galebreathe trainer (Friid)
 -   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
     -   Prerequisites: 20 Galebreathe
 -   Expert Galebreather \[Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
@@ -715,7 +716,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Heretic
 
--   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal for 6 seconds, and your M1 damage is tripled.
+-   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal. (+3 Health, +7 Sanity)
     -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 6 seconds.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, Bloodless Gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
@@ -1174,7 +1175,7 @@ Prerequisite: Charisma
     -   Prerequisites: 40 Shadowcast
     -   Mutual exclusive: Sightless Still
 -   Shadowcaster \[Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster.
-    -   Prerequisites: Shadowcast with Power 2 or obtain through Shadowcast trainer (Nostor)
+    -   Prerequisites: Shadowcast with Power 1 or obtain through Shadowcast trainer (Nostor)
 
 -   Adept Shadowcaster \[Shadowcast Exclusive\] - You can now obtain 1-Star Leveled Shadowcaster Mantras.
     -   Prerequisites: 20 Shadowcast
@@ -1314,7 +1315,7 @@ These Talents are meant to reap the reward of your latest hunt.
 ### Thundercaller
 
 -   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisites: Thundercall with power 2 or obtain from Thundercall trainer (Funke)
+    -   Prerequisites: Thundercall with power 1 or obtain from Thundercall trainer (Funke)
 -   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
     -   Prerequisites: 20 Thundercall
 -   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 39260
+revid: 39732
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,7 @@ File:No Attunement Revamp.png
 
  | _A powerful, flinging punch that shatters the air._ | 
 
--   **Requirements:** _**20 Strength,**_ _Combat Mantra_
+-   **Requirements:** _**5 Strength,**_ _Combat Mantra_
 -   A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.
 -   Strong Left scales with your Strength attribute.
 
@@ -413,7 +413,7 @@ File:No Attunement Revamp.png
 The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
 1.  ~The user must be at least neutral with Hive.~ This is false. I went to the trainer with Fugitive and negative reputation and he still allowed me to upgrade my mantras despite my heinous, _heinous_ crimes.
-2.  Must be able to use the wells to travel to the Greathive Aratel.
+2.  ~Must be able to use the wells to travel to the Greathive Aratel. Again, false. As long as you can be carried through a teleporter, you can upgrade. However, you do need to wash your face I believe, but if you don't have an oath, you can be carried through the wells and still be able to upgrade.~
 3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
     -   2 of them are located in the Blacksmith's area.

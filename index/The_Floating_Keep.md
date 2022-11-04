@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39700
+revid: 39739
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,16 +10,16 @@ categories: [Locations]
 
 LocationL The Floating Keep LocationR
 
-TERRITORY OF Spellhardt
+TERRITORY OF
 
-The moving keep of the Spellhardts.
+The awe-inspiring moving keep of the mysterious Spellhardt family.
 
   
 Template:Areainfobox
 
 ## Description
 
-The Floating Keep is a temporary location in Deepwoken. It appears to be a medival keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
+The Floating Keep is a temporary location in Deepwoken. It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
 
 ## Cathedral
 
