@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39757
+revid: 39765
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -304,7 +304,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   formerly halved the users dodge frames
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
-    -   Prerequisite: ?? Strength, ?? Agility.
+    -   Prerequisite: 15 Strength, 60 Agility.
 
 ### Caster
 
@@ -425,6 +425,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their reservoir. (+1 Elemental Intensity, 3+ Health)
     -   Prerequisites: 20 Shadowcast
 -   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
+    -   Prerequisites: Dark Hours
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast mantras deal 20% more damage at night.

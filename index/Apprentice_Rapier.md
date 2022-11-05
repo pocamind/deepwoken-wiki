@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 37686
+revid: 39777
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -25,12 +25,12 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ErisiaMinityrsa |
+| obtainment | Erisia, Minityrsa, Etris Weaponry , The Floating Keep |
 | description | "Your trusty weapon." |
 
 ## Description
 
-The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can now be bought from [Etris Weaponry](https://deepwoken.fandom.com/wiki/Etris#Weaponry).
+The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](https://deepwoken.fandom.com/wiki/Etris#Weaponry) ( ) and [The Floating Keep](The_Floating_Keep.md) ( ).
 
 ## Trivia
 

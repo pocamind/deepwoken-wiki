@@ -1,38 +1,27 @@
 ---
 title: Family
-revid: 39699
+revid: 39776
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Creation, Mechanics]
 ---
 
 # Family
 
 ## Family
 
-Players can be family members with each other with the character selection screen. Depending on what you choose, you be someone's cousin, sister, brother, or even twin.
+Players can be family members with each other with the character selection screen. Depending on what you choose, you can be someone's cousin, sister, brother, or even twin.
 
-Having certain traits can make you someone else's relative.
+Having certain traits can make you someone else's relative. The chance to be relative to someone else is RNG, but it has requirements.
 
--   Siblings - Same last names, same variant, and tattoos for races that require them.
--   Cousins - Same variant of the same race
--   Twins - Same last names, same racial variant. For some races, like ones with tattoos, not scars, the tattoos will have to be the same. Most likely also same gender (Albeit, me and a twin are opposite genders). Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
--   Elder - Same variant of the same race, must be 20 years older than your relative
+-   Cousin - Same variant of the same race
+-   Sister/Brother - Same variant of the same race, same last names.
+-   Twin - Same last names, same racial variant, similar age.
 -   Juvenile - Same variant of the same race, must be 20 years younger than your relative
--   Sister/Brother - Same variant of the same race, same last names, (not sure that it was similar age) but different gender.
--   Uncle/Aunt - Same variant of the same race, same last names. must be 20 years older than your relative
--   Nephew/Niece - Same variant of the same race, same last names, must be 20 years younger than your relative
--   Niebling - Similar to Niece or Nephew, same last name, seems that it doesn't have to be the same racial variant in order to get this. (Unconfirmed, uncommon)
+-   Elder - Same variant of the same race, must be 20 years older than your relative
+-   Nephew/Niece/Nibling - Same variant of the same race, same last names, must be 20 years younger than your relative
+-   Uncle/Aunt - Same variant of the same race, same last names, same last names. must be 20 years older than your relative
 
 ## Notes
 
--   ~NOT SURE IF ITS TRUE BUT Ganymede and Vesperian bypass this due to them both being descendants of Primal Vesperians.~ (Primal Vesperians are an _offshoot_ of Vesperians, not the predecessors to them and Ganymedes)
 -   Being a twin may not be age reliant, twins have been found who have different ages.
--   Not a lot is known about family as of 5/9/2022
--   Being someone's family member is purely RNG. You can look exactly like someone else with the same facial features, same name and all, and still not be related.
-
-Twin Gremors.
-
-File:Niebling2.png
-
-A Niebling Felinor
+-   Uncle and nephew are probably equivalent to brother/sister chance, but with the 20 year age difference (while juvenile and elder are cousins equivalent.)
