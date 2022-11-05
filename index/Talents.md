@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39754
+revid: 39757
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -540,9 +540,9 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Stacks additively with Chitin's 3% for 13% physical damage resistance.
     -   Natural Armors can be affected by PEN but 25% as effective against it.
     -   Preqequisite: 40 Fortitude.
--   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
+-   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster.
-    -   Prerequisites: Drinked potion, 15 Fortitude and 15 Willpower
+    -   Prerequisites: Drank potion, 15 Fortitude and 15 Willpower
 -   To The Finish \[Rare Talent\] - You take 10% less damage when below 30% health. (+3 Health)
     -   Prerequisite: 50 Fortitude
 
