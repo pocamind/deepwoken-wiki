@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39736
+revid: 39754
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1257,12 +1257,12 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
     -   Increases food satiation by 25%.
     -   Known Prerequisites: 25 Intelligence
-    -   Speculated Prerequisites: 25 Charisma, Cook 50+ Foods, Food Type Does Not Matter
+    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Foods, Food Type Does Not Matter
 
 -   MasterChef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
     -   Increases food boosts by 30%.
     -   Known Prerequisites: 25 Intelligence
-    -   Speculated Prerequisites: 25 Charisma, Cook 50+ Foods, Food Type Does Not Matter
+    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Foods, Food Type Does Not Matter
 
 ### The Demon Blade
 
@@ -1496,12 +1496,6 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
-
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
-    -   Increases food satiation by 25%.
-
--   MasterChef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
-    -   Increases food boosts by 30%.
 
 ## Whispers
 

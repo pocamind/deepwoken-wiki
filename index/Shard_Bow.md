@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 35918
+revid: 39756
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links, Resonance]
 | effect | Jumps up, back, and fires arrows. |
 | appearance | White bow that appears in front of the user. |
 
-“ Conjure a mythical bow that hails down crystallized arrows ”
+“ Ryuu ga waga teki wo kurau! ”
 
-― Shard Bow description
+― Random Capra Using Shard Bow
 
 ## Description
 
