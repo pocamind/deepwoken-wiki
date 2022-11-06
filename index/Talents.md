@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39793
+revid: 39799
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1093,7 +1093,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 ### Self-Shocker
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Static Withdraw.
+    -   Prerequisites: Static Withdraw, 35 Thundercall
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisites: Jumpstart
 
@@ -1124,7 +1124,6 @@ Prerequisite: Charisma
 ### Soul Converter
 
 -   Bloodiron Spirit \[Rare Talent\] - You regain some armor upon killing enemies.(+5 Health)
--   Prerequisite: 5 Strength/Fortitude/Agility
 
 ### Soverign of Slaughter
 
@@ -1139,9 +1138,9 @@ Prerequisite: Charisma
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
     -   Prerequisite: 40 Thundercall and 15 Intelligence
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
-    -   Prerequisite: Static Link
+    -   Prerequisite: Static Link, 50 Thundercall
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-    -   Prerequisite: Static Link, No more then 20 Fortitude
+    -   Prerequisite: Static Link, 20 Fortitude
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
     -   Prerequisite: Static Link
 
@@ -1337,6 +1336,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   50 Thundercall + 50 Fortitude (Friend got it at around 40 fortitude)
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
+    -   Prerequisites: 35 Thundercall
 -   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
     -   Prerequisites: 20 Thundercall
 
