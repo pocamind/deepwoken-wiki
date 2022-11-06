@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 39608
+revid: 39790
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -51,6 +51,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 -   _"Your magic feels stronger..."_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..."_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
+-   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
 
 These buffs can have their durations increased by the _[Tavernkeep](Talents.md#tavernkeep)_ category of talents.
 

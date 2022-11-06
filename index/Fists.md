@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 38480
+revid: 39787
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -62,7 +62,7 @@ File:Legion fist.png
 
 **CRITICAL: Grab your opponent with both of your hands, raising them above your head before slamming them down.**
 
--   To obtain it, you need to help the Centurions during the Authority event at [Starswept Valley](The_Starswept_Valley.md). If you help the Centurions, your reputation among them will increase, and eventually you'll get enough reputation for you to ask for a recommendation. The last step will be to head to the [Viper's Jaw](<The_Viper's_Jaw.md>) and talking to [Amara](Amara.md). After that you'll acquire the talent to learn the Legion Kata fighting style.
+-   To obtain it, you need to help the Centurions during the Authority event at [Starswept Valley](The_Starswept_Valley.md) or [Erisia](Erisia.md). If you help the Centurions, your reputation among them will increase, and eventually you'll get enough reputation for you to ask for a recommendation. The last step will be to head to the [Viper's Jaw](<The_Viper's_Jaw.md>) and talking to [Amara](Amara.md). After that you'll acquire the talent to learn the Legion Kata fighting style.
 
 After learning the Legion Martial Arts you'll still retain your Fist Fighting Style but more enhanced and honed. Your critical attack makes you perform a suplex that grabs your enemy.
 

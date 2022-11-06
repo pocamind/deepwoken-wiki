@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 39500
+revid: 39783
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -85,20 +85,20 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
+  times they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
   <b>Explosion can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
+  <td><div><p>On proc, a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
-  <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
+  <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
   Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
@@ -162,7 +162,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:STORM.png<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc stun with a short cooldown, visualized by a purple lightning after-shock.<br>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
@@ -431,11 +431,11 @@ File:Vamparism shield.png
 
 Vampirism enchant on a Khan Shield
 
--   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter.
--   Enchanted equipment used to not be able to be merged together by Jarvis. When attempted, he would respond with: 'Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else.'
+-   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter, hence why it was called Bungee Gum previously.
+-   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   The idea behind the Providence's Storms enchant was to combine fast attack swing speed while being able to inflict damage to others without directly attacking, which was eventually turned into 2 separate enchants known as **Obfuscation (pre-rework)** and **Providence's Thorns**.
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
-    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief that if you didn't grip at least one person per day, you would be absorbed into the weapon.
+    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
@@ -444,10 +444,10 @@ Vampirism enchant on a Khan Shield
     
     Azure Flames Blazing
     
-    -   Curse of the Umbral Knight > Umbral Knight
-    -   Bungee Gum > Elastic
-    -   Combustion > Blazing
-    -   Hero > Heroism
+    -   Curse of the Umbral Knight **→** Umbral Knight
+    -   Bungee Gum **→** Elastic
+    -   Combustion **→** Blazing
+    -   Hero **→** Heroism
 -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
 
   
@@ -456,4 +456,4 @@ Vampirism enchant on a Khan Shield
 
 Trading within Deepwoken is an integral part of the circulation of Enchantments. Various trading networks have been made in this player-based economy to ensure smoother transactions and safer deals. With this in mind, one trading network has been an integral part of providing secure and quick transactions between players, and that network is the Deepwoken Trading Hub.
 
--   If you want to trade enchants, suggest looking into DWTH: [https://discord.gg/dwth](https://discord.gg/dwth)
+-   If you want to trade enchants, suggest looking into the Deepwoken Trading Hub (commonly referred to as DWTH): [https://discord.gg/dwth](https://discord.gg/dwth)
