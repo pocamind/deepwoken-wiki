@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39765
+revid: 39793
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -351,7 +351,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you. (+ 4 Ether)
     -   Prerequisite: Charismatic Cast
 -   Familiar Sight \[Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
--   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
+-   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: 40 Charisma and Charismatic Cast
     -   Mutual exclusive: Vanishing Follow-up
 
@@ -1235,7 +1235,6 @@ These Talents are designed to let you survive against starvation and thirst by l
     -   Prerequisites: Herbivore
     -   Requirements: Vomit at least once
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
-    -   Prerequisites: Iron gut
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
     -   Requirements (talent): 20 fortitude + 10 willpower
     -   Note: Allows user to eat inedible items under the food category (green colored ones, for example: bamboo bundle, gathered wheat, etc.)

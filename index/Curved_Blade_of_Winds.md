@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 38982
+revid: 39792
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -44,4 +44,4 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
     -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably be worth your kidney if you were to find one on a BM server (in which case, you're gonna get banned.)
 -   When using the weapon one-handed it becomes 2 swords. Double the swords, double the pain
--   Ironically, is one of the worst weapons ingame, as the base sword damage is also affected by elemental resistances, making you deal reduced damage to mobs such as [Primadon](Primadon,_Titan_of_the_East.md) as well as people who are using "Return to the Dark Ages" or Galebreathe-resistant armors.
+-   Ironically, it can become one of the worst weapons ingame, as the base sword damage is also affected by elemental resistances, making you deal reduced damage to mobs such as [Primadon](Primadon,_Titan_of_the_East.md) as well as people who are using "Return to the Dark Ages" or Galebreathe-resistant armors.
