@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 38522
+revid: 39823
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,18 +14,14 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | ?? |
 | requirements | Power 40 |
 | weight | 2 |
-| innate stats | [placeholder] |
-| innate talent | [placeholder] |
+| innate stats | N/A |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare Nautilodaunt drop |
 | description | '"Lorem ipsum."' |
-
-“ IT'S TIME TO AVENGE CELTOR. ”
-
-― Celtor about to "avenge" Celtor for the 27th time today
 
 ## Description
 

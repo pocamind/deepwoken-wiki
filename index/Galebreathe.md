@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 39819
+revid: 39824
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -270,7 +270,7 @@ _A servant of wind._
 
  | Spawns a wisp of wind. Must use ritual casting.
 
--   Gives the caster fall damage resistance. Also reduces the stacks required to activate Haunted Gale from 5 to 4.
+-   Gives the caster fall damage resistance. Also reduces the stacks required to activate Haunted Gale from 3 to 2.
 -   Can be modified with logstones to extend it's usage.
     -   Note using logstones will force you to cast more signs.
 

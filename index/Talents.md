@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39802
+revid: 39833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -52,7 +52,9 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ## Talents
 
-Acrobat These talents improve the user's aerial mobility without the use of Galebreathe.
+### Acrobat
+
+These talents improve the user's aerial mobility without the use of Galebreathe.
 
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
@@ -67,10 +69,9 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
     -   Stacks with other means of fall damage reduction.
     -   Prerequisites: 25 Agility
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
-    -   The speed boost is represented by a red mist around the player's eyes.
+    -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisites: 5 Agility
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
-    -   The same red mist from time to go is applied here.
     -   Prerequesite: Time To Go
 
 ### Aerial Dancer
@@ -86,14 +87,15 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
     -   Prerequisites: 25 Galebreathe
 -   Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
-    -   Requirements: 30 Agility and Unknown amount of Galebreathe (30-45 Galebreathe)
+    -   Requirements: 30 Agility and ~30-45 Galebreathe
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 50 Galebreathe, Drifting Wind
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: Suffocating Impact, 30 Strength, 50 Galebreathe
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
--   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
+    -   Prerequisites: Galetrap
+-   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
 
 ### Aeromancer
@@ -103,21 +105,19 @@ Acrobat These talents improve the user's aerial mobility without the use of Gale
 
 ### Alchemist
 
-These Talents are designed to make your potions making and usage more efficient.
+These Talents are designed to make your potions making and usage more efficient. To unlock this talent branch, you must make and drink potions.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
     -   Soothing, Rejuvenating, Strengthening, Focus Enhancing, Heartening, Invigorating, Steadfast, Hastening and Staggering are more powerful froms potions you drinks.
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
-    -   Appaling, Disguting, Dulling, Icky, Mindbreaker, Gureling and Buckling are more powerful from potions you throw.
+    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling are more powerful from potions you throw.
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
     -   Prerequisite: 40 Intelligence or Apothecary, Drink Potions
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
-    -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make diluted potions.
+    -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
-
 -   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   There's a chance you can share your effects with allies
     -   Prerequisite: 80 Intelligence, Drink Potions
 
 ### Alley Cat
@@ -127,27 +127,25 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
     -   Prerequisites: 5 Agility
-
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites; ? Amount Of Backstabs
-
--   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting(+1 Passive Agility)
-    -   When below 75% HP and not receiving damage for 3 seconds, gain 3x health regen while running.
+-   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+    -   After you don't take damage for 3 seconds, gain 3x health regen while running.
     -   Prerequisites: 20 Agility & 20 Fortitude
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
-
--   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
+-   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisites: 20 Agility
--   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
+-   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, Swift Rebound
 
 ### Amoran Seeker
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20(?)% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
+    -   Generally dangerous to use without Pyromaniac.
     -   Prerequisites: 25 Flamecharm
 
 ### Angler
@@ -166,12 +164,11 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 ### Apex Predator
 
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
-    -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw and Herbivore
-
+    -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw.
+    -   Mutually exclusive: Herbivore
 -   Grand Feast \[Rare Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
-
--   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
+-   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
 
@@ -184,19 +181,16 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   Also apply to sheathing.
-    -   Does nothing on fist as they are silent by default.
+    -   Does nothing on fists as they are silent by default.
     -   Prerequisites: 15 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: Agility 20, 20 Intelligence
+    -   Prerequisites: 20 Agility, 20 Intelligence
 
 ### Athlete
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
--   ~Heavy Lifting \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)~
-    -   ~Prerequisites: ?? Strength and ?? Fortitude~ (Removed as of **18/10/2022**)
-
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: 5 Strength and ?? Agility
 
@@ -205,7 +199,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
-    -   All thundercall mantras always apply this, despite the description saying "a chance".
+    -   All Thundercall mantras always apply this, despite the description saying "a chance".
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
@@ -220,7 +214,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   From: Perseverance
-    -   Prerequisite: 100 fortitude and 100 willpower
+    -   Prerequisite: 100 Fortitude and 100 Willpower
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
@@ -244,14 +238,13 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Blindseer
 
-These are not talents but mantras exclusive for blindseers. All blindseer mantras gives insanity.
+These are not talents but mantras exclusive for Blindseers. All Blindseer mantras gives insanity.
 
 -   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
     -   Heals and absorbs insanity of other players.
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
 -   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
-    -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
-    -   Seems to give bonus damage against monsters.
+    -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds. Additionally, it grants a 30% damage bonus in PvE.
     -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 5 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
     -   After a short wind-up, shoots a multi-hit laser beam from your eyes, if not blocked will do huge damage.
@@ -260,16 +253,15 @@ These are not talents but mantras exclusive for blindseers. All blindseer mantra
 
 ### Brawler
 
--   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. (+3 Health)
-    -   Prerequisites: Trained Fists
 -   Trained Fist \[Common Talent\] - You can now equip Cestus. (+7 Health)
-    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
+    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest
+-   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. (+3 Health)
+    -   Prerequisite: Trained Fist
 
 ### Bruiser
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor (20 second cooldown). (+3 Health)
     -   Prerequisites: Use a Greataxe, Impairing Blow
-
 -   Heavy Fatigue \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. (+3 Health)
     -   Prerequisites: Use a Greataxe, Impairing Blow
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. (+3 Health)
@@ -298,10 +290,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutually Exclusive: Risky Moves
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   Prerequisites: 25 Agility
-    -   User is covered in a blue outline when the effect is active.
+    -   User is covered in a blue highlight when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
     -   Mutually Exclusive: Observation, Safety Dance
-        -   formerly halved the users dodge frames
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, 60 Agility.
@@ -1230,13 +1221,14 @@ These Talent are meant to make maintaining your ship easier.
 These Talents are designed to let you survive against starvation and thirst by living of mother nature.
 
 -   Herbivore \[Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
+    -   Mutually Exclusive: Carnivore
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: Herbivore
     -   Requirements: Vomit at least once
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
-    -   Requirements (talent): 20 fortitude + 10 willpower
-    -   Note: Allows user to eat inedible items under the food category (green colored ones, for example: bamboo bundle, gathered wheat, etc.)
+    -   Requirements (talent): 20 Fortitude, 10 Willpower
+    -   Note: Allows user to eat inedible items under the food category, as well as some that aren't.
 
 ### Survivor
 
@@ -1256,12 +1248,12 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
     -   Increases food satiation by 25%.
     -   Known Prerequisites: 25 Intelligence
-    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Foods, Food Type Does Not Matter
+    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Food
 
--   MasterChef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
+-   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity, +2 Ether)
     -   Increases food boosts by 30%.
     -   Known Prerequisites: 25 Intelligence
-    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Foods, Food Type Does Not Matter
+    -   Speculated Prerequisites: 15 Charisma, 15 Intelligence, Cook 50+ Food, Artisan Chef
 
 ### The Demon Blade
 
@@ -1279,15 +1271,16 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 ### Thief
 
-These Talents are meant to reap the reward of your latest hunt.
+These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Pick Pocket \[Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
+-   Pickpocket \[Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
     -   Prerequisites: 10 Charisma + ~5 Agility
--   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
+    -   Cancelled by pressing \[R\] again.
 -   Master Thief \[Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
-    -   Can take enchants despite them being un-droppable upon death
+    -   Can take enchants despite them being un-droppable upon death.
     -   Prerequisites: 35 Charisma, Master Thief
 
 ### Thunder Brawler
@@ -1527,7 +1520,8 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Fortitude Mobility
 
 -   Shoulder Bash - Rush into your enemies with your full physical force.
-    -   Prerequisite: 10 Fortitude + Shield
+    -   Prerequisite: 10 Fortitude
+    -   Shield is not required despite popular belief.
 
 #### Agility Combat
 

@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 38777
+revid: 39834
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,3 +34,4 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
+-   You can use Terrapod bait to spawn Terrapods in Erisia, and this actually has a very good use as Terrapods tend to be in very random spots and must be found, and sometimes there just aren't any Terrapods, so with the bait you are able to summon Terrapods at will, and it could be very handy if you need lots of Strange Claws, or just want to spawn some to annoy someone else.

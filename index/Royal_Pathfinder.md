@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 38420
+revid: 39822
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,15 +23,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | obtainment | Starswept Valley |
 | description | '"Lorem ipsum."' |
 
-“ The Notes. Hand it over. ”
-
-― Power 52 Royal Pathfinder Gremor to a freshie at Etris
-
 ## Description
 
 The Royal Pathfinder is an Arms type of Armor that is found in chests from [Starswept Valley](The_Starswept_Valley.md). This armor requires a **Power Level** of **30** in order to equip. It grants you the innate talent _Ready or Not_, which cuts the damage of the first attack to hit you while out of combat in half.
 
-It's a decent equipment piece with a good innate stat, with one star effectively guaranteeing at least one legendary buff pip, but the [Glassdancer Wraps](Glassdancer_Wraps.md) are usually better for their innate stats, lack of a level requirement and better overall stat gains.
+It's a decent equipment piece with a good innate stat, with one star effectively guaranteeing at least one legendary buff pip, but the [Glassdancer Wraps](Glassdancer_Wraps.md) are usually better for their innate stats, lack of a level requirement and better overall stat gains. (Glassdancer Wraps have 10 HP for their inner stats)
 
 ## Trivia
 

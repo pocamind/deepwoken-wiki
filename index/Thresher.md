@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 38605
+revid: 39827
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,13 +44,16 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 -   When you see burrow underground to dig after you, it is going to pop up to hit you after 2 red flashes. To avoid this, right as you see the second flash you should roll.
 -   Although difficult to pull off and inconsistent, you can get to a certain range with a spear or guns where you can hit the thresher but the thresher can't hit you.
 
+  
+
 ## Notes
 
 -   The go-to mob to farm for high levelled players.
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
-        
+-   You can use Thresher bait to spawn Threshers in sandy areas (Starswept), just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
+    
 
 **King Thresher:**
 
