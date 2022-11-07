@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 39790
+revid: 39808
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -40,11 +40,10 @@ File:SlowedStomach.png
 
 Some foods fill a portion of your Hunger/Thirst bar with a different color, known as Reinforced Hunger/Thirst.
 
--   Reinforced Hunger/Thirst grants buffs certain buffs until the bar is deleted.
--   As per mentioned, certain foods give random boosts which can be indicated by the secondary color on your food bar.
--   The type of boost can be identified by hovering over the differently colored bar.
+-   Reinforced Hunger grants buffs certain buffs signified by a specially-colored secondary bar on top of the normal Hunger bar until it's depleted.
+-   The type of boost can be identified by hovering over the differently-colored bar.
 
-### Known Boosts
+### Boosts
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
 -   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed.
@@ -156,12 +155,16 @@ OR
 
   
 
-## Trivia
+## Trivia/Notes
 
 An individual who has crossed paths with The Meat Lord.
 
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they appear you.
--   Sometimes there's a rare chance for an NPC called "[The Meat Lord](The_Meat_Lord.md)" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and [Fort Merit](Fort_Merit.md), and rarely, [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes each.
-    -   He also sells one of the best food items in the game, Sushi, as it takes no inventory space and bypasses the normal food limit, stacking up to 99.
--   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
+-   Sometimes there's a rare chance for an NPC called "[The Meat Lord](The_Meat_Lord.md)" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and [Fort Merit](Fort_Merit.md), and rarely, [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, most notably Reduced Hunger Loss. Each item on his menu is each.
+-   Having 0 thirst and 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and then you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
+-   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheap price from the Meat Lord, this makes it one of the best generic food items in the game.
+
+## Bugs
+
+-   Rejoining after eating a food that grants you a buff will make the secondary bar's color default to Purple. (Purely visual, the effects can still be seen by hovering over it)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39799
+revid: 39802
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1300,7 +1300,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 -   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load, +2 Elemental Intensity)
     -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
--   Jolt Cast \[common talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 staks, your next lightning mantra will take less time to cast.
+-   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 staks, your next lightning mantra will take less time to cast.
     -   Requirements: ?? intelligence (probably 30), ?? thundercall
 
   
@@ -1310,6 +1310,8 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - \[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+2 Elemental Intensity, +1 Health)
     -   Prerequisites: 20 Medium Weapon, 40 Thundercall
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
+-   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity, +3 Health)
+    -   Prerequisites: Static Blade
 
 ### Thundercaller
 
@@ -1329,6 +1331,8 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Prerequisites: 25 Thundercall
 -   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
     -   Prerequisites: 35 Thundercall, 30 Agility
+-   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity, +3 Health)
+    -   Prerequisites: Lightning Beam, ?? Thundercall
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in roughly 3.5 seconds at the cost of some ether.
         -   For reference, default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
@@ -1342,7 +1346,8 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Trickster
 
--   Cheap Shot \[Rare Talent,Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
+-   Cheap Shot \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
+    -   Prerequisites: 65 Agility
 
 ### Undying Ember
 
@@ -1403,8 +1408,11 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Visionshaper
 
--   Lasting Image \[Visionshaper Exclusive, Common Talent\] - Your illusions last longer.
--   Vanishing Closure - \[Rare talent, Visionshaper Exclusive\]
+-   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit bellow half health briefly disappear leaving behind an illusion clone to keep your opponent occupied for a short duration. (+10 Ether)
+-   Lasting Image \[Common Talent, Visionshaper Exclusive\] - Your illusions last longer.
+-   Mirage From the Deep \[Common Talent, VisionShaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 15% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
+    -   Upon pressing X, you will leave Illusionary Realm early, leaving behind one of the 3 creatures: [Megalodaunt](Megalodaunt.md), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
+-   Vanishing Closure \[Rare talent, Visionshaper Exclusive\] - Briefly disappear after knocking an enemy.
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
     -   No (or very low) cooldown.
 
@@ -1470,25 +1478,9 @@ These Talents are designed to make you more effective in water.
 
 ### **Miscellaneous**
 
--   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
--   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
--   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
--   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
--   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
-    -   Health and Posture restored from getting a knock is reduced by 50%.
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
--   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
--   Replenishing Knockout \[Common Talent\] - Gain more health and posture when knocking enemies.
-    -   Restoration from knocking enemies increases, counteracts the Martyr Talent.
--   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0%, movement speed increased.
--   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
-    -   Prerequisite: 35 Fortitude
--   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for a short duration. (+3 Health)
     -   Prerequisites: Power 30
-    -   Mutual Exclusive: Everchanging Aegis
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
     -   Prerequisite: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
@@ -1496,6 +1488,24 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
+-   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
+-   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
+-   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
+-   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
+-   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
+    -   Prerequisite: 35 Fortitude
+-   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
+-   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
+    -   When your Armor is at 0%, movement speed increased.
+-   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
+    -   Health and Posture restored from getting a knock is reduced by 50%.
+-   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
+-   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
+-   Replenishing Knockout \[Common Talent\] - Gain more health and posture when knocking enemies.
+    -   Restoration from knocking enemies increases, counteracts the Martyr Talent.
+-   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+    -   Prerequisites: Power 30
+    -   Mutual Exclusive: Everchanging Aegis
 
 ## Whispers
 

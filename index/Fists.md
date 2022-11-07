@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 39787
+revid: 39812
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -52,7 +52,7 @@ File:Way Of Navae.png
     -   Eastern Camp Master on [Etris](Etris.md)
     -   [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md)
 
-After unlocking Way of Navae on the following slot, you can choose Fists as your starter weapon in the character menu. This is only possible on the same slot in which you unlocked Way of Navae.
+After unlocking Way of Navae, you can choose Fists as your starter weapon in the character menu. Once you unlock Way of Navae, it is avalible on all slots.
 
 While it ties in damage with Kata, the critical possesses more range and is able to instantly guard break most players if they fail to parry it. While the windup is longer, this is a great mix up when using your normal M1's which is what usually leads to guard breaks.
 

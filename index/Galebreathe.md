@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 39728
+revid: 39803
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -567,7 +567,7 @@ After Cut
 
  | 
 
-If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt.
+If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead.
 
  | 
 
