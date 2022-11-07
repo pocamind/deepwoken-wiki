@@ -1,12 +1,16 @@
 ---
 title: Attunements
-revid: 39461
+revid: 39817
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
 ---
 
 # Attunements
+
+For attunements we have arson bing chilling free breaze and YOU SHOULD GO KILL YOURSELF NOW -Jonathan Talo( Tank Fish) He forgot budget batman :(
+
+  
 
 File:Attunementicon.png
 
@@ -24,12 +28,12 @@ It is worth noting that Mantras can have rarities individual of their stars and 
 
 Another point worth noting is there's no current way of removing an Attunement that's been chosen or learnt without wiping the entire build, so you must choose carefully.
 
-## Mentioned Only
+## Mentioned Only/Potential future attunements
 
 -   ~Ironsing~ (Not an Attunement.)
--   Lifeweaver
+-   Lifeweaver (First seen being used by the Hive leader)
 -   Lightkeeper/Lightkeeping
--   Earth
+-   Earth (Mentioned by Archmage saying he would like to add earth)
 
 ## Trivia
 
