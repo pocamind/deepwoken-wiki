@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 39803
+revid: 39819
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -254,7 +254,7 @@ _A rapid delivery of consecutive attacks._
 
 ### **Mobility Mantras**
 
-There are no known Mobility Mantras for Galebreathers, though there is a talent that allows you to drift down long falls and take no damage.
+There are no known Mobility Mantras for Galebreathers, though there are many talents that increase a Galebreathers passive mobility.
 
 ### **Support Mantras**
 
@@ -270,7 +270,7 @@ _A servant of wind._
 
  | Spawns a wisp of wind. Must use ritual casting.
 
--   Gives the caster fall damage resistance. Also slightly reduces hits needed to activate Haunted Gale.
+-   Gives the caster fall damage resistance. Also reduces the stacks required to activate Haunted Gale from 5 to 4.
 -   Can be modified with logstones to extend it's usage.
     -   Note using logstones will force you to cast more signs.
 
