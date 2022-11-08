@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 39780
+revid: 39920
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -84,13 +84,16 @@ This is used to scare any interactable NPC (guards do not count) throughout the 
 
 | Item | Joy |
 | --- | --- |
-| Void Feather | 15 Joy (tested) |
+| Void Feather | 15 Joy |
 | Deep Gem | 15 Joy |
 | Familiar Priest Helmet | 30 Joy |
 | Familiar Heretic Helmet | 35 Joy |
 | Familiar Knight Helmet | 50 Joy |
+| Skull Piercer | 60 Joy |
+| Skyreap Blade | 60 Joy |
+| Hallowscleave | 60 Joy |
 | Hallowtide Variant | 70 Joy |
 
 ## Notes
 
--   On release, Voidfeathers costed 5 Joy instead of the displayed 15. This is patched as of 11/5/2022.
+-   On release, Void feathers cost 5 Joy instead of the displayed 15. This was patched as of 11/5/2022.

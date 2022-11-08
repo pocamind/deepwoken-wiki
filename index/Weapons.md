@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39873
+revid: 39947
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -369,6 +369,16 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>8</td>
   <td>0.82x</td>
 </tr>
+<tr>
+  <td><a href="Skull_Piercer.md">Skullpiercer</a> (<b>Bleed</b>)</td>
+  <td>75 LHT</td>
+  <td>14</td>
+  <td>10%</td>
+  <td>LHT: 7.7</td>
+  <td>4</td>
+  <td>8.5</td>
+  <td>0.81x</td>
+</tr>
 </tbody>
 </table>
 
@@ -568,6 +578,17 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>8.5</td>
   <td>0.73x</td>
+</tr>
+<tr>
+  <td><a href="Hallowscleave.md">Hallowscleave</a></td>
+  <td>75 MED</td>
+  <td>19</td>
+  <td>25%</td>
+  <td>N/A</td>
+  <td>MED: 7</td>
+  <td>6</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Messer#Alloyed"><font>Alloyed Messer</font></a></td>
@@ -845,6 +866,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
 </tr>
 <tr>
   <td><a href="Battleaxe.md">Battleaxe</a></td>
@@ -856,6 +878,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>6</td>
   <td>8</td>
   <td>0.62x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
@@ -867,6 +890,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.64x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
@@ -878,6 +902,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>4</td>
   <td>8</td>
   <td>0.62x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Iron_Birch.md">Iron Birch</a></td>
@@ -889,6 +914,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
@@ -900,6 +926,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a> (<b>Bleed</b>)</td>
@@ -911,6 +938,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Night_Axe.md">Night Axe</a></td>
@@ -922,6 +950,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.57x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
@@ -933,6 +962,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.6x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
@@ -944,6 +974,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.58x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
@@ -955,6 +986,19 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>8.5</td>
   <td>0.57x</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><a href="Skyreap_Blade.md">Skyreap Blade</a></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
+  <td>7</td>
+  <td>9</td>
+  <td>0.7x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
@@ -966,6 +1010,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>8</font></td>
   <td>8</td>
   <td>0.6x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Halberd#Alloyed"><font>Alloyed Halberd</font></a></td>
@@ -977,6 +1022,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>
@@ -1204,6 +1250,17 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td>0.1</td>
+</tr>
+<tr>
+  <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
+  <td>85 HVY, 25 STR, 30 LVL</td>
+  <td>25</td>
+  <td>10%</td>
+  <td>HVY: 9</td>
+  <td>12</td>
+  <td>8.5</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 </tbody>
 </table>

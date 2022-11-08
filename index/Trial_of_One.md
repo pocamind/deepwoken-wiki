@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 39877
+revid: 39925
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -83,4 +83,4 @@ Mark of the Lone Warrior's talent description
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
--   Spawning with the origin "Lone Warrior" will automatically send you to the [Fragments of Self](Fragments_of_Self.md) to make it easier on players to wipe after failing the trial once.
+-   Spawning with the origin "Lone Warrior" will automatically send you to the [The Depths](The_Depths.md) to make it easier on players to wipe after failing the trial once.
