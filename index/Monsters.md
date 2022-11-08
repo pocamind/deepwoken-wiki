@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 39091
+revid: 39860
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -10,13 +10,13 @@ categories: [Monsters, Mechanics]
 
 _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
-**Monsters** are hostile NPCs that will attack the player but are different from human enemies.
+**Monsters** are NPCs that are part of sudo-factions that you cant gain or lose rep with that will attack the player unless they have mute but are different from human enemies.
 
 ## Description
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
 
-While each Monster has unique attacks and patterns, they all share one thing; You can learn them. Every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
+While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster (Not the king jellyfish), **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
 ### Monster Hunting Advice
 

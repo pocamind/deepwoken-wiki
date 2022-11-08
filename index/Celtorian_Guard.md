@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 34406
+revid: 39865
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,4 +51,5 @@ A Celtor Guard executes it's opponent after knocking them:
 
 -   Celtor Guards only speak in growls and gurgles, with few exceptions.
 -   They are all Celtor.
--   They are potentially mudskippers, got attacked by a mudskipper with the same armor and a trident spear when game released.
+-   They may have unreleased variants of a Celtor.
+-   They will fight angles but not other depths monsters

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 39477
+revid: 39877
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -75,7 +75,7 @@ Mark of the Lone Warrior's talent description
 ## Trivia
 
 -   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
--   Failing the trial sends you straight to [Fragments of Self](Fragments_of_Self.md).
+-   Dying in Trial of One with the Lone Warrior origin now sends you to [The Depths](The_Depths.md).
 -   You can go through the Light gate behind you to return to Minityrsa
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.

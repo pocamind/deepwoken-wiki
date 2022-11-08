@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 38894
+revid: 39867
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -38,21 +38,25 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 ### Drops
 
--   Shattered Katana (Very rare)
--   Iron Birch (Very Rare)
--   Black Scarf (Uncommon)
+-   Headbands (all colors) (Common)
+-   Warrior's Eyepatch (Common)
+-   Scarves (Common)
+-   Gladiator Helmet (Common)
 -   Diamonds (Common)
 -   Platinum Bars (Common)
--   Gladiator Helmet (Rare)
+-   Justicar Defender (Rare)
+-   Shattered Katana (Rare)
+-   Iron Birch (Rare)
 -   Finisher's Ring (Very rare)
--   Mist Assassin Cloak (Extremely rare) (rarer than enchants)
--   Warrior's Eyepatch (Common)
--   Justicar Defender (all colors) (Uncommon)
--   Headbands (all colors) (Common)
--   Mist assasin hood (Very rare)
 -   Moon Ring (Very rare)
 -   Akira's ring (Very rare)
 -   Deepfire ring (Very rare)
+-   Mist Assassin Cloak (Extremely rare) (rarer than enchants)
+-   Gold Assassin Cloak (Extremely rare)
+-   Crimson Assassin Cloak (Extremely rare)
+-   Mist Assassin Hood (Extremely rare)
+-   Gold Assassin Hood (Extremely rare)
+-   Crimson Assassin Hood (Extremely rare)
 
 ## Trivia
 

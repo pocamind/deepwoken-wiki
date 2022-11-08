@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 38474
+revid: 39880
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weaponry, Items]
@@ -33,7 +33,7 @@ categories: [Weapons, Daggers, Weaponry, Items]
 | damage | 16 |
 | scaling | 8.5 |
 | range | 7 |
-| swing speed | 0.88x |
+| swing speed | 0.87x |
 | penetration | 5% |
 | stances | 1 Handed |
 | selling price | ? |

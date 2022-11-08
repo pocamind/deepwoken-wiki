@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 36240
+revid: 39870
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,3 +38,11 @@ A Knives of Eylis Captain executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with their blade. |
+
+## Tips
+
+-   Use ranged mantras to hit these guys when they have really big time bubbles, hitting them cancels their time bubble completely.
+
+## Trivia
+
+-   It is required to enter their time bubble to obtain Voidwalker.

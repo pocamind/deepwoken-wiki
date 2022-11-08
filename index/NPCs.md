@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 37759
+revid: 39869
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -135,7 +135,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td><a href="The_Meat_Lord.md">The Meat Lord</a></td>
   <td>Unaligned</td>
-  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Summer_Isle.md">Summer Isle</a></td>
+  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Summer_Isle.md">Summer Isle</a>, <a href="Upper_Erisia.md">Upper Erisia</a></td>
   <td>Food Vendor</td>
   <td>Only sells meat, will not answer to Vegetarians</td>
 </tr>
@@ -149,7 +149,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td><a href="Nyanna.md">Nyanna</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
-  <td></td>
+  <td><a href="The_Depths.md">The Depths</a>, <a href="Castle_Light.md">Castle Light</a></td>
   <td>Equipment Vendor</td>
   <td>Stock changes, weapons and armor can be bought enchanted</td>
 </tr>

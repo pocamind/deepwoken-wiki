@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39833
+revid: 39879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -166,7 +166,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
     -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw.
     -   Mutually exclusive: Herbivore
--   Grand Feast \[Rare Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
+-   Grand Feast \[Common Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
@@ -681,7 +681,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Great Wall
 
--   Fortitude Unbounded \[Common Talent\] - You have gained the Ability to Surpass your limits and train your fortitude to its fullest. (+10 Ether, +9 Health)
+-   Fortitude Unbounded \[Common Talent\] - You have gained the Ability to Surpass your limits and train your fortitude to its fullest.
 
 ### Gunslinger
 
@@ -709,10 +709,10 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal. (+3 Health, +7 Sanity)
-    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 6 seconds.
+    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, Bloodless Gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 50 Intelligence and 65 Willpower
+    -   Prerequisite: 40 Intelligence and 65 Willpower
 
 ### Hunter
 
@@ -1013,14 +1013,14 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
 -   All knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: 76 Intelligence + Prediction (Intelligence Mantra)
--   Successive Prediction \[Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: 60 Intelligence + Prediction (Intelligence Mantra)
+    -   Prerequisite: Prediction (Intelligence Mantra)
+-   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
+    -   Prerequisite: Prediction (Intelligence Mantra)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
 
 ### One Eyed King
 
--   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
+-   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
 -   Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
     -   Prerequisite: 90 Strength
 

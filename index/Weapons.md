@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39418
+revid: 39873
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -163,7 +163,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>60 LHT</td>
   <td>10</td>
   <td>30%</td>
-  <td>LHT: 13</td>
+  <td>LHT: 14</td>
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -196,7 +196,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8.5</font></td>
   <td>3</td>
   <td>7</td>
-  <td><font>0.88x</font></td>
+  <td><font>0.87x</font></td>
 </tr>
 </tbody>
 </table>
@@ -719,7 +719,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
-  <td><font>0.69x</font></td>
+  <td><font>0.7x</font></td>
 </tr>
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
@@ -947,7 +947,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
-  <td>75 HVY</td>
+  <td>75 HVY, LVL 20</td>
   <td>26</td>
   <td>5%</td>
   <td>N/A</td>
@@ -1109,7 +1109,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
-  <td>80 HVY, 25 STR</td>
+  <td>80 HVY, 25 STR, LVL 20</td>
   <td>25</td>
   <td>N/A</td>
   <td>15%</td>
@@ -1294,9 +1294,9 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
   <td>75 SDW, 40 HVY</td>
-  <td>23</td>
+  <td>22</td>
   <td>N/A</td>
-  <td>SDW: 9.5 HVY: 3.5</td>
+  <td>SDW: 9 HVY: 4</td>
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>

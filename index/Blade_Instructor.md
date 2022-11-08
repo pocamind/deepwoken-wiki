@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 39151
+revid: 39863
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,7 +39,7 @@ An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](
 
 ## Finisher
 
-An Instructor disappears after defeating the player. The player will receive all his/her health back, but still keep the blood loss:
+If a Instructor is the one that downs the player they will disappear and the player will receive all his/her health back, but still keep the blood loss, however if the person sparing is downed by other means the instructor will grip as normal.
 
 | Name | Description |
 | --- | --- |
