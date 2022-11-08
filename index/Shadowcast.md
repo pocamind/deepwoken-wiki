@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 39076
+revid: 39963
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -12,9 +12,9 @@ Shadowcast icon
 
 ## Description
 
-Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
+Shadowcast is an attunement that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras, and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
 
-The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential, especially with the LordSendo shadowblade mantra cancel technique, which is very hard to deal with. Arguably the best element to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
+The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential, especially with the LordSendo shadowblade mantra cancel technique, which is very hard to deal with. Arguably the best attunement to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
 
 ## Obtainment & Training
 

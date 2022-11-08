@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 38841
+revid: 39969
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -33,3 +33,4 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and is now resting in
 
 -   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   Karliah's hair can be found here: [https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun](https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun)
+-   Smash? no cap

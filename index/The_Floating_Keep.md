@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39739
+revid: 39962
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -61,3 +61,4 @@ The Dining Hall.
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
 -   ~Despite void feather saying its 15 Joy, it's 5 Joy.~ Patched.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
+-   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."
