@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 23648
+revid: 39992
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,3 +27,5 @@ Sky Statue located in Etris behind Lord Regent's Manor.
 
   
 Probably used in a quest we do not know about yet, if the quest is found in the future feel free to add it to this page.
+
+As stated by TheRealPunchee, a mod for the game, the statues looks towards the [The Floating Keep](The_Floating_Keep.md) from the Hallowtide event

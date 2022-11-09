@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 39920
+revid: 39993
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia Chests, Upper Erisia Chests, Fishing Chests, Songseeker Chests |
+| obtainment | Lower Erisia Chests, Upper Erisia Chests, Fishing Chests, Songseeker Chests, Lighthouse Chests (Ones that randomly spawn there) |
 | description | A small vial of dark black ink, perfect for illustrations. |
 
 | Paperette | |
@@ -89,9 +89,9 @@ This is used to scare any interactable NPC (guards do not count) throughout the 
 | Familiar Priest Helmet | 30 Joy |
 | Familiar Heretic Helmet | 35 Joy |
 | Familiar Knight Helmet | 50 Joy |
-| Skull Piercer | 60 Joy |
-| Skyreap Blade | 60 Joy |
-| Hallowscleave | 60 Joy |
+| Skull Piercer | 70 Joy |
+| Skyreap Blade | 70 Joy |
+| Hallowscleave | 70 Joy |
 | Hallowtide Variant | 70 Joy |
 
 ## Notes

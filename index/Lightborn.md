@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 39100
+revid: 39986
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -73,11 +73,10 @@ Spellhardt
 
 -   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race).
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race.
--   ~Pupils are a reference to Jin Mori from God Of Highschool.~ not proven. just because your favorite anime character has odd eyes doesn't mean its a reference
 -   There are 3 known halo variants for Lightborns, being:
-    -   1.  Above the head
-        2.  Around the neck
-        3.  Around the arms (Halos are split in two)
+    1.  Above the head
+    2.  Around the neck
+    3.  Around the arms (Halos are split in two)
 -   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet.
     
     File:..png

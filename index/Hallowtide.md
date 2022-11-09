@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 39724
+revid: 39972
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 -   A "Joy" System
 -   New Helmets
 -   New Race Variants
+-   3 New weapons: Skull piercer (rapier), Hallowcleaver (sword) and Skyreap Blade (greataxe). (Note: only available from the second week of hallowtide.)
 
 ## New Content
 

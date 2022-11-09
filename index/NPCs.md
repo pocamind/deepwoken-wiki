@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 39869
+revid: 39977
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -49,7 +49,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Brutus</td>
+  <td><a href="Brutus.md">Brutus</a></td>
   <td><a href="The_Hundred_Legions.md">The Hundred Legions</a></td>
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
   <td>Fortitude unbound</td>
@@ -119,7 +119,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>LANCE LESHI</td>
 </tr>
 <tr>
-  <td>The Lord Regent</td>
+  <td><a href="The_Lord_Regent.md">The Lord Regent</a></td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a>, <a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a></td>
   <td>Lord Regent questline</td>
