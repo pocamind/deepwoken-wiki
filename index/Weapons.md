@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 39947
+revid: 39995
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -370,7 +370,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>0.82x</td>
 </tr>
 <tr>
-  <td><a href="Skull_Piercer.md">Skullpiercer</a> (<b>Bleed</b>)</td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Skullpiercer"><font>Skullpiercer</font></a> (<b>Bleed</b>)</td>
   <td>75 LHT</td>
   <td>14</td>
   <td>10%</td>
@@ -580,7 +580,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.73x</td>
 </tr>
 <tr>
-  <td><a href="Hallowscleave.md">Hallowscleave</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hallowscleave"><font>Hallowscleave</font></a></td>
   <td>75 MED</td>
   <td>19</td>
   <td>25%</td>
@@ -989,7 +989,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>N/A</td>
 </tr>
 <tr>
-  <td><a href="Skyreap_Blade.md">Skyreap Blade</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Skyreap_Blade"><font>Skyreap Blade</font></a></td>
   <td>75 HVY</td>
   <td>23</td>
   <td>20%</td>

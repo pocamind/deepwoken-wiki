@@ -1,11 +1,16 @@
 ---
 title: Hallowtide
-revid: 39972
+revid: 40045
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hallowtide
+
+| Hallowtide | |
+|---|---|
+| name | Hallowtide Caller |
+| location | Isle of Vigils, near the distant house |
 
 “ Hallowtide arrives in Deepwoken... Seek out the mysterious Floating Keep and complete your tasks to be awarded limited edition loot and cosmetics! ”
 
@@ -22,7 +27,11 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 -   A "Joy" System
 -   New Helmets
 -   New Race Variants
--   3 New weapons: Skull piercer (rapier), Hallowcleaver (sword) and Skyreap Blade (greataxe). (Note: only available from the second week of hallowtide.)
+-   Skull Piercer (Rapier),
+-   Hallowcleaver (Sword)
+-   Skyreap Blade (Greataxe).
+
+(Note: only available from the second week of Hallowtide.)
 
 ## New Content
 
@@ -52,6 +61,51 @@ The Floating Keep is a floating island near the [Isle of Vigils](Isle_of_Vigils.
 -   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
 
 ### The Hallowtide Calling
+
+The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
+
+-   When first interacted
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>A lone pumpkin sits idle on the grass. When did this get here? This seems out of place. It sounds like it's whispering.</i>*</td>
+</tr>
+<tr>
+  <td colspan="4">[Reach out to touch it]</td>
+</tr>
+<tr>
+  <td colspan="4">*<i>With a sudden crackle, the little pumpkin springs to life.</i> <b>OI! YOU! You dare approach me... upon the eve of Hallowtide?!</b></td>
+</tr>
+<tr>
+  <td colspan="4">Hallowtide?</td>
+  <td colspan="4">You can talk?</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4"></td>
+  <td colspan="4"></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">.</td>
+  <td colspan="4"></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+</tr>
+<tr>
+  <td colspan="12"></td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 [https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs](https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs)
 
