@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 40045
+revid: 40050
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -64,6 +64,16 @@ The Floating Keep is a floating island near the [Isle of Vigils](Isle_of_Vigils.
 
 The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
 
+  
+
+  
+
+  
+
+  
+
+## Dialogue
+
 -   When first interacted
 
 <table>
@@ -75,31 +85,31 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td colspan="12">*<i>A lone pumpkin sits idle on the grass. When did this get here? This seems out of place. It sounds like it's whispering.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">[Reach out to touch it]</td>
+  <td colspan="12">[Reach out to touch it]</td>
 </tr>
 <tr>
-  <td colspan="4">*<i>With a sudden crackle, the little pumpkin springs to life.</i> <b>OI! YOU! You dare approach me... upon the eve of Hallowtide?!</b></td>
+  <td colspan="12">*<i>With a sudden crackle, the little pumpkin springs to life.</i> <b>OI! YOU! You dare approach me... upon the eve of Hallowtide?!</b></td>
 </tr>
 <tr>
   <td colspan="4">Hallowtide?</td>
   <td colspan="4">You can talk?</td>
-  <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
+  <td colspan="4"><b>THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</b></td>
+  <td colspan="4"><b>What? you've never seen a talkin' pumpkin? Oh, I used to know a real mean one. His name started with a Z, I think. But that doesn't matter, all of us called him the Big Cheese anyway. Real scary guy. We lost him last Hallowtide.</b></td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4">.</td>
-  <td colspan="4"></td>
+  <td colspan="4">..Yes?</td>
+  <td colspan="4">Hallowtide? (See previous option for the same answer)</td>
 </tr>
 <tr>
-  <td colspan="12"></td>
+  <td colspan="12"><b>WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually.</b></td>
 </tr>
 <tr>
-  <td colspan="12"></td>
+  <td colspan="12">Moving into town? What are you talking about?</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*A large booming sound emits from the sky around you. it seems something large is approaching.*</i> <b>Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</b></td>
 </tr>
 <tr>
   <td colspan="12">End</td>
