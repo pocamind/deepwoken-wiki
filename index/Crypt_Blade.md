@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 39878
+revid: 40074
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 
 ## Description
 
-The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values as if you had a built-in Ring on your weapon. It has a base damage of 23, and scales to 52.9 damage with max Shadowcast and max heavy weapon.
+The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values as if you had a built-in Ring on your weapon. Crypt blade got nerfed yet again. Making the damage from 52.9, to 50.6, what the heck man.
 
 ## Trivia
 

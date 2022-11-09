@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 40039
+revid: 40059
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -58,7 +58,7 @@ Partically not affected by "Obvious" Flaw.
 **Weaknesses:**
 
   
-Felinors do not have game stats-wise weaknesses, besides rare player issue.
+Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors without good weaponry and armor are usually the subject of ganking due to their race.
 
 **Surnames:**
 
