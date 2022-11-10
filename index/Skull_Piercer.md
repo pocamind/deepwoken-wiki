@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 40072
+revid: 40118
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -22,9 +22,9 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | By Talking to Glaive And Getting It For Joy |
+| obtainment | Glaive Spellhardt (Hallowtide NPC) |
 | description | Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly? |
 
 ## Description
 
-The Skullpiercer is a LHT weapon in the Rapiers category. It Is Obtained By Getting Joy And Talking To Glaive, Only Obtainable In The Halloween Event. This is the only rapier that procs bleed, making it slighty better than crucible rapier, but not having speed demon is you being dumb.
+The Skullpiercer is a LHT weapon in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to Glaive. Only obtainable second week of [Hallowtide.](Hallowtide.md) This is the only rapier that procs bleed and has 8.5 range, making it better than [Crucible Rapier](Crucible_Rapier.md).

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 39221
+revid: 40132
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -171,7 +171,7 @@ The following two talents are obtained by leveling up after obtaining Visionshap
 
 This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
 
-The oath changes the eye color of the user to purple, and makes a purple zig-zag line emanate from their right eye.
+The oath changes the eye color of the user to purple, and creates a wispy ethereal particle effect which stems from the user's right eye.
 
 Does not grant any special cosmetic based on race.
 
