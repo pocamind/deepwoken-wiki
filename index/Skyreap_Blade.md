@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 40126
+revid: 40140
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,8 +29,13 @@ categories: [Weapons]
 
 ## Description
 
-The Skyreap Blade is a HVY weapon in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to Glaive Spellhardt. One of the fastest heavy weapons in the game, has unique animations. Only obtainable second week of [Hallowtide.](Hallowtide.md)
+The Skyreap Blade is a HVY weapon in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to Glaive Spellhardt. It's one of, if not the fastest heavy weapon in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip animation exclusive to the Hallowtide weapons. Only obtainable in the second week of [Hallowtide](Hallowtide.md).
 
 ## Trivia
 
--   Mentions "Edenkite" in the description, which is possibly another race, but we don't know anything about it yet.
+-   Mentions the "Edenkite" in the description, which is possibly another lore race or monster, but we don't know anything about it yet.
+    -   When asked about it in the Discord server, Zartania simply replied with ":)".
+
+## Notes
+
+-   This weapon, alongside the other two Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md).
