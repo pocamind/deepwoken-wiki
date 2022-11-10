@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 37873
+revid: 40094
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,7 @@ This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which inc
 This Outfit's Schematic can be found in:
 
 -   Etris War Event (Super Rare)
+-   Halloween weapon seller. Get it while its easy to do so!
 
 ## Trivia
 

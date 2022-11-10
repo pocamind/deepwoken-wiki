@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 39032
+revid: 40091
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Deepwoken]
@@ -98,11 +98,11 @@ A list of locations that can be found in [The Voidsea](Voidsea.md).
     -   [Dusklit Garden](Dusklit_Garden.md)
         
 
-## The Depths
+## [The Depths](The_Depths.md)
 
 A list of named locations that can be found in [The Depths](The_Depths.md) experience.
 
-### **Layer 1**
+### **[Layer 1](The_Depths.md)**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
@@ -111,7 +111,7 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-### **Layer 2**
+### **[Layer 2](Second_Layer.md)**
 
 Floor 1
 

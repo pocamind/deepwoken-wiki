@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 39970
+revid: 40109
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -60,9 +60,9 @@ Do not be deceived by these stats, though. The Enforcer's true danger lies not f
 -   After every attack you do, immediately hold block. The Enforcer does not have any moves that are unparryable, and it will not be able to harm you if you choose to block its attacks after every attack you do yourself.
 -   Avoid getting posture broken at ALL costs. A single whirlwind to someone stunned could be lethal to even the strongest of players.
 
-File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
+File:Khan-enforcer-axe-image.png
 
-Enforcer's Axe
+[Enforcer's Axe](<Enforcer's_Axe.md>)
 
 All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will EVENTUALLY have to fight it, at least ONCE, so better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, is a huge confidence boost for the future.
 
@@ -70,6 +70,7 @@ All in all, keep your nerves hardened, don't be fooled by its intimidating situa
 
 -   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
+-   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy and 25 Strenght.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
 -   **Confidence about being able to escape The Depths in the future:** :)
 
