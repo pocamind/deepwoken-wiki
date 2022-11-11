@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 40137
+revid: 40236
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,10 +20,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Hallowtides is an event that started on Halloween Night 2022, and will end on November 13th. This event adds..
+The Hallowtides is an event that started on Halloween Night 2022, and will end on November 13th. This event added..
 
 -   [The Floating Keep](The_Floating_Keep.md)
--   Shell Stock, Paperette, Fine Ink
+-   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
 -   A "Joy" System
 -   New Helmets
 -   New Race Variants

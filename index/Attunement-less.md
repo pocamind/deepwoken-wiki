@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 39732
+revid: 40235
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,7 @@ File:No Attunement Revamp.png
 
  | _A powerful, flinging punch that shatters the air._ | 
 
--   **Requirements:** _**5 Strength,**_ _Combat Mantra_
+-   **Requirements:** _**20 Strength,**_ _Combat Mantra_
 -   A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.
 -   Strong Left scales with your Strength attribute.
 

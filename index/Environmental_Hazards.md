@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 40230
+revid: 40232
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,7 +47,7 @@ Environmental hazards are environment that can be interacted with in Deepwoken. 
 </tr>
 <tr>
   <td>Day and Night Cycle</td>
-  <td>Everywhere</td>
+  <td>Everywhere(Except Depths)</td>
   <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is.</td>
 </tr>
 </tbody>

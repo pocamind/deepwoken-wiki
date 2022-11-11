@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 39965
+revid: 40238
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -71,7 +71,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 Bellow is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
 -   Gartoth
--   [Brutus](Attributes_Unbound.md) (Fortitude Uncap)
+-   [Brutus](Brutus.md) (Fortitude Uncap)
 -   Innkeeper (Sets spawn)
 -   [Guild Clerk](Guilds.md) (Guild stuff)
 -   [Kana](Kana.md)
@@ -92,7 +92,8 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 #### Head
 
--   [Deepwoken Hood](Deepwoken_Hood.md)\* White Gumshoe Hat
+-   [Deepwoken Hood](Deepwoken_Hood.md)
+-   White Gumshoe Hat
 -   [Gumshoe Hat](Gumshoe_Hat.md)
 
 #### Ears
