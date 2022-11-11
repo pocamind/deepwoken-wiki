@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 38599
+revid: 40154
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -30,7 +30,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 #### Courtyard
 
--   Players can find Stratos, a Vigil NPC.
+-   Players can find Stratos, a Vigil NPC and a boulder (STR & FTD) which is sold for 25 notes.
 
 #### Bookstore
 
@@ -44,7 +44,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Players can find Baragan, a [Blacksmith](Blacksmith.md) NPC.
 -   Players can purchase materials here:
-    -   Fiber for per.
+    -   Fiber for.
     -   Flint for.
     -   Cloth for.
     -   Iron for.
@@ -55,10 +55,10 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Players can find Das, a sparring instructor who will allow you to spar with a Vigil.
     -   This NPC will have a pick a random weapon from a pool that includes an Iron Spear, Sword, Battleaxe and Mace.
-    -   This NPC cannot grip you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
-    -   Players can also use this NPC to farm Fortitude using a Training vest
+    -   This NPC cannot knock you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
+    -   Players can also use this NPC to farm Fortitude using a Training vest and / or armor from blood iron ring / sprit
 -   Players can also find Avian and Maestro Evengarde Rest here.
--   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for.
+-   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each.
 
 ## Quests
 
@@ -67,7 +67,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blade.
--   Upon delivery, Stratos gives you.
+-   Upon delivery, Stratos gives you and some positive rep with Etris.
 
 ### Etrean Swordsman Quest
 
@@ -97,7 +97,8 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 ### The Wind Woken Quest
 
--   Speak to Stratos with an unknown amount of Galebreathe.
+-   have gale breath
+-   Speak to Stratos with an unknown positive reputation with Etris.
 -   He will tell you that he is willing to teach you a talent, but you must learn to be one with the wind first.
 -   Go to the docks and get on a boat, and once you begin sailing, turn your sails to match the directions of the wind trails on the sea for ~10 minutes.
 -   Come back to Stratos and he will teach you the _Windwaker_ talent, which allows you to obtain a temporary massive speed boost while sailing akin to that of a sea gate.
@@ -111,4 +112,4 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.
 -   If for some reason you don't have the requirements for any mantras, completing "The Librarian" Quest will not give you any reward.
--   If you asked for Lance's brother name 3 times before delivered the food crate, Stratos will say his real name which is "@#$%&".
+-   If you asked for Lance's brother name before delivering the food crate, Stratos will say his real name which is "@#$%&".

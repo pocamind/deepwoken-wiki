@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 39255
+revid: 40157
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Watchers are monsters with a lamp-like head, while featuring a closely-humanoid 
 
 They can be found both in the Overworld, and the Depths, though it is worth mentioning that only 1 exists in the Overworld, located at the Temple of the Forgotten Flame. In the Depths, a great number of them currently resides within the [City of the Drowned](The_City_of_the_Drowned.md), patrolling each of the districts except for the ones that features an entrance to the City.
 
-These monsters are **invulnerable to damage** as they simply can not be hit. However, they are not aggressive by nature, instead, only spots entities with the beam they emit from the lamp-like head. This beam acts like a spotlight, and will result in a combat tag as well as their beam turning from white to a reddish hue.
+These monsters are **invulnerable to damage** as they simply can not be hit. However, they are not aggressive by nature, instead, only spots entities with the beam they emit from the lamp-like head. This beam acts like a spotlight, and will result in a combat tag as well as their beam turning from white to a reddish hue. Because of this, they don't classify as [Monsters](Monsters.md), but as [Environmental Hazards,](Environmental_Hazards.md)
 
 Shortly after, [Lesser Angels](Hollow_Angel.md) will be summoned to attempt to kill the person spotted.
 
