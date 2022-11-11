@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 38785
+revid: 40205
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

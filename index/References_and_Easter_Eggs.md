@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 38931
+revid: 40171
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -17,6 +17,7 @@ notices:
 -   The mod spec Outfit **Hive Leader's Garment** is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The Outfit **Black Diver** is [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki)
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
+-   Church Knight's helmet being the **Familiar Priest Helmet,** the Wraith Knight helmet being the **Familiar Heretic Helmet,** and the ever classic Sigil Helmet being the **Familiar Knight helmet.** All of these helmets direct model reuploads from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 
 ## Attunements
 

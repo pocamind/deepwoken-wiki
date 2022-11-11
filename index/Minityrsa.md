@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 37933
+revid: 40209
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]

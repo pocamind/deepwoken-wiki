@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 39879
+revid: 40184
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -28,7 +28,7 @@ There are certain cards that are handed to you automatically, free of charge. Ca
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Core Attribute](Attributes.md), whether it be INT, CHR, or AGI.
+-   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
     -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "Galeforce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
