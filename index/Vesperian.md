@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 40015
+revid: 40290
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -108,6 +108,7 @@ A Vesperian with Blindseer
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
 -   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
 -   There are 18 Vesperian masks in total, which is more then facial markings, which only has 13.
+-   Hallowtide Vesperians have purple, diamond ganymede eyes.
 
   
 

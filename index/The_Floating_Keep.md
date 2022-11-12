@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 39962
+revid: 40287
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -40,6 +40,26 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
     -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for.
     -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
 
+### Exclusive NPCs and Variants: (being worked on, bear with us)
+
+#### Lightborns:
+
+-   Everis (Transport)
+-   Antiquarian
+-   Blacksmith
+-   Leaf (Mantra Mod Buyer)
+-   Green
+-   Tundra
+-   Mikhail (Check spelling) (Food Merchant)
+-   Lysander Spellhardt
+-   Glaive Spellhardt
+-   Alina Spellhardt
+
+#### Unknown/Exclusive
+
+-   Hallowtide Caller (Transport)
+-   Suspicious Skeleton (Bone Rattler)
+
 The Dining Hall.
 
 ### Food
@@ -59,6 +79,6 @@ The Dining Hall.
 ## Trivia
 
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
--   ~Despite void feather saying its 15 Joy, it's 5 Joy.~ Patched.
+-   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."
