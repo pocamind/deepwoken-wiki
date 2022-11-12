@@ -1,15 +1,16 @@
 ---
 title: Environmental Hazards
-revid: 40232
+revid: 40263
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Environmental Hazards
 
 ## Description
 
-Environmental hazards are environment that can be interacted with in Deepwoken. While called "hazards" these can be used to your advantage and even directly help players. With effects ranging from instantly killing players, clouding their vision or even launching them into the sky.
+Environmental hazards are location-based events or dangers. While called "hazards," these can be used to your advantage and even directly help players.
 
 **Weather:**
 
@@ -27,7 +28,7 @@ Environmental hazards are environment that can be interacted with in Deepwoken. 
 </tr>
 <tr>
   <td>Snow</td>
-  <td>Everywhere (during Winter), <a href="Minityrsa.md">Minityrsa</a> (Always), Aratel Island &amp; The Depths (Never)</td>
+  <td>Everywhere (during Winter), Upper <a href="Minityrsa.md">Minityrsa</a> (Always), Aratel Island</td>
   <td>Moderate vison obstruction, procs certain Talents. Additionally, all lit campfires are snuffed out.</td>
 </tr>
 <tr>
@@ -47,7 +48,7 @@ Environmental hazards are environment that can be interacted with in Deepwoken. 
 </tr>
 <tr>
   <td>Day and Night Cycle</td>
-  <td>Everywhere(Except Depths)</td>
+  <td>Everywhere (Except Depths)</td>
   <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is.</td>
 </tr>
 </tbody>
@@ -96,3 +97,5 @@ Environmental hazards are environment that can be interacted with in Deepwoken. 
 </tr>
 </tbody>
 </table>
+
+File:GardenEther.png

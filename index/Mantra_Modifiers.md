@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 39620
+revid: 40264
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -166,7 +166,7 @@ Rush Shard
  | 
 
 -   Projectiles go further
--   Repeating mantras (ex; Rapid Punches) perform their loops/repeated actions quicker.
+-   Repeating mantras (ex; Rapid Punches(no longer works)) perform their loops/repeated actions quicker.
 
  |
 |  | 

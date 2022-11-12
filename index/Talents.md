@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40184
+revid: 40262
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -192,7 +192,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
-    -   Prerequisites: 5 Strength and ?? Agility
+    -   Prerequisites: 5 Strength and 5 Agility
 
 ### Authority Interrogator
 
@@ -990,9 +990,9 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15%.
     -   Prerequisites: 20 Fortitude, Fists
--   Captain Etrea \[Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
-    -   Prerequisites: Way of Navae.
-    -   Currently bugged, shields can be equipped without the talent
+-   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+3 Health, +4 Carry Load)
+    -   Prerequisites: Trained Fist, Moving fortress.
+    -   ~Currently bugged, shields can be equipped without the talent~ They patched it, the talent changed to something else.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisites: 25 Strength

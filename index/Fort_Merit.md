@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 40238
+revid: 40259
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -15,7 +15,9 @@ TERRITORY OF The Central Authority
 Once a prison at the edge of Etrean influence, now a forward base for the Authority.
 
   
-**Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md). Template:Areainfobox
+**Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
+
+Template:Areainfobox
 
 ## Overview
 
@@ -84,60 +86,89 @@ Bellow is a list of NPCs and their uses (that are known) that you can find thoro
 
 Below is a list of potential items that can spawn in chests in Fort Merit.
 
-### Outfits
+**Outfits:**
 
--   [Authority Commander Uniform](Authority_Captain_Uniform.md)
+  
 
-### [Equipment](Outfits.md)
+| Name: |
+| --- |
+| [Authority Commander Uniform](Authority_Captain_Uniform.md) |
 
-#### Head
+**Head:**
 
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   White Gumshoe Hat
--   [Gumshoe Hat](Gumshoe_Hat.md)
+| Name: |
+| --- |
+| [Deepwoken Hood](Deepwoken_Hood.md) |
+| White Gumshoe Hat |
+| [Gumshoe Hat](Gumshoe_Hat.md) |
 
-#### Ears
+**Ears:**
 
--   Master Thief's Earrings
+| Name: |
+| --- |
+| Master Thief's Earrings
+}}
 
-#### Arms
+ |
 
--   [Authority Commander Coat](Authority_Commander_Coat.md)
--   Imperial Pauldrons
--   Sable Adjudicator's Coat
--   Ash Adjudicator's Coat
--   Tawny Adjudicator's Coat
--   Pink Adjudicator's Coat
--   Rural Adjudicator's Coat
--   Warden Pauldrons
+**Arms:**
 
-#### Rings
+| Name: |
+| --- |
+| [Authority Commander Coat](Authority_Commander_Coat.md) |
+| Imperial Pauldrons |
+| Sable Adjudicator's Coat |
+| Ash Adjudicator's coat |
+| Tawny Adjudicator's Coat |
+| Pink Adjudicator's Coat |
+| Rural Adjudicator's Coat |
+| Warden Pauldrons
+}}
 
--   Akira's Ring
--   Moon Ring
--   Finisher's Ring
+ |
 
-### [Weapons](Weapons.md)
+**Rings:**
 
--   [Adretian Axe](Adretian_Axe.md) (rare)
--   [Iron Cestus](Iron_Cestus.md) (common)
--   [Khan Shield](Legion_Shield.md) (very rare)
--   [Officer Saber](Officer_Saber.md) (uncommon)
--   [Rifle Spear](Rifle_Spear.md) (rare)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (rare)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (uncommon)
--   [Cavalry Saber](Officer_Saber.md) (uncommon)
--   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
--   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) (unknown rarity)
--   [Shattered Katana](Shattered_Katana.md) (very rare)
+| Name: |
+| --- |
+| Akira's Ring |
+| Moon Ring |
+| Finisher's Ring
+}}
 
-### Miscellaneous
+ |
 
--   Amethyst (6)
--   Gold Bar (5-8)
--   Sapphire (6-8)
--   Ruby (6)
--   Emerald (8)
+**Weapons:**
+
+| Name: |
+| --- |
+| [Adretian Axe](Adretian_Axe.md) |
+| [Iron Cestus](Iron_Cestus.md) |
+| [Khan Shield](Legion_Shield.md) |
+| [Officer Saber](Officer_Saber.md) |
+| [Rifle Spear](Rifle_Spear.md) |
+| [Flamekeeper Cestus](Flamekeeper_Cestus.md) |
+| [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) |
+| [Officer Saber](Officer_Saber.md) |
+| [Apprentice Rapier](Apprentice_Rapier.md) |
+| [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) |
+| [Shattered Katana](Shattered_Katana.md)
+}}
+
+ |
+
+**Miscellaneous:**
+
+| Name: |
+| --- |
+| Amethyst |
+| Gold Bar |
+| Sapphire |
+| Ruby |
+| Emerald
+}}
+
+ |
 
 ## Trivia
 

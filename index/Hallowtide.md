@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 40236
+revid: 40249
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 -   A "Joy" System
 -   New Helmets
 -   New Race Variants
--   [Skulliercer](Skull_Piercer.md) (Rapier)\*
+-   [Skullpiercer](Skull_Piercer.md) (Rapier)\*
 -   [Hallowscleave](Hallowscleave.md) (Sword)\*
 -   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)\*
 
@@ -37,7 +37,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 
 ### The Floating Keep
 
-The Floating Keep is a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the pumpkin near the mantra shop at the Isle of Vigils.
+[The Floating Keep](The_Floating_Keep.md) is a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the pumpkin near the mantra shop at the Isle of Vigils.
 
 ### Joy
 
