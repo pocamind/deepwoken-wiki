@@ -1,9 +1,8 @@
 ---
 title: Environmental Hazards
-revid: 40263
+revid: 40272
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Environmental Hazards
@@ -23,13 +22,13 @@ Environmental hazards are location-based events or dangers. While called "hazard
 </tr>
 <tr>
   <td>Rain</td>
-  <td>Everywhere (Excluding Aratel Island, <a href="The_Depths.md">Depths</a>)</td>
-  <td>Slight vision obstruction, Procs certain Talents. Additionally, all lit campfires are snuffed out.</td>
+  <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>)</td>
+  <td>Procs certain Talents, All uncovered lit campfires are snuffed out.</td>
 </tr>
 <tr>
   <td>Snow</td>
-  <td>Everywhere (during Winter), Upper <a href="Minityrsa.md">Minityrsa</a> (Always), Aratel Island</td>
-  <td>Moderate vison obstruction, procs certain Talents. Additionally, all lit campfires are snuffed out.</td>
+  <td>Everywhere (except Starswept Valley) during Winter, Upper <a href="Minityrsa.md">Minityrsa</a> (Always),</td>
+  <td>Moderate vison obstruction, procs certain Talents. Additionally, all uncovered lit campfires are snuffed out.</td>
 </tr>
 <tr>
   <td>Acid Rain</td>
@@ -37,14 +36,9 @@ Environmental hazards are location-based events or dangers. While called "hazard
   <td>Slow HP loss, negated with the Survivalist <a href="Boons_and_Flaws.md">Boon</a>.</td>
 </tr>
 <tr>
-  <td>Fog</td>
-  <td>Ocean</td>
-  <td>Limits vision.</td>
-</tr>
-<tr>
   <td>Sandstorm</td>
   <td><a href="The_Starswept_Valley.md">Starswept Valley</a></td>
-  <td>Obstructs vision. All lit campfires will be snuffed out after a slight while.</td>
+  <td>Obstructs vision. All uncovered lit campfires will be snuffed out after a slight while.</td>
 </tr>
 <tr>
   <td>Day and Night Cycle</td>
@@ -75,27 +69,3 @@ Environmental hazards are location-based events or dangers. While called "hazard
 </tr>
 </tbody>
 </table>
-
-**Transportation:**
-
-<table><caption>Transportation are used to get from place to another more quickly by foot, or to make some places accessable</caption>
-<tbody>
-<tr>
-  <th>Name:</th>
-  <th>Found</th>
-  <th>Effects</th>
-</tr>
-<tr>
-  <td>Manor Teleporter</td>
-  <td>Burning Stone Gardens</td>
-  <td>Teleports between each other with a brief cooldown.</td>
-</tr>
-<tr>
-  <td>Shrines</td>
-  <td>Hidden Village, Etris Palace Gardens, The Lordsgrove, Summer Isle, Temple of the Forgotten Flame, Greathive Aratel</td>
-  <td>Each shrine transports either you to Greathive Aratel, or to places from Greathive Aratel.</td>
-</tr>
-</tbody>
-</table>
-
-File:GardenEther.png
