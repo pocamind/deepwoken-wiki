@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 40276
+revid: 40298
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1291,7 +1291,7 @@ Weapons that scale with a certain element
   <td>FIR: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.75x</td>
   <td>No</td>
 </tr>
 <tr>
@@ -1302,7 +1302,7 @@ Weapons that scale with a certain element
   <td>THD: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.75x</td>
   <td>No</td>
 </tr>
 <tr>
@@ -1313,7 +1313,7 @@ Weapons that scale with a certain element
   <td>ICE: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.75x</td>
   <td>No</td>
 </tr>
 <tr>
@@ -1324,7 +1324,7 @@ Weapons that scale with a certain element
   <td>WND: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.75x</td>
   <td>No</td>
 </tr>
 <tr>
@@ -1335,7 +1335,7 @@ Weapons that scale with a certain element
   <td>SHD: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.73x</td>
+  <td>0.75x</td>
   <td>No</td>
 </tr>
 <tr>
