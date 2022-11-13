@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40262
+revid: 40295
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -662,7 +662,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
     -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
-    -   Prerequisite: 30 Intelligence (can not activated with warrior's respite)
+    -   Prerequisite: 30 Intelligence (works with Warrior's Respite)
 -   Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced by 50% (ether cost increase for tier 1 modifications is reduced from 7% to 3.5%, for tier 2 - from 14% to 7%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
@@ -908,7 +908,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 ### Meditative Trance
 
 -   Warrior's Respite \[Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
-    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. Prerequisite: 15 Fortitude
+    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. Prerequisite: 15 Fortitude (works with The Thinker)
 
 ### Mental Fortress
 

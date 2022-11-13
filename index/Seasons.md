@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 40294
+revid: 40297
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,6 +25,7 @@ The difference between all seasons is the visuals and interactions to Items that
 
 -   Rain is more common.
 -   Fruits and wheat will start to spawn
+-   Grass and Leave are ??? \[image needed\]
 
 ### Summer
 
@@ -32,6 +33,7 @@ Examples of Summer.
 
 -   Rain is less common.
 -   Abundant with fruits and wheat
+-   Grass and Leaves are green.
 
 ### Autumn
 
@@ -39,6 +41,7 @@ Examples of Autumn.
 
 -   Fruits and wheat will spawn slower.
 -   Rain has an average chance of appearing.
+-   Grass and Leaves are orange or orange variations.
 
 ### Winter
 
@@ -46,7 +49,7 @@ Examples of Winter.
 
 -   Snow will cover the grass and leaves.
 -   Fruits, vegetables, etc. will not spawn.
--   Snows Knights will spawn if you enter [Valley of Heroes.](The_Valley_of_Heroes.md)
+-   [Blizzard Knights](Stone_Knight.md) will spawn if you enter [Valley of Heroes](The_Valley_of_Heroes.md), specifically at [Aelita Event](Aelita.md) area.
 -   [Hero Blades](Hero_Blades.md) and Ministry cloaks may be fished up.
 -   The Trees in the [Burning Stone Gardens](Burning_Stone_Gardens.md) emit a white glow instead of their usual orange.
 -   Fish don't bite or bite significantly less often (needs confirmation)

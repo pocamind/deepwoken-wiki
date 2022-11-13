@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 40235
+revid: 40296
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -130,7 +130,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
 -   Decreases damage received by allies for the duration of the effect.
     -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
--   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grant Support'._
+-   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
 
  |
 | 
