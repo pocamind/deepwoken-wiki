@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 40171
+revid: 40327
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -73,6 +73,7 @@ notices:
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
+-   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft
 
 ## Resonance
 
@@ -103,6 +104,7 @@ notices:
 -   **Ice Age** talent section name maybe a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch and/or the Kingsguard](https://gameofthrones.fandom.com/wiki/Lord_Commander) in Game of Thrones
+-   **Chime of Conflict**'s talent group's name is Sovereign of Slaughter, which might be a small nod to Made in Abyss, where white whistles had titles starting with Sovereign, such as "Sovereign of Annihilation."
 
 ## Weapons
 
@@ -132,6 +134,7 @@ notices:
     -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological feature of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle feature a large cavern, while the second feature cold and harsh winds.
+-   The City of the Drowned likely draws inspiration from H.P. Lovecraft's _Call of Cthulhu_, being very similar to the sunken city of [R'lyeh](<https://lovecraft.fandom.com/wiki/R'lyeh>), which is inhabited by Cthulhu, who is likely the inspiration for the **[Nautilodaunt](Nautilodaunt.md)**
 
 ### **Factions**
 

@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 35183
+revid: 40328
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, NPC, Npc]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs, NPC, Npc]
 
 ## Description
 
-NPCs hidden around the map that level up spells for money. Each trainer will increase a mantra level by one depending on which element they train. (Ex: Ice trainer will level up ice mantras, etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled up mantra's damage is increased obviously.
+NPCs hidden around the map that level up spells for money. Each trainer will increase a mantra level by one depending on which element they train. (Ex: Ice trainer will level up ice [mantras](Mantras.md), etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled up mantra's damage is increased obviously.
 
 A spell trainer **WILL NOT** train you if you do not have the element learned. A trainer needs intervals of 20 points in your attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 

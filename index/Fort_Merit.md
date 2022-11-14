@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 40259
+revid: 40321
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -106,10 +106,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 | Name: |
 | --- |
-| Master Thief's Earrings
-}}
-
- |
+| Master Thief's Earrings |
 
 **Arms:**
 
@@ -122,10 +119,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | Tawny Adjudicator's Coat |
 | Pink Adjudicator's Coat |
 | Rural Adjudicator's Coat |
-| Warden Pauldrons
-}}
-
- |
+| Warden Pauldrons |
 
 **Rings:**
 
@@ -133,10 +127,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | --- |
 | Akira's Ring |
 | Moon Ring |
-| Finisher's Ring
-}}
-
- |
+| Finisher's Ring |
 
 **Weapons:**
 
@@ -152,10 +143,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | [Officer Saber](Officer_Saber.md) |
 | [Apprentice Rapier](Apprentice_Rapier.md) |
 | [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) |
-| [Shattered Katana](Shattered_Katana.md)
-}}
-
- |
+| [Shattered Katana](Shattered_Katana.md) |
 
 **Miscellaneous:**
 
@@ -165,10 +153,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | Gold Bar |
 | Sapphire |
 | Ruby |
-| Emerald
-}}
-
- |
+| Emerald |
 
 ## Trivia
 

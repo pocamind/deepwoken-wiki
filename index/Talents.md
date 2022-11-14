@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40309
+revid: 40325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1676,8 +1676,8 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### **[Ferryman's Coat](<Ferryman's_Coat.md>)**
 
--   Ferryman's Curse - Being hit by a Lightning mantra will cause you to teleport to a random location within a set radius, and you take reduced damage from Lightning mantras. (Obtained by wearing the Ferryman's Outfit)
-    -   The talent is currently bugged and does nothing.
+-   Ferryman's Curse - Being hit by lightning will briefly make you intangible. (Obtained by wearing the Ferryman's Outfit)
+    -   Invincible for about 0.4 seconds after being hit by lightning
 
 ### **[Justicar](<Justicar_(Origin).md>)**
 
@@ -1694,12 +1694,12 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### **Flamecharmer**
 
--   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing Flame Worshipper Robes Outfit)
+-   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md) Outfit)
 
 ### _Pathfinder_
 
 -   Environmentalist - Resist the effects of some Weather Effects. (Obtained by wearing the [Pathfinder Cloak](Pathfinder_Cloak.md) Outfit)
--   Legendary - Parrying and landing hits with your weapon gives you ether back. (Obtained by wearing the [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) Outfit)
+-   Legendary - Parrying and landing hits with your weapon gives you ether back. (Obtained by wearing the [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) Outfit)
 -   Devastating Power - Gain extra Ether for every Mantra in your arsenal. - (Obtained by wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) Outfit)
 
 ### **Cutthroat**

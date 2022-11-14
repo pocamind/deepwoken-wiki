@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 40140
+revid: 40331
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -39,3 +39,4 @@ The Skyreap Blade is a HVY weapon in the Greataxe category. It is obtained by ge
 ## Notes
 
 -   This weapon, alongside the other two Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md).
+-   Skyreap Blade is the only weapon that have new running attack animation.

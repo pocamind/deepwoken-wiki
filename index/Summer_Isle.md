@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 39966
+revid: 40316
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -54,7 +54,7 @@ Notes:
 
 On the first floor of the Summer Company's castle is the spelltrainer for Thundercall.
 
--   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
+-   To unlock [Thundercall](Thundercall.md), the player must bring 5 [Spark Glands](Spark_Gland.md) to the trainer to be crushed into a vial, obtaining a [Sparkblood](Attunement_Potions.md) potion.
 -   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
 
 #### _**Blacksmith**_

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 40213
+revid: 40324
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -104,6 +104,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
 -   If you are deepbound then you will have to fight an Enforcer no matter what your power is
+-   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything.
 
 ## **Farming in The Depths**
 
