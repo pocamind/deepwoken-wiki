@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40348
+revid: 40358
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -295,7 +295,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutually Exclusive: Observation, Safety Dance
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
-    -   Prerequisite: 15 Strength, 60 Agility.
+    -   Prerequisite: 15 Strength, atleast 45 Agility.
 
 ### Caster
 

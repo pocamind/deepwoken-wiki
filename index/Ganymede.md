@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 39672
+revid: 40354
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -88,4 +88,5 @@ This fits with our current understanding of the lore and would explain why they 
 -   During the 4/1/2022 April Fools update (Mudwoken), Ganymede's race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable races in the game, the other one being [Capra](Capra.md)
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
--   The hat comes from the Roblox Catalog, being the "Frumpled Wizard Hat of Old Coots".
+-   The hat comes from the Roblox Catalog, being the "Frumpled Wizard Hat of Old Coots"
+-   In greek mythylogy the god "Ganymedes" was a myth for a greek social custom, the romantic relationship between an adult male and an adolescent male. (Ganymede is the god of homosexuality)

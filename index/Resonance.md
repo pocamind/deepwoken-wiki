@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 40186
+revid: 40355
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -166,7 +166,7 @@ This is not without a cost, however. Rerolling your Resonance inflicts you with 
 
 Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited number of times, as long as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 
-YOU MUST DON'T HAVE TARNISHED TO REROLL UR BELL!
+YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 
 ## Unobtainable Resonances
 
