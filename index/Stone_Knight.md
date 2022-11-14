@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 40212
+revid: 40363
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -22,7 +22,7 @@ Recognizable by their white body, red eyes and red sword, the Blizzard Knights a
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
-Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Outfits.md#arms).
+Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
 
 **Desert Knight:**
 
@@ -52,7 +52,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 **Kick**
 
- | Swiftly kicks the opponent with added momentum from its body.
+ | Deftly kicks the opponent with added momentum from its body.
 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
@@ -72,7 +72,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
  | ✗ | ✗ | ◯ | (★★☆) |
 
-### Boons
+### **Boons**
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
 
@@ -83,7 +83,7 @@ A Stone Knight executes the player:
 | Name | Description |
 | --- | --- |
 | 
-**Executing Cut**
+**Death by Thousand Cuts**
 
  | Slashes the player with their sword, dismembering and killing them instantly. |
 

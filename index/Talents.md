@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40358
+revid: 40368
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -87,8 +87,9 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Prerequisites: 25 Galebreathe
 -   Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
-    -   Requirements: 30 Agility and ~30-45 Galebreathe
+    -   Requirements: 30 Agility and 30 Galebreathe
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+    -   Prerequisites: 30 Strength, 50 Galebreathe
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 50 Galebreathe, Drifting Wind
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
@@ -109,16 +110,18 @@ These Talents are designed to make your potions making and usage more efficient.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
     -   Soothing, Rejuvenating, Strengthening, Focus Enhancing, Heartening, Invigorating, Steadfast, Hastening and Staggering are more powerful froms potions you drinks.
+    -   Prerequisites: 10 Intelligence, Made Potion
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling are more powerful from potions you throw.
+    -   Prerequisites: 15 Intelligence, Apothecary
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
     -   Prerequisite: 40 Intelligence or Apothecary, Drink Potions
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
-    -   Prerequisites for all: Intelligence (10 - 40 needed?)
+    -   Prerequisites for all: 25 Intelligence
 -   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   Prerequisite: 80 Intelligence, Drink Potions
+    -   Prerequisite: 55 Intelligence, Drink Potions
 
 ### Alley Cat
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 40327
+revid: 40361
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -17,7 +17,8 @@ notices:
 -   The mod spec Outfit **Hive Leader's Garment** is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The Outfit **Black Diver** is [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki)
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
--   Church Knight's helmet being the **Familiar Priest Helmet,** the Wraith Knight helmet being the **Familiar Heretic Helmet,** and the ever classic Sigil Helmet being the **Familiar Knight helmet.** All of these helmets direct model reuploads from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
+-   Every Familiar Helmet from the Hallowtide 2022 event are helmets taken from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/).
+    -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
 
 ## Attunements
 
@@ -109,7 +110,7 @@ notices:
 ## Weapons
 
 -   The old model of the **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime/manga _Black Clover._
--   The model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
+-   The old model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.

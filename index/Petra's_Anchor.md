@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 40351
+revid: 40367
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,19 +29,11 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a Heavy Weapons requirement 75 and a Strength requirement of 10 to equip.
-
-"The Anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
+Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a 75 HVY and 10 STR to equip.
 
 ## Trivia
 
--   Could be a reference to Mr Krab's house from Spongebob.
-    -   Probably a reference to Totsugeki May from _Guilty Gear_.
-    -   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
-    -   Or it could just... you know... be an anchor.
-    -   No, it's a reference to Nautilus from League of Legends
-    -   please ignore the facts above as this is clearly a reference to the [anchor](https://terraria.fandom.com/wiki/Anchor) from terraria
-    -   Clearly that is false, it is obviously a reference to Elden Ring's Rusted Anchor
-    -   No it's literally just an anchor
-    -   nah, all y'all wrong, its the anchor of the Petra's Dawn
+-   It's very likely a reference to either Totsugeki May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.
 -   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).
+-   Its old description was "The Anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
+    -   For one reason or another, it was quietly changed to its current description in a shadow-update.

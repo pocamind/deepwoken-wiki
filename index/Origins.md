@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 39926
+revid: 40364
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -19,10 +19,11 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Entering Deepwoken for the first time and/or completing the [tutorial](Tutorial.md).
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
--   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 2 of your highest attribute and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your third highest investment instead.
-    -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
+-   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your third highest investment instead.
+    -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
 -   No pros or cons; a blank slate for your character.
 -   This is the default origin, available to all players when first starting the game.
+-   you can start with 59 notes and no vanguard brace if you sell it
 
 ## Lone Warrior
 
