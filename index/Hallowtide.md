@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 40285
+revid: 40428
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Hallowtides is an event that started on Halloween Night 2022, and will end on November 13th. This event added..
+The Hallowtides is an event that started on Halloween Night 2022, and ended on November 13th. This event added..
 
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
@@ -41,7 +41,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and will end o
 
 ### Joy
 
--   Joy can be obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
+-   Joy had been obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
 
 ### New Helmets

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 40161
+revid: 40426
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -64,7 +64,7 @@ For anyone confused, Lenses make it go farther forward and cloudstones and strat
 Clutching Shadow  
 (☆☆☆)
 
- | A shadowy hand. | Chokes enemies in a radius, and slams them down. It will notify targeted enemies with a red glow, and if they are hit it'll replenish ether equal to the cost. Blockable. |
+ | A shadowy hand. | Chokes enemies in a radius, and slams them down. Targeted enemies are marked with a red glow, and when landed the mantra replenish ether equal to the cost. Blockable. |
 | 
 
  | 
@@ -72,7 +72,7 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | Creates chains conjuring from portals that auto connect to the cursor's position. Drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
+ | Chains of shadow. | The user makes a swipe with their right hand before conjuring a portal which launches chains towards the cursor's position. The mantra drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
 | 
 
  | 
@@ -80,7 +80,7 @@ Shadow Chains
 Shadow Eruption  
 (★☆☆)
 
- | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable.
+ | Form a shockwave of darkness. | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
 -   Unaffected by Glass & Magnifying Stones.
 
@@ -90,7 +90,11 @@ Shadow Eruption
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether.
+ | Call forth the void to track your opponents. | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
+
+nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
+
+do a small amount of damage and steal a large amount of ether.
 
 -   Shares a cooldown with Shadow Meteors.
 
@@ -102,7 +106,7 @@ Shadow Seekers
 Shadow Roar  
 (★★☆)
 
- | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
+ | Roar a wave of shadows. | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Can be parried. |
 | 
 
 File:Seekers.gif
@@ -112,7 +116,9 @@ File:Seekers.gif
 Rising Shadow  
 (★★☆)
 
- | Form a Shockwave of darkness. | User Extends their hand and creates a Projectile hand That homes in on enemies, this attack can summon multiple hands to grab multiple people when the attack connects grab and raise opponents up into the air, then slam opponents into the ground, Dazing them and stealing their ether.  
+ | Form a Shockwave of darkness. | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
+
+with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
 -   Drift and Rush Shards increase projectile speed.  
     
