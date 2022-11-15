@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 40428
+revid: 40429
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,11 +20,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Hallowtides is an event that started on Halloween Night 2022, and ended on November 13th. This event added..
+Hallowtide was an event that started on Halloween Night of 2022, and ended on November 13th. This event added..
 
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
--   A "Joy" System
+-   The "Joy" System
 -   New Helmets
 -   New Race Variants
 -   [Skullpiercer](Skull_Piercer.md) (Rapier)\*
@@ -37,7 +37,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and ended on N
 
 ### The Floating Keep
 
-[The Floating Keep](The_Floating_Keep.md) is a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the pumpkin near the mantra shop at the Isle of Vigils.
+[The Floating Keep](The_Floating_Keep.md) was a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the Hallowtide Caller (a pumpkin) near the mantra shop at the Isle of Vigils.
 
 ### Joy
 
@@ -53,7 +53,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and ended on N
 
 ### Race Variants
 
--   The Hallowtide update added a new variant for each race in the game, to unlock the race variants, you will have to turn in 70 ''Joy'' to Lysander "Spellhardt" who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
+-   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to Lysander Spellhardt who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
 
 ### Exclusive NPCs and Variants: (being worked on, bear with us)
 
@@ -65,7 +65,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and ended on N
 -   Leaf (Mantra Mod Buyer)
 -   Green
 -   Tundra
--   Mikhail (Check spelling) (Food Merchant)
+-   Mikhail (Food Merchant)
 -   Lysander Spellhardt
 -   Glaive Spellhardt
 -   Alina Spellhardt
@@ -84,15 +84,7 @@ The Hallowtides is an event that started on Halloween Night 2022, and ended on N
 
 The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
 
-  
-
-  
-
-  
-
-  
-
-## Dialogue
+#### Dialogue
 
 -   When first interacted
 
@@ -137,6 +129,20 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 </tbody>
 </table>
 
-[https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs](https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs)
+-   When interacting with it after the Floating Keep has arrived
 
-(An Animation added for The Floating Keep when you speak to the **Hallowtide Caller** for the first time.)
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><b>Here we go! Kehehe!</b></td>
+</tr>
+<tr>
+  <td colspan="12">End, you are transported to the Floating Keep</td>
+</tr>
+</tbody>
+</table>
+
+(An Animation added for The Floating Keep when you speak to the **Hallowtide Caller** for the first time can be seen [here](https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs).)

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 40426
+revid: 40430
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -398,5 +398,3 @@ File:Blackhole.png
     -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
 
 -   Shadow has the least mantras out of all attunements.
-
--   shadowcast 😎😎😎😎😎
