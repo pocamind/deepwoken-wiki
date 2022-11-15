@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 38165
+revid: 40392
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -16,7 +16,8 @@ categories: [Weapons, Spears]
 | scaling | 6 |
 | range | 9 |
 | swing speed | 0.7x |
-| penetration | 5% |
+| penetration | 20% |
+| chip damage | 10% |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

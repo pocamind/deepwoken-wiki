@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 40331
+revid: 40393
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -14,8 +14,8 @@ categories: [Weapons]
 | requirements | 75 HVY |
 | damage | 23 |
 | scaling | 7 |
-| range | 9 |
-| swing speed | 0.7x |
+| range | 8.5 |
+| swing speed | 0.68x |
 | endlag | 0.1s |
 | penetration | 20% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

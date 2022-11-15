@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 40094
+revid: 40373
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ This Outfit requires [Power Level](Talents.md) 45.
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +35% Physical resistance, +30% Elemental resistance and 100% ether regen.
+This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 100% Ether Regen.
 
 This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which increases [Jus Karita](Jus_Karita.md) damage by 15%
 

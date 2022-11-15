@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40368
+revid: 40389
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -547,12 +547,12 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: Agitating Spark, 75 Flamecharm
 -   Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
-    -   5 seconds cooldown.
-    -   Uses ether and does not proc if you don’t have enough ether
+    -   Uses 15 Ether and does not proc if you don’t have enough Ether
     -   Prerequisite: 65 Flamecharm
+    -   Cooldown: 8 Seconds
 -   Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
     -   Prerequisite: Mirage Clone
-    -   10 seconds cooldown.
+    -   Cooldown: 9 Seconds
 
 ### Flame Dancer
 
@@ -690,6 +690,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   Prerequisites: 25 Light Weapon, Using a Gun
+    -   Cooldown: 2 Seconds
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence, Use a Gun
@@ -1389,6 +1390,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
     -   Prerequisites: 75 Charisma, Vow of Mastery
     -   Effect: Will fully heal your servant, and revive them, if they are knocked
+    -   Global Cooldown: 10 Minutes
+    -   Per Target Cooldown: 40 Minutes
 
 ### Vigil Swordsman
 
@@ -1434,11 +1437,14 @@ These Talents are designed to make you more effective in water.
     -   Prerequisites: 20 Strength, 10 Agility
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 25 Light Weapon
+    -   Cooldown: 2 Seconds
 -   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
+    -   Cooldown: 2 Seconds
 
 -   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
     -   Prerequisites: 25 Light Weapon, Using Fists
+    -   Cooldown: 2 Seconds
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: 40 Light Weapon
@@ -1452,6 +1458,7 @@ These Talents are designed to make you more effective in water.
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
+    -   Grants Heavy weapons an Aerial Attack when they M1 while airborne (Cooldown: 2.5 Seconds)
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.

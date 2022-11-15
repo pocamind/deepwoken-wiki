@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 40356
+revid: 40386
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -84,7 +84,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0 LHT</td>
   <td>11</td>
   <td>N/A</td>
-  <td>LHT: 1</td>
+  <td>LHT: 3</td>
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -294,9 +294,9 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
   <td>20 LHT</td>
-  <td>10</td>
+  <td>11</td>
   <td>N/A</td>
-  <td>LHT: 10</td>
+  <td>LHT: 12</td>
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
@@ -375,7 +375,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>75 LHT</td>
   <td>14</td>
   <td>10%</td>
-  <td>LHT: 7.7</td>
+  <td>LHT: 7.5</td>
   <td>4</td>
   <td>8.5</td>
   <td>0.81x</td>
@@ -725,7 +725,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><a href="Serrated_Warspear.md">Serrated Warspear</a></td>
   <td>65 MED</td>
   <td>20</td>
-  <td>5%</td>
+  <td>20%</td>
   <td>N/A</td>
   <td>MED: 6</td>
   <td>5</td>
@@ -997,8 +997,8 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>7</td>
-  <td>9</td>
-  <td>0.7x</td>
+  <td>8.5</td>
+  <td>0.68x</td>
   <td>0.1s</td>
 </tr>
 <tr>
