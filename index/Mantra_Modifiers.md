@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 40264
+revid: 40414
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -462,6 +462,8 @@ Multiplying Spark
 -   Shade Bringer
 
 -   Shade Devour
+
+-   Grand Javelin
 
  | 
 
