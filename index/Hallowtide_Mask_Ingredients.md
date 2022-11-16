@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 40449
+revid: 40460
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -86,6 +86,8 @@ This is used to scare any interactable NPC (guards do not count) throughout the 
 
   
 _NOTE: the Hallowtide race variant saves across all slots and races (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different races)._
+
+_The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
 
 | Item | Joy |
 | --- | --- |

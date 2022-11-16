@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 39290
+revid: 40461
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -35,7 +35,7 @@ This Outfit's Schematic can be found in:
 
 -   Like the name suggests, it's the signature outfit of The Ferryman.
 -   Does not give you any abilities used by The Ferryman, nor does it affect your [thundercall](Thundercall.md) mantras.
--   Shirt Link: [https://www.roblox.com/catalog/5825770743/Night-Walker](https://www.roblox.com/catalog/5825770743/Night-Walker)
--   Pants Link: [https://www.roblox.com/catalog/5807965620/Night-Walker-Pants](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
+-   The shirt can be found [here](https://www.roblox.com/catalog/5825770743/Night-Walker)
+-   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   The only known outfit in the game with the "Unique" tier as of now.
 -   Effectively a better [Hive Drone](Hive_Drone.md) in almost every way possible besides cost. As with Hive Drone, [Thresher Scales](Talents.md#marauder) pairs very well with this.
