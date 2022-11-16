@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 39752
+revid: 40458
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -56,5 +56,6 @@ _**(Work in progress, add more locations if you know any and remove this text wh
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says from these lines: "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." "Dress up as a salad and maybe then you'll get a reaction from me."
     -   Before November 3rd, 2022, The Meat Lord would've be spooked like any other ordinary static NPC.
+-   The Meat Lord is likely a member of the Central Authority as he wears clothes belonging to the Central Authority and he is an Adret, which the Central Authority mostly consists of.
 
 Meat Lord in Summer Isle
