@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 39808
+revid: 40441
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -155,12 +155,12 @@ OR
 
   
 
-## Trivia/Notes
+## Trivia
 
 An individual who has crossed paths with The Meat Lord.
 
 -   Pomar is the only fruit that will damage you.
-    -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they appear you.
+    -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
 -   Sometimes there's a rare chance for an NPC called "[The Meat Lord](The_Meat_Lord.md)" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and [Fort Merit](Fort_Merit.md), and rarely, [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, most notably Reduced Hunger Loss. Each item on his menu is each.
 -   Having 0 thirst and 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and then you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
 -   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheap price from the Meat Lord, this makes it one of the best generic food items in the game.

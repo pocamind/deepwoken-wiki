@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 40328
+revid: 40437
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, NPC, Npc]
@@ -24,42 +24,49 @@ You can learn different attunements by giving a trainer 5 elemental ingredients 
   <td></td>
   <td>Trainer</td>
   <td>Island</td>
+  <td>Name</td>
   <td>Location</td>
 </tr>
 <tr>
-  <td>File:Frild.png</td>
+  <td></td>
   <td>Galebreath Trainer</td>
   <td>Isle of Vigils</td>
+  <td>Friid</td>
   <td>Friid is located near a tent on the right side of the temple entrance.</td>
 </tr>
 <tr>
   <th></th>
   <td>Frostdraw Trainer</td>
   <td>Etris</td>
+  <td>Nell</td>
   <td><figure><figcaption></figcaption></figure>Follow the path to the right of the Guildhouse</td>
 </tr>
 <tr>
   <td>File:FireSpelltrainer.png</td>
   <td>Flamecharm Trainer</td>
   <td>Songseeker Wilds</td>
+  <td>Amashi</td>
   <td><figure><figcaption></figcaption></figure>Inside the temple on top of the mountain</td>
 </tr>
 <tr>
   <td>File:B7624e4fd89708c9b9612665c1835545.png</td>
   <td>Thundercall Trainer</td>
   <td>Summer Isle</td>
+  <td>Funke</td>
   <td>On the second floor of the castle.</td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Shadow Trainer</td>
   <td>N/A</td>
+  <td>Nostor</td>
   <td><figure>File:Grate.png<figcaption></figcaption></figure>In Varicosa District in <a href="The_Depths.md">The Depths</a></td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 3.png<figcaption></figcaption></figure></td>
   <td>Attunementless Trainer</td>
   <td>The Hive</td>
+  <td>Regek</td>
   <td>In the archives of the Greathive Aratel.</td>
 </tr>
 </tbody>
