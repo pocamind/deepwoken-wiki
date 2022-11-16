@@ -1,12 +1,16 @@
 ---
 title: Hollow Angel
-revid: 38783
+revid: 40454
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Hollow Angel
+
+“ Want to meet God? C'mon!!! Let's go together! ”
+
+― Angels relocating freshies to the afterlife
 
 **Lesser:**
 
@@ -18,7 +22,7 @@ Watcher located in [The Depths](The_Depths.md)
 
 Lesser **Angels** are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and use the Crazy slots spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
 
-If a Watcher catches a player in its line of sight, its light beam will turn red, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters".
+If a Watcher catches a player in its line of sight, its light beam will turn red, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters" and instead, they qualify as an [Environmental Hazard](Environmental_Hazards.md).
 
 A single Angel can also be summoned as a Trial when attempting to escape the Depths.
 

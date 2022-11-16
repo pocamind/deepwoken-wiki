@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 40041
+revid: 40447
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -151,7 +151,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Shadowcast
 
--   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
+-   Increases damage of [Shadowcast](Shadowcast.md) Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.
 -   Unlocks Shadowcast related Talents.
 -   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).

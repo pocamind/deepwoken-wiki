@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 39860
+revid: 40444
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -10,7 +10,7 @@ categories: [Monsters, Mechanics]
 
 _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
-**Monsters** are NPCs that are part of sudo-factions that you cant gain or lose rep with that will attack the player unless they have mute but are different from human enemies.
+**Monsters** are inhuman hostile NPCs that will attack the player unless they have mute but are different from human enemies.
 
 ## Description
 

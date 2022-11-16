@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 40314
+revid: 40449
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -55,6 +55,8 @@ categories: [Weapons]
 | pass down | Yes |
 | obtainment | Completing Lysander Spellhardt's Initial Hallowtide quest |
 | description | It's crude... But maybe that adds to the scare-factor? |
+
+### Note that the Deepwoken Hallowtide 2022 event has concluded.
 
 These items are generally used for the Deepwoken Halloween 2022 event to complete the Hallowtide quest.
 
