@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 39513
+revid: 40500
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,4 +27,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Ministry is an equipment piece that is obtained after defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) in the [Valley of Heroes](The_Valley_of_Heroes.md). It is an uncommon drop in the chest alongside the Hero Blades. Alongside a unique coat, it effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
 
-It comes in many variants, being Rose, Scarlet, Onyx, Smoke, Peach (add more here if you find more variants)
+It comes in many variants, being Rose, Scarlet, Onyx, Smoke, Peach and Verdant. (add more here if you find more variants)

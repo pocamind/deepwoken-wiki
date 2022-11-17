@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 40217
+revid: 40503
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Enemies, NPCs]
@@ -201,3 +201,7 @@ Duke: There's no real point in explaining further, as this is the end of the lin
     -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's)
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
+
+## Bugs
+
+-   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account.

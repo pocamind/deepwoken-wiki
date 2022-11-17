@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 40216
+revid: 40497
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -65,6 +65,12 @@ File:Khan-enforcer-axe-image.png
 [Enforcer's Axe](<Enforcer's_Axe.md>)
 
 All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will EVENTUALLY have to fight it, at least ONCE, so better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, is a huge confidence boost for the future.
+
+DO NOT PLAY AT HIGH PING. DO NOT PLAY AT HIGH PING. If you do, aka have no choice, matador and sunken predator and heavy weapons will be handy. Matador for, the enforcer has hyper armour. And if your using a zweihander you can use sunken predator to outrange it durings its whirlwind.
+
+If you ever get pulled, and this happens at high ping, block. It doesnt matter, if you est a kick at high ping, you wont have time to react properly to its whrilwind.
+
+if your also using a dagger playing at high ping against it, well… you are kind of dead.
 
 ### Rewards
 

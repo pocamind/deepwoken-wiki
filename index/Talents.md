@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40389
+revid: 40499
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -119,7 +119,7 @@ These Talents are designed to make your potions making and usage more efficient.
     -   Prerequisite: 40 Intelligence or Apothecary, Drink Potions
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
-    -   Prerequisites for all: 25 Intelligence
+    -   Prerequisites: 25 Intelligence
 -   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
     -   Prerequisite: 55 Intelligence, Drink Potions
 
@@ -1039,9 +1039,11 @@ These Talents are meant to make foraging and mining grant more resources.
 ### Public Figure
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
-    -   Requires Friends in High Places + 50 charisma - The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
+    -   Prerequisites: Friends in High Places + 50 charisma
+    -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
 -   Diplomat \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
+    -   Prerequisites: 10 Charisma
 -   Under The Radar \[Rare Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher (+4 Ether, 4+ Health)
     -   Prerequisites For All: Charisma
 
@@ -1111,6 +1113,7 @@ Prerequisite: Charisma
     -   Prerequisite: Diplomat
 -   Salesperson \[Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
     -   Gain 1.25x more notes from selling items.
+    -   Prerequisites: 20 Charisma
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
     -   Gain 1.5x more notes from selling items (replace Salesperson).
 -   Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
@@ -1373,10 +1376,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 35 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
 -   Command: Leech \[Common Talent\] - Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
-    -   Prerequisites: 30 Charisma, Vow of Mastery
+    -   Prerequisites: 20 Charisma, Vow of Mastery
     -   Effect: Transfers the ether of your subject to yourself
 -   Command: Locate \[Common Talent\] - Locate one of your vow members (+4 Ether, +3 Health)
-    -   Prerequisites: 25 charisma, Vow of Mastery
+    -   Prerequisites: 20 charisma, Vow of Mastery
     -   Effect: Outlines your subject in red briefly
 
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)

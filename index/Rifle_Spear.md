@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 39896
+revid: 40502
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Spears]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry, Items, Spears]
 |---|---|
 | type | Spear |
 | requirements | 80 MED |
-| damage | 20 |
+| damage | 21 |
 | scaling | 7 |
 | range | 9 |
 | swing speed | 0.68x |
@@ -28,11 +28,13 @@ categories: [Weapons, Weaponry, Items, Spears]
 | obtainment | Fort Merit The Depths Deep Widow |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
+(Not to be confused with the Rifle)
+
 ## Description
 
 The Rifle Spear is a MED weapon. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
-The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots a projectile which does not consume Ether. It has the same speed and sound effect as any other gun.
+The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots an invisible blast similar to regular [guns](Flintlock.md). It has the same speed and sound effect as any other gun.
 
   
 
