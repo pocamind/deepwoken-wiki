@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 40458
+revid: 40470
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -8,9 +8,9 @@ categories: [Random Encounters, NPCs]
 
 # The Meat Lord
 
-“ Don't "hey" me, you dog. Show the Lord of Meat more respect next time. ”
+“ Did I ask? ”
 
-― The Meat Lord, probably
+― The Meat Lord to a vegetarian
 
 ## Overview
 

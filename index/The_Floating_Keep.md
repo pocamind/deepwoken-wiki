@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 40287
+revid: 40476
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ Template:Areainfobox
 
 ## Description
 
-The Floating Keep is a temporary location in Deepwoken. It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
+The Floating Keep was a temporary location in Deepwoken. It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md). It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
 
 ## Cathedral
 
@@ -50,7 +50,7 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   Leaf (Mantra Mod Buyer)
 -   Green
 -   Tundra
--   Mikhail (Check spelling) (Food Merchant)
+-   Mikhail (Food Merchant)
 -   Lysander Spellhardt
 -   Glaive Spellhardt
 -   Alina Spellhardt

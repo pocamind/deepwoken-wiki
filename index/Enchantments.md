@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 40404
+revid: 40473
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -143,6 +143,15 @@ There are two variants that enchantments come in:
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
 </tr>
 <tr>
+  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><center><br>
+  <font>Umbral Knight<div></div></font></center></td>
+  <td><div><p><br>
+  On proc, a red slash will follow up after a successful m1 on the target<br>
+  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
+  <b>[! BUG&nbsp;!] Hitting an entity with superarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
+  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
+</tr>
+<tr>
   <td><figure>File:SEAR.png<figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
   <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
@@ -190,15 +199,6 @@ There are two variants that enchantments come in:
   <td><b>Name</b></td>
   <td><b>Description</b></td>
   <td><b>Visual Effect</b></td>
-</tr>
-<tr>
-  <td><figure>File:UMBRAL KNIGHT.png<figcaption></figcaption></figure><center><br>
-  <font>Umbral Knight<div></div></font></center></td>
-  <td><div><p><br>
-  On proc, a red slash will follow up after a successful m1 on the target<br>
-  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
-  Hitting non humanoid entities and bosses deals the slash both to the monster and user.</p></div></td>
-  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><center><br>
