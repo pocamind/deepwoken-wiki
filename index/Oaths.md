@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 40450
+revid: 40493
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -213,5 +213,5 @@ None.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   the windrunner and eylis, the punished dreamer are potential future oath npc's.
+-   ~The Windrunner and~ Eylis are potential future oath npc's. (Nothing the windrunner says hints at any kind of oath, and his purpose is to serve as misc lore/agility uncap)
 -   Visionshaper has the most oath mantras out of all current oaths.

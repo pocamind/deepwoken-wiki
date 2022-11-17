@@ -1,8 +1,9 @@
 ---
 title: Providence Coat
-revid: 38081
+revid: 40483
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Arms, Armors, Equipment]
 ---
 
 # Providence Coat
