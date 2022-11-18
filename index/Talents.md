@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40499
+revid: 40521
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -997,7 +997,6 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: 20 Fortitude, Fists
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+3 Health, +4 Carry Load)
     -   Prerequisites: Trained Fist, Moving fortress.
-    -   ~Currently bugged, shields can be equipped without the talent~ They patched it, the talent changed to something else.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisites: 25 Strength

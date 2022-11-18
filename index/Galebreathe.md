@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 39824
+revid: 40520
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -611,19 +611,6 @@ After dodging an attack successfully your next dash will be a Gale Dash.
 +2 Passive Agility +4 Elemental Intensity +3 Health
 
 FROM: Galebreather
-
- |
-| File:Galebreathe Talent Placeholder.png | 
-
-Hoplite
-
- | 
-
-Posture damage is reduced when wielding a spear and standing still.
-
- | 
-
-+2 Passive Agility +3 Health
 
  |
 | File:Galebreathe Talent Placeholder.png | 
