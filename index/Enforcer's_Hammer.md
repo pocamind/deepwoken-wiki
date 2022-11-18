@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 39935
+revid: 40518
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -34,3 +34,4 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from th
 ## Notes & Trivia
 
 -   Rare drop from [Enforcer](Enforcer.md).
+-   Very drippy on Vesparians.

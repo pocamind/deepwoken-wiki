@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 40497
+revid: 40508
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -17,42 +17,37 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "final boss" of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins may be more complicated...
 
 ## Attacks
 
-| Name | Description | Parry-
-able?
-
- | Danger |
-| --- | --- | --- | --- |
-| **High Swing** | The Enforcer lifts his axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | (★☆☆) |
-| **Low Swing** | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than **High Swing**. | ◯ | (★☆☆) |
-| **Kick** | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard. | ◯ | (★★☆) |
-| **Whirlwind** | The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range. | ◯ | (★★☆) |
-| **Space Pull** | The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely. (you can dodge this, but there isn't really any point) (Disabled in hell-mode)  
- | ✗ | (★★★) |
-| **Feint** | Its a [feint](Combat_Mechanics.md) for a monster. Enough said. | ✗ | (★★☆) |
+| Name | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| **High Swing** | The Enforcer lifts its axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Low Swing** | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than **High Swing**. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Kick** | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard. | ◯ | ◯ | ◯ | (★★☆) |
+| **Whirlwind** | The Enforcer begins to spin rapidly from the waist-up while holding its axe out, walking towards the closest opponent to cut them apart. (Typically used after **Space Pull**) | ◯ | ✗ | ✗ | (★★☆) |
+| **Space Pull** | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment and allowing it to attack freely. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★★★) |
+| **Feint** | Its a [feint](Combat_Mechanics.md) for a monster. Enough said. | ✗ | ✗ | ✗ | (★★☆) |
 
 ### Finishers
 
--   **Crushing Pull -** The Enforcer holds his hand out and pulls the nearest knocked player to him.
--   **Headsplitter** **\-** The Enforcer holds his axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution. This animation is very fast, killing you in less than a second.
+-   **Headsplitter** **\-** The Enforcer holds its axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution. This animation is very fast, killing you in less than a second.
 
 ## **Combat**
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, he is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, he would have about 890 health. Still large, but nowhere too big. Additionally, his attacks have much lower damage than one might expect.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks have much lower damage than one might expect.
 
-Do not be deceived by these stats, though. The Enforcer's true danger lies not from his pure stats, but from his execution (pun intended) of them. He draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. He can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though his danger falls off in the far endgame, he can still kill any overconfident high level player.
+Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution (pun intended) of them. it draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. it can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
 
 ### In General
 
--   Don't over-commit on counter attacks, The Enforcer has Hyper-armor.
--   The biggest thing about The Enforcer is the feints, when he does this, **HOLD BLOCK.** Even if you unblock, his swings are slow, and you have enough time to react and block again right in time.
+-   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
+-   The biggest thing about The Enforcer is the feints, when it does this, **HOLD BLOCK.** Even if you unblock, its swings are slow, and you have enough time to react and block again right in time.
 -   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 50+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
--   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal unavoidble damage. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
+-   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like its Kick, can easily deal unavoidable damage. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely.
 -   While not recommended, beating The Enforcer on a level 50, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
 -   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead. If you have predict with the talent that allows you to defend multi-hit moves, use that instead
@@ -76,7 +71,7 @@ if your also using a dagger playing at high ping against it, well… you are kin
 
 -   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
--   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy and 25 Strenght.
+-   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy Weapons Training and 25 Strength.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
 -   **Confidence about being able to escape The Depths in the future:** :)
 
@@ -100,7 +95,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   The Enforcer is one of the only monsters that can be both guard broken and posture stunned (the other being the [Nautilodaunt](Nautilodaunt.md))
 -   The Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
--   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.
+-   You can easily run, or even walk away it's its Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.
 -   Enforcer can pull you during an emote.
 -   The axe has a hitbox for some unknown reason, allowing for easy hits by outranging The Enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.

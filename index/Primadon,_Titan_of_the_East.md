@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 40246
+revid: 40512
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -20,36 +20,35 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ## Attacks
 
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
-| **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
-| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are in front of him but not near his legs. | ◯ | (★☆☆) |
-| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | (★★☆) |
+| Name | width="125px" | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | ◯ | **\-** | (★★☆) |
+| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are in front of him but not near his legs. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | ✗ | ◯ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air. Deals 100~ damage.
 Only used if the player is in front of Primadon and not near his legs.
 
- | ◯ | (★★★) |
-| **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm having 3 rocks hurled at the player. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Disengage** | Primadon jump backward, creating distance while hurling a rock at the player. | ◯ | (★★★) |
-| **Enrage** | Screams, giving a significant amount of insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight.
+ | ✗ | ✗ | ◯ | (★★★) |
+| **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm, hurling 3 rocks at the player. Does massive amounts of damage and very difficult to parry. | ◯ | ◯ | ◯ | (★★★) |
+| **Disengage/Fade Away** | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two. | ◯ | ◯ | ◯ | (★★★) |
+| **Enrage** | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 
-Automatically used after the first posture stun or when dropping below 50% health, whichever happens first.
+Automatically used after the first posture stun or when dropping below 50% health, whichever happens first. Signified by a red mist that surrounds Primadon's body.
 
- | ✗ | (★★★) |
+ | **?** | **?** | **?** | (★★★) |
 
 ### Passives
 
--   **Elemental Resistance** - Primadon have 95~% mantra defence and elemental resistance.
+-   **Elemental Conqueror** - Primadon has ~95% elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
-    -   True Ether Bullet will make guns deal pitiful damage.
 -   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
 
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them.
--   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a low chance of 1-2 Deep Gems or legendary ring(deepfire and maybe others).
--   **Luck -** Gives max luck (7-8 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).**
+-   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a _very_ low chance of 1-2 Deep Gems or legendary rings (Deepfire, Akira's and maybe others).
+-   **Luck -** Gives max luck (7-10 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).**
 
 ## Strategies & Tips
 
@@ -59,14 +58,13 @@ Automatically used after the first posture stun or when dropping below 50% healt
 
 -   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
 -   The footsteps of Primadon play a loud and distinct sound that can be heard from very far, even from nearby islands. You can use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the player(s) fighting this fishy ape.
--   Having blunt armor greatly reduces the Primadon's damage during his stomps, and when paired with thresher scales you can take a lot less damage throughout the fight.
+-   Having armor that has Blunt damage resistance greatly reduces the Primadon's damage during his stomps, and when paired with [Thresher Scales](Talents.md#marauder) you can take a lot less damage throughout the fight.
 -   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
     -   Staying still may also avoid confusion from Primadon's walking animation.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
-
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
-    -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the [Scuba Drowner](https://deepwoken.fandom.com/wiki/Talents?so=search#Waterborne) talent or lived the fall.
--   Blessed, Wind, Wayward, and Insignia gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage
+    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) talent or lived the fall.
+-   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
     -   Debuffs from Mantras do affect Primadon.
 
 ### General Combat
