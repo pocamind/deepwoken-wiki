@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 38600
+revid: 40540
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -34,9 +34,9 @@ Certain questlines will be unlocked with positive reputation.
 
 Players can talk to the NPC guards posted within villages and islands. Depending on your current reputation, guards will respond with [dialogue](Dialogue.md) that is established with that level of reputation. Guards will speak in a more friendly manner the higher your reputation is.
 
-Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
+Finally, at max positive reputation, guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
-Using a [talent](Talents.md) called '[friends in high places](https://deepwoken.fandom.com/wiki/Talents#Silvertongue)' the guards will not grip but instead knock you and insult you as they return to their posts.
+With a [talent](Talents.md) called "[Friends In High Places](Talents.md#silvertongu)" the guards will not grip you, but instead knock you and insult you, spitting on your ragdoll as they return to their posts.
 
 #### _Negative Reputation_
 
@@ -63,13 +63,6 @@ Whenever your reputation return to neutral after becoming an enemy, you will rec
 File:Summer Company Postives.png
 
 The Summer Company Logo, w/ Indication of positive rep.
-
-  
-
-  
-
-  
-  
 
 ### Resetting Enmity
 
@@ -186,9 +179,9 @@ Crate Retrieval
 -   [The Divers](The_Divers.md)
 -   [The Central Authority](The_Central_Authority.md)
 -   [The Summer Company](The_Summer_Company.md)
--   [The Hundred Legions](The_Hundred_Legions.md)
+-   [The Eleventh Legion](The_Hundred_Legions.md)
 -   The Children of Navae
--   The Ministry File:Eylisiconfactoin.png
+-   The Ministry
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Celtor](The_City_of_the_Drowned.md)
@@ -198,13 +191,18 @@ Crate Retrieval
 -   [Bandits](Bandit.md)
 -   [Songseekers](Songseeker_Wilds.md)
 
+## Notes
+
+-   Attempting to reset your reputation with the [Fugitive](Boons_and_Flaws.md) flaw will
+
 ## Trivia
 
--   [Brutus](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound)' dialogue varies depending on your [Authority](The_Central_Authority.md) reputation.
+-   [Brutus](Attributes_Unbound.md#fortitude-unbound)' dialogue varies depending on your [Authority](The_Central_Authority.md) reputation.
+-   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
 -   The "Diplomat" charisma talent significantly increases reputation gain.
 -   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
 -   There are some factions who for, various reasons, players can only get one kind of rep with.
     -   You cannot get good rep with [Celtor](The_City_of_the_Drowned.md), but can lose rep, essentially meaning once you are in the negative you will stay that way.
-    -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
--   Spitting on a guard causes them to become aggressive.
--   The Ministry and Knives of Eylis are the only Factions that all players start out with negative reputation on spawn.
+    -   You can get good rep with The Divers, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
+-   Spitting on a guard causes them to become aggressive regardless of reputation.
+-   The Ministry and the Knives of Eylis are the only Factions that all players start out with negative reputation on spawn.

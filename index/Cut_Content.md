@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 39605
+revid: 40529
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -39,7 +39,8 @@ notices:
 ## Talents
 
 -   **A Deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
-    -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
+    -   This talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
+    -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   As of the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
@@ -61,4 +62,5 @@ notices:
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
 -   **Guild Housing -** There was a planned (and cut) feature that allowed guilds to have homes on islands which could be the location of PVP battles as well as general spots of trade and relaxation. This will be added back once Layer 2 releases, as hinted through the announcement in the Discord.
 -   **Ship Customization -** Ships were going to have more in-depth customization features, but were removed shortly before release for unknown reasons.
--   **Officer's Note -** An item that had a chance to drop from Bandit camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
+-   **Officer's Note -** An item that had a chance to drop from Bandit Camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
+-   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.

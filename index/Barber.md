@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 40153
+revid: 40524
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,10 +30,11 @@ To use some of his features, a hair ID from the catalog is needed.
 3.  Change my eyelashes. (Changes your eyelashes as said.)
 4.  Change my gender representation. (Changes gender to male, female, or neutral.)
 5.  Change my face. (Changes face decal.)
+6.  \[Placeholder\] (Changes racial variant.)
 
 1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
 
-2-5 - "Okay! All done!"
+2-6 - "Okay! All done!"
 
 ## Trivia
 

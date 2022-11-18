@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 40163
+revid: 40525
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -131,9 +131,9 @@ Roar
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
-Fire Roar
+Pyroclastic Roar
 
- | Similar to the standard **Roar**, but this one is orange and has the ability to rain down fiery swords from the sky.
+ | Similar to the standard **Roar**, but colored orange and summons flaming swords from the sky that inflict damage and set the player on fire.
 
 -   Exclusive to the Crimson variant.
 
@@ -145,7 +145,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Dark Blue version of the Megalodaunt, exclusive to The Depths and [Trial Of One](Trial_of_One.md). They are at the top of the Megalodaunt social hierarchy, boasting in extra strength and health.
+Dark Blue version of the Megalodaunt, exclusive to The Depths and [Trial Of One](Trial_of_One.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health.
 
 ## **Attacks**
 
@@ -185,7 +185,7 @@ Thousand Needles
 
 Roar
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat. After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 
