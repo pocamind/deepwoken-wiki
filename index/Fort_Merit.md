@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 40321
+revid: 40522
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -64,7 +64,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 ## Rep Resets
 
--   To reset your reputation with the Authority, you can speak to Rashet in the Merit's reach. He is located next to a pillar across from a river and Fort Merit.
+-   To reset your [reputation](Reputation.md) with the Authority, you can speak to Rashet in the Merit's reach. He is located next to a pillar across from a river and Fort Merit.
     -   If you walk from [Greathive](Greathive_Aratel.md) to Fort Merit, you can find him easily
     -   Alternatively, if you arrive from the docks, you have to run through the fort to reach Rashet.
 

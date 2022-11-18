@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 39089
+revid: 40523
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -49,7 +49,7 @@ It is possible to have more mantras than mantra slots, but you will not be able 
 
 ## Combat Usage
 
-Mantras are a key aspect of combat, and it is incredibly important to master the usage of mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; mantras can turn the tide of a battle easily and are what Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
+Mantras are a key aspect of combat, and it is incredibly important to master the usage of mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; mantras can turn the tide of a battle easily and is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
 
 ### Perfect Casting
 
