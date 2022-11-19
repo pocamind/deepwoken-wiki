@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 39438
+revid: 40546
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -16,7 +16,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective. When accompanying Bloatskippers, they can use an enhanced version of the "[Air Force](Galebreathe.md)" mantra.
+Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+
+When accompanied by Bloatskippers from an emergence, their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" mantra fired from their mouths instead of their hands.
 
 ## Moveset
 
@@ -26,6 +28,11 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 Scratch
 
  | Weakly smacks opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Air Force
+
+ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -66,21 +73,23 @@ Scratch
 
 Air Force
 
- | Conjure a strong blast air from your hands in the direction of your mouse that staggers target. | ✗ | ◯ | (★★☆) |
+ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
 | Jugular Slice | Pins down opponent before slicing their throat with their blade. |
+| Kamikaze | Explodes after death, taking whoever else is weakened or knocked with it via insta-grip. |
 
 ## Tips
 
 -   The "[Air Force](Galebreathe.md)" mantra can push them towards you and let them get the drop on you.
 -   Take them out first, only then you can deal with the normal Mudskippers.
--   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be gripped/executed by the explosion.
+-   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be insta-gripped/executed by the explosion.
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
-        
+-   The explosion from one Bloatskipper can cause a chain reaction of explosions from nearby insta-gripped Bloatskippers.
+    
 
 **Rotskipper:**
 
@@ -88,7 +97,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and Tomb of the Forgotten Warrior. This variant is the weakest of the Mudskippers as it can be killed manually or by causing it to lose all of it's limbs by parrying it's attacks 3 times.
+Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md). This variant is the weakest of the Mudskippers as it can be killed manually or by causing it to lose all of it's limbs by parrying its attacks 3 times.
 
 ## Moveset
 
@@ -98,6 +107,11 @@ Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md
 Scratch
 
  | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
+| 
+
+Headbutt
+
+ | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch. | ◯ | ◯ | (☆☆☆) |
 
 ## Finisher
 

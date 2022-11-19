@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 40284
+revid: 40545
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -719,9 +719,13 @@ Azure Flames
     -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
     -   Although the "Fire Palm" mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead being a single large hit that sets on fire.
     -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involve throwing an orb flash made of fire.
-    -   Flamecharm is the best attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of denial" mantra which can reset some sanity upon use.
+-   This is the only other in-game attunement that a Monster can wield in some form, that being the [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt), the other being Gale-Enhanced [Mudskippers](Mudskipper.md).
+
+## Notes
+
+-   Flamecharm is the best attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can reset some sanity upon use, while also allowing you to not die.
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in Ganks/Guild wars.
 -   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.
 -   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air, but expect fall damage upon use.
--   Flamecharm is the only attunement that can benefit it's [Hero Blade](https://deepwoken.fandom.com/wiki/Hero_Blades) as it has something akin to an insta-grip.
--   The "Flame Leap" mantra significantly reduses in height if on low health similarly to the "Strong Leap" mantra
+-   Flamecharm is the only attunement that can benefit it's [Hero Blade](Hero_Blades.md) as it has something akin to an insta-grip.
+-   The "Flame Leap" mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.

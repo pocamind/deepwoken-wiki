@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 40512
+revid: 40553
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -16,7 +16,7 @@ Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The 
 
 ## Description
 
-Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) (Most monster drops work, to a varying degree) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 ## Attacks
 
@@ -66,6 +66,8 @@ Automatically used after the first posture stun or when dropping below 50% healt
     -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) talent or lived the fall.
 -   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
     -   Debuffs from Mantras do affect Primadon.
+-   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
+    -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF PRIMADON DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
 
 ### General Combat
 

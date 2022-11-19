@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 39017
+revid: 40568
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,7 @@ categories: [Resonance]
 | effect | Collects souls, can be used as damage output against players. |
 | appearance | White beam that appears in front of the user. |
 
-“ Consume the souls of your enemies and unleash them in devastating attacks.
-
-Souljar Boy ”
+“ Consume the souls of your enemies and unleash them in devastating attacks. ”
 
 ― Jar of Souls description
 
@@ -54,4 +52,4 @@ When obtained, Jar of Soul will spend its points on the following stats:
 -   A corrupted Jar of Souls is arguably one of the best resonance ingame.
 -   It may be a reference to the Urn of Souls from The Binding of Isaac which also requires you to kill enemies to shoot it.
 -   It is theorized, Dream Eater (Arch\_Mage dev spec) [\[1\]](https://youtu.be/KjTM-JeULWA)seen here ([https://youtu.be/KjTM-JeULWA](https://youtu.be/KjTM-JeULWA)) can be used to fuel Jar of Souls.
--   [Golems](Rock_Golem.md) have human souls that can absorbed, which’s raises some interesting questions.
+-   [Golems](Rock_Golem.md) have human souls that can be absorbed, which raises some interesting questions.

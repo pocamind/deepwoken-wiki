@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 39514
+revid: 40557
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1550,7 +1550,7 @@ Reduces your flourish count by 1
 
 **Requires Power 40**
 
- | Aelita Chests, Arena Chests, Duke Erisia Chests |
+ | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests |
 | File:Moon Ring.png | 
 
 [Moon Ring](Moon_Ring.md)

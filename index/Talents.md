@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40537
+revid: 40556
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -625,6 +625,11 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Frozen Legs \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: 50 Frostdraw
 
+### Gale Kata
+
+-   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
+    -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
+
 ### Galebreather
 
 -   Galebreather \[Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
@@ -772,6 +777,9 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### **Justicar**
 
+-   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    -   Allows you to use [Jus Karita style](Fists.md), one of the 3 fist styles.
+    -   Prerequisites: Achieve a Power level of 20 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 -   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
     -   Prerequisites: Jus Karita and Swiftkick Prodigy
 
@@ -783,6 +791,7 @@ These Talents are meant to improve your overall combat effectiveness.
         -   This effect can only happen every 10 seconds.
     -   Prerequisite: Jus Karita
 -   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff. (+2 Health, +1 Posture)
+    -   Hitting your opponent with the M1s 3 times will grant you a speed boost.
     -   Prerequisite: Jus Karita
 
 ### Immolator
@@ -993,6 +1002,9 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Navaen Nomad
 
+-   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    -   Allows you to use [Way of Navae style](Fists.md), one of the 3 fist styles.
+    -   Prerequisites: Brind a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
 -   Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15%.
     -   Prerequisites: 20 Fortitude, Fists
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+3 Health, +4 Carry Load)

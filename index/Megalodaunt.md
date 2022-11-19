@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 40525
+revid: 40567
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-_Commonly referred to as Sharko._
+_Commonly referred to as a Sharko._
 
 “ ...Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. ”
 
@@ -67,7 +67,7 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
 | 
 
 Roar
@@ -84,7 +84,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
+Crimson Megalodaunts are a species native to the [Songseeker Wilds](Songseeker_Wilds.md). Their time spent closer to those that wish to wield and worship the Song have created a genetic mutation that makes their hide deep red and allows them to wield [Flamecharm](Flamecharm.md) to a limited degree. Due to their time spent far away from other regular Megalodaunts, they've grown hostile to the normal variants and commonly attack them on sight.
 
 ## **Attacks**
 
@@ -114,12 +114,12 @@ Kick
 
 Jump
 
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after Kick. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
 | 
 
 Roar
@@ -133,11 +133,7 @@ Roar
 
 Pyroclastic Roar
 
- | Similar to the standard **Roar**, but colored orange and summons flaming swords from the sky that inflict damage and set the player on fire.
-
--   Exclusive to the Crimson variant.
-
- | ◯ | ◯ | ◯ | (★☆☆) |
+ | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire. | ◯ | ◯ | ◯ | (★☆☆) |
 
 **Alpha Megalodaunt:**
 
@@ -180,12 +176,12 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat. After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 
@@ -196,6 +192,7 @@ Roar
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. |
+| Incinceration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
 
 ## **Trivia**
 

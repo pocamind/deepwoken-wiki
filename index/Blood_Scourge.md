@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 38391
+revid: 40563
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -44,7 +44,7 @@ When obtained, Blood Scourge will spend its points on the following stats:
 
 _**Corrupted**_
 
-If Blood Scourge is corrupted, it simply makes it bigger. A downside to the corrupted variant is that if you have something like the fire downside you cannot move during the windup so you take more damage. However, if you block before you use it, the downside will be negated and you won’t take any damage or go insane,
+If Blood Scourge is corrupted, it simply makes it bigger. A downside to the corrupted variant is that if you have something like the fire downside you cannot move during the windup so you take more damage. However, if you block before you use it, the downside will be negated and you won’t take any damage or go insane.
 
 ## Trivia/Notes
 

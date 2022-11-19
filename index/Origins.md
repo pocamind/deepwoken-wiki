@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 40364
+revid: 40560
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -48,7 +48,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Requirements:** Ask about signing up in the Divers to Akira during his encounter event between the Ignition Union in Celtor Wastes.
 
-**Obtainment:** Obtained after speaking to Akira in Castle Light about "joining" the divers.
+**Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 
 -   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
 -   Grants innate Talent "Deepbound Contract".
