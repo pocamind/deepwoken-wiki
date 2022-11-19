@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 38700
+revid: 40576
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -29,4 +29,9 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Sword is the default medium weapon users start with beginning the game with a base damage of 18. This weapon can be obtained by starting with it by either choosing medium weapon during [Character Creation](https://deepwoken.fandom.com/wiki/Character_Creation#Weapon_Classes), obtaining it from chest drops, or killing another player with it in their inventory.
+The Sword is the default medium weapon users start with beginning the game with a base damage of 18. This weapon can be obtained by starting with it by either choosing medium weapon during [Character Creation](https://deepwoken.fandom.com/wiki/Character_Creation#Weapon_Classes) or buying it in the [Etris](Etris.md) weapon shop.
+
+## Trivia
+
+-   It is the most popular starter weapon used in the [Chime of Conflict](Chime_of_Conflict.md).
+-   It cannot drop from chests.

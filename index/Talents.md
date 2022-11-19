@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40572
+revid: 40577
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1812,7 +1812,7 @@ Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy'
 ## **List of Rollable Legendary Talents/Green Talent Cards**
 
   
-Exoskeleton \[Legendary Talent, 35 Fortitude\] You have natural armor that decreases all damage taken by 10%. This stacks with Vesperian natural armor.  
+Exoskeleton \[Legendary Talent, 40 Fortitude\] You have natural armor that decreases all damage taken by 10%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
 Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)  
