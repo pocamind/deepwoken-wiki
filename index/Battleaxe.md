@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 38504
+revid: 40573
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -33,4 +33,4 @@ The Battleaxe is a greataxe that Heavy weapon users start with when beginning th
 
 ## Notes & Trivia
 
--   TBA
+-   The axe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.

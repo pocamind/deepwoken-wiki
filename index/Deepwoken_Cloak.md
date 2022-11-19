@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 40565
+revid: 40571
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,4 +15,4 @@ Template:EquipmentStats
 
 ## Trivia
 
--   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
+-   The **Deepwoken Cloak** was added along with the game's release but was soon removed for an unknown reason; there were only 3 known people that had it after its removal. It was re-added on May 10th, 2022.
