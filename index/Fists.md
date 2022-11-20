@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 39812
+revid: 40579
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -17,7 +17,6 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | range | 7 |
 | swing speed | 0.75x (WN/LK) , 0.9x (JK) |
 | penetration | N/A (WN/LK) , 20% (JK) |
-| selling price | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
