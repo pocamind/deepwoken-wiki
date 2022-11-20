@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40590
+revid: 40599
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -10,9 +10,9 @@ notices:
 
 # Talents
 
-“ Your training finally bears fruit... ”
+“ ohhh my GOOOOODDDDD ”
 
-― Selection Flavour Text
+― Expert Player getting Adept at level 3 in trial of one.
 
   
 

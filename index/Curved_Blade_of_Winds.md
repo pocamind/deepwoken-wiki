@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 39792
+revid: 40602
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -27,6 +27,12 @@ categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
 | pass down | Yes |
 | obtainment | Chests in The Depths |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
+
+“ By any means necessary. ”
+
+― Timeskip Valekis
+
+  
 
 ## **Description**
 

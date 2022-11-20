@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 40444
+revid: 40600
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -30,6 +30,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
     -   Status Effects
     -   Flinging
 -   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monsters fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
+-   **Practice Trial of One.** Practicing Trial of One over and over can overall give you knowledge of how most monsters work, and can really give you the advantage you need when it comes to fighting these monsters. (Megalodaunts, NPCs, Stone Knights, Golems, Threshers, Enforcer)
 
 ### The Depths
 
