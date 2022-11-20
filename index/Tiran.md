@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 39286
+revid: 40595
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,8 +10,11 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-""
+“ IS THAT NIKO FROM ONESHOT???? ”
 
+― Average Oneshot Fan
+
+  
 _Chance of obtaining race: ?%_
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 40357
+revid: 40596
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -13,6 +13,8 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 Template:Races-Main
 
 _"The stars call you back..."_
+
+"yurr listen maaan" - guy who became a Lightborn
 
 **Currently Unobtainable**
 
