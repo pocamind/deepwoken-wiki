@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 40557
+revid: 40618
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -737,6 +737,9 @@ Cape
 
 Grants a random buff.
 
+  
+_\+ 3% Physical Armour_
+
  | Songseeker Chests, Minityrsa Chests | Black & Golden |
 | File:Static-assets-upload6078901116095484260.png | 
 
@@ -747,6 +750,9 @@ Grants a random buff.
  | 
 
 Grants a random buff.
+
+  
+_\+ 5% Stealth_
 
  | Fishing Chests, Duke Erisia Chests | Red, Black, Midnight & White |
 | File:Crimson Scarf.png | 
@@ -759,6 +765,9 @@ Scarf
 
 Grants a random buff.
 
+  
+_\+ 3% Atunement Armour, Depending on color_
+
  | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | 
 
@@ -770,6 +779,9 @@ Grants a random buff.
 
 Grants a random buff.
 
+  
+_\+ 3% Elemental Armour_  
+  
 **Requires Power 40**
 
  | Summer Isle Chests and Fishing Chests | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
@@ -943,6 +955,10 @@ Grants a random buff.
 
 Grants a random buff.
 
+  
+_\+ 3 Health_  
+_\+ 1 Posture_
+
  | Fort Merit Chests | N/A |
 |  | 
 
@@ -950,8 +966,10 @@ Grants a random buff.
 
  | 
 
-Grants a random buff.
+Grants a random buff.  
 
+  
+_\+ 3 Health_  
 _+Talent: Polite Awakening_
 
  | Hive Chests | N/A |
@@ -1008,9 +1026,9 @@ Warden's Pauldrons
 
  | 
 
-Grants a random buff.
+Grants a random buff.  
 
-+10 HP
++10 HP  
 
 +2 Posture
 
@@ -1041,7 +1059,10 @@ Brigand's Cloak
 
  | 
 
-Grants a random buff.
+Grants a random buff.  
+
+  
+_\+ 3 Health_
 
  | Summer Isle Chests, The Depths Chests, Primadon Chests | N/A |
 | File:Brown Overcoat.png | 
@@ -1230,7 +1251,8 @@ Grants a random buff.
 
 Grant a random buff.
 
-+X% Damage VS Beast
+  
+_\+ 5% Damage VS Monster_
 
 **Requires Power 30**
 

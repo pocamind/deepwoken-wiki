@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 40359
+revid: 40608
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -45,5 +45,5 @@ Another point worth noting is there's no current way of removing an Attunement t
     -   You can unlock all Attunements to be select-able from the menu.
 -   Once you have selected an attunement, it will be the only available attunement in the character creation menu other than choosing random, or attunementless. This does not include attainable attunements, after getting wiped those will be also choosable in the character creation menu along with your starter attunement. Keep in mind you can only choose 1 after being wiped. (For example, starting with ice, then getting shadow, and getting wiped, you can only choose ice, shadow, attunmentless or random.)
 -   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
--   Water will never become an Attunement available to the public due to specific lore reasons, as is stated by Arch\_Mage.
+-   Water will never become an Attunement available to the public due to specific lore reasons(Only drowned gods have the ability to manipulate water in the lore)as is stated by Arch\_Mage.
     -   As an extension, he mentions that those who wield water magic have already lost their humanity.
