@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 40614
+revid: 40620
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -12,11 +12,11 @@ categories: [Pages with broken file links, Resonance, Mechanics]
 
 ## Overview
 
-**Resonances** are one of the many skills that players can obtain. They are the most varied when it comes to all the abilities, and are quite powerful, having effects from perfect invisibility, map-wide teleportation, and instantaneous gripping.
+**Resonances** are one of the many skills that players can obtain. Resonances are quite powerful, with varying effects including (but not limited to) invisibility, map-wide teleportation, and instant executions.
 
-Certain Resonances have a set of "points" given when they are obtained. The points are randomly spent and dictate certain parts of the Resonance, such as their variant and damage for example. Each resonances uses these points differently. Corrupted Resonances have more points to spend.(while corrupted resonances have there upsides sometimes there buffs are outweighed by there flaws for example fire downside reaper is just honestly wipe worthy)
+Resonances have a set amount of Resonance points given when they are obtained. They are randomly distributed to different attributes of the Resonance. Corrupted Resonances have more points to spend, resulting in more potent attributes for a Resonance at the cost of having a negative effect on the user when activated.
 
-Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
+Resonances are physically manifested as instruments; though, in-game, the player is only able to obtain a bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. Rerolling your Resonance will alter the appearance of your bell.
 
 ## Variants
 

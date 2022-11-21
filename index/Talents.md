@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40599
+revid: 40623
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -235,7 +235,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Beast Slayer
 
 -   Giantslayer \[Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
-    -   Deal ??% more damage to larger foes.
+    -   Deal 10% more damage to larger foes.
     -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
     -   Prerequisite: 20 Willpower.
 
