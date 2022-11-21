@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 40563
+revid: 40638
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -50,3 +50,4 @@ If Blood Scourge is corrupted, it simply makes it bigger. A downside to the corr
 
 -   The Blood Scourge Resonance does NOT give you I-frames while doing the animation, you can get cancelled while doing it if other players/NPCS attack you.
 -   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage.
+-   Extremely homosexual, if you use this you love men.

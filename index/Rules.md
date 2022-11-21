@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 35046
+revid: 40643
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -20,7 +20,7 @@ You may appeal a punishment (if you deem it is not correct) by contacting an [Ad
 
 Staff members are **not bound to only deal with these cases** and **may deal with the violation with their own judgment** based on the circumstances. **Loopsholes are to** **be reported** and **not abused**, abusing loopholes will result in a more **severe consequence**.
 
-## **Level 1 Offense**
+## **Light Offense**
 
 | Violation | Description | Warnings | Punishment |
 | --- | --- | --- | --- |
@@ -28,12 +28,8 @@ Staff members are **not bound to only deal with these cases** and **may deal wit
 1
 
  | 1 Day Chat Ban |
-
-## **Level 2 Offense**
-
-| Violation | Description | Warnings | Punishment |
-| --- | --- | --- | --- |
 | **Spam** | Repeated posts / messages over a short time, and unnecessarily long comments. | 
+
 1
 
  | 3 Day Chat Ban |
@@ -47,13 +43,8 @@ Staff members are **not bound to only deal with these cases** and **may deal wit
 1
 
  | 1 Week Block |
-| **Repeated Level 1 Offenses** | Repeating Level 1 Offences. | 
 
-0
-
- | 1 Week Block |
-
-## **Level 3 Offense**
+## **Moderate Offense**
 
 | Violation | Description | Warnings | Punishment |
 | --- | --- | --- | --- |
@@ -66,18 +57,18 @@ Staff members are **not bound to only deal with these cases** and **may deal wit
 0
 
  | Extended Block (2 Weeks) |
-| **Repeated Level 2 Offenses** | Repeating Level 2 Offences. | 
-
-0
-
- | 3 Week Block |
 | **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for robux, real money, an account, etc. | 
 
 0
 
  | 2 Week Chat Ban |
+| **Repeated Level 2 Offenses** | Repeating Light Offences. | 
 
-## **Level 4 Offense**
+0
+
+ | 3 Week Block |
+
+## **Severe Offense**
 
 | Violation | Description | Warnings | Punishment |
 | --- | --- | --- | --- |
@@ -100,13 +91,13 @@ Staff members are **not bound to only deal with these cases** and **may deal wit
 0
 
  | 3 Month Block (Varies with amount) |
-| **Repeated Level 3 Offences** | Repeating Level 3 Offences. | 
+| **Repeated Level 3 Offences** | Repeating Moderate Offences. | 
 
 0
 
  | 3 Month Block |
 
-## **Level 5 Offense**
+## **Extremely Severe Offense**
 
 | Violation | Description | Warnings | Punishment |
 | --- | --- | --- | --- |
@@ -119,7 +110,7 @@ Staff members are **not bound to only deal with these cases** and **may deal wit
 0
 
  | Permanent Block |
-| **Repeated Level 4 Offences** | Repeating Level 4 Offences. | 
+| **Repeated Level 4 Offences** | Repeating Severe Offences. | 
 
 0
 

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 39794
+revid: 40630
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -32,7 +32,9 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
-By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost is reduced to 0 at power 55
+By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost is reduced to 0 at power 55.
+
+While having the murmur active, you can't crouch and listen until you deactivate it/murmur runs out (if you're not max power.)
 
 **Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -48,7 +50,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour, 15 Strengths, and 40 willpower.
 
-Affected targets will take increased damage and deal less posture damage.
+Affected targets will come out of Tacet, take 2x more posture damage and take 25% more damage.
 
 This ability does not scale on Power, therefore, it will always cost ether.
 
