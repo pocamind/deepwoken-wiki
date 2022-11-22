@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 35202
+revid: 40722
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -28,7 +28,7 @@ They can be found on the Surface in:
 
 ## Prices
 
-Antiquarians can buy weapons, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md). How ever, the amount of stars that are on an item does not change the items value.
+Antiquarians can buy weapons, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md).
 
 **Gems:**
 

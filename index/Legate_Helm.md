@@ -1,8 +1,9 @@
 ---
 title: Legate Helm
-revid: 37719
+revid: 40833
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Legate Helm

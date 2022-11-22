@@ -1,8 +1,9 @@
 ---
 title: Autumn Boots
-revid: 35694
+revid: 40751
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Autumn Boots

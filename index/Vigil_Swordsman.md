@@ -1,8 +1,9 @@
 ---
 title: Vigil Swordsman
-revid: 34461
+revid: 40797
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Vigil Swordsman

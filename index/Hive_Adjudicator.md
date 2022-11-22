@@ -1,8 +1,9 @@
 ---
 title: Hive Adjudicator
-revid: 25309
+revid: 40815
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Hive Adjudicator

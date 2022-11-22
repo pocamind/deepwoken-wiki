@@ -1,8 +1,9 @@
 ---
 title: Bandit Leader
-revid: 39152
+revid: 40752
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Bandit Leader

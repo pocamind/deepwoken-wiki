@@ -1,8 +1,9 @@
 ---
 title: Deepwoken Cloak
-revid: 40571
+revid: 40778
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Deepwoken Cloak

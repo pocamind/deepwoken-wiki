@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40676
+revid: 40849
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1098,8 +1098,8 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 
 ### Scholar of the Cloud
 
--   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   Gained when talking to Stratos. You must have good reputation with Etrea.
+-   Windwalker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
+    -   Gained when talking to Stratos. You must have good reputation with Etrea. Increases Boat speed more drastically when your sail is facing in the right direction of the wind.
 
 ### Self-Shocker
 

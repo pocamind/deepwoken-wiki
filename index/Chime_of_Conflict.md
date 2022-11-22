@@ -1,9 +1,9 @@
 ---
 title: Chime of Conflict
-revid: 34519
+revid: 40768
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, Character, Talents]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---

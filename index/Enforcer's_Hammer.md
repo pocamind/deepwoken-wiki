@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Hammer"
-revid: 40698
+revid: 40793
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Character, Weaponry]
 ---
 
 # Enforcer's Hammer

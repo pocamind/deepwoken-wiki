@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 40693
+revid: 40735
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 Template:Creature Infobox V3
 
-White lionfish variant, Exclusive to [The depths](The_Depths.md)
+  
 
 ## Description
 
@@ -50,6 +50,12 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
   <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>55 damage</b></i>. (Corrupted Lionfish deal <i><b>165 damage</b></i> with this move.) If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. (<b>Depths Exclusive</b>)</td>
   <td><font>✗</font></td>
   <td>(★★☆)</td>
+</tr>
+<tr>
+  <td><b><font>Chilling Cero!</font></b></td>
+  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>??? Damage</b></i>, and <font>freezing</font> on hit. This also leaves <font>ice</font> where it lands.</td>
+  <td><font>✗</font></td>
+  <td>(<font>★★</font>☆)</td>
 </tr>
 </tbody>
 </table>

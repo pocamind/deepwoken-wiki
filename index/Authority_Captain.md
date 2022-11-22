@@ -1,8 +1,9 @@
 ---
 title: Authority Captain
-revid: 33825
+revid: 40744
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Authority Captain

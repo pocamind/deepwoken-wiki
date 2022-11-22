@@ -1,8 +1,9 @@
 ---
 title: Monster Bait
-revid: 39453
+revid: 40844
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, Items]
 ---
 
 # Monster Bait

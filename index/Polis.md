@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 39663
+revid: 40851
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and a worshiper of the god, Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him. When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
+Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the Celestial, Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him. When The Central Authority invades [Etris](Etris.md), he fights to defend his home.
 
 ## Moveset
 

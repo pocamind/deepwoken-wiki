@@ -1,9 +1,9 @@
 ---
 title: Diver
-revid: 34101
+revid: 40782
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, World, NPCs]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---

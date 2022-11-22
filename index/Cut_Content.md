@@ -1,9 +1,9 @@
 ---
 title: Cut Content
-revid: 40529
+revid: 40787
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, Community]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -55,6 +55,7 @@ notices:
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was possibly the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **Murmur: Rhythm -** Allowed the player to hear the heartbeat of other players and entities, essentially giving them ESP. This was removed, but the core feature of it was kept in the game via crouching and listening.
+    -   The ESP functionality would also be given to Call-out (CHA Talent) as a manual key-press.
 -   **Sacks** **\-** Craftable a short time after release but then shadow removed, due to it being 'useless'. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chests dropped from the monsters used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. 2 NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
 -   **Lore Guilds -** Their used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. Known inaccessible Lore guilds include The Hive.

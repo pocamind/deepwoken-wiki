@@ -1,8 +1,9 @@
 ---
 title: The Ignition Union
-revid: 34081
+revid: 40820
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # The Ignition Union

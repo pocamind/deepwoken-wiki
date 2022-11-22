@@ -1,8 +1,9 @@
 ---
 title: Leveling
-revid: 38703
+revid: 40836
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Mechanics]
 ---
 
 # Leveling

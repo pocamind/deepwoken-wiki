@@ -1,8 +1,9 @@
 ---
 title: Cheral
-revid: 34348
+revid: 40786
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Cheral

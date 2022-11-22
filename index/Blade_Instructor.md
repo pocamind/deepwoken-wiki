@@ -1,8 +1,9 @@
 ---
 title: Blade Instructor
-revid: 39863
+revid: 40756
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Blade Instructor

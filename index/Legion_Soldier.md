@@ -1,8 +1,9 @@
 ---
 title: Legion Soldier
-revid: 33808
+revid: 40835
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Legion Soldier

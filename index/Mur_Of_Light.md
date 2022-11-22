@@ -1,9 +1,9 @@
 ---
 title: Mur Of Light
-revid: 40385
+revid: 40846
 source: https://deepwoken.fandom.com/wiki/Mur_Of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, World]
 ---
 
 # Mur Of Light

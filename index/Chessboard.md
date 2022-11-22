@@ -1,8 +1,9 @@
 ---
 title: Chessboard
-revid: 36064
+revid: 40767
 source: https://deepwoken.fandom.com/wiki/Chessboard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, Locations]
 ---
 
 # Chessboard

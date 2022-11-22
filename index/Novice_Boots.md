@@ -1,8 +1,9 @@
 ---
 title: Novice Boots
-revid: 35679
+revid: 40848
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Novice Boots

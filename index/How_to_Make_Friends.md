@@ -1,9 +1,9 @@
 ---
 title: How to Make Friends
-revid: 39209
+revid: 40823
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, World, Items]
 ---
 
 # How to Make Friends
@@ -62,9 +62,9 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 -   You can train charisma when not near an NPC or player.
 -   Many of the phrases in How To Make Friends are really corny and often reference a race.
-    -   For example, Hivekin refers to the [Vesperian](Vesperian.md) race (as they are beetles.)
+    -   For example, Hivekin refers to the [Vesperian](Vesperian.md) and [Ganymede](Ganymede.md) race (as they are beetles.)
 
--   You may get **Charisma** faster when reciting phrases next to an NPC, not a player. ~(Not tested)~ This is false, it was tested in [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) by Birbingish
+-   You may get **Charisma** faster when reciting phrases next to an NPC, not a player. This is false, it was tested in [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) by Birbingish
 -   It is not usually recommended to type out the phrases yourself, you may simply open up Notepad and put the phrases in, then CTRL + C CTRL + V them when needed.
 -   Farming **Charisma** is a lot faster than levelling up with the Instructor or at [Lower Erisia](Lower_Erisia.md).
 -   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.
@@ -74,7 +74,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Removed Phrases
 
--   You doing anything next week? Because I'd like to see you greMORE. (Roblox did not approve.) (more accurately coppa didnt. if u want to know what coppa is, to remain as short as possible without going ot of context it says it protects kids privacy altho it actuallya buses them an whenever a company lets a under 13 year old who was ''harmed'' by their website just because of their age, lets just say the ''harmed'' kid doesnt get no nothing.)
+-   You doing anything next week? Because I'd like to see you greMORE. (Roblox did not approve.) (more accurately C.O.P.P.A. didn't. if u want to know what C.O.P.P.A. is, to remain as short as possible without going to of context it says it protects kids privacy although it actually abuses them an whenever a company lets a under 13 year old who was ''harmed'' by their website just because of their age, lets just say the ''harmed'' kid doesn't get no nothing.)
 
 -   So, you doing anything on the weekend?
 

@@ -1,8 +1,9 @@
 ---
 title: Legion Sniper
-revid: 39177
+revid: 40834
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Legion Sniper

@@ -1,8 +1,9 @@
 ---
 title: Evengarde Rest
-revid: 39664
+revid: 40801
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Evengarde Rest

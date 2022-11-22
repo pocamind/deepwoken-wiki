@@ -1,8 +1,9 @@
 ---
 title: Books
-revid: 35242
+revid: 40759
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Community]
 ---
 
 # Books

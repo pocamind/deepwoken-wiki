@@ -1,8 +1,9 @@
 ---
 title: Hive Guard
-revid: 34417
+revid: 40817
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, NPCs]
 ---
 
 # Hive Guard

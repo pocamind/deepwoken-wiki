@@ -1,8 +1,9 @@
 ---
 title: Legion Boots
-revid: 38727
+revid: 40827
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Legion Boots

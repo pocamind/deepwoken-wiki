@@ -1,8 +1,9 @@
 ---
 title: "Brigand's Cloak"
-revid: 38411
+revid: 40761
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Armors]
 ---
 
 # Brigand's Cloak

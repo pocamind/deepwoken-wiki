@@ -1,8 +1,9 @@
 ---
 title: Death Compendium
-revid: 38593
+revid: 40777
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Community, Death]
 ---
 
 # Death Compendium

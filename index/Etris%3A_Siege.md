@@ -1,8 +1,9 @@
 ---
 title: "Etris: Siege"
-revid: 37930
+revid: 40799
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World]
 ---
 
 # Etris: Siege

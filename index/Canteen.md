@@ -1,8 +1,9 @@
 ---
 title: Canteen
-revid: 34436
+revid: 40764
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, Items]
 ---
 
 # Canteen

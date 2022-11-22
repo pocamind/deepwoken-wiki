@@ -1,9 +1,9 @@
 ---
 title: "Attunement-less"
-revid: 40296
+revid: 40742
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Character, Attunement]
 ---
 
 # Attunement-less

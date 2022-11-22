@@ -1,8 +1,9 @@
 ---
 title: Dying Embers
-revid: 24555
+revid: 40785
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World, Items]
 ---
 
 # Dying Embers
