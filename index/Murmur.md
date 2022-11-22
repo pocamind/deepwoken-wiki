@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 40630
+revid: 40694
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -71,7 +71,7 @@ The detection of Tacet can be reduced the higher Power the player is.
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 60, the player can avoid any and all monsters or NPCs even when touching them. **Do keep in mind**, if you activate Tacet while a NPC is chasing you and is extremely close, they will not de-aggro. You must make a bit of distance between you and it.
--   In PVP, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not.
+-   In PVP, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
 
 ### **Obtainment**
 

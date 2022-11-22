@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 39200
+revid: 40689
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -33,4 +33,4 @@ Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupte
 ## Trivia
 
 -   The highest damage spear in the game due to having bleed. Including the 1.3x damage multiplier from bleed damage, it does 37.44 damage at 100 medium.
--   The model for this weapon is similar to that of the [Serrated Warspear](Serrated_Warspear.md).
+-   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.

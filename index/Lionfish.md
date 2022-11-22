@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 38616
+revid: 40693
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -13,6 +13,8 @@ categories: [Monsters]
 ― Lionfish scale description
 
 Template:Creature Infobox V3
+
+White lionfish variant, Exclusive to [The depths](The_Depths.md)
 
 ## Description
 

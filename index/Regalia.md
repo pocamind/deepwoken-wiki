@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 40671
+revid: 40685
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,15 +27,7 @@ While Regalia's DO have a way to obtain them, they CAN be obtained randomly, as 
   
 Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds. Humanoid enemies will still aggro the player on sight.
 
-There is a certain unconfirmed way to obtain it. Mute can only be obtained from wiping. The most functional theorized method of obtaining it involves killing monsters. Mute has a base chance to obtain after wiping, this chance can presumably be increased by killing more monsters before wiping. While this method has yet to be confirmed, this is most likely the obtainment due to it also fitting all the statements by Arch\_Mage on it.
-
-Contrary to the previous statement if you wipe at a low enough level you are guranteed to keep animal king, I haven't found the highest level you can wipe animal king and keep it, I believe it should be power 5 though.
-
-Proof:[The 2x animal king is real! can we get much higher! - YouTube](https://www.youtube.com/watch?v=0zHNjRDTsiU)
-
-[2nd time wiping animal king in a row(3rd time I get animal king in a row) - YouTube](https://www.youtube.com/watch?v=9eOj_OtXiow)
-
-(I can keep recording myself wiping animal king and getting it again multiple times in a row for more proof)[\[1\]](https://www.youtube.com/watch?v=0zHNjRDTsiU)
+There is a certain unconfirmed way to obtain it. Mute can only be obtained from wiping. The most functional theorized method of obtaining it involves killing monsters. Mute has a base chance to obtain after wiping, this chance can presumably be increased by killing more monsters before wiping. While this method has yet to be confirmed, this is most likely the obtainment due to it also fitting all the statements by Arch\_Mage on it.[\[1\]](https://www.youtube.com/watch?v=0zHNjRDTsiU)
 
 ## Trivia
 
