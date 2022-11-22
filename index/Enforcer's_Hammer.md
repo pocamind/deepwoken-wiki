@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 40518
+revid: 40698
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,9 +29,8 @@ categories: [Weapons]
 
 ## Description
 
-The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from the [Enforcer](Enforcer.md), and it requires level 30, 85 Heavy Weapons Skill and 25 Strength to wield. The weapon has a Base Damage of 25 and a scaling of 9. Notably, the Enforcer's Hammer also has a 10% penetration and chip stat.
+The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from the [Enforcer](Enforcer.md). It requires Power 30, 85 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and chip damage.
 
 ## Notes & Trivia
 
--   Rare drop from [Enforcer](Enforcer.md).
--   Very drippy on Vesparians.
+-   Rare drop from the [Enforcer](Enforcer.md).
