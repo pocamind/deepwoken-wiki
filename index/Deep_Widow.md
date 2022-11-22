@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 40214
+revid: 40667
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,9 +28,7 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
 
   
 
-**This move will auto-grip if it hits you while knocked or at low h**
-
-**ealth.**
+**This move will auto-grip if it hits you while knocked or at low h****ealth.**
 
  | 
 

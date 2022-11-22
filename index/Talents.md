@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40623
+revid: 40676
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -10,9 +10,9 @@ notices:
 
 # Talents
 
-“ ohhh my GOOOOODDDDD ”
+“ Your training finally bears fruit... ”
 
-― Expert Player getting Adept at level 3 in trial of one.
+― Selection Flavour Text
 
   
 
@@ -77,7 +77,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
-    -   Prerequisites: 15 Strength, Aerial Stab
+    -   Prerequisites: 15 Strength, 25 Medium, Medium Weapon.
     -   Synergizes well with Aerial attack Talents.
     -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
 
@@ -139,6 +139,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
+    -   Prerequisites: 30 Agility, 30 Fortitude
 -   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisites: 20 Agility
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
@@ -174,6 +175,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
+    -   Prerequisites: Power 35
 
 ### Artisan
 
@@ -1470,7 +1472,7 @@ These Talents are designed to make you more effective in water.
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to perform a fast aerial attack when you M1 while airborne. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
     -   Grants Heavy weapons an Aerial Attack when they M1 while airborne (Cooldown: 2.5 Seconds)
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
@@ -1483,7 +1485,7 @@ These Talents are designed to make you more effective in water.
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
     -   Prerequisite: 40 Strength
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
-    -   Prerequisite: ?? Agility, ?? Light Weapon, Aerial Spin
+    -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger, Aerial Spin
 
 ### Whisper
 

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 40032
+revid: 40668
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -46,4 +46,4 @@ These races are currently exclusive to NPCs, and have not been confirmed to be o
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   Khan, Gremor, Adret, and Canor are the only races to have an in game item named after them.
+-   Khan, Gremor, Adret, Canor and Krulian are the only races to have an in game item named after them.

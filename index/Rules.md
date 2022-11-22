@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 40643
+revid: 40663
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -8,7 +8,7 @@ categories: [Browse, Deepwoken Wiki, Rules, Community]
 
 # Rules
 
-## General
+## Preface to our rules
 
 This page contains a **set of rules** established by the local [Wiki Staff members](Wiki_Staff.md) that all users should follow to keep the [Wiki](Deepwoken_Wiki.md) in good shape and to maintain the safe environment it provides. Additionally to these rules, all users should abide by all **Fandom policies and reguations**. For each violation, there are **consequences**, which are listed below too.
 
@@ -20,98 +20,118 @@ You may appeal a punishment (if you deem it is not correct) by contacting an [Ad
 
 Staff members are **not bound to only deal with these cases** and **may deal with the violation with their own judgment** based on the circumstances. **Loopsholes are to** **be reported** and **not abused**, abusing loopholes will result in a more **severe consequence**.
 
-## **Light Offense**
+## **Light Offences**
 
-| Violation | Description | Warnings | Punishment |
+| Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
-| **Offensive Words** | Usage of derogative words aimed at another wiki member(s). | 
+| **Offensive Words** | Usage of derogative words aimed at another wiki member(s) or organization(s). | 
 1
 
- | 1 Day Chat Ban |
+ | 1 Day Namespace Block |
 | **Spam** | Repeated posts / messages over a short time, and unnecessarily long comments. | 
 
 1
 
- | 3 Day Chat Ban |
+ | 3 Day Namespace Block |
+| **Templates Misuse** | Using improperly templates across the Wiki. | 
+
+2
+
+ | 3 Day Namespace Block (varies with intent) |
+| **Irrelevant Blog Posts** | Creating blog posts that have no relevance to Deepwoken or the Wiki, made as a joke. | 
+
+1
+
+ | 1 Week Namespace Block |
 | **Irrelevant Pages** | Creating a page with no relevance to Deepwoken, to start a discussion, or as a joke. | 
 
 1
 
- | 1 Week Block |
-| **Irrelevant Image** | Adding an image that is for jokes or vandalism | 
+ | 1 Week Namespace Block |
+| **Irrelevant Categories** | Creating categories with no relevance to Deepwoken. | 
 
 1
 
- | 1 Week Block |
+ | 1 Week Namespace Block |
+| **Irrelevant Image** | Adding an image that is for jokes or vandalism. | 
 
-## **Moderate Offense**
+1
 
-| Violation | Description | Warnings | Punishment |
+ | 1 Week Namespace Block |
+
+## **Moderate Offences**
+
+| Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
 | **Vandalism** | Editing a page with a clear intent of adding false or irrelevant information. | 
-0
+None
 
- | 3 Week Block |
-| **Alt. Acc. Bypass** | Using an alternate account. During the time your main account is blocked | 
+ | 3 Week Namespace Block |
+| **Alt. Acc. Bypass** | Using an alternate account, during the time your main account is blocked. | 
 
-0
+None
 
- | Extended Block (2 Weeks) |
-| **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for robux, real money, an account, etc. | 
-
-0
-
- | 2 Week Chat Ban |
+ | 2 Weeks Extended Block |
 | **Repeated Level 2 Offenses** | Repeating Light Offences. | 
 
-0
+None
 
- | 3 Week Block |
+ | 3 Week Namespace Block |
 
-## **Severe Offense**
+## **Severe Offences**
 
-| Violation | Description | Warnings | Punishment |
+| Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
 | **Multiple Irrelevant Pages** | Creating multiple irrelevant pages. | 
-0
+None
 
- | 3 Month Block (Varies with amount) |
+ | 3 Month Namespace Block (varies with amount) |
 | **Numerous Vandalisms** | Editing multiple pages with a clear intent to degrade the page. | 
 
-0
+None
 
- | 3 Month Block (Varies with amount) |
+ | 3 Month Namespace Block (varies with amount) |
 | **Multiple Irrelevant Images** | Adding multiple irrelevant images. | 
 
-0
+None
 
- | 1 Month Block (Varies with amount) |
+ | 1 Month Namespace Block (varies with amount) |
 | **Editing others' profiles** | Editing profile(s) that aren't your(s). | 
 
-0
+None
 
- | 3 Month Block (Varies with amount) |
+ | 3 Month Namespace Block (varies with amount) |
 | **Repeated Level 3 Offences** | Repeating Moderate Offences. | 
 
-0
+None
 
- | 3 Month Block |
+ | 3 Month Namespace Block |
 
-## **Extremely Severe Offense**
+## **Extremely Severe Offences**
 
-| Violation | Description | Warnings | Punishment |
+| Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
-| **Pornography** | Adding porn / explicit image(s) to this wiki. | 
-0
+| **Pornography** | Adding explicit content to this wiki. This includes: images, videos, text, links, etc. | 
+None
 
- | Permanent Block |
+ | Permanent Extended Block |
 | **Impersonation** | Pretending to be someone you are not to deceive other users. | 
 
-0
+None
 
- | Permanent Block |
+ | Permanent Extended Block |
+| **Pedophilia / Child Pornography** | Any content, action or conversation that revolves around sexualizing minors. | 
+
+None
+
+ | Permanent Extended Block, Discord Ban and any necessary legal actions. |
+| **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for Robux, real money, an account, etc. | 
+
+None
+
+ | Permanent Extended Block |
 | **Repeated Level 4 Offences** | Repeating Severe Offences. | 
 
-0
+None
 
- | Permanent Block |
+ | Permanent Extended Block |
