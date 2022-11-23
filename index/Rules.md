@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 40663
+revid: 40883
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -96,7 +96,7 @@ None
 None
 
  | 1 Month Namespace Block (varies with amount) |
-| **Editing others' profiles** | Editing profile(s) that aren't your(s). | 
+| **Editing others' profiles** | Editing profiles that aren't yours. | 
 
 None
 

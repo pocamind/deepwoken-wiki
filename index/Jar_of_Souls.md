@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 40568
+revid: 40912
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -31,19 +31,19 @@ On output, the user fires a large, bright beam, similar to Lightning Beam in fro
 
 Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd (for version 2 at least)
 
-Passively, **Jar of Souls** store the souls of dead humanoids nearby.
+Passively, **Jar of Souls** store the souls of dead humanoids nearby. Different humanoids or "souls" recharge the resonance in different amounts (this will of course vary from person to person based on their own resonance point usage). However, you'll find higher-tier humanoids recharge the resonance faster than the lower tier, e.g, it may only take one Primal Golem's soul to recharge to capacity, whereas in contrast, it may take 10 Bandit Leader's souls to recharge to capacity.
 
-Activating the resonance fires a white beam that deal damage.
+Activating the resonance fires a white beam that deals damage.
 
 ### _Resonance Point usage_
 
 When obtained, Jar of Soul will spend its points on the following stats:
 
 -   **Beam type:** Decides the type of beam that will be used.
-    -   The "sniper" beam is a singular beam that use all stored souls at once to deal damage in one instance.
-    -   The "continuous" beam is a long lasting beam that hits multiple time and uses the souls stored over time. Hold C to keep firing the laser if available.
+    -   The "sniper" beam is a singular beam that uses all stored souls at once to deal damage in one instance.
+    -   The "continuous" beam is a long-lasting beam that hits multiple times and uses the souls stored over time. Hold C to keep firing the laser if available.
 -   **Refill multiplier:** The more points are spent on this stat, the easier it is to recharge the resonance to full.
--   **Auto Execute:** Decides if your attack can auto execute (Must have atleast one soul to do this)
+-   **Auto Execute:** Decides if your attack can auto execute (Must have at least one soul to do this)
 -   **Range:** The more points are spent on this stat, the further the beam can reach.
 
 ## Trivia
