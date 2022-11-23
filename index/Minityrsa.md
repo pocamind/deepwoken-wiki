@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 40843
+revid: 40998
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -82,7 +82,6 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Razor Cutlass](Razor_Cutlass.md) (uncommon)
 -   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rogue Construct)
 -   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) (uncommon from Rogue)
--   Mid-High [enchant](Enchantments.md) rates (from Rogue Construct)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rogue Construct)
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita)
 -   Master Hawk's Handaxe (Rogue Construct chest)

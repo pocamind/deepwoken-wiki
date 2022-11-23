@@ -1,9 +1,9 @@
 ---
 title: Monsters
-revid: 40922
+revid: 40996
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Mechanics]
+categories: [Monsters, Mechanics, Pages that use a deprecated format of the math tags]
 ---
 
 # Monsters
@@ -77,23 +77,14 @@ Calculating how much health a Monster has from just your damage alone won't be c
 
 ### Formulas
 
-The formula you can use to calculate how many hits you need to kill a monster is:
+The formulas that you need to calculate how many hits are required to kill a monster are the following:
 
-_**HitsNeeded = MonsterHealth / ((PowerLevel + 10) ⋅ (WeaponDamage ⋅ (DmgVsMonsters /100+1)) ⋅ 0.089)**_
+D a m a g e P e r M 1 \= ( P o w e r + 10 ) × ( W e a p o n D a m a g e × ( D m g V S M o n s t e r s % 100 + 1 ) × 0.089 ) {\\displaystyle DamagePerM1 = (Power + 10) \\times (WeaponDamage \\times (\\tfrac{DmgVSMonsters\\%}{100} + 1) \\times 0.089)} {\\displaystyle DamagePerM1=(Power+10)\\times (WeaponDamage\\times ({\\tfrac {DmgVSMonsters\\%}{100}}+1)\\times 0.089)}  
+H i t s \= M o n s t e r H e a l t h ( 100   −   R e s i s t a n c e % 100 )   ×   D a m a g e {\\displaystyle Hits = \\tfrac{MonsterHealth}{(\\tfrac{100 ~ - ~ Resistance\\%}{100}) ~ \\times ~ Damage}} {\\displaystyle Hits={\\tfrac {MonsterHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}}
 
-So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, with 10% Damage VS monsters, and at level 60, you would do:
+Example: If you were to fight a a Stone Knight with 9000 health and 55% resistance to slashing, using a weapon that does 40 damage per hit, while having 10% Damage VS Monsters and being at level 60, you would do:
 
-**1000 /((60 + 10) ⋅ (40 _⋅ (10/100+1)_) ⋅ 0.089)**, which would come out to 3.6480373559 hits.
-
-The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
-
-_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt⋅ ((PowerLevel + 10) ⋅ (WeaponDamage ⋅ (DmgVsMonsters/100+1)) ⋅ 0.089))**_
-
-_**note, 'PercentOfDamageDealt' means how much you DO to them WITH the resistance, not how much the resistance IS. If they have a 60% resistance, you do 40% damage, so you put 40%. Not 60%.**_
-
-If you were to fight a Stone Knight, which has a 55% resistance to slashing, with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
-
-**9000 / (0.45 ⋅ ((60 + 10) ⋅ (40 _⋅ (10/100+1))_ ⋅ 0.089))**, which would come out to 72.9607471 hits.
+D a m a g e P e r M 1 \= ( 60 + 10 ) × ( 40 × ( 10 100 + 1 ) × 0.089 ) \= 274.12 {\\displaystyle DamagePerM1 = (60 + 10) \\times (40 \\times (\\tfrac{10}{100} + 1) \\times 0.089) = 274.12} {\\displaystyle DamagePerM1=(60+10)\\times (40\\times ({\\tfrac {10}{100}}+1)\\times 0.089)=274.12} H i t s \= 9000 ( 100   −   55 100 )   ×   274.12 \= 73 ( 72.9607471181 ) {\\displaystyle Hits = \\tfrac{9000}{(\\tfrac{100 ~ - ~ 55}{100}) ~ \\times ~ 274.12} = 73 (72.9607471181)} {\\displaystyle Hits={\\tfrac {9000}{({\\tfrac {100~-~55}{100}})~\\times ~274.12}}=73(72.9607471181)}
 
 _[Easily calculate damage done to monsters](https://www.desmos.com/calculator/usavuouqfq)_.
 
