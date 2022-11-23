@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 40316
+revid: 40861
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -300,3 +300,4 @@ Items and equipment that can be obtained from loot chests.
 ## Trivia
 
 -   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a talent card related to Reputation.
+-   The only place to buy guns in Eastern Luminant.

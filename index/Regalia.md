@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 40685
+revid: 40864
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,14 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Obtainment
 
-To obtain a Regalia, the player must:
-
-1.  Perform certain task related to the Regalia the player wants to unlock
-2.  Wipe
-
-The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
-
-While Regalia's DO have a way to obtain them, they CAN be obtained randomly, as many have gotten them from simply starting the game for the first time, or making a new slot.
+Currently there is no remotely functional method to obtain a true Regalias, nor is there any evidence of there even being one. The most functional method involves wiping until you obtain one.
 
 ## Mute
 
@@ -25,9 +18,16 @@ While Regalia's DO have a way to obtain them, they CAN be obtained randomly, as 
 ― Fallout 3 Animal Friend Description
 
   
-Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds. Humanoid enemies will still aggro the player on sight.
+Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro the player on sight.
 
-There is a certain unconfirmed way to obtain it. Mute can only be obtained from wiping. The most functional theorized method of obtaining it involves killing monsters. Mute has a base chance to obtain after wiping, this chance can presumably be increased by killing more monsters before wiping. While this method has yet to be confirmed, this is most likely the obtainment due to it also fitting all the statements by Arch\_Mage on it.[\[1\]](https://www.youtube.com/watch?v=0zHNjRDTsiU)
+## Sub-Regalias/Semi-Regalias
+
+The concept of Regalias are almost entirely a mystery, with there only being one of them which has been confirmed- Mute. The category of "Sub-Regalias" does not include any Regalias, however these are talents which have a similar obtainment to a Regalias.
+
+-   [Termite](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct)
+-   [Survival Kit](https://deepwoken.fandom.com/wiki/Talents#Master_Survivalist)
+
+[\[1\]](https://www.youtube.com/watch?v=0zHNjRDTsiU)
 
 ## Trivia
 

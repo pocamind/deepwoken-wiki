@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 40686
+revid: 40862
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -65,7 +65,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 **Unknown**
 
-**Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
+[Dread Serpent](Dread_Serpent.md)**Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
 
 ## PVE Scaling/Monster Health
 
