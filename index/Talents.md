@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 40849
+revid: 40869
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -991,8 +991,8 @@ These are just raw stat increases and are beneficial to anyone.
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
-    -   Prerequisite: 40 willpower and Murmur: Ardour.
-    -   Significantly reduces the opponent's armor and puts them in a combat tag
+    -   Prerequisite: 40 willpower, 20 strength, and Murmur: Ardour.
+    -   Inflicts a status effect to all players and NPCs within a wide radius that combat tags, increases all incoming damage by 25%, doubles posture damage taken, and disables tacet for 10 seconds.
     -   Cannot be trained, takes 100% of your ether regardless of how much ether you have
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 40822
+revid: 40882
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -34,28 +34,28 @@ It can be found digging in the marketplace area near the gate, but will run towa
 | **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
 | **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a kick. | N/A | (★☆☆) |
 
-**Thunder Fist Nautilodaunt:**
+**Fury Nautilodaunt:**
 
 ## Description
 
-Template:Creature Infobox V3 The Thunder Fist Nautilodaunt, taking on a darker tone and by the work of some pitiful Drowned God has the ability to and knows how to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp.
+Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and by the work of some pitiful Drowned God has the ability to and knows how to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp.
 
 ## Attack Patterns
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
+| **Fists of Thunder!** | All of Nautilodaunts hits now apply Electrify. Removing hyper-armor and true-stunning. | N/A | (★★★★) |
 | **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★★☆) |
 | **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
 | **Flip- Kick** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
 | **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
-| **Grand Stomp** | Squibbo stomps the ground aggressively with his feet, sending pillars of spear-like thunder and rubble hurtling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★★) |
+| **Electro Stomp** | Squibbo stomps the ground aggressively with his feet, sending pillars of spear-like thunder and rubble hurtling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
 | **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a Kick. | N/A | (★☆☆) |
 
 ### Finisher
 
 -   **"Mudskipperification"** - Get wiped and turned into a [Mudskipper](Mudskipper.md).
--   "Squidification" - Get wiped and turned into a **Nautilodaunt**. This death animation is extremely rare.
 
 ## **Combat**
 

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 40865
+revid: 40878
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,17 +10,16 @@ categories: [Monsters]
 
 “ ...The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in their sheer size. ”
 
-― Lionfish scale description
+― Lionfish Scale description
+
+**Lionfish:**
 
 Template:Creature Infobox V3
-
-  
 
 ## Description
 
 A large brown fish with a black mane of a lion, hence it's name. It has white blank eyes, with it's teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
 
-  
 It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Moves
@@ -51,9 +50,38 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
   <td><font>✗</font></td>
   <td>(★★☆)</td>
 </tr>
+</tbody>
+</table>
+
+**Glacial Lionfish:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Due to mutations in its genes, certain Lionfish were blessed with the power to wield Frostdraw to a limited degree. This shows itself in the primarily white coloring and blue blank eyes.
+
+Notably enough, it's the only other way to obtain the extremely rare True Seraph's Spear.
+
+## Moves
+
+<table><caption></caption>
+<tbody>
 <tr>
-  <td><b><font>Chilling Cero!</font></b></td>
-  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>??? Damage</b></i>, and <font>freezing</font> on hit. This also leaves <font>ice</font> where it lands.</td>
+  <th><b>Name</b></th>
+  <th><b>Description</b></th>
+  <th><b>Parry-able?</b></th>
+  <th><b>Danger</b></th>
+</tr>
+<tr>
+  <td><b>Bite</b></td>
+  <td>The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, dealing <i><b>25 damage</b></i>. (Roughly 40+ damage if corrupted)</td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><b><font>Chilling Cero</font></b></td>
+  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged,it'll come back down, firing a massive laser beam at its opponent, dealing <i><b>??? Damage</b></i>, and <font>chilling</font> whoever gets hit by it. This also leaves <font>ice</font> where it lands.<p><font>This will auto-grip you if hit by it at low health</font></p><font></font></td>
   <td><font>✗</font></td>
   <td>(<font>★★</font>☆)</td>
 </tr>
