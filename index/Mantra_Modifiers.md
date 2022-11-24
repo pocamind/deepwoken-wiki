@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 41002
+revid: 41006
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -115,7 +115,7 @@ Aeon Logstone
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 1 key to Ritual Casts.
-    -   Doesn't increase the duration of Adrenaline Rush.
+    -   Doesn't increase the duration of Adrenaline Surge.
 
  |
 |  | 
