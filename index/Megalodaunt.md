@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 40567
+revid: 41010
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -208,5 +208,5 @@ A Megalodaunt swimming.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   They very closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree and let the sharko stand on top, which will make the Sharko miss all it's attacks. It's very risky but it is profitable.
--   Unless you're a high enough level to consistently skill-check the sharko (typically somewhere around power 40 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
+-   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 40 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses).
