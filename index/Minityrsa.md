@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 40998
+revid: 41000
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -85,6 +85,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rogue Construct)
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita)
 -   Master Hawk's Handaxe (Rogue Construct chest)
+-   [Night Axe](Night_Axe.md)(Rare drop from necromancers or brainsuckers)
 
  | 
 

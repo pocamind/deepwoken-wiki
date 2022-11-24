@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 40414
+revid: 41002
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -26,7 +26,7 @@ Keep in mind not all mantra modifiers are obvious and may _**not**_ work correct
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
-A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 times. Adding mods increase the ether cost of mantras by 7% and 14% for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 50%, down to 3.5% and 7%.
+A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 times. Adding mods increase the ether cost of mantras by 7% and 14% for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 5.4% and 11.2%.
 
 After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
 
