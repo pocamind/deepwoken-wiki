@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 40473
+revid: 41037
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -235,7 +235,8 @@ There are two variants that enchantments come in:
   <font>Curse of Zariffs Absorption<div></div></font></center></td>
   <td><div><p>Currently a placeholder.<br>
   <b>Unobtainable</b><br>
-  <b>Confirmed by Yayafino</b></p></div></td>
+  <b>Confirmed by Yayafino</b><br>
+  <b>Not a Dev Spec.....</b></p></div></td>
   <td><div>Static flaming purple.</div></td>
 </tr>
 </tbody>
