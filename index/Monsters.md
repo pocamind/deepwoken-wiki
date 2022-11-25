@@ -1,9 +1,9 @@
 ---
 title: Monsters
-revid: 41015
+revid: 41044
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Mechanics, Pages that use a deprecated format of the math tags]
+categories: [Monsters, Mechanics]
 ---
 
 # Monsters
