@@ -1,9 +1,9 @@
 ---
 title: Authority Officer
-revid: 40749
+revid: 41029
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [Enemies]
 ---
 
 # Authority Officer
@@ -72,4 +72,4 @@ An Authority officer executes it's opponent after knocking them:
 
 ## Trivia
 
--   An Authority officer can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.
+-   An Authority officer can lose to a [Mudskipper](Mudskipper.md) if it gets backed into a corner.\]\]

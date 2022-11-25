@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 38758
+revid: 41022
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -58,9 +58,13 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 ### Sparring Arena
 
 -   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md).
-    
-    File:Unknownzipline.png
-    
+
+### Zipline (don't even think about deleting it)
+
+-   -   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead you to a unknown place, I have zero agility sadly so idk what is on top of that mountain.
+        
+        File:Unknownzipline.png
+        
 
 ## Missions
 

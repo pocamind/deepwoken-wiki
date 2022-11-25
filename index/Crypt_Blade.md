@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 40074
+revid: 41025
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -33,5 +33,5 @@ The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animate
 
 ## Trivia
 
--   The original model for the Crypt Blade was just [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
+-   The original model for the Crypt Blade was just a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons (i.e Hero Blades,) the Crypt Blade doesn't have any surviving Enchanted counterparts.

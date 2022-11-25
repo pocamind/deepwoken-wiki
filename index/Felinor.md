@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 40059
+revid: 41023
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -79,7 +79,7 @@ Sero
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.
     -   This may be because of the disdain the community shows towards them.
--   Felinors are somewhat negatively looked upon in the community, due to their design appealing to a certain audience.
+-   Felinors are somewhat negatively looked upon in the community, due to their design appealing to a certain audience. For example when Deepwoken first came out there was once the great hunt of felinor where a player hunts other player with the race of felinor. Though not many remembered, it's a very real event in Deepwoken and it's a devastating one
 -   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.

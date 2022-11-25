@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 39121
+revid: 41024
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -190,7 +190,7 @@ Yun'shul
 #### Songseeker Wilds (Etrean Luminant)
 
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
--   It can be assumed that this island has some sort of connection to the Song (Mantra).
+-   It can be assumed that this island has some sort of connection to the Song.
 -   The trainer for Fire Mantra owns a dojo on the island.
 
 #### Starswept Valley (Etrean Luminant)
@@ -716,7 +716,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   Children of Celestials, the Lightborn are considered fragments of these once great beings who lived above in the sky.
 -   In recent times, a family of Lightborn known as the Spellhards have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
--   Rumored to be living in a mighty castle above in the sky, visible through the Celestial Telescope in the [Greathive Aratel](Greathive_Aratel.md).
+-   Some of the Lghtborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
 -   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
 
@@ -731,7 +731,7 @@ _"The stars call you back..."_
     -   Some people misinterpreted "Drawn from the Heavens by the Song", referring this quote to the Canticlysm; but it was actually the Celestials that was being referred to.
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
--   The Celestials are presumably extinct, though evidence is required to confirm the theory.
+-   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
@@ -1010,7 +1010,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded."
     -   In the game, you can only obtain your Resonance Bell in The Depths, as well as Sibex noting they are particularly good for drawing them out. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
--   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
+-   (Yamaketzal) Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
 
@@ -1140,11 +1140,12 @@ Though technically a blank slate of varying races and abilities, even the player
 
 At the year 1271 of Spring, The Player makes their first appearance in the world of Deepwoken.
 
--   The Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, without any in-game training.
+-   The Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry.
+    -   In the castaway origin, they learned this with the training of their captain.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
 -   The Player was frequently on the ocean before the events of the game, as the entering the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
--   The Player was found on the beaches of Etris or Isle of Vigils, and were escorted to the Inns of both Islands.
--   The Player was once part of a pirates guild but the authority attacked the ship and him being found on the beaches of either etris or vigil.
+-   The Player in the castaway origin was once part of a pirates guild, but the authority attacked the ship and they ended up being found on the beaches of either Etris or vigil.
+-   The description of Erisor's church implies that the Player has either been to Erisia before or knew of a figure named "Erisor"
 
 ### Character Deaths
 
