@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 38716
+revid: 41081
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -26,7 +26,7 @@ This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all 
 
 ## Central Luminant
 
-A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers, which use an [Oath](Oaths.md) magic called _Adagio_ that slows down time in a bubble.
+A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers, which use an [Oath](Oaths.md) magic that slows down time in a bubble.
 
 This Luminant is probably a link between all [Attunements](Attunements.md), or home to people with [no attunement](Attunement-less.md).
 

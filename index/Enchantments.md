@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 41037
+revid: 41068
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -230,15 +230,6 @@ There are two variants that enchantments come in:
   Rarely, take self damage equal to 10% of own HP.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Curse of Zariffs Absorption<div></div></font></center></td>
-  <td><div><p>Currently a placeholder.<br>
-  <b>Unobtainable</b><br>
-  <b>Confirmed by Yayafino</b><br>
-  <b>Not a Dev Spec.....</b></p></div></td>
-  <td><div>Static flaming purple.</div></td>
-</tr>
 </tbody>
 </table>
 
@@ -425,6 +416,23 @@ Face, Ears, Back accessories Enchants
 Enchanted face, ears, back accessories were removed from the loot pool.
 
  |
+| 
+
+  
+Curse of Zariffs Absorption
+
+ | 
+
+Currently a placeholder.  
+**Unobtainable**  
+**Confirmed by Yayafino**  
+**Not a Dev Spec.....**
+
+ | 
+
+Static flaming purple.
+
+ |
 
 ## Trivia
 
@@ -450,11 +458,3 @@ Vampirism enchant on a Khan Shield
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
 -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-
-  
-
-## Trading
-
-Trading within Deepwoken is an integral part of the circulation of Enchantments. Various trading networks have been made in this player-based economy to ensure smoother transactions and safer deals. With this in mind, one trading network has been an integral part of providing secure and quick transactions between players, and that network is the Deepwoken Trading Hub.
-
--   If you want to trade enchants, suggest looking into the Deepwoken Trading Hub (commonly referred to as DWTH): [https://discord.gg/dwth](https://discord.gg/dwth)

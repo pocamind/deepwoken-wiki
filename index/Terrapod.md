@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 40999
+revid: 41082
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 Template:Creature Infobox V3 **Also known as Crazy-Crabs, Annoying Scissor Things or Headcrabs.**
 
-The Terrapod is a monster notorious for shredding health quickly and having very high mobility.
+The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly and having very high mobility.
 
 ## **Description**
 
