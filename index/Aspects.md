@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 40668
+revid: 41086
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -34,7 +34,7 @@ Races that can't be rolled at the start of the game but can be obtained in the L
 
 These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it.
 
-## NPC races
+## NPC Exclusive Races
 
 These races are currently exclusive to NPCs, and have not been confirmed to be obtainable by players.
 
