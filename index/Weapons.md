@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41019
+revid: 41093
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -54,7 +54,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **Endlag:** How long you linger after attacking.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
--   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total.
+-   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
 
 ## Types of Weapons

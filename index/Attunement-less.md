@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 41016
+revid: 41094
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -412,25 +412,23 @@ File:No Attunement Revamp.png
 
 The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
-1.  ~The user must be at least neutral with Hive.~ This is false. I went to the trainer with Fugitive and negative reputation and he still allowed me to upgrade my mantras despite my heinous, _heinous_ crimes.
-2.  ~Must be able to use the wells to travel to the Greathive Aratel. Again, false. As long as you can be carried through a teleporter, you can upgrade. However, you do need to wash your face I believe, but if you don't have an oath, you can be carried through the wells and still be able to upgrade.~
-3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
+1.  The player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
     -   2 of them are located in the Blacksmith's area.
     -   1 is located outside of the Observatory.
 
-Once completed, the user can upgrade their attunement-less mantras. NOTE:
+Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
 
 -   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the amount of points** you have in the **respective attribute!**
 
 For example:
 
-1.  80+ points in Willpower => Level 5.
-2.  60+ points in Strength => Level 4.
-3.  40+ points in Intelligence => Level 3.
-4.  20+ points in Agility => Level 2.
+1.  20+ points in Strength => Level 2 Strength Mantra.
+2.  40+ points in Strength => Level 3 Strength Mantra.
+3.  60+ points in Strength => Level 4 Strength Mantra.
+4.  80+ points in Strength => Level 5 Strength Mantra.
 
-For short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more.
+In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5, and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
 
 ## Tips/Trivia
 

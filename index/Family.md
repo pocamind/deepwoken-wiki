@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 40803
+revid: 41096
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -20,7 +20,7 @@ Having certain traits can make you someone else's relative. The chance to be rel
 -   Juvenile - Same variant of the same race, must be 20 years younger than your relative
 -   Elder - Same variant of the same race, must be 20 years older than your relative
 -   Nephew/Niece/Nibling - Same variant of the same race, same last names, must be 20 years younger than your relative
--   Uncle/Aunt - Same variant of the same race, same last names, same last names. must be 20 years older than your relative
+-   Uncle/Aunt - Same variant of the same race, same last names. must be 20 years older than your relative
 -   Niebling - Similar to Niece or Nephew, same last name, seems that it doesn't have to be the same racial variant in order to get this. (Unconfirmed, uncommon)
 
 ## Notes
