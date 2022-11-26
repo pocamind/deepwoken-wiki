@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 41027
+revid: 41059
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -209,3 +209,4 @@ A Megalodaunt swimming.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree and let the sharko stand on top, which will make the Sharko miss all it's attacks. It's very risky but it is profitable.
 -   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 40 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
+-   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.

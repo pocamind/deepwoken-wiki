@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 40520
+revid: 41058
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -65,6 +65,7 @@ _Shoots out an air blast._
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
 -   Deals immense posture damage.
+-   Can be upgraded with cloudstones.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 
  |

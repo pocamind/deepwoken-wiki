@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 41006
+revid: 41055
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -487,6 +487,8 @@ Spark
 -   Crystal Knee
 
 -   Shade Bringer
+
+-   Dash
 
  | 
 

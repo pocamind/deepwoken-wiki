@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 40540
+revid: 41054
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -99,6 +99,8 @@ File:Zirik.png
 
  | 
 
+File:HiveSymbol.png
+
 [The Hive](The_Hive.md)
 
  | **Zirik**: Removes hostilities with the Greathive Aratel guards. | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
@@ -108,6 +110,8 @@ File:Rashet.png
 
  | 
 
+File:AuthoritySymbol.png
+
 [The Authority](The_Central_Authority.md)
 
  | **Rashet**: Removes hostilities with Fort Merit guards. | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
@@ -116,6 +120,8 @@ File:Rashet.png
 File:Gudrin, Vindicator of The Divers.png
 
  | 
+
+File:DiversSymbol.png
 
 [The Divers](The_Divers.md)
 

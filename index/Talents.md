@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41039
+revid: 41056
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -934,14 +934,14 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
     -   Prerequisites: 5 Willpower
--   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
+-   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat.
     -   Prerequisites: 10 Willpower, Breathing Exercise
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
     -   Decreases the amount of time Illusionary servants lasts for.
     -   Prerequisites: 25 Willpower
 -   Encouraging Presence \[Common Talent\] - Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   Prerequisites: 15 Willpower
--   Unyielding Focus \[Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)
+-   Unyielding Focus \[Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   Prerequisites: 40 Willpower, Disbelief  
           
         When you get all these talents you are eligible to get the Oath [Blindseer.](Oaths.md)
