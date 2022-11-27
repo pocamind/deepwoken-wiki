@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 39206
+revid: 41107
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -28,11 +28,7 @@ Fishing can technically level every attribute with enough time, except Charisma,
 
 You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
--   File:Tuan.png
-    
-    Fishing up the tuna
-    
-    Sea Bass (1 Fish Meat)
+-   Sea Bass (1 Fish Meat)
 -   Red Snapper (2 Fish Meat)
 -   Tuna (3 Fish Meat)
 -   Swordfish (5 Fish Meat)
