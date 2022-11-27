@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 37074
+revid: 41104
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Verdant Sniper** is an Expert [Outfit](Outfits.md) in _De
 
 ### _Requirements_
 
-This Outfit costs and requires ten (10) Cloth, two (2) Megalodaunt Hides and five (2) Vibrant Gems.
+This Outfit costs and requires ten (10) Cloth, two (2) Megalodaunt Hides and two (2) Vibrant Gems.
 
 This Outfit requires [Power Level](Power.md) 30.
 
@@ -28,7 +28,3 @@ This Outfit's Schematic can be found at:
 
 -   Scope's Quest in [Summer Isle](Summer_Isle.md)
 -   [Summer Isle](Summer_Isle.md)
-
-## Trivia/Notes
-
--   Drippy collar, similar to the Prophet's Cloak
