@@ -1,12 +1,16 @@
 ---
 title: Canor
-revid: 40511
+revid: 41156
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Canor
+
+“ You ever been to a Canor restaurant? The food's pretty howlright. ”
+
+― How to make friends
 
 Template:Races-Main _"With canine features, the Canor are fiercely loyal._
 

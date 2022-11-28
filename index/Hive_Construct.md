@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 38609
+revid: 41132
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -105,6 +105,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
+-   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
     
     A hive golem talking.
     

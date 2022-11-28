@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 38615
+revid: 41150
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,11 @@ categories: [Pages with broken file links, Monsters]
 
 # Crustaceous Rex
 
-Template:Creature Infobox V3
+“ Are you the mother of Terrapods ”
 
-_Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
+― An unkown Canor, before getting perished by a Crustaceous Rex
+
+Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 
 ## Description
 

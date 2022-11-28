@@ -1,12 +1,16 @@
 ---
 title: Thresher
-revid: 39827
+revid: 41148
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Thresher
+
+“ Sandfishin', I call it. Bit like the regular fishin' but without the water, yeh? Anyway. Didn't work too well, to be quite honest with you. ”
+
+― Mortus
 
 **Thresher:**
 

@@ -1,12 +1,16 @@
 ---
 title: Khan
-revid: 39389
+revid: 41157
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Khan
+
+“ JUST BECAUSE YOU LOOK LIKE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE! ”
+
+― Reaconteur
 
 Template:Races-Main
 

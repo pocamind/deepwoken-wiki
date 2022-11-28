@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 40864
+revid: 41143
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,3 +34,4 @@ The concept of Regalias are almost entirely a mystery, with there only being one
 -   There may be more Regalia, however only one is known to exist, either because it is the only one in the game, or the only one currently found.
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
+-   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
