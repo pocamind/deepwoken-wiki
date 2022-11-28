@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 40205
+revid: 41120
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -47,8 +47,8 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Etrea](Etrea.md) vs [The Hive](The_Hive.md)
--   [Legion Captain](Legion_Captain.md) vs [Authority Commander](https://deepwoken.fandom.com/wiki/Fort_Merit_Captain)
--   [Hive Construct](Hive_Construct.md) vs Authority Commander
+-   [Legion Captain](Legion_Captain.md) vs [Authority Captain](Authority_Captain.md)
+-   [Hive Construct](Hive_Construct.md) vs [Authority Captain](Authority_Captain.md)
 -   [Legion Sniper](Legion_Sniper.md)
 
 ## Events

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 41035
+revid: 41119
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -48,6 +48,7 @@ _Slicing blades of flame._
 
 -   Deals moderate damage.
 -   Inflicts Burn.
+-   At the end of the attack the user's weapon glows yellow and inflicts burn for a short time.
 -   Deals high posture damage.
 -   User can walk while casting.
     -   User is slowed while casting.
