@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 41084
+revid: 41171
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,7 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 | **Quick Strike** | The Terrapod does a singular slice at its opponent and retreats to recover. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
 | **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. | ◯ | ◯ | ◯ | (★★★) |
-| **(VARIANT) Bloodthirsty!** | The terrapod now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | No | No | ◯ | (★★★) |
+| **(VARIANT) Bloodthirsty!** | The terrapod now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | No | No | No | (★★★) |
 
   
 
@@ -42,3 +42,4 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
+-   You can use Terrapod bait to spawn them whenever you want so you can farm their claws and annoy people with hordes of them.

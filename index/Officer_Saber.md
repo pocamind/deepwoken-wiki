@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 37726
+revid: 41162
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,3 +33,4 @@ The Officer Saber is a Medium type weapon that can be obtained from [Fort Merit]
 ## Trivia
 
 -   The Officer saber used to have no requirements to use.
+-   The fastest and high weight medium you can get, deals decent damage end-game. \[30.8 damage\]

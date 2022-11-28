@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 40586
+revid: 41165
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -80,7 +80,7 @@ Air Force
 | Name | Description |
 | --- | --- |
 | Jugular Slice | Pins down opponent before slicing their throat with their blade. |
-| Kamikaze | Explodes after death, taking whoever else is weakened or knocked with it via insta-grip. |
+| Kamikaze | Explodes about a second after death, taking whoever else is weakened or knocked with it via insta-grip. |
 
 ## Tips
 

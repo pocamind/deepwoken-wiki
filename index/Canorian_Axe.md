@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 38986
+revid: 41160
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | Canorian Axe | |
 |---|---|
 | type | Heavy Greataxe |
-| requirements | 45 HVY |
+| requirements | 35 HVY |
 | damage | 23.5 |
 | scaling | 7 |
 | range | 8 |
