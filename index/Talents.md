@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41056
+revid: 41126
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1451,9 +1451,14 @@ These Talents are designed to make you more effective in water.
 
 -   Matador \[Common Talent\] - Deal +20% more damage to enemies with hyperarmor. (+3 Health)
     -   Prerequisites: 20 Strength, 10 Agility
+
+-   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
+    -   Prerequisite: 40 Strength
+
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 25 Light Weapon
     -   Cooldown: 2 Seconds
+
 -   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
     -   Cooldown: 2 Seconds
@@ -1482,8 +1487,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 25 Strength, Harsh Response & Greatsword equipped.
 
 -   Boom, Headshot \[Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
--   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
-    -   Prerequisite: 40 Strength
+    
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger, Aerial Spin
 

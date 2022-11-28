@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 41044
+revid: 41124
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -62,6 +62,8 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 **Exclusive to The Depths: The Eternal Gale (Layer 2)**
 
 **Dungeon: Trial of One**
+
+**Dungeon: Lord Erisia's Manor**
 
 **Unknown**
 
