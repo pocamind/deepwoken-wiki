@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 41208
+revid: 41222
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -44,11 +44,11 @@ Used in crafting Flint, comes in a black color. Found in any cave.
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in songseeker caves.
+A pink ore that comes from meteor deposits. Found in Songseeker Caves or under the Hive.
 
 **Umbrite:**
 
-A blue ore that was found in shadow trainer basement.
+"A powerful metal said to harness the power of shadows." A dark blue neon ore that was found in The Depths.
 
 File:Umbrite1.jpg
 

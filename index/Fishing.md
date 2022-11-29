@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 41107
+revid: 41219
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -28,23 +28,23 @@ Fishing can technically level every attribute with enough time, except Charisma,
 
 You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
--   Sea Bass (1 Fish Meat)
--   Red Snapper (2 Fish Meat)
--   Tuna (3 Fish Meat)
--   Swordfish (5 Fish Meat)
--   Squid (1 Squid)
--   Urchin (1 Urchin)
--   Pufferfish (1 Chum)
--   Seaweed (1 Seaweed)
+-   Sea Bass
+-   Red Snapper
+-   Tuna
+-   Swordfish
+-   Squid
+-   Urchin
+-   Pufferfish
+-   Seaweed
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
--   Old Boots (Leather boots)
+-   Old Boots (Leather Boots)
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
 -   Golden/Enchanted Fish (Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 45% (tested).
 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
 
--   If you fish a Sea Bass: "It's a Sea Bass!"
+-   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
 -   If you fish a Red Snapper: "A Red Snapper!"
 -   If you fish a Tuna: "Holy Molly, a Tuna!"
 -   If you fish a Swordfish: "A Swordfish!"

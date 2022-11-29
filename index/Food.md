@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 40532
+revid: 41214
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -24,7 +24,8 @@ _**To get food, one must collect various ingredients found around the world or b
 
 -   Mushrooms and Fruits are very easy to get, they are plentiful and various on both starter islands.
 -   On every [season](Seasons.md) (except Winter), the player can find fruits on smaller trees and some bushes, an easy and safe source of nutrition.
--   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md).
+-   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
+-   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
 
@@ -32,7 +33,6 @@ _**To cook food, one must rest at a campfire.**_
 
 -   By combining ingredients together, the player can make various types of foods/drinks.
 -   2-3 types of ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different types)
--   Sometimes it may require more ingredients. (Sticky Bun for example, 3 wheat and 1 Sap)
 
 ## Food Boosts
 
@@ -52,7 +52,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
 -   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
 
-These buffs can have their durations increased by the _[Tavernkeep](Talents.md#tavernkeep)_ category of talents.
+Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of talents.
 
 ## Food Recipes/Info
 
@@ -163,11 +163,18 @@ OR
 
 An individual who has crossed paths with The Meat Lord.
 
+-   Every fruit more or less has a real life counterpart, with the exception of the Calabash.
+    -   Redd = Orange
+    -   Ongo = Mango
+    -   Plumfruit = Grapefruit
+    -   Pomar = Pineapple (?)
 -   Pomar is the only fruit that will damage you.
-    -   Pomar may represent a pineapple (just like a Redd represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
+    -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
 -   Having 0 thirst and 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and then you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
--   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheap price from the Meat Lord, this makes it one of the best generic food items in the game.
+    -   With about 1/8 hunger left, healing from campfires is outright disabled.
+    -   With about 1/8 thirst left, your vision becomes blurry and your swing speed is lowered.
+-   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheaper price from the Meat Lord, this makes it one of the best generic food items in the game.
 
 ## Bugs
 
--   Rejoining after eating a food that grants you a buff will make the secondary bar's color default to Purple. (Purely visual, the effects can still be seen by hovering over it)
+-   Rejoining after eating a food that grants you a buff will make the Reinforced Hunger bar's color default to Purple. (Purely visual, the effects can still be seen by hovering over it)

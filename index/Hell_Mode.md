@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 38853
+revid: 41238
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -66,6 +66,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repurcussions to you.
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
 -   The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.
+-   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 
 ## Trivia
 
