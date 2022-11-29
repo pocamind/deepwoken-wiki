@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41126
+revid: 41211
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -382,14 +382,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryomancer
 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
-    -   Prerequisite: ?? Frostdraw
+    -   Prerequisite: Frostdraw
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
     -   Reduce thirst drain by 75(?)%
     -   Prerequisite: 20 Intelligence and 15 Frostdraw
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity, +2 Health)
     -   If you were to catch fire while on ice, gain total immunity to the burning status effect for ?? seconds.
         -   While the effect is active, the user breath cold air.
-    -   Prerequisite: ?? Frostdraw
+    -   Prerequisite: 30 Frostdraw
 
 ### Cryoni
 
@@ -734,6 +734,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
+    -   Prerequisites: 40 Frostdraw
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
     -   Prerequisites: 25 Frostdraw
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
@@ -1025,7 +1026,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: Read strange writing while wearing a blindfold. (Requires all 5 Mental Fortress cards)
         -   You can only take one Oath per Character.
 -   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots, +10 Ether)
-    -   Prerequisites: 50 Charisma 10 Willpower, Nestmind Quest
+    -   Prerequisites: 50 Charisma, Nestmind Quest
 
 ### Omniscient
 
