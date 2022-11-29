@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 36349
+revid: 41197
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,6 +36,14 @@ Used for crafting certain armor, comes in a glowing blueish color. Found in Uppe
 **Irithine:**
 
 Used for crafting certain armor, comes in a green color. Found in the Reservoir Cave under the Burning Stone Gardens.
+
+**Coal:**
+
+Used in crafting Flint, comes in a black color. Found in any cave.
+
+**Astruline:**
+
+A pink ore that comes from meteor deposits. Found in songseeker caves.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 41180
+revid: 41198
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -20,7 +20,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 50 Charisma10 Willpower |
+| oath_req | 50 Charisma |
 | effects | +1 Support Mantra, +2 Combat Mantra, +10 Ether |
 
 _icon credit to Tortaa#9000_
@@ -113,7 +113,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, rarely dropped by [Deep Owls](Deep_Owl.md) but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras, together with Blindseer.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath you need one Void Feather for each skill, Void Feather rarely dropped by Deep Owls but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras, together with Blindseer.
 
 ### Obtainment
 
