@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 40901
+revid: 41176
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -34,3 +34,4 @@ The True Seraph's Spear is a MED weapon. This spear can be obtained from killing
 ## Trivia
 
 -   The spear is named after the "Seraph" the highest level of angels in Ancient Judaism.
+-   The damage is mediocre at best but the chip damage makes up for it. Stacks well with [Obfuscation Enchantment](Enchantments.md)

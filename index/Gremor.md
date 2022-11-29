@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 39463
+revid: 41178
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,6 +8,13 @@ categories: [Pages with broken file links, Races]
 
 # Gremor
 
+“ Time to get my Frigid Prisms ”
+
+― A Frostdraw user approaching the navae nomad camp
+
+  
+
+  
 Template:Races-Main
 
 "_Deer-horned pariahs who lived a  

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 41004
+revid: 41180
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -117,11 +117,11 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 ### Obtainment
 
-1.  Have 50 [charisma](Attributes.md) and 10 [willpower](Attributes.md).
+1.  Have 50 [charisma](Attributes.md)
 2.  Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once.
 3.  Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
-4.  Bring him a Void Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
-5.  Bring additional Void Feathers to [Surge](Surge.md) to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
+4.  Bring him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
+5.  Bring additional Void Feathers to [Surge](Surge.md) to unlock the skills, 5 In total for all skills.
 
 ### Known Abilities
 

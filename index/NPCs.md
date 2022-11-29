@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 39977
+revid: 41181
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -161,7 +161,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Plume</td>
+  <td>Ploom</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Etris.md">Etris</a>, Lance's Food</td>
   <td>Gives dying ember retrieval quest, grants talent card</td>
