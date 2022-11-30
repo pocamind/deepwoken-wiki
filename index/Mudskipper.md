@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 41179
+revid: 41309
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -8,9 +8,9 @@ categories: [Monsters, Technically A Race]
 
 # Mudskipper
 
-“ GRGLRGLRGLRG ”
+“ Grgrlglrgl grrgl. Grgrglrgl. ”
 
-― A Mudskipper that is about to eat your corpse
+― Mudskippers during Mudwoken
 
 > _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
 

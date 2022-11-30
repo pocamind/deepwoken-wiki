@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 41308
+revid: 41310
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Deepwoken, Void Sea]
@@ -137,6 +137,7 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
 A list of named locations that can be found in the Dungeon experience.
 
 -   [Trial of One](Trial_of_One.md)
+-   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
 
 ## Arena/Mission
 
