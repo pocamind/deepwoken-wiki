@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 41214
+revid: 41244
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Food, Mechanics]
 
 # Food
 
-“ WHERE'S THE POMAR SAUCE?! ”
+“ WHERE'S THE POMAR SAUCE?!!!!!!!?!?!?!!?!?!? ”
 
 ― Celtorian Master Chef to the poor Artisan Chef
 
@@ -163,10 +163,11 @@ OR
 
 An individual who has crossed paths with The Meat Lord.
 
--   Every fruit more or less has a real life counterpart, with the exception of the Calabash.
+-   Every fruit more or less has a real life counterpart.
     -   Redd = Orange
-    -   Ongo = Mango
-    -   Plumfruit = Grapefruit
+    -   Ongo = Apple
+    -   Calabash = Calabash
+    -   Plumfruit = Plum
     -   Pomar = Pineapple (?)
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.

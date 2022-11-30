@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 41087
+revid: 41245
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Deepwoken, Void Sea]
@@ -111,24 +111,26 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-### **[Layer 2](Second_Layer.md)**
+### **[~Layer 2~](Second_Layer.md)**
 
-Floor 1
+~Floor 1~
 
--   Ethironal Shrine Outskirts
-    -   [Sanctuary Gatehouse](Sanctuary_Gatehouse.md)
-    -   Ethironal Shrine Sanctuary
-        -   [Pilgrim's Respite](<Pilgrim's_Respite.md>)
-        -   [The Frontier Furnace](The_Frontier_Furnace.md)
--   [Firfire](Firfire.md)
-    -   Firfire Caverns
-    -   [Firfire Cliffs](Firfire_Cliffs.md)
+-   ~Ethironal Shrine Outskirts~
+    -   [~Sanctuary Gatehouse~](Sanctuary_Gatehouse.md)
+    -   ~Ethironal Shrine Sanctuary~
+        -   [~Pilgrim's Respite~](<Pilgrim's_Respite.md>)
+        -   [~The Frontier Furnace~](The_Frontier_Furnace.md)
+-   ~[Firfire](Firfire.md)~
+    -   ~Firfire Caverns~
+    -   [~Firfire Cliffs~](Firfire_Cliffs.md)
 
-Floor 2
+~Floor 2~
 
--   [Kyrsan Wilds](Kyrsan_Wilds.md)
-    -   New Kyrsa, the Sleeping City
-    -   [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md)
+-   [~Kyrsan Wilds~](Kyrsan_Wilds.md)
+    -   ~New Kyrsa, the Sleeping City~
+    -   [~Kyrsan Shrine of Arrival~](Kyrsan_Shrine_of_Arrival.md)
+
+(not confirmed/not released)
 
 ### Miscellaneous
 

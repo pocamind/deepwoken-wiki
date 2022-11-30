@@ -1,9 +1,9 @@
 ---
 title: Verdant Sniper
-revid: 41104
+revid: 41291
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items]
+categories: [Armors, Items, Outfits]
 ---
 
 # Verdant Sniper

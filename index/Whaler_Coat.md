@@ -1,9 +1,9 @@
 ---
 title: Whaler Coat
-revid: 36269
+revid: 41289
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items]
+categories: [Armors, Items, Outfits]
 ---
 
 # Whaler Coat

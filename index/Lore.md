@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 41024
+revid: 41254
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1136,16 +1136,19 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 Though technically a blank slate of varying races and abilities, even the player character has lore to them.
 
-### Pre-Deepwoken
+-   During the Spring of Year 1271, The Player makes their first appearance in the world of Deepwoken.
 
-At the year 1271 of Spring, The Player makes their first appearance in the world of Deepwoken.
+-   Every Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, learned through various means.
+    -   In the Castaway Origin, they learned this with the training of their captain.
+    -   In the Depthsbound Origin, they presumably went through standard diver training.
+    -   In the Voidwalker Origin, they were presumable trained by the Knives of Eylis.
+-   The description of Erisor's church implies that the Player has either been to Erisia before or knew of a figure named "Erisor."
 
--   The Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry.
-    -   In the castaway origin, they learned this with the training of their captain.
+### Castaway
+
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
 -   The Player was frequently on the ocean before the events of the game, as the entering the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
 -   The Player in the castaway origin was once part of a pirates guild, but the authority attacked the ship and they ended up being found on the beaches of either Etris or vigil.
--   The description of Erisor's church implies that the Player has either been to Erisia before or knew of a figure named "Erisor"
 
 ### Character Deaths
 

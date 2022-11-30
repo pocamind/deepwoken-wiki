@@ -1,9 +1,9 @@
 ---
 title: Cutthroat Light Armor
-revid: 40622
+revid: 41277
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items]
+categories: [Armors, Items, Outfits]
 ---
 
 # Cutthroat Light Armor
@@ -40,4 +40,3 @@ This Outfit's Schematic can be found in:
 
 -   Can be bought at Isle of Vigils for 45 Notes.
 -   Crystal Lens can be obtained by [Fishing](Fishing.md) Chests, [Bandit](Bandit.md) drops themselves or [Erisia](Erisia.md) Chests.
--   ~Worn by [Thieves](Random_Encounters.md) found in Lower Erisia.~ no, they wear shadow hunter

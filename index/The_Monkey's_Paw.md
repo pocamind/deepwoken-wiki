@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 37852
+revid: 41302
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -24,7 +24,7 @@ You shrink like an ant in the face of a true predator.
 
 The Monkey's Paw, as the name suggests, is an island shaped like the paw of a monkey. It has a large beach, with a ship post and many palm trees. Nearer the center of the island is an opening in the rock, with leaves falling from the top, similar to the [Deep Owl](Deep_Owl.md)'s feathers. This leads to the main area of the island.
 
-Once you enter the main area of the island, there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it. Sadly the ropes don't work.
+Once you enter the main area of the island, there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it.
 
 The island is very abundant with food. Calabash, wheat, mushrooms, and other things can be found at this island. If you're a carnivore, there's not much for you to eat besides the players who come here to fight [Primadon](Primadon,_Titan_of_the_East.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 38161
+revid: 41241
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -68,8 +68,6 @@ Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
 
-Unlocked by becoming an enemy of a faction.
-
  | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
@@ -87,7 +85,8 @@ Has a small chance of being gained when rerolling an Oath at Yun'Shul.
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance.
 
   
-Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes.
+
+Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes.
 
  | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:

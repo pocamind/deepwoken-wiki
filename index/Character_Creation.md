@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 36371
+revid: 41240
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map, Origins]
@@ -131,7 +131,7 @@ Here is what makes the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Ori
 
 ## Age System
 
-The [Age](Age.md) System is a mechanic built into your Character upon creation, starting around the Age of 18. Your character ages when they reach their [season](Seasons.md) of birth.
+The [Age](Age.md) System is a mechanic built into your Character upon creation, starting at the Age of 18. Your character ages when they reach their [season](Seasons.md) of birth.
 
 Age may affect your Character's entire appearance, such as wrinkles and a change of hair color. Some accessories change through age such as [Vesperian](Vesperian.md)'s mask, or [Ganymede](Ganymede.md)'s hat.
 
