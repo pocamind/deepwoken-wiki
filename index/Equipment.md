@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41169
+revid: 41315
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -174,7 +174,7 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Depths Chests | N/A |
+ | Hive Chests and Depths Chests | N/A |
 | File:AlchemistHat.png | 
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -187,7 +187,7 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Hive Chests | N/A |
+ | Hive Chests and Depths Chests | N/A |
 | File:GreyGumshoeHat.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
@@ -211,7 +211,7 @@ Grants a random buff.
 
 _+Talent: The Exterminator_
 
- | Depths Chests | Black & Double (Work in Progress) |
+ | Depths Chests and Widow chests | Black & Double (Work in Progress) |
 | File:Investigator's Hat.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
@@ -229,7 +229,7 @@ _+Talent: Diplomat_
 
  | 
 
-Grants a random buff.
+Grants a random buff and +2 posture.
 
  | Hive Chests | N/A |
 | File:Tophat.png | 
@@ -251,7 +251,7 @@ Grants a random buff.
 
 _+Talent: Spare Nails, Emergency Repairs_
 
- | Depths Chests | N/A |
+ | Depths Chests, Widow chests and Duke chests | N/A |
 |  | 
 
 [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
@@ -260,7 +260,7 @@ _+Talent: Spare Nails, Emergency Repairs_
 
 Grants a random buff.
 
- | Artifacts, Primadon Chests, Depths Chests, Duke Chests | N/A |
+ | Artifacts, Primadon Chests, Depths Chests, Duke Chests and Widow Chests | N/A |
 | File:Black Hood.png | 
 
 Hood
@@ -274,7 +274,7 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Summer Isle Chests, Depths Chests | Black & Brown |
+ | Summer Isle Chests, Depths Chests and Widow chests(Pretty sure Primadon aswell) | Black & Brown |
 | File:Deepwoken hood.jpg | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
@@ -294,7 +294,7 @@ Grants a random buff.
 
 _+Talent: Assassin_
 
- | Hive Chests, Gold and Mist rarely from Aelita | Gold, Pale & Mist |
+ | Hive Chests, Gold and Mist rarely from Aelita | Gold, Pale, Mist and Crimson |
 | 
 
  | 
@@ -317,7 +317,7 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Artifact Turn-ins, Depths Chests | N/A |
+ | Artifact Turn-ins, Depths Chests and Duke Chests | N/A |
 | File:Authorityhelm.png | 
 
 [Authority Helm](Authority_Helm.md)
@@ -383,7 +383,7 @@ File:Captainskabuto.png
 
 Grants a random buff.
 
- | (Work in Progress) | N/A |
+ | Depths Chests and Primadon(?) maybe | N/A |
 | File:Feathertop Helm.png | 
 
 [Feathertop Helm](Feathertop_Helm.md)
@@ -392,7 +392,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Artifact Turn-ins, Duke chest | N/A |
+ | Artifact Turn-ins, Duke chest and Depths chest | N/A |
 | File:Gladiator Helmet.png | 
 
 Gladiator Helmet
@@ -406,7 +406,7 @@ _\+ 2 Posture_
 
 **Requires Fortitude 15**
 
- | Hive Chests | N/A |
+ | Hive Chests, Depths chests, Duke chests and Widow Chests | N/A |
 |  | 
 
 [Goldleaf Helm](Goldleaf_Helm.md)
@@ -426,7 +426,7 @@ Guardian Helm
 
 Grants a random buff.
 
- | Artifact Turn-ins, Primadon Chests | N/A |
+ | Artifact Turn-ins, Primadon Chests, Duke chests and Widow chests | N/A |
 | File:Guard's Kabuto.png | 
 
 [Guard's Kabuto](<Guard's_Kabuto.md>)
@@ -435,7 +435,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | (Work in Progress) | N/A |
+ | Depths chests | N/A |
 | 
 
 File:Khan Helmet.png
@@ -446,7 +446,7 @@ File:Khan Helmet.png
 
  | 
 
-Grants a random buff.
+Grants a random buff and +2 Posture.
 
  | Hive Chests (Work in Progress) | N/A |
 | 
@@ -474,7 +474,7 @@ Grants a random buff.
 
 **Requires Fortitude 5**
 
- | Arena Chests | N/A |
+ | Arena Chests, Widow chests and Duke chests | N/A |
 | 
 
 File:Royal Guard's Kabuto.png
@@ -635,7 +635,7 @@ Cosmetic
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
-[Pendant Earrings](Pendant_Earrings.md)
+Pendant Earrings
 
  | 
 
@@ -644,7 +644,7 @@ Grants a random buff.
  | Primadon Chests | N/A |
 |  | 
 
-[Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
+Amethyst Pendant Earrings
 
  | 
 
@@ -653,7 +653,7 @@ Grants a random buff.
  | Ferryman Drop (Summer Season), Fishing | N/A |
 |  | 
 
-[Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
+Crystal Pendant Earrings
 
  | 
 
@@ -662,7 +662,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 |  | 
 
-[Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
+Ruby Pendant Earrings
 
  | 
 
@@ -671,7 +671,7 @@ Grants a random buff.
  | Fishing Chests | N/A |
 |  | 
 
-[Dew Drop Earrings](Dew_Drop_Earrings.md)
+Dew Drop Earrings
 
  | 
 
@@ -680,7 +680,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 |  | 
 
-[Ruby Drop Earrings](Ruby_Drop_Earrings.md)
+Ruby Drop Earrings
 
  | 
 
@@ -689,7 +689,7 @@ Grants a random buff.
  | Hive Chests | N/A |
 | File:Emeraldtsk.JPG | 
 
-[Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
+Emerald Tusk Earrings
 
  | 
 
@@ -698,7 +698,7 @@ Grants a random buff.
  | Primadon Chests, Duke Chests | N/A |
 | File:MasterThief.png | 
 
-[Master Thief Earrings](Master_Thief_Earrings.md)
+Master Thief Earrings
 
  | 
 
@@ -707,7 +707,7 @@ Grants a random buff.
  | Fort Merit Chests | N/A |
 | File:Prac.JPG | 
 
-[Practicioner's Earrings](<Practicioner's_Earrings.md>)
+Practicioner's Earrings
 
  | 
 
@@ -720,7 +720,7 @@ Grants a random buff.
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Brilliant Cape.png | 
-[Brilliant Cape](Brilliant_Cape.md)
+Brilliant Cape
 
  | 
 
@@ -743,7 +743,7 @@ _\+ 3% Physical Armour_
  | Songseeker Chests, Minityrsa Chests | Black & Golden |
 | File:Static-assets-upload6078901116095484260.png | 
 
-[Shrouded Cape](Shrouded_Cape.md)
+Shrouded Cape
 
 (Series)
 
@@ -804,7 +804,7 @@ _Disappears on death or leaving the game._
  | Summer Isle | N/A |
 |  | 
 
-[Novice Brace](Novice_Brace.md)
+Novice Brace
 
  | 
 
@@ -813,7 +813,7 @@ Grants a random buff.
  | Placeholder | N/A |
 |  | 
 
-[Ranger's Brace](<Ranger's_Brace.md>)
+Ranger's Brace
 
  | 
 
@@ -822,7 +822,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 |  | 
 
-[Tracker's Brace](<Tracker's_Brace.md>)
+Tracker's Brace
 
  | 
 
@@ -831,7 +831,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Vanguardbrace.png | 
 
-[Vanguard Brace](Vanguard_Brace.md)
+Vanguard Brace
 
  | 
 
@@ -842,7 +842,7 @@ _+Talent: Replenishing Knockout_
  | Erisia Chests | N/A |
 | File:Autumn pauldrons.png | 
 
-[Autumn Pauldrons](Autumn_Pauldrons.md)
+Autumn Pauldrons
 
  | 
 
@@ -851,7 +851,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Azure Royal Guard.png | 
 
-[Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
+Azure Royal Guard
 
  | 
 
@@ -869,7 +869,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Blacksteel Pauldron.png | 
 
-[Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+Blacksteel Pauldrons
 
  | 
 
@@ -880,7 +880,7 @@ Grants a random buff.
 
  | 
 
-[Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
+Bluesteel Pauldrons
 
  | 
 
@@ -889,7 +889,7 @@ Grants a random buff.
  | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | 
 
-[Brilliant Pauldron](Brilliant_Pauldrons.md)
+Brilliant Pauldron
 
  | 
 
@@ -898,7 +898,7 @@ Grants a random buff.
  | Summer Isle Chests, Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | 
 
-[Flameguard Pauldrons](Flameguard_Pauldrons.md)
+Flameguard Pauldrons
 
  | 
 
@@ -907,7 +907,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 |  | 
 
-[Enforcer Plate](Enforcer_Plate.md)
+Enforcer Plate
 
  | 
 
@@ -918,7 +918,7 @@ _+Talent: Berserker_
  | Duke chests | N/A |
 |  | 
 
-[Gladiator Pauldrons](Gladiator_Pauldrons.md)
+Gladiator Pauldrons
 
  | 
 
@@ -931,7 +931,7 @@ File:Grand Pauldrons.png
 
  | 
 
-[Grand Pauldrons](Grand_Pauldrons.md)
+Grand Pauldrons
 
  | 
 
@@ -940,7 +940,7 @@ Grants a random buff.
  | Duke chests | N/A |
 |  | 
 
-[Guardian Pauldrons](Guardian_Pauldrons.md)
+Guardian Pauldrons
 
  | 
 
@@ -949,7 +949,7 @@ Grants a random buff.
  | Depths Chest | N/A |
 | File:Imperial Pauldrons.png | 
 
-[Imperial Pauldrons](Imperial_Pauldrons.md)
+Imperial Pauldrons
 
  | 
 
@@ -975,7 +975,7 @@ _+Talent: Polite Awakening_
  | Hive Chests | N/A |
 |  | 
 
-[Leather Pauldrons](Leather_Pauldrons.md)
+Leather Pauldrons
 
  | 
 
@@ -986,7 +986,7 @@ Grants a random buff.
 
  | 
 
-[Redsteel Pauldrons](Redsteel_Pauldrons.md)
+Redsteel Pauldrons
 
  | 
 
@@ -995,7 +995,7 @@ Grants a random buff.
  | Arena Chests, Knives of Eylis Chests | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
 
-[Silver Pauldrons](Silver_Pauldrons.md)
+Silver Pauldrons
 
  | 
 
@@ -1004,7 +1004,7 @@ Grants a random buff.
  | Hive Chests, Depths Chests | N/A |
 | File:Simple Pauldrons.png | 
 
-[Simple Pauldrons](Simple_Pauldrons.md)
+Simple Pauldrons
 
  | 
 
@@ -1013,7 +1013,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 |  | 
 
-[Steel Pauldrons](Steel_Pauldrons.md)
+Steel Pauldrons
 
  | 
 
@@ -1044,7 +1044,7 @@ Grants a random buff.
  | Erisia Chests, Hive Chests | N/A |
 |  | 
 
-[Woodland Pauldrons](Woodland_Pauldrons.md)
+Woodland Pauldrons
 
  | 
 
@@ -1067,7 +1067,7 @@ _\+ 3 Health_
  | Summer Isle Chests, The Depths Chests, Primadon Chests | N/A |
 | File:Brown Overcoat.png | 
 
-[Overcoat](Trimmed_Overcoat.md)
+Overcoat
 
 (Series)
 
@@ -1078,7 +1078,7 @@ Grants a random buff.
  | Erisia Chests & Summer Isle Chests | Brown & White (Work in Progress) |
 | File:White Parka.png | 
 
-[Parka](Fur_Parka.md)
+Parka
 
 (Series)
 
@@ -1102,7 +1102,7 @@ _+Talent: Lightweight_
  | Minityrsa Chests, Songseeker Wilds Chests | N/A |
 | File:Smithgloves.png | 
 
-[Smith's Gloves](<Smith's_Gloves.md>)
+Smith's Gloves
 
  | 
 
@@ -1219,7 +1219,7 @@ Grants a random buff.
  | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | 
 
-[Gumshoe Longcoat](Gumshoe_Longcoat.md)
+Gumshoe Longcoat
 
 (Series)
 
@@ -1272,7 +1272,7 @@ Grants a random buff.
  | Valley of Heroes Chests | Onyx, Peach, Scarlet, Rose & Smoke (Work in Progress) |
 | File:Pale.jpg | 
 
-[Assassin's Cloak](<Assassin's_Cloak.md>)
+Assassin's Cloak
 
 (Series)
 
@@ -1300,7 +1300,7 @@ _+Talent: Braced Collapse_
  | Primadon Chests, Depths Chests | N/A |
 | File:Dark Royal Duelist.png | 
 
-[Royal Duelist](Royal_Duelist.md)
+Royal Duelist
 
 (Series)
 
@@ -1326,7 +1326,7 @@ _+Talent: Ready or Not_
  | Hive Chests, Depths Chests | N/A |
 |  | 
 
-[Star Duster](Star_Duster.md)
+Star Duster
 
 (Legendary)
 
@@ -1353,7 +1353,7 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | 
-[Bloodiron Ring](Bloodiron_Ring.md)
+Bloodiron Ring
 
  | 
 
@@ -1366,7 +1366,7 @@ Grants one random buff.
  | Duke Erisia Chests, Primadon Chests, Depths Chests |
 | File:Dazedband.PNG | 
 
-[Dazed Band](Dazed_Band.md)
+Dazed Band
 
  | 
 
@@ -1377,7 +1377,7 @@ Flourishing an opponent has a 50% chance to stun them.
  | Duke Erisia Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
 | File:Freestyler's Band.png | 
 
-[Freestyler's Band](<Freestyler's_Band.md>)
+Freestyler's Band
 
  | 
 
@@ -1388,7 +1388,7 @@ Gives the user a massive increase in swimming speed while out of combat.
  | Primadon Chests, Depths Chests |
 |  | 
 
-[Gold Ring](Gold_Ring.md)
+Gold Ring
 
  | 
 
@@ -1397,7 +1397,7 @@ Grants a random buff.
  | Mudskipper Chests, Primadon Chests, Polis |
 | File:Heavy Hand's Ring.png | 
 
-[Heavy Hands Ring](Heavy_Hands_Ring.md)
+Heavy Hands Ring
 
  | 
 
@@ -1410,7 +1410,7 @@ _\- 15% swing speed_
  | Primadon Chests, Depths Chests |
 | File:Isshin.png | 
 
-[Isshin's Ring](<Isshin's_Ring.md>)
+Isshin's Ring
 
  | 
 
@@ -1432,7 +1432,7 @@ Allows the user to slide without delay.
  | Mudskipper Chests, Primadon Chests, Depths Chests |
 | File:Light eater ring.jpg | 
 
-[Light Eater Ring](Light_Eater_Ring.md)
+Light Eater Ring
 
  | 
 
@@ -1445,7 +1445,7 @@ Grants one random buff.
  | Duke Chests, Primadon Chests, Depths Chests |
 |  | 
 
-[Pariah's Keepsake](<Pariah's_Keepsake.md>)
+Pariah's Keepsake
 
  | Deal more damage to factions that hate you.
 
@@ -1454,7 +1454,7 @@ Grants one random buff.
  | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
 | File:Purifyingring.PNG | 
 
-[Purifying Ring](Purifying_Ring.md)
+Purifying Ring
 
  | 
 
@@ -1472,7 +1472,7 @@ This ring runs the random event check more frequently and partially ignores anti
  | Arena Chests, Primadon, The Depths, Fishing, and Deep Widow |
 |  | 
 
-[Ring of Casters](Ring_of_Casters.md)
+Ring of Casters
 
  | 
 
@@ -1481,7 +1481,7 @@ Mantra damage increased by 10% but reduces melee damage by 10%
  | Duke Chests, Primadon Chests, Depths Chests |
 |  | 
 
-[Ring of Pestilence](Ring_of_Pestilence.md)
+Ring of Pestilence
 
  | 
 
@@ -1492,7 +1492,7 @@ Enemies you hit have their healing reduced by 50%
  | Primadon Chests, Depths Chests |
 | File:Ringofwisps.PNG | 
 
-[Ring of Wisps](Ring_of_Wisps.md)
+Ring of Wisps
 
  | 
 
@@ -1501,7 +1501,7 @@ Increases effectiveness of wisps.
  | Duke Erisia Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Event Chests |
 |  | 
 
-[Silver Ring](Silver_Ring.md)
+Silver Ring
 
  | 
 
@@ -1510,7 +1510,7 @@ Grants a random buff.
  | Mudskipper Chests, Primadon Chests |
 |  | 
 
-[Windmill Ring](Windmill_Ring.md)
+Windmill Ring
 
  | 
 
@@ -1523,7 +1523,7 @@ Grants one random buff.
  | Songseeker Chests, Arena Chests |
 |  | 
 
-[Akira's Ring](<Akira's_Ring.md>)
+Akira's Ring
 
 (Legendary)
 
@@ -1547,7 +1547,7 @@ Gives every weapon 1.5 strength scaling when equipped.
  | Rare drop from trading Deep Gems to Jeremiah in The Depths & Summer Isle Chests (Very Rare) |
 |  | 
 
-[Deepfire Ring](Deepfire_Ring.md)
+Deepfire Ring
 
 (Legendary)
 
@@ -1560,7 +1560,7 @@ Flames burn 1.5x faster but goes out 1.5x faster.
  | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive) |
 |  | 
 
-[Finisher's Ring](<Finisher's_Ring.md>)
+Finisher's Ring
 
 (Legendary)
 
@@ -1575,7 +1575,7 @@ Reduces your flourish count by 1
  | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests |
 | File:Moon Ring.png | 
 
-[Moon Ring](Moon_Ring.md)
+Moon Ring
 
 (Legendary)
 

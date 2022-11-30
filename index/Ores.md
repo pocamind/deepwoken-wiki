@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 41222
+revid: 41317
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -56,3 +56,5 @@ File:Umbrite1.jpg
 
 -   While every ore has its own color, they become black when held as an item, with the only exception being the rock.
 -   Rocks can be thrown, it's distance can be upgraded by the Pitcher talent.
+-   if an ore can become pure then the ore will give exp when mined
+-   all ores other then rocks can be sold

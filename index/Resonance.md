@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 40677
+revid: 41319
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -34,7 +34,7 @@ _From data of 100 rerolls, the calculated chance of getting a normal Resonance w
 
 Corrupted Resonances give more points for the "pointbuy" system of Resonance, allowing them to grant more benefits.
 
-_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4%._
+_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card)._
 
 However, similarly to [Cursed Enchants](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 
@@ -52,9 +52,9 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 **Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
 
-_From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67%._
+_From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card)._
 
-_From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333%._
+_From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card)._
 
 ### Tarnished Resonances
 
