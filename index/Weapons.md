@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41093
+revid: 41334
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1254,7 +1254,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
-  <td>85 HVY, 25 STR, 30 LVL</td>
+  <td>80 HVY, 25 STR, 30 LVL</td>
   <td>25</td>
   <td>10%</td>
   <td>HVY: 9</td>
