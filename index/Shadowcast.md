@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 41009
+revid: 41320
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -390,7 +390,7 @@ File:Blackhole.png
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as Flamecharm, but was oddly tinted white.
--   Shadowcast has a talent which blinds the victim on consecutive flame stacks, however this blind turns the victim's screen white ironically.
+-   Shadowcast has a talent which blinds the victim on consecutive shadow stacks, however this blind turns the victim's screen white ironically.
 -   Additionally, several Shadowcast moves charge up with a white light.
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.

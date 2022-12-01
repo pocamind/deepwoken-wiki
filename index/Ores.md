@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 41317
+revid: 41325
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Ores are materials found all around the map, especially in caves. It is used for crafting various armor, as well as items. They can be harvested with a pickaxe by pressing E on them.
+Ores are materials found all around the map, usually in caves. It is used for crafting various armor and traded for chests. They can be harvested with a pickaxe by pressing E on them.
 
 ## Ores
 
@@ -56,5 +56,6 @@ File:Umbrite1.jpg
 
 -   While every ore has its own color, they become black when held as an item, with the only exception being the rock.
 -   Rocks can be thrown, it's distance can be upgraded by the Pitcher talent.
--   if an ore can become pure then the ore will give exp when mined
--   all ores other then rocks can be sold
+-   Normal and pure ores has the same appearance when held in hand.
+-   all ores other then rocks can be sold.
+-   Every ore can be eaten with termite except for umbrite and astruline
