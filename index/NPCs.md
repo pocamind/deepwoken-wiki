@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 41181
+revid: 41338
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -59,7 +59,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Cestis.md">Cestis</a></td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
-  <td>Grants assassinations</td>
+  <td>Grants Murmur:tacet after completing 10 bounties</td>
   <td>Requires the player to have negative Etrean reputation</td>
 </tr>
 <tr>

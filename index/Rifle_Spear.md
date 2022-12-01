@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 41121
+revid: 41342
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry, Items, Spears]
 | obtainment | Fort Merit The Depths Deep Widow Starswept Valley |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-(Not to be confused with the Rifle)
+_Not to be confused with the Rifle_
 
 ## Description
 
@@ -40,7 +40,6 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
 ## Trivia
 
--   This weapon is a direct reference of the famed Rifle Spear in the game _Bloodborne_.
--   It might have been inspired by the Chinese Fire Lance
+-   This weapon is a direct reference o the famed Rifle Spear in the game _Bloodborne_.
 
-Rifle Spear up close
+The original Rifle Spear up close

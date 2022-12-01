@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 41219
+revid: 41335
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Fishing, Mechanics]
 
 # Fishing
 
-“ Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin ya. Some spots are bad for fishing, and you can put a bait on your line to get better fish interested. ”
+“ Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin' ya. Some spots are bad for fishing, and you can put a bait on your line to get better fish interested. ”
 
 ― Argo
 
@@ -45,10 +45,10 @@ You can fish up many different kinds of fish with there being a chance of other 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
 
 -   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
--   If you fish a Red Snapper: "A Red Snapper!"
--   If you fish a Tuna: "Holy Molly, a Tuna!"
+-   If you fish a Red Snapper: "A Red Snapper! Quite the sailor's mouth on this one..."
+-   If you fish a Tuna: "Holy moly, a Tuna! I wonder what at-tuna-ment it is?"
 -   If you fish a Swordfish: "A Swordfish!"
--   If you fish a Squid: "Cool Squid!"
+-   If you fish a Squid: "Cool Squid! No, I'm not squidding."
 -   If you fish a Pufferfish: "A poisonous Pufferfish..."
 -   If you fish an Urchin: "Barely edible..."
 -   If you fish a Seaweed: "It got stuck on a Seaweed..."

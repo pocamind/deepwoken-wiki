@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 40506
+revid: 41343
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -14,6 +14,10 @@ Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily i
 
 **Blizzard Knight:**
 
+“ That... wasn't fun at all... ”
+
+― A Felinor who listened to Aelita
+
 Template:Creature Info Box v2
 
 ## **Description**
@@ -25,6 +29,10 @@ They may only spawn in the area during the Winter [Season](Seasons.md). This wil
 Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
 
 **Desert Knight:**
+
+“ A wild Regirock has appeared ”
+
+― Last thing a player in Starswept Valley hears before death
 
 Template:Creature Info Box v2
 
