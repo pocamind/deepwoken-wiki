@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 41238
+revid: 41363
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -77,3 +77,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
+-   It is said that apparently King Threshers are not supposed to spawn corrupted.
