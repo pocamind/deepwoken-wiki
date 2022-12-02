@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 41198
+revid: 41344
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -64,7 +64,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 3.  Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you.
 4.  Once inside the temple, proceed through a passage on the left.
-5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
+5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer. (you do not require a blindfold if you have the blind flaw)_
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 

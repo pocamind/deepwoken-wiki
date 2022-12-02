@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 41341
+revid: 41346
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -744,8 +744,7 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
--   Thundercall used to be the most damaging attunement before it was nerfed greatly. Still even after the nerf its still hits like a truck
--   Static Fakeout with Spinecutter is a match in heaven
+-   Thundercall used to be the most damaging attunement before it was nerfed greatly.
 
   
 

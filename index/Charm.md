@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 40766
+revid: 41350
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -30,7 +30,7 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 **Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can charm both enemies and allies.)
 
-**Morale Booster** - Allies recover from being knocked twice as quickly when charmed by you. (Allies might just equal any player, while enemies might just mean NPCs.)
+**Morale Booster** - Allies recover from being knocked twice as quickly when charmed by you.
 
 **Tough Love** - Deal more damage to players charmed by you.
 

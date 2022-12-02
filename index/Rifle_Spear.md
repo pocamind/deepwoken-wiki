@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 41342
+revid: 41345
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Spears]
@@ -32,7 +32,7 @@ _Not to be confused with the Rifle_
 
 ## Description
 
-The Rifle Spear is a MED weapon. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
+The Rifle Spear is a MED weapon. It can be obtained from Depths chests and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
 The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots an invisible blast similar to regular [guns](Flintlock.md). It has the same speed and sound effect as any other gun.
 
@@ -40,6 +40,6 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
 ## Trivia
 
--   This weapon is a direct reference o the famed Rifle Spear in the game _Bloodborne_.
+-   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_.
 
 The original Rifle Spear up close
