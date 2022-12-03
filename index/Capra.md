@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 41382
+revid: 41385
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -70,7 +70,7 @@ _**THE FOLLOWING MAY BE FALSE**_
 **Weaknesses:**
 
   
-Unknown
+Useless if you playing alone.
 
 **Surnames:**
 
