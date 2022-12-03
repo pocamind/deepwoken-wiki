@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 39990
+revid: 41380
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -26,7 +26,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
 <tr>
   <td></td>
   <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a short timeframe will have a 25% windup reduction.</td>
+  <td>The next Mantra you cast within a short timeframe will have a <s>25%</s> <b>50%</b> windup reduction.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

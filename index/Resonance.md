@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 41319
+revid: 41378
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -181,8 +181,8 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
     Arch Mage confirming both talent cards do not affect resonance progression.
     
     Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
--   Lore-wise, resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had described the bell on Duke Erisia's waist however did not know what it was.
--   ^Then again, Erisia was supposedly "frozen in time" while in the voidsea for some unknown period of time, it may just not have been common knowledge before it drifting in the voidsea.
+-   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on Duke Erisia's waist but did not recognise it as a Resonance.
+    -   Erisia was supposedly "frozen in time" while in the [Voidsea](Voidsea.md) for some unknown period of time, it may just not have been common knowledge before while it drifted in the Voidsea.
 -   Resonances were once presumed to have level, luck, and time in The Depths requirements, but all these were eventually debunked. With hindsight of the real requirements, these were all TECHNICALLY true, being byproducts of getting Progress.
 -   The most popular, now debunked, method involved staying in The Depths for seven hours straight. While being comically wrong, it set the groundwork for people to discover the truth.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at [Aratel Island](Aratel_Island.md).
