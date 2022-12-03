@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 41366
+revid: 41368
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -12,7 +12,15 @@ notices:
 
 Status effects are effects that can negatively affect the player or give the player an advantage. Some of these are deadly and should be taken with caution.
 
-## Deadly Status Effects
+## **Supporting Status Effects**
+
+These status effects can be beneficial to the player.
+
+## Resting at Campfire
+
+This effect causes the player to regain lost health and blood much faster, but loses hunger and thirst much faster. This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md) or [Graceful Flame](Flamecharm.md).
+
+## **Deadly Status Effects**
 
 These status effects cause certain death if nothing is done about them.
 
@@ -32,7 +40,7 @@ Not to be confused with Acid Rain, this effect refers to the large pools of Acid
 
 This effect happens when you've reached Tier 3 of Insanity where your character will start scratching their body and face which deals some damage. If you don't have enough health left, your character will instantly die. Due to how long it takes to get to max insanity, you will almost never get this unless you've been in the depths for long periods of time or or had a considerable amount of Mindbreaker Potions thrown at you.
 
-## Harmful Status Effects
+## **Harmful Status Effects**
 
 These status effects won't kill you, but they can give you a negative buff or drain your health to a certain extent.
 
@@ -83,3 +91,7 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 ### Cauterized
 
 Applied by being hit by the [Sear](Enchantments.md) enchant. Take 5% more PEN every time you get hit until it caps out at +40% PEN. No visual effect.
+
+### Grim
+
+Take 20% more damage from all sources for 4 seconds. Applied by being hit by the [Grim enchant.](Enchantments.md) Signified by red bubbles on your torso.
