@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 39456
+revid: 41393
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -130,7 +130,3 @@ Talking to Guards
 Talking to Guards
 
 -   Neutral+ - "\*_A low groan releases from within their helmet, as if wheezing through a punctured lung.\*_"
-
-## Trivia
-
--   \]\]
