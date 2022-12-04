@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 41148
+revid: 41432
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -63,7 +63,7 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 
 # King Thresher
 
-_Also known as Big Mom, Big Croc, Mother Thresher, and many other names_
+_Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other names_
 
 ## Description
 
