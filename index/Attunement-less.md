@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 41113
+revid: 41395
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -459,3 +459,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Rapid Punches is the single Attunement-less mantra that has a star.
 -   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
 -   Reinforce needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
+-   Taunt is a reference to Jetstream Sam’s Taunt ability from the Metal Gear Rising: Revengeance Jetstream DLC.

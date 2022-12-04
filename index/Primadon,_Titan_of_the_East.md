@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 41318
+revid: 41398
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -49,7 +49,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 
 -   **Elemental Conqueror** - Primadon has ~95% elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (sometimes)
 
 ## Rewards
 

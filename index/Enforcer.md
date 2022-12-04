@@ -1,12 +1,14 @@
 ---
 title: Enforcer
-revid: 41373
+revid: 41400
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
 ---
 
 # Enforcer
+
+o
 
 “ The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 
@@ -17,7 +19,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "final boss" of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. Although it is the most difficult out of all of the trials, it is nothing to hard to a player who has done research. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins may be more complicated...
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "final boss" of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. Although it is the most difficult out of all of the trials, it is nothing too hard to a player who has done research. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins may be more complicated...
 
 ## Attacks
 

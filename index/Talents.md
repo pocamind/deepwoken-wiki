@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41239
+revid: 41397
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -116,7 +116,7 @@ These Talents are designed to make your potions making and usage more efficient.
     -   Prerequisites: 15 Intelligence, Apothecary
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
-    -   Prerequisite: 40 Intelligence or Apothecary, Drink Potions
+    -   Prerequisite: 30 Intelligence, Drink Potions
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
     -   Prerequisites: 25 Intelligence
@@ -321,7 +321,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   Prerequisite : 15 Intelligence
     -   Mutually Exclusive: Return to the Dark Ages
-    -   When hit by an elemental attack, gain a 10% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
+    -   When hit by an elemental attack, gain a 25% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   Contrary to popular myth, the effect is not tracked individually per player.
 
 ### Champion
