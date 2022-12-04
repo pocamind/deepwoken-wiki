@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 41103
+revid: 41434
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -35,7 +35,7 @@ notices:
 
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical. The name matches up and works nearly the same as the "Lightning Release Armour" jutsu, often called "Cloak of Lightning"
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear) and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
--   **Bolt Piercer** might be a reference to Uryu's [Ginrei Kojaku](https://bleach.fandom.com/wiki/Spirit_Weapon) from _Bleach_.
+-   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_.
 
 ### **Frostdraw**
@@ -48,6 +48,7 @@ notices:
 ### **Galebreathe**
 
 -   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
+-   Wind blade is a reference to one of the abilities from one of Souls games. (I don't know the name and I only saw it in one video.)
 
 ### **Shadowcast**
 
