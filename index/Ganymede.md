@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 40354
+revid: 41480
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,3 +90,4 @@ This fits with our current understanding of the lore and would explain why they 
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
 -   The hat comes from the Roblox Catalog, being the "Frumpled Wizard Hat of Old Coots"
 -   In greek mythylogy the god "Ganymedes" was a myth for a greek social custom, the romantic relationship between an adult male and an adolescent male. (Ganymede is the god of homosexuality)
+-   Currently the best race to do a deepbound character slot, due to their insanity resistance in the depths.

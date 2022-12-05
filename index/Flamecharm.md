@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 41339
+revid: 41472
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -733,3 +733,4 @@ Azure Flames
 -   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air, but expect fall damage upon use.
 -   Flamecharm is the only attunement that can benefit it's [Hero Blade](Hero_Blades.md) as it has something akin to an insta-grip.
 -   The "Flame Leap" mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
+-   Flamecharm's **Burn** damage scales of Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.

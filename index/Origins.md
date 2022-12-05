@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 41464
+revid: 41479
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -19,7 +19,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Entering Deepwoken for the first time and/or completing the [tutorial](Tutorial.md).
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
--   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your third highest investment instead.
+-   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your second e highest investment instead.
     -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
 -   No pros or cons; a blank slate for your character.
 -   This is the default origin, available to all players when first starting the game.
@@ -85,8 +85,11 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   Grants the innate talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice (if available and within power range)...
     -   **\[CON\]** ...but if they run too far away and are no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
-    -   **\[PRO\]** You gain vision of your selected target through walls for a moment when teleporting.
-    -   While on the hunt, gain a particle effect around you, signifying your activity.
+    -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
+    -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
+    -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
+    -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
+    -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you attack your target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
 -   **\[PRO\]** Obtain the Void Eye, which bring you backs to the [Voidheart](Voidheart.md).
     -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Void Eye to return to the Voidheart.
@@ -100,3 +103,4 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
+    -   Grasp of Eylis only had the ferocity option in the past, making the bounties harder because most people either log out before the Voidwalker could even attack him. Luckily this changed in recent updates adding the stealth option, making voidwalkers able to make surprise attacks so the bounties wouldn't log out before the voidwalker could had a chance.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41315
+revid: 41475
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -147,7 +147,7 @@ _\+ Talent:_
 Iron Gut  
 _\+ Talent: Herbivore_
 
- | Depths Chests | N/A |
+ | Depths Chests and Hive chests | N/A |
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
@@ -1108,7 +1108,7 @@ Smith's Gloves
 
 Grants a random buff.
 
- | Duke Erisia's Chest, Depths Chest, Primadon Chests, Widow's Chest | N/A |
+ | Duke Erisia's Chest, Depths Chests, Primadon Chests, Widow's Chest, Summer Isle Chests | N/A |
 | File:Grayjusticarcoat.png | 
 
 [Adjudicator's Coat](<Adjudicator's_Coat.md>)
@@ -1177,7 +1177,7 @@ Placeholder
 
 _+Talent: Blade Dancer_
 
- | Primadon Chests | Black & White (Work in Progress) |
+ | Primadon Chests | Black & White |
 |  | 
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
@@ -1572,7 +1572,7 @@ Reduces your flourish count by 1
 
 **Requires Power 40**
 
- | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests |
+ | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests, Pure Ore Chests |
 | File:Moon Ring.png | 
 
 Moon Ring
@@ -1601,13 +1601,13 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
 
-[Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
+Azure Royal Guards
 
  | 
 
 Grants a random buff.
 
- | The Depths Chests | N/A |
+ | The Depths Chests and Duke chests | N/A |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
@@ -1616,7 +1616,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Hive Chests | N/A |
+ | Hive Chests and Depths chests(?) | N/A |
 | File:Brilliant Boots.png | 
 
 [Brilliant Boots](Brilliant_Boots.md)
@@ -1643,7 +1643,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests | Black & White |
+ | Erisia Chests, Minityrsa/Songseeker chests | Black & White |
 | File:Grand Boots.png | 
 
 [Grand Boots](Grand_Boots.md)
@@ -1652,7 +1652,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | The Depths Chests | N/A |
+ | The Depths Chests, Duke chests | N/A |
 | File:Leather boots.png | 
 
 [Leather Boots](Leather_Boots.md)
@@ -1663,7 +1663,7 @@ Grants a random buff.
 
 _\+ 2 Health_
 
- | Erisia Chests, Primadon Chests | N/A |
+ | Erisia Chests, Primadon Chests, Fishing | N/A |
 |  | 
 
 [Novice Boots](Novice_Boots.md)
@@ -1672,7 +1672,7 @@ _\+ 2 Health_
 
 Grants a random buff.
 
- | Summer Isle Chests | N/A |
+ | Summer Isle Chests, Fort Merit Chest | N/A |
 | File:Imperial Boots.png | 
 
 [Imperial Boots](Imperial_Boots.md)
@@ -1690,7 +1690,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | The Depths Chests | N/A |
+ | The Depths Chests, Duke chests | N/A |
 | File:Ranger Boots.png | 
 
 [Ranger's Boots](<Ranger's_Boots.md>)
@@ -1699,7 +1699,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Hive Chests, Arena Chests | N/A |
+ | Hive Chests, Arena Chests, Minityrsa/Songseeker chest | N/A |
 |  | 
 
 [Redsteel Boots](Redsteel_Boots.md)
@@ -1717,7 +1717,7 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests, Hive Chests | N/A |
+ | Erisia Chests, Hive Chests and Widow Chests | N/A |
 | File:Silver Sabatons.png | 
 
 [Silver Sabatons](Silver_Sabatons.md)
@@ -1737,7 +1737,7 @@ Grants a random buff.
 
 **Requires Power 30**
 
- | Primadon Chests, Depths Chests | N/A |
+ | Primadon Chests, Depths Chests and Widow chests | N/A |
 |  | 
 
 [Tracker's Boots](<Tracker's_Boots.md>)
