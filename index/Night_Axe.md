@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 41031
+revid: 41452
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -35,4 +35,4 @@ The Night Axe is a HVY weapon in the Greataxe category. It can be obtained from 
 
 ## Notes
 
--   Holding block against this weapon is almost completely useless as it has 60% chip damage, by far the most out of any weapon in the game.
+-   Holding block against this weapon is almost completely useless as it has 70% chip damage, by far the most out of any weapon in the game.

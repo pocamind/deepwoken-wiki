@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 36612
+revid: 41447
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -55,7 +55,7 @@ If **Run It Back** is found to be Corrupted, the duration is greatly amplified.
 
 #### _Tarnished_
 
-If the owner of **Run It Back** is Tarnished, this Resonance will be given a ~two second start-up, during which this can be interrupted.
+If the owner of **Run It Back** is Tarnished, this Resonance will be given a one second start-up, during which this can be interrupted.
 
 ## Trivia/Notes
 

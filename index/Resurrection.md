@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 41362
+revid: 41446
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,7 +35,7 @@ Activating resonance marks a living being. Can tag NPCs, allies, non-allies and 
 
 During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
 
-Stacks with [Talents](Talents.md) and [Mantras](Mantras.md) like [Polite Awakening](Talents.md).
+~Stacks with [Talents](Talents.md) and [Mantras](Mantras.md) like [Polite Awakening](Talents.md).~ No longer stacks with other talents since health is always set to 40%.
 
 If not, then the star on the target will fade away and the resonance will not go on cooldown.
 
