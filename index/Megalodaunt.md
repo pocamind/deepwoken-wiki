@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 41355
+revid: 41456
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,9 +10,9 @@ categories: [Monsters]
 
 _Commonly referred to as a Sharko._
 
-“ ...Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. ”
+“ URAOblOblOOblWAUUGH ”
 
-― Megalodaunt hide description
+― Megalodaunt Roar
 
   
 

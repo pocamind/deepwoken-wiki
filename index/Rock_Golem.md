@@ -1,12 +1,16 @@
 ---
 title: Rock Golem
-revid: 38607
+revid: 41457
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Rock Golem
+
+“ I'll try spinning, that's a good trick ”
+
+― Primal golems before shredding a player's health and posture bar
 
 **Erisian Golem:**
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 40560
+revid: 41464
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -23,7 +23,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
 -   No pros or cons; a blank slate for your character.
 -   This is the default origin, available to all players when first starting the game.
--   you can start with 59 notes and no vanguard brace if you sell it
 
 ## Lone Warrior
 
@@ -51,17 +50,17 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 
 -   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
+-   You can receive unique dialogue from [Lord Regent](The_Lord_Regent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Akira](Akira.md).
 -   Grants innate Talent "Deepbound Contract".
     -   **\[PRO\]** Increased EXP Gain in the Depths...
     -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
--   **\[PRO\]** You always spawn with a pair of [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
+-   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
--   **\[PRO\]** You regain sanity in Castle Light and by killing monsters.
--   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more hp give more bell progress.
+-   **\[PRO\]** You regain sanity in Castle Light.
+-   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more HP give more bell progress.
 -   **\[PRO\]** Killing a monster with more than 500 HP gives 3% luck.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
--   You can receive unique dialogue from [Lord Regent](The_Lord_Regent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Akira](Akira.md).
 
   
 
@@ -95,10 +94,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
     -   Every player (beside Voidwalkers) start the game with negative reputation toward the [Knives of Eylis](The_Knives_of_Eylis.md). Since there is only a single way to get [Knives of Eylis](The_Knives_of_Eylis.md) reputation [(The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
--   **\[CON\]** There is no way to reach the [Voidheart](Voidheart.md) through normal means. It's only accessible through the use of the Voideye, or failing a bounty hunt with Grasp of Eylis active.
 
 ## Trivia
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
-    -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful amount of players leaving/disbanding their guilds.
-    -   There was a bug in which joining The Divers as an Officer or Leader in your guild will, in turn make you one in the guild. This led to players running away from Officers or Leaders in The Divers, since they were exiling everyone left and right.
+    -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
+    -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.

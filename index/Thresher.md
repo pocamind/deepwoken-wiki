@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 41432
+revid: 41454
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ Sandfishin', I call it. Bit like the regular fishin' but without the water, yeh? Anyway. Didn't work too well, to be quite honest with you. ”
+“ Mannn I hate livin' in detroit on goddddd ”
 
-― Mortus
+― Authority soldier before being shaken apart by a Thresher
 
 **Thresher:**
 

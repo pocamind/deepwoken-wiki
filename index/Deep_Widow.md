@@ -1,12 +1,16 @@
 ---
 title: Deep Widow
-revid: 41402
+revid: 41458
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Deep Widow
+
+“ The Giant Enemy Spider! ”
+
+― Jerma
 
 Template:Creature Infobox V3
 

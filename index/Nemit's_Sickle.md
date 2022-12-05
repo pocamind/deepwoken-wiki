@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 39881
+revid: 41461
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -16,12 +16,12 @@ categories: [Weapons, Daggers]
 | scaling | 14 |
 | range | 6.5 |
 | swing speed | 1.05x |
-| endlag | N/A |
+| endlag | 0.1s |
 | penetration | 30% |
 | chip damage | N/A |
 | special effect | N/A |
 | stances | 1 Handed |
-| selling price | 150 notes |
+| selling price | 50 notes |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

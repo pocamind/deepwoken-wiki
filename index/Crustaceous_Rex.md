@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 41150
+revid: 41455
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters]
 
 # Crustaceous Rex
 
-“ Are you the mother of Terrapods ”
+“ I like breaking your ribcage. ”
 
-― An unkown Canor, before getting perished by a Crustaceous Rex
+― Crustaceous Rex when asked what inspired them to build a second Krusty Krab right next to the original.
 
 Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 
