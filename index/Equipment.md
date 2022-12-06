@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41504
+revid: 41522
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1542,7 +1542,7 @@ Gives every weapon 1.5 Willpower scaling when equipped.
 
  | 
 
-Gives every weapon 1.5 strength scaling when equipped.
+Gives every weapon 1.2 strength scaling when equipped.
 
  | Rare drop from trading Deep Gems to Jeremiah in The Depths & Summer Isle Chests (Very Rare) |
 |  | 

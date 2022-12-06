@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 41394
+revid: 41524
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Frostdraw
 
-is crzhyy== Description ==
+## Description
 
 Frostdraw icon
 

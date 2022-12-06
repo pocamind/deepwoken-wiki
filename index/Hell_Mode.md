@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 41379
+revid: 41521
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -28,17 +28,16 @@ The Hell Bell can be found within the Celtor Wastes. To activate Hell mode, 5 pl
 
 Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
--   Monster spawn rate is increased by 10x.
--   Every mob that can spawn corrupted, _will_ be corrupted.
-    -   However, only King Threshers are able to spawn in both variants.
+-   Monster spawn rates are increased by 10x.
+-   Every mob that can spawn corrupted, _will_ be corrupted, with the exception of King Threshers.
 -   The Enforcer and the Nautilodaunt are added to the regular spawn pool for the duration of the event.
-    -   The Enforcer's pull attack is disabled to prevent people being wiped to Enforcers falling into a void zone.
-    -   King Thresher's dig move is disabled.
+    -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into a void zone.
+    -   King Thresher's burrowing attack is disabled.
 -   Megalodaunts will always spawn as their Alpha version.
     -   Alpha vs. 2 Divers event is able to spawn as well.
--   King Gigamed is removed from spawn pool.
+-   King Gigamed is removed from the spawn pool.
 
-These conditions (beside the 10x spawn rate) affect everybody in the server, not just the people who interacted with the bell.
+These conditions (beside the 10x spawn rate) affects everybody currently in the server, not just the people who interacted with the bell.
 
 ## Completion and Reward
 
