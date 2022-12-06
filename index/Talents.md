@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41397
+revid: 41500
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -68,7 +68,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
     -   Prerequisites: 25 Agility
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
+-   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 12 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisites: 5 Agility
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
@@ -139,7 +139,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Mutual exclusives: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
-    -   Prerequisites: 30 Agility, 30 Fortitude
+    -   Prerequisites: 25 Agility, 25 Fortitude
 -   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisites: 20 Agility
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
@@ -319,9 +319,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 30 intelligence
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   Prerequisite : 15 Intelligence
+    -   Prerequisite : 25 Intelligence
     -   Mutually Exclusive: Return to the Dark Ages
-    -   When hit by an elemental attack, gain a 25% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
+    -   When hit by an elemental attack, gain a 20% damage resistance towards its respective element but take 10% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   Contrary to popular myth, the effect is not tracked individually per player.
 
 ### Champion
@@ -1048,6 +1048,7 @@ These are just raw stat increases and are beneficial to anyone.
 These Talents are meant to make foraging and mining grant more resources.
 
 -   Excavator \[Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
+    -   Prerequisites: Turning in 5 Pure Ores to a Blacksmith
 -   Harvester \[Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Public Figure
@@ -1222,6 +1223,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisite: Silencer's Edge, 75 Galebreath, Power 25
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
+    -   Prerequisites: Silencer's Edge, Power 30
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: 60 Galebreathe
 

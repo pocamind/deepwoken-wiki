@@ -1,16 +1,12 @@
 ---
 title: Felinor
-revid: 41383
+revid: 41495
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Felinor
-
-“ The Bizzare Adventures of...JOTALO! ”
-
-― An unknown Felinor
 
 Template:Races-Main
 
@@ -47,7 +43,7 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
 **Lore:**
 
   
-They are Cat.
+None yet.
 
 **Strengths:**
 

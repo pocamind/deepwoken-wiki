@@ -1,9 +1,9 @@
 ---
 title: Authority Commander (Enemy)
-revid: 40791
+revid: 41498
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [Enemies]
 ---
 
 # Authority Commander (Enemy)
@@ -28,11 +28,6 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 | Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
 
   
-**Types of Wardens**
-
--   Thundercall Warden, wields Calvary saber(?) it's mantras are Jolt grab(Magnet spark) and Thunder Kick, believe to be the weakest due to them spawned at Lower or Upper Erisia and Towerstruck.
--   Flamecharm Warden, wields Adretian axe, it's mantras are already listed above, there is two, the one at the Fort Merit docks is as weak as the Thundercall Warden, but the one above in the prison is as strong as a Enforcer, that's if you don't have Monsters dmg% against the enforcer.
--   Frostdraw Warden, wields Calvary saber(?), Warden Ceremonial(?) and Adretian Axe, it's mantras is a exclusive frostdraw mantra which barrages icicles from the sky that explode on impact, it also has ice eruption(round spark), you can encounter them fighting Hive Constructs or Legion commanders at Starstruck Valley(etc anywhere at Aratel island that has spawns)
 
 ### Boons
 

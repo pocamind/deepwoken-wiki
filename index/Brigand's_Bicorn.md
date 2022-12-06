@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 39618
+revid: 41496
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -22,10 +22,6 @@ categories: [Equipment, Helmets]
 | pass down | Yes |
 | obtainment | The Depths |
 | description | '"Lorem ipsum."' |
-
-“ I'M FUCKING INVINCIBLE!! ”
-
-― some random Celtor constantly repairing their ship while under attack by two Ironclads
 
 ## Description
 

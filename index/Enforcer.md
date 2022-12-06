@@ -1,14 +1,12 @@
 ---
 title: Enforcer
-revid: 41400
+revid: 41499
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
 ---
 
 # Enforcer
-
-o
 
 “ The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 

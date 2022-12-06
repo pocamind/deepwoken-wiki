@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41475
+revid: 41502
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -317,7 +317,7 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Artifact Turn-ins, Depths Chests and Duke Chests | N/A |
+ | Artifact Turn-ins, Depths Chests, Duke Chests and Widow Chests | N/A |
 | File:Authorityhelm.png | 
 
 [Authority Helm](Authority_Helm.md)
@@ -1558,6 +1558,19 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 **Requires Power 15**
 
  | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive) |
+|  | 
+
+Rosen's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 intelligence scaling when equipped.
+
+**Requires Power 40**
+
+ | Arena Chests (WIP) |
 |  | 
 
 Finisher's Ring

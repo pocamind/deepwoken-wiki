@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 39249
+revid: 41492
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -30,7 +30,7 @@ Arch\_Mage has the ability to steal people's soul and take mantras from them. He
 
 ### Melonbeard (Zastra, Prince of the Moon)
 
-Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center. He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked nad only dodged. he can jump extremely high and also has an exclusive armor called "Moonseye". He is currently using Zartania's "Skeleton Key" spec aswell as his is unfinished.
+Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center. He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked and only dodged. he can jump extremely high and also has an exclusive armor called "Moonseye". He is currently using Zartania's "Skeleton Key" spec as well as his is unfinished.
 
 ### Iltria (Leafre Spellhardt)
 
