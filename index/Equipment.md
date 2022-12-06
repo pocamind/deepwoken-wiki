@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41502
+revid: 41504
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1568,7 +1568,33 @@ Rosen's Ring
 
 Gives every weapon 1.2 intelligence scaling when equipped.
 
-**Requires Power 40**
+**Requires Power 20**
+
+ | Arena Chests (WIP) |
+|  | 
+
+Prophet's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 agility scaling when equipped.
+
+**Requires Power 20**
+
+ | Arena Chests (WIP) |
+|  | 
+
+Maestro's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 charisma scaling when equipped.
+
+**Requires Power 20**
 
  | Arena Chests (WIP) |
 |  | 

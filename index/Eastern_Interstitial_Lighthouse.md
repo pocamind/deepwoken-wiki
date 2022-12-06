@@ -1,6 +1,6 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 36054
+revid: 41513
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,3 +27,4 @@ It can be found behind [Isle of Vigils](Isle_of_Vigils.md) inside a speed highwa
 ## Trivia/Notes
 
 -   This location plays a role in the [lore](Lore.md)
+-   The lighthouse can have four chests behind it containing chests similar to the [Lower Erisia](Lower_Erisia.md) loot pool
