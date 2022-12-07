@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 41338
+revid: 41540
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -56,11 +56,32 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Leaves the player knocked and vulnerable to guards</td>
 </tr>
 <tr>
+  <td>The Captain</td>
+  <td>Unaligned</td>
+  <td><a href="Fragments_of_Self.md">Fragments of Self</a></td>
+  <td>Lets you retake the <a href="Tutorial.md">Tutorial</a></td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Cestis.md">Cestis</a></td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
-  <td>Grants Murmur:tacet after completing 10 bounties</td>
+  <td>Grants Murmur: Tacet after completing 10 bounties</td>
   <td>Requires the player to have negative Etrean reputation</td>
+</tr>
+<tr>
+  <td>Flabbermaster Filigree, the First Mate</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Frank F'alzone</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>None</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Attunement_Trainers.md">Friid</a></td>
@@ -144,6 +165,12 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Unaligned</td>
   <td></td>
   <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
+</tr>
+<tr>
+  <td>Cap'n Orlandeau</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>Teaches new players the basics of the game</td>
   <td></td>
 </tr>
 <tr>
@@ -152,6 +179,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, <a href="Castle_Light.md">Castle Light</a></td>
   <td>Equipment Vendor</td>
   <td>Stock changes, weapons and armor can be bought enchanted</td>
+</tr>
+<tr>
+  <td>Pete</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Petris</td>
@@ -168,6 +202,20 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Quest can be bypassed with either high Flamecharm stat or high Charisma stat</td>
 </tr>
 <tr>
+  <td>Polis</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td>Etris</td>
+  <td>Gives a free Gold Ring and teaches Jus Karita</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Mr. Quarters, Halfmaster</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>None</td>
+  <td>There is no such thing as a Halfmaster</td>
+</tr>
+<tr>
   <td>Raphael</td>
   <td>Unalinged</td>
   <td><a href="The_Depths.md">The Depths</a>, Varicosa District</td>
@@ -180,6 +228,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrean_Wilds.md">Etrean Wilds</a>, a hill behind the Nomad Camp</td>
   <td>Lord Regent questline, grants access to <a href="Etris_Palace.md">Etris Palace</a></td>
   <td>Not to be confused with the <a href="Etrean_Royal_Guard_(Enemy).md">enemy type</a></td>
+</tr>
+<tr>
+  <td>Serendi</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>None</td>
+  <td>The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player.</td>
 </tr>
 <tr>
   <td>Scope</td>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 41254
+revid: 41530
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -910,7 +910,13 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 -   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationary mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
--   Adrets are NOT Fish. This is confirmed by Arch\_Mage.  
+-   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
+
+#### Currency
+
+**Lore Sources:** _Mr. Quarters_
+
+-   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
 ## Deepwoken: ~1271 (New World)

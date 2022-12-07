@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 41524
+revid: 41543
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -575,7 +575,7 @@ Orbital Ice
 
  | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage.
 
--   Requires ~20 Agility & 50 Frostdraw
+-   Requires 20 Agility & 65 Frostdraw
 
  | 
 
