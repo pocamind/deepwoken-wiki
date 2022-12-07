@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 41552
+revid: 41567
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

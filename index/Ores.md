@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 41325
+revid: 41566
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -44,7 +44,7 @@ Used in crafting Flint, comes in a black color. Found in any cave.
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in Songseeker Caves or under the Hive.
+A pink ore that comes from meteor deposits. Found in Songseeker Caves or under the Hive. The drop rate for Pure Astruline is around 15%.
 
 **Umbrite:**
 

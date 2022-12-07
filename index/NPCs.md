@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 41540
+revid: 41570
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,7 +30,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>???</td>
   <td>Unalinged</td>
-  <td><a href="The_Depths.md">The Depths</a></td>
+  <td><a href="The_Depths.md">The Depths</a>, <a href="Celtor_Wastes.md">Celtor Wastes</a></td>
   <td>None</td>
   <td></td>
 </tr>
@@ -47,6 +47,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a></td>
   <td>Akira vs Ignition Union event, Willpower unbound and joining <a href="The_Divers.md">The Divers</a></td>
   <td></td>
+</tr>
+<tr>
+  <td>Andrea</td>
+  <td>Unaligned</td>
+  <td><a href="The_Depths.md">The Depths</a>, The Cathedral of Interstice</td>
+  <td>Reveals information about the Depths Trial</td>
+  <td>Dialogue changes after completing the trial once</td>
 </tr>
 <tr>
   <td><a href="Brutus.md">Brutus</a></td>
@@ -130,7 +137,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
   <td>Food Vendor, gives crate delivery quest</td>
-  <td>His name is apparently a cognitive hazard and your character forgets it immediately after being told.</td>
+  <td>After asking his name, your character forgets and his name is randomized from the masculine namepool.</td>
 </tr>
 <tr>
   <td>Lance Leshi</td>
@@ -184,7 +191,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Pete</td>
   <td>Unaligned</td>
   <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
-  <td></td>
+  <td>None</td>
   <td></td>
 </tr>
 <tr>

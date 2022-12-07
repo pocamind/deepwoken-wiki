@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 41491
+revid: 41571
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -83,7 +83,6 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Disables mantras from being used in it's radius.
         -   This affects everybody, including the caster and their allies.
     -   While inside the circle, gain mantra immunity.
-    -   Gives physical buff against monsters.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
     -   Obtainment: 5 players helped in the Depth Trial (must be alive)
