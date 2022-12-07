@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41528
+revid: 41557
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1353,28 +1353,44 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | 
-Bloodiron Ring
+Silver Ring
 
  | 
 
-Grants the ability to recover Armor durability per kill.
+Grants a random buff.
 
-(Stacks with Bloodiron Spirit)
+ | Mudskipper Chests, Primadon Chests |
+|  | 
+
+Gold Ring
+
+ | 
+
+Grants a random buff.
+
+ | Mudskipper Chests, Primadon Chests, Polis |
+|  | 
+
+Windmill Ring
+
+ | 
+
+Taking damage from ice or wind will cause you to regenerate ether.
 
 Grants one random buff.
 
- | Duke Erisia Chests, Primadon Chests, Depths Chests |
-| File:Dazedband.PNG | 
+**Requires Power 10**
 
-Dazed Band
+ | Songseeker Chests, Arena Chests |
+| File:Ringofwisps.PNG | 
+
+Ring of Wisps
 
  | 
 
-Flourishing an opponent has a 50% chance to stun them.
+Increases effectiveness of wisps.
 
-**Requires Power 10**
-
- | Duke Erisia Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
+ | Duke Erisia Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Event Chests |
 | File:Freestyler's Band.png | 
 
 Freestyler's Band
@@ -1386,15 +1402,6 @@ Gives the user a massive increase in swimming speed while out of combat.
 **Requires Power 10**
 
  | Primadon Chests, Depths Chests |
-|  | 
-
-Gold Ring
-
- | 
-
-Grants a random buff.
-
- | Mudskipper Chests, Primadon Chests, Polis |
 | File:Heavy Hand's Ring.png | 
 
 Heavy Hands Ring
@@ -1490,37 +1497,41 @@ Enemies you hit have their healing reduced by 50%
 **Requires Power 40**
 
  | Primadon Chests, Depths Chests |
-| File:Ringofwisps.PNG | 
-
-Ring of Wisps
-
- | 
-
-Increases effectiveness of wisps.
-
- | Duke Erisia Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Event Chests |
 |  | 
 
-Silver Ring
+Bloodiron Ring
 
  | 
 
-Grants a random buff.
+Grants the ability to recover Armor durability per kill.
 
- | Mudskipper Chests, Primadon Chests |
-|  | 
-
-Windmill Ring
-
- | 
-
-Taking damage from ice or wind will cause you to regenerate ether.
+(Stacks with Bloodiron Spirit)
 
 Grants one random buff.
 
+ | Duke Erisia Chests, Primadon Chests, Depths Chests |
+| File:Dazedband.PNG | 
+
+Dazed Band
+
+ | 
+
+Flourishing an opponent has a 50% chance to stun them.
+
 **Requires Power 10**
 
- | Songseeker Chests, Arena Chests |
+ | Duke Erisia Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
+| File:Moon Ring.png | 
+
+Moon Ring
+
+(Legendary)
+
+ | 
+
+Conceal your age, appearing as if you were younger than 40.
+
+ | Aelita's Chests, Deep Widow's Chests, Depths Chests, Duke Erisia's Chests, Arena Chests |
 |  | 
 
 Akira's Ring
@@ -1534,6 +1545,45 @@ Gives every weapon 1.5 Willpower scaling when equipped.
 **Requires Power 20**
 
  | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests. |
+|  | 
+
+Rosen's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 intelligence scaling when equipped.
+
+**Requires Power 20**
+
+ | Duke Chests, Arena Chests (WIP) |
+| File:ProphetsRonsensMaestro.png | 
+
+Prophet's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 agility scaling when equipped.
+
+**Requires Power 20**
+
+ | Duke Chests, Arena Chests (WIP) |
+| File:ProphetsRonsensMaestro.png | 
+
+Maestro's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 charisma scaling when equipped.
+
+**Requires Power 20**
+
+ | Duke Chests, Arena Chests (WIP) |
 |  | 
 
 [Dawnfist's Ring](<Dawnfist's_Ring.md>)
@@ -1558,45 +1608,6 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 **Requires Power 15**
 
  | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive) |
-| File:ProphetsRonsensMaestro.png | 
-
-Rosen's Ring
-
-(Legendary)
-
- | 
-
-Gives every weapon 1.2 intelligence scaling when equipped.
-
-**Requires Power 20**
-
- | Arena Chests (WIP) |
-| File:ProphetsRonsensMaestro.png | 
-
-Prophet's Ring
-
-(Legendary)
-
- | 
-
-Gives every weapon 1.2 agility scaling when equipped.
-
-**Requires Power 20**
-
- | Arena Chests (WIP) |
-| File:ProphetsRonsensMaestro.png | 
-
-Maestro's Ring
-
-(Legendary)
-
- | 
-
-Gives every weapon 1.2 charisma scaling when equipped.
-
-**Requires Power 20**
-
- | Arena Chests (WIP) |
 |  | 
 
 Finisher's Ring
@@ -1612,17 +1623,6 @@ Reduces your flourish count by 1
 **Requires Power 40**
 
  | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests, Pure Ore Chests |
-| File:Moon Ring.png | 
-
-Moon Ring
-
-(Legendary)
-
- | 
-
-Conceal your age, appearing as if you were younger than 40.
-
- | Aelita's Chests, Deep Widow's Chests, Depths Chests, Duke Erisia's Chests, Arena Chests |
 
   
 
