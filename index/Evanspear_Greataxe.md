@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 41487
+revid: 41594
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weaponry, Items]
@@ -29,6 +29,5 @@ The Evanspear Hand Axe is a [Heavy weapon](Weapons.md) (HVY) that can be obtaine
 
 ## Trivia
 
--   Probably has the worst axe design out of all the axes.
 -   Deals bleed damage, meaning it does more than advertised (61.75 dmg)
 -   Very rare to see, few people even know this exists, and even less actually use it. It's also a very rare drop.
