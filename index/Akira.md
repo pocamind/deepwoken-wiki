@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 39492
+revid: 41606
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -126,6 +126,5 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   He has a purple colored [bell](Resonance.md), it is unknown if he used this to kill the Ignition Union members or its simply a known/unknown [resonance](Resonance.md). Since it has purple effect on use, it may be Corrupted.
 -   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons something that could be called an Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
--   Choosing option 2 without 100 charisma instantly wipes you.
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."

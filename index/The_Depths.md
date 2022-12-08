@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 41173
+revid: 41623
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -175,7 +175,7 @@ When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another 
 -   [Deep Owl](Deep_Owl.md)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
--   Celtorian City Guards (neutral unless triggered)
+-   [Celtor Guards](Celtorian_Guard.md) (neutral unless triggered)
 -   [Deep Widow](Deep_Widow.md)
 -   [Thresher](Thresher.md)
 -   [King Thresher](Thresher.md)
@@ -271,5 +271,5 @@ Legendary = Gold
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban a Neanderthalck troglodyte who's own kin finds them to be a buffoon. at the same time.
+-   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban a retard at the same time.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.

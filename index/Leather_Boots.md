@@ -1,16 +1,12 @@
 ---
 title: Leather Boots
-revid: 38728
+revid: 41596
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
 ---
 
 # Leather Boots
-
-“ These boots remind me of Minecraft... ”
-
-― A fisherman
 
 Template:EquipmentStats
 

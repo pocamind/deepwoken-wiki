@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 39194
+revid: 41622
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -27,7 +27,7 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 
 ## Description
 
-The Railblade is a possible upcoming/mod/spec weapon, most likely going to be a part of the upcoming Layer 2 update.
+The Railblade is a possible upcoming legendary weapon, most likely going to be a part of the upcoming Layer 2 update.
 
 Note: This is unconfirmed and purely speculation, do not spread rumors unless you can either state that it is speculation or prove that it true.
 

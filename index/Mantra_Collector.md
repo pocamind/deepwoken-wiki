@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 38817
+revid: 41612
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, World]
@@ -28,6 +28,7 @@ They can be typically found on the Surface in:
 -   [Etris](Etris.md), Schnitzel will be on a rug in the Etris Docks.
 -   [Summer Isle](Summer_Isle.md), Hotdog will be inside the castle.
 -   [Greathive Aratel](Greathive_Aratel.md), (name) will be (located).
+-   [Voidheart](Voidheart.md), Croissant will be on a rug in front of the bookshelves, close to the [Antiquarian](Antiquarian.md).
 
 ## Prices
 
@@ -67,9 +68,11 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
 
 ## Trivia
 
--   All the NPCs are named after German meat dishes.
-    -   They are all Canor, which have German roots.
-    -   Schnitzel is a thin slice of meat, which is usually breaded then fried.
-    -   Hotdog refers to a sausage in a bun.
-    -   Cumberland may refer to a type of sausage.
-        -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
+Most of the NPCs are named after German meat dishes.
+
+-   They are all Canor, which have German roots.
+-   Schnitzel is a thin slice of meat, which is usually breaded then fried.
+-   Hotdog refers to a sausage in a bun.
+-   Cumberland may refer to a type of sausage.
+    -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
+-   Croissant is an viennoiserie Austrian pastry, layered with butter and rolled multiple times in succession.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41586
+revid: 41607
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1594,7 +1594,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
 Gives every weapon 1.2 strength scaling when equipped.
 
- | Rare drop from trading Deep Gems to Jeremiah in The Depths, Summer Isle Chests (Very Rare) and Deep Widow chests |
+ | Rare drop from trading Deep Gems to Jeremiah in The Depths, Summer Isle Chests (Very Rare), Duke Chests and Deep Widow chests |
 |  | 
 
 Deepfire Ring

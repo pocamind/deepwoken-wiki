@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 36704
+revid: 41618
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -54,7 +54,7 @@ Voidheart chessboard
 
 ## Trivia
 
--   **Voidheart** is 70k studs away from [Etris](Etris.md).
+-   **Voidheart** is 70k studs away from [Etris](Etris.md). It's coordinates are at -20000, 20000, -20000. [https://gyazo.com/afdd0d2da50f7bae698bac6729e3f1ee](https://gyazo.com/afdd0d2da50f7bae698bac6729e3f1ee)
 -   Originally, The **Voidheart** was a sea of complete nothingness, and was removed for it's uselessness, but now has returned in a form of a base for the Knives of Eylis
 
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0))

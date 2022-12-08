@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 40782
+revid: 41610
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, NPCs]
@@ -19,6 +19,8 @@ A Diver is an NPC that can only be found in The Depths during the following even
 -   Diver vs Monster ([The Depths](The_Depths.md))
 
 A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robes.md) outfit with their [race](Aspects.md) and gender varying.
+
+Divers are known to be Hybrids of Attunements, even the infamous **Akira** follows this trend being a user of _Frostdraw_ and _Thundercall_, It would seem Thundercall is the most used as a diver.
 
 ## Moveset
 
