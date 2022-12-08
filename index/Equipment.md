@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41557
+revid: 41580
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1382,7 +1382,7 @@ Grants one random buff.
 **Requires Power 10**
 
  | Songseeker Chests, Arena Chests |
-| File:Ringofwisps.PNG | 
+|  | 
 
 Ring of Wisps
 
@@ -1391,7 +1391,7 @@ Ring of Wisps
 Increases effectiveness of wisps.
 
  | Duke Erisia Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Event Chests |
-| File:Freestyler's Band.png | 
+|  | 
 
 Freestyler's Band
 
@@ -1402,7 +1402,7 @@ Gives the user a massive increase in swimming speed while out of combat.
 **Requires Power 10**
 
  | Primadon Chests, Depths Chests |
-| File:Heavy Hand's Ring.png | 
+|  | 
 
 Heavy Hands Ring
 
@@ -1415,7 +1415,7 @@ _\+ 30% posture damage_
 _\- 15% swing speed_
 
  | Primadon Chests, Depths Chests |
-| File:Isshin.png | 
+|  | 
 
 Isshin's Ring
 
@@ -1426,7 +1426,7 @@ Take 1.25x damage and deal 1.2x damage.
 **Requires Power 15**
 
  | Pirate Event Chests, Primadon Chests, Depths Chests |
-| File:Ff's Clutch Ring.png | 
+|  | 
 
 [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
 
@@ -1437,7 +1437,7 @@ Allows the user to slide without delay.
 **Requires Power 10**
 
  | Mudskipper Chests, Primadon Chests, Depths Chests |
-| File:Light eater ring.jpg | 
+|  | 
 
 Light Eater Ring
 
@@ -1459,7 +1459,7 @@ Pariah's Keepsake
 -   Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority.
 
  | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
-| File:Purifyingring.PNG | 
+|  | 
 
 Purifying Ring
 
@@ -1468,7 +1468,7 @@ Purifying Ring
 Allows wearer to drink seawater and acid with no side effects.
 
  | Primadon Chests, Depths Chests |
-| File:RingofCurses.PNG | 
+|  | 
 
 Ring Of Curses
 
@@ -1510,7 +1510,7 @@ Grants the ability to recover Armor durability per kill.
 Grants one random buff.
 
  | Duke Erisia Chests, Primadon Chests, Depths Chests |
-| File:Dazedband.PNG | 
+|  | 
 
 Dazed Band
 
@@ -1520,8 +1520,8 @@ Flourishing an opponent has a 50% chance to stun them.
 
 **Requires Power 10**
 
- | Duke Erisia Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
-| File:Moon Ring.png | 
+ | Duke Erisia Chests, Pirate Event Chests, Primadon Chests, Depths Chests and Deep Widow Chests |
+| File:MoonDazed.png | 
 
 Moon Ring
 
@@ -1558,7 +1558,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 **Requires Power 20**
 
  | Duke Chests, Arena Chests (WIP) |
-| File:ProphetsRonsensMaestro.png | 
+|  | 
 
 Prophet's Ring
 
@@ -1571,7 +1571,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 **Requires Power 20**
 
  | Duke Chests, Arena Chests (WIP) |
-| File:ProphetsRonsensMaestro.png | 
+|  | 
 
 Maestro's Ring
 
@@ -1594,7 +1594,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
 Gives every weapon 1.2 strength scaling when equipped.
 
- | Rare drop from trading Deep Gems to Jeremiah in The Depths & Summer Isle Chests (Very Rare) |
+ | Rare drop from trading Deep Gems to Jeremiah in The Depths, Summer Isle Chests (Very Rare) and Deep Widow chests |
 |  | 
 
 Deepfire Ring
