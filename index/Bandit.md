@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 38829
+revid: 41662
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]

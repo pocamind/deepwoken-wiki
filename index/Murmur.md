@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 40694
+revid: 41663
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -32,7 +32,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
-By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost is reduced to 0 at power 55.
+By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost at power 58 is low enough for your ether Regen to overpower it, but it will be slow. At power 60 it will actually be free and your ether Regen rate won't be affected.
 
 While having the murmur active, you can't crouch and listen until you deactivate it/murmur runs out (if you're not max power.)
 
