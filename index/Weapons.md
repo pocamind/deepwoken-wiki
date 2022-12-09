@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41643
+revid: 41652
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -61,7 +61,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 **Light Weapons:**
 
-Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they often lack damage and range.
+Light weapons are one-handed weapons used by the most RETARDED of players. They are fast and agile, with high attack speed, but they often lack damage and range.
 
 **Daggers:**
 
@@ -204,7 +204,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 
 **Fists:**
 
-Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
+Fists make use of various gauntlets to wear and kill gay people, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
 
 <table>
 <tbody>
@@ -839,7 +839,7 @@ An upcoming weapon type for medium, similar to spears. Rifles use melee attacks 
   <td>?</td>
   <td>18</td>
   <td>N/A</td>
-  <td>MED:&nbsp;?</td>
+  <td>MED: 8</td>
   <td>8</td>
   <td>3</td>
   <td>7</td>
