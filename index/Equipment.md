@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41607
+revid: 41660
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -575,7 +575,7 @@ Grants a random buff.
 Grants a random buff.
 
  | Minityrsa Chests, Songseeker Chests | N/A |
-| 81x81px | 
+| File:DemonMask.png | 
 
 Demon Mask
 

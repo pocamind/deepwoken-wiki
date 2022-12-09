@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41652
+revid: 41656
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -840,9 +840,9 @@ An upcoming weapon type for medium, similar to spears. Rifles use melee attacks 
   <td>18</td>
   <td>N/A</td>
   <td>MED: 8</td>
-  <td>8</td>
   <td>3</td>
   <td>7</td>
+  <td>0.75x</td>
 </tr>
 </tbody>
 </table>

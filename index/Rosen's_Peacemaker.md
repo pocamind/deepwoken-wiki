@@ -1,28 +1,44 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 41650
+revid: 41658
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Weapons, Pages with broken file links]
+categories: [Weapons, Pages with broken file links]
 ---
 
 # Rosen's Peacemaker
 
 | Rosen's Peacemaker | |
 |---|---|
-| type | Rifle |
-| requirements | ??? |
+| type | Gun [MED] |
+| requirements | N/A |
 | damage | 18 |
 | scaling | 8 |
 | range | 7 |
 | swing speed | 0.75x |
-| stances | 2 Handed |
+| penetration | N/A |
+| chip damage | N/A |
+| special effect | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| description | '"A mastercraft forged by Gunmaster Rosen himself, a revolutionary piece of weaponry that has changed the art of combat forever. They carry a high value in the market due to both historical importance of this firearm, as well as it's effectiveness."' |
+| obtainment | ? |
+| description | ? |
+
+(Not to be confused with the [Rifle Spear](Rifle_Spear.md))
+
+## Description
+
+"A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value an the market, due to both the historical importance of this firearm, as well as it's effectiveness"
+
+Appear in layer 2
+
+## Notes
+
+-   This will be the first "true" gun medium weapon, considering we already have the rifle spear.
+-   With 100 MED do 32.4 damage
 
 ## Description
 
