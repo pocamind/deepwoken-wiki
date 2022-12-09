@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41593
+revid: 41643
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -197,7 +197,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8.5</font></td>
   <td>3</td>
   <td>7</td>
-  <td><font>0.83x</font></td>
+  <td><font>0.87x</font></td>
 </tr>
 </tbody>
 </table>
@@ -746,7 +746,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
   <td>80 MED</td>
-  <td>20</td>
+  <td>21</td>
   <td>25%</td>
   <td>N/A</td>
   <td>MED: 7</td>
@@ -820,7 +820,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Rifles:**
 
-An upcoming weapon type for medium, similar to spears. Rifles use melee attacks that incorporate the firing of the rifle itself, but not much is known for it as it is a Layer 2 weapon.
+An upcoming weapon type for medium, similar to spears. Rifles use melee attacks that incorporate the firing of the rifle itself, but not much is known for it as it is a Layer 2 weapon. In the Agamatsu Layer 2 Q&A, it is shown that It is able to be able to both be fired and used as some sort of a pole-arm.
 
 <table>
 <tbody>
@@ -835,14 +835,14 @@ An upcoming weapon type for medium, similar to spears. Rifles use melee attacks 
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Rifle</td>
+  <td><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></td>
   <td>?</td>
-  <td>?</td>
+  <td>18</td>
   <td>N/A</td>
   <td>MED:&nbsp;?</td>
-  <td>?</td>
-  <td>?</td>
-  <td>?</td>
+  <td>8</td>
+  <td>3</td>
+  <td>7</td>
 </tr>
 </tbody>
 </table>

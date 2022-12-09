@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41560
+revid: 41641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1270,7 +1270,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tavernkeep
 
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +25%. (+3 Elemental Intensity, +4 Ether)
     -   Increases food satiation by 25%.
     -   Known Prerequisites: 25 Intelligence, 15 Charisma
     -   Speculated Prerequisites: 15 Intelligence, Cook 50+ Food

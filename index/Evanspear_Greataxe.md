@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 41594
+revid: 41645
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weaponry, Items]
@@ -22,6 +22,10 @@ categories: [Weapons, Greataxes, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+
+“ THANKS A LOT, PUNCHEE. ”
+
+― Literally everyone 5 minutes after Punchee posted "This Weapon Will Break Layer 2"
 
 ## Description
 
