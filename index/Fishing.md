@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 41335
+revid: 41715
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -49,7 +49,7 @@ Everything you can get from fishing has it's own chat bubble pop-up, as a reacti
 -   If you fish a Tuna: "Holy moly, a Tuna! I wonder what at-tuna-ment it is?"
 -   If you fish a Swordfish: "A Swordfish!"
 -   If you fish a Squid: "Cool Squid! No, I'm not squidding."
--   If you fish a Pufferfish: "A poisonous Pufferfish..."
+-   If you fish a Pufferfish: "A poisonous Pufferfish! Careful eating this one..."
 -   If you fish an Urchin: "Barely edible..."
 -   If you fish a Seaweed: "It got stuck on a Seaweed..."
 -   If you fish a Mudskipper: "What the...?!"

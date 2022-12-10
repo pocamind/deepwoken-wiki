@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 40834
+revid: 41714
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -54,13 +54,13 @@ Grand Javelin
 -   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
 -   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
 -   Grand Javelin can be blocked with high enough posture.
--   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back (sometimes, don’t forget that they can walk they are able to move)
+-   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health**, ~but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back (sometimes, don’t forget that they can walk they are able to move)~ The new update gave them working legs, so be more careful when engaging.
 -   They will parry all of your attacks, so expect to get in a very very long party trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
 
 ## Trivia
 
--   Due to them being completely still (sometimes, if the enemy is hiding behind a wall or if they are running away, he will chase them), having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies with a high amount of HP and ranged moves (ex: [Desert Knights](Stone_Knight.md)) or [Threshers](Thresher.md) which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.
+-   ~Due to them being completely still (sometimes, if the enemy is hiding behind a wall or if they are running away, he will chase them), having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies with a high amount of HP and ranged moves (ex: [Desert Knights](Stone_Knight.md)) or [Threshers](Thresher.md) which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.~ The Update did them dirty, now they move around.
 -   They're friendly to normal Legion NPCs and won't attack them.
--   Even if it doesn't change anything, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
+-   Even if it doesn't change much, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
 -   Despite being a Thundercall user, they can drop [Gale Stones](Gale_Stone.md).

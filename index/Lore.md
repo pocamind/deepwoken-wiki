@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 41530
+revid: 41716
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -890,7 +890,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 ### Life before the Tides
 
-**Lore Sources:**
+**Lore Sources:** _Etris Guards_
 
 -   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.
 

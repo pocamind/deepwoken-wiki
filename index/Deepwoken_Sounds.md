@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 41111
+revid: 41711
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -31,8 +31,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | plays as the menu theme of a depths sever that you join WHEN or after the gate to the exit has opened | File:To Sleep, Dreaming (Contour 3).mp3 |
-| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when your level is over 45. | File:To Sleep, Dreaming (Contour 4).mp3 |
+| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | can rarely play as the menu theme of a depths sever | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when you log in at [Minityrsa](Minityrsa.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
 | 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) | File:Isle of Vigils - Deepwoken OST.mp3 |
@@ -65,35 +65,6 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
 | 35 | Masters of the House | 2:06 | N/A | File:Masters of the House.mp3 |
 | 36 | The Gideshu March | 1:57 | N/A (small cut of the soundtrack can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
-
-<table><caption>the deep is calling</caption>
-<tbody>
-<tr>
-  <th>1</th>
-  <th>2</th>
-  <th>3</th>
-  <th>4</th>
-</tr>
-<tr>
-  <td>5</td>
-  <td>6</td>
-  <td>7</td>
-  <td>8</td>
-</tr>
-<tr>
-  <td>9</td>
-  <td>0</td>
-  <td>*</td>
-  <td>?</td>
-</tr>
-<tr>
-  <td>+</td>
-  <td>-</td>
-  <td>+</td>
-  <td>-</td>
-</tr>
-</tbody>
-</table>
 
 ### Deepwoken: Original Soundtrack (Vol. II)
 
