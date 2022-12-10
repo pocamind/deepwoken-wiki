@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41705
+revid: 41717
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -61,7 +61,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 **Light Weapons:**
 
-Light weapons are one-handed weapons used by the most RETARDED of players. They are fast and agile, with high attack speed, but they often lack damage and range.
+Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they often lack damage and range.
 
 **Daggers:**
 
