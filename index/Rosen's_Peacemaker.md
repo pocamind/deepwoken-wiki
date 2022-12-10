@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 41658
+revid: 41720
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -33,12 +33,10 @@ categories: [Weapons, Pages with broken file links]
 
 "A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value an the market, due to both the historical importance of this firearm, as well as it's effectiveness"
 
-Appear in layer 2
-
 ## Notes
 
--   This will be the first "true" gun medium weapon, considering we already have the rifle spear.
--   With 100 MED do 32.4 damage
+-   This will be the first "true" medium weapon gun, considering we already have the rifle spear.
+-   Deals 32.4 damage with 100 MED
 
 ## Description
 
