@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 41618
+revid: 41761
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -17,6 +17,12 @@ Halls of inscrutable architecture stretch as far as the eye can see. No human co
   
 
 **The Voidheart** is a location in _Deepwoken._ It is the forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
+
+“ Time to commit war crimes in Etris! ”
+
+― Literally everyone who's preparing to become a Voidwalker
+
+  
 
 ## Overview
 

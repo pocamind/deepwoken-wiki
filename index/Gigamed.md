@@ -1,12 +1,16 @@
 ---
 title: Gigamed
-revid: 38614
+revid: 41755
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster, Enemies]
 ---
 
 # Gigamed
+
+“ Sometimes, health packs can be deadlier than anything... ”
+
+― Level 30 Khan after dying to the explosion of 4 Gigameds sent by a single King Gigamed
 
 **Gigamed:**
 

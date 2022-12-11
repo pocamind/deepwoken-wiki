@@ -1,12 +1,16 @@
 ---
 title: Legion Sniper
-revid: 41714
+revid: 41758
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
 ---
 
 # Legion Sniper
+
+“ What mantra modifier did you use?? ”
+
+― A Canor before being banished by a Legion Sniper's Grand Javelin
 
 Template:EnemyInfobox1.0
 

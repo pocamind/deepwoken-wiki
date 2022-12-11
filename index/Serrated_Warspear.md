@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 40392
+revid: 41756
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -25,6 +25,10 @@ categories: [Weapons, Spears]
 | pass down | Yes |
 | obtainment | Dropped directly from The Duke |
 | description | N/A |
+
+“ THE ONE PIECE IS REAL ”
+
+― A Whitebeard cosplayer using a Serrated Warspear
 
 ## Description
 

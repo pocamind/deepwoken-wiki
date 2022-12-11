@@ -1,12 +1,16 @@
 ---
 title: Etrean Guardsmen
-revid: 40798
+revid: 41760
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
 ---
 
 # Etrean Guardsmen
+
+“ HEYYYYYY OVER HEREEEEEEEEEE ”
+
+― Average Etrean Guard
 
 Template:EnemyInfobox1.0
 

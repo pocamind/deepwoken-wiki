@@ -1,12 +1,16 @@
 ---
 title: Subtle Knife of Eylis
-revid: 40829
+revid: 41757
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
 ---
 
 # Subtle Knife of Eylis
+
+“ ZA WARUDO! ”
+
+― Captain using time-slowing orb
 
 Template:EnemyInfobox1.0
 
