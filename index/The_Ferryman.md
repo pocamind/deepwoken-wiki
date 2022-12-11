@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 41710
+revid: 41762
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -96,6 +96,7 @@ Each section describing the phases explains in great detail how to deal with his
 -   With the update to giving heavy weapons an aerial attack, it is now alot easier to beat the Ferryman with heavy weapons, making it easy to beat with any weapon.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 -   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
+-   Tacet can trivialise the fight. By going behind a rock and using tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
     
 
 **Phase One:**
