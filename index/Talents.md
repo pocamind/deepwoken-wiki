@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41641
+revid: 41747
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1449,51 +1449,47 @@ These Talents are designed to make you more effective in water.
 
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
 -   Scuba Drowner \[Rare Talent\] - You may not drown to death when drowned in waters. (+1 Passive Agility)
-    -   Prevent death by drowning. Goes on a 1 minute cooldown when the effect activates.
+    -   Prevent death by drowning.
 
 ### **Weapon Master**
 
--   Matador \[Common Talent\] - Deal +20% more damage to enemies with hyperarmor. (+3 Health)
+-   Matador \[Common Talent\] - Deal +20% more damage with hyperarmor to enemies. (+3 Health)
     -   Prerequisites: 20 Strength, 10 Agility
 
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
-    -   Prerequisite: 40 Strength
+    -   Prerequisite: 35 Strength
 
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 25 Light Weapon
-    -   Cooldown: 2 Seconds
 
 -   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: 25 Medium Weapon
-    -   Cooldown: 2 Seconds
 
 -   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
-    -   Prerequisites: 25 Light Weapon, Using Fists
-    -   Cooldown: 2 Seconds
+    -   Prerequisites: 25 Light Weapon
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: 40 Light Weapon
 
--   Lethal Force \[Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 Medium Weapon, Using medium weapon
--   Lethal Precision \[Common Talent\] - \[Light Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 Light Weapon, Using Dagger
--   In Twain \[Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
-    -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
--   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to perform a fast aerial attack when you M1 while airborne. (+3 Health)
+-   Lethal Force \[Common Talent\] - \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
+    -   Prerequisites: 60 Medium Weapon, Using medium weapon
+-   Lethal Precision \[Common Talent\] - \[Light Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
+    -   Prerequisites: 60 Light Weapon, Using Dagger
+-   In Twain \[Common Talent\] - \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
+    -   Prerequisites: 60 Heavy Weapon, Using heavy weapon
+-   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you your next swing. (+1 Health)
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
-    -   Grants Heavy weapons an Aerial Attack when they M1 while airborne (Cooldown: 2.5 Seconds)
--   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
+-   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
--   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
-    -   Prerequisite: 25 Strength, Harsh Response & Greatsword equipped.
+-   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
+    -   Prerequisite: 25 Strength, Greatsword equipped.
 
--   Boom, Headshot \[Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
+-   Boom, Headshot \[Common Talent\] - \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
     
--   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
-    -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger, Aerial Spin
+-   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
+    -   Prerequisite: 40 Light Weapon, Dagger
 
 ### Whisper
 
@@ -1506,10 +1502,10 @@ These Talents are designed to make you more effective in water.
 
 ### **Miscellaneous**
 
--   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for a short duration. (+3 Health)
+-   Armor Conserver \[Common Talent\] - You lose 5% less armor when hit. (+4 Ether)
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered. (+3 Health)
     -   Prerequisites: Power 30
--   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
+-   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take increased damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
     -   Create a thick blue fog around you (simulating blindness).
@@ -1520,20 +1516,19 @@ These Talents are designed to make you more effective in water.
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
--   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
-    -   Prerequisite: 35 Fortitude
--   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
+-   Impervious Slumber \[Rare Talent\] - Getting hit while knocked extends your time knocked. (+2 Health, +5 Ether)
+    -   Prerequisite: 30 Fortitude
+-   Legendary Echoes \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0%, movement speed increased.
--   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
+    -   When your Armor is at 0%, movement speed increased by 25%.
+-   Martyr \[Common Talent\] -Gain less health and posture when knocking enemies. (+3 Health)
     -   Health and Posture restored from getting a knock is reduced by 50%.
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
--   Replenishing Knockout \[Common Talent\] - Gain more health and posture when knocking enemies.
-    -   Restoration from knocking enemies increases, counteracts the Martyr Talent.
--   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
-    -   Prerequisites: Power 30
-    -   Mutual Exclusive: Everchanging Aegis
+-   Replenishing Knockout \[Common Talent\] - Enemies gain more health and posture when they knock you. (+3 Health)
+    -   Being knocked by enemies will replenish more of their health and posture.
+-   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 25% too. (+5 Health)
+    -   Prerequisites: 15 Willpower
 
 ## Whispers
 
@@ -1545,18 +1540,18 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Fortitude Support
 
--   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
-    -   Prerequisite: 10 Fortitude + Shield
+-   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture **will not break**
+    -   Prerequisite: 15 Fortitude
 -   Reinforce - Up defense for you and allies around you
-    -   Prerequisite: 50 Fortitude
+    -   Prerequisite: 40 Fortitude
 -   Brace - Gain hyperarmor on your attacks for a short duration
-    -   Prerequisite: 75 Fortitude
+    -   Prerequisite: 65 Fortitude
 
 #### Fortitude Mobility
 
 -   Shoulder Bash - Rush into your enemies with your full physical force.
     -   Prerequisite: 10 Fortitude
-    -   Shield is not required despite popular belief.
+    -   Shield is required for this mantra to activate.
 
 #### Agility Combat
 
@@ -1571,7 +1566,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Agility Mobility
 
 -   Dash - Just a dash, nothing special.
-    -   Prerequisite: 40 Agility
+    -   Prerequisite: 35 Agility
 
 #### Charisma Support
 
@@ -1584,7 +1579,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Intelligence Combat
 
 -   Prediction - Predict an opponents attack and reflect it.
-    -   Prerequisite: 50 Intelligence
+    -   Prerequisite: 40 Intelligence
 
 #### Intelligence Support
 
@@ -1594,42 +1589,42 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Strength Combat
 
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
-    -   Prerequisite: 20 strength
+    -   Prerequisite: 10 strength
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
     -   Prerequisite: 20 Strength
 
 #### Strength Mobility
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
-    -   Prerequisite: 50 Strength
+    -   Prerequisite: 40 Strength
 
 #### Willpower Combat
 
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
-    -   Prerequisites: 40 Willpower
+    -   Prerequisites: 35 Willpower
 
 #### Willpower Support
 
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
-    -   Prerequisite: 30 Willpower
+    -   Prerequisite: 25 Willpower
 
 -   Glare - Opponents facing you are briefly stunned.
-    -   Prerequisite: 5 Willpower + 25 Charisma
+    -   Prerequisite: 15 Willpower + 25 Charisma
 
 #### Light Weapon Mobility
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
-    -   Prerequisite: 30 Light Weapon
+    -   Prerequisite: 25 Light Weapon
 
 #### Medium Weapon Combat
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
-    -   Prerequisite: 30 Medium Weapon
+    -   Prerequisite: 25 Medium Weapon
 
 #### Heavy Weapon Combat
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
-    -   Prerequisite: 30 Heavy Weapon
+    -   Prerequisite: 25 Heavy Weapon
 
 ### Flamecharm Mantras
 
@@ -1640,11 +1635,11 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
 -   Flame Repulsion - An exertion of flames. (AOE Combat Mantra)
 -   Flame Grab - A fiery chokehold. (Lunging Combat Mantra)
 -   Fire Gun - Rapid Bullets of Flame. (Projectile Combat Mantra)
-    -   Upon activation, shoot a pair of bullets made of flame. Continuous use allows automatic dodging when using your movement keys.
+    -   Upon activation, shoot a rapid bullets made of flame. Continuous use allows automatic dodging when using your movement keys.
 -   Flame Blind - Snap your fingers, shooting a projectile up to the air and blinding anyone who dare gaze at it. (Blinding AOE Combat Mantra)
-    -   Blind anyone within a short radius who caught a glimpse of the projectile. 2-3 second duration.
+    -   Blind anyone within a short radius who caught a glimpse of the projectile. 5 second duration.
 -   Fire Forge (1 Star Mantra) - Toss a nimble Dagger. (Projectile Combat Mantra)
-    -   Throw a Dagger at moderate range. Does not ricochet off of Walls or objects.
+    -   Throw a Dagger at small range. Does not ricochet off of Walls or objects.
 -   Fire Blade - Slicing blades of Flame. (Melee Combat Mantra)
     -   Perform a cleave made of fire at close range.
 -   Flame Assault (2 Star Mantra) - Burst forward in flames. (Lunging Combat Mantra)
@@ -1659,8 +1654,8 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
 
 #### Fire Support
 
--   Graceful Flame - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
--   Flames of Denial - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 30 seconds until activated)
+-   Graceful Flame - Conjure your comrades to rest by.
+-   Flames of Denial - Undying Flame. (Restore 40% HP after taking lethal damage, lasts for 60 seconds until activated)
     -   Place a kindled flame into your body.
 -   Flame Wisp - Summon a servant made of flame (Boosts HP Regen and lights campfires when not healing you).
 
@@ -1700,11 +1695,11 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Shadow Mobility
 
--   Shadow Assault (2 Star Mantra) - You turn into Dark energy and speed forward. Used often to catch running enemies.
+-   Shadow Assault (2 Star Mantra) - You turn into Dark energy.
 
 #### Mystery
 
--   Mystery Mantra \[Any Attunement\] - Receive a random Attunement Combat Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
+-   Mystery Mantra \[Any Attunement\] - Receive a random Attunement Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
 -   Roll 2 - Receive 2 random Talents.
 
 ## Outfit Talents
@@ -1712,30 +1707,30 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### **[Ferryman's Coat](<Ferryman's_Coat.md>)**
 
 -   Ferryman's Curse - Being hit by lightning will briefly make you intangible. (Obtained by wearing the Ferryman's Outfit)
-    -   Invincible for about 0.4 seconds after being hit by lightning
+    -   Invincible for about 2 seconds after being hit by lightning
 
 ### **[Justicar](<Justicar_(Origin).md>)**
 
--   The Path, Unveiled - Your Jus Karita attacks deal 15% more damage. (+3 Passive Agility) (Obtained by wearing the Justicar Outfit)
+-   The Path, Unveiled - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility) (Obtained by wearing the Justicar Outfit)
 
 ### **[Navaen-Nomad](Navaen_Nomad_Robes.md)**
 
--   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
-    -   This talent is currently bugged and currently does nothing.
+-   Fists of Navae - You do 1 less fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
+    -   Stacks with Finisher's Ring.
 
 ### **[Navaen War Chief](Navaen_War_Chief.md)**
 
--   Chief's Will - Your Way of Navae fist style has 25% armor PEN.
+-   Chief's Will - Your Way of Navae fist style has 35% armor PEN.
 
 ### **Flamecharmer**
 
--   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md) Outfit)
+-   Intrepid Flame - Flames wear off slower on you. (Obtained by wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md) Outfit)
 
 ### _Pathfinder_
 
--   Environmentalist - Resist the effects of some Weather Effects. (Obtained by wearing the [Pathfinder Cloak](Pathfinder_Cloak.md) Outfit)
--   Legendary - Parrying and landing hits with your weapon gives you ether back. (Obtained by wearing the [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) Outfit)
--   Devastating Power - Gain extra Ether for every Mantra in your arsenal. - (Obtained by wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) Outfit)
+-   Environmentalist - Resist the effects of Weather Effects. (Obtained by wearing the [Pathfinder Cloak](Pathfinder_Cloak.md) Outfit)
+-   Legendary - Your weapon gives you ether back. (Obtained by wearing the [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) Outfit)
+-   Devastating Power - Gain extra Ether for every Mantra hit. - (Obtained by wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) Outfit)
 
 ### **Cutthroat**
 
@@ -1743,7 +1738,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### '_Vigil_
 
--   Paired Soul - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
+-   Paired Soul - Increases _[Katana](Katana.md)_ damage by 15% and _[Shattered Katana](Shattered_Katana.md)_ damage by 10%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
 
 ### **[Experienced Adventurer](Experienced_Adventurer.md)**
 
@@ -1751,19 +1746,19 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### **Shadow Hunter**
 
--   Now You See Me - Increases stealth while crouching. (Can be obtained through most armors, being [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), etc.) ( Can also be obtained through cards.)
+-   Now You See Me - Increases stealth. (Can be obtained through most armors, being [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), etc.) ( Can also be obtained through cards.)
 
 ### **Tower Knight**
 
--   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the [Darksteel Plate](Darksteel_Plate.md))
+-   Unbreakable - You get stunned when you are block broken. (Obtained by wearing the [Darksteel Plate](Darksteel_Plate.md))
 
 ### **Alchemist**
 
--   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit) (Can also be obtained through cards. Talents will not stack.)
+-   Apothecary - Potions you prepare will have amplified negative effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit) (Can also be obtained through cards. Talents will not stack.)
 
 ### **[Prophet's Cloak](<Prophet's_Cloak.md>)**
 
--   Crippling Darkness - Your non-basic attacks have 25% PEN.
+-   Crippling Darkness - Your non-basic attacks have 50% PEN.
 
 ### **[Legion Centurion](Legion_Centurion.md)**
 
@@ -1773,69 +1768,69 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
   
 
-Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)  
-Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)  
-Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)  
-Fishman \[Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish.  
-Scuba Drowner \[Rare Talent\] - You no longer drown to death when downed in water. (+1 Passive Agility)  
+Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals self-damage (20% damage). (+3 Health)  
+Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, +4 Health)  
+Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Jumping while suffocated, you are dazed. (+2 Passive Agility, +5 Elemental Intensity, +4 Health)  
+Fishman \[Rare Talent\] - Become a fish while swimming. (+5 Health)  
+Scuba Drowner \[Rare Talent\] - You no longer can get downed in water. (+3 Passive Agility, +5 Health)  
 Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)  
-Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health) Prerequisites: Strength & Wilpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)  
-Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility) Prerequisites: Carnivore  
-Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.  
-Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)  
-Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)  
-Observation \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)  
-Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)  
-Overflowing Dam \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff). Prerequisite: 40 Intelligence  
-Perfect Flash \[Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage. Prerequisite: 20(?) Intelligence  
-Eureka \[Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity) Prerequisite: 30(?) Intelligence  
-Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.  
-Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)  
-Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)  
-Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)  
-Concussion \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)  
-Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)  
-Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)  
-Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)  
-Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drink potions faster.  
-The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)  
-Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.  
-Gale Dash \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)  
-Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)  
-Uproar \[Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)  
-Thresher Scales \[Rare Talent\] - You regenerate your armor at campfires. (+5 Health)  
-Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)  
-Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)  
-Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]  
-Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)  
-Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)  
-Bloodiron Spirit \[Rare Talent\] - You regain some Armor upon killing enemies.  
-Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)  
-Last Laugh \[Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
-Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
-Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health) Prerequisites: Flamecharm  
-Command: Sacrifice \[50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)  
-Command: Return \[60 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health) Prerequisites: Vow of Mastery  
-Speed Demon \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)  
-Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
+Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger. (+4 Health) Prerequisites: Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst. | Penalty: Cannot eat bread.  
+Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger. (+1 Passive Agility) Prerequisites: Carnivore  
+Sunken Predator \[Rare Talent\] - Enemies you hit have their speed buffs nullified and are slowed.  
+Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+4 Passive Agility)  
+Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+4 Passive Agility)  
+Observation \[Rare Talent, Agility\] Dodge frames are larger if you roll immediately. (+4 Passive Agility)  
+Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge. (+4 Passive Agility)  
+Overflowing Dam \[Rare Talent, Intelligence\] - Having ether makes your attacks do more damage. (20% dmg buff). Prerequisite: 40 Intelligence  
+Perfect Flash \[Rare Talent, Intelligence\] - Having full health causes your mantras do 2x damage. Prerequisite: 20(?) Intelligence  
+Eureka \[Rare Talent, intelligence\] - Receive ether back on every successful cast. (+7 Carry Load, +4 Elemental Intensity) Prerequisite: 30 Intelligence  
+Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until they're knocked.  
+Grand Support \[Rare Talent\] - Everyone you buff heals them by 5%. (+5 Health)  
+Lord Commander \[Rare Talent\] - Everyone you buff heals you by 1% (+5 Health)  
+Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 3x damage with light weapons. (+4 Health)  
+Concussion \[Rare Talent\] - Enemies you flourish into walls have their vision altered but are dazed shorter than usual. (+3 Health, +8 Carry Load)  
+Tap Dancer \[Rare Talent\] - Roll again immediately after a roll. (+6 Passive Agility, +2 Health)  
+Strong Stern \[Rare Talent\] - The duration enemies are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)  
+Spine Cutter \[Rare Talent\] - Hitting an enemy in the back will initiate a second slash. (+2 Passive Agility, +6 Carry Load)  
+Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids. Poison Resistance.  
+The Final Act \[Rare Talent, Flamecharm Exclusive\] Landing a mantra immediately after flourishing an opponent will explode. (+4 Elemental Intensity)  
+Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every mantra builds up one halo stack. At 6 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered. (+4 Elemental Intensity)  
+Gale Dash \[Rare Talent\] - After Dodging an attack successfully, you Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)  
+Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+4 Passive Agility, +4 Health)  
+Uproar \[Rare Talent\] - When struck 3 or more times within 3 seconds, you cannot be stunned for a duration. (+4 Ether, Hyperarmor Benefit)  
+Thresher Scales \[Rare Talent\] - You regenerate your armor. (+10 Health)  
+Thresher Claws \[Rare Talent\] - All of your attacks have 20% more PEN. (109 Health)  
+Aggressive Posture \[Rare Talent\] - Hitting your opponent causes you to slow down while holding S. (+1 Passive Agility)  
+Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds a Ether Shield reducing incoming damage by 35%. \[Requires fist style and 35 fortitude\]  
+Champion's Regalia \[Rare Talent\] - Opponents grant you 1.5x posture damage. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +3 Carry Load)  
+Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall on impact. (+3 Health)  
+Bloodiron Spirit \[Rare Talent\] - You regain Armor. (+5 Health)  
+Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a opponent will extend the duration. (+2 Elemental Intensity, +2 Health)  
+Last Laugh \[Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self. (+5 Elemental Intensity, +5 Health) Prerequisites: Flamecharm  
+Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
+Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted. (+1 Elemental Intensity, +4 Health) Prerequisites: Flamecharm  
+Command: Sacrifice \[50 Rare Talent\] - Sacrifice the health of your own. (+4 Ether, +4 Health)  
+Command: Return \[60 Rare Talent\] - Command your servant to obey your vow. (+4 Ether, +4 Health) Prerequisites: Vow of Mastery  
+Speed Demon \[Rare Talent\] - Your attacks now inflict bleed. (+1 Passive Agility, +3 Carry Load)  
+Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +4 Health)
 
 ## **List of Rollable Legendary Talents/Green Talent Cards**
 
   
-Exoskeleton \[Legendary Talent, 40 Fortitude\] You have natural armor that decreases all damage taken by 10%. This stacks with Vesperian natural armor.  
+Exoskeleton \[Legendary Talent, 30 Fortitude\] Decreases all damage output.  
 Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
-Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
-Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot, +20 Reservoir)  
-True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)  
-Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.  
-Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +5 Health)  
-Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)  
-Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health) (Requires an unknown amount of strength and prerequisites.)  
-Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)  
-A World Without Song \[Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)  
-Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
-Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)  
-Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.  
+Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +4 Health)  
+Neuroplasticity \[Legendary Talent\] - Your mind is a psychological substance. The Ether cost of additional modifications to your Mantras is now increased by 20%. (+2 Wildcard Mantra Slot, +20 Reservoir)  
+True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies damage of your highest. (+4 Ether, +7 Reservoir)  
+Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air. (+4 Ether, +5 Health)  
+Reinforced Armor \[Legendary Talent\] - PEN is reduced. (+10 Ether, +6 Health)  
+Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible. (+10 passive agility)  
+Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, +12 Health) (Requires 100 strength and prerequisites.)  
+Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a debuff for 60 seconds.  
+A World Without Song \[Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +5 Health)  
+Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+4 Ether, +2 Passive Agility, +4 Health)  
+Command: Live \[Legendary Talent\] - Once per 2 hours, command a servant to live. (+4 Ether, +4 Health)  
+Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground.  
 
 ## Blacklisted Talents
 
@@ -1843,14 +1838,14 @@ Certain talents cannot be obtained through Roll 2 or Legendary Echoes, due to ho
 
   
 
-Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)  
-Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
-Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)  
-Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.  
-Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)  
-Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)  
-Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.  
-Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
+Conditioned Runner \[Legendary Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)  
+Everchanging Aegis \[Legendary Talent, Intelligence\] - Take more damage from any element. (+7 Carry Load)  
+Return to the Dark Ages \[Legendary Talent\] - Your incoming elemental damage is cut in half. (+10 Health)  
+Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.  
+Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)  
+Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)  
+Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself.  
+Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
 
   
 
@@ -1861,8 +1856,8 @@ can be used if you are not satisfied with your current hand of cards.
 -   The Card, "The Sound from Below" is almost always granted on your first or second power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
--   The Card, "Exploding Mirage Clones" will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact.
+-   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At Power 60, you will get a guaranteed legendary Talent card if there is one available.
--   Adept can't be obtained post power 55.
+-   At Power 60, you will get a guaranteed Talent card if there is one available.
+-   Adept can't be obtained after power 30.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 41727
+revid: 41744
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -22,6 +22,7 @@ notices:
 -   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md). Not to be confused with Venting from the Layer 2 update.
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
+-   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploit and etc
 
   
 
