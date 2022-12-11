@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 37703
+revid: 41725
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -12,4 +12,5 @@ Template:EquipmentStats Assassin's Hood is an accessory under the "Head" categor
 
 ## Trivia
 
-This is meant to be paired with the Pale Assassin's Cloak/Mist Assassin's Cloak, although they are rarely paired due to the hood being ugly.
+-   This is meant to be paired with the Pale Assassin's Cloak/Mist Assassin's Cloak, although they are rarely paired due to the hood being ugly.
+-   There is currently a bug where even if the hood is toggled invisible, the mask can still show

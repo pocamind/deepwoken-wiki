@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 34369
+revid: 41723
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,8 +16,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 A Repair Kit is a deployable tool that can repair an armor's durability. It can only be obtained via crafting:
 
--   (5) Iron
--   (3) Wood
+-   (3) Iron
+-   (2) Wood
 
 Only two repair kits can be held at once.
 

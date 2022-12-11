@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 41472
+revid: 41726
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -33,7 +33,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-Flamecharm can be obtained from the trainer found at Songseeker Wilds in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5. (level 80 flamecharm, requires uncap)
+Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseeker_Wilds.md) in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5. (level 80 flamecharm, requires uncap)
 
 ## Mantras
 
