@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 40826
+revid: 41834
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -31,6 +31,7 @@ This Outfit's Schematic can be found in:
 -   Etris War Event \[Super Rare\]
 -   Fishing \[Equally rare, if not more\]
 -   Halloween weapon seller. \[20 Joy, No longer avaliable\]
+-   Lightning Squibbo \[Common in hell mode\]
 
 ## Trivia
 

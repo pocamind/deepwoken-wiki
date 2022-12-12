@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 41160
+revid: 41837
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -16,7 +16,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.62x |
-| weight | 4 |
+| weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -32,7 +32,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | scaling | 8 |
 | range | 8 |
 | swing speed | 0.62x |
-| weight | 5 |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -44,7 +44,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 ## Description
 
-The Canorian Axe is a midgame Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). It has 23.5 Base Damage and a scaling of 7.
+The Canorian Axe is a mid-game Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). It has 23.5 Base Damage and a scaling of 7, it has lore connecting to the Authority as said Adretian Empire.
 
 **Alloyed:**
 

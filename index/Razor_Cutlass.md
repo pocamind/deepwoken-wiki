@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 41677
+revid: 41827
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Swords, Items]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry, Swords, Items]
 | Razor Cutlass | |
 |---|---|
 | type | Medium Sword |
-| requirements | 65 MED |
+| requirements | 60 MED |
 | damage | 18 + 5.4 |
 | scaling | 7.5 |
 | range | 8 |
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry, Swords, Items]
 
 ## Description
 
-The Razor Cutlass is a [Medium Weapon](Weapons.md#swords) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md) and [Minityrsa](Minityrsa.md), however it can also be dropped by the Crimson Terrapod. It's one of the only Medium Weapons that deals bleed on top of its normal attacks the other being [Acheron's Warspear](<Acheron's_Warspear.md>), it is effective at dealing very high damage and posture. It boasts the highest weight of Medium Weapons, the only other being the [Officer Saber](Officer_Saber.md). Its Penetration starts off at 20% which is pretty high all things considered. The weapon, also notably, is the _slowest_ medium weapon in the game, but the sheer power of its aforementioned stats make up for that quite a bit. For that same reason, it's best used as a mid to endgame weapon.
+The Razor Cutlass is a [Medium Weapon](Weapons.md#swords) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md) and [Minityrsa](Minityrsa.md), however it can also be dropped by the Crimson Terrapod. It's one of the only Medium Weapons that deals bleed on top of its normal attacks the other being [Acheron's Warspear](<Acheron's_Warspear.md>), it is effective at dealing very high damage and posture. It boasts the highest weight of Medium Weapons, the only others being the [Officer Saber](Officer_Saber.md) and [Alloyed Messer](Messer.md). It's Penetration starts off at 20% which is pretty high all things considered. The weapon, also notably, is the _slowest_ medium weapon in the game alongside the [Messer](Messer.md) and [Mace](Mace.md) which are starter tier weapons, but the sheer power of its aforementioned stats make up for that quite a bit. For that same reason, it's best used as a mid to endgame weapon.
 
 ## Trivia
 

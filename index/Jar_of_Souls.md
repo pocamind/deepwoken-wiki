@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 40912
+revid: 41839
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,7 @@ Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd 
 
 Passively, **Jar of Souls** store the souls of dead humanoids nearby. Different humanoids or "souls" recharge the resonance in different amounts (this will of course vary from person to person based on their own resonance point usage). However, you'll find higher-tier humanoids recharge the resonance faster than the lower tier, e.g, it may only take one Primal Golem's soul to recharge to capacity, whereas in contrast, it may take 10 Bandit Leader's souls to recharge to capacity.
 
-Activating the resonance fires a white beam that deals damage.
+Activating the resonance fires a white beam that deals damage. (Believed to do pve scaling, needs more testing.)
 
 ### _Resonance Point usage_
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41811
+revid: 41833
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -204,7 +204,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 
 **Fists:**
 
-Fists make use of various gauntlets to wear and kill gay people, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
 
 <table>
 <tbody>
@@ -925,7 +925,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>5</td>
-  <td>8</td>
+  <td>9</td>
   <td>0.6x</td>
   <td>N/A</td>
 </tr>
@@ -1008,9 +1008,9 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>10%</font></td>
   <td><font>10%</font></td>
   <td><font>HVY: 9</font></td>
-  <td><font>8</font></td>
+  <td><font>7</font></td>
   <td>8</td>
-  <td>0.6x</td>
+  <td>0.62x</td>
   <td>N/A</td>
 </tr>
 <tr>
@@ -1021,7 +1021,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>N/A</td>
   <td><font>HVY: 8</font></td>
   <td>5</td>
-  <td>8</td>
+  <td>9</td>
   <td>0.6x</td>
   <td>N/A</td>
 </tr>
