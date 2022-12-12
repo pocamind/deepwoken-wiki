@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 41717
+revid: 41811
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1056,7 +1056,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
-  <td>0.25s</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<b>Bleed</b>)</td>
@@ -1250,7 +1250,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
-  <td>0.1</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
@@ -1351,7 +1351,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td>75 SDW, 40 HVY</td>
+  <td>75 SDW, 40 HVY, LVL 30</td>
   <td>22</td>
   <td>N/A</td>
   <td>SDW: 9 HVY: 4</td>

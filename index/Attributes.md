@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 41468
+revid: 41816
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -38,7 +38,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Unlocks strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
 -   Gain strength EXP via cutting down trees, dealing damage, parrying, or blocking.
     -   It takes around 34 pumps to upgrade strength one time with a dumbbell.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the Tomb of The Nameless Warrior, breaking past the hidden door, climbing under the coffin, and reading the book on the floor
+-   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking past the hidden door, climbing under the coffin, and reading the book on the floor
 
 ### Fortitude
 
@@ -75,7 +75,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   One point in willpower gives 1.5 reservoir.
 -   Unlocks willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
 -   Gain willpower EXP via foraging, fighting sea monsters, losing sanity, and using prayer beads.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) then going to [Castle Light](Castle_Light.md) to talk to him again.
+-   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.
 
 ### Charisma
 

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 41715
+revid: 41808
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Fishing, Mechanics]
 
 ## How to Fish
 
-To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber. You can also buy it at the docks for 30 Notes, though this is a pretty bad deal.
+To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber. You can also buy it at the docks for 30 Notes.
 
 The next step to fishing is cast out your Fishing Rod at an area with a general connection to the seas, such as Docks. Soon you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
@@ -113,3 +113,4 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
 -   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.
+-   Fishing will level your Willpower, Fortitude, Intelligence and Charisma.

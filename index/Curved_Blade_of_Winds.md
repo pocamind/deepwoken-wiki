@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 40602
+revid: 41815
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -25,7 +25,7 @@ categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in The Depths |
+| obtainment | Depths Chests |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 “ By any means necessary. ”
@@ -48,6 +48,6 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   2nd highest damaging medium weapon, after Divine Longsword from the [Crazy Slots](Crazy_Slots.md) bell.
 -   The sword is similar to a Chinese Dadao sword.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
-    -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably be worth your kidney if you were to find one on a BM server (in which case, you're gonna get banned.)
--   When using the weapon one-handed it becomes 2 swords. Double the swords, double the pain
--   Ironically, it can become one of the worst weapons ingame, as the base sword damage is also affected by elemental resistances, making you deal reduced damage to mobs such as [Primadon](Primadon,_Titan_of_the_East.md) as well as people who are using "Return to the Dark Ages" or Galebreathe-resistant armors.
+    -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare.
+-   When using the weapon one-handed it becomes 2 swords.
+-   Ironically, it can become one of the worst weapons in game, as the base sword damage is also affected by elemental resistances, making you deal reduced damage to mobs such as [Primadon](Primadon,_Titan_of_the_East.md) as well as people who are using "Return to the Dark Ages" or Galebreathe-resistant armors.

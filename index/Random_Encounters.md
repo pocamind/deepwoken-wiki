@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 40549
+revid: 41807
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -100,9 +100,9 @@ Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Mini
 
 An encounter limited to [Erisia](Erisia.md), can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 
-#### **Mudskipper-Mancer**
+#### **Ministry Necromancer**
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon three special [Mudskippers](Mudskipper.md), consisting of two that can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md), though the Frostdraw Mudskipper is bugged and cannot use it's Mantra.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon three special [Mudskippers](Ministry_Necromancer.md), consisting of two than can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
 
 **Weapons:** [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md) & [Necroskippers](Mudskipper.md).
 
@@ -177,17 +177,29 @@ One, two or three divers taking on a monster in [The Depths](The_Depths.md). Wit
 
 Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
-The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Snow Knight](Stone_Knight.md) event.
+The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Blizzard Knight](Stone_Knight.md) event.
 
 ### **[Akira](Akira.md)**
 
-Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
+A rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
 The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
 After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
 
 If the player were to have 100 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 100 Charisma will get you killed.
+
+### [Blizzard Knights](Stone_Knight.md)
+
+Blizzard Knights is an event that only occurs in Winter, encountered in the Valley of Heroes of Minityrsa. The Blizzard Knights are huge monsters, sporting a white body, red eyes, and a menacing red sword. They're the more stronger version of the Rock Knight; having more health, completely disabling healing from Bloodless gems, and spawning in a group of six.
+
+Once entering the main area, your screen will start shaking as giant blue meteors come crashing from the sky. Upon impact, these meteors will explode into the aforementioned Blizzard Knights.
+
+Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five Hero Blades and/or possibly one of the many variants of the Ministry Cloak.
+
+### [Rogue Construct](Hive_Construct.md)
+
+Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), will spawn a [Rogue Construct](Hive_Construct.md), a variant of a Hive Construct but has red rings instead of green. A very powerful monster, it drops tier 2 mantra modifier materials and the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
