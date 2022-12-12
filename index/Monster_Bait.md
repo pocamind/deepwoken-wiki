@@ -1,9 +1,9 @@
 ---
 title: Monster Bait
-revid: 40844
+revid: 41789
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Items]
+categories: [Items]
 ---
 
 # Monster Bait
@@ -33,8 +33,5 @@ Monsters spawned through bait _do not_ give chests.
     -   There were even entire gangs of high levels server hopping and beelining to Megalodaunt-filled hotspots to try to protect freshspawns and kill the Megalodaunts.
     -   Many refer to the event as 'The Sharko Rumbling,' a reference to the rumbling from Attack On Titan, which happened to be airing around that time. The latest version log in the wiki reflects this disastrous event as **"The Dreaded Winter of 1291."**
     -   One of the shutdown warning notes reads "Shutdown at XX:57, good night to sharkos across the world"
-
-## Notes
-
 -   Monsters spawned through bait seem to give less EXP than their naturally-spawning counterparts.
 -   Megalodaunt Bait is easily the most sought-after bait as they can rarely spawn their Crimson counterpart, which in and of itself can drop the incredibly sought-after [First Light](First_Light.md), although at a very low rate.

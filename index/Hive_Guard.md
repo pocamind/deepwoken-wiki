@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 40817
+revid: 41775
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -47,7 +47,7 @@ Flame Assault
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 
-### **Soldier Variant**
+### **Soldier Variant-400 HP**
 
 A Hive Guard's (**Soldier**) arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md) or [Silver Dagger](Silver_Dagger.md):
 

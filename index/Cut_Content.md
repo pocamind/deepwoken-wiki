@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 41749
+revid: 41770
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -31,7 +31,6 @@ notices:
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
 -   **Announced Casting -** Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
--   **Stormcaller** **\-** Was a supposed upgrade path for Thundercaller similar to Blue Flames for Flamecharm and Crystallisation for Frostdraw. An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall if you had enough Thundercall.
 
 ## Monsters
 
@@ -70,3 +69,4 @@ notices:
 -   **Ship Customization -** Ships were going to have more in-depth customization features, but were removed shortly before release for unknown reasons.
 -   **Officer's Note -** An item that had a chance to drop from Bandit Camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
 -   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
+-   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.

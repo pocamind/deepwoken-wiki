@@ -1,16 +1,12 @@
 ---
 title: Forgotten Villager
-revid: 39182
+revid: 41783
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Enemies]
 ---
 
 # Forgotten Villager
-
-“ Wait, what's that noise outside? ”
-
-― Forgotten Villager before the Church Raid event starts.
 
 Template:EnemyInfobox1.0
 
@@ -20,11 +16,12 @@ Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Chur
 
 ### Waves
 
--   Wave I - Four to Six [Bandit Leaders](Bandit_Leader.md)
--   Wave 2 - Four [Bandit Leaders](Bandit_Leader.md)
--   Wave 3 - A [Rock Golem](Rock_Golem.md)
+-   Wave I - Four [Bandit Leaders](Bandit_Leader.md)
+-   Wave 2 - Five [Bandit Leaders](Bandit_Leader.md)
+-   Wave 3 - Six [Bandit Leaders](Bandit_Leader.md)
+-   Wave 4 - A [Rock Golem](Rock_Golem.md)
 
-A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [race](Aspects.md) and gender varying.
+A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 
@@ -45,4 +42,4 @@ A Forgotten Villager executes their opponent after knocking them:
 
 ## Trivia
 
--   General player notes and trivia here
+-   Taking a knocked one to [Alastir](Alastir.md) will result in no reaction.

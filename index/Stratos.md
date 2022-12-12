@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 39715
+revid: 41790
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -9,8 +9,6 @@ categories: [Pages with broken file links, NPCs]
 # Stratos
 
 File:Vigil.png
-
-An albino [Felinor](Felinor.md), dressed up as a Temple of Blades Guard. (Does not affect dialogue)
 
 ## Stratos
 
@@ -29,4 +27,4 @@ After you complete the quest, you will receive the talent "Windwaker." This tale
 ## Trivia
 
 -   The name of the talent is taken from _The Legend of Zelda: The Wind Waker_.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says from these lines: "Nice try." "What was that? I felt a calm breeze..."
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: "Nice try." "What was that? I felt a calm breeze..."

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 41395
+revid: 41778
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -131,6 +131,7 @@ File:No Attunement Revamp.png
 -   Decreases damage received by allies for the duration of the effect.
     -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
 -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
+-   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people outside your guild.
 
  |
 | 

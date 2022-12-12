@@ -1,8 +1,9 @@
 ---
 title: Polis
-revid: 40851
+revid: 41784
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Enemies]
 ---
 
 # Polis

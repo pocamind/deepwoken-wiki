@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 40608
+revid: 41785
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -14,7 +14,7 @@ File:Attunementicon.png
 
 ## Description
 
-There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective trainers. To unlock these, you must collect five of their respective Attunemental Ingredient, dropped by NPCs that use it and certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
+There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective trainers. To unlock these, you must collect five of their respective Attunement Ingredient, dropped by NPCs that use it and certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
 
 While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
 
@@ -26,7 +26,6 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 ## Mentioned Only/Potential future Attunements
 
--   ~Ironsing~ (Not an Attunement.)
 -   Lifeweaving (First seen being used by the Hive leader)
 -   Lightkeeper/Lightkeeping
 -   Earth (Mentioned by Arch\_Mage saying he would like to add earth)
@@ -43,7 +42,7 @@ Another point worth noting is there's no current way of removing an Attunement t
         
 -   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all Attunements to be select-able from the menu.
--   Once you have selected an attunement, it will be the only available attunement in the character creation menu other than choosing random, or attunementless. This does not include attainable attunements, after getting wiped those will be also choosable in the character creation menu along with your starter attunement. Keep in mind you can only choose 1 after being wiped. (For example, starting with ice, then getting shadow, and getting wiped, you can only choose ice, shadow, attunmentless or random.)
+-   Once you have selected an attunement, it will be the only available attunement in the character creation menu other than choosing random, or Attunement-less. This does not include attainable attunements, after getting wiped those will be also choosable in the character creation menu along with your starter attunement. Keep in mind you can only choose 1 after being wiped. (For example, starting with ice, then getting shadow, and getting wiped, you can only choose ice, shadow, Attunment-less or random.)
 -   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
--   Water will never become an Attunement available to the public due to specific lore reasons(Only drowned gods have the ability to manipulate water in the lore)as is stated by Arch\_Mage.
+-   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
     -   As an extension, he mentions that those who wield water magic have already lost their humanity.
