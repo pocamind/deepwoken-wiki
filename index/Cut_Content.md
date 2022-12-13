@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 41848
+revid: 41878
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -23,8 +23,7 @@ notices:
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
 -   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploit and etc
-
-  
+-   **Spell Stacking -** Only ingame for a month from release, you used to be able to stack spells with m1s, with parrying either the m1 or spell cancelling the other. Removed for being unfair/allowing easy movestacks.
 
 ## Mantras
 
