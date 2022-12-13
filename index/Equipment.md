@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41854
+revid: 41894
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -726,7 +726,7 @@ Brilliant Cape
 
 Grants a random buff.
 
- | Depths Chests, Dread Serpent | N/A |
+ | Dread Serpent | N/A |
 | File:Golden Cape.png | 
 
 Cape
@@ -1544,7 +1544,7 @@ Gives every weapon 1.2 Willpower scaling when equipped.
 
 **Requires Power 20**
 
- | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests. |
+ | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 
 
 Rosen's Ring
@@ -1566,11 +1566,11 @@ Prophet's Ring
 
  | 
 
-Gives every weapon 1.2 agility scaling when equipped.
+Gives every weapon 1.2 charisma scaling when equipped.
 
 **Requires Power 20**
 
- | Duke Chests, Arena Chests (WIP) |
+ | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 
 
 Maestro's Ring
@@ -1579,11 +1579,11 @@ Maestro's Ring
 
  | 
 
-Gives every weapon 1.2 charisma scaling when equipped.
+Gives every weapon 1.2 agility scaling when equipped.
 
 **Requires Power 20**
 
- | Duke Chests, Arena Chests (WIP) |
+ | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 
 
 [Dawnfist's Ring](<Dawnfist's_Ring.md>)

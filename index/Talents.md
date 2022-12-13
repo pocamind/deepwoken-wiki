@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41877
+revid: 41905
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -29,7 +29,7 @@ There are certain cards that are handed to you automatically, free of charge. Ca
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
 -   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
-    -   For example: Overflowing Dam requires 30 INT as a prerequisite.
+    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
     -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
 -   Doing certain actions that may influence your rolls, such as [alchemy](Alchemy.md). ([fishing](Fishing.md) talents were reworked after fishing update .)
@@ -39,6 +39,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
+-   You cannot roll Ghost with Safety Dance and Observation
 -   You cannot roll Conditioned Runner with Fishman.
 -   You cannot roll Vanishing follow-up with Dazing Finisher.
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
@@ -55,7 +56,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 These talents improve the user's aerial mobility without the use of Galebreathe.
 
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
-    -   Prequesites: 15 Agility
+    -   Prerequisites: 15 Agility
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+4 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
@@ -1032,7 +1033,7 @@ These Talents are meant to make foraging and mining grant more resources.
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health) \[This Talent Card is broken and doesnt work\]
+-   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health) \[This Talent Card is broken and doesn't work\]
     -   Prerequisite: 70 Flamecharm & 70 Shadowcast
 
 ### Pyromancer
@@ -1068,7 +1069,7 @@ These Talents are meant to be used in an aggressive playstyle.
 
 ### Scholar of the Cloud
 
--   Windwalker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
+-   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Increases Boat speed more drastically when your sail is facing in the right direction of the wind.
 
 ### Self-Shocker

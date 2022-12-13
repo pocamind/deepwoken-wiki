@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 41196
+revid: 41883
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -15,6 +15,8 @@ Template:EnemyInfobox1.0
 An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) either fighting [Legion Captains](Legion_Captain.md) or [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
 
 Their appearance consists of an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit with their race being only [Adrets](Adret.md) and their gender varying.
+
+The Authority Captain is a separate rank from the Authority Warden, they Authority Warden resides inside the Fort Merit's prison, the Fort Merit docks Flamecharmer one is a Authority Captain. Authority Wardens are the ones commanding or controlling the prison as we can take from context clues, the one in the Authority prison with his back turned to the entrance is our Warden as he has keys.
 
 ## Moveset
 

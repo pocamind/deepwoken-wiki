@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 41498
+revid: 41901
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. Another one can spawn outside the shipwright's hut by the docks.
+Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a warden, it is a [Authority Captain](Authority_Captain.md).
 
-Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm, while the one outside wears a pair of polarized glasses while leaving their head exposed.
+Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm.
 
 ## Moveset
 
@@ -46,3 +46,4 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 -   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a Khan Shield or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
+-   Authority Wardens and [Authority Captains](Authority_Captain.md) are different ranks
