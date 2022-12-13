@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41850
+revid: 41863
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -628,6 +628,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Gale Kata
 
 -   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
+    -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
     -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
 
 ### Galebreather

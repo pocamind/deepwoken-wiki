@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 39945
+revid: 41867
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -65,14 +65,14 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Divine Spear | Spear | 22.5 | 5% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Upper Angel. |
-| Divine Longsword | Sword | 25 | 10% | MED: 9 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
+| Divine Longsword | Sword | 25 | 10% | MED: 7 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
 
 **Light:**
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Divine Dagger | Dagger | 18 | 10% | LHT: 7 | 4 | 6.5 | 1.15x | Rush forward in a flurry of divine slashes. |
-| Divine Flintlock | Flintlock | 15 | 10% | LHT: 15 | 5 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. |
+| Divine Flintlock | Flintlock | 15 | 10% | LHT: 15 | 1 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. |
 
 ## Trivia/Notes
 
