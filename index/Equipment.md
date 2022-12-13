@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41660
+revid: 41854
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -518,7 +518,7 @@ _\+ Talent: Blinded_
 
 _\+ Talent: Blinded_
 
- | Arena Chests | Default |
+ | Arena Chests, Blacksmith Reward Chests | Default |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
@@ -1254,7 +1254,7 @@ Grant a random buff.
   
 _\+ 5% Damage VS Monster_
 
-**Requires Power 30**
+**Requires Power 15**
 
  | Megalodaunts Drop | Red, Purple, Brown, Green, Blue & Peach |
 | File:Ministry Cloak.png | 

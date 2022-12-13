@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 41346
+revid: 41843
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -221,6 +221,7 @@ Grand Javelin
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
+-   Can be modified with a multiplying spark to make 3 mini javelins.
 
  | Damage:
 

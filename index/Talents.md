@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41836
+revid: 41850
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -62,8 +62,6 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
--   Quick Recovery \[Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility
 -   Graceful Landing \[Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
@@ -346,7 +344,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you. (+ 4 Ether)
     -   Prerequisite: Charismatic Cast
--   Familiar Sight \[Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: 40 Charisma and Charismatic Cast
     -   Mutual exclusive: Vanishing Follow-up
@@ -1001,7 +998,9 @@ These are just raw stat increases and are beneficial to anyone.
 ### Natural Armor
 
 -   Padded Armor \[Common Talent\] - You take 5% less damage when your armor is broken. (+1 Passive Agility)
+    -   Adds +3% Blunt Armor.
 -   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+1 Passive Agility)
+    -   Adds 3% Slash Armor.
     -   Prerequisites: Padded Armor
 
 ### Navaen Nomad
@@ -1058,8 +1057,7 @@ These Talents are meant to make foraging and mining grant more resources.
     -   Prerequisites: Friends in High Places + 50 charisma
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
--   Diplomat \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
-    -   Prerequisites: 10 Charisma
+    -   Prerequisites: 40 Charisma
 -   Under The Radar \[Rare Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher (+4 Ether, 4+ Health)
     -   Prerequisites For All: Charisma
 
@@ -1126,12 +1124,9 @@ Prerequisite: Charisma
 
 -   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
-    -   Prerequisite: Diplomat
--   Salesperson \[Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
-    -   Gain 1.5x more notes from selling items.
-    -   Prerequisites: 20 Charisma
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
-    -   Gain 2x more notes from selling items (replace Salesperson).
+    -   Gain 1.4x more notes from selling items.
+    -   Prerequisites: 30 Charisma
 -   Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a debuff for a short period of time (60 second cooldown)
     -   Prerequisite: 35 Charisma
 
@@ -1376,7 +1371,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Vow of Mastery \[Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (+1 Ether, +1 Health)
     -   Prerequisites: 20 Charisma
-    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use"
+    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate"
 
 -   Command: Run \[Common Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
     -   Prerequisites: 25 Charisma, Vow of Mastery
@@ -1388,9 +1383,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Command: Leech \[Common Talent\] - Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
     -   Prerequisites: 20 Charisma, Vow of Mastery
     -   Effect: Transfers the ether of your subject to yourself
--   Command: Locate \[Common Talent\] - Locate one of your vow members (+4 Ether, +3 Health)
-    -   Prerequisites: 20 charisma, Vow of Mastery
-    -   Effect: Outlines your subject in red briefly
 
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
@@ -1836,6 +1828,8 @@ Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc 
 Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)  
 Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself.  
 Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
+Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)  
+Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)  
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 41499
+revid: 41859
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Boss]
@@ -29,6 +29,10 @@ Template:Creature Info Box v2
 | **Whirlwind** | The Enforcer begins to spin rapidly from the waist-up while holding its axe out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after **Space Pull**) | ◯ | ✗ | ✗ | (★★☆) |
 | **Space Pull** | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★★★) |
 | **Feint** | Its a [feint](Combat_Mechanics.md) for a monster. Enough said. | ✗ | ✗ | ✗ | (★★☆) |
+
+### Passives
+
+-   **Resilient -** Monsters damage buffs are half as effective against them.
 
 ### Finishers
 

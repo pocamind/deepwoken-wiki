@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 41457
+revid: 41847
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -94,6 +94,7 @@ In combat, Primal Golems are very hardy having moderately high health, and high 
 **Passives**
 
 -   **Rock Shell -** Golems have 25% Slash Resistance.
+-   **Artificial Construct-** Bloodless does not proc on them.
 
 ## **Finisher**
 
