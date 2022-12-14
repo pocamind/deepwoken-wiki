@@ -1,9 +1,9 @@
 ---
 title: Ministry Necromancer
-revid: 40842
+revid: 41909
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [Enemies]
 ---
 
 # Ministry Necromancer

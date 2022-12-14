@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41894
+revid: 41914
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1810,7 +1810,7 @@ Grants a random buff.
 ## Trivia/Notes
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   Some Armors such as Star Duster, the Royal Duelist and its variants and the Megalodaunt Coat require you to be at a certain Power level to use.
+-   Some Equipment such as Star Duster, the Royal Duelist and the [Megalodaunt Coat](Megalodaunt_Coat.md) require you to be at a certain Power level to use.
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
 -   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.
