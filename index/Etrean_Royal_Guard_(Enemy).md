@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 34524
+revid: 41932
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without enough reputation brings you the same fate as attacking the Fort Merit guards. Also, if you have enough [Negative Reputation](Reputation.md) with [Etris](Etris.md) they will personally come out from the Palace and attack you. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring the player to be referred to by name for them not to attack on sight.
+An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without enough reputation brings you the same fate as attacking the Fort Merit guards. ~Also, if you have enough [Negative Reputation](Reputation.md) with [Etris](Etris.md) they will personally come out from the Palace and attack you~ They'll actually appear when you grip 2 Etrean guards, even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring the player to be referred to by name for them not to attack on sight.
 
 An Etrean Royal Guard wears a Blackleaf Helm and possibly dons the Royal Etrean Guard outfit.
 

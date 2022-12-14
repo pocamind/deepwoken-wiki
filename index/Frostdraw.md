@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 41721
+revid: 41951
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,9 +16,9 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw is an attunement that focuses on Environment Manipulation, Area-Denial and Defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice, highlighting the Defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow attunement when compared it's other counterparts, it makes up by having unapparelled damage output.
+Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial, Support, and Defense. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the Defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having unparalleled damage, and deadly combos.
 
-A favorite by both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
+A favorite of both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
 ## Training
 
@@ -462,6 +462,8 @@ Chilling Flourish
 
 When flourishing an enemy, send them off with a trail of ice.
 
+(When paired with Dazing Finisher it leaves a small patch on the spot)
+
  | 
 
 +4 Elemental Intensity  
@@ -478,7 +480,7 @@ Cool Head
 
  | 
 
-If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire.
+If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. (Cool Head is bugged and does not proc consistently.)
 
  | 
 
@@ -496,7 +498,7 @@ Condensation Drip
 
  | 
 
-Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare.
+Passively collect condensation from the air, greatly reducing your thirst. (Approximately 3 times slower)
 
  | 
 
@@ -804,14 +806,8 @@ Your forge more shurikens when casting on ice.
 +5 Elemental Intensity +3 Health
 
  |
-
-**Uncategorized:**
-
-These talents are found in the _Uncategorized_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
 | 
+
 File:ShatterSpear.png
 
  | 
