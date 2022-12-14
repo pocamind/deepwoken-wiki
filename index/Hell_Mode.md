@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 41521
+revid: 41930
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -61,7 +61,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   ~Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.~ (Remnant servers have been removed)
--   **When fighting monsters in a group, do NOT hit your allies.** This will put them in player combat, which means they will not get health and posture back when killing monsters, which exacts a heavy toll on their survivability for an extended period of fighting.
+-   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat but,it can damadge them which means they will take damadge from the hit. They can still get heals from mobs when killing monsters. Other players that didnt ring the bell will get combat taged so if your with someone that didnt ring it don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repercussions to you.
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
 -   The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.

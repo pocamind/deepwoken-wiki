@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41925
+revid: 41928
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -767,7 +767,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
-    -   Prerequisites: 10 Flamecharm, 15 Willpower and 15 Charisma
+    -   Prerequisites: 1 Flamecharm, 15 Willpower and 15 Charisma
 
 ### Javelin Lord
 
@@ -1507,8 +1507,9 @@ These Talents are designed to make you more effective in water.
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
 -   Replenishing Knockout \[Common Talent\] - Enemies gain more health and posture when they knock you. (+3 Health)
     -   Being knocked by enemies will replenish more of their health and posture.
--   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 25% too. (+5 Health)
-    -   Prerequisites: 15 Willpower
+-   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+    -   Prerequisites: Power 30
+    -   Mutual Exclusive: Everchanging Aegis
 
 ## Whispers
 
