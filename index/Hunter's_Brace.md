@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 38699
+revid: 41973
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms]
@@ -10,7 +10,7 @@ categories: [Arms]
 
 | Hunters Brace | |
 |---|---|
-| value | 50 |
+| value | 60 |
 | weight | ??? |
 | type | Support |
 | bankable | Yes |

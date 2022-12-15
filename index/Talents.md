@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41970
+revid: 41971
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -45,6 +45,7 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Vanishing follow-up with Dazing Finisher.
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
 -   You cannot roll Orbital Ice with Fist of fortitude.
+-   You cannot roll Speed Demon with Cheapshot (requires checking)
 
 Note: These all apply vice versa
 

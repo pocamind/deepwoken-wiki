@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 41827
+revid: 41972
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Swords, Items]
@@ -35,4 +35,4 @@ The Razor Cutlass is a [Medium Weapon](Weapons.md#swords) of **RARE** rarity pri
 -   The highest damage medium weapon in the game due to naturally having Bleed.
     -   Including the 1.3x damage multiplier from bleed, it does 40.95 damage with 100 MED.
 
--   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md) and used by the [Ignition union](The_Ignition_Union.md) in [Summer Isle](Summer_Isle.md)
+-   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md).
