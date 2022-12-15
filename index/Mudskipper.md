@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 41313
+revid: 41965
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -8,9 +8,9 @@ categories: [Monsters, Technically A Race]
 
 # Mudskipper
 
-“ Grgrlglrgl grrgl. Grgrglrgl. ”
+“ grgrlg glrglrgrg glgrglrg ”
 
-― Mudskippers during Mudwoken
+― A Mudskipper conversing before getting mauled by a power 60 looking for mantra sparks
 
 > _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
 

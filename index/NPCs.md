@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 41570
+revid: 41963
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -45,7 +45,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Akira.md">Akira</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="The_Depths.md">The Depths</a></td>
-  <td>Akira vs Ignition Union event, Willpower unbound and joining <a href="The_Divers.md">The Divers</a></td>
+  <td>Akira vs Ignition Union event, Willpower unbound, joining <a href="The_Divers.md">The Divers</a></td>
   <td></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Cestis.md">Cestis</a></td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
-  <td>Grants Murmur: Tacet after completing 10 bounties</td>
+  <td>Gives Bounties, grants Murmur: Tacet after completing 10 bounties</td>
   <td>Requires the player to have negative Etrean reputation</td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
   <td>Food Vendor, gives crate delivery quest</td>
-  <td>After asking his name, your character forgets and his name is randomized from the masculine namepool.</td>
+  <td>After asking his name, your character forgets and his name is randomized from the masculine namepool</td>
 </tr>
 <tr>
   <td>Lance Leshi</td>
@@ -241,7 +241,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Unaligned</td>
   <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
   <td>None</td>
-  <td>The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player.</td>
+  <td>The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player</td>
 </tr>
 <tr>
   <td>Scope</td>

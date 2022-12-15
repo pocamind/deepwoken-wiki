@@ -1,12 +1,16 @@
 ---
 title: Frostdraw
-revid: 41951
+revid: 41966
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Frostdraw
+
+“ Ka...me...ha...me... ”
+
+― An unknown Khan using an ice beam with 9 Stratus Stones
 
 ## Description
 
