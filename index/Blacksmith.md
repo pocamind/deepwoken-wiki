@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 41221
+revid: 41983
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Armors]
@@ -15,9 +15,9 @@ categories: [World, NPCs, Armors]
 
 The Blacksmiths are stationary npcs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md) and even [Castle Light](Castle_Light.md).
 
-The Blacksmith Npc allows you to repair and create [Outfits](Outfits.md#outfits) by turning in schematics found in chests or purchased from vendors.
+The Blacksmith NPC allows you to repair and create [Outfits](Outfits.md#outfits) by turning in schematics found in chests or purchased from vendors.
 
-blacksmiths are able to award chests for handing in “pure ores”, a rare variant of a regular ore that can be broken into 3 of its base ores.
+Blacksmiths are able to award chests for handing in “pure ores”, a rare variant of a regular ore that can be broken into 3 of its base ores. If you repeat this quest five times, you will be awarded with the [Talent](Talents.md) "Excavator", which gives a chance to receive two ores from one.
 
 ## Trivia
 

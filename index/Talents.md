@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41971
+revid: 41977
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1523,17 +1523,16 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Fortitude Support
 
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture **will not break**
-    -   Prerequisite: 15 Fortitude
+    -   Prerequisite: 10 Fortitude, Using a Shield
 -   Reinforce - Up defense for you and allies around you
-    -   Prerequisite: 40 Fortitude
+    -   Prerequisite: 50 Fortitude
 -   Brace - Gain hyperarmor on your attacks for a short duration
-    -   Prerequisite: 65 Fortitude
+    -   Prerequisite: 75 Fortitude
 
 #### Fortitude Mobility
 
 -   Shoulder Bash - Rush into your enemies with your full physical force.
-    -   Prerequisite: 10 Fortitude
-    -   Shield is required for this mantra to activate.
+    -   Prerequisite: 15 Fortitude
 
 #### Agility Combat
 
@@ -1548,7 +1547,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Agility Mobility
 
 -   Dash - Just a dash, nothing special.
-    -   Prerequisite: 35 Agility
+    -   Prerequisite: 40 Agility
 
 #### Charisma Support
 
@@ -1561,7 +1560,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Intelligence Combat
 
 -   Prediction - Predict an opponents attack and reflect it.
-    -   Prerequisite: 40 Intelligence
+    -   Prerequisite: 50 Intelligence
 
 #### Intelligence Support
 
@@ -1570,43 +1569,45 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Strength Combat
 
--   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
-    -   Prerequisite: 10 strength
+-   Strong Left (1 Star Mantra) - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+    -   Prerequisite: 20 strength
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
     -   Prerequisite: 20 Strength
+-   Tacet Drop Kick - Disguise yourself in tacet and drop kick your enemies.
+    -   Prerequisites: 20 Strength, Murmur: Tacet, Jus Karita
 
 #### Strength Mobility
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
-    -   Prerequisite: 40 Strength
+    -   Prerequisite: 50 Strength
 
 #### Willpower Combat
 
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
-    -   Prerequisites: 35 Willpower
+    -   Prerequisites: 40 Willpower
 
 #### Willpower Support
 
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
-    -   Prerequisite: 25 Willpower
+    -   Prerequisite: 30 Willpower
 
 -   Glare - Opponents facing you are briefly stunned.
-    -   Prerequisite: 15 Willpower + 25 Charisma
+    -   Prerequisite: 5 Willpower + 25 Charisma
 
 #### Light Weapon Mobility
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
-    -   Prerequisite: 25 Light Weapon
+    -   Prerequisite: 30 Light Weapon
 
 #### Medium Weapon Combat
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
-    -   Prerequisite: 25 Medium Weapon
+    -   Prerequisite: 30 Medium Weapon
 
 #### Heavy Weapon Combat
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
-    -   Prerequisite: 25 Heavy Weapon
+    -   Prerequisite: 30 Heavy Weapon
 
 ### Flamecharm Mantras
 

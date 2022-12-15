@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 41972
+revid: 41976
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Swords, Items]
@@ -28,11 +28,12 @@ categories: [Weapons, Weaponry, Swords, Items]
 
 ## Description
 
-The Razor Cutlass is a [Medium Weapon](Weapons.md#swords) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md) and [Minityrsa](Minityrsa.md), however it can also be dropped by the Crimson Terrapod. It's one of the only Medium Weapons that deals bleed on top of its normal attacks the other being [Acheron's Warspear](<Acheron's_Warspear.md>), it is effective at dealing very high damage and posture. It boasts the highest weight of Medium Weapons, the only others being the [Officer Saber](Officer_Saber.md) and [Alloyed Messer](Messer.md). It's Penetration starts off at 20% which is pretty high all things considered. The weapon, also notably, is the _slowest_ medium weapon in the game alongside the [Messer](Messer.md) and [Mace](Mace.md) which are starter tier weapons, but the sheer power of its aforementioned stats make up for that quite a bit. For that same reason, it's best used as a mid to endgame weapon.
+The Razor Cutlass is a [Medium Weapon](Weapons.md#swords) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md). It's one of the only Medium Weapons that deals bleed on top of its normal attacks, the only other other being [Acheron's Warspear](<Acheron's_Warspear.md>). The Cutlass is effective at dealing very high damage and posture with the [bleed](Weapons.md) effect. It boasts the highest weight of Medium Weapons, the only others being the [Officer Saber](Officer_Saber.md) and [Alloyed Messer](Messer.md). It's Penetration starts off at 20% which is pretty high all things considered. The weapon, also notably, is the _slowest_ medium weapon(Non-spear, because spears are naturally slow) in the game alongside the [Messer](Messer.md) and [Mace](Mace.md) which are starter tier weapons, but the sheer power of its aforementioned stats make up for that quite a bit. For that same reason, it's best used as a mid to endgame weapon.
 
 ## Trivia
 
 -   The highest damage medium weapon in the game due to naturally having Bleed.
     -   Including the 1.3x damage multiplier from bleed, it does 40.95 damage with 100 MED.
+    -   Bleed adds 10% of your current damage per tick which are 3 ticks making it 30% damage boost, despite that, a recent update has nerfed bleed by making it unable to profit from damage multipliers.
 
 -   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md).

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 41343
+revid: 41984
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -14,9 +14,9 @@ Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily i
 
 **Blizzard Knight:**
 
-“ That... wasn't fun at all... ”
+“ That thing’s invincible! ”
 
-― A Felinor who listened to Aelita
+― A Sword user feeling what it’s like to do imaginary numbers in damage
 
 Template:Creature Info Box v2
 
