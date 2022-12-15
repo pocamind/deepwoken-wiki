@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 41716
+revid: 41974
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -318,7 +318,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
         -   They cut themselves off from the outside world following a catastrophe.
         -   They are at war with the Central Authority, an empire that hails from the Central luminant, which has a more western theme and superior technology, much like the conflict between China and the British Empire.
         -   Similar architecture.
-        -   They kill anyone who is suspicious of the Lord Regent, an exaggeration of modern day China.
+        -   They silence anyone who is suspicious of the Lord Regent
 
 An Etrean Guard, part of the Nation of Etrea
 
