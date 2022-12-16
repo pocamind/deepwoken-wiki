@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 41843
+revid: 42003
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -19,6 +19,8 @@ Thundercall grants the user ability to control thunder and electricity, giving t
 Thundercall makes use of a highly unpredictable nature with high slow/stun potential.
 
 The playstyle of this attunement is unpredictability, creativity, and speed. Most overlook it's combat capabilities, but don't be fooled, as this element allows for a lot of switch-up potential. The switch-up potential comes in it's talents that modify mantras, giving you a choice to switch things up. This ranges from having a slash after your lightning blade, all the way to insta-casting mantras after meeting certain requirements. With these talents giving you the option of instant casting to make it difficult to impossible for your opponent to react, you will be given the upper-hand forcing them to predict your next move. This attunement would most likely fit players who rely on their creativity rather than combos and brute force. It also has some talents which make this almost like a beatdown attunement, with some talents creating "stacks" upon doing certain things, or some mantras that apply buffs to the user (Most notably the lightning cloak), making the fight increasingly more difficult for the opponent as it goes on.
+
+It should be noted, however, for all thundercall's speed that the corresponding ether drain is a difficult challenge to overcome. It's recommended to invest in high regen armor or consumable items to help make up the difference. An adept player may attempt to play defensively until the thundercaller's ether runs out, or worse, manage to read the thundercaller's often highly initiative mid-range playstyle and counter with a well timed flamecharm blast or galebreathe combo. Especially dangerous to novices are shadowcasters, who can outlast and outsustain a mantra-reliant thundercaller. It's recommended to use thundercall's mixup potential to counter with good dodges and excellent pace control.
 
 ## Training
 

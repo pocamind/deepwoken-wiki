@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 41977
+revid: 42000
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1361,7 +1361,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
     -   Prerequisites: Flame of Denial
--   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted. (+1 Elemental Intensity, +2 Health)
+-   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Graceful Flame
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity.
     -   Prerequisite: Undying Flame

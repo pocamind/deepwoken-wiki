@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 41058
+revid: 42004
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -21,6 +21,8 @@ Galebreathe is an [Attunement](Attunements.md) that grants the user the ability 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras.
+
+While galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivaling attunementless. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and frostdraw builds. It's suggested to use the high maneuverability and weakness exploiting playstyle to be patient, and go in when the time is right.
 
 ## Training
 

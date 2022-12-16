@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 41870
+revid: 42001
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -21,6 +21,8 @@ Flamecharm icon
 Flamecharm grants the user the ability to conjure fire using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
 The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team. This attunment is also the best choice as a noob, as the burn effect will kill knocked npcs, easily allowing you to progress really fast.
+
+However, despite its out-of-combat utility and extreme PVE viability, flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset, and an adept opponent will be able to out-time a repetitive wielder's attacks. This is especially notable in galebreathe and thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
 
 ## Training
 
