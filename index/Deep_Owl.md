@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 41567
+revid: 42039
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Deep Owl
 
-“ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
+“ A CORRUPTED OWL OH MY GOD AAAAAAAAAAAAAA ”
 
-― ???
+― A power 60 pvp player who can't fight owls before he gets wiped
 
 Template:Creature Infobox V3
 

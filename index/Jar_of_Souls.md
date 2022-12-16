@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 41839
+revid: 42037
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,11 @@ Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd 
 
 Passively, **Jar of Souls** store the souls of dead humanoids nearby. Different humanoids or "souls" recharge the resonance in different amounts (this will of course vary from person to person based on their own resonance point usage). However, you'll find higher-tier humanoids recharge the resonance faster than the lower tier, e.g, it may only take one Primal Golem's soul to recharge to capacity, whereas in contrast, it may take 10 Bandit Leader's souls to recharge to capacity.
 
-Activating the resonance fires a white beam that deals damage. (Believed to do pve scaling, needs more testing.)
+Activating the resonance fires a white beam that deals damage. ~(Believed to do Pve scaling, needs more testing.)~ Jar of souls does do Pve scaling I tested with Corrupted Jar Of Souls and Megolodaunts (continuous variant) being able to successfully kill them with most of a beam. I am unsure weather or not Jar Of Souls does do regular Pve scaling due to-
+
+1\. Not knowing the exact amount of damage a Jar Of Souls beam does.
+
+2\. The fact that if a Corrupted Jar Of Souls beam would do ≈ 600 damage, a Pve scaled beam would be dong ≈ 3738.000 at power level 60 (Not including Damage Vs Monsters buffs). Which would be absolutely broken for Pve based builds.
 
 ### _Resonance Point usage_
 

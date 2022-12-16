@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 41380
+revid: 42024
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Items, Gems]
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
-To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
+To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This will return it to your inventory.
 
 <table><caption>There are six type of Deep Gems, including:</caption>
 <tbody>

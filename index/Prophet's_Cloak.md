@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 42009
+revid: 42023
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -28,7 +28,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Crippling Darkness_, whic
 
 This Outfit's Schematic can be found in:
 
--   Valorant
+-   Rarely from Rogue Hive Construct Chest
+-   Depths Chests
+-   The Floating Keep master schematic guy
 
 ## Trivia/Notes
 

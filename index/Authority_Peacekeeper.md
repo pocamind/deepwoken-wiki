@@ -1,16 +1,12 @@
 ---
 title: Authority Peacekeeper
-revid: 41152
+revid: 42029
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [Enemies]
 ---
 
 # Authority Peacekeeper
-
-“ You'll end up in the gallows... ”
-
-― Authority Guard
 
 Template:EnemyInfobox1.0
 
