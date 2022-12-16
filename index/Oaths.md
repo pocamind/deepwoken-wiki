@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 41706
+revid: 42012
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -21,7 +21,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Visionshaper | |
 |---|---|
 | oath_req | 50 Charisma |
-| effects | +1 Support Mantra, +2 Combat Mantra, +10 Ether |
+| effects | +1 Support Mantra, +2 Combat Mantra |
 
 _icon credit to Tortaa#9000_
 
@@ -30,6 +30,12 @@ _icon credit to Tortaa#9000_
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
 There are currently only three Oaths in _Deepwoken_. More are planned to be added in future updates.
+
+## Pathfinder
+
+Initially, all players start as a **Pathfinder**, which does not provide any benefit.
+
+Pathfinder doesnt count as an Oath and is merely an indicator of your lack of Oath.
 
 ## Oath: Oathless
 
@@ -77,15 +83,15 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby Players at the cost of your Sanity.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Obtainment: 1 player helped in the Depth Trial (must be alive)
+    -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius.
         -   This affects everybody, including the caster and their allies.
-    -   While inside the circle, gain mantra immunity.
+    -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
-    -   Obtainment: 5 players helped in the Depth Trial (must be alive)
+    -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -93,7 +99,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Has a HIGH windup
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 10 players helped in the Depth Trial (must be alive)
+    -   Obtaining: 10 Pathfinders helped in the Depth Trial (must be alive)
 
   
 
@@ -103,7 +109,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
-This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras.
+This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cure the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 
 Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
@@ -121,16 +127,17 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 2.  Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once.
 3.  Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
 4.  Bring him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
-5.  Bring additional Void Feathers to [Surge](Surge.md) to unlock the skills, 5 In total for all skills.
+5.  Bring Void Feathers to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills.
 
 ### Known Abilities
 
-The mantras and passives are obtained by giving additional feathers to Surge after the first one required to obtain the oath.
+The mantras and passives are obtained by giving Void Feathers to Surge after the Dark Feather required to obtain the oath.
 
-Visionshaper also has two talents obtained via standard level up.
+Visionshaper also has one talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
+    -   Duration scale with your progress in the Visionshapper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   While the clone deal fake damage, it still applies hit-stun.
@@ -157,18 +164,15 @@ Visionshaper also has two talents obtained via standard level up.
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
-The following two talents are obtained by leveling up after obtaining Visionshaper.
+The following talent is obtained by leveling up after obtaining Visionshaper.
 
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
     -   No (or very low) cooldown.
 
--   **Lasting Image - \[Common talent, Visionshaper\]**
-    -   **Illusionary Servant** and **Cheap Trick** last longer
-
 ### Effects
 
-This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
+This Oath grants one Support Mantra Card slot and two Combat Mantra slots
 
 The oath changes the eye color of the user to purple, and creates a wispy ethereal particle effect which stems from the user's right eye.
 

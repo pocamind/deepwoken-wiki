@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42000
+revid: 42014
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -316,8 +316,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 30 intelligence
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   When hit by an elemental attack, gain a 20% damage resistance towards its respective element but take 10% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
-    -   Contrary to popular myth, the effect is not tracked individually per player.
+    -   When hit by an elemental attack, gain a 20% damage resistance towards its respective element but take 10% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra. Getting hit by said Galebreath mantra will make you take 10% more damage from it but immediatly swap your resistance to Galebreath, reducing damage of other Galebreath mantras.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Red
+        -   Frostdraw: Blue
+        -   Thundercall: Yellow
+        -   Galebreath: Green
+        -   Shadowcast: Purple
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 
@@ -350,7 +355,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisite: Reinforce
+    -   Prerequisite: Reinforce, 50 Shadowcast
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce
 
@@ -757,7 +762,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Inferno
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisites: 20 Flamecharm or Complete "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
+    -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
     -   Prerequisites: 40 Flamecharm
 -   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
@@ -768,12 +773,12 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
-    -   Prerequisites: 1 Flamecharm, 15 Willpower and 15 Charisma
+    -   Prerequisites: 1 Flamecharm, 15 Willpower, 15 Charisma
 
 ### Javelin Lord
 
 -   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
-    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra)
+    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 60 Thundercall
 
 ### **Justicar**
 
@@ -1178,8 +1183,10 @@ Prerequisite: Charisma
     -   Prerequisites: 65 Shadowcast
 -   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Shadowcast
+    -   Mutual Exclusive: Singularity
 -   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move. (+1 Elemental Intensity, +3 Health)
     -   Prerequisites: 40 Shadowcast
+    -   Mutual Exclusive: Sightless Still
 -   Shadowcaster \[Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster.
     -   Prerequisites: Shadowcast with Power 1 or obtain through Shadowcast trainer (Nostor)
 
@@ -1285,15 +1292,15 @@ These Talents are designed to let you survive longer against starvation and thir
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Pickpocket \[Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
-    -   Prerequisites: 15 Agility
+-   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
+    -   Prerequisites: 5 Agility, 5 Charisma
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
--   Master Thief \[Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
-    -   Prerequisites: Pickpocket
+-   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
+    -   Prerequisites: Pickpocket, 25 Charisma
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
     -   Can take enchants despite them being un-droppable upon death.
-    -   Prerequisites: 30 Agility
+    -   Prerequisites: 35 Charisma, 10 Agility, Master Thief
 
 ### Thunder Brawler
 
@@ -1305,6 +1312,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+2 Elemental Intensity)
     -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
+    -   Prerequisites: Lightning Impact (Mantra)
 -   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
     -   Requirements: 30 Thundercall
 
@@ -1438,7 +1446,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisites: 20 Strength, 10 Agility
 
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
-    -   Prerequisite: 35 Strength
+    -   Prerequisite: 40 Strength
 
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
     -   Prerequisite: 25 Light Weapon
