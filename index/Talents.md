@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42032
+revid: 42049
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1285,7 +1285,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which as a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
-    -   Prerequisites: 70 Charisma
+    -   Prerequisites: 75 Charisma, all Silver Tongue talents
 
 ### Thief
 
