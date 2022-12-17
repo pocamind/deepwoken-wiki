@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 40573
+revid: 42067
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 | damage | 20 |
 | scaling | 5 |
 | range | 8 |
-| swing speed | 0.6x |
+| swing speed | 0.62x |
 | chip damage | N/A |
 | weight | 6 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 41993
+revid: 42068
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -12,9 +12,65 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 **Monsters** are inhuman hostile NPCs that will attack the player unless they have mute but are different from human enemies.
 
-## Description
+## Basic run down
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock k to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
+
+## Monsters
+
+**The Etrean Luminant:**
+
+**Humanoid:**
+
+Humanoid monsters found in the Etrean Luminant
+
+**Non-humanoid:**
+
+Non-humanoid monsters found in the Etrean Luminant
+
+**Bosses:**
+
+Bosses found in the Etrean Luminant that can be found/summoned
+
+**Scyphozia (Layer 1):**
+
+**Humanoid:**
+
+Humanoid monsters found in [Scyphozia](The_Depths.md)
+
+**Non-humanoid:**
+
+Non-humanoid monsters in [Scyphozia](The_Depths.md)
+
+**Trial:**
+
+Monsters you will face in the trial to reach the surface
+
+**The Eternal Gale (Layer 2):**
+
+**Humanoid:**
+
+Humanoid monsters in The Eternal Gale
+
+**Non-humanoid:**
+
+Non-humanoid monsters in The Eternal Gale
+
+Need to wait for TEG to drop to fill this out
+
+**Trial (info in waiting):**
+
+Monsters you will face to reach Scyphozia (waiting for verse 2 to drop)
+
+**Dungeons:**
+
+**Duke Erisisa's Manor:**
+
+Monsters in Duke Erisia's manor
+
+**Trial Of One (To1):**
+
+Monsters in Trial Of One. **I'll be working my ass off to get better pics of all these mfs in the actual trial instead of these dog water pics fr fr**
 
 While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
@@ -42,32 +98,6 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 -   **Gaining new behaviors/abilities**, such as Lionfish Beam.
 -   **Becoming much more persistent in chasing**, rarely stopping until the death of them or the player.
 -   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
-
-## Monster List
-
-### Humanoid Monsters
-
-**Etrean Luminant & The Depths**
-
-**Exclusive to Trial of One**
-
-### Non-Humanoid Monsters
-
-**Etrean Luminant & The Depths**
-
-**Exclusive to Etrean Luminant**
-
-**Exclusive to The Depths: Scyphozia (Layer 1)**
-
-**Exclusive to The Depths: Eternal Gale (Layer 2)**
-
-**Dungeon: Trial of One**
-
-**Dungeon: Lord Erisia's Manor**
-
-**Unknown**
-
-[Dread Serpent](Dread_Serpent.md)**Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
 
 ## PVE Scaling/Monster Health
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 41456
+revid: 42063
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -84,7 +84,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are a species native to the [Songseeker Wilds](Songseeker_Wilds.md). Their time spent closer to those that wish to wield and worship the Song have created a genetic mutation that makes their hide deep red and allows them to wield [Flamecharm](Flamecharm.md) to a limited degree. Due to their time spent far away from other regular Megalodaunts, they've grown hostile to the normal variants and commonly attack them on sight.
+Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
 
 ## **Attacks**
 
