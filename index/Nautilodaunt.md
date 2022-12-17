@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 41998
+revid: 42045
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]

@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 40777
+revid: 42046
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -58,6 +58,7 @@ Death Causes listed by the game
 -   The Ceaseless Gaze of a Watcher (death by Angel spawned by a Watcher)
 -   Daring to Trespass - Entering Lord Regents room without an audience.
 -   Drowning
+-   The cruel embrace of the Sea
 -   Ṕ̸̕ͅĻ̸̭̤̐Ừ̶͔̔C̷̨̠̑K̴̨̲̓̈ ̶͚͠Ỏ̸̞̈́̀Ù̸̬̣͐͒T̶͖̟̃͋ ̸̝̽Ț̵͔̅̇Ḧ̴̜̞̏Ī̷̧̗͋͂N̴̢̊Ȩ̷̹̊ ̸̜̖̚É̸̢̞̉͝Y̶̛͍Ẽ̵͍̯̃S̴̯̘͒̑;̵̗̑̈ ̶̤̀Ţ̵̡̗̂Ȩ̵̨͙͊Ą̶̘͔̋̑R̶̯̿ ̶̳̐O̷̭͋Ȕ̷̦͍̅̆Ṱ̷͍̩͊͊ ̸̱̓͝T̸͕̽͑H̵͍̀̌I̵͈̟͝Ņ̸̝́Ë̶̝̊͂ ̴̪̰̆̾T̵̢̯̾͋H̴̛̭̤̀R̷̩̋ͅƠ̵̪͛A̸̺͠T̸͔̯͊;̷̮͉̅ ̴̝͆̄L̷̗̣̀Ạ̵̢͍̄͆Ý̵͔͎ ̷̤̄W̸̗͎̉̌Ä̶̧̳̒Ŝ̷̨̡̐̂Ț̸͛E̴͇̲͠ ̸̲̀Ṫ̵͔̂Ó̸̩ ̶̖̈Ą̶̿L̷͔̓͠L̴̘̕ ̶̱͈̅Ẁ̵̝̙͋H̶͇́̀Ḭ̷͒͊Ç̵͎̖͋̉H̸̭̃͜ ̷̘͔̒̍Ĭ̴̭̿͠S̸̗̐ͅ ̵̢͕̀S̷̺̘̈́A̶̟͛̎C̷̭̞̀͒R̶̯̩̈́̓Ê̸̘̏D̵̺̺͝;̷̢̊̀ ̶̬̄̿T̵͎̀H̶͔̭̍͑E̶̜̹̕͝ ̴̞͊Ṁ̸̰͘͜Ȏ̶̳̫̌̚O̸̲͘͠Ņ̶̲͠S̵̡̬̒E̷͍͇͝Y̷̢͖̅Ḙ̵̡̈̚ ̵̮̰́̚C̶̹͑Õ̶͈͎̐̚Ņ̷̱͘V̶͍̗͗E̶̗̍Ř̴͎̲͐Ģ̴̝̪̄͗E̵̼̊̊S̵͍̔͘ ̶̰̱̎W̸̤̾Í̵̗̙̆Ţ̸̘̐Ḩ̴̼̭͋͠ ̴̞̤̌͘T̶̬͑̽Ḩ̵͙͓̃A̶̢̽̐T̴̡̲̾̚ ̶̥́͑B̵͚̂͜Ë̴̲̦Ļ̸̫̮͐Ǫ̶̱͔̀W̶̢̝̓̋.- Yun' Shul/ Dying to the [Curse of the No-Life King](Enchantments.md)
 -   Something Twisted- The Duke's Minions
 -   Your own Foolishness - Talking shit to [Akira](Akira.md) without 100 Charisma.
