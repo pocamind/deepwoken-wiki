@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 42048
+revid: 42131
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -48,7 +48,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
 -   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore armor.
 -   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
--   **Scaling:** Additional damage determined by your selected Attribute is being scaled by. Example: 1 scaling = 0.01 damage per point. 10 scaling = 0.1 damage per point. Note: weapon damage is rounded to 1 dp.
+-   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
 -   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
@@ -1480,7 +1480,7 @@ weapon offhands are weapons that can be wielded at the same time along with your
 
 ## Calculating Damage and Attack Speed
 
-Players can use this formula to figure out their complete damage.  
+Players can use this formula to figure out their complete damage. Round to 1 dp.  
 D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t e L e v e l 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling \\times AttributeLevel}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling\\times AttributeLevel}{1000}}}
 
 Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.  

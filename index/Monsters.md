@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 42084
+revid: 42134
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -8,17 +8,41 @@ categories: [Monsters, Mechanics]
 
 # Monsters
 
-_This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
-
-**Monsters** are inhuman hostile NPCs that will attack the player unless they have mute but are different from human enemies.
+The enemies of deepwoken will attack you until died
 
 ## Basic run down
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better [weapons](Weapons.md), armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
 
-## Monsters
+## Enemies
 
 **The Etrean Luminant:**
+
+**Human enemies:**
+
+Human enemies found in the Etrean Luminant, these enemies will be divided into their respective factions with misc enemies at the back.
+
+**Etris:**
+
+**Authority:**
+
+**Legion:**
+
+**Hive:**
+
+**Navae:**
+
+**Ministry:**
+
+**Summer co.:**
+
+**Ignition Union:**
+
+**Eylis:**
+
+**Misc:**
+
+**Monster enemies:**
 
 **Humanoid:**
 
@@ -34,6 +58,14 @@ Bosses found in the Etrean Luminant that can be found/summoned
 
 **Scyphozia (Layer 1):**
 
+**Human enemies:**
+
+**Divers:**
+
+**Celtor:**
+
+**Monster enemies:**
+
 **Humanoid:**
 
 Humanoid monsters found in [Scyphozia](The_Depths.md)
@@ -48,6 +80,10 @@ Monsters you will face in the trial to reach the surface
 
 **The Eternal Gale (Layer 2):**
 
+**Human enemies:**
+
+**Monster enemies:**
+
 **Humanoid:**
 
 Humanoid monsters in The Eternal Gale
@@ -56,7 +92,7 @@ Humanoid monsters in The Eternal Gale
 
 Non-humanoid monsters in The Eternal Gale
 
-Need to wait for TEG to drop to fill this out
+Need to wait for TEG to drop to fill this out.
 
 **Trial (info in waiting):**
 

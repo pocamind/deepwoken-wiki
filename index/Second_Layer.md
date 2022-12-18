@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 42112
+revid: 42133
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations]
