@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 42142
+revid: 42197
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -8,9 +8,7 @@ categories: [Monsters, Mechanics]
 
 # Monsters
 
-The enemies of deepwoken will attack you until died
-
-## Basic run down
+## Overview
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better [weapons](Weapons.md), armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
 
@@ -106,7 +104,7 @@ Monsters in Duke Erisia's manor
 
 **Trial Of One (To1):**
 
-Monsters in Trial Of One. **I'll be working my ass off to get better pics of all these mfs in the actual trial instead of these dog water pics fr fr**
+Monsters in Trial Of One.
 
 While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
@@ -116,7 +114,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 -   **If an attack has a red aura/effect to it, it _CANNOT__[\*](<Hunter's_Brace.md>)_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
 -   **Never run from any Monster _if_ you know you have a slim chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   **Practice makes triumph.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
     -   Potions
     -   Status Effects
@@ -135,20 +133,20 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 -   **Becoming much more persistent in chasing**, rarely stopping until the death of them or the player.
 -   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
 
-## PVE Scaling/Monster Health
+## PVE Scaling/Enemy Health
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
+If you have looked at enemies health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
 
-When you level up, you automatically gain bonus damage during PVE, which is currently around **10.38%.** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
+When you level up, you automatically gain bonus damage during PVE, which is currently around **10.38%.** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill enemies much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill enemies with thousands of health in a few hits.
 
-Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
+Calculating how much health a enemy has from just your damage alone won't be correct, you need to factor in your Power.
 
 ### Formulas
 
 The formulas that you need to calculate how many hits are required to kill a monster are the following:
 
 D a m a g e P e r M 1 \= ( P o w e r + 10 ) × ( W e a p o n D a m a g e × ( D m g V S M o n s t e r s % 100 + 1 ) × 0.089 ) {\\displaystyle DamagePerM1 = (Power + 10) \\times (WeaponDamage \\times (\\tfrac{DmgVSMonsters\\%}{100} + 1) \\times 0.089)} {\\displaystyle DamagePerM1=(Power+10)\\times (WeaponDamage\\times ({\\tfrac {DmgVSMonsters\\%}{100}}+1)\\times 0.089)}  
-H i t s \= M o n s t e r H e a l t h ( 100   −   R e s i s t a n c e % 100 )   ×   D a m a g e {\\displaystyle Hits = \\tfrac{MonsterHealth}{(\\tfrac{100 ~ - ~ Resistance\\%}{100}) ~ \\times ~ Damage}} {\\displaystyle Hits={\\tfrac {MonsterHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}}
+H i t s \= E n e m y H e a l t h ( 100   −   R e s i s t a n c e % 100 )   ×   D a m a g e {\\displaystyle Hits={\\tfrac {EnemyHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}} {\\displaystyle Hits={\\tfrac {EnemyHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}}
 
 Example: If you were to fight a a Stone Knight with 9000 health and 55% resistance to slashing, using a weapon that does 40 damage per hit, while having 10% Damage VS Monsters and being at level 60, you would do:
 

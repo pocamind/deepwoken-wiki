@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 42044
+revid: 42145
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -109,6 +109,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[2\]](#cite-note-2)
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   The Deep Owl's design is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
+-   (Probably) Unintentional, Resemble Owlbears from Dungeons and Dragons
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
 -   Used to be commonly called "Tyrone" in the earlier days of Deepwoken.
 
