@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 41445
+revid: 42087
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -121,6 +121,7 @@ notices:
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
 -   **First Light** is a possible reference to [Reinhardt's Dragon Sword](https://rezero.fandom.com/wiki/Terminology#Ten_Swords_of_Power) from _Re: Zero._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
+-   **Darksteel Greatsword** is possibly inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
 
 ## World
 

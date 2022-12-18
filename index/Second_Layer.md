@@ -1,13 +1,13 @@
 ---
 title: Second Layer
-revid: 41817
+revid: 42112
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Locations]
+categories: [In progress with reason, InProgressPages, Locations]
 notices:
-  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
+  - This page is currently being worked on. Page will be created once the Verse 2 update releases
 ---
 
 # Second Layer
 
-This is the Layer 2 page please make it very good :) (hasn't come out yet) fart
+Template:Location2

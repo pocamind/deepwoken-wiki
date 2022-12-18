@@ -1,9 +1,11 @@
 ---
 title: The Depths
-revid: 41623
+revid: 42114
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Map]
+categories: [In progress with reason, InProgressPages, Locations, Map]
+notices:
+  - This page is currently being worked on Some things may be incomplete or broken.
 ---
 
 # The Depths
@@ -13,7 +15,8 @@ LocationL The Depths LocationR
 You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
-Template:Areainfobox**The Depths**, canonically named Scyphozia, is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
+
+**The Depths**, is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md). [Death](Death_Compendium.md)
 
 ## Overview
 
@@ -21,255 +24,18 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
 
 Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
 
-There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down. Though as of now, we don't have much information until the Layer 2 update is released.
+There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down.
 
 Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
-## **Points of Interest**
+The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, it is strongly recommended that you do not intentionally go to the Depths.
 
--   Layer 1
-    -   [The City of the Drowned](The_City_of_the_Drowned.md)
-        -   [District of Commerce](District_of_Commerce.md)
-        -   [Varicosa District](Varicosa_District.md)
-    -   [Temple of Hearts](Temple_of_Hearts.md)
-    -   [Fragments of Self](Fragments_of_Self.md)
-    -   Marauders Entrance
--   Layer 2
+## Layers
 
-## **Escaping The Depths**
+The Depths contains two layers, Layer One and Layer Two. There are likely more than two layers, with at least three layers being confirmed by in-game conversation.
 
-Detailed map of the entire Depths First Layer
+Please visit their respective pages below by clicking on them for more information:
 
-There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
+**\- [Layer One](First_Layer.md)**
 
-### **Bells**
-
-File:Citymap.png
-
-Rough map of the City of the Drowned
-
-_Not to be confused with [Resonances](Resonance.md)._
-
-The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
-
-Once all bells have been rung, a large bell choir will be heard across The Depths, signalling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
-
-### **Climbing the Walls**
-
-File:Scuffed map Depths.png
-
-Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of each other to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
-
-This is certainly a faster method to escape, although still poses the threat of being spotted by Watchers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you if you don't grab onto the walls or use some of the inner structures to break your fall.
-
-### **Barrels**
-
-**100% guaranteed escape within 3 minutes (trial isn't counted)**
-
-This [video](https://www.youtube.com/watch?v=6VHvuVaj9eU) also explains the method below extremely well, use it if the description is not understandable.
-
-If you cannot find a barrel, there is a lower area leading to that part to the left when the person climbs the barrel. The goal is to get on that gate which leads to the building with the elevator.
-
-If the entrance you're going through does not resemble the one like in the video, _you are going the wrong way and will encounter The Nautilodaunt_. Circle the outside walls until you hit another entrance which should be the right one. Then follow the video again.
-
-If the gate is closed, log and choose another server. Most servers that are over a couple of hours old already have opened gates.
-
-The method **requires no encounters with Watchers.**
-
-**Disclaimer: There is no guarantee that there will be no hostile players while using this method, so do at your own risk.**
-
-## **The Trial**
-
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 60 player and two power 40 players will only spawn a single [Enforcer](Enforcer.md)).
-
-Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
-
-### _Note_
-
-**Your Trial Power is calculated by Power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 49 but have 1 drowned then you will face an Enforcer (49+1=50). _The table below accounts only for your power, not how many times you drowned._
-
-| Trial Power | Enemy(s) |
-| --- | --- |
-| 1 - 10 | Nothing (you are sent up without a fight) |
-| 11 - 19 | [Mudskipper Knight](Mudskipper.md) |
-| 20 - 29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30 - 49 | [Megalodaunt](Megalodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
-
--   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
-    -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
--   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
--   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
-    -   If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted
--   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
-    -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
--   If you are deepbound then you will have to fight an Enforcer no matter what your power is
--   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything.
-
-## **Farming in The Depths**
-
-The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down to The Depths. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
-
-### **Talents & Equipment**
-
--   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all (Incorrect, actually, as I _have_ rolled the talent, picked it, and had it work just fine, with both the vegetarian and squeamish flaws)) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up is **Strength.**
--   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
--   _**Giantslayer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfish and Crabs. Obtained with Willpower, tested with a pure Willpower build.
--   _**[Blindseer Oath](Oaths.md)**_, an Oath obtainable through high Willpower and obtaining all 5 **Mental Fortress** cards, will allow somebody to survive the Depths without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
--   **Damage Up** equipment with stat modifiers usually have a form of damage % bonus against monsters will be useful.
-
-### **Tips and Tricks**
-
-Just some information to keep in mind and remember.
-
--   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
-    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
-    -   Blindseer most likely doubles or even triples the time you can stay in the depths.
--   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.
--   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
--   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs," and Graceful Flame, you might want to consider bringing _**healing potions**_.
--   Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.
--   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
--   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
--   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
--   If you are deepbound remember to regularly visit Castle Light as it will restore your sanity
-
-### **Good Grinding Spots:**
-
-Marauder's Entrance and Castle Light (outdated after the 'Deepbound' update) are two spots where close to zero people go. Additionally, if you ever get low when farming at Castle Light, you can just let the divers take the monsters' aggro. However, this place tends to be a bit more populated than the Maraurder's Entrance. Stay safe and good luck!
-
-## **Quests**
-
-### **Finding Morning**
-
--   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
-    -   (As of now the quest is not done, which was stated by Arch\_Mage. Morning doesn't exist in-game at the moment, and will stay so until the quest is finished by developers.)
-
-### **Joining The Divers**
-
--   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
-    -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group.
-
-### **Visionshaper**
-
-Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
-
-When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
-
--   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
--   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level, however, most visionshaper mantras and abilities scale off charisma.
--   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
-
-## **Potential Enemies**
-
--   [Lesser Angels](Hollow_Angel.md)
-    -   Watchers (Summon Angels)
--   [Terrapod](Terrapod.md)
--   [Crustaceous Rex](Crustaceous_Rex.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Lionfish](Lionfish.md)
--   [Gigamed](Gigamed.md)
--   [King Gigamed](Gigamed.md)
--   [Deep Owl](Deep_Owl.md)
--   [Nautilodaunt](Nautilodaunt.md)
--   [The Enforcer](Enforcer.md)
--   [Celtor Guards](Celtorian_Guard.md) (neutral unless triggered)
--   [Deep Widow](Deep_Widow.md)
--   [Thresher](Thresher.md)
--   [King Thresher](Thresher.md)
-
-## **Loot Table**
-
-Many drops are exclusive to the Depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. Some things you can get in the depths: Literally everything.
-
-NOTE: RARITY WORDS BESIDE ITEMS ARE HOW FREQUENT YOU WILL COME ACROSS THEM NOT ACTUAL IN-GAME RARITY
-
-**Bolded = Depths Exclusive or Mostly Depths drop**
-
-Legendary = Gold
-
-<table>
-<tbody>
-<tr>
-  <td><b>Misc/Blueprints</b></td>
-  <td><b>Weapons</b></td>
-  <td><b>Rings</b></td>
-  <td><b>Armor</b></td>
-</tr>
-<tr>
-  <td><b>Prophet's Cloak (common)</b></td>
-  <td>Shattered Katana (very rare)</td>
-  <td>Ring of Wisps (uncommon)</td>
-  <td>[Pale, Crimson, Gold] Assassin Hood (rare)</td>
-</tr>
-<tr>
-  <td>Authority Commander (uncommon)</td>
-  <td><b>Flamekeeper Cestus (very rare)</b></td>
-  <td>Dazed Band (uncommon)</td>
-  <td><b>Pale Assassin Cloak (very rare)</b></td>
-</tr>
-<tr>
-  <td>Grand Pathfinder Cloak (uncommon)</td>
-  <td><b><font>Curved Blade of Winds (extremely rare)</font></b></td>
-  <td><b>Freestyler's Band (uncommon)</b></td>
-  <td>Enforcer Boots (uncommon)</td>
-</tr>
-<tr>
-  <td><b><font>Deep Gems (very rare)</font></b></td>
-  <td>Enforcer Blade (very rare)</td>
-  <td>Pariah's Keepsake (common)</td>
-  <td><b><font>Providence Coat (rare)</font></b></td>
-</tr>
-<tr>
-  <td><b>Black Diver (rare)</b></td>
-  <td><b>Serpent's Edge (uncommon)</b></td>
-  <td>Bloodiron Ring (rare)</td>
-  <td><b>Star Boots (uncommon)</b></td>
-</tr>
-<tr>
-  <td><b>Legion Centurion (uncommon)</b></td>
-  <td>Iron Birch (rare)</td>
-  <td><b>Purifying Ring (rare)</b></td>
-  <td><b>Demon Mask (common)</b></td>
-</tr>
-<tr>
-  <td><b>Diver Apprentice (common)</b></td>
-  <td><b>Pale Morning (very rare)</b></td>
-  <td>Ring of Pestilence (unknown)</td>
-  <td><b><font>Star Duster (rare)</font></b></td>
-</tr>
-<tr>
-  <td><b>Navaen War Chief (uncommon)</b></td>
-  <td><b><font>Crypt Blade (extremely rare)</font></b></td>
-  <td>Isshin's Ring (common)</td>
-  <td><b>Darksteel Greatsword (rare)</b></td>
-</tr>
-</tbody>
-</table>
-
-## **Tips**
-
--   Adaptation to the Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
--   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
--   Above goes the same if there many people of the same guild flooding the server, it's not worth risking your chances with a huge group of players.
--   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
--   Ringing the bells (not corrupted bells) in the Drowned City will restore some of your HP, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.
--   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
--   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
-
-## **Trivia**
-
--   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
--   You can gain luck by killing corrupted [Monsters](Monsters.md) in the Depths.
--   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
--   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
--   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
--   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
--   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
--   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban a retard at the same time.
--   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.
+**\- [Layer Two](Second_Layer.md)**

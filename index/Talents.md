@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42049
+revid: 42127
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -996,8 +996,8 @@ These are just raw stat increases and are beneficial to anyone.
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
-    -   Inflicts a status effect to all players and NPCs within a wide radius that combat tags, increases all incoming damage by 25%, doubles posture damage taken, and disables tacet for 10 seconds.
-    -   Prerequisite: 40 willpower, 20 strength, Murmur: Ardour
+    -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
+    -   Prerequisite: 40 willpower, 25 strength, Murmur: Ardour
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 
 ### Natural Armor
@@ -1850,5 +1850,4 @@ Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediat
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   The Card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guaranteed Legendary Talent Card if there is one available.
--   Adept can't be obtained after power 30.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."

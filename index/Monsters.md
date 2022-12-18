@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 42068
+revid: 42084
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -14,7 +14,7 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 ## Basic run down
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock k to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better [weapons](Weapons.md), armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
 
 ## Monsters
 
@@ -78,7 +78,7 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
+-   **If an attack has a red aura/effect to it, it _CANNOT__[\*](<Hunter's_Brace.md>)_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
 -   **Never run from any Monster _if_ you know you have a slim chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
 -   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
