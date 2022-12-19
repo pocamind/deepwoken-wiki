@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 41269
+revid: 42305
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -244,7 +244,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Urchin</td>
   <td>Gives Insanity,</td>
   <td>Opposite effect to <b>Heartening</b>.<br>
-  Since running out of sanity will instantly kill you, these potions are very dangerous if you can land enough of them. Unlike Disgusting potions, Mindbreaker potions actually pose a threat.</td>
+  As running out of sanity will kill you instantly (if you've lost all your hp), these potions are very dangerous if you manage to land enough of them. Unlike nasty potions, Mindbreaker potions actually pose a threat.</td>
 </tr>
 <tr>
   <td><b>Invigorating</b></td>

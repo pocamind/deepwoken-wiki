@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 41914
+revid: 42308
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -518,7 +518,7 @@ _\+ Talent: Blinded_
 
 _\+ Talent: Blinded_
 
- | Arena Chests, Blacksmith Reward Chests | Default |
+ | Arena Chests, Blacksmith Reward Chests, Fishing Chests | Default |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
