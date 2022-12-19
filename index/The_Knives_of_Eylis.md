@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 37159
+revid: 42224
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,10 +21,8 @@ notices:
 
 ## Description
 
-The Knives of Eylis are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the Eastern Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the two factions that can be joined by the player as a guild, the other being The Divers. The guild colour/colour of the flags of members of the guild is orange.
+The Knives of Eylis are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the Eastern Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the two factions that can be joined by the player as a guild, the other being The Divers. The guild colour/colour of the flags of members of the guild is orange. It is one of the three obtainable origins. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
 
 ## Lore
 
-A group of bounty hunters who work for a mysterious woman named Eylis.
-
-Something interesting is said when you talk to the Voidmother and more NPCs, as well as reading the flavor text for when the contracted target escapes. The Voidheart doesn’t actually exist, but is instead a collective dream you and others have while being in the Voidsea, and that the power you get to teleport to people and such are gifts from the Voidmother herself.
+A lot of lore is given when you talk to the NPCs in the Voidheart, giving information about the Knives of Eylis, although not much is said about their background, most of the information that is given is about the present. The Voidheart doesn't actually exist, it's actually a collective dream that the Knives of Eylis have while sleeping at night. The Voidheart heavily resembles the Trial of One but there's no information in-game that talks about this. It's speculated that the "deal" that the Voidmother and Eylis made granted the players the ability to travel to their bounties using the Grasp of Eylis and the Voideye.

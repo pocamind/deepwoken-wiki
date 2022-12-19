@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42127
+revid: 42244
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1045,7 +1045,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### One Eyed King
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
--   Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
+-   Million Ton Piercer \[Legendary Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether, 3 Health)
     -   Prerequisite: 90 Strength
 
 ### Prospector
@@ -1150,7 +1150,7 @@ Prerequisite: Charisma
     -   Prerequisite: Discovery of Fire
 
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
-    -   Prerequisite: 40 Thundercall
+    -   Prerequisite: 40 Thundercall, 15 Intelligence
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -1369,7 +1369,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Automatically summon a fire explosion similar to Fire Repulsion.
     -   Prerequisites: Flame of Denial
 -   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Graceful Flame
+    -   Prerequisites: Graceful Flame, 40 Flamecharm, 40 Willpower
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity.
     -   Prerequisite: Undying Flame
 

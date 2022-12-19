@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 39043
+revid: 42240
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -57,5 +57,3 @@ Unknown
 ## Notes
 
 Race created by Dexerius, they are based off his phoenix spec which allows him to summon a glowing rideable phoenix.
-
-Literally Ashiins from Rogue Lineage with fire wings.

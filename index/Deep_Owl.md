@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 42145
+revid: 42206
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -105,7 +105,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Feared by lower level players, but heavily sought out by mid-high level players for its Dark/Void Feather(s), considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
--   ~Corrupted Deep Owls are guaranteed to drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md). Normal owls will rarely drop them.~ (Visionshaper now requires dark feathers)
+-   ~Corrupted Deep Owls are guaranteed to drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md). Normal owls will rarely drop them.~ (Visionshaper now requires dark feathers, but the moves are unlocked with Void feathers)
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[2\]](#cite-note-2)
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   The Deep Owl's design is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
