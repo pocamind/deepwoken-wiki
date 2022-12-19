@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 41808
+revid: 42297
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -47,7 +47,7 @@ Everything you can get from fishing has it's own chat bubble pop-up, as a reacti
 -   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
 -   If you fish a Red Snapper: "A Red Snapper! Quite the sailor's mouth on this one..."
 -   If you fish a Tuna: "Holy moly, a Tuna! I wonder what at-tuna-ment it is?"
--   If you fish a Swordfish: "A Swordfish!"
+-   If you fish a Swordfish: "A Swordfish! Too bad I can't equip it..."
 -   If you fish a Squid: "Cool Squid! No, I'm not squidding."
 -   If you fish a Pufferfish: "A poisonous Pufferfish! Careful eating this one..."
 -   If you fish an Urchin: "Barely edible..."
@@ -114,3 +114,4 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
 -   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.
 -   Fishing will level your Willpower, Fortitude, Intelligence and Charisma.
+-   Fishing document : [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

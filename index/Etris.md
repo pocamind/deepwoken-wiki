@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 41724
+revid: 42289
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -213,13 +213,14 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 
 This event is an extremely rare event that happens every so often.
 
-At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to aid **Etris**.
+At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to aid **Etris**. [Polis](Polis.md) will also fight as a unique enemy.
 
 After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths loot will spawn at the Tree in the center of Etris.
 
 ## NPCs
 
 -   [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest)
+-   [Polis](Polis.md)
 -   Theadre
 -   [Lord Regent](The_Lord_Regent.md)
 -   Innkeeper
