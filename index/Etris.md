@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 42289
+revid: 42373
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -271,6 +271,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 ## Trivia
 
 -   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met each other, and is honored that you serve Etrea well.
+-   During Christmas, the tree that [Polis](Polis.md) sits under is changed into a Christmas Tree
 -   After talking to the Bookworm in The Lord Regent's Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42339
+revid: 42362
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -528,6 +528,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Fishman \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by ??x (was 1.5x, recently reduced).
+    -   Stacking Fishman with Curse of the No-Life King's passive regeneration has a reduced effect.
     -   These effects do not activate in [The Depths](The_Depths.md).
     -   Mutual Exclusive: Conditioned Runner
 
@@ -1458,11 +1459,11 @@ These Talents are designed to make you more effective in water.
     -   Prerequisites: 40 Light Weapon
 
 -   Lethal Force \[Common Talent\] - \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 60 Medium Weapon, Using medium weapon
+    -   Prerequisites: 75 Medium Weapon, Using medium weapon
 -   Lethal Precision \[Common Talent\] - \[Light Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 60 Light Weapon, Using Dagger
+    -   Prerequisites: 75 Light Weapon, Using light weapon
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
-    -   Prerequisites: 60 Heavy Weapon, Using heavy weapon
+    -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
@@ -1473,7 +1474,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 25 Strength, Greatsword equipped.
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
-    -   Prerequisite: 40 Light Weapon, Dagger
+    -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger equipped
 
 ### Whisper
 
@@ -1509,8 +1510,8 @@ These Talents are designed to make you more effective in water.
     -   Health and Posture restored from getting a knock is reduced by 50%.
 -   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
--   Replenishing Knockout \[Common Talent\] - Enemies gain more health and posture when they knock you. (+3 Health)
-    -   Being knocked by enemies will replenish more of their health and posture.
+-   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them. (+3 Health)
+    -   Knocking enemies will replenish more of your health and posture.
 -   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisites: Power 30
     -   Mutual Exclusive: Everchanging Aegis

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 42012
+revid: 42351
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -86,8 +86,9 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
-    -   Disables mantras from being used in it's radius.
+    -   Disables mantras from being used in its radius.
         -   This affects everybody, including the caster and their allies.
+    -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
