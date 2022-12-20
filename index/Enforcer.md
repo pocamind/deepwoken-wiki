@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 42035
+revid: 42430
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,6 +18,8 @@ Template:Creature Info Box v2
 ## **Description**
 
 **The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "final boss" of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. Although it is the most difficult out of all of the trials, it is nothing too hard to a player who has done research. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins may be more complicated...
+
+Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size differences, the hammer variant has a replaced red neon with orange color, and is the largest out of the two. The Enforcer blade is the shortest and the Enforcer Axe is a regular size that we all know.
 
 ## Attacks
 

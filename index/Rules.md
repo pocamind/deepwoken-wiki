@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 40883
+revid: 42428
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -72,7 +72,12 @@ None
 None
 
  | 2 Weeks Extended Block |
-| **Repeated Level 2 Offenses** | Repeating Light Offences. | 
+| **Posting leaks** | Posting anything that isn't publicly released by the developers, such as screenshots from the game files. | 
+
+None
+
+ | 3 Week Namespace Block |
+| **Repeated Light Offenses** | Repeating Light Offences. | 
 
 None
 
@@ -101,7 +106,7 @@ None
 None
 
  | 3 Month Namespace Block (varies with amount) |
-| **Repeated Level 3 Offences** | Repeating Moderate Offences. | 
+| **Repeated Moderate Offences** | Repeating Moderate Offences. | 
 
 None
 
@@ -130,7 +135,7 @@ None
 None
 
  | Permanent Extended Block |
-| **Repeated Level 4 Offences** | Repeating Severe Offences. | 
+| **Repeated Severe Offences** | Repeating Severe Offences. | 
 
 None
 
