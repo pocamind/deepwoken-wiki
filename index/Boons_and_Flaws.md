@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 41463
+revid: 42349
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -28,7 +28,6 @@ Does not generate points over the total maximum, and instead, takes them away fr
  | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain. | 1 |
-| Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to burn an extra card. | 1 |
 | Packmule | "You have a much higher max. carry load." | Carry load is increased by 50. | 1 |
@@ -52,6 +51,8 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
+-   Gremor's who are blind see better then others, being blessed by Navae.
+
   
 Gained from obtaining the Blindseer Oath.
 

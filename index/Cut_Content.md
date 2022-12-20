@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 41878
+revid: 42338
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -42,7 +42,9 @@ notices:
 -   **A Deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
     -   This talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
--   **Boot Wallet \[Common Talent\]** - You no longer lose notes from dying.
+-   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
+    -   As of 12/20/22 update, Boom, Headshot has been merged into Lethal Precision.
+-   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
     -   Boot Wallet has been merged into Robber Baron.
 -   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   As of the 12/06/22 update, Command: Locate has became a base Vow of Mastery command.
@@ -52,6 +54,8 @@ notices:
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   As of the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
+-   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
+    -   As of 12/20/22 update, Heartbreaker has been merged into Lethal Precision.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
     -   As of 12/13/22 update, Familiar Sight has been merged into Tough Love.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.

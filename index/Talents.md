@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42244
+revid: 42339
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -276,7 +276,7 @@ These are not talents but mantras exclusive for Blindseers. All Blindseer mantra
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Prerequisites: Power 40
+    -   Prerequisites: 15 Agility, Power 40
     -   Mutual Exclusive: Risky Moves
 
 ### Butterfly
@@ -1020,8 +1020,6 @@ These are just raw stat increases and are beneficial to anyone.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisites: 25 Strength
--   Heartbreaker \[Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-    -   Prerequisites: 75 Light Weapon, Using Fists
 
 ### [Oath](Oaths.md)
 
@@ -1474,8 +1472,6 @@ These Talents are designed to make you more effective in water.
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
     -   Prerequisite: 25 Strength, Greatsword equipped.
 
--   Boom, Headshot \[Common Talent\] - \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
-    
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
     -   Prerequisite: 40 Light Weapon, Dagger
 
@@ -1828,6 +1824,7 @@ Certain talents cannot be obtained through Roll 2 or Legendary Echoes, due to ho
 
   
 
+Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)  
 Conditioned Runner \[Legendary Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)  
 Everchanging Aegis \[Legendary Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)  
 Return to the Dark Ages \[Legendary Talent\] - Your incoming elemental damage is cut in half. (+10 Health)  
