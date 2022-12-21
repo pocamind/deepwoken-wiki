@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42460
+revid: 42499
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -658,7 +658,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: 30 Galebreathe
 -   Inhale \[Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +3 Health)
     -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
-    -   Prerequisites: 50 Galebreathe
+    -   Prerequisites: 50 Galebreathe, Breathing Impact
 -   Skull Crusher \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
     -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
 -   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
