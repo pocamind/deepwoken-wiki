@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 41566
+revid: 42486
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,10 +38,6 @@ Used for crafting certain armor, comes in a glowing blueish color. Found in Uppe
 
 Used for crafting certain armor, comes in a green color. Found in the Reservoir Cave under the Burning Stone Gardens.
 
-**Coal:**
-
-Used in crafting Flint, comes in a black color. Found in any cave.
-
 **Astruline:**
 
 A pink ore that comes from meteor deposits. Found in Songseeker Caves or under the Hive. The drop rate for Pure Astruline is around 15%.
@@ -54,8 +50,8 @@ File:Umbrite1.jpg
 
 ## Trivia
 
--   While every ore has its own color, they become black when held as an item, with the only exception being the rock.
--   Rocks can be thrown, it's distance can be upgraded by the Pitcher talent.
+-   While every ore has its own color, they become black when held as an item, with the only exception being rock.
+-   Rocks can be thrown at people.
 -   Normal and pure ores has the same appearance when held in hand.
--   all ores other then rocks can be sold.
+-   All ores other then rocks can be sold.
 -   Every ore can be eaten with termite except for umbrite and astruline
