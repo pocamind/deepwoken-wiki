@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 41000
+revid: 42466
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -72,7 +72,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
  | 
 
 -   [Canorian Axe](Canorian_Axe.md) (rare)
--   [Crescent Cleaver](Crescent_Cleaver.md) (uncommon)
+-   [Crescent Cleaver](Crescent_Cleaver.md) (rare)
 -   [Iron Cestus](Iron_Cestus.md) (common)
 -   [Legion Cestus](Legion_Cestus.md) (rare)
 -   [Katana](Katana.md) (very rare)
@@ -83,7 +83,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rogue Construct)
 -   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) (uncommon from Rogue)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rogue Construct)
--   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita)
+-   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
 -   Master Hawk's Handaxe (Rogue Construct chest)
 -   [Night Axe](Night_Axe.md)(Rare drop from necromancers or brainsuckers)
 

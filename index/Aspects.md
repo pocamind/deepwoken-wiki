@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 41709
+revid: 42474
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -13,6 +13,8 @@ Races are categorizations of those who live in the world of _Deepwoken_. They ar
 ## Common Races
 
 These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. Re-rolling a race will give you the option between keeping your first race, or switching to the rolled race.
+
+The percent chance of rolling a race changes per roll, the percentages listed below are showing what the chances will be if you have never rolled
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |

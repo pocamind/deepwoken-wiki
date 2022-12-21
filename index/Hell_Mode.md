@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 42090
+revid: 42472
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -60,7 +60,6 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies you're not ready for. Be wary though, as the Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
 -   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
--   ~Occasionally, servers that once have been through Hell Mode may have leftover extra spawns, but the increased spawns have since been halted. This means you can get a good Depths grind as there are plenty of mobs, no increased spawns and they are all corrupted.~ (Remnant servers have been removed)
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repercussions to you.
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
@@ -76,5 +75,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
--   It is said that apparently King Threshers are not supposed to spawn corrupted.
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).

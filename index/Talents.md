@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42455
+revid: 42460
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1441,7 +1441,7 @@ These Talents are designed to make you more effective in water.
 ### **Weapon Master**
 
 -   Matador \[Common Talent\] - Deal +20% more damage with hyperarmor to enemies. (+3 Health)
-    -   Prerequisites: 20 Strength, 10 Agility
+    -   Prerequisites: 20 Strength
 
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
     -   Prerequisite: 40 Strength
