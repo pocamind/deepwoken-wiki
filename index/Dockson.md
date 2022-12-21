@@ -1,9 +1,9 @@
 ---
 title: Dockson
-revid: 40784
+revid: 42449
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [NPCs]
 ---
 
 # Dockson
@@ -19,9 +19,9 @@ categories: [World, NPCs]
 
 ## Description
 
-Dockson is a Gunsmith at [Summer Isle](Summer_Isle.md), specifically, the [Summer Company's](The_Summer_Company.md) Castle near the Antiquarian. Like the most Summer Company's NPCS he use guns and sell them. Dockson have a table with 3 guns.
+Dockson is a Gunsmith at [Summer Isle](Summer_Isle.md), specifically, the [Summer Company's](The_Summer_Company.md) Castle near the Antiquarian. Like the most Summer Company's NPCS he use guns and sell them. Dockson has a table with three different guns. One of his dialogue options results in a Charisma/Intelligence check that when cleared grants some EXP. He can also be used to initiate a fight in The Furnace with another player.
 
-He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt or killed by players or other npcs.
+He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt or killed by players or other NPCs.
 
 ## Prices
 
@@ -29,12 +29,6 @@ He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt o
 -   [Revolver](Repeater.md) - 200 Notes
 -   [Flintlock](Flintlock.md) - 100 notes
 
-## Dialogue
+## Trivia
 
-1\. _What brings you for the Summer, \[Race\]?_
-
-2\. _You must not be from around here... You living under a rock or something?_
-
-3\. _Yeah, go ahead and scram. You're scaring away the customers._ \[End\]
-
-2\. _Alright, well, you're gonna need someone else to fight with. Have someone else ask me to fight._ \[End\]
+-   His dialogue changes depending on the race of the player, addressing them by it.

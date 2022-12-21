@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42362
+revid: 42455
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -246,11 +246,11 @@ These are not talents but mantras exclusive for Blindseers. All Blindseer mantra
     -   Prerequisite: Escape the depths with a player that is has no oath (does not mean [Oathless](Oaths.md)) once.
 -   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
     -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 5 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
     -   After a short wind-up, shoots a multi-hit laser beam from your eyes, if not blocked will do huge damage.
     -   This mantra doesn't give posture damage.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) once.
+    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
 
 ### Brawler
 
@@ -1398,7 +1398,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Effect: Pulls the subject to you and passes through walls
 
 -   Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
-    -   Prerequisites: 70 Charisma, Vow of Mastery
+    -   Prerequisites: 75 Charisma, Vow of Mastery
     -   Effect: Will fully heal your servant
 
 ### Vigil Swordsman

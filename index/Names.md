@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 39124
+revid: 42457
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -14,7 +14,9 @@ You can choose whatever your name could be, but your last name can be limited de
 
 ## First Names:
 
-#### Masculine
+**Masculine:**
+
+  
 
 -   Abel
 -   Abraham
@@ -319,8 +321,11 @@ You can choose whatever your name could be, but your last name can be limited de
 -   Xavos
 -   Zeiss
 -   Zote
+    
 
-### **Feminine**
+**Feminine:**
+
+  
 
 -   Abigail
 -   Ada
@@ -553,6 +558,7 @@ You can choose whatever your name could be, but your last name can be limited de
 -   Zafirah
 -   Zemora
 -   Zoe
+    
 
 ## Trivia
 

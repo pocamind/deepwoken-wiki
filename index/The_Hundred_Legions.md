@@ -1,26 +1,38 @@
 ---
 title: The Hundred Legions
-revid: 41869
+revid: 42456
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Factions]
 ---
 
 # The Hundred Legions
 
-### The Hundred Legions
+| The Hundred Legions | |
+|---|---|
+| territory | Western Luminant , Vipers Jaw Camp, |
+| goals | Destroy the Authority. |
 
--   **Territory:** [Western Luminant](Luminants.md)
--   **Encountered In:** _[Erisia](Erisia.md), [Aratel Island](Aratel_Island.md)_
--   **Attunements:** _[Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md)_
--   **Alliances:** _???_
--   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
--   **Lore Sources:** _[Amara](Amara.md), [Brutus](Brutus.md)_
--   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The [Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
--   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
--   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
--   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
+“ ”
 
-[Amara](Amara.md), a Member of The Legion.
+―
+
+**The Hundred Legions** is a minor faction in Deepwoken.
+
+## Description
+
+A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed, so tracked them down to the Etrean Luminant and sent the 11th Legion there in order to destroy them. Their ranks consist mainly of Khans, but they are open to recruiting other races. They are creators of the Legion Kata fighting style.
+
+## Reputation
+
+-   Enemies with [The Authority](The_Central_Authority.md)
+-   Enemies with [The Kingdom of Etrea](Etrea.md)
+
+## NPCs
+
+-   [Amara](Amara.md)
+-   [Legion Sniper](Legion_Sniper.md)
+
+## Trivia
+
+-   Their aesthetic draws from the Greek and Roman empires.

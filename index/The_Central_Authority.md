@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 41887
+revid: 42452
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -34,7 +34,7 @@ A large military organization, native to the Central Luminant, The Authority is 
 -   Enemies with [The Hive](The_Hive.md)
 -   Provides funding for [The Divers](The_Divers.md)
 
-## Fightable/Static NPCs
+## NPCs
 
 -   Authority Warden
 -   [Authority Guard](Authority_Peacekeeper.md)

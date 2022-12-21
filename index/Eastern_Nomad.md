@@ -1,9 +1,9 @@
 ---
 title: Eastern Nomad
-revid: 40788
+revid: 42442
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
+categories: [Enemies]
 ---
 
 # Eastern Nomad
