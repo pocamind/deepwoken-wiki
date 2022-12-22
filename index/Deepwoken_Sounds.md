@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 42529
+revid: 42533
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -177,10 +177,13 @@ Miscellaneous sounds found in _Deepwoken_.
 -   The music for the [Voidheart](Voidheart.md) was the original music for Corvus Manor on the Isle of Crows.
     -   Additionally, it seems that it used to be the original theme for "Of Labours, Veiled," but was quietly removed and replaced with the current theme for Duke Erisia's Manor.
 -   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
+-   "The Games of War" was heavily inspired by Medieval 2 Total War's OST, as Naktigonis is a big fan of Jeff van Dyck's work for the early Total War games.
 -   A small part of "The Gideshu March" is used in "And Let Slip The Hounds of War" at 0:48
--   Naktigonis voices the choir featured in Oscillation and the lyrics in "The Gideshu March".
+-   Naktigonis voices the choir featured in Oscillation, the lyrics in "The Gideshu March," and the vocals in "Sin-Smelted Scoriae."
+    -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals during "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
 -   "Picking a card" sound is probably from Fallout Shelter.
 -   Ambient noises, such as the wildlife from "Solivagant", were not separate from the soundtrack but rather made part of the music due to Roblox's technical limitations, though it is possible to change it now.
     -   He stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and our design philosophy changed. OST generally picks up in the second half when area-specific combat themes get introduced.'
 -   Nakitgonis felt "Peregrine" ended up being used way less often than he liked.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
+-   The vocals for "A Light in The Sky" are from a kontakt 6 opera singer library.

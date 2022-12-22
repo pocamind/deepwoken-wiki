@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 42525
+revid: 42531
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -16,6 +16,7 @@ notices:
 -   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially.
 -   **Miner's Landing -** Teased in the Deepwoken Leak Document before release, but never actually added due to being 'useless.'
 -   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
+-   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 
 ## Player
