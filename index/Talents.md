@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42499
+revid: 42526
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -272,23 +272,12 @@ These are not talents but mantras exclusive for Blindseers. All Blindseer mantra
 -   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them (+3 Health)
     -   Prerequisite: Use a Greataxe
 
-### Bulwark
-
--   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
-    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Prerequisites: 15 Agility, Power 40
-    -   Mutual Exclusive: Risky Moves
-
 ### Butterfly
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
     -   Prerequisites: 15 Agility
--   Observation \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
-    -   Prerequisite: 20 Agility
-    -   Mutual Exclusive: Risky Moves
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
@@ -534,7 +523,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary Talent\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Legendary Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Stacks with Chitin, but is slightly reduced, resulting in 13% instead of the expected 15%.
     -   Natural Armors can be affected by PEN but 25% as effective against it.
     -   Prerequisite: 40 Fortitude.
@@ -854,6 +843,18 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
 
+### **Leaf in the Wind**
+
+-   Observation \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
+    -   Prerequisite: 20 Agility
+    -   Mutual Exclusive: Risky Moves
+
+-   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
+    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Prerequisites: 15 Agility, Power 40
+    -   Mutual Exclusive: Risky Moves
+
 ### Leader
 
 -   Callout \[Common Talent\] - you can mark objects or enemies by pressing Z, which will mark them for all nearby allies (+1 Ether +3 Health)
@@ -1029,7 +1030,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold (Requires all 5 Mental Fortress cards).
         -   You can only take one Oath per Character.
--   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots, +10 Ether)
+-   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring Dark Feather to Surge
 
 ### Omniscient
@@ -1131,8 +1132,8 @@ Prerequisite: Charisma
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
     -   Gain 1.4x more notes from selling items.
     -   Prerequisites: 30 Charisma
--   Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a debuff for a short period of time (60 second cooldown)
-    -   Prerequisite: 35 Charisma
+-   Golden Tongue \[Legendary Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)
+    -   Prerequisite: 40 Charisma
 
 ### Soul Converter
 
@@ -1215,7 +1216,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Galebreathe Exclusive, Legendary Talent\] Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   A World Without Song \[Galebreathe Exclusive, Legendary Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisite: Power 25, 75 Galebreathe, Silencer's Edge
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
@@ -1443,7 +1444,7 @@ These Talents are designed to make you more effective in water.
 -   Matador \[Common Talent\] - Deal +20% more damage with hyperarmor to enemies. (+3 Health)
     -   Prerequisites: 20 Strength
 
--   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
+-   Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
     -   Prerequisite: 40 Strength
 
 -   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
@@ -1804,20 +1805,19 @@ Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy'
 ## **List of Rollable Legendary Talents/Green Talent Cards**
 
   
-Exoskeleton \[Legendary Talent, 30 Fortitude\] Decreases all damage output.  
+Exoskeleton \[Legendary Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)  
 Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
-Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +4 Health)  
-Neuroplasticity \[Legendary Talent\] - Your mind is a psychological substance. The Ether cost of additional modifications to your Mantras is now increased by 20%. (+2 Wildcard Mantra Slot, +20 Reservoir)  
-True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies damage of your highest. (+4 Ether, +7 Reservoir)  
-Grand Skewer (Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air. (+4 Ether, +5 Health)  
-Reinforced Armor \[Legendary Talent\] - PEN is reduced. (+10 Ether, +6 Health)  
-Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible. (+10 passive agility)  
-Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, +12 Health) (Requires 100 strength and prerequisites.)  
-Golden Tongue \[Legendary Talent\] - Anyone who hears your voice will gain a debuff for 60 seconds.  
-A World Without Song \[Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +5 Health)  
-Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+4 Ether, +2 Passive Agility, +4 Health)  
-Command: Live \[Legendary Talent\] - Once per 2 hours, command a servant to live. (+4 Ether, +4 Health)  
-Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground.  
+Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
+Neuroplasticity \[Legendary Talent\] - Your mind is a psychological substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot, +20 Reservoir)  
+True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies damage of your highest investment. (+4 Ether, +7 Reservoir)  
+Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air. (+3 Elemental Intensity)  
+Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible. (+5 passive agility)  
+Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)  
+Golden Tongue \[Legendary Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)  
+A World Without Song \[Galebreathe Exclusive, Legendary Talent\] - All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +3 Health)  
+Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
+Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)  
+Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground. (+3 Health)  
 
 ## Blacklisted Talents
 

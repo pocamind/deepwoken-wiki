@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 41711
+revid: 42529
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -31,7 +31,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | can rarely play as the menu theme of a depths sever | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Can rarely play as the menu theme of a depths sever | File:To Sleep, Dreaming (Contour 3).mp3 |
 | 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when you log in at [Minityrsa](Minityrsa.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
@@ -57,7 +57,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 26 | Dance, If You Can! | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) | File:Dance, If You Can!.mp3 |
 | 27 | Pelagic Slumber | 2:08 | [The Depths](The_Depths.md) (Ambience) | File:DepthsAmbience.ogg |
 | 28 | Oscillation | 2:54 | [The Depths](The_Depths.md) | File:Drowned City - 7394909817.ogg |
-| 29 | The Final Seal (Interlude) | 1:36 | Ringing the bells in the depths, causing the gate to open | File:The Final Seal (Interlude).mp3 |
+| 29 | The Final Seal (Interlude) | 1:36 | N/A | File:The Final Seal (Interlude).mp3 |
 | 30 | Lacrimosa Dies Illa | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
@@ -165,13 +165,22 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 0.1s | Legendary bell on active |
 |  | 0.2s | Corrupt bell on active |
 |  | 0.02s | [Blood scourage](Blood_Scourge.md) on active |
-|  | 0.01s | blood scourage after execute |
+|  | 0.01s | Blood scourage after execute |
 |  | 0.8s | Foraging |
 
 ## Trivia/Notes
 
+-   Initially there were meant to be day themes and night themes but the idea was scrapped due to the workload and they no longer had peaceful daytime and dangerous night time.
+-   Naktigonis created many of the early sound effects, but later on his workline got pushed more towards music and other developers created them.
+-   Despite how they are ordered in the playlist, the Greathive themes, which marked the change in artistic direction, came before Summer Isle's music.
+-   The earlier OST tracks were made when Naktigonis was still fairly new to FL Studio 20 and before he had a midi keyboard, so he considers them simplistic.
 -   The music for the [Voidheart](Voidheart.md) was the original music for Corvus Manor on the Isle of Crows.
     -   Additionally, it seems that it used to be the original theme for "Of Labours, Veiled," but was quietly removed and replaced with the current theme for Duke Erisia's Manor.
 -   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
 -   A small part of "The Gideshu March" is used in "And Let Slip The Hounds of War" at 0:48
--   "Picking a card" sound is probably from Fallout Shelter (correct me if I am wrong here but I remember it being there.)
+-   Naktigonis voices the choir featured in Oscillation and the lyrics in "The Gideshu March".
+-   "Picking a card" sound is probably from Fallout Shelter.
+-   Ambient noises, such as the wildlife from "Solivagant", were not separate from the soundtrack but rather made part of the music due to Roblox's technical limitations, though it is possible to change it now.
+    -   He stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and our design philosophy changed. OST generally picks up in the second half when area-specific combat themes get introduced.'
+-   Nakitgonis felt "Peregrine" ended up being used way less often than he liked.
+-   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
