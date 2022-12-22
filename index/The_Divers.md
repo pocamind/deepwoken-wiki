@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 42538
+revid: 42542
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -63,6 +63,6 @@ Note: don't mess with him
     -   colddeathmaker
     -   ResoIv3 (bonnerliam12)
     -   numnumnumlegand21cat
-    -   Rickym1227
+    -   RickyM1227
     -   superlightningfire1
     -   Ordoxite
