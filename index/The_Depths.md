@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 42114
+revid: 42549
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -32,10 +32,10 @@ The Depths is a highly challenging location that should be avoided if possible. 
 
 ## Layers
 
-The Depths contains two layers, Layer One and Layer Two. There are likely more than two layers, with at least three layers being confirmed by in-game conversation.
+The Depths contains two layers, Layer One (Scyphozia) and Layer Two (The Eternal Gale?). There are likely more than two layers, with at least three layers being confirmed by in-game conversation.
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [Layer One](First_Layer.md)**
+**\- [First Layer (Scyphozia)](First_Layer.md)**
 
-**\- [Layer Two](Second_Layer.md)**
+**\- [Second Layer (The Eternal Gale?)](Second_Layer.md)**
