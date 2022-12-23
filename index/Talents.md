@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42558
+revid: 42589
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1507,8 +1507,8 @@ These Talents are designed to make you more effective in water.
 -   Legendary Echoes \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
--   Martyr \[Common Talent\] -Gain less health and posture when knocking enemies. (+3 Health)
-    -   Health and Posture restored from getting a knock is reduced by 50%.
+-   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you. (+3 Health)
+    -   Enemies who knock you restore only half of the posture and health they would normally obtain.
 -   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them. (+3 Health)
