@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 40425
+revid: 42579
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -10,15 +10,23 @@ categories: [Pages with broken file links, Armors]
 
 Template:EquipmentStats
 
+File:Tawny Variant.jpg
+
+Tawny Variant
+
+File:Rural Variant.jpg
+
+Rural Variant
+
 ## Description
+
+File:Ash Variant.jpg
+
+Ash Variant
 
 File:Sable Adjudicator's.png
 
-Sable Variant
-
-File:Rural Adjudicator's.png
-
-Royal Variant
+\* Sable Variant
 
 File:Pink Adjudicator's.png
 
