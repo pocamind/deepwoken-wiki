@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 42354
+revid: 42561
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -55,15 +55,15 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 
 -   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will be shot out with less ticks of damage, giving your opponent less of a chance to parry it mid beam (It does not reduce the damage at all). The damage multiplier for this variant will also be slightly increased.
 
--   There is also a passive ability that I have tested enough to put here, but not enough to say that this is true for all Corrupted Payback bells. If this Resonance is found to be corrupted, it also gains a passive ability: Whenever an enemy humanoid NPC hits you while you are below ~25% health, the NPC will take damage every hit; this damage _can_ knock the NPC. I personally had one of the **Beam Variants** of this bell, so it has a possibility to be only for that variant.
+-   If this Resonance is found to be corrupted, it also gains a passive ability: whenever an enemy humanoid NPC hits you while you are below ~25% health, the NPC will take damage every hit; this damage _can_ knock the NPC.
 
 ## Trivia/Notes
 
 -   The 2nd variation can be either blocked, parried or dodged while the 1st one can not.
--   The 1st variation can reflect any status effects given to the user during the timeframe i.e getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect
+-   The 1st variation can reflect any status effects given to the user during the timeframe i.e getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".
--   The best way to counter variant 2 payback resonance is by using variant 1 payback. This usually will mess them up real bad
--   Prediction mantra but better wth a higher duration
+-   The best way to counter variant 2 payback resonance is by using variant 1 payback. This usually will mess them up real bad.
+-   Prediction mantra but better with a higher duration.
 -   "Achieve infinite dmg!" -some lazer ppl in deepwoken dev

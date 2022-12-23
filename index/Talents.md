@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42526
+revid: 42558
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -1472,7 +1472,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisites: ~30 Heavy Weapon
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
-    -   Prerequisite: 25 Strength, Greatsword equipped.
+    -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
     -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger equipped

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 41965
+revid: 42560
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -8,9 +8,9 @@ categories: [Monsters, Technically A Race]
 
 # Mudskipper
 
-“ grgrlg glrglrgrg glgrglrg ”
+“ Grgrlglrgl grrgl. Grgrglrgl. ”
 
-― A Mudskipper conversing before getting mauled by a power 60 looking for mantra sparks
+― Mudskippers during Mudwoken
 
 > _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
 
@@ -196,7 +196,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that are summoned to fight the weak during The Depths (Trial). Unlike most Mudskippers, they do not possess any coral growth or rock formations around their head. They also wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
+Mindless enemies that are summoned to fight the weak during The Depths (Trial). They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
 They can only be encountered in The Depths (Trial) while the character's power is between 10 - 19.
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 41778
+revid: 42564
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -438,9 +438,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
 -   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
 -   You can increase the duration of Fortitude and Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md), although this does not work for Adrenaline Rush.
--   ~You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.~
-    -   You used to be able to use Summoning Cauldron to climb high obstacles, however, after an update, the Cauldron can no longer be summoned stick to walls due to the new way it is cast.
-    -   It still maintains a little bit of usefulness excluding the ability to make potions anywhere, that being: portable shelter for campfires.
+-   You can use Summon Cauldron as a portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
 -   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance travelled BUT allows you to use it twice before it goes on cooldown.
 -   You can modify Revenge with a [Reversal Spark](Mantra_Modifiers.md), which makes it do _**absolutely nothing.**_
@@ -460,4 +458,3 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Rapid Punches is the single Attunement-less mantra that has a star.
 -   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
 -   Reinforce needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)
--   Taunt is a reference to Jetstream Sam’s Taunt ability from the Metal Gear Rising: Revengeance Jetstream DLC.
