@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 42110
+revid: 42554
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -191,7 +191,7 @@ Legendary = Gold
 </tr>
 <tr>
   <td>Authority Commander (uncommon)</td>
-  <td><b>Flamekeeper Cestus (very rare)</b></td>
+  <td>Flamekeeper Cestus (very rare)</td>
   <td>Dazed Band (uncommon)</td>
   <td><b>Pale Assassin Cloak (very rare)</b></td>
 </tr>

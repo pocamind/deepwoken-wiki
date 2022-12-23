@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 41273
+revid: 42553
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -29,9 +29,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Environmentalist_, which 
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   Near the campfire at Isle of Vigils.
+-   In the tent next to Galebreathe trainer at Isle of Vigils.
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 
--   Player notes here
+-   Environmentalist will more than likely be a useful talent in Layer 2.
