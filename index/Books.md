@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 40759
+revid: 42792
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -526,54 +526,66 @@ categories: [Community]
 
 ### The Hammer's Call
 
-> \[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
-> 
-> Fine workers of the Union, Come hear the hammer call!
-> 
-> We'll stand in solidarity - Shoulder to shoulder, together, tall!
-> 
-> Shoulder to shoulder, together, tall!
-> 
-> The Old World sank beneath the tide, Yet workers, shore to shore,
-> 
-> Together toil, and never hide - Mighty, united, like none before!
-> 
-> Mighty, united, like none before!
-> 
-> With arms and tools in every hand - A pickaxe and a blade, - From depths to peaks, across the land, Work we in concert, and hone our trade!
-> 
-> Work we in concert, and hone our trade!
-> 
-> It matters not how hard the chore, How punishing the way;
-> 
-> For you we'll fight, retrieve, explore - Only if you can our costs defray!
-> 
-> Only if you can our costs defray!
-> 
-> But if you do not pay your dues
-> 
-> To workers, fair and square, The Union will be out to bruise -
-> 
-> Labour entitles to each their share!
-> 
-> Labour entitles to each their share!
-> 
-> And neither mountain, rock, nor stone Can keep us from our mark!
-> 
-> Our tools ignite, a path is blown - Onwards we march, powered by a spark!
-> 
-> Onwards we march, powered by a spark!
-> 
-> Alone, we're fingers on a palm - Together, we're a fist!
-> 
-> Our might is like a powder bomb, And like a fuse, may we long persist!
-> 
-> And like a fuse, may we long persist!
-> 
-> Fine workers of the Union, Come hear our hammer call!
-> 
-> We'll stand in solidarity - Shoulder to shoulder, together, tall!
-> 
-> Shoulder to shoulder, together, tall!
-> 
-> "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272. Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
+\[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
+
+Fine workers of the Union, Come hear the hammer call!
+
+We'll stand in solidarity - Shoulder to shoulder, together, tall!
+
+Shoulder to shoulder, together, tall!
+
+The Old World sank beneath the tide, Yet workers, shore to shore,
+
+Together toil, and never hide - Mighty, united, like none before!
+
+Mighty, united, like none before!
+
+With arms and tools in every hand - A pickaxe and a blade, - From depths to peaks, across the land, Work we in concert, and hone our trade!
+
+Work we in concert, and hone our trade!
+
+It matters not how hard the chore, How punishing the way;
+
+For you we'll fight, retrieve, explore - Only if you can our costs defray!
+
+Only if you can our costs defray!
+
+But if you do not pay your dues
+
+To workers, fair and square, The Union will be out to bruise -
+
+Labour entitles to each their share!
+
+Labour entitles to each their share!
+
+And neither mountain, rock, nor stone Can keep us from our mark!
+
+Our tools ignite, a path is blown - Onwards we march, powered by a spark!
+
+Onwards we march, powered by a spark!
+
+Alone, we're fingers on a palm - Together, we're a fist!
+
+Our might is like a powder bomb, And like a fuse, may we long persist!
+
+And like a fuse, may we long persist!
+
+Fine workers of the Union, Come hear our hammer call!
+
+We'll stand in solidarity - Shoulder to shoulder, together, tall!
+
+Shoulder to shoulder, together, tall!
+
+"The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272. Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
+
+> * * *
+
+### **Diver Journal, II**
+
+\-Writings of Journeyman Skeli
+
+First of Moonveil, Entry #2. Curse Klaris for sending me to this godforsaken place. This snow sticks like tar and doesnt melt from your warmth... Even knowing this, there was no reason to lose more than a single expedition team.
+
+According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
+
+**<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.>>**

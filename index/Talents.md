@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42647
+revid: 42737
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -52,7 +52,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 These talents improve the user's aerial mobility without the use of Galebreathe.
 
--   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
+-   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
     -   Prerequisites: 15 Agility
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
@@ -206,7 +206,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
+-   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
@@ -401,7 +401,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 
 ### Darksiphon
 
--   Dark God \[Common Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their reservoir. (+1 Elemental Intensity, 3+ Health)
+-   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
     -   Prerequisites: 20 Shadowcast
 -   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   Prerequisites: 50 Shadowcast, Dark Hours
@@ -912,6 +912,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 -   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
     -   Prerequisites: Power 40
 -   Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+-   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
 
 ### Master Survivalist
 
@@ -1089,6 +1090,10 @@ These Talents are meant to be used in an aggressive playstyle.
 
 -   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Thundercall
+
+### Saboteur
+
+-   Family Recipe \[Common Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)
 
 ### Saint of Blades
 
@@ -1510,6 +1515,7 @@ These Talents are designed to make you more effective in water.
 -   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisites: Power 30
     -   Mutual Exclusive: Everchanging Aegis
+-   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
 
 ## Whispers
 
@@ -1720,7 +1726,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### '_Vigil_
 
--   Paired Soul - Increases _[Katana](Katana.md)_ damage by 15% and _[Shattered Katana](Shattered_Katana.md)_ damage by 10%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
+-   Paired Soul - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
 
 ### **[Experienced Adventurer](Experienced_Adventurer.md)**
 

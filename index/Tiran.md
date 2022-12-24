@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 42629
+revid: 42825
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races]
@@ -12,16 +12,15 @@ notices:
 
 Template:Races-Main
 
-“ IS THAT NIKO FROM ONESHOT???? ”
+"_Solitary folk seldom seen below the clouds._
 
-― Average Oneshot Fan
+_Sharp and independent, though strongly protective of those who earn their respect._"
 
-  
-_Chance of obtaining race: ?%_
+_Chance of obtaining race: 1.75%_
 
 ## Description
 
-Tirans are a extremely rare race that has a bird motif. They have special circle-like markings on their face. They have a Agility and Willpower bonus, as well as a reduced take of damage from falling, and they spawn with a infinite-use glider.
+Tirans are an extremely rare race that has a bird motif. They have special circle-like markings on their face. They have a Agility and Willpower bonus, take 10% less fall damage, and they spawn with an unbreakable glider.
 
 ## Racial Traits
 
@@ -57,14 +56,15 @@ Tirans are a extremely rare race that has a bird motif. They have special circle
 
   
 
-+2 Agility +2 Willpower Reduced fall damage
+⋅+2 Agility +2 Willpower  
+⋅Reduced fall damage
 
-Starts with a glider  
+⋅Starts with a glider
 
 **Weaknesses:**
 
   
-?
+⋅N/A
 
 **Surnames:**
 

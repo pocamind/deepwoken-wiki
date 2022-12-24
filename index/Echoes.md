@@ -1,21 +1,37 @@
 ---
 title: Echoes
-revid: 42661
+revid: 42827
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Echoes
 
+“ The Legacy of my Lineage... Shall be continued down to yours, my friend-- to the next and after the other. ”
+
+― Echo of Inspiration
+
+  
+
+## Overview
+
 **Echoes** are a currency that is obtained by wiping characters. The amount of **Echoes** gained through wiping increases based on how much progress the character had made before being wiped.
 
-### Description
-
-**Echoes** can be spent on **Upgrades**, which are permanent buffs which are not lost upon wiping. When in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
+**Echoes** can be spent on **Upgrades;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
 
 **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.6x modifier to **Echo** gain.
 
-### Upgrades and Modifiers
+### Ways of Obtaining Echoes
+
+-   Gaining Power, awarding (???) Echo per Power Level.
+-   Unbounding your Attributes and Ability, awarding 5 Echoes per Unbound.
+-   Obtaining your [Oath](Oaths.md), awarding 5 Echoes.
+-   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
+-   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), awarding 5 Echoes.
+
+## Upgrades and Modifiers
 
 **Upgrades:**
 
@@ -135,3 +151,21 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 </tr>
 </tbody>
 </table>
+
+## Echo Talents/Items
+
+File:Echo Talents with mic.png
+
+An example of unlocking Echo Talents and its acquirement Level.
+
+Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
+
+Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after.
+
+### **Echo Quests**
+
+(Power 3 | 5) Engage | Critical Attack - _Gain Engage first at Power 3 and Critical Attack at Power 5._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
+
+(Power 2) Glider - _Gain the Glider Recipe at Power 2. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
+
+(Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the Widow's Hollow.**_

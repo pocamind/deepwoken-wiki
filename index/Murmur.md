@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 42693
+revid: 42761
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -91,8 +91,4 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
 
-Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Think of it as ESP, but legitimate and range-limited.
-
-Not much is known about this, I (raphaelrblx/CapturedChild) just found and obtained this. It's pretty cool though, ngl.
-
-There is a way to obtain it, but I'm keeping it secret cuz I'm not leaking anything today. Sorry in advance.
+Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 40454
+revid: 42725
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -35,6 +35,21 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 **Regular:**
 
 Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
+
+## Moveset
+
+-   **Light Attack** - Angels use their Divine Spears dealing ~35 damage each hit. (they can feint)
+-   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal 15 damage, and stun.
+-   **Critical** - Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes
+
+## Passive
+
+-   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
+    
+
+**Deep:**
+
+Template:Creature Infobox V3 These angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Deep Angels spawns in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
 
 ## Moveset
 

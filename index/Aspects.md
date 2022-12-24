@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 42626
+revid: 42809
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Races, Character, Mechanics]
@@ -41,7 +41,6 @@ These races are currently exclusive to NPCs, and have not been confirmed to be o
 ## Notes
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Many of the factions in Deepwoken are inherently xenophobic/racist.
-
 -   Players may also treat the player differently depending on their race.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.

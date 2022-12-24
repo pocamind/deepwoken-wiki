@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 38228
+revid: 42710
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -101,7 +101,17 @@ Located past the stone arch, a pure reflection of yourself that will remove your
 </tbody>
 </table>
 
-Clicking \[The End\] will wipe your character and transfer you to the character creation screen.
+Clicking\[The End\] will wipe your character and show you the character's legacy menu then transfer you to the character creation screen.
+
+##### **The Legacy menu**
+
+The legacy menu upon wiping
+
+The Triumphs section shows the player's achievement across the progression, These will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
+
+The Echoes section shows how much echoes you earned and the Rank Based on it
+
+  
 
 ### Captain
 

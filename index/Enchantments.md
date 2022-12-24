@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 42696
+revid: 42790
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -126,6 +126,12 @@ There are three variants that enchantments come in:
   <td><div>Weapon is completely coated in metal.</div></td>
 </tr>
 <tr>
+  <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
+  <font>Nemesis<div></div></font></center></td>
+  <td><div></div></td>
+  <td><div></div></td>
+</tr>
+<tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Weapon gain 50% chip damage.<br>
@@ -160,6 +166,12 @@ There are three variants that enchantments come in:
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
   Lose thirst equal to 20% of damage taken.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Solar<div></div></font></center></td>
+  <td><div><p>Procs on flourish</p></div></td>
+  <td><div></div></td>
 </tr>
 <tr>
   <td><figure>File:STONE.png<figcaption></figcaption></figure><center><br>
@@ -223,6 +235,12 @@ There are three variants that enchantments come in:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
+  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
+  <font>Curse of the Unbindded<div></div></font></center></td>
+  <td><div></div></td>
+  <td><div></div></td>
+</tr>
+<tr>
   <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
@@ -248,8 +266,14 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Newen.png<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Storm enchant mixed, with a invisible flourish kicked... Obtainable</p></div></td>
-  <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
+  <td><div><p>Effects of the storm enchant, with a unique critical</p></div></td>
+  <td><div></div></td>
+</tr>
+<tr>
+  <td><figure>File:Newen.png<figcaption></figcaption></figure><center><br>
+  <font>?<div></div></font></center></td>
+  <td><div><p>Eyeballs</p></div></td>
+  <td><div></div></td>
 </tr>
 </tbody>
 </table>
@@ -377,6 +401,13 @@ There are three variants that enchantments come in:
   The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
   <b>Disabled if using Curse of the No Life King.</b> <b>Disabled in Arena</b></p></div></td>
   <td><div>None</div></td>
+</tr>
+<tr>
+  <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
+  <font>Ferocity<div></div></font></center></td>
+  <td><div>Creates small bubbles that track the opponent and deal damage. (Maybe)<br>
+  </div></td>
+  <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>
 </tbody>
 </table>

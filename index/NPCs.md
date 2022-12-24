@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 41963
+revid: 42740
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -292,6 +292,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
   <td>Grants four wishes</td>
   <td>A Resonance is required to talk to the statue or you are instantly killed and wiped</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="Mime.md">Mime</a></td>
+  <td>Unaligned</td>
+  <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
+  <td>Grants <a href="Attunement-less.md#disguise">Disguise</a> mantra</td>
+  <td>Spawns with mudskippers attacking him, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
   <td></td>
 </tr>
 </tbody>

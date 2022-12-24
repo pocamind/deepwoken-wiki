@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 42611
+revid: 42714
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -167,6 +167,10 @@ One in the [Towerstruck lands](Towerstruck_Lands.md).
 One near the teleporter to [The Duke's Manor](Duke_Ishamon_Erisia.md), on a ledge over a body of water.
 
 One in the [Hidden Village](The_Hidden_Village.md).
+
+#### **Megalodaunt on a ship**
+
+A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel seas](The_Aratel_Sea.md), feasting on a Etrean naval guard corpse, Upon killing the Monster, A Chest will spawn in the ship with mid tier loot.
 
 #### **Divers vs Monster**
 

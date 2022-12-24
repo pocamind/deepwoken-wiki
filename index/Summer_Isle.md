@@ -1,9 +1,11 @@
 ---
 title: Summer Isle
-revid: 40861
+revid: 42828
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [OutdatedPages, Pages with broken file links, Locations]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Summer Isle

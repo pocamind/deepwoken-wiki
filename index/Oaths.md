@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 42686
+revid: 42807
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, Character, Talents, Mechanics]
+categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -22,6 +22,11 @@ categories: [Oaths, Character, Talents, Mechanics]
 |---|---|
 | oath_req | 50 Charisma |
 | effects | +1 Support Mantra, +2 Combat Mantra |
+
+| Oath: Starkindred | |
+|---|---|
+| oath_req | 40 Strength |
+| effects | ? |
 
 _icon credit to Tortaa#9000_
 
@@ -182,6 +187,54 @@ Does not grant any special cosmetic based on race.
 ### Notes
 
 -   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last dramatically.
+
+## Oath: Linkstrider
+
+_"You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength."_
+
+Linkstrider is one of the many oaths that got released with verse 2.
+
+Obtainment: To obtain Linkstrider, you must get 4 players that have oaths, after doing this, you must head over to [The Entropy Catalyst](The_Entropy_Catalyst.md), after arriving, you must knock all 4 players and put them in a slot (circles in the floor) for each person you put in, the slots will glow and after 4 players sacrificed, a white orb will appear in the middle, once you interact with this orb, you will get the oath Linkstrider.
+
+**NOTE: ONCE YOU PUT A KNOCKED PLAYER INSIDE OF THE CIRCLE, THEY WILL DIE AND GET SENT TO THE DEPTHS! (presumed)**
+
+**KNOWN ABILITIES:**
+
+N/A
+
+File:OathLinkstridernecklace.png
+
+A person with Oath: Linkstrider, wearing the oaths necklace, this comes by default once you get the oath
+
+  
+
+## Oath: Jetstriker
+
+File:Jetstriker.png
+
+Obtained by talking to Alirian at Ministyra, (far past the rouge golem and to the left)
+
+Known abilities:
+
+**Prevailing Westerlies**: Allows you to gain momentum much quicker while running.
+
+**Stratos Step:** While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards
+
+File:Prevailing westerlies.png
+
+File:Stratos step.png
+
+  
+
+## Oath: Starkindred
+
+### Known abilities:
+
+-   **Ascension**  
+    
+-   **Celestial Assault**
+
+-   **Sinister Halo**
 
 ## Time Magic(?)
 

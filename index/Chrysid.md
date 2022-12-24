@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 42695
+revid: 42753
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -44,6 +44,9 @@ Template:Races-Main
 
   
 
+-   O Pardoner of Mine, book that can be found in Virgil book by searching through them.
+    
+
 **Strengths:**
 
   
@@ -51,7 +54,7 @@ Template:Races-Main
 +2 Agility  
 +2 Charisma  
 
-  
+free drip  
 
 **Weaknesses:**
 
@@ -88,3 +91,4 @@ Template:Races-Main
 ## Notes/Trivia
 
 -   Mothwing Dust does not proc if you instigate the fight.
+-   Mothwing Dust lasts 10 seconds _**with a cooldown of ?**_

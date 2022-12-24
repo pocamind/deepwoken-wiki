@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 42627
+revid: 42781
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -836,13 +836,23 @@ An upcoming weapon type for medium, similar to spears. Rifles use melee attacks 
 </tr>
 <tr>
   <td><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></td>
-  <td>?</td>
+  <td>75 MED</td>
   <td>18</td>
   <td>N/A</td>
   <td>MED: 8</td>
   <td>3</td>
   <td>7</td>
   <td>0.75x</td>
+</tr>
+<tr>
+  <td><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></td>
+  <td>75 MED</td>
+  <td>19.5</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.73x</td>
 </tr>
 </tbody>
 </table>
