@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 42913
+revid: 42989
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -57,9 +57,10 @@ Kick
  | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
--   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   This ability is very dangerous as it can send you into unwanted situations.
+-   This Ability is blockable, you need alot of posture to block this attack.
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
 Jump
@@ -139,6 +140,7 @@ Pyroclastic Roar
 
 **Alpha Megalodaunt:**
 
+  
 Template:Creature Infobox V3
 
 ## **Description**
@@ -194,7 +196,7 @@ Roar
 
 |image1=Red Sharko3.PNG |locations=\*[Songseeker Wilds](Songseeker_Wilds.md)  
 
--   Using [Megalodaunt Bait](Monster_Bait.md) (rarely)
+-   Using [Megalodaunt Bait](Monster_Bait.md) (rarely)\*[hive](The_Hive.md)(rarely)
 
 |drops=\*[Megalodaunt Hide](Megalodaunt_Hide.md)  
 
@@ -266,7 +268,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Mecha version of the Megalodaunt, exclusive to ???, they are very strong version of a Megalodaunt, maybe stronger than an alpha megalodaunt?
+Mecha version of the Megalodaunt, exclusive to ???, they are very strong version of a Megalodaunt, maybe stronger than an alpha megalodaunt. However this creature
 
 ## **Attacks**
 
@@ -323,7 +325,7 @@ Roar
 
 A Megalodaunt swimming.
 
--   It is the most common Giant Type enemy, and the easiest (Stat Check Level: 30).
+-   It is the most common Giant Type enemy, and the easiest (Stat Check Level: 10).
 -   Sharkos have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
@@ -332,6 +334,7 @@ A Megalodaunt swimming.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](Outfits.md#arms) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree and let the sharko stand on top, which will make the Sharko miss all it's attacks. It's very risky but it is profitable.
--   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 40 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
+-   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
 -   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
+-   On verse 2, a new variant of the Megalodaunt made it's first appear the "Mechalodaunt", a stronger and Robotic version of the Megalodaunt.

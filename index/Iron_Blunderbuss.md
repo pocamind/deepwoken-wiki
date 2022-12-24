@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 42819
+revid: 42925
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -28,8 +28,6 @@ categories: [Weapons, Pages with broken file links]
 | pass down | Yes |
 | obtainment | Saramaed Summit, Duke Chest, ? |
 | description | Rustic and shabby in design, this application of Rosen's Gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer... |
-
-(Not to be confused with [Rosen's Peacemaker](<Rosen's_Peacemaker.md>))
 
 ## Description
 

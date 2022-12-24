@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 42893
+revid: 42995
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -35,7 +35,12 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 40 Strength |
+| oath_req | 50 Strength |
+| effects | +2 Combat Mantra+8 Health |
+
+| Oath: Arcwarder | |
+|---|---|
+| oath_req | 50 Fortitude20 Flamecharm, 20 Thundercall |
 | effects | ? |
 
 _icon credit to Tortaa#9000_
@@ -252,6 +257,9 @@ _"You vow to flow with the song itself, drifting across where the trails may tak
 -   **Decisive Winds**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
     -   +5 Ether
+-   **Rush of Ancients**
+    -   Dodging at maximum sprint momentum makes you one with the wind itself.
+    -   +4 Passive Agility
 
 ## Oath: Starkindred
 
@@ -261,7 +269,7 @@ _"You vow to..."_
 
 ### Obtainment (presumed)
 
-1.  Have 40 strength
+1.  Have 50 strength
 2.  Talk to Samael, located in the church above the Voidone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
@@ -271,8 +279,44 @@ _"You vow to..."_
 ### Known Abilities
 
 -   **Ascension**
+    -   Using **Fire Blade** with your wings out causes it to be modified, doing a much stronger attack.
 -   **Celestial Assault**
 -   **Sinister Halo**
+
+## Oath: Arcwarder
+
+_"Weld the armor of the Ignition Union's most notable dwellers."_
+
+### **Obtainment (presumed)**
+
+1.  Have 50 fortitude and 20 flamecharm, 20 thundercall
+2.  Complete Layer 2 quest
+    1.  Activate generator
+    2.  Talk to Alpha
+    3.  Retrieve Pesi
+    4.  Talk to Alpha again
+3.  Return to surface and find Delta in miners
+
+-   currently not much is known, but heres a video on obtainment (speculated): [https://www.youtube.com/watch?v=BoPM2HzMz3Q](https://www.youtube.com/watch?v=BoPM2HzMz3Q)
+
+  
+
+  
+
+  
+
+## Oath: Dawnwalker
+
+_"You vow to forever reach towards the brilliant Light. There is no shadow that you radiance cannot expunge."_
+
+**Obtainment (presumed)**
+
+1.  Get 30 Medallions from Layer 2
+2.  Talk to Klaris
+
+## Oath: Celestial(?)
+
+Uses Enforcer Pull (Not exactly sure if it's a oath)
 
 ## Time Magic(?)
 

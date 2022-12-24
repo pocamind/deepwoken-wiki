@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 42891
+revid: 42927
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -151,6 +151,94 @@ I'll tell you, though no one asked it: Do as they say, And don't put all your eg
 > Lower my bones to the ocean and let them drift all alone and slow, May the Ferryman gently take my soul
 > 
 > To the Depths below...
+
+### The Gideshu March
+
+> \[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
+> 
+> We're masters of the oceans wide, Custodians of relentless tide!
+> 
+> For the Authority we fight - Within this dark a blazing light.
+> 
+> Hurrah, hurrah, three cheers for the cause!
+> 
+> We truth uphold, and also laws!
+> 
+> For the many, the few, the big, the small - We would give our lives for the cause!
+> 
+> We would give our lives for the cause!
+> 
+> We're wardens of the valiant dead, From shore to shore our boots will tread!
+> 
+> The furthest reaches we shall tame, Bring order, peace, Adretian fame!
+> 
+> Hurrah, hurrah, three cheers for the cause!
+> 
+> We truth uphold, and also laws!
+> 
+> For the many, the few, the big, the small - We would give our lives for the cause!
+> 
+> We would give our lives for the cause!
+> 
+> * * *
+> 
+> The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
+> 
+> From the description of The Gideshu March on Naktigonis' YouTube channel.
+
+### The Hammer's Call
+
+> \[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
+> 
+> Fine workers of the Union, Come hear the hammer call!
+> 
+> We'll stand in solidarity - Shoulder to shoulder, together, tall!
+> 
+> Shoulder to shoulder, together, tall!
+> 
+> The Old World sank beneath the tide, Yet workers, shore to shore,
+> 
+> Together toil, and never hide - Mighty, united, like none before!
+> 
+> Mighty, united, like none before!
+> 
+> With arms and tools in every hand - A pickaxe and a blade, - From depths to peaks, across the land, Work we in concert, and hone our trade!
+> 
+> Work we in concert, and hone our trade!
+> 
+> It matters not how hard the chore, How punishing the way;
+> 
+> For you we'll fight, retrieve, explore - Only if you can our costs defray!
+> 
+> Only if you can our costs defray!
+> 
+> But if you do not pay your dues
+> 
+> To workers, fair and square, The Union will be out to bruise -
+> 
+> Labour entitles to each their share!
+> 
+> Labour entitles to each their share!
+> 
+> And neither mountain, rock, nor stone Can keep us from our mark!
+> 
+> Our tools ignite, a path is blown - Onwards we march, powered by a spark!
+> 
+> Onwards we march, powered by a spark!
+> 
+> Alone, we're fingers on a palm - Together, we're a fist!
+> 
+> Our might is like a powder bomb, And like a fuse, may we long persist!
+> 
+> And like a fuse, may we long persist!
+> 
+> Fine workers of the Union, Come hear our hammer call!
+> 
+> We'll stand in solidarity - Shoulder to shoulder, together, tall!
+> 
+> Shoulder to shoulder, together, tall!
+> 
+> "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272. Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 
 ### Munet Journal, XIV
 
@@ -551,93 +639,5 @@ I'll tell you, though no one asked it: Do as they say, And don't put all your eg
 > Their fates are my fault!
 > 
 > I weep for them still, my tears bitter as salt...
-
-### The Gideshu March
-
-> \[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
-> 
-> We're masters of the oceans wide, Custodians of relentless tide!
-> 
-> For the Authority we fight - Within this dark a blazing light.
-> 
-> Hurrah, hurrah, three cheers for the cause!
-> 
-> We truth uphold, and also laws!
-> 
-> For the many, the few, the big, the small - We would give our lives for the cause!
-> 
-> We would give our lives for the cause!
-> 
-> We're wardens of the valiant dead, From shore to shore our boots will tread!
-> 
-> The furthest reaches we shall tame, Bring order, peace, Adretian fame!
-> 
-> Hurrah, hurrah, three cheers for the cause!
-> 
-> We truth uphold, and also laws!
-> 
-> For the many, the few, the big, the small - We would give our lives for the cause!
-> 
-> We would give our lives for the cause!
-> 
-> * * *
-> 
-> The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
-> 
-> From the description of The Gideshu March on Naktigonis' YouTube channel.
-
-### The Hammer's Call
-
-\[from Vincent Zeneke's monograph cycle 'Songs of the Sea'\]
-
-Fine workers of the Union, Come hear the hammer call!
-
-We'll stand in solidarity - Shoulder to shoulder, together, tall!
-
-Shoulder to shoulder, together, tall!
-
-The Old World sank beneath the tide, Yet workers, shore to shore,
-
-Together toil, and never hide - Mighty, united, like none before!
-
-Mighty, united, like none before!
-
-With arms and tools in every hand - A pickaxe and a blade, - From depths to peaks, across the land, Work we in concert, and hone our trade!
-
-Work we in concert, and hone our trade!
-
-It matters not how hard the chore, How punishing the way;
-
-For you we'll fight, retrieve, explore - Only if you can our costs defray!
-
-Only if you can our costs defray!
-
-But if you do not pay your dues
-
-To workers, fair and square, The Union will be out to bruise -
-
-Labour entitles to each their share!
-
-Labour entitles to each their share!
-
-And neither mountain, rock, nor stone Can keep us from our mark!
-
-Our tools ignite, a path is blown - Onwards we march, powered by a spark!
-
-Onwards we march, powered by a spark!
-
-Alone, we're fingers on a palm - Together, we're a fist!
-
-Our might is like a powder bomb, And like a fuse, may we long persist!
-
-And like a fuse, may we long persist!
-
-Fine workers of the Union, Come hear our hammer call!
-
-We'll stand in solidarity - Shoulder to shoulder, together, tall!
-
-Shoulder to shoulder, together, tall!
-
-"The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272. Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 
 > * * *

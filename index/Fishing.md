@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 42910
+revid: 42926
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -26,7 +26,7 @@ Fishing can technically level every attribute with enough time, except Charisma,
 
 ## Loot From Fishing
 
-You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
+You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
 -   Sea Bass
 -   Red Snapper
@@ -40,7 +40,7 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather Boots)
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
--   Golden/Enchanted Fish ~(Very Rare, Gives 13-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught. Max luck from fishing is 45% (tested)~ While golden fish can still be caught, with the removal of the luck mechanic their purpose is unknown.
+-   Golden/Enchanted Fish: While golden fish can still be caught, with the removal of the luck mechanic their purpose is unknown.
 
 Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42907
+revid: 42924
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -827,7 +827,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   Passive insanity gain from The Depths is reduced.
--   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes.
+-   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
     -   Tirans gain Feathered Glider with infinite durability.
 
 -   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.

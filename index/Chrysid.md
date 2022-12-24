@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 42753
+revid: 42975
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -24,7 +24,10 @@ Template:Races-Main
   <td>File:Seaborne.png</td>
   <td>Mothwing Dust
   <ul>
-    <li>Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name</li>
+    <li>Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name
+  <ul>
+    <li>People who attack you are highlighted for you to see. Useful to find people with long ranged attacks or in dark areas.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>

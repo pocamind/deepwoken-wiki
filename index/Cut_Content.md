@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 42531
+revid: 42970
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -13,19 +13,21 @@ notices:
 ## Locations
 
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
--   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially.
--   **Miner's Landing -** Teased in the Deepwoken Leak Document before release, but never actually added due to being 'useless.'
+-   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially. Mob spawns changed but was added back in Verse 2
+-   **Miner's Landing -** Teased in the Deepwoken Leak Document before release, but never actually added due to being 'useless.' Added back in Verse 2
 -   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 
 ## Player
 
--   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md). Not to be confused with Venting from the Layer 2 update.
+-   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md). Not to be confused with Venting from the Verse 2 update.
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
 -   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploit and etc
 -   **Spell Stacking -** Only ingame for a month from release, you used to be able to stack spells with m1s, with parrying either the m1 or spell cancelling the other. Removed for being unfair/allowing easy movestacks.
+-   **Luck -** Ingame for a year before the Verse 2 update, was a mechanic that allowed for more-common draws of Rares and legendary cards, axed for a new hand system.
+-   **Legendary Talents-** A rare few talents that were guaranteed at power 15,30, and 60. Removed in favor of Completion cards, with many being merged into Rare cards.
 
 ## Mantras
 
@@ -68,6 +70,8 @@ notices:
     -   As of 12/13/22 update, Quick Recovery was into Kick Off.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   As of 12/13/22 update, Salesperson was merged into Snake Oil.
+
+  
 
 ## Other
 
