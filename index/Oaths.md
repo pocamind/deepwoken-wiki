@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 42351
+revid: 42686
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -182,8 +182,6 @@ Does not grant any special cosmetic based on race.
 ### Notes
 
 -   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last dramatically.
-
-  
 
 ## Time Magic(?)
 

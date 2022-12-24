@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 42123
+revid: 42693
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -86,3 +86,13 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 -   You also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With an unknown large amount of [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. However it is buggy beyond belief and and the NPC can glitch frequently.
 
 -   After speaking to the NPC, he disappears. If you lack a high amount of [Charisma](Attributes.md#cha), you will not obtain anything from him. Negative [reputation](Reputation.md) with Etrea is not required to obtain Tacet from the "Stranger".
+
+## Murmur: Rhythm
+
+Template:ImageCaption Infobox _"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
+
+Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Think of it as ESP, but legitimate and range-limited.
+
+Not much is known about this, I (raphaelrblx/CapturedChild) just found and obtained this. It's pretty cool though, ngl.
+
+There is a way to obtain it, but I'm keeping it secret cuz I'm not leaking anything today. Sorry in advance.

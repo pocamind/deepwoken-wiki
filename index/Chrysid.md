@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 40769
+revid: 42695
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -8,17 +8,13 @@ categories: [Pages with broken file links, Character, Races]
 
 # Chrysid
 
-Template:Races-Main
-
-""
-
-Unreleased Obtainable Race
-
-Will likely release in the Layer 2 update.
-
 ## Description
 
-The most that's known about this race from the screenshot and _TheRealPunchee'_s video is that this race is based off of a moth, and the accompanying race being based off of a bird.
+“ Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book. ”
+
+― Racial Lore Text
+
+Template:Races-Main
 
 ## Racial Trait
 
@@ -26,17 +22,17 @@ The most that's known about this race from the screenshot and _TheRealPunchee'_s
 <tbody>
 <tr>
   <td>File:Seaborne.png</td>
-  <td>?
+  <td>Mothwing Dust
   <ul>
-    <li>?.</li>
+    <li>Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name</li>
   </ul></td>
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2&nbsp;?</li>
-    <li>+2&nbsp;?</li>
+    <li>+2 Agility</li>
+    <li>+2 Charisma</li>
   </ul></td>
 </tr>
 </tbody>
@@ -52,8 +48,8 @@ The most that's known about this race from the screenshot and _TheRealPunchee'_s
 
   
 
-+2  
-+2  
++2 Agility  
++2 Charisma  
 
   
 
@@ -62,7 +58,33 @@ The most that's known about this race from the screenshot and _TheRealPunchee'_s
   
 
   
+  
 
   
 
 **Surnames:**
+
+  
+
+-   Aethuda  
+    
+-   Disali  
+    
+-   Eneka  
+    
+-   Iksatoka  
+    
+-   Kalvika  
+    
+-   Rephika  
+    
+-   Sehika  
+    
+-   Trikali  
+    
+-   Zenekai  
+    
+
+## Notes/Trivia
+
+-   Mothwing Dust does not proc if you instigate the fight.

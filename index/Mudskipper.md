@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 42560
+revid: 42681
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -190,6 +190,36 @@ Warden's Blades
 -   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
     
 
+**Mineskipper:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Mineskippers are Mudskippers that wear mining helmets and the Experienced Adventurer outfit. They can disguise themselves as barrels and can wield pickaxes. They are found in mines.
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Scratch
+
+ | Weakly smacks opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Air Force
+
+ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+
+## Tips
+
 **Mudskipper Knight:**
 
 Template:Creature Infobox V3
@@ -239,4 +269,5 @@ Critical
 -   On April Fool's Day 2022, Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
--   The Mudskipper has the greatest number of variants out of any NPC in the game, having six in total, not including the April Fool's variants.
+-   The Mudskipper has the greatest number of variants out of any NPC in the game, having seven in total, not including the April Fool's variants.
+-   It is possible for a mudskipper knight to be corrupted if you have the (Deep Champion) Echoe

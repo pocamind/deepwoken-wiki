@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 42466
+revid: 42632
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -30,10 +30,7 @@ Minityrsa
 
 -   [Valley of Heroes](The_Valley_of_Heroes.md)
 -   [Trial of One](Trial_of_One.md)
-
-### Unnamed
-
--   Stronghold
+-   Outpost Antumbra
     -   A stronghold inhabited and guarded by [Ministry Scouts](Ministry_Scout.md).
     -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 

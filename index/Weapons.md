@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 42541
+revid: 42627
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -979,7 +979,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
-  <td>75 HVY, LVL 20</td>
+  <td>75 HVY, LVL 6</td>
   <td>26</td>
   <td>5%</td>
   <td>N/A</td>

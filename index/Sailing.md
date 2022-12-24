@@ -1,9 +1,11 @@
 ---
 title: Sailing
-revid: 39148
+revid: 42609
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sailing]
+categories: [OutdatedPages, Sailing]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Sailing

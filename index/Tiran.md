@@ -1,9 +1,11 @@
 ---
 title: Tiran
-revid: 40595
+revid: 42629
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [OutdatedPages, Pages with broken file links, Races]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Tiran
@@ -19,25 +21,26 @@ _Chance of obtaining race: ?%_
 
 ## Description
 
-The most that's known about this race from the screenshot and _TheRealPunchee'_s video is that this race is based off of a bird, and the accompanying race being based off of a moth.
+Tirans are a extremely rare race that has a bird motif. They have special circle-like markings on their face. They have a Agility and Willpower bonus, as well as a reduced take of damage from falling, and they spawn with a infinite-use glider.
 
 ## Racial Traits
 
 <table>
 <tbody>
 <tr>
-  <td><figure>File:.png<figcaption></figcaption></figure></td>
-  <td><b>Loyalty</b>
+  <td><figure>File:Feather glider.png<figcaption></figcaption></figure></td>
+  <td><b>Feathered Glider</b>
   <ul>
-    <li>?.</li>
+    <li>You take 10% less fall damage.</li>
+    <li>You're granted a feathered glider on spawn with an infinite amount of uses.</li>
   </ul></td>
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2&nbsp;?</li>
-    <li>+2&nbsp;?</li>
+    <li>+2 Willpower</li>
+    <li>+2 Agility</li>
   </ul></td>
 </tr>
 </tbody>
@@ -54,10 +57,9 @@ The most that's known about this race from the screenshot and _TheRealPunchee'_s
 
   
 
-+2 ?  
-+2 ?  
++2 Agility +2 Willpower Reduced fall damage
 
-?.  
+Starts with a glider  
 
 **Weaknesses:**
 

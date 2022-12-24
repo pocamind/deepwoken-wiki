@@ -1,20 +1,14 @@
 ---
 title: Talents
-revid: 42589
+revid: 42647
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
+categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
 notices:
-  - This page is currently being worked on. Categories shall be added soon.
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Talents
-
-“ Your training finally bears fruit... ”
-
-― Selection Flavour Text
-
-  
 
 -   **You can press "ctrl + F" to search for Talents!**
 
@@ -1502,7 +1496,7 @@ These Talents are designed to make you more effective in water.
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
--   Impervious Slumber \[Rare Talent\] - Getting hit while knocked extends your time knocked. (+2 Health, +5 Ether)
+-   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
     -   Prerequisite: 30 Fortitude
 -   Legendary Echoes \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)

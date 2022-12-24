@@ -1,9 +1,11 @@
 ---
 title: Mantras
-revid: 40523
+revid: 42595
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
+categories: [OutdatedPages, Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Mantras

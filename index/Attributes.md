@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 41816
+revid: 42658
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -62,8 +62,8 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Intelligence
 
--   Logic and problem-solving skills. Increases ether and reservoir slightly per intelligence.
-    -   This stat gives 2 Ether and Reservoir every point.
+-   Logic and problem-solving skills. Increases ether slightly per intelligence.
+    -   This stat gives 2 Ether every point.
 -   Affects potion potency.
 -   Unlocks intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
 -   Gain intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, or discovering new locations for the first time.
@@ -71,8 +71,8 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ### Willpower
 
--   Your character's mental integrity and ability to keep a steady mind. Increases sanity and reservoir per willpower.
-    -   One point in willpower gives 1.5 reservoir.
+-   Your character's mental integrity and ability to keep a steady mind. Increases sanity and tempo per willpower.
+    -   One point in willpower gives ?% tempo.
 -   Unlocks willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
 -   Gain willpower EXP via foraging, fighting sea monsters, losing sanity, and using prayer beads.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.

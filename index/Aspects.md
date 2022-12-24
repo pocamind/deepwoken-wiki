@@ -1,9 +1,11 @@
 ---
 title: Aspects
-revid: 42474
+revid: 42626
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races, Character, Mechanics]
+categories: [OutdatedPages, Races, Character, Mechanics]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Aspects
@@ -27,10 +29,6 @@ The percent chance of rolling a race changes per roll, the percentages listed be
 | **[Felinor](Felinor.md)** | 7.27% |
 
   
-
-## Obtainable Races
-
-Races that can't be rolled at the start of the game but can be obtained in the Layer 2 update through unknown means.
 
 ## Exclusive "Spec" Races/Unobtainable
 
