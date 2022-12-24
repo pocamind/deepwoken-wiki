@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 42776
+revid: 42869
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths, ??? |
+| obtainment | Depths,Bounty Chests |
 | description | The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 

@@ -1,9 +1,11 @@
 ---
 title: Aratel Island
-revid: 40739
+revid: 42844
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Locations]
+categories: [OutdatedPages, World, Locations]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Aratel Island

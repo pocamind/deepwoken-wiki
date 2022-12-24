@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 42824
+revid: 42843
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,4 +38,23 @@ _Pros/Cons_
 
 -   Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
 
-TBD Image. Please find a clearer one.
+  
+
+_Benefits/Penalties_
+
+  
+_Pros/Cons_
+
+### Shrine of Chance
+
+-   Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell)
+    
+      
+    _Benefits/Penalties_
+-   **(BENEFIT)** _Receive a random Talent that you do not already have_
+-   **(PENALTY)** _Lose 5 Knowledge & 1 Talent (of your choice)_
+
+_Pros/Cons_
+
+-   Useful for trying to get a better talent if you have some undesired ones
+-   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card

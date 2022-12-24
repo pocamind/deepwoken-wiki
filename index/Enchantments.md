@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 42790
+revid: 42888
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -128,8 +128,8 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div></div></td>
-  <td><div></div></td>
+  <td><div><p>On hit, a red eye marker gets placed on the enemy, press R (Your crit) to teleport on them and the crit will hit - The range of this is unknown</p></div></td>
+  <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
 </tr>
 <tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
@@ -237,7 +237,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:.png<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbindded<div></div></font></center></td>
-  <td><div></div></td>
+  <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. The curse of this weapon is unknown</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>
@@ -270,8 +270,14 @@ There are three variants that enchantments come in:
   <td><div></div></td>
 </tr>
 <tr>
-  <td><figure>File:Newen.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
   <font>?<div></div></font></center></td>
+  <td><div><p>Eyeballs</p></div></td>
+  <td><div></div></td>
+</tr>
+<tr>
+  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
+  <font>Tears of Edenkite<div></div></font></center></td>
   <td><div><p>Eyeballs</p></div></td>
   <td><div></div></td>
 </tr>

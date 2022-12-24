@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 42781
+revid: 42860
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1371,14 +1371,14 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td>Lantern</td>
-  <td>40 WLL, 75 LHT</td>
-  <td>?</td>
-  <td>N/A</td>
-  <td>?</td>
-  <td>?</td>
-  <td>?</td>
-  <td>?</td>
+  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a></td>
+  <td>65 WLL</td>
+  <td>12</td>
+  <td>5%</td>
+  <td>WLL: 12</td>
+  <td>5</td>
+  <td>7</td>
+  <td>0.82x</td>
   <td>No</td>
 </tr>
 </tbody>

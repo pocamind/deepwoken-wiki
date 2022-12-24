@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 42807
+revid: 42893
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
+categories: [Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -22,6 +22,16 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 |---|---|
 | oath_req | 50 Charisma |
 | effects | +1 Support Mantra, +2 Combat Mantra |
+
+| Oath: Linkstrider | |
+|---|---|
+| oath_req | 4 players with oaths |
+| effects | +2Support Mantra, +1 Wildcard Mantra |
+
+| Oath: Jetstriker | |
+|---|---|
+| oath_req | 50 Agility |
+| effects | +1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility |
 
 | Oath: Starkindred | |
 |---|---|
@@ -48,7 +58,7 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 **Oath: Oathless** requires [Power Level](Power.md) 30 and no Oath to obtain in card rolls.
 
-### Obtaining
+### Obtainment
 
 Oathless must be selected when draw from the hand of cards when powering up. It will always appear from power 30 to 39 if the player has no oath.(Arch mage mentioned that oathless will become a quest talent)
 
@@ -66,7 +76,7 @@ _"You vow to not let the horrors of the world pierce your tightly fastened blind
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 8 (or 6 if you started with 10 willpower) to obtain all stated requirements.
 
-### Obtaining
+### Obtainment
 
 Obtaining Blindseer is harder than Oathless (minus the entire not having a level requirement part), and requires a Blindfold for the process.
 
@@ -107,10 +117,6 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
     -   Obtaining: 10 Pathfinders helped in the Depth Trial (must be alive)
 
-  
-
-**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous? (Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)
-
 ### Effects
 
 This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
@@ -120,6 +126,12 @@ This Oath also grants the players full vision and increased brightness while wea
 Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
 You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the atribbutes, and the item you want it to look like for the appearance.
+
+### Notes
+
+-   Other Clues...
+    -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
+        -   _(Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)_
 
 ## **Oath: Visionshaper**
 
@@ -192,48 +204,74 @@ Does not grant any special cosmetic based on race.
 
 _"You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength."_
 
-Linkstrider is one of the many oaths that got released with verse 2.
+**Oath: Linkstrider** is one of the many oaths that got released with Verse 2. To obtain skills, you must grip players with **Oaths**.
 
-Obtainment: To obtain Linkstrider, you must get 4 players that have oaths, after doing this, you must head over to [The Entropy Catalyst](The_Entropy_Catalyst.md), after arriving, you must knock all 4 players and put them in a slot (circles in the floor) for each person you put in, the slots will glow and after 4 players sacrificed, a white orb will appear in the middle, once you interact with this orb, you will get the oath Linkstrider.
+### Obtainment
 
-**NOTE: ONCE YOU PUT A KNOCKED PLAYER INSIDE OF THE CIRCLE, THEY WILL DIE AND GET SENT TO THE DEPTHS! (presumed)**
+1.  Get 4 players with Oaths
+2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
+3.  Knock all 4 players
+4.  Put them in the slot
+5.  Interact with the white orb that appears in the middle
 
-**KNOWN ABILITIES:**
+### **Known Abilities**
+
+-   **Symbiotic Link**
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage a non-ally.
+
+### Effects
 
 N/A
 
-File:OathLinkstridernecklace.png
+### **Notes**
 
-A person with Oath: Linkstrider, wearing the oaths necklace, this comes by default once you get the oath
+-   Once you put a knocked player in the slot, they will die and get sent to the Depths _(unconfirmed)._
 
   
 
 ## Oath: Jetstriker
 
-File:Jetstriker.png
+_"You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master"_
 
-Obtained by talking to Alirian at Ministyra, (far past the rouge golem and to the left)
+**Oath: Jetstriker i**s one of the many oaths that got released with Verse 2. To obtain skills, you must find 4 orbs around the map.
 
-Known abilities:
+### Obtainment (presumed)
 
-**Prevailing Westerlies**: Allows you to gain momentum much quicker while running.
+1.  Have 50 agility
+2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) and to the left
 
-**Stratos Step:** While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards
+### Known Abilities
 
-File:Prevailing westerlies.png
+-   **Prevailing Westerlies**
+    -   Allows you to gain momentum much quicker while running.
+    -   +5 Ether, +5 Passive Agility
 
-File:Stratos step.png
-
-  
+-   **Stratos Step**
+    -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards.
+    -   +5 Health, +3 Passive Agility
+-   **Decisive Winds**
+    -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
+    -   +5 Ether
 
 ## Oath: Starkindred
 
-### Known abilities:
+_"You vow to..."_
 
--   **Ascension**  
-    
+**Oath: Starkindred** is one of the many oaths that got released with Verse 2. To obtain it's skills, you must kill 3 Greater Angels around the map.
+
+### Obtainment (presumed)
+
+1.  Have 40 strength
+2.  Talk to Samael, located in the church above the Voidone in Songseeker.
+    1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
+    2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
+3.  Kill Iblis, located above the Startree Voidzone in Starswept Valley.
+4.  Return to Samael to get the Oath.
+
+### Known Abilities
+
+-   **Ascension**
 -   **Celestial Assault**
-
 -   **Sinister Halo**
 
 ## Time Magic(?)
@@ -264,6 +302,7 @@ None.
     
     Proof of Time magic's existence and it being 'oath magic'
     
+-   StarKindred was leaked by NanoProdigy
 -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.

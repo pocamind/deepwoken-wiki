@@ -1,12 +1,36 @@
 ---
 title: Books
-revid: 42792
+revid: 42891
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
 ---
 
 # Books
+
+## Description
+
+Books are new items that are found in the world of Deepwoken that are a seperate category from Loot, Tools, Weapons, etc. They can be obtained by looting the various bookshelves of the world.
+
+So far, all books seem to have the sole purpose of providing additional lore and information regarding Deepwoken's world and history, and as well as levelling **Intelligence.**
+
+## All Currently Known Books
+
+### Archivist Journal: 'Megalodaunt'
+
+> \[by Archivist Caliban Sr.\]
+> 
+> Winter, 521.
+> 
+> Subject C hasn't moved within his enclosure all day. He's resting on the ground, staring intently at the glass surrounding him, for no discernable reason to us. Even for evening supper, he's yet to move an inch; it's quite the blight, as the body's stench has accumulated more over time. He just stares, unmoving. This came as quite a shock to Faris and I, as Subject C usually becomes frenzied when brought near a corpse, yet.. nothing.
+> 
+> Late into the night, Subject A rose from her slumber and released a deafening screech, waking every living being in the facility easily. The shaking floor somehow stirred even Subject C to an upright position, looking attentively toward the alpha. Throughout our weeks studying, the relationship between an alpha megalodaunt and a subordinate megalodaunt has brought many interesting questions into our hands. While not appearing to be reasonably intelligent creatures, they have a strong sense of social hierarchy, and their place in their 'society,' if it could be called that. Subordinate megalodaunts tend to pay close attention to the alpha of their territory, for reasons we cannot understand. Subject A has expressed the impressive ability to bring a creature as lazy as Subject C to his feet, a feat insurmountable to us, meager scholars. As it has been a notably long time since Subject C has eaten, he finally began to motion toward his now hours-old dinner; yet, Subject A had seemed to deny this, taking the meal for herself. Astounding, isn't it? Faris wouldn't even believe me if I told him twice! Once the excitement died down, I returned to slumber.
+> 
+> Today, the realization has hit that we lack additional food for our dear subjects. Last night's meal for Subject C was the last body on-hand; unfortunately, it is winter. Pathfinders tend to be.. shakey, during this time of year. It's more difficult to find gullible, bright-eyed, hopeful ones. During last winter, we prepared a surplus of bodies in preparation for this. This winter, however, we became careless. Too much time spent on experimentation and studying, of course. But, I do not want to end my studies here, and a megalodaunt's appetite is.. marvelous. I'll contemplate my options. I'm determined to see these experiments through to the end.
+> 
+> I'm writing once more, only a few hours past my previous entry. I've prepared a new meal for my subjects. I still need to wash myself first, as I do not want the smell of blood luring them toward myself instead of their meal. Despite this being all I can provide for now, I'm happy to say it will at least satisfy Subject A; she's my primary research target at the moment, after all. Surely, her subordinates will understand. And if not? I've seen _beautifully_ gruesome combat between megalodaunts, almost akin to mankind's scuffles. Truly, a fascinating spectacle to witness.
+> 
+> I fed the last of my food supply to Subject A, dropping the body into the enclosure. As she did last night, she consumed it happily, as the other two subjects watched. I used this opportunity to gain the best look I possibly could muster at the coarse coral along her back. A beautiful, natural weapon, capable of slaughtering hundreds of pathfinders within mere moments. It's ability to launch almost needle-like projectiles at such high speeds is.. beautifully lethal; it mainly occurs when the megalodaunt is under high-stress, as a last-ditch defense mechanism. I fear I may have stared too long though, as the other subordiantes seemed more interested in me then ever before; I made sure to engage in a swift exit. There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? For my own purpose. For your own purpose.
 
 ### Children of the Aftertide I
 
@@ -27,6 +51,30 @@ categories: [Community]
 > _In truth, we do not know for sure what the future holds. Perhaps the world as it is may not exist for very long. Perhaps none are exempt from the fate that befell the city of Celtor, the Great Jewel - but from the shared, traumatic experience of the surviving Celtorian people, rebuilding will be a much easier task if at least a small ember of the past remains burning._
 > 
 > _This is my ember, brought to the altar of time. Never again may we suffer alone, in the dark._
+
+### **Diver Journal, II**
+
+\-Writings of Journeyman Skeli
+
+First of Moonveil, Entry #2. Curse Klaris for sending me to this godforsaken place. This snow sticks like tar and doesnt melt from your warmth... Even knowing this, there was no reason to lose more than a single expedition team.
+
+According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
+
+**<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.>>**
+
+### Eggs In A Basket
+
+\[A popular sailors' song\]
+
+Oh, my dear, you knew so long ago that I'd be leaving soon, And now the day has come at last me to cross the ocean blue.
+
+Weep your little heart out if I don't come say 'goodbye' tomorrow, But if I don't come back at all, then spare yourself from sorrow!
+
+I hope that soon you'll find another, - Though, I pray, don't tell your mother!
+
+I hope that you'll remember me, Although we were not meant to be. Haven't you heard the saying blasted?
+
+I'll tell you, though no one asked it: Do as they say, And don't put all your eggs inside one basket!
 
 ### Operation 'Puppet\_Master' Report
 
@@ -71,36 +119,6 @@ categories: [Community]
 > Perhaps there are those who, in their own perspectives, see the Canticlysm as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
 > 
 > As scholars we must look past our desire to condemn the actions of those who came before us, as though we live through the consequences, they were not privy to the knowledge that is now tacit to our generation. To them, it was a renaissance born from the advent of their greater understanding of the surrounding planes.
-
-### Archivist Journal: 'Megalodaunt'
-
-> \[by Archivist Caliban Sr.\]
-> 
-> Winter, 521.
-> 
-> Subject C hasn't moved within his enclosure all day. He's resting on the ground, staring intently at the glass surrounding him, for no discernable reason to us. Even for evening supper, he's yet to move an inch; it's quite the blight, as the body's stench has accumulated more over time. He just stares, unmoving. This came as quite a shock to Faris and I, as Subject C usually becomes frenzied when brought near a corpse, yet.. nothing.
-> 
-> Late into the night, Subject A rose from her slumber and released a deafening screech, waking every living being in the facility easily. The shaking floor somehow stirred even Subject C to an upright position, looking attentively toward the alpha. Throughout our weeks studying, the relationship between an alpha megalodaunt and a subordinate megalodaunt has brought many interesting questions into our hands. While not appearing to be reasonably intelligent creatures, they have a strong sense of social hierarchy, and their place in their 'society,' if it could be called that. Subordinate megalodaunts tend to pay close attention to the alpha of their territory, for reasons we cannot understand. Subject A has expressed the impressive ability to bring a creature as lazy as Subject C to his feet, a feat insurmountable to us, meager scholars. As it has been a notably long time since Subject C has eaten, he finally began to motion toward his now hours-old dinner; yet, Subject A had seemed to deny this, taking the meal for herself. Astounding, isn't it? Faris wouldn't even believe me if I told him twice! Once the excitement died down, I returned to slumber.
-> 
-> Today, the realization has hit that we lack additional food for our dear subjects. Last night's meal for Subject C was the last body on-hand; unfortunately, it is winter. Pathfinders tend to be.. shakey, during this time of year. It's more difficult to find gullible, bright-eyed, hopeful ones. During last winter, we prepared a surplus of bodies in preparation for this. This winter, however, we became careless. Too much time spent on experimentation and studying, of course. But, I do not want to end my studies here, and a megalodaunt's appetite is.. marvelous. I'll contemplate my options. I'm determined to see these experiments through to the end.
-> 
-> I'm writing once more, only a few hours past my previous entry. I've prepared a new meal for my subjects. I still need to wash myself first, as I do not want the smell of blood luring them toward myself instead of their meal. Despite this being all I can provide for now, I'm happy to say it will at least satisfy Subject A; she's my primary research target at the moment, after all. Surely, her subordinates will understand. And if not? I've seen _beautifully_ gruesome combat between megalodaunts, almost akin to mankind's scuffles. Truly, a fascinating spectacle to witness.
-> 
-> I fed the last of my food supply to Subject A, dropping the body into the enclosure. As she did last night, she consumed it happily, as the other two subjects watched. I used this opportunity to gain the best look I possibly could muster at the coarse coral along her back. A beautiful, natural weapon, capable of slaughtering hundreds of pathfinders within mere moments. It's ability to launch almost needle-like projectiles at such high speeds is.. beautifully lethal; it mainly occurs when the megalodaunt is under high-stress, as a last-ditch defense mechanism. I fear I may have stared too long though, as the other subordiantes seemed more interested in me then ever before; I made sure to engage in a swift exit. There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? For my own purpose. For your own purpose.
-
-### Eggs In A Basket
-
-> \[A popular sailors' song\]
-> 
-> Oh, my dear, you knew so long ago that I'd be leaving soon, And now the day has come at last me to cross the ocean blue.
-> 
-> Weep your little heart out if I don't come say 'goodbye' tomorrow, But if I don't come back at all, then spare yourself from sorrow!
-> 
-> I hope that soon you'll find another, - Though, I pray, don't tell your mother!
-> 
-> I hope that you'll remember me, Although we were not meant to be. Haven't you heard the saying blasted?
-> 
-> I'll tell you, though no one asked it: Do as they say, And don't put all your eggs inside one basket!
 
 ### The Ferryman's Lullaby
 
@@ -187,6 +205,50 @@ categories: [Community]
 > We're workers of Summer Company, We work for the Summer Company...
 > 
 > -   From the description of Summer Company music on Naktigonis' YouTube channel.
+
+### Stars Above, and the Blade between
+
+> Stars scatter across the sky on this night. I've watched the same scenery time and time again, but for just this once I felt particularly uneased. "Truly, is this what must be done for our people? For Etrea?" I mumble to myself, clutching my blade in hand. "Every star has a story," I remember my old companion told me upon nights similar to these. Her words echo through my head as I gaze upon this sky, although it is not the same. Upon this field, I sit without her now, as grass waves across the field with the night-touched wind. "You're too sentimental, Rali," I'd often reply to her, unamused by those fairy tales. After all this time though, I suppose she was right.
+> 
+> The stars above speak more to me now than ever before, and for each gleaming light in the sky, I know there must be a being above, watching us. An audience I'll never see, but cherish nonetheless.
+> 
+> "Tavi!" A man calls out to me, though I am too entranced to notice at first. "Tavi! Tavi Ytreshi! Wake up! Sire?" He calls out once more, and I'm shaken out of my trance abruptly. I look over to the voice, and recognize A'ras.
+> 
+> "Huh? What do you need at this hour, A'ras? The stars are already out." I reply, looking up at him with a confused expression. The man flashes a wide grin, evidently he had just finished some sort of mischievous activity. "The kind requires us. One last meeting, I promise. Then, we're off to bed for the voyage tomorrow," A'ras said in a cheerful tone. I still cannot understand how a man of such renown can remain so carefree, despite the battles he's fought.
+> 
+> A'ras looks over to my hand, eying it carefully. "Quite a blade there, Tavi. What could you be doing with a weapon in such a serene place?" He chuckles as he gestures toward the Queensblade. "...Just appreciating fine craftsmanship, is all. You needn't worry about such frivolities." I quickly reply, although too quickly to a fault, perhaps. I don't want to raise suspicion, especially tonight of all nights.
+> 
+> A'ras shrugs, chuckling. "How charming. Now then, enougn niceties, we have a meeting to attend... at this dreadfull hour." He pulls me up off the grass, though I struggle to gather my balance for a moment. "S'pose I've sat here for a while." I mumble to myself, standing up on my feet. "Let's get going then." A'ras spoke hastily, dragging me along to the royal palace.
+> 
+> Dimly lit candles strech across the halls of the Etrean palace, I observe as my fellow attendants walk toward the throne room, each man's armor clanking with each step. The carpet below my feet must be more expensive than my life's worth, so much so I almost feel bad for dirtying it with my soil-tainted boots. As we continue through the hall, servants quickly scramble to clean the mess our footprints left behind. "It's a shame this is the life they're destined to live," one of my fellow attendants discusses amidst our group. Destiny, they say... only a fool would consider their life already foretold. I glance at my 'ally', and contain a chuckle quiet enough to myself.
+> 
+> Four of us, myself included, will be entrusted to protecting the king upon this royal voyage tomorrow. Our destination is Markor, one of the largest islands of the Central Luminant. "The king has politics to deal with," is the simplified version of what we've been told. The details are not meant for us lowly guards, the last thing they want is us forming our own opinions on the matter. A loud knock echoes throughout the halls, as we reach the door to the throne room. "Men, here's to a quick meeting. Pray," A'ras jests, before opening the door to the royal chamber.
+> 
+> A large chandelier hangs overhead above the King of Etrea, surrounded by paintings depicting events of our history, and a large window overhead the throne. Royal palace guards line the walls in an orderly fashion, evidently a formation in the king's tastes.
+> 
+> "So the Four Braves finally arrive," the king muses. I lower my head, and kneel. The rest of my men follow. "Your highness, what requires our presence at such an hour?" A'ras asks politely, lowering his head as he finishes his sentence. The king laughs, amused by the question as if it was obvious. It's not. "Oh, my boy, I simply wanted to ensure you're all still living for our arrangement tomorrow! At dawn, we depart for Markor. Red prepared us a breauty of a vessel... the Brave Hoshi, she calls it! What a lovely name!" He lets out a hearty laugh, the likes of which make me sick to my stomach. How can a man so foul appear so calm? Does he not have any regrets for what he's done? I feel myself gripping my knee in frustration, before catching myself and exhaling. Calm.
+> 
+> I need to remain calm for what lies ahead. "Your highness," I begin to inquire, "Are there private quarters on the ship for our voyage? It shall be a long week, I hope we may sleep soundly upon the harsh waves of Markor waters." THe king nods with a dumbfounded look on his face, as if it were obvious. "Of course, my boy! Each attendant shall have their own quarters to rest in for when the day is done. You're my only four passengers, after all, you shall live as my guests, in addition to my protectors." I nod. "Thank you, my lord."
+> 
+> Private quarters at night shall make this much easier. The others will be asleep when the time comes. Rali, please watch over me for that night, as I'll ensure your people are remembered by the stars above, the witness to my legacy to be. For the corruption in this king lies unknown to the people of Etrea, I know the truth. Legacy, they say. Legacy... I'll make you remembered.
+> 
+> The meeting comes to an uneventful, short end, as the king becomes tired. It must be truly hard work sitting on a throne and ordering the slaughter of my people, my loved ones. As the other Braves mingle on their way out, I retreat to my chambers hastily, as I have a more important meeting to attend to tonight. Bephalos has some final words for me, "On the night of the last star," is what he told me. I can only assume that means 'right now,' as there won't be stars in our sky for days. I enter my chambers and slam the door shut, locking it behind me. The shadowcaster appears, to no fanfare or grandeur.
+> 
+> "Tavi, you look anxious, friend. Tell me, what is the matter?" Bephalos inquires, as his spell fades. "Surely, you've aware of the procedure tomorrow?" he adds on. "I'm aware, Bephalos. And yes, the blade, I know..." I reply, looking toward the Queensblade with my hand. He's emphasized to me before that this must be the blade to end it, although the reasoning is unclear to me. Perhaps it's some sort of ancient seal? I trust in him, nonetheless. "Very good, Tavi. The day of your revenge is finally dawning upon you. How does it feel? Rali will surely rest better in her tomb, knowing her murderer shall fall with her." The shadowcaster muses, sneering toward me. I grip the blade tightly, then release as I sigh. "...I'd appreciate it if you avoided using her name in such ways. I am doing this for her, but that does not mean I'll allow you to disrespect her, fiend." I glare at the man, staring into his vacant purple eyes. Empty, unshaken by my words.
+> 
+> "Oh, so scary! Let's not make enemies with the ally that has granted you such an opportunity now, hm? It's taken me great efforts to procure this blade for you, you know. Without it, the king would surely return!" The man responds hastily, irritated most likely. "Fine." I reply, calming myself down. Tomorrow is the day... "I want to rest, Bephalos. What do you require of me?" I ask, sitting down on my desk chair as I look up at the shadowcaster. "I simply need to leave one last touch, is all. Quality assurance is one way to put it." He laughs, and I stare blankly. "Very well. Go ahead." The shadowcaster takes the blade and focuses on it intensely. Shadows emit from it briefly, although I'm not knowledgeable on why. Shadowcast is a very rare sight in Etrea, and the know-how of such topics is restricted to only the most elite of scholars to prevent misuse, so I've been told.
+> 
+> Although, I've been told a great many deal of things that carry merit no more, as Bephalos has told me the truths of this kingdom. "That is all, then. Rest well, Tavi. You'll need it." Bephalos smiles cheekily as he retreats to the window, before becoming a shade and fading. I look down to the Queensblade once more, listening to it idly hum. "So this is the fate we're making, Rali..." I ponder to myself, placing it on the desk. Without further delay, I retreat to my bedsheets.
+> 
+> The morning of the fated day has come. Bright and early, boarding the 'Brave Hoshi', so the king says. "Here, here!" A'ras calls out to me from the dock, more excited than he should be. I wave, and approach him. "Take a look at that, Tavi! I've never seen a grander vessel in my life!" He exclaims, pushing me along onto the ship. "Aye, let me take my time, friend." I reply, trying to scope out the surroundings of the 'Brave Hoshi'. I stand upon the central deck, looking around. "Large main deck... private chambers that way... a kitchen of some sort the other way... and..." I mumble to myself, looking around the ship carefully. It seems my best option remains to be confronting the king within his private chambers, lest the others take notice of what's happening.
+> 
+> A large hand smacks my shoulder, and as I jump from the startle. "My boy! Isn't it beautiful?" The king speaks, towering over me. "Aye, it is, my lord. Indeed, it is." I sneer, looking off to the chambers. "Say, my lord, which one of these are we occupying? There's seven chambers here, four for us Braves, one for you, one for the chef, and one for the captain.. How do we know which is which?" I ask politely, ensuring I mantain composure.
+> 
+> The king walks over to the chambers, and proudly knocks on a large wooden door, taller than the rest. "This here would be mine! If any matters or problems arise, please come see me, no matter the time. You are a part of the Braves, after all." He laughs. "Noted, my lord." I reply, staring at the door intently. How convenient.
+> 
+> We depart from the Etris docks, to a celebrated fanfare. Many Etrean citizens gather around and wave and cheer as we depart, wishing the king a safe journey. As our home fades from the sight of all of us onboard, I'm reminded once more of our city, and what the king has taken from it. Yet they cheer him on... blissfully unaware. Unaware and controlled, all of his people. Bephalos' truth echoes throughout my head as I sit upon the deck, watching the waves of the Etrean waters roll by whilst the day passes. I wait patiently for the arrival of the Voidsea. "This, this is when you strike," Bephalos instructed me during one of our initial meetings. The search for the lighthouse takes priority for all crew members, and for the others it is a time for rest. But for me, it is when the final hour begins.
+> 
+> Upon the arrival of the Voidsea waters, the others become busy or fatigued. I've remained in my place throughout the entire first day of our voyage, watching the waves. I look up at the sky, and just as was foretold, no stars are to be seen.
 
 ### Tale of the Storm
 
@@ -579,13 +641,3 @@ Shoulder to shoulder, together, tall!
 "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272. Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 
 > * * *
-
-### **Diver Journal, II**
-
-\-Writings of Journeyman Skeli
-
-First of Moonveil, Entry #2. Curse Klaris for sending me to this godforsaken place. This snow sticks like tar and doesnt melt from your warmth... Even knowing this, there was no reason to lose more than a single expedition team.
-
-According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
-
-**<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.>>**

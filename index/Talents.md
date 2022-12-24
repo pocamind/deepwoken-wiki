@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42737
+revid: 42907
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -415,6 +415,11 @@ These Talents are mainly aimed at making assassination much more potent, especia
     -   Prerequisites: Shadow Eruption
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity, +1 Health)
 
+### Dawnwalker
+
+-   Absolute Radiance \[Common Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+3 Health)
+-   Protagonist Syndrome \[Common Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
+
 ### Death Speaker
 
 -   Blackhole \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity, +3 Health)
@@ -515,9 +520,13 @@ These Talents are meant to improve your overall combat effectiveness.
     -   These effects do not activate in [The Depths](The_Depths.md).
     -   Mutual Exclusive: Conditioned Runner
 
+### Flame Brawler
+
+-   Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] - Ignite flames on an enemy when you uppercut them. (+4 Elemental Intensity)
+
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Stacks with Chitin, but is slightly reduced, resulting in 13% instead of the expected 15%.
     -   Natural Armors can be affected by PEN but 25% as effective against it.
     -   Prerequisite: 40 Fortitude.
@@ -658,7 +667,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
     -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
     -   Prerequisite: 30 Intelligence (works with Warrior's Respite)
--   Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot, +20 Reservoir)
+-   Neuroplasticity \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 7% to 5.4%, for tier 2 - from 14% to 11.2%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
     -   Requirements : 35 Willpower/ 35 Intelligence/ 35 Charisma. (As confirmed by arch\_mage.) Only one of the three is required, not all three
@@ -746,17 +755,18 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   Prerequisites: 40 Flamecharm
--   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
-    -   Reduces the damage taken from your flames done to you by 50%
-    -   Prerequisites: Agitating Spark
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
     -   Prerequisites: Corpse Explosion
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
     -   Prerequisites: 1 Flamecharm, 15 Willpower, 15 Charisma
+
+### Jetstriker
+
+-   Decisive Winds \[Common Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
+-   Prevailing Westerlies \[Common Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Ether, +5 Passive Agility)
+-   Stratos Step \[Common Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
 
 ### Javelin Lord
 
@@ -784,11 +794,16 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Immolator
 
--   Phoenix Flames \[Flamecharm Exclusive, Legendary Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+4 Health, +2 Elemental Intensity)
-    -   If Phoenix Flame is activated by the use of Flame Within, the healing is reduced to 25% instead.
-    -   Prerequisites: 60 Flamecharm, 40 Willpower, Immolation
--   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity)
+-   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
+    -   Prerequisites: 40 Flamecharm
+-   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity, +2 Elemental Intensity)
     -   Prerequisite: Agitating Spark and 20 Willpower
+-   Phoenix Flames \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+2 Elemental Intensity)
+    -   If Phoenix Flame is activated by the use of Flame Within, the healing is reduced to 25% instead.
+    -   Prerequisites: All Immolator talents
+-   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
+    -   Reduces the damage taken from your flames done to you by 50%
+    -   Prerequisites: Agitating Spark
 
 ### Innate (Racial Talents)
 
@@ -800,6 +815,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
+-   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
     -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
@@ -811,6 +827,8 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   Passive insanity gain from The Depths is reduced.
+-   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes.
+    -   Tirans gain Feathered Glider with infinite durability.
 
 -   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
     -   Buffs HP regen of one person they choose around them as long as they are at a campfire or power 5+.
@@ -996,6 +1014,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
     -   Prerequisite: 40 willpower, 25 strength, Murmur: Ardour
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
+-   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
 
 ### Natural Armor
 
@@ -1020,13 +1039,18 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### [Oath](Oaths.md)
 
+-   Oath: Arcwarder - Weld the armor of the Ignition Union's most notable dwellers.
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Power 30 - Power 39
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold (Requires all 5 Mental Fortress cards).
         -   You can only take one Oath per Character.
+-   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
 -   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring Dark Feather to Surge
+-   Oath: Linkstrider - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+-   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
+-   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
 
 ### Omniscient
 
@@ -1105,6 +1129,10 @@ These Talents are meant to be used in an aggressive playstyle.
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Increases Boat speed more drastically when your sail is facing in the right direction of the wind.
+
+### Seeker of Sound
+
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut reduces its cost.
 
 ### Self-Shocker
 

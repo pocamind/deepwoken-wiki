@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 42827
+revid: 42889
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,6 +22,8 @@ categories: [Pages with broken file links]
 
 **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.6x modifier to **Echo** gain.
 
+**Echo Upgrades** ARE not account-wide, so spend wisely!
+
 ### Ways of Obtaining Echoes
 
 -   Gaining Power, awarding (???) Echo per Power Level.
@@ -30,6 +32,8 @@ categories: [Pages with broken file links]
 -   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
 -   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
 -   Defeating the [Dread Serpent](Dread_Serpent.md), awarding 5 Echoes.
+-   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
+-   Soulbounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 
 ## Upgrades and Modifiers
 
@@ -54,7 +58,7 @@ categories: [Pages with broken file links]
 </tr>
 <tr>
   <td><center><b>Mob Damage</b></center></td>
-  <td><center>This upgrade gives increased damage against mobs.</center></td>
+  <td><center>This upgrade gives +2% increased damage against mobs.</center></td>
   <td><center><b>50 Echoes</b></center></td>
 </tr>
 <tr>
