@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 43174
+revid: 43313
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 ## Description
 
-Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Curiously Gigameds can only give passable strength XP. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
+Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they rapdily emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Curiously Gigameds can only give passable strength XP. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
 
 ## **Attacks**
 
@@ -26,12 +26,13 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
 
 -   **Suck** - Floats over you and drives itself into your body, consuming you. This unfortunately is a very fast gripping animation, which is not to be underestimated.
 
-## Notes/Trivia
+## Trivia
 
 -   Easiest mob to kill in the Depths (Stat Check Level: Any).
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
+-   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
     
 
 **King Gigamed:**

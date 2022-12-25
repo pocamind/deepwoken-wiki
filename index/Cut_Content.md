@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 42970
+revid: 43324
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -13,8 +13,7 @@ notices:
 ## Locations
 
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
--   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially. Mob spawns changed but was added back in Verse 2
--   **Miner's Landing -** Teased in the Deepwoken Leak Document before release, but never actually added due to being 'useless.' Added back in Verse 2
+-   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derived from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially. Though [Meteor Isle](Meteor_Isle.md) returned, many of the core mechanics are gone.
 -   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.

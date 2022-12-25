@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 43173
+revid: 43320
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -175,6 +175,10 @@ One in the [Hidden Village](The_Hidden_Village.md).
 #### **Megalodaunt on a ship**
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel seas](The_Aratel_Sea.md), feasting on a Etrean naval guard corpse, Upon killing the Monster, A Chest will spawn in the ship with mid tier loot.
+
+#### Traveling Merchant
+
+A light-blue Merchant Schooner can spawn in the seas _(recently discovered in [Aratel](The_Aratel_Sea.md))_, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more.
 
 #### **Divers vs Monster**
 

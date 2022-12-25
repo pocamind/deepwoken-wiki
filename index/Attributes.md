@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 42755
+revid: 43317
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -36,8 +36,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   For every 10 Points of strength, gain 1% penetration.
 -   Some weapons, such as greatswords, require a Strength requirement to wield.
 -   Unlocks strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
--   Gain strength EXP via cutting down trees, dealing damage, parrying, or blocking.
-    -   It takes around 34 pumps to upgrade strength one time with a dumbbell.
+-   Gain strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking past the hidden door, climbing under the coffin, and reading the book on the floor
 
 ### Fortitude
@@ -46,7 +45,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Defensive equipment, such as shields and helmets, may have a fortitude requirement to wield.
 -   Unlocks fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
--   Gain fortitude EXP via taking damage.
+-   Gain fortitude EXP via taking damage and using the Boulder.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md) and letting him beat you up.
 
 ### Agility

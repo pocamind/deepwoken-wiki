@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 43111
+revid: 43285
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,8 +43,15 @@ _Pros/Cons_
 
 _Benefits/Penalties_
 
+-   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality
+-   **(PENALTY)** You can only do this a certain amount of times, as it costs 5 knowledge
+
   
 _Pros/Cons_
+
+-   If you change your mind about your build, you can switch around your traits
+-   You can only add a point to a trait that **isn't maxed**
+-   It costs a lot of knowledge, meaning you might not be able to change your mind once you've done the transfer
 
 ### Shrine of Chance
 

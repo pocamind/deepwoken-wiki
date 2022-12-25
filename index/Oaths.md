@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43273
+revid: 43308
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Blindseer | |
 |---|---|
-| oath_req | Willpower 405 Mental Fortress Talents |
+| oath_req | 40 Willpower, 5 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +10 Sanity |
 
 | Oath: Visionshaper | |
@@ -41,7 +41,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 | Oath: Arcwarder | |
 |---|---|
 | oath_req | 50 Fortitude, 20 Flamecharm, 20 Thundercall, Complete Alpha's Quest |
-| effects | ? |
+| effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
 |---|---|
@@ -227,7 +227,10 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 ### **Known Abilities**
 
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally.
+
+Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
+
+-   **Gate** You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
 
 ### Effects
 
@@ -289,17 +292,16 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 ### Obtainment (presumed)
 
 1.  Have 50 strength
-2.  Kill a player that is the same race as you.
     
     File:RobloxScreenShot20221224 161647151.png
     
     Example of what Samael will say if you do not meet the requriements. Otherwise, he will call you a cocoon, and you can further talk to him about obtaining the oath.
     
-3.  Talk to Samael, located in the church above the Voidzone in Songseeker.
+2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
-4.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP, TESTED!), located above the Startree Voidzone in Starswept Valley.
-5.  Return to Samael to get the Oath.
+3.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP, TESTED!), located above the Startree Voidzone in Starswept Valley.
+4.  Return to Samael to get the Oath.
 
 ### Known Abilities
 
@@ -330,6 +332,11 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
     4.  Retrieve injured Elphis
     5.  Talk to Alpha again
 3.  Return to surface and talk to Delta at Ignition Union Base
+    
+    File:Arcwarder transform.gif
+    
+    Transforming Arcwarder
+    
 
 ### Known Abilities
 
@@ -347,6 +354,10 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
     -   +10 Ether
 -   **Arc Module: Dash - Passive**
     -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
+    -   +10 Ether
+
+-   **Arc Module: Null - Passive**
+    -   When your Arc Suit is active outgoing and incoming enchant effects are nullified.
     -   +10 Ether
 
 ### Effects

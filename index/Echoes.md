@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 43187
+revid: 43294
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,7 +53,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 </tr>
 <tr>
   <td><center><b>Mob Armor</b></center></td>
-  <td><center>This upgrade gives damage reduction against mobs.</center></td>
+  <td><center>This upgrade gives +2% damage reduction against mobs.</center></td>
   <td><center><b>50 Echoes</b></center></td>
 </tr>
 <tr>

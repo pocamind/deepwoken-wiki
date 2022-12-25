@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 42932
+revid: 43281
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -14,7 +14,7 @@ Template:Location2
 
 ## Overview
 
-Layer 1 also called Scyphozia is the first layer of The Depths. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [Layer 2.](Second_Layer.md)
+Layer 1 also called Scyphozia is the first layer of The Depths. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena, dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [Layer 2.](Second_Layer.md)
 
 ## **Points of Interest**
 
