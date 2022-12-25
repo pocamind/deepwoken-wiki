@@ -1,8 +1,9 @@
 ---
 title: Echoes
-revid: 43294
+revid: 43457
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Echoes, Character, Mechanics]
 ---
 
 # Echoes
@@ -34,6 +35,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 -   Defeating [Duke Erisia](Duke_Ishamon_Erisia.md), awarding 5 Echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Soulbounding a [Enchant](Enchantments.md), awarding 5 Echoes.
+-   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes.
 
 ## Upgrades and Modifiers
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 43262
+revid: 43355
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -170,7 +170,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Procs on flourish</p></div></td>
+  <td><div><p>Unknown&nbsp;% chance to add an unknown effect every hit.</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>

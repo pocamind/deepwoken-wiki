@@ -1,9 +1,9 @@
 ---
 title: Kyrsglaive
-revid: 43054
+revid: 43453
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items, Weaponry, Spears]
+categories: [Weapons, Pages with broken file links, Items, Weaponry, Spears]
 ---
 
 # Kyrsglaive
@@ -24,6 +24,8 @@ categories: [Weapons, Items, Weaponry, Spears]
 | pass down | Yes |
 | obtainment | Second Layer |
 | description | ... |
+
+File:Imagewwww.png
 
 ## Description
 

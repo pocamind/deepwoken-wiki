@@ -1,9 +1,9 @@
 ---
 title: Iron Blunderbuss
-revid: 42925
+revid: 43406
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links]
+categories: [Weapons, Pages with broken file links, Rifles]
 ---
 
 # Iron Blunderbuss

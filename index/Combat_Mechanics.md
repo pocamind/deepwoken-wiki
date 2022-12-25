@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 41875
+revid: 43350
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -54,18 +54,18 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>Reservoir</th>
-  <td>A bar that contains unusable Ether. This bar will regenerate the player's Ether over time, depleting the Reservoir.
+  <th>Tempo</th>
+  <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle.
   <ul>
-    <li>Whenever the Ether bar is not full, it will draw from the Reservoir to fill itself.</li>
-    <li>Reservoir regenerate passively, albeit very slowly. It quickly regenerates when sitting a campfire.</li>
-  </ul><figure><figcaption></figcaption></figure></td>
+    <li>Tempo decreases over time when not in active combat.</li>
+    <li>When at the max tempo you can vent to break out of combos.</li>
+  </ul></td>
 </tr>
 <tr>
   <th>Armor Durability</th>
   <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and the buffs will disappear.
   <ul>
-    <li>Armour can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
+    <li>Armor can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

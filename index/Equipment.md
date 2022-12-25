@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 42603
+revid: 43470
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1625,6 +1625,17 @@ Reduces your flourish count by 1
 **Requires Power 40**
 
  | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests, Pure Ore Chests |
+|  | 
+
+Poser's Ring
+
+ | 
+
+Damage done with a Katana isn't received until the user sheathes their weapon.
+
+(Makes your M1s with a Katana deal no damage, stacking all of it until you put away your weapon.)
+
+ | Quest started at Zana, located at Vigils Docks |
 
   
 

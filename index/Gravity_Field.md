@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 42557
+revid: 43434
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -30,10 +30,6 @@ A transparent hemisphere that has a purple edging and a purple circle. The hemis
 ## Usage
 
 Pressing C will activate **Gravity Field** Resonance.
-
-## Corrupted
-
-Corrupted variation of resonance.
 
 ## Description
 

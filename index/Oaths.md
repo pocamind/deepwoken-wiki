@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43308
+revid: 43442
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 15-18 |
+| oath_req | No Power Req |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -66,11 +66,17 @@ Pathfinder doesnt count as an Oath and is merely an indicator of your lack of Oa
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 15 and no Oath to obtain in card rolls.
+**Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
 ### Obtainment
 
-Oathless must be selected when draw from the hand of cards when powering up. It will always appear from power 15 to 18 if the player has no oath.(Arch mage mentioned that oathless will become a quest talent)
+To start the Oathless quest, head to the main dock at the ignition/miners island and go right. Through a log is a cave, talk to the person in there, they'll tell you to go to their three disciples (in no specific order).
+
+-   One is at Fort Merit, in a house
+-   One is at a small village by a meteor field on Hive
+-   One is in a lone house on Summers
+
+After talking to all three of their disciples, return to the person in the cave and talk to them to receive Oathless.
 
 ### Effects
 
@@ -227,14 +233,14 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 ### **Known Abilities**
 
 -   **Symbiotic Link**
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally.
 
-Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
-
--   **Gate** You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
+-   **Gate**
+    -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
 
 ### Effects
 
-This Oath grants two Support Mantra slots and one Willdcard Mantra slot.
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ### **Notes**
 
@@ -291,7 +297,7 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 
 ### Obtainment (presumed)
 
-1.  Have 50 strength
+1.  Have 50 strength, grip one player of any race
     
     File:RobloxScreenShot20221224 161647151.png
     
@@ -320,7 +326,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 _"Weld the armor of the Ignition Union's most notable dwellers."_
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) about 5 times.
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) about 5-6 times.
 
 ### Obtainment (presumed)
 
@@ -384,19 +390,15 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 
 ### Known Abilities
 
--   **Blinding Dawn ★★★- Combat Mantra**
-    -   "Spin rapidly to unleash powerful rays of light"
-
-File:Blinding dawn.gif
+-   **Blinding Dawn ★★★ - Combat Mantra**
+    -   Spin rapidly to unleash powerful rays of light.
 
 -   **Radiant Kick ★★★ - Combat Mantra**
-    -   "Kick your foes at the speed of light"
+    -   Kick your foes at the speed of light.
 -   **Protagonist Syndrome - Passive**
-    -   The grasp of shadow is meaningless in the face of your blinding light. Your Lifeweave mantras are empowered after being hit by Shadowcast.
-    -   +5 Health
+    -   The grasp of shadow is meaningless in the face of your blinding light. Your Lifeweave mantras are empowered after being hit by Shadowcast. (+5 Health)
 -   **Absolute Radiance - Passive**
-    -   Dealing damage with Lifeweave mantras briefly makes you immune to all elemental effects for a short period.
-    -   +5 Health
+    -   Dealing damage with Lifeweave mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
 
 ### Effects
 

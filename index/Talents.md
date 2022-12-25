@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43145
+revid: 43358
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -210,7 +210,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-    -   Prerequisite: 100 Fortitude, 100 Willpower, Perseverance
+    -   Prerequisite: 90 Fortitude, 90 Willpower, Perseverance
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
@@ -1327,9 +1327,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Cancelled by pressing \[R\] again.
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
--   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
+-   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
     -   Can take enchants despite them being un-droppable upon death.
-    -   Prerequisites: 35 Charisma, 10 Agility, Master Thief
+    -   Prerequisites: 35 Charisma?, 10 Agility?, Master Thief?
 
 ### Thunder Brawler
 

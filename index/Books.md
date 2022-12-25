@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43271
+revid: 43395
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -13,6 +13,12 @@ categories: [Community]
 Books are new items that are found in the world of Deepwoken that are a seperate category from Loot, Tools, Weapons, etc. They can be obtained by looting the various bookshelves of the world, or as a guaranteed item sold at a Traveling Merchant's ship.
 
 So far, all books seem to have the sole purpose of providing additional lore and information regarding Deepwoken's world and history, and as well as levelling **Intelligence.**
+
+## tips on adding books
+
+to make it easier for you to put the book pages in here i recommend using text to image converter and using gyazo to take prints of it.
+
+site: [https://www.imagetotext.info](https://www.imagetotext.info)
 
 ## All Currently Known Books
 
@@ -62,6 +68,50 @@ According to the locals one of our own has occupied the tower above. It has to b
 
 **<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.**
 
+### **Lumen's Folklore: Volume 'Attunement'**
+
+_A completion of text by the Scholars of the Citadel_
+
+Ever present throughout our day-to-day lives is not only the Song itself, but its gift to humanity: the ability to posses attunement. Even for those who do not seek adventure or lack an attunement of their own, it's impossible to exit within Lumen without encountering it, even though the most mundane of means. One such example the Scholars like to discuss when teaching attunement is the meal dilemma. If you happen to live within a large city or settlement, such as Etris, for example, you've likely had a well-cooked, delicious meal before. A large number of these meals are masterfully cooked by expert Flamecharmers, who focus their craft not on violence, but the creation of delicacy.
+
+Applications such as there are some of the most impactful uses of attunement within our daily lives, and should not be underestimated.
+
+While cooking is the most common usage of Flamecharm within daily life, its use extends far past that as well. Engineering discoveries are made everyday by groups such as the Summer Company and the Ignition Union, who are often the pioneers of technology to enhance our daily life. Recently, the Scholars of the Citadel were informed of a new innovation developed by the summer company, a system to heat their castle within Summer Isle during harsh winters. Through the castle, an elaborate system of pipes and vents stretching through unseen corners all connect to their basement, in which a large furnace powers heat through the castle.
+
+But, as we all know, a furnace cannot run itself. Behind the masquerade of such a marvel is the work of expert Flamecharmers powering it, ensuring its flame stays forevermore, and does not end in disaster. Without such innovation by Flamecharmers, it's suffice to say that even our very livelihood during winters would be threatened.
+
+But, cooking and heat are not the only a applications of Flamecharm. One of the most beneficial uses see within society is the master smithing of Flamecharmers. The ability to temper blades relies on perseverance, focus, and most importantly, flame. Flamecharmers are said to work in tandem with Ironsingers, combining their expertise to make mastercrafts any lord or knight would desire. The blades of the Vigils, for example, are created via the careful heating of Ironsing metals, shaping and tempering them with the perfect amount of heat.
+
+(There are like 12 pages of this, i dont have time to write it. I can send screenshots of the whole book if someone wants to finish it,)
+
+### **Lumen's Folklore: Volume 'North'**
+
+_A compilation of tales by the Scholars of Citadel_
+
+﻿ Before the rising of the tides, the world of Lumen had been whole, five large continents all within the same sea. Though, it was not a perfect world, still filled with strife as it continues to be today. What we know now as 'Luminants', were simply parts of this larger continent, The Old World, the heart of Lumen. One particular region of the Old World that has puzzled scholars and stewards alike for generations is the folklore of Northern Lumen.
+
+Northern Lumen, now known today as the Northern Luminant, had been an inhospitable region for countless moons. The harsh winters were far too demanding for any human to survive in, making it effectively an unexplored wasteland for all of the races of Lumen. However, those brave enough to venture and pioneer discoveries of the North soon came across a discovery that transformed Lumen's view of the north. The north was not devoid of life at all, in fact, it was home to what we now know as the Elder Edenkite.
+
+The Elder Edenkite were immortal beings of great intelligence, perhaps far surpassing our own. These massive, flying wyrms would reside with the peaks of the north, taking flight throughout the region. Some scholars say they'd see large birds within the sky upon their first expeditions to explore the unknown north.. But indeed, it was no bird at all. Our peoples' initial attempt to communicate with the Edenkite were great failures; they had all resulted in the higher beings flying away unto their clouds. But, one scholar by the name of 'Hyvahn' had discovered a method to commune with them. A ritual, appropriately named 'The Wyrm's Communion', would be sufficient in gathering their attention to descend upon the peaks and discuss with us mere mortals. The ritual had been simple in nature, but difficult to procure the materials needed: the true umbral deep beneath our surface for it's unavoidable stench, the ambient ether to channel within at least four schools of attunement, and a master ether manipulator, the likes of which could focus the ether of the students within the true umbral. As the first Communion commenced, these scholars became the very first humans to have 'First Contact'.
+
+However, the Elder Edenkite were keenly aware of their circumstance. Communing with humanity would be a great risk, one that endangered their ability to exist as a species. And thus, they retreated to the one place where they hoped to never be found, or at least, that was their goal until the Canticlysm. Indeed, as the peoples of our world prospered, they no longer would deny the opportunity to commune, but still took great precautions. This first Communion was a risk, and the Edenkite had placed great trust in humanity to engage in it.
+
+Throughout the years, scholars and pilgrims alike would attempt to commune with the Elder Edenkite further, seeking advice and information from their vast wisdom. The Elder Edenkite would often give anecdotes of the world before the rise of civilization, and offer their thoughts in ways hard to decipher for us humans. Riddles upon riddles, various scholars would spend countless hours deciphering the meaning of these pieces of advice to solve strife within their nations, the old Scholars of the Citadel themselves had created an entire department dedicated to riddles purely to understand the Edenkite. But.. as we know, the Canticlysm did not last forever.
+
+Upon the sunsetting of the Canticlysm, and the rising of the Tides, one scholar had decided to take his own initiative. Though his name is now lost to time, branded as a heretic, this figure soon became known as 'the Mad Steward'. The Steward had taken his own pilgrimage to the north, ready to question the Edenkite on his own accord, perhaps believing that they were somehow responsible for the Tides. As the Steward made communion with one Elder Edenkite, he asked quite plainly, "How do we stop the rising of the tides, the corruption of our sea?" The Edenkite had answered simply, "The rise and fall of humanity is inevitable. To deny it, to fight against it, is to fight against the force attempting to free you from your mortal shackles. The end of a life is a gift, lest you wish to suffer eternally."
+
+The Steward had frozen in place, shaken to the core by this answer. Had the Edenkite forsaken us? Were they perhaps responsible, given that response? The Steward, greatly upsetted by the answer, replied, "All of that wisdom, and you cannot solve our greatest problem." Then, the final straw had broke. Atop the frigid peak of the North, the Steward drew his blade, and approached the Edenkite with contempt. "Then I shall take it, and solve it myself." Utilizing Ardour, the only known Murmur capable of wounding such a being, he took his stance.
+
+On that fateful day, the Elder Edenkite had experienced their first loss. There were now eight remaining. After beheading the serpent, which did not resist, the large higher being crashed downward into the mountains, falling upon a large cliff that would impale through the large being, forming an eternal monument where its corpse lies impaled there to this day. Despite the great sin the Steward committed, he was determined to see through his word. He descended to the spire it had crashed upon, grotesquely slashing through to its heart. There, he devoured it, in hopes of obtaining its wisdom, to put an end to the rising tides.
+
+But, wisdom isn't what it seems. The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. The being was only a shallow imitation of the holy glory of the Edenkite, and flead to the Voidsea. The Mad Steward was no more.
+
+Following this event, the rising tides became ever worse. Lumen had begun to sunder, and though countless people attempted to commune with the Edenkite for help, no such Edenkite came. The Elder Edenkite had vanished from their once-home, never to be seen again. Some believe they caused the tides as revenge for the loss of their kin, while others refuse this notion due to their consistent help. Tensions rose, and as the lands themselves began to break, the last pilgrims of North Lumen dispersed, returning to their homes, as the forgotten land of the Edenkite drifted north.
+
+Today, Scholars still debate on if the Edenkite exist. They ruminate on if they simply flead, or had gone extinct over the years of the tides. With the Voidsea continuing to grow, they've thus shifted their goals to preventing the spread of the Voidsea, for it is all hope they have left. The only records known to man of the Edenkite existence resides only within the archives of Markor, the sin sealed away, never to be seen by the common folk ever again.
+
+\*i theorize that this "lumen's folklore book" talks about 2 races that might not exist anymore and i believe that in the far future more references or things will be added.
+
 ### **Lament of Cirryn**
 
 \-compiled by the Emerald Scholar
@@ -71,6 +121,20 @@ The sound of birds is a common occurrence within the nested corridors of the Gre
 "You never learn, Ehkuas!"  A familiar voice calls out to me, although I'm puzzled at first as to where. I look around for a moment, until I hear the voice again, "Behind you, fool."  I quickly turn around and see, Remaz Standing over me, His mask gleaming from the rays of the sun. "for some esteemed scholar, You are not very bright of a woman, Ehkusa,"  He remarks once more as if his previous comment wasn't enough. "Quit it!  I simply want to appreciate these fleeting things..." I reply, turning away from him and gazing toward where the bird once sat. "And this little one got away too. A shame." I sigh, beginning to stand up. He's giving always given me a tough time, Though it's caring sort,  So, I Do not mind much. "Did you pack your bags?" I asked him. As I collect belongings, little scraps of paper, ink, garments and various ether-based snacks if needed. " Aye! Last night it took me quite a few hours. You don't seem to be bringing that much though, why's that?" He asks half-honestly, Then invasively peers over my shoulder. I bump him away with my arm, closing my pouch with my belongings inside.
 
 (PS: I havent finished this yet)
+
+(cythrex left this: _oh god 47 pages good luck buddy)_
+
+### **My Warm Blood**
+
+\- Another sinful kin of Merit
+
+I reach out to the sky once more. Clouds stretch across the blue sky, my hand blending within its hue. Though, cracks in my skin adorn it with splotches of red, I can still see the true blue within the expanse. Mother told me to leave behind something to remember, I've produced naught but countless letters yet. Each visit to the mirror, my family's tattoos along my body remind me once more of who I am, the only child, the one responsible to carry on our blood. Day after day, with each additional line, I recall her stories of each one to come before me. Legacy. Legacy, they say. And what will I leave behind? a pile of bodies, nothing more. A soul whose too damned to be loved, and rotten to rehabilitate. Within my corps, they would call this a "lost cause," and I cannot help but agree. "You can settle down and start a family," the captain tries to reassure me time, and time again. But I don't go by what he says.
+
+A lump in my throat grows each time I walk into Merit's tavern. I am only worth a glance, then they return to their normal acts. I can sit in silence for hours there, listening to the musings of others, unable to make or share my own. For what tales does a soldier have worth telling? I slayed a man here. I slayed one there. I watched one beg me not to, whilst a rifle spear behind me would cut me in two if I refused. This is not the legacy I want. This is not the life I want. This flesh is a prison, and no other vessel would accept a soul as rotten as this. Despite all of this, time and time again, the tavernkeep reassures me, "You can settle down and start a family." But I don't go by what he says.
+
+A little light of hope sparks within me sometimes, despite this. Perhaps it's just residual ether, perhaps it's muscle memory tied to my flame. This light this little light within my soul tells me that there is a future, a real legacy to leave behind. It lasts until I'm greeted by the mirror once again. Tattoos and cracks, little lines and bruises adorn this vessel. My eyes glaze, anguished, draping a cloth over the mirror, then sitting within the barracks for hours, waiting. Waiting for nothing in this worn down, broken vessel. I often find myself conjuring flame just to hold close, to see if this is real. To see if I can feel still. To see if this is just a dream I'll wake from. Opening my eyes, I meet the sear upon the vessel. And for all of that, what is my reward? Resounding silence. I can start a family, no, I can start a fire. That's all I've ever been able to do. I don't go by what anyone says, anymore.
+
+(In progress) 5 more pages
 
 ### Eggs In A Basket
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 43333
+revid: 43467
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
+| obtainment | Layer 2 Chests |
 | description | ? |
 
 ## Trivia

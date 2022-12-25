@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 43240
+revid: 43458
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -304,6 +304,16 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
+  <td>0.87x</td>
+</tr>
+<tr>
+  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a>]]</td>
+  <td>65 WLL</td>
+  <td>12</td>
+  <td>5%</td>
+  <td>WLL: 12</td>
+  <td>5</td>
+  <td>7</td>
   <td>0.87x</td>
 </tr>
 </tbody>
@@ -1015,7 +1025,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>25</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>HVY: 9</td>
+  <td>HVY: 9.5</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>

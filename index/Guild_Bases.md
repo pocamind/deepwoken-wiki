@@ -1,9 +1,9 @@
 ---
 title: Guild Bases
-revid: 43223
+revid: 43366
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, In progress without reason, InProgressPages]
+categories: [OutdatedPages, In progress without reason, InProgressPages, Guilds]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
   - This page is currently being worked on. Some things may be incomplete.

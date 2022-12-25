@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 42588
+revid: 43365
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -26,9 +26,10 @@ Template:Races-Main
   <td>File:Navae's Guidance.png</td>
   <td><b>Deepfolk</b>
   <ul>
-    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"
+    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
+    <li>Consumes less Knowledge during exchanges</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -85,9 +86,10 @@ This fits with our current understanding of the lore and would explain why they 
 -   Ganymede NPCs that are found at the Aratel Island possess Flamecharm magic.
 -   The Ganymedes may be inspired by insects, considering their relation to Vesperians. (Both races share similarities to [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
 -   One of the most valuable traits for Ganymede's is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer
--   During the 4/1/2022 April Fools update (Mudwoken), Ganymede's race name was changed to Hatskipper.
--   Ganymede is one of the rarest obtainable races in the game, the other one being [Capra](Capra.md)
+-   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.
+-   Ganymede is one of the rarest obtainable races in the game, the other one being [Capra](Capra.md).
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
 -   The hat comes from the Roblox Catalog, being the "Frumpled Wizard Hat of Old Coots"
 -   In greek mythylogy Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
--   Currently the best race to do a deepbound character slot, due to their insanity resistance in the depths.
+-   Currently the best race to do a deepbound character slot, due to their insanity resistance in [The Depths](The_Depths.md).
+-   In the Verse 2 update, Ganyemede's had their racial trait updated. It added an extra effect, of using less Knowledge, ontop of the pre-existing insanity resistance.

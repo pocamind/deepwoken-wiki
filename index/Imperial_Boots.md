@@ -1,9 +1,9 @@
 ---
 title: Imperial Boots
-revid: 38697
+revid: 43379
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boots]
+categories: [Boots, Equipment]
 ---
 
 # Imperial Boots

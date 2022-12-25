@@ -1,9 +1,9 @@
 ---
 title: Ministry Scout
-revid: 42631
+revid: 43378
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs]
 ---
 
 # Ministry Scout
