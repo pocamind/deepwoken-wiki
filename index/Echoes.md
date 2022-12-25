@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 43144
+revid: 43187
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.6x modifier to **Echo** gain.
 
-**Echo Upgrades** ARE not account-wide, so spend wisely!
+**Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
 ### Ways of Obtaining Echoes
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43168
+revid: 43271
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -60,7 +60,17 @@ First of Moonveil, Entry #2. Curse Klaris for sending me to this godforsaken pla
 
 According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
 
-**<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.>>**
+**<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.**
+
+### **Lament of Cirryn**
+
+\-compiled by the Emerald Scholar
+
+The sound of birds is a common occurrence within the nested corridors of the Greathives. I've woken up to these chirps countless times within my decades spent within them, though tomorrow I travel to another. While the construction of Greathive Aratel is still ongoing, my party of Lifeweave scholars have been tasked with a mission by Hivelord Ximax Diri Himself. By next startset, we shall begin our departure to one of the eldest Greathives known to my kind, the First. Some consider this a pilgrimage of sorts, as other Hivekin  Believe The first to be as reverent  as holy ground, The beginning of our society. To experience this journey myself is exciting,  To say the least! Though, I do ponder the Morality f what's to come With our task. I trust in Ximac's guidance,  His bravery has brought us this far, But I cannot help but worry nonetheless. While I'm lost in such thoughts, a small bird approaches; Small, and fragile. "Look at you!"  I remark, Kneeling down to get a better view of it. The bird hops towards me, Round in shape, And colored bright red. I hold my finger out to touch it, but just as I almost can feel it's soft feathers, it flies away.
+
+"You never learn, Ehkuas!"  A familiar voice calls out to me, although I'm puzzled at first as to where. I look around for a moment, until I hear the voice again, "Behind you, fool."  I quickly turn around and see, Remaz Standing over me, His mask gleaming from the rays of the sun. "for some esteemed scholar, You are not very bright of a woman, Ehkusa,"  He remarks once more as if his previous comment wasn't enough. "Quit it!  I simply want to appreciate these fleeting things..." I reply, turning away from him and gazing toward where the bird once sat. "And this little one got away too. A shame." I sigh, beginning to stand up. He's giving always given me a tough time, Though it's caring sort,  So, I Do not mind much. "Did you pack your bags?" I asked him. As I collect belongings, little scraps of paper, ink, garments and various ether-based snacks if needed. " Aye! Last night it took me quite a few hours. You don't seem to be bringing that much though, why's that?" He asks half-honestly, Then invasively peers over my shoulder. I bump him away with my arm, closing my pouch with my belongings inside.
+
+(PS: I havent finished this yet)
 
 ### Eggs In A Basket
 

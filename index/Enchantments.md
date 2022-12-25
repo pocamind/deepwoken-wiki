@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 43154
+revid: 43262
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -82,7 +82,7 @@ There are three variants that enchantments come in:
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonic.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Detonationgif.gif<figcaption></figcaption></figure><center><br>
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
@@ -223,7 +223,7 @@ There are three variants that enchantments come in:
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:NLK.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
@@ -235,8 +235,8 @@ There are three variants that enchantments come in:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
-  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
-  <font>Curse of the Unbindded<div></div></font></center></td>
+  <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. The curse of this weapon is unknown</p></div></td>
   <td><div></div></td>
 </tr>
@@ -264,22 +264,16 @@ There are three variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
+  <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p>Effects of the storm enchant, with a unique critical which throws a spear javelin</p></div></td>
   <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
-  <font>?<div></div></font></center></td>
-  <td><div><p>On proc orbs of water will target the opponent</p></div></td>
-  <td><div><p>Blue Orbs</p></div></td>
-</tr>
-<tr>
-  <td><figure>File:.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of Edenkite<div></div></font></center></td>
   <td><div><p>On proc, giant AoE particles will target causing to have chance to be stunned</p></div></td>
-  <td><div></div></td>
+  <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -433,23 +427,6 @@ Auto Repair
 An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken's release, and has since become unobtainable. Arch has confirmed there was no data associated with this. As such, we don't know the true function of this enchant.
 
 -   It is speculated that it passively repaired your equipment's durability over time, though.
-
- |
-| 
-
-File:Ore.png
-
-  
-Enchantment Ore
-
- | 
-
-**May 29th, 2022**  
-"A shard of aenchantment; it can apply it's given Enchant to your currently equipped weapon."  
-Included in an update, and 1 hour after release it was removed from the game.  
-Was initially found in the fishing loot pool near the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) with Curse of the No-Life King, as seen in _supaa'_s video.
-
--   Arch has said that this was an accidental Layer 2 leak.
 
  |
 | 

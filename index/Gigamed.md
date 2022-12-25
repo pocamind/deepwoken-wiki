@@ -1,16 +1,16 @@
 ---
 title: Gigamed
-revid: 41755
+revid: 43174
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Monster, Enemies]
+categories: [Monsters]
 ---
 
 # Gigamed
 
-“ Sometimes, health packs can be deadlier than anything... ”
+“ We give our lives for PAKISTAN! ”
 
-― Level 30 Khan after dying to the explosion of 4 Gigameds sent by a single King Gigamed
+― The 4 Gigameds sent by a single King Gigamed
 
 **Gigamed:**
 
@@ -48,7 +48,7 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 -   **Greater Stun Pulse** - Blue electric, stunning attack, presumably AOE. Can be blocked. Deals _**30 damage**_.
 -   **Static Discharge** - Purple AoE attack that knocks you back and stuns you for a short duration. Can be blocked, still knocks back.
 
-## Notes/Trivia
+## Trivia
 
 -   Real Name: King Gigamed
 -   **Can be Corrupted**

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 35549
+revid: 43230
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents]
@@ -42,9 +42,17 @@ Raw materials harvested from the environment.
 
 -   Alestrian Coral: Mainly used in speed potions. Found in The Depths.
 
--   Brilliant Lotus
--   Empyrean Lotus
--   Hellfire Lotus
+## Lotuses
+
+“ A primordial Lotus, capable of producing the rawest form of power itself. ”
+
+― Lotus Flavour Text Description
+
+Although technically an ingredient, Lotuses are Attribute-Rich ingredients that can only be used in a crafting station. Each 2 lotuses crafts a Flask of an Attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
+
+-   Brilliant Lotus - Intelligence Attribute
+-   Empyrean Lotus -
+-   Hellfire Lotus - Strength Attribute
 -   Miasmic Lotus
--   Skyvalor Lotus
--   Zephyr Lotus
+-   Skyvalor Lotus - Willpower Attribute
+-   Zephyr Lotus -

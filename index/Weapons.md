@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 43160
+revid: 43240
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -30,7 +30,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance.
 
--   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (50 HVY) allow usage of One Handed stance with them.
+-   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
 
@@ -1534,6 +1534,11 @@ Shields are defensive tools that you wield in your offhand in order to gain more
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
   <td>45 FTD</td>
   <td>1.85</td>
+</tr>
+<tr>
+  <td><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></td>
+  <td>50 FTD</td>
+  <td>1.9</td>
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>

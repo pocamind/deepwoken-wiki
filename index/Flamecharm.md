@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 42001
+revid: 43202
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -526,13 +526,13 @@ Exploding Mirage Clone
 
  | 
 
-Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire.
+Your Mirage Clones explode.
 
 (Legendary Talent)
 
  | 
 
- ???
++4 Elemental Intensity FROM: Mirage Clone
 
  |
 

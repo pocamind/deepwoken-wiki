@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 42714
+revid: 43173
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -54,6 +54,10 @@ A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow
 In Etris or Vigils, two [bandits](Bandit.md) can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. The bandits rarely drop lesser mantra modifiers.
 
 **Weapons:** Basic
+
+**Mudskipper Attack**
+
+In the Diver Camp in Scyphozia, three Mudskippers can spawn in front of the guards. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest.
 
 #### **Summer Isle Bandit Raid**
 

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 43159
+revid: 43231
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,9 @@ Voidzones are places of High Risk and High Rewards, with each Voidzone having un
 
 **Location:** Upper [Minityrsa](Minityrsa.md), Etrean Luminant
 
-**Dangers:** To be Determined
+**Dangers:** Carbuncles, Yellow & Red Ironclads
+
+**Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool
 
 **Ancient Rotlands**
 
@@ -33,3 +35,5 @@ Voidzones are places of High Risk and High Rewards, with each Voidzone having un
 **Location:** [Songseeker Wilds](Songseeker_Wilds.md), Eastern Luminant
 
 **Dangers:** Insanity-Inflicting Environment, Nightmare Threshers
+
+**Rewards:** TBD

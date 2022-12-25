@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43158
+revid: 43273
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 30-40 |
+| oath_req | Power 15-18 |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -66,11 +66,11 @@ Pathfinder doesnt count as an Oath and is merely an indicator of your lack of Oa
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 30 and no Oath to obtain in card rolls.
+**Oath: Oathless** requires [Power Level](Power.md) 15 and no Oath to obtain in card rolls.
 
 ### Obtainment
 
-Oathless must be selected when draw from the hand of cards when powering up. It will always appear from power 30 to 39 if the player has no oath.(Arch mage mentioned that oathless will become a quest talent)
+Oathless must be selected when draw from the hand of cards when powering up. It will always appear from power 15 to 18 if the player has no oath.(Arch mage mentioned that oathless will become a quest talent)
 
 ### Effects
 
@@ -245,7 +245,7 @@ _"You vow to flow with the song itself, drifting across where the trails may tak
 
 **Oath: Jetstriker i**s one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
-### Obtainment (presumed)
+### Obtainment
 
 1.  Have 50 agility
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) and to the left
@@ -253,34 +253,32 @@ _"You vow to flow with the song itself, drifting across where the trails may tak
 
 To obtain the talents you must locate and interact with 5 white orbs around the map.
 
--   On top of Lord Regent's palace in Etris.
--   On top of the birdcage in Erisia.
--   On top of one of the towers in Towerstruck lands.
--   In the Isle of Vigils temple.
--   On an ice pillar at the top of Minitrysa, near the rogue mech.
+-   On top of Lord Regent's palace in Etris
+-   On the upper rim of The Birdcage Erisia
+-   On top of one of the towers in Towerstruck lands
+-   In the Isle of Vigils temple, in front of Stratos
+-   On an ice pillar at the top of Minitrysa, overlooking the coast
 
-### Known Abilities
+### Abilities
 
 -   **Prevailing Westerlies - Passive**
-    -   Allows you to gain momentum much quicker while running.
-    -   +5 Ether, +5 Passive Agility
--   Vigil's Grace - Passive
--   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control.
--   +3 Ether, +2 Posture
+    -   Allows you to gain momentum much quicker while running. (+5 Ether, +5 Passive Agility)
+-   **Vigil's Grace - Passive**
+    -   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)
+        -   When using Vigil's Grace, you become briefly invisible during the start of a running attacks, and they become omnidirectional (you are no longer locked at aiming forward). The resulting running attack will also apply hard knockdown instead of pushing back (like a heavy weapon crit).
 
 -   **Stratos Step - Passive**
-    -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards.
-    -   +5 Health, +3 Passive Agility
+    -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
+        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance, you will easily hurt yourself.
 -   **Decisive Winds - Passive**
-    -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
-    -   +5 Ether
+    -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 -   **Rush of Ancients - Passive**
-    -   Dodging at maximum sprint momentum makes you one with the wind itself.
-    -   +4 Passive Agility
+    -   Dodging at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+        -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
 
 ### Effects
 
-This Oath grants one Willdcard Mantra slot and one Mobility Mantra slot, eight Passive Agility.
+This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn white with a hint of blue.
 
 ## Oath: Starkindred
 
@@ -290,17 +288,18 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 
 ### Obtainment (presumed)
 
-1.  ~Have 50 strength~ **Heresy. 50 strength is not required. Those who believe in this have been brainwashed like the little mudskippers they are. for those who doubt my claims, look at the image to your right...**
+1.  Have 50 strength
+2.  Kill a player that is the same race as you.
     
     File:RobloxScreenShot20221224 161647151.png
     
-    50 strength is not required lol
+    Example of what Samael will say if you do not meet the requriements. Otherwise, he will call you a cocoon, and you can further talk to him about obtaining the oath.
     
-2.  Talk to Samael, located in the church above the Voidone in Songseeker.
+3.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
-3.  Kill Iblis, located above the Startree Voidzone in Starswept Valley.
-4.  Return to Samael to get the Oath.
+4.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP, TESTED!), located above the Startree Voidzone in Starswept Valley.
+5.  Return to Samael to get the Oath.
 
 ### Known Abilities
 
@@ -319,25 +318,40 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 _"Weld the armor of the Ignition Union's most notable dwellers."_
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2.
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) about 5 times.
 
 ### Obtainment (presumed)
 
-1.  Have 50 fortitude and 20 flamecharm, 20 thundercall
+1.  Have 50 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
-    1.  Activate generator
-    2.  Talk to Alpha
-    3.  Retrieve injured Elphis
-    4.  Talk to Alpha again
+    1.  Talk to the Radio Man
+    2.  Activate the Generator
+    3.  Talk to Alpha
+    4.  Retrieve injured Elphis
+    5.  Talk to Alpha again
 3.  Return to surface and talk to Delta at Ignition Union Base
 
 ### Known Abilities
 
-?
+-   **Arc Suit - Wildcard Mantra**
+-   **Arc Beam - Combat Mantra**
+-   **Arc Wave - Combat Mantra**
+-   **Arc Module: Leap - Passive**
+    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
+    -   +10 Ether
+-   **Arc Module: Guard - Passive**
+    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (Arc Suit Required)
+    -   +10 Ether
+-   **Arc Module: Eject - Passive**
+    -   When blockbroken with Arc Suit active, eject from the armor.
+    -   +10 Ether
+-   **Arc Module: Dash - Passive**
+    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
+    -   +10 Ether
 
 ### Effects
 
-?
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
   
 
@@ -345,22 +359,32 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
 
 _"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
 
-**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2. To obtain its skills, you need to give 15 Medallions to Klaris each skills.
+**Oath: Lifeweave** is one of the many oaths that was released with Verse 2.
 
-### Obtainment (presumed)
+### Obtainment
 
-1.  Get 30 Krysan Medallions from Layer 2
-2.  Talk to Klaris
+1.  Get 30 Krysan Medallions from Layer 2's second Phase.
+2.  Talk to Klaris in Castle Light and redeem 'Radiant Magic.
+
+### Upgrading
+
+1.  Obtain 15 Krysan Medallions.
+2.  Speak to Klaris is Castle Light in the Depths.
 
 ### Known Abilities
 
--   **Blinding Dawn - Combat Mantra**
--   **Radiant Kick - Combat Mantra**
+-   **Blinding Dawn ★★★- Combat Mantra**
+    -   "Spin rapidly to unleash powerful rays of light"
+
+File:Blinding dawn.gif
+
+-   **Radiant Kick ★★★ - Combat Mantra**
+    -   "Kick your foes at the speed of light"
 -   **Protagonist Syndrome - Passive**
-    -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+    -   The grasp of shadow is meaningless in the face of your blinding light. Your Lifeweave mantras are empowered after being hit by Shadowcast.
     -   +5 Health
 -   **Absolute Radiance - Passive**
-    -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+    -   Dealing damage with Lifeweave mantras briefly makes you immune to all elemental effects for a short period.
     -   +5 Health
 
 ### Effects

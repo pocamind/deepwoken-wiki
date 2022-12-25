@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 42666
+revid: 43192
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -10,6 +10,6 @@ notices:
 
 # Chime of Dwelling
 
-The Chime of Dwelling is an item obtained by being in a guild. It allows you to travel to your guild's base by carving a doorway into a flat wall.
+The Chime of Dwelling is an item obtained by being in a guild. It allows you to travel to your [guild's base](Guild_Bases.md) by carving a doorway into a flat wall.
 
 Notably, even those not in a guild can enter the base through these doors. However, they cannot interact with items inside of the base.
