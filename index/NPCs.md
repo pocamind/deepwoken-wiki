@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 42740
+revid: 43102
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,7 +29,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 </tr>
 <tr>
   <td>???</td>
-  <td>Unalinged</td>
+  <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a>, <a href="Celtor_Wastes.md">Celtor Wastes</a></td>
   <td>None</td>
   <td></td>
@@ -133,6 +133,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Requires positive Etrea reputation, is killed during the events of the quest, cannot be interacted with afterwards</td>
 </tr>
 <tr>
+  <td>Lake</td>
+  <td>Unaligned</td>
+  <td><a href="Upper_Erisia.md">Upper Erisia</a>, bridge to the Temple of the Forgotten Flame</td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
   <td>Lance's Brother</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
@@ -174,10 +181,11 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
 </tr>
 <tr>
-  <td>Cap'n Orlandeau</td>
+  <td><a href="Mime.md">Mime</a></td>
   <td>Unaligned</td>
-  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
-  <td>Teaches new players the basics of the game</td>
+  <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
+  <td>Grants <a href="Attunement-less.md#disguise">Disguise</a> mantra</td>
+  <td>Spawns with mudskippers attacking him, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
   <td></td>
 </tr>
 <tr>
@@ -188,6 +196,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Stock changes, weapons and armor can be bought enchanted</td>
 </tr>
 <tr>
+  <td>Cap'n Orlandeau</td>
+  <td>Unaligned</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>Teaches new players the basics of the game</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td>Pete</td>
   <td>Unaligned</td>
   <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
@@ -196,7 +212,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 </tr>
 <tr>
   <td>Petris</td>
-  <td>Unalinged</td>
+  <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a>, The City of the Drowned</td>
   <td>Gives clues to summon <a href="The_Ferryman.md">The Ferryman</a></td>
   <td></td>
@@ -224,7 +240,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 </tr>
 <tr>
   <td>Raphael</td>
-  <td>Unalinged</td>
+  <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a>, Varicosa District</td>
   <td>Grants Find Morning quest</td>
   <td>The quest is still in development</td>
@@ -292,14 +308,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
   <td>Grants four wishes</td>
   <td>A Resonance is required to talk to the statue or you are instantly killed and wiped</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Mime.md">Mime</a></td>
-  <td>Unaligned</td>
-  <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
-  <td>Grants <a href="Attunement-less.md#disguise">Disguise</a> mantra</td>
-  <td>Spawns with mudskippers attacking him, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
   <td></td>
 </tr>
 </tbody>

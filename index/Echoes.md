@@ -1,9 +1,8 @@
 ---
 title: Echoes
-revid: 42889
+revid: 43144
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Echoes
@@ -32,6 +31,7 @@ categories: [Pages with broken file links]
 -   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
 -   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
 -   Defeating the [Dread Serpent](Dread_Serpent.md), awarding 5 Echoes.
+-   Defeating [Duke Erisia](Duke_Ishamon_Erisia.md), awarding 5 Echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Soulbounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 
@@ -158,9 +158,7 @@ categories: [Pages with broken file links]
 
 ## Echo Talents/Items
 
-File:Echo Talents with mic.png
-
-An example of unlocking Echo Talents and its acquirement Level.
+Example of an Echo Talent unlocked
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 
@@ -171,5 +169,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 (Power 3 | 5) Engage | Critical Attack - _Gain Engage first at Power 3 and Critical Attack at Power 5._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
 (Power 2) Glider - _Gain the Glider Recipe at Power 2. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
+
+(Power 2) Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 (Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the Widow's Hollow.**_

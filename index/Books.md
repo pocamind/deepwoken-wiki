@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 42927
+revid: 43168
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -10,7 +10,7 @@ categories: [Community]
 
 ## Description
 
-Books are new items that are found in the world of Deepwoken that are a seperate category from Loot, Tools, Weapons, etc. They can be obtained by looting the various bookshelves of the world.
+Books are new items that are found in the world of Deepwoken that are a seperate category from Loot, Tools, Weapons, etc. They can be obtained by looting the various bookshelves of the world, or as a guaranteed item sold at a Traveling Merchant's ship.
 
 So far, all books seem to have the sole purpose of providing additional lore and information regarding Deepwoken's world and history, and as well as levelling **Intelligence.**
 
@@ -111,6 +111,20 @@ I'll tell you, though no one asked it: Do as they say, And don't put all your eg
 > _//Report 04\_Extraction\_Summary\_09:00_
 > 
 > _I fear I may not escape back to Authority controlled space, but even if I were to find home I doubt I would ever find safety again. The Authority member left in the place of Aster Leshi did not rendevouz for our evacuation, yet somehow he speaks to me.. I hear him in my thoughts. I now know what I saw in that vision, by breaking that mind veil I was able to peer into the true form of that grotesque Lord. Following the breaking of the mind veil I have felt hands pulling at the edges of my mind, looking for recompense of the soul that was lost. The Etreans appear to have had a mental veil put over them in order to subjugate and control them, the same veil we Inquisitor's use as a shield. But this veil was different, it was cold and held like a leech siphoning its host. Authority veils are administered by a single handler, powerful seals like this require intense concentration to keep active. But a mental veil capable of subjugating an entire city? The very notion is unprecedented. This report must reach Warden Jericho's hands. Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the Authority and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured._
+
+### Studies on Canticlysm, Vol. IV
+
+> \[compiled by Steward Amross, Steward Bridges, et, al\]
+> 
+> Perhaps there are those who, in their own perspectives, see the Canticlysm as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
+> 
+> As scholars we must look past our desire to condemn the actions of those who came before us, as though we live through the consequences, they were not privy to the knowledge that is now tacit to our generation. To them, it was a renaissance born from the advent of their greater understanding of the surrounding planes.
+> 
+> The very powers of creation seemed only a hair's breadth away, a tantalisingly small gulf for them to cross. Were we in the same position as they, I'm sure that we would not hesitate to make use of the powers that it brought. And even in our current era, many do not grasp the correlation between the state of the world now and the unmistakable effects of the Song.
+> 
+> To truly appreciate the world that our forebearers damned, it seems impertinent to set the scene. From what we know, the Old World took the form of five major landmasses. In those days, the Luminants were mostly contiguous, with what was known as the World's Edge delineating its circumference. The World's Edge, of course, is what we now call the Voidsea, and from their histories we can attest that it was equally impassable in their day as it is in ours.
+> 
+> In this broad and interrupted lands, its people lived lives of plenty, well-fed from their expansive farmland and connected by a flourishing network of trade. Many comparisons can be drawn between their way of life and that of the Felinor fieldfolk of Markor - a topic that has been well documented by our cousins at the Citadel.
 
 ### Studies on Canticlysm, Vol. VI
 
@@ -308,7 +322,7 @@ I'll tell you, though no one asked it: Do as they say, And don't put all your eg
 > 
 > A'ras shrugs, chuckling. "How charming. Now then, enougn niceties, we have a meeting to attend... at this dreadfull hour." He pulls me up off the grass, though I struggle to gather my balance for a moment. "S'pose I've sat here for a while." I mumble to myself, standing up on my feet. "Let's get going then." A'ras spoke hastily, dragging me along to the royal palace.
 > 
-> Dimly lit candles strech across the halls of the Etrean palace, I observe as my fellow attendants walk toward the throne room, each man's armor clanking with each step. The carpet below my feet must be more expensive than my life's worth, so much so I almost feel bad for dirtying it with my soil-tainted boots. As we continue through the hall, servants quickly scramble to clean the mess our footprints left behind. "It's a shame this is the life they're destined to live," one of my fellow attendants discusses amidst our group. Destiny, they say... only a fool would consider their life already foretold. I glance at my 'ally', and contain a chuckle quiet enough to myself.
+> Dimly lit candles stretch across the halls of the Etrean palace, I observe as my fellow attendants walk toward the throne room, each man's armor clanking with each step. The carpet below my feet must be more expensive than my life's worth, so much so I almost feel bad for dirtying it with my soil-tainted boots. As we continue through the hall, servants quickly scramble to clean the mess our footprints left behind. "It's a shame this is the life they're destined to live," one of my fellow attendants discusses amidst our group. Destiny, they say... only a fool would consider their life already foretold. I glance at my 'ally', and contain a chuckle quiet enough to myself.
 > 
 > Four of us, myself included, will be entrusted to protecting the king upon this royal voyage tomorrow. Our destination is Markor, one of the largest islands of the Central Luminant. "The king has politics to deal with," is the simplified version of what we've been told. The details are not meant for us lowly guards, the last thing they want is us forming our own opinions on the matter. A loud knock echoes throughout the halls, as we reach the door to the throne room. "Men, here's to a quick meeting. Pray," A'ras jests, before opening the door to the royal chamber.
 > 

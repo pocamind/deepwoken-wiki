@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 41568
+revid: 43162
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -8,11 +8,12 @@ categories: [Pages with broken file links, Boss, Monsters]
 
 # Primadon, Titan of the East
 
-“ You shrink like an ant in the face of a true predator. ”
+“ I shall summon HARAMBE! ”
 
-― Narration of Primadon's hunting grounds
+― Jonathan Talo
 
   
+
 Template:Creature Infobox V3
 
 File:Primadon.png

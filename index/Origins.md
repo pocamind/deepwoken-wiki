@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 42489
+revid: 43023
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -36,7 +36,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 -   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
--   **\[CON\]** You have to boat back to Etris to get your starting gear after the trial.
 -   **\[PRO/CON\]** Dying in Trial of One with this origin instantly sends you to [The Depths](The_Depths.md).
 
 ## Deepbound

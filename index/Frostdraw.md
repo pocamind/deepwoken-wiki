@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 42002
+revid: 43163
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -24,7 +24,7 @@ Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial
 
 A favorite of both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
-However, it should be noted that frostdraw's more methodical playstyle oftentimes provides opponents who are quick on their feet an edge in combat. Aerial attacking, bursting, and dodge-heavy builds should always be on a frostdrawer's radar to ensure they do not get displaced and lose their defensive advantage. Thundercallers are particularly prone to this playstyle, due to their mantras favoring hit-and-run tactics and high mixup potential.
+However, it should be noted that Frostdraw's more methodical playstyle oftentimes provides opponents who are quick on their feet an edge in combat. Aerial attacking, bursting, and dodge-heavy builds should always be on a Frostdrawer's radar to ensure they do not get displaced and lose their defensive advantage. Thundercallers are particularly prone to this playstyle, due to their mantras favoring hit-and-run tactics and high mixup potential.
 
 ## Training
 

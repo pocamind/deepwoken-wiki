@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 41974
+revid: 42999
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -35,7 +35,7 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
 -   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
     -   Talismans are hung up around the throne, presumably to 'contain' this power. It is theorized if the Lord Regent were to ever leave from his containment, he could prematurely start a Great Drowning, killing himself and potentially the entire world.
-    -   The Lord Regent is not in any way a Krulian, as he is a mortal with the power of the gods below.
+    -   The Lord Regent is not in any way a Krulian, he is something far stranger and more terrible.
 -   Based on Jericho's Journal, Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
 -   The Lord Regent's newfound power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
@@ -44,8 +44,9 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
 -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
--   His goals are in line with the ministry's as he works as a contractor for them, manipulating Etris' prospects in order to sieze the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
+-   His goals are in line with the Ministry's as he works as a contractor for them, manipulating Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
     -   As it is unknown how long ago this event was, they may be the same person.
+    -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
 
 ### The King of Etrea
 
@@ -57,6 +58,10 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   The teacher charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
+-   _Stars Above, and the Blade Between_ sheds some light on the situation, assuming that it's an autobiographical work.
+    -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
+    -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.
+    -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
 
   
 
@@ -132,7 +137,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
-    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
+    -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         
 
 ### **Yun'shul**
@@ -195,7 +200,7 @@ Yun'shul
 
 #### Starswept Valley (Etrean Luminant)
 
-**Lore Sources:** _Arch\_Mage (Discord)_
+**Lore Sources:** _[Arch\_Mage](Wiki_Staff.md) (Discord)_
 
 _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavour Text_
 
@@ -203,7 +208,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
-    -   (Arch\_Mage) Thanks to Arch\_Mage, its confirmed that the blue particles that rain down the Valley are fragments of Stars.
+    -   ([Arch\_Mage](Wiki_Staff.md)) Thanks to [Arch\_Mage](Wiki_Staff.md), its confirmed that the blue particles that rain down the Valley are fragments of Stars.
     -   Along with blue fragmented stars; Blue Meteorites, containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
 
 -   It was once thought that the Blue stars that rain down the Valley is coming from the Celestial City, however this is not the case.
@@ -218,6 +223,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A savannah nation conquered by The Central Authority.
 -   The origin of Scimitars and similar blades.
+-   A Felinor people once lived here.
 
 #### Markor Citadel
 
@@ -230,23 +236,23 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 ### **Northern Luminant**
 
-A frozen Tundra.
+-   A frozen Tundra.
 
-Probably home to [Frostdraw](Frostdraw.md).
+-   Probably home to [Frostdraw](Frostdraw.md).
 
 ### **Western Luminant**
 
--   The home to the Eleventh Legion and home of the Khans
+-   The home to the Eleventh Legion and home of the Khans.
 
 ### **Voidsea**
 
 **Lore Sources:**
 
 -   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
--   There are little to no NPCs or texts that explains the lore of the [Voidsea](Voidsea.md), as of 1/10/2022.
-    -   It is assumed that the Voidsea is the byproduct or the result of The Tides.
+-   It is assumed that the Voidsea is the byproduct or the result of The Tides.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
+-   They have been compared to a fraying edge on a fabric.
 
 #### Boatman's Watch (Voidsea)
 
@@ -257,7 +263,7 @@ _"A place remembered only by the waves"_
 -   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library  
     
 
-### **The Depths**
+### **The Depths (Scyphozia, The First Layer)**
 
 **Lore Sources:**
 
@@ -318,7 +324,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
         -   They cut themselves off from the outside world following a catastrophe.
         -   They are at war with the Central Authority, an empire that hails from the Central luminant, which has a more western theme and superior technology, much like the conflict between China and the British Empire.
         -   Similar architecture.
-        -   They silence anyone who is suspicious of the Lord Regent
+        -   They silence anyone who is suspicious of the Lord Regent.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -348,7 +354,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:** _???_
--   **Enemies:** _The Central Authority_
+-   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 
 -   Also known as the [11th Legion](The_Hundred_Legions.md), a military organization from the [Western Luminant](Luminants.md). They are not to be confused with [The Authority](The_Central_Authority.md) or [The Hive](The_Hive.md).
@@ -409,6 +415,8 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
 -   The Ministry is allegedly able to share the Whispers of Tacet, or murmur(s) to those with no connection to the song.
+-   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
+-   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 
 A Dark Mage, located in Minityrsa.
 
@@ -435,7 +443,7 @@ A Dark Mage, located in Minityrsa.
 -   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
 -   They live in the sewers of the Central Luminant.
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
--   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
+-   (Arch\_Mage) The Knives of Eylis are mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname  
@@ -469,19 +477,19 @@ A Dark Mage, located in Minityrsa.
 
 -   The Authority is an Empire and a faction of "Peacekeepers" and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
--   The footsoldiers, specifically those that use Thundercall, wear a red coat over their armour. Those that use Flamecharm, ironically, lack the red coat.
+-   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part.
     -   The footsoldiers that use Flamecharm are comprised solely of other races.
-        -   These also appear to be the lower-ranking, more poorly equipped and more expendable part of their army.
+        -   These also appear to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
 -   They purchase firearms from The Summer Company.
     -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses.
 -   The Central Authority (as of we know now) use three attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
-    -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
-    -   The Central Authority's Frostdrawers are commanding officers.
+    -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
+    -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
 -   Racist.
@@ -518,7 +526,7 @@ A Peacekeeper Commander, part of The Authority
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
--   The Divers have some form of ranking system, with Black Divers being powerful, elite divers, and with Diver Aprentices making up the lower rungs.
+-   The Divers have some form of ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
@@ -528,9 +536,9 @@ A Peacekeeper Commander, part of The Authority
 
 ### The Vigils of Wind
 
-**Lore Sources:** _Apprentice Ki_
+**Lore Sources:** _Apprentice Kj_
 
--   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
+-   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
@@ -585,7 +593,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Encounter In:** _Erisia, Summer Isle, Etris, Isle of Vigils_
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
--   They appear to have some level of organization
+-   They appear to have some level of organization:
     -   They have a ranking system
     -   They have a uniform, with different uniform for different ranks
     -   They have a village in Lower Erisia
@@ -680,7 +688,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
 -   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
--   _**(No current lore yet...)**_
+-   They had a kingdom in Markor, what's become of it is unknown.
 
 ### Vesperian
 
@@ -735,7 +743,7 @@ _"The stars call you back..."_
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
-    -   The Celestial we've seen (Blonde hair, cracked face) is Ragoozer's Lore Character, Nilsa.
+-   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair.
 
 ### Primal Vesperians
 
@@ -810,6 +818,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement, as well as Lord Regent.
     -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
+-   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
 
   
 
@@ -837,6 +846,10 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
+-   The book _The Tale of Ciryyn_ expands up on it
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
+    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
 
   
 
@@ -845,7 +858,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
-    -   (Hive Tactician) As of 3/14/2022, there is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+    -   (Hive Tactician)Tthere is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
         
 
@@ -1018,15 +1031,19 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   (Yamaketzal) Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
-    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
+    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
 
-  
+### World Happenings
 
-  
+**Lore Sources:** _Trenti_
 
-## Deepwoken: 1271~
+-   The King of Etrea vanishes on a journey into the Voidsea.
+-   The Lord Regent takes the throne and installs mental barriers into his people.  
+    
 
-This category lists new lore that has been added into Deepwoken through updates. This will cover what lore has been dropped, and the date it has been found or released.
+## Deepwoken: 1271-1363
+
+This category lists new lore that has been added into Deepwoken through updates during Verse 1. This will cover what lore has been dropped, and the date it has been found or released.
 
 ### Year 1277
 
@@ -1062,6 +1079,16 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 -   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
     -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
+
+## Deepwoken: 1363
+
+### Year 1363
+
+(Verse 2 \[12/23/2022\])
+
+-   The Divers discovered a passage through the Second Layer of the Depths, the Eternal Gale.
+-   Aratel sea is blocked off from the Etrean sea.
+-   Tirans and Chrysids are drawn out and become more common in the world.
 
 ## Monsters
 
@@ -1107,6 +1134,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 -   Zombie-like creatures with coral growing out of their head, found in various hues and stages of decay.
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
+-   Some of them are capable of using tools, showing they retain some of their memories.
 
 ### Primadon
 
@@ -1124,11 +1152,17 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
         -   Alternatively, the conditions in the overworld may have just been more favourable, and they have all migrated there and left The Depths behind.
     -   Despite the name, they don't suck brains
 
+### Deep Widows
+
+-   Large spiders with potent venom.
+-   _Tale of the Storm_ makes reference to four creatures that resemble Deep Widows, however the Appendix notes that they would have to be much smaller and Deep Widows leaving near to a Megalodaunt's nest is unheard of.
+
 ### The Enforcer(s)
 
 -   A nearly endless, robotic legion of soldiers that serve [The Voices](Voices_of_the_Depths.md).
 -   They are powered by the souls of those who have failed the Depth Trials, and thus, the more people that die in the trials, creates more Enforcers in the future.
 -   They are hostile to every monster.
+-   They turn to ash after being defeated, but plucking their eyes out will preserve them.
 
 ### Nautilodaunt
 
@@ -1153,8 +1187,7 @@ Though technically a blank slate of varying races and abilities, even the player
 ### Castaway
 
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
--   The Player was frequently on the ocean before the events of the game, as the entering the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
--   The Player in the castaway origin was once part of a pirates guild, but the authority attacked the ship and they ended up being found on the beaches of either Etris or vigil.
+-   The Player in the castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 
 ### Character Deaths
 
@@ -1183,6 +1216,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   The Deepwoken world was once home to many of the animals seen in the real world, but all have dissapeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
     -   Many animals share traits with the races seen in the game.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
+        -   _The Tail of Cyryyn_ features birds heavily.
     -   Fish are the only animals that can be actively seen and interacted with
         -   The know fish species include:
         -   At least three types of swordfish
@@ -1209,6 +1243,8 @@ The Music of Deepwoken, made solely by the composer, Naktigonis, has lore inscri
 _**Theme of the Central Authority**_
 
 _"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
+
+-   It plays when the Authority attacks the ship in the [Tutorial](Tutorial.md).
 
 #### Masters of the House
 

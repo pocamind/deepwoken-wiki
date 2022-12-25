@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 42860
+revid: 43160
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -27,22 +27,36 @@ When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra 
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
 -   All **Light Weapons** are locked to One Handed stance.
+
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance.
+
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (50 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
 
 -   Deal increased posture damage with parries
+
 -   Deal reduced posture damage with hits
+
 -   Can use offhand weapons, like shields or guns
 
 ### Two-Handed
 
 -   Deal reduced posture damage with parries
+
 -   Deal increased posture damage with hits
+
 -   Slightly faster swing speed
 
 ## Key Terminology
+
+-   **Requirements:** How much of the attribute(s) you need to wield that weapon.
+
+-   **Requirements:** How much of the attribute(s) you need to wield that weapon.
+
+-   **Damage:** How much harm a weapon inflicts onto the opponent.
+
+-   **Damage:** How much harm a weapon inflicts onto the opponent.
 
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
@@ -78,6 +92,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
 </tr>
 <tr>
   <td><a href="Stiletto.md">Stiletto</a></td>
@@ -88,6 +103,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -98,6 +114,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.03x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -108,6 +125,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -118,6 +136,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -128,6 +147,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -138,6 +158,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.03x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -148,6 +169,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>7</td>
   <td>1.03x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -158,6 +180,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td>0.85x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -168,6 +191,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -178,6 +202,18 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="Kyrsedge.md">Kyrsedge</a></td>
+  <td>75 LHT</td>
+  <td>13</td>
+  <td>30%</td>
+  <td>LHT: 9</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
@@ -188,6 +224,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
@@ -198,6 +235,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td><font>0.87x</font></td>
+  <td>0.1s</td>
 </tr>
 </tbody>
 </table>
@@ -379,6 +417,16 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8.5</td>
   <td>0.81x</td>
+</tr>
+<tr>
+  <td><a href="Kyrstreza.md">Kyrstreza</a></td>
+  <td>??? LHT</td>
+  <td>15</td>
+  <td>30%</td>
+  <td>LHT: 8.5</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.82x</td>
 </tr>
 </tbody>
 </table>
@@ -636,6 +684,17 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.73x</td>
 </tr>
 <tr>
+  <td><a href="Kyrsblade.md">Kyrsblade</a></td>
+  <td>75 MED</td>
+  <td>22</td>
+  <td>5%</td>
+  <td>35%</td>
+  <td>MED: 7.5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.73x</td>
+</tr>
+<tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
   <td>100 MED</td>
   <td>20</td>
@@ -772,6 +831,17 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>20%</td>
   <td>40%</td>
   <td>MED: 6</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.72x</td>
+</tr>
+<tr>
+  <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
+  <td>90 MED</td>
+  <td>19.4</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
@@ -1069,6 +1139,18 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
 </tr>
 <tr>
+  <td><a href="Markor's_Inheritor.md">Markor's Inheritor</a></td>
+  <td>30 HVY, 10 STR</td>
+  <td>23</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>HVY: 7</td>
+  <td>8</td>
+  <td>8.5</td>
+  <td>0.64x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<b>Bleed</b>)</td>
   <td>40 HVY, 10 STR</td>
   <td>22.4</td>
@@ -1159,6 +1241,18 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>N/A</td>
   <td><font>10%</font></td>
   <td><font>HVY: 7.5</font></td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="Kyrscleave.md">Kyrscleave</a> (<b>Bleed</b>)</td>
+  <td>75 HVY</td>
+  <td>24</td>
+  <td>N/A</td>
+  <td>15%</td>
+  <td>HVY: 8.5</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -1273,6 +1367,17 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.6x</td>
   <td>0.1s</td>
 </tr>
+<tr>
+  <td><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></td>
+  <td>100 HVY, 40 STR</td>
+  <td>30</td>
+  <td>5%</td>
+  <td>HVY: 11</td>
+  <td>8</td>
+  <td>10</td>
+  <td>0.5x</td>
+  <td>N/A</td>
+</tr>
 </tbody>
 </table>
 
@@ -1371,6 +1476,17 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
+  <td><a href="Gran_Sudaruska.md">Gran Sudaruska</a></td>
+  <td>75 ICE, 30 HVY, LVL 30</td>
+  <td>23.5</td>
+  <td>N/A</td>
+  <td>SDW: 10 HVY: 3</td>
+  <td>6</td>
+  <td>8</td>
+  <td>0.64x</td>
+  <td>No</td>
+</tr>
+<tr>
   <td><a href="Light's_Final_Toll.md">Light's Final Toll</a></td>
   <td>65 WLL</td>
   <td>12</td>
@@ -1405,6 +1521,11 @@ Shields are defensive tools that you wield in your offhand in order to gain more
   <td>1.5</td>
 </tr>
 <tr>
+  <td><a href="Old_World_Greatshield.md">Old World Greatshield</a></td>
+  <td>20 FTD</td>
+  <td>1.6</td>
+</tr>
+<tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
   <td>30 FTD</td>
   <td>1.75</td>
@@ -1418,6 +1539,11 @@ Shields are defensive tools that you wield in your offhand in order to gain more
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
   <td>60 FTD</td>
   <td>2</td>
+</tr>
+<tr>
+  <td><a href="The_Path's_Defender.md">The Path's Defender</a></td>
+  <td>75 FTD</td>
+  <td>2.35</td>
 </tr>
 </tbody>
 </table>
@@ -1435,6 +1561,10 @@ Miscellaenous offhands are tools that do not fit being a shield or a weapon, and
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
   <td>10 AGI</td>
+</tr>
+<tr>
+  <td><a href="Kyrstear.md">Kyrstear</a></td>
+  <td>40 AGI</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 42924
+revid: 43145
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -125,9 +125,9 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites:  ? Amount Of Backstabs
--   Conditioned Runner \[Legendary Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+-   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 3x health regen while running.
-    -   Prerequisites: 20 Agility & 20 Fortitude
+    -   Prerequisites: Scaredy Cat & Endurance Runner
     -   Mutual Exclusive: Fishman
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
@@ -308,6 +308,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 
+### Colossus
+
+-   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
+    -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
+-   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
+    -   Prerequisites: 25 Strength.
+
+-   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
+
 ### Champion
 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
@@ -316,11 +325,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Willpower
     -   Etrean have a similar effect passively (Molt), but is applied to all debuff and buffs instead.
 
-### Charismatic Cast
-
--   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
-    -   Prerequisite: 55 Charisma, Charismatic Cast
-
 ### Charm Caster
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
@@ -328,10 +332,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 25 Charisma
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. (+ 4 Ether)
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
+-   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
+    -   Prerequisite: 55 Charisma, Charismatic Cast
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you. (+ 4 Ether)
     -   Prerequisite: Charismatic Cast
--   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisites: 40 Charisma, Charismatic Cast
+-   Dazing Finisher \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Prerequisites: Charismatic Cast, Lasting Charisma, Tough Love, Morale Booster, Chaotic Charm
     -   Mutual Exclusive: Vanishing Follow-up
 
 ### Comrade
@@ -926,7 +932,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 -   Thresher Scales \[Common Priority Talent\] - You regenerate your armor at campfires. (+5 Health)
-    -   Prerequisites: Power 40, Bloodiron Spirit
+    -   Prerequisites: Power 40, Bloodiron Spirit - Now obtained via quest at power 10
 -   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
     -   Prerequisites: Power 40
 -   Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
@@ -1099,16 +1105,13 @@ These Talents are meant to make foraging and mining grant more resources.
 
 These Talents are meant to be used in an aggressive playstyle.
 
--   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
-    -   Prerequisites: 25 Strength
-
 -   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
     -   Prerequisite: 25 Strength
--   Treefelling Blow \[Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
-    -   Prerequisite: Strong Left
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
+-   Million Ton Piercer \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether, 3 Health)
+    -   Prerequisite: 90 Strength, Bulldozer, Shield Breaker, Unwavering Resolve
 -   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 
 ### Rampant Static
 
@@ -1159,7 +1162,7 @@ Prerequisite: Charisma
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
     -   Gain 1.4x more notes from selling items.
     -   Prerequisites: 30 Charisma
--   Golden Tongue \[Legendary Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)
+-   Golden Tongue \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)
     -   Prerequisite: 40 Charisma
 
 ### Soul Converter
@@ -1496,10 +1499,7 @@ These Talents are designed to make you more effective in water.
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit. (+2 Health)
-    -   Prerequisites: ~30 Heavy Weapon
--   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
--   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
-    -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
+    -   Prerequisites: ~30 Heavy Weapon.
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
     -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger equipped

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 42888
+revid: 43154
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -264,21 +264,21 @@ There are three variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Newen.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, with a unique critical</p></div></td>
-  <td><div></div></td>
+  <td><div><p>Effects of the storm enchant, with a unique critical which throws a spear javelin</p></div></td>
+  <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
 </tr>
 <tr>
   <td><figure>File:.png<figcaption></figcaption></figure><center><br>
   <font>?<div></div></font></center></td>
-  <td><div><p>Eyeballs</p></div></td>
-  <td><div></div></td>
+  <td><div><p>On proc orbs of water will target the opponent</p></div></td>
+  <td><div><p>Blue Orbs</p></div></td>
 </tr>
 <tr>
   <td><figure>File:.png<figcaption></figcaption></figure><center><br>
   <font>Tears of Edenkite<div></div></font></center></td>
-  <td><div><p>Eyeballs</p></div></td>
+  <td><div><p>On proc, giant AoE particles will target causing to have chance to be stunned</p></div></td>
   <td><div></div></td>
 </tr>
 </tbody>

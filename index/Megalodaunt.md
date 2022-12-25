@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 42989
+revid: 43153
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -87,7 +87,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
+Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
 
 ## **Attacks**
 
@@ -145,7 +145,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Dark Blue version of the Megalodaunt, exclusive to The Depths and [Trial Of One](Trial_of_One.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health.
+Dark Blue version of the Megalodaunt, they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md) and on [Aratel Island](Aratel_Island.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health.
 
 ## **Attacks**
 
@@ -268,7 +268,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Mecha version of the Megalodaunt, exclusive to ???, they are very strong version of a Megalodaunt, maybe stronger than an alpha megalodaunt. However this creature
+Mecha version of the Megalodaunt, exclusive to Miner's Landing and Saramaed Summit, they are very strong version of a Megalodaunt, maybe stronger than an alpha megalodaunt. However this creature
 
 ## **Attacks**
 

@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 42995
+revid: 43158
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, Character, Talents, Mechanics]
+categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -26,22 +26,27 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Linkstrider | |
 |---|---|
 | oath_req | 4 players with oaths |
-| effects | +2Support Mantra, +1 Wildcard Mantra |
+| effects | +2 Support Mantra, +1 Wildcard Mantra |
 
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility |
 
 | Oath: Starkindred | |
 |---|---|
 | oath_req | 50 Strength |
-| effects | +2 Combat Mantra+8 Health |
+| effects | +2 Combat Mantra, +8 Health |
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 50 Fortitude20 Flamecharm, 20 Thundercall |
+| oath_req | 50 Fortitude, 20 Flamecharm, 20 Thundercall, Complete Alpha's Quest |
 | effects | ? |
+
+| Oath: Dawnwalker | |
+|---|---|
+| oath_req | 30 Krysan Medallions |
+| effects | +2 Combat Mantra |
 
 _icon credit to Tortaa#9000_
 
@@ -49,7 +54,7 @@ _icon credit to Tortaa#9000_
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
-There are currently only three Oaths in _Deepwoken_. More are planned to be added in future updates.
+There are currently eight Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -124,13 +129,13 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 ### Effects
 
-This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
+This Oath grants the player one Support Mantra slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cure the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 
 Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
-You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the atribbutes, and the item you want it to look like for the appearance.
+You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the attributes, and the item you want it to look like for the appearance.
 
 ### Notes
 
@@ -195,7 +200,7 @@ The following talent is obtained by leveling up after obtaining Visionshaper.
 
 ### Effects
 
-This Oath grants one Support Mantra Card slot and two Combat Mantra slots
+This Oath grants one Support Mantra slot and two Combat Mantra slots
 
 The oath changes the eye color of the user to purple, and creates a wispy ethereal particle effect which stems from the user's right eye.
 
@@ -209,7 +214,7 @@ Does not grant any special cosmetic based on race.
 
 _"You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength."_
 
-**Oath: Linkstrider** is one of the many oaths that got released with Verse 2. To obtain skills, you must grip players with **Oaths**.
+**Oath: Linkstrider** is one of the many oaths that got released with Verse 2. To obtain its skills, you must grip players with **Oaths**.
 
 ### Obtainment
 
@@ -217,16 +222,16 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot
-5.  Interact with the white orb that appears in the middle
+5.  Interact with the white orb that appears in the middle.
 
 ### **Known Abilities**
 
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage a non-ally.
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally.
 
 ### Effects
 
-N/A
+This Oath grants two Support Mantra slots and one Willdcard Mantra slot.
 
 ### **Notes**
 
@@ -236,40 +241,61 @@ N/A
 
 ## Oath: Jetstriker
 
-_"You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master"_
+_"You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master."_
 
-**Oath: Jetstriker i**s one of the many oaths that got released with Verse 2. To obtain skills, you must find 4 orbs around the map.
+**Oath: Jetstriker i**s one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
 ### Obtainment (presumed)
 
 1.  Have 50 agility
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) and to the left
+3.  Beat Alirian in a race to a specific point that is marked with an orange marker.
+
+To obtain the talents you must locate and interact with 5 white orbs around the map.
+
+-   On top of Lord Regent's palace in Etris.
+-   On top of the birdcage in Erisia.
+-   On top of one of the towers in Towerstruck lands.
+-   In the Isle of Vigils temple.
+-   On an ice pillar at the top of Minitrysa, near the rogue mech.
 
 ### Known Abilities
 
--   **Prevailing Westerlies**
+-   **Prevailing Westerlies - Passive**
     -   Allows you to gain momentum much quicker while running.
     -   +5 Ether, +5 Passive Agility
+-   Vigil's Grace - Passive
+-   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control.
+-   +3 Ether, +2 Posture
 
--   **Stratos Step**
+-   **Stratos Step - Passive**
     -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards.
     -   +5 Health, +3 Passive Agility
--   **Decisive Winds**
+-   **Decisive Winds - Passive**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
     -   +5 Ether
--   **Rush of Ancients**
+-   **Rush of Ancients - Passive**
     -   Dodging at maximum sprint momentum makes you one with the wind itself.
     -   +4 Passive Agility
 
+### Effects
+
+This Oath grants one Willdcard Mantra slot and one Mobility Mantra slot, eight Passive Agility.
+
 ## Oath: Starkindred
 
-_"You vow to..."_
+_"You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you."_
 
-**Oath: Starkindred** is one of the many oaths that got released with Verse 2. To obtain it's skills, you must kill 3 Greater Angels around the map.
+**Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
 
 ### Obtainment (presumed)
 
-1.  Have 50 strength
+1.  ~Have 50 strength~ **Heresy. 50 strength is not required. Those who believe in this have been brainwashed like the little mudskippers they are. for those who doubt my claims, look at the image to your right...**
+    
+    File:RobloxScreenShot20221224 161647151.png
+    
+    50 strength is not required lol
+    
 2.  Talk to Samael, located in the church above the Voidone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
@@ -279,44 +305,67 @@ _"You vow to..."_
 ### Known Abilities
 
 -   **Ascension**
-    -   Using **Fire Blade** with your wings out causes it to be modified, doing a much stronger attack.
+    -   This causes your character to sprout out wings, increasing the distance covered by your air dashes and possibly doing other things as well...
+        -   Using **Fire Blade** with your wings out causes it to be modified, causing your character to rise up in the air and perform a large multi-hitting slash.
 -   **Celestial Assault**
 -   **Sinister Halo**
+    -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
+
+### Effects
+
+This Oath grants two Combat Mantra slots and eight Health.
 
 ## Oath: Arcwarder
 
 _"Weld the armor of the Ignition Union's most notable dwellers."_
 
-### **Obtainment (presumed)**
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2.
+
+### Obtainment (presumed)
 
 1.  Have 50 fortitude and 20 flamecharm, 20 thundercall
-2.  Complete Layer 2 quest
+2.  Go to Layer 2 and Complete Alpha's quest
     1.  Activate generator
     2.  Talk to Alpha
-    3.  Retrieve Pesi
+    3.  Retrieve injured Elphis
     4.  Talk to Alpha again
-3.  Return to surface and find Delta in miners
+3.  Return to surface and talk to Delta at Ignition Union Base
 
--   currently not much is known, but heres a video on obtainment (speculated): [https://www.youtube.com/watch?v=BoPM2HzMz3Q](https://www.youtube.com/watch?v=BoPM2HzMz3Q)
+### Known Abilities
 
-  
+?
 
-  
+### Effects
+
+?
 
   
 
 ## Oath: Dawnwalker
 
-_"You vow to forever reach towards the brilliant Light. There is no shadow that you radiance cannot expunge."_
+_"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
 
-**Obtainment (presumed)**
+**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2. To obtain its skills, you need to give 15 Medallions to Klaris each skills.
 
-1.  Get 30 Medallions from Layer 2
+### Obtainment (presumed)
+
+1.  Get 30 Krysan Medallions from Layer 2
 2.  Talk to Klaris
 
-## Oath: Celestial(?)
+### Known Abilities
 
-Uses Enforcer Pull (Not exactly sure if it's a oath)
+-   **Blinding Dawn - Combat Mantra**
+-   **Radiant Kick - Combat Mantra**
+-   **Protagonist Syndrome - Passive**
+    -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+    -   +5 Health
+-   **Absolute Radiance - Passive**
+    -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+    -   +5 Health
+
+### Effects
+
+This Oath grants two Combat Mantra slots.
 
 ## Time Magic(?)
 
@@ -324,7 +373,7 @@ Uses Enforcer Pull (Not exactly sure if it's a oath)
 
 Unobtainable, exclusive to The Knives of Eylis Captains. Might become a [Voidwalker](Origins.md) exclusive.
 
-### Known abilities
+### Known Abilities
 
 -   **Time Bubble**
     -   The user slows people around them by making a strange, vibrating noise, creating an expanding bubble around them.

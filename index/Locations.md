@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 42593
+revid: 43013
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken, Void Sea]
@@ -112,6 +112,11 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
     -   [District of Commerce](District_of_Commerce.md)
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
+
+### **[Layer 2](Second_Layer.md)**
+
+-   Firfire
+    -   Firfire Caverns
 
 ### After Death
 

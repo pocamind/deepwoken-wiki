@@ -1,9 +1,9 @@
 ---
 title: "Light's Final Toll"
-revid: 42964
+revid: 43052
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Pages with broken file links]
 ---
 
 # Light's Final Toll
@@ -34,5 +34,9 @@ Light's Final Toll is a blue spirit lantern that floats above the player. The pl
 ## Trivia
 
 -   This is the first weapon to scale from an attribute other than weapon or an attunement.
-    -   This comes from SudoMesh's entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
-        -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
+-   This comes from SudoMesh's entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
+    -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
+
+File:Lantern.png
+
+Original Concept Art

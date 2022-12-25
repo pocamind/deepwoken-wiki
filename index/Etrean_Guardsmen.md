@@ -1,16 +1,11 @@
 ---
 title: Etrean Guardsmen
-revid: 41760
+revid: 43166
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs]
 ---
 
 # Etrean Guardsmen
-
-“ HEYYYYYY OVER HEREEEEEEEEEE ”
-
-― Average Etrean Guard
 
 Template:EnemyInfobox1.0
 
@@ -41,7 +36,4 @@ Etrean Guardsmen wear an Unknown outfit with their race being [Etreans](Etrean.m
 
 ## Tips
 
--   Just don't get bad reputation or do any of the actions considered by the guards to be "disrespectful".
-    -   Examples can be spitting on a guard or attacking another player who has positive reputation with Etrea
--   More HP and damage than say a power 10 in terms of m1s.
 -   Feints SOMETIMES.

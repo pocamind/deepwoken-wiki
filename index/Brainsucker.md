@@ -1,16 +1,16 @@
 ---
 title: Brainsucker
-revid: 41153
+revid: 43167
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Monster, Enemies]
+categories: [Monsters]
 ---
 
 # Brainsucker
 
-“ CAN YOU PLEASE GET THE HELL OUT OF MY FACE ONCE AND FOR ALL??? ”
+“ BANZAI! ”
 
-― Angry Khan trying to travel to the Starswept valley
+― Kamikaze Brainsuckers
 
 Template:Creature Infobox V3
 
@@ -44,5 +44,4 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 
 -   The Brainsuckers name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
 -   When the Brainsuckers head is turned upside down, the shape of it resembles a squid.
--   A common nickname for the Brainsucker is the gargoyle due to their appearance.
 -   The Brainsuckers official name appears to be the "Lesser Brainsucker." It is unknown if a Greater Brainsucker will ever be added.
