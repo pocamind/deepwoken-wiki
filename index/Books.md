@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43533
+revid: 43675
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -58,6 +58,16 @@ site: [https://www.imagetotext.info](https://www.imagetotext.info)
 > 
 > _This is my ember, brought to the altar of time. Never again may we suffer alone, in the dark._
 
+### **Diver Journal, I**
+
+\- writings of Apprentice Azel
+
+This was never an expedition. This was a setup. Chaser has gone mad. The Kyrsgarde have gone mad. No matter what direction I run, I'm met with the same adversity from those I'm supposed to 'trust', yet it ends in catastrophe. Chaser didn't take us here to find anything, he took us here to feed on us. The Kyrsgarde on the surface are kind, but below... it's all a facade. It's always been a facade. I can't trust anyone anymore, there's nothing in this hell which could absolve me of this fear now. Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my "leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me.﻿
+
+This is my last day... alone. Alone in a wasteland, a meaningless death to be forgotten, just another number added to the infinite list of 'missing in action' Divers. Is that what all this means? Did Mother want this? Good for nothing.. rotten son, never made money or did anything for the family, dead in a cave, accomplished nothing, alone. Hopeless and abandoned, even in my final moments. I'm going to be forgotten, just as the countless times before. 'Azel Corbet' never existed.. he never did, never meant anything to anyone.. and alone. Alone! Each time I write the word I feel angrier at myself. I hate this. Maybe this is what I deserved. Maybe if I wasn't a good-for-nothing since birth, since childhood, since adolescence, since adulthood, maybe-
+
+**<<\*The ink on the following pages are washed out and incomprehensible, streaking in lines only tears could create, smudging the ink. His last words are lost.**
+
 ### **Diver Journal, II**
 
 \-Writings of Journeyman Skeli
@@ -67,6 +77,28 @@ First of Moonveil, Entry #2. Curse Klaris for sending me to this godforsaken pla
 According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
 
 **<<The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.**
+
+### **Diver Journal, III**
+
+\-writings of Apprentice Hero
+
+This is the third day without food. Chaser refuses to let us near the Ignition Union's settlement here. I understand we're at odds with the Union, but... I'm hungry. I'm cold. They have heat there, so I've been told. Their lamps, they can burn away the parasites. A few members of the expedition got fed up with Chaser, and tried to sneak away, but they weren't in their bunks the following morning. Maybe they did get away, and are staying with the Union now? Skeli told me the Union's settlement was along the ground floor beneath the bridges, marked by steam towers, but.. I heard it's dangerous. Bounders reside there. I don't know what to do.. I may just seek out the settlement myself. I need warmth.
+
+The fourth day has come. I'm growing weaker by the hour, as it becomes harder to move. I contemplated eating the snow, but.. I've already seen what happens to those it sticks to. But, I'm hungry.. so, so hungry. Maybe my
+
+stomach could handle it? I don't know if the eggs would be able to survive such conditions, or if I'd be sentencing myself to an earlier death. What choice do I have? To die slow hopelessly, or gamble a chance to live? I'll think about it more. If I'm unable to move far, then.. I suppose I'll try it.
+
+There's something inside. There's a whisper inside.
+
+There's movement inside.
+
+There's something wrong.
+
+There's something wrong.
+
+There's something wrong.
+
+There's something-
 
 ### **Lumen's Folklore: Volume 'Attunement'**
 

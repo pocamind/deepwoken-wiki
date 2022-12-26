@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 43592
+revid: 43673
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -9,8 +9,6 @@ notices:
 ---
 
 # Megalodaunt
-
-_Commonly referred to as a Sharko._
 
 “ URAOblOblOOblWAUUGH ”
 
@@ -268,7 +266,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in Miner’s Landing, and it’s voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
+The Mechalodaunt (also referred to as Kevin) is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and it’s voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
 
 ## **Trivia**
 

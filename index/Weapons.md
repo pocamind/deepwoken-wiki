@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 43616
+revid: 43699
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -27,36 +27,22 @@ When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra 
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
 -   All **Light Weapons** are locked to One Handed stance.
-
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance.
-
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
 
 -   Deal increased posture damage with parries
-
 -   Deal reduced posture damage with hits
-
 -   Can use offhand weapons, like shields or guns
 
 ### Two-Handed
 
 -   Deal reduced posture damage with parries
-
 -   Deal increased posture damage with hits
-
 -   Slightly faster swing speed
 
 ## Key Terminology
-
--   **Requirements:** How much of the attribute(s) you need to wield that weapon.
-
--   **Requirements:** How much of the attribute(s) you need to wield that weapon.
-
--   **Damage:** How much harm a weapon inflicts onto the opponent.
-
--   **Damage:** How much harm a weapon inflicts onto the opponent.
 
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
@@ -1494,17 +1480,6 @@ Weapons that scale with a certain element
   <td>6</td>
   <td>8</td>
   <td>0.64x</td>
-  <td>No</td>
-</tr>
-<tr>
-  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a></td>
-  <td>65 WLL</td>
-  <td>12</td>
-  <td>5%</td>
-  <td>WLL: 12</td>
-  <td>5</td>
-  <td>7</td>
-  <td>0.82x</td>
   <td>No</td>
 </tr>
 </tbody>

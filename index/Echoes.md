@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 43603
+revid: 43656
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -31,7 +31,7 @@ categories: [Echoes, Character, Mechanics]
 -   Obtaining your [Oath](Oaths.md), awarding 5 Echoes.
 -   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
 -   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or the Chaser Boss, awarding 5 Echoes each, respectively.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), or the Chaser Boss, awarding 5 Echoes each, respectively.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Soul-bounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.

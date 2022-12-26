@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 43636
+revid: 43647
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -33,7 +33,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Armory (2500) - Allows you to hire a blacksmith for a 1000 Notes) who can do everything a normal blacksmith can.
 -   Trophy Room (5000) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
     -   Artisan - An upgrade to the Trophy Room that costs 10,000 Notes for hire. For 800 Notes, allows the Player to merge attributes and appearance of an Item.
--   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or spawn in the server and the guild base is active you can spawn in the room.
+-   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room.
 
 ## Trivia
 

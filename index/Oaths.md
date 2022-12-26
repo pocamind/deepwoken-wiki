@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43638
+revid: 43706
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Linkstrider | |
 |---|---|
-| oath_req | 4 players with oaths |
+| oath_req | Sacrifice 4 players with oaths in the Entropy Catalyst. |
 | effects | +2 Support Mantra, +1 Wildcard Mantra |
 
 | Oath: Jetstriker | |
@@ -220,7 +220,7 @@ Does not grant any special cosmetic based on race.
 
 _"You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength."_
 
-**Oath: Linkstrider** is one of the many oaths that got released with Verse 2. To obtain its skills, you must grip players with **Oaths**.
+**Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
 ### Obtainment
 
@@ -235,7 +235,7 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
--   **Gate**
+-   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
 
 -   **Symbiotic Sustain**
@@ -249,7 +249,8 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ### **Notes**
 
--   Once you put a knocked player in the slot, they will die and get sent to the Depths _(unconfirmed)._
+-   Once you put a knocked player in the slot, they will die and get sent to the Depths.
+-   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 
   
 
@@ -322,8 +323,10 @@ To obtain the mantras you must participate in killing 3 greater angels around th
     -   This causes your character to sprout out wings, increasing the distance covered by your air dashes and possibly doing other things as well...
         -   Using **Fire Blade** with your wings out causes it to be modified, causing your character to rise up in the air and perform a large multi-hitting slash.
 -   **Celestial Assault**
+    -   Use your wings and deliver two critical blows.
 -   **Sinister Halo**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
+        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of manually aiming it will automatically track any opponent
 
 ### Effects
 
@@ -337,14 +340,14 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
 
 ### Obtainment
 
-1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
+1.  Have 50 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
     1.  Talk to the Radio Man
     2.  Activate the Generator
     3.  Talk to Alpha
     4.  Retrieve injured Elphis
     5.  Talk to Alpha again
-3.  Return to surface and talk to Delta at Ignition Union Base
+3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
     
     File:Arcwarder transform.gif
     
@@ -445,5 +448,5 @@ None.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown.
--   Visionshaper has the most oath mantras out of all current oaths.
+-   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Whether that will be added to the game or not is unknown.

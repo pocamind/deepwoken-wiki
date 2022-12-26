@@ -1,18 +1,20 @@
 ---
 title: Meteor
-revid: 42884
+revid: 43702
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Meteor
 
-wierd meteor found in etris
+Meteor found in Etris
 
-a meteor found in etris and in erisia above erisor church currently unknown what it does
+These purple meteors are found in random locations such as Etris, Erisia, Minityrisia, etc.
 
-wierd meteor in erisia
+These are meant for people with the oath Linkstrider to use, as they will be able to teleport to these locations once unlocking the ability.
 
-talking to it display a message on your screen saying i feel connected to this somehow but i cant reach out to touch it
+Meteor found in Erisia on walls above the Church
 
-(might be relate to some kind of an oath)
+Interacting with them without the oath Linkstrider, will give you the message "I feel connected to this somehow but I can't reach out to touch it."
+
+So far, only use for these meteors are for Linkstrider, however more might be discovered in the future.

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 42307
+revid: 43694
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -138,7 +138,7 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 **Luck** - During all seasons, you will automatically receive max luck. This boss also gives [Resonance](Resonance.md) Progress, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
 -   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Moon Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
--   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
+-   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item can summon [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md), 1/4 drop from defeating ferryman.
 

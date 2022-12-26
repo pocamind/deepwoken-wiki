@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43544
+revid: 43700
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -134,8 +134,6 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   Prerequisites: 25 Agility, 25 Fortitude
 -   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisites: 20 Agility
--   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, Swift Rebound
 
 ### Amoran Seeker
 
@@ -270,13 +268,19 @@ These are not talents but mantras exclusive for Blindseers. All Blindseer mantra
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
--   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility
+-   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility, Swift Rebound
+-   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
+    -   Provides I-frames for the duration of the invisibility (3 seconds)
+    -   Has a short cooldown
+    -   Prerequisites: Evasive Expert, Risky Moves, Swift Rebound
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
     -   Prerequisites: 25 Agility
     -   Mutual Exclusive: Observation, Safety Dance
+-   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+    -   Prerequisites: 15 Agility
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, atleast 45 Agility.
@@ -999,13 +1003,6 @@ These are just raw stat increases and are beneficial to anyone.
 ### **Mr Charm**
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
-
-### Ministry Operative
-
--   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
-    -   Provides I-frames for the duration of the invisibility (3 seconds)
-    -   Has a short cooldown
-    -   Prerequisites: Evasive Expert, Risky Moves, Swift Rebound
 
 ### Mindbreaker
 

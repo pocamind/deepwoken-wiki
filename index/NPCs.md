@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 43535
+revid: 43680
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -315,6 +315,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
   <td>Grants four wishes</td>
   <td>A Resonance is required to talk to the statue or you are instantly killed and wiped</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="Zana.md">Zana</a></td>
+  <td>Pathfinder</td>
+  <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
+  <td>Questline for 'Poser Ring'</td>
+  <td>Challenges you with your Katana equipped in 3 different locations.</td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 43112
+revid: 43697
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -27,7 +27,3 @@ categories: [Weapons, Greataxes]
 ## Description
 
 The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and Frostdraw. Wielding it requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.64x.
-
-## Trivia
-
--   One of the largest weapons in the game.

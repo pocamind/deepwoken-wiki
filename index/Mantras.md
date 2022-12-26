@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 42595
+revid: 43696
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -17,6 +17,8 @@ notices:
 ## Description
 
 File:Wiped3.png
+
+Damn, who is this guy??
 
 Considered to be the root of Ether's usage, Mantras are the heart of Deepwoken's magic system and take the form of various spells and abilities. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 
