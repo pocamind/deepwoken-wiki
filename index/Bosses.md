@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 43595
+revid: 43710
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -15,7 +15,7 @@ Every opponent on these lists has either a:
 -   Unique summoning system
 -   Unique/guaranteed spawns
 -   Unique/good drops
--   High Luck/Progress drops
+-   High progress drops
 
 ## Official Bosses
 

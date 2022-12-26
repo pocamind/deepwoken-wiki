@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 43694
+revid: 43712
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -135,7 +135,7 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 
 ## Rewards
 
-**Luck** - During all seasons, you will automatically receive max luck. This boss also gives [Resonance](Resonance.md) Progress, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
+**Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
 -   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Moon Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.

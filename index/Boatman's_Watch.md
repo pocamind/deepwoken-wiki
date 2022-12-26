@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 43515
+revid: 43709
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -38,7 +38,7 @@ Boatman's Watch is a small island covered in vegetation. An arena can be found i
 4.  [The Ferryman](The_Ferryman.md) will spawn in the middle.
 5.  Interact with him and the battle will start.
 
--   Rewards in high-tier EXP, [Luck](Luck.md) and a seasonal reward.
+-   Rewards in high-tier EXP and a seasonal reward.
 
 Once spawned, you will not be able to leave Boatman's Watch until you defeat The Ferryman, die or combat log.
 

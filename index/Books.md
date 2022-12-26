@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43675
+revid: 43708
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -99,6 +99,10 @@ There's something wrong.
 There's something wrong.
 
 There's something-
+
+### **God in the Machine**
+
+_by the Keeper of Truths_
 
 ### **Lumen's Folklore: Volume 'Attunement'**
 

@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 43561
+revid: 43720
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -31,3 +31,6 @@ Umbral Obsidian is a material used to obtain the [Shadowcast](Shadowcast.md) [at
 if this is seen by the page owner please do not take down my edit
 
 there is no page owner man dw
+
+i also wanted to type here :)  
+im glenn quagmire

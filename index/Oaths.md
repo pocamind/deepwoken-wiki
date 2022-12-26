@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43706
+revid: 43742
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -224,7 +224,7 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 
 ### Obtainment
 
-1.  Get 4 players with Oaths
+1.  Get 4 players with Oaths (might have to be all different)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot
@@ -232,11 +232,13 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 
 ### **Known Abilities**
 
--   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
-
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
+        -   Current known locations are...
+            1.  Hygiea, near Songseeker Wilds
+            2.  Eunomia,
+-   **Symbiotic Link**
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
 -   **Symbiotic Sustain**
     -   If linked to an ally (signified by blue cord), this move will take a percentage of **YOUR** health and then heal your **ally** by that amount.
@@ -264,7 +266,7 @@ _"You vow to flow with the song itself, drifting across where the trails may tak
 
 1.  Have 50 agility
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) and to the left
-3.  Beat Alirian in a race to a specific point that is marked with an orange marker.
+3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
 
 To obtain the talents you must locate and interact with 5 white orbs around the map.
 
@@ -409,6 +411,7 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
     -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 -   **Absolute Radiance - Passive**
     -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+        -   You do not gain immunity to mantras, you gain immunity to their status effects. So you cannot be put on fire or be chilled for example.
 
 ### Effects
 

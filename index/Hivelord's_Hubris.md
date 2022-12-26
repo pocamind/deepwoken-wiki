@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 43141
+revid: 43721
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -35,6 +35,6 @@ The Hivelord's Hubris is a Greathammer resembling the arm of a [Hive Construct](
 ## Notes & Trivia
 
 -   Drops from the [Rogue Construct.](Hive_Construct.md#rogue-construct)
--   It is the slowest weapon in the game.
+-   I̶t̶ ̶i̶s̶ ̶t̶h̶e̶ ̶s̶l̶o̶w̶e̶s̶t̶ ̶w̶e̶a̶p̶o̶n̶ ̶i̶n̶ ̶t̶h̶e̶ ̶g̶a̶m̶e̶.̶ Not true, It has the same attack speed as weapons with 0.6 swing speed and 0.1 end lag due to it not having end lag
     
     File:Arm.png

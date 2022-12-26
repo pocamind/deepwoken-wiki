@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43700
+revid: 43719
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -66,6 +66,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisites: 5 Agility
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
+    -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
     -   Prerequisite: Time To Go
 
 ### Aerial Dancer

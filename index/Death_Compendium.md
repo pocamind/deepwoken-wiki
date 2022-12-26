@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 43208
+revid: 43707
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -39,6 +39,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Getting dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 -   Be detected logged by the anti-cheat, typically without actually cheating and without being banned. Also known as _being AA-gunned_.
     -   **Note:** You will not be auto-banned for being AA-gunned, but a log of it will be made. If you die too many times via being AA-gunned, you _will_ be at a higher risk for being banned. Have a clipping software open at all times in case this happens.
+-   Mistaking the parasite eggs growing on your body for clumps of snow in [Layer 2](Second_Layer.md).
 
 This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 
