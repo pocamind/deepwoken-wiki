@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 42975
+revid: 43495
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -47,7 +47,12 @@ Template:Races-Main
 
   
 
--   O Pardoner of Mine, book that can be found in Virgil book by searching through them.
+-   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
+-   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
+-   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
+-   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
+-   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
+-   Hiri in Greathive Aratel and Lake in Upper Erisia reveal lore about the Chrysid.
     
 
 **Strengths:**

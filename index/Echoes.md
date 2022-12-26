@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 43457
+revid: 43603
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -26,17 +26,16 @@ categories: [Echoes, Character, Mechanics]
 
 ### Ways of Obtaining Echoes
 
--   Gaining Power, awarding (???) Echo per Power Level.
--   Unbounding your Attributes and Ability, awarding 5 Echoes per Unbound.
+-   Gaining Power, awarding 1 Echo per Power Level.
+-   Unbounding your [Attributes](Attributes.md), awarding 5 Echoes per [Unbound](Attributes_Unbound.md).
 -   Obtaining your [Oath](Oaths.md), awarding 5 Echoes.
 -   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
 -   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), awarding 5 Echoes.
--   Defeating [Duke Erisia](Duke_Ishamon_Erisia.md), awarding 5 Echoes.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), or the Chaser Boss, awarding 5 Echoes each, respectively.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Soulbounding a [Enchant](Enchantments.md), awarding 5 Echoes.
+-   Soul-bounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes.
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
 
 ## Upgrades and Modifiers
 

@@ -1,9 +1,9 @@
 ---
 title: "Erisor's Church"
-revid: 42569
+revid: 43555
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Pages with broken file links, Locations, World, Lower Erisia]
 ---
 
 # Erisor's Church

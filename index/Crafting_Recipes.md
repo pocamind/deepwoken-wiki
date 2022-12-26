@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 41145
+revid: 43559
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,6 +28,7 @@ These are recipes that are not used to produce food or potions.
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
 -   **Monster Bait** - _3 Chum_
+-   **Iron Bomb -** _1 Coal, 2 Irons_
 
 Picture of a Crafting Bench
 
@@ -140,10 +141,16 @@ _**Negative**_
 -   Overall best healing potion and easiest to make, recommended for all players.
 
  |
-| **Focus-Enhancing Elixir < Focus-Enhancing Potion** | 
+| **Focus-Enhancing Elixir < Focus-Enhancing Potion** | **Elixir:**
 
 -   2x Browncap
 -   2-3x Gathered Wheat
+
+**Salve:**
+
+-   2x Plumfruit
+-   1x Wheat
+-   1x Gobletto
 
  | _**Positive**_
 

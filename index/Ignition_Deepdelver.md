@@ -1,15 +1,14 @@
 ---
 title: Ignition Deepdelver
-revid: 43438
+revid: 43504
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Outfits]
 ---
 
 # Ignition Deepdelver
 
-**Ignition Deepdelver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
-
-Template:ArmorInfobox
+Template:ArmorInfobox **Ignition Deepdelver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -21,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance, +35% Elemental resistance, +15% Ice resistance and +20% Ether regen
+The outfit has 3000 durability, grants +15% Ice Armor, +35% Elemental Armor, +20% Ether Regeneration and +30% Physical Armor. Additionally, it provides the [Force Your Way](Talents.md#ignition-deepdelver) Talent.
 
 ## Location
 

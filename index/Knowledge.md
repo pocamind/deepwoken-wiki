@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 43207
+revid: 43584
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,6 +17,7 @@ Knowledge is shown at the bottom right of the screen. It has a minimum value of 
 ## Effects of Knowledge
 
 -   Currency used for Deep Shrines
+-   Used by Mystic npc
 -   Echoes???
 
 ## **Notes**

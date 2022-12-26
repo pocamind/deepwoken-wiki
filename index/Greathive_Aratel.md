@@ -1,9 +1,9 @@
 ---
 title: Greathive Aratel
-revid: 41372
+revid: 43517
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World, Eastern Luminant]
 ---
 
 # Greathive Aratel
@@ -21,7 +21,7 @@ Template:Areainfobox**Greathive Aratel** is a location in _Deepwoken_. It is a s
 
 Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement.
 
-To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you met these requirements, you are able to invoke with the Greathive Fountain in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village in Upper Erisia](The_Hidden_Village.md), or behind the [King's Palace in Etris](Etris.md).
+To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
 
 It is also possible to just [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
 
@@ -71,8 +71,8 @@ The doors to enter the Lordsgrove.
 
 #### R&D
 
--   There is a hidden laboratory behind a breakable bookshelf, it serves no purpose as of 05/23/2022.
--   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by naktigonis.
+-   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon enchant.
+-   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by Naktigonis.
     
 
 ### Canopy Plaza

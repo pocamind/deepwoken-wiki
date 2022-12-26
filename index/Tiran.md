@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 43286
+revid: 43522
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races]
@@ -87,4 +87,5 @@ Tirans are an extremely rare race that has a bird motif. They have special circl
 
 ## Notes/Trivia
 
-The eyes of each variant may reference eyes from anime, Canary representing the Sharingan from the Naruto franchise, the rest of the variants representing Makima's eyes from the Chainsaw Man anime/manga
+-   The eyes of each variant may reference eyes from anime, Canary representing the Sharingan from the Naruto franchise, the rest of the variants representing Makima's eyes from the Chainsaw Man anime/manga
+-   The word "tiran" orginates from Ancient Greek, it means abouslute ruler of an Ancient polis.

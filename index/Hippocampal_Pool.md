@@ -1,9 +1,9 @@
 ---
 title: Hippocampal Pool
-revid: 36484
+revid: 43549
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Death]
 ---
 
 # Hippocampal Pool

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 42681
+revid: 43639
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -196,7 +196,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mineskippers are Mudskippers that wear mining helmets and the Experienced Adventurer outfit. They can disguise themselves as barrels and can wield pickaxes. They are found in mines.
+Mineskippers are Mudskippers that wear mining helmets and the [Experienced Adventurer outfit](Outfits.md). They can disguise themselves as barrels and can wield pickaxes. They are found in mines.
 
 ## Moveset
 

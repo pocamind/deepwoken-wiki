@@ -1,9 +1,9 @@
 ---
 title: Voidheart
-revid: 42758
+revid: 43521
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World, Eastern Luminant]
 ---
 
 # Voidheart

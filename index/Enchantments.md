@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 43355
+revid: 43642
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -128,7 +128,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker gets placed on the enemy, press R (Your crit) to teleport on them and the crit will hit - The range of this is unknown</p></div></td>
+  <td><div><p>On hit, a red eye marker gets placed on the enemy, press R (Your crit) to teleport on them and the crit will hit - The range of this is unknown, also your critical animation looks like the katana one.</p></div></td>
   <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
 </tr>
 <tr>
@@ -170,7 +170,8 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Unknown&nbsp;% chance to add an unknown effect every hit.</p></div></td>
+  <td><div><p>Applies a Solar Mark on proc.<br>
+  Highlights marked enemies, and when you vent, you steal some Ether from marked opponents.</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>
@@ -237,7 +238,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. The curse of this weapon is unknown</p></div></td>
+  <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. The curse of this weapon is that your critical doesn't work. (Needs to be tested)</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>
@@ -405,7 +406,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
   <font>Ferocity<div></div></font></center></td>
-  <td><div>Creates small bubbles that track the opponent and deal damage. (Maybe)<br>
+  <td><div>Heavily reduces fall damage. (Might have another use to damage)<br>
   </div></td>
   <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>

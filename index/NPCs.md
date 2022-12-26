@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 43102
+revid: 43535
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -131,6 +131,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etris.md">Etris</a>, steps near Etris Palace</td>
   <td>Begins Lord Regent questline</td>
   <td>Requires positive Etrea reputation, is killed during the events of the quest, cannot be interacted with afterwards</td>
+</tr>
+<tr>
+  <td><a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><a href="Castle_Light.md">Castle Light</a></td>
+  <td><a href="Oaths.md#oath-dawnwalker">Dawnwalker Oath</a> obtainer</td>
+  <td>Also provides a Deepshore Fossil</td>
 </tr>
 <tr>
   <td>Lake</td>

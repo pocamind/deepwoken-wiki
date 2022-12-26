@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 42564
+revid: 43583
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -52,7 +52,7 @@ File:No Attunement Revamp.png
 -   A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.
 -   Strong Left scales with your Strength attribute.
 
--   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
+-   Can Fell trees
 
  |
 | 

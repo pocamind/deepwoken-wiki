@@ -1,9 +1,9 @@
 ---
 title: Varicosa District
-revid: 36063
+revid: 43567
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, The Depths, Layer 1]
 ---
 
 # Varicosa District

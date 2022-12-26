@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 37527
+revid: 43505
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPC, Npc]
@@ -11,11 +11,11 @@ categories: [NPCs, NPC, Npc]
 | Cestis | |
 |---|---|
 | name | Cestis |
-| location | The Hidden Village |
+| location | Meteor Isle |
 
 ## Description
 
-A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md) presumably working for the Ministry, his main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur.md) Murmur.
+A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably working for the Ministry, his main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur.md) Murmur.
 
 ## Dialogue
 

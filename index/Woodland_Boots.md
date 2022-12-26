@@ -1,8 +1,9 @@
 ---
 title: Woodland Boots
-revid: 38867
+revid: 43553
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Armors, Boots]
 ---
 
 # Woodland Boots

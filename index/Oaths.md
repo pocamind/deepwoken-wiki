@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43442
+revid: 43638
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -198,7 +198,7 @@ Visionshaper also has one talents obtained via standard level up.
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
-The following talent is obtained by leveling up after obtaining Visionshaper.
+The following talent is obtained by leveling up after obtaining and maxing out Visionshaper.
 
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
@@ -233,10 +233,15 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 ### **Known Abilities**
 
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally.
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
 -   **Gate**
     -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
+
+-   **Symbiotic Sustain**
+    -   If linked to an ally (signified by blue cord), this move will take a percentage of **YOUR** health and then heal your **ally** by that amount.
+-   **Symbiotic Leech**
+    -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
 
 ### Effects
 
@@ -279,6 +284,7 @@ To obtain the talents you must locate and interact with 5 white orbs around the 
 -   **Stratos Step - Passive**
     -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
         -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance, you will easily hurt yourself.
+            -   You can only boost yourself up twice before it goes on cooldown.
 -   **Decisive Winds - Passive**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 -   **Rush of Ancients - Passive**
@@ -295,19 +301,20 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
 
-### Obtainment (presumed)
+### Obtainment
 
 1.  Have 50 strength, grip one player of any race
-    
-    File:RobloxScreenShot20221224 161647151.png
-    
-    Example of what Samael will say if you do not meet the requriements. Otherwise, he will call you a cocoon, and you can further talk to him about obtaining the oath.
-    
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
 3.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP, TESTED!), located above the Startree Voidzone in Starswept Valley.
 4.  Return to Samael to get the Oath.
+
+To obtain the mantras you must participate in killing 3 greater angels around the East Luminant.
+
+1.  In Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
+2.  Right next to the inn at Summer Isle
+3.  Songseeker, on top of the derelict towers, in front of the campfire
 
 ### Known Abilities
 
@@ -328,9 +335,9 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) about 5-6 times.
 
-### Obtainment (presumed)
+### Obtainment
 
-1.  Have 50 Fortitude, 20 Flamecharm and 20 Thundercall.
+1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
     1.  Talk to the Radio Man
     2.  Activate the Generator
@@ -376,7 +383,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 _"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
 
-**Oath: Lifeweave** is one of the many oaths that was released with Verse 2.
+**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
 
 ### Obtainment
 
@@ -396,9 +403,9 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
 -   **Protagonist Syndrome - Passive**
-    -   The grasp of shadow is meaningless in the face of your blinding light. Your Lifeweave mantras are empowered after being hit by Shadowcast. (+5 Health)
+    -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 -   **Absolute Radiance - Passive**
-    -   Dealing damage with Lifeweave mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+    -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
 
 ### Effects
 

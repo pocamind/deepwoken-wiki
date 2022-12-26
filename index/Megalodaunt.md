@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 43153
+revid: 43592
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -268,9 +268,9 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Mecha version of the Megalodaunt, exclusive to Miner's Landing and Saramaed Summit, they are very strong version of a Megalodaunt, maybe stronger than an alpha megalodaunt. However this creature
+The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in Miner’s Landing, and it’s voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
 
-## **Attacks**
+## **Trivia**
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |

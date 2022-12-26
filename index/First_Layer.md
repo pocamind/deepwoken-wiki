@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 43471
+revid: 43485
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1 - 10 | Nothing (you are sent up without a fight) |
+| 1 - 4 | Nothing (you are sent up without a fight) |
 | 11 - 19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 29 | [Angel](Hollow_Angel.md) (Lesser) |
 | 30 - 49 | [Megalodaunt](Megalodaunt.md) |

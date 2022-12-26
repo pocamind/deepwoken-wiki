@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43358
+revid: 43544
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -208,7 +208,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
+-   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
     -   Prerequisite: 90 Fortitude, 90 Willpower, Perseverance
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
@@ -1002,10 +1002,10 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Ministry Operative
 
--   Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 passive agility)
+-   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
-    -   Prerequisites: 40 Agility, Risky Moves
+    -   Prerequisites: Evasive Expert, Risky Moves, Swift Rebound
 
 ### Mindbreaker
 
@@ -1181,6 +1181,8 @@ Prerequisite: Charisma
 
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
     -   Prerequisite: 40 Thundercall, 15 Intelligence
+-   Quick Link \[Commin Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
+    -   Prerequisite: Static Link
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -1738,6 +1740,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Chief's Will - Your Way of Navae fist style has 25% armor PEN.
 
+### [Ignition Deepdelver](Ignition_Deepdelver.md)
+
+-   Force Your Way - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
+
 ### **Flamecharmer**
 
 -   Intrepid Flame - Flames wear off slower on you. (Obtained by wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md) Outfit)
@@ -1828,24 +1834,7 @@ Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted. (+
 Command: Sacrifice \[50 Rare Talent\] - Sacrifice the health of your own. (+4 Ether, +4 Health)  
 Command: Return \[60 Rare Talent\] - Command your servant to obey your vow. (+4 Ether, +4 Health) Prerequisites: Vow of Mastery  
 Speed Demon \[Rare Talent\] - Your attacks now inflict bleed. (+1 Passive Agility, +3 Carry Load)  
-Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +4 Health)
-
-## **List of Rollable Legendary Talents/Green Talent Cards**
-
-  
-Exoskeleton \[Legendary Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)  
-Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
-Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
-Neuroplasticity \[Legendary Talent\] - Your mind is a psychological substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot, +20 Reservoir)  
-True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies damage of your highest investment. (+4 Ether, +7 Reservoir)  
-Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air. (+3 Elemental Intensity)  
-Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible. (+5 passive agility)  
-Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)  
-Golden Tongue \[Legendary Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)  
-A World Without Song \[Galebreathe Exclusive, Legendary Talent\] - All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +3 Health)  
-Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
-Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)  
-Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground. (+3 Health)  
+Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +4 Health)  
 
 ## Blacklisted Talents
 
@@ -1863,9 +1852,7 @@ Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies
 Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself.  
 Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
 Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)  
-Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)  
-
-  
+Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
 
 ## Notes/Trivia
 

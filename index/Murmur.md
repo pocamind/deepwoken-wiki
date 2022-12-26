@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 42761
+revid: 43588
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -92,3 +92,13 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 Template:ImageCaption Infobox _"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
 
 Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
+
+### Obtainment
+
+In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge).
+
+You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly.
+
+Repeat this task 3 time and you will be granted the murmur.
+
+**Failure will result in an immediate death.**

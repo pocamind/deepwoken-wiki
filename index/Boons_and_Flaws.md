@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 42349
+revid: 43540
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -24,6 +24,8 @@ Boons are positive and helpful effects. They usually have less of an impact than
 | Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
   
 Does not generate points over the total maximum, and instead, takes them away from levels in the late-game.
+
+Autodidact orbs. glowing white spheres floating above the corpses of dead enemies, grant 2 Autodidact investment points.
 
  | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |

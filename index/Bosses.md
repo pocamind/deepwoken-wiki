@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 42031
+revid: 43595
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -23,6 +23,7 @@ Every opponent on these lists has either a:
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Dread Serpent](Dread_Serpent.md)
+-   [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)
 
 ## Unofficial/Mini Bosses
 

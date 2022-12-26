@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 43331
+revid: 43530
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, other obtainment unknown |
+| obtainment | Miner's Landing, Chime of Conflict, other obtainment unknown |
 | description | A shield designed intricately, most likely from a pre-Canticlyms era. It's intricate design suggests previous use in royalty, although it cannot be said for sure. |
 
 ## Description
@@ -36,4 +36,4 @@ The Old World Greatshield is a shield found in Mechalodaunt chests. It has 1.6 w
 
 ## Trivia
 
--   There is no trivia at this time
+-   The description says that this shield may have been used in royalty.
