@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 42005
+revid: 43793
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -16,7 +16,7 @@ Shadowcast is an attunement that the player is required to unlock and can not st
 
 The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential, especially with the LordSendo shadowblade mantra cancel technique, which is very hard to deal with. Arguably the best attunement to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
 
-However, shadowcast works best with plenty of time to work with, able to fight at top-shape for long periods of time. Its delayed action attacks, and reliance on ramping up pressure over time makes shadowcasters vulnerable to bursting and prediction. An adept opponent will typically try to end a shadowcast fight aggressively while countering any stray attacks with high precision. Dagger and galebreathe builds are particularly able to make this happen with relatively low mantra reliance and high combo potential respectively. It's recommended to drag out your fights, and use your mantras consistently to ensure your opponent's disadvantage grows over time.
+However, Shadowcast works best with plenty of time to work with, able to fight at top-shape for long periods of time. Its delayed action attacks, and reliance on ramping up pressure over time makes Shadowcasters vulnerable to bursting and prediction. An adept opponent will typically try to end a Shadowcast fight aggressively while countering any stray attacks with high precision. Dagger and Galebreathe builds are particularly able to make this happen with relatively low mantra reliance and high combo potential respectively. It's recommended to drag out your fights, and use your mantras consistently to ensure your opponent's disadvantage grows over time.
 
 ## Obtainment & Training
 

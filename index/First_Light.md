@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 39602
+revid: 43790
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Red Megalodaunt |
+| obtainment | Crimson Megalodaunt |
 | description | "" |
 
 ## Description

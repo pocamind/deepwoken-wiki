@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 42830
+revid: 43822
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -18,11 +18,11 @@ notices:
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._
+_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._ Template:Creature Info Box v2
 
 ## Description
 
-Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
+Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
 
   
 
@@ -52,7 +52,7 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 
   
 
-## Notes
+## Trivia
 
 -   The go-to mob to farm for high levelled players.
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
@@ -65,11 +65,11 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 
 # King Thresher
 
-_Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other names_
+_Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
 
 ## Description
 
-Template:Creature Info Box v2The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster.
+The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster.
 
   
 
@@ -101,3 +101,12 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 -   DO NOT fight this monster on slopes as it will keep moving back it forth, thus making it more difficult to avoid/parry it's attacks. If possible try to fight it in a somewhat (not too) open and flat area. If it is on a slope, lure it to flat ground.
 -   Be aware your environment, have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
 -   A safe way to practice fighting a King Thresher would be to head to the Lightkeeper temple located on the far right side of [Starswept Valley](The_Starswept_Valley.md). Once you enter, on your right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway if your low, but do be warned as there are other threshers in the area.
+    
+
+**Nightmare Thresher:**
+
+# Nightmare Thresher
+
+_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher_
+
+Template:Creature Info Box v2

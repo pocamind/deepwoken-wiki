@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43708
+revid: 43824
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -170,7 +170,7 @@ A lump in my throat grows each time I walk into Merit's tavern. I am only worth 
 
 A little light of hope sparks within me sometimes, despite this. Perhaps it's just residual ether, perhaps it's muscle memory tied to my flame. This light this little light within my soul tells me that there is a future, a real legacy to leave behind. It lasts until I'm greeted by the mirror once again. Tattoos and cracks, little lines and bruises adorn this vessel. My eyes glaze, anguished, draping a cloth over the mirror, then sitting within the barracks for hours, waiting. Waiting for nothing in this worn down, broken vessel. I often find myself conjuring flame just to hold close, to see if this is real. To see if I can feel still. To see if this is just a dream I'll wake from. Opening my eyes, I meet the sear upon the vessel. And for all of that, what is my reward? Resounding silence. I can start a family, no, I can start a fire. That's all I've ever been able to do. I don't go by what anyone says, anymore.
 
-(In progress) 5 more pages
+(In progress, someone please finish the last pages, got ganked and lost the book) 5 more pages
 
 ### Eggs In A Basket
 

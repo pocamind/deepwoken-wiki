@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 42556
+revid: 43801
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,16 +18,15 @@ Template:Creature Infobox V3
 
 The **Deep Owl** (also referred to as "Owl", "Wan Shi Tong", or "Big black man") is an exceptionally uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
 
-  
+Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths.
 
-  
-Deep Owls will only spawn in the _Etrean Luminant_[\[1\]](#cite-note-1) while the moon is out, This restriction does not apply to The Depths.
-
-When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
+When appearing in _Upper Erisia_, its presence will be signalled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
 Once the dialogue ends, the owl will not attack unless hit first or **if** **the player turns their back.** _(Owls will also attack if it has already been spawned and you enter its detection range.)_ Just like escaping from dangerous wildlife such as lions or bears in real life, if the player maintains eye contact with the owl and walks backward, it will not attack and will eventually give up once out of detection range.
 
 The corrupted Deep Owls that spawn in _The Depths_ follow the aforementioned behaviour, but have significantly higher health and attack values than their uncorrupted variants on the _Etrean Luminant_.
+
+Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the moves are unlocked with Void feathers.
 
 ## Attacks
 
@@ -100,20 +99,15 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue, the player character however seems to remember, as after making the pact you can ask Surge: "What was that place you took me?" Surge however denies having taken you anywhere.
 -   The pact can be compared to a deal a Warlock may make with a deity similar to the Nestmind, in exchange for receiving the power of Visionshaping in your living life, and when you die your soul will be consumed into the Nestmind and it's remnants will become an owl.
 
-## Notes
+## Trivia
 
--   Feared by lower level players, but heavily sought out by mid-high level players for its Dark/Void Feather(s), considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
+-   Dark and Void feathers are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
--   ~Corrupted Deep Owls are guaranteed to drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md). Normal owls will rarely drop them.~ (Visionshaper now requires dark feathers, but the moves are unlocked with Void feathers)
--   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[2\]](#cite-note-2)
+-   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[1\]](#cite-note-1)
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
--   The Deep Owl's design is actually a reference to "Wan Shi Tong" from Avatar: The Last Airbender.
 -   (Probably) Unintentional, Resemble Owlbears from Dungeons and Dragons
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
 -   Used to be commonly called "Tyrone" in the earlier days of Deepwoken.
 
-## References
-
-1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
-2.  [↑](#cite-ref-2) [\[1\]](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
+1.  [↑](#cite-ref-1) [\[1\]](https://www.youtube.com/watch?v=J9OIBuv2Tl4)

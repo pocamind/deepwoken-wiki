@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 43742
+revid: 43819
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
+categories: [Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -224,7 +224,7 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 
 ### Obtainment
 
-1.  Get 4 players with Oaths (might have to be all different)
+1.  Get different 4 players with Oaths (have to be different accounts)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot
@@ -233,10 +233,13 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 ### **Known Abilities**
 
 -   **Entropy Link**
-    -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage.
+    -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage. (U NEED STARDUST FROM THE STARTREE AT HIVE IN ORDER TO TELEPORT)
         -   Current known locations are...
             1.  Hygiea, near Songseeker Wilds
-            2.  Eunomia,
+            2.  Eunomia, Above Sibex (TP bugs you sometimes)
+            3.  Ceres, Etris
+            4.  Europa, Minytrsa near Hero Valley/If u walk over the bridge and go forth a bit
+            5.  Pallas, Miners Landing at a Tiny Island infront of the Oathless trainer/ Near the Gate to Etrean Luminant
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
@@ -306,7 +309,7 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 
 ### Obtainment
 
-1.  Have 50 strength, grip one player of any race
+1.  Have 50 strength (PLAYER GRIPS ARE **NOT** REQUIRED. TESTED.)
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
@@ -328,7 +331,7 @@ To obtain the mantras you must participate in killing 3 greater angels around th
     -   Use your wings and deliver two critical blows.
 -   **Sinister Halo**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
-        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of manually aiming it will automatically track any opponent
+        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hit.
 
 ### Effects
 
@@ -342,7 +345,7 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
 
 ### Obtainment
 
-1.  Have 50 Fortitude, 20 Flamecharm and 20 Thundercall.
+1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
     1.  Talk to the Radio Man
     2.  Activate the Generator
@@ -350,11 +353,6 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
     4.  Retrieve injured Elphis
     5.  Talk to Alpha again
 3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
-    
-    File:Arcwarder transform.gif
-    
-    Transforming Arcwarder
-    
 
 ### Known Abilities
 

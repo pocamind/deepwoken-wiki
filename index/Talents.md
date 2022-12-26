@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43719
+revid: 43820
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
@@ -16,7 +16,7 @@ notices:
 
 ## Overview
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two hands containing five to six Talent Cards.
 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold or Legendary Echoes.
 
@@ -45,6 +45,46 @@ Note: These all apply vice versa
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
+
+## Talent quests
+
+Coming along with the verse 2 update, crutial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked and given to a character upon reaching specific power. Their given quests will be listed on the list:
+
+### Engage
+
+-   Quest giver located in burning stone gardens
+
+### Critical Attack
+
+-   Quest giver located in burning stone gardens
+
+### Aerial Assault
+
+-   Quest giver located in lower erisia
+
+### Thresher Scales
+
+Quest giver located at the hive
+
+File:Thresherquest1.png
+
+-   Jessamine will ask you to kill a king thresher
+-   King threshers spawn around this area. one will also spawn at the lightkeepers temple
+-   Completing the quest will grant the talent or a free talent hand if you already have it.
+
+### Tree-Felling blow
+
+-   Q
+
+### Family Recipe
+
+-   Q
+
+### Harvester
+
+-   Talk to Ciea which is located inside of the hive widow cave entrance
+-   Make 2 hastening potions. They are made from 1 pomar each. unfortunately, the nearest cauldron is located inside the hive base
+-   Miscegenation
 
 ## Talents
 
@@ -219,9 +259,10 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 10 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
--   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
-    -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
-    -   Prerequisite: 90 Fortitude
+-   ~Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)~
+    -   ~PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN~
+    -   ~Prerequisite: 90 Fortitude~
+    -   **This Talent does not Exist anymore since Verse 2**
 
 ### Beast Slayer
 
@@ -315,7 +356,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Colossus
 
--   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture. (+1 Posture, +2 Carry Load, +1 Health)
+-   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You deal additional posture damage when you parry enemies. (+1 Posture, +2 Carry Load)
     -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
     -   Prerequisites: 25 Strength.
@@ -1458,7 +1499,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Chronostasis \[Rare Talent\] - Landing an M1 puts resonance on cooldown for a short duration.
 
--   Engage \[Common Priority Talent\] - Landing M1 attacks restores your Ether. (+5 Ether, +1 Posture)
+-   Engage \[Common Priority Talent\] \[Quest Unlockable\] - Landing M1 attacks restores your Ether. (+5 Ether, +1 Posture)
 -   Critical Attack \[Common Priority Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
 ### **Waterborne**
@@ -1787,6 +1828,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
   
 
   
+**wut is this:**
 
 Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals self-damage (20% damage). (+3 Health)  
 Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, +4 Health)  

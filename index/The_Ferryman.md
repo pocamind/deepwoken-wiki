@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 43712
+revid: 43792
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]

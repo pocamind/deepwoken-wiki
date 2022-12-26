@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 43680
+revid: 43784
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -110,6 +110,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>The Depths, Varicosa District</td>
   <td>Trades Deep Gems for random loot</td>
   <td>Generally considered not worth it unless you have a Deep Gem you don't plan on using</td>
+</tr>
+<tr>
+  <td><a href="Jessamine.md">Jessamine</a></td>
+  <td>Unaligned</td>
+  <td><a href="The_Starswept_Valley.md">Starswept Valley</a>, <a href="Widow's_Hollow.md">Widow's Hollow</a></td>
+  <td>Gives Thresher Scales quest</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Kana.md">Kana</a></td>

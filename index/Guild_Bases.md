@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 43647
+revid: 43795
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -34,6 +34,8 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Trophy Room (5000) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
     -   Artisan - An upgrade to the Trophy Room that costs 10,000 Notes for hire. For 800 Notes, allows the Player to merge attributes and appearance of an Item.
 -   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room.
+-   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
+-   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 
 ## Trivia
 
