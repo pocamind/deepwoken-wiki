@@ -1,26 +1,45 @@
 ---
 title: Knowledge
-revid: 44058
+revid: 44172
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pages with broken file links, Mechanics]
 ---
 
 # Knowledge
 
-**Knowledge** is a new feature introduced in the _**[Verse 2](Version_History/2026.md)**_ update, to replace luck clovers. It is treated as a currency like notes.
+File:Knowledge.png
+
+**Knowledge** is a new feature introduced in the _**[Verse 2](Version_History/2026.md)**_ update, to replace luck clovers.
 
 ## Overview
 
-Knowledge is shown at the bottom right of the screen. It has a minimum value of X and maximum of X
+Knowledge is shown at the bottom right of the screen, above your notes.
 
-## Shrines
+It is treated as a currency like notes~, but unlike them, it is non-renewable.~ See "Obtainment"
 
--   Shrine of Mastery- Allows you to exchange one invested trait point for another for 5 knowledge points.
--   Shrine of Order- Allows you to evenly distribute your points across all of your invested attributes for 5? knowledge points. think carefully before using this shrine
--   Shrine of Chance- Allows you to exchange one talent card for another random one of equal rarity that you meet the requirements for for 5 knowledge points
--   Shrine of Temptation- Allows you to instantly gain 3 levels of power for 5 knowledge. BE WARNED! you wont gain any XP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. (it may also give you an extra flaw, im unsure). you will gain 3 points of knowledge from leveling from this shrine. think carefully before using this shrine
--   Shrine of Blasphemy- Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for for 5 knowledge points (unsure if rolled mantras are of the same star tier as the re-rolled one)
+## Obtainment
+
+-   Leveling up gives you one knowledge point.
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) gives you 2? knowledge points.
+-   Purchasing knowledge from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) using Krysan Medallions.
+
+## [Shrines](Deep_Shrines.md)
+
+-   _Shrine of Mastery_
+    -   Allows you to exchange one invested trait point for another for 5 knowledge points.
+-   _Shrine of Order_
+    -   Allows you to evenly distribute your points across all of your invested attributes for 5 knowledge points.
+    -   Think carefully before using this shrine.
+-   _Shrine of Chance_
+    -   Allows you to exchange one talent card for another random one of equal rarity that you meet the requirements for for 5 knowledge points.
+-   _Shrine of Temptation_
+    -   Allows you to instantly gain 3 levels of power for 5 knowledge as well as getting a random flaw that you have unlocked.
+    -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine.
+    -   Think carefully before using this shrine.
+-   _Shrine of Blasphemy_
+    -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for for 5 knowledge points.
+    -   (unsure if rolled mantras are of the same star tier as the re-rolled one)
 
 ## Locations
 
@@ -32,10 +51,8 @@ Knowledge is shown at the bottom right of the screen. It has a minimum value of 
 
 ## Effects of Knowledge
 
--   Currency used for Deep Shrines
--   Used by Mystic npc
--   Echoes???
+-   Currency used in deep deals, such as the Shrines around the world and Misérables in Layer 2.
 
-## **Notes**
+## **Trivia**
 
--   lab work
+-   _Knowledge_ functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._

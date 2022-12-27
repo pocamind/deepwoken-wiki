@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 40741
+revid: 44135
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -17,7 +17,7 @@ categories: [Character, Attributes]
 ### Strength Unbound
 
 1.  Reach 75 Strength.
-2.  Enter the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
+2.  Go behind the Lower Erisia
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
 4.  Approach the coffin then attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
 5.  Read the book in the room to obtain Strength Unbound.
@@ -33,10 +33,8 @@ categories: [Character, Attributes]
 ### Agility Unbound
 
 1.  Reach 75 Agility.
-2.  Enter the Valley of Heroes and keep going until you reach the part where a zipline connects to Songseekers Wild. Alternatively, reach this part by gliding from Songseekers Wild with enough height.
-3.  Proceed to walk above the wind gate nearby.
-4.  Attempt to climb the peak located past the wind gate.
-5.  Once at the top, talk to the Windrunner to obtain Agility Unbound.
+2.  Go to the top of the mountain with the Cave Entrance leading between Etris Docks and Etrean Wilds.
+3.  Talk to the Windrunner and obtain unbound.
 
 ### Intelligence Unbound
 

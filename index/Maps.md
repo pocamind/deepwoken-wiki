@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 42848
+revid: 44105
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -28,9 +28,9 @@ _As of the Verse 2 Update, almost all maps that include Aratel Island and/or the
 
 ## Maps
 
-An interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
+An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
-User Isco#7864 created a [physical manual](https://twitter.com/IscoFish/status/1522625495489261569) of the [Etrean Luminant map](https://map.deepwoken.net/) which can be obtained by printing [these](https://twitter.com/IscoFish/status/1522625699575652356).
+**An interactive map of the East Luminant can be found here: Map:East Luminant**
 
 ## Trivia/Notes
 

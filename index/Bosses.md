@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 43940
+revid: 44159
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -29,7 +29,7 @@ Every opponent on these lists has either a:
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
--   Chaser
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Unofficial/Mini Bosses
 

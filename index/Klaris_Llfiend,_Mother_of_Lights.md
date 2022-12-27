@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 43539
+revid: 44129
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,4 +28,4 @@ _After handing in all Diver Journals to her:_
 
 ## Trivia
 
--   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from him.
+-   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from her.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44092
+revid: 44175
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -283,10 +283,11 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ### Obtainment
 
-1.  Have atleast 50 Agility.
+1.  Have at-least 50 Agility.
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
+    -   Wait below the yellow marker, beating him then walking towards him counts as you losing so it's best to just wait until he stops at the marker as well.
 
 Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and asks the Player to bring the orbs to them for a Jetstriker Talent. You can bring the Orbs in bulk or all at once.
 
@@ -401,7 +402,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your eyes to orange.
 
 ## Oath: Dawnwalker
 
@@ -436,28 +437,6 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 
 This Oath grants two Combat Mantra slots.
 
-## Time Magic(?)
-
-### Obtaining
-
-Unobtainable, exclusive to The Knives of Eylis Captains. Might become a [Voidwalker](Origins.md) exclusive.
-
-### Known Abilities
-
--   **Time Bubble**
-    -   The user slows people around them by making a strange, vibrating noise, creating an expanding bubble around them.
-    -   Anyone who walks into this bubble will be slowed and their view given a monochrome palette.
-    -   The people inside are slowed to the point where they cannot move while crouched.
-    -   This can be easily cancelled by attacking the user therefore disrupting the noise.
-
-### Effects
-
-None.
-
-### Notes
-
--   There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back. This can make fighting inside it almost impossible as enemies will have double the swing speed, making it impossible to land hits, and making parrying extremely hard.
-
 ## Trivia
 
 -   Time magic was not actually stated to be an oath itself, but 'oath magic.'
@@ -465,10 +444,10 @@ None.
     Proof of Time magic's existence and it being 'oath magic'
     
 -   StarKindred was leaked by NanoProdigy
--   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown.
+-   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and it's relation with song and wind.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Whether that will be added to the game or not is unknown.
+-   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.

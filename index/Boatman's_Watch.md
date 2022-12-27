@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 43709
+revid: 44130
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -44,6 +44,6 @@ Once spawned, you will not be able to leave Boatman's Watch until you defeat The
 
 ## Trivia/Notes
 
--   Boatman's Watch can be found by going straight along the wall from Minityrsa into the Void Sea, visible after about 20 seconds of sailing.
+-   Boatman's Watch can be found by going straight along the wall opposite (towards hive) from the Eastern Interstitial Lighthouse into the Void Sea, visible after about 20 seconds of sailing.
 -   A hidden mine and library can be found in Boatman's Watch through destructible walls.
 -   Although not really trivial, there are two eggs in this island, one found on a tree growing on the rocks near the dock and another found in a bigger tree growing in a patch of grass to the right of [Ferryman](The_Ferryman.md)'s location, these two eggs can be used to create [Mushroom Omelettes](Mushroom_Omelette.md) with the high abundancy of Goblettos which can be helpful in the fight against [Ferryman](The_Ferryman.md).

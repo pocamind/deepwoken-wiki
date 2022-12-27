@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 43752
+revid: 44149
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -36,6 +36,7 @@ categories: [Echoes, Character, Mechanics]
 -   Soul-bounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
+-   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
 
 ## Upgrades and Modifiers
 

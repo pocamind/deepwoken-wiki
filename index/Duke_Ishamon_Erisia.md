@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 43711
+revid: 44152
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -37,7 +37,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 -   Essentially an average Legion Kata feint.
 
  | ✗ | ✗ | ◯ | (★☆☆) |
-| **Binding Tempest** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away.
+| **Binding Tempest** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke teleports in front of the first person hit, trapping them in the ball of air before kicking them up and punching them away.
 
 **Note that this will insta-grip you if you are hit by the second hit on low health/knocked.**
 

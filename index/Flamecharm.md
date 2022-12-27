@@ -1,9 +1,9 @@
 ---
 title: Flamecharm
-revid: 43202
+revid: 44122
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
+categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
 ---
 
 # Flamecharm
@@ -216,7 +216,9 @@ _A rising tornado of flames._
 -   Initial slashes are Blockable, and the final hit is Parryable.
 
  |
-|  | 
+| 
+
+ | 
 
 Flame Assault (★★)
 
@@ -416,6 +418,8 @@ Caster uses a small amount of ether to create a small ember in their hands, used
  |
 | 
 
+File:Flame Within.gif
+
  | 
 
 Flame Within
@@ -467,6 +471,8 @@ These are talents found in "_Flame Dancer_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Dancing Steps.gif
+
  | 
 
 Dancing Steps

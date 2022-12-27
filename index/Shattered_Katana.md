@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 41336
+revid: 44166
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -38,3 +38,4 @@ The Shattered Katana across various updates has been nerfed and is debatably, no
 -   The sword could be referencing the game "[Sekiro: Shadows Die Twice](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro:_Shadows_Die_Twice_Wiki)". The black mortal blade that was used by Genichiro is almost identical to the Shattered Katana.
 -   Based on the incredible length of the blade, we can say that this is a Nodachi, not a Katana.
 -   The talent Paired Soul (Vigil Initiate and Cloak of Winds armor) buffs the swords damage by 5% rather than the Katana's 25% percent
+-   The Shattered Katana can be paired with the Poser's Ring, which makes your M1s deal no damage, stacking all of it until you put away your weapon.

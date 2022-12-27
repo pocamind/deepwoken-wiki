@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 43956
+revid: 44156
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -16,14 +16,14 @@ A Ball Shaped Exposive uses to damage monsters and players.
 
 ## Obtainments
 
-You are able to get this recipe when you helped an NPC in songseeker
+You are able to get this recipe when you help an NPC in [Songseeker Wilds](Songseeker_Wilds.md)
 
 ### Recipe
 
 2 Iron + 1 Coal near a crafting table
 
-(Iron can be purchases or mined from cave while Coal are only obtained through mining)
+(Iron can be purchase or mined from cave while Coal are only obtained through mining)
 
 ### Uses
 
-Crafted bomb does damage once exploded. You are able to press M1 to place on the ground directly below you with a timer to explode or you could press E to throw in the direction of your cursor which will explode on impact.
+Crafted bombs deal damage once exploded. You are able to press M1 to place it on the ground directly below you with a timer to explode or you could press E to throw it in the direction of your cursor which will explode on impact.
