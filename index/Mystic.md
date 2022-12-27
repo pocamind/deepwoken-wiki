@@ -1,16 +1,29 @@
 ---
 title: Mystic
-revid: 42874
+revid: 43838
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Mystic
 
-Mystic at Etris.
+| Mystic | |
+|---|---|
+| name | Mystic |
+| location | Etris, Summer Isle |
 
-  
-Mystic is a Chrysid NPC at Etris located between the weaponry shop and mantra shop. She will offer to "surmise your great destiny". If you give her 20 notes, she will ask something about yourself. You can respond with these prompts:
+“ ”
+
+― Mystic
+
+## Overview
+
+Mystic is a Chrysid NPC that appears in multiple locations around the map. For 20 notes, she will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell her, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents.
+
+## Dialogue
+
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from. Here are but a few of the possible prompts:
 
 -   Uh...
 -   I seek for the qualities of the Nimble Blade.
@@ -27,6 +40,7 @@ Mystic is a Chrysid NPC at Etris located between the weaponry shop and mantra sh
 -   I search for the Song.
 -   I steal from people.
 
-~Depending on which option you choose, you will be able to get a sum of experience from the prompt you chose. For example, choosing "I steal from people" will give you experience in Agility, on which you can invest in to level up.~
+## Locations
 
-The option you choose will actually heavily influence the chances of pulling the talents on your next sets.
+-   [Etris](Etris.md)
+-   [Summer Isle](Summer_Isle.md)

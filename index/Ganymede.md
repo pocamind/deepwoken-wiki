@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 43365
+revid: 43828
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -93,3 +93,4 @@ This fits with our current understanding of the lore and would explain why they 
 -   In greek mythylogy Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   Currently the best race to do a deepbound character slot, due to their insanity resistance in [The Depths](The_Depths.md).
 -   In the Verse 2 update, Ganyemede's had their racial trait updated. It added an extra effect, of using less Knowledge, ontop of the pre-existing insanity resistance.
+    -   They are the only race to ever receive a new racial trait.

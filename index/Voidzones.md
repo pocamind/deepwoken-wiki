@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 43686
+revid: 43912
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World]
@@ -40,7 +40,7 @@ While inside a Voidzone:
 
 **Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool
 
-**Ancient Rotlands**
+### **Ancient Rotlands**
 
 “ The scent of decay suffocates this murky land, once home of a fallen Celestial. ”
 
@@ -52,3 +52,30 @@ While inside a Voidzone:
 **Dangers:** Insanity-Inflicting Environment, Nightmare Threshers, 'Lean' Angels
 
 **Rewards:** TBD
+
+### **Lightkeeper Temple**
+
+“ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders. ”
+
+― Lightkeeper Temple's Flavour Text
+
+  
+**Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
+
+**Dangers:** I do not know what to put here. - The writer writing this
+
+**Rewards:** Neither this one. - The same writer writing this
+
+\=== **Saramaed Summit**
+
+“ The air itself feels as if it were becoming ash. as the embers around you radiate heat. ”
+
+― Saramaed Summit's Flavour Text
+
+\===
+
+**Location:** [Miner's Landing](<Miner's_Landing.md>), Eastern Luminant
+
+**Dangers:** Again, I do not know what to put here. - The very same writer writing this
+
+**Rewards:** And so is this one. - The same writer writing this

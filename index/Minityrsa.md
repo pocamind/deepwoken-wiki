@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 43655
+revid: 43851
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -20,7 +20,7 @@ Ocean water freezes against the stone, as if trying to climb onto the shore.
 
 Minityrsa is an island blanketed in fresh snow. It can be found past the central speed highway in the direction of [Songseeker Wilds](Songseeker_Wilds.md).
 
-File:Minityrsa.png
+File:Mini.png
 
 Minityrsa
 

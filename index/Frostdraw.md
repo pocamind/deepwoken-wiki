@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 43368
+revid: 43951
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -49,7 +49,7 @@ These mantras have no prequisites.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | 
+| [Icespikes](https://deepwoken.fandom.com/wiki/File:icespikes.gif) | 
 Ice Spikes
 
  | 

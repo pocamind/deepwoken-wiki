@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43819
+revid: 43962
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -20,7 +20,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 50 Charisma |
+| oath_req | 50 Charisma, Completing the Aelita event, One Dark Feather |
 | effects | +1 Support Mantra, +2 Combat Mantra |
 
 | Oath: Linkstrider | |
@@ -35,12 +35,12 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 50 Strength |
+| oath_req | 50 Strength, One Player Grip |
 | effects | +2 Combat Mantra, +8 Health |
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 50 Fortitude, 20 Flamecharm, 20 Thundercall, Complete Alpha's Quest |
+| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Complete Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -72,9 +72,9 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 To start the Oathless quest, head to the main dock at the ignition/miners island and go right. Through a log is a cave, talk to the person in there, they'll tell you to go to their three disciples (in no specific order).
 
--   One is at Fort Merit, in a house
--   One is at a small village by a meteor field on Hive
--   One is in a lone house on Summers
+-   One is at Fort Merit, in a house near the elevator
+-   One is at Meteor Isle, in the house with a cauldron
+-   One is at Summer Isle, in the house where you set your inn
 
 After talking to all three of their disciples, return to the person in the cave and talk to them to receive Oathless.
 
@@ -224,7 +224,7 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 
 ### Obtainment
 
-1.  Get different 4 players with Oaths (have to be different accounts)
+1.  Get different 4 players with Oaths (have to be different accounts, only 2 of each oath can be used)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot
@@ -263,7 +263,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 _"You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master."_
 
-**Oath: Jetstriker i**s one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
+**Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
 ### Obtainment
 
@@ -309,11 +309,11 @@ _"You vow to feel the knowledge of all that is, all at once. Your heart beats wi
 
 ### Obtainment
 
-1.  Have 50 strength (PLAYER GRIPS ARE **NOT** REQUIRED. TESTED.)
+1.  Have 50 strength and grip one player of any power level.
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
-3.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP, TESTED!), located above the Startree Voidzone in Starswept Valley.
+3.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP), located above the Startree Voidzone in Starswept Valley.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras you must participate in killing 3 greater angels around the East Luminant.
@@ -350,8 +350,8 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
     1.  Talk to the Radio Man
     2.  Activate the Generator
     3.  Talk to Alpha
-    4.  Retrieve injured Elphis
-    5.  Talk to Alpha again
+    4.  Retrieve injured Elphis (spam 2)
+    5.  Talk to Alpha again (You can get the quest for alpha and skipping the generator by just destroying the door frame with a move that destroyes tiles and skip step 1 and 2)
 3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities

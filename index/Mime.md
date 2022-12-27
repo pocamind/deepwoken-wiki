@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 43772
+revid: 43960
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Mantras, NPCs]
@@ -38,5 +38,7 @@ Crate Disguise
 
   
 Blast Spark: Lantern Disguise
+
+Blask Spark + Reversal: Skull
 
  |

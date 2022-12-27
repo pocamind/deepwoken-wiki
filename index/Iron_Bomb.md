@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 43575
+revid: 43956
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -26,4 +26,4 @@ You are able to get this recipe when you helped an NPC in songseeker
 
 ### Uses
 
-Crafted bomb does damage once exploded. You are able to press M1 to place on the ground directly below you with a timer to explode or you could press r to throw in the direction of your cursor which will explode on impact.
+Crafted bomb does damage once exploded. You are able to press M1 to place on the ground directly below you with a timer to explode or you could press E to throw in the direction of your cursor which will explode on impact.

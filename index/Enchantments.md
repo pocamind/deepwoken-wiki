@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 43728
+revid: 43938
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -35,7 +35,6 @@ There are three variants that enchantments come in:
 
 -   **Blessing** - They have an effect and little to no downsides.
 -   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
--   **Legendary** - A unique enchant with powerful effects.
 
 ## Changelogs
 
@@ -186,8 +185,22 @@ There are three variants that enchantments come in:
   <td><figure>File:STORM.png<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
-  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p></div></td>
+  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
+  <p><br>
+  </p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
+  <font>Stormbreaker<div></div></font></center></td>
+  <td><div><p>Effects of the storm enchant, with a unique critical which throws a spear javelin</p></div></td>
+  <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
+  <font>Tears of Edenkite<div></div></font></center></td>
+  <td><div><p>On proc, create bubbles around you that home onto an enemy, dealing damage and stunning</p></div></td>
+  <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 <tr>
   <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
@@ -251,30 +264,6 @@ There are three variants that enchantments come in:
   <br>
   Has a 10 second cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
-</tr>
-</tbody>
-</table>
-
-**Legendary:**
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Visual Effect</b></td>
-</tr>
-<tr>
-  <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
-  <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, with a unique critical which throws a spear javelin</p></div></td>
-  <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
-  <font>Tears of Edenkite<div></div></font></center></td>
-  <td><div><p>On proc, giant AoE particles will target causing to have chance to be stunned</p></div></td>
-  <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 </tbody>
 </table>

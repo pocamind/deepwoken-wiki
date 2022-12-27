@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 42545
+revid: 43904
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -13,9 +13,9 @@ categories: [Factions]
 | territory | Western Luminant , Vipers Jaw Camp, |
 | goals | Destroy the Authority. |
 
-“ RUN THEM HANDS UP! ”
+“ ”
 
-― A legion kata captain about to slam an Authority officer into the ground
+―
 
 **The Hundred Legions** is a minor faction in Deepwoken.
 

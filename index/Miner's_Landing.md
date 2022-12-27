@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 43705
+revid: 43839
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

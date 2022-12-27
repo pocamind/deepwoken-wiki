@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 42856
+revid: 43946
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Luck, Character, Ingredients, Mechanics]
@@ -28,7 +28,6 @@ A Celtor finding the pulsating rings.
 
 -   EXP
 -   [Notes](Notes.md)
--   ~Up to 17% [Luck](Luck.md)~
 -   10 Common to Rare Items, including:
     -   [Armor Schematics](https://deepwoken.fandom.com/wiki/Armors?so=search#Outfit_List)
     -   [Weapons](Weapons.md)
@@ -40,7 +39,7 @@ A Celtor finding the pulsating rings.
 
 -   They spawn randomly around [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Starswept Valley](The_Starswept_Valley.md).
 
-## Notes/Trivia
+## Trivia
 
 -   The Piece of the Forge Artifact used to sell for 800 Notes.
 -   They despawn after 1 hour.

@@ -1,14 +1,11 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 43825
+revid: 43942
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses]
 ---
 
 # Ethiron, The Maelstrom's Eye
-
-Template:Creature Infobox V3
 
 **Ethiron, the Eye of Calamity,** is an unknown figure, who has multiple shrines dedicated to them in the Second Layer.
 

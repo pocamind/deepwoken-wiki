@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 43823
+revid: 43826
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -53,6 +53,7 @@ Events that spawn in Starswept Valley that involve combat. For more info, see [R
 -   [Etrea](Etrea.md) vs [The Hive](The_Hive.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Captain](Authority_Captain.md)
 -   [Hive Construct](Hive_Construct.md) vs [Authority Captain](Authority_Captain.md)
+-   [Desert Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)/[Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
 -   [Legion Sniper](Legion_Sniper.md)
 
 ## Events

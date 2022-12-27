@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 43787
+revid: 43862
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Bone Keeper is a monster of the [Eternal Gale](Second_Layer.md)
 
-Bone Keepers are giant, humanoid creatures, with inhuman proportions, having extremely short legs and large arms. It has clearly clawed feet, with bone claws for hands. They sport a red & gold skirt of sorts on their lower body and seemingly not having any clothes on their upper half. Their head also appears to be made out of bones or a bone-like material.
+Bone Keepers are giant, humanoid creatures, with inhuman proportions, having extremely short legs and large arms. It has clearly clawed feet, with bone claws for hands. They sport a red & gold loincloth of sorts on their lower body and seemingly not having any clothes on their upper half. Their head also appears to be made out of bones or a bone-like material.
 
 Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly a large difficulty step-up from the mobs found in Layer 1, however all of their attacks are well telegraphed and can be avoided with proper experience, though their damage yields greater punishment, were you to fail to avoid them.
 
@@ -32,4 +32,4 @@ Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly 
 ## Trivia
 
 -   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "The Bone One".
--   Bone Keepers may be related to the humanoids found on [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possesing simmilarities in appearence.
+-   Bone Keepers may be related to the humanoids found on [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance.

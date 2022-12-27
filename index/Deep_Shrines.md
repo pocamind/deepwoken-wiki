@@ -1,8 +1,9 @@
 ---
 title: Deep Shrines
-revid: 43285
+revid: 43889
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Deep Shrines
@@ -12,6 +13,29 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Also known as "Yun'shul Shrines", Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine bestows different deals in exchange for the client's wellbeing or mentality.
 
 ## Shrines
+
+### **Shrine of Temptation**
+
+“ PUPPET. STATE YOUR PURPOSE. ”
+
+― Shrine of Temptation
+
+-   Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa; In the second floor of crypt.
+
+File:Temptation Shrine Screenshot by Nosky-3052.png
+
+The Shrine of Temptation, Up-Front angle
+
+_Benefits/Penalties_
+
+-   **(BENEFIT)** _Chose mantras available to your attributes and attunement (I got 3 choices but needs testing)._
+-   **(PENALTY)** _Lose one equiped mantra of your chosing and 5 intelligence points._
+
+_Pros/Cons_
+
+-   You can still gain mantras after max level.
+-   You lose intelligence points which are very valuable.
+-   You have to permanently lose an equipped mantra.
 
 ### **Shrine of Blasphemy**
 

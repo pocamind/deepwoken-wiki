@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 43820
+revid: 43954
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics, Character, Deepwoken]
+categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -78,7 +78,7 @@ File:Thresherquest1.png
 
 ### Family Recipe
 
--   Q
+-   NPC is located at Songseeker outside of the mineshaft entrance. They will ask you to kill "mineskippers". (Mudskippers with miner helmets and pickaxes.)
 
 ### Harvester
 
@@ -261,8 +261,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
 -   ~Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)~
     -   ~PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN~
-    -   ~Prerequisite: 90 Fortitude~
-    -   **This Talent does not Exist anymore since Verse 2**
+    -   Prerequisite: 90 Fortitude & **all** bastion talents
 
 ### Beast Slayer
 
@@ -489,6 +488,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Agility renamed to Speed Boost will say "Speed Boost!".
+    -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used.
     -   If a mantra name gets moderated by the chat (####), the shout will default to the original name of the mantra.
     -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
@@ -1161,6 +1161,20 @@ These Talents are meant to be used in an aggressive playstyle.
 
 -   Family Recipe \[Common Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)
 
+-   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intesity, +6 Pasive Agility)
+    -   Prerequisites: Family Recipe
+
+-   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force.
+    -   Prerequisites: Family Recipe
+-   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
+    -   Prerequisites: Hot Potato
+
+-   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intesity)
+    -   Prerequisites: Incendiary Formula
+
+-   And They'll Be Dust \[Common Talent\] - Bombs will deal increased damage to burning enemies
+    -   Prerequisites: Incendiary Formula
+
 ### Saint of Blades
 
 -   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
@@ -1559,7 +1573,7 @@ These Talents are designed to make you more effective in water.
 -   Armor Conserver \[Common Talent\] - You lose 5% less armor when hit. (+4 Ether)
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered. (+3 Health)
     -   Prerequisites: Power 30
--   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take increased damage from enemies while this is applied.
+-   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
     -   Create a thick blue fog around you (simulating blindness).

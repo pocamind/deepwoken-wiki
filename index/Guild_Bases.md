@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 43795
+revid: 43937
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -28,15 +28,17 @@ Guild bases cannot be made inside guild bases, or dungeons. This includes the De
 
 A guild base can be increased in size through different nodes. Some provide practical uses, while others purely cosmetic.
 
--   Mess Hall (XL) - Requires 2 Nodes worth of Rooms; a large cafeteria with 2 long tables. (Can you tell us if you can get food here?)
--   Training Room (XL) - An arena meant for dueling your guild members, serves no actual purpose and is purely cosmetic.
--   Armory (2500) - Allows you to hire a blacksmith for a 1000 Notes) who can do everything a normal blacksmith can.
+-   Mess Hall (2000) \[XL\] - Requires 2 Nodes worth of Rooms; a large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
+-   Training Hall (1000) \[XL\] - An arena meant for dueling your guild members, serves no actual purpose and is purely cosmetic.
 -   Trophy Room (5000) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
     -   Artisan - An upgrade to the Trophy Room that costs 10,000 Notes for hire. For 800 Notes, allows the Player to merge attributes and appearance of an Item.
--   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room.
+-   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room (You cannot cook at the campfire).
+-   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
+-   Library (2000) \[XL\] - (info needed)
 
 ## Trivia
 
 -   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
+-   Players cannot go into guild halls while holding a body.

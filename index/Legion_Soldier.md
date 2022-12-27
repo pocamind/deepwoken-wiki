@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 42468
+revid: 43836
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -41,11 +41,11 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 
 ## Finisher
 
-A Legion Soldier executes it's opponent after knocking them:
+A Legion Soldier executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Champion's Sword](<Champion's_Sword.md>)\] Pins down opponent before slicing their throat with blade.
+| Execute | \[[Champion's Sword](<Champion's_Sword.md>)\] Pins down opponent before slicing their throat with their blade.
 \[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
 
  |

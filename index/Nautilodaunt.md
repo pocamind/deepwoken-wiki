@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 43305
+revid: 43855
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -12,7 +12,7 @@ categories: [Boss, Monsters]
 
 ― Nautilodaunt before showing a Canor what it's like to evolve diagonally
 
-_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_
+_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax, Squigga_
 
 **Nautilodaunt:**
 
@@ -20,7 +20,7 @@ _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax_
 
 Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the [Depths](The_Depths.md). It spawns in City of the Drowned and drops Odd Tentacles or [Elite Pathfinder Cloaks](Pathfinder_Elite.md) (Very rarely).
 
-It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds.
+It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds. IMPORTANT: SQUIBBO WILL BE CORRUPTED IN DEPTHS TRIAL IF DEEP CHAMPION IS SELECTED IN CHARACTER CREATION!
 
 ## Attack Patterns
 

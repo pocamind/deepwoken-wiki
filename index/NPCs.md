@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 43784
+revid: 43925
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -56,6 +56,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Dialogue changes after completing the trial once</td>
 </tr>
 <tr>
+  <td>Arthur</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Brutus.md">Brutus</a></td>
   <td><a href="The_Hundred_Legions.md">The Hundred Legions</a></td>
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
@@ -72,9 +79,16 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td><a href="Cestis.md">Cestis</a></td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
-  <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
-  <td>Gives Bounties, grants Murmur: Tacet after completing 10 bounties</td>
-  <td>Requires the player to have negative Etrean reputation</td>
+  <td><a href="Meteor_Isle.md">Meteor Isle</a></td>
+  <td>Grants Murmur: Tacet</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Emel</td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
+  <td>Grants quest to kill an enemy in the <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, gives positive Ministry reputation, gives exp, gives notes</td>
+  <td>The quest is repeatable</td>
 </tr>
 <tr>
   <td>Flabbermaster Filigree, the First Mate</td>
@@ -105,6 +119,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Talks about the Celtors being forgotten to time</td>
 </tr>
 <tr>
+  <td>Imel</td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="The_Etrean_Sea.md">Etrean Sea</a>, Statues</td>
+  <td>Grants quest to kill an enemy in <a href="Erisia.md">Erisia</a>, gives positive Ministry reputation, gives exp, gives notes</td>
+  <td>The quest is repeatable</td>
+</tr>
+<tr>
   <td>Jeremiah</td>
   <td>Unaligned</td>
   <td>The Depths, Varicosa District</td>
@@ -119,7 +140,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td><a href="Kana.md">Kana</a></td>
+  <td>Kana</td>
   <td><a href="The_Central_Authority.md">The Authority</a></td>
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
   <td>None</td>
