@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 43439
+revid: 43996
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths,Bounty Chests |
+| obtainment | Depths, Starswept Valley, Bounty Chests |
 | description | The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 It replaces your normal crit with the navae crit, other than that its pretty average

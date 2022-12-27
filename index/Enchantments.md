@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 43938
+revid: 44004
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -466,6 +466,7 @@ File:Vamparism shield.png
 Vampirism enchant on a Khan Shield
 
 -   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter, hence why it was called Bungee Gum previously.
+    -   Nemesis' visuals and sound effects are based off the cursed status from Spiral Knights.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   The idea behind the Providence's Storms enchant was to combine fast attack swing speed while being able to inflict damage to others without directly attacking, which was eventually turned into 2 separate enchants known as **Obfuscation (pre-rework)** and **Providence's Thorns**.
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**

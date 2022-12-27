@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 43895
+revid: 44045
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -22,36 +22,78 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 
 **In The Depths, Monsters have significant differences**, some easily noticeable, and others, not so much. Some changes include:
 
--   **No longer attack each other based on species**, instead completely focusing on players.
--   **Benefiting from the lower gravity of The Depths**, being able to jump much higher to pursue players.
--   **Being much more aware**, noticing players from further away, or even behind them.
--   **Gaining new behaviors/abilities**, such as Lionfish Beam.
--   **Becoming much more persistent in chasing**, rarely stopping until the death of them or the player.
--   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
+-   No longer attack each other based on species, instead completely focusing on players.
+-   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players.
+-   Being much more aware, noticing players from further away, or even behind them.
+-   Gaining new behaviors/abilities, such as Lionfish Beam.
+-   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
+-   Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.
 
-## Monster List
+## Humanoid Monsters
 
 ### Humanoid Monsters
 
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
 
-**Exclusive to The Depths: Eternal Gale (Layer 2)****Exclusive to Trial of One**
+Exclusive to The Depths: Eternal Gale (Layer 2)
 
-### Non-Humanoid Monsters
+**Exclusive to Trial of One**
 
-**Etrean Luminant & The Depths**
+  
 
-**Exclusive to Etrean Luminant**
+  
 
-**Exclusive to The Depths: Scyphozia (Layer 1)**
+## Non-Humanoid Monsters
 
-**Exclusive to The Depths: Eternal Gale (Layer 2)**
+### 
 
-**Dungeon: Trial of One**
+**Etrean Luminant**
 
-**Dungeon: Lord Erisia's Manor**
+**Lower Erisia:**
 
-**Removed/Unknown****Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
+**Upper Erisia:**
+
+**Minityrsa:**
+
+**Voidsea:**
+
+### 
+
+**Eastern Luminant**
+
+**Songseeker Wilds:**
+
+**Aratel Island:**
+
+**Miner's Landing:**
+
+**Meteor Isle:**
+
+**Monkey's Paw:**
+
+**Voidsea:**
+
+### 
+
+**The Depths**
+
+**Scyzophobia (Layer 1):**
+
+**Ethiron (Layer 2):**
+
+### 
+
+**Dungeons**
+
+**Trial of One:**
+
+**Duke's Manor:**
+
+  
+
+**Floor 2 of layer 2 or whatever the fuck:**
+
+**crypt of unkept hair or something:**
 
 ## Monster Hunting Advice
 

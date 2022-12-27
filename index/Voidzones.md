@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 43912
+revid: 43987
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World]
@@ -62,7 +62,7 @@ While inside a Voidzone:
   
 **Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
 
-**Dangers:** I do not know what to put here. - The writer writing this
+**Dangers:** [Thresher, King thresher](Thresher.md)
 
 **Rewards:** Neither this one. - The same writer writing this
 
@@ -76,6 +76,6 @@ While inside a Voidzone:
 
 **Location:** [Miner's Landing](<Miner's_Landing.md>), Eastern Luminant
 
-**Dangers:** Again, I do not know what to put here. - The very same writer writing this
+**Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
 **Rewards:** And so is this one. - The same writer writing this

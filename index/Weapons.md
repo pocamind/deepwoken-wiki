@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 43699
+revid: 44009
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -293,7 +293,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.87x</td>
 </tr>
 <tr>
-  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a>]]</td>
+  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a></td>
   <td>65 WLL</td>
   <td>12</td>
   <td>5%</td>
@@ -416,7 +416,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
 </tr>
 <tr>
   <td><a href="Kyrstreza.md">Kyrstreza</a></td>
-  <td>??? LHT</td>
+  <td>75 LHT</td>
   <td>15</td>
   <td>30%</td>
   <td>LHT: 8.5</td>
@@ -1354,7 +1354,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
-  <td>80 HVY, 25 STR, 30 LVL</td>
+  <td>80 HVY, 25 STR, 10 LVL</td>
   <td>25</td>
   <td>10%</td>
   <td>HVY: 9</td>

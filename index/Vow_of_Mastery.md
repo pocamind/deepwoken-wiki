@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 43232
+revid: 43971
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -62,14 +62,19 @@ Charisma, Rare
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a range limit. |
 | Live | Yes, 75 Charisma, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko \[Once per hour\]. Has a range limit. |
 
-## Trivia/Notes
+## Trivia
 
--   All commands excluding _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no radius
+-   All commands excluding _Leech, Locate,_ _Return_, _Sacrifice_ and _Live_ have no radius.
 -   Commands can be stacked, example being if you say "_\[Name\]_, say I will sleep now." The Subject will both sleep and say "I will sleep now."
 -   Commands can be used as "_\[All\]_ " or "_\[Everyone\]_" if you want to affect all your servants
+-   This Talent is often regarded as a joke, due to the mischief it can cause, but in the right hands, it can turn the tides of some fights.
 -   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ can be used to stall time or win.
+-   As long as you have friends and/or alts, you may use Vow of Mastery to improve a bossraid. You can stuff a bunch of alts in an obscure location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
 -   You can still get Vow of Mastery with the Oathless Talent.
 -   _Return_ can save someone from being gripped, but not from being carried. (3220)
 -   _The Fight, Return and Live_ have cooldowns them being; 3 minutes for Fight, 20 seconds for Return, and 1 hour for Live.
 
--   The Return command unknocks the subject but will not heal them more then normal
+-   TRUST NOBODY!!!
+-   The _Live_ command is likely a reference to _Code Geass_
+-   The Return command unknocks but will not heal them more then normal
+-   Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk.

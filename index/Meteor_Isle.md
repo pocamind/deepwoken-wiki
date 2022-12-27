@@ -1,11 +1,11 @@
 ---
 title: Meteor Isle
-revid: 43509
+revid: 43965
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, World, Locations, Eastern Luminant]
+categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
 notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Meteor Isle

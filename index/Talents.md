@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43954
+revid: 43973
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -220,6 +220,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Prerequisites: 15 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
+    -   Prerequisites: 25 Agility
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
 

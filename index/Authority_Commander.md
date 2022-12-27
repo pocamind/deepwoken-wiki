@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 43625
+revid: 44018
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,9 +13,9 @@ Template:ArmorInfobox **Authority Commander** is a Master [Outfit](Outfits.md) i
 
 ### _Requirements_
 
-This Outfit costs ? and requires ? to make.
+This Outfit cost 1000 notes and requires a blessed gem, a bounder claw, a dark feather, a thresher spine, 5 fiber and 5 vibrant gems to make.
 
-This Outfit requires [Power Level](Talents.md) ?.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 

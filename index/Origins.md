@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 43212
+revid: 44008
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -45,6 +45,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > ― Flavor Text
 
 **Requirements:** Ask about signing up in the Divers to Akira during his encounter event between the Ignition Union in Celtor Wastes.
+
+-   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
 
 **Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 

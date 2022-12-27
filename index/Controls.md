@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 39601
+revid: 43975
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -52,3 +52,4 @@ _This page lists the controls that can be used in Deepwoken._
 | M1, M1, M1 | Flourish | Player finishes combo by kicking opponent away. |
 | M1 while in [Stealth](Stealth.md) and behind entity | Assassinate | Player performs stealth attack that deals large PvE damage and moderate PvP damage. |
 | Z, X, C, V | Ritual Cast | Required inputs for Mantras with Ritual Casts. |
+| G | Vent | Player performs a special attack that blasts any enemies backwards with a knockback effect, comes from built up Tempo. |

@@ -1,11 +1,11 @@
 ---
 title: Mime
-revid: 43960
+revid: 43966
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Mantras, NPCs]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
 notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Mime

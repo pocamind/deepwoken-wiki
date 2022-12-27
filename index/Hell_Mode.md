@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 42472
+revid: 44041
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -65,6 +65,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
 -   The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
+-   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 
 ## Trivia
 
@@ -76,3 +77,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).
+-   You can obtain a [Resonance](Resonance.md), even in Hell Mode.

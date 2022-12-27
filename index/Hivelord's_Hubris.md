@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 43721
+revid: 44003
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -30,7 +30,7 @@ categories: [Weapons, Pages with broken file links]
 
 ## Description
 
-The Hivelord's Hubris is a Greathammer resembling the arm of a [Hive Construct](Hive_Construct.md).
+The Hivelord's Hubris is a Greathammer that resembles the (now-removed) arm of a [Hive Construct](Hive_Construct.md), ending in its spiked fist. It is presumably absurdly heavy, given its slow swing speed and 100 HVY requirement.
 
 ## Notes & Trivia
 

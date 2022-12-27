@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 43937
+revid: 44046
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -14,7 +14,7 @@ Template:Areainfobox
 
 ## Overview
 
-Guild Bases are a type of outpost that can be created by Guild Leaders. To create a guild base, a Leader or Officer must use a Chime of dwelling on a wall. A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Guild Bases are a type of outpost that can be created by Guild Leaders. To create a guild base, a Leader or Officer must use a Chime of Dwelling on a wall. A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
@@ -36,7 +36,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
--   Library (2000) \[XL\] - (info needed)
+-   Library (2000) \[XL\] - A room that features many bookshelves, and a librarian you can hire for 500 notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored.
 
 ## Trivia
 

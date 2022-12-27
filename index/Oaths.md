@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 43962
+revid: 44048
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -235,11 +235,12 @@ _"You vow to give up your own life for the sake of others. Stepping out of the f
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage. (U NEED STARDUST FROM THE STARTREE AT HIVE IN ORDER TO TELEPORT)
         -   Current known locations are...
-            1.  Hygiea, near Songseeker Wilds
-            2.  Eunomia, Above Sibex (TP bugs you sometimes)
-            3.  Ceres, Etris
+            1.  Hygiea (Near Songseeker Wilds)
+            2.  Eunomia (Above Sibex)
+            3.  Ceres (Near path to abandoned cabin under Etris)
             4.  Europa, Minytrsa near Hero Valley/If u walk over the bridge and go forth a bit
             5.  Pallas, Miners Landing at a Tiny Island infront of the Oathless trainer/ Near the Gate to Etrean Luminant
+            6.  Fortuna (Above the Broken Church in Erisia)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
@@ -268,7 +269,7 @@ _"You vow to flow with the song itself, drifting across where the trails may tak
 ### Obtainment
 
 1.  Have 50 agility
-2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) and to the left
+2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left
 3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
 
 To obtain the talents you must locate and interact with 5 white orbs around the map.
@@ -290,7 +291,7 @@ To obtain the talents you must locate and interact with 5 white orbs around the 
 -   **Stratos Step - Passive**
     -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
         -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance, you will easily hurt yourself.
-            -   You can only boost yourself up twice before it goes on cooldown.
+            -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
 -   **Decisive Winds - Passive**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 -   **Rush of Ancients - Passive**
@@ -341,7 +342,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 _"Weld the armor of the Ignition Union's most notable dwellers."_
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) about 5-6 times.
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) 7 times. (5 for the passives, 2 for the mantras).
 
 ### Obtainment
 

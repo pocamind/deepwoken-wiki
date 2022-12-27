@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 42926
+revid: 43972
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -91,13 +91,13 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results: 8 Dentiflo: 2 Seaweed, 6 Miss
 
--   Seaweed Bundle Effect: Fast catches. 2 seaweed gave: 1 Seabass and 1 Miss
+-   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 1 Seabass and 1 Miss
 
 -   Urchin Effect: Decent speed of bites. Result: 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 
 -   Browncap Effect: Effect Average bite times: Result: 10 browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 
--   Chum Effect: Intended bait. Slower bite times Results: 3 Chum gave : 1 Urchin, 2 Red Snapper, 1 Pufferfish
+-   Chum Effect: Intended bait. Slower bite times Results: 3 Chum gave: 1 Urchin, 2 Red Snapper, 1 Pufferfish
 
 -   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
 
@@ -105,13 +105,13 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 ## Notes/Trivia
 
--   Some spots wont let you fish.
+-   Some spots won't let you fish.
 -   How good certain locations seem for fishing is purely RNG, some people will get lucky, some will not.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish to get food, luck, and loot.
--   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 millisecound settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
--   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
--   The harder the difficulty (aka how fast direction changes) the more rare things you fish up.
--   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific seem locations to have higher chances of getting these.
+-   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 milliseconds settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
+-   If you're in need of luck and you don't want to do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
+-   The harder the difficulty (aka how fast direction changes) the rarer things you fish up.
+-   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Willpower, Fortitude, Intelligence and Charisma.
--   Fishing document : [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)
+-   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)
