@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 43987
+revid: 44051
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World]
@@ -34,11 +34,24 @@ While inside a Voidzone:
 
 ― Crypt of the Unbroken's Flavour Text
 
-**Location:** Upper [Minityrsa](Minityrsa.md), Etrean Luminant
+**Location:** Upper [Minityrsa](Minityrsa.md) (Highest Peak), Etrean Luminant
 
 **Dangers:** Carbuncles, Yellow & Red Ironclads
 
 **Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool
+
+### **Starfield Tundra**
+
+“ The beauty of the tundra, the Star Tree stands tall. ”
+
+― Starfield Tundra's Flavour Text
+
+  
+**Location:** Upper [Minityrsa](Minityrsa.md) (Frozen Lake), Etrean Luminant
+
+**Dangers:** Carbuncles, Alpha Megalodaunts
+
+**Rewards:** TBD
 
 ### **Ancient Rotlands**
 

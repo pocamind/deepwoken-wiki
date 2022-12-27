@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 43929
+revid: 44050
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -26,4 +26,4 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and Frostdraw. Wielding it requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.64x. Will talk with you after killing the minityrsa scounts and buff dmg after killing them(UNEQUIP WEP WILL RESET THE COUNTER TO 0)
+The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and Frostdraw. Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 23.5 base damage and has a swing speed of 0.64x. She will talk with you after killing the minityrsa scouts and buff dmg after killing them(UNEQUIP WEP WILL RESET THE COUNTER TO 0)

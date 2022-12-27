@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44048
+revid: 44092
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -64,8 +64,11 @@ Pathfinder doesnt count as an Oath and is merely an indicator of your lack of Oa
 
 ## Oath: Oathless
 
-_"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
+“ You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? ”
 
+― Oathless Description
+
+  
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
 ### Obtainment
@@ -88,8 +91,11 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 ## Oath: Blindseer
 
-_"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."_
+“ You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. ”
 
+― Blindseer Description
+
+  
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 8 (or 6 if you started with 10 willpower) to obtain all stated requirements.
 
 ### Obtainment
@@ -151,8 +157,11 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 
 ## **Oath: Visionshaper**
 
-_"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
+“ You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands. ”
 
+― Visionshaper Description
+
+  
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath you need one Void Feather for each skill, Void Feather rarely dropped by Deep Owls but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras, together with Blindseer.
 
 ### Obtainment
@@ -218,16 +227,19 @@ Does not grant any special cosmetic based on race.
 
 ## Oath: Linkstrider
 
-_"You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength."_
+“ You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength. ”
 
+― Linkstrider Description
+
+  
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
 ### Obtainment
 
-1.  Get different 4 players with Oaths (have to be different accounts, only 2 of each oath can be used)
+1.  Get different 4 players with Oaths (have to be different accounts, only 2 of each oath can be used. Oathless players do not count.)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
-4.  Put them in the slot
+4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be send to the depths.
 5.  Interact with the white orb that appears in the middle.
 
 ### **Known Abilities**
@@ -262,23 +274,27 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ## Oath: Jetstriker
 
-_"You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master."_
+“ You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. ”
 
+― Jetstriker Description
+
+  
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
 ### Obtainment
 
-1.  Have 50 agility
-2.  Talk to Alirian at [Minityrsa](Minityrsa.md), far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left
+1.  Have atleast 50 Agility.
+2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
+    -   This can be easily done with your current agility, and the ability to scale high walls along the course.
 
-To obtain the talents you must locate and interact with 5 white orbs around the map.
+Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and asks the Player to bring the orbs to them for a Jetstriker Talent. You can bring the Orbs in bulk or all at once.
 
--   On top of Lord Regent's palace in Etris
--   On the upper rim of The Birdcage Erisia
--   On top of one of the towers in Towerstruck lands
--   In the Isle of Vigils temple, in front of Stratos
--   On an ice pillar at the top of Minitrysa, overlooking the coast
+-   On top of Lord Regent's palace in Etris.
+-   On the upper rim of The Birdcage near The Viper's Jaw in Erisia.
+-   On top of one of the intact Towers in Towerstruck lands.
+-   In the Isle of Vigils temple, in front of Stratos.
+-   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
 
 ### Abilities
 
@@ -304,8 +320,11 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ## Oath: Starkindred
 
-_"You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you."_
+“ You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. ”
 
+― Starkindred Description
+
+  
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
 
 ### Obtainment
@@ -340,8 +359,11 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ## Oath: Arcwarder
 
-_"Weld the armor of the Ignition Union's most notable dwellers."_
+“ Weld the armor of the Ignition Union's most notable dwellers. ”
 
+― Arcwarder Description
+
+  
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) 7 times. (5 for the passives, 2 for the mantras).
 
 ### Obtainment
@@ -380,8 +402,6 @@ _"Weld the armor of the Ignition Union's most notable dwellers."_
 ### Effects
 
 This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
-
-  
 
 ## Oath: Dawnwalker
 

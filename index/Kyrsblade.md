@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 43449
+revid: 44081
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Verse 2]
@@ -31,7 +31,7 @@ categories: [Pages with broken file links, Weapons, Verse 2]
 
 File:Image kyrsblade.png
 
-credit to "Ecyfa"
+credit to [Efcya](https://www.youtube.com/@Ecyfa)
 
 ## Description
 

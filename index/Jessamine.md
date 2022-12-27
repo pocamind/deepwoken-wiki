@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 43816
+revid: 44075
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,6 +15,8 @@ Jessamine is an NPC found underneath a broken castle, just outside of the entran
 File:Jessamine .png
 
 ## Dialogue
+
+**Before the quest has been taken**
 
 <table>
 <tbody>
@@ -48,6 +50,35 @@ File:Jessamine .png
 </tr>
 <tr>
   <td colspan="2"><div>End</div></td>
+</tr>
+</tbody>
+</table>
+
+**After taking the quest**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2"><div>Begin</div></td>
+</tr>
+<tr>
+  <td colspan="2"><div>Friend, I've been waiting for the opportunity to see you again!</div></td>
+</tr>
+<tr>
+  <td><div>If you <b>have not</b> killed the king thresher</div></td>
+  <td><div>If you <b>have</b> killed the king thresher</div></td>
+</tr>
+<tr>
+  <td><div>The pleasure is mine.</div></td>
+  <td><div>I've slain the king thresher. How was the harvest?</div></td>
+</tr>
+<tr>
+  <td><div>Indeed, indeed! Please, return to me once you've slain a king thresher so I can harvest the scales; it will be worth it, trust me.</div></td>
+  <td><div>Bountiful, friend! While you distracted them, I managed to locate and collect a wonderful amount. Here, as my thanks, this is a precious one. You've saved me a lot of headaches today, hehe.</div></td>
+</tr>
+<tr>
+  <td><div>End</div></td>
+  <td><div>End, gain Thresher Scales.</div></td>
 </tr>
 </tbody>
 </table>

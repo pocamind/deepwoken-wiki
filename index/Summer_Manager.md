@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 34525
+revid: 44083
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Pulls the trigger an fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Assault | Pulls the trigger and fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
 | Critical | Fires a long-ranged bullet at opponent. | ◯ | ✗ | (★★☆) |
 
 ### Boons

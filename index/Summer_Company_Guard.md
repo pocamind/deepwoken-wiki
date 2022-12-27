@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 36656
+revid: 44084
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ A Summer Company Guard's arsenal only consists of a [Flintlock](Flintlock.md) pi
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Pulls the trigger an fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Assault | Pulls the trigger and fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
 | Critical | Fires a long-ranged bullet at opponent. | ◯ | ✗ | (★★☆) |
 
 ### Boons

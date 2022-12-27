@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 44032
+revid: 44067
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -95,7 +95,7 @@ Air Force
 -   The explosion from one Bloatskipper can cause a chain reaction of explosions from nearby insta-gripped Bloatskippers.
     
 
-**Nigskipper:**
+**Rotskipper:**
 
 Template:Creature Infobox V3
 

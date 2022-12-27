@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 44047
+revid: 44058
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,11 +16,11 @@ Knowledge is shown at the bottom right of the screen. It has a minimum value of 
 
 ## Shrines
 
--   Shrine of Mastery
--   Shrine of Order
--   Shrine of Chance
--   Shrine of Temptation
--   Shrine of Blasphemy
+-   Shrine of Mastery- Allows you to exchange one invested trait point for another for 5 knowledge points.
+-   Shrine of Order- Allows you to evenly distribute your points across all of your invested attributes for 5? knowledge points. think carefully before using this shrine
+-   Shrine of Chance- Allows you to exchange one talent card for another random one of equal rarity that you meet the requirements for for 5 knowledge points
+-   Shrine of Temptation- Allows you to instantly gain 3 levels of power for 5 knowledge. BE WARNED! you wont gain any XP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. (it may also give you an extra flaw, im unsure). you will gain 3 points of knowledge from leveling from this shrine. think carefully before using this shrine
+-   Shrine of Blasphemy- Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for for 5 knowledge points (unsure if rolled mantras are of the same star tier as the re-rolled one)
 
 ## Locations
 

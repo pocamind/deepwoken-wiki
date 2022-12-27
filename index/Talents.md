@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 43973
+revid: 44065
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -36,7 +36,6 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Everchanging Aegis with Return to the Dark Ages.
 -   You cannot roll Risky Moves with Safety Dance and Observation.
 -   You cannot roll Conditioned Runner with Fishman.
--   You cannot roll Vanishing follow-up with Dazing Finisher.
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
 -   You cannot roll Orbital Ice with Fist of fortitude.
 
@@ -173,8 +172,6 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 -   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisites: 25 Agility, 25 Fortitude
--   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility
 
 ### Amoran Seeker
 
@@ -218,11 +215,11 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   Also apply to sheathing.
     -   Prerequisites: 15 Agility
+-   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +3 Health)
+    -   Prerequisites: 20 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
     -   Prerequisites: 25 Agility
--   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, 20 Intelligence
 
 ### Athlete
 
@@ -384,7 +381,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Charismatic Cast
 -   Dazing Finisher \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: Charismatic Cast, Lasting Charisma, Tough Love, Morale Booster, Chaotic Charm
-    -   Mutual Exclusive: Vanishing Follow-up
 
 ### Comrade
 
@@ -966,13 +962,6 @@ Most of these Talents are designed to benefit you when the situation is dire.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
 
-### Lone Warrior
-
--   Mark of the Lone Warrior \[Common Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
-    -   Lower the EXP curve.
-    -   Stacks with Adept.
-    -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
-
 ### Marauder
 
 Most of these Talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
@@ -1036,11 +1025,6 @@ These are just raw stat increases and are beneficial to anyone.
 -   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load, +3 Health)
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
--   Adept \[ Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   Lower the EXP curve.
-    -   The reduction is stronger than Mark of the Lone Warrior
-    -   Stacks with Mark of the Lone Warrior
-    -   Prerequisite: Must be below Power 55.
         
 
 ### **Mr Charm**
@@ -1058,7 +1042,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
     -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
-    -   Prerequisite: 40 willpower, 25 strength, Murmur: Ardour
+    -   Prerequisite: 40 willpower, ~15 strength, Murmur: Ardour
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
 
@@ -1082,6 +1066,13 @@ These are just raw stat increases and are beneficial to anyone.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisites: 25 Strength
+
+### Nimble Blade
+
+-   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility
+-   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility, 20 Intelligence
 
 ### [Oath](Oaths.md)
 
@@ -1197,15 +1188,6 @@ These Talents are meant to be used in an aggressive playstyle.
     -   Prerequisites: Static Withdraw
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisites: Jumpstart
-
-### Shade
-
--   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +3 Health)
-    -   Prerequisites: 20 Agility
--   Vanishing Follow-up \[Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
-    -   A stationary roll is activated upon teleport
-    -   Prerequisite: 40 Agility
-    -   Mutual Exclusive: Dazing Finisher
 
 ### Silvertongue
 

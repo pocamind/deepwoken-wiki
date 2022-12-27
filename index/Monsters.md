@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 44045
+revid: 44089
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -79,7 +79,9 @@ Exclusive to The Depths: Eternal Gale (Layer 2)
 
 **Scyzophobia (Layer 1):**
 
-**Ethiron (Layer 2):**
+**Eternal Gale (Layer 2/F1):**
+
+**New Krysa (Layer 2/F2):**
 
 ### 
 
@@ -91,15 +93,11 @@ Exclusive to The Depths: Eternal Gale (Layer 2)
 
   
 
-**Floor 2 of layer 2 or whatever the fuck:**
-
-**crypt of unkept hair or something:**
-
 ## Monster Hunting Advice
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
+-   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace, or using the [Ignition Deep Delver](Ignition_Deepdelver.md) Outfit.
 -   **Never run from any Monster _if_ you know you have a slim chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
 -   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
@@ -112,7 +110,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
 
-When you level up, you automatically gain bonus damage during PVE, which is currently around **10.38%.** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
+When you level up, you automatically gain bonus damage during PVE, which is currently around **(10.38% x 3).** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 
@@ -120,12 +118,14 @@ Calculating how much health a Monster has from just your damage alone won't be c
 
 The formulas that you need to calculate how many hits are required to kill a monster are the following:
 
-D a m a g e P e r M 1 \= ( P o w e r + 10 ) × ( W e a p o n D a m a g e × ( D m g V S M o n s t e r s % 100 + 1 ) × 0.089 ) {\\displaystyle DamagePerM1 = (Power + 10) \\times (WeaponDamage \\times (\\tfrac{DmgVSMonsters\\%}{100} + 1) \\times 0.089)} {\\displaystyle DamagePerM1=(Power+10)\\times (WeaponDamage\\times ({\\tfrac {DmgVSMonsters\\%}{100}}+1)\\times 0.089)}  
+D a m a g e P e r M 1 \= ( 3 ( P o w e r + 3.33 ) ) × ( W e a p o n D a m a g e × ( D m g V S M o n s t e r s % 100 + 1 ) × 0.089 ) {\\displaystyle DamagePerM1 = (3(Power + 3.33)) \\times (WeaponDamage \\times (\\tfrac{DmgVSMonsters\\%}{100} + 1) \\times 0.089)} {\\displaystyle DamagePerM1=(3(Power+3.33))\\times (WeaponDamage\\times ({\\tfrac {DmgVSMonsters\\%}{100}}+1)\\times 0.089)}  
 H i t s \= M o n s t e r H e a l t h ( 100   −   R e s i s t a n c e % 100 )   ×   D a m a g e {\\displaystyle Hits = \\tfrac{MonsterHealth}{(\\tfrac{100 ~ - ~ Resistance\\%}{100}) ~ \\times ~ Damage}} {\\displaystyle Hits={\\tfrac {MonsterHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}}
 
 Example: If you were to fight a a Stone Knight with 9000 health and 55% resistance to slashing, using a weapon that does 40 damage per hit, while having 10% Damage VS Monsters and being at level 60, you would do:
 
-D a m a g e P e r M 1 \= ( 60 + 10 ) × ( 40 × ( 10 100 + 1 ) × 0.089 ) \= 274.12 {\\displaystyle DamagePerM1 = (60 + 10) \\times (40 \\times (\\tfrac{10}{100} + 1) \\times 0.089) = 274.12} {\\displaystyle DamagePerM1=(60+10)\\times (40\\times ({\\tfrac {10}{100}}+1)\\times 0.089)=274.12} H i t s \= 9000 ( 100   −   55 100 )   ×   274.12 \= 73 ( 72.9607471181 ) {\\displaystyle Hits = \\tfrac{9000}{(\\tfrac{100 ~ - ~ 55}{100}) ~ \\times ~ 274.12} = 73 (72.9607471181)} {\\displaystyle Hits={\\tfrac {9000}{({\\tfrac {100~-~55}{100}})~\\times ~274.12}}=73(72.9607471181)}
+D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 ) \= 274.12 {\\displaystyle DamagePerM1 = (3(20 + 3.33)) \\times (40 \\times (\\tfrac{10}{100} + 1) \\times 0.089) = 274.12} {\\displaystyle DamagePerM1=(3(20+3.33))\\times (40\\times ({\\tfrac {10}{100}}+1)\\times 0.089)=274.12} H i t s \= 9000 ( 100   −   55 100 )   ×   274.12 \= 73 ( 72.9607471181 ) {\\displaystyle Hits = \\tfrac{9000}{(\\tfrac{100 ~ - ~ 55}{100}) ~ \\times ~ 274.12} = 73 (72.9607471181)} {\\displaystyle Hits={\\tfrac {9000}{({\\tfrac {100~-~55}{100}})~\\times ~274.12}}=73(72.9607471181)}
+
+  
 
 ## Trivia
 

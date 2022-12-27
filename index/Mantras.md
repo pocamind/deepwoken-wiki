@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 43696
+revid: 44091
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -13,6 +13,39 @@ notices:
 “ Whispers from the Deep beckon you… ”
 
 ― Card selection sample text
+
+|-
+
+|width=32%; rowspan="3"; class="mobile-hidden" id="{{{n"|
+
+**{{{n** me}}}
+
+ _{{{desc}}}_
+
+|width=32%; colspan="3"; class="mobileonly" id="{{{n"|
+
+## {{{n me}}}
+
+  
+_{{{desc}}}_
+
+|-style="padding:0px; height:1% !important;"
+
+|
+
+{{{ethercostesc}}}
+
+|
+
+{{{dmgtype}}}
+
+|
+
+{{{reqs}}}
+
+|- |colspan="5"| {{{noeffect}}} |-
+
+  
 
 ## Description
 
@@ -117,6 +150,12 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 
 A mantra's type generally corresponds to its respective stat. Weapon mantras and Strength mantras tend to have more offensive capabilities, while Charisma and Fortitude are more defensive and supportive. Intelligence, Agility, and Willpower mantras are more or less split between the two roles.
+
+Monster Mantras
+
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare, monster parts that you can turn in for moves drop from a (name of the mantras in parenthesis) Megalodaunt (Coral Spear), Dread Serpent (Dread Breath), Thresher (Beast Burrow), Boneboy (Brachial Spear) and Enforcer (Enforcer Pull).
+
+Known monster parts that give Mantras: Enforcer Eye from Enforcer, Giant Femur from Boneboy, Thresher Talon from Thresher, Dread Serpent Tooth from Dread Serpent, and Megladaunt Coral from Megalodaunt.
 
 ## Modifying Mantras
 

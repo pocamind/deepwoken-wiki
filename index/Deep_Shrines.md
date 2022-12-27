@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 43889
+revid: 44078
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## Overview
 
-Also known as "Yun'shul Shrines", Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine bestows different deals in exchange for the client's wellbeing or mentality.
+Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine bestows different deals in exchange for the client's knowledge.
 
 ## Shrines
 
@@ -28,13 +28,13 @@ The Shrine of Temptation, Up-Front angle
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** _Chose mantras available to your attributes and attunement (I got 3 choices but needs testing)._
--   **(PENALTY)** _Lose one equiped mantra of your chosing and 5 intelligence points._
+-   **(BENEFIT)** _Choose mantras available to your attributes and attunement (I got 3 choices but needs testing)._
+-   **(PENALTY)** _Lose one equiped mantra of your chosing and 5 knowledge points._
 
 _Pros/Cons_
 
 -   You can still gain mantras after max level.
--   You lose intelligence points which are very valuable.
+-   You lose knowledge points which are very valuable.
 -   You have to permanently lose an equipped mantra.
 
 ### **Shrine of Blasphemy**
@@ -50,7 +50,7 @@ The Shrine of Blasphemy, Up-Front angle
 _Benefits/Penalties_
 
 -   **(BENEFIT)** _Instantly obtain 3 Power Levels, totaling 45 Attribute Points to spend_
--   **(PENALTY)** _Gain one random Flaw you have unlocked upon accepting the deal._
+-   **(PENALTY)** _Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge._
 
 _Pros/Cons_
 
@@ -67,17 +67,16 @@ _Pros/Cons_
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality
--   **(PENALTY)** You can only do this a certain amount of times, as it costs 5 knowledge
+-   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality.
+-   **(PENALTY)** Lose 5 knowledge.
 
   
 _Pros/Cons_
 
 -   If you change your mind about your build, you can switch around your traits
 -   You can only add a point to a trait that **isn't maxed**
--   It costs a lot of knowledge, meaning you might not be able to change your mind once you've done the transfer
 
-### Shrine of Chance
+### **Shrine of Chance**
 
 -   Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell)
     
@@ -90,3 +89,22 @@ _Pros/Cons_
 
 -   Useful for trying to get a better talent if you have some undesired ones
 -   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card
+
+### **Shrine of Order**
+
+“ YOU ARE IMBALANCED. LIKE A WALKING CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS. ALL THE SAME. ”
+
+― Shrine of Order
+
+  
+
+-   Located in Songseeker Mines, through the passage containing mudskippers. _Benefits/Penalties_
+
+-   **(BENEFIT)** Balances all currently invested attributes to be equal.
+-   **PENALTY)** Costs 5 knowledge, balances all currently invested attributes to be equal. _Pros/Cons_
+-   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
+
+## Trivia
+
+-   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
+-   [Ganymedes](Ganymede.md) can do deep deals for a cheaper rate, only requiring to spend 4 points of knowledge for every deal they make.

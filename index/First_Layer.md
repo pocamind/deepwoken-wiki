@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 43485
+revid: 44073
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -86,7 +86,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 | 50+ | [Enforcer](Enforcer.md) |
 | UKN | [Nautilodaunt](Nautilodaunt.md) |
 
-(There has been much confusion in how this works, for now this is outdated as multiple variables have changed and this is no longer reliable)
+(There has been much confusion as to how this works; as of the moment with the recent power compression it is unclear what spawns what, but Nautilodaunts are confirmed to appear with high drowns. In addition, Power 4 sends one to the surface, and 15 tends to spawn a Megalodaunt.)
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.

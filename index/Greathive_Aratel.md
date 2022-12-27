@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 43517
+revid: 44053
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -21,7 +21,7 @@ Template:Areainfobox**Greathive Aratel** is a location in _Deepwoken_. It is a s
 
 Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement.
 
-To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
+To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above power 10 (No Need Oath). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
 
 It is also possible to just [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
 
@@ -118,7 +118,6 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ## Trivia
 
--   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. Lorewise, Regek tells us that this is one of four greathives.(Physical mantra trainer)
 -   Suri's Quest is most likely inspired by Hollow Knight, which also has a mission to deliver a delicate flower that will be destroyed upon taking damage, to a grave. This theory is also supported by many similarities between [Vesperians](Vesperian.md) and bugs in Hollow Knight.
 -   Everyone inside Greathive Aratel is a Vesperian. However, there is one ganymede guard in Greathive Aratel.
@@ -128,4 +127,3 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   Artifacts are able to spawn at hive, however there are no known location of a Banker in the hive itself.
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
--   You can bring a friend over to Greathive Aratel without them needing to have the gate open. To do this, flourish a humanoid into the gate or go around and above the gate, carry them and get teleported. This works for the 3 teleporters inside too.

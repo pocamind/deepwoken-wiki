@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 43317
+revid: 44052
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -87,7 +87,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 
 ## Weapon Attributes
 
-These attributes can be improved up to 75, but completion of the quest: [A Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest), allows attributes that reached 75 to go up to 100.
+These attributes can be improved up to 75, but completion of the quest [A Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) unbounds these attributes, allowing them to go from 75 up to 100.
 
 ### Heavy Weapons
 

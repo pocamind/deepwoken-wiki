@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 44009
+revid: 44062
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1476,7 +1476,7 @@ Weapons that scale with a certain element
   <td>75 ICE, 30 HVY, LVL 30</td>
   <td>23.5</td>
   <td>N/A</td>
-  <td>SDW: 10 HVY: 3</td>
+  <td>ICE: 10 HVY: 3</td>
   <td>6</td>
   <td>8</td>
   <td>0.64x</td>

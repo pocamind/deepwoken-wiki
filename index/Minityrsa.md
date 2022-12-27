@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 43851
+revid: 44086
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -37,11 +37,11 @@ Minityrsa
 ## Potential Enemies
 
 -   [Ministry Scouts](Ministry_Scout.md)
--   [Ministry Necromancer](Ministry_Necromancer.md)
+-   [Ministry Necromancers](Ministry_Necromancer.md)
 -   [Rogue Constructs](Hive_Construct.md)
--   [Snow Knight](Stone_Knight.md) (during [winter](Seasons.md))
--   [Brain Suckers](Brainsucker.md)
--   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
+-   [Snow Knights](Stone_Knight.md) (During [winter](Seasons.md))
+-   [Brainsuckers](Brainsucker.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
 
 ## Loot Table
 
@@ -68,21 +68,21 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
  | 
 
--   [Canorian Axe](Canorian_Axe.md) (rare)
--   [Crescent Cleaver](Crescent_Cleaver.md) (rare)
--   [Iron Cestus](Iron_Cestus.md) (common)
--   [Legion Cestus](Legion_Cestus.md) (rare)
--   [Katana](Katana.md) (very rare)
--   [Nemit's Sickle](<Nemit's_Sickle.md>) (common)
--   [Hero Blades](Hero_Blades.md) (skill issue)
--   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
--   [Razor Cutlass](Razor_Cutlass.md) (uncommon)
+-   [Canorian Axe](Canorian_Axe.md) (Rare)
+-   [Crescent Cleaver](Crescent_Cleaver.md) (Rare)
+-   [Iron Cestus](Iron_Cestus.md) (Common)
+-   [Legion Cestus](Legion_Cestus.md) (Rare)
+-   [Katana](Katana.md) (Very rare)
+-   [Nemit's Sickle](<Nemit's_Sickle.md>) (Common)
+-   [Hero Blades](Hero_Blades.md)
+-   [Apprentice Rapier](Apprentice_Rapier.md) (Rare)
+-   [Razor Cutlass](Razor_Cutlass.md) (Uncommon)
 -   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rogue Construct)
--   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) (uncommon from Rogue)
+-   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) (Uncommon from Rogue)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rogue Construct)
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
 -   Master Hawk's Handaxe (Rogue Construct chest)
--   [Night Axe](Night_Axe.md)(Rare drop from necromancers or brainsuckers)
+-   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
 
  | 
 
