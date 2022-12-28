@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 44373
+revid: 44445
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -41,7 +41,7 @@ categories: [Echoes, Character, Mechanics]
 -   Making a deal with [Misérables](Misérables.md), awarding ? Echoes.
 -   Drinking an [Attribute Flask](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses), awarding ? Echoes.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo (not repeatable).
--   Using a [Deep Shrines](Deep_Shrines.md), awarding ? Echoes.
+-   Using a [Deep Shrines](Deep_Shrines.md), awarding 2 Echoes.
 -   Cooking a [meal](Food.md), awarding 1 Echo.
 -   Catching a [fish](https://deepwoken.fandom.com/wiki/Fishing#Loot_From_Fishing), awarding 1 Echo.
 -   Modifying a [mantra](Mantras.md), awarding 1 Echo.

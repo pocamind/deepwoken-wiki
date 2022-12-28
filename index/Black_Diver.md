@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 44314
+revid: 44427
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Black Diver** is a Master [Outfit](Outfits.md) in _Deepwo
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Blessed Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Megalodaunt Hide](Megalodaunt_Hide.md), one (1) Odd Tentacle and one (1) Thresher Spine.
 
-This Outfit requires [Power Level](Talents.md) 45 and [Willpower](Attributes.md) 20.
+This Outfit requires [Power Level](Talents.md) 15 and [Willpower](Attributes.md) 20.
 
 ### _Armor Stats_
 

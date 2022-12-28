@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 44172
+revid: 44435
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -21,7 +21,7 @@ It is treated as a currency like notes~, but unlike them, it is non-renewable.~ 
 ## Obtainment
 
 -   Leveling up gives you one knowledge point.
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) gives you 2? knowledge points.
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) gives you 2 knowledge points. (Only for the first time)
 -   Purchasing knowledge from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) using Krysan Medallions.
 
 ## [Shrines](Deep_Shrines.md)

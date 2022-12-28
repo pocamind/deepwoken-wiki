@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 43972
+revid: 44444
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -16,11 +16,11 @@ categories: [Pages with broken file links, Fishing, Mechanics]
 
 ## How to Fish
 
-To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber. You can also buy it at the docks for 30 Notes.
+To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber at a [Crafting Station](Crafting_Station.md). You can also buy a Fishing Rod at the [Etris Docks](Etris_Docks.md) for.
 
-The next step to fishing is cast out your Fishing Rod at an area with a general connection to the seas, such as Docks. Soon you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
+The next step to fishing is to cast out your Fishing Rod at an area with a general connection to the sea, such as the [Etris Docks](Etris_Docks.md) or the Isle of Vigils Docks. After a while, you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
+Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
 
 Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item.
 
@@ -59,11 +59,11 @@ Everything you can get from fishing has it's own chat bubble pop-up, as a reacti
   
 Fishing a Golden Fish doesn't change the chat bubble.
 
-A lot of fish
+Gallery of Fish:
 
 ## **Talents**
 
-There are currently 3 Talents related to fishing, each automatically obtained after milestones have been completed. "Proficient baiting" unlocks at 10 fish, "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively. (Note: You don't need to actually catch the fish for it to count towards the talent progress, you could lose the fish and still get the talent)
+There are currently 3 Talents related to fishing, each automatically obtained after reaching certain milestones. "Proficient baiting" is unlocked at 10 "Catches", "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively. (Note: You don't need to actually catch the fish for it to count towards the talent progress, you could lose the fish and still get the talent.)
 
 File:Fishing Talents.png
 
@@ -76,6 +76,8 @@ File:Fishing Talents.png
   
 
 ## **Bait**
+
+_**(Note: This sections needs more information and rewriting work.)**_
 
 A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
 

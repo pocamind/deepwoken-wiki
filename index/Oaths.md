@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44384
+revid: 44443
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -457,7 +457,7 @@ This Oath grants two Combat Mantra slots.
 
 N/A
 
--   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method.
+-   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>)
 
   
 

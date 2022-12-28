@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44306
+revid: 44415
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -106,6 +106,10 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 
+### Chaser, Scholar of the Blood Contract
+
+-   Chaser is a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
+
 ### **The Meat Lord**
 
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
@@ -150,6 +154,11 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 File:Yun'Shul.png
 
 Yun'shul's Shrine
+
+### **Ethiron**
+
+-   Ethiron is a Drowned god residing in the Eternal gale, responsible for the killing winds there.
+-   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 
 ### **The Nestmind**
 
@@ -265,7 +274,13 @@ _"A place remembered only by the waves"_
 -   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library  
     
 
-### **The Depths (Scyphozia, The First Layer)**
+### **The Depths**
+
+The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
+
+-   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths.
+
+#### **Scyphozia, The First Layer**
 
 **Lore Sources:**
 
@@ -274,10 +289,8 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 -   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
 -   As it is underwater, the gravity there is significantly lower
--   The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
-    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths.
 
-#### The City of the Drowned (The Depths, First Layer)
+##### The City of the Drowned (The Depths, First Layer)
 
 **Lore Sources:** _Arch\_Mage (Discord)_
 
@@ -295,7 +308,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
-#### Castle Light (The Depths, First Layer)
+##### Castle Light (The Depths, First Layer)
 
   
 
@@ -304,6 +317,19 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
 -   The barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
+
+#### **The Eternal Gale (Second Layer)**
+
+-   The Second layer of the depths is a cold wasteland with never-ending winds that lies directly below the first layer.
+
+##### **Ethironal Shrine (First floor)**
+
+-   A shrine dedicated to the Drowned god Ethiron, built by the residents of the second layer.
+-   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
+
+##### Kyrsa (Second Floor)
+
+-   Kyrsa is a civilization that sunk to the second layer
 
 ## Factions
 
@@ -333,7 +359,7 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Children of Navae
 
--   **Territory:** _N/A_
+-   **Territory:** _N/A, Meteor Isle_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/None_
@@ -348,6 +374,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
+-   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
 
 ### The Hundred Legions
 
@@ -400,7 +427,7 @@ A Summer Company Member.
 
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
 
--   **Territory:** _Unknown_
+-   **Territory:** _Minitrysa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
 -   **Alliances:** _The Contractors (Neutral)_
@@ -452,7 +479,7 @@ A Dark Mage, located in Minityrsa.
 
 ### The Ignition Union
 
--   **Territory:** _Unknown_
+-   **Territory:** _Miner's Landing, Layer 2 base_
 -   **Encountered In:** _Summer Isles, The Depths (Akira's rare event), Depths Layer 2 (Ignition Union Base)_
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _The Central Authority (Business Relations)_
@@ -464,6 +491,9 @@ A Dark Mage, located in Minityrsa.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 -   The Crypt blade's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time for mining work.
+-   The Ignition Union bases in the first and second layers of the depths.
+    -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
+-   Deepdelver is a special rank in the igniton union for those who delve deep into the depths, and have proved their merit in some way.
 
   
 
@@ -493,7 +523,6 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
--   Racist.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -512,6 +541,7 @@ A Peacekeeper Commander, part of The Authority
     -   Their previous home was located in Erisia Island, by the names of [The Hidden Village](The_Hidden_Village.md).
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
+    -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
 -   Their society is structured like insects, using terms such as Hive and Drone.
@@ -719,6 +749,18 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
+
+### **Chrysid**
+
+_"Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book."_
+
+-   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
+-   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
+-   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
+-   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
+-   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
+-   Hiri in Greathive Aratel and Lake in Upper Erisia reveal lore about the Chrysid.
+-   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
 
 ### Lightborn
 
@@ -1242,9 +1284,10 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Language**
 
--   There are multiple languages in the Deepwoken world, though only one is ever used.
+-   There are multiple languages in the Deepwoken world,
     -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughout the game is simply called 'Common.'
+-   There is a language used by the residents of the second layer, similar to common.
 
 ## Music
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 44297
+revid: 44405
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -170,10 +170,20 @@ File:Summer company cannon.png
 
 The Summer Company cannon
 
-### _The Cannon_
+### _**The Cannon**_
 
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is already on land, but will if a player is sailing nearby.
 -   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to THE GUY in the cave across from [Meteor isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
+
+### _**The Hidden Grove**_
+
+File:Fountain.png
+
+Epic fountain.
+
+-   Located on an island behind the Inn. You have to get into this location by destroying the different colored wall(Needs confirming) or using a teleport move.
+
+-   Inside, there is a room decorated with trees, bushes and a blue fountain in the middle. Interacting with the fountain tells you that you need something to water it, but if you have a [canteen](Canteen.md) in your inventory with water in it, The fountain will sprouts 6 random lotuses in the room and you can collect them. The fountain has a cooldown.
 
 ## Island Inhabitants
 

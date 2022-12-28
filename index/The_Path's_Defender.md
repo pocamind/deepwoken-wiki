@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 43900
+revid: 44431
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second LayerWidow Cave |
+| obtainment | Second Layer,Widow Cave, Duke Chests |
 | description | A venerated shield, donned only by those who have walked their own Path as they see it. |
 
 ## Description

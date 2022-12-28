@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 44238
+revid: 44430
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -16,7 +16,7 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 | scaling | HVY: 8.3 |
 | range | 8 |
 | swing speed | 0.7x |
-| penetration | 35% |
+| penetration | 25% |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

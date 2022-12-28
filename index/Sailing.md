@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 42609
+revid: 44420
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -28,6 +28,7 @@ To summarize how sailing works, it is what people in the gaming world would call
 -   Deceleration/Move backwards/Drop sails - **S**
 -   Steer Left - **A**
 -   Steer Right - **D**
+-   Steer Reset - **Q**
 -   Rotate sails Left - **Z**
 -   Rotate sails Right - **C**
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 44387
+revid: 44436
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -252,7 +252,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. The curse of this weapon is that your critical doesn't work. (Needs to be tested)</p></div></td>
+  <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. Your critical is changed to a counter. When the counter procs, you will take no damage and your opponent does less damage to you for an unspecified amount of time.</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>
