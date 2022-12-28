@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 43495
+revid: 44354
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -53,6 +53,7 @@ Template:Races-Main
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
 -   Hiri in Greathive Aratel and Lake in Upper Erisia reveal lore about the Chrysid.
+-   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
     
 
 **Strengths:**

@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 43139
+revid: 44349
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,6 +37,6 @@ Diver Husks has an arsenal of weapons known across the Lumen to equip from, but 
 
 ## Trivia
 
--   Diver Husks still have some humanity in themselves; although the parasites resides in their body are controlling them entirely-- leaving those who fight against them a feeling of hopelessness and grief as there is nothing to do for them.
+-   Diver Husks still have some humanity in themselves; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them a feeling of hopelessness and grief as there is nothing to do for them.
     
     A Dive Husk's last words before execution.

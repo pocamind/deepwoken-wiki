@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 44294
+revid: 44373
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -31,7 +31,7 @@ categories: [Echoes, Character, Mechanics]
 -   Obtaining your [Oath](Oaths.md), awarding 5 Echoes.
 -   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
 -   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), or the Chaser Boss, awarding 5 Echoes each, respectively.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), the Chaser Boss, or the Ethiron Boss, awarding 5 Echoes each, respectively.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Soul-bounding a [Enchant](Enchantments.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
@@ -56,51 +56,71 @@ categories: [Echoes, Character, Mechanics]
   <td><center><b>Upgrade</b></center></td>
   <td><center><b>Effect</b></center></td>
   <td><center><b>Cost</b></center></td>
+  <td><center><b>Increment</b></center></td>
+  <td><center><b>Maximum</b></center></td>
 </tr>
 <tr>
   <td><center><b>Resonance Progress</b></center></td>
   <td><center>This upgrade increases the speed by which resonances may be obtained.</center></td>
   <td><center><b>50 Echoes</b></center></td>
+  <td><center><b>5%</b></center></td>
+  <td><center><b>20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Mob Armor</b></center></td>
-  <td><center>This upgrade gives +2% damage reduction against mobs ( cap of 8% ).</center></td>
+  <td><center>This upgrade gives +2% damage reduction against mobs.</center></td>
   <td><center><b>50 Echoes</b></center></td>
+  <td><center><b>2%</b></center></td>
+  <td><center><b>8%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Mob Damage</b></center></td>
-  <td><center>This upgrade gives +2% increased damage against mobs (cap of 8%).</center></td>
+  <td><center>This upgrade gives +2% increased damage against mobs.</center></td>
   <td><center><b>50 Echoes</b></center></td>
+  <td><center><b>2%</b></center></td>
+  <td><center><b>8%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Stomach Capacity</b></center></td>
   <td><center>This upgrade slows the rate at which the Hunger bar goes down.</center></td>
   <td><center><b>25 Echoes</b></center></td>
+  <td><center><b>&nbsp;???</b></center></td>
+  <td><center><b>&nbsp;???</b></center></td>
 </tr>
 <tr>
   <td><center><b>Thirst Capacity</b></center></td>
   <td><center>This upgrade slows the rate at which the Thirst bar goes down.</center></td>
   <td><center><b>25 Echoes</b></center></td>
+  <td><center><b></b></center></td>
+  <td><center><b></b></center></td>
 </tr>
 <tr>
   <td><center><b>Passdown Capacity</b></center></td>
   <td><center>This upgrade increases the amount of items you can pass down upon wiping.</center></td>
   <td><center><b>25 Echoes</b></center></td>
+  <td><center><b>1</b></center></td>
+  <td><center><b>2</b></center></td>
 </tr>
 <tr>
   <td><center><b>Starting Notes</b></center></td>
-  <td><center>This upgrade gives a number of Notes to new characters</center></td>
+  <td><center>This upgrade gives a number of Notes to new characters (5 notes upon first upgrade, other upgrades unknown)</center></td>
   <td><center><b>25 Echoes</b></center></td>
+  <td><center><b>&nbsp;???</b></center></td>
+  <td><center><b>25</b></center></td>
 </tr>
 <tr>
   <td><center><b>Starting Knowledge</b></center></td>
   <td><center>This upgrade gives Knowledge to new characters</center></td>
   <td><center><b>25 Echoes</b></center></td>
+  <td><center><b>&nbsp;???</b></center></td>
+  <td><center><b>+5</b></center></td>
 </tr>
 <tr>
   <td><center><b>Starting Ace</b></center></td>
   <td><center>This upgrade gives a number of Aces to new characters</center></td>
   <td><center><b>50 Echoes</b></center></td>
+  <td><center><b>&nbsp;???</b></center></td>
+  <td><center><b>+2</b></center></td>
 </tr>
 </tbody>
 </table>

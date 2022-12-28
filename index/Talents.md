@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44256
+revid: 44327
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -47,19 +47,17 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ## Talent quests
 
-Coming along with the verse 2 update, crutial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked and given to a character upon reaching specific power. Their given quests will be listed on the list:
+Coming along with the verse 2 update, crutial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked and given to a character upon reaching specific power. All quests require you to talk to an NPC and return back once their errand is completed.
 
-### Engage
+### Engage + Critical Attack
 
--   Quest giver located in burning stone gardens
-
-### Critical Attack
-
--   Quest giver located in burning stone gardens
+-   Quest giver located at the gate to burning stone gardens. He will request that you kill a sharko.
+-   it is common to find a sharko inside of the cave behind him, but if none spawn then you can find them at the sharko cave in lower erisia.
 
 ### Aerial Assault
 
--   Quest giver located in lower erisia
+-   Quest giver located in lower erisia near the glider blueprints giver.
+-   Make your way to the blindseer oath temple and interact with the middle purple flame in front of Neero.
 
 ### Thresher Scales
 

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 43828
+revid: 44389
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -87,7 +87,7 @@ This fits with our current understanding of the lore and would explain why they 
 -   The Ganymedes may be inspired by insects, considering their relation to Vesperians. (Both races share similarities to [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
 -   One of the most valuable traits for Ganymede's is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.
--   Ganymede is one of the rarest obtainable races in the game, the other one being [Capra](Capra.md).
+-   Ganymede is one of the rarest obtainable races in the game, the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
 -   The hat comes from the Roblox Catalog, being the "Frumpled Wizard Hat of Old Coots"
 -   In greek mythylogy Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.

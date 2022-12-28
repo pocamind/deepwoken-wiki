@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 44252
+revid: 44312
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -42,7 +42,14 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I search for the Song._
 -   _I steal from people._
 -   _I sabotage others._
+-   _I seek the Qualities of Natural Armor._ **(Natural Armor)**
+-   _I seek out Amorus Pleeksty_
+-   _I am a competent duelist._
+-   _I Am an everlasting bastion._
+-   _In nature, I am at home._
+-   _I burn so that I may succeed._
 -   _My hunt is inescapable._
+-   _My flames wrap my fists._
 -   _I prefer to attack unseen._
 -   _I fight for the Legion._ **(Legion Shock Trooper)**
 -   _I go beyond my limits._ **(Limitbreaker)**
@@ -51,6 +58,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I stand far above others, an insurmountable challenge._
 -   _I am a Master of all Weapons._ **(Weapon Master)**
 -   _I often attack others._
+-   _I feed on the souls of my enemies._
 
 ## Locations
 

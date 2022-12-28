@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44242
+revid: 44384
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -46,6 +46,11 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Dawnwalker | |
 |---|---|
 | oath_req | 30 Krysan Medallions |
+| effects | +2 Combat Mantra |
+
+| Oath: Contractor | |
+|---|---|
+| oath_req | N/A |
 | effects | +2 Combat Mantra |
 
 _icon credit to Tortaa#9000_
@@ -96,7 +101,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 ― Blindseer Description
 
   
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 8 (or 6 if you started with 10 willpower) to obtain all stated requirements.
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
 ### Obtainment
 
@@ -111,7 +116,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-To obtain the Blindseer Mantras, you need to help Pathfinder players (players with no Oath) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 5, and the last at 10.
+To obtain the Blindseer Mantras, you need to help Pathfinder players (players with no Oath) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -162,7 +167,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 ― Visionshaper Description
 
   
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath you need one Void Feather for each skill, Void Feather rarely dropped by Deep Owls but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras, together with Blindseer.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath you need one Void Feather for each skill, Void Feather rarely dropped by Deep Owls but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras.
 
 ### Obtainment
 
@@ -223,7 +228,7 @@ Does not grant any special cosmetic based on race.
 
 ### Notes
 
--   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last dramatically.
+-   The Mental Fortress Talent Disbelief only affects illusionary servants, reducing the amount of time they last dramatically.
 
 ## Oath: Linkstrider
 
@@ -236,10 +241,10 @@ Does not grant any special cosmetic based on race.
 
 ### Obtainment
 
-1.  Get different 4 players with Oaths (have to be different accounts, only 2 of each oath can be used. Oathless players do not count.)
+1.  Get 4 different players with Oaths (have to be different accounts, only 2 of each oath can be used. Oathless players do not count.)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
-4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be send to the depths.
+4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
 5.  Interact with the white orb that appears in the middle.
 
 ### **Known Abilities**
@@ -283,7 +288,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ### Obtainment
 
-1.  Have at-least 50 Agility.
+1.  Have at least 50 Agility.
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
@@ -365,7 +370,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ― Arcwarder Description
 
   
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to kill Chaser (Layer 2 Boss) 7 times. (5 for the passives, 2 for the mantras).
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 boss and escape. (7 times in total)
 
 ### Obtainment
 
@@ -436,6 +441,25 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 ### Effects
 
 This Oath grants two Combat Mantra slots.
+
+  
+
+## Oath: Contractor
+
+“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to server under his will, no matter the cost. ”
+
+― Contractor Description
+
+  
+**Oath: Contractor** N/A
+
+### Obtainment
+
+N/A
+
+-   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method.
+
+  
 
 ## Trivia
 

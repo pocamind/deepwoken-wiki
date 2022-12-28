@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 43519
+revid: 44358
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -38,8 +38,8 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras can open it up, containing several nodes of Rock, Coal, Iron and Gold.
 -   There are two structures:
-    1.  A Windmill, by climbing up the window there is a small room. (nothing of interest inside)
-    2.  A small hut. (nothing of interest inside)
+    1.  A Windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
+    2.  A small hut. (2 chest spawns inside)
 
 #### Obelisk
 

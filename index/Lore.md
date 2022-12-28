@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44293
+revid: 44306
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -142,14 +142,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### **Yun'shul**
 
--   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
--   Yun'shul is a Drowned God; according to Arch\_Mage.
+-   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   His title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why he is the only creature who may have governance over your resonance.
+-   He can't in universe actually change someone's resonance, they are tied to your soul and personality so are permanent. This ability is solely so that builds aren't dependent on the rng of what resonance they will receive.
 
 File:Yun'Shul.png
 
-Yun'shul
+Yun'shul's Shrine
 
 ### **The Nestmind**
 
@@ -179,8 +179,10 @@ Yun'shul
 **Lore Sources:**
 
 -   A region consisting of a variety of islands; from deserts, arctic and normal ones.
--   [The Eastern Luminant](Luminants.md) (or the Etrean Luminant) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
+-   [The Eastern Luminant](Luminants.md) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
     -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive and the Children of Navae.
+-   There are two main areas, the Etrean Sea and the Aratel Sea, separated by a large gate.
+    -   Areas found in the Etrean Sea are considered part of Etrean Luminant, areas in the Aratel Sea are part of the Eastern Luminant
 
 #### Eastern Interstitial Lighthouse (Etrean Luminant)
 
@@ -192,13 +194,13 @@ Yun'shul
 -   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 
-#### Songseeker Wilds (Etrean Luminant)
+#### Songseeker Wilds (Eastern Luminant)
 
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
 -   The trainer for Fire Mantra owns a dojo on the island.
 
-#### Starswept Valley (Etrean Luminant)
+#### Starswept Valley (Eastern Luminant)
 
 **Lore Sources:** _[Arch\_Mage](Wiki_Staff.md) (Discord)_
 
@@ -223,7 +225,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A savannah nation conquered by The Central Authority.
 -   The origin of Scimitars and similar blades.
--   A Felinor people once lived here.
+-   The Felinor Fieldfolk once lived here.
 
 #### Markor Citadel
 
@@ -237,12 +239,11 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Northern Luminant**
 
 -   A frozen Tundra.
-
 -   Probably home to [Frostdraw](Frostdraw.md).
 
 ### **Western Luminant**
 
--   The home to the Eleventh Legion and home of the Khans.
+-   The home to the Hundred Legions and home of the Khans.
 
 ### **Voidsea**
 
@@ -253,6 +254,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
 -   They have been compared to a fraying edge on a fabric.
+-   Eventually it will consume the world.
 
 #### Boatman's Watch (Voidsea)
 
@@ -284,10 +286,10 @@ _"The sunken remnants of a lost civilization give little respite to the transito
   
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
--   It's guarded by the city's former guards
+-   It's guarded by the city's former guards.
     -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'
--   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it
-    -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free
+-   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
+    -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
 -   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky
     -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
@@ -300,8 +302,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
   
 
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
-    -   This barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drain of their Ether whilst those who are alive can go through with no harm done.
-        -   As of 3/17/2022, there are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
+-   The barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
+    -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
 ## Factions
 
@@ -315,7 +317,6 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   **Lore Sources:** _Etris_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
--   They are not to be confused with The Authority.
 -   Their appearance can be distinguished by their white/green/purple armor.
 -   They have been ruled by their Kings for generations; until months before the year 1271, that the Lord Regent took over.
 -   Their culture seems to draw from East Asian countries
@@ -506,9 +507,10 @@ A Peacekeeper Commander, part of The Authority
 -   **Enemies:** _The Kingdom of Etrea, The Central Authority_
 -   **Lore Sources:** _Regek_
 
--   A group of Individuals; mostly Vesperians and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
+-   They are lead by a Hivelord.
+-   A group of Individuals; mostly Vesperians and Ganymedes, located in the[Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Their previous home was located in Erisia Island, by the names of [The Hidden Village](The_Hidden_Village.md).
--   Their level of technology is far better than Summer Company, such as the makings of Hive Constructs, Laboratories, and the invocation of green fountains.
+-   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
@@ -526,7 +528,7 @@ A Peacekeeper Commander, part of The Authority
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
--   The Divers have some form of ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs.
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
@@ -579,14 +581,15 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### Songseekers
 
--   **Territory:** _Unknown (Presumably Aratel Island)_
+-   **Territory:** _None_
 -   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
 -   **Lore Sources:** _Arch\_Mage (Discord), Songseeker Wilds_
 
--   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
+-   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
+-   They care little for their own lives or the lives of fellow Songseekers, using mantras that will often hit their allies or even execute down Songseekers, unlike other enemies.
 
 ### Bandits
 
@@ -619,6 +622,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Arch\_Mage) The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole is more of a profession, unlike the Old Stewards that consists mostly (or entirely) of Historians.
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
+-   The player is referred to as one.
 
 ## Race Lore
 
@@ -650,8 +654,8 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
 -   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
--   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
--   Arch\_mage confirmed they are **NOT** fish.
+-   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
+-   They are **NOT** fish.
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, once shared a close bond with Canor, the dog race, and are the leaders of the most violently racist group in the game.
 
 ### Canor
@@ -680,7 +684,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
 
 -   A prideful race that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
--   They are a big part of the Hundred Legions
+-   They are a big part of the Hundred Legions.
 -   Little is known about the race in general and their origins...
 
 ### Felinor
@@ -727,6 +731,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Some of the Lghtborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
 -   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
+-   They posses Halos around either their heads, necks or wrists.
 
 ### Celestials
 
@@ -743,7 +748,7 @@ _"The stars call you back..."_
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
--   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair.
+-   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair. Though it should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon.
 
 ### Primal Vesperians
 
@@ -763,7 +768,7 @@ _"The stars call you back..."_
 -   The Four Basic Attunements, Flamecharm, Frostdraw, Galebreathe and Thundercall were discovered and developed during the Canticlysm; the peak of understanding The Song, and also the eventual downfall of the Old World.
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
     -   (Arch\_Mage) Like the first bulletin, the 4 Attunements were discovered and developed during the Canticlysm.
-    -   (Curved Blade of Winds) The first Galebreathers of the Canticlysm wield the Curved Blade of Winds; a Scimitar attuned to the Winds.
+    -   (Curved Blade of Winds) The first Galebreathers of the Canticlysm wield the Curved Blade of Winds; dual scimitars attuned to the Winds.
 
 ### Flamecharm
 
@@ -773,11 +778,10 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   (Pleetsky) Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
-    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the 3rd layer of the Depths.
+    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
     -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.
-
 -   (Flameworshipper Shield) Other than the history lesson given by the Flameworshipper Shield, the Shield itself bears the emblem of a Flamepriest.
 -   (Flame Worshipper Armor) This armor is a standard-issue armor of the Covenant of Flame.
     -   Not much is known about the Covenant of Flame except it was pioneered by Pleetsky himself. This Covenant is presumably a minor Faction.  
@@ -797,7 +801,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 **Lore Sources:**
 
--   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
+-   The power to control electricity and power.
     -   Thundercall concentrates the energies of electricity.
     -   Has been quoted by the Pathfinder Neero to be a power source for most everything.
 
@@ -835,6 +839,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
+    -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.
 
 ### Lifeweavers
 
@@ -846,7 +851,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
--   The book _The Tale of Ciryyn_ expands up on it
+-   The book _The Lament of Ciryyn_ expands up on it
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
@@ -858,7 +863,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
-    -   (Hive Tactician)Tthere is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+    -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
         
 
@@ -993,7 +998,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
 
--   As the name applies, godlike beings who originated from The Depths. one notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Mortals (And even players themselves) cannot win against a Drowned God- As they have no chance of fighting a being powerful enough to explode their heads in an instant.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully awaken, the world would be destroyed.

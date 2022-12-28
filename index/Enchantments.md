@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 44170
+revid: 44387
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -46,6 +46,7 @@ There are three variants that enchantments come in:
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+-   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
 
 ## List of Enchantments
 
@@ -294,13 +295,6 @@ There are three variants that enchantments come in:
   <td><div>Weapon is blown out with shooting out exhausts of the colors red, yellow, and green.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Providenesstorms.png<figcaption></figcaption></figure><center><br>
-  <font>Providence of Storms<div></div></font></center></td>
-  <td><div><p>Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.<br>
-  <b>Removed from the game</b></p></div></td>
-  <td><div>Weapon is invisible and covered with yellow mist with dots all around.</div></td>
-</tr>
-<tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><center><br>
   <font>Tainted Sorrow<div></div></font></center></td>
   <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
@@ -456,6 +450,23 @@ Currently a placeholder.
  | 
 
 Static flaming purple.
+
+ |
+| 
+
+File:Providenesstorms.png
+
+  
+Providence of Storms
+
+ | 
+
+Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.  
+**Removed from the game**
+
+ | 
+
+Weapon is invisible and covered with yellow mist with dots all around.
 
  |
 

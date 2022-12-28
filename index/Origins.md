@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 44008
+revid: 44367
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -59,7 +59,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths. Monsters with more HP give more bell progress.
--   **\[PRO\]** Killing a monster with more than 500 HP gives 3% luck.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
 

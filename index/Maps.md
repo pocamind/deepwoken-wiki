@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 44105
+revid: 44322
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Maps
+
+File:Verse2BurfLogo (1).jpg
 
 Icon by Tako#3245
 
@@ -28,6 +30,13 @@ _As of the Verse 2 Update, almost all maps that include Aratel Island and/or the
 
 ## Maps
 
+There is a rushed updated version of the eastern luminant available.
+
+File:Burf9 map.png
+
+map of eastern luminant
+
+  
 An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
 **An interactive map of the East Luminant can be found here: Map:East Luminant**
