@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 44050
+revid: 44529
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -26,4 +26,8 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and Frostdraw. Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 23.5 base damage and has a swing speed of 0.64x. She will talk with you after killing the minityrsa scouts and buff dmg after killing them(UNEQUIP WEP WILL RESET THE COUNTER TO 0)
+The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 23.5 base damage and has a swing speed of 0.64x. She will speak a voiceline and buff the damage dealt from her after killing a [Ministry Scout](Ministry_Scout.md), **unequipping her will reset the counter back to 0**.
+
+## Trivia
+
+-   The first and only weapon that currently has the ability to speak.

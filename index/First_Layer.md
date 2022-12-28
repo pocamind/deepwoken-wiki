@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 44286
+revid: 44469
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -75,16 +75,16 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note_
 
-**Your Trial Power is calculated by Power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 49 but have 1 drowned then you will face an Enforcer (49+1=50). _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by power(3)+ Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer (17(3)+1=52). _The table below accounts only for your power, not how many times you drowned._
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1 - 4 | Nothing (you are sent up without a fight) |
-| 11 - 19 | [Mudskipper Knight](Mudskipper.md) |
-| 20 - 29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30 - 49 | [Megalodaunt](Megalodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
-| ??% of replacing enforcer | [Nautilodaunt](Nautilodaunt.md) |
+| 1 - 3 | Nothing (you are sent up without a fight) |
+| 4 - 6 | [Mudskipper Knight](Mudskipper.md) |
+| 7 - 9 | [Angel](Hollow_Angel.md) (Lesser) |
+| 10 - 12 | [Megalodaunt](Megalodaunt.md) |
+| 13 - 15 | [Nautilodaunt](Nautilodaunt.md) |
+| 16+ | [Enforcer](Enforcer.md) |
 
 (There has been much confusion as to how this works; as of the moment with the recent power compression it is unclear what spawns what, but Nautilodaunts are confirmed to appear with high drowns. In addition, Power 4 sends one to the surface, and 15 tends to spawn a Megalodaunt.)
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 44436
+revid: 44451
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -128,7 +128,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker gets placed on the enemy, press R (Your crit) to teleport on them and the crit will hit - The range of this is unknown, also your critical animation looks like the katana one.</p></div></td>
+  <td><div><p>On hit, a red eye marker gets placed on the enemy. Unique critical with katana's critical animation that teleports you to marked enemies, dealing damage. - The range of this is unknown</p></div></td>
   <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies a Solar Mark on proc.<br>
+  <td><div><p>Applies a Solar Mark on flourish.<br>
   Highlights marked enemies, and when you vent, you steal some Ether from marked opponents.</p></div></td>
   <td><div></div></td>
 </tr>
@@ -194,13 +194,13 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, with a unique critical which throws a spear javelin</p></div></td>
+  <td><div><p>Effects of the storm enchant, with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns.</p></div></td>
   <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of Edenkite<div></div></font></center></td>
-  <td><div><p>On proc, create bubbles around you that home onto an enemy, dealing damage and stunning</p></div></td>
+  <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning</p></div></td>
   <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44415
+revid: 44537
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -108,7 +108,13 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### Chaser, Scholar of the Blood Contract
 
--   Chaser is a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
+-   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
+-   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
+-   He volunteered for the mission himself so he could lead it, but by the time they reached the Second Layer he slaughtered his team.
+-   He killed two more expeditions after this, and may have killed even more.
+-   He somehow managed to scavenge bells from his deceased colleagues, though he doesn't appear to actually be able to use them.
+-   Though he is an Adret, he has a never seen before skin color and facial markings for the race.
+-   He can manipulate blood.
 
 ### **The Meat Lord**
 
@@ -118,7 +124,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
-    -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
+-   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
 -   Arch\_Mage and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
 
 The one and only... MEAT LORD!
@@ -157,8 +163,17 @@ Yun'shul's Shrine
 
 ### **Ethiron**
 
--   Ethiron is a Drowned god residing in the Eternal gale, responsible for the killing winds there.
+-   Ethiron resides in the Eternal gale, responsible for the killing winds there.
+-   Ethiron MAY be a Drowned God, but this is yet to be confirmed.
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
+-   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer; the meaning of scion in this context is unclear.
+
+### **Korilfiend**
+
+-   The Drowned God of Fire and creator of the Forge of Sin
+-   The Temple of The Forgotten Flame was dedicated to them and housed the Forge.
+-   Their physical body, or fragments of it, are found in the Third Layer.
+-   Part of them was eaten by Black Diver Amorus Pleetsky.
 
 ### **The Nestmind**
 
@@ -322,14 +337,16 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   The Second layer of the depths is a cold wasteland with never-ending winds that lies directly below the first layer.
 
-##### **Ethironal Shrine (First floor)**
+##### Ethironal Shrine (First floor)
 
--   A shrine dedicated to the Drowned god Ethiron, built by the residents of the second layer.
+-   A shrine dedicated to Ethiron, built by the residents of the second layer.
+-   The snow is not actually snow, but parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
 
 ##### Kyrsa (Second Floor)
 
--   Kyrsa is a civilization that sunk to the second layer
+-   Kyrsa is a civilization that sunk to the second layer.
+-   Its inhabitants are the Kyrsgarde.
 
 ## Factions
 
@@ -414,7 +431,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
 -   As of 1271, [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
     -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [Authority](The_Central_Authority.md) they are still in business with them.
-        -   Explained by Arch\_Mage, [Summer Company](The_Summer_Company.md) overlooked the [Authority](The_Central_Authority.md)'s actions under their noses and ignored them; presumably to avoid ruining their business relationship with [The Authority](The_Central_Authority.md).
+        -   Explained by Arch\_Mage, [Summer Company](The_Summer_Company.md) overlooked the [Authority](The_Central_Authority.md)'s actions under their noses and ignored them; presumably to avoid ruining their business relationship with them.
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
@@ -427,7 +444,7 @@ A Summer Company Member.
 
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
 
--   **Territory:** _Minitrysa_
+-   **Territory:** _Minityrsa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
 -   **Alliances:** _The Contractors (Neutral)_
@@ -439,7 +456,9 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   (Arch\_Mage) The Ministry Scouts in Minityrsa were previously affected by the [Animal King](Regalia.md) (Or Mute Talent), but was declared a bug by Arch\_Mage.
+-   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'
+-   (Arch\_Mage) The Ministry Necromancers are affected by the Mute ability, which normally only affects monsters.
+    -   Said ability once affected the Ministry Scouts, but this was declared a bug; whether or not the same is true for the Necromancers remains to be seen.
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
 -   The Ministry is allegedly able to share the Whispers of Tacet, or murmur(s) to those with no connection to the song.
@@ -493,7 +512,7 @@ A Dark Mage, located in Minityrsa.
 -   Much like their two main rivals, they are hired by The Authority, this time for mining work.
 -   The Ignition Union bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
--   Deepdelver is a special rank in the igniton union for those who delve deep into the depths, and have proved their merit in some way.
+-   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit in some way.
 
   
 
@@ -502,11 +521,11 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit, Central Luminant, Markor_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_
+-   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
--   The Authority is an Empire and a faction of "Peacekeepers" and are not to be confused with the Kingdom of Etrea.
+-   The Authority is an Empire and a faction of "Peacekeepers."
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
@@ -515,14 +534,20 @@ A Dark Mage, located in Minityrsa.
         -   These also appear to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   They purchase firearms from The Summer Company.
-    -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses.
+-   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.
+    -   The Knives sow chaos anywhere for a price.
+    -   They purchase firearms from The Summer Company.
+    -   The Divers help with Depths research
+    -   The Ignition Union provide raw materials.
+    -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.
+        -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
 -   The Central Authority (as of we know now) use three attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
     -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
+-   Racist.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -537,8 +562,8 @@ A Peacekeeper Commander, part of The Authority
 -   **Lore Sources:** _Regek_
 
 -   They are lead by a Hivelord.
--   A group of Individuals; mostly Vesperians and Ganymedes, located in the[Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
-    -   Their previous home was located in Erisia Island, by the names of [The Hidden Village](The_Hidden_Village.md).
+-   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
+    -   Their previous home was located in Erisia Island, by the name of [The Hidden Village](The_Hidden_Village.md).
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
@@ -750,17 +775,25 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
 
-### **Chrysid**
+### Chrysid
 
 _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book."_
 
--   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
+-   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief in faith over technology.
 -   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
 -   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
+    -   The word confessor can have three meanings:
+        1.  Someone who confesses, the least likely meaning based on the context.
+        2.  Someone who proclaims their religious faith when faced with opposition, but not tortured or killed, thus not being classified as a martyr. Also unlikely.
+        3.  A priest who hears the confessions of others and can give absolution, which is the release of any guilt, punishment or obligation brought about due to the sin they confessed to. This likely where the title is derived from.
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
--   Hiri in Greathive Aratel and Lake in Upper Erisia reveal lore about the Chrysid.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
+-   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
+
+### Tiran
+
+-   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
 
 ### Lightborn
 
@@ -865,6 +898,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The power to harness the darkness within. The Ministry are known to use this Attunement, as well as Lord Regent.
     -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
 -   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
+-   Nightblood can be harvested through a machine that drains the ether of those placed in it.
 
   
 
@@ -921,23 +955,31 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ## Murmur Lore
 
-Murmurs are whispers of the Song that allows the user to do a variety of special abilities.  
+-   Murmurs are whispers of the Song that allows the user to do a variety of special abilities.
+-   Everyone has Murmur, but only those who obtain special applications of the Song can make full use of its abilities.  
+    
 
 ### Whispers of Ardour
 
--   An application of the Song that allows the user to utilize the Murmur into raw strength.
+-   An application of the Song that allows the user to channel the Murmur into raw strength.
     -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
 -   Those who wield the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
     -   Focusing on the sounds of Ardour, whispers can be heard.
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
 -   The King of Etrea is mentioned to have this Murmur. It was said that this Murmur "could cut the sea itself".
+-   The roar produced by Ardour Scream, is similar to a Megalodaunt's roar, it both emits purple ripples, has the same sound, and inflicts insanity.
 
 ### Whispers of Tacet
 
--   An application of the Song that enables the user to suppress the Murmur itself, turning themselves invisible to the naked eye.
+-   An application of the Song that enables the user to suppress their Murmur, turning themselves invisible to the naked eye.
     -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
+-   Alpha Megalodaunts can somehow use its power.
+
+### Whispers of Rhythm
+
+-   An application of the Song that allows the user to perceive the Murmur emanated by all living things.
 
 ## Before the Tides: Before years were invented (Old World)
 
@@ -1094,6 +1136,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Celtorian Terror moves towards Celtor.
 -   The Military Officals become aware of it, but instead chose to flee the City.
 -   Celtor is sunk, becoming the new first Layer of The Depths, many die.
+-   Ocean levels rise.
+-   Adrets begin their migration.
 -   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die out, with no way back.
 -   The King of Etrea vanishes on a journey into the Voidsea.
 -   The Lord Regent takes the throne and installs mental barriers into his people.  
@@ -1142,7 +1186,8 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 (Verse 2 \[12/23/2022\])
 
--   The Divers discovered a passage through the Second Layer of the Depths, the Eternal Gale.
+-   The Ignition Union reach the Second Layer of the Depths, the Eternal Gale
+-   The Divers discover a passage through the Second Layer and into the Third.
 -   Aratel sea is blocked off from the Etrean sea.
 -   Tirans and Chrysids are drawn out and become more common in the world.
 
@@ -1163,12 +1208,14 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 ### Megalodaunts
 
 -   Large hulking creatures that resemble humanoid sharks.
+-   Their roar is similar to Ardour's scream.
 -   They are poorly evolved for swimming, it's a miracle they can even float.
     -   They swim by treading water.
 -   They reproduce by laying eggs.
 -   There are a couple of variants of Megalodaunt, and even a form of social hierarchy.
     -   Black Megalodaunts are considered the Alphas.
         -   It's unknown if they are born like this or if regular Megalodaunts can obtain this form manually.
+        -   They can make use of the abilities of Tacet.
     -   Crimson Megalodaunts are much rarer and seem to be drawn to the Songseeker Wilds.
         -   Regular Megalodaunts are aggressive towards Crimson Megalodaunts, but the reason for this is unknown.
         -   They may be connected to Flamecharm, as they can rain down swords of fire on their enemies.
@@ -1211,7 +1258,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 ### Deep Widows
 
 -   Large spiders with potent venom.
--   _Tale of the Storm_ makes reference to four creatures that resemble Deep Widows, however the Appendix notes that they would have to be much smaller and Deep Widows leaving near to a Megalodaunt's nest is unheard of.
+-   _Tale of the Storm_ makes reference to four creatures that resemble Deep Widows, however the Appendix notes that they would have to be much smaller and Deep Widows living near to a Megalodaunt's nest is unheard of.
 
 ### The Enforcer(s)
 

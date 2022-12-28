@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 44347
+revid: 44476
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ The areas on Miner's Landing can be identified as is: Docks, Town, Upper Landing
 
 -   Speak to Orion, a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oaths.md).
 -   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Voidzones.md) Voidzone.
--   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to (???).
+-   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
 
 ## Docks
 

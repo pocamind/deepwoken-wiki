@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 43496
+revid: 44499
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages]
@@ -12,11 +12,11 @@ notices:
 
 **Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
 
-Armor can refer to either Equipment or Outfits (this page).
+Armor can refer to either [Armor](Equipment.md) or Outfits (this page).
 
 ## Overview
 
-Armor can refer to either Outfits (this page) or [Armor Equipment.](Equipment.md)
+Armor can refer to either Outfits (this page) or [Armor](Equipment.md).
 
 ### **[Outfits](Outfits.md#outfit-list)**
 

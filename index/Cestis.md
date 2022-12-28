@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 43505
+revid: 44508
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPC, Npc]

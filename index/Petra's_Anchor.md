@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 40367
+revid: 44530
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -34,6 +34,5 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 ## Trivia
 
 -   It's very likely a reference to either Totsugeki May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.
--   Petra's Anchor has the highest base damage besides [Divine weapons](Crazy_Slots.md).
 -   Its old description was "The Anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
     -   For one reason or another, it was quietly changed to its current description in a shadow-update.

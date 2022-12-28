@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44443
+revid: 44510
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -59,7 +59,7 @@ _icon credit to Tortaa#9000_
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
-There are currently eight Oaths in _Deepwoken_.
+There are currently nine Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -338,24 +338,30 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 1.  Have 50 strength and grip one player of any power level.
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
-    2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with bookshelves; one of them will open a room.
-3.  Kill Iblis (YOU DON'T HAVE TO GET THE GRIP), located above the Startree Voidzone in Starswept Valley.
+    2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
+3.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
 4.  Return to Samael to get the Oath.
 
-To obtain the mantras you must participate in killing 3 greater angels around the East Luminant.
+To obtain the mantras, you must kill the 3 Sinners spread around the Eastern Luminant. These will only appear if you have the quest active.
 
-1.  **???,** at Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
-2.  **???,** right next to the inn at Summer Isle
-3.  **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
+-   **Abaddon, Sinner of Ice,** at Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
+-   **???,** right next to the inn at Summer Isle
+-   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
 
 ### Known Abilities
 
--   **Ascension**
-    -   This causes your character to sprout out wings, increasing the distance covered by your air dashes and possibly doing other things as well...
-        -   Using **Fire Blade** with your wings out causes it to be modified, causing your character to rise up in the air and perform a large multi-hitting slash.
--   **Celestial Assault**
+-   **Wings - Innate**
+    -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 30 seconds.
+    -   While active, Air Dash goes much further.
+    -   Some mantras have different properties while the user have their wings out:
+        -   **Fire Blade** now launch the user upward before releasing a flurry of slashes.
+-   **Ascension - Combat Mantra**
+    -   The user rise into the air before swooping in.
+    -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
+    -   Applies hard knockdown on hit.
+-   **Celestial Assault - Combat Mantra**
     -   Use your wings and deliver two critical blows.
--   **Sinister Halo**
+-   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
         -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hit.
 
@@ -370,40 +376,36 @@ This Oath grants two Combat Mantra slots and eight Health.
 ― Arcwarder Description
 
   
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 boss and escape. (7 times in total)
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 boss and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens (7 times in total) (One skill per run)
 
 ### Obtainment
 
 1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
-    1.  Talk to the Radio Man
-    2.  Activate the Generator
-    3.  Talk to Alpha
-    4.  Retrieve injured Elphis (spam 2)
-    5.  Talk to Alpha again (You can get the quest for alpha and skipping the generator by just destroying the door frame with a move that destroyes tiles and skip step 1 and 2)
+    1.  Activate the Generator
+    2.  Talk to Alpha
+    3.  Retrieve injured Elphis **(option 2 when you talk to him)**
+    4.  Talk to Alpha again (You can skip the generator by just destroying the door frame with a move that destroys tiles and skip step 1 and 2)
 3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
 
 -   **Arc Suit - Wildcard Mantra**
+    -   Encase the user in a durable armor that reduce damage taken by 20%.
 -   **Arc Beam - Combat Mantra**
 -   **Arc Wave - Combat Mantra**
 -   **Arc Module: Leap - Passive**
-    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
-    -   +10 Ether
+    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
 -   **Arc Module: Guard - Passive**
-    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (Arc Suit Required)
-    -   +10 Ether
+    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (+10 Ether)
 -   **Arc Module: Eject - Passive**
-    -   When blockbroken with Arc Suit active, eject from the armor.
-    -   +10 Ether
+    -   When blockbroken with Arc Suit active, eject from the armor. (+10 Ether)
+    -   When this effect activates, you do not get guardbroken, however you remain at full posture.
 -   **Arc Module: Dash - Passive**
-    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
-    -   +10 Ether
+    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. (+10 Ether)
 
 -   **Arc Module: Null - Passive**
-    -   When your Arc Suit is active outgoing and incoming enchant effects are nullified.
-    -   +10 Ether
+    -   When your Arc Suit is active outgoing and incoming enchant effects are nullified. (+10 Ether)
 
 ### Effects
 
@@ -455,7 +457,7 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
-N/A
+One speculated step to obtain this is through the assassination quests offered by Imel and Emel, likely requiring a certain amount of reputation or assassinations completed.
 
 -   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>)
 

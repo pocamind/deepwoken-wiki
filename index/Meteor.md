@@ -1,20 +1,42 @@
 ---
 title: Meteor
-revid: 43702
+revid: 44470
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Meteor
 
-Meteor found in Etris
+## Description
 
-These purple meteors are found in random locations such as Etris, Erisia, Minityrisia, etc.
+Meteor Fortuna
 
-These are meant for people with the oath Linkstrider to use, as they will be able to teleport to these locations once unlocking the ability.
+These purple meteors are found in random locations around the map, although generally spread out. They're meant for people with the [Linkstrider](Oaths.md) oath; A Linkstrider can teleport to any meteor that they've interacted with, but they must be sitting at a campfire.
 
-Meteor found in Erisia on walls above the Church
+Interacting with a meteor without the Linkstrider oath, will give you the message: "_I feel connected to this somehow but I can't reach out to touch it._"
 
-Interacting with them without the oath Linkstrider, will give you the message "I feel connected to this somehow but I can't reach out to touch it."
+Only Linkstriders are currently known to be able to utilize these meteors, although we could find more uses in the future.
 
-So far, only use for these meteors are for Linkstrider, however more might be discovered in the future.
+## How to Use
+
+**\*You must have the Linkstrider oath for this to work.\***
+
+Upon interacting with a meteor, it will give you a message: "_Deep within your soul, '\[Name\]' calls out to you. Call it's name upon the flame, and embrace Entropy._" Each meteor has a different name.
+
+As a cost for actually teleporting to a meteor, one must have at least 1 stardust in their inventory, which is consumed on teleport. You can collect stardust from under star trees. There are 3 star trees in the world, each in their own hidden voidzone grove. The most notable of these groves would likely be the one connected to [Starswept Valley](The_Starswept_Valley.md). A person can only hold up to 10 stardust at a time, since the star trees provide an unlimited source.
+
+Once you have stardust, you can teleport to a meteor by sitting at an actual campfire and stating its name in text chat. You will be transported exactly to that meteors location, which can sometimes get you stuck in the ground.
+
+The currently known meteor names and locations are as follows:
+
+Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md), by the sea gate going towards [Summer Isle](Summer_Isle.md))
+
+Eunomia (Above [Sibex](Sibex.md))
+
+Ceres (In [Etris](Etris.md), across from the 90° angled bridge, on the edge of a cliff)
+
+Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](The_Valley_of_Heroes.md), if you walk over the bridge and go forward a bit)
+
+Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oaths.md) trainer, next to the sea gate to the Etrean Luminant)
+
+Fortuna (On a cliff above the [Church](<Erisor's_Church.md>) in [Erisia](Erisia.md))

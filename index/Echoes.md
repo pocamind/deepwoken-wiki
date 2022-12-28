@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 44445
+revid: 44522
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -26,27 +26,31 @@ categories: [Echoes, Character, Mechanics]
 
 ### Ways of Obtaining Echoes
 
--   Gaining Power, awarding 1 Echo per Power Level.
--   Unbounding your [Attributes](Attributes.md), awarding 5 Echoes per [Unbound](Attributes_Unbound.md).
--   Obtaining your [Oath](Oaths.md), awarding 5 Echoes.
--   Obtaining your [Murmur](Murmur.md), awarding 10 Echoes.
--   Obtaining your [Resonance](Resonance.md), awarding 15 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), the Chaser Boss, or the Ethiron Boss, awarding 5 Echoes each, respectively.
--   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Soul-bounding a [Enchant](Enchantments.md), awarding 5 Echoes.
--   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
+Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of echoes, and with a small number of exceptions, each Triumph can only be achieved once.
+
+-   Gaining Power, awarding 1 Echo per [Power](Power.md) level.
+-   Crafting a [Food](Food.md) item at a campfire, awarding 1 Echo.
+-   Catching a [Fish](Fishing.md), awarding 1 Echo.
+-   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
+-   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
+-   Using a Deep Shrine, awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
+-   Unbounding an [Attributes](Attributes.md), awarding 5 Echoes per [Unbound](Attributes_Unbound.md).
+-   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
+-   Soul-bounding an [Enchanted](Enchantments.md) item, awarding 5 Echoes.
+-   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
--   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding ? Echoes.
--   Making a deal with [Misérables](Misérables.md), awarding ? Echoes.
--   Drinking an [Attribute Flask](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses), awarding ? Echoes.
--   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo (not repeatable).
--   Using a [Deep Shrines](Deep_Shrines.md), awarding 2 Echoes.
--   Cooking a [meal](Food.md), awarding 1 Echo.
--   Catching a [fish](https://deepwoken.fandom.com/wiki/Fishing#Loot_From_Fishing), awarding 1 Echo.
--   Modifying a [mantra](Mantras.md), awarding 1 Echo.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and [Scion of Ethiron](Scion_of_Ethiron.md), awarding 5 Echoes each.
+-   Obtaining a [Murmur](Murmur.md), awarding 10 Echoes.
+-   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
+-   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
+-   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding ?? Echoes.
+-   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding ?? Echoes.
+-   Making a deal with [Misérables](Misérables.md), awarding ?? Echoes.
 
 ## Upgrades and Modifiers
+
+There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1250 echoes.
 
 **Upgrades:**
 
@@ -61,66 +65,66 @@ categories: [Echoes, Character, Mechanics]
 </tr>
 <tr>
   <td><center><b>Resonance Progress</b></center></td>
-  <td><center>This upgrade increases the speed by which resonances may be obtained.</center></td>
-  <td><center><b>50 Echoes</b></center></td>
-  <td><center><b>5%</b></center></td>
-  <td><center><b>20%</b></center></td>
+  <td><center>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>5%</center></td>
+  <td><center>20%</center></td>
 </tr>
 <tr>
   <td><center><b>Mob Armor</b></center></td>
-  <td><center>This upgrade gives +2% damage reduction against mobs.</center></td>
-  <td><center><b>50 Echoes</b></center></td>
-  <td><center><b>2%</b></center></td>
-  <td><center><b>8%</b></center></td>
+  <td><center>Increases armor against mobs.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>2%</center></td>
+  <td><center>8%</center></td>
 </tr>
 <tr>
   <td><center><b>Mob Damage</b></center></td>
-  <td><center>This upgrade gives +2% increased damage against mobs.</center></td>
-  <td><center><b>50 Echoes</b></center></td>
-  <td><center><b>2%</b></center></td>
-  <td><center><b>8%</b></center></td>
+  <td><center>Increases damage dealt to mobs.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>2%</center></td>
+  <td><center>8%</center></td>
 </tr>
 <tr>
   <td><center><b>Stomach Capacity</b></center></td>
-  <td><center>This upgrade slows the rate at which the Hunger bar goes down.</center></td>
-  <td><center><b>25 Echoes</b></center></td>
-  <td><center><b>&nbsp;???</b></center></td>
-  <td><center><b>&nbsp;???</b></center></td>
+  <td><center>Slows the rate at which the hunger bar goes down.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>2%</center></td>
+  <td><center>10%</center></td>
 </tr>
 <tr>
   <td><center><b>Thirst Capacity</b></center></td>
-  <td><center>This upgrade slows the rate at which the Thirst bar goes down.</center></td>
-  <td><center><b>25 Echoes</b></center></td>
-  <td><center><b></b></center></td>
-  <td><center><b></b></center></td>
+  <td><center>Slows the rate at which the thirst bar goes down.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>2%</center></td>
+  <td><center>10%</center></td>
 </tr>
 <tr>
   <td><center><b>Passdown Capacity</b></center></td>
-  <td><center>This upgrade increases the amount of items you can pass down upon wiping.</center></td>
-  <td><center><b>25 Echoes</b></center></td>
-  <td><center><b>1</b></center></td>
-  <td><center><b>2</b></center></td>
+  <td><center>Increases the amount of items you can pass down upon wiping.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>2</center></td>
 </tr>
 <tr>
   <td><center><b>Starting Notes</b></center></td>
-  <td><center>This upgrade gives a number of Notes to new characters (5 notes upon first upgrade, other upgrades unknown)</center></td>
-  <td><center><b>25 Echoes</b></center></td>
-  <td><center><b>&nbsp;???</b></center></td>
-  <td><center><b>25</b></center></td>
+  <td><center>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>5</center></td>
+  <td><center>25</center></td>
 </tr>
 <tr>
   <td><center><b>Starting Knowledge</b></center></td>
-  <td><center>This upgrade gives Knowledge to new characters</center></td>
-  <td><center><b>25 Echoes</b></center></td>
-  <td><center><b>&nbsp;???</b></center></td>
-  <td><center><b>+5</b></center></td>
+  <td><center>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>5</center></td>
 </tr>
 <tr>
   <td><center><b>Starting Ace</b></center></td>
-  <td><center>This upgrade gives a number of Aces to new characters</center></td>
-  <td><center><b>50 Echoes</b></center></td>
-  <td><center><b>&nbsp;???</b></center></td>
-  <td><center><b>+2</b></center></td>
+  <td><center>Increases the number of <a href="Aces.md">Aces</a> new players start with.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>2</center></td>
 </tr>
 </tbody>
 </table>
@@ -195,7 +199,7 @@ Other than replayability, Echoes can also be Talents and Items; all acquired und
 
 Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after.
 
-### **Echo Quests**
+### Echo Quests
 
 (Power 3 | 5) Engage | Critical Attack - _Gain Engage first at Power 3 and Critical Attack at Power 5._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 

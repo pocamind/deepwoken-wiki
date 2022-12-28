@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 44353
+revid: 44475
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World]
@@ -23,8 +23,8 @@ Voidzones are places of High Risk and High Rewards, with each Voidzone having un
 While inside a Voidzone:
 
 -   The edge of the screen are covered in white sparks. This merely represents your presence within a Voidzone
--   Dying inside a Voidzone immediatly sends the player to The Depths
--   Campfires only last up to 15 seconds
+-   Dying inside a Voidzone immediately sends the player to The Depths.
+-   Campfires only last up to 6 seconds.
 -   All healing sources have reduced effectiveness.
 
 ## Voidzones

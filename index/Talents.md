@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44327
+revid: 44538
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -10,9 +10,9 @@ notices:
 
 # Talents
 
--   **You can press "ctrl + F" to search for Talents!**
+**You can press "Ctrl + F" (Windows)/"Cmd + F"(Mac) to search for Talents!**
 
-(This is a browser function, but all the popular browsers should have that.)  
+(This is a browser function, but all mainstream browsers should have it.)  
 
 ## Overview
 
@@ -71,7 +71,9 @@ File:Thresherquest1.png
 
 ### Tree-Felling blow
 
--   Q
+-   Requires Strong left
+-   Quest giver located at etris, they are the NPC that gives you a free lumber axe. Tell them about your wood.
+-   Punch down 5 trees then return
 
 ### Family Recipe
 
@@ -258,8 +260,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 10 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
--   ~Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)~
-    -   ~PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN~
+-   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
+    -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
     -   Prerequisite: 90 Fortitude & **all** bastion talents
 
 ### Beast Slayer
@@ -601,12 +603,12 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Flame Dancer
 
--   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
--   Graceful Steps \[Rare Talent, Flamecharm Exclusive\] Your dancing step now give a faster speed boost (+3 Elemental Intensity).
+-   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
+-   Graceful Steps \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
     -   Prerequisites: 75 Flamecharm, Dancing Steps
--   Flaming Rebound \[Rare Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
+-   Flaming Rebound \[Rare Talent, Flamecharm Exclusive\] - Landing fire mantras will restore your reservoir.
     -   Prerequisite: 50 Flamecharm
--   The Final Act \[Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
+-   The Final Act \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
     -   Prerequisite: 50 Flamecharm
 
 ### Flame Warden
@@ -739,9 +741,6 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Gunslinger
 
--   Aerial Shot \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
-    -   Prerequisites: 25 Light Weapon, Using a Gun
-    -   Cooldown: 2 Seconds
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence, Use a Gun
@@ -1290,12 +1289,12 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Galebreathe Exclusive, Legendary Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
-    -   Prerequisite: Power 25, 75 Galebreathe, Silencer's Edge
--   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Power 25, 50 Galebreathe, Silencer's Edge
--   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
+    -   Prerequisite: Silencer's Edge and Silencer's Blade
+-   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
+    -   Prerequisites: Power ??, Silencer's Edge
+-   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   Prerequisites: 60 Galebreathe
 
 ### Singer
@@ -1472,8 +1471,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you and passes through walls
 
--   Command: Live \[Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
-    -   Prerequisites: 75 Charisma, Vow of Mastery
+-   Command: Live \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
+    -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant
 
 ### Vigil Swordsman
@@ -1521,15 +1520,6 @@ These Talents are designed to make you more effective in water.
 -   Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+3 Health)
     -   Prerequisite: 40 Strength
 
--   Aerial Spin \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
-    -   Prerequisite: 25 Light Weapon
-
--   Aerial Stab \[Common Priority Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
-    -   Prerequisites: 25 Medium Weapon
-
--   Aerial Kick \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
-    -   Prerequisites: 25 Light Weapon
-
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: 40 Light Weapon
 
@@ -1575,7 +1565,6 @@ These Talents are designed to make you more effective in water.
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
     -   Prerequisite: 30 Fortitude
--   Legendary Echoes \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you. (+3 Health)
@@ -1584,7 +1573,7 @@ These Talents are designed to make you more effective in water.
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them. (+3 Health)
     -   Knocking enemies will replenish more of your health and posture.
--   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisites: Power 30
     -   Mutual Exclusive: Everchanging Aegis
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
@@ -1881,14 +1870,14 @@ Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You can break an enemy'
 
 ## Blacklisted Talents
 
-Certain talents cannot be obtained through Roll 2 or Legendary Echoes, due to how they are hyper specific and could break certain builds.
+Certain talents cannot be obtained through Roll 2, due to how they are hyper specific and could break certain builds.
 
   
 
 Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)  
-Conditioned Runner \[Legendary Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)  
+Conditioned Runner \[Advanced Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)  
 Everchanging Aegis \[Legendary Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)  
-Return to the Dark Ages \[Legendary Talent\] - Your incoming elemental damage is cut in half. (+10 Health)  
+Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+10 Health)  
 Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.  
 Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)  
 Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)  
@@ -1905,5 +1894,4 @@ Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediat
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   The Card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At Power 60, you will get a guaranteed Legendary Talent Card if there is one available.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."

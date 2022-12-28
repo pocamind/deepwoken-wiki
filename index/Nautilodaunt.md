@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 43855
+revid: 44471
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -51,7 +51,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and 
 | **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
 | **Electro Stomp** | Squibbo stomps the ground aggressively with his feet, sending pillars of spear-like thunder and rubble hurtling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
-| **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a Kick. | N/A | (★☆☆) |
+| **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. After Venting, he usually follows up with a Kick. | N/A | (★☆☆) |
 
 ### Finisher
 
