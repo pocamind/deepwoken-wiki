@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 44181
+revid: 44189
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser or Chaser, Scholar of the Burning Blood is a humanoid Boss that is fought in Floor 1 of the Second Layer, he is found within The Maw of Ethion, specifically in Cathedral of Ethiron. He is also a Black Diver, but only by description and not appearance.
+Chaser or Chaser, Scholar of the Burning Blood is a humanoid Boss that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethion, specifically in Cathedral of Ethiron. He is also a Black Diver, but only by description and not appearance.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the Eternal Gale. However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice Diver Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the 'Forbidden City' and some tried to flee to the Ignition Union's nearby holdout, though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 

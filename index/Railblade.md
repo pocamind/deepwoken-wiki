@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 43239
+revid: 44238
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -11,7 +11,7 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 | Railblade | |
 |---|---|
 | type | Heavy Greatsword |
-| requirements | 80 HVY, PWR10 |
+| requirements | 80 HVY, PWR 10 |
 | damage | 22 |
 | scaling | HVY: 8.3 |
 | range | 8 |
@@ -22,12 +22,14 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Railblade |
+| obtainment | Chase, Ethiron |
 | description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
 
 ## Description
 
-The Railblade is a HVY weapon obtained from Layer 2, more specifically from Chaser or The Avatar of Ethiron. It is within the legendary category and requires 80\* HVY and PWR 10 to equip.
+The Railblade is a heavy weapon obtained from Layer 2. It is dropped by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [The Avatar of Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
+
+The Railblade is unique because of its two different critical attacks, along with the critical applying flame. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash infused with flame as well.
 
 ## Critical Animations
 
@@ -37,7 +39,7 @@ Airborne Critical
 
 ## Notes
 
--   As the weapon is considered 'Legendary', no enchantments can be applied to the weapon.
+-   Due to the weapon being 'Legendary', no enchantments can be applied to the weapon.
 -   It is the first known weapon to have 2 different critical attacks.
     -   A grounded critical and an aerial critical both apply flame to opponents hit.
 -   The description suggests that equipping the weapon reduces the rate at which snow accumulates on the player.

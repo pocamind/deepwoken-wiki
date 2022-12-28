@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 44051
+revid: 44236
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World]
@@ -25,6 +25,7 @@ While inside a Voidzone:
 -   The edge of the screen are covered in sparks. This merely represent your presence within a Voidzone
 -   Dying inside a Voidzone immediatly send the player to The Depths
 -   Campfires only last up to 15 seconds
+-   All healing sources have reduced effectiveness.
 
 ## Voidzones
 
@@ -75,20 +76,19 @@ While inside a Voidzone:
   
 **Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
 
-**Dangers:** [Thresher, King thresher](Thresher.md)
+**Dangers:** [Thresher, King Thresher](Thresher.md)
 
-**Rewards:** Neither this one. - The same writer writing this
+**Rewards:** TBD
 
-\=== **Saramaed Summit**
+### **Saramaed Summit**
 
 “ The air itself feels as if it were becoming ash. as the embers around you radiate heat. ”
 
 ― Saramaed Summit's Flavour Text
 
-\===
-
+  
 **Location:** [Miner's Landing](<Miner's_Landing.md>), Eastern Luminant
 
 **Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
-**Rewards:** And so is this one. - The same writer writing this
+**Rewards:** TBD

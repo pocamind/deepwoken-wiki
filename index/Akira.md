@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 41606
+revid: 44214
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -39,7 +39,7 @@ You meet him a second time after completing the event and accepting the challeng
 
 This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens them to leave and creating a line of ice with a unique ice-beam spell. The Ignition Union call him insane before approaching him over the line, they immediately have their heads burst open.
 
-After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if your another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if you're an another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
 **Dialogue**
 

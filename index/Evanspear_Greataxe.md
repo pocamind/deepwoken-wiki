@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 43459
+revid: 44201
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weaponry, Items]
@@ -22,6 +22,7 @@ categories: [Weapons, Greataxes, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+| obtainment | Rare Drop from Legion Captains, Crimson and Corrupt Terrapods.Can spawn inside Layer 2 (Eternal Gale) chests. |
 
 “ THANKS A LOT, PUNCHEE. ”
 
@@ -29,9 +30,12 @@ categories: [Weapons, Greataxes, Weaponry, Items]
 
 ## Description
 
-The Evanspear Hand Axe is a [Heavy weapon](Weapons.md) (HVY) that can be obtained by defeating the [legion captain](Legion_Captain.md) in the Adret vs Legion event at the [Starswept Valley](The_Starswept_Valley.md). Bloodthirsty Terrapods also drop it.
+The Evanspear Hand Axe is a [Heavy weapon](Weapons.md) (HVY) that requires 70 Heavy Weapon Scaling to use. It's one of the few Heavy Weapons dealing additional Bleed Damage.
+
+It can be obtained from multiple sources, most commonly [Crimson Terrapods](Terrapod.md) (including _Corrupted_), [Legion Captains](Legion_Captain.md) and [Layer 2 (Eternal Gale)](Second_Layer.md) Chests. It's considered a rare drop.
 
 ## Trivia
 
--   Deals bleed damage, meaning it does more than advertised (61.75 dmg)
--   Very rare to see, few people even know this exists, and even less actually use it. It's also a very rare drop.
+-   Deals Bleed Damage. The true damage dealt is approximately 61.75 DMG.
+-   Due to it's main source being Crimson Terrapods, it's widely considered quite difficult to obtain.
+-   A good way for getting the weapon is using the Terrapod Bait, which have a small chance of spawning a Crimson version of Terrapod, instead of normal one. Chests located in Eternal Gale are also considered a good farming option.

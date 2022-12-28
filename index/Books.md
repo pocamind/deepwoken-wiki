@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 43824
+revid: 44187
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -14,11 +14,7 @@ Books are new items that are found in the world of Deepwoken that are a seperate
 
 So far, all books seem to have the sole purpose of providing additional lore and information regarding Deepwoken's world and history, and as well as levelling **Intelligence.**
 
-## tips on adding books
-
-to make it easier for you to put the book pages in here i recommend using text to image converter and using gyazo to take prints of it.
-
-site: [https://www.imagetotext.info](https://www.imagetotext.info)
+**IF YOU ARE TO ADD BOOKS BELOW, PLEASE DO SO IN ALPHABETICAL ORDER BECAUSE WE KNOW OUR ABCs AND CAN USE THEM EFFECTIVELY. (Note: When ordering alphabetically, the word 'the' doesn't count, for example, The Gideshu March would be placed with books beginning with the letter G)**
 
 ## All Currently Known Books
 
@@ -777,3 +773,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > I weep for them still, my tears bitter as salt...
 
 > * * *
+
+## Tips on Adding New Books
+
+to make it easier for you to put the book pages in here i recommend using text to image converter and using gyazo to take prints of it.
+
+site: [https://www.imagetotext.info](https://www.imagetotext.info)

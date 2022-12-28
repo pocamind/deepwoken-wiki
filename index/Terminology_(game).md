@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 37917
+revid: 44218
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -98,6 +98,7 @@ _verb_
 _verb_
 
 1.  To get gripped/executed in The Depths; erasing the current character slot.
+2.  Getting gripped on stained health bar/dying in void zone; getting sent to depths.
 
 ## Acronyms
 

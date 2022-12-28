@@ -1,9 +1,11 @@
 ---
 title: Mystic
-revid: 43838
+revid: 44252
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [In progress without reason, InProgressPages, NPCs]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Mystic
@@ -25,20 +27,30 @@ Mystic is a Chrysid NPC that appears in multiple locations around the map. For 2
 
 Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from. Here are but a few of the possible prompts:
 
--   Uh...
--   I seek for the qualities of the Nimble Blade.
--   I fight for Master Reste.
--   I once performed in a Circus.
--   I am ruthless. A knife for hire.
--   I wish to escape.
--   Water is my home.
--   I skulk in alleyways, looking for my next prize.
--   I scale the tallest peaks.
--   Light on my feet, I sting like a bee.
--   I am athletic.
--   I want to WIN.
--   I search for the Song.
--   I steal from people.
+-   _Uh..._
+-   _I seek for the qualities of the Nimble Blade._
+-   _I fight for Master Reste._
+-   _I once performed in a Circus._
+-   _I am ruthless. A knife for hire._
+-   _I wish to escape._
+-   _Water is my home._
+-   _I skulk in alleyways, looking for my next prize._ **(Acrobat, Alley Cat, Assassin and Butterfly Trees)**
+-   _I scale the tallest peaks._
+-   _Light on my feet, I sting like a bee._
+-   _I am athletic._
+-   _I want to WIN._
+-   _I search for the Song._
+-   _I steal from people._
+-   _I sabotage others._
+-   _My hunt is inescapable._
+-   _I prefer to attack unseen._
+-   _I fight for the Legion._ **(Legion Shock Trooper)**
+-   _I go beyond my limits._ **(Limitbreaker)**
+-   _I speak to the Winds._ **(Aeromancer)**
+-   _I am a Master of the Winds._ **(Galebreather, Galeforce, Cloudwalker, Silencer and Whisper Trees)**
+-   _I stand far above others, an insurmountable challenge._
+-   _I am a Master of all Weapons._ **(Weapon Master)**
+-   _I often attack others._
 
 ## Locations
 

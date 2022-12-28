@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 43930
+revid: 44245
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -24,7 +24,7 @@ Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [
 
 Murmurs are strong, but hard to master abilities. A weak user will have a harder time making a good use of them until they become strong enough.
 
-Murmurs scales with player level, reaching their maximum potential at power 60.
+Murmurs scales with player level, reaching their maximum potential at power 20.
 
 ## Murmur: Ardour
 
@@ -32,7 +32,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
-By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost at power 58 is low enough for your ether Regen to overpower it, but it will be slow. At power 60 it will actually be free and your ether Regen rate won't be affected.
+By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost at power 19 is low enough for your ether Regen to overpower it, but it will be slow. At power 20 it will actually be free and your ether Regen rate won't be affected.
 
 While having the murmur active, you can't crouch and listen until you deactivate it/murmur runs out (if you're not max power.)
 
@@ -70,8 +70,8 @@ The detection of Tacet can be reduced the higher Power the player is.
 
 Tacet has two different detection radius, one for PVE and PVP:
 
--   In PVE, the detection radius is effectively 0 at Power 60, the player can avoid any and all monsters or NPCs even when touching them. **Do keep in mind**, if you activate Tacet while a NPC is chasing you and is extremely close, they will not de-aggro. You must make a bit of distance between you and it.
--   In PVP, the detection radius is roughly 40 studs at Power 60. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
+-   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. **Do keep in mind**, if you activate Tacet while a NPC is chasing you and is extremely close, they will not de-aggro. You must make a bit of distance between you and it.
+-   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
 
 ### **Obtainment**
 
@@ -97,4 +97,10 @@ You will need to listen to the audio cues given of by the holes in the wall (ind
 
 Repeat this task 3 time and you will be granted the murmur.
 
-**Failure will result in an immediate death.**
+  
+**Obtainment (2)**
+
+Kill the Ferryman without a priorly obtained murmur in Spring.
+
+  
+The Ferryman will tell any of those to "look into his flame" and recieve his gift, which is a murmur. A custom dialogue will appear if you already have one.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44175
+revid: 44242
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -129,7 +129,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
-    -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -137,7 +137,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Has a HIGH windup
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 10 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 ### Effects
 
@@ -339,9 +339,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 To obtain the mantras you must participate in killing 3 greater angels around the East Luminant.
 
-1.  In Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
-2.  Right next to the inn at Summer Isle
-3.  Songseeker, on top of the derelict towers, in front of the campfire
+1.  **???,** at Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
+2.  **???,** right next to the inn at Summer Isle
+3.  **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
 
 ### Known Abilities
 
@@ -451,3 +451,4 @@ This Oath grants two Combat Mantra slots.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Whether that will be added to the game or not is unknown.
 -   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.
+-   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.

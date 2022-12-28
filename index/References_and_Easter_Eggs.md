@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 43811
+revid: 44244
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -56,7 +56,9 @@ notices:
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
     -   It is also possibly a reference to **Duelist Dash** from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
 -   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
+    -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma) one of the character from [Street fighter](https://streetfighter.fandom.com/wiki/Akuma)
 -   **Shadow Travel** may be reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
+-   **Rising Shadow** is a refrence to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203) one of Lannis ability from Rogue Lineage
 
 ## Oaths
 
@@ -76,7 +78,7 @@ notices:
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_.
-        -   Par, one of the developers of Deepwoken, is also a leading developer of said game.
+        -   Par, one of the developers of Deepwoken.
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
@@ -103,7 +105,7 @@ notices:
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line, or possibly [this meme](https://www.youtube.com/watch?v=5_Xdi4T8mgI).
 -   **Fishman** and its description are possible references to two series.
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
-    -   The description is a reference to the famous quote made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
+    -   The description is a reference to the [famous quote](https://www.youtube.com/watch?v=bjQRTFX1Lp4) made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
 -   The **One Eyed King** is possibly a reference to [The One Eyed King](https://tokyoghoul.fandom.com/wiki/One-Eyed_King?so=search) in _Tokyo Ghoul._
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)

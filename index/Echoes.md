@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 44149
+revid: 44294
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -37,6 +37,14 @@ categories: [Echoes, Character, Mechanics]
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
+-   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding ? Echoes.
+-   Making a deal with [Misérables](Misérables.md), awarding ? Echoes.
+-   Drinking an [Attribute Flask](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses), awarding ? Echoes.
+-   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo (not repeatable).
+-   Using a [Deep Shrines](Deep_Shrines.md), awarding ? Echoes.
+-   Cooking a [meal](Food.md), awarding 1 Echo.
+-   Catching a [fish](https://deepwoken.fandom.com/wiki/Fishing#Loot_From_Fishing), awarding 1 Echo.
+-   Modifying a [mantra](Mantras.md), awarding 1 Echo.
 
 ## Upgrades and Modifiers
 
@@ -76,7 +84,7 @@ categories: [Echoes, Character, Mechanics]
 </tr>
 <tr>
   <td><center><b>Passdown Capacity</b></center></td>
-  <td><center>This upgrade decreases the amount of items lost upon death.</center></td>
+  <td><center>This upgrade increases the amount of items you can pass down upon wiping.</center></td>
   <td><center><b>25 Echoes</b></center></td>
 </tr>
 <tr>

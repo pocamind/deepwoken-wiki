@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 44052
+revid: 44202
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -57,7 +57,8 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Gain agility EXP via parkour, assassinations, and successful dodges.
 -   Your agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
     -   This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) atop the highest peak, above the highway gate to [the Monkey's Paw](<The_Monkey's_Paw.md>).
+-   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).
+    -   Note that this hill cannot be climbed using only 75 agility, even with the [Jetstriker](Oath%253A_Jetstriker.md) oath - an upwards mobility mantra, several barrels, or a friend is needed to climb to the second last ledge.
 
 ### Intelligence
 

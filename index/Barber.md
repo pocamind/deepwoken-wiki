@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 41216
+revid: 44254
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Barber | |
 |---|---|
 | name | Barber |
-| location | Near Nerin in Etris, Inside the castle on Summer Isle, On the balconies in Greathive Aratel, Behind the stairs in Isle of Vigils inn |
+| location | Near Nerin in Etris, Inside the castle on Summer Isle, On the balconies in Greathive Aratel, At the mantra shop in Isle of Vigils |
 
 “ Hey friend, need a new style? ”
 

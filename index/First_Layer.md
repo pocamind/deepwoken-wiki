@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 44073
+revid: 44286
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -84,7 +84,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 | 20 - 29 | [Angel](Hollow_Angel.md) (Lesser) |
 | 30 - 49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
-| UKN | [Nautilodaunt](Nautilodaunt.md) |
+| ??% of replacing enforcer | [Nautilodaunt](Nautilodaunt.md) |
 
 (There has been much confusion as to how this works; as of the moment with the recent power compression it is unclear what spawns what, but Nautilodaunts are confirmed to appear with high drowns. In addition, Power 4 sends one to the surface, and 15 tends to spawn a Megalodaunt.)
 
@@ -124,7 +124,7 @@ Just some information to keep in mind and remember.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
--   If you are deepbound remember to regularly visit [Castle Light](Castle_Light.md) as it will restore your sanity
+-   If you are Deepbound, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 
 ## **Quests in Layer One**
 
@@ -142,13 +142,13 @@ Just some information to keep in mind and remember.
 
 ### **[Visionshaper](Oaths.md)**
 
-Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
+Deep down in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
 When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
--   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level, however, most visionshaper mantras and abilities scale off charisma.
--   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
+-   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level; however, most Visionshaper mantras and abilities scale off of Charisma.
+-   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
 
 ## **Potential Enemies**
 
@@ -248,6 +248,7 @@ Legendary = Gold
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
+-   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.
 
 ## **Trivia**
 
@@ -260,4 +261,3 @@ Legendary = Gold
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban a retard at the same time.
--   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.

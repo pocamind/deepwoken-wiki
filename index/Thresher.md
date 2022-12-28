@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 43906
+revid: 44204
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -107,6 +107,6 @@ The King Thresher is a much bigger and more powerful Thresher that spawns in the
 
 # Nightmare Thresher
 
-_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher_
+_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher (not recommended to fight if ur lvl 10 farming songseeker)_
 
 Template:Creature Info Box v2

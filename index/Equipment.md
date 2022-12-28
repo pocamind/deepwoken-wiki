@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 43470
+revid: 44217
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1496,8 +1496,6 @@ Ring of Pestilence
 
 Enemies you hit have their healing reduced by 50%
 
-**Requires Power 40**
-
  | Primadon Chests, Depths Chests |
 |  | 
 
@@ -1618,9 +1616,7 @@ Finisher's Ring
 
  | 
 
-Reduces your flourish count by 1
-
-(Allows you to flourish someone with 1 less M1)
+Extra PEN on your attacks that flourish opponents.
 
 **Requires Power 40**
 

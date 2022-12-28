@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44118
+revid: 44256
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -81,9 +81,12 @@ File:Thresherquest1.png
 
 ### Harvester
 
--   Talk to Ciea which is located inside of the hive widow cave entrance
--   Make 2 hastening potions. They are made from 1 pomar each. unfortunately, the nearest cauldron is located inside the hive base
--   Miscegenation
+-   Talk to Ciea which is located inside of the hive widow cave entrance. they will ask you to make 3 potions.
+    -   Speed potion requires 1-3 Pomar
+    -   Harm potion requires 1-3 Browncap
+    -   Life potion requires 1-3 Redd
+    -   Ether potion requires 1-3 Dentifilo
+-   Closest cauldron is located at the Light Keepers Temple if you dont have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit
 
 ## Talents
 
@@ -772,6 +775,11 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Peripheral Vision \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
     -   Prerequisites: 40 Willpower, Glare
+
+### Mountain Climber
+
+-   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
+    -   Prerequisites: (#?) Agility
 
 ### Ice Age
 

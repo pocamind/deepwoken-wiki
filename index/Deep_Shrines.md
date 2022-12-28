@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 44078
+revid: 44253
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -101,7 +101,8 @@ _Pros/Cons_
 -   Located in Songseeker Mines, through the passage containing mudskippers. _Benefits/Penalties_
 
 -   **(BENEFIT)** Balances all currently invested attributes to be equal.
--   **PENALTY)** Costs 5 knowledge, balances all currently invested attributes to be equal. _Pros/Cons_
+-   **(PENALTY)** Balances all currently invested attributes to be equal, for 5 knowledge.
+-   _Pros/Cons_
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
 
 ## Trivia

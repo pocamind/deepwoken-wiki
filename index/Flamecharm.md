@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 44122
+revid: 44228
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -30,7 +30,7 @@ Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Man
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   ~At Power 2, players will receive the _Flamecharmer_ Talent.~ Changed in recent update, will be granted at power one.
+-   At Power 1, players will receive the _Flamecharmer_ Talent.
 -   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent.
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
@@ -471,15 +471,13 @@ These are talents found in "_Flame Dancer_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Dancing Steps.gif
-
  | 
 
 Dancing Steps
 
  | 
 
-Fire mantras now move you in the direction you'rr facing.
+Fire mantras now move you in the direction you're facing.
 
  | 
 
@@ -623,7 +621,7 @@ Agitating Spark
 
  | 
 
-If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (This also applies when using Flame Within).
 
  | 
 

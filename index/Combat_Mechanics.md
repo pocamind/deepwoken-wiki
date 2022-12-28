@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 43350
+revid: 44271
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -58,7 +58,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle.
   <ul>
     <li>Tempo decreases over time when not in active combat.</li>
-    <li>When at the max tempo you can vent to break out of combos.</li>
+    <li>When at the max tempo you can vent to break out of combos. (You may just need 50%+ tempo to vent)</li>
   </ul></td>
 </tr>
 <tr>
@@ -88,12 +88,12 @@ If every bar reaches zero, the player will start to quickly lose health.
     <li>The player will always be combat tagged.</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
     <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
-  </ul><p>Maximum blood increase with power, gaining roughly 3.33% more blood for each power. Thus, the maximum amount of blood is doubled at power 30 and tripled at power 60 (compared to the default amount)</p></td>
+  </ul><p>Maximum blood increase with power, gaining roughly 9.99% more blood for each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20 (compared to the default amount)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry and your reservoir drains to 0%. Lose 50% of bar upon vomitting.<p>Drains slightly faster when hurt.</p>
+  <td>A visual representation of how much Water is currently in the player's body. Water isn't too vital for survival and will deplete over time. If you reach 0 water, your screen gets blurry, and you will start to move slower. Lose 50% of bar upon vomiting.<p>Drains slightly faster when hurt.</p>
   <p>Drain faster if hurt and sitting at a campfire.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>

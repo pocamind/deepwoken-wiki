@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 42999
+revid: 44293
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -892,7 +892,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 -   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
 
-## Before the Tides (Old World)
+## Before the Tides: Before years were invented (Old World)
 
 ### City of Celtor
 
@@ -915,24 +915,24 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 -   (The Condemned Archives) A forbidden store of Old World Texts once deemed to be too dangerous for common consumption.
     -   It is unknown where this Archive is located, but its safe to assume we are not meant to figure it out.
 
-#### The Origin of Adrets
+### The Origin of Adrets
 
 **Lore Sources:** _Ishan, Weapon Descriptions, Arch\_Mage._
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien.
--   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationary mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the adrets have come out to the greater world.
+-   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
 
-#### Currency
+### Currency
 
 **Lore Sources:** _Mr. Quarters_
 
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-## Deepwoken: ~1271 (New World)
+## Deepwoken: 0000-1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 
@@ -953,8 +953,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   An era where the people of the Old World has utilized the Song into making Attunements and magicks; and eventually the downfall of their own.
     -   (Arch\_Mage) Thanks to Arch\_Mage's posts, the Nation of Celtor was not the prime reason the Canticlysm occured, but rather a victim of its' consequences.
     -   (Arch\_Mage) Explained by Arch\_Mage, The Canticlysm occured way before the Great Drowning of Celtor.
--   Canticlysm, on its own terms, is a Catastrophe relevant to music.
 -   (Arch\_Mage) The Canticlysm lead to the creation of the 4 Basic Attunements- Thundercall, Flamecharm, Frostdraw and Galebreathe.
+-   The Canticlysm lead to a Golden Age in Deepwoken's world, but also made said world highly volatile, most of the inventions that ran on the power of the Song being liable to turn to lethal if not used properly.
 -   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangered all life- awakening the Drowned Gods from their slumber.
 
 ### The Tides
@@ -980,9 +980,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
-        -   Thanks to some of the Dialogue, such as the Adret in Summer Isle, there are possibly more than 3 Layers contained within The Depths.
+        -   There are three known Layers contained within The Depths, but there may well be more.
+        -   As the layers get deeper, they appear to get closer to the Drowned Gods.
+            -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
+            -   The second Layer is where the Drowned God-like being, the Scion of Ethiron, is found.
+            -   The third Layer is where the physical body of Korilfiend is found.
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
+-   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
 
 ### Drowned Gods
 
@@ -1033,10 +1038,16 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
 
-### World Happenings
+### Timeline
 
-**Lore Sources:** _Trenti_
+**Lore Sources:** _Trenti, Arch\_Mage_
 
+-   Humanity discovers how to utilise the Song, a period of great enlightenment and development occurs.
+-   Celestials are drawn to the Earth.
+-   The Celtorian Terror moves towards Celtor.
+-   The Military Officals become aware of it, but instead chose to flee the City.
+-   Celtor is sunk, becoming the new first Layer of The Depths, many die.
+-   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die out, with no way back.
 -   The King of Etrea vanishes on a journey into the Voidsea.
 -   The Lord Regent takes the throne and installs mental barriers into his people.  
     
@@ -1049,9 +1060,7 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 (Celestial Telescope Dialogue Update, \[1/15/2022)
 
--   (Celestial Telescope) The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
-
-### Year 1283
+-   (Celestial Telescope) The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next thousand years or so, will the city crash down into the surface.
 
 (PVP Arena, Trial of One, Visionshaper Oath Update, \[2/08/2022\])
 

@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 44003
+revid: 44222
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -27,6 +27,10 @@ categories: [Weapons, Pages with broken file links]
 | pass down | Yes |
 | obtainment | Rare drop from Rogue Construct |
 | description | "...This isn't very efficient." |
+
+“ CHILL, CHILL!!! ”
+
+― The Duke after seeing somebody pull up into his manor with this weapon
 
 ## Description
 
