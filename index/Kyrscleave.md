@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 44654
+revid: 44700
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -36,3 +36,4 @@ categories: [Weapons]
 ## Trivia
 
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**)
+-   Might be wrong, but the weapon deals roughly 44.4 + 13.32 (BLEED) (For a total of 57.72) Damage at 100 Heavy.

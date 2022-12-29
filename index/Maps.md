@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 44440
+revid: 44777
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -9,8 +9,6 @@ notices:
 ---
 
 # Maps
-
-File:Verse2BurfLogo (1).jpg
 
 Icon by Tako#3245
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 44655
+revid: 44710
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -258,7 +258,7 @@ A group of guards leads us up to Cirryn's memorial, and the room falls silent; i
 
 "Gods below, apologies. I get caught up in new things quite easily," I follow him and K'aal out, back toward the group of guards. "It's fine, Ehkusa, honestly. Let's worry about the hard part. It's time."
 
-The guards of the First guide us to Cirryn's chamber of rest. A large metal coffin resides within the middle of the room, surrounded by a countless array of beautiful flowers. "Oh my..." K'aal walks forward, crouching down and touching the flowers of the chamber. "Such a melancholic place for such beautiful flowers. Tragic." He picks one up, then glances at a guard to ensure it wasn't seen as disrespectful. "Fairest of the blossoms, hm? And everlasting past its stem being pulled." He respectfully tucks the flower onto his belt, and nods toward Cirryn's coffin. "Thank you, Starset Blade." K'aal solemnly speaks to the coffin. He's always been a sentimental one, taking little trinkets and knick knacks of his travels with him to remember them by.
+The guards of the First guide us to Cirryn's chamber of rest. A large metal coffin resides within the middle of the room, surrounded by a countless array of beautiful flowers. "Oh my..." K'aal walks forward, crouching down and touching the flowers of the chamber." Such a melancholic place for such beautiful flowers. Tragic." He picks one up, then glances at a guard to ensure it wasn't seen as disrespectful. "Fairest of the blossoms, hm? And everlasting past its stem being pulled." He respectfully tucks the flower onto his belt, and nods toward Cirryn's coffin. "Thank you, Starset Blade." K'aal solemnly speaks to the coffin. He's always been a sentimental one, taking little trinkets and knick knacks of his travels with him to remember them by.
 
 I imagine this must feel special to him, knowing the significance of this memorial. Remaz is standing in the corner of the room with his arms crossed, remaining silent. I presume he can sense the importance of this place too... These flowers have such a commanding presence amidst the life within this hall. The guards begin to file out of the room, except for one. He looks over to us and speaks, "We'll be guarding the door outside. When you've finished your... experiment, we'll unseal the memorial ground." He begins to exit the room, before pausing for a moment. "I personally believe this to be a grave sin against Cirryn's legacy, and the Hive as a whole. May the gods below judge you for what's to come." He then exits the memorial grounds, and the door slams shut behind him.
 

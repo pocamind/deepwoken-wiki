@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 43382
+revid: 44741
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -22,6 +22,8 @@ categories: [NPCs, Quests]
 The Lord Regent is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of The Authority, believes that The Lord Regent is a member of the long thought deceased contractors, and may bring about a 'great war' which will cause the second great flood.
 
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know.
+
+The Lord Regent in the newest books released in puppet\_master report & The Stars Above, refer to him as the one who helped kill the King of Etrea. He also has the entire city of Etrea under some sort of mind control spell, where anyone who descents finds themselves mysteriously forgetting everything about themselves or going missing.
 
 He does not leave his throne under any circumstances. It is unclear whether this is due to choice, or because he is forced to remain there for reasons unknown. Because of this, his subjects believe that he is stricken with some kind of illness and is therefore remaining inside his palace to recover.
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 44659
+revid: 44720
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -31,7 +31,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I get my way._ **(vow of mastery?)**
 -   _I seek for the qualities of the Nimble Blade._
 -   _I fight for Master Reste._
--   _I once performed in a Circus._
+-   _I once performed in a Circus.**(Acrobat?)**_
 -   _I am ruthless. A knife for hire._
 -   _I wish to escape._
 -   _Water is my home._

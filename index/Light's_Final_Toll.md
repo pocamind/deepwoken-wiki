@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 44548
+revid: 44694
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
@@ -12,7 +12,7 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 |---|---|
 | type | Fist |
 | requirements | 65 WLL & Fist Style |
-| damage | 12 |
+| damage | 12 (26.4) |
 | scaling | 12 WLL |
 | range | 7 |
 | swing speed | 0.87x |
@@ -36,6 +36,7 @@ Light's Final Toll is a blue spirit lantern that floats above the player. The pl
 -   This is the first weapon to scale from an attribute other than weapon or an attunement.
 -   This comes from SudoMesh's entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
+-   The only weapon that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
 
 File:Lantern.png
 

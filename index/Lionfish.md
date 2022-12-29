@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 41453
+revid: 44773
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -103,7 +103,7 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 
 ## Notes
 
--   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
+-   It is recommended to be roughly power 6 (preferably higher) to take on a lionfish.
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   You can spawn Lionfish by fishing with a low chance.

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 44673
+revid: 44779
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -118,3 +118,7 @@ While inside a Voidzone:
 **Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Megalodaunts](Megalodaunt.md)
 
 **Rewards:** TBD
+
+### **Deep Thresher Nest**
+
+**Location:** i dunno man but somewhere above lightkeeper

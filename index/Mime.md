@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 44652
+revid: 44743
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
@@ -17,7 +17,7 @@ notices:
 
 ## Mime
 
-Mime is an NPC found within a cave on [Songseeker Wilds](Songseeker_Wilds.md). He appears around a lot of miner mudskippers disguised as barrels, which upon killing will allow you to speak with him. If you have 21 _(note; please test if you can get this at 20, 23 has been confirmed in the comments. edit: tested it and its exactly 21 charisma)_ points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel.
+Mime is an NPC found within a cave on [Songseeker Wilds](Songseeker_Wilds.md). He appears around a lot of miner mudskippers disguised as barrels, which upon killing will allow you to speak with him. If you have 21+ points in [Charisma](Attributes.md), he will give you the mantra Disguise, which allows you to disguise yourself as a barrel.
 
 | Name | Image | Card Description | Effect |
 | --- | --- | --- | --- |

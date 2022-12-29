@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 44244
+revid: 44734
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -17,6 +17,7 @@ notices:
 -   The mod spec Outfit **Hive Leader's Garment** is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The Outfit **Black Diver** is [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki)
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
+-   The Old World Sun Pendant is a reference to [Azura's Star from Skyrim](https://skyrim.fandom.com/wiki/Azura%27s_Star) cred: Bug#0869
 -   Every Familiar Helmet from the Hallowtide 2022 event are helmets taken from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
 
@@ -48,7 +49,7 @@ notices:
 ### **Galebreathe**
 
 -   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
--   Wind blade is a reference to one of the abilities from one of Souls games. (I don't know the name and I only saw it in one video.)
+-   Wind blade is a reference to one of the abilities from one of Souls games. ~(I don't know the name and I only saw it in one video.)~ [Moonlight greatsword](https://youtu.be/Gt793qAK2uo?t=103) cred: Bug#0869
 
 ### **Shadowcast**
 
@@ -117,7 +118,7 @@ notices:
 
 ## Weapons
 
--   The old model of the **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime/manga _Black Clover._
+-   ~The old model of the **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime/manga _Black Clover._~ _big sword =/= astas sword_
 -   The old model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
@@ -126,9 +127,9 @@ notices:
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
--   **First Light** is a possible reference to [Reinhardt's Dragon Sword](https://rezero.fandom.com/wiki/Terminology#Ten_Swords_of_Power) from _Re: Zero._
+-   **First Light** ~is a possible reference to [Reinhardt's Dragon Sword](https://rezero.fandom.com/wiki/Terminology#Ten_Swords_of_Power) from _Re: Zero._~ _who let this retard on the site??_
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
--   **Darksteel Greatsword** is possibly inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
+-   **Darksteel Greatsword** is inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
 
 ## World
 
@@ -154,7 +155,7 @@ notices:
 
 -   **The Hundred Legions** is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor, or possibly referencing the [Caesar's Legion](https://fallout.fandom.com/wiki/Caesar%27s_Legion) from **Fallout: New Vegas**, because of similarity in their story of origin (possibly)[\[1\]](https://fallout.fandom.com/wiki/Caesar%27s_Legion)
 -   **Etrea** is very similar to a mixture of various East Asian countries.
--   **The Ministry** is possibly a reference to [the Ministry from the 2018 adaptation of Fahrenheit 451](<https://en.wikipedia.org/wiki/Fahrenheit_451_(2018_film)>).
+-   **The Ministry** is possibly a reference to The Ministry from Fahrenheit 451
 -   **The Knives of Eylis** is a reference to a faction in Dishonored with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
 
 ### **Races**

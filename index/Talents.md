@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44538
+revid: 44728
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -257,12 +257,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
-    -   Prerequisites: 10 Fortitude
+    -   Prerequisites: 5 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
 -   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
     -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
-    -   Prerequisite: 90 Fortitude & **all** bastion talents
+    -   Prerequisite: 90 Fortitude & **all** common bastion talents
 
 ### Beast Slayer
 
@@ -963,7 +963,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
--   Piercing Will \[Rare Talent, Willpower\] - When your sanity is at stake gain +10% PEN on your attacks. (+4 Ether)
+-   Piercing Will \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
 

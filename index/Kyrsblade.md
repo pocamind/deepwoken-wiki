@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 44649
+revid: 44701
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -15,7 +15,7 @@ categories: [Weapons, Verse 2]
 | damage | 22 |
 | scaling | 7.5 MED |
 | range | 7.5 |
-| swing speed | 0.73x |
+| swing speed | 0.75x |
 | penetration | 5% |
 | chip damage | 35% |
 | special effect | ? |
@@ -36,3 +36,4 @@ The Kyrsblade is an endgame Medium Weapon obtained from [Layer 2](Second_Layer.m
 
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrsblade**, [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   Image credit to Ecyfa ([https://www.youtube.com/@Ecyfa](https://www.youtube.com/@Ecyfa))
+-   This weapon deals 38.5 Damage at 100 Medium Weapon.

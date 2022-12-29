@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 43013
+revid: 44711
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken, Void Sea]
@@ -148,3 +148,4 @@ A list of named locations that can be found in the Arena or Mission experience.
 
 -   Do note that most of these locations are only in the [Etrean Luminant](Luminants.md).
 -   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place, it is likely located in Minityrsa.
+-   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](https://deepwoken.fandom.com/wiki/Books#Stars_Above,_and_the_Blade_between),

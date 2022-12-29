@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44632
+revid: 44735
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -241,7 +241,7 @@ Does not grant any special cosmetic based on race.
 
 ### Obtainment
 
-1.  Get 4 different players with Oaths (have to be different accounts, only 2 of each oath can be used. Oathless players do not count.)
+1.  Get 4 different players with Oaths (have to be different accounts, only 2 of each oath can be used.)
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
@@ -460,7 +460,7 @@ This Oath grants two Combat Mantra slots.
 One speculated step to obtain this is through the assassination quests offered by Imel and Emel, likely requiring a certain amount of reputation or assassinations completed.
 
 -   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>) ([It could also be this one, although it doesn't seem fully transcribed.](https://deepwoken.fandom.com/wiki/Books?so=search#Stars_Above,_and_the_Blade_between))
--   The stats are theroised to be, 20 shadowcall, 20 frostdraw and 50 intelligence. This is not yet confirmed.
+-   The stats are theroised to be, 20 shadowcast, 20 frostdraw and 50 intelligence. This is not yet confirmed.
 
   
 

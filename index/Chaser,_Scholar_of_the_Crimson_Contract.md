@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 44361
+revid: 44726
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
@@ -141,8 +141,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Chaser wears the old Black Diver outfit, possibly showing his current disassociation with the Divers as all the other Black Divers have the updated outfits.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from Elden Ring.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
--   Bloodless Gems have reduced healing effects on Chaser while he's downed.
--   He is the only [Enemy](Enemies.md) to lack a weapon.
+-   Bloodless Gems have reduced healing effects on Chaser.
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Given the boss fight takes place in [The Depths](The_Depths.md), and that he has unique dialogue if you've killed him before, he probably survives the fight.
 

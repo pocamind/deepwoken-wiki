@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 44672
+revid: 44729
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, World, Voidzones]
@@ -34,7 +34,7 @@ File:Crypt entity.png
 
 Entity in the crypt.
 
-At the end of a hall in the crypt, there is an entity sitting on a pedestal against the wall. It appears that you can talk to it, but more information needs to be found.
+At the end of a hall in the crypt, there is an entity sitting on a pedestal against the wall. It allows you to trade a mantra you have in exchange for one you have the requirements for
 
   
 
@@ -83,4 +83,4 @@ At the end of a hall in the crypt, there is an entity sitting on a pedestal agai
 ## Notes & Trivia
 
 -   Images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
--   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Axe and Greatsword.
+-   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
