@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44510
+revid: 44632
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -65,7 +65,7 @@ There are currently nine Oaths in _Deepwoken_.
 
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
-Pathfinder doesnt count as an Oath and is merely an indicator of your lack of Oath.
+Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
 
 ## Oath: Oathless
 
@@ -385,7 +385,7 @@ This Oath grants two Combat Mantra slots and eight Health.
     1.  Activate the Generator
     2.  Talk to Alpha
     3.  Retrieve injured Elphis **(option 2 when you talk to him)**
-    4.  Talk to Alpha again (You can skip the generator by just destroying the door frame with a move that destroys tiles and skip step 1 and 2)
+    4.  Talk to Alpha again (You can skip the generator by just destroying the door frame with a move that destroys tiles and skip step 1 it is confirmed)
 3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
@@ -459,7 +459,10 @@ This Oath grants two Combat Mantra slots.
 
 One speculated step to obtain this is through the assassination quests offered by Imel and Emel, likely requiring a certain amount of reputation or assassinations completed.
 
--   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>)
+-   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>) ([It could also be this one, although it doesn't seem fully transcribed.](https://deepwoken.fandom.com/wiki/Books?so=search#Stars_Above,_and_the_Blade_between))
+-   The stats are theroised to be, 20 shadowcall, 20 frostdraw and 50 intelligence. This is not yet confirmed.
+
+  
 
   
 

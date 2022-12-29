@@ -1,11 +1,12 @@
 ---
 title: Megalodaunt
-revid: 43963
+revid: 44603
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Monsters]
+categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Megalodaunt
@@ -14,7 +15,7 @@ notices:
 
 ― Megalodaunt Roar
 
-  
+_Commonly referred to as Sharko_
 
 **Megalodaunt:**
 
@@ -261,12 +262,11 @@ Pyroclastic Roar
 
 **Mechalodaunt:**
 
-  
 Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt (also referred to as Kevin) is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and it’s voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
+The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
 
 ## **Trivia**
 
@@ -301,7 +301,17 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Megalodaunt bends over and points its tubes towards an opponent, spewing a large and constant bullets at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Bullet Fury
+
+ | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent | ◯ | ◯ | ◯ | (★★☆) |
+| 
+
+Laser Explosion
+
+ | The Mechalodaunt will fire a laser in a circle around it, causing a fiery explosion. | ✗ | ✗ | ◯ | (★★★) |
 | 
 
 Roar
@@ -323,7 +333,7 @@ Roar
 
 A Megalodaunt swimming.
 
--   It is the most common Giant Type enemy, and the easiest (Stat Check Level: 10).
+-   It is the most common Giant Type enemy, and the easiest (Stat Check Power: 10).
 -   Sharkos have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.

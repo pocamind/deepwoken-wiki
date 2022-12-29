@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 44444
+revid: 44546
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -108,12 +108,12 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 ## Notes/Trivia
 
 -   Some spots won't let you fish.
--   How good certain locations seem for fishing is purely RNG, some people will get lucky, some will not.
--   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
--   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish to get food, luck, and loot.
--   If you would rather not get carpal tunnel while fishing, use an auto clicker at the 2 milliseconds settings for best optimalisation (tested) be careful, as making a mistake can result in the fish/chest/trash escaping.
--   If you're in need of luck and you don't want to do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
--   The harder the difficulty (aka how fast direction changes) the rarer things you fish up.
--   You can get **enchants**, **Deep Gems**, and **legendary/mythic equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
--   Fishing will level your Willpower, Fortitude, Intelligence and Charisma.
+-   How good certain locations are for fishing is purely RNG, some people will get lucky, some will not.
+-   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
+-   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
+-   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with it's interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
+-   ~If you're in need of luck and you don't want to do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)~ - With the removal of luck, this is no longer the case.
+-   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
+-   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
+-   Fishing will level your Strength, Fortitude, Intelligence and Willpower by default (Without you fishing up Golden Fishes.). \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
 -   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

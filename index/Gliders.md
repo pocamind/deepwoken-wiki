@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 41967
+revid: 44628
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -21,7 +21,7 @@ Gliders are a utility that can be crafted with a schematic given in [Pathfinder'
 
 ## Obtaining
 
-The _Glider Schematic_ can be found in [Lower Erisia](Lower_Erisia.md), making your way through the Mudskipper cave. Alastir can be found near a shrine above the Pathfinder's Respite. Talking to them will give you the respective schematic. The _Glider Schematic_ can be used to build both the **Glider** and the **Sharkscale Glider**.
+The _Glider Schematic_ can be found in [Lower Erisia](Lower_Erisia.md), making your way through the Mudskipper cave. Alastir can be found near a shrine above the Pathfinder's Respite. Talking to them will give you the respective echo schematic. The _Glider Schematic_ can be used to build both the **Glider** and the **Sharkscale Glider** you will always get this at Power 2.
 
 ## Crafting
 

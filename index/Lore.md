@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44537
+revid: 44636
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -106,7 +106,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 
-### Chaser, Scholar of the Blood Contract
+### Chaser, Scholar of the Burning Blood
 
 -   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
@@ -164,7 +164,7 @@ Yun'shul's Shrine
 ### **Ethiron**
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
--   Ethiron MAY be a Drowned God, but this is yet to be confirmed.
+-   Ethiron is the Drowned God of the Eternal Gale.
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer; the meaning of scion in this context is unclear.
 
@@ -333,7 +333,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   The barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
-#### **The Eternal Gale (Second Layer)**
+#### **The Eternal Gale, The Second Layer**
 
 -   The Second layer of the depths is a cold wasteland with never-ending winds that lies directly below the first layer.
 
@@ -802,7 +802,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   Children of Celestials, the Lightborn are considered fragments of these once great beings who lived above in the sky.
--   In recent times, a family of Lightborn known as the Spellhards have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
+-   In recent times, a family of Lightborn known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
 -   Some of the Lghtborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
 -   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.

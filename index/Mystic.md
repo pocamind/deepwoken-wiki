@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 44312
+revid: 44659
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -28,6 +28,7 @@ Mystic is a Chrysid NPC that appears in multiple locations around the map. For 2
 Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from. Here are but a few of the possible prompts:
 
 -   _Uh..._
+-   _I get my way._ **(vow of mastery?)**
 -   _I seek for the qualities of the Nimble Blade._
 -   _I fight for Master Reste._
 -   _I once performed in a Circus._
@@ -37,20 +38,20 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I skulk in alleyways, looking for my next prize._ **(Acrobat, Alley Cat, Assassin and Butterfly Trees)**
 -   _I scale the tallest peaks._
 -   _Light on my feet, I sting like a bee._
--   _I am athletic._
+-   _I am athletic._ **(Athlete)**
 -   _I want to WIN._
 -   _I search for the Song._
--   _I steal from people._
--   _I sabotage others._
+-   _I steal from people._ **(Thief)**
+-   _I sabotage others._ **(Saboteur)**
 -   _I seek the Qualities of Natural Armor._ **(Natural Armor)**
 -   _I seek out Amorus Pleeksty_
--   _I am a competent duelist._
--   _I Am an everlasting bastion._
--   _In nature, I am at home._
--   _I burn so that I may succeed._
+-   _I am a competent duelist._ **(Duelist)**
+-   _I Am an everlasting bastion._ **(Bastion)**
+-   _In nature, I am at home._ **(Exoskeleton)**
+-   _I burn so that I may succeed._ **(Immolator Tree; Phoenix Flames, Agitating Spark, Immolator)**
 -   _My hunt is inescapable._
 -   _My flames wrap my fists._
--   _I prefer to attack unseen._
+-   _I prefer to attack unseen._ **(Assassin)**
 -   _I fight for the Legion._ **(Legion Shock Trooper)**
 -   _I go beyond my limits._ **(Limitbreaker)**
 -   _I speak to the Winds._ **(Aeromancer)**

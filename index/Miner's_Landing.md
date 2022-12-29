@@ -1,8 +1,9 @@
 ---
 title: "Miner's Landing"
-revid: 44476
+revid: 44614
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, World]
 ---
 
 # Miner's Landing
@@ -30,7 +31,7 @@ The areas on Miner's Landing can be identified as is: Docks, Town, Upper Landing
 
 ## Docks
 
-The Docks is, well, the docks. It has a guard and the shipwright.
+The Docks is what greets you after the highway. It has a guard and the shipwright.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 43330
+revid: 44651
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -35,4 +35,5 @@ Kyrsedge is a Light Dagger weapon added in the Layer 2 update. Not much is known
 
 ## Trivia
 
--   Seems to be paired with Kyrstear
+-   Apart of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
+-   Seems to be paired with Kyrstear.

@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 41792
+revid: 44641
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -32,6 +32,6 @@ The Hallowscleave is a MED weapon in the Swords category. It is obtained by gett
 
 ## Trivia/Notes
 
--   Currently unobtainable
--   Cannot be dropped (same properties as a soulbound weapon, but you can still pass it down).
--   \*\*\*MAY\*\*\* come back next year.
+-   Currently unobtainable.
+-   Cannot be dropped (same properties as a Soulbound weapon, but you can still pass it down).
+-   This weapon **MAY** come back next year.

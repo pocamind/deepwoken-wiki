@@ -1,9 +1,9 @@
 ---
 title: Kyrsblade
-revid: 44081
+revid: 44649
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Verse 2]
+categories: [Weapons, Verse 2]
 ---
 
 # Kyrsblade
@@ -16,7 +16,6 @@ categories: [Pages with broken file links, Weapons, Verse 2]
 | scaling | 7.5 MED |
 | range | 7.5 |
 | swing speed | 0.73x |
-| endlag | N/A |
 | penetration | 5% |
 | chip damage | 35% |
 | special effect | ? |
@@ -26,17 +25,14 @@ categories: [Pages with broken file links, Weapons, Verse 2]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 Chests, Rare drop from voidwalker bounties |
+| obtainment | Layer 2 Chests, Voidwalker Bounties |
 | description | ... |
-
-File:Image kyrsblade.png
-
-credit to [Efcya](https://www.youtube.com/@Ecyfa)
 
 ## Description
 
-\-layer 2 weapon that looks like a carved ~chupacabra bone~ {not much is known about this weapon}
+The Kyrsblade is an endgame Medium Weapon obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It requires 75 MED to use, and has 35% Chip Damage and 5% Penetration.
 
-## Trivia
+## Notes & Trivia
 
--   Apart of the Kyrs series commonly referred to as "Bone" Weaponry (Kyrsear, Kyrsedge, etc, etc )
+-   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrsblade**, [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
+-   Image credit to Ecyfa ([https://www.youtube.com/@Ecyfa](https://www.youtube.com/@Ecyfa))

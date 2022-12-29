@@ -1,9 +1,9 @@
 ---
 title: Kyrsglaive
-revid: 43453
+revid: 44653
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Items, Weaponry, Spears]
+categories: [Weapons, Items, Weaponry, Spears]
 ---
 
 # Kyrsglaive
@@ -22,15 +22,13 @@ categories: [Weapons, Pages with broken file links, Items, Weaponry, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer |
+| obtainment | Layer 2 |
 | description | ... |
-
-File:Imagewwww.png
 
 ## Description
 
-The Kyrsglaive is a MED weapon obtained from Layer 2. It is a spear and has 20% PEN alongside a BLEED effect.
+The Kyrsglaive is a Medium Weapon obtained from Layer 2. It is a spear, and has 20% PEN alongside a BLEED effect.
 
 ## Notes
 
--   This weapon is one of several "bone" weapons in the game. Other weapons share the same forename ("kyrs").
+-   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))

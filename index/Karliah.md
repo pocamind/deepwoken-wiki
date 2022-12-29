@@ -1,9 +1,9 @@
 ---
 title: Karliah
-revid: 40013
+revid: 44554
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests]
 ---
 
 # Karliah

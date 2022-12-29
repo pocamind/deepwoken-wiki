@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 44388
+revid: 44569
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -22,7 +22,13 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 
-Guild bases cannot be made inside guild bases, or dungeons. This includes the Depths and its many Layers as well. A message stating, "This is not a place for a safehouse." will show on the players screen. They also obviously cannot be activated while in danger.
+The Chime of Dwelling does not work under the following:
+
+-   Using the Chime inside a Guild Base.
+-   Depths and its Layers.
+-   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
+-   Dungeons or Missions.
+-   Occupied Locations by Factions that see you as a Hostile.
 
 ## Nodes
 
@@ -32,7 +38,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Training Hall (1000) \[XL\] - An arena meant for dueling your guild members, serves no actual purpose and is purely cosmetic.
 -   Trophy Room (5000) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
     -   Artisan - An upgrade to the Trophy Room that costs 10,000 Notes for hire. For 800 Notes, allows the Player to merge attributes and appearance of an Item.
--   Quarters (1000) - A room with a campfire and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room (You cannot cook at the campfire).
+-   Quarters (1000) - A room with a campfire, crafting table, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room (You cannot cook at the campfire).
 -   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
@@ -40,5 +46,6 @@ A guild base can be increased in size through different nodes. Some provide prac
 
 ## Trivia
 
--   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
+-   Not all surfaces are valid for a guild base to be created on. ~Only certain types of rock and wood permit it.~ (as long as there is enough space, the material is irrelevant)
 -   Players cannot go into guild halls while holding a body.
+-   You can break the Guild Base open while inside, fall off the map and be sent to [The Depths](The_Depths.md) as a result.

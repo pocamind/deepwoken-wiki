@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 44271
+revid: 44547
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -58,7 +58,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle.
   <ul>
     <li>Tempo decreases over time when not in active combat.</li>
-    <li>When at the max tempo you can vent to break out of combos. (You may just need 50%+ tempo to vent)</li>
+    <li>When at 50% tempo you can vent to break out of combos. When at max you can vent twice.</li>
   </ul></td>
 </tr>
 <tr>

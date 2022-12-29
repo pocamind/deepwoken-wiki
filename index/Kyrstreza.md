@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 44001
+revid: 44643
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -32,6 +32,7 @@ categories: [Weapons]
 
 Krystreza is a LHT weapon under the Rapier category. It has a requirement of 75 LHT, a base damage of 15 and a weapon scaling of 8.5. It is one of the new weapons that came with the Verse 2 update, being obtainable through Layer 2 (The Eternal Gale) chests.
 
-## Notes
+## Notes & Trivia
 
-At 75 LHT, this weapon deals around 24.5 damage. At 100 LHT, this weapon deals 27.75 damage.
+-   This weapon is part of the Kyrs series, commonly referred to as "Bone" Weaponry (Kyrsear, Kyrsedge, etc.).
+-   At 75 LHT, this weapon deals around 24.5 damage. At 100 LHT, this weapon deals 27.75 damage.

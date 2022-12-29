@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 43384
+revid: 44650
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -36,5 +36,6 @@ Kyrstear is an off-hand weapon.
 
 ## Trivia
 
--   One of two Offhand Weapons
--   Seems to be paired with Kyrsedge
+-   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), **Kyrstear**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
+-   One of two Offhand Weapons.
+-   Seems to be paired with Kyrsedge.

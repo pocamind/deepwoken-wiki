@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 44442
+revid: 44638
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -107,6 +107,28 @@ The King Thresher is a much bigger and more powerful Thresher that spawns in the
 
 # Nightmare Thresher
 
-_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher (not recommended to fight if ur lvl 10 farming songseeker)_
+_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher_ Template:Creature Info Box v2
 
-Template:Creature Info Box v2
+## Description
+
+Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). You're able to fight it solo if you know what you're doing. There is a chest reward after you kill this monster.
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Tail Swipe** | The Nightmare Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
+| **Burrow** | The Nightmare Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
+| **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. | ✗ | (?) |
+| **???** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. | ? | (?) |
+
+## Passives
+
+-   TBD
+
+## Tips
+
+-   TBA
+
+## Notes & Trivia
+
+-   The ??? move needs to be named. Any new information is appreciated.
+    -   Along with that, the danger levels and whether you can parry ??? or not is currently undetermined. New information would be appreciated.

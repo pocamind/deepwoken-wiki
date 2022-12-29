@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 40267
+revid: 44639
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -29,7 +29,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Serpent's Edge is a popular endgame [Medium Weapon](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons), know for its iconic curved design, resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
+The Serpent's Edge is a popular endgame [Medium Weapon](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons), known for its iconic curved design, resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
 
 ## Trivia
 
@@ -37,4 +37,4 @@ The Serpent's Edge is a popular endgame [Medium Weapon](https://deepwoken.fandom
 -   Has a unique critical. You do three slashes that move you a good deal forward.
     -   This critical can be used in water as a method of escape, due to the speed boost.
     -   However, do note that the above strategy will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
-    -   This sword is also inspired from the Flameberge from the first Dark souls which can be found in Sen's fortress.
+    -   This sword is also inspired from the Flameberge from the first Dark Souls which can be found in Sen's fortress.

@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 43666
+revid: 44582
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Carbuncle
 
-Template:EnemyInfobox1.0
+Template:Creature Info Box v2
 
 ## Overview
 
-Carbuncles are a enemy Humanoid NPC of Layer 2 and in certain locations of the Lumen; the final form of which [Diver Husks](Diver_Husk.md) will transform as.
+Carbuncles are a enemy Humanoid NPC of Layer 2 and in certain locations of the Lumen; the final form that [Diver Husks](Diver_Husk.md) will transform into.
 
 ## Moveset
 
@@ -31,11 +31,11 @@ Carbuncles only has 2 attacks, listed below:
 
 ## Tips
 
--   _Carbuncles always have Hyperarmor; shrugging off all attacks that apply daze or stun._
--   _Carbuncles alone won't be a problem, but a handful of them grouped together will mince Players into a **stunlock** until they get out of it._
--   _Carbuncles in terms of difficulty is not hard; as they signify what kind of attack they'll use with an initial, distorted growl._
+-   Carbuncles always have Hyperarmor; shrugging off all attacks that apply daze or stun.
+-   Carbuncles alone won't be a problem, but a handful of them grouped together will mince Players into a **stunlock** until they get out of it.
+-   Carbuncles in terms of difficulty are not hard; as they signify what kind of attack they'll use with an initial, distorted growl.
 
 ## Trivia
 
--   _Carbuncles originate from The Eternal Gale's Parasites that was brooding in their victims, later in their initial phase of incubation._
--   _With further analysis of what the Parasite does to the host's movement, the Parasite uses both its limbs and the host's to maneuver and attack._
+-   Carbuncles originate from The Eternal Gale's Parasites that was brooding in their victims, later in their initial phase of incubation.
+-   With further analysis of what the Parasite does to the host's movement, the Parasite uses both its limbs and the host's to maneuver and attack.

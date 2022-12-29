@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 40689
+revid: 44588
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Spears]
 
 ## Description
 
-Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md). Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
+Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md) and it's fairly common inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 43925
+revid: 44556
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -124,6 +124,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Etrean_Sea.md">Etrean Sea</a>, Statues</td>
   <td>Grants quest to kill an enemy in <a href="Erisia.md">Erisia</a>, gives positive Ministry reputation, gives exp, gives notes</td>
   <td>The quest is repeatable</td>
+</tr>
+<tr>
+  <td>Ishan</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, Castle</td>
+  <td>None</td>
+  <td></td>
 </tr>
 <tr>
   <td>Jeremiah</td>

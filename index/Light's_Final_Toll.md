@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 43672
+revid: 44548
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
@@ -31,13 +31,11 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 
 Light's Final Toll is a blue spirit lantern that floats above the player. The player also wears a string of prayer beads around their arm. It can be obtained from [Layer 2](Second_Layer.md). It is the only current weapon to scale off of Willpower
 
-## Trivia/Notes
+## Trivia
 
 -   This is the first weapon to scale from an attribute other than weapon or an attunement.
--   This comes from SudoMesh's entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game
+-   This comes from SudoMesh's entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
-
--   This weapon is at its best when paired with Akira's ring
 
 File:Lantern.png
 

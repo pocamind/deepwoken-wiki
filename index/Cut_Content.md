@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 44533
+revid: 44543
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -13,20 +13,25 @@ notices:
 ## Locations
 
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
--   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derived from the random event where a meteor would fall and summon [Enforcers](Enforcer.md). [Primadon](Primadon,_Titan_of_the_East.md) was also spawned here initially. Though [Meteor Isle](Meteor_Isle.md) returned, many of the core mechanics are gone.
+-   **Original Meteor Isle -** Even though [Meteor Isle](Meteor_Isle.md) was re-added, it is in a much more muffled capacity than it used to be. It originally was a medium sized island, which featured a good stream of monsters, being very useful to gain EXP, with many monsters like [Enforcers](Enforcer.md), [Megalodaunts](Megalodaunt.md), and even [Primadon](Primadon,_Titan_of_the_East.md). It also presumably had more NPCs and quests.
 -   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 
 ## Player
 
--   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra. Now only used by [Nautilodaunts](Nautilodaunt.md). Not to be confused with Venting from the Verse 2 update.
+-   **Original Venting -** Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether. The current iteration of Venting simply throws people away, and can be used while in hitstun.
+    -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
--   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploit and etc
--   **Spell Stacking -** Only ingame for a month from release, you used to be able to stack spells with m1s, with parrying either the m1 or spell cancelling the other. Removed for being unfair/allowing easy movestacks.
--   **Luck -** Ingame for a year before the Verse 2 update, was a mechanic that allowed for more-common draws of Rares and legendary cards, axed for a new hand system.
--   **Legendary Talents-** A rare few talents that were guaranteed at power 15,30, and 60. Removed in favor of Completion cards, with many being merged into Rare cards.
+-   **Hidden Name -** In the testing all player name is hidden until they said their name to you they will be simply called stranger. Now is removed for preventing exploits and such.
+-   **Spell Stacking -** A (possibly) unintended Mechanic that allowed Players to M1 and/or parry while performing Mantras, allowing them to either cancel the Mantra but continue the M1, or to parry an oncoming attack while performing a Mantra, both of which led to horrible interactions.
+    -   Removed a month after release for allowing easy and unfair movestacks.
+-   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
+    -   Replaced with Advanced Cards in the 12/23/22 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
+
+-   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. Some would be lost upon picking a Rare or Legendary Talent.
+    -   Replaced by Knowledge in the 12/23/22 Verse 2 Update.
 
 ## Mantras
 
@@ -36,7 +41,7 @@ notices:
 
 ## Monsters
 
--   **Crab -** While the giant red crab from the popular leak turned into the [Crustaceous Rex](Crustaceous_Rex.md), there was a smaller version that existed.
+-   **Crab -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
 -   **Isopods -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release.
 
@@ -79,8 +84,6 @@ notices:
     -   As of 12/13/22 update, Salesperson was merged into Snake Oil.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 
-  
-
 ## Other
 
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
@@ -89,7 +92,8 @@ notices:
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chests dropped from the monsters used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
 -   **Lore Guilds -** Their used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis was later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
--   **Guild Housing -** There was a planned (and cut) feature that allowed guilds to have homes on islands which could be the location of PVP battles as well as general spots of trade and relaxation. This will be added back once Layer 2 releases, as hinted through the announcement in the Discord.
+-   **Original Guild Housing -** A cut feature that allowed guilds to have homes on islands which could be the location of PVP battles as well as general spots of trade and relaxation.
+    -   Added in the 12/23/22 Verse 2 Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being some part of the Map that is always there, or only on specific islands.
 -   **Ship Customization -** Ships were going to have more in-depth customization features, but were removed shortly before release for unknown reasons.
 -   **Officer's Note -** An item that had a chance to drop from Bandit Camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
 -   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.

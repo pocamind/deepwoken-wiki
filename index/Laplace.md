@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 42846
+revid: 44574
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -25,7 +25,7 @@ He lets you trade 3 [enchantments](Enchantments.md) for a randomized enchant on 
 -   For each enchant you gave to Laplace, they tally them to mark how many enchants you given to successfully seal the deal.
 -   Laplace cannot enchant legendary weapons (ex. Crypt Blade, Curved Blade of Winds) or any weapon that cannot hold an enchant.
 -   Laplace cannot enchant duped weapon. Its impossible to know if your weapon is duped if you trade for it.
--   Requires level 20
+-   Requires Power 20
 
 ## Trivia
 

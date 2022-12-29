@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 44062
+revid: 44585
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -27,7 +27,7 @@ When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra 
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
 -   All **Light Weapons** are locked to One Handed stance.
--   All **Medium Weapons** can freely switch between One Handed and Two Handed stance.
+-   Most **Medium Weapons** can freely switch between One Handed and Two Handed stance.
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
@@ -886,7 +886,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Rifles:**
 
-An upcoming weapon type for medium, similar to spears. Rifles use melee attacks that incorporate the firing of the rifle itself, but not much is known for it as it is a Layer 2 weapon. In the Agamatsu Layer 2 Q&A, it is shown that It is able to be able to both be fired and used as some sort of a pole-arm.
+Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm.
 
 <table>
 <tbody>

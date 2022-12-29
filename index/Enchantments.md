@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 44451
+revid: 44660
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -128,7 +128,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker gets placed on the enemy. Unique critical with katana's critical animation that teleports you to marked enemies, dealing damage. - The range of this is unknown</p></div></td>
+  <td><div><p>On hit, a red eye marker gets placed on the enemy. Unique critical with katana's critical animation that teleports you to marked enemies, dealing damage. - The range of this is 65-70 studs</p></div></td>
   <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
 </tr>
 <tr>
@@ -148,15 +148,6 @@ There are three variants that enchantments come in:
   Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
   <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
-  <font>Umbral Knight<div></div></font></center></td>
-  <td><div><p><br>
-  On proc, a red slash will follow up after a successful m1 on the target<br>
-  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
-  <b>[! BUG&nbsp;!] Hitting an entity with superarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
-  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
   <td><figure>File:SEAR.png<figcaption></figcaption></figure><center><br>
@@ -202,6 +193,15 @@ There are three variants that enchantments come in:
   <font>Tears of Edenkite<div></div></font></center></td>
   <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning</p></div></td>
   <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
+  <font>Umbral Knight<div></div></font></center></td>
+  <td><div><p><br>
+  On proc, a red slash will follow up after a successful m1 on the target<br>
+  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
+  <b>[! BUG&nbsp;!] Hitting an entity with superarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
+  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
 </tr>
 <tr>
   <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
