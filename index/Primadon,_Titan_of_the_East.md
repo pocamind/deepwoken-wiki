@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 43162
+revid: 44793
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -60,7 +60,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 
 ## Strategies & Tips
 
-[Power](Power.md) 50 is **highly** recommended if fighting the boss, due to level scaling damage done to NPCs.
+[Power](Power.md) 15-20 is **highly** recommended if fighting the boss, due to level scaling damage done to NPCs.
 
 ### Preparation
 

@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 43558
+revid: 44805
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Equipment, Weaponry, Shields]
@@ -12,13 +12,6 @@ categories: [Weapons, Equipment, Weaponry, Shields]
 |---|---|
 | type | Shield |
 | requirements | 50 FTD |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
-| special effect | ? |
 | offhand | Offhand only |
 | selling price | ? |
 | weight | 1.9 |
@@ -26,7 +19,14 @@ categories: [Weapons, Equipment, Weaponry, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | ? |
-| description | ? |
+| obtainment | Pure Ore Rewards, TBA |
+| description | A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin. |
 
+## Description
 
+Ethiron's Curseshield is a darkly colored shield, decorated with complex tangling patterns on its front side. It has a requirement of 50 FTD to use, and has 1.9 Weight.
+
+## Notes & Trivia
+
+-   Image taken from iwiK's video ([https://youtu.be/5lg1TroE2EE](https://youtu.be/5lg1TroE2EE))
+-   Information on obtainment needs to be added

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 44779
+revid: 44796
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -65,7 +65,7 @@ While inside a Voidzone:
 
 **Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Thresher.md#nightmare-thresher), [Deep Angels](Hollow_Angel.md#deep)
 
-**Rewards:** TBD
+**Rewards:** Miasmic and Zephyr Lotuses, Songseeker loot pool, Deep Angels chest loot pool
 
 ### **[Lightkeeper Temple](Lightkeeper_Temple.md)**
 
@@ -97,7 +97,7 @@ While inside a Voidzone:
 
 “ A valley left forgotten, a place of power that draws the heavens downward. ”
 
-― Saramaed Summit's Flavour Text
+― Valley of Heroes' Flavour Text
 
   
 **Location:** [Minityrsa](Minityrsa.md), Etrean Luminant

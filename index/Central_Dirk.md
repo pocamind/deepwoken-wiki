@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 38479
+revid: 44807
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Daggers, Weaponry]
@@ -33,4 +33,4 @@ Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 
 
 ## Notes
 
-At 100 LHT, this weapon deals 25.5 damage. At 75 LHT, this weapon does 22.9 damage.
+-   This weapon deals **25.5** damage at **100 LHT** and **22.9** damage at **75 LHT**.

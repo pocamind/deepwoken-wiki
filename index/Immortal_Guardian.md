@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 44682
+revid: 44812
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,4 +36,4 @@ An Immortal Guardian executes the player after knocking them.
 ## Trivia
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
--   More information would be appreciated.
+-   The Immortal Guardian's helmet appears to resemble Bondrewd's helmet from the anime "Made in Abyss".

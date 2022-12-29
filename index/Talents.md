@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44728
+revid: 44785
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -172,7 +172,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
     -   After you don't take damage for 3 seconds, gain 3x health regen while running.
     -   Prerequisites: Scaredy Cat & Endurance Runner
     -   Mutual Exclusive: Fishman
--   Endurance Runner \[Common Talent, 15 Fortitude / 25 Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
+-   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisites: 25 Agility, 25 Fortitude
 

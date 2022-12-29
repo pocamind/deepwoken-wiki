@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 44735
+revid: 44823
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, Character, Talents, Mechanics]
+categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -40,7 +40,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Complete Alpha's Quest |
+| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -185,7 +185,7 @@ Visionshaper also has one talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
-    -   Duration scale with your progress in the Visionshapper Oath.
+    -   Duration scale with your progress in the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   While the clone deal fake damage, it still applies hit-stun.
@@ -462,9 +462,14 @@ One speculated step to obtain this is through the assassination quests offered b
 -   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>) ([It could also be this one, although it doesn't seem fully transcribed.](https://deepwoken.fandom.com/wiki/Books?so=search#Stars_Above,_and_the_Blade_between))
 -   The stats are theroised to be, 20 shadowcast, 20 frostdraw and 50 intelligence. This is not yet confirmed.
 
-  
+### **Known Abilities**
 
-  
+-   **Judgement Day - Combat Mantra**
+
+-   **Equalizer - Combat Mantra**
+
+-   **Lords Slice - Combat Mantra**  
+    File:Contractor1.png
 
 ## Trivia
 

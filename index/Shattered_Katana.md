@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 44592
+revid: 44816
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -25,6 +25,10 @@ categories: [Weapons, Swords, Katanas]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita, Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Burning Blood |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
+
+“ I AM THE STORM THAT IS APPROACHING! ”
+
+― A level 60 etrean with Poser's Ring and Shattered Katana sheathing their weapon after dealing a fuck ton of damage."
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 42446
+revid: 44806
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,7 +18,7 @@ Hive Guards are NPCs that can appear in 2 variants. The first being a regular gu
 
 The second variant wears a [Hive Drone](Hive_Drone.md) outfit instead of a **Grandmaster Pathfinder Cloak** outfit along with their lack of any attunement. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
 
-Other than that, they are all either [Vesperians](Vesperian.md) or [Ganymedes](Ganymede.md) with their gender varying. They also wear a pair of Woodland Pauldrons and Woodland Boots.
+Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md) with their gender varying. They also wear a pair of Woodland Pauldrons and Woodland Boots.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 44358
+revid: 44783
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -67,6 +67,10 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
     -   Crimson Megalodaunt
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
+
+-   [Deep angels](Hollow_Angel.md)
+
+-   [Nighmare Tresher](Thresher.md)
 
 ## Loot Table
 
