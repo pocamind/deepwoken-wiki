@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44785
+revid: 44865
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -482,7 +482,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 
 -   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
     -   Prerequisites: Power 2.
--   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Reservoir. (Better Reservoir Regeneration)
+-   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air. (Better Ether regeneration)
     -   Prerequisite: Escape from The Depths once.
 
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.

@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 44434
+revid: 44872
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,4 +35,4 @@ Slash
 ## Trivia
 
 -   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "The Bone One".
--   Bone Keepers may be related to the humanoids found on [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance.
+-   Bone Keepers may be related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance.

@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 44581
+revid: 44839
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -15,8 +15,6 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 ## Description
 
 **Guns** are ranged weapons that can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md). There are several different types of **guns**.
-
-There is no Intelligence requirement, although it is recommended to have quite a bit since guns use Ether if you have no bullets. (Bullets cost 5 notes each or can be crafted anywhere using 1 Iron) The Engage talent is also useful for restoring Ether upon hitting with an M1.
 
 You can wield 2 **guns** the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
 

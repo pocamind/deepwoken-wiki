@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 44708
+revid: 44858
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -19,7 +19,7 @@ categories: [Weapons, Verse 2]
 | endlag | 0.1s |
 | penetration | N/A |
 | chip damage | N/A |
-| special effect | ? |
+| special effect | Decreases your posture gain on parry. Increases your opponents posture gain when parried. |
 | offhand | Offhand only |
 | selling price | ? |
 | weight | 4 |
@@ -39,4 +39,4 @@ Kyrstear is an off-hand weapon.
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), **Kyrstear**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   One of two Offhand Weapons.
 -   Seems to be paired with Kyrsedge.
--   The Kyrstear is an upgrade to the Parrying Dagger, parrying attacks with it seems to fill people's posture quicker.
+-   The Kyrstear is an upgrade to the [Parrying Dagger](Parrying_Dagger.md), parrying attacks with it seems to fill people's posture quicker.

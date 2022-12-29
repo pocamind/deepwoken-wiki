@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 44732
+revid: 44870
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -148,7 +148,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Dark Blue version of the Megalodaunt, they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md) and on [Aratel Island](Aratel_Island.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health.
+A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md) and on [Aratel Island](Aratel_Island.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet.
 
 ## **Attacks**
 
@@ -193,76 +193,6 @@ Roar
 -   Blocking negates much of but not all the insanity gain.
 
  | ✗ | ◯ | ◯ | (★★☆) |
-
--   Pyroclastic Roar
--   Finisher: Curb Stomp
-
-|image1=Red Sharko3.PNG |locations=\*[Songseeker Wilds](Songseeker_Wilds.md)  
-
--   Using [Megalodaunt Bait](Monster_Bait.md) (rarely)\*[hive](The_Hive.md)(rarely)
-
-|drops=\*[Megalodaunt Hide](Megalodaunt_Hide.md)  
-
--   [Mantra Modifiers](Mantra_Modifiers.md)  
-    
--   [Umbral Obsidian](Umbral_Obsidian.md)  
-    
--   [Megalodaunt Coat](Megalodaunt_Coat.md)  
-    
--   [First Light](First_Light.md)|health=3 000|caption1=Crimson Megalodaunt on the shores of Songseeker Wilds.}}
-
-## **Description**
-
-Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
-
-## **Attacks**
-
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| 
-Slash
-
- | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
-
--   Heavy posture damage.
--   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
-
- | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-Kick
-
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
-
--   Causes the player to be Dazed if kicked into a wall.
--   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
-
- | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-Jump
-
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after Kick. | ◯ | ◯ | ◯ | (★★☆) |
-| 
-
-Thousand Needles
-
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
-| 
-
-Roar
-
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
-
--   Blocking negates much of but not all the insanity gain.
-
- | ✗ | ◯ | ◯ | (★★☆) |
-| 
-
-Pyroclastic Roar
-
- | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire. | ◯ | ◯ | ◯ | (★☆☆) |
 
 **Mechalodaunt:**
 
@@ -330,7 +260,7 @@ Roar
 
 | Name | Description |
 | --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 | Incinceration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
 
 ## **Trivia**

@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 41834
+revid: 44826
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -36,6 +36,6 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   This used to have the most physical resistance in the game on release, with a whopping 40%. It did not have ether regen or blunt damage.
--   This was later nerfed to 35% but given 100% ether regen.
--   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
+    -   This was later nerfed to 35% but given 100% ether regen.
+    -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
     -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Fists.md) users.

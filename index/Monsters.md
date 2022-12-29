@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 44809
+revid: 44855
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -77,7 +77,7 @@ Exclusive to The Depths: Eternal Gale (Layer 2)
 
 **The Depths**
 
-**Scyzophobia (Layer 1):**
+**Scyphozia (Layer 1):**
 
 **Eternal Gale (Layer 2/F1):**
 

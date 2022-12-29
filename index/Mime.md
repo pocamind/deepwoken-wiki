@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 44743
+revid: 44841
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
@@ -27,23 +27,22 @@ File:Disguise.png
  | _"Take on an unimaginable disguise."_ | Turn into a barrel
 
   
-Sparks:
+Sparks: Reverse Spark: Statue Disguise
 
 Reverse Spark: Statue Disguise
 
 Reverse Spark + Tornado Spark : Gobletto Disguise
 
   
-Tornado Spark (?) :
+
+Tornado Spark  :
 
 Crate Disguise
 
   
 Blast Spark: Lantern Disguise
 
-Blask Spark + Reversal: Skull
-
-  
+Blast Spark + Reversal: Skull
 
 Blast Spark + Tornado
 

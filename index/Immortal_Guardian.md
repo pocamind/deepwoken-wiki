@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 44812
+revid: 44861
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
 
-An Immortal Guardian wears a unknown armors with their [race](Aspects.md) and gender being unknown.
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender.
 
 ## Moves
 
@@ -37,3 +37,4 @@ An Immortal Guardian executes the player after knocking them.
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
 -   The Immortal Guardian's helmet appears to resemble Bondrewd's helmet from the anime "Made in Abyss".
+-   The effect of [Mute](Regalia.md) applies onto all entities here.

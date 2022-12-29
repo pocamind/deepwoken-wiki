@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 44738
+revid: 44833
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -358,6 +358,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Mercille</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><a href="Bluster_Rift.md">Bluster Rift</a></td>
+  <td>Gives chest to those who give carriable loot sacks/bags</td>
+  <td></td>
   <td></td>
 </tr>
 </tbody>

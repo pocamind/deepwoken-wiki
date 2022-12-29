@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 44730
+revid: 44871
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,14 +79,14 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1 - 3 | Nothing (you are sent up without a fight) |
-| 4 - 6 | [Mudskipper Knight](Mudskipper.md) |
-| 7 - 9 | [Angel](Hollow_Angel.md) (Lesser) |
-| 10 - 12 | [Megalodaunt](Megalodaunt.md) |
-| 13 - 15 | [Nautilodaunt](Nautilodaunt.md) |
-| 16+ | [Enforcer](Enforcer.md) |
+| 1-9 | Nothing (you are sent up without a fight) |
+| 10-19 | [Mudskipper Knight](Mudskipper.md) |
+| 20-29 | [Angel](Hollow_Angel.md) (Lesser) |
+| 30-39 | [Megalodaunt](Megalodaunt.md) |
+| 40-49 | [Nautilodaunt](Nautilodaunt.md) |
+| 50+ | [Enforcer](Enforcer.md) |
 
-(There has been much confusion as to how this works; as of the moment with the recent power compression it is unclear what spawns what, but Nautilodaunts are confirmed to appear with high drowns. In addition, Power 4 sends one to the surface, and 15 tends to spawn a Megalodaunt.)
+(Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.

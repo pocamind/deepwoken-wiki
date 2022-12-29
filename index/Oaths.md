@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44823
+revid: 44863
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 35 (or lower) Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -344,9 +344,11 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 To obtain the mantras, you must kill the 3 Sinners spread around the Eastern Luminant. These will only appear if you have the quest active.
 
--   **Abaddon, Sinner of Ice,** at Starfield Veldt, across a bridge from Miner's Landing (Requires a glider to get there)
--   **???,** right next to the inn at Summer Isle
+-   **Abaddon, Sinner of Ice,** at Starfield Veldt.
+-   **Minos, Sinner of Flame,** right next to the inn at Summer Isle
 -   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
+
+You will get a mantra for each kill.
 
 ### Known Abilities
 
@@ -457,19 +459,23 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
-One speculated step to obtain this is through the assassination quests offered by Imel and Emel, likely requiring a certain amount of reputation or assassinations completed.
+Current method to obtaining contractor is not publicly known, all methods seen have been currently outed as lies or red herrings, even the one Tsumoe provided. It is to note that **arch confirmed you do not need puppet master for anything, the only use it provides is the info inside, the physical item is not required to obtain the oath**
 
--   The first person who obtained this oath has stated that anyone who wants this oath must crack into the lore books in order to find the obtainment method. [Could this be it?](<https://deepwoken.fandom.com/wiki/Books?so=search#Operation_'Puppet_Master'_Report>) ([It could also be this one, although it doesn't seem fully transcribed.](https://deepwoken.fandom.com/wiki/Books?so=search#Stars_Above,_and_the_Blade_between))
--   The stats are theroised to be, 20 shadowcast, 20 frostdraw and 50 intelligence. This is not yet confirmed.
+Anyone submitting methods should send Spade#8179 a clip or ss of their oath and I'll submit it here.
+
+**\*CAUTION AS THE FIRST PERSON WITH THE OATH MIGHT HAVE BEEN TROLLING**
 
 ### **Known Abilities**
 
--   **Judgement Day - Combat Mantra**
+-   **Judgement - Combat Mantra**
+    -   Summon a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target for a long time and auto-executes people at low hp. Can be parried, blocked, dodged, and bursting will remove the tendrils.
 
 -   **Equalizer - Combat Mantra**
+    -   Hit the target with a shadow tendril, then gain counter frames for a short duration. Being hit will stun the enemy by hanging them from tendrils for a period of time.
 
--   **Lords Slice - Combat Mantra**  
-    File:Contractor1.png
+-   **Lords Slice - Combat Mantra**
+    -   Requires the "Hidden Tendril" talent. Upon using, dash through the target, slicing them with tendrils. Comparable to grapple + owl slash from Rogue Lineage  
+        File:Contractor1.png
 
 ## Trivia
 
@@ -477,12 +483,17 @@ One speculated step to obtain this is through the assassination quests offered b
     
     Proof of Time magic's existence and it being 'oath magic'
     
--   StarKindred was leaked by NanoProdigy
+-   Starkindred was previously leaked by NanoProdigy.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and it's relation with song and wind.
+-   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Whether that will be added to the game or not is unknown.
 -   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
+-   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
+    -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in _Islam_.
+    -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
+    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the _Bible_ as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
