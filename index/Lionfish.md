@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 44773
+revid: 45181
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Lionfish
 
-“ This is the power of a released Espada... Cero Oscuras ”
+“ The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
 
-― A Lionfish before instakilling a freshspawn in the depths
+― LIONFISH SCALE DESCRPITON
 
 **Lionfish:**
 
@@ -114,3 +114,4 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 -   Seems to be based on the Underwater panther or ''_**[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)''**_ from Native American mythology (Or Arch got it off from ark's Shadowmane which is what I know the myth from). Considering that Deep's landscape seems to take inspiration from early American settlers (especially seen in the Summer Company's teritories) and Chinese/Japanese architecture in other areas this is possible.
 -   Also based on the actual Lionfish, a species of poisonous fish that can extend spines outward that resemble the mane of a lion.
 -   The Cero attack is inspired by the attack [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sfx and with the lionfish's pose before firing it resembling the [Menos Grande](https://bleach.fandom.com/wiki/Hollow#Gillian) that introduced the technique.
+-   Using the talent Everchanging Aegis, we know that the Cero of the Lionfish is [Galebreathe](Galebreathe.md).

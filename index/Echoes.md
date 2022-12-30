@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 45084
+revid: 45175
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -28,14 +28,14 @@ categories: [Echoes, Character, Mechanics]
 
 Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of echoes, and with a small number of exceptions, each Triumph can only be achieved once.
 
--   Gaining Power, awarding 1 Echo per [Power](Power.md) level.
+-   Gaining [Power](Power.md), awarding 1 Echo per Power level.
 -   Crafting a [Food](Food.md) item at a campfire, awarding 1 Echo.
 -   Catching a [Fish](Fishing.md), awarding 1 Echo.
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Using a Deep Shrine, awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
--   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes (Currently you only get credit for one unbounded [attribute](Attributes.md), could be bugged).
+-   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [Enchanted](Enchantments.md) item, awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 45006
+revid: 45162
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## Overview
 
-Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine bestows different deals in exchange for the client's knowledge.
+Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine bestows different deals in exchange for the client's [knowledge](Knowledge.md).
 
 ## Shrines
 

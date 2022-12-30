@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45136
+revid: 45173
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -330,13 +330,12 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Grip 1 person of any race. (Chime works)
-2.  Have 35 - 50 strength
-3.  Talk to Samael, located in the church above the Voidzone in Songseeker.
+1.  Have 50 Strength and grip one player.
+2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
-4.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
-5.  Return to Samael to get the Oath.
+3.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
@@ -358,7 +357,7 @@ You will get a mantra for each kill.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
 -   **Celestial Assault - Combat Mantra**
-    -   Use your wings and deliver two critical blows.
+    -   Deliver a vertical slash (that launch the user and target up) and an horizontal slash (that push the target).
 -   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
         -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hit.
@@ -378,7 +377,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
-1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
+1.  Have 20 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
@@ -486,7 +485,6 @@ Current method to obtaining contractor is not publicly known, all methods seen h
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
--   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.

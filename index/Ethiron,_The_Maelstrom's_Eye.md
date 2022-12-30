@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 44900
+revid: 45167
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -8,9 +8,9 @@ categories: [Drowned Gods]
 
 # Ethiron, The Maelstrom's Eye
 
-_This is the being worshipped by the inhabitants of Layer 2, for the boss of Layer 2 Floor 2, see [the Scion of Ethiron](Scion_of_Ethiron.md)._
+_This is the Drowned God, for the boss of Layer 2 Floor 2, see [the Scion of Ethiron](Scion_of_Ethiron.md)._
 
-**Ethiron, the Eye of Calamity,** is an unknown figure, who has multiple shrines dedicated to them in the Second Layer.
+**Ethiron, the Eye of Calamity,** is a Drowned God, who has multiple shrines dedicated to them in the Second Layer.
 
 ## Description
 

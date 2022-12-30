@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 43405
+revid: 45179
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Summit, Duke Chest, The Depths, ? |
+| obtainment | Saramaed Summit, Duke Chest, The Depths, Deep Widow Chest |
 | description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value an the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 ## Description

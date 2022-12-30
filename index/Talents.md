@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45086
+revid: 45178
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -72,7 +72,7 @@ File:Thresherquest1.png
 ### Tree-Felling blow
 
 -   Requires Strong left
--   Quest giver located at etris, they are the NPC that gives you a free lumber axe. Tell them about your wood.
+-   Quest giver located at Etris and The Isle Of Vigils they are the NPC that gives you a free lumber axe. Tell them about your wood.
 -   Punch down 5 trees then return
 
 ### Family Recipe
@@ -233,9 +233,14 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 ### Authority Interrogator
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
+    -   Prerequisites: Power 10, 65 Thundercall
+
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
-    -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
-    -   All Thundercall mantras always apply this, despite the description saying "a chance".
+    -   Prerequisites: Power 15, 65 Thundercall
+
+-   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
+-   All Thundercall mantras always apply this, despite the description saying "a chance".
+
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
@@ -250,7 +255,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-    -   Prerequisite: 90 Fortitude, 90 Willpower, Perseverance
+    -   Prerequisite: 100 Fortitude, 100 Willpower, Perseverance
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
@@ -328,7 +333,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 15 Intelligence
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 30 intelligence
--   Everchanging Aegis \[Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+-   Everchanging Aegis \[Legendary Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
     -   When hit by an elemental attack, gain a 20% damage resistance towards its respective element but take 10% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra. Getting hit by said Galebreath mantra will make you take 10% more damage from it but immediatly swap your resistance to Galebreath, reducing damage of other Galebreath mantras.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Red

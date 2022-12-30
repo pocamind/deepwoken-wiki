@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 44922
+revid: 45169
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -65,7 +65,6 @@ CONTAINS SPOILERS!!!
 
 ## Oaths
 
--   Stormbreaker is a reference to the weapon used by Thor from Marvel Comics.
 -   Arcwarder is a reference to the Iron Man suit from Marvel Comics.
 
 ## Enemies/Bosses
@@ -130,6 +129,12 @@ CONTAINS SPOILERS!!!
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
 -   **Darksteel Greatsword** is inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
+
+## Enchantments
+
+-   Stormbreaker is a reference to the weapon used by Thor from Marvel Comics.
+-   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_.
+-   Obfuscation and Heroism are references to Artoria Pendragon's Excalibur from the _Fate_ franchise.
 
 ## World
 

@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 42923
+revid: 45171
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -20,7 +20,7 @@ A Thief wears a [Headband](Outfits.md) and a [Shadow Hunter](Shadow_Hunter.md) o
 
 ## Moveset
 
-Their arsenal only consists of a [Gilded Knife](Gilded_Knife.md):
+Their arsenal only consists of a [Stiletto](Stiletto.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
