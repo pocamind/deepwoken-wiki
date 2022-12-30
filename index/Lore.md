@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44895
+revid: 45013
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -344,7 +344,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   The snow is not actually snow, but parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
 
-##### Kyrsa (Second Floor)
+##### New Kyrsa (Second Floor)
 
 -   Kyrsa is a civilization that sunk to the second layer.
 -   Its inhabitants are the Kyrsgarde.
@@ -681,6 +681,20 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
 
+### **Kyrsegarde**
+
+-   **Encountered In: Firfire, New Kyrsa**
+-   **Attunements: N/A**
+-   **Alliances: _???_**
+-   **Enemies: N/A**
+-   **Lore Sources:**
+
+-   A race of people that live within the Eternal Gale.
+-   They worship Ethiron, and have built a shrine on the first floor of the Eternal Gale.
+-   Over the course of their lives they add more words to their name.
+-   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
+-   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
+
 ## Race Lore
 
 For people who wish to see the races, head [here.](Aspects.md)
@@ -915,6 +929,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
+-   A form of Light magic can be used through the Dawnbreaker oath.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.

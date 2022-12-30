@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 44986
+revid: 45049
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -69,9 +69,9 @@ _Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other nam
 
 ## Description
 
-The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster. There is currently a quest in game in Starswept valley where you will be tasked with hunting a king thresher for its scales. Upon completing this quest you will permanently receive the thresher scales talent at level 5. This quest can be completed/recompleted to get a hand of cards if you already have the talent.
+The King Thresher is a much bigger and more powerful Thresher that spawns in the [Starswept Valley](The_Starswept_Valley.md), as well as [the Depths](The_Depths.md), along with two smaller Threshers. It drops a King Thresher Spine that can be used for crafting armour. There will usually be a chest reward after you kill this monster.
 
-  
+There is currently a quest in game in Starswept Valley where you are tasked with hunting a King Thresher for its scales. Upon completing this quest you will permanently receive the Thresher Scales talent at Power 5. This quest can be completed/recompleted to get a hand of cards if you already have the talent.
 
   
 
@@ -107,7 +107,7 @@ The King Thresher is a much bigger and more powerful Thresher that spawns in the
 
 # Nightmare Thresher
 
-_Also known as Radioactive Thresher, Weed Thresher, Meth Thresher, and Poison Thresher_ Template:Creature Info Box v2
+_Also known as Radioactive Thresher and Poison Thresher_ Template:Creature Info Box v2
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 44904
+revid: 45072
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
@@ -58,7 +58,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**The first instance of this does the most damage**_
 
- | ✗ | ✗ | ✗ | (☆☆☆) |
+ | ✗ | ✗ | ◯ | (☆☆☆) |
 | **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. | ◯ | ◯ | ◯ | (★★★) |
 
 \*While these moves can be parried and blocked, they still fling you.
@@ -117,7 +117,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 ### **Future encounter(s)**
 
-**(C)** - How strange. \[MORE DIALOGUE TO BE ADDED\]
+**(C)** - How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?
 
 **(1)** - Ethiron's Wake?
 

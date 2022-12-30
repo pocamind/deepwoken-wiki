@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 44894
+revid: 45006
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,9 @@ The Shrine of Blasphemy, Up-Front angle
 _Benefits/Penalties_
 
 -   **(BENEFIT)** _Instantly obtain 3 Power Levels, totaling 45 Attribute Points to spend_
--   **(PENALTY)** _Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge._
+-   **(PENALTY)** _Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level._
+
+_**IMPORTANT:**_ This shrine will force you to draw 3 power levels worth of cards _**before**_ you spend the 45 Attribute Points. This can potentially ruin builds if you need certain cards that require stats. Ensure you have the stats for the cards you want before using the shrine!
 
 _Pros/Cons_
 

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 44796
+revid: 45043
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -80,7 +80,7 @@ While inside a Voidzone:
 
 **Rewards:** TBD
 
-### **Saramaed Summit**
+### **[Saramaed Summit](Saramaed_Summit.md)**
 
 “ The air itself feels as if it were becoming ash. as the embers around you radiate heat. ”
 
@@ -91,7 +91,7 @@ While inside a Voidzone:
 
 **Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
-**Rewards:** TBD
+**Rewards:** Miner's Landing Loot Pool
 
 ### **[Valley of Heroes](The_Valley_of_Heroes.md)**
 
@@ -119,6 +119,26 @@ While inside a Voidzone:
 
 **Rewards:** TBD
 
+### **Starfield Grove**
+
+“ The beauty of the Valley, the Star Tree stands tall. ”
+
+― Starfield Grove's Flavour Text
+
+**Location:** Bluster Rift (Located between the 1st bridge and Lordsgrove Door; pathway of 3 Lifevents towards a cliff entrance), East Luminant
+
+**Dangers:** [Stone Knights](Stone_Knight.md)
+
+**Rewards:** Skyvalor Lotus
+
 ### **Deep Thresher Nest**
 
-**Location:** i dunno man but somewhere above lightkeeper
+“ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ”
+
+― Deep Thresher Nest's Flavour Text
+
+**Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant
+
+**Dangers:** [King Thresher](Thresher.md#king-thresher), [Thresher](Thresher.md)
+
+**Rewards: TBA**

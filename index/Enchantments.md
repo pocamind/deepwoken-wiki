@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 44660
+revid: 45069
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
--   You do not drop enchanted items on death.
+-   You do not drop enchanted items on death (this only applies **after** you soulbound the enchanted item/weapon).
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
@@ -191,7 +191,7 @@ There are three variants that enchantments come in:
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of Edenkite<div></div></font></center></td>
-  <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning</p></div></td>
+  <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning. This enchant only works on players and humanoid NPCs</p></div></td>
   <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 <tr>

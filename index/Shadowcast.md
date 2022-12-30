@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 43793
+revid: 45063
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -158,6 +158,12 @@ Shade Bringer
 It should be noted that you can combine 2 of these sparks together
 
  |
+|  | 
+
+Eclipse Kick  
+(★★★)
+
+ | Show your foes your strength. | The user does a downward kick after a short windup, causing nearby opponents to be ragdolled and flung back. Unblockable. |
 
 ### **Support**
 
@@ -398,6 +404,6 @@ File:Blackhole.png
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
     -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
--   Like [Galebreathe](Galebreathe.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
+-   Like [Galebreathe](Galebreathe.md) and [Frostdraw](Frostdraw.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
 
 -   Shadow has the least mantras out of all attunements.

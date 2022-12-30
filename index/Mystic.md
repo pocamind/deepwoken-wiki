@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 44985
+revid: 45042
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -25,42 +25,76 @@ Mystic is a Chrysid NPC that appears in multiple locations around the map. For 2
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from. Here are but a few of the possible prompts:
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Here are but a few of the possible prompts:
 
--   _Uh..._
--   _I get my way._ **(vow of mastery?)**
--   _I seek for the qualities of the Nimble Blade._
--   _I fight for Master Reste._
--   _I once performed in a Circus.**(Acrobat?)**_
--   _I am ruthless. A knife for hire._
--   _I wish to escape._
--   _Water is my home._
--   _I skulk in alleyways, looking for my next prize._ **(Acrobat, Alley Cat, Assassin and Butterfly Trees)**
--   _I scale the tallest peaks._
--   _Light on my feet, I sting like a bee._
--   _I am athletic._ **(Athlete)**
--   _I want to WIN._
--   _I search for the Song._
--   _I steal from people._ **(Thief)**
--   _I sabotage others._ **(Saboteur)**
--   _I seek the Qualities of Natural Armor._ **(Natural Armor)**
--   _I seek out Amorus Pleeksty_
--   _I am a competent duelist._ **(Duelist)**
--   _I Am an everlasting bastion._ **(Bastion)**
--   _In nature, I am at home._ **(Exoskeleton)**
--   _I burn so that I may succeed._ **(Immolator Tree; Phoenix Flames, Agitating Spark, Immolator)**
--   _My hunt is inescapable._
--   _My flames wrap my fists._
--   _I prefer to attack unseen._ **(Assassin)**
--   _I fight for the Legion._ **(Legion Shock Trooper)**
--   _I go beyond my limits._ **(Limitbreaker)**
--   _I speak to the Winds._ **(Aeromancer)**
--   _I am a Master of the Winds._ **(Galebreather, Galeforce, Cloudwalker, Silencer and Whisper Trees)**
--   _I stand far above others, an insurmountable challenge._
--   _I am a Master of all Weapons._ **(Weapon Master)**
--   _I often attack others._
--   _I feed on the souls of my enemies._ **(Carnivore?)**
--   I create my own vows
+-   _I once performed in a circus. **(Acrobat)**_
+-   _I think before I fight. **(Adept Caster)**_
+-   _I survive from the teachings of Master Stratos. **(Aeromancer)**_
+-   _I enjoy mixing potions. **(Alchemist)**_
+-   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
+-   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh)**_
+-   _My hunt is inescapable. **(Apex Predator; Carnivore, Grand Feast)**_
+-   _I prefer to attack unseen. **(Assassin)**_
+-   _I am athletic. **(Athlete; Triathlete, Pitcher)**_
+-   _I work for the Authority. **(Authority Interrogator)**_
+-   _I am an everlasting bastion. **(Bastion)**_
+-   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
+-   _Light on my feet, I sting like a bee. **(Butterfly)**_
+-   _I use the song to charm others. **(Charm Caster)**_
+-   _I have never lost. **(Champion)**_
+-   _I command the cold. **(Cryomancer)**_
+-   _My ice protects like a flower growing thorns. **(Cryoni)**_
+-   _I am ruthless. A knife for hire. **(Cutthroat)**_
+-   _I am a competent duelist. **(Duelist)**_
+-   _I wish to escape. **(Escape Artist; Robber Baron)**_
+-   _I am an expert on ether. **(Ether Adept)**_
+-   _In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
+-   _I dance with the flames. **(Flame Dancer)**_
+-   _I speak to the flames. **(Flamecharmer)**_
+-   _My flames wrap my fists. **(Flame Warden)**_
+-   _I speak to the frost. **(Frostdrawer)**_
+-   _Those that step on my ice know they have made a grave error. **(Frozen Warrior; Frozen Legs)**_
+-   _I speak to the winds. **(Galebreather)**_
+-   _I use the winds to enforce my will. **(Galeforce)**_
+-   _I would see this world freeze. **(Ice Age)**_
+-   _None will escape my flames. **(Inferno)**_
+-   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
+-   _I seek the path of the Serpent. **(Lava Serpent)**_
+-   _I am a master of the spear. **(Lancer)**_
+-   _I seek the qualities of Leader. **(Leader; Callout)**_
+-   _I fight for the Legion. **(Legion Shock Trooper)**_
+-   _I will save my people. **(Liberator; Savior)**_
+-   _I go beyond my limits. **(Limitbreaker)**_
+-   _I often attack others. **(Marauder)**_
+-   _My mind is indomitable. **(Mental Fortress)**_
+-   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper)**_
+-   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_
+-   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
+-   _I seek the qualities of Nimble Blade. **(Nimble Blade; Fast Blade, Lightspeed Reflexes)**_
+-   _I am all knowing. **(Omniscient; All knowing, Successive Prediction)**_
+-   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
+-   _I stand far above others, an insurmountable challenge. **(Raging Bull)**_
+-   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
+-   _I sabotage others. **(Saboteur)**_
+-   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
+-   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
+-   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
+-   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
+-   _I weave webs of lightning. **(Static Weaver)**_
+-   _My will stands strong. **(Sturdy Resolve)**_
+-   _I speak to the shadows. **(Shadowcaster)**_
+-   _I repair ships. **(Shipwright; Spare Nails, Emergency Repairs)**_
+-   _I am a master of the winds. **(Silencer)**_
+-   _My unholy blade works for no man. **(The Demon Blade)**_
+-   _I steal from others. **(Thief)**_
+-   _I speak to lightning. **(Thundercaller)**_
+-   _I create my own vows. **(Vow of Mastery)**_
+-   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)**_
+-   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
+-   _I am a master of all weapons. **(Weapon Master)**_
+-   _Uh... **(Miscellaneous)**_
+-   _I do not need a weapon. **(No weapon talents?)**_
+-   _I will not fall to the elements. **(No elemental talents?)**_
 
 ## Locations
 

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 44245
+revid: 45003
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -75,7 +75,7 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained by looking for [Cestis](Cestis.md) at [Meteor Isle](Meteor_Isle.md).
+Murmur: Tacet can be obtained by looking for [Cestis](Cestis.md) in a isolated tent near [Meteor Isle](Meteor_Isle.md). You need negative reputation with Etris.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 

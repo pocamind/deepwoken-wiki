@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 44941
+revid: 45064
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -35,7 +35,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 50 Strength, One Player Grip |
+| oath_req | 50 Strength |
 | effects | +2 Combat Mantra, +8 Health |
 
 | Oath: Arcwarder | |
@@ -330,7 +330,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 strength and grip one player of your race, any level.
+1.  Have 50 strength
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
@@ -484,7 +484,7 @@ Current method to obtaining contractor is not publicly known, all methods seen h
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
--   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Whether that will be added to the game or not is unknown.
+-   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
 -   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.

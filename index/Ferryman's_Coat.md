@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 40461
+revid: 44991
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items]
@@ -16,7 +16,7 @@ Template:ArmorInfobox **Ferryman's Coat** is a Unique [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires five (5) Cloth and Fiber and ten (10) Vibrant Gems.
 
-This Outfit requires [Power Level](Talents.md) 25.
+This Outfit requires [Power Level](Talents.md) 10.
 
 ### _Armor Stats_
 

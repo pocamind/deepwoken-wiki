@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 44543
+revid: 45015
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -30,7 +30,7 @@ notices:
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
     -   Replaced with Advanced Cards in the 12/23/22 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 
--   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. Some would be lost upon picking a Rare or Legendary Talent.
+-   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 43%.
     -   Replaced by Knowledge in the 12/23/22 Verse 2 Update.
 
 ## Mantras
@@ -51,6 +51,7 @@ notices:
     -   This talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 -   **Adept \[ Legendary Talent\] -** Taking this Talent will make it easier to progress.
+-   All Aerial Talents were removed and instead became a part of base combat
 -   **Aerial Kick \[Common Priority Talent\] -** \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
 -   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
