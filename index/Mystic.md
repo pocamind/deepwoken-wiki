@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 45042
+revid: 45103
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -42,6 +42,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _Light on my feet, I sting like a bee. **(Butterfly)**_
 -   _I use the song to charm others. **(Charm Caster)**_
 -   _I have never lost. **(Champion)**_
+-   _I walk the skies. **(Cloudwalker; Gale Leap)**_
 -   _I command the cold. **(Cryomancer)**_
 -   _My ice protects like a flower growing thorns. **(Cryoni)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_
@@ -81,6 +82,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
 -   _I weave webs of lightning. **(Static Weaver)**_
+-   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
 -   _I speak to the shadows. **(Shadowcaster)**_
 -   _I repair ships. **(Shipwright; Spare Nails, Emergency Repairs)**_
@@ -88,13 +90,16 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My unholy blade works for no man. **(The Demon Blade)**_
 -   _I steal from others. **(Thief)**_
 -   _I speak to lightning. **(Thundercaller)**_
+-   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _I create my own vows. **(Vow of Mastery)**_
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
 -   _I am a master of all weapons. **(Weapon Master)**_
+-   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
+-   _I seek to silence the song. **(World Without Song)**_
 -   _Uh... **(Miscellaneous)**_
 -   _I do not need a weapon. **(No weapon talents?)**_
--   _I will not fall to the elements. **(No elemental talents?)**_
+-   _I will not fall to the elements. **(Return to the dark ages?)**_
 
 ## Locations
 

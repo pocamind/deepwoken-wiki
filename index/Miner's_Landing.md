@@ -1,46 +1,69 @@
 ---
 title: "Miner's Landing"
-revid: 44614
+revid: 45123
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World]
+categories: [World, Locations]
 ---
 
 # Miner's Landing
 
 LocationL Miner's Landing LocationR
 
-TERRITORY OF Ignition Union
+TERRITORY OF The Ignition Union
 
-The pride and efforts of the Union have culiminated in this research base.
+The pride and efforts of the Union have culminated in this research base.
 
   
-Template:AreainfoboxMiner's Landing is a new island that came with Deepwoken's Verse 2 update. It brought a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the Mechalodaunt.
+Template:Areainfobox
 
-## Contents
+**Miner's Landing** is a location introduced _Deepwoken's_ Verse 2 update. It is located in the East Luminant.
 
-The areas on Miner's Landing can be identified as is: Docks, Town, Upper Landing, and Saramaed Summit.
+## Overview
 
-### Quests
+Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway. It introduced a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Mechalodaunt](Megalodaunt.md#mechalodaunt).
 
-#### Orion Quest
-
--   Speak to Orion, a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oaths.md).
--   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Voidzones.md) Voidzone.
--   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
+It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md).
 
 ## Docks
 
-The Docks is what greets you after the highway. It has a guard and the shipwright.
+The Docks is what greets you after the highway. It has a guard and a shipwright.
 
-  
+To the right of the Docks, the NPC for the [Oathless](Oaths.md#oath-oathless) quest is in a cave.
 
-  
+Miner's Landing's Docks.
 
 ## **Town**
 
-The town is one of the main parts of Miner's Landing. No monsters or enemy factions spawn in the town. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. The inner-mountain part of the town contains a few NPCs that give quests, and Delta who gives the Arcwarder oath. Taking an elevator up, you find Calypso. Moving up from this part marks your arrival into the Upper Landing.
+The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town.
+
+Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder Oath](Oaths.md#oatharcwarder). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
 ## **Upper Landing**
 
-High above the mountains of Miner's Landing is the upper parts. Here, a boiler room (going to sleep as of now will work on it when i wake up. if anyone sees this while its here and wants to work on it, please do. sorry if this wiki page is shit, its my first time making one.)
+High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one [Mechalodaunt](Megalodaunt.md#mechalodaunt).
+
+## **Boiler Room**
+
+The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two Mechalodaunts, one located to the right of the entrance, and the other located to the behind vault door, to the left and up a slope.
+
+The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the right hallway past the vault door, down a slope and in a room with an NPC.
+
+## **Saramaed Summit**
+
+_Main page: [Saramaed Summit](Saramaed_Summit.md)_
+
+  
+
+## **Quests**
+
+#### Orion Quest
+
+-   Speak to Orion, a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oaths.md#oatharcwarder).
+-   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md#mechalodaunt)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
+-   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
+
+## '_Notes & Trivia_
+
+-   Miner's Landing has many chests containing loot in various, unexpected areas.
+-   More trivia to be added

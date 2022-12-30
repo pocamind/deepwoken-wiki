@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 45051
+revid: 45080
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -37,7 +37,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Some weapons, such as greatswords, require a Strength requirement to wield.
 -   Unlocks strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
 -   Gain strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking past the hidden door, climbing under the coffin, and reading the book on the floor
+-   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and breaking the coffin lid.
 
 ### Fortitude
 

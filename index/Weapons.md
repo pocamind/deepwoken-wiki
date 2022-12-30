@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 44918
+revid: 45137
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1365,13 +1365,13 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></td>
-  <td>100 HVY, 40 STR</td>
+  <td>100 HVY, 60 STR</td>
   <td>30</td>
   <td>5%</td>
   <td>HVY: 11</td>
   <td>8</td>
   <td>10</td>
-  <td>0.5x</td>
+  <td>0.45x</td>
   <td>N/A</td>
 </tr>
 </tbody>
@@ -1619,7 +1619,7 @@ D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u
 _[New damage calculator (non-legendary & legendary weapons, scaling rings)](https://www.desmos.com/calculator/bryhjjt6y8)_  
 [_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)  
 _[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_  
-_[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/cbapdjezxg?lang=en) (Verse 2 compatible)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en)_
+_[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/lq0vvmous8?lang=en) (Verse 2 compatible)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en)_
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (the higher the stat, the quicker the attack). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.
 

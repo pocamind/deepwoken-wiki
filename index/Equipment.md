@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 44505
+revid: 45133
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1629,9 +1629,9 @@ Poser's Ring
 
  | 
 
-Damage done with a Katana isn't received until the user sheathes their weapon.
+Damage done with a Katana isn't received until the user sheathes their weapon\*. Applies damage falloff to your M1s, meaning they deal less damage with each hit until the katana is sheathed.
 
-(Makes your M1s with a Katana deal no damage, stacking all of it until you put away your weapon.)
+(\*Makes your M1s with a Katana deal no damage, stacking all of it until you put away your weapon.)
 
  | Quest started at Zana, located at Vigils Docks |
 

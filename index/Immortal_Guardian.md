@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 44997
+revid: 45126
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -25,13 +25,20 @@ An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md)
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★★☆) |
 | Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
 
-## Finisher
+### Finisher
 
 An Immortal Guardian executes the player after knocking them.
 
 | Name | Description |
 | --- | --- |
 | Execute | TBA |
+
+  
+
+## Notes/Tips
+
+-   Immortal Guardians are rather tanky.
+-   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 45038
+revid: 45081
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]

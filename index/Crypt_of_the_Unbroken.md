@@ -1,24 +1,18 @@
 ---
 title: Crypt of the Unbroken
-revid: 44729
+revid: 45120
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, World, Voidzones]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Crypt of the Unbroken
 
-LocationL Crypt of the Unbroken LocationR
+Template:Location2
 
-"The dimly lit halls echo with voices of those who once walked."
-
-  
-
-File:Crypt of the unbroken entrance.png
-
-Crypt of the Unbroken.
+Template:Areainfobox
 
 The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found in the Etrean Luminant.
 
@@ -34,7 +28,7 @@ File:Crypt entity.png
 
 Entity in the crypt.
 
-At the end of a hall in the crypt, there is an entity sitting on a pedestal against the wall. It allows you to trade a mantra you have in exchange for one you have the requirements for
+At the end of a hall in the crypt, there is an entity sitting on a pedestal against the wall. It allows you to trade a Mantra you have in exchange for one you have the requirements for.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45064
+revid: 45136
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 20 [or lower] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -330,12 +330,13 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 strength
-2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
+1.  Grip 1 person of any race. (Chime works)
+2.  Have 35 - 50 strength
+3.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
-3.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
-4.  Return to Samael to get the Oath.
+4.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+5.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 

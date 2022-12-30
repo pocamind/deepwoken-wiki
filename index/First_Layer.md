@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 44871
+revid: 45138
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -69,7 +69,7 @@ The method **requires no encounters with Watchers.**
 
 ## **Layer 1: The Trial**
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 60 player and two power 40 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
@@ -79,12 +79,12 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (you are sent up without a fight) |
-| 10-19 | [Mudskipper Knight](Mudskipper.md) |
-| 20-29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30-39 | [Megalodaunt](Megalodaunt.md) |
-| 40-49 | [Nautilodaunt](Nautilodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
+| 1-3 | Nothing (you are sent up without a fight) |
+| 4-6 | [Mudskipper Knight](Mudskipper.md) |
+| 7-9 | [Angel](Hollow_Angel.md) (Lesser) |
+| 10-13 | [Megalodaunt](Megalodaunt.md) |
+| 14-16 | [Nautilodaunt](Nautilodaunt.md) |
+| 17+ | [Enforcer](Enforcer.md) |
 
 (Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 

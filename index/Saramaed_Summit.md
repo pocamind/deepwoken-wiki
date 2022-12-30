@@ -1,9 +1,9 @@
 ---
 title: Saramaed Summit
-revid: 45026
+revid: 45121
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Voidzones]
+categories: [In progress without reason, InProgressPages, Locations, Voidzones]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -12,13 +12,11 @@ notices:
 
 LocationL Saramaed Summit LocationR
 
-The air itself feels as if it were becoming ash. as the embers around you radiate heat.
+The air itself feels as if it were becoming ash, as the embers around you radiate heat.
 
   
 
-File:Saramaed summit.png
-
-Saramaed Summit.
+Template:Areainfobox
 
 **Saramaed Summit** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
 
@@ -35,12 +33,17 @@ Saramaed Summit is a **Voidzone**, meaning you will be sent to [The Depths](The_
 -   [Mechalodaunt](Megalodaunt.md#mechalodaunt)
 -   [Summer Company Guard](Summer_Company_Guard.md)
 
+## Harvestables
+
+-   [Brilliant Lotus](Ingredients.md#lotuses)
+-   [Hellfire Lotus](Ingredients.md#lotuses)
+
 ## Loot Table
 
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
 | 
--   TBA
+-   [Summer Dragoon](Summer_Dragoon.md)
 
  | 
 
@@ -65,10 +68,12 @@ Saramaed Summit is a **Voidzone**, meaning you will be sent to [The Depths](The_
  | 
 
 -   Platinum Bar
+-   Brilliant Lotus
+-   Hellfire Lotus
 -   TBA
 
  |
 
 ## Notes & Trivia
 
--   More Trivia to be added
+-   This area has multiple Union Hooks to be used as shortcuts.

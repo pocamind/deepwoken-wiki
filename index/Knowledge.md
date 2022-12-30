@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 44880
+revid: 45135
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -33,11 +33,11 @@ It is treated as a currency like notes, but is obtained in a different way.
     -   Think carefully before using this shrine.
 -   _Shrine of Chance_
     -   Allows you to exchange one talent card for another random one of equal rarity that you meet the requirements for for 5 knowledge points.
--   _Shrine of Temptation_
+-   _Shrine of Blasphemy_
     -   Allows you to instantly gain 3 levels of power for 5 knowledge as well as getting a random flaw that you have unlocked.
     -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine.
     -   Think carefully before using this shrine.
--   _Shrine of Blasphemy_
+-   _Shrine of Temptation_
     -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for for 5 knowledge points.
     -   (unsure if rolled mantras are of the same star tier as the re-rolled one)
 
@@ -46,8 +46,8 @@ It is treated as a currency like notes, but is obtained in a different way.
 -   The Shrine of Mastery is located in Starswept Valley, Widow's Hollow
 -   The Shrine of Order is located in Songseeker Islands, Miner's Cave
 -   The Shrine of Chance is located in Fort Merit
--   The Shrine of Temptation is located in Lower Erisia, Hidden Village
--   The Shrine of Blasphemy is located in Minityrsa, Crypt of the Unbroken
+-   The Shrine of Temptation is located in Minityrsa, Crypt of the Unbroken
+-   The Shrine of Blasphemy is located in Lower Erisia, Hidden Village
 
 ## Effects of Knowledge
 

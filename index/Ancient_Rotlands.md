@@ -1,20 +1,16 @@
 ---
 title: Ancient Rotlands
-revid: 44635
+revid: 45124
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, Voidzones]
+categories: [Stub pages without reason, StubPages, Locations, Voidzones]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Ancient Rotlands
 
-LocationL Ancient Rotlands LocationR
-
-The scent of decay suffocates this murky land, once the home of a fallen Celestial.
-
-  
+Template:Location2
 
 The **Ancient Rotlands** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found in the East Luminant.
 
@@ -32,5 +28,5 @@ The Ancient Rotlands are a **Voidzone**, meaning you will be sent to [The Depths
 
 ## Harvestables
 
--   Zephyr Lotus
--   Miasmic Lotus
+-   [Zephyr Lotus](Ingredients.md#lotuses)
+-   [Miasmic Lotus](Ingredients.md#lotuses)
