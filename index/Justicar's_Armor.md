@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 44826
+revid: 44976
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -16,7 +16,7 @@ Template:ArmorInfoboxJusticar's Armor is a Master [Outfit](Outfits.md) in _Deepw
 
 This Outfit costs and requires five (5) Cloth, five (5) Fiber, one (1) Wayward Gem, five (5) Gale Stone, four (4) Thresher Spine and one (1) Dark Feather.
 
-This Outfit requires [Power Level](Talents.md) 45.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 

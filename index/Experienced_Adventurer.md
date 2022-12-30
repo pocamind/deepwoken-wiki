@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 41280
+revid: 44959
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Experienced Adventurer** is an Adept [Outfit](Outfits.md)
 
 This Outfit requires three (3) Cloth and Fiber, and two (2) pieces of Irithine. It costs to finish crafting.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### Effects
 

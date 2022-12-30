@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 44636
+revid: 44895
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -36,7 +36,8 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
     -   Talismans are hung up around the throne, presumably to 'contain' this power. It is theorized if the Lord Regent were to ever leave from his containment, he could prematurely start a Great Drowning, killing himself and potentially the entire world.
     -   The Lord Regent is not in any way a Krulian, he is something far stranger and more terrible.
--   Based on Jericho's Journal, Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
+    -   After shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ Breaking the veil also caused the guard's eyes to explode.
+-   Based on Jericho's Journal, the Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
 -   The Lord Regent's newfound power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
@@ -545,6 +546,7 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
     -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
+-   Their Inquisitors use a mental veil to protect them from attacks against the mind.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
 -   Racist.
@@ -693,7 +695,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 -   Inspired by East Asian cultures:
     -   White snakes play a part in Chinese mythology.
     -   Their architecture consists of gates, temples and lanterns often seen from Chinese and Japanese countries.
-    -   Snakes are known for having thin eyes, with some people describing people of East Asian dessent the same way.
+    -   Snakes are known for having thin eyes, with some people describing people of East Asian descent the same way.
 
 ### Celtor
 
@@ -1139,9 +1141,12 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Ocean levels rise.
 -   Adrets begin their migration.
 -   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die out, with no way back.
--   The King of Etrea vanishes on a journey into the Voidsea.
--   The Lord Regent takes the throne and installs mental barriers into his people.  
-    
+-   The Southern Luminant is rendered completely inhospitable.
+-   The Central Authority becomes an established superpower.
+-   The 5th King of Etrea vanishes on a journey into the Voidsea.
+-   The Lord Regent takes the throne and installs mental barriers into his people.
+-   Etris' Official History Office is decommissioned.
+-   The Hive and Etrea go to war.
 
 ## Deepwoken: 1271-1363
 
@@ -1284,13 +1289,13 @@ Though technically a blank slate of varying races and abilities, even the player
 -   Every Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, learned through various means.
     -   In the Castaway Origin, they learned this with the training of their captain.
     -   In the Depthsbound Origin, they presumably went through standard diver training.
-    -   In the Voidwalker Origin, they were presumable trained by the Knives of Eylis.
--   The description of Erisor's church implies that the Player has either been to Erisia before or knew of a figure named "Erisor."
+    -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
+-   The description of Erisor's church implies that the Player knew of a figure named "Erisor."
 
 ### Castaway
 
+-   The Player in the Castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
--   The Player in the castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 
 ### Character Deaths
 
@@ -1316,18 +1321,28 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Animals**
 
--   The Deepwoken world was once home to many of the animals seen in the real world, but all have dissapeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
+-   The Deepwoken world was once home to many of the animals seen in the real world, but all have disappeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
     -   Many animals share traits with the races seen in the game.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
-        -   _The Tail of Cyryyn_ features birds heavily.
+        -   _The Lament of Cyryyn_ features birds heavily.
     -   Fish are the only animals that can be actively seen and interacted with
-        -   The know fish species include:
+        -   The known fish species include:
         -   At least three types of swordfish
         -   Sea bass
         -   Red snappers
         -   Tuna
+        -   Pufferfish
         -   Possibly more
     -   Lionfish have been a major cause for the extinction of many sea predators.
+
+### **Mental Veils**
+
+-   An ability that installs a wall in the mind.
+-   These can either be used to protect the user from mental attacks, or can be used the opposite way, supressing memories and creating false truths in the users mind.
+-   The protective kind used by Authority Inquisitors are administered by a single handler and require intense concentration to keep active. Meanwhile the one the Lord Regent used on the Etreans was used on the entire city, which was noted to be impossible.
+-   The Lord Regent's veil has one glaring weakness, that being that if someone affected by it is asked information about the Lord Regent, then forgets their answer, such as through being administered an amnesiac, and is asked again, their answer will be different.
+-   Administering enough Thundercall to the mind of someone who has one can break them.
+    -   In the case of _'Operation Puppet\_Master,'_ the individual who had their mental veil broken died due to their eyes exploding, though this may only be due to the nature of the Lord Regent's veil specifically.
 
 ### **Language**
 

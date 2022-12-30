@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 44875
+revid: 44910
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 “ Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin' ya. Some spots are bad for fishing, and you can put a bait on your line to get better fish interested. ”
 
-― Argo
+― Argo (the lying bastard)
 
 **Fishing** is a mechanic that allows you to obtain seafood and various valuables using a Fishing Rod.
 
@@ -41,10 +41,10 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather Boots)
--   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
+-   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 to minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
 -   Golden/Enchanted Fish: Gives 1 knowledge point.
 
-Everything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
+Everything you can get from fishing has its own chat bubble pop-up, as a reaction of your character.
 
 -   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
 -   If you fish a Red Snapper: "A Red Snapper! Quite the sailor's mouth on this one..."
@@ -65,7 +65,7 @@ Gallery of Fish:
 
 ## **Talents**
 
-There are currently three Talents related to fishing, each automatically obtained after reaching certain milestones. "Proficient baiting" is unlocked at 10 "Catches", "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively. (Note: You don't need to actually catch the fish for it to count towards the talent progress, you could lose the fish and still get the talent.)
+There are currently three Talents related to fishing, each automatically obtained after reaching certain milestones. "Proficient baiting" is unlocked at 10 bites, "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively.
 
 File:Fishing Talents.png
 
@@ -79,7 +79,7 @@ File:Fishing Talents.png
 
 ## **Bait**
 
-_**(Note: This sections needs more information and rewriting work.)**_
+_**(Note: This section needs more information and rewriting work.)**_
 
 A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
 
@@ -110,12 +110,12 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 ## **Trivia**
 
 -   Some spots won't let you fish.
--   Their is no height limit, you can fish from the top of cliff faces.
--   How good certain locations are for fishing is purely RNG, some people will get lucky, some will not.
+-   There is no height limit, you can fish from the top of cliff faces.
+-   How good certain locations are for fishing is purely RNG, some people will get lucky, and some will not.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
--   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with it's interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
+-   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
 -   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
--   Fishing will level your Strength, Fortitude, Intelligence and Willpower by default (Without you fishing up Golden Fishes.). \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
+-   Fishing will level your Strength, Fortitude, Intelligence, and Willpower by default. \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
 -   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

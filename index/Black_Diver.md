@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 44427
+revid: 44942
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15 and [Willpower](Attributes.md)
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemental resistance, +20% Lightning resistance, +20% Shadow resistance, +16 Sanity and +300% Ether Regen.
+This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemental resistance, +20% Lightning resistance, +20% Shadow resistance, +16 Sanity and +50% Ether Regen.
 
 ## Location
 

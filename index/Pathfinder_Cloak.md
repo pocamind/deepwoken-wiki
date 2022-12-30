@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 42553
+revid: 44963
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires four (4) Cloth and Fiber and six (6) pieces of Iron.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 

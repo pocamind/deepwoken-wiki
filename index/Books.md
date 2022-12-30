@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 44710
+revid: 44930
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -136,7 +136,27 @@ The impact of the flame knocked Ryrda away from his initial cover, setting it ab
 
 The Vesperian's heart began racing, as he soon realized that his odds of surviving were growing slimmer by the second. He dropped his bow in a panic, instead opting to sprint full speed away from the Tiran woman. His lungs screamed with each step as smoke clouded his head, every subsequent step of his sprint becoming more painful to take. Eventually, a burning tree's branch would break above him, crashing upon the man. Ryrda was unable to move, coughing violently as the burning log on top of him ensnared him within the chaos. The man's eyes widened in terror as he began to struggle, attempting with all his might to break free. But, he never could. His body was already too weak from the lack of air, exhausted further by his sprint. Ryrda looked up from his spot, seeing Fran stand over him. Her eyes still remained fierce, staring down without remorse. "I'll be seeing you, Ryrda," she muttered in disgust, raising a hand full of flame towards the man's mask. "You took her from me. I cannot stand to see you anymore."
 
-The night soon came to an end. The following day, the remains of the forest layed barren. Burnt, rotted trees weakly stand, most collapsed from the blaze. A sea of ash covered the burnt wasteland, a reminder of what once stood there. A Tiran woman could be seen walking away from the sight, with a letter in hand. Upon the parchment, the following words were written: "There was never a fire."
+The night soon came to an end. The following day, the remains of the forest layed barren. Burnt, rotted trees weakly stand, most collapsed from the blaze. A sea of ash covered the burnt wasteland, a reminder of what once stood there. A Tiran woman could be seen walking away from the sight, with a letter in hand. Upon the parchment, the following words were written:
+
+There was never a fire.
+
+There was a fire.
+
+There was never a fire.
+
+There was a fire.
+
+There was never a fire.
+
+There was a fire.
+
+There was never a fire.
+
+There was a fire.
+
+There was never a fire.
+
+There was a fire.
 
 ### **Lumen's Folklore: Volume 'Attunement'**
 
@@ -203,8 +223,6 @@ But, wisdom isn't what it seems. The devouring of the Drakeheart had not lead to
 Following this event, the rising tides became ever worse. Lumen had begun to sunder, and though countless people attempted to commune with the Edenkite for help, no such Edenkite came. The Elder Edenkite had vanished from their once-home, never to be seen again. Some believe they caused the tides as revenge for the loss of their kin, while others refuse this notion due to their consistent help. Tensions rose, and as the lands themselves began to break, the last pilgrims of North Lumen dispersed, returning to their homes, as the forgotten land of the Edenkite drifted north.
 
 Today, Scholars still debate on if the Edenkite exist. They ruminate on if they simply flead, or had gone extinct over the years of the tides. With the Voidsea continuing to grow, they've thus shifted their goals to preventing the spread of the Voidsea, for it is all hope they have left. The only records known to man of the Edenkite existence resides only within the archives of Markor, the sin sealed away, never to be seen by the common folk ever again.
-
-\*i theorize that this "lumen's folklore book" talks about 2 races that might not exist anymore and i believe that in the far future more references or things will be added.
 
 ### **Lament of Cirryn**
 

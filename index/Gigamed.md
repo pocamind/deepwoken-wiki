@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 43313
+revid: 44979
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,6 +53,6 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 
 -   Real Name: King Gigamed
 -   **Can be Corrupted**
-    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 30/35).
+    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.
 -   The corrupted versions are really just tanks, meaning you should have a shield with you when you are fighting one, to block its jellyfish summon

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 42003
+revid: 44944
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -392,6 +392,19 @@ Static Fakeout
 +1 Health
 
  | Thundercaller |
+|  | 
+
+Static Withdraw
+
+ | 
+
+When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them.
+
+ | 
+
+???
+
+ | Self-Shocker |
 
 ### **Passive**
 

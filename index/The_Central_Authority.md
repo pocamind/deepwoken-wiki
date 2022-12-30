@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 43735
+revid: 44882
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -25,8 +25,9 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 ## Gameplay
 
--   Their base of operations in the Etrean Luminant is [Fort Merit](Fort_Merit.md)
--   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md)
+-   Everyone starts out with lower reputation with them.
+-   Their base of operations in the Etrean Luminant is [Fort Merit](Fort_Merit.md).
+-   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
 
 ## Reputation
 

@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 44863
+revid: 44941
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
+categories: [Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 35 (or lower) Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 40 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -116,7 +116,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-To obtain the Blindseer Mantras, you need to help Pathfinder players (players with no Oath) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
+To obtain the Blindseer Mantras, you need to help Pathfinder players in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -148,17 +148,14 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player one Support Mantra slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
-This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cure the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
+This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 
-Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
-
-You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the attributes, and the item you want it to look like for the appearance.
+Having all the talents, the blindfold, and the oath, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
 ### Notes
 
 -   Other Clues...
     -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
-        -   _(Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)_
 
 ## **Oath: Visionshaper**
 
@@ -167,7 +164,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 ― Visionshaper Description
 
   
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath you need one Void Feather for each skill, Void Feather rarely dropped by Deep Owls but guaranteed to be dropped from its powerful corrupted version. This Oath is one of the Oaths with its own Mantras.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
 ### Obtainment
 
@@ -185,7 +182,7 @@ Visionshaper also has one talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
-    -   Duration scale with your progress in the Visionshaper Oath.
+    -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   While the clone deal fake damage, it still applies hit-stun.
@@ -206,23 +203,21 @@ Visionshaper also has one talents obtained via standard level up.
 
 -   **Mirage From the Deep - Passive**
     -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
-    -   The monster can be any of the Depths spawn, including but not limited to a [Nautilodaunt](Nautilodaunt.md) or an [Owl](Deep_Owl.md) for example.
-    -   The monster share the same "Only they and yourself can see it" rule as Illusionary Servants.
+    -   The monster can be any of the monsters that spawn in the Depths
 
 -   **Cheap Trick - Passive**
-    -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
+    -   When dropping below 50% health, turn invisible and summon an Illusionary Servant that follow the same rules as the active one summoned by the mantra **Illusory Servants**.
 
 The following talent is obtained by leveling up after obtaining and maxing out Visionshaper.
 
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
-    -   No (or very low) cooldown.
 
 ### Effects
 
 This Oath grants one Support Mantra slot and two Combat Mantra slots
 
-The oath changes the eye color of the user to purple, and creates a wispy ethereal particle effect which stems from the user's right eye.
+The oath changes the eye color of oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye.
 
 Does not grant any special cosmetic based on race.
 
@@ -250,13 +245,13 @@ Does not grant any special cosmetic based on race.
 ### **Known Abilities**
 
 -   **Entropy Link**
-    -   You are able to fast travel to certain places on the map when you are beside a camp-fire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage. (U NEED STARDUST FROM THE STARTREE AT HIVE IN ORDER TO TELEPORT)
+    -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
         -   Current known locations are...
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
             3.  Ceres (Near path to abandoned cabin under Etris)
-            4.  Europa, Minytrsa near Hero Valley/If u walk over the bridge and go forth a bit
-            5.  Pallas, Miners Landing at a Tiny Island infront of the Oathless trainer/ Near the Gate to Etrean Luminant
+            4.  Europa (Near the valley of Heros)
+            5.  Pallas (Infront of the Oathless trainer)
             6.  Fortuna (Above the Broken Church in Erisia)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
@@ -290,7 +285,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 1.  Have at least 50 Agility.
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
-3.  Beat Alirian in a race to a specific point that is marked with an yellow marker.
+3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating him then walking towards him counts as you losing so it's best to just wait until he stops at the marker as well.
 
@@ -312,7 +307,7 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and ask
 
 -   **Stratos Step - Passive**
     -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
-        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance, you will easily hurt yourself.
+        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself.
             -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
 -   **Decisive Winds - Passive**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
@@ -335,14 +330,14 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 strength and grip one player of any power level.
+1.  Have 50 strength and grip one player of your race, any level.
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
 3.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
 4.  Return to Samael to get the Oath.
 
-To obtain the mantras, you must kill the 3 Sinners spread around the Eastern Luminant. These will only appear if you have the quest active.
+To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
 -   **Abaddon, Sinner of Ice,** at Starfield Veldt.
 -   **Minos, Sinner of Flame,** right next to the inn at Summer Isle
@@ -378,16 +373,16 @@ This Oath grants two Combat Mantra slots and eight Health.
 ― Arcwarder Description
 
   
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 boss and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens (7 times in total) (One skill per run)
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens (7 times in total) (One skill per run)
 
 ### Obtainment
 
 1.  Have 40 Fortitude, 20 Flamecharm and 20 Thundercall.
 2.  Go to Layer 2 and Complete Alpha's quest
-    1.  Activate the Generator
+    1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
     3.  Retrieve injured Elphis **(option 2 when you talk to him)**
-    4.  Talk to Alpha again (You can skip the generator by just destroying the door frame with a move that destroys tiles and skip step 1 it is confirmed)
+    4.  Talk to Alpha again
 3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
@@ -395,7 +390,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   **Arc Suit - Wildcard Mantra**
     -   Encase the user in a durable armor that reduce damage taken by 20%.
 -   **Arc Beam - Combat Mantra**
+    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
 -   **Arc Wave - Combat Mantra**
+    -   Release a wave of energy around you, dealing fire and lightning damage.
 -   **Arc Module: Leap - Passive**
     -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
 -   **Arc Module: Guard - Passive**
@@ -440,7 +437,6 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
     -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 -   **Absolute Radiance - Passive**
     -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
-        -   You do not gain immunity to mantras, you gain immunity to their status effects. So you cannot be put on fire or be chilled for example.
 
 ### Effects
 
@@ -461,21 +457,20 @@ This Oath grants two Combat Mantra slots.
 
 Current method to obtaining contractor is not publicly known, all methods seen have been currently outed as lies or red herrings, even the one Tsumoe provided. It is to note that **arch confirmed you do not need puppet master for anything, the only use it provides is the info inside, the physical item is not required to obtain the oath**
 
-Anyone submitting methods should send Spade#8179 a clip or ss of their oath and I'll submit it here.
-
-**\*CAUTION AS THE FIRST PERSON WITH THE OATH MIGHT HAVE BEEN TROLLING**
-
 ### **Known Abilities**
 
--   **Judgement - Combat Mantra**
-    -   Summon a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target for a long time and auto-executes people at low hp. Can be parried, blocked, dodged, and bursting will remove the tendrils.
+-   **Hidden Tendril - Passive**
+    -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
 
--   **Equalizer - Combat Mantra**
-    -   Hit the target with a shadow tendril, then gain counter frames for a short duration. Being hit will stun the enemy by hanging them from tendrils for a period of time.
+-   **Judgement - Combat Mantra**
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned.
 
 -   **Lords Slice - Combat Mantra**
-    -   Requires the "Hidden Tendril" talent. Upon using, dash through the target, slicing them with tendrils. Comparable to grapple + owl slash from Rogue Lineage  
-        File:Contractor1.png
+    -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
+        -   Only usable if the User has the 'Hidden Tendril' Talent, and also has a Hidden Tendril active.
+
+-   **Equalizer - Combat Mantra**
+    -   Whips forward with a blue Tendril. If it connects, it deals Damage to the target, but also gives the User a blue aura. If the User is attacked while they have this blue aura, the attack will be ignored completely, and also stun the attacker for about 2 seconds. Unlike Judgement, the User is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
 
 ## Trivia
 
@@ -484,7 +479,7 @@ Anyone submitting methods should send Spade#8179 a clip or ss of their oath and 
     Proof of Time magic's existence and it being 'oath magic'
     
 -   Starkindred was previously leaked by NanoProdigy.
--   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
+-   Takers of the Blindseer oath can remove their blindfold and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
@@ -493,7 +488,8 @@ Anyone submitting methods should send Spade#8179 a clip or ss of their oath and 
 -   Arcwarder has similar movement abilities to Jetstriker, making Arcwarder seen as a direct upgrade by players but Jetstriker is still magnitudes easier to get than the other.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
-    -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in _Islam_.
+    -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
-    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the _Bible_ as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction? and an angel of the abyss? In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".

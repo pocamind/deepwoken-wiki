@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 41271
+revid: 44964
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Summer Company Uniform** is an Adept [Outfit](Outfits.md)
 
 This Outfit costs and requires five (5) Cloth and Fiber and ten (10) pieces of Iron.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 

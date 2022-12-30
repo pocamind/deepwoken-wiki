@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 44834
+revid: 44945
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Luck, Character, Ingredients, Mechanics]
@@ -48,3 +48,4 @@ A Celtor finding the pulsating rings.
 -   Before the loot was buffed, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed and [luck](Luck.md) now being granted, it's highly sought after again.
 -   Anyone standing near your whilst you turn in the Artifact will also receive exp.
 -   Dropping it in the ocean causes them to sink and be lost.
+-   The Banker refers to an artifact as "A Piece of the forge". This may be related to the "Forge of Sin" Lord Regent refers to.

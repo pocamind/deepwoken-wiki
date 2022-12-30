@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 41274
+revid: 44955
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _
 
 This Outfit costs and requires five (5) Cloth and Fiber, two (2) pieces of Gold and ten (10) pieces of Iron.
 
-This Outfit requires [Power Level](Power.md) 15 and [Fortitude](Attributes.md) 10.
+This Outfit requires [Power Level](Power.md) 5 and [Fortitude](Attributes.md) 10.
 
 ### _Armor Stats_
 

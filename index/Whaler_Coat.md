@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 41289
+revid: 44969
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Whaler Coat** is an Expert [Outfit](Outfits.md) in _Deepw
 
 This Outfit costs and requires five (5) Cloth and Fiber, two (2) pieces of Gold, ten (10) pieces of Iron and two (2) Lionfish Scales.
 
-This Outfit requires [Power Level](Power.md) 30.
+This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 

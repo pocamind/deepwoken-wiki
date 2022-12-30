@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 44540
+revid: 44966
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox The **Authority Captain Uniform** is an Expert [Outfit](Ou
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) Dark Feather and one (1) Lionfish Scale.
 
-This Outfit requires [Power Level](Power.md) 30 and 25 [Strength](Attributes.md).
+This Outfit requires [Power Level](Power.md) 10 and 25 [Strength](Attributes.md).
 
 ### _Armor Stats_
 

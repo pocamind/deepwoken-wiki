@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 44638
+revid: 44986
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -69,7 +69,7 @@ _Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other nam
 
 ## Description
 
-The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster.
+The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster. There is currently a quest in game in Starswept valley where you will be tasked with hunting a king thresher for its scales. Upon completing this quest you will permanently receive the thresher scales talent at level 5. This quest can be completed/recompleted to get a hand of cards if you already have the talent.
 
   
 
@@ -107,7 +107,7 @@ The King Thresher is a much bigger and more powerful Thresher that spawns in the
 
 # Nightmare Thresher
 
-_Also known as Radioactive Thresher, Weed Thresher and Meth Thresher_ Template:Creature Info Box v2
+_Also known as Radioactive Thresher, Weed Thresher, Meth Thresher, and Poison Thresher_ Template:Creature Info Box v2
 
 ## Description
 
@@ -117,8 +117,8 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 | --- | --- | --- | --- |
 | **Tail Swipe** | The Nightmare Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
 | **Burrow** | The Nightmare Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
-| **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. | ✗ | (?) |
-| **???** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. | ? | (?) |
+| **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack. | ◯ | (★☆☆) |
+| **Ram** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack. | ◯ | (★★☆) |
 
 ## Passives
 
@@ -126,9 +126,8 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 ## Tips
 
--   TBA
+-   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the voidzone where this lives you'll be instantly sent to the depths.
 
 ## Notes & Trivia
 
--   The ??? move needs to be named. Any new information is appreciated.
-    -   Along with that, the danger levels and whether you can parry ??? or not is currently undetermined. New information would be appreciated.
+-   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice

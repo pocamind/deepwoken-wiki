@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 44877
+revid: 44918
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1396,7 +1396,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Flame</a></td>
-  <td>75 FIR, LVL 35</td>
+  <td>75 FIR, LVL 10</td>
   <td>20</td>
   <td>10%</td>
   <td>FIR: 6.5</td>
@@ -1407,7 +1407,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Lightning</a></td>
-  <td>75 THD, LVL 35</td>
+  <td>75 THD, LVL 10</td>
   <td>20</td>
   <td>10%</td>
   <td>THD: 6.5</td>
@@ -1418,7 +1418,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Frost</a></td>
-  <td>75 ICE, LVL 35</td>
+  <td>75 ICE, LVL 10</td>
   <td>20</td>
   <td>10%</td>
   <td>ICE: 6.5</td>
@@ -1429,7 +1429,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Wind</a></td>
-  <td>75 WND, LVL 35</td>
+  <td>75 WND, LVL 10</td>
   <td>20</td>
   <td>10%</td>
   <td>WND: 6.5</td>
@@ -1440,7 +1440,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
-  <td>75 SDW, LVL 35</td>
+  <td>75 SDW, LVL 10</td>
   <td>20</td>
   <td>10%</td>
   <td>SHD: 6.5</td>
@@ -1451,7 +1451,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
-  <td>75 WND, 25 MED, LVL 30</td>
+  <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
   <td>15%</td>
   <td>MED: 5, WND: 4</td>
@@ -1462,7 +1462,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td>75 SDW, 40 HVY, LVL 30</td>
+  <td>75 SDW, 40 HVY, LVL 10</td>
   <td>22</td>
   <td>N/A</td>
   <td>SDW: 9 HVY: 4</td>
@@ -1473,7 +1473,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Gran_Sudaruska.md">Gran Sudaruska</a></td>
-  <td>75 ICE, 30 HVY, LVL 30</td>
+  <td>75 ICE, 30 HVY, LVL 10</td>
   <td>23.5</td>
   <td>N/A</td>
   <td>ICE: 10 HVY: 3</td>

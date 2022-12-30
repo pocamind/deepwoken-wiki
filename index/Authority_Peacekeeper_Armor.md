@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 41275
+revid: 44956
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Authority Peacekeeper Armour** is an Adept [Outfit](Outfi
 
 This Outfit costs and requires five (5) Cloth and Fiber and one (1) piece of Iron.
 
-This Outfit requires [Power Level](Power.md) 15 and [Fortitude](Attributes.md) 5.
+This Outfit requires [Power Level](Power.md) 5 and [Fortitude](Attributes.md) 5.
 
 ### _Armor Stats_
 

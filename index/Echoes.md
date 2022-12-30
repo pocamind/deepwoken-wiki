@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 44522
+revid: 44935
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -35,7 +35,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Using a Deep Shrine, awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
--   Unbounding an [Attributes](Attributes.md), awarding 5 Echoes per [Unbound](Attributes_Unbound.md).
+-   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes (Currently you only get credit for one unbounded [attribute](Attributes.md), could be bugged).
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [Enchanted](Enchantments.md) item, awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.

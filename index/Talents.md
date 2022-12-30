@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 44865
+revid: 44984
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -26,8 +26,8 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
     -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
--   Doing certain actions that may influence your rolls, such as [alchemy](Alchemy.md). ([fishing](Fishing.md) talents were reworked after fishing update .)
-    -   Making a lot of potions will include the Potion Quaffer Talent in your roll pool now.
+-   Doing certain actions that may influence your rolls, such as [alchemy](Alchemy.md).
+    -   drinking a lot of potions will include the Potion Quaffer Talent in your roll pool now.
 -   A high enough Power.
     -   For example: A lot of the "Marauder" Category Talents require a Power of 40, before you are able to obtain them, such as Thresher Claws.
 
@@ -271,21 +271,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
     -   Prerequisite: 20 Willpower.
 
-### Blindseer
-
-These are not talents but mantras exclusive for Blindseers. All Blindseer mantras gives insanity.
-
--   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
-    -   Absorbs insanity of other players and restores their health.
-    -   Prerequisite: Escape the depths with a player that is has no oath (does not mean [Oathless](Oaths.md)) once.
--   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
-    -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 5 times.
--   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
-    -   After a short wind-up, shoots a multi-hit laser beam from your eyes, if not blocked will do huge damage.
-    -   This mantra doesn't give posture damage.
-    -   Prerequisite: Escape the depths with a player that has no oath (does not mean [Oathless](Oaths.md)) 10 times.
-
 ### Brawler
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus. (+7 Health)
@@ -428,6 +413,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryoni
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
+    -   Prerequisite: Fragile Freeze
 -   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
     -   Prerequisite: Cryostasis
 -   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)

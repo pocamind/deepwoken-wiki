@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 41291
+revid: 44970
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Verdant Sniper** is an Expert [Outfit](Outfits.md) in _De
 
 This Outfit costs and requires ten (10) Cloth, two (2) Megalodaunt Hides and two (2) Vibrant Gems.
 
-This Outfit requires [Power Level](Power.md) 30.
+This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 

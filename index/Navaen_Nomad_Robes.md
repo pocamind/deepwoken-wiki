@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 41284
+revid: 44962
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Navaen Nomad Robes** is an Adept [Outfit](Outfits.md) in 
 
 This Outfit costs and requires five (5) Cloth and Fiber, eight (8) pieces of Erisore and two (2) Frigid Prisms.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 

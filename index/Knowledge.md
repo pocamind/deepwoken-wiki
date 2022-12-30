@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 44435
+revid: 44880
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -16,7 +16,7 @@ File:Knowledge.png
 
 Knowledge is shown at the bottom right of the screen, above your notes.
 
-It is treated as a currency like notes~, but unlike them, it is non-renewable.~ See "Obtainment"
+It is treated as a currency like notes, but is obtained in a different way.
 
 ## Obtainment
 

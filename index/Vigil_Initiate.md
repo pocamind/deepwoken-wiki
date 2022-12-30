@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 41270
+revid: 44965
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Vigil Initiate** or Wandering Swordsman is an Adept [Outf
 
 This Outfit has no cost and requires five (5) Cloth and Fiber and four (4) pieces of Iron.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 

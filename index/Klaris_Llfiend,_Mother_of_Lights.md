@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 44129
+revid: 44951
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,3 +29,5 @@ _After handing in all Diver Journals to her:_
 ## Trivia
 
 -   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from her.
+-   She is the inventor of radiant magic a oath that gives magic that is very similar to Lightkeeping
+-   She is the only existing female black diver in the game

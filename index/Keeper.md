@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 41282
+revid: 44961
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Keeper** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 This Outfit costs and requires three (3) Cloth and Fiber and one (1) piece of Iron.
 
-This Outfit requires [Power Level](Talents.md) 15 and [Intelligence](Attributes.md) 10.
+This Outfit requires [Power Level](Talents.md) 5 and [Intelligence](Attributes.md) 10.
 
 ### _Armor Stats_
 

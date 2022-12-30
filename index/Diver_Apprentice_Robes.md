@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 41278
+revid: 44957
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Diver Apprentice** is an Adept [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires four (4) Cloth and Fiber and three (3) Crystal Lens.
 
-This Outfit requires [Power Level](Power.md) 15 and [Intelligence](Attributes.md) 10.
+This Outfit requires [Power Level](Power.md) 5 and [Intelligence](Attributes.md) 10.
 
 Alternatively, using the [Deepbound Origin](Origins.md) will grant it for free.
 

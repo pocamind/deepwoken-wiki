@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 44841
+revid: 44892
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
@@ -24,28 +24,24 @@ Mime is an NPC found within a cave on [Songseeker Wilds](Songseeker_Wilds.md). H
 | Disguise | 
 File:Disguise.png
 
- | _"Take on an unimaginable disguise."_ | Turn into a barrel
+ | _"Take on an unimaginable disguise."_ | Disguise yourself as an unassuming object for a seemingly indefinite amount of time.
 
-  
-Sparks: Reverse Spark: Statue Disguise
+Applying Sparks to the mantra will alter what you diguise as, variations are listed ahead.
 
-Reverse Spark: Statue Disguise
+**Sparks**:
 
-Reverse Spark + Tornado Spark : Gobletto Disguise
+**Barrel**: Nothing
 
-  
+**Statue**: 1 Reversal
 
-Tornado Spark  :
+**Crate**: 1 Tornado
 
-Crate Disguise
+**Lantern**: 1 Blast
 
-  
-Blast Spark: Lantern Disguise
+**Gobletto**: 1 Reversal, 1 Tornado
 
-Blast Spark + Reversal: Skull
+**Campfire**: 1 Tornado, 1 Blast
 
-Blast Spark + Tornado
-
-Spark: Camp Fire
+**Skull**: 1 Reversal, 1 Blast
 
  |

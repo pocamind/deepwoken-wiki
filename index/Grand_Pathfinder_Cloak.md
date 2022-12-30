@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 41295
+revid: 44968
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Grand Pathfinder Cloak** is an Expert [Outfit](Outfits.md
 
 This Outfit costs and requires five (5) Cloth and Fiber, five (5) pieces of Erisore, Gold and Irithine, six (6) pieces of Iron and two (2) Dark Feathers.
 
-This Outfit requires [Power Level](Power.md) 30.
+This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 

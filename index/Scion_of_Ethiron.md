@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 44795
+revid: 44897
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -30,4 +30,3 @@ Upon defeat, they will provide a large sized chest with common items inside bein
 -   Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
     -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
--   Seems to be a mere puppet of the real Ethrion.

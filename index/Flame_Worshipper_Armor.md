@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 41281
+revid: 44960
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Flame Worshipper Armor** is an Adept [Outfit](Outfits.md)
 
 This Outfit costs and requires four (4) Cloth and Fiber and two (2) pieces of Iron.
 
-This Outfit requires [Power Level](Power.md) 15.
+This Outfit requires [Power Level](Power.md) 5.
 
 ### _Armor Stats_
 

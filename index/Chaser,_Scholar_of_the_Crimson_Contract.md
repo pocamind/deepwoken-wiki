@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 44726
+revid: 44904
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
@@ -18,7 +18,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser or Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethion, specifically in Cathedral of Ethiron. He is also a Black Diver, but only by description and not appearance.
+Chaser or Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, but only by description and not appearance.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Kyrsan_Shrine_of_Arrival.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
@@ -139,9 +139,10 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 -   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   Chaser wears the old Black Diver outfit, possibly showing his current disassociation with the Divers as all the other Black Divers have the updated outfits.
--   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from Elden Ring.
+-   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
 -   Bloodless Gems have reduced healing effects on Chaser.
+-   He is the only [humanoid enemy](Enemies.md) that does not use any weapon.
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Given the boss fight takes place in [The Depths](The_Depths.md), and that he has unique dialogue if you've killed him before, he probably survives the fight.
 

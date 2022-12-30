@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 41293
+revid: 44972
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Hive Tactician Armor** or Tactician is an Expert [Outfit]
 
 This Outfit has no cost and requires five (5) Cloth, two (2) pieces of Iron, two (2) Dark Feathers and three (3) Vibrant Gems.
 
-This Outfit requires [Power Level](Power.md) 30 and [Agility](Attributes.md) 25.
+This Outfit requires [Power Level](Power.md) 10 and [Agility](Attributes.md) 25.
 
 ### _Armor Stats_
 

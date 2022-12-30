@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 41287
+revid: 44973
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Legion Centurion** is a Master [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) Blue Gem, five (5) Gale Stones, one (1) Dark Feather and one (1) Thresher Spine.
 
-This Outfit requires [Power Level](Talents.md) 45 and [Fortitude](Attributes.md) 10.
+This Outfit requires [Power Level](Talents.md) 15 and [Fortitude](Attributes.md) 10.
 
 ### _Armor Stats_
 

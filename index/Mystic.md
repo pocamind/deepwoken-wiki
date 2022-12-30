@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 44720
+revid: 44985
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -59,7 +59,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I stand far above others, an insurmountable challenge._
 -   _I am a Master of all Weapons._ **(Weapon Master)**
 -   _I often attack others._
--   _I feed on the souls of my enemies._
+-   _I feed on the souls of my enemies._ **(Carnivore?)**
+-   I create my own vows
 
 ## Locations
 

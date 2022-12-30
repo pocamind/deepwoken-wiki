@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 44086
+revid: 44912
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -83,6 +83,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
 -   Master Hawk's Handaxe (Rogue Construct chest)
 -   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
+-   [gran sudaruska](Gran_Sudaruska.md) (found in [crypt of the unbroken](Crypt_of_the_Unbroken.md), VERY rare)
 
  | 
 

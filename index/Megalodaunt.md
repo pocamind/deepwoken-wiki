@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 44870
+revid: 44987
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -27,7 +27,9 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant shark-like [monster](Monsters.md) which spawns in _[The Etrean Luminant](Luminants.md),_ the _[Songseeker Wilds](Songseeker_Wilds.md)_ and _[The Depths](The_Depths.md)_.
+The Megalodaunt is a giant shark-like [monster](Monsters.md) which spawns in _[The Etrean Luminant](Luminants.md),_ the _[Songseeker Wilds](Songseeker_Wilds.md)_ and _[The Depths](The_Depths.md)_ and the recommended power is 5-10 but can be defeated at relatively any level with enough practice.
+
+There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 pre-determined talents at level 2 and 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
 
 Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this enemy are mostly likely going to experience a swift death.
 
@@ -37,7 +39,7 @@ Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Mo
 
 They can also be spawned using [Megalodaunt Bait](Monster_Bait.md).
 
-Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
+Megalodaunts come in 4 different versions, with two able to be corrupted, for a total of 6 "versions" of the monster you can encounter.
 
 ## **Attacks**
 
@@ -90,7 +92,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
+Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring. The recommended level is 12-13 when fighting these as they just as strong if not stronger than a corrupted base variant.
 
 ## **Attacks**
 
@@ -148,7 +150,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md) and on [Aratel Island](Aratel_Island.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet.
+A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), [Aratel Island](Aratel_Island.md) and upper Minityrsa inside of the voidzone. They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
 
 ## **Attacks**
 
@@ -200,7 +202,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll.
+The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
 
 ## **Trivia**
 
@@ -267,7 +269,8 @@ Roar
 
 A Megalodaunt swimming.
 
--   It is the most common Giant Type enemy, and the easiest (Stat Check Power: 10).
+-   It is the most common Giant Type enemy, and the easiest.
+-   According to the 'Archivist Journal: Megalodaunt', Megalodaunts have a strict social hierarchy, although they are not particularly intelligent.
 -   Sharkos have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
