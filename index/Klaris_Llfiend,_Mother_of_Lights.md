@@ -1,8 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 45148
+revid: 45249
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -24,10 +25,10 @@ Klaris is an NPC that provides you with the [Dawnwalker](Oaths.md#oath-dawnwalke
 
 _After handing in all Diver Journals to her:_
 
-"\*You hand her your findings and stories from the Gale, ranging from lost Diver journals to the secrets of the Layer itself.\* ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within in the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it."
+"_(You hand her your findings and stories from the Gale, ranging from lost Diver journals to the secrets of the Layer itself.)_ ...I see. You've done a great deal for us. This is the least can offer in gratitude: the Deepshore Fossil. A strange device we found deep within in the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it."
 
 ## Trivia
 
 -   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from her.
--   She is the inventor of radiant magic a oath that gives magic that is very similar to Lightkeeping
--   She is the only existing female black diver in the game
+-   She is the inventor of Radiant Magic, an Oath that gives magic that is very similar to Lightkeeping.
+-   She is the only existing female Black Diver in the game.

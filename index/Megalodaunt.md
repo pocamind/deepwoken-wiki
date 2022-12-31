@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 44987
+revid: 45189
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,9 +11,9 @@ notices:
 
 # Megalodaunt
 
-“ URAOblOblOOblWAUUGH ”
+“ ...Despite their appearance they are relatively poor swimmers, opting instead to climb to the surface via crevices that bore through the surface into the depths. Their nests litter the less populated shores around the world. ”
 
-― Megalodaunt Roar
+― MEGALODAUNT HIDE DESCRIPTION
 
 _Commonly referred to as Sharko/Big shark_
 
@@ -264,6 +264,14 @@ Roar
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 | Incinceration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
+
+## Lore
+
+Megalodaunts in lore have a strong social hierarchy, with female Megalodaunts appearing to be the Alphas and leading packs, with subordinate Megalodaunts paying close attention to the Alpha and their territory and sometimes even fight amongst each other brutally for the attention of the Alpha. Subordinate Megalodaunts also get less priority for food, often watching the Alpha eat while sitting there in hunger.
+
+They are monsters that originate in The Depths and go to the surface via crevices that bore through the surface into The Depths due to them being poor swimmers despite their appearance. They seem to have formed a symbiotic relationship with coral in the First Layer, the coral on their back offers them a last ditch defence mechanism when under stress and in turn the Megalodaunt allows the coral to spread within their nests.
+
+They are native to the Eastern and Etrean Luminants.
 
 ## **Trivia**
 

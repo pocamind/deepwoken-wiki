@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 45175
+revid: 45231
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -141,7 +141,7 @@ There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 
 <tr>
   <td><center><b>Fragile Heart</b></center></td>
   <td><center>Incoming damage from mobs is doubled.</center></td>
-  <td><center><b>+0.3x</b></center></td>
+  <td><center><b>+0.5x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Crestfallen</b></center></td>

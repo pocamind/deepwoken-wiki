@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45178
+revid: 45258
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -39,15 +39,15 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
 -   You cannot roll Orbital Ice with Fist of fortitude.
 
-Note: These all apply vice versa
+Note: These all apply vice versa.
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
 
-The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
+The Wildcard slot is a slot that any Mantra can be placed in - support, mobility, combat, whatever it may be. Be mindful of it.
 
 ## Talent quests
 
-Coming along with the verse 2 update, crutial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked and given to a character upon reaching specific power. All quests require you to talk to an NPC and return back once their errand is completed.
+Introduced in the Verse 2 update, crucial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is completed.
 
 ### Engage + Critical Attack
 
@@ -56,17 +56,17 @@ Coming along with the verse 2 update, crutial talents have been given their own 
 
 ### Aerial Assault
 
--   Quest giver located in lower erisia near the glider blueprints giver.
--   Make your way to the blindseer oath temple and interact with the middle purple flame in front of Neero.
+-   Quest giver located in Lower Erisia near the glider blueprints giver.
+-   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
 
 ### Thresher Scales
 
-Quest giver located at the hive
+Quest giver located at The Hive.
 
 File:Thresherquest1.png
 
 -   Jessamine will ask you to kill a king thresher
--   King threshers spawn around this area. one will also spawn at the lightkeepers temple
+-   King threshers spawn around this area. One will also spawn at the lightkeepers temple.
 -   Completing the quest will grant the talent or a free talent hand if you already have it.
 
 ### Tree-Felling blow
@@ -81,12 +81,12 @@ File:Thresherquest1.png
 
 ### Harvester
 
--   Talk to Ciea which is located inside of the hive widow cave entrance. they will ask you to make 3 potions.
+-   Talk to Ciea which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
     -   Speed potion requires 1-3 Pomar
     -   Harm potion requires 1-3 Browncap
     -   Life potion requires 1-3 Redd
     -   Ether potion requires 1-3 Dentifilo
--   Closest cauldron is located at the Light Keepers Temple if you dont have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit
+-   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
 
 ## Talents
 
@@ -1521,7 +1521,7 @@ These Talents are designed to make you more effective in water.
 -   In Twain \[Common Talent\] - \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
+-   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisites: 40 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon.

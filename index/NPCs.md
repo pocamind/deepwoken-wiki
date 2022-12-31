@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 44833
+revid: 45220
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -208,6 +208,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The City of The Drowned</td>
   <td>None</td>
   <td></td>
+</tr>
+<tr>
+  <td>The guy</td>
+  <td>Summer isle</td>
+  <td>Near <a href="Meteor_Isle.md">Meteor Isle</a></td>
+  <td>Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character.</td>
+  <td>If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."<p>check the rest out for yourself.</p></td>
 </tr>
 <tr>
   <td><a href="The_Meat_Lord.md">The Meat Lord</a></td>

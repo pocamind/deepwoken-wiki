@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 44912
+revid: 45202
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -30,7 +30,7 @@ Minityrsa
 
 -   [Valley of Heroes](The_Valley_of_Heroes.md)
 -   [Trial of One](Trial_of_One.md)
--   Outpost Antumbra
+-   [Outpost Antumbra](Outpost_Antumbra.md)
     -   A stronghold inhabited and guarded by [Ministry Scouts](Ministry_Scout.md).
     -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 
@@ -83,7 +83,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
 -   Master Hawk's Handaxe (Rogue Construct chest)
 -   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
--   [gran sudaruska](Gran_Sudaruska.md) (found in [crypt of the unbroken](Crypt_of_the_Unbroken.md), VERY rare)
+-   [Gran Sudaruska](Gran_Sudaruska.md) (Very rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) )
 
  | 
 

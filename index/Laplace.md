@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 44574
+revid: 45218
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -30,4 +30,4 @@ He lets you trade 3 [enchantments](Enchantments.md) for a randomized enchant on 
 ## Trivia
 
 -   Laplace's method of transmuting 3 Enchants into 1 Weapon enchant is by wrapping all 3 Enchants together in Linen (presumably rope, not cloth).
--   Laplace once used to be in the Greathive Aratel's R&D Branch, but was moved as of the new update.
+-   ~Laplace once used to be in the Greathive Aratel's R&D Branch, but was moved as of the new update.~ Laplace is back to the R&D Branch in Greathive Aratel as of the Verse 2 update.

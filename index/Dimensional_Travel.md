@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 43377
+revid: 45255
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Resonance, Skills]
@@ -53,4 +53,4 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   Recently, buildings have been found in the Distortion Realm.
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance
--   Reported that there is a possibility for Brainsuckers to spawn in the dimension
+-   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.

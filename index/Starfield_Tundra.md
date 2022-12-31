@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 45118
+revid: 45247
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Voidzones]
@@ -25,31 +25,19 @@ Starfield Tundra is a **Voidzone**, meaning you will be sent to [The Depths](The
 
   
 
+## Startree
+
+The **Startree** is a large gathering of tree roots dotted with many glowing white stones. This is where [Linkstriders](Oaths.md#oath-linkstrider) can collect Stardust to use for teleporting.
+
+  
+
 ## Potential Enemies
 
 -   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
 -   [Carbuncle](Carbuncle.md)
+-   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
-## Loot Table
-
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
-TBD
-
- | 
-
-TBD
-
- | 
-
-TBD
-
- | 
-
-TBD
-
- |
+  
 
 ## Notes & Trivia
 

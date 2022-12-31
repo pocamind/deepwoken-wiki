@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 45047
+revid: 45240
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Deepwoken]
 # Deepwoken Sounds
 
 _If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._
+
+_This page is almost entirely updated by me, [Twibppp.](https://deepwoken.fandom.com/wiki/User:Twibppp)_
 
 A gallery of audio that is related to _Deepwoken_.
 

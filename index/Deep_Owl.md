@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 43801
+revid: 45221
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -79,7 +79,7 @@ In the event that the encounter is triggered, the Deep Owl will question the pla
 
 If choosing to fight the Deep Owl for the first time, there are several things the player should keep in mind;
 
--   Typically, the Owl becomes reasonable to kill from level 30 onward (with proper skill).
+-   Typically, the Owl becomes reasonable to kill from level 10 onward (with proper skill).
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 
@@ -91,13 +91,9 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 
 ## Lore
 
--   The main source of lore comes from [The Nestmind](The_Nestmind.md), the trainer of the _[Visionshaper](Oaths.md#visionshaper)_ Oath.
--   The Nestmind's dialogue hints at the owl form we see not actually being what the owls are.
--   Deep Owls may be the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". As it grants you the _Visionshaper_ oath, this implies they are the source of it.
--   The Owls nest in the interstice between human minds, further enhancing their connection to illusion magic.
--   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the Owls to feast. It is said that the _Visionshapers_ themself will also eventually become a feast for them.
--   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue, the player character however seems to remember, as after making the pact you can ask Surge: "What was that place you took me?" Surge however denies having taken you anywhere.
--   The pact can be compared to a deal a Warlock may make with a deity similar to the Nestmind, in exchange for receiving the power of Visionshaping in your living life, and when you die your soul will be consumed into the Nestmind and it's remnants will become an owl.
+All owls are part of a hivemind named The [Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
+
+Deep Owls come from an alternate dimension of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter.
 
 ## Trivia
 

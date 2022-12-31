@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 45169
+revid: 45225
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -129,6 +129,7 @@ CONTAINS SPOILERS!!!
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
 -   **Darksteel Greatsword** is inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
+-   **Railblade's** critical attack is a reference to [Flame Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing) from _Demon Slayer: Kimetsu no Yaiba._
 
 ## Enchantments
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45173
+revid: 45253
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -50,7 +50,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | N/A |
+| oath_req | Max reputation with Etris and Ministry, 50 Intelligence? |
 | effects | +2 Combat Mantra |
 
 _icon credit to Tortaa#9000_
@@ -78,7 +78,7 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 ### Obtainment
 
-To start the Oathless quest, head to the main dock at the ignition/miners island and go right. Through a log is a cave, talk to the person in there, they'll tell you to go to their three disciples (in no specific order).
+To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>) and go right. Through a log is a cave, talk to the person in there, and they'll tell you to go to their three disciples (in no specific order).
 
 -   One is at Fort Merit, in a house near the elevator
 -   One is at Meteor Isle, in the house with a cauldron
@@ -250,7 +250,7 @@ Does not grant any special cosmetic based on race.
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
             3.  Ceres (Near path to abandoned cabin under Etris)
-            4.  Europa (Near the valley of Heros)
+            4.  Europa (Near the Valley of Heroes)
             5.  Pallas (Infront of the Oathless trainer)
             6.  Fortuna (Above the Broken Church in Erisia)
 -   **Symbiotic Link**
@@ -446,16 +446,19 @@ This Oath grants two Combat Mantra slots.
 
 ## Oath: Contractor
 
-“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to server under his will, no matter the cost. ”
+“ THE METHOD? IF YOU WANT IT, YOU CAN HAVE IT. FIND IT! I LEFT THE METHOD IN LAYER 2! ”
 
-― Contractor Description
+― Arch
 
   
-**Oath: Contractor** N/A
+
+**Oath: Contractor**
 
 ### Obtainment
 
-Current method to obtaining contractor is not publicly known, all methods seen have been currently outed as lies or red herrings, even the one Tsumoe provided. It is to note that **arch confirmed you do not need puppet master for anything, the only use it provides is the info inside, the physical item is not required to obtain the oath**
+Current method to obtaining contractor is not publicly known, all methods seen have been currently outed as lies or red herrings as the only person giving out "hints" is a youtuber who got this Oath from a dev. It has been confirmed that the questline was bugged and Lord Regent would not even have the correct DIALOGUE if you talked to him.
+
+_**Arch\_Mage (DEV) confirmed you do not need puppet master for anything, the only use it provides is the info inside, the physical item is not required to obtain the oath. Arch also confirmed that intelligence is needed, but only a low amount.**_
 
 ### **Known Abilities**
 

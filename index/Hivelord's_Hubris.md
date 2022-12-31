@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 45081
+revid: 45252
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -15,11 +15,8 @@ categories: [Weapons, Pages with broken file links]
 | damage | 30 |
 | scaling | 11 |
 | range | 10 |
-| swing speed | 0.45 |
-| endlag | N/A |
+| swing speed | 0.45x |
 | penetration | 5% |
-| chip damage | N/A |
-| special effect | N/A |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

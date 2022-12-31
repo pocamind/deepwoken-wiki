@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 45013
+revid: 45188
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -168,6 +168,9 @@ Yun'shul's Shrine
 -   Ethiron is the Drowned God of the Eternal Gale.
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer; the meaning of scion in this context is unclear.
+-   Coming closer to the body of Ethiron causes a time dilation.
+    -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
+        -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
 
 ### **Korilfiend**
 
@@ -513,7 +516,7 @@ A Dark Mage, located in Minityrsa.
 -   Much like their two main rivals, they are hired by The Authority, this time for mining work.
 -   The Ignition Union bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
--   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit in some way.
+-   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others.
 
   
 
@@ -578,7 +581,7 @@ A Peacekeeper Commander, part of The Authority
 -   **Territory:** _Markor(?), Castle Light._
 -   **Attunements:** _Flamecharm, Frostdraw, Galebreathe and Thundercall._
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
--   **Enemies:** _???_
+-   **Enemies:** Ignition Union
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord)_
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".

@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 45120
+revid: 45251
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
@@ -67,6 +67,7 @@ At the end of a hall in the crypt, there is an entity sitting on a pedestal agai
 -   [Canor Fang](Canor_Fang.md)
 -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
 -   [Old World Greatshield](Old_World_Greatshield.md)
+-   [Gran Sudaruska](Gran_Sudaruska.md) (low chance)
 
  | 
 

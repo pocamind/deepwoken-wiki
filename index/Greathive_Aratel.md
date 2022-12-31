@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 44053
+revid: 45234
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -37,6 +37,8 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle one will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The right one will send you to [Upper Erisia](Upper_Erisia.md).
+-   Additionally, there are fountains around the luminants that allow you to teleport back to the Greathive Aratel:
+    -   (I noticed this was missing and I am hoping people can fill this out as you happen to run along them)
 
 The doors to enter the Lordsgrove.
 
@@ -71,7 +73,7 @@ The doors to enter the Lordsgrove.
 
 #### R&D
 
--   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon enchant.
+-   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible.
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by Naktigonis.
     
 
@@ -120,7 +122,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. Lorewise, Regek tells us that this is one of four greathives.(Physical mantra trainer)
 -   Suri's Quest is most likely inspired by Hollow Knight, which also has a mission to deliver a delicate flower that will be destroyed upon taking damage, to a grave. This theory is also supported by many similarities between [Vesperians](Vesperian.md) and bugs in Hollow Knight.
--   Everyone inside Greathive Aratel is a Vesperian. However, there is one ganymede guard in Greathive Aratel.
+-   Everyone inside Greathive Aratel is a Hivekin (Vesperian, Ganymede, or Chrysid).
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).

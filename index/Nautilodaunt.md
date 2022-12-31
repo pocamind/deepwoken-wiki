@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 45163
+revid: 45250
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -111,5 +111,5 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   It respawns after roughly 40 minutes.
 -   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautilodaunt can be difficult on its own due to the cloaks high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
 -   Always keep a calm composure when you fight him, panicking will lead to a swift death.
--   ~It is the only mob in the game with the ability to regen it's health.~ When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds, the King Gigamed also appear to have this ability.
+-   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and get wiped. (Examples being: Players(in a group or solo), Angels, Monsters or even bad ping)
