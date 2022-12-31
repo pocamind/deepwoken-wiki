@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45385
+revid: 45466
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -47,7 +47,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 ## Talent quests
 
-Introduced in the Verse 2 update, crucial talents have been given their own quests. After completing these quests, these talents will be permanently unlocked, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is completed.
+Introduced in the Verse 2 update, crucial talents have been given their own quests. Some these talents will be permanently unlocked after completing these quests, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is completed.
 
 ### Engage + Critical Attack
 
@@ -87,6 +87,11 @@ File:Thresherquest1.png
     -   Life potion requires 1-3 Redd
     -   Ether potion requires 1-3 Dentifilo
 -   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
+
+### Excavator
+
+-   Turn in 5 Pure Ores into the blacksmith.
+    -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
 
 ## Talents
 
@@ -242,7 +247,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   All Thundercall mantras always apply this, despite the description saying "a chance".
 
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
--   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
+-   Second Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
 
 ### Bastion
@@ -707,7 +712,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Genius Intellect
 
--   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
+-   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
     -   Prerequisite: 30 Intelligence (works with Warrior's Respite)
 -   Neuroplasticity \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
@@ -1105,7 +1110,7 @@ These are just raw stat increases and are beneficial to anyone.
 These Talents are meant to make foraging and mining grant more resources.
 
 -   Excavator \[Common Talent\] -Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
-    -   Prerequisites: Turning in 5 Pure Ores to a Blacksmith
+    -   Obtainment: Turn in 5 Pure Ores to a Blacksmith
 -   Harvester \[Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Public Figure

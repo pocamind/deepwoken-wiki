@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 40825
+revid: 45423
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -33,7 +33,9 @@ If he is spoken to after initiating Karliah's Quest, a different dialogue is dis
 
 > Joshua: Good day to you, youngster. Was there something you needed?
 > 
-> 1\. Do you know Karliah? I'm supposed to go on a research expedition with her soon. Joshua: Oh, Karliah! Of course. She comes and cooks for little old me every now and then. She's truly a blessing
+> 1\. Do you know Karliah? I'm supposed to go on a research expedition with her soon.
+> 
+> Joshua: Oh, Karliah! Of course. She comes and cooks for little old me every now and then. She's truly a blessing
 
 ## Trivia
 

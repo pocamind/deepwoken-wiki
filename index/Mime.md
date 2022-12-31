@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 45387
+revid: 45448
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]

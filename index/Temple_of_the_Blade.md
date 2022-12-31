@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 40154
+revid: 45432
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -67,12 +67,12 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blade.
--   Upon delivery, Stratos gives you and some positive rep with Etris.
+-   Upon delivery, Stratos gives you, enough XP to reach power 2, and some positive rep with Etris.
 
 ### Etrean Swordsman Quest
 
 -   To start this quest, talk to Avian in the Sparring Arena, located next to Das.
--   If asked about his attitude, he wants to be better, so he may show up a rival, but lacks the proper knowledge in the Sword. He then asks you to give him a [Weapon Manual](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Light.2FMedium.2FHeavy) (This does not consume the weapon manual.)
+-   If asked about his attitude, he wants to be better, so he may show up a rival, but lacks the proper knowledge in the sword. He then asks you to give him a [Weapon Manual](Training_Gear.md) - doing so consumes 101 uses on the manual, and completes the quest.
 -   This quest gives EXP, it is unknown how much or what else it gives.
 
 ### A Lost Sibling Quest

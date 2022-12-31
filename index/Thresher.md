@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 45389
+revid: 45460
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -71,7 +71,7 @@ _Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other nam
 
 The King Thresher is a much bigger and more powerful Thresher that spawns in the [Starswept Valley](The_Starswept_Valley.md), as well as [the Depths](The_Depths.md), along with two smaller Threshers. It drops a King Thresher Spine that can be used for crafting armour. There will usually be a chest reward after you kill this monster.
 
-There is currently a quest in game in Starswept Valley where you are tasked with hunting a King Thresher for its scales. Upon completing this quest you will permanently receive the Thresher Scales talent at Power 5. This quest can be completed/recompleted to get a hand of cards if you already have the talent.
+There is currently a quest in game in Starswept Valley where you are tasked with hunting a King Thresher for its scales. Upon completing this quest you will permanently receive the Thresher Scales talent at Power 10. This quest can be completed/recompleted to get a hand of cards if you already have the talent.
 
   
 

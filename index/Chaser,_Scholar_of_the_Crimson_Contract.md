@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 45226
+revid: 45433
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
@@ -42,7 +42,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**There is an indicator before the attack**_
 
- | ✗ | ✗\*\* | ◯ | (★★☆) |
+ | ✗ | ✗ | ◯ | (★★☆) |
 | **Burning Blood**
 
 **Explosion**
@@ -53,7 +53,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**In his 2nd stage, the stalactites**_ _**fall immediately after a laugh.**_
 
- | ✗ | ◯\* | ◯\* | (★★☆) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 | **Sanguine Repulsion** | Chaser launches away all players near him and causes them to ragdoll, happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_

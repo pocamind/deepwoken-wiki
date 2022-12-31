@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 45397
+revid: 45467
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, Character, Talents, Mechanics]
+categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -50,14 +50,12 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry, 50 Intelligence (not confirmed) |
+| oath_req | Good reputation with Etris and Ministry |
 | effects | +2 Combat Mantra |
-
-_icon credit to Tortaa#9000_
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
-Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
+Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
 There are currently nine Oaths in _Deepwoken_.
 
@@ -73,7 +71,6 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 ― Oathless Description
 
-  
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
 ### Obtainment
@@ -100,7 +97,6 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 ― Blindseer Description
 
-  
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
 ### Obtainment
@@ -163,7 +159,6 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 ― Visionshaper Description
 
-  
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
 ### Obtainment
@@ -231,7 +226,6 @@ Does not grant any special cosmetic based on race.
 
 ― Linkstrider Description
 
-  
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
 ### Obtainment
@@ -270,15 +264,12 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 
-  
-
 ## Oath: Jetstriker
 
 “ You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. ”
 
 ― Jetstriker Description
 
-  
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
 ### Obtainment
@@ -325,12 +316,11 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ― Starkindred Description
 
-  
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
 
 ### Obtainment
 
-1.  Have 50 Strength and grip a player same race as you (Chime works)
+1.  Have 50 Strength and grip any player.
 2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
@@ -351,26 +341,19 @@ You will get a mantra for each kill.
     -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 30 seconds.
     -   While active, Air Dash goes much further.
     -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, and yellow.
-    -   Some mantras have different properties while the user have their wings out:
-        -   **Fire Blade** now launch the user upward before releasing a flurry of slashes.
-
--   **Ascension - Combat Mantra**
-    -   The user rise into the air before swooping in.
+    -   Some mantras have different properties while the user has their wings out:
+        -   **Fire Blade** now launches the user upward before releasing a large plume of flames.\***Ascension - Combat Mantra**
+    -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
--   **Celestial Assault - Combat Mantra**
-    -   Deliver a vertical slash (that launch the user and target up) and an horizontal slash (that push the target).
+-   **Celestial Assault - Combat Mantra**\*\*Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
 -   **Sinister Halo - Combat Mantra**
-    -   Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.
-        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hit.
+    -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
+        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
 
 ### Effects
 
-This Oath grants two Combat Mantra slots and eight Health.
-
-### Notes
-
--   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
+This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 
 ## Oath: Arcwarder
 
@@ -378,7 +361,6 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ― Arcwarder Description
 
-  
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens (7 times in total) (One skill per run)
 
 ### Obtainment
@@ -393,14 +375,11 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Known Abilities
 
--   **Arc Suit - Wildcard Mantra**
-    -   Encase the user in a durable armor that reduce damage taken by 20%.
--   **Arc Beam - Combat Mantra**
-    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
+-   **Arc Suit - Wildcard Mantra**\*\*Encases the user in durable armor that reduces damage taken by 20%.
+-   **Arc Beam - Combat Mantra**\*\*Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
 -   **Arc Wave - Combat Mantra**
     -   Release a wave of energy around you, dealing fire and lightning damage.
--   **Arc Module: Leap - Passive**
-    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
+-   **Arc Module: Leap - Passive**\*\*Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
 -   **Arc Module: Guard - Passive**
     -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (+10 Ether)
 -   **Arc Module: Eject - Passive**
@@ -420,17 +399,13 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 _"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
 
-**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
+**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2. ===Obtainment===#Get 30 Krysan Medallions from Layer 2's second Phase.
 
-### Obtainment
+1.  Talk to Klaris in Castle Light and redeem 'Radiant Magic.
 
-1.  Get 30 Krysan Medallions from Layer 2's second Phase.
-2.  Talk to Klaris in Castle Light and redeem 'Radiant Magic.
+\=== Upgrading===#Obtain 15 Krysan Medallions.
 
-### Upgrading
-
-1.  Obtain 15 Krysan Medallions.
-2.  Speak to Klaris is Castle Light in the Depths.
+1.  Speak to Klaris is Castle Light in the Depths.
 
 ### Known Abilities
 
@@ -439,59 +414,60 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
--   **Protagonist Syndrome - Passive**
-    -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
--   **Absolute Radiance - Passive**
-    -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+-   **Protagonist Syndrome - Passive**\*\*The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
+-   **Absolute Radiance - Passive**\*\*Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
 
 ### Effects
 
 This Oath grants two Combat Mantra slots.
 
-  
-
 ## Oath: Contractor
-
-“ THE METHOD? IF YOU WANT IT, YOU CAN HAVE IT. FIND IT! I LEFT THE METHOD IN LAYER 2! ”
-
-― Arch
 
   
 
 **Oath: Contractor**
 
+“ THE METHOD? IF YOU WANT IT, YOU CAN HAVE IT. FIND IT! I LEFT THE METHOD IN LAYER 2! ”
+
+― Arch
+
 ### Obtainment
 
--   1\. Have atleast 10 Intel
--   2\. Get max reputation with Ministry
--   3\. Get positive reputation with Etris, enough to start the Duke questline
--   4\. Start Duke questline and finish it
--   5\. Return to Regent and do the 'find out' dialogue
--   6\. Make a deal with every shrine except shrine of order **(note: you HAVE to make deals, not just interact)**
--   7\. Go back to Regent and pick the first dialogue option
+-   1\. Have at least 10 Intelligence.
+-   2\. Get positive reputation with The Ministry.
+-   3\. Get positive reputation with Etris, enough to start the Duke questline.
+-   4\. Start Duke questline and finish it.
+-   5\. Return to Regent and do the 'find out' dialogue.
+-   6\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
+-   7\. Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
 
 Killing people in Layer 1 of The Depths who have an Oath will progress Contractor.
 
--   1 Grip - Hidden Tendril
--   3 Grips - Equalizer
--   5 Grips - Judgement
+-   1 Grip - Hidden Tendril/Lords Slice
+-   5 Grips - Equalizer
+-   8 Grips - String Trick Passive
+-   10 Grips - Judgement
 
 ### **Known Abilities**
 
 -   **Hidden Tendril - Passive**
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
-
 -   **Judgement - Combat Mantra**
     -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned.
-
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
         -   Only usable if the User has the 'Hidden Tendril' Talent, and also has a Hidden Tendril active.
 
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals Damage to the target, but also gives the User a blue aura. If the User is attacked while they have this blue aura, the attack will be ignored completely, and also stun the attacker for about 2 seconds. Unlike Judgement, the User is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
+
+File:Dialogue.png
+
+## Oath: Warmaster
+
+Not much is known about it, however, it may be the opposing oath to Contractor, as blindseer is to visionshaper.
 
 ## Trivia
 
