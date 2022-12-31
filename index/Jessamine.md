@@ -1,9 +1,9 @@
 ---
 title: Jessamine
-revid: 44075
+revid: 45328
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Jessamine

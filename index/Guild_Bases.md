@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 44569
+revid: 45265
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -46,6 +46,8 @@ A guild base can be increased in size through different nodes. Some provide prac
 
 ## Trivia
 
--   Not all surfaces are valid for a guild base to be created on. ~Only certain types of rock and wood permit it.~ (as long as there is enough space, the material is irrelevant)
+-   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
 -   Players cannot go into guild halls while holding a body.
--   You can break the Guild Base open while inside, fall off the map and be sent to [The Depths](The_Depths.md) as a result.
+-   You can break the Guild Base open while inside and fall off the map.
+-   Grand skewers is disabled while inside, as it could throw people out the base.
+-   Full Guild Base is hard to achieve for small guilds since the price of each room can increase exponentially.

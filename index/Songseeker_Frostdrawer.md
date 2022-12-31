@@ -1,8 +1,9 @@
 ---
 title: Songseeker Frostdrawer
-revid: 37502
+revid: 45337
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Songseeker Frostdrawer

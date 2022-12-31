@@ -1,8 +1,9 @@
 ---
 title: Calamus
-revid: 45146
+revid: 45322
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Calamus

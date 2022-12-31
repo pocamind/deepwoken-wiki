@@ -1,8 +1,9 @@
 ---
 title: Songseeker Galebreather
-revid: 38896
+revid: 45338
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Songseeker Galebreather

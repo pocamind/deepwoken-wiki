@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 44792
+revid: 45273
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 “ I'll try spinning, that's a good trick ”
 
-― Primal golems before shredding a player's health and posture bar
+― Golem Primes before shredding a player's health and posture bar
 
 **Erisian Golem:**
 
@@ -68,17 +68,17 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
     
 
-**Primal Golem:**
+**Golem Prime:**
 
 Template:Creature Infobox V3
 
 ## **Description**
 
-**Primal Golems** (also referred to as a Duke Golem) are large, bulky stone constructs that resemble their original counterparts, a **Rock Golem**. But with a red core instead of a white one.
+**Golem Primes** (also referred to as a Duke Golem) are large, bulky stone constructs that resemble their original counterparts, a **Rock Golem**. But with a red core instead of a white one.
 
-Primal Golems are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than a regular **Rock Golem**.
+Golem Primes are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than a regular **Rock Golem**.
 
-In combat, Primal Golems are very hardy having moderately high health, and high slash resistance. High caution should be taken when fighting a Primal Golem as their attacks are stronger compared to a regular **Rock Golem**.
+In combat, Golem Primes are very hardy having moderately high health, and high slash resistance. High caution should be taken when fighting a Golem Prime as their attacks are stronger compared to a regular **Rock Golem**.
 
 ## Attacks
 
@@ -101,7 +101,7 @@ In combat, Primal Golems are very hardy having moderately high health, and high 
 
 | Name | Description |
 | --- | --- |
-| Crushing Stomp | A Primal Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. |
+| Crushing Stomp | A Golem Prime ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. |
 
 ## Tips for fighting
 
@@ -118,7 +118,7 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 
 ## Trivia & Notes
 
--   Primal Golems are easily distinguishable from regular Rock Golems as they are darker and red where the regular Golem would be white.
+-   Golem Primes are easily distinguishable from regular Rock Golems as they are darker and red where the regular Golem would be white.
 -   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.

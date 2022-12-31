@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 44503
+revid: 45347
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ The **Tutorial** is a recently released feature in _Deepwoken_ that is meant for
 
 To start the tutorial, the player must talk to The Captain, agree to 'get their memory jogged' and wipe their character. Only after creating their character will they be properly introduced to the tutorial.
 
-The player will wake up at the lower front of a departing pirate [ship](Ships_&_Sailing.md) known as [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), bigger than an [Ironclad](Ships_&_Sailing.md#list-of-ships). This is where the player gets to know the movement controls and interactions before jumping down to the cannon bay where they get to see Cap'n Orlandeau, the presumed captain of the ship. Speaking with Orlandeau, the player gets scolded for sleeping on the job and their lack of combat experience, which the captain proposes to sharpen up. The player will be instructed to light attack, critical attack, parry and block in the air before having to parry a slash by the captain, this is designed to teach the player [Combat Mechanics](Combat_Mechanics.md). Shortly after, the player will need to craft a Campfire Pit with sticks and make a fire. The player will then be given a [Vanguard Brace](Vanguard_Brace.md) to learn about [Armor](Equipment.md). Both the captain and the player agree to moving to the next room.
+The player will wake up at the lower front of a departing pirate [ship](Ships_&_Sailing.md) known as [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), bigger than an [Ironclad](Ships_&_Sailing.md). This is where the player gets to know the movement controls and interactions before jumping down to the cannon bay where they get to see Cap'n Orlandeau, the presumed captain of the ship. Speaking with Orlandeau, the player gets scolded for sleeping on the job and their lack of combat experience, which the captain proposes to sharpen up. The player will be instructed to light attack, critical attack, parry and block in the air before having to parry a slash by the captain, this is designed to teach the player [Combat Mechanics](Combat_Mechanics.md). Shortly after, the player will need to craft a Campfire Pit with sticks and make a fire. The player will then be given a [Vanguard Brace](Vanguard_Brace.md) to learn about [Armor](Equipment.md). Both the captain and the player agree to moving to the next room.
 
 Coming out of the cannon bay, Orlandeau will inform the player of the [Luminant's](Luminants.md) currency, [Notes](Notes.md). He further demonstrates currency by giving the player his Emerald and telling them to sell it at an [Antiquarian](Antiquarian.md), soon buying a [Dumbbell](Training_Gear.md) to simulate purchasing items and training with said Dumbbell, levelling up their [Strength](Attributes.md) by one. The captain informs the player about [Power](Power.md) and its advantages before going up to the upper deck. If the player is [Attunementless](Attunement-less.md) and the first/second strongest [Attribute](Attributes.md) is Strength, it will give you your third strongest attribute Training Item OR a random Training Item upon spawn.
 

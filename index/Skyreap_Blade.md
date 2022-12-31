@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 40393
+revid: 45345
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Skyreap Blade
@@ -33,8 +33,7 @@ The Skyreap Blade is a HVY weapon in the Greataxe category. It is obtained by ge
 
 ## Trivia
 
--   Mentions the "Edenkite" in the description, which is possibly another lore race or monster, but we don't know anything about it yet.
-    -   When asked about it in the Discord server, Zartania simply replied with ":)".
+-   Mentions the "Edenkite" in the description, which is a species referenced in a lorebook that existed in the cold, desolate, Northern Luminant.
 
 ## Notes
 

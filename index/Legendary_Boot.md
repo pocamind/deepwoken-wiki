@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 36825
+revid: 45317
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, NPCs]
@@ -12,7 +12,7 @@ categories: [Mechanics, NPCs]
 
 ### Summary
 
-The legendary boot can be found in lower Erisia. It is not an event, but a stationary NPC which does not despawn. It can be found by going through a waterfall in lower Erisia.
+The legendary boot can be found in [Lower Erisia](Lower_Erisia.md). It is not an event, but a stationary NPC which does not despawn. It can be found by going through a waterfall in lower Erisia.
 
 ### Location
 

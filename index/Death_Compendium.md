@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 43707
+revid: 45346
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -25,7 +25,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell.
 -   Die to [Soul Jar](Jar_of_Souls.md) bell.
 -   Enter the Lord Regent's Throne Room without an audience. This includes talking to him after completing - or failing - the quest.
--   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md#list-of-ships) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
+-   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
 -   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor.
 -   Get skewered by a Grand Skewer-modified [Grand Javelin](Thundercall.md) at low enough health, from a [Legion Sniper](Legion_Sniper.md). Having too many people get hit by this will also auto-execute everyone.
 -   Explode. (Cannons, Detonation enchant, etc)

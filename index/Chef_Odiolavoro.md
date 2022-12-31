@@ -1,8 +1,9 @@
 ---
 title: Chef Odiolavoro
-revid: 41357
+revid: 45323
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Chef Odiolavoro

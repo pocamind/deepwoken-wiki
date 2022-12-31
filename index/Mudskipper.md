@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 44067
+revid: 45262
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -228,7 +228,7 @@ Template:Creature Infobox V3
 
 Mindless enemies that are summoned to fight the weak during The Depths (Trial). They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
-They can only be encountered in The Depths (Trial) while the character's power is between 10 - 19.
+They can only be encountered in The Depths (Trial) while the character's power is between 3 - 6 (?).
 
 ## Moveset
 
@@ -258,7 +258,7 @@ Critical
 
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
--   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
+-   As a joke within the community, this trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. However, this assumes you only use Basic Attacks and not any [Mantras](Mantras.md), which trivialise the fight.
     
 
 ## Trivia

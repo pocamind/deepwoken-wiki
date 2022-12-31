@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 45025
+revid: 45349
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -81,7 +81,7 @@ Exclusive to The Depths: Eternal Gale (Layer 2)
 
 **Eternal Gale (Layer 2/F1):**
 
-**New Krysa (Layer 2/F2):**
+**New Kyrsa (Layer 2/F2):**
 
 ### 
 

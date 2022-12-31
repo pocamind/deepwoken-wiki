@@ -1,9 +1,9 @@
 ---
 title: Kyrstreza
-revid: 45159
+revid: 45331
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Kyrstreza
@@ -37,3 +37,4 @@ Krystreza is a LHT weapon under the Rapier category. It has a requirement of 75 
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   This weapon is part of the Kyrs series, commonly referred to as "Bone" Weaponry (Kyrsear, Kyrsedge, etc.).
 -   At 75 LHT, this weapon deals around 24.5 damage. At 100 LHT, this weapon deals 27.75 damage.
+-   The weapon name is a reference to the Spanish school of fencing, Verdadera Destreza, which focused on geometric movements with the rapier.

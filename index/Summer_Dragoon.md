@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 45143
+revid: 45291
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,4 @@ This Outfit also grants the [Talent Card](Talents.md) _Sunset Ricochet,_ which m
 
 This Outfit's Schematic can be found in:
 
--   placeholder
+-   Miner's Landing

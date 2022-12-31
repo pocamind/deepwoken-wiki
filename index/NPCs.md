@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 45220
+revid: 45277
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -119,6 +119,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Talks about the Celtors being forgotten to time</td>
 </tr>
 <tr>
+  <td>The guy</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td>Near <a href="Meteor_Isle.md">Meteor Isle</a></td>
+  <td>Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character.</td>
+  <td>If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."<p>check the rest out for yourself.</p></td>
+</tr>
+<tr>
   <td>Imel</td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="The_Etrean_Sea.md">Etrean Sea</a>, Statues</td>
@@ -182,11 +189,11 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td><i>Lance's Brother</i></td>
+  <td>Lance's Brother</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
   <td>Food Vendor, gives crate delivery quest</td>
-  <td>After asking his name, your character forgets and his name is randomized from the masculine namepool</td>
+  <td>After asking his name, your character forgets and his name is then randomized from a pre set group of names</td>
 </tr>
 <tr>
   <td>Lance Leshi</td>
@@ -210,13 +217,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>The guy</td>
-  <td>Summer isle</td>
-  <td>Near <a href="Meteor_Isle.md">Meteor Isle</a></td>
-  <td>Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character.</td>
-  <td>If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."<p>check the rest out for yourself.</p></td>
-</tr>
-<tr>
   <td><a href="The_Meat_Lord.md">The Meat Lord</a></td>
   <td>Unaligned</td>
   <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Summer_Isle.md">Summer Isle</a>, <a href="Upper_Erisia.md">Upper Erisia</a></td>
@@ -224,10 +224,12 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Only sells meat, will not answer to Vegetarians</td>
 </tr>
 <tr>
-  <td>The Nestmind</td>
-  <td>Unaligned</td>
+  <td>Mercille</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><a href="Bluster_Rift.md">Bluster Rift</a></td>
+  <td>Gives chest to those who give carriable loot sacks/bags</td>
   <td></td>
-  <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Mime.md">Mime</a></td>
@@ -235,6 +237,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
   <td>Grants <a href="Attunement-less.md#disguise">Disguise</a> mantra</td>
   <td>Spawns with mudskippers attacking him, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
+  <td></td>
+</tr>
+<tr>
+  <td>The Nestmind</td>
+  <td>Unaligned</td>
+  <td></td>
+  <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
+  <td></td>
   <td></td>
 </tr>
 <tr>
@@ -365,14 +375,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Mercille</td>
-  <td><a href="The_Summer_Company.md">Summer Company</a></td>
-  <td><a href="Bluster_Rift.md">Bluster Rift</a></td>
-  <td>Gives chest to those who give carriable loot sacks/bags</td>
-  <td></td>
   <td></td>
 </tr>
 </tbody>

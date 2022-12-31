@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 42572
+revid: 45351
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Spears]
 | obtainment | Fort Merit The Depths Deep Widow Starswept Valley |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-_Not to be confused with the Rifle_
+_Technically a spear, not to be confused with medium guns such as [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) and [Iron Blunderbuss](Iron_Blunderbuss.md)_
 
 ## Description
 
