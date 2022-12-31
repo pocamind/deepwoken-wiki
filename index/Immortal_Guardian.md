@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 45259
+revid: 45374
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,9 +14,7 @@ Template:EnemyInfobox1.0
 
 Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
 
-Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender.
-
-For a unknown reason, Immortal Guardians will under an unknown condition, will spawn 100% of the time with glowing red parts (instead of the normal glowing white parts) of their armor, and have much more health. I also theorize they have slightly better AI, but can't prove it.
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. It's unknown what properties this has, aside from raising their healthpool. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
 
 ## Moves
 
@@ -33,7 +31,7 @@ An Immortal Guardian executes the player after knocking them.
 
 | Name | Description |
 | --- | --- |
-| Execute | TBA |
+| Execute | Bashes the enemy's head with their Divine Weapon. |
 
   
 

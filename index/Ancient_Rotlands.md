@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 45124
+revid: 45367
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -19,6 +19,10 @@ The **Ancient Rotlands** is a location in _Deepwoken_. It is a [Voidzone](Voidzo
 The Ancient Rotlands is location in the East Luminant accessible through the [Songseeker Wilds](Songseeker_Wilds.md). The area is a large swamp littered with Nightmare Threshers everywhere. There are large, beating brains with embedded eyes chained up all over the place.
 
 The Ancient Rotlands are a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die in the area.
+
+## Points of Interest
+
+-   Looking at the brains increases insanity very fast so its recommended to come here with good willpower.
 
 ## Potential Enemies
 

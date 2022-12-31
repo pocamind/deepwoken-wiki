@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 45003
+revid: 45380
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -96,11 +96,3 @@ In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Audita
 You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly.
 
 Repeat this task 3 time and you will be granted the murmur.
-
-  
-**Obtainment (2)**
-
-Kill the Ferryman without a priorly obtained murmur in Spring.
-
-  
-The Ferryman will tell any of those to "look into his flame" and recieve his gift, which is a murmur. A custom dialogue will appear if you already have one.

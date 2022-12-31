@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45306
+revid: 45385
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -104,7 +104,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
     -   Prerequisites: 25 Agility
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 12 seconds. (+1 Passive Agility)
+-   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisites: 5 Agility
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 45144
+revid: 45363
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -77,7 +77,9 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 **Your Trial Power is calculated by power(3)+ Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer (17(3)+1=52). _The table below accounts only for your power, not how many times you drowned._
 
-| Trial Power | Enemy(s) |
+_Trial Power and Power are two different things; See above as well as below table._
+
+| _Trial_ Power | Enemy(s) |
 | --- | --- |
 | 1-9 | Nothing (you are sent up without a fight) |
 | 10-19 | [Mudskipper Knight](Mudskipper.md) |
@@ -94,7 +96,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 -   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
     -   If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
-    -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
+    -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
 -   If you are deepbound then you will have to fight an Enforcer no matter what your power is
 -   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything.
 

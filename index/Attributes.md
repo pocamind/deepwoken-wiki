@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 45080
+revid: 45395
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -72,7 +72,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 ### Willpower
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases sanity and tempo per willpower.
-    -   One point in willpower gives ?% tempo.
+    -   One point in willpower gives +3 sanity and (Likely) +.5 tempo.
 -   Unlocks willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
 -   Gain willpower EXP via foraging, fighting sea monsters, losing sanity, and using prayer beads.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.

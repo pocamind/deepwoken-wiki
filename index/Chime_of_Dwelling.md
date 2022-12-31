@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 45059
+revid: 45371
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Mechanics, Guilds]
@@ -22,4 +22,4 @@ Notably, anybody can enter the base through these doors. However, they cannot in
 
 ## Notes & Trivia
 
--   Trivia to be added
+-   **TBA**

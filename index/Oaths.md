@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45294
+revid: 45397
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -50,14 +50,14 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Max reputation with Etris and Ministry, 50 Intelligence? |
+| oath_req | Good reputation with Etris and Ministry, 50 Intelligence (not confirmed) |
 | effects | +2 Combat Mantra |
 
 _icon credit to Tortaa#9000_
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
-Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
+Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
 There are currently nine Oaths in _Deepwoken_.
 
@@ -350,8 +350,10 @@ You will get a mantra for each kill.
 -   **Wings - Innate**
     -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 30 seconds.
     -   While active, Air Dash goes much further.
+    -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, and yellow.
     -   Some mantras have different properties while the user have their wings out:
         -   **Fire Blade** now launch the user upward before releasing a flurry of slashes.
+
 -   **Ascension - Combat Mantra**
     -   The user rise into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
@@ -365,6 +367,10 @@ You will get a mantra for each kill.
 ### Effects
 
 This Oath grants two Combat Mantra slots and eight Health.
+
+### Notes
+
+-   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 
 ## Oath: Arcwarder
 
@@ -456,9 +462,21 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
-Current method to obtaining contractor is not publicly known, all methods seen have been currently outed as lies or red herrings as the only person giving out "hints" is a youtuber who got this Oath from a dev. It has been confirmed that the questline was bugged and Lord Regent would not even have the correct DIALOGUE if you talked to him.
+-   1\. Have atleast 10 Intel
+-   2\. Get max reputation with Ministry
+-   3\. Get positive reputation with Etris, enough to start the Duke questline
+-   4\. Start Duke questline and finish it
+-   5\. Return to Regent and do the 'find out' dialogue
+-   6\. Make a deal with every shrine except shrine of order **(note: you HAVE to make deals, not just interact)**
+-   7\. Go back to Regent and pick the first dialogue option
 
-_**Arch\_Mage (DEV) confirmed you do not need puppet master for anything, the only use it provides is the info inside, the physical item is not required to obtain the oath. Arch also confirmed that intelligence is needed, but only a low amount.**_
+### Upgrading
+
+Killing people in Layer 1 of The Depths who have an Oath will progress Contractor.
+
+-   1 Grip - Hidden Tendril
+-   3 Grips - Equalizer
+-   5 Grips - Judgement
 
 ### **Known Abilities**
 

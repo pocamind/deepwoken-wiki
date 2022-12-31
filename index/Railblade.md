@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 44430
+revid: 45375
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -44,3 +44,4 @@ Airborne Critical
     -   A grounded critical and an aerial critical both apply flame to opponents hit.
 -   The description suggests that equipping the weapon reduces the rate at which snow accumulates on the player.
     -   This remains unconfirmed and as of now is only for lore.
+-   This weapon was modelled by oNoodlez

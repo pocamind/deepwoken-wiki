@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 45164
+revid: 45369
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -64,7 +64,7 @@ Template:Creature Infobox V3 These angels are like no other variants - they are 
 
 ## Trivia
 
--   While they aren't Mudskippers, they pose a generally low threat to most players (Stat Check Level: 15/20).
+-   While they aren't Mudskippers, they pose a generally low threat to most players (Stat Check Level: 5/7).
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.
 -   Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
 -   If you climbed up to escape angels, they will not automatically despawn so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**

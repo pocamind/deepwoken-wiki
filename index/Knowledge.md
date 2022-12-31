@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 45135
+revid: 45388
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -38,7 +38,7 @@ It is treated as a currency like notes, but is obtained in a different way.
     -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine.
     -   Think carefully before using this shrine.
 -   _Shrine of Temptation_
-    -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for for 5 knowledge points.
+    -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for 5 knowledge points.
     -   (unsure if rolled mantras are of the same star tier as the re-rolled one)
 
 ## Locations
