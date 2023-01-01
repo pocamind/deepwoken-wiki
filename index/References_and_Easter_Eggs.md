@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 45225
+revid: 45477
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -142,6 +142,7 @@ CONTAINS SPOILERS!!!
 ### **The Etrean Luminant**
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
+-   The Celestial underneath the Delerict Highchurch could be a reference to Lilith from Neon Genesis Evangelion. The white body, red cross, and pool of blood are all traits shared with Lilith
 
 ### **The Eastern Luminant**
 

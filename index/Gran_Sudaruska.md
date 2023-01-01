@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 45000
+revid: 45479
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -11,7 +11,7 @@ categories: [Weapons, Greataxes]
 | Gran Sudaruska | |
 |---|---|
 | type | Greataxe |
-| requirements | 75 ICE, LVL 10, 30 VY |
+| requirements | 75 ICE, LVL 10, 30 HVY |
 | damage | 23.5 |
 | scaling | ICE: 10, HVY: 3 |
 | range | 8 |
@@ -27,7 +27,13 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 23.5 base damage and has a swing speed of 0.64x. She will speak a voiceline and buff the damage dealt from her after killing a [Ministry Scout](Ministry_Scout.md), **unequipping her will reset the counter back to 0**.
+The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 23.5 base damage and has a swing speed of 0.64x.
+
+This weapon has 3 passives abilities:
+
+-   Block breaking an enemy will rain down ice shards that deal damage and leaves patches of ices
+-   When killing [Ministry Scout](Ministry_Scout.md), she gain a stacking damage bonus. This bonus is lost when she is sheathed
+-   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk
 
 ## Trivia
 

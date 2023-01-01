@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 45340
+revid: 45478
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -16,7 +16,9 @@ A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.co
 
 Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which has slightly different information than what is listed here. You can also check that out.
 
-You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain one.
+You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain them.
+
+You can also talk to Ciea near the Widow's Den, she will give you quests to make different potions and bring them to her.
 
 ## Basics
 
@@ -100,7 +102,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 -   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 
--   Dentifilo - Primary effect is **Soothing**; Instantly restores reservoir. Secondary effect is **Disgusting**; Deals a small amount of damage.
+-   Dentifilo - Primary effect is **Soothing**; Instantly restores reservoir (Unknown what it does in verse 2). Secondary effect is **Disgusting**; Deals a small amount of damage.
 
 -   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focus-Enhancing**; Drastically increases the rate that Reservoir is turned into Ether for 15 seconds.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.

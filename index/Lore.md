@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 45188
+revid: 45469
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -325,6 +325,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
 -   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky
     -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
+    -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 ##### Castle Light (The Depths, First Layer)
@@ -343,13 +344,13 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 ##### Ethironal Shrine (First floor)
 
--   A shrine dedicated to Ethiron, built by the residents of the second layer.
+-   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
 
 ##### New Kyrsa (Second Floor)
 
--   Kyrsa is a civilization that sunk to the second layer.
+-   New Kyrsa is a civilization that sunk to the second layer.
 -   Its inhabitants are the Kyrsgarde.
 
 ## Factions
@@ -468,6 +469,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry is allegedly able to share the Whispers of Tacet, or murmur(s) to those with no connection to the song.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
+-   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 
 A Dark Mage, located in Minityrsa.
 
@@ -480,7 +482,7 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _Unknown_
 -   **Lore Sources:** Warden Jericho's Journal, the Windrunner
 
--   The Lord Regent is the only known Contractor. He came from the Depths and may be being used by The Ministry to sink Etrea and bring about the next Great Drowning.
+-   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
 
 ### The Knives of Eylis
 
@@ -552,7 +554,7 @@ A Dark Mage, located in Minityrsa.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
--   Racist.
+-   _Very_ Racist.
 
 A Peacekeeper Commander, part of The Authority
 

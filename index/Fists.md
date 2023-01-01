@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 41796
+revid: 45527
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -77,7 +77,7 @@ File:Jus Karita Description.png
 
 **CRITICAL: Dash forward while performing a kick. Can be upgraded with a talent to remove the cooldown after landing it.**
 
--   To obtain it, you will need to achieve a Power level of 20 and a Light Weapons attribute of 40. Then you need to go through a dialogue tree with [Polis](Polis.md), and you'll get the card.
+-   To obtain it, you will need to achieve a Power level of 6 and a Light Weapons attribute of 40. Then you need to go through a dialogue tree with [Polis](Polis.md), and you'll get the card.
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs instead of your fists. This style is sometimes referred to as [Black Leg](https://onepiece.fandom.com/wiki/Black_Leg_Style), due to it being a bit similar.
 

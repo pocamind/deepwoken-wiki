@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 45301
+revid: 45516
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -23,9 +23,9 @@ The Scion of Ethiron is a boss encountered at the end of the second floor of the
 
 It can shoot bone like projectiles with an unlimited supply, as well as summon bones from the ground. It can also make use of purple energy to attack, creating swirling spheres of it that can cause blindness or fire it in beams.
 
-Upon defeat, they will provide a large sized chest with common items inside being: ........ .Additionally, the player will receive a significant amount of experience, attribute training, resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia.
+Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 [medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions), which can be exchanged for knowledge, enchant stones, random equipment enchants, and the Dawnwalker Oath at Castle Light. Furthermore, defeating the boss allows you to keep any Medallions you had obtained on your Floor 2 run - if you do not defeat this boss, you will not get any loot when you leave layer 2 or die. In addition, a **Boss Chest** containing end-game weapons, rare rings and lots of Deep Gems will spawn in. The Boss Chest also has a chance to contain a Legendary Weapon and/or a Railblade. Finally, the player will receive a significant amount of experience, attribute training, resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards.
 
-## How to Beat the Scion of Ethiron
+## Defeating the Scion of Ethiron
 
 This boss is can be quite intimidating upon first glance at it's sheer size. As with any boss, however, it can be learned and beaten with enough experience and knowledge.
 
@@ -43,7 +43,23 @@ After beating the boss, it's mostly running until you reach the city. There is m
 
 The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss, whether it be with a group or alone, is necessary in order to truly master countering it's moveset and making it out of Floor 2 in once piece.
 
-**(Please add a moveset table)**
+## Moveset
+
+**This boss is very punishing with it's damage.** Exercise caution if you're doing this alone or as a duo as you can quickly run out of health packs if you let yourself get hit too much.
+
+| Name | Description | Advice | Danger |
+| --- | --- | --- | --- |
+| Blinding Gale | The Scion of Ethiron charges up his left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. | Dodge or parry | (★☆☆) |
+| Bone Throw | The Scion of Ethiron launches three bones at you. These do avery low amount of posture damage and can be blocked. If you block this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. | Block | (★☆☆) |
+| Vehemens Ventus | The Scion of Ethiron will hold it's hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. **THIS ATTACK WILL KILL YOU IF YOU ARE TOO CLOSE** **TO IT.** Deals very high posture damage and very high damage. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the layer you're on. If you're solo you won't have enough time to cancel it. | Dodge;
+**Do not parry**
+
+Cancel if possible
+
+ | (★★★) |
+| Laser | The Scion of Ethiron charges up it's arm and quickly releases a purple laser. This will lock onto you and you have to parry it. Damage can be punishing if you mess up. | Parry | (★★☆) |
+| Swing | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | Parry or dodge | (★★☆) |
+| Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | Dodge | (★☆☆) |
 
 ## Trivia
 
@@ -52,3 +68,4 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
 -   The white orbs that appear after defeating the boss will **not** wipe you, but instead send you back to Scyphozia, with the caveat being that **you lose all items you gained from both Floor 1 and Floor 2.**
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
+-   Using the Chilling enchant to attack the boss while it's stunned can lead to a bug where it continues to attack you, becoming un-stunned early.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45467
+revid: 45538
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -50,7 +50,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry |
+| oath_req | Good reputation with Etris and Ministry and unknown amount of intelligence |
 | effects | +2 Combat Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
@@ -399,13 +399,12 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 _"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
 
-**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2. ===Obtainment===#Get 30 Krysan Medallions from Layer 2's second Phase.
+**Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
 
-1.  Talk to Klaris in Castle Light and redeem 'Radiant Magic.
+### Obtainment
 
-\=== Upgrading===#Obtain 15 Krysan Medallions.
-
-1.  Speak to Klaris is Castle Light in the Depths.
+1.  Speak to Klaris Llfiend, Mother of the Lights in Castle Light, and ask to learn the secret of 'radiant magic'. Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md). This gives you the base oath with no talents or mantras.
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 90 Medallions in total to max.
 
 ### Known Abilities
 
@@ -414,8 +413,8 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
--   **Protagonist Syndrome - Passive**\*\*The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
--   **Absolute Radiance - Passive**\*\*Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+-   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
+-   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
 
 ### Effects
 
@@ -427,19 +426,21 @@ This Oath grants two Combat Mantra slots.
 
 **Oath: Contractor**
 
-“ THE METHOD? IF YOU WANT IT, YOU CAN HAVE IT. FIND IT! I LEFT THE METHOD IN LAYER 2! ”
+“ I’m sorry little one… ”
 
-― Arch
+― Some Contractor seeing a random Jetstriker minding his business.
 
 ### Obtainment
 
+_(really, please don't)_
+
 -   1\. Have at least 10 Intelligence.
--   2\. Get positive reputation with The Ministry.
+-   2\. Get positive reputation with The Ministry. (5 Bounty grips worth)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
 -   5\. Return to Regent and do the 'find out' dialogue.
 -   6\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
--   7\. Go back to Regent and pick the first dialogue option.
+-   7\. Go back to Regent and pick the dialogue option about 'knowing your true nature', and then saying that you want to join him.
 
 ### Upgrading
 
@@ -463,6 +464,15 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals Damage to the target, but also gives the User a blue aura. If the User is attacked while they have this blue aura, the attack will be ignored completely, and also stun the attacker for about 2 seconds. Unlike Judgement, the User is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
 
+  
+
+### Tips for obtaining contractor
+
+(Enter tips to obtain contractor fast and efficiently here)
+
+-   It is recommended to farm duke to get bell as you already need to kill him for contractor.
+-   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
+
 File:Dialogue.png
 
 ## Oath: Warmaster
@@ -483,6 +493,7 @@ Not much is known about it, however, it may be the opposing oath to Contractor, 
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
+-   Dawnwalker is often referred to as the Aztup oath due to the ridiculous 90 Medallion cost in order to max it out.
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.

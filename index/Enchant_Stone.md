@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 45324
+revid: 45515
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -12,7 +12,7 @@ The Enchantment Stone is an item that can only be obtained from the Second Layer
 
 ## Obtainment
 
-The Kyrsan Medallion method:
+The [Kyrsan Medallion](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions) method:
 
 1.  Get at least 5 Kyrsan Medallions from Floor 2 which can be found in chests in random buildings. (Be careful as you can get ambushed by mobs in the buildings.)
 2.  Kill Ethrion, escape using the light hook so you keep your Kyrsan Medallions

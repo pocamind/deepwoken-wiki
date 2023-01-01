@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 45375
+revid: 45510
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -27,7 +27,7 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 
 ## Description
 
-The Railblade is a heavy weapon obtained from Layer 2. It is dropped by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [The Avatar of Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
+The Railblade is a heavy weapon obtained from Layer 2. It is dropped by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [The Avatar of Ethiron](Scion_of_Ethiron.md), and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
 
 The Railblade is unique because of its two different critical attacks, along with the critical applying flame. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash infused with flame as well.
 

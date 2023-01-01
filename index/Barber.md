@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 45393
+revid: 45473
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,11 +30,19 @@ To use some of his features, a hair ID from the catalog is needed.
 3.  Change my eyelashes. (Changes your eyelashes as said.)
 4.  Change my gender representation. (Changes gender to male, female, or neutral.)
 5.  Change my face. (Changes face decal.)
-6.  \[Placeholder\] (Changes racial variant.)
+6.  Change my variant. (Changes racial variant.)
+7.  How are you able to do all of this stuff?
 
 1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
 
 2-6 - "Okay! All done!"
+
+7 - "I took an oath as a Fadetrimmer." (Continues in a short conversation)
+
+-   Player: 1. "...A Fadetrimmer?"
+-   Barber: "Yeah. We are a pretty underground Oath. You probably haven't heard of us."
+-   Player: 1. "...Can I take the Oath?"
+-   Barber: "\*_They look at you up and down._\* Not with that get-up you can't."
 
 ## Trivia
 

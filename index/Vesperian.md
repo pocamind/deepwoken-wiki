@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 42018
+revid: 45488
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -27,7 +27,7 @@ Template:Races-Main
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
     <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
-    <li>This buff also stacks with Exoskeleton (Legendary Talent) albeit is slightly reduced.</li>
+    <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
   </ul></li>
     <li>+2 Health</li>
   </ul></td>
