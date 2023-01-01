@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45544
+revid: 45714
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -270,9 +270,10 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 5 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
+    -   Prerequisites: 25 or 30 Fortitude
 -   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
     -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
-    -   Prerequisite: 90 Fortitude & **all** common bastion talents
+    -   Prerequisite: 90 Fortitude & **all** common bastion talents **except** Heavy Haul
 
 ### Beast Slayer
 

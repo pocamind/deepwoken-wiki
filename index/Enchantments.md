@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 45263
+revid: 45710
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -174,7 +174,7 @@ There are two variants that enchantments come in:
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure>File:STORM.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>

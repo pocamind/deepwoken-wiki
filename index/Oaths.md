@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45679
+revid: 45715
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -65,7 +65,7 @@ Initially, all players start as a **Pathfinder**, which does not provide any ben
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
 
-  
+## Various Oaths
 
 **Oathless:**
 
@@ -190,15 +190,15 @@ Visionshaper also has one talents obtained via standard level up.
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
-    -   While the clone deal fake damage, it still applies hit-stun.
-    -   Is very similar to Lightning Clone but work slightly different in execution.
+    -   The clone deals fake damage, half of which is recovered when the duration expires (think of it doing 50% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
+    -   It is important to note that summoned clones do cause hitstun, which with the recent parry changes can lead to difficult parry exchanges.
+    -   This mantra is similar to lightning clones, although it works slightly different in execution.
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
     -   Cooldown is 2 minutes and 40 seconds.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   Players cannot be knocked in the realm.
-    -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
+    -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm.
 
 -   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
@@ -206,9 +206,10 @@ Visionshaper also has one talents obtained via standard level up.
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
     -   Active frames are larger while in the Illusionary Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
+    -   This mantra can counter fall damage, although the bugginess of this behavior likely means it's not intended. (It's also not good to rely on)
 
 -   **Mirage From the Deep - Passive**
-    -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
+    -   While in the **Illusionary Realm**, press X to leave early. This will cost 10% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the monsters that spawn in the Depths
 
 -   **Cheap Trick - Passive**
@@ -217,7 +218,7 @@ Visionshaper also has one talents obtained via standard level up.
 The following talent is obtained by leveling up after obtaining and maxing out Visionshaper.
 
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
-    -   Become invisible for 2.5 seconds whenever you knock an enemy.
+    -   Become invisible for 2.5 seconds whenever you knock an enemy. This invisibility grants iframes.
 
 ### Effects
 
@@ -326,7 +327,9 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and ask
 
 This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn white with a hint of blue.
 
-## Oath: Starkindred
+**Starkindred:**
+
+# **Oath: Starkindred**
 
 “ You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. ”
 
@@ -386,7 +389,7 @@ This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12
 
 ### Obtainment
 
--   Have around 30 Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have around 20 Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
@@ -460,13 +463,13 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
--   1\. Have at least 10 Intelligence.
+-   1\. Have at least 10 Intelligence and your [Resonance](Resonance.md) unlocked.
 -   2\. Get positive reputation with The Ministry. (5 Bounty grips worth)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
 -   5\. Return to Regent and do the 'find out' dialogue.
 -   6\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
--   7\. Talk to Yun'Shul and ask "What happened to this place?" A bell is needed to obtain Contractor
+-   7\. Talk to Yun'Shul and ask "What happened to this place?"
 -   8\. Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
@@ -507,6 +510,14 @@ File:Dialogue.png
 ### Warmaster/Barmaster
 
 -   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
+
+### Time Magic
+
+-   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
+
+### Fadetrimmer
+
+-   Oath of a [Etris](Etris.md) barber. Seemingly, that line was added as a joke. It may not be a future oath.
 
 ## Trivia
 

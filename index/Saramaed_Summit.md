@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 45121
+revid: 45691
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -63,7 +63,7 @@ Saramaed Summit is a **Voidzone**, meaning you will be sent to [The Depths](The_
 -   [Old World Greatshield](Old_World_Greatshield.md)
 -   [Legion Cestus](Legion_Cestus.md)
 -   [Trident Spear](Trident_Spear.md)
--   TBA
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
 
  | 
 

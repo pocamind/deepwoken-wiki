@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 45653
+revid: 45711
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -19,7 +19,7 @@ _This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, s
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) in some way. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The skull is tetradhedron-like, with a purple hue and a yellow fibre protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
+The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), being it's guardian as confirmed by Ragoozer. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The skull is tetradhedron-like, with a purple hue and a yellow fibre protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
 It can shoot bone like projectiles with an unlimited supply, as well as summon bones from the ground. It can also make use of purple energy to attack, creating swirling spheres of it that can cause blindness or fire it in beams.
 
@@ -61,7 +61,7 @@ Cancel if possible
 | Swing | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | Parry or dodge | (★★☆) |
 | Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | Dodge | (★☆☆) |
 
-## Trivia
+## Trivia & Tips
 
 -   Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
     -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.
@@ -69,3 +69,4 @@ Cancel if possible
 -   The white orbs that appear after defeating the boss will **not** wipe you, but instead send you back to Scyphozia, with the caveat being that **you lose all items you gained from both Floor 1 and Floor 2.**
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
 -   Using the Chilling enchant to attack the boss while it's stunned can lead to a bug where it continues to attack you, becoming un-stunned early.
+-   Vamparism is the most preferable enchant, for reasons that are quite obvious. It's quite helpful if it's your first time attempting to beat the boss, however, it's not required.
