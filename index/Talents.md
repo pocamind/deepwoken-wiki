@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45480
+revid: 45544
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1102,8 +1102,6 @@ These are just raw stat increases and are beneficial to anyone.
 ### One Eyed King
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
--   Million Ton Piercer \[Legendary Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether, 3 Health)
-    -   Prerequisite: 90 Strength
 
 ### Prospector
 

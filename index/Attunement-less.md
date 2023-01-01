@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 44093
+revid: 45560
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -421,6 +421,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**30 Heavy Weapon,**_ _Combat Mantra_
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Dazes opponents on hit.
+    -   (cant be upgrade with perfect lenses)
 
  |
 

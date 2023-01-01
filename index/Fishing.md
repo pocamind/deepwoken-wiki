@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 44910
+revid: 45561
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -111,7 +111,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Some spots won't let you fish.
 -   There is no height limit, you can fish from the top of cliff faces.
--   How good certain locations are for fishing is purely RNG, some people will get lucky, and some will not.
+-   ~How good certain locations are for fishing is purely RNG, some people will get lucky, and some will not.~ I've tested in multiple locations and there is definitely a difference in the rate of chests.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
 -   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.

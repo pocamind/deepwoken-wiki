@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 45350
+revid: 45662
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -45,7 +45,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding ?? Echoes.
--   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding ?? Echoes.
+-   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding ?? Echoes.
 
 ## Upgrades and Modifiers
@@ -208,3 +208,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 (Power 2) Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 (Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the Widow's Hollow.**_
+
+## Trivia
+
+-   The name Modifiers Ironwoken is a reference a rogue lineage challange video called [Iron Lineage](https://www.youtube.com/watch?v=IpiDPBjlNlg) created by ReEvolu it was he who started the trend of solo progression within the community

@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 45299
+revid: 45661
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, NPCs]
@@ -28,7 +28,7 @@ Misérables is an NPC in the second floor of the Eternal Gale, found near the ou
 2.  Frolic
 3.  Eat
 
-\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should see
+\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse."
 
 1-50. Peace of mind, friend.
 

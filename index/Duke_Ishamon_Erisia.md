@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 44152
+revid: 45592
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
+Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -39,24 +39,22 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
  | ✗ | ✗ | ◯ | (★☆☆) |
 | **Binding Tempest** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke teleports in front of the first person hit, trapping them in the ball of air before kicking them up and punching them away.
 
-**Note that this will insta-grip you if you are hit by the second hit on low health/knocked.**
+**This move will insta-grip you if you are hit by the second hit on low health/knocked**
 
  | ◯ | ✗ | ◯ | (★★☆) |
 | **Aero Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
-**This move will insta-grip if it hits you while knocked or at low health .**
+**This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ◯ | (★★☆) |
 | **Gale Stomp** | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his target.
 
-**This move will insta-grip if it hits you while knocked or at low health.**
+**This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
 
-**This move will insta-grip if it hits you while knocked or at low health .**
-
--   Covers a large AoE.
+\- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ✗ | (★★★) |
 | **Strong Left** | Duke will charge up a punch, and teleport to his target,

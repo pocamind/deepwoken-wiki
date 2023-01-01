@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 36844
+revid: 45621
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -19,7 +19,10 @@ WARNING: You can eat it by accident.
 ## Tips
 
 -   Do not kill Etrean guards for these, instead kill [Legion Soldiers](Legion_Soldier.md) located in the [Viper's Jaw](<The_Viper's_Jaw.md>) as they have a higher chance on dropping Gale Stones.
+
 -   Alternatively, the most low risk high reward and probably the fastest way to gain Gale Stones is to kill the Etrean Footsoldiers in the Etrea vs. The Central Authority event. Do not worry, this does not tarnish your reputation with Etrea.
+
+-   Finally, the bloated Mineskippers found within the cave on Songseeker will occasionally drop Gale stones; though it's a bit rare or uncommon for them to do so, you could try to farm them for one as well.
 
 ## Notes/Trivia
 

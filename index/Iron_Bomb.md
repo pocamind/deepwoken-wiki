@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 45327
+revid: 45567
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Items]
@@ -31,3 +31,5 @@ You are able to get this recipe when you interact with an NPC in [Songseeker Wil
 ### Uses
 
 Crafted bombs deal damage when they explode. You are able to press M1 to place it on the ground directly below you with a timer to explode or you can press E to throw it in the direction of your cursor, with the bomb exploding on impact.
+
+Obtaining the ability to craft bombs will immediately allow you to get talents involving the bombs, which could potentially clog up your card hands with unneeded cards you don't want. Because of this, only get the talent if you _absolutely_ want to get the ability to use bombs.

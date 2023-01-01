@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 45539
+revid: 45676
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]

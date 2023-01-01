@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45538
+revid: 45679
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
-There are currently nine Oaths in _Deepwoken_.
+There are currently ten Obtainable Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -65,7 +65,11 @@ Initially, all players start as a **Pathfinder**, which does not provide any ben
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
 
-## Oath: Oathless
+  
+
+**Oathless:**
+
+# **Oath: Oathless**
 
 “ You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? ”
 
@@ -90,8 +94,11 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 ### Notes
 
 -   A good Oath to obtain if you are not planning on obtaining a substantial amount of requirements.
+    
 
-## Oath: Blindseer
+**Blindseer:**
+
+# **Oath: Blindseer**
 
 “ You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. ”
 
@@ -152,8 +159,12 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 -   Other Clues...
     -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
+-   Having Blind Flaws may remove the Blindfold requirement. (Has to be confirmed)
+    
 
-## **Oath: Visionshaper**
+**Visionshaper:**
+
+# **Oath: Visionshaper**
 
 “ You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands. ”
 
@@ -219,8 +230,11 @@ Does not grant any special cosmetic based on race.
 ### Notes
 
 -   The Mental Fortress Talent Disbelief only affects illusionary servants, reducing the amount of time they last dramatically.
+    
 
-## Oath: Linkstrider
+**Linkstrider:**
+
+# **Oath: Linkstrider**
 
 “ You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength. ”
 
@@ -264,7 +278,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 
-## Oath: Jetstriker
+**Jetstriker:**
+
+# **Oath: Jetstriker**
 
 “ You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. ”
 
@@ -346,7 +362,10 @@ You will get a mantra for each kill.
     -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
--   **Celestial Assault - Combat Mantra**\*\*Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+
+-   **Celestial Assault - Combat Mantra**
+    -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+
 -   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
         -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
@@ -355,7 +374,9 @@ You will get a mantra for each kill.
 
 This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 
-## Oath: Arcwarder
+**Arcwarder:**
+
+# **Oath: Arcwarder**
 
 “ Weld the armor of the Ignition Union's most notable dwellers. ”
 
@@ -365,21 +386,25 @@ This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12
 
 ### Obtainment
 
-1.  Have 20 Fortitude, 20 Flamecharm and 20 Thundercall.
-2.  Go to Layer 2 and Complete Alpha's quest
+-   Have around 30 Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
     3.  Retrieve injured Elphis **(option 2 when you talk to him)**
     4.  Talk to Alpha again
-3.  Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
+-   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
 
--   **Arc Suit - Wildcard Mantra**\*\*Encases the user in durable armor that reduces damage taken by 20%.
--   **Arc Beam - Combat Mantra**\*\*Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
+-   **Arc Suit - Wildcard Mantra**
+    -   Encases the user in durable armor that reduces damage taken by 20%.
+-   **Arc Beam - Combat Mantra**
+    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
+
 -   **Arc Wave - Combat Mantra**
     -   Release a wave of energy around you, dealing fire and lightning damage.
--   **Arc Module: Leap - Passive**\*\*Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
+-   **Arc Module: Leap - Passive**
+    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
 -   **Arc Module: Guard - Passive**
     -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (+10 Ether)
 -   **Arc Module: Eject - Passive**
@@ -395,16 +420,21 @@ This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12
 
 This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your eyes to orange.
 
-## Oath: Dawnwalker
+**Dawnwalker:**
 
-_"You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge."_
+# **Oath: Dawnwalker**
 
+“ You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. ”
+
+― Dawnwalker Description
+
+  
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
 
 ### Obtainment
 
-1.  Speak to Klaris Llfiend, Mother of the Lights in Castle Light, and ask to learn the secret of 'radiant magic'. Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md). This gives you the base oath with no talents or mantras.
-2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 90 Medallions in total to max.
+1.  Speak to Klaris Llfiend, Mother of the Lights in Castle Light, and ask to learn the secret of 'radiant magic'. Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md). This gives you the base oath along with Blinding Dawn.
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 60 Medallions in total from base to max. 15 Medallions for Radiant Kick and another 15 Medallions for both talents.
 
 ### Known Abilities
 
@@ -420,19 +450,15 @@ _"You vow to forever reach towards the brilliant Light. There is no shadow that 
 
 This Oath grants two Combat Mantra slots.
 
-## Oath: Contractor
+**Contractor:**
 
-  
+# **Oath: Contractor**
 
-**Oath: Contractor**
+“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. ”
 
-“ I’m sorry little one… ”
-
-― Some Contractor seeing a random Jetstriker minding his business.
+― Contractor Description
 
 ### Obtainment
-
-_(really, please don't)_
 
 -   1\. Have at least 10 Intelligence.
 -   2\. Get positive reputation with The Ministry. (5 Bounty grips worth)
@@ -440,7 +466,8 @@ _(really, please don't)_
 -   4\. Start Duke questline and finish it.
 -   5\. Return to Regent and do the 'find out' dialogue.
 -   6\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
--   7\. Go back to Regent and pick the dialogue option about 'knowing your true nature', and then saying that you want to join him.
+-   7\. Talk to Yun'Shul and ask "What happened to this place?" A bell is needed to obtain Contractor
+-   8\. Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
 
@@ -464,20 +491,22 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals Damage to the target, but also gives the User a blue aura. If the User is attacked while they have this blue aura, the attack will be ignored completely, and also stun the attacker for about 2 seconds. Unlike Judgement, the User is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
 
-  
-
-### Tips for obtaining contractor
-
-(Enter tips to obtain contractor fast and efficiently here)
+### Notes
 
 -   It is recommended to farm duke to get bell as you already need to kill him for contractor.
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
 
 File:Dialogue.png
 
-## Oath: Warmaster
+  
 
-Not much is known about it, however, it may be the opposing oath to Contractor, as blindseer is to visionshaper.
+File:Dialogue.png
+
+## Lore Oaths:
+
+### Warmaster/Barmaster
+
+-   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
 
 ## Trivia
 
@@ -485,15 +514,14 @@ Not much is known about it, however, it may be the opposing oath to Contractor, 
     
     Proof of Time magic's existence and it being 'oath magic'
     
--   Starkindred was previously leaked by NanoProdigy.
--   Takers of the Blindseer oath can remove their blindfold and still have the eye appear in front of them. It is unknown if this is unintentional or not.
+
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
--   Dawnwalker is often referred to as the Aztup oath due to the ridiculous 90 Medallion cost in order to max it out.
+-   Dawnwalker is often referred to as the Aztup oath due to the ridiculous 60 Medallion cost in order to max it out.
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.

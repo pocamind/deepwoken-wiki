@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 45349
+revid: 45601
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -34,8 +34,6 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 ### Humanoid Monsters
 
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
-
-Exclusive to The Depths: Eternal Gale (Layer 2)
 
 **Exclusive to Trial of One**
 

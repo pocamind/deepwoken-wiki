@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 45395
+revid: 45588
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -58,7 +58,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Your agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
     -   This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).
-    -   Note that this hill cannot be climbed using only 75 agility, even with the [Jetstriker](Oath%253A_Jetstriker.md) oath - an upwards mobility mantra, several barrels, a [Chime of Dwelling](Chime_of_Dwelling.md), or a friend is needed to climb to the second last ledge.
+    -   You can watch a guide to get to the Windrunner with [Jetstriker](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Jetstriker) and 75 agility [here](https://youtu.be/RoDUDMDaK_g).
 
 ### Intelligence
 

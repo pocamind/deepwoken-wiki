@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 45262
+revid: 45582
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Technically A Race]
@@ -258,7 +258,7 @@ Critical
 
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
--   As a joke within the community, this trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. However, this assumes you only use Basic Attacks and not any [Mantras](Mantras.md), which trivialise the fight.
+-   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
     
 
 ## Trivia

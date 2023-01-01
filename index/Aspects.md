@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 44391
+revid: 45677
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Races, Character, Mechanics]

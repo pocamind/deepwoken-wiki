@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 44557
+revid: 45618
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -187,7 +187,7 @@ Crate Retrieval
 -   [The Summer Company](The_Summer_Company.md)
 -   [The Eleventh Legion](The_Hundred_Legions.md)
 -   The Children of Navae
--   The Ministry
+-   [The Ministry](The_Ministry.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Celtor](The_City_of_the_Drowned.md)
