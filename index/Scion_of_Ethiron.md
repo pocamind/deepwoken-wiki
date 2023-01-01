@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 45711
+revid: 45768
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]

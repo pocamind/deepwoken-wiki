@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 45594
+revid: 45752
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Weapons, Greataxes, "Attunement-based Weapons"]
 ---
 
 # Gran Sudaruska
@@ -31,7 +31,7 @@ The Gran Sudaruska is a [Greataxe](Weapons.md) that scales with both Heavy and [
 
 This weapon has 3 passives abilities:
 
--   Block breaking an enemy will rain down ice shards that deal damage and leaves patches of ices
+-   Hitting an enemy 3 time will rain down ice shards that deal damage and leaves patches of ices
 -   When killing [Ministry Scout](Ministry_Scout.md), she gain a stacking damage bonus. This bonus is lost when she is sheathed
 -   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk
 

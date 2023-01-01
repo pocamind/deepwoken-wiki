@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 45331
+revid: 45779
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -19,7 +19,7 @@ categories: [Weapons, Weaponry]
 | penetration | 30% |
 | special effect | UNK |
 | stances | 1 Handed |
-| selling price | UNK |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

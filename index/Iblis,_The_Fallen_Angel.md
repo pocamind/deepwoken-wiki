@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 45326
+revid: 45764
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

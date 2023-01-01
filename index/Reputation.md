@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 45618
+revid: 45726
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -164,6 +164,11 @@ Loan Sharking
 **Summer Company**
 
  |
+| 
+
+Bounty Quest
+
+ | You will bounty hunt for Emel or Imel, he will ask you to do a "PARTY TRICK", basically killing someone as smart as you. You can also hunt any power level but it has to be in a specified place, Emel = Songseeker wilds, Imel = Lower erisia. | **The Ministry** |
 | 
 
 Crate Retrieval

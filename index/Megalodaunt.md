@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 45644
+revid: 45777
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -246,7 +246,7 @@ Bullet Fury
 
 Laser Explosion
 
- | The Mechalodaunt will fire a laser in a circle around it, causing a fiery explosion. | ✗ | ✗ | ◯ | (★★★) |
+ | The Mechalodaunt will fire a laser in a circle around it, causing a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
 | 
 
 Roar

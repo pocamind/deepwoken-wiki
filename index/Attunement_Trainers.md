@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 40437
+revid: 45716
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, NPC, Npc]
@@ -14,7 +14,9 @@ NPCs hidden around the map that level up spells for money. Each trainer will inc
 
 A spell trainer **WILL NOT** train you if you do not have the element learned. A trainer needs intervals of 20 points in your attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 
-You can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) Unlocking said attunement is permanently unlocked and can be chosen when you get wiped. Note that it does not transfer through slots. Trying to learn more than 2 elements will make it so you can't get another element, although you can get more than 3 elements on one character by collecting all of the blood potions and drinking them at the same time.
+You can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) Unlocking an attunement permanently allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
+
+Trying to learn more than 2 elements will make it so you can't get another element, although you can get more than 3 elements on one character by collecting all of the blood potions and drinking them at the same time.
 
 ## List of Trainers
 

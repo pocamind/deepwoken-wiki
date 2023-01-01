@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 45156
+revid: 45780
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -19,7 +19,7 @@ categories: [Weapons, Verse 2]
 | penetration | 5% |
 | chip damage | 35% |
 | special effect | ? |
-| selling price | 75 |
+| selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |

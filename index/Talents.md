@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45714
+revid: 45772
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -53,11 +53,13 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 -   Quest giver located at the gate to burning stone gardens. He will request that you kill a sharko.
 -   it is common to find a sharko inside of the cave behind him, but if none spawn then you can find them at the sharko cave in lower erisia.
+-   You will automatically gain Engage at Power 3 and Critical attack at Power 5 on all new slots.
 
 ### Aerial Assault
 
 -   Quest giver located in Lower Erisia near the glider blueprints giver.
 -   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
+-   You will automatically gain this at Power 2 on all new slots.
 
 ### Thresher Scales
 
@@ -68,6 +70,7 @@ File:Thresherquest1.png
 -   Jessamine will ask you to kill a king thresher
 -   King threshers spawn around this area. One will also spawn at the lightkeepers temple.
 -   Completing the quest will grant the talent or a free talent hand if you already have it.
+-   You will automatically gain this at Power 10 on all new slots.
 
 ### Tree-Felling blow
 
@@ -592,7 +595,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
     -   Uses 15 Ether and does not proc if you don’t have enough Ether
-    -   Prerequisite: 65 Flamecharm
+    -   Prerequisite: 60 Flamecharm
     -   Cooldown: 8 Seconds
 -   Exploding Mirage Clone \[Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
     -   Prerequisite: Mirage Clone

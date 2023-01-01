@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 45688
+revid: 45718
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -14,11 +14,11 @@ File:Attunementicon.png
 
 ## Description
 
-There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective trainers. To unlock these, you must collect five of their respective Attunement Ingredient, dropped by NPCs that use it and certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
+There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective [trainers](Attunement_Trainers.md). To unlock these, you must collect five of their respective Attunement Ingredient, which're dropped by NPCs that use the Attunement, as well as by certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
 
 While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
 
-When creating your character, you may choose to start with no Attunement, which will start the player with no Attunement, 10 additional points to invest into attributes (for your first power only, allowing you to have higher stats than a player who has selected an attunement at power 1), and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
+When creating your character, you may choose to start with no Attunement, which will start the player with no Attunement, 10 additional points to invest into attributes (for your first power only, allowing you to have higher stats than a player who has selected an Attunement at power 1), and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
 
 It is worth noting that Mantras can have rarities individual of their stars, and Attunement-based mantras sometimes have requirements of non-Elemental stats (points in agility, strength etc).
 
@@ -37,13 +37,19 @@ Another point worth noting is there's no current way of removing an Attunement t
 -   File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
     
     You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
-    -   A way to obtain all 5 attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 attunements.
+    -   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements.
         
         File:Three attunements.png
         
 -   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all Attunements to be select-able from the menu.
--   Once you have selected an attunement, it will be the only available attunement in the character creation menu other than choosing random, or Attunement-less. This does not include attainable attunements, after getting wiped those will be also choosable in the character creation menu along with your starter attunement. Keep in mind you can only choose 1 after being wiped. (For example, starting with ice, then getting shadow, and getting wiped, you can only choose ice, shadow, Attunment-less or random.)
+
+-   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you unlock more of them from their respective [trainers](Attunement_Trainers.md).
+
+-   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
+
+When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
+
 -   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
 -   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
     -   As an extension, he mentions that those who wield water magic have already lost their humanity.

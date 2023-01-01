@@ -1,16 +1,16 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 45433
+revid: 45815
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Enemies, NPCs, Bosses]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
 notices:
   - This page is currently being worked on. Please check back later.
 ---
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Aha, the first strike? Not one to mince words are we? ”
+“ AHAHAHAHAHAhaha... ”
 
 ― Chaser
 
@@ -18,11 +18,15 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser or Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, but only by description and not appearance.
+Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, by both description and appearance.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Kyrsan_Shrine_of_Arrival.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
-Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the old [black diver](Black_Diver.md) one. He carries 6 [resonances](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal.
+Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries 6 [resonances](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal (Pictures on right).
+
+File:Chaser with 6 stolen Resonance Bells.png
+
+Chaser with 6 stolen Resonance Bells
 
 ## Moveset
 
@@ -42,7 +46,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**There is an indicator before the attack**_
 
- | ✗ | ✗ | ◯ | (★★☆) |
+ | ✗ | ✗\*\* | ◯ | (★★☆) |
 | **Burning Blood**
 
 **Explosion**
@@ -53,7 +57,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**In his 2nd stage, the stalactites**_ _**fall immediately after a laugh.**_
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ | ✗ | ◯\* | ◯\* | (★★☆) |
 | **Sanguine Repulsion** | Chaser launches away all players near him and causes them to ragdoll, happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_
@@ -138,7 +142,6 @@ Additionally, the player will receive a significant amount of experience, [attri
 ## Trivia
 
 -   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
--   Chaser wears the old Black Diver outfit, possibly showing his current disassociation with the Divers as all the other Black Divers have the updated outfits.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
 -   Bloodless Gems have reduced healing effects on Chaser.

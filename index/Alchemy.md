@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 45478
+revid: 45760
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -26,7 +26,7 @@ You can also talk to Ciea near the Widow's Den, she will give you quests to make
 
 To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.
 
-There are four known functioning cauldron in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). You can also create your own cauldron using Summon Cauldron, which appears at exactly 25 Intelligence as a Mantra, but is unlikely to draw unless Attunementless.
+There are four known functioning cauldron in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). You are able to create your own cauldron using Summon Cauldron, which appears at exactly 25 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
 
 Adding too many ingredients to a potion will dilute it, and the potion will do almost nothing. A maximum of **5** ingredients can be added to a potion before it is diluted, and any individual ingredient can be added a maximum of **3** times.  
 For example, you can make a powerful speed potion using 3 [Pomars](Pomar.md) and 2 [Spider Eggs](Spider_Egg.md), but if you brew a potion using 4 Pomar's, or 3 Pomar's and 3 Spider Eggs, you will just get a useless diluted potion.

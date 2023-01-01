@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 45394
+revid: 45753
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -15,7 +15,7 @@ notices:
 | name | Mystic |
 | location | Etris, Summer Isle |
 
-“ ”
+“ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 
 ― Mystic
 

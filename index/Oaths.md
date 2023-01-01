@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45715
+revid: 45817
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -94,6 +94,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 ### Notes
 
 -   A good Oath to obtain if you are not planning on obtaining a substantial amount of requirements.
+-   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
     
 
 **Blindseer:**
@@ -159,7 +160,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 -   Other Clues...
     -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
--   Having Blind Flaws may remove the Blindfold requirement. (Has to be confirmed)
+-   Having Blind Flaw remove the Blindfold requirement.
     
 
 **Visionshaper:**
@@ -467,10 +468,9 @@ This Oath grants two Combat Mantra slots.
 -   2\. Get positive reputation with The Ministry. (5 Bounty grips worth)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
--   5\. Return to Regent and do the 'find out' dialogue.
--   6\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
--   7\. Talk to Yun'Shul and ask "What happened to this place?"
--   8\. Go back to Regent and pick the first dialogue option.
+-   5\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
+-   6\. Talk to Yun'Shul and ask "What happened to this place?"
+-   7\. Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
 
@@ -498,26 +498,61 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   It is recommended to farm duke to get bell as you already need to kill him for contractor.
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
-
-File:Dialogue.png
-
-  
+-   Do note that if you have this oath and a large group of players see you, they will try they're best to kill you as the progressing method of this oath is very toxic and many players hate contractor users, so if you ever got jumped by 6 players from different guilds don't be surprised
 
 File:Dialogue.png
 
 ## Lore Oaths:
 
-### Warmaster/Barmaster
+**Warmaster/Barmaster:**
+
+## Warmaster/Barmaster
 
 -   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
+    
 
-### Time Magic
+**Time Magic:**
+
+## Time Magic
 
 -   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
+    
 
-### Fadetrimmer
+**Ironsing:**
+
+## Ironsing
+
+**Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
+
+-   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
+    -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
+        
+
+**Lifeweaver:**
+
+## Lifeweaver
+
+**Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
+
+-   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Attunement. Lifeweave has healing capabilities; though it's not shown in-game.
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
+-   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
+-   The book _The Lament of Ciryyn_ expands up on it
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
+    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
+        
+
+**Fadetrimmer:**
+
+## Fadetrimmer
 
 -   Oath of a [Etris](Etris.md) barber. Seemingly, that line was added as a joke. It may not be a future oath.
+    
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 45157
+revid: 45782
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Spears]
@@ -17,6 +17,7 @@ categories: [Weapons, Items, Weaponry, Spears]
 | range | 9 |
 | swing speed | 0.72x |
 | penetration | 20 |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
