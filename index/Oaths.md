@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45897
+revid: 45953
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -363,13 +363,12 @@ You will get a mantra for each kill.
     -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, and yellow.
     -   Some mantras have different properties while the user has their wings out:
         -   **Fire Blade** now launches the user upward before releasing a large plume of flames.\***Ascension - Combat Mantra**
+-   **Ascension - Combat Mantra**
     -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
-
 -   **Celestial Assault - Combat Mantra**
     -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
-
 -   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
         -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
@@ -474,7 +473,6 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
--   0 recognize the fact that if you do this you are objectively a loser
 -   1\. Have at least 15 Intelligence and your [Resonance](Resonance.md) unlocked.
 -   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
@@ -498,7 +496,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned.
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned. This also forms a Hidden Tendril on the target.
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
@@ -511,7 +509,6 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   It is recommended to farm duke to get bell as you already need to kill him for contractor.
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
--   Do note that if you have this oath and a large group of players see you, they will try they're best to kill you as the progressing method of this oath is very toxic and many players hate contractor users, so if you ever got jumped by 6 players from different guilds don't be surprised
 
 File:Dialogue.png
 

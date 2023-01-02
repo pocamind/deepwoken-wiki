@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 44405
+revid: 45957
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -181,7 +181,7 @@ File:Fountain.png
 
 Epic fountain.
 
--   Located on an island behind the Inn. You have to get into this location by destroying the different colored wall(Needs confirming) or using a teleport move.
+-   Located on an island behind the Inn. You have to get into this location by destroying the different colored wall (tested with lvl 1 strongleft&shoulderbash did not break) or using a teleport move.
 
 -   Inside, there is a room decorated with trees, bushes and a blue fountain in the middle. Interacting with the fountain tells you that you need something to water it, but if you have a [canteen](Canteen.md) in your inventory with water in it, The fountain will sprouts 6 random lotuses in the room and you can collect them. The fountain has a cooldown.
 
@@ -317,8 +317,14 @@ Items and equipment that can be obtained from loot chests.
 #### _**Rings**_
 
 -   Dawnfist's Ring
+-   Rosen's Ring
+-   Bloodiron Ring
+-   Konga's Clutch Ring
+-   Ring of Wisps
+-   Ring of Pestilence
 
 ## Trivia
 
 -   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a talent card related to Reputation.
 -   The only place to buy guns in Eastern Luminant.
+-   When a player with bad reputation come near the island the big cannon will activate by giving a warning sound then shoot after 3-5 seconds

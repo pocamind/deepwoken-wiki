@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 43792
+revid: 45952
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -26,7 +26,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.
 3.  Light the campfires using flint or any other attunement-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle.
 
-This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 30-40+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
+This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry. The only way to escape is to either die, or defeat The Ferryman.**
 
@@ -187,7 +187,8 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman is now completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
--   (unsure if this is a bug) The Ferryman's lightning clones can actually drop luck. As they are counted as an enemy, when they disappear they have a chance to drop luck.  
+-   ~(unsure if this is a bug) The Ferryman's lightning clones can actually drop luck. As they are counted as an enemy, when they disappear they have a chance to drop luck.~ Luck has been removed in the Verse 2 update, though they can still drop luck particles which give you an investment point.~  
+    ~
     
     File:Yamaketzalferryman.png
     

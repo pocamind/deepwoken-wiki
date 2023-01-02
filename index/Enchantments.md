@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 45910
+revid: 45958
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -82,7 +82,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonationgif.gif<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
@@ -174,7 +174,7 @@ There are two variants that enchantments come in:
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
-  <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
@@ -183,7 +183,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p>Effects of the storm enchant, with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns.</p></div></td>
   <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
@@ -195,7 +195,7 @@ There are two variants that enchantments come in:
   <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
   On proc, a red slash will follow up after a successful m1 on the target<br>
@@ -389,7 +389,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
   <font>Ferocity<div></div></font></center></td>
-  <td><div>Heavily reduces fall damage. (Might have another use to damage)<br>
+  <td><div>Rewards the user with extra defense when attacking back.<br>
   </div></td>
   <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>

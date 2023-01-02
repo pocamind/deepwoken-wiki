@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 44872
+revid: 45917
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Bone Keeper
 
-Template:EnemyInfobox1.0
+_Also known as IM COME YOU_Template:EnemyInfobox1.0
 
 ## Overview
 

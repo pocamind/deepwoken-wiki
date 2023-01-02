@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 45063
+revid: 45914
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -231,7 +231,7 @@ Common
 +2 Health
 
  |
-| File:Dark God.png | Dark God | 
+| File:Dark God Tempo.png | Dark God | 
 
 > Darksiphon
 
@@ -240,7 +240,7 @@ Common
   
 Common  
 
- | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their reservoir instead.
+ | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their tempo instead and increase your own.
 
 +1 Elemental Intensity +3 Health
 
