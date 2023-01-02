@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 45868
+revid: 45998
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -73,11 +73,6 @@ Mindless enemies that sprout out of the ground to surprise their prey. This vari
 Scratch
 
  | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
-| 
-
-Air Force
-
- | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -206,6 +201,11 @@ Mineskippers are Mudskippers that wear mining helmets and the [Experienced Adven
 Scratch
 
  | Weakly smacks opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Air Force
+
+ | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -221,7 +221,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found at Meteor Isle, spawning with several different types of weapons and around each other in a group. They wield weapons and wear a [Darksteel Plate](Darksteel_Plate.md), along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md).
+Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found at [Meteor Isle](Meteor_Isle.md), spawning with several different types of weapons and around each other in a group. They wield weapons and wear a [Darksteel Plate](Darksteel_Plate.md), along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md).
 
 ## Moveset
 
@@ -296,4 +296,4 @@ Critical
 -   On April Fool's Day 2022, Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
--   The Mudskipper has the greatest number of variants out of any NPC in the game, having eight in total, not including the April Fool's variants.
+-   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.

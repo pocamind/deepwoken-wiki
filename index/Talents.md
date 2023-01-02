@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45907
+revid: 46005
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -755,7 +755,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Javelin Lord
 
 -   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
-    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 60 Thundercall
+    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 40 Thundercall
 
 ### **Justicar**
 

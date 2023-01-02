@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 45870
+revid: 46011
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -91,7 +91,7 @@ Murmur: Rhythm is a Murmur that, when activated, will point out players who make
 
 ### Obtainment
 
-In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge). Required to be power 10 in order to initiate a conversation.
+In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge). Required to be at least power 8 in order to initiate a conversation.
 
 You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly.
 

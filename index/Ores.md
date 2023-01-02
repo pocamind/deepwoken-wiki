@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 43383
+revid: 45962
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -32,7 +32,7 @@ Used for crafting certain armors, comes in a yellowish color. Found in the [Song
 
 **Erisore:**
 
-Used for crafting certain armor, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md).
+Used for crafting certain armor, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md) and the inside of Tomb of the nameless warrior.
 
 **Irithine:**
 

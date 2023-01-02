@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 44530
+revid: 45982
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -11,10 +11,10 @@ categories: [Weapons, Greathammers]
 | Petra's Anchor | |
 |---|---|
 | type | Heavy Greathammer |
-| requirements | 75 HVY 10 STR |
+| requirements | 75 HVY 10 STR 10 LVL |
 | damage | 26.5 |
 | scaling | 8 |
-| range | 8 |
+| range | 8.5 |
 | swing speed | 0.6x |
 | endlag | 0.1s |
 | penetration | 15% |
@@ -25,7 +25,7 @@ categories: [Weapons, Greathammers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Directly dropped by the Dread Serpent |
-| description | An unwieldy weapon that promises to hold fast in battle. |
+| description | The anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey. |
 
 ## Description
 
@@ -34,5 +34,3 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 ## Trivia
 
 -   It's very likely a reference to either Totsugeki May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.
--   Its old description was "The Anchor of the vessel "Petra's Dawn", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
-    -   For one reason or another, it was quietly changed to its current description in a shadow-update.

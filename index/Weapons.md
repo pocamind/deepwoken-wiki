@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 45137
+revid: 45965
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1491,7 +1491,7 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 
 **Shields:**
 
-Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. The more weight a shield has, the more posture you will gain from the shield. Certain talents and mantras will also require having a shield.
+Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Shield divide posture damage taken by their weight. Certain talents and mantras will also require having a shield.
 
 <table>
 <tbody>

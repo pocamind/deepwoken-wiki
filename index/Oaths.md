@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45953
+revid: 46014
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -50,7 +50,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry and at least 15 points of intelligence |
+| oath_req | Good reputation with Etris and Ministry and at least 10 points of intelligence |
 | effects | +2 Combat Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
@@ -296,7 +296,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
-    -   Wait below the yellow marker, beating him then walking towards him counts as you losing so it's best to just wait until he stops at the marker as well.
+    -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
 
 Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and asks the Player to bring the orbs to them for a Jetstriker Talent. You can bring the Orbs in bulk or all at once.
 
@@ -473,7 +473,7 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
--   1\. Have at least 15 Intelligence and your [Resonance](Resonance.md) unlocked.
+-   1\. Have at least 10 Intelligence and your [Resonance](Resonance.md) unlocked.
 -   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
@@ -556,6 +556,8 @@ File:Dialogue.png
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
+
+**Fadetrimmer:**
 
 ## Trivia
 

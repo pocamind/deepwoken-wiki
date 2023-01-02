@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 45760
+revid: 46000
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items]
@@ -110,8 +110,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 
 -   Gobletto - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Hastening**; Increases speed for 15 seconds.
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three Plumfruit, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the Gobletto secondary effect is.
-        -   ~It may be possible to find the name of the secondary effect if you have Exterminator but not Apothecary (which might allow invigorating to be cancelled with fewer Plumfruit), though this is a difficult test to set up.~
-        -   the name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.
+        -   The name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.
 
 -   Ongo - Primary effect is **Buckling**; Reduces maximum posture. Secondary effect is **Staggering**; Increases posture damage.
     -   If you have the Apothecary talent but not the Exterminator talent, the strongest effect is Staggering instead of Buckling.

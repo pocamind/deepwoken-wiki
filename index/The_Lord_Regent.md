@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 45310
+revid: 45995
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -10,7 +10,7 @@ categories: [NPCs, Quests]
 
 | The Lord Regent | |
 |---|---|
-| name | Zi'eer "Lord Regent" |
+| name | The Lord Regent |
 | location | Etris Palace |
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me. ”
@@ -19,11 +19,9 @@ categories: [NPCs, Quests]
 
 ## Description
 
-The Lord Regent is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of The Authority, believes that The Lord Regent is a member of the long thought deceased contractors, and may bring about a 'great war' which will cause the second great flood.
+The Lord Regent, real name Zi'eer, is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of The Authority, believes that The Lord Regent is a member of the long thought deceased contractors, and may bring about a 'great war' which will cause the second great flood. He is also the fourth prophet of [The Ministry](The_Ministry.md). The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
-Through the Contractor Oath, his true name and position is revealed. As Zi'eer, the 4th Prophet of the Ministry.
-
-The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know.
+The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
 He does not leave his throne under any circumstances. It is unclear whether this is due to choice, or because he is forced to remain there for reasons unknown. Because of this, his subjects believe that he is stricken with some kind of illness and is therefore remaining inside his palace to recover.
 
@@ -37,7 +35,7 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n)) The Lord Regent will kill you no matter how much health you have.
     -   You do not have to talk to him after killing [The Duke](Duke_Ishamon_Erisia.md), as he will already uncap your [attunement](Attunements.md) after killing him.
--   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he also uses [Shadowcast](Shadowcast.md) magic.
+-   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also uses [Shadowcast](Shadowcast.md) magic, which can only be obtained from The Dpeths and he sends his contractors to kill other in The Depths.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change the interaction with Lord Regent.
