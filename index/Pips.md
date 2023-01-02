@@ -1,6 +1,6 @@
 ---
 title: Pips
-revid: 37757
+revid: 45892
 source: https://deepwoken.fandom.com/wiki/Pips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Equipment (Armor)
+-   [Armor](Armor%253Fredirect=no.md)

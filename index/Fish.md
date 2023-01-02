@@ -1,6 +1,6 @@
 ---
 title: Fish
-revid: 8107
+revid: 45896
 source: https://deepwoken.fandom.com/wiki/Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Types of Fish
+-   [Fishing](Fishing.md)

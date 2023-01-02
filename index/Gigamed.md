@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 45824
+revid: 45873
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -13,8 +13,6 @@ categories: [Monsters]
 ― The 4 Gigameds sent by a single King Gigamed
 
   
-
-[Nautilodaunt](Nautilodaunt.md)
 
 **Gigamed:**
 
@@ -37,7 +35,7 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
--   The King Gigamed is one of the only monster, with the Nautilodaunt, that can regen health over time.
+-   The King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time.
     
 
 **King Gigamed:**
@@ -56,7 +54,6 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 
 ## Trivia
 
--   Real Name: King Gigamed
 -   **Can be Corrupted**
     -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.

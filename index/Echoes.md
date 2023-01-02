@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 45855
+revid: 45888
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -208,3 +208,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 (Power 2) Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 (Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the Widow's Hollow.**_
+
+## Trivia
+
+-   The modifier "Ironwoken" is a reference to a popular series of challenge called "Ironman" challenges, popularised by Runescape, its a complete solo run of a game with no other player interactions such as trading or using markets.

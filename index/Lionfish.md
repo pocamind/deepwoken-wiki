@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 45274
+revid: 45900
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -107,6 +107,7 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   You can spawn Lionfish by fishing with a low chance.
+-   The lionfish itself and it's moves may look intimidating but the lionfish is one of the easiest mobs in the game as it has only a few attack patterns and its beam can be easily dodged.
 -   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. The larger bubbles may also spawn the [Dread Serpent](Dread_Serpent.md) boss.
 
 ## Trivia

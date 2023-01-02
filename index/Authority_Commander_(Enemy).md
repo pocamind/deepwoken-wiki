@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 41912
+revid: 45901
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,9 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a warden, it is a [Authority Captain](Authority_Captain.md).
-
-Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm.
+Authority Commandersare high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a Captain, it is a Authority Lieutenant.
 
 ## Moveset
 

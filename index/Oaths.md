@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45869
+revid: 45897
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -50,7 +50,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry and unknown amount of intelligence |
+| oath_req | Good reputation with Etris and Ministry and at least 15 points of intelligence |
 | effects | +2 Combat Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
@@ -64,6 +64,8 @@ There are currently nine Obtainable Oaths in _Deepwoken_.
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
+
+  
 
 **Oathless:**
 
@@ -374,7 +376,11 @@ You will get a mantra for each kill.
 
 ### Effects
 
-This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
+This Oath grants two Combat Mantra slots and eight Health.
+
+### Notes
+
+-   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 
 **Arcwarder:**
 
@@ -405,13 +411,17 @@ This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12
 
 -   **Arc Wave - Combat Mantra**
     -   Release a wave of energy around you, dealing fire and lightning damage.
+
 -   **Arc Module: Leap - Passive**
     -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
+
 -   **Arc Module: Guard - Passive**
     -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (+10 Ether)
+
 -   **Arc Module: Eject - Passive**
     -   When blockbroken with Arc Suit active, eject from the armor. (+10 Ether)
     -   When this effect activates, you do not get guardbroken, however you remain at full posture.
+
 -   **Arc Module: Dash - Passive**
     -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther. (+10 Ether)
 
@@ -445,7 +455,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
+
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
+
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
 
 ### Effects
@@ -456,12 +468,13 @@ This Oath grants two Combat Mantra slots.
 
 # **Oath: Contractor**
 
-“ Pull down your pants boy, the railblade in my pants is getting excited... ”
+“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. ”
 
-― - The Lord Regent
+― Contractor Description
 
 ### Obtainment
 
+-   0 recognize the fact that if you do this you are objectively a loser
 -   1\. Have at least 15 Intelligence and your [Resonance](Resonance.md) unlocked.
 -   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
@@ -483,8 +496,10 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   **Hidden Tendril - Passive**
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
+
 -   **Judgement - Combat Mantra**
     -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned.
+
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
         -   Only usable if the User has the 'Hidden Tendril' Talent, and also has a Hidden Tendril active.
@@ -545,13 +560,6 @@ File:Dialogue.png
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
 
-**Fadetrimmer:**
-
-## Fadetrimmer
-
--   Oath of a [Etris](Etris.md) barber. This oath is considered to be real, but requires the Barber sub-class (UNOBTAINABLE).
-    
-
 ## Trivia
 
 -   Time magic was not actually stated to be an oath itself, but 'oath magic.'
@@ -572,3 +580,4 @@ File:Dialogue.png
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction? and an angel of the abyss? In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
+-   Fadetrimmer was a joke and isn't currently planned to be a real oath.

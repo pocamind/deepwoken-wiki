@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 45778
+revid: 45910
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -466,7 +466,7 @@ Able to swing fast as a light weapon, any speed penalties will not be applied, p
 
  | 
 
-Weapon is invisible and covered with yellow mist with dots all around.
+PROVIDENCE OF STORMS ISNT REAL ACCORDING TO FINO (THE LEADER OF HIVE) SOURCE IS THIS CLIP: [https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir)
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 45753
+revid: 45899
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -47,6 +47,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My ice protects like a flower growing thorns. **(Cryoni)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_
 -   _I am a competent duelist. **(Duelist)**_
+-   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
 -   _I wish to escape. **(Escape Artist; Robber Baron)**_
 -   _I am an expert on ether. **(Ether Adept)**_
 -   _In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
@@ -105,5 +106,5 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Locations
 
--   [Etris](Etris.md)
--   [Summer Isle](Summer_Isle.md)
+-   [Etris](Etris.md), in between the mantra shop and weapons shop
+-   [Summer Isle](Summer_Isle.md), just outside the docks
