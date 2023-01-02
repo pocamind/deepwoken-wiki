@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 45547
+revid: 45831
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -51,7 +51,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   Parry Checks
     -   See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
 -   [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
-    -   Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
+    -   Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage. Since the orbs also damage the Megalodaunt it can be helpful to stand so that they hit the Megalodaunt and allow you to kill it faster.
 
 ## Rewards
 
@@ -66,7 +66,7 @@ Mark of the Lone Warrior's talent description
 ## Tips and Tricks
 
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 18 in roughly 10 minutes and giving a boost to further progression.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes and giving a boost to further progression.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 
 ## Trivia

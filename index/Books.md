@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 44930
+revid: 45846
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -591,6 +591,10 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > Two weeks. That's how long a fresh body must stay in the stockyard. It is the time allotted for one's soul to return from the depths below into their rightful vessel. It is the time when I stay in my corner of hell, growing immune to the smell of rotting flesh, counting how many flies can nest in a body out of demented boredom. It is the time when I spend my days and nights gazing upon a field of the dead, waiting for one to suddenly awake in a flash of light, wounds healed, limbs returned to their body. When it does happen, it is the only time this job brings me any sort of joy. I welcome them and all their confusion with open arms, embracing their return to the surface.
 > 
 > Yet it doesn't happen as much as I would like it to. More often than not, I am dozing off to the buzzing of flies, hoping to awake to a returned vessel asking for guidance. But I never do. Here, with the flies and maggots, I am faced with mortality at its rawest. Here, I wonder when I will be a part of the stockyard, vacant body laid out on the dirt, glassy eyes staring up at the vast sky above.
+
+### Ministry Field Report
+
+> <i>\*The text on the page is scrawled frantically, difficult to decipher. The words 'Celtor" and "Trial' can be made out from the mess, although the surrounding text is incomprehensible.\*</i>
 
 ### Our Fortress (Of Smoke And Steel)
 

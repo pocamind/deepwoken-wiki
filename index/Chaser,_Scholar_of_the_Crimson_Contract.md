@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 45815
+revid: 45837
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ notices:
 
 # Chaser, Scholar of the Crimson Contract
 
-“ AHAHAHAHAHAhaha... ”
+“ Hahahaha.. MWAHAHAHAHA.... ”
 
 ― Chaser
 
@@ -22,7 +22,7 @@ Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fou
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Kyrsan_Shrine_of_Arrival.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
-Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries 6 [resonances](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal (Pictures on right).
+Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries 6 [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal (Pictures on right).
 
 File:Chaser with 6 stolen Resonance Bells.png
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 45311
+revid: 45854
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,7 +29,7 @@ The Shrine of Temptation, Up-Front angle
 _Benefits/Penalties_
 
 -   **(BENEFIT)** _Choose mantras available to your attributes and attunement (I got 3 choices but needs testing)._
--   **(PENALTY)** _Lose one equiped mantra of your chosing and 5 knowledge points._
+-   **(PENALTY)** _Lose one equipped mantra of your choosing and 5 knowledge points._
 
 _Pros/Cons_
 
@@ -39,7 +39,7 @@ _Pros/Cons_
 
 ### **Shrine of Blasphemy**
 
-“ YOU ARE WEAK, FRAGILE. I WILL SHAPE YOUR SKULL INTO SOMETHING MAGNIFICIENT. ”
+“ YOU ARE WEAK, FRAGILE. I WILL SHAPE YOUR SKULL INTO SOMETHING MAGNIFICENT. ”
 
 ― Shrine of Blasphemy
 
@@ -49,7 +49,7 @@ The Shrine of Blasphemy, Up-Front angle
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** _Instantly obtain 3 Power Levels, totaling 45 Attribute Points to spend_
+-   **(BENEFIT)** _Instantly obtain 3 Power Levels, totalling 45 Attribute Points to spend_
 -   **(PENALTY)** _Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level._
 
 _**IMPORTANT:**_ This shrine will force you to draw 3 power levels worth of cards _**before**_ you spend the 45 Attribute Points. This can potentially ruin builds if you need certain cards that require stats. Ensure you have the stats for the cards you want before using the shrine!
@@ -59,7 +59,7 @@ _**IMPORTANT:**_ This shrine will force you to draw 3 power levels worth of card
 _Pros/Cons_
 
 -   The daunting amount of Attribute Points you need to make up (Usually in the range of 45-60 total Attribute Points to spend) for will be a hassle-- and may pose a problem to Players that rely on Powering up to remain in the Overworld.
--   The Penalty of Blasphemy is a double-edged sword. Having any flaw that won't impact your current run (ie. Obvious, Hemophilia, etc.) negatively is a necessary sacrifice; but those with the Blind Flaw unlocked will have a reasonable sense of worry.
+-   The Penalty of Blasphemy is a double-edged sword. Having any flaw that won't impact your current run (ie. Obvious, Haemophilia, etc.) negatively is a necessary sacrifice; but those with the Blind Flaw unlocked will have a reasonable sense of worry.
     -   Those who are going to get Blindseer (Or already are one) won't be so dreadful by this dire penalty.
 -   The 3 Power Levels obtained by this Shrine does not grant Knowledge; leaving 3 Knowledge Points less with the usual 19 at Power 20.
 -   Possibly cannot be used at Power 17 and above as the shrine will mention you are too broken.

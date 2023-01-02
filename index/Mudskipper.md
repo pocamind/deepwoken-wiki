@@ -1,9 +1,9 @@
 ---
 title: Mudskipper
-revid: 45582
+revid: 45868
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Technically A Race]
+categories: [Monsters]
 ---
 
 # Mudskipper
@@ -206,11 +206,6 @@ Mineskippers are Mudskippers that wear mining helmets and the [Experienced Adven
 Scratch
 
  | Weakly smacks opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
-
-Air Force
-
- | Leans backwards while holding their mouth shut, before firing a powerful blast of air at the enemy. | ✗ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -219,6 +214,38 @@ Air Force
 | Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
 
 ## Tips
+
+**Meteorskipper:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found at Meteor Isle, spawning with several different types of weapons and around each other in a group. They wield weapons and wear a [Darksteel Plate](Darksteel_Plate.md), along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md).
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Firmly swings sword at opponent before flourishing by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Critical
+
+ | Winds up by pulling their sword back before suddenly thrusting it forwards. | ✗ | ◯ | (★★☆) |
+
+### Boons
+
+-   Memory Retainment - Can block and parry common attacks and mantras, as well as roll away from criticals and feint their own attacks.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execution | Pins down the opponent and slices their throat with their blade. |
 
 **Mudskipper Knight:**
 
@@ -269,5 +296,4 @@ Critical
 -   On April Fool's Day 2022, Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken.
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
--   The Mudskipper has the greatest number of variants out of any NPC in the game, having seven in total, not including the April Fool's variants.
--   It is possible for a mudskipper knight to be corrupted if you have the (Deep Champion) Echoe
+-   The Mudskipper has the greatest number of variants out of any NPC in the game, having eight in total, not including the April Fool's variants.

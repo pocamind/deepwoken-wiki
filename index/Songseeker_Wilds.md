@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 44783
+revid: 45841
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -70,7 +70,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 -   [Deep angels](Hollow_Angel.md)
 
--   [Nighmare Tresher](Thresher.md)
+-   [Nighmare Thresher](Thresher.md)
 
 ## Loot Table
 

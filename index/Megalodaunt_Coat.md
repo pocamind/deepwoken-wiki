@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 41954
+revid: 45853
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Armors]
@@ -16,5 +16,4 @@ The Megalodaunt Coat is an _arms_ item. Equipping this item will give you random
 
 ## Trivia
 
--   Insanely drippy.
--   Best coat.
+-   Trivia to be added

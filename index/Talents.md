@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 45772
+revid: 45852
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1291,7 +1291,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisite: Silencer's Edge and Silencer's Blade
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
-    -   Prerequisites: Power ??, Silencer's Edge
+    -   Prerequisites: Power x≤13, Silencer's Edge
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   Prerequisites: 60 Galebreathe
 
@@ -1422,7 +1422,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 50 Thundercall
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
     -   Prerequisites: Lightning Clones
--   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage. (+4 Elemental Intensity, +3 Health)
+-   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage in the rain. (+4 Elemental Intensity, +3 Health)
     -   Prerequisites: 40 Thundercall
 -   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
     -   Prerequisites: 20 Thundercall
@@ -1787,7 +1787,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Hunter's Reflexes - Your dodge window is slightly increased. (Obtained by wearing the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) Outfit)
 
-### '_Vigil_
+### _Vigil_
 
 -   Paired Soul - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%. (Obtained by wearing the [Vigil Initiate](Vigil_Initiate.md) or the [Cloak of Winds](Cloak_of_Winds.md) Outfit)
 

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 45392
+revid: 45832
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md). Although the drop is very rare, so it does have quite a bit of value.  
+The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Crimson [Megalodaunt](Megalodaunt.md). Although the drop is very rare, so it does have quite a bit of value.  
 
 ## Trivia
 

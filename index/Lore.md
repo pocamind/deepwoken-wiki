@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 45820
+revid: 45828
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -12,10 +12,6 @@ categories: [Pages with broken file links, World, Deepwoken]
 
 ― Voice of the Deep
 
-  
-
-  
-
 ## Description
 
 The lore of Deepwoken is vast and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape, such as the Towerstruck Lands, The City of the Drowned, and much more.
@@ -24,11 +20,7 @@ The lore of Deepwoken is vast and scattered across the sea. Lore can be found th
 
 This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
-  
-
-**Figures:**
-
-**Lord Regent:**
+## Figures
 
 ### The Lord Regent of Etrea
 
@@ -56,9 +48,6 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
 -   His goals are in line with the Ministry's as he works as a contractor for them, manipulating Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
     -   As it is unknown how long ago this event was, they may be the same person.
     -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
-        
-
-**King of Etrea:**
 
 ### The King of Etrea
 
@@ -74,9 +63,8 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
     -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.
     -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
-        
 
-**The Duke:**
+  
 
 ### **The Duke of Erisia**
 
@@ -98,9 +86,6 @@ The Duke
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
 -   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed.
-    
-
-**Maestro Evengarde Rest:**
 
 ### **Maestro Evengarde Rest**
 
@@ -108,9 +93,6 @@ The Duke
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
-    
-
-**Akira:**
 
 ### **Akira, The Black Diver**
 
@@ -124,9 +106,6 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
-    
-
-**Chaser:**
 
 ### Chaser, Scholar of the Burning Blood
 
@@ -137,9 +116,6 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   He somehow managed to scavenge bells from his deceased colleagues, though he doesn't appear to actually be able to use them.
 -   Though he is an Adret, he has a never seen before skin color and facial markings for the race.
 -   He can manipulate blood.
-    
-
-**The Meat Lord:**
 
 ### **The Meat Lord**
 
@@ -155,8 +131,6 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 The one and only... MEAT LORD!
 
   
-
-**Gunsmith Rosen:**
 
 ### **Gunsmith Rosen**
 
@@ -177,8 +151,6 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         
 
-**Yun'shul:**
-
 ### **Yun'shul**
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
@@ -190,8 +162,6 @@ File:Yun'Shul.png
 
 Yun'shul's Shrine
 
-**Ethiron:**
-
 ### **Ethiron**
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
@@ -201,9 +171,6 @@ Yun'shul's Shrine
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
-            
-
-**Korilfiend:**
 
 ### **Korilfiend**
 
@@ -211,9 +178,6 @@ Yun'shul's Shrine
 -   The Temple of The Forgotten Flame was dedicated to them and housed the Forge.
 -   Their physical body, or fragments of it, are found in the Third Layer.
 -   Part of them was eaten by Black Diver Amorus Pleetsky.
-    
-
-**The Nestmind:**
 
 ### **The Nestmind**
 
@@ -226,9 +190,6 @@ Yun'shul's Shrine
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
-        
-
-**The Ferryman:**
 
 ### **The Ferryman**
 
@@ -238,11 +199,8 @@ Yun'shul's Shrine
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
-    
 
-**Locations:**
-
-**The Eastern Luminant:**
+## Locations
 
 ### **The Eastern Luminant**
 
@@ -253,34 +211,22 @@ Yun'shul's Shrine
     -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive and the Children of Navae.
 -   There are two main areas, the Etrean Sea and the Aratel Sea, separated by a large gate.
     -   Areas found in the Etrean Sea are considered part of Etrean Luminant, areas in the Aratel Sea are part of the Eastern Luminant
-        
-
-**Eastern Interstitial Lighthouse:**
 
 #### Eastern Interstitial Lighthouse (Etrean Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   As of Deepwoken's Release, the [Lighthouse](Eastern_Interstitial_Lighthouse.md) cannot be accessed into its interior, nor does it allow anyone to go to [The Central Luminant](Luminants.md). Due to the fact that only Lightkeepers can operate them.
-    
-
-**Erisia Island:**
 
 #### Erisia Island (Etrean Luminant)
 
 -   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
-    
-
-**Songseeker Wilds:**
 
 #### Songseeker Wilds (Eastern Luminant)
 
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
 -   The trainer for Fire Mantra owns a dojo on the island.
-    
-
-**Starswept Valley:**
 
 #### Starswept Valley (Eastern Luminant)
 
@@ -298,55 +244,34 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   It was once thought that the Blue stars that rain down the Valley is coming from the Celestial City, however this is not the case.
     -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading.
         -   Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.
-            
-
-**Central Luminant:**
 
 ### **Central Luminant**
 
 -   The home of The Authority and the Knives of Eylis.
-    
-
-**Markor:**
 
 #### Markor
 
 -   A savannah nation conquered by The Central Authority.
 -   The origin of Scimitars and similar blades.
 -   The Felinor Fieldfolk once lived here.
-    
-
-**Markor Citadel:**
 
 #### Markor Citadel
 
 -   A building used as the headquarters of The Divers.
-    
-
-**Southern Luminant:**
 
 ### **Southern Luminant**
 
 -   A location affected by a Great Drowning.
 -   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
-    
-
-**Northern Luminant:**
 
 ### **Northern Luminant**
 
 -   A frozen Tundra.
 -   Probably home to [Frostdraw](Frostdraw.md).
-    
-
-**Western Luminant:**
 
 ### **Western Luminant**
 
 -   The home to the Hundred Legions and home of the Khans.
-    
-
-**Voidsea:**
 
 ### **Voidsea**
 
@@ -358,9 +283,6 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
 -   They have been compared to a fraying edge on a fabric.
 -   Eventually it will consume the world.
-    
-
-**Boatman's Watch:**
 
 #### Boatman's Watch (Voidsea)
 
@@ -371,16 +293,11 @@ _"A place remembered only by the waves"_
 -   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library  
     
 
-**The Depths:**
-
 ### **The Depths**
 
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
 
 -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths.
-    
-
-**Scyphozia:**
 
 #### **Scyphozia, The First Layer**
 
@@ -391,9 +308,6 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 -   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
 -   As it is underwater, the gravity there is significantly lower
-    
-
-**The City of the Drowned:**
 
 ##### The City of the Drowned (The Depths, First Layer)
 
@@ -413,9 +327,6 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
     -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
-    
-
-**Castle Light:**
 
 ##### Castle Light (The Depths, First Layer)
 
@@ -426,35 +337,21 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
 -   The barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
-        
-
-**The Eternal Gale:**
 
 #### **The Eternal Gale, The Second Layer**
 
 -   The Second layer of the depths is a cold wasteland with never-ending winds that lies directly below the first layer.
-    
-
-**Ethironal Shrine:**
 
 ##### Ethironal Shrine (First floor)
 
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
-    
-
-**New Kyrsa:**
 
 ##### New Kyrsa (Second Floor)
 
 -   New Kyrsa is a civilization that sunk to the second layer.
 -   Its inhabitants are the Kyrsgarde.
-    
-
-**Factions:**
-
-**The Kingdom of Etrea:**
 
 ## Factions
 
@@ -482,8 +379,6 @@ An Etrean Guard, part of the Nation of Etrea
 
   
 
-**The Children of Navae:**
-
 ### The Children of Navae
 
 -   **Territory:** _N/A, Meteor Isle_
@@ -502,9 +397,6 @@ An Etrean Guard, part of the Nation of Etrea
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
-    
-
-**The Hundred Legions:**
 
 ### The Hundred Legions
 
@@ -523,8 +415,6 @@ An Etrean Guard, part of the Nation of Etrea
 Amara, a Member of The Legion.
 
   
-
-**The Summer Company:**
 
 ### The Summer Company
 
@@ -553,7 +443,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 
 A Summer Company Member.
 
-**The Ministry:**
+  
 
 ### The Ministry File:Eylisiconfactoin.png
 
@@ -583,8 +473,6 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
-**The Contractors:**
-
 ### The Contractors
 
 -   **Territory:** _Unknown_
@@ -595,11 +483,6 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources:** Warden Jericho's Journal, the Windrunner
 
 -   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
-    
-
-**:**
-
-The Knives of Eylis
 
 ### The Knives of Eylis
 
@@ -618,8 +501,6 @@ The Knives of Eylis
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname  
         
-
-**The Ignition Union:**
 
 ### The Ignition Union
 
@@ -640,8 +521,6 @@ The Knives of Eylis
 -   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others.
 
   
-
-**The Central Authority:**
 
 ### The Central Authority
 
@@ -675,12 +554,11 @@ The Knives of Eylis
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
+-   _Very_ Racist.
 
 A Peacekeeper Commander, part of The Authority
 
   
-
-**The Hive:**
 
 ### The Hive
 
@@ -699,9 +577,6 @@ A Peacekeeper Commander, part of The Authority
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
 -   Their society is structured like insects, using terms such as Hive and Drone.
-    
-
-**The Divers:**
 
 ### The Divers
 
@@ -720,11 +595,6 @@ A Peacekeeper Commander, part of The Authority
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
 -   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
-    
-
-**Groups:**
-
-**The Vigils of Wind:**
 
 ## Groups
 
@@ -740,9 +610,6 @@ A Peacekeeper Commander, part of The Authority
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
     -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
-        
-
-**Krulian:**
 
 ### [Krulians](Krulian.md)
 
@@ -755,9 +622,6 @@ A Peacekeeper Commander, part of The Authority
     -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
         -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
             -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn
-                
-
-**The Golden Rats:**
 
 ### The Golden Rats
 
@@ -777,8 +641,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
   
 
-**Songseekers:**
-
 ### Songseekers
 
 -   **Territory:** _None_
@@ -790,9 +652,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
 -   They care little for their own lives or the lives of fellow Songseekers, using mantras that will often hit their allies or even execute down Songseekers, unlike other enemies.
-    
-
-**Bandits:**
 
 ### Bandits
 
@@ -804,18 +663,12 @@ Golden Warrior Bouncer, located outside of Rat's Den.
     -   They have a uniform, with different uniform for different ranks
     -   They have a village in Lower Erisia
     -   They organize large, though always unsuccessful, raids on bigger factions
-        
-
-**The Old Stewards:**
 
 ### The Old Stewards
 
 -   An organization that preserves what's left before the tides came, practically Historians. They are not to be confused by The Pathfinders.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
-    
-
-**The Pathfinders:**
 
 ### The Pathfinders
 
@@ -832,9 +685,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
-    
-
-**Kyrsegarde:**
 
 ### **Kyrsegarde**
 
@@ -849,17 +699,10 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Over the course of their lives they add more words to their name.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
-    
-
-**Race:**
-
-**Race Lore:**
 
 ## Race Lore
 
 For people who wish to see the races, head [here.](Aspects.md)
-
-**Etrean:**
 
 ### Etrean
 
@@ -872,9 +715,6 @@ For people who wish to see the races, head [here.](Aspects.md)
     -   White snakes play a part in Chinese mythology.
     -   Their architecture consists of gates, temples and lanterns often seen from Chinese and Japanese countries.
     -   Snakes are known for having thin eyes, with some people describing people of East Asian descent the same way.
-        
-
-**Celtor:**
 
 ### Celtor
 
@@ -882,9 +722,6 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 -   This race shares traits with racoons.
 -   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
-    
-
-**Adret:**
 
 ### Adret
 
@@ -896,9 +733,6 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, once shared a close bond with Canor, the dog race, and are the leaders of the most violently racist group in the game.
-    
-
-**Canor:**
 
 ### Canor
 
@@ -912,9 +746,6 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
     -   The Thundercaller trainer is a Canor named Funke, German for spark.
     -   The Canor mantra modifier collector in Etris is named Schnitzel and the one in Summer Isle is named Hotdog, both being German dishes and both seemingly not fluent in English.
     -   Canor last names are mostly German/German inspired.
-        
-
-**Gremor:**
 
 ### Gremor
 
@@ -923,9 +754,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
 -   The Gremors are renowned for following Navae; that guides all Gremors forwards, acting as a compass.
     -   (Arch\_Mage) Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.
-        
-
-**Khan:**
 
 ### Khan
 
@@ -934,9 +762,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A prideful race that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
 -   They are a big part of the Hundred Legions.
 -   Little is known about the race in general and their origins...
-    
-
-**Felinor:**
 
 ### Felinor
 
@@ -944,9 +769,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
 -   They had a kingdom in Markor, what's become of it is unknown.
-    
-
-**Vesperian:**
 
 ### Vesperian
 
@@ -958,9 +780,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
     -   According to Arch\_Mage, Vesperians grow their masks.
         -   This would imply they are organic in some way, thus the masks are most likely chitin.
-            
-
-**Capra:**
 
 ### Capra
 
@@ -968,9 +787,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
 -   Little is known about their origins...
-    
-
-**Ganymede:**
 
 ### Ganymede
 
@@ -979,9 +795,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
-    
-
-**Chrysid:**
 
 ### Chrysid
 
@@ -998,16 +811,10 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
-    
-
-**Tiran:**
 
 ### Tiran
 
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
-    
-
-**Lightborn:**
 
 ### Lightborn
 
@@ -1021,9 +828,6 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
 -   They posses Halos around either their heads, necks or wrists.
-    
-
-**Celestials:**
 
 ### Celestials
 
@@ -1041,21 +845,17 @@ _"The stars call you back..."_
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
 -   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair. Though it should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon.
-    
-
-**Primal Vesperians:**
 
 ### Primal Vesperians
 
 -   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
 -   "Ancient Vesperians lost to time."
-    
 
   
 
-**Attunement:**
+  
 
-**Canticlysm:**
+## Attunement Lore
 
 ### The Four Attunements of the Canticlysm
 
@@ -1065,9 +865,6 @@ _"The stars call you back..."_
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
     -   (Arch\_Mage) Like the first bulletin, the 4 Attunements were discovered and developed during the Canticlysm.
     -   (Curved Blade of Winds) The first Galebreathers of the Canticlysm wield the Curved Blade of Winds; dual scimitars attuned to the Winds.
-        
-
-**Flamecharm:**
 
 ### Flamecharm
 
@@ -1086,8 +883,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Not much is known about the Covenant of Flame except it was pioneered by Pleetsky himself. This Covenant is presumably a minor Faction.  
         
 
-**Frostdraw:**
-
 ### Frostdraw
 
 **Lore Sources:**
@@ -1097,8 +892,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
     -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
         
-
-**Thundercall:**
 
 ### Thundercall
 
@@ -1110,8 +903,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-**Galebreathe:**
-
 ### Galebreathe
 
 **Lore Sources:** _Curved Blade of Winds (Description)_
@@ -1120,8 +911,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
     -   (Curved Blade of Winds) Galebreathe was created during the events of the Canticlysm; thanks to the description of the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
   
-
-**Shadowcast:**
 
 ### Shadowcast
 
@@ -1133,8 +922,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
 
   
-
-**Lightkeepers:**
 
 ### Lightkeepers
 
@@ -1151,9 +938,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.
-        
-
-**Lifeweavers:**
 
 ### Lifeweavers
 
@@ -1172,8 +956,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-**Ironsing:**
-
 ### Ironsing
 
 **Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
@@ -1183,8 +965,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
         
 
-**Water Magic:**
-
 ### Water Magic
 
 **Lore Sources:** _Arch\_Mage (Discord Posts)_
@@ -1192,21 +972,14 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.
     -   Water Magic is the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.
         -   It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
-            
 
   
-
-**Murmur:**
-
-**Murmur Lore:**
 
 ## Murmur Lore
 
 -   Murmurs are whispers of the Song that allows the user to do a variety of special abilities.
 -   Everyone has Murmur, but only those who obtain special applications of the Song can make full use of its abilities.  
     
-
-**Ardour:**
 
 ### Whispers of Ardour
 
@@ -1217,9 +990,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
 -   The King of Etrea is mentioned to have this Murmur. It was said that this Murmur "could cut the sea itself".
 -   The roar produced by Ardour Scream, is similar to a Megalodaunt's roar, it both emits purple ripples, has the same sound, and inflicts insanity.
-    
-
-**Tacet:**
 
 ### Whispers of Tacet
 
@@ -1228,27 +998,56 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
 -   Alpha Megalodaunts can somehow use its power.
-    
-
-**Rhythm:**
 
 ### Whispers of Rhythm
 
 -   An application of the Song that allows the user to perceive the Murmur emanated by all living things.
-    
 
-**Currency:**
+## Before the Tides: Before years were invented (Old World)
 
-## Currency
+### City of Celtor
+
+**Lore Sources:** _Arch\_Mage (Discord)_
+
+-   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the great Nation of Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
+-   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
+
+### Life before the Tides
+
+**Lore Sources:** _Etris Guards_
+
+-   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.
+
+### The Old Texts
+
+**Lore Sources:** _The Condemned Archives (Description)_
+
+-   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
+-   (The Condemned Archives) A forbidden store of Old World Texts once deemed to be too dangerous for common consumption.
+    -   It is unknown where this Archive is located, but its safe to assume we are not meant to figure it out.
+
+### The Origin of Adrets
+
+**Lore Sources:** _Ishan, Weapon Descriptions, Arch\_Mage._
+
+-   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien.
+-   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
+    -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
+    -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
+-   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
+
+### Currency
 
 **Lore Sources:** _Mr. Quarters_
 
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-**The song:**
+## Deepwoken: 0000-1271 (New World)
 
-## The Song
+This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
+
+### The Song
 
 **Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope, Arch\_Mage_
 
@@ -1257,11 +1056,8 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
     -   The Song also draw upon the resonance of the living- the creation of [Resonance Bells](Resonance.md).
 
 -   The Song is the entity that drives the world- it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimate it is only a mere murmur for a reason- a small whisper into the great loom that is The Song.
-    
 
-**The Canticlysm:**
-
-## The Canticlysm
+### The Canticlysm
 
 **Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
 
@@ -1271,33 +1067,22 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   (Arch\_Mage) The Canticlysm lead to the creation of the 4 Basic Attunements- Thundercall, Flamecharm, Frostdraw and Galebreathe.
 -   The Canticlysm lead to a Golden Age in Deepwoken's world, but also made said world highly volatile, most of the inventions that ran on the power of the Song being liable to turn to lethal if not used properly.
 -   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangered all life- awakening the Drowned Gods from their slumber.
-    
 
-**The Tides:**
-
-## The Tides
+### The Tides
 
 **Lore Sources:** _What Mends Shall Fray (Song), Arch\_Mage (Discord)_
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
 -   (Arch\_Mage) The Tides were caused by the Drowned Gods; who were awaken from their slumber by the people of the Canticlysm via the sound of the Song.
 -   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, it is a gateway to both worlds between the surface and [The Depths](The_Depths.md).
-    
 
-**The Great Drowning:**
-
-## The Great Drowning
+### The Great Drowning
 
 **Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Discord)_
 
 -   A major event that were caused by The Tides- whereas all living things and lands are consumed by it. The Nation of Celtor is one of the many victims of The Great Drowning.
     -   (Arch\_Mage) The Nation of Celtor were the latest nation to befell to The Tides; thus is why the City of Celtor is located in the First Layer, and the recent talks of the Nation from certain NPCs (Such as The Ministry, Warden Jericho's Journal, etc.).
     -   The effects on Celtor were worsened by their Military, who instead of warning the people, fled the city early to save their own skin
-        
-
-**The Depths:**
-
-**The Depths Lore:**
 
 ### The Depths
 
@@ -1314,9 +1099,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 -   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
-    
-
-**Drowned Gods:**
 
 ### Drowned Gods
 
@@ -1327,11 +1109,33 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully awaken, the world would be destroyed.
 -   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
-    
 
-**Resonance Bells:**
+### Ancestors of Ganymedes & Vesperians
 
-## Resonance Bells
+**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+
+-   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
+-   Up to the present, they still work together as The Hive.
+-   [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) are simply a cult following of Vesperians, and are not related to the evolution of the two races.
+
+### Kingdom of Etrea's Past Rulers
+
+**Lore Sources:** _Etris_
+
+-   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
+-   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However, during The Lord Regent's ruling the Office was suspended.
+-   The pillar that house four statues near Etris, are presumably the Past Rulers.
+-   There were six Total Rulers of Etrea; the four past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
+
+### Driftlands
+
+**Lore Sources:** _Etris, Isle of Vigils, Scope_
+
+-   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
+-   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
+-   Used as a battle ground for the war between The Kingdom of Etrea and The Authority.
+
+### Resonance Bells
 
 **Lore Sources:** _The Depths, Arch\_Mage (One of his posts in Discord), Yamaketzal (Tarnished Removal), Sibex (Resonance Check)_
 
@@ -1344,11 +1148,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   (Yamaketzal) Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
-        
-
-**Timeline:**
-
-**Timeline:**
 
 ### Timeline
 
@@ -1368,9 +1167,10 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Lord Regent takes the throne and installs mental barriers into his people.
 -   Etris' Official History Office is decommissioned.
 -   The Hive and Etrea go to war.
-    
 
-**1277:**
+## Deepwoken: 1271-1363
+
+This category lists new lore that has been added into Deepwoken through updates during Verse 1. This will cover what lore has been dropped, and the date it has been found or released.
 
 ### Year 1277
 
@@ -1383,9 +1183,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   (PVP Arena) In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   (Trial of One) In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 -   (Visionshaper Oath) In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
-    
-
-**1291:**
 
 ### Year 1291
 
@@ -1393,9 +1190,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
     -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
-        
-
-**1293:**
 
 ### Year 1293
 
@@ -1403,9 +1197,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   (Sibex NPC) During the cold winters of the Year 1293, a mysterious Celtor accompanied by a Wisp emitting music arrived on Aratel Island; located ontop of a Hivelord Statue outside of Aratel Island, near Summer Isles.
     -   Sibex, his name was. He grants those to check their Resonance by simply listening closer to your Soul.
-        
-
-**1296:**
 
 ### Year 1296
 
@@ -1413,9 +1204,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
     -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
-        
-
-**1363:**
 
 ## Deepwoken: 1363
 
@@ -1427,11 +1215,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Divers discover a passage through the Second Layer and into the Third.
 -   Aratel sea is blocked off from the Etrean sea.
 -   Tirans and Chrysids are drawn out and become more common in the world.
-    
-
-**Monsters:**
-
-**Monster Lore:**
 
 ## Monsters
 
@@ -1446,9 +1229,6 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
     -   Some simply evolved like normal animals, trying to survive in the broken world.
     -   Some are native to The Depths and found their way to the surface.
     -   Some were normal animals, but The Depths' influence altered them.
-        
-
-**Megalodaunts:**
 
 ### Megalodaunts
 
@@ -1469,9 +1249,6 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
     -   Despite this they often leave and start nests on the surface.
 -   Their skin is strong yet flexible, allowing it be particularly useful in crafting.
     -   The skin often finds use in producing highly durable and long-lasting gliders.
-        
-
-**Lionfish:**
 
 ### Lionfish
 
@@ -1480,26 +1257,17 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
     -   This has proven to be an effective tactic, causing the extinction of much marine wildlife over the years.
 -   Despite their immense size, they seem to need very little food to survive, even preferring to outright disintegrate their prey rather than eat them.
 -   They might be the reason why Aratel sea is lacking fish or any other life forms.
-    
-
-**Mudskipper:**
 
 ### Mudskippers
 
 -   Zombie-like creatures with coral growing out of their head, found in various hues and stages of decay.
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 -   Some of them are capable of using tools, showing they retain some of their memories.
-    
-
-**Primadon:**
 
 ### Primadon
 
 -   Despite his huge size Primadon is believed to be a baby fish monkey.
 -   Not much is known about Primadon, other than that he comes from the sea.
-    
-
-**Brainsuckers:**
 
 ### Brainsuckers
 
@@ -1511,17 +1279,11 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
             -   As no Brainsuckers are seen heading to the surface, this would imply there is a method to get straight from at least the second Layer of The Depths straight to the overworld.
         -   Alternatively, the conditions in the overworld may have just been more favourable, and they have all migrated there and left The Depths behind.
     -   Despite the name, they don't suck brains
-        
-
-**Deep Widows:**
 
 ### Deep Widows
 
 -   Large spiders with potent venom.
 -   _Tale of the Storm_ makes reference to four creatures that resemble Deep Widows, however the Appendix notes that they would have to be much smaller and Deep Widows living near to a Megalodaunt's nest is unheard of.
-    
-
-**The Enforcer(s):**
 
 ### The Enforcer(s)
 
@@ -1529,9 +1291,6 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They are powered by the souls of those who have failed the Depth Trials, and thus, the more people that die in the trials, creates more Enforcers in the future.
 -   They are hostile to every monster.
 -   They turn to ash after being defeated, but plucking their eyes out will preserve them.
-    
-
-**Nautilodaunt:**
 
 ### Nautilodaunt
 
@@ -1540,11 +1299,6 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
     -   They may be very territorial, thus not letting others in to their digging spot.
 -   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md) and other Nautilodaunts (small chance.)
 -   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.
-    
-
-**Player Lore:**
-
-**Player Lore:**
 
 ## Player Lore
 
@@ -1557,25 +1311,11 @@ Though technically a blank slate of varying races and abilities, even the player
     -   In the Depthsbound Origin, they presumably went through standard diver training.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
 -   The description of Erisor's church implies that the Player knew of a figure named "Erisor."
-    
-
-**Castaway:**
 
 ### Castaway
 
 -   The Player in the Castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
-    
-
-**Depthsbound:**
-
-### Depthsbound
-
-**Voidwalker:**
-
-### Voidwalker
-
-**Character Deaths:**
 
 ### Character Deaths
 
@@ -1584,93 +1324,10 @@ Though technically a blank slate of varying races and abilities, even the player
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
 -   The Hippocampal Pool allows your current character to pass down two of their items to another soul; your character's legacy, transferred to a different character.
 -   There is a mysterious tent and campfire in the Fragments of Self that allows you to remove gear you wish to pass on.
-    
 
-**Miscellaneous:**
-
-**Blindseer Lore:**
+## Miscellaneous
 
 ### **Blindseer Lore**
-
-**Ancestors of Ganymedes & Vesperians:**
-
-## \=Ancestors of Ganymedes & Vesperians
-
-**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
-
--   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
--   Up to the present, they still work together as The Hive.
--   [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) are simply a cult following of Vesperians, and are not related to the evolution of the two races.
-    
-
-**Kingdom of Etrea's Past Rulers:**
-
-## \=Kingdom of Etrea's Past Rulers
-
-**Lore Sources:** _Etris_
-
--   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
--   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However, during The Lord Regent's ruling the Office was suspended.
--   The pillar that house four statues near Etris, are presumably the Past Rulers.
--   There were six Total Rulers of Etrea; the four past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
-    
-
-**Driftlands:**
-
-## \=Driftlands
-
-**Lore Sources:** _Etris, Isle of Vigils, Scope_
-
--   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
--   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
--   Used as a battle ground for the war between The Kingdom of Etrea and The Authority.
-
-## Before the Tides: Before years were invented (Old World)
-
-**City of Celtor:**
-
-## \=City of Celtor
-
-**Lore Sources:** _Arch\_Mage (Discord)_
-
--   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the great Nation of Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
--   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
--   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.
-    
-
-**The Old Texts:**
-
-## \=The Old Texts
-
-**Lore Sources:** _The Condemned Archives (Description)_
-
--   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
--   (The Condemned Archives) A forbidden store of Old World Texts once deemed to be too dangerous for common consumption.
-
-It is unknown where this Archive is located, but its safe to assume we are not meant to figure it out.
-
-**The Origin of Adrets:**
-
-### The Origin of Adrets
-
-**Lore Sources:** _Ishan, Weapon Descriptions, Arch\_Mage._
-
--   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien.
--   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
-
-Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
-
--   -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
--   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
-    
-
-**Life before the Tides:**
-
-### Life before the Tides
-
-**Lore Sources:** _Etris Guards_
-
-**Lightkeeper Temple Glyphs:**
 
 #### Lightkeeper Temple Glyphs
 
@@ -1681,9 +1338,6 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
     -   The new Lord is theorized to be the Lord Regent from the Kingdom of Etrea due to his abilities tainted with Depths Magicks written all over it and a similar theme of not questioning a ruler of mysterious origin. It's possible, as the time between the Great Drowning of Celtor and the current year (1271) is short.
         -   The King however, could've been a new Celtor King in line; and presumably met the same fate as the Etrean King- who disappeared without any traces of themselves while the Lord took his place during his absence.
     -   The phrase 'Lord and King' can also refer to a single individual, it's possible The Lord Regent or even another Contractor had installed themselves as the city's leader.
-        
-
-**Animals:**
 
 ### **Animals**
 
@@ -1700,9 +1354,6 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Pufferfish
         -   Possibly more
     -   Lionfish have been a major cause for the extinction of many sea predators.
-        
-
-**Mental Veils:**
 
 ### **Mental Veils**
 
@@ -1712,9 +1363,6 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   The Lord Regent's veil has one glaring weakness, that being that if someone affected by it is asked information about the Lord Regent, then forgets their answer, such as through being administered an amnesiac, and is asked again, their answer will be different.
 -   Administering enough Thundercall to the mind of someone who has one can break them.
     -   In the case of _'Operation Puppet\_Master,'_ the individual who had their mental veil broken died due to their eyes exploding, though this may only be due to the nature of the Lord Regent's veil specifically.
-        
-
-**Language:**
 
 ### **Language**
 
@@ -1722,17 +1370,10 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
     -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughout the game is simply called 'Common.'
 -   There is a language used by the residents of the second layer, similar to common.
-    
-
-**Music:**
-
-**Music Lore:**
 
 ## Music
 
 The Music of Deepwoken, made solely by the composer, Naktigonis, has lore inscribed into their descriptions.
-
-**The Gideshu March:**
 
 #### The Gideshu March
 
@@ -1743,9 +1384,6 @@ _**Theme of the Central Authority**_
 _"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
 
 -   It plays when the Authority attacks the ship in the [Tutorial](Tutorial.md).
-    
-
-**Masters of the House:**
 
 #### Masters of the House
 
@@ -1758,9 +1396,6 @@ _"An old, semi-scratched record plate rests inside a black leather sleeve, the l
 -   It is given that the dialogue of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor; presumably the New World Celtor.
 -   As of 1/22/22, it is unknown when the record was composed in, but it's speculated that it was created during the first century of the New World.
 -   Based on Naktigonis, there is a gramophone in an area that is currently cut in the game.
-    
-
-**Ascension (Interlude):**
 
 #### Ascension (Interlude)
 
@@ -1771,9 +1406,6 @@ _**Words of the Bloodhound**_
 _"When the tide rolled in there was nothing left,_ _But an albatross hanging from my neck. And just as you could not contain the sea, You could not contain me."_ _(- Foxing, 'Bloodhound')_
 
 -   Albatross, a bird seen over the seas, is described by sailors that these birds held the souls of lost sailors. It's quite fitting, as the world of Deepwoken is mostly sea.
-    
-
-**A Memory of Tides:**
 
 #### A Memory of Tides
 
@@ -1787,7 +1419,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   The script was presumably written by a member of The Hive; due to a fact that the record can be found within a secret room in Greathive Aratel.
     -   It is unknown what year the writing was written.
 -   The script talks of the Depths creating a ripple effect across both the land and sky from the ocean. It's a possibility that the Tides managed to eradicate a majority of the Celestials from ocean to space.
-    
 
 ## Trivia
 

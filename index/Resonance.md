@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 45419
+revid: 45826
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Resonance, Mechanics]
 
 # Resonance
 
-**Resonances**, commonly referred to and known as "Bells," are unique abilities the player can obtain in _Deepwoken_.
+**Resonances** are unique abilities the player can obtain in _Deepwoken_. They come with unique objects calls **"Bells"** that are slung around the players waist at all times and allow a player to use their Resonance with the key "C" in game. The gaining of a Resonance also allow the opening of [doors](https://deepwoken.fandom.com/wiki/Resonance#Rerolling_&_Resonance_Doors) around the Depths and Overworld that lead to a figure known as "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", a figure that many would deem important in most progressions.
 
 ## Overview
 

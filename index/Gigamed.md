@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 44979
+revid: 45824
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,6 +11,10 @@ categories: [Monsters]
 “ We give our lives for PAKISTAN! ”
 
 ― The 4 Gigameds sent by a single King Gigamed
+
+  
+
+[Nautilodaunt](Nautilodaunt.md)
 
 **Gigamed:**
 
@@ -33,6 +37,7 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
+-   The King Gigamed is one of the only monster, with the Nautilodaunt, that can regen health over time.
     
 
 **King Gigamed:**

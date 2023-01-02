@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 45817
+revid: 45869
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -57,15 +57,13 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
 
-There are currently ten Obtainable Oaths in _Deepwoken_.
+There are currently nine Obtainable Oaths in _Deepwoken_.
 
 ## Pathfinder
 
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
-
-## Various Oaths
 
 **Oathless:**
 
@@ -415,7 +413,7 @@ This Oath grants two Combat Mantra slots and eight Health. ===Notes===\*As of 12
     -   When blockbroken with Arc Suit active, eject from the armor. (+10 Ether)
     -   When this effect activates, you do not get guardbroken, however you remain at full posture.
 -   **Arc Module: Dash - Passive**
-    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. (+10 Ether)
+    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther. (+10 Ether)
 
 -   **Arc Module: Null - Passive**
     -   When your Arc Suit is active outgoing and incoming enchant effects are nullified. (+10 Ether)
@@ -458,14 +456,14 @@ This Oath grants two Combat Mantra slots.
 
 # **Oath: Contractor**
 
-“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. ”
+“ Pull down your pants boy, the railblade in my pants is getting excited... ”
 
-― Contractor Description
+― - The Lord Regent
 
 ### Obtainment
 
--   1\. Have at least 10 Intelligence and your [Resonance](Resonance.md) unlocked.
--   2\. Get positive reputation with The Ministry. (5 Bounty grips worth)
+-   1\. Have at least 15 Intelligence and your [Resonance](Resonance.md) unlocked.
+-   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
 -   5\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
@@ -551,7 +549,7 @@ File:Dialogue.png
 
 ## Fadetrimmer
 
--   Oath of a [Etris](Etris.md) barber. Seemingly, that line was added as a joke. It may not be a future oath.
+-   Oath of a [Etris](Etris.md) barber. This oath is considered to be real, but requires the Barber sub-class (UNOBTAINABLE).
     
 
 ## Trivia

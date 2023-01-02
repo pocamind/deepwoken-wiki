@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 45661
+revid: 45823
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, NPCs]
@@ -64,6 +64,10 @@ _Clarity:_
 "Do you have the knowledge within you then, my dull friend? Fifteen shards will do. My kin grow hungry..."
 
 1.  Take it. (15 Knowledge, resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown)
+
+_If enough knowledge:_
+
+"Now... Good. The veil is placed over your eyes once more. You will see things as you wish. Perhaps with a clearer mind, you might again request deals with those beyond you..."
 
 _If not enough knowledge:_
 
