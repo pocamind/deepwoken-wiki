@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46173
+revid: 46220
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -52,16 +52,6 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 |---|---|
 | oath_req | Good reputation with Etris and Ministry |
 | effects | +2 Combat Mantra |
-
-| Oath: Fadetrimmer | |
-|---|---|
-| oath_req | Cut hair as an understudy of the barber. |
-| effects | +2 Combat Mantras, +1 Support Mantra |
-
-| Oath: Synapse X | |
-|---|---|
-| oath_req | Steal your mom's credit card. |
-| effects | -1 Father, +1 Skill Issue |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
@@ -306,7 +296,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
 
-Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and asks the Player to bring the orbs to them for a Jetstriker Talent. You can bring the Orbs in bulk or all at once.
+Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and asks the Player to bring the orbs to them for a Jetstriker Talent. You can bring the Orbs in however amount you want.
 
 -   On top of Lord Regent's palace in Etris.
 -   On the upper rim of The Birdcage near The Viper's Jaw in Erisia.
@@ -352,7 +342,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 2.  Talk to Samael, located in the church above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
-3.  Kill **Iblis, The Fallen Angel,** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md),** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
@@ -414,7 +404,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   **Arc Suit - Wildcard Mantra**
     -   Encases the user in durable armor that reduces damage taken by 20%.
 -   **Arc Beam - Combat Mantra**
-    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.
+    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
 
 -   **Arc Wave - Combat Mantra**
     -   Release a wave of energy around you, dealing fire and lightning damage.
@@ -442,6 +432,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 **Dawnwalker:**
 
 # **Oath: Dawnwalker**
+
+}
 
 “ You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. ”
 
@@ -479,21 +471,20 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Obtainment
 
 -   1\. Have your [Resonance](Resonance.md) unlocked.
--   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
--   3\. Get positive reputation with Etris, enough to start the Duke questline.
+-   2\. Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
+-   3\. Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
--   5\. Make a deal with every shrine EXCEPT the Shrine of Order. **(note: you HAVE to make deals, not just interact)**
+-   5\. Make a deal with every shrine EXCEPT the Shrine of Order. **(Note: you HAVE to make deals, not just interact)**
 -   6\. Talk to Yun'Shul and ask "What happened to this place?"
 -   7\. Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
 
-Killing people in Layer 1 of The Depths who have an Oath will progress Contractor. **The current amount of grips is incorrect as the amount has been lowered significantly, please add the new grip amounts.**
+Killing people in Layer 1 of The Depths who have an Oath will progress Contractor.
 
 -   1 Grip - Hidden Tendril/Lords Slice
--   5 Grips - Equalizer
--   8 Grips - String Trick Passive
--   10 Grips - Judgement
+-   2 Grips - Equalizer
+-   3 Grips - String Trick/Judgment
 
 ### **Known Abilities**
 
@@ -514,93 +505,11 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   It is recommended to farm duke to get bell as you already need to kill him for contractor.
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
--   You can't equip Gran Sudaruska with contractor oath.as of (1/2/2023)
+-   You can't equip Gran Sudaruska with the Contractor oath as of 1/2/2023
 
 File:Capture d’écran 2023-01-03 012119.png
 
-Contractor oath give you some string that seems attached to your limbs, like a puppet.
-
-**Fadetrimmer:**
-
-# **Oath: Fadetrimmer**
-
-“ You vow to fade those in need of a clean cut. Hairlines are easily pliable, bending to your very will. ”
-
-― Fadetrimmer Description
-
-### Obtainment
-
--   1\. Obtain 75 Charisma.
--   2\. Speak to any barber, and get the quest from him.
--   3\. Go to the Depths and give Akira a fresh cut. (If you push back his hairline, he WILL wipe you).
--   4\. Return to the barber. (Has to be the same barber you got the quest from).
-
-### Upgrading
-
-Fading people in Layer 1 of The Depths who have an Oath will progress Fadetrimmer.
-
--   1 Fade - Quick Cut
--   5 Fades- Razor Charge
--   10 Fades - We Gotta Go Bald
-
-### **Known Abilities**
-
--   **Quick Cut - Support Mantra**
-    -   Allows you to give your guildmates a fresh cut, buffing their insanity resistance and outgoing damage.
-
--   **Razor Charge - Combat Mantra**
-    -   Rushes forward. If it connects, it stabs the target with a razor and hits multiple times.
-
--   **We Gotta Go Bald- Combat Mantra**
-    -   Large AOE circle with long startup time. Anyone caught it in will be shaved bald and their head will explode similar to Akira's ability.
-        
-
-**Synapse X:**
-
-# **Oath: Synapse X**
-
-“ You vow to ruin the game for others, no matter the cost. Ban or not you must be weird. Down with AA gun. ”
-
-― Synapse X Description
-
-### Obtainment
-
--   1\. Get wiped 20 times in a row as a level one.
--   2\. Locate Synapse X.
--   3\. Steal your mom's credit card. If you are caught, she will attack you with her legendary weapon, The Belt.
--   4\. Buy Synapse X.
-
-### Upgrading
-
-Using your mom's credit card to buy more hacks will progress Synapse X.
-
--   10 Dollars - Really Good Gaming Chair
--   20 Dollars - All Seeing Eye
--   30 Dollars - Wingless Flight
--   40 Dollars - Reality Phase
--   50 Dollars - Absolute Reflexes
-
-### **Known Abilities**
-
--   **Really Good Gaming Chair - Passive**
-    -   Allows you to open the hacking GUI.
-
--   **All Seeing Eye - Passive**
-    -   You are able to see the health, location, and name of any living creature around you, even through walls.
-
--   **Wingless Flight - Hack**
-    -   You levitate at incredible speeds for however long you wish. However, the Dimensional Anti-Air Cannon will lock onto you and shoot you down if it gets the chance.
-
--   **Reality Phase - Hack**
-    -   You are able to phase through objects and walls and hide in them.
-
--   **Absolute Reflexes - Passive**
-    -   You are able to parry or dodge any attack automatically without pressing any buttons.
-
-### Notes
-
--   This oath may sound overpowered, but while you use it you will be hunted down by celestial beings known as "admins". Even other players can report your unnnatural powers to them and as soon as the admins know, they can erase you from reality.
-    
+The Contractor oath gives you some strings that seem attached to your limbs, like a puppet.
 
 ## Lore Oaths:
 
@@ -629,7 +538,7 @@ Using your mom's credit card to buy more hacks will progress Synapse X.
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
         
 
-**Lifeweaver:**
+**Lifeweaver\*:**
 
 ## Lifeweaver
 
@@ -645,7 +554,8 @@ Using your mom's credit card to buy more hacks will progress Synapse X.
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
-        
+
+liveweaving might be an attunment\*
 
 **Fadetrimmer:**
 
@@ -679,3 +589,4 @@ Using your mom's credit card to buy more hacks will progress Synapse X.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Fadetrimmer and Synapse X oaths are jokes and not truly obtainable in the game.
+-   Arcwarder suit Increases maximum porture

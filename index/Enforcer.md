@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 45314
+revid: 46176
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]

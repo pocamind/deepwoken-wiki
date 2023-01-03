@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 46123
+revid: 46177
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -12,8 +12,7 @@ notices:
 
 A comprehensive map of the East Luminant by gamzeelmao#2927
 
-  
-  
+### **An interactive map of the East Luminant can be found here: East Luminant**
 
 Icon by Tako#3245
 
@@ -44,9 +43,8 @@ File:Burf9 map.png
 map of eastern luminant
 
   
-An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
-**An interactive map of the East Luminant can be found here: Map:East Luminant**
+An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
 ## Trivia/Notes
 

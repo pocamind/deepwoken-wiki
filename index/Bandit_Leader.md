@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 43550
+revid: 46216
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Enemies]
@@ -8,9 +8,7 @@ categories: [World, NPCs, Enemies]
 
 # Bandit Leader
 
-Template:EnemyInfobox1.0
-
-Template:Areainfobox
+Template:EnemyInfobox1.0Template:Areainfobox
 
 ## Description
 

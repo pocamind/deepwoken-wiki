@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46132
+revid: 46214
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -196,7 +196,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
@@ -304,7 +303,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 50 Willpower
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 50 Willpower
-    -   Etrean have a similar effect passively (Molt), but is applied to all debuff and buffs instead.
+    -   Etrean have a similar effect passively (Molt), but is applied to all debuff and buffs instead
+-   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
+    -   Indicated by a gold cell-shade outline on your character
+    -   Prerequisites: 25 Strength
 
 ### Charm Caster
 
@@ -977,9 +979,6 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: 20 Fortitude, Fists
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+3 Health, +4 Carry Load)
     -   Prerequisites: Trained Fist, Moving fortress
--   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
-    -   Indicated by a gold cell-shade outline on your character
-    -   Prerequisites: 25 Strength
 
 ### Nimble Blade
 
@@ -1267,6 +1266,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 5 Agility, 5 Charisma
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
+    -   Prerequisites: 5 Charisma
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
 -   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
@@ -1378,7 +1378,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Blade Dancer \[Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
--   Spinning Swordsman \[Common Talent\] - Running attacks do extra damage. (+1 Passive Agility)
+-   Spinning Swordsman \[Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
     -   Prerequisites: 20 Agility
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical makes you unable to jump for a duration. Also slows you. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
@@ -1453,6 +1453,7 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
+-   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
@@ -1690,6 +1691,11 @@ File:Thresherquest1.png
 
 -   Turn in 5 Pure Ores into the blacksmith.
     -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
+
+### heretic Sutra
+
+-   A chant that steers you into the state of insanity for 20 seconds.
+    -   90 willpower and talk to Kasen, located in the layer 2 floor 1.
 
 ## Outfit Talents
 

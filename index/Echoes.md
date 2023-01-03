@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 45888
+revid: 46204
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -211,4 +211,4 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Trivia
 
--   The modifier "Ironwoken" is a reference to a popular series of challenge called "Ironman" challenges, popularised by Runescape, its a complete solo run of a game with no other player interactions such as trading or using markets.
+-   Ironwoken is a reference a rogue lineage challange video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) it was he who started the trend of solo progression within the community
