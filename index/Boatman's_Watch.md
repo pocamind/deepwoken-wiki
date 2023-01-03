@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 44130
+revid: 46147
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -16,11 +16,11 @@ A place remembered only by the waves.
 
 The arena found in Boatman's Watch
 
-**Boatman's Watch** is a location in _Deepwoken_. It is an island in the [Voidsea](Voidsea.md).
-
 ## Overview
 
 Boatman's Watch is a small island covered in vegetation. An arena can be found in the center.
+
+-   Boatman's Watch can be found in the Eastern Luminant; at the left-most side of [Valley of Heroes](The_Valley_of_Heroes.md), Minityrsa.
 
 ## Potential Enemies
 

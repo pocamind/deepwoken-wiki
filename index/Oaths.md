@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46136
+revid: 46173
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -58,6 +58,11 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 | oath_req | Cut hair as an understudy of the barber. |
 | effects | +2 Combat Mantras, +1 Support Mantra |
 
+| Oath: Synapse X | |
+|---|---|
+| oath_req | Steal your mom's credit card. |
+| effects | -1 Father, +1 Skill Issue |
+
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
@@ -108,7 +113,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 ― Blindseer Description
 
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
 ### Obtainment
 
@@ -123,7 +128,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-To obtain the Blindseer Mantras, you need to help Pathfinder players in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
+To obtain the Blindseer Mantras, you need to help players (either with an Oath or Pathfinder) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -132,7 +137,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby Players at the cost of your Sanity.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
+    -   Obtainment: 1 Player helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in its radius.
@@ -141,7 +146,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
-    -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 3 Players helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -149,7 +154,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Has a HIGH windup
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtaining: 5 Players helped in the Depth Trial (must be alive)
 
 ### Effects
 
@@ -461,10 +466,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
-
-### Effects
-
-This Oath grants two Combat Mantra slots.
+    
 
 **Contractor:**
 
@@ -553,6 +555,53 @@ Fading people in Layer 1 of The Depths who have an Oath will progress Fadetrimme
     -   Large AOE circle with long startup time. Anyone caught it in will be shaved bald and their head will explode similar to Akira's ability.
         
 
+**Synapse X:**
+
+# **Oath: Synapse X**
+
+“ You vow to ruin the game for others, no matter the cost. Ban or not you must be weird. Down with AA gun. ”
+
+― Synapse X Description
+
+### Obtainment
+
+-   1\. Get wiped 20 times in a row as a level one.
+-   2\. Locate Synapse X.
+-   3\. Steal your mom's credit card. If you are caught, she will attack you with her legendary weapon, The Belt.
+-   4\. Buy Synapse X.
+
+### Upgrading
+
+Using your mom's credit card to buy more hacks will progress Synapse X.
+
+-   10 Dollars - Really Good Gaming Chair
+-   20 Dollars - All Seeing Eye
+-   30 Dollars - Wingless Flight
+-   40 Dollars - Reality Phase
+-   50 Dollars - Absolute Reflexes
+
+### **Known Abilities**
+
+-   **Really Good Gaming Chair - Passive**
+    -   Allows you to open the hacking GUI.
+
+-   **All Seeing Eye - Passive**
+    -   You are able to see the health, location, and name of any living creature around you, even through walls.
+
+-   **Wingless Flight - Hack**
+    -   You levitate at incredible speeds for however long you wish. However, the Dimensional Anti-Air Cannon will lock onto you and shoot you down if it gets the chance.
+
+-   **Reality Phase - Hack**
+    -   You are able to phase through objects and walls and hide in them.
+
+-   **Absolute Reflexes - Passive**
+    -   You are able to parry or dodge any attack automatically without pressing any buttons.
+
+### Notes
+
+-   This oath may sound overpowered, but while you use it you will be hunted down by celestial beings known as "admins". Even other players can report your unnnatural powers to them and as soon as the admins know, they can erase you from reality.
+    
+
 ## Lore Oaths:
 
 **Warmaster:**
@@ -600,6 +649,11 @@ Fading people in Layer 1 of The Depths who have an Oath will progress Fadetrimme
 
 **Fadetrimmer:**
 
+## Fadetrimmer
+
+-   The way of the Fadetrimmer was adopted by seasoned masters of the craft. Not much is known about them but if you need a fresh cut, they got you.
+    
+
   
 
   
@@ -624,3 +678,4 @@ Fading people in Layer 1 of The Depths who have an Oath will progress Fadetrimme
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
+-   Fadetrimmer and Synapse X oaths are jokes and not truly obtainable in the game.

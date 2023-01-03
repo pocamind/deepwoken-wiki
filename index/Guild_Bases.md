@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 45417
+revid: 46151
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -20,6 +20,8 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 -   Once hired, the NPC in question can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Nodes and hire certain NPCs depending on the Node.
 
+To the left and behind of the first NPC, you can find the glowing outline to hire the Barber NPC. You can hire them for Notes.
+
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 
 The Chime of Dwelling does not work under the following:
@@ -29,6 +31,7 @@ The Chime of Dwelling does not work under the following:
 -   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
 -   Dungeons or Missions.
 -   Occupied Locations by Factions that see you as a Hostile.
+-   Being In-Combat
 
 ## Nodes
 

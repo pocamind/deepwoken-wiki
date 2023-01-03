@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 46022
+revid: 46166
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -70,7 +70,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ― Flavor Text
 
-**Requirements:** Grip 15 Pathfinders (players with no oath) in the Overworld. Chime of Conflict does not count.
+**Requirements:** Grip 15 players in the Overworld. Chime of Conflict does not count.
 
 **Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 
@@ -83,8 +83,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md)...
     -   **\[PRO\]** ...but start with positive reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
 -   Grants the innate talent "Grasp of Eylis"
-    -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice (if available and within power range)...
-    -   **\[CON\]** ...but if they run too far away and are no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
+    -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
+    -   **\[CON\]** ...but is only available if a few conditions are met.
+    -   **\[CON\]** If your target runs too far away and is no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
     -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
     -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.

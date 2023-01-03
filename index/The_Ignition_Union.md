@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 45209
+revid: 46167
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -10,7 +10,7 @@ categories: [Factions]
 
 | The Ignition Union | |
 |---|---|
-| territory | Miner's Landing, The Frontier Furnace |
+| territory | Miner's Landing, The Frontier Furnace, The Chariot's Spire |
 | goals | Steal gunpowder from The Summer Company, Steal mining territory from The Divers |
 
 ## Description

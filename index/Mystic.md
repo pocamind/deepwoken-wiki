@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 46034
+revid: 46154
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -104,6 +104,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I will not fall to the elements. **(Return to the dark ages?)**_
 -   _I speak to the Depths. **(Murmur)**_
 -   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
+-   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
+-   _I dominate the minds of others._ _**(could be Shared Misery?)**_
 
 ## Locations
 
