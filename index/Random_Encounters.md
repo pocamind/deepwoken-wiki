@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 43320
+revid: 46094
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -154,6 +154,10 @@ If you open one of their chests don't have to take the loot, they will yell at y
 
 Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
 
+#### **Erisia Merchant**
+
+A bound Etrean with white hair and a [Pathfinder Cloak](Pathfinder_Cloak.md) can be found in Erisia. Bringing them to the overturned cart near the Bandit Village in [Lower Erisia](Lower_Erisia.md) grants a chest.
+
 #### **Megalodaunt vs Golem**
 
 A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) or two in [Upper Erisia](Upper_Erisia.md). The Golem will usually be victorious.
@@ -176,7 +180,7 @@ One in the [Hidden Village](The_Hidden_Village.md).
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel seas](The_Aratel_Sea.md), feasting on a Etrean naval guard corpse, Upon killing the Monster, A Chest will spawn in the ship with mid tier loot.
 
-#### Traveling Merchant
+#### **Traveling Merchant**
 
 A light-blue Merchant Schooner can spawn in the seas _(recently discovered in [Aratel](The_Aratel_Sea.md))_, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more.
 

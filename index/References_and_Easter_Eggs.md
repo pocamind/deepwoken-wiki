@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 45477
+revid: 46121
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -39,7 +39,8 @@ CONTAINS SPOILERS!!!
 -   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical. The name matches up and works nearly the same as the "Lightning Release Armour" Jutsu, often called "Cloak of Lightning"
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear), and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
--   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_.
+-   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_
+    -   It also bears striking resemblance to the spell "Shock Assault" from _Wizard Of Legend,_ having a similar name and similar effects.
 
 ### **Frostdraw**
 
@@ -66,6 +67,7 @@ CONTAINS SPOILERS!!!
 ## Oaths
 
 -   Arcwarder is a reference to the Iron Man suit from Marvel Comics.
+-   Though probably not being a reference, Ragoozer wanted the obtainment for Contractor to be like finding Darkstalker Kaathe in _Dark Souls_.
 
 ## Enemies/Bosses
 
@@ -142,7 +144,11 @@ CONTAINS SPOILERS!!!
 ### **The Etrean Luminant**
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
--   The Celestial underneath the Delerict Highchurch could be a reference to Lilith from Neon Genesis Evangelion. The white body, red cross, and pool of blood are all traits shared with Lilith
+-   The Celestial underneath the Delerict Highchurch could be a reference to Lilith from Neon Genesis Evangelion. The white body, red cross, and pool of blood are all traits shared with Lilith.
+-   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
+    -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
+    -   The locations he are encountered in were the prime pvp and ganking spots where these were seen.
+    -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wound created by a character's attacks are only registered once they sheath their weapon.
 
 ### **The Eastern Luminant**
 

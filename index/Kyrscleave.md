@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 45329
+revid: 46125
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,17 +17,15 @@ categories: [Weapons, Weaponry]
 | range | 9 |
 | swing speed | 0.6x |
 | endlag | 0.1s |
-| penetration | N/A |
 | chip damage | 15% |
-| special effect | ? |
-| selling price | ? |
+| special effect | Bleed |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 Chests |
-| description | ? |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46045
+revid: 46132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -182,7 +182,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: Power 10, 65 Thundercall
--   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
+-   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, butt will deal 10% less damage to you.
     -   Prerequisites: Power 15, 65 Thundercall
 -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
 -   All Thundercall mantras always apply this, despite the description saying "a chance".
@@ -247,7 +247,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, Swift Rebound
+    -   Prerequisites: 15 Agility, Swift Rebound
 -   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
@@ -918,7 +918,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 5 Willpower
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat.
     -   Prerequisites: 10 Willpower, Breathing Exercise
--   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
+-   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Decreases the amount of time Illusionary servants lasts for.
     -   Prerequisites: 25 Willpower  
           

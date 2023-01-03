@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 45965
+revid: 46102
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1195,18 +1195,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>N/A</td>
 </tr>
 <tr>
-  <td><a href="Railblade.md">Railblade</a></td>
-  <td>75 HVY</td>
-  <td>22</td>
-  <td>25%</td>
-  <td>N/A</td>
-  <td>HVY: 8.3</td>
-  <td>8</td>
-  <td>8.5</td>
-  <td>0.7x</td>
-  <td>N/A</td>
-</tr>
-<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Zweihänder#Alloyed"><font>Alloyed Zweihänder</font></a></td>
   <td><font>75 HVY</font>, 10 STR</td>
   <td><font>23</font></td>
@@ -1253,6 +1241,18 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="Railblade.md">Railblade</a></td>
+  <td>80 HVY, LVL 10</td>
+  <td>22</td>
+  <td>25%</td>
+  <td>N/A</td>
+  <td>HVY: 8.3</td>
+  <td>8</td>
+  <td>8.5</td>
+  <td>0.7x</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>

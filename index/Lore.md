@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46072
+revid: 46130
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -28,13 +28,14 @@ _"Ah, perfect. All I needed was for you to secure the area. Your services will n
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
+The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer.
 
   
 
+-   Lord Regent has his power increased by an incredible amount by sitting on his chair. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
+-   Lord Regent is the 4th Prophet out of 9 Ministry Prophets that are ranked based of strength.
 -   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
-    -   Talismans are hung up around the throne, presumably to 'contain' this power. It is theorized if the Lord Regent were to ever leave from his containment, he could prematurely start a Great Drowning, killing himself and potentially the entire world.
     -   The Lord Regent is not in any way a Krulian, he is something far stranger and more terrible.
     -   After shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ Breaking the veil also caused the guard's eyes to explode.
 -   Based on Jericho's Journal, the Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
@@ -156,7 +157,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   His title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why he is the only creature who may have governance over your resonance.
--   He can't in universe actually change someone's resonance, they are tied to your soul and personality so are permanent. This ability is solely so that builds aren't dependent on the rng of what resonance they will receive.
+-   Shrines similar in appearance to the one in the Temple of Hearts are scattered throughout the Eastern Luminant.
 
 File:Yun'Shul.png
 
@@ -165,9 +166,10 @@ Yun'shul's Shrine
 ### **Ethiron**
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
--   Ethiron is the Drowned God of the Eternal Gale.
+-   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure.
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer; the meaning of scion in this context is unclear.
+    -   The Scion acts as a guardian of sorts.
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
@@ -177,7 +179,7 @@ Yun'shul's Shrine
 -   The Drowned God of Fire and creator of the Forge of Sin
 -   The Temple of The Forgotten Flame was dedicated to them and housed the Forge.
 -   Their physical body, or fragments of it, are found in the Third Layer.
--   Part of them was eaten by Black Diver Amorus Pleetsky.
+-   Part of them was eaten by Black Diver Amorus Pleeksty.
 
 ### **The Nestmind**
 
@@ -199,6 +201,7 @@ Yun'shul's Shrine
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
+-   A full power Ferryman can defeat Akira, but not the Lord Regent with his throne.
 
 ## Locations
 
@@ -258,6 +261,8 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 #### Markor Citadel
 
 -   A building used as the headquarters of The Divers.
+-   It's also treated as a great place for scholars and learning.
+-   They taught the barber plastic surgery.
 
 ### **Southern Luminant**
 
@@ -272,6 +277,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Western Luminant**
 
 -   The home to the Hundred Legions and home of the Khans.
+-   Home of Amorous Pleeksty (The Flamecharmer who ate part of korilfiend).
 
 ### **Voidsea**
 
@@ -871,19 +877,19 @@ _"The stars call you back..."_
 
 ### Flamecharm
 
-**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleetsky (Mentioned), Flame Worshipper Armor (Description)_
+**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleeksty (Mentioned), Flame Worshipper Armor (Description)_
 
-_"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
+_"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
--   (Pleetsky) Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
-    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
+-   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
+    -   Pleeksty was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
     -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.
 -   (Flameworshipper Shield) Other than the history lesson given by the Flameworshipper Shield, the Shield itself bears the emblem of a Flamepriest.
 -   (Flame Worshipper Armor) This armor is a standard-issue armor of the Covenant of Flame.
-    -   Not much is known about the Covenant of Flame except it was pioneered by Pleetsky himself. This Covenant is presumably a minor Faction.  
+    -   Not much is known about the Covenant of Flame except it was pioneered by Pleeksty himself. This Covenant is presumably a minor Faction.  
         
 
 ### Frostdraw
@@ -893,7 +899,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization.
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
-    -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
+    -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.  
         
 
 ### Thundercall
@@ -1046,7 +1052,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-## Deepwoken: 0000-1271 (New World)
+## Deepwoken: [0000-1271](tel:0000-1271) (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 

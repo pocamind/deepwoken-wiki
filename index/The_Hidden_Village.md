@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 44829
+revid: 46131
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -43,8 +43,9 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 ### NPCs
 
 -   Nimea, an [Etrean](Etrean.md) who gives you insight about Lightkeepers and their place in the world.
--   [Cestis](Cestis.md), a [Ganymede](Ganymede.md) who allows you to take bounties of players if infamous with [The Kingdom of Etrea](Etrea.md).
+-   ~[Cestis](Cestis.md), a [Ganymede](Ganymede.md) who allows you to take bounties of players if infamous with [The Kingdom of Etrea](Etrea.md).~ (Cestis has been moved to [Meteor Isle](Meteor_Isle.md))
 -   Shrine of Blasphemy, who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
+-   Marcus, a chill [Stone Golem](Rock_Golem.md) who appears to be very small compared to his other kind and has somehow obtained a coffee cup, table, chairs and a lamp. He lives underneath one of the houses although he doesn’t have much to say.
 
 ### Miscellaneous
 

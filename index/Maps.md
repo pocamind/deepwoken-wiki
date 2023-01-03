@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 44777
+revid: 46123
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -9,6 +9,11 @@ notices:
 ---
 
 # Maps
+
+A comprehensive map of the East Luminant by gamzeelmao#2927
+
+  
+  
 
 Icon by Tako#3245
 

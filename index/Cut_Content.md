@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 46044
+revid: 46127
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -17,6 +17,10 @@ notices:
 -   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
+
+## Quests
+
+-   **Chaser's Bloodkinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet.
 
 ## Player
 

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 45752
+revid: 46099
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons"]
@@ -24,6 +24,10 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons"]
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken, Scion of Ethiron chest |
 | description | "In her dying breaths, Sudaruska the Undying infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
+
+“ Your own Depths shall take you. ”
+
+― soul of Sudaruska
 
 ## Description
 
@@ -54,3 +58,4 @@ This weapon has 3 passives abilities:
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
     -   Probably a reference to Lucy from Don't Starve
+    -   Unable to be wielded by people with Oath: Contractor as of 1/2/23

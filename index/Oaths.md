@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46074
+revid: 46136
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Blindseer | |
 |---|---|
-| oath_req | 40 Willpower, 5 Mental Fortress Talents |
+| oath_req | 40 Willpower, 3 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +10 Sanity |
 
 | Oath: Visionshaper | |
@@ -52,6 +52,11 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 |---|---|
 | oath_req | Good reputation with Etris and Ministry |
 | effects | +2 Combat Mantra |
+
+| Oath: Fadetrimmer | |
+|---|---|
+| oath_req | Cut hair as an understudy of the barber. |
+| effects | +2 Combat Mantras, +1 Support Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
@@ -264,10 +269,10 @@ Does not grant any special cosmetic based on race.
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
--   **Symbiotic Sustain**
-    -   If linked to an ally (signified by blue cord), this move will take a percentage of **YOUR** health and then heal your **ally** by that amount.
--   **Symbiotic Leech**
-    -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
+-   -   **Symbiotic Sustain**
+        -   If linked to an ally (signified by blue cord), this move will take a percentage of **YOUR** health and then heal your **ally** by that amount.
+    -   **Symbiotic Leech**
+        -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
 
 ### Effects
 
@@ -339,10 +344,10 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 ### Obtainment
 
 1.  Have 50 Strength and grip any player.
-2.  Talk to Samael, located in the church above the Voidzone in Songseeker.
+2.  Talk to Samael, located in the church above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
-3.  Kill **Iblis, The Fallen Angel,** located above the Startree Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+3.  Kill **Iblis, The Fallen Angel,** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
@@ -509,7 +514,44 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
 -   You can't equip Gran Sudaruska with contractor oath.as of (1/2/2023)
 
-File:Dialogue.png
+File:Capture d’écran 2023-01-03 012119.png
+
+Contractor oath give you some string that seems attached to your limbs, like a puppet.
+
+**Fadetrimmer:**
+
+# **Oath: Fadetrimmer**
+
+“ You vow to fade those in need of a clean cut. Hairlines are easily pliable, bending to your very will. ”
+
+― Fadetrimmer Description
+
+### Obtainment
+
+-   1\. Obtain 75 Charisma.
+-   2\. Speak to any barber, and get the quest from him.
+-   3\. Go to the Depths and give Akira a fresh cut. (If you push back his hairline, he WILL wipe you).
+-   4\. Return to the barber. (Has to be the same barber you got the quest from).
+
+### Upgrading
+
+Fading people in Layer 1 of The Depths who have an Oath will progress Fadetrimmer.
+
+-   1 Fade - Quick Cut
+-   5 Fades- Razor Charge
+-   10 Fades - We Gotta Go Bald
+
+### **Known Abilities**
+
+-   **Quick Cut - Support Mantra**
+    -   Allows you to give your guildmates a fresh cut, buffing their insanity resistance and outgoing damage.
+
+-   **Razor Charge - Combat Mantra**
+    -   Rushes forward. If it connects, it stabs the target with a razor and hits multiple times.
+
+-   **We Gotta Go Bald- Combat Mantra**
+    -   Large AOE circle with long startup time. Anyone caught it in will be shaved bald and their head will explode similar to Akira's ability.
+        
 
 ## Lore Oaths:
 
@@ -555,6 +597,12 @@ File:Dialogue.png
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
+
+**Fadetrimmer:**
+
+  
+
+  
 
 ## Trivia
 

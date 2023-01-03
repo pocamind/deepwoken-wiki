@@ -1,11 +1,11 @@
 ---
 title: Enforcer Eye
-revid: 45313
+revid: 46092
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Items, Drops]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Items, Drops]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Enforcer Eye
@@ -20,7 +20,7 @@ Enforcer Eye in inventory.
 
 ## Description
 
-Enforcer Eye is used to gain the "Enforcer Pull" mantra from Carrion, who resides in [Castle Light](Castle_Light.md) after talking to him in the [Second Layer](Second_Layer.md).
+Enforcer Eye is used to gain the "Enforcer Pull" mantra from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in the [Second Layer](Second_Layer.md).
 
 ## Notes & Trivia
 
