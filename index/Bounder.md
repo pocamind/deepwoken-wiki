@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 45925
+revid: 46024
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,3 +34,4 @@ Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with d
 ## Trivia
 
 -   Its legs have a high resemblance to that of a frog, shown even more with its ability to leap far and high.
+-   Like every other layer 2 monster, [Mute (Animal King)](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders and they will still attack on sight.

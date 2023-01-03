@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 45998
+revid: 46035
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -96,7 +96,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md). This variant is the weakest of the Mudskippers as it can be killed manually or by causing it to lose all of it's limbs by parrying its attacks 3 times.
+Mindless enemies that can be found in [The Hidden Village](The_Hidden_Village.md) and [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md). This variant is the weakest of the Mudskippers as it can be killed manually or by causing it to lose its arms and head by parrying its attacks 3 times.
 
 ## Moveset
 

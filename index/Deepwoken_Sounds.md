@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 45457
+revid: 46039
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -51,7 +51,12 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 20 | In Starstruck Sands | 2:38 | [Starswept Valley](The_Starswept_Valley.md) | File:Starswept Valley - Deepwoken OST.mp3 |
 | 21 | Pyres of Glass | 2:32 | [Starswept Valley](The_Starswept_Valley.md) (Combat) | File:Starswept Valley (Combat) - Deepwoken OST.mp3 |
 | 22 | Of Chitin, Kith And Kin | 2:25 | [Greathive Aratel](Greathive_Aratel.md) | File:Greathive Aratel - Deepwoken OST.mp3 |
-| 23 | A Symphony Of Strife | 2:21 | [Greathive Aratel](Greathive_Aratel.md) (Combat) | File:Greathive Aratel (Combat) - Deepwoken OST.mp3 |
+| 23 | A Symphony Of Strife | 2:21 | [Greathive Aratel](Greathive_Aratel.md)
+(Combat)
+
+[Primadon's Hunting Grounds](<The_Monkey's_Paw.md>)
+
+ | File:Greathive Aratel (Combat) - Deepwoken OST.mp3 |
 | 24 | What Mends Shall Fray | 2:30 | [Voidsea](Voidsea.md) | File:Voidsea - Deepwoken OST.mp3 |
 | 25 | A Sarabande Of Thunder | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) | File:A Sarabande Of Thunder.mp3 |
 | 26 | Dance, If You Can! | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) | File:Dance, If You Can!.mp3 |
@@ -74,7 +79,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) War | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
-| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | Layer 2 Trailer Music | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
+| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Eternal Gale](Second_Layer.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | Tutorial | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
 
@@ -82,6 +87,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
+| ? | INSOMNIA | 3:31 | ? | File:INSOMNIA.mp3 |
 | ? | N/A | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
 
 ## Alternative Soundtracks

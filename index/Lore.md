@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 45828
+revid: 46072
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -397,6 +397,9 @@ An Etrean Guard, part of the Nation of Etrea
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
+    
+    Master of the way of Navae
+    
 
 ### The Hundred Legions
 

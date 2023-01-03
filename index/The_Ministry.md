@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 45879
+revid: 46064
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,13 +13,17 @@ notices:
 | The Ministry | |
 |---|---|
 | territory | Minityrsa |
-| goals | Defeat The Summer CompanyThe sinking of the Overworld into the depths |
+| goals | The sinking of the Overworld into the depths, Clear out the Navaen Nomads in Summer Isle |
 
 “ Celtor will repeat itself here... The world will fall under The Depths... ”
 
 ― Dark Mage Cultist
 
 Template:ImageCaption Infobox
+
+## Description
+
+The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. The Ministry has a direct link with [Lord regent (Zi'eer)](The_Lord_Regent.md), they reside at [Minityrsa.](Minityrsa.md)
 
 ## **Lore**
 

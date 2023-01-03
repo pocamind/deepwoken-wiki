@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46005
+revid: 46045
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -755,7 +755,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Javelin Lord
 
 -   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
-    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 40 Thundercall
+    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 60 Thundercall
 
 ### **Justicar**
 
@@ -920,13 +920,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 10 Willpower, Breathing Exercise
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
     -   Decreases the amount of time Illusionary servants lasts for.
-    -   Prerequisites: 25 Willpower
--   Encouraging Presence \[Common Talent\] - Allies that grip enemies near you recover Sanity. (+5 Sanity)
-    -   Prerequisites: 15 Willpower
--   Unyielding Focus \[Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
-    -   Prerequisites: 40 Willpower, Disbelief  
+    -   Prerequisites: 25 Willpower  
           
-        When you get all these talents you are eligible to get the Oath [Blindseer.](Oaths.md)
+        When you get all these talents and 40 Willpower you are eligible to get the Oath [Blindseer.](Oaths.md)
 
 ### Merchant
 
@@ -1425,14 +1421,10 @@ These Talents are designed to make you more effective in water.
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: 40 Light Weapon
 
--   Lethal Force \[Common Talent\] - \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 Medium Weapon, Using medium weapon
--   Lethal Precision \[Common Talent\] - \[Light Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 Light Weapon, Using light weapon
--   In Twain \[Common Talent\] - \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
-    -   Prerequisites: 75 Heavy Weapon, Using heavy weapon
+-   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly.
+    -   Prerequisites: 75 Light / Medium / Heavy weapon
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
--   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisites: 40 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit. (+2 Health)
     -   Prerequisites: ~30 Heavy Weapon.

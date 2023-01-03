@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 45015
+revid: 46044
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -65,6 +65,8 @@ notices:
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   As of 12/13/22 update, Diplomat was merged into Celebrity.
+-   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
+    -   As of 01/03/23 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   As of the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
@@ -75,14 +77,20 @@ notices:
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
+-   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
+    -   As of 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Legendary Echoes -** Receive a random Legendary Talent.
     -   With Verse 2 update most Legendary talents have turned into Advanced talents, while other - decreased in rarity to Rare.
+-   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
+    -   As of 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
     -   As of 12/13/22 update, Quick Recovery was into Kick Off.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   As of 12/13/22 update, Salesperson was merged into Snake Oil.
+-   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
+    -   As of 01/03/23 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 
 ## Other

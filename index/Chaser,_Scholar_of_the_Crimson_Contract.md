@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 45966
+revid: 46019
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -55,7 +55,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ◯ | (★★☆) |
 | **Satalactite Fall** | Chaser drops many stalactites from the ceiling.
 
--   _**In his 2nd stage, the stalactites**_ _**fall immediately after a laugh.**_
+-   _**When only half the blood jar remains, the ceiling will collapse, dropping all stalactites from the ceiling instantly. Chaser no longer uses this attack afterward.**_
 
  | ✗ | ◯\* | ◯\* | (★★☆) |
 | **Sanguine Repulsion** | Chaser launches away all players near him and causes them to ragdoll, happens a few seconds after he is down.
@@ -94,6 +94,7 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 -   A variety of deep gems
 -   Multiple Kyrsan bone weapons
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md)
+-   Rarely, enchantment stones.
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 44257
+revid: 46050
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -153,9 +153,9 @@ A mantra's type generally corresponds to its respective stat. Weapon mantras and
 
 ## Monster Mantra's
 
-Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare, monster parts that you can turn in for Mantras drop from a (name of the mantras in parenthesis) Megalodaunt (Coral Spear), Dread Serpent (Dread Breath), Thresher (Beast Burrow), Bone Keeper (Brachial Spear) and Enforcer (Enforcer Pull).
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare, monster parts that you can turn in for Mantras drop from a (name of the mantras in parenthesis) Megalodaunt (Coral Spear), Dread Serpent (Dread Breath), Thresher (Beast Burrow), Bone Keeper (Brachial Spear), Enforcer (Enforcer Pull), and Mechalodaunt (???).
 
-Known monster parts that give Mantras: Enforcer Eye from Enforcer, Giant Femur from Bone Keeper, Thresher Talon from Thresher, Dread Serpent Tooth from Dread Serpent, and Megladaunt Coral from Megalodaunt.
+Known monster parts that give Mantras: Enforcer Eye from Enforcer, Giant Femur from Bone Keeper, Thresher Talon from Thresher, Dread Serpent Tooth from Dread Serpent, Worn Cog(?) from Mechalodaunt, and Megladaunt Coral from Megalodaunt.
 
 ## Modifying Mantras
 

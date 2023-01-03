@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 44367
+revid: 46022
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -103,4 +103,4 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
-    -   Grasp of Eylis only had the ferocity option in the past, making the bounties harder because most people either log out before the Voidwalker could even attack him. Luckily this changed in recent updates adding the stealth option, making voidwalkers able to make surprise attacks so the bounties wouldn't log out before the voidwalker could had a chance.
+-   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat.

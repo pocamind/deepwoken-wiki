@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 44944
+revid: 46048
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -596,6 +596,25 @@ Stormcaller Slash
 Call forth the fury of the storms
 
 by pressing F at the end of the mantra Lightning Blade.
+
+ | 
+
+ ???
+
+ |
+
+**Thunder Brawler:**
+
+These talents are found in the _Thunder Brawler_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Discharge
+
+ | 
+
+\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby.
 
  | 
 

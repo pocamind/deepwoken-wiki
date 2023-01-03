@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 45899
+revid: 46034
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -103,6 +103,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I do not need a weapon. **(No weapon talents?)**_
 -   _I will not fall to the elements. **(Return to the dark ages?)**_
 -   _I speak to the Depths. **(Murmur)**_
+-   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
 
 ## Locations
 

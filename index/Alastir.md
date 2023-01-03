@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 38231
+revid: 46080
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

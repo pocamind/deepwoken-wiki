@@ -1,18 +1,18 @@
 ---
 title: Misérables
-revid: 45823
+revid: 46084
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, NPCs]
+categories: [In progress with reason, InProgressPages, NPCs]
 notices:
   - This page is currently being worked on. Please check back later.
 ---
 
 # Misérables
 
-File:Trulymisery.png
-
 Misérables is an NPC in the second floor of the Eternal Gale, found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+Template:NPC name
 
 ## Dialogue
 
@@ -21,6 +21,8 @@ Misérables is an NPC in the second floor of the Eternal Gale, found near the ou
 1.  Rose
 2.  Cornflower
 3.  Hyacinth
+
+  
 
 "What a charming choice. With this flower, what shall I do?"
 

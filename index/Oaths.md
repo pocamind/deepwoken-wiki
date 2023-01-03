@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46014
+revid: 46074
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -50,7 +50,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry and at least 10 points of intelligence |
+| oath_req | Good reputation with Etris and Ministry |
 | effects | +2 Combat Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
@@ -64,8 +64,6 @@ There are currently nine Obtainable Oaths in _Deepwoken_.
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
-
-  
 
 **Oathless:**
 
@@ -419,7 +417,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 -   **Arc Module: Eject - Passive**
     -   When blockbroken with Arc Suit active, eject from the armor. (+10 Ether)
-    -   When this effect activates, you do not get guardbroken, however you remain at full posture.
+    -   Immediatly end Arc Suit but prevent the guardbreak and reset your posture.
 
 -   **Arc Module: Dash - Passive**
     -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther. (+10 Ether)
@@ -473,7 +471,7 @@ This Oath grants two Combat Mantra slots.
 
 ### Obtainment
 
--   1\. Have at least 10 Intelligence and your [Resonance](Resonance.md) unlocked.
+-   1\. Have your [Resonance](Resonance.md) unlocked.
 -   2\. Get positive reputation with The Ministry. (The ministry no longer see you as worth fighting.)
 -   3\. Get positive reputation with Etris, enough to start the Duke questline.
 -   4\. Start Duke questline and finish it.
@@ -483,7 +481,7 @@ This Oath grants two Combat Mantra slots.
 
 ### Upgrading
 
-Killing people in Layer 1 of The Depths who have an Oath will progress Contractor.
+Killing people in Layer 1 of The Depths who have an Oath will progress Contractor. **The current amount of grips is incorrect as the amount has been lowered significantly, please add the new grip amounts.**
 
 -   1 Grip - Hidden Tendril/Lords Slice
 -   5 Grips - Equalizer
@@ -509,14 +507,15 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   It is recommended to farm duke to get bell as you already need to kill him for contractor.
 -   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
+-   You can't equip Gran Sudaruska with contractor oath.as of (1/2/2023)
 
 File:Dialogue.png
 
 ## Lore Oaths:
 
-**Warmaster/Barmaster:**
+**Warmaster:**
 
-## Warmaster/Barmaster
+## Warmaster
 
 -   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
     
@@ -557,8 +556,6 @@ File:Dialogue.png
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
 
-**Fadetrimmer:**
-
 ## Trivia
 
 -   Time magic was not actually stated to be an oath itself, but 'oath magic.'
@@ -576,7 +573,6 @@ File:Dialogue.png
 -   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
-    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction? and an angel of the abyss? In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   Fadetrimmer was a joke and isn't currently planned to be a real oath.

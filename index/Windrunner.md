@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 45794
+revid: 46037
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,13 +27,13 @@ _And so they continue to squabble... Oh, someone actually found their way up her
 1.  **Yeah, what are you doing up here? (continue)**
 2.  **\[End Dialogue\]**
 
-_Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?_
+_"Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?"_
 
 1.  **\[End Dialogue\]**
 
 If you talk to him with 75 agility, he will say:
 
-(needs testing)
+_"If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror."_
 
 ## Trivia
 
