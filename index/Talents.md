@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46272
+revid: 46304
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1689,9 +1689,10 @@ File:Thresherquest1.png
 -   Turn in 5 Pure Ores into the blacksmith.
     -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
 
-### heretic Sutra
+### Heretic Sutra
 
 -   A chant that steers you into the state of insanity for 20 seconds.
+-   Gives insanity instantly.
     -   90 willpower and talk to Kasen, located in the layer 2 floor 1.
 
 ## Outfit Talents

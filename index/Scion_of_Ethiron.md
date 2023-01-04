@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 46149
+revid: 46310
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -8,14 +8,11 @@ categories: [Bosses]
 
 # Scion of Ethiron
 
-Template:Creature Infobox V3
-
 “ Wake. ”
 
 ― ???
 
-  
-_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
+Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
 ## Description
 
@@ -61,7 +58,7 @@ Cancel if possible
 | Swing | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | Parry or dodge | (★★☆) |
 | Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | Dodge | (★☆☆) |
 
-## Trivia & Tips
+## Trivia
 
 -   Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
     -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46130
+revid: 46316
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -39,7 +39,7 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   The Lord Regent is not in any way a Krulian, he is something far stranger and more terrible.
     -   After shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ Breaking the veil also caused the guard's eyes to explode.
 -   Based on Jericho's Journal, the Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
--   The Lord Regent's newfound power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
+-   The Lord Regent's power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -50,7 +50,12 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   As it is unknown how long ago this event was, they may be the same person.
     -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
 
-### The King of Etrea
+### **The Second Prophet**
+
+-   The second strongest of the nine Ministry Prophets.
+-   Gave Chaser his bloodkinetic abilities.
+
+### **The 5th King of Etrea**
 
 -   The previous Ruler of the Kingdom of Etrea, before his rule was taken by the Lord Regent under his banner.
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
@@ -64,6 +69,11 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
     -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.
     -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
+-   File:RagsHonestReaction.png
+    
+    Ragoozer after being asked 'was the old king of etris also buffed by the throne?'
+    
+    When Ragoozer was asked if he was also strengthened by the throne, his reaction was:
 
   
 
@@ -104,11 +114,21 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
+    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
--   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
+-   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
+-   The katana he wields isn't strapped to his black, it's floating.
+    -   Yes this is canon.
 
-### Chaser, Scholar of the Burning Blood
+### **Amorus Pleeksty**
+
+-   An immortal Vesperian who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
+-   'Would beat Akira up and down the eastern lum.'
+-   Has maintained his sanity despite living in the Third Layer for so long.
+    -   A 'chill guy.'
+
+### **Chaser, Scholar of the Burning Blood**
 
 -   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
@@ -116,7 +136,21 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   He killed two more expeditions after this, and may have killed even more.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he doesn't appear to actually be able to use them.
 -   Though he is an Adret, he has a never seen before skin color and facial markings for the race.
--   He can manipulate blood.
+-   He can manipulate blood, a power gifted to him by the Second Prophet.
+-   Slightly less powerful than a Power 20 player.
+
+### **Colonel Hoffa**
+
+-   (Ragoozer) Powerful Ignition Union Deepdelver.
+-   On par with Akira.
+-   Possibly an Arcwarder?
+
+### **Klaris Llfiend**
+
+-   Black Diver of an unknown race. Created light hooks.
+-   In charge of expeditions into the Second Layer.
+-   Name bears an eery resemblance to Korilfiend, Drowned God of Fire.
+-   Slightly stronger than a Power 20 Player. Weaker than Akira.
 
 ### **The Meat Lord**
 
@@ -149,15 +183,36 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
-    -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
-        
+    -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
+
+### **Alsin**
+
+-   Religious figure and Celestial.
+-   Worshiped by Polis and Alastir.
+-   A fragment became Nilsa.
+
+### **Navae**
+
+-   Religious figure and Celestial.
+-   Worshiped by the Navaen Nomads.
+-   Possibly a more eldritch being.
+-   Exists on an island moving through the world, independent of the Voidsea.
+
+### **Nilsa**
+
+-   Celestial
+-   Fragment of Alsin.
+-   Possibly not canon.  
+    
 
 ### **Yun'shul**
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
--   His title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why he is the only creature who may have governance over your resonance.
+-   theirs title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is whythey is the only creature who may have governance over your resonance.
+-   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
 -   Shrines similar in appearance to the one in the Temple of Hearts are scattered throughout the Eastern Luminant.
+-   He is not a former Ministry Prophet.
 
 File:Yun'Shul.png
 
@@ -177,9 +232,12 @@ Yun'shul's Shrine
 ### **Korilfiend**
 
 -   The Drowned God of Fire and creator of the Forge of Sin
--   The Temple of The Forgotten Flame was dedicated to them and housed the Forge.
--   Their physical body, or fragments of it, are found in the Third Layer.
--   Part of them was eaten by Black Diver Amorus Pleeksty.
+-   The Temple of The Forgotten Flame was dedicated to him and housed the Forge.
+-   His physical body is found in the Third Layer.
+    -   His existence created Korilfiend's garden, which is seen as his 'essence.'
+    -   This garden contains meteor flowers, which are seen as a part of him.
+-   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
+-   (Ragoozer) Confirmed to be male.
 
 ### **The Nestmind**
 
@@ -262,7 +320,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A building used as the headquarters of The Divers.
 -   It's also treated as a great place for scholars and learning.
--   They taught the barber plastic surgery.
+-   They taught the [barber](Barber.md) plastic surgery.
 
 ### **Southern Luminant**
 
@@ -303,7 +361,9 @@ _"A place remembered only by the waves"_
 
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
 
--   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths.
+-   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths, Ragoozer has hinted at the possibility of there being five.
+-   The layer are non liner. You can go straight from the Surface to Layer 3, which is what Pleeksty did.
+-   Many of the layers are created after a great drowning sinks a civilisation.
 
 #### **Scyphozia, The First Layer**
 
@@ -358,6 +418,16 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   New Kyrsa is a civilization that sunk to the second layer.
 -   Its inhabitants are the Kyrsgarde.
+
+#### **The Vents, The Third Layer**
+
+-   Can be reached straight from the surface.
+-   Current location of Amorus Pleeksty.
+-   Korilfiend's garden is located near the top.
+    -   The meteor flowers located here are considered a part of him.
+    -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
+-   Amongus.
+-   H e l l.
 
 ## Factions
 
@@ -461,12 +531,13 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Territory:** _Minityrsa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
--   **Alliances:** _The Contractors (Neutral)_
--   **Enemies:** _[Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md)_
+-   **Alliances:** _[The Contractors](Oaths.md) (Neutral)_
+-   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children of Navae, [The Summer Company](The_Summer_Company.md)_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
--   They warn of (and possibly bring about) the sinking of the Overworld into [The Depths](The_Depths.md).
+-   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
+-   They are lead by prophets. There is no limit to how many there can be, but as of Year 1363 there are nine. They are ranked by strength.
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
@@ -489,9 +560,12 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Ministry (Neutral) File:Eylisiconfactoin.png_
 -   **Enemies:** _Unknown_
--   **Lore Sources:** Warden Jericho's Journal, the Windrunner
+-   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
 
--   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
+-   The Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
+-   They act as freelance Ministry Operatives.
+-   At some point prior to Year 1271, they were wiped out.
+-   By Year 1363, Zi'eer has begun to rebuild them.
 
 ### The Knives of Eylis
 
@@ -499,12 +573,13 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
 -   **Attunements:** _None_
 -   **Alliances:** _The Central Authority (Business Relations)_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord), Eylis, The Punished Dreamer (NPC)._
 
 -   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
 -   They live in the sewers of the Central Luminant.
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
+-   They possess a special Oath that lets them slow time around them.
 -   (Arch\_Mage) The Knives of Eylis are mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
@@ -853,7 +928,7 @@ _"The stars call you back..."_
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
--   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair. Though it should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon.
+-   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair. Though it should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon. Ragoozer however believes he is.
 
 ### Primal Vesperians
 
@@ -882,6 +957,7 @@ _"The stars call you back..."_
 _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
+-   It was invented when Pleeksty consumed a chunk of Korilfiend's flesh, allowing him to speak to and thus 'charm' fire.
 -   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
     -   Pleeksty was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
@@ -889,7 +965,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.
 -   (Flameworshipper Shield) Other than the history lesson given by the Flameworshipper Shield, the Shield itself bears the emblem of a Flamepriest.
 -   (Flame Worshipper Armor) This armor is a standard-issue armor of the Covenant of Flame.
-    -   Not much is known about the Covenant of Flame except it was pioneered by Pleeksty himself. This Covenant is presumably a minor Faction.  
+    -   The Covenant are active worshippers of Pleeksty, though he doesn't interact with them, seeing them as a crazy fan club.  
         
 
 ### Frostdraw
@@ -898,6 +974,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization.
+
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
     -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.  
         
@@ -908,9 +985,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to control electricity and power.
     -   Thundercall concentrates the energies of electricity.
-    -   Has been quoted by the Pathfinder Neero to be a power source for most everything.
-
-  
+-   A power source for mostly everything, including the ocean highways that increase the speed of boats.
 
 ### Galebreathe
 
@@ -1052,7 +1127,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-## Deepwoken: [0000-1271](tel:0000-1271) (New World)
+## Deepwoken: 0000-1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 
@@ -1103,21 +1178,11 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
         -   There are three known Layers contained within The Depths, but there may well be more.
         -   As the layers get deeper, they appear to get closer to the Drowned Gods.
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
-            -   The second Layer is where the Drowned God-like being, the Scion of Ethiron, is found.
+            -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
             -   The third Layer is where the physical body of Korilfiend is found.
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 -   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
-
-### Drowned Gods
-
-**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
-
--   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
--   Mortals (And even players themselves) cannot win against a Drowned God- As they have no chance of fighting a being powerful enough to explode their heads in an instant.
--   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
--   Were the drowned gods to fully awaken, the world would be destroyed.
--   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
 ### Ancestors of Ganymedes & Vesperians
 
@@ -1294,6 +1359,10 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Large spiders with potent venom.
 -   _Tale of the Storm_ makes reference to four creatures that resemble Deep Widows, however the Appendix notes that they would have to be much smaller and Deep Widows living near to a Megalodaunt's nest is unheard of.
 
+### Bone Keepers
+
+-   Large creatures that bear a heavy resemblance to Kyrsgarde.
+
 ### The Enforcer(s)
 
 -   A nearly endless, robotic legion of soldiers that serve [The Voices](Voices_of_the_Depths.md).
@@ -1325,6 +1394,10 @@ Though technically a blank slate of varying races and abilities, even the player
 
 -   The Player in the Castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
+
+### Power Level
+
+-   A Power 20 player is slightly mores powerful than Chaser but slightly less powerful than Klaris.
 
 ### Character Deaths
 
@@ -1434,8 +1507,10 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
+-   The change in artstyle seen with the more realistic Roblox resources used in Layer 2 is just experimentation. Sometimes, it's just not that **deep**.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.
 -   It was also confirmed by Archmage that Stormcall/Plasmacast (Purple Lightning) is old lore that they've forgotten to remove. No leancall, everyone.
--   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there are so few oaths or none not mentioned in the lore AND only 3 in-game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
+-   Ragoozer likes using acronyms to drop lore hints. An example of this would be Nilsa being an acronym of Nilsa.
+-   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
 
 Talking Mudskippers

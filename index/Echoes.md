@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 46204
+revid: 46309
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -46,7 +46,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding ?? Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
--   Making a deal with [Misérables](Misérables.md), awarding ?? Echoes.
+-   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
 
 ## Upgrades and Modifiers
 
@@ -211,4 +211,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Trivia
 
--   Ironwoken is a reference a rogue lineage challange video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) it was he who started the trend of solo progression within the community
+-   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
+    -   Also notably, a rogue lineage challange video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within rogue lineage (deepwoken's predecessor). This may have been the root of the dev team's inclusion of this feature within the game.

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 46218
+revid: 46312
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,43 +26,46 @@ Enforcer Pull
 
 (★★☆)
 
- | WIP | 
+ |  | 
 
  |  |
 |  | 
 
 Beast Burrow
 
-(☆☆☆)
+(★★☆)
 
- | WIP | 
+ |  | 
 
  |  |
 |  | 
 
- |  |  |  |
-|  | 
+Coral Spear
+
+(★★☆)
 
  |  |  |  |
 |  | 
 
- |  |  |  |
-|  | 
+Dread Breath
+
+(★★☆)
 
  |  |  |  |
 |  | 
 
- |  |  |  |
-|  | 
+Brachial Spear
+
+(★★☆)
 
  |  |  |  |
 |  | 
 
- |  |  |  |
-|  | 
+Mecha Gatling
+
+(★★☆)
 
  |  |  |  |
-|  |  |  |  |  |
 
 ## Trivia/Notes
 

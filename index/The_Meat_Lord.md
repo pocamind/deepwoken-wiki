@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 41910
+revid: 46288
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -8,9 +8,9 @@ categories: [Random Encounters, NPCs]
 
 # The Meat Lord
 
-“ Did I ask? ”
+“ Very well, you may rise ”
 
-― The Meat Lord to a vegetarian
+― The Meat Lord to one of his ever-loyal subjects
 
 ## Overview
 

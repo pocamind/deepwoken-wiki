@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46266
+revid: 46322
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -261,6 +261,7 @@ Does not grant any special cosmetic based on race.
             4.  Europa (Near the Valley of Heroes)
             5.  Pallas (Infront of the Oathless trainer)
             6.  Fortuna (Above the Broken Church in Erisia)
+            7.  Ceres (In the Etrean Wilds)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
@@ -387,7 +388,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ― Arcwarder Description
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens (7 times in total) (One skill per run)
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 
 ### Obtainment
 
@@ -480,7 +481,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Upgrading
 
-Killing people in Layer 1 of The Depths who have an Oath will progress Contractor.
+Killing people in Layer 1 of The Depths who have an Oath will progress Contractor. (Note: These must be solo grips, attacking and killing the player by oneself.)
 
 -   1 Grip - Hidden Tendril/Lords Slice
 -   2 Grips - Equalizer
@@ -558,6 +559,8 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
 
 liveweaving might be an attunment\*
 
+^^^ I'm very very sure it is
+
 **Fadetrimmer:**
 
 ## Fadetrimmer
@@ -590,4 +593,4 @@ liveweaving might be an attunment\*
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Fadetrimmer and Synapse X oaths are jokes and not truly obtainable in the game.
--   Arcwarder suit Increases maximum porture
+-   Arcwarder suit Increases maximum posture

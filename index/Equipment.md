@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 45133
+revid: 46307
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1544,7 +1544,7 @@ Akira's Ring
 
 Gives every weapon 1.2 Willpower scaling when equipped.
 
-**Requires Power 20**
+**Requires Power 6**
 
  | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 
@@ -1557,7 +1557,7 @@ Rosen's Ring
 
 Gives every weapon 1.2 intelligence scaling when equipped.
 
-**Requires Power 20**
+**Requires Power 6**
 
  | Duke Chests, Arena Chests (WIP) |
 |  | 
@@ -1570,7 +1570,7 @@ Prophet's Ring
 
 Gives every weapon 1.2 charisma scaling when equipped.
 
-**Requires Power 20**
+**Requires Power 6**
 
  | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 
@@ -1583,7 +1583,7 @@ Maestro's Ring
 
 Gives every weapon 1.2 agility scaling when equipped.
 
-**Requires Power 20**
+**Requires Power 6**
 
  | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
 |  | 

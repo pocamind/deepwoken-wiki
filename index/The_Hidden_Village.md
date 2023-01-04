@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 46131
+revid: 46293
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -43,22 +43,11 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 ### NPCs
 
 -   Nimea, an [Etrean](Etrean.md) who gives you insight about Lightkeepers and their place in the world.
--   ~[Cestis](Cestis.md), a [Ganymede](Ganymede.md) who allows you to take bounties of players if infamous with [The Kingdom of Etrea](Etrea.md).~ (Cestis has been moved to [Meteor Isle](Meteor_Isle.md))
 -   Shrine of Blasphemy, who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
--   Marcus, a chill [Stone Golem](Rock_Golem.md) who appears to be very small compared to his other kind and has somehow obtained a coffee cup, table, chairs and a lamp. He lives underneath one of the houses although he doesn’t have much to say.
+-   [Marcus](Marcus.md), a chill [Stone Golem](Rock_Golem.md) who loves sipping coffee.
 
 ### Miscellaneous
 
 -   You can find one of [The Hive](The_Hive.md)'s fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
 -   You can find plenty of [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore) ore here.
 -   You can find [The Meat Lord](The_Meat_Lord.md) here.
-
-## Quests
-
-### Assassination Quest
-
--   First talk to [Cestis](Cestis.md) while having negative reputation with [The Kingdom of Etrea](Etrea.md).
--   When interacting with him, he talks about his benefactors from the West and asks you if you know what benefactors he's talking about, forcing you to take a [Charisma](https://deepwoken.fandom.com/wiki/Attributes#Charisma) check to proceed.
--   If you passed the [Charisma](https://deepwoken.fandom.com/wiki/Attributes#Charisma) check, he will then tell you to kill another player in the server while also telling you their race (the target's power will be 10+).
--   Kill the player he tells you to and come back to claim your reward.
--   For every assassination you complete you gain a pitiful amount of [notes](Notes.md), and it reduces your [reputation](Reputation.md) with Etrea. However, on your 6th assassination you gain Ministry reputation, as well as [Cestis](Cestis.md)' dialogue changing. When you complete your 10th assassination and have not obtained a [Murmur](Murmur.md), [Cestis](Cestis.md) will teach you [Murmur: Tacet](Murmur.md) for your work.
