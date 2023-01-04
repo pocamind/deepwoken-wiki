@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46322
+revid: 46340
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 20 [or lower] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 25 [Checked] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -118,7 +118,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-To obtain the Blindseer Mantras, you need to help players (Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
+To obtain the Blindseer Mantras, you need to help players with no Oath (AKA Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -127,7 +127,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby Players at the cost of your Sanity.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Obtainment: 1 Player helped in the Depth Trial (must be alive)
+    -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in its radius.
@@ -136,7 +136,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
-    -   Obtainment: 3 Players helped in the Depth Trial (must be alive)
+    -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
@@ -144,7 +144,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Has a HIGH windup
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 5 Players helped in the Depth Trial (must be alive)
+    -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 ### Effects
 
@@ -392,7 +392,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have around 20 Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have around 25(Checked) Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha

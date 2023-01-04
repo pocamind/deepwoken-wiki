@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 46310
+revid: 46329
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -66,4 +66,4 @@ Cancel if possible
 -   The white orbs that appear after defeating the boss will **not** wipe you, but instead send you back to Scyphozia, with the caveat being that **you lose all items you gained from both Floor 1 and Floor 2.**
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
 -   Using the Chilling enchant to attack the boss while it's stunned can lead to a bug where it continues to attack you, becoming un-stunned early.
--   Vamparism is the most preferable enchant, for reasons that are quite obvious. It's quite helpful if it's your first time attempting to beat the boss, however, it's not required.
+-   Vampirism is the most preferable enchant, for reasons that are quite obvious. It's quite helpful if it's your first time attempting to beat the boss, however, it's not required.

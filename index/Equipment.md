@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46307
+revid: 46335
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -375,6 +375,15 @@ Grants a random buff.
 **Requires Fortitude 15**
 
  | Summer Isle Chests, Arena Chests, Depths Chests, Duke Chests | N/A |
+|  | 
+
+Bulwark Helm
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 | 
 
 File:Captainskabuto.png
@@ -590,6 +599,15 @@ Grants a random buff.
  | Depths Chests | N/A |
 |  | 
 
+Duelist's Mask
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
 Hivelord Mask
 
  | 
@@ -719,7 +737,7 @@ Grants a random buff.
 
  | Summer Isle Chests | N/A |
 
-**Back:**
+**Torso:**
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
@@ -759,6 +777,15 @@ Grants a random buff.
 _\+ 5% Stealth_
 
  | Fishing Chests, Duke Erisia Chests | Red, Black, Midnight & White |
+|  | 
+
+Sandrunner Scarf
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 | File:Crimson Scarf.png | 
 
 Scarf
@@ -786,9 +813,36 @@ Grants a random buff.
   
 _\+ 3% Elemental Armour_  
   
-**Requires Power 40**
+**Requires Power 13**
 
  | Summer Isle Chests and Fishing Chests | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+|  | 
+
+Nomad Pendant
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
+Red Eye Pendant
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
+Seafarer Pendant
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 
 **Arms:**
 
@@ -909,17 +963,6 @@ Flameguard Pauldrons
 Grants a random buff.
 
  | Erisia Chests | N/A |
-|  | 
-
-Enforcer Plate
-
- | 
-
-Grants a random buff
-
-_+Talent: Berserker_
-
- | Duke chests | N/A |
 |  | 
 
 Gladiator Pauldrons
@@ -1057,6 +1100,46 @@ Grants a random buff.
 _+Talent: Polite Awakening_
 
  | Hive Chests | N/A |
+| File:Etrean Siege Cuirass.png | 
+
+Etrean Siege Cuirass
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
+Hive Scourge Cuirass
+
+ | 
+
+Grants a random buff.
+
+_+Talent: Lowstride_
+
+ | Chili's Traveling Ship | N/A |
+|  | 
+
+Enforcer Plate
+
+ | 
+
+Grants a random buff
+
+_+Talent: Berserker_
+
+ | Duke chests | N/A |
+|  | 
+
+Ironsinger Heavy Plate
+
+ | 
+
+Grants a random buff.
+
+ | Second Layer Chests (Floor 2) | N/A |
 | File:Brigand's Cloak.png | 
 
 Brigand's Cloak
@@ -1069,6 +1152,15 @@ Grants a random buff.
 _\+ 3 Health_
 
  | Summer Isle Chests, The Depths Chests, Primadon Chests | N/A |
+|  | 
+
+Mercenary's Garb
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 | File:Brown Overcoat.png | 
 
 Overcoat
@@ -1092,7 +1184,16 @@ Grants a random buff.
 
 _+Talent: Steady Footing_
 
- | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
+ | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Captain Drop | Black, Brown & White |
+|  | 
+
+Winter Corps Parka
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests & Second Layer Chests (Floor 1) | N/A |
 | File:Glassdancer wraps.jpg | 
 
 [Glassdancer Wraps](Glassdancer_Wraps.md)
@@ -1103,7 +1204,7 @@ Grants a random buff.
 
 _+Talent: Lightweight_
 
- | Minityrsa Chests, Songseeker Wilds Chests | N/A |
+ | Minityrsa Chests, Songseeker Wilds Chests & Chili's Traveling Ship | N/A |
 | File:Smithgloves.png | 
 
 Smith's Gloves
@@ -1169,6 +1270,19 @@ Grants a random buff.
 **Requires Power 30**
 
  | Fort Merit Chests | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
+|  | 
+
+Dark Owl Cloak
+
+(Series)
+
+ | 
+
+Grants a random buff.
+
+_+Talent: Disbelief_
+
+ | First Layer Chests (Work in Progress) | N/A |
 | File:Deepwoken Cloak.png | 
 
 [Deepwoken Cloak](Deepwoken_Cloak.md)
@@ -1685,6 +1799,15 @@ Grants a random buff.
 Grants a random buff.
 
  | The Depths Chests | N/A |
+|  | 
+
+[Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 | File:Black fur boots 1.png | 
 
 [Fur Boots](Fur_Boots.md)
@@ -1714,6 +1837,15 @@ Grants a random buff.
 _\+ 2 Health_
 
  | Erisia Chests, Primadon Chests, Fishing | N/A |
+|  | 
+
+[Mercenary's Boots](<Mercenary's_Boots.md>)
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
 |  | 
 
 [Novice Boots](Novice_Boots.md)
@@ -1806,6 +1938,15 @@ Grants a random buff.
 Grants a random buff.
 
  | Erisia Chests, Hive Chests | N/A |
+|  | 
+
+[Winter Corps Boots](Winter_Corps_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests & Second Layer Chests (Floor 1) | N/A |
 |  | 
 
 [Woodland Boots](Woodland_Boots.md)

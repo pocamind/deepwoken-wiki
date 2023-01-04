@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46316
+revid: 46325
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -49,6 +49,19 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
 -   His goals are in line with the Ministry's as he works as a contractor for them, manipulating Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
     -   As it is unknown how long ago this event was, they may be the same person.
     -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
+
+### **Drallis Ehr**
+
+-   Grand Sovereign of The Central Authority.
+-   Presumably an Adret.
+-   Gained this position after withstanding something known as the Godstorm.
+-   Even more powerful than the Lord Regent.
+
+### **The First Prophet**
+
+-   The strongest Ministry Prophet.
+-   Surpasses all the world leaders, including the Lord Regent and Drallis Ehr.
+-   On par with even the strongest Krulians.
 
 ### **The Second Prophet**
 
@@ -123,8 +136,9 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
--   An immortal Vesperian who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
+-   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
+-   Possibly a Vesperian, possibly a Tyran.
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 
@@ -236,8 +250,20 @@ Yun'shul's Shrine
 -   His physical body is found in the Third Layer.
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'
     -   This garden contains meteor flowers, which are seen as a part of him.
+    -   He takes the form of a large fiery serpent.
 -   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
 -   (Ragoozer) Confirmed to be male.
+
+### **Drowned Gods**
+
+**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+
+-   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   They are not fighters, so much as natural disasters waiting to happen.
+-   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
+-   Were the drowned gods to fully even gain consciousness, existence would end.
+-   Becoming one is the ultimate goal of the Ministry.
+-   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
 ### **The Nestmind**
 
@@ -362,7 +388,7 @@ _"A place remembered only by the waves"_
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
 
 -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths, Ragoozer has hinted at the possibility of there being five.
--   The layer are non liner. You can go straight from the Surface to Layer 3, which is what Pleeksty did.
+-   The layer are non liner. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Many of the layers are created after a great drowning sinks a civilisation.
 
 #### **Scyphozia, The First Layer**
@@ -473,6 +499,7 @@ An Etrean Guard, part of the Nation of Etrea
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
+-   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.
     
     Master of the way of Navae
     
@@ -535,8 +562,9 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children of Navae, [The Summer Company](The_Summer_Company.md)_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
--   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
+-   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance an ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
+-   It has been hinted at that they were successful in causing a Great Drowning. Given what the Blindseer glyphs in Lightkeeper temple read, they likely caused the sinking of Celtor.
 -   They are lead by prophets. There is no limit to how many there can be, but as of Year 1363 there are nine. They are ranked by strength.
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
@@ -616,7 +644,9 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
+-   They are led by their Grand Soverign, Drallis Ehr. A Warmaster covers the military, while several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the east. These Wardens then have Inquisitors that work under them.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
+-   The only faction aware of The Lord Regent of Etris' true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part.
@@ -702,10 +732,12 @@ A Peacekeeper Commander, part of The Authority
 -   **Alliances:** _None_
 -   **Enemies:** _None_
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
-    -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
-    -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
-        -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
-            -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn
+-   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
+-   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
+-   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
+    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn.
+-   There are higher Krulians and lesser Krulians.
+    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty.
 
 ### The Golden Rats
 
@@ -1004,8 +1036,8 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
 -   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
-
-  
+-   Considered taboo, as it exists to drain life.  
+    
 
 ### Lightkeepers
 
@@ -1436,6 +1468,12 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Pufferfish
         -   Possibly more
     -   Lionfish have been a major cause for the extinction of many sea predators.
+
+### Guns
+
+-   Guns are a lot weaker in the Deepwoken world compared to real life.
+-   They are considered as strong as a sword and cannot simply kill someone with a single bullet.
+-   Reverse engineered and redistributed by Gunsmith Rosen and the Summer Company.
 
 ### **Mental Veils**
 
