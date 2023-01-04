@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 46203
+revid: 46257
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | Hero Blade of Flame | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 FIR, LVL 35 |
+| requirements | 75 FIR, LVL 11 |
 | damage | 20 |
 | scaling | FIR: 6.5 |
 | range | 8 |
@@ -27,7 +27,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | Hero Blade of Frost | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 ICE, LVL 35 |
+| requirements | 75 ICE, LVL 11 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
@@ -43,7 +43,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | Hero Blade of Lightning | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 THD, LVL 35 |
+| requirements | 75 THD, LVL 11 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
@@ -59,7 +59,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | Hero Blade of Wind | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 WND, LVL 35 |
+| requirements | 75 WND, LVL 11 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
@@ -75,7 +75,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | Hero Blade of Shadow | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 SHD, LVL 35 |
+| requirements | 75 SHD, LVL 11 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |

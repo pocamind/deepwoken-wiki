@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 46151
+revid: 46240
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -14,7 +14,7 @@ Template:Areainfobox
 
 ## Overview
 
-Guild Bases are a type of outpost that can be created by Guild Leaders. To create a guild base, a Leader or Officer must use a Chime of Dwelling on a wall. A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a Chime of Dwelling on a wall. A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
@@ -23,6 +23,8 @@ Entering the guild base for the first time, you will be met with a glowing outli
 To the left and behind of the first NPC, you can find the glowing outline to hire the Barber NPC. You can hire them for Notes.
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
+
+You can now donate notes to other guilds by talking to their treasurer.
 
 The Chime of Dwelling does not work under the following:
 

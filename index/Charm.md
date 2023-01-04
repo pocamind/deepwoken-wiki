@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 41350
+revid: 46226
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -52,7 +52,9 @@ Command: Run - Command your servant to run with all their might. _Causes the Sub
 
 Command: Fight - Command your servant to fight for their master, granting them enhanced stats for the duration. _Regardless of the rumors this one is purely a buff that does nothing else, appears to give more damage and enhanced life regen, lengthy cooldown_. ( \[Subject's First Name\] Fight )
 
-Command: Sacrifice - Damage your servant to heal yourself
+Command: Sacrifice - Sacrifice the health of a servant in order to restore your own. _Damage your servant to heal yourself for an ammount._ ( \[Subject's First Name\] Sacrafice )
+
+Command: Return - Command your servant to obey your vow and return to your side. _Brings the subject in front of you._ (This has limited range.) ( \[Subject's First Name\] Return )
 
 Command: Live - Can be only used once per hour. Revives and fully heals the subject. ( \[ Subject's First Name\] Live )
 

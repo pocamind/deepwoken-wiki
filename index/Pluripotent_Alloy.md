@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 39015
+revid: 46280
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weap
 
 ## How to Use
 
-To use a Pluripotent Alloy, you must be at least power level 30 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
+To use a Pluripotent Alloy, you must be at least power level 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
 
 ## Alloyable Weapons
 

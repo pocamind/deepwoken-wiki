@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 46076
+revid: 46278
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -31,3 +31,7 @@ notices:
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
+
+## NPCs
+
+-   [Eastern camp master](Cheral.md)

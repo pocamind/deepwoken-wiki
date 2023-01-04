@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 45216
+revid: 46275
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 | --- | --- | --- | --- | --- | --- |
 | **Quick Strike** | The Terrapod does a singular slice at its opponent and retreats to recover. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
-| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. | ◯ | ◯ | ◯ | (★★★) |
+| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | ◯ | ◯ | ◯ | (★★★) |
 | **(VARIANT) Crimson** | The Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A | N/A | N/A | (★★★) |
 
 ## **Tips and Notes**

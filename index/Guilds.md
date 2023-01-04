@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 45450
+revid: 46274
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -27,5 +27,5 @@ Members of a guild including its leader will stay in their guild after death. Cu
 ## Notes
 
 -   There is a guild that players can actually join by talking to an NPC: [The Divers](The_Divers.md), this guild is joinable by talking to Akira in the Celtor Wastlelands and then travelling to Castle Light and ask him to join; the account you join the divers on obtains the Deepbound origin (YOU DO NOT NEED TO ACCEPT THE INVITE FOR THE ORIGIN).
--   If a Guild Leader leaves the Guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership.
+-   If a Guild Leader leaves the Guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership. ( you must go to the guild npc to claim leadership once the guild leader has left its not given to anyone randomly)
 -   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) near a wall. However not all surfaces can be used to create a door

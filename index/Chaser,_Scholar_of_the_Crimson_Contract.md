@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46019
+revid: 46279
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -130,7 +130,9 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 **(C)** - Ha? Really?! Gods below, you really are such a FOOL.
 
-**(2)** - \[MORE DIALOGUE TO BE ADDED\]
+**(2)** - I won't be fooled again.
+
+-   **(C)** - ???
 
 ### If you attack him mid-dialogue
 
@@ -148,6 +150,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Bloodless Gems have reduced healing effects on Chaser.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon.
 -   Chaser grants a fairly large amount of Resonance progression.
+-   Chaser is resistant to Bloodless Gem and Vampirism enchant
 
 ## Bugs
 

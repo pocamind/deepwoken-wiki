@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46220
+revid: 46266
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -118,7 +118,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-To obtain the Blindseer Mantras, you need to help players (either with an Oath or Pathfinder) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
+To obtain the Blindseer Mantras, you need to help players (Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -518,6 +518,7 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
 ## Warmaster
 
 -   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
+-   Can be assumed by the Windrunner and the notebook in the Tomb of the Nameless Warrior to be Warden Jericho's Oath
     
 
 **Time Magic:**

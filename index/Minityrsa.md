@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 45484
+revid: 46250
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -51,7 +51,9 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
 | 
--   [Tactician](Hive_Tactician_Armor.md)
+-   [Hive Tactician](Hive_Tactician_Armor.md)
+-   [Cloak of Winds](Cloak_of_Winds.md)
+-   [Darksteel Plate](Darksteel_Plate.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 45840
+revid: 46233
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -43,6 +43,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 #### Eastern Luminant
 
 -   At the right hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
+-   In the middle of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
 
 (There are many more than what is noted here)
 

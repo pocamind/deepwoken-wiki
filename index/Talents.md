@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46214
+revid: 46272
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -647,9 +647,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Genius Intellect
 
--   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
-    -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
-    -   Prerequisite: 30 Intelligence (works with Warrior's Respite)
 -   Neuroplasticity \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 7% to 5.4%, for tier 2 - from 14% to 11.2%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
@@ -1324,7 +1321,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
     -   Prerequisites: Lightning Clones
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals more damage in the rain. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: 40 Thundercall
+    -   Prerequisites: 35 Thundercall
 -   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
     -   Prerequisites: 20 Thundercall
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 45560
+revid: 46230
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -306,6 +306,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
+    -   If this fills the opponent posture bar, guard break them instantly (even if they werent blocking)
 
  |
 

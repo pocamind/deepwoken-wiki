@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 45293
+revid: 46270
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPC]
@@ -25,3 +25,5 @@ Enforcer Eye = Enforcer Pull
 Dread Serpent Tooth = Dread Breath
 
 Giant Femur = Brachial Spear
+
+Broken Gatling Gun = Mecha gatling

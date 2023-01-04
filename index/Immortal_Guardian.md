@@ -1,12 +1,14 @@
 ---
 title: Immortal Guardian
-revid: 45511
+revid: 46281
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Immortal Guardian
+
+**Weak:**
 
 Template:EnemyInfobox1.0
 
@@ -16,9 +18,26 @@ Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken
 
 Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. It's unknown what properties this has, aside from raising their healthpool. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
 
-Theory 1: They spawn red during nighttime (not counting garunteed ones)
+## Moves
 
-Theory 2: Killing enough will eventually respawn them as red ones to discourage farming the same server.
+An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md) or a [Divine Battleaxe](Crazy_Slots.md).
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★★☆) |
+| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
+
+**Nightmare:**
+
+Template:EnemyInfobox1.0
+
+## Description
+
+Immortal Guardians Nightmare can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's hall.
+
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, when they're nightmare, the symbol turn red instead of the basic white, raising their healthpool and concealing their [race](Aspects.md) and gender. Immortal Guardians that spawn on the upper floors of the Crypt will always be Nightmare
+
+  
 
 ## Moves
 
@@ -47,5 +66,5 @@ An Immortal Guardian executes the player after knocking them.
 ## Trivia
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
--   The Immortal Guardian's helmet appears to resemble Bondrewd's helmet from the anime "Made in Abyss".
+-   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
 -   The effect of [Mute](Regalia.md) applies onto all entities here.
