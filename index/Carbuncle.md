@@ -1,12 +1,16 @@
 ---
 title: Carbuncle
-revid: 46336
+revid: 46371
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Carbuncle
+
+“ oogoroahaoghaohgahghhhrdr ”
+
+― carbuncle hitting the griddy
 
 Template:Creature Info Box v2
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46337
+revid: 46366
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -984,7 +984,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### [Oath](Oaths.md)
 
--   Oath: Arcwarder - Weld the armor of the Ignition Union's most notable dwellers.
+-   Oath: Arcwarder - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold (Requires all 5 Mental Fortress cards).

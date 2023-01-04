@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 45962
+revid: 46341
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -24,15 +24,15 @@ Used in crafting Flint, comes in a black color. Found in any cave.
 
 **Iron:**
 
-Used for crafting Bullets, and certain armors, comes in a copper tint. Found in any cave.
+Used for crafting Bullets, and certain armors, comes in a grey-brownish tint. Found in any cave.
 
 **Gold:**
 
-Used for crafting certain armors, comes in a yellowish color. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves.
+Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md).
 
 **Erisore:**
 
-Used for crafting certain armor, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md) and the inside of Tomb of the nameless warrior.
+Used for crafting certain armors, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md) and the inside of Tomb of the nameless warrior.
 
 **Irithine:**
 
@@ -50,8 +50,10 @@ File:Umbrite1.jpg
 
 ## Trivia
 
--   While every ore has its own color, they become black when held as an item, with the only exception being rock.
+-   While every ore has its own color, they become black when held as an item, with the only exception being rocks.
 -   Rocks can be thrown at people.
+    -   This however puts you in combat tag.
 -   Normal and pure ores has the same appearance when held in hand.
 -   All ores other then rocks can be sold.
--   Every ore can be eaten with termite except for umbrite and astruline
+-   Every ore can be eaten with Termite except for Umbrite and Astruline
+-   Mining ores mainly gives Strength XP

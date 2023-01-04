@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 45932
+revid: 46342
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -88,5 +88,5 @@ This fits with our current understanding of the lore and would explain why they 
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
 -   The hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).[\[1\]](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots)
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
--   In the Verse 2 update, Ganyemede had it's racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
+-   In the Verse 2 update, Ganymede had it's racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
     -   They are the only race to have their racial talent updated.

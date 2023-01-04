@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46325
+revid: 46369
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -802,12 +802,12 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
 
-### **Kyrsegarde**
+### **Kyrsgarde**
 
 -   **Encountered In: Firfire, New Kyrsa**
--   **Attunements: N/A**
--   **Alliances: _???_**
--   **Enemies: N/A**
+-   **Attunements: Frostdraw**
+-   **Alliances: _Ethiron (against their will tho)_**
+-   **Enemies: Ethiron(?)**
 -   **Lore Sources:**
 
 -   A race of people that live within the Eternal Gale.
@@ -815,6 +815,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Over the course of their lives they add more words to their name.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
+-   Despite hostile in the New Kyrsa, in Firefire they can be seen as a more joking and funny side as if you give them the stupid nickname in a dialogue option, the leader will name you something along the lines of "Twinkletoes"
+-   The Kyrsgarde have alot of prosperity and such, but something called "The mist" has changed something in them, an outsider Kyrsgarde tells us this place is not good for us, and that the foolishness is of the Kyrsgarde is what brought this tragedy, because turns out building a huge city over a drowned god wasnt really a good idea
+-   Kyrsgarde brutes were probably the ones who carried the iron bars and created some of the bigger heavy structures, while the ice lancers used their frostdraw to create some other buildings, presumably.
+-   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is it gets deadly.
+-   They know how to speak our language, however they have their own "tongue".
 
 ## Race Lore
 
@@ -984,7 +989,7 @@ _"The stars call you back..."_
 
 ### Flamecharm
 
-**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleeksty (Mentioned), Flame Worshipper Armor (Description)_
+**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleeksty (Mentioned), Flame Worshipper Armor (Description), Lumen's Folklore: Volume 'Attunement'(Book)_
 
 _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
@@ -997,8 +1002,10 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.
 -   (Flameworshipper Shield) Other than the history lesson given by the Flameworshipper Shield, the Shield itself bears the emblem of a Flamepriest.
 -   (Flame Worshipper Armor) This armor is a standard-issue armor of the Covenant of Flame.
-    -   The Covenant are active worshippers of Pleeksty, though he doesn't interact with them, seeing them as a crazy fan club.  
-        
+    -   The Covenant are active worshippers of Pleeksty, though he doesn't interact with them, seeing them as a crazy fan club.
+
+-   (Lumen's Folklore: Volume 'Attunement') Flamecharmers were always a high demand. With their power to naturally produce fire, they were able to cause major engineering breakthroughs, weapon creation, cooking.  
+    
 
 ### Frostdraw
 

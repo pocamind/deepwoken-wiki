@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 45273
+revid: 46372
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -61,7 +61,7 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 ## **Trivia & Notes**
 
 -   The regular version of these Golems are fairly easy to kill with its moves being very slow and predictable.
-    -   Stat Check Level: 40, Uppercut does high damage.
+    -   Stat Check Level: 14, Uppercut does high damage.
 -   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weak from the fight.
 -   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking

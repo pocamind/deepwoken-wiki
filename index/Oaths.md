@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46340
+revid: 46377
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -396,14 +396,14 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
-    3.  Retrieve injured Elphis **(option 2 when you talk to him)**
+    3.  Retrieve injured Epsi **(option 2 when you talk to him)**
     4.  Talk to Alpha again
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
 
 -   **Arc Suit - Wildcard Mantra**
-    -   Encases the user in durable armor that reduces damage taken by 20%.
+    -   Encases the user in durable armor that reduces damage taken by 20%. (NOTE: IF YOU WANT TO THE ARC SUIT TO BE UP FOR LONGER PERIODS OF TIME, YOU MUST UPGRADE IT WITH LOGSTONES.)
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
 
@@ -556,17 +556,7 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
-
-liveweaving might be an attunment\*
-
-^^^ I'm very very sure it is
-
-**Fadetrimmer:**
-
-## Fadetrimmer
-
--   The way of the Fadetrimmer was adopted by seasoned masters of the craft. Not much is known about them but if you need a fresh cut, they got you.
-    
+        
 
   
 

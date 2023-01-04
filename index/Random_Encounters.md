@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 46094
+revid: 46370
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -156,7 +156,7 @@ Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people
 
 #### **Erisia Merchant**
 
-A bound Etrean with white hair and a [Pathfinder Cloak](Pathfinder_Cloak.md) can be found in Erisia. Bringing them to the overturned cart near the Bandit Village in [Lower Erisia](Lower_Erisia.md) grants a chest.
+A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) can be found in Erisia. Bringing them to the overturned cart near the Bandit Village in [Lower Erisia](Lower_Erisia.md) grants a chest.
 
 #### **Megalodaunt vs Golem**
 

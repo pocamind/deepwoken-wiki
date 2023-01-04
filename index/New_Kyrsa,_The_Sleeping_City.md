@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 44940
+revid: 46345
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -21,6 +21,10 @@ Template:Areainfobox
 ## Points of Interest
 
 -   Grand Library of New Kyrsa
+
+## Contents
+
+New Kyrsa is a beautiful and huge place with tons of buildings and such, there is alot of the Kyrsgarde with if I'm correct only one (an outsider who wasnt apart of the city) is the only one not hostile, there are alot of pink chests that contain the Kyrsan Medallions, rarely one outside of the city as a reminder. It seems the Kyrsgarde have been manipulated and such by "the mist" but this isnt the lore section so cant go into that lol.
 
 ## Quests
 
