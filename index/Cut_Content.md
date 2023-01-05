@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 46224
+revid: 46524
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -47,7 +47,7 @@ notices:
 
 -   **Crab -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
 -   **Isopods -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
--   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release.
+-   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. He may be trolling, but he insists he isn't.
 
 ## Talents
 
@@ -112,4 +112,5 @@ notices:
 -   **Ship Customization -** Ships were going to have more in-depth customization features, but were removed shortly before release for unknown reasons.
 -   **Officer's Note -** An item that had a chance to drop from Bandit Camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
 -   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
+-   **Chaser's Phase 2 -** Chaser was meant to have another phase to his boss fight. This was scrapped.
 -   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.

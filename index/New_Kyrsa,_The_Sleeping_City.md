@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 46345
+revid: 46538
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -21,6 +21,8 @@ Template:Areainfobox
 ## Points of Interest
 
 -   Grand Library of New Kyrsa
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Miserables](Misérables.md)
 
 ## Contents
 
@@ -33,3 +35,5 @@ New Kyrsa is a beautiful and huge place with tons of buildings and such, there i
 ## NPCs
 
 -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+-   [Miserables](Misérables.md)
+-   Cap'n Orlandeau

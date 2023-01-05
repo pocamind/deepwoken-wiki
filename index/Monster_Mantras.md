@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 46312
+revid: 46536
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ WIP
 
 ### **Combat Mantras**
 
-| Media | Name | Card Description | Effect | Stats |
+| Media | Name | Mantra Description | Effect | Stats |
 | --- | --- | --- | --- | --- |
 |  | 
 Enforcer Pull

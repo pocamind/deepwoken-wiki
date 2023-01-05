@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46489
+revid: 46535
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
-There are currently nine Obtainable Oaths in _Deepwoken_.
+There are currently 10 Obtainable Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -576,4 +576,4 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   Fadetrimmer and Synapse X oaths are jokes and not truly obtainable in the game.
+-   Synapse X oath is a joke and not truly obtainable in the game.

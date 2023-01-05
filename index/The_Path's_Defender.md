@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 46454
+revid: 46539
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]

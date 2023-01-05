@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 38501
+revid: 46529
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -17,7 +17,7 @@ categories: [Weapons, Spears]
 | range | 9 |
 | swing speed | 0,68x |
 | penetration | N/A |
-| selling price | N/A |
+| selling price | 7 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

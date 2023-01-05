@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46451
+revid: 46530
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -46,9 +46,8 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
 -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
--   His goals are in line with the Ministry's as he works as a contractor for them, manipulating Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
-    -   As it is unknown how long ago this event was, they may be the same person.
-    -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
+-   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
+-   The Lord Regent plans on drowning Etris.
 
 ### **Drallis Ehr**
 
@@ -263,6 +262,8 @@ Yun'shul's Shrine
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
+-   Two theories to what they are have been remarked as 'close:'
+    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
 -   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
 ### **The Nestmind**
@@ -728,12 +729,13 @@ A Peacekeeper Commander, part of The Authority
 ### [Krulians](Krulian.md)
 
 -   **Territory:** _???_
--   **Attunements:** _Thundercall?_
+-   **Attunements:** _Any_
 -   **Alliances:** _None_
 -   **Enemies:** _None_
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
 -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
 -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
+-   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
 -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
     -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn.
 -   There are higher Krulians and lesser Krulians.
