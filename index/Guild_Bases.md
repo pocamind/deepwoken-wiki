@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 46240
+revid: 46431
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -24,7 +24,7 @@ To the left and behind of the first NPC, you can find the glowing outline to hir
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 
-You can now donate notes to other guilds by talking to their treasurer.
+You can donate notes to other guilds by talking to their treasurer.
 
 The Chime of Dwelling does not work under the following:
 

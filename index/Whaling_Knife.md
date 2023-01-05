@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 39698
+revid: 46422
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -65,3 +65,7 @@ The upgraded version of the Whaling Knife. Just the normal Whaling Knife with in
 
 -   It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
     -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
+-   Meeting the non-alloyed requirement of LHT, the damage is (18)
+-   At max LHT, the non-alloyed damage is (22.5)
+-   Meeting the alloyed requirement, the damage is (24)
+-   At max LHT, the alloyed damage is (27)

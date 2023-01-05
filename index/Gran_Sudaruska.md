@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 46099
+revid: 46435
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons"]
@@ -58,4 +58,5 @@ This weapon has 3 passives abilities:
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
     -   Probably a reference to Lucy from Don't Starve
-    -   Unable to be wielded by people with Oath: Contractor as of 1/2/23
+-   Unable to be equipped by people with Oath: Contractor.
+    -   If you had the Oath and equipped it prior to the update, you can still wield it, but as soon as you swap weapons you cannot reequip it.

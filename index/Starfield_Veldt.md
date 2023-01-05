@@ -1,11 +1,9 @@
 ---
 title: Starfield Veldt
-revid: 46263
+revid: 46391
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, World, Locations, Voidzones]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [World, Locations, Voidzones]
 ---
 
 # Starfield Veldt
@@ -36,29 +34,11 @@ The **Startree** is a large gathering of tree roots dotted with many glowing whi
 -   [Desert Knights](Stone_Knight.md)
 -   [Carbuncle](Carbuncle.md)
 -   [Brainsucker](Brainsucker.md)
+-   [Abaddon, Sinner of Ice](Oaths.md#starkindred) (Starkindred only)
 
-## Loot Table
-
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
-TBD
-
- | 
-
-TBD
-
- | 
-
-TBD
-
- | 
-
-TBD
-
- |
+  
 
 ## Notes & Trivia
 
 -   Image taken from thewalkersa's video ([https://youtu.be/TgFJ7twAMCA](https://youtu.be/TgFJ7twAMCA)).
--   This area is one of many areas that contain a Startree.
+-   This area is one of many areas that contain a Startree (**Starfield Veldt**, [Starfield Tundra](Starfield_Tundra.md), [Starfield Grove](Voidzones.md#starfield-grove)

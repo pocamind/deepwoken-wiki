@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 46024
+revid: 46403
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,3 +35,6 @@ Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with d
 
 -   Its legs have a high resemblance to that of a frog, shown even more with its ability to leap far and high.
 -   Like every other layer 2 monster, [Mute (Animal King)](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders and they will still attack on sight.
+-   The Bounder looks while similiar to a megalodaunt, is very similiar to a frog although ironically has spider-like eyes. When preparing a running bash they rev up their feet similiar to a Bull moving one of its legs back and forth before charging full on.
+-   Bounders seemingly can reproduce as they have a Nest, they seem to inhabit the lower areas of the Eternal Gale floor 1
+-   It was said by Archmage that there was suppose to be a type of Bounder that was infected with the snow parasites, how this is possible tho is unsure, My theory is that a Bounder could accidentally shove the "snow" into its mouth obviously infecting it.

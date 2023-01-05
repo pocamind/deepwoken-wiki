@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 45353
+revid: 46447
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,9 +19,13 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer,Deep Widow, Duke Chests,The Depths |
-| description | A venerated shield, donned only by those who have walked their own Path as they see it. |
+| obtainment | Second Layer,Deep Widow, Duke Chests,The Depths, Fishing Chests |
+| description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description
 
-The Path's Defender is a [side weapon](Weapons.md) in the Shield category. The requirement to wield it is 75 FTD and harbors the highest posture buff out of any shield in the game.
+The Path's Defender is a [side weapon](Weapons.md) in the [Shield](https://deepwoken.fandom.com/wiki/Weaponry#Shields) category. The requirement to wield it is 75 FTD and harbors the highest posture buff out of any shield in the game.
+
+## Notes & Trivia
+
+Prior to Verse 2 otherwise known as Layer 2, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.

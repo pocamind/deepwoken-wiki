@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 46154
+revid: 46426
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -43,6 +43,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I use the song to charm others. **(Charm Caster)**_
 -   _I have never lost. **(Champion)**_
 -   _I walk the skies. **(Cloudwalker; Gale Leap)**_
+-   _I am a master of creating openings. **(Critical Specialist)**_
 -   _I command the cold. **(Cryomancer)**_
 -   _My ice protects like a flower growing thorns. **(Cryoni)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_

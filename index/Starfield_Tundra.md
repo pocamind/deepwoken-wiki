@@ -1,12 +1,11 @@
 ---
 title: Starfield Tundra
-revid: 45247
+revid: 46393
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Voidzones]
+categories: [Stub pages without reason, StubPages, Locations, Voidzones]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Starfield Tundra
@@ -43,3 +42,4 @@ The **Startree** is a large gathering of tree roots dotted with many glowing whi
 
 -   This area is one of many areas that contain a Startree.
 -   Please add image and information if you have any.
+-   This area is one of many areas that contain a Startree ([Starfield Veldt](Starfield_Veldt.md), **Starfield Tundra**, [Starfield Grove](Voidzones.md#starfield-grove)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46366
+revid: 46394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -985,16 +985,22 @@ These are just raw stat increases and are beneficial to anyone.
 ### [Oath](Oaths.md)
 
 -   Oath: Arcwarder - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+    -   Prerequisites: 25 fortitude, 20 flamecharm, 20 thundercal. Complete Alpha's quest.
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
+    -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    -   Prerequisites: Read strange writing while wearing a blindfold (Requires all 5 Mental Fortress cards).
-        -   You can only take one Oath per Character.
+    -   Prerequisites: Read strange writing while wearing a blindfold (Requires 40 Willpower).
 -   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
+    -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring Dark Feather to Surge
+    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring Dark Feather to Surge.
 -   Oath: Linkstrider - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+    -   Prerequisites: Sacrafice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 -   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
+    -   Prerequisites: 50 agility, beat Alirian in race and collect White Orbs around the map.
 -   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
+    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Church (Ancient Rotlands) and kill Iblis, The Fallen Angel.
+-   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
 
 ### Omniscient
 

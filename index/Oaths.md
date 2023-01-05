@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46377
+revid: 46438
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 25 [Checked] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 20 [Checked] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -392,7 +392,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have around 25(Checked) Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have 20 (Checked) Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
@@ -402,7 +402,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Known Abilities
 
--   **Arc Suit - Wildcard Mantra**
+-   **Arc Suit - Support Mantra**
     -   Encases the user in durable armor that reduces damage taken by 20%. (NOTE: IF YOU WANT TO THE ARC SUIT TO BE UP FOR LONGER PERIODS OF TIME, YOU MUST UPGRADE IT WITH LOGSTONES.)
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself

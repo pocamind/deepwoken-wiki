@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 45571
+revid: 46397
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,3 +17,5 @@ Sup.
   
 
 Marcus is arguably the coolest Golem in the game. He is of a modest size, unlike his braggart cousins who prefer to attack you instead of relaxing over a nice warm beverage. He can be found in the Hidden Village.
+
+ALWAYS interact with Marcus whenever you see him, or you aren’t a real one.

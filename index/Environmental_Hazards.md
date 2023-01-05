@@ -1,12 +1,16 @@
 ---
 title: Environmental Hazards
-revid: 40794
+revid: 46415
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
 ---
 
 # Environmental Hazards
+
+“ I'm pretty sure that's poisonous ”
+
+― Deepwoken player encountering grass for the first time
 
 ## Description
 
@@ -46,6 +50,11 @@ Environmental hazards are location-based events or dangers. While called "hazard
   <td>Everywhere (Except Depths)</td>
   <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is.</td>
 </tr>
+<tr>
+  <td>Parasites</td>
+  <td><a href="Second_Layer.md">Second Layer</a></td>
+  <td>N/A</td>
+</tr>
 </tbody>
 </table>
 
@@ -60,7 +69,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 </tr>
 <tr>
   <td>Void</td>
-  <td>The Depths, Chime maps</td>
+  <td>Chime maps</td>
   <td>Immediate death.</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46376
+revid: 46429
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ notices:
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Hahahaha.. MWAHAHAHAHA.... ”
+“ Aha, the first strike? Not one to mince words are we? ”
 
 ― Chaser
 
@@ -132,7 +132,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 **(2)** - I won't be fooled again.
 
--   **(C)** - ???
+-   **(C)** - \[TO BE ADDED\]
 
 ### If you attack him mid-dialogue
 
@@ -148,7 +148,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
 -   Bloodless Gems have reduced healing effects on Chaser.
--   He is the only [humanoid enemy](Enemies.md) that does not use any weapon.
+-   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Chaser is resistant to Bloodless Gem and Vampirism enchant
 

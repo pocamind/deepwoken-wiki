@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 45510
+revid: 46441
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -15,19 +15,19 @@ categories: [Weapons, Items, Weaponry, Greatswords]
 | damage | 22 |
 | scaling | HVY: 8.3 |
 | range | 8 |
-| swing speed | 0.7x |
+| swing speed | 0.68x |
 | penetration | 25% |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chase, Ethiron |
+| obtainment | Chaser, Scion of Ethiron |
 | description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
 
 ## Description
 
-The Railblade is a heavy weapon obtained from Layer 2. It is dropped by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [The Avatar of Ethiron](Scion_of_Ethiron.md), and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
+The Railblade is a heavy weapon obtained from Layer 2. It is dropped by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [The Scion of Ethiron](Scion_of_Ethiron.md), and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
 
 The Railblade is unique because of its two different critical attacks, along with the critical applying flame. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash infused with flame as well.
 

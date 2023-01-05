@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 45112
+revid: 46387
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -40,19 +40,6 @@ While inside a Voidzone:
 **Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt), [Immortal Guardians](Immortal_Guardian.md)
 
 **Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool
-
-### **[Starfield Tundra](Starfield_Tundra.md)**
-
-“ The beauty of the tundra, the Star Tree stands tall. ”
-
-― Starfield Tundra's Flavour Text
-
-  
-**Location:** Upper [Minityrsa](Minityrsa.md) (Frozen Lake), Etrean Luminant
-
-**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Megalodaunt.md#alpha-megalodaunt)
-
-**Rewards:** TBD
 
 ### **[Ancient Rotlands](Ancient_Rotlands.md)**
 
@@ -105,6 +92,19 @@ While inside a Voidzone:
 **Dangers:** [Blizard Knight](Stone_Knight.md) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 **Rewards:** [Hero Blades](Hero_Blades.md) (Winter), Minityrsa Loot Pool
+
+### **[Starfield Tundra](Starfield_Tundra.md)**
+
+“ The beauty of the tundra, the Star Tree stands tall. ”
+
+― Starfield Tundra's Flavour Text
+
+  
+**Location:** Upper [Minityrsa](Minityrsa.md) (Frozen Lake), Etrean Luminant
+
+**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Megalodaunt.md#alpha-megalodaunt)
+
+**Rewards:** TBD
 
 ### **[Starfield Veldt](Starfield_Veldt.md)**
 

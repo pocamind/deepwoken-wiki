@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 46121
+revid: 46436
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -67,7 +67,7 @@ CONTAINS SPOILERS!!!
 ## Oaths
 
 -   Arcwarder is a reference to the Iron Man suit from Marvel Comics.
--   Though probably not being a reference, Ragoozer wanted the obtainment for Contractor to be like finding Darkstalker Kaathe in _Dark Souls_.
+-   The obtainment for Contractor was inspired by finding Darkstalker Kaathe in _Dark Souls_.
 
 ## Enemies/Bosses
 

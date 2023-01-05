@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46335
+revid: 46410
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -10,6 +10,9 @@ notices:
 
 # Equipment
 
+F
+
+  
 **Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
 
 Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
@@ -889,7 +892,7 @@ Grants a random buff.
  | Erisia Chests | N/A |
 | File:Vanguardbrace.png | 
 
-Vanguard Brace
+[Vanguard Brace](Vanguard_Brace.md)
 
  | 
 
@@ -897,7 +900,7 @@ Grants a random buff.
 
 _+Talent: Replenishing Knockout_
 
- | Erisia Chests | N/A |
+ | Erisia Chests, Tutorial | N/A |
 | File:Autumn pauldrons.png | 
 
 Autumn Pauldrons
@@ -1444,7 +1447,7 @@ _+Talent: Ready or Not_
  | Hive Chests, Depths Chests | N/A |
 |  | 
 
-Star Duster
+[Star Duster](Star_Duster.md)
 
 (Legendary)
 
