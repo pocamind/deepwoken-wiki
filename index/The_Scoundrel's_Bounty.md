@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 41537
+revid: 46468
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -30,6 +30,7 @@ The Scoundrel's Bounty is a dungeon that takes the form of a populated ship in w
 
 -   Orlandeau
     -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
+    -   Can be seen in floor 2.
 -   Flabbermaster Filigree
     -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
 -   Frank F'alzone

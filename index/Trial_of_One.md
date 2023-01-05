@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 46040
+revid: 46467
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -35,7 +35,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 ## Challenges
 
 -   Parry Checks
-    -   ~Simply spam F. Don’t try to use your autoparry frames for as long as possible, just click F as fast as possible.~ Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). When the orbs speed up, speed up how much your pressing f; when the orbs come nonstop spam F. You will inevitably take a hefty amount of damage at it's fastest and depending on much health you've already lost you might die.
+    -   Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). When the orbs speed up, speed up how much your pressing f; when the orbs come nonstop spam F.
 -   [Weakened Megalodaunt](Megalodaunt.md)
     -   Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP. (22 sword hits)
 -   [Weakened Rock Golem](Rock_Golem.md)
@@ -51,7 +51,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   Parry Checks
     -   See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
 -   [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
-    -   Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage. Since the orbs also damage the Megalodaunt it can be helpful to stand so that they hit the Megalodaunt and allow you to kill it faster.
+    -   Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deals no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
 
 ## Rewards
 

@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 46447
+revid: 46454
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,8 +24,10 @@ categories: [Weapons]
 
 ## Description
 
-The Path's Defender is a [side weapon](Weapons.md) in the [Shield](https://deepwoken.fandom.com/wiki/Weaponry#Shields) category. The requirement to wield it is 75 FTD and harbors the highest posture buff out of any shield in the game.
+_The Path's Defender_ is a [side weapon](Weapons.md) in the [Shield](https://deepwoken.fandom.com/wiki/Weaponry#Shields) category. The requirement to wield it is 75 FTD and harbors the highest posture buff out of any shield in the game.
+
+The shield's appearance is black and golden (or bronze) with an eye in the upper middle with dots surrounding it. The edge of the shield is embellished with wave like patterns resembling water or wind.
 
 ## Notes & Trivia
 
-Prior to Verse 2 otherwise known as Layer 2, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.
+Prior to the Verse 2 otherwise known as Layer 2 update, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.

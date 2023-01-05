@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46429
+revid: 46478
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -10,9 +10,9 @@ notices:
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Aha, the first strike? Not one to mince words are we? ”
+“ “Imagine only having one bell? Cringe. ”
 
-― Chaser
+― Chaser to a one bell only pleb maybe
 
 Template:EnemyInfobox1.0
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 46285
+revid: 46476
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -520,7 +520,13 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 > The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
 > 
-> From the description of The Gideshu March on Naktigonis' YouTube channel.
+> ﻿ Not much is known about First Lieutenant August Gideshu, the author of the song, himself. Supposedly an Adretian in origin, his unusual surname seems to indicate an older lineage, likely one reaching back to the Pre-Tidal epochs, when the Adretian peoples were contained within their mountain homelands, squabbling as scattered tribes. The Gideshu family name appears several times in various historical Authority records, though never in a rank higher than First Lieutenant.
+> 
+> ﻿ Authority records indicate that August Gideshu served aboard the Central Authority Sailing-Ship (or CASS) "Zephyr', under Captain Hector Corbet. Little else is known about this ship's crew or specifications, aside from the fact that it served in the Eastern Luminant, and experienced several clashes involving the Etrean Navy, in which they emerged victorious. Gideshu himself is noted as having distinguished himself in one battle by bolstering crew morale during an Etrean boarding - possibly by starting to sing the eponymous march, suggesting his fellow crew were familiar with his penmanship.
+> 
+> ﻿ It is believed August Gideshu may have penned several more songs during his service aboard the CASS 'Zephyr', though any potential copies of the written texts have not survived to reach our time. Indeed, a substantial trove of records kept by the crew was lost when the ship ran aground in the outskirts of [the Starswept Valley](The_Starswept_Valley.md), whereupon the Authority force was ambushed by a unit of the Hundred Legions. August Gideshu's fate remains uncertain, but official records note the crew were 'thoroughly defeated'. The CASS 'Zephyr' was subsequently captured, looted, stripped for parts, and wholly destroyed.
+> 
+> I would like to thank Alloras Munet, a Central Authority navy recordkeeper, for allowing me access to certain relevant texts kept within Authority archives. This monograph would not have been possible without their invaluable help.
 
 ### The Hammer's Call
 

@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 41210
+revid: 46455
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weaponry, Items]
@@ -35,3 +35,7 @@ The upgraded version of the Tanto. Along with its already high base stats, the P
 ## Notes
 
 -   Quite rare compared to the [Nemit's Sickle](<Nemit's_Sickle.md>).
+-   Meeting the non-alloyed requirement of LHT, the damage is (21.7)
+-   At max LHT, the non-alloyed damage is (27.9)
+-   Meeting the alloyed requirement, the damage is (26.88)
+-   At max LHT, the alloyed damage is (29.6)

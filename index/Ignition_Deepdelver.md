@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 43504
+revid: 46473
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 
-The outfit has 3000 durability, grants +15% Ice Armor, +35% Elemental Armor, +20% Ether Regeneration and +30% Physical Armor. Additionally, it provides the [Force Your Way](Talents.md#ignition-deepdelver) Talent.
+The outfit has 3000 durability, grants +15% Ice Armor, +35% Elemental Armor, +20% Ether Regeneration and +30% Physical Armor. Additionally, it provides the [Force Your Way](Talents.md#ignition-deepdelver) Talent which allows the player to parry typically unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 46176
+revid: 46466
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -116,6 +116,7 @@ Enforcer Eye (drop)
 -   The Enforcer's clothing may be a reference to ''King'' from One Piece
 -   As of 18/07/2022 cannot use its pull attack when Hell Mode is active, due to too many little gremlin enforcer pulling people into the void
 -   During the weekly update for 21/11/2022, the enforcer could temporarily spawn corrupted. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many.
+-   The Modifier that allow all Depths Trials to be corrupted applies to the Enforcer.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 41712
+revid: 46459
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -34,3 +34,5 @@ The Krulian Knife is a dagger weapon that drops by defeating the [Ferryman](The_
 
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   It is possible for [The Ferryman](The_Ferryman.md) to give starred and enchanted versions of this weapon.
+-   Meeting the requirement of LHT, the damage is (21.87)
+-   At max LHT, the damage is (25)

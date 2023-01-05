@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 46449
+revid: 46474
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -62,9 +62,9 @@ Cancel if possible
 
 -   Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
     -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.
--   Scion can also refer to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for him being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
+    -   Scion can also refer to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
 -   The white orbs that appear after defeating the boss will **not** wipe you, but instead send you back to Scyphozia, with the caveat being that **you lose all items you gained from both Floor 1 and Floor 2.**
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
 -   Using the Chilling enchant to attack the boss while it's stunned can lead to a bug where it continues to attack you, becoming un-stunned early.
--   Vampirism no longer works on layer 2 bosses, however flame wisp can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.
+-   ~Vampirism no longer works on layer 2 bosses, however flame wisp can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.~ This is only true for [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).

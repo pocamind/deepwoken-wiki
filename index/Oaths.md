@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46438
+revid: 46489
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 20 [Checked] Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -50,12 +50,12 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Good reputation with Etris and Ministry |
+| oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
-Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. The only current oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md)
+Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
 There are currently nine Obtainable Oaths in _Deepwoken_.
 
@@ -403,7 +403,8 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Known Abilities
 
 -   **Arc Suit - Support Mantra**
-    -   Encases the user in durable armor that reduces damage taken by 20%. (NOTE: IF YOU WANT TO THE ARC SUIT TO BE UP FOR LONGER PERIODS OF TIME, YOU MUST UPGRADE IT WITH LOGSTONES.)
+    -   Encases the user in a temporary durable armor that reduces damage taken by 20% and increases Posture by (unknown). Can be modified with Logstones to increase duration.
+
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
 
@@ -433,8 +434,6 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 **Dawnwalker:**
 
 # **Oath: Dawnwalker**
-
-}
 
 “ You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. ”
 
@@ -471,13 +470,13 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
--   1\. Have your [Resonance](Resonance.md) unlocked.
--   2\. Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
--   3\. Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
--   4\. Start Duke questline and finish it.
--   5\. Make a deal with every shrine EXCEPT the Shrine of Order. **(Note: you HAVE to make deals, not just interact)**
--   6\. Talk to Yun'Shul and ask "What happened to this place?"
--   7\. Go back to Regent and pick the first dialogue option.
+1.  Have your [Resonance](Resonance.md) unlocked.
+2.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
+3.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
+4.  Complete the Duke questline.
+5.  Make a **deal** (not just interact) with every shrine EXCEPT the Shrine of Order.
+6.  Talk to Yun'Shul and ask "What happened to this place?"
+7.  Go back to Regent and pick the first dialogue option.
 
 ### Upgrading
 
@@ -504,9 +503,9 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 ### Notes
 
--   It is recommended to farm duke to get bell as you already need to kill him for contractor.
--   While farming alts or old slots IS time consuming, it poses WAY less risk of wiping than camping castle light to kill players.
--   You can't equip Gran Sudaruska with the Contractor oath as of 1/2/2023
+-   It is recommended to farm duke to obtain a resonance as it is already a part of the obtainment requirements.
+-   While farming alts or old slots _is_ time consuming, it poses _way less_ risk of wiping than camping castle light to kill players.
+-   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor.
 
 File:Capture d’écran 2023-01-03 012119.png
 
@@ -558,17 +557,12 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
 
-  
-
-  
-
 ## Trivia
 
--   Time magic was not actually stated to be an oath itself, but 'oath magic.'
+-   Time magic was not actually stated to be an oath itself, but "oath magic."
     
     Proof of Time magic's existence and it being 'oath magic'
     
-
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
@@ -576,11 +570,10 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
 -   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
 -   Dawnwalker is often referred to as the Aztup oath due to the ridiculous 60 Medallion cost in order to max it out.
--   Despite being angels, the opponents you have to defeat in order to obtain and progress Starkindred all bear the names of various devils from religious texts and literature.
+-   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are ironically names of demons despite being angels in Deepwoken.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Fadetrimmer and Synapse X oaths are jokes and not truly obtainable in the game.
--   Arcwarder suit Increases maximum posture

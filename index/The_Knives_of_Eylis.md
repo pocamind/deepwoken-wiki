@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 43810
+revid: 46464
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,7 +13,7 @@ notices:
 | The Knives of Eylis | |
 |---|---|
 | territory | VoidheartCentral Luminant Sewers |
-| goals | Power , Wealth , Fame |
+| goals | Wealth , Fame , Power |
 
 “ Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here? ”
 
