@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 45674
+revid: 46503
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -21,7 +21,7 @@ Boons are positive and helpful effects. They usually have less of an impact than
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by an unknown amount. | 1 |
-| Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
+| Autodidact | "You get a free attribute to invest in every level." | Gain 3 free points every Power up, consuming an investment each use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
   
 Does not generate points over the total maximum, and instead, takes them away from levels in the late-game.
 
@@ -47,9 +47,9 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | --- | --- | --- | --- |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
-| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty. | 1 |
+| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
-| Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
+| Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. | 1 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 -   Gremor's who are blind see better then others, being blessed by Navae.
 
@@ -61,7 +61,7 @@ Gained from obtaining the Blindseer Oath.
 
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian
--   Low enough that, starting from power 15, you can be hunted for [bounties](Bounty_Hunting.md).
+-   Low enough that, starting from power 5, you can be hunted for [bounties](Bounty_Hunting.md).
 
 Default reputation is set to low.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 46490
+revid: 46513
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -496,5 +496,3 @@ Vampirism enchant on a Khan Shield
     -   Hero **→** Heroism
     -   (???) - Deffered
 -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-    
-    old ahh sear

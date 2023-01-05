@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 45250
+revid: 46512
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
+“ Yummi yellow glow stick ”
 
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
+― Nautilodaunt consuming a thunder hero blade and turning into Fury Nautilidaunt
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss, Vilgax, Squigga_
 

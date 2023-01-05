@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46410
+revid: 46515
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -64,7 +64,7 @@ All armor equipment (with few exceptions), when obtained, will roll for random s
   <td>6 8</td>
 </tr>
 <tr>
-  <td>Reservoir</td>
+  <td>Reservoir(removed)</td>
   <td>16 20 24</td>
   <td>16 20 24</td>
   <td>20 24</td>
