@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 46603
+revid: 46646
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -65,7 +65,7 @@ While inside a Voidzone:
 
 **Dangers:** [Thresher, King Thresher](Thresher.md)
 
-**Rewards:** TBD
+**Rewards:** Eggs, Starswept Valley Loot Pool
 
 ### **[Saramaed Summit](Saramaed_Summit.md)**
 
@@ -137,8 +137,8 @@ While inside a Voidzone:
 
 ― Deep Thresher Nest's Flavour Text
 
-**Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant
+**Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant. Alternatively, the opposite side of Lightkeeper Temple's entrance.
 
 **Dangers:** [King Thresher](Thresher.md#king-thresher), [Thresher](Thresher.md)
 
-**Rewards: TBA**
+**Rewards:** Brilliant & Empyrean Lotuses, Eggs

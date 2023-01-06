@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 45834
+revid: 46637
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -45,12 +45,13 @@ If you were holding block before getting grabbed and during it's full duration y
 Automatically used after the first posture stun or when dropping below 50% health, whichever happens first. Signified by a red mist that surrounds Primadon's body.
 
  | **?** | **?** | **?** | (★★★) |
+| **Scream** | Screams to inflict significant amounts of insanity to nearby players | ✗ | ◯ | ◯ | (★☆☆) |
 
 ### Passives
 
 -   **Elemental Conqueror** - Primadon has ~95% elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (sometimes)
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (won't work in certain locations of Monkey's Paw)
 
 ## Rewards
 

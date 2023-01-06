@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 46441
+revid: 46638
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -45,3 +45,4 @@ Airborne Critical
 -   The description suggests that equipping the weapon reduces the rate at which snow accumulates on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by oNoodlez
+-   This weapon's running attack does not deal knockback **(GLITCH)**?

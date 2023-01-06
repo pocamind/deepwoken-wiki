@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 46064
+revid: 46629
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -18,8 +18,6 @@ notices:
 “ Celtor will repeat itself here... The world will fall under The Depths... ”
 
 ― Dark Mage Cultist
-
-Template:ImageCaption Infobox
 
 ## Description
 

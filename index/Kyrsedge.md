@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 46578
+revid: 46635
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -20,14 +20,14 @@ categories: [Weapons, Pages with broken file links, Weaponry]
 | penetration | 30% |
 | chip damage | ? |
 | special effect | ? |
-| selling price | ? |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2, other obtainment unknown |
-| description | ? |
+| description | ... |
 
 File:KyrsEdge.png
 
