@@ -1,9 +1,9 @@
 ---
 title: Kyrsedge
-revid: 46493
+revid: 46578
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Pages with broken file links, Weaponry]
 ---
 
 # Kyrsedge
@@ -28,6 +28,10 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Layer 2, other obtainment unknown |
 | description | ? |
+
+File:KyrsEdge.png
+
+A kyrsedge in a players hand
 
 ## Description
 

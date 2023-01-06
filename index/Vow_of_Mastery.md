@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 45297
+revid: 46572
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -24,6 +24,8 @@ The player must respond with "yes". After responding yes, the subject will have 
 Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 
 In addition to using the name of a specific subject, commands can use the names "_all_ " or "_everyone_" to affect all subjects. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the subject to sleep, and also say "I will sleep now."
+
+As of Verse Two, in the event that the subject's character wipes, and the previous master again asks "Wanna make a vow of mastery?" the subject will automatically accept the offer. The only real way to prevent this is to wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 ## Commands
 

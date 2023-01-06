@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 46236
+revid: 46570
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -531,7 +531,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>22</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>MED: 4</td>
+  <td>MED: 4.5</td>
   <td>7</td>
   <td>8</td>
   <td>0.75x</td>
@@ -906,17 +906,17 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>18</td>
   <td>N/A</td>
   <td>MED: 8</td>
-  <td>3</td>
-  <td>7</td>
+  <td>4</td>
+  <td>8</td>
   <td>0.75x</td>
 </tr>
 <tr>
   <td><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></td>
   <td>75 MED</td>
-  <td>19.5</td>
+  <td>20</td>
   <td>N/A</td>
   <td>MED: 6</td>
-  <td>3</td>
+  <td>5</td>
   <td>7</td>
   <td>0.73x</td>
 </tr>
@@ -1396,7 +1396,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Flame</a></td>
-  <td>75 FIR, LVL 10</td>
+  <td>75 FIR, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>FIR: 6.5</td>
@@ -1407,7 +1407,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Lightning</a></td>
-  <td>75 THD, LVL 10</td>
+  <td>75 THD, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>THD: 6.5</td>
@@ -1418,7 +1418,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Frost</a></td>
-  <td>75 ICE, LVL 10</td>
+  <td>75 ICE, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>ICE: 6.5</td>
@@ -1429,7 +1429,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Wind</a></td>
-  <td>75 WND, LVL 10</td>
+  <td>75 WND, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>WND: 6.5</td>
@@ -1440,7 +1440,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
-  <td>75 SDW, LVL 10</td>
+  <td>75 SDW, LVL 11</td>
   <td>20</td>
   <td>10%</td>
   <td>SHD: 6.5</td>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46530
+revid: 46586
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -221,11 +221,12 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### **Yun'shul**
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
--   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
--   theirs title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is whythey is the only creature who may have governance over your resonance.
+-   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
+-   They are not found within Layer One, their true body is likely far deeper.
+-   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
 -   Shrines similar in appearance to the one in the Temple of Hearts are scattered throughout the Eastern Luminant.
--   He is not a former Ministry Prophet.
+-   They are not a former Ministry Prophet.
 
 File:Yun'Shul.png
 
@@ -262,8 +263,10 @@ Yun'shul's Shrine
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
+-   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
+    -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
 -   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
 ### **The Nestmind**
@@ -388,9 +391,9 @@ _"A place remembered only by the waves"_
 
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
 
--   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths, Ragoozer has hinted at the possibility of there being five.
--   The layer are non liner. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
--   Many of the layers are created after a great drowning sinks a civilisation.
+-   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths. Ragoozer has hinted at the possibility of there being five.
+-   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleetsky did.
+-   Many of the layers are created after a great drowning sinks a civilization.
 
 #### **Scyphozia, The First Layer**
 
@@ -400,7 +403,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 -   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
--   As it is underwater, the gravity there is significantly lower
+-   As it is underwater, the gravity there is significantly lower.
 
 ##### The City of the Drowned (The Depths, First Layer)
 
@@ -412,14 +415,14 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's guarded by the city's former guards.
-    -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'
+    -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'.
 -   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
     -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
--   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky
+-   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky.
     -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
     -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
--   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
+-   The Depths became the place souls went to after death after the Great Drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 ##### Castle Light (The Depths, First Layer)
 

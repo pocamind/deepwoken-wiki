@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 43406
+revid: 46551
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -12,7 +12,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 |---|---|
 | type | Rifle |
 | requirements | 75 MED |
-| damage | 19.5 |
+| damage | 20 |
 | scaling | 6 |
 | range | 7 |
 | swing speed | 0.73x |
@@ -21,12 +21,12 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | chip damage | N/A |
 | special effect | Behaves like a typical gun, then swings the weapon for a blunt attack. |
 | stances | 2 Handed |
-| weight | 3 |
+| weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Summit, Duke Chest, ? |
+| obtainment | Saramaed Summit, Duke Chest, Depths Chests |
 | description | Rustic and shabby in design, this application of Rosen's Gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46535
+revid: 46585
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 25 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -261,7 +261,6 @@ Does not grant any special cosmetic based on race.
             4.  Europa (Near the Valley of Heroes)
             5.  Pallas (Infront of the Oathless trainer)
             6.  Fortuna (Above the Broken Church in Erisia)
-            7.  Ceres (In the Etrean Wilds)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
@@ -392,7 +391,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have 20 (Checked) Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have 25 (Check comments, you cant get it if you have 20 fort omg) Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha

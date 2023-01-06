@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 46058
+revid: 46545
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -168,7 +168,7 @@ Loan Sharking
 
 Bounty Quest
 
- | You will bounty hunt for Emel or Imel, he will ask you to do a "PARTY TRICK", basically killing someone as smart as you. You can also hunt any power level but it has to be in a specified place, Emel = Songseeker wilds, Imel = Lower erisia. | **The Ministry** |
+ | You will bounty hunt for Emel or Imel, they will ask you to do a "PARTY TRICK", by killing someone 'as smart as you.' You can also hunt any power level but it has to be in a specified place, Emel = Songseeker wilds, Imel = Lower erisia. NPCs also count, but only certain ones: e.g. you cannot kill a Bandit for Imel. | **The Ministry** |
 | 
 
 Crate Retrieval
