@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 46387
+revid: 46603
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -78,7 +78,7 @@ While inside a Voidzone:
 
 **Dangers:** [Mechalodaunt](Megalodaunt.md), [Summer Company Guards](Summer_Company_Guard.md)
 
-**Rewards:** Miner's Landing Loot Pool
+**Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic
 
 ### **[Valley of Heroes](The_Valley_of_Heroes.md)**
 

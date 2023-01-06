@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 44268
+revid: 46618
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -25,6 +25,11 @@ Remnant of the stars themselves rain down upon this rocky spire.
 -   Ata, the Celtor- Mantra Spark Vendor
 -   Sekh, Vesperian Hivekin - Meteor Isle Lore
 -   Eres, Etrean Outcast - Etrea Lore
+
+## Events
+
+-   Meteor Impact- a meteor will fall from the sky and spawn [Meteorskippers](Mudskipper.md)
+-   Authority raid- 2 Authority flamecharmers will attack the island.
 
 ## Trivia
 

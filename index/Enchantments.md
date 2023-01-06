@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 46580
+revid: 46608
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -93,7 +93,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc, a pink string will appear on your target connecting to your weapon, pulling the target toward you. If you see this enchant run people with this D ride you by pulling you</p></div></td>
+  <td><div><p>On proc, a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ There are two variants that enchantments come in:
   <td><figure>File:STONE.png<figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
-  Deal bonus damage on a posture break.(Best enchant RN this game will prob hard nerf soon)<br>
+  Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
   <td><div>Metal parts are covered in stone.</div></td>
 </tr>

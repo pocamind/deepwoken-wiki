@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 45716
+revid: 46623
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, NPC, Npc]
@@ -60,7 +60,7 @@ Trying to learn more than 2 elements will make it so you can't get another eleme
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Shadow Trainer</td>
-  <td>N/A</td>
+  <td>Celtor Wastes</td>
   <td>Nostor</td>
   <td><figure>File:Grate.png<figcaption></figcaption></figure>In Varicosa District in <a href="The_Depths.md">The Depths</a></td>
 </tr>

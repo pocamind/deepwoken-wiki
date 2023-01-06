@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 44711
+revid: 46617
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken, Void Sea]
@@ -55,15 +55,14 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
+    -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   [The Entropy Catalyst](The_Entropy_Catalyst.md)
+-   [Starfield Veldt](Starfield_Veldt.md)
 
 ### Inaccessible
 
 -   [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md)
 -   [The Floating Keep](The_Floating_Keep.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [The Entropy Catalyst](The_Entropy_Catalyst.md)
--   [Derelict Highchurch](Derelict_Highchurch.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
     
 
 **The Aratel Sea:**
@@ -84,6 +83,8 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
     -   [Songkeeper Temple](Songseeker_Temple.md)
+    -   [Ancient Rotlands](Ancient_Rotlands.md)
+    -   [Derelict Highchurch](Derelict_Highchurch.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)

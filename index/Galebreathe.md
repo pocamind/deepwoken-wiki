@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 43791
+revid: 46602
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -659,7 +659,7 @@ Without Song
 
 All of your wind attacks apply 'Suffocate'.
 
-(Legendary)
+(Advanced Talent)
 
  | 
 
@@ -672,9 +672,11 @@ FROM: Silencer's Edge
 
 Silencer's Blade
 
- | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
+ | 
 
--   Rare Talent
+Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
+
+(Rare Talent)
 
  | 
 

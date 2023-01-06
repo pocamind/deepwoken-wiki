@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 45718
+revid: 46622
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -26,7 +26,7 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 ## Mentioned Only/Potential future Attunements
 
--   Lifeweaving (First seen being used by the Hive leader)
+-   Lifeweaving (First seen being used by the Hive leader, and also used by several members of hive)
 -   Lightkeeper/Lightkeeping
 -   Earth (Mentioned by Arch\_Mage saying he would like to add earth)
 -   Ironsinger (Mentioned by Arch and seen in server names)

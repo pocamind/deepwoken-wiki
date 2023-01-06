@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 46145
+revid: 46615
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations]
@@ -45,9 +45,9 @@ High above the Town of Miner's Landing is the upper areas. Here, the entrance to
 
 ## **Boiler Room**
 
-The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two Mechalodaunts, one located to the right of the entrance, and the other located to the behind vault door, to the left and up a slope.
+The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two Mechalodaunts, one located to the right of the entrance, and the other located to the behind vault door, to the left and up the right slope.
 
-The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the right hallway past the vault door, down a slope and in a room with an NPC.
+The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the left hallway, up the left slope and in a room with an NPC.
 
 ## **Saramaed Summit**
 
@@ -64,7 +64,7 @@ _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 -   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
 -   Note: this quest is repeatable
 
-## '_Notes & Trivia_
+## **Notes & Trivia**
 
 -   Miner's Landing has many chests containing loot in various, unexpected areas.
 -   More trivia to be added

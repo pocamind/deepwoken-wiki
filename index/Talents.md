@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46491
+revid: 46624
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -537,15 +537,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
 -   Graceful Steps \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
     -   Prerequisites: 75 Flamecharm, Dancing Steps
--   Flaming Rebound \[Rare Talent, Flamecharm Exclusive\] - Landing fire mantras will restore your reservoir.
-    -   Prerequisite: 50 Flamecharm
 -   The Final Act \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
     -   Prerequisite: 50 Flamecharm
 
-### Flame Warden
+### Flame Warden Prerequisites: 40 Flamecharm, 5 Fortitude
 
--   Cauterized Wounds \[Common Talent, Flamecharm Exclusive\] - Blood Loss from all sources are reduced. (+1 Passive Agility, +3 Elemental Intensity, +2 Health)
-    -   Prerequisites: 40 Flamecharm, 5 Fortitude
 -   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Warding Radiance
 -   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
@@ -1151,7 +1147,7 @@ Prerequisite: Charisma
 -   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent. (+4 Elemental Intensity)
     -   Prerequisites: 50 Shadowcast
 -   Shadow Travel \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
-    -   Prerequisites: 65 Shadowcast
+    -   Prerequisites: 65 Shadowcast, Dark God
 -   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Shadowcast
     -   Mutual Exclusive: Singularity
@@ -1342,7 +1338,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Automatically summon a fire explosion similar to Fire Repulsion.
     -   Prerequisites: Flame of Denial
 -   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Graceful Flame, 40 Flamecharm, 40 Willpower
+    -   Prerequisites: Graceful Flame, 40 Flamecharm
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity.
     -   Prerequisite: Undying Flame
 

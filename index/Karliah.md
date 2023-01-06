@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 44554
+revid: 46611
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -19,13 +19,18 @@ categories: [NPCs, Quests]
 
 ## Description
 
-Karliah is an apprentice Diver in [Etris](Etris.md) who, by a quest, allows you to unbind your Charisma. She is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max. Interestingly, she is considered a love interest by many players.
+Karliah is an apprentice Diver in [Etris](Etris.md) who, by a quest, allows you to unbind your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max.
 
 More details about the quest can be found [here](Etris.md#diver-escort-quest).
 
-After the quest, Karliah quits [The Divers](The_Divers.md) and is now resting in her house, and is wearing different clothing. She is grateful for your insight on the realities of life, and reflects on how friendly the people of Etris are with her. Notably, she seems to show a romantic interest in your character.
+After the quest, Karliah quits [The Divers](The_Divers.md) and can be found resting in her house wearing different clothing. She is grateful for your insight on the realities of life, and reflects on how friendly the people of Etris are with her.
 
-## Trivia
+  
 
+## Notes & Trivia
+
+-   Karliah seems to show a romantic interest in your character.
+    -   Due to this, she is considered a love interest by many players.
+-   Karliah is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest.
 -   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   Karliah's hair can be found [here](https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun).

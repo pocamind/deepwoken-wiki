@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 46384
+revid: 46605
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -218,13 +218,16 @@ File:Shadow travel.png
 
 | Image | Name | Category | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
-| File:Blackout.png | Blackout | 
-> Shadowcaster
+| File:Blackout.png | 
+Blackout
 
  | 
 
-  
-Common  
+Shadowcaster
+
+ | 
+
+Common
 
  | Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.
 
@@ -233,28 +236,42 @@ Common
 +2 Health
 
  |
-| File:Dark God Tempo.png | Dark God | 
+| 
 
-> Darksiphon
+File:Dark God Tempo.png
 
  | 
 
-  
-Common  
+Dark God
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
 
  | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their tempo instead and increase your own.
 
 +1 Elemental Intensity +3 Health
 
  |
-| File:Sightless Still.png | Sightless Still | 
+| 
 
-> Shadowcaster
+File:Sightless Still.png
 
  | 
 
-  
-Common  
+Sightless Still
+
+ | 
+
+Shadowcaster
+
+ | 
+
+Common
 
  | The more a person is affected by your shadowcast the more you obscure their vision.
 
@@ -263,14 +280,21 @@ Common
 +2 Health
 
  |
-| File:Dark Hours.png | Dark Hours | 
+| 
 
-> Darksiphon
+File:Dark Hours.png
 
  | 
 
-  
-Common  
+Dark Hours
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
 
  | Your Shadowcast Mantras deal more damage at night.
 
@@ -279,14 +303,21 @@ Common
 +3 Health
 
  |
-| File:Devour.png | Devour | 
+| 
 
-> Darksiphon
+File:Devour.png
 
  | 
 
-  
-Common  
+Devour
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
 
  | Stealing enough ether to fill your bar now stores the extras in your reserves.
 
@@ -295,77 +326,161 @@ Common
 +3 Health
 
  |
-| File:Dark Synergy.png | Dark Synergy | 
+| 
 
-> Darksiphon
+File:Dark Synergy.png
 
- | Common | Engulf your enemy in shadows when flourishing them.
+ | 
+
+Dark Synergy
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
+
+ | Engulf your enemy in shadows when flourishing them.
 
 \+ 1 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Fear.png | Fear | 
+| 
 
-> Shadowcaster
+File:Fear.png
 
- | Common | Enemies will briefly hang in place when they run from you.
+ | 
+
+Fear
+
+ | 
+
+Shadowcaster
+
+ | 
+
+Common
+
+ | Enemies will briefly hang in place when they run from you.
 
 \+ 1 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Dark Rift.png | Dark Rift | 
+| 
 
-> Darksiphon
+File:Dark Rift.png
 
- | Rare | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+ | 
+
+Dark Rift
+
+ | 
+
+Darksiphon
+
+ | 
+
+Rare
+
+ | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
 
 \+ 4 Elemental Intensity
 
 \+ 2 Health
 
  |
-| File:Lasting Sorrow.png | Lasting Sorrow | 
+| 
 
-> Shadowcaster
+File:Lasting Sorrow.png
 
- | Common | Shadows last longer on your opponent.
+ | 
+
+Lasting Sorrow
+
+ | 
+
+Shadowcaster
+
+ | 
+
+Common
+
+ | Shadows last longer on your opponent.
 
 \+ 4 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Blossoming Darkness.png | Blossoming Darkness | 
+| 
 
-> Shadowcaster
+File:Blossoming Darkness.png
 
- | Common | Ether drained during Shadow Roar increases the size of it.
+ | 
+
+Blossoming Darkness
+
+ | 
+
+Shadowcaster
+
+ | 
+
+Common
+
+ | Ether drained during Shadow Roar increases the size of it.
 
 \+ 1 Elemental Intensity
 
 \+ 2 Health
 
  |
-| File:Shadow Overflow.png | Shadow Overflow | 
+| 
 
-> Darksiphon
+File:Shadow Overflow.png
 
- | Common | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+ | 
+
+Shadow Overflow
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
+
+ | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
 
 \+ 3 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Overwhelming Drain.png | Overwhelming Drain | 
+| 
 
-> Darksiphon
+File:Overwhelming Drain.png
 
- | Common | If multiple enemies are hit by your Shadow Eruption, they are dazed.
+ | 
+
+Overwhelming Drain
+
+ | 
+
+Darksiphon
+
+ | 
+
+Common
+
+ | If multiple enemies are hit by your Shadow Eruption, they are dazed.
 
 \+ 4 Ether
 
@@ -378,7 +493,19 @@ Common
 
 File:S1ngularity.png
 
- | Singularity | Shadowcaster | Common | Enemies will briefly hang in place when hit by a shadow move.
+ | 
+
+Singularity
+
+ | 
+
+Shadowcaster
+
+ | 
+
+Common
+
+ | Enemies will briefly hang in place when hit by a shadow move.
 
 \+ 1 Elemental Intensity
 
@@ -389,7 +516,19 @@ File:S1ngularity.png
 
 File:Blackhole.png
 
- | Blackhole | Death Speaker | Rare | Your singularity pulls everyone nearby in.
+ | 
+
+Blackhole
+
+ | 
+
+Death Speaker
+
+ | 
+
+Rare
+
+ | Your singularity pulls everyone nearby in.
 
 \+ 1 Elemental Intensity
 

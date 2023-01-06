@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46528
+revid: 46588
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -147,7 +147,6 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
--   Bloodless Gems have reduced healing effects on Chaser.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Chaser is resistant to Bloodless Gem and Vampirism enchant

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 46492
+revid: 46599
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -545,6 +545,8 @@ Preceding Chill
 
 Enemies hit during the last moments of your ice beam are frozen.(doesn’t freeze with Crystal path, instead adds another Crystal on final hit)
 
+(Rare Talent)
+
  | 
 
 +3 Elemental Intensity
@@ -607,6 +609,8 @@ Frozen Legs
  | 
 
 Your slow effect prevents your opponents from rolling.
+
+(Rare Talent)
 
  | 
 
@@ -698,11 +702,9 @@ Enemies can no longer heal when under the effect of your chill.
 
 Glacial Ice
 
- | 
+ | Your frost is now considerably more intense.
 
-Your frost is now considerably more intense.
-
-Req:20 will power
+-   Requires 20 Willpower
 
  | 
 
@@ -734,9 +736,11 @@ File:Saint Jay.png
 
 Saint Jay
 
- | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled.(while obtainable with crystallization it rarely ever procs)
+ | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (While obtainable with Crystallization, it rarely ever procs)
 
 -   Requires the "Frostbite" Talent.
+
+(Rare Talent)
 
  | 
 
@@ -754,6 +758,8 @@ Frozone
 
 -   Requires the "Ice Skates" mantra.
 
+(Rare Talent, image outdated)
+
  | 
 
 +5 Elemental Intensity  
@@ -770,8 +776,9 @@ Frozen Pin-Cushion
 
  | Ice Daggers now freeze opponents.(adds another Crystal shard instead of freezing with glass path)
 
--   Requires the "Ice Daggers" combat mantra
-    -   I was able to get this without having Ice Daggers, however I had Ice Forge.
+-   Requires the "Ice Daggers" combat mantra(?)
+
+(Rare Talent)
 
  | 
 

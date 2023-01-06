@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 46147
+revid: 46596
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -20,7 +20,7 @@ The arena found in Boatman's Watch
 
 Boatman's Watch is a small island covered in vegetation. An arena can be found in the center.
 
--   Boatman's Watch can be found in the Eastern Luminant; at the left-most side of [Valley of Heroes](The_Valley_of_Heroes.md), Minityrsa.
+-   Boatman's Watch can be found in the Eastern Luminant; far behind [Miner's Landing](<Miner's_Landing.md>). If you see multiple whirlpools, you will be nearby.
 
 ## Potential Enemies
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 46048
+revid: 46598
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -366,32 +366,78 @@ You may gain these through simply powering up (rolling talents), having more poi
 
 Stormcaller Slash
 
- | Call forth the fury of the storms by pressing F at the end of the mantra Lightning Blade. | Adds a 3rd hit if you press F at the end of the mantra. | Stormblade |
+ | 
+
+Call forth the fury of the storms by pressing F at the end of the mantra Lightning Blade.
+
+ | 
+
+Adds a 3rd hit if you press F at the end of the mantra.
+
+ | 
+
+Stormblade
+
+ |
 |  | 
 
 Discovery of Fire
 
- | Flint and Flamecharm are for simpletons. | Lights all nearby campfires for a bit of ether. | Thundercaller |
+ | 
+
+Flint and Flamecharm are for simpletons.
+
+ | 
+
+Lights all nearby campfires for a bit of ether.
+
+ | 
+
+Thundercaller
+
+ |
 |  | 
 
 Kickstart
 
- | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | Play an animation and immediately revive knocked players. | ??? |
+ | 
+
+Use your lightning to resurrect a knocked player, they wake up with about 15% hp.
+
+ | 
+
+Play an animation and immediately revive knocked players.
+
+ | 
+
+ ???
+
+ |
 | 
 
  | 
 
 Static Fakeout
 
- | Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+ | 
 
--   Requires agility: 30
+Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
 
- | +3 Elemental Intensity
+Requires 30 Agility
+
+(Rare Talent)
+
+ | 
+
++3 Elemental Intensity
 
 +1 Health
 
- | Thundercaller |
+ | 
+
+Thundercaller
+
+ |
 |  | 
 
 Static Withdraw
@@ -404,7 +450,11 @@ When knocked, if someone tries to carry you for the first time after being knock
 
 ???
 
- | Self-Shocker |
+ | 
+
+Self-Shocker
+
+ |
 
 ### **Passive**
 
@@ -453,9 +503,9 @@ Grand Skewer
 
  | 
 
-Grand Javelin now carries opponents with it through the skies.(Press F while casting to activate)
+Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate)
 
-(Legendary)
+(Advanced Talent)
 
  | 
 

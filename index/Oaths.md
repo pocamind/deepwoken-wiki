@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46585
+revid: 46626
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
-There are currently 10 Obtainable Oaths in _Deepwoken_.
+There are currently 9 Obtainable Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -491,7 +491,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, however other Players or even Monsters can attack the victim while they are stunned. This also forms a Hidden Tendril on the target.
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target.
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
