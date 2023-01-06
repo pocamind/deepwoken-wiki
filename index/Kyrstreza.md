@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 45779
+revid: 46668
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,7 +17,6 @@ categories: [Weapons, Weaponry]
 | range | 8 |
 | swing speed | 0.82x |
 | penetration | 30% |
-| special effect | UNK |
 | stances | 1 Handed |
 | selling price | 100 |
 | weight | 4 |

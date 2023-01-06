@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46626
+revid: 46647
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 25 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |

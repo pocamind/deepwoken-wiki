@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 46646
+revid: 46673
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -91,7 +91,7 @@ While inside a Voidzone:
 
 **Dangers:** [Blizard Knight](Stone_Knight.md) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
-**Rewards:** [Hero Blades](Hero_Blades.md) (Winter), Minityrsa Loot Pool
+**Rewards:** [Hero Blades](Hero_Blades.md) (Winter), [Ministry Cloak](Ministry_Cloak.md) \[Winter\], [Justicar Defender Coat](Justicar_Defender_Coat.md) \[Aelita\], Assassin Cloaks \[Aelita\], Minityrsa Loot Pool
 
 ### **[Starfield Tundra](Starfield_Tundra.md)**
 

@@ -1,9 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 45251
+revid: 46671
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
+categories: [Stub pages without reason, StubPages, Locations, World, Voidzones]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -14,31 +14,22 @@ Template:Location2
 
 Template:Areainfobox
 
-The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found in the Etrean Luminant.
+The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found on the top of [Minityrsa](Minityrsa.md)
 
 ## Overview
 
 The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minityrsa.md). The inside is filled with tall, narrow intersecting halls inhabited by hostile enemies.
 
-  
-
 ## Points of Interest
 
-File:Crypt entity.png
+-   On the 2nd floor, the Shrine of Temptation can be found. For 5 knowledge, you may exchange one of your mantra for a hand of whispers.
+-   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
 
-Entity in the crypt.
-
-At the end of a hall in the crypt, there is an entity sitting on a pedestal against the wall. It allows you to trade a Mantra you have in exchange for one you have the requirements for.
-
-  
-
-## Potential Enemies
+## Enemies
 
 -   [Immortal Guardians](Immortal_Guardian.md)
 -   [Carbuncle](Carbuncle.md)
 -   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
-
-  
 
 ## Loot Table
 

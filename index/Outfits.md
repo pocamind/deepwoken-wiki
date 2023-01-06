@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 46115
+revid: 46648
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages]
@@ -26,16 +26,16 @@ Outfits are craftable forms of defense that typically reduce oncoming damage by 
 
 -   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its defensives values. However, other stats like ether regen, stealth and the associated talents are still active.
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
-    -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes/from blunt weapons such as maces, fists or hammers.
+    -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
     -   **Fire/Ice/Lightning/Wind/Shadow Armor:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks/[Frostdraw](Frostdraw.md) attacks/[Thundercall](Thundercall.md) attacks/[Galebreathe](Galebreathe.md) attacks/[Shadowcast](Shadowcast.md) attacks.
--   **Ether Regen:** Increase the conversion rate of Reservoir to Ether.
+-   **Ether Regen:** Increase Ether regeneration.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
 -   **Talent:** A passive ability linked to the outfit.
 
 ## Repairing your Outfit
 
-The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its set buffs until it is repaired. The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through certain talents or Armor buffs. Armor can also be repaired through the use of Repair Kits. Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
+The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its defensive bonus until it is repaired. The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through 2 talents (Bloodiron Spirit and Tresher Scales), the Bloodiron Ring or with the Metal [enchantment](Enchantments.md). Armor can also be repaired through the use of Repair Kits. Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
 
 ## Outfit List
 

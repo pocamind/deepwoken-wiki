@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 44811
+revid: 46650
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -81,7 +81,7 @@ The Etris blacksmith house.
 
 #### Guildhouse
 
--   Players can start a Guild when [Power Level](Power.md) 15 by talking to the Guildmaster.
+-   Players can start a Guild when [Power Level](Power.md) 5 by talking to the Guildmaster.
 
 #### Bookstore
 

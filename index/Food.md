@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 44873
+revid: 46662
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -157,7 +157,7 @@ OR
 
 ## Notes
 
--   Alternatively, you can regain ~1/2 of your Food and Thirst bars by going up 1 Power Level.
+-   Alternatively, you can regain your Food and Thirst bars by going up 1 Power Level.
 
 ## Trivia
 

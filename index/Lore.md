@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46586
+revid: 46676
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -22,17 +22,17 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ## Figures
 
-### The Lord Regent of Etrea
+### Zi'eer, The Fourth Prophet of the Ministry, Lord Regent of Etrea
 
 _"Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me." - Lord Regent, before killing the Player_
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer.
+The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer, the Fourth Prophet of the Ministry.
 
   
 
--   Lord Regent has his power increased by an incredible amount by sitting on his chair. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
+-   Lord Regent has his power increased by an incredible amount by sitting on his throne. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
 -   Lord Regent is the 4th Prophet out of 9 Ministry Prophets that are ranked based of strength.
 -   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
@@ -45,7 +45,7 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
--   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
+-   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely an immortal.
 -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
 -   The Lord Regent plans on drowning Etris.
 

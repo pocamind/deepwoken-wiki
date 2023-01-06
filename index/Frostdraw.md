@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 46599
+revid: 46672
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
 
 “ Ka...me...ha...me... ”
 
-― An unknown Khan using an ice beam with 9 Stratus Stones
+― An unknown Khan using an ice beam with 3 Stratus Stones and 3 cloudstones.
 
 ## Description
 
@@ -20,7 +20,7 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial, Support, and Defense. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the Defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having unparalleled damage, and deadly combos.
+Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial, Support, and Defense. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having unparalleled damage, and deadly combos.
 
 A favorite of both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
@@ -32,7 +32,7 @@ Frostdraw can be trained by conventional methods, via using a the [Hemafrost](Tr
 
 Much like every other attunements, users can see their Mantras become stronger with enough training:
 
--   At Power 1, players receive the _Frostdrawer_ Talent.
+-   At Power 1 or upon drinking the [Glassblood](Attunement_Potions.md), players receive the _Frostdrawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   At Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
