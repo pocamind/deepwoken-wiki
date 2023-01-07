@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46764
+revid: 46768
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -965,7 +965,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md), one of the 3 fist styles.
-    -   Prerequisites: Brind a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
+    -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
 -   Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15%.
     -   Prerequisites: 20 Fortitude, Fists
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+3 Health, +4 Carry Load)
