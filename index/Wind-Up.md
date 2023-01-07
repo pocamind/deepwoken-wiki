@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 46627
+revid: 46743
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -31,7 +31,7 @@ When used, small circles appear around your right arm. Per use, more circles wil
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a level of power that will be inflicted on your next attack. It has duration of about 1 minute, after which the effects will dissapear and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max levels of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdoll. If your charged attack is parried or, it will cancel the ability and inflict massive damage to your posture but will not break it, getting dodged will also cancel the ability. If your attack is parried by an npc, your posture will be punished as usual and extra posture will not be given.
+**Wind-Up** will store a level of power that will be inflicted on your next attack. It has duration of about 1 minute, after which the effects will dissapear and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max levels of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdoll. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture but will not break it, getting dodged will also cancel the ability. If your attack is parried by an npc, your posture will be punished as usual and extra posture will not be given.
 
 ### _**Resonance Point usage**_
 

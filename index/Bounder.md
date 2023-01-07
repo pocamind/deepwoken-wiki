@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 46403
+revid: 46744
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,3 +38,4 @@ Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with d
 -   The Bounder looks while similiar to a megalodaunt, is very similiar to a frog although ironically has spider-like eyes. When preparing a running bash they rev up their feet similiar to a Bull moving one of its legs back and forth before charging full on.
 -   Bounders seemingly can reproduce as they have a Nest, they seem to inhabit the lower areas of the Eternal Gale floor 1
 -   It was said by Archmage that there was suppose to be a type of Bounder that was infected with the snow parasites, how this is possible tho is unsure, My theory is that a Bounder could accidentally shove the "snow" into its mouth obviously infecting it.
+-   For anyone struggling with killing bounders, its attack pattern is extremely similar to that of a Sand Knight. - 1 or 2 Slashes, When 2 Slashes; you can hit after the first slash and then parry the second one. - Sometimes it does a Jump attack if you get too far which can be compared to sand knights pillar attack. - and after the 1 or 2 slashes, it will do a charge attack; which can be compared to the sand knights kick attack.

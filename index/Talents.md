@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46734
+revid: 46764
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1459,7 +1459,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 30 Fortitude
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
--   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you. (+3 Health)
+-   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain.
 -   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)

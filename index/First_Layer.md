@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 46424
+revid: 46760
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -84,12 +84,12 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-9 | [Angel](Hollow_Angel.md) (Lesser) |
-| 10-13 | [Megalodaunt](Megalodaunt.md) |
-| 14-16 | [Nautilodaunt](Nautilodaunt.md) |
-| 17+ | [Enforcer](Enforcer.md) |
+| 10-16 | [Megalodaunt](Megalodaunt.md) |
+| 17+ | Chance of [Nautilodaunt](Nautilodaunt.md) or [Enforcer](Enforcer.md) |
 
 (Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 
+-   ~A good strategy for levels 17+ is to learn the attack patterns/get comfortable with either the Nautilodaunt OR Enforcer, and then simply combat-log out of the trial if it is the creature you didn't study for.~ What the fuck this tip sucks just learn both of them idiot.
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.

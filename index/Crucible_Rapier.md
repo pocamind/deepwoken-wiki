@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 34296
+revid: 46757
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -34,6 +34,7 @@ The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rap
 
 ## Trivia
 
--   It is the highest tier of damage amongst all the other Rapiers.
+-   ~It is the highest tier of damage amongst all the other Rapiers.~
+    -   Kyrstreza exists.
 -   It keeps the same **Crit** as any other rapier, dealing 4 hits at a time.
 -   The Crucible Rapier bears a strong resemblance to Velka's Rapier from the _Dark Souls_ series.

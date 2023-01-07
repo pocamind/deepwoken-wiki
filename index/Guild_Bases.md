@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 46601
+revid: 46747
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Guilds, Locations]
@@ -59,6 +59,7 @@ File:Bandito.png
 
 -   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
 -   Players cannot go into guild halls while holding a body.
+-   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   You can break the Guild Base open while inside and fall off the map.
 -   Grand skewers is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of each room can increase exponentially.

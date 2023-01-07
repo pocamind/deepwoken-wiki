@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 46633
+revid: 46763
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -118,3 +118,4 @@ _Pros/Cons_
 
 -   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
 -   [Ganymedes](Ganymede.md) can do deep deals for a cheaper rate, only requiring to spend 4 points of knowledge for every deal they make.
+-   The Shrines are most notably references to another Roguelike, the Risk Of Rain series. Such as the Shrine of Order and Shrine of Chance preform similar to said shrines in Risk of Rain 2.

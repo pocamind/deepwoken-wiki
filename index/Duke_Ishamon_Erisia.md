@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 46385
+revid: 46746
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -177,6 +177,18 @@ Duke: _\*The Duke smiles.\*_ Etrea has really stooped to hiring the blades of it
 Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
 
 1: \[End Dialogue\]
+
+Contractor Dialogue
+
+Duke: So you're the one running about tripping my alarms. Care to explain yourself?
+
+1: Let's skip the pleasantries, you know why I'm here.
+
+Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
+
+1: \[End Dialogue\]
+
+This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 
 ## Trivia
 

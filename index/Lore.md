@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46694
+revid: 46761
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -166,6 +166,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   In charge of expeditions into the Second Layer.
 -   Name bears an eery resemblance to Korilfiend, Drowned God of Fire.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
+-   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
 ### **The Meat Lord**
 
@@ -320,6 +321,11 @@ Yun'shul's Shrine
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
 -   The trainer for Fire Mantra owns a dojo on the island.
+
+#### Ancient Rotlands (Eastern Luminant)
+
+-   Was once a home to a fallen Celestial.
+    -   The tortured Celestial within the Derelict Church is likely this Celestial.
 
 #### Starswept Valley (Eastern Luminant)
 
@@ -822,7 +828,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Over the course of their lives they add more words to their name.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
--   Despite hostile in the New Kyrsa, in Firfire they can be seen as a more joking and funny side as if you give them the stupid nickname in a dialogue option, the leader will name you something along the lines of "Twinkletoes"
+    -   Despite hostile in the New Kyrsa, in Firfire they can be seen as a more joking and funny side as if you give them the stupid nickname in a dialogue option, the leader will name you something along the lines of "Twinkletoes"
 -   The Kyrsgarde have alot of prosperity and such, but something called "The mist" has changed something in them, an outsider Kyrsgarde tells us this place is not good for us, and that the foolishness is of the Kyrsgarde is what brought this tragedy, because turns out building a huge city over a drowned god wasnt really a good idea
 -   Kyrsgarde brutes were probably the ones who carried the iron bars and created some of the bigger heavy structures, while the ice lancers used their frostdraw to create some other buildings, presumably.
 -   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is it gets deadly.
@@ -1502,7 +1508,15 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   There are multiple languages in the Deepwoken world,
     -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughout the game is simply called 'Common.'
--   There is a language used by the residents of the second layer, similar to common.
+-   There is a language used by the Kyrsgarde, similar to common.
+
+### **Consuming things for power**
+
+-   A common trend in deepwoken is being able to consume parts of living things to gain their power.
+    -   With Starkindred, you consume the blood of a Celestial to obtain the oath.
+    -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power
+    -   There are lotuses found in voidzones that give stat attributes when consumed as a potion.
+    -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
 
 ## Music
 
