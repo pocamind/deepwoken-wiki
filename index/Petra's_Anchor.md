@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 45982
+revid: 46791
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -33,4 +33,4 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 
 ## Trivia
 
--   It's very likely a reference to either Totsugeki May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.
+-   It's very likely a reference to either May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.

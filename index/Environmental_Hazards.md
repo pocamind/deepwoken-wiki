@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 46415
+revid: 46796
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -55,6 +55,11 @@ Environmental hazards are location-based events or dangers. While called "hazard
   <td><a href="Second_Layer.md">Second Layer</a></td>
   <td>N/A</td>
 </tr>
+<tr>
+  <td>Heavy Wind</td>
+  <td><a href="Second_Layer.md">Second Layer</a></td>
+  <td>Halts movement to a crawl when affecting a player. If the player does not face the wind and move forward it will ragdoll the player and fling them in the direction of the wind. It is unknown if the Survivalist <a href="Boons_and_Flaws.md">Boon</a> helps against this. Only found in Floor 1 of the <a href="Second_Layer.md">Second Layer</a>, and only on bridges in the 2nd part of the floor.</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,7 +80,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 <tr>
   <td>Acid Pools</td>
   <td>Erisia</td>
-  <td>Slow loss of HP, negated with Survivalist <a href="Boons_and_Flaws.md">Boon</a>. Additionally, puts you in Danger.</td>
+  <td>Slow loss of HP, not negated with Survivalist <a href="Boons_and_Flaws.md">Boon</a>. Additionally, puts you in Danger.</td>
 </tr>
 </tbody>
 </table>

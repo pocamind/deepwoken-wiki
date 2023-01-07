@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 45459
+revid: 46785
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -78,6 +78,6 @@ Neutral-Bad Reputation:
 
 ## Trivia
 
--   All Hive members/NPCs are either [Vesperians](Vesperian.md) or [Ganymedes](Ganymede.md).
+-   All Hive members/NPCs are either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md).
 -   You can get Neutral-Good reputation with the Hive just by helping in the **Hive Guards vs Etrean Footsoldiers** event 3 times OR only once with some talents, like Diplomat.
     -   From Neutral to Neutral-Good.

@@ -1,11 +1,9 @@
 ---
 title: Iron Bomb
-revid: 45567
+revid: 46793
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Items]
-notices:
-  - This page is currently being worked on. Please check back later.
+categories: [Pages with broken file links, Items]
 ---
 
 # Iron Bomb

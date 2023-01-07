@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 46516
+revid: 46787
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -26,7 +26,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
 -   Old: You need to have not made a wish within your last 10 levels. So if you made a wish at 45, your next minimum level to get a wish would be 55. It's generally recommended to only make wishes on levels that are multiples of 10, as to maximize wish potential. It can also be assumed that you would need to level up 10 times to get your first wish.
 
-New: You need to have not made a wish within your last 50 attribute points, so you need to spend 50 points until you get your next wish. Keep in mind you have 15 attribute points after level 20 and it is assumed that these count as well. (In order to get 2 wishes on your build you would have to make your first wish at Power 18 with 5 investment points left.
+New: You need to have not made a wish within your last 50 attribute points, so you need to spend 50 points until you get your next wish. Keep in mind you have 15 attribute points after level 20 and it is assumed that these count as well. (In order to get 2 wishes on your build you would have to make your first wish at Power 18 with 5 investment points left. TESTED - DID NOT WORK, WISH EARLIER.
 
 If you meet all the criteria, you are able to make one of four wishes:
 

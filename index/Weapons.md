@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 46570
+revid: 46789
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -914,7 +914,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></td>
   <td>75 MED</td>
   <td>20</td>
-  <td>N/A</td>
+  <td>25%</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>7</td>
