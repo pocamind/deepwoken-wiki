@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 46671
+revid: 46689
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, World, Voidzones]
@@ -41,6 +41,8 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
  | 
 
 -   Duelist Mask
+-   Etrean Siege Cuirass
+-   Etrean Siege Staboons
 -   Hive Scourge Cuirass
 -   Ministry Operative Cloak
 -   Winter Corps Parka
@@ -70,3 +72,5 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 -   Images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
+-   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
+-   Good place to farm books, the library has tons of bookshelves

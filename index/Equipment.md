@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46515
+revid: 46724
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1726,7 +1726,7 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 
 **Requires Power 15**
 
- | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive) |
+ | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive), Chaser Chests |
 |  | 
 
 Finisher's Ring

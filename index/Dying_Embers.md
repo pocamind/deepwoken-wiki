@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 40785
+revid: 46727
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -36,4 +36,4 @@ Dying embers drop from any NPC or player that uses the [Flamecharm](Flamecharm.m
 
 ## Trivia/Notes
 
--   You can eat these and gain Reservoir back
+-   ̶Y̶o̶u̶ ̶c̶a̶n̶ ̶e̶a̶t̶ ̶t̶h̶e̶s̶e̶ ̶a̶n̶d̶ ̶g̶a̶i̶n̶ ̶R̶e̶s̶e̶r̶v̶o̶i̶r̶ ̶b̶a̶c̶k̶ No longer viable since reservoir has been removed

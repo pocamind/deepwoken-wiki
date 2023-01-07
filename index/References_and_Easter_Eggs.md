@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 46436
+revid: 46699
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # References and Easter Eggs
 
-CONTAINS SPOILERS!!!  
+> CONTAINS SPOILERS FOR MULTIPLE MEDIA!!!  
 
 ## Armors/Equipments
 
@@ -19,8 +19,8 @@ CONTAINS SPOILERS!!!
 -   The mod spec Outfit **Hive Leader's Garment** is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The Outfit **Black Diver** is [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki)
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
--   The Old World Sun Pendant is a reference to [Azura's Star from Skyrim](https://skyrim.fandom.com/wiki/Azura%27s_Star)
--   Every Familiar Helmet from the Hallowtide event are helmets taken from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/).
+-   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
+-   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
 
 ## Attunements
@@ -58,16 +58,17 @@ CONTAINS SPOILERS!!!
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
-    -   It is also possibly a reference to **Duelist Dash** from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
--   **Shadow Assault** slightly resembles **Demon Step** from _Rogue Lineage_, a move used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
-    -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma) one of the characters from [Street fighter](https://streetfighter.fandom.com/wiki/Akuma)
+    -   It is also possibly a reference to _Duelist Dash_ from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
+-   **Shadow Assault** slightly resembles _Demon Step_, and **Eclipse Kick** resembles _Axe Kick_, both from _Rogue Lineage_, moves used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
+    -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
 -   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
--   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203) one of Lannis abilities from Rogue Lineage
+-   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
 
 ## Oaths
 
--   Arcwarder is a reference to the Iron Man suit from Marvel Comics.
--   The obtainment for Contractor was inspired by finding Darkstalker Kaathe in _Dark Souls_.
+-   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
+    -   The overall appearance of the suit however, looks extremely similar to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from _Made in Abyss_.
+-   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
 
 ## Enemies/Bosses
 
@@ -81,8 +82,8 @@ CONTAINS SPOILERS!!!
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
-    -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_.
-        -   Par, one of the developers of Deepwoken.
+    -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
+        -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
@@ -116,8 +117,8 @@ CONTAINS SPOILERS!!!
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
--   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch and/or the Kingsguard](https://gameofthrones.fandom.com/wiki/Lord_Commander) in Game of Thrones
--   **Chime of Conflict**'s talent group's name is Sovereign of Slaughter, which might be a small nod to Made in Abyss, where white whistles had titles starting with Sovereign, such as "Sovereign of Annihilation."
+-   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch and/or the Kingsguard](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
+-   **Chime of Conflict**'s talent group's name is Sovereign of Slaughter, which might be a small nod to _Made in Abyss_, where white whistles had titles starting with Sovereign, such as "Sovereign of Annihilation."
 
 ## Weapons
 
@@ -128,16 +129,16 @@ CONTAINS SPOILERS!!!
 -   **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to two characters: [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
--   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
+-   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
--   **Darksteel Greatsword** is inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from the Anime/Manga, _Berserk_.
--   **Railblade's** critical attack is a reference to [Flame Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing) from _Demon Slayer: Kimetsu no Yaiba._
+-   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _Berserk_.
+-   Quite a stretch, but **Railblade's** critical attack may be a reference to [Flame Breathing: First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing) from _Demon Slayer: Kimetsu no Yaiba._
 
 ## Enchantments
 
--   Stormbreaker is a reference to the weapon used by Thor from Marvel Comics.
--   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_.
--   Obfuscation and Heroism are references to Artoria Pendragon's Excalibur from the _Fate_ franchise.
+-   **Stormbreaker** is a reference to the weapon used by Thor of the same name from _Marvel Comics_.
+-   **Elastic** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter x Hunter_.
+-   **Obfuscation** and **Heroism** are references to [Artoria Pendragon's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Excalibur](https://typemoon.fandom.com/wiki/Excalibur?so=search) from the _Fate_ franchise.
 
 ## World
 
@@ -156,20 +157,28 @@ CONTAINS SPOILERS!!!
 
 ### **The Depths**
 
--   Among one of the cliffs, a **pineapple** can be found. This is a reference to [SpongeBob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
-    -   Some of the King Gigameds that spawn with hats near it may start dancing to a tune from SpongeBob.
 -   **The** **Depths** itself was confirmed to have drawn inspiration from three series, _Made In Abyss_ and _Salt and Sanctuary_.
     -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological features of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle features a large cavern, while the second feature cold and harsh winds.
--   The City of the Drowned likely draws inspiration from H.P. Lovecraft's _Call of Cthulhu_, being very similar to the sunken city of [R'lyeh](<https://lovecraft.fandom.com/wiki/R'lyeh>), which is inhabited by Cthulhu, who is likely an inspiration for the **[Nautilodaunt](Nautilodaunt.md)**
+
+#### Layer 1 (Scyphozia)
+
+-   Among one of the cliffs, a **pineapple** can be found. This is a reference to [SpongeBob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
+    -   Some of the King Gigameds that spawn with hats near it may start dancing to a tune from _SpongeBob_.
+-   The City of the Drowned likely draws inspiration from H.P. Lovecraft's _Call of Cthulhu_, being very similar to the sunken city of [R'lyeh](<https://lovecraft.fandom.com/wiki/R'lyeh>), which is inhabited by Cthulhu, who is likely an inspiration for the **[Nautilodaunt](Nautilodaunt.md).**
+
+#### Layer 2 (The Eternal Gale)
+
+-   After beating the [Scion of Ethiron](Scion_of_Ethiron.md), you are forced to run to the exit with a time limit all the while instant kill orbs spawn around you. This is all ripped from _Risk of Rain 2_, as [you do the same thing](https://riskofrain2.fandom.com/wiki/Mithrix#Arena_Escape_Portals) after beating [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix) on [Commencement](https://riskofrain2.fandom.com/wiki/Commencement).
+    -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) spawning sounds.
 
 ### **Factions**
 
 -   **The Hundred Legions** is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor, or possibly referencing [Caesar's Legion](https://fallout.fandom.com/wiki/Caesar%27s_Legion) from **Fallout: New Vegas**, because of similarity in their story of origin (possibly)[\[1\]](https://fallout.fandom.com/wiki/Caesar%27s_Legion)
 -   **Etrea** is very similar to a mixture of various East Asian countries.
--   **The Ministry** is possibly a reference to The Ministry from Fahrenheit 451
--   **The Knives of Eylis** is a reference to a faction in Dishonored with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
+-   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
+-   **The Knives of Eylis** is a reference to a faction in _Dishonored_ with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
 
 ### **Races**
 
@@ -183,3 +192,4 @@ CONTAINS SPOILERS!!!
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
     -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
+-   Although this was likely unintentional, **Tiran**'s Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.

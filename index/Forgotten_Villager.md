@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 46631
+revid: 46682
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Church](<Erisor's_Church.md>). Unlike the other villagers, they distrust Alastir and thus cannot be handed in to him. Talking to all three of them will start an event that spawns in waves of enemies and monsters:
+Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Church](<Erisor's_Church.md>). Unlike the other villagers, they distrust Alastir and thus cannot be handed in to him. Talking to one of them will eventually start an event that spawns in waves of enemies and monsters:
 
 ### Waves
 

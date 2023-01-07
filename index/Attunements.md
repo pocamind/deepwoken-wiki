@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 46622
+revid: 46732
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -20,16 +20,14 @@ While it is possible to learn every or most Mantras of a given attunement, you a
 
 When creating your character, you may choose to start with no Attunement, which will start the player with no Attunement, 10 additional points to invest into attributes (for your first power only, allowing you to have higher stats than a player who has selected an Attunement at power 1), and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
 
-It is worth noting that Mantras can have rarities individual of their stars, and Attunement-based mantras sometimes have requirements of non-Elemental stats (points in agility, strength etc).
+It is noteworthy that Mantras can have rarities individual of their stars, and Attunement-based mantras sometimes have requirements of non-Elemental stats (points in agility, strength etc), such as Flamecharm's Ash Slam which requires 30 Strength along with 50 Flamecharm.
 
-Another point worth noting is there's no current way of removing an Attunement that's been chosen or learnt without wiping the entire build, so you must choose carefully.
+Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
 
 ## Mentioned Only/Potential future Attunements
 
--   Lifeweaving (First seen being used by the Hive leader, and also used by several members of hive)
 -   Lightkeeper/Lightkeeping
 -   Earth (Mentioned by Arch\_Mage saying he would like to add earth)
--   Ironsinger (Mentioned by Arch and seen in server names)
 
 ## Trivia
 
@@ -48,7 +46,7 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 
-When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
+-   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
 
 -   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
 -   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.

@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 46629
+revid: 46696
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,22 +21,11 @@ notices:
 
 ## Description
 
-The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. The Ministry has a direct link with [Lord regent (Zi'eer)](The_Lord_Regent.md), they reside at [Minityrsa.](Minityrsa.md)
+The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to obtain Godhood. They are lead by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who gifted Chaser his hemokinetic abilities and the Fourth Prophet being the current Lord Regent of Etris. They have some sort of hostility against the Children of Navae, and desire to clear them out of [Summer Isle](Summer_Isle.md).
 
-## **Lore**
+Many years ago, they conquered Minityrsa and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its Lord Regent.
 
--   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
--   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
--   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
--   They warn of (and possibly bring about) the sinking of the Overworld into [The Depths](The_Depths.md).
--   Essentially enemies with every major faction in the game until proven otherwise.
--   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'
--   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
--   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
--   The Ministry is allegedly able to share the Whispers of Tacet, or murmur(s) to those with no connection to the song.
--   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
--   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
--   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
+They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
 ## Reputation
 
@@ -52,3 +41,9 @@ To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel
 -   Imel
 -   [The Lord Regent](The_Lord_Regent.md)
 -   The Stranger
+
+## Trivia
+
+-   Every [Ministry](Ministry_Scout.md) [enemy](Ministry_Necromancer.md) uses a [Krulian Knife](Krulian_Knife.md).
+-   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who posses it are persecuted.
+    -   This makes them the only faction to have an exclusive attunement.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46676
+revid: 46694
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -22,13 +22,13 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ## Figures
 
-### Zi'eer, The Fourth Prophet of the Ministry, Lord Regent of Etrea
+### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-_"Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me." - Lord Regent, before killing the Player_
+"Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me." _\- Lord Regent, after defeating [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you._
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer, the Fourth Prophet of the Ministry.
+The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer, the Fourth Prophet of the Ministry.
 
   
 
@@ -46,14 +46,16 @@ The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **contracto
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
 -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely an immortal.
+-   His goal is to manipulate Etris' prospects in order to seize the island for the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
+    -   As it is unknown how long ago this event was, they may be the same person.
 -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
--   The Lord Regent plans on drowning Etris.
 
 ### **Drallis Ehr**
 
 -   Grand Sovereign of The Central Authority.
 -   Presumably an Adret.
 -   Gained this position after withstanding something known as the Godstorm.
+-   Possibly the individual referred to in the Teacher's dialogue for a story of fortitude.
 -   Even more powerful than the Lord Regent.
 
 ### **The First Prophet**

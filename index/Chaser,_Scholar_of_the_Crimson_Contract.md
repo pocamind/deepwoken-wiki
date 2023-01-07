@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46661
+revid: 46736
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ notices:
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Aha, the first strike? Not one to mince words are we? ”
+“ How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it? ”
 
 ― Chaser
 
@@ -18,11 +18,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, by both description and appearance.
+Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, by both description and appearance. He was gifted the ability of hemokinesis by the Ministry's Second Prophet.
 
-He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Kyrsan_Shrine_of_Arrival.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
+He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he and the Kyrsgarde tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
-Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries 6 [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal (Pictures on right).
+Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them.
 
 File:Chaser with 6 stolen Resonance Bells.png
 
@@ -53,7 +53,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
  | After a short casting sound, Chaser rapidly forms a moderately large explosion of bloodflame under the player. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ◯ | (★★☆) |
-| **Satalactite Fall** | Chaser drops many stalactites from the ceiling.
+| **Stalactite Fall** | Chaser drops many stalactites from the ceiling.
 
 -   _**When only half the blood jar remains, the ceiling will collapse, dropping all stalactites from the ceiling instantly. Chaser no longer uses this attack afterward.**_
 
@@ -132,25 +132,22 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 **(2)** - I won't be fooled again.
 
--   **(C)** - \[TO BE ADDED\]
+-   **(C)** - ???
 
 ### If you attack him mid-dialogue
 
 **(C)** - Aha, the first strike? Not one to mince words are we?
 
-## Gallery
-
-\[WILL BE ADDED SOON\]
-
 ## Trivia
 
 -   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
--   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
--   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does attack you with a weapon, but his clones do).
+-   Chaser is seen wielding six Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
+-   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself doesn't attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
--   Chaser is resistant to Bloodless Gem and Vampirism enchant
+-   Chaser is resistant to Bloodless Gems and the Vampirism enchant.
+-   Even though he has health, he cannot be damaged conventionally, his HP is determined by the jars of blood in the arena.
 
 ## Bugs
 
--   If you are experiencing ping issues, try your best to dodge '**Powerful Blood** **Appendage'** as there is a chance that it may simply fling you out of the cathedral mid-animation during Phase 2 and 3.
+-   If you are experiencing ping issues, try your best to dodge '**Powerful Blood** **Appendage'** as there is a chance that it may simply fling you out of the cathedral mid-animation during Phase 2 and 3. Also, just try to dodge everything instead of blocking/parrying.

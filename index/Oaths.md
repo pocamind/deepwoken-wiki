@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46647
+revid: 46692
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
@@ -57,7 +57,7 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
-There are currently 9 Obtainable Oaths in _Deepwoken_.
+There are currently 10 Obtainable Oaths in _Deepwoken_.
 
 ## Pathfinder
 
@@ -391,7 +391,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have 25 (Check comments, you cant get it if you have 20 fort omg) Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have 20 (I checked comments, and I know it's 20 fort because I've gotten it multiple times at 20.) Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha

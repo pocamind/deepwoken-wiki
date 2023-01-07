@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46669
+revid: 46734
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Talents
 
-**You can press "Ctrl + F" (Windows)/"Cmd + F"(Mac) to search for Talents!**  
+**You can press "Ctrl + F" (Windows)/"Cmd + F"(Mac) to search for talents!**  
 This is a browser function, but all mainstream browsers should have it.
 
 ## Overview
@@ -206,7 +206,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
-    -   Prerequisites: 5 Fortitude
+    -   Prerequisite: 5 Fortitude
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
     -   Prerequisites: 30 Fortitude, 30 Willpower
@@ -254,10 +254,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
-    -   Prerequisites: 25 Agility
+    -   Prerequisite: 25 Agility
     -   Mutual Exclusive: Observation, Safety Dance
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility
+    -   Prerequisite: 15 Agility
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, atleast 45 Agility.
@@ -294,25 +294,25 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You deal additional posture damage when you parry enemies. (+1 Posture, +2 Carry Load)
     -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
-    -   Prerequisites: 25 Strength.
+    -   Prerequisite: 25 Strength.
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
 
 ### Champion
 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
-    -   Prerequisites: 50 Willpower
+    -   Prerequisite: 50 Willpower
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 50 Willpower
-    -   Etrean have a similar effect passively (Molt), but is applied to all debuff and buffs instead
+    -   The Etrean race has a similar effect passively (Molt), but is applied to all buffs and debuffs (like potions) instead of status effects.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
-    -   Prerequisites: 25 Strength
+    -   Prerequisite: 25 Strength
 
 ### Charm Caster
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
-    -   Prerequisites: 25 Charisma
+    -   Prerequisite: 25 Charisma
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. (+ 4 Ether)
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
@@ -325,7 +325,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisite: Reinforce, 50 Shadowcast
+    -   Prerequisites: Reinforce, 50 Shadowcast
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
@@ -382,12 +382,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
     -   Very tight activation window.
-    -   Prerequisites: 25 Galebreathe
+    -   Prerequisite: 25 Galebreathe
 
 ### Darksiphon
 
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
-    -   Prerequisites: 20 Shadowcast
+    -   Prerequisite: 20 Shadowcast
 -   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   Prerequisites: 50 Shadowcast, Dark Hours
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
@@ -397,7 +397,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Shadowcast, Dark God
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
-    -   Prerequisites: Shadow Eruption
+    -   Prerequisite: Shadow Eruption
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity, +1 Health)
 
 ### Dawnwalker
@@ -408,14 +408,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Death Speaker
 
 -   Blackhole \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity, +3 Health)
-    -   Prerequisites: Singularity
+    -   Prerequisite: Singularity
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity, +3 Health)
-    -   Prerequisites: Singularity
+    -   Prerequisite: Singularity
 
 ### Deepwoken
 
 -   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
-    -   Prerequisites: Power 2.
+    -   Prerequisite: Power 2.
 -   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air. (Better Ether regeneration)
     -   Prerequisite: Escape from The Depths once.
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
@@ -434,7 +434,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
 -   Concussion \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
-    -   Prerequisite: 20 Strength, 15 Fortitude
+    -   Prerequisites: 20 Strength, 15 Fortitude
 -   Duelist Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
     -   Prerequisites: 20 Strength
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
@@ -444,12 +444,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
     -   Prerequisites: 25 Strength, 15 Agility
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
-    -   Prerequisite: 30 Strength, 30 Medium Weapon
+    -   Prerequisites: 30 Strength, 30 Medium Weapon
 -   Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
-    -   Prerequisites: 60 Agility
+    -   Prerequisite: 60 Agility
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
-    -   Prerequisite: 25 Strength, 25 Fortitude
+    -   Prerequisites: 20 Strength, 25 Fortitude
 -   Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals 100% of the original damage
     -   Can proc from physical mantras
@@ -459,7 +459,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
-    -   Prerequisite: Flame Blind, 40 Flamecharm and 25 Strength
+    -   Prerequisites: Flame Blind, 40 Flamecharm and 25 Strength
 
 ### Empath
 
@@ -476,7 +476,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Ether Adept
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
-    -   Prerequisite: 15 Strength, 5 Intelligence
+    -   Prerequisites: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
     -   Prerequisites: Battle Tendency, 40 Willpower
