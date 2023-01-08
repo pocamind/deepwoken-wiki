@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 45952
+revid: 46866
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -151,7 +151,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   _"Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!"_
     -   After defeating the Ferryman and receiving a reward, either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
-    -   This would be how you obtain the Rhythm Murmur (confirmed), however it is disabled at the moment due to possible balancing and/or not being complete. If you talk to him whilst having a Murmur, he mentions that you already have another gift and disappears. While talking to him without a Murmur, he rewards you with the above dialogue. There is a chance its disabled because Rhythm murmur is planned to be obtained another way, and that this text hints towards something **else.**
+    -   This used to be the way you would get the Murmur Rhythm, however, it was disabled before release. With the Verse 2 update, a new method for it has been added.
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
     -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once in Summer or Spring)
@@ -187,7 +187,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman is now completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
--   ~(unsure if this is a bug) The Ferryman's lightning clones can actually drop luck. As they are counted as an enemy, when they disappear they have a chance to drop luck.~ Luck has been removed in the Verse 2 update, though they can still drop luck particles which give you an investment point.~  
+-   The Ferryman's clones can drop luck particles which give you an investment point.~  
     ~
     
     File:Yamaketzalferryman.png

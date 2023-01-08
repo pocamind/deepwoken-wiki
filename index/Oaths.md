@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 46834
+revid: 46867
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
+categories: [Oaths, Character, Talents, Mechanics]
 ---
 
 # Oaths
@@ -53,11 +53,16 @@ categories: [Pages with broken file links, Oaths, Character, Talents, Mechanics]
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
+| Oath: Fadetrimmer | |
+|---|---|
+| oath_req | unknown, probably nothing |
+| effects | unknown |
+
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
-There are currently 10 Obtainable Oaths in _Deepwoken_.
+There are currently 10 Obtainable Oaths in _Deepwoken_. Oaths are considered meta in PVP and PVE.
 
 ## Pathfinder
 
@@ -360,7 +365,7 @@ You will get a mantra for each kill.
     -   While active, Air Dash goes much further.
     -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, and yellow.
     -   Some mantras have different properties while the user has their wings out:
-        -   **Fire Blade** now launches the user upward before releasing a large plume of flames.\***Ascension - Combat Mantra**
+        -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
 -   **Ascension - Combat Mantra**
     -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
@@ -383,7 +388,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Weld the armor of the Ignition Union's most notable dwellers. ”
+“ You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. ”
 
 ― Arcwarder Description
 
@@ -391,7 +396,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have 20 (I checked comments, and I know it's 20 fort because I've gotten it multiple times at 20.) Fortiude, 20 Flamecharm and 20 Thundercall.
+-   Have 20 Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
@@ -469,13 +474,14 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
-1.  Have your [Resonance](Resonance.md) unlocked.
-2.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
-3.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
-4.  Complete the Duke questline.
-5.  Make a **deal** (not just interact) with every shrine EXCEPT the Shrine of Order.
-6.  Talk to Yun'Shul and ask "What happened to this place?"
-7.  Go back to Regent and pick the first dialogue option.
+1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
+2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
+3.  Complete the Duke questline.
+4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
+5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrine of Order.
+6.  Unlock your [Resonance](Resonance.md).
+7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?".
+8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.
 
 ### Upgrading
 
@@ -502,13 +508,25 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 ### Notes
 
--   It is recommended to farm duke to obtain a resonance as it is already a part of the obtainment requirements.
--   While farming alts or old slots _is_ time consuming, it poses _way less_ risk of wiping than camping castle light to kill players.
+-   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
+-   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor.
+    -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
+        
 
-File:Capture d’écran 2023-01-03 012119.png
+**Fadetrimmer:**
 
-The Contractor oath gives you some strings that seem attached to your limbs, like a puppet.
+# **Oath: Fadetrimmer**
+
+“ yo fade me up ”
+
+― agamatsu
+
+### Obtainment
+
+talk to barber, ask about oath, give various NPCs around the map new cuts, heres agamatsu's guide: [https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s](https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s)
+
+NOTE: THIS IS A JOKE OATH IT IS NOT ACTUALLY REAL (or is it??)
 
 ## Lore Oaths:
 
@@ -517,7 +535,7 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
 ## Warmaster
 
 -   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
--   Can be assumed by the Windrunner and the notebook in the Tomb of the Nameless Warrior to be Warden Jericho's Oath
+-   Can be assumed by the notebook in the Tomb of the Nameless Warrior to be Warden Jericho's Oath
     
 
 **Time Magic:**
@@ -558,21 +576,21 @@ The Contractor oath gives you some strings that seem attached to your limbs, lik
 
 ## Trivia
 
--   Time magic was not actually stated to be an oath itself, but "oath magic."
-    
-    Proof of Time magic's existence and it being 'oath magic'
-    
--   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
--   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
--   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
+-   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
+-   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture below\]
+-   Synapse X oath is a joke based on the exploit "Synapse X".
 -   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
--   Arcwarder is commonly mispronounced by 'Arc Welder' due to the similar wording.
--   Dawnwalker is often referred to as the Aztup oath due to the ridiculous 60 Medallion cost in order to max it out.
+-   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
+-   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
+-   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
+-   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are ironically names of demons despite being angels in Deepwoken.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos#Minos_in_art) became a judge of the underworld after death.
+    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   Synapse X oath is a joke and not truly obtainable in the game.
+
+-   Innate (race) stat bonuses do not count towards stat requirements for Oaths.
+
+Proof of Time Magic's existance and it being "Oath Magic".

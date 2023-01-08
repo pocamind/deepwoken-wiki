@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 46222
+revid: 46857
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,9 +19,9 @@ categories: [NPCs]
 
 ## Overview
 
-Brutus is an imprisoned Khan in the [Fort Merit](Fort_Merit.md) prison that allows you to unbind your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that'll knock you and leave you at barely any health. If you don't have the prerequisite 75 Fortitude, you're guaranteed to die before the beatdown is over.
+Brutus is an imprisoned Khan in the [Fort Merit](Fort_Merit.md) prison that allows you to unbind your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that'll knock you and leave you at barely any health.
 
 ## Trivia
 
--   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from him.
 -   You can use a training vest and let him beatdown you to increase fortitude.
+-   If you have positive Authority reputation, he'll say "Oh a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our pact."

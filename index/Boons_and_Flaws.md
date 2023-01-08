@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 46742
+revid: 46863
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -83,10 +83,9 @@ Count as 2 flaws, cannot be taken with another flaw.
 Has a small chance of being gained when rerolling an Oath at Yun'Shul.
 
  | N/A |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance.
+| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removal
 
   
-
 Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes.
 
  | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 46673
+revid: 46852
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -39,7 +39,7 @@ While inside a Voidzone:
 
 **Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt), [Immortal Guardians](Immortal_Guardian.md)
 
-**Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool
+**Rewards:** Hellfire and Skyvalor Lotuses, Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
 
 ### **[Ancient Rotlands](Ancient_Rotlands.md)**
 
@@ -115,7 +115,7 @@ While inside a Voidzone:
   
 **Location:** Past Upper [Miner's Landing](<Miner's_Landing.md>), East Luminant
 
-**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Megalodaunts](Megalodaunt.md)
+**Dangers:** [Brainsuckers](Brainsucker.md), [Carbuncles](Carbuncle.md), [Desert Knights](Stone_Knight.md), [Red & Alpha Megalodaunts](Megalodaunt.md)
 
 **Rewards:** TBD
 

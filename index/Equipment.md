@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46813
+revid: 46838
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1526,7 +1526,7 @@ Freestyler's Band
 
 Gives the user a massive increase in swimming speed while out of combat.
 
-**Requires Power 10**
+**Requires Power 3**
 
  | Primadon Chests, Depths Chests |
 |  | 

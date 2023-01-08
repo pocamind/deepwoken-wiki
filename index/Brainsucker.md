@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 45111
+revid: 46840
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 Brainsuckers resemble many things, having bat-like wings, a beak, three eyes, and all of it forming a body that looks like a gargoyle. They can only be found flying, which allows them to easily follow you on your voyage, and pester you when you slow down.
 
-Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of the [The Aratel Sea](The_Aratel_Sea.md), and [Voidsea](Voidsea.md), or in packs of two to three in [Minityrsa](Minityrsa.md), and [The Starswept Valley](The_Starswept_Valley.md) respectively. Multiple Brainsuckers are also encountered in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
+Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of the [The Aratel Sea](The_Aratel_Sea.md), and [Voidsea](Voidsea.md), or in packs of two to three in [Minityrsa](Minityrsa.md), [The Starswept Valley](The_Starswept_Valley.md), and [Miner's Landing](<Miner's_Landing.md>) respectively. Multiple Brainsuckers are also encountered in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
 
 ## Moves
 

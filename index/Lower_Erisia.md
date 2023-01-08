@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 43513
+revid: 46850
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -51,6 +51,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
 -   [Thief](Thief.md)
+-   [Terrapod](Terrapod.md) (this one is a maybe, they could be falling down from Upper Erisia)
 
 ## Missions
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 46398
+revid: 46861
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -83,6 +83,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
 -   A vertical jump that sends the user into the air.
 -   Altitude travelled decreases significantly as the user loses health.
+-   Drops carried players/NPCs when used.
 
  |
 | 
@@ -93,7 +94,7 @@ File:No Attunement Revamp.png
 
  | _Disguise yourself in tacet and drop kick your enemies._ | 
 
--   **Requirements: 20 Strength, Murmur: Tacet and Jus Kaita,** _Combat Mantra_
+-   **Requirements: 20 Strength, Murmur: Tacet and Jus Karita,** _Combat Mantra_
 -   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
 -   Inflicts knockdown.
 
@@ -218,6 +219,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
     -   Restores a decent amount of ether periodically.
     -   Increases movement speed and parkour abilities by ~25%.
+    -   Procs the "Speed Demon" talent.
 
  |
 
