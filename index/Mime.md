@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 46017
+revid: 46874
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
@@ -25,7 +25,7 @@ Disguise yourself as an unassuming object for a seemingly indefinite amount of t
 
 File:Kdfjghdsoiguherpoiknerhdfhrth.png_"Take on an unimaginable disguise."_
 
-Applying Sparks to the mantra will alter what you diguise as, variations are listed ahead.
+Applying Sparks to the mantra will alter what you disguise as, variations are listed ahead.
 
 | Sparks | Image |
 | --- | --- |

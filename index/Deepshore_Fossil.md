@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 46868
+revid: 46870
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 46602
+revid: 46882
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -83,7 +83,7 @@ Tornado Kick
 
 _Slicing blades of wind._
 
- | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more projectiles if the mantra lands.
+ | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AOE projectiles if the mantra lands.
 
 -   Deals moderate damage.
 -   Projectile is medium-ranged and explodes on impact.

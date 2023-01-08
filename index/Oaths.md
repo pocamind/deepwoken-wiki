@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46867
+revid: 46879
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,8 +55,8 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Fadetrimmer | |
 |---|---|
-| oath_req | unknown, probably nothing |
-| effects | unknown |
+| oath_req | unknown, probably intelligence |
+| effects | unknown (debuffs ?) |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
@@ -524,9 +524,9 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 ### Obtainment
 
-talk to barber, ask about oath, give various NPCs around the map new cuts, heres agamatsu's guide: [https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s](https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s)
+talk to barber, ask about oath, give various NPCs around the map new cuts, heres agamatsu's guide: (he's actually trolling) [https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s](https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s)
 
-NOTE: THIS IS A JOKE OATH IT IS NOT ACTUALLY REAL (or is it??)
+Note : This Oath is canonically real but it is unobtainable as a player.
 
 ## Lore Oaths:
 

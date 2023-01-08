@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 45277
+revid: 46875
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -257,9 +257,9 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>Cap'n Orlandeau</td>
   <td>Unaligned</td>
-  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a></td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a>, New Kyrsa, The Sleeping City</td>
   <td>Teaches new players the basics of the game</td>
-  <td></td>
+  <td>Suprisingly found in Second Layer Floor 2.<p>Might give a different dialogue if you have the Castaway origin who has done the tutorial.</p></td>
   <td></td>
 </tr>
 <tr>

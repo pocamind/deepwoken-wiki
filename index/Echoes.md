@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 46509
+revid: 46881
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -8,7 +8,7 @@ categories: [Echoes, Character, Mechanics]
 
 # Echoes
 
-“ The Legacy of my Lineage... Shall be continued down to yours, my friend-- to the next and after the other. ”
+“ The Legacy of my Lineage... Shall be continued down to yours, my rogue friend-- to the next and after the other. ”
 
 ― Echo of Inspiration
 
