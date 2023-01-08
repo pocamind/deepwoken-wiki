@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46838
+revid: 46922
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -10,9 +10,6 @@ notices:
 
 # Equipment
 
-F
-
-  
 **Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
 
 Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
@@ -62,16 +59,6 @@ All armor equipment (with few exceptions), when obtained, will roll for random s
   <td>4 6 8</td>
   <td>4 8</td>
   <td>6 8</td>
-</tr>
-<tr>
-  <td>Reservoir(removed)</td>
-  <td>16 20 24</td>
-  <td>16 20 24</td>
-  <td>20 24</td>
-  <td>20 24</td>
-  <td>16</td>
-  <td>16</td>
-  <td>8 12 16</td>
 </tr>
 <tr>
   <td>Sanity</td>
@@ -1656,7 +1643,7 @@ Moon Ring
 
 Conceal your age, appearing as if you were younger than 40.
 
- | Aelita's Chests, Deep Widow's Chests, Depths Chests, Duke Erisia's Chests, Arena Chests |
+ | Aelita's Chests, Deep Widow's Chests, Depths Chests, Duke Erisia's Chests, Arena Chests, Layer 2 Chests |
 |  | 
 
 Akira's Ring
@@ -1669,7 +1656,7 @@ Gives every weapon 1.2 Willpower scaling when equipped.
 
 **Requires Power 6**
 
- | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
+ | Ferryman's Chests, Deep Widow's Chests, Summer Isle Chests, Duke Erisia's Chests & Arena Chests, Aelita's Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths, Layer 2 Chests |
 |  | 
 
 Rosen's Ring
@@ -1682,7 +1669,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
 **Requires Power 6**
 
- | Duke Chests, Arena Chests (WIP) |
+ | Duke Chests, Arena Chests (WIP), Layer 2 Chests, Summer Isle Chests(Extremely Rare) |
 |  | 
 
 Prophet's Ring
@@ -1695,7 +1682,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
 **Requires Power 6**
 
- | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
+ | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths, Layer 2 Chests |
 |  | 
 
 Maestro's Ring
@@ -1708,7 +1695,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 
 **Requires Power 6**
 
- | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths |
+ | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths, Layer 2 Chests |
 |  | 
 
 [Dawnfist's Ring](<Dawnfist's_Ring.md>)
@@ -1719,7 +1706,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 
 Gives every weapon 1.2 strength scaling when equipped.
 
- | Rare drop from trading Deep Gems to Jeremiah in The Depths, Summer Isle Chests (Very Rare), Duke Chests and Deep Widow chests |
+ | Rare drop from trading Deep Gems to Jeremiah in The Depths, Summer Isle Chests (Very Rare), Duke Chests and Deep Widow chests, Layer 2 Chests |
 |  | 
 
 Deepfire Ring
@@ -1732,7 +1719,7 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 
 **Requires Power 15**
 
- | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive), Chaser Chests |
+ | Ferryman Chest, Arena Chests, Duke Erisia Chests, Fort Merit Chests (Shipping Schedule-Exclusive), Chaser Chests, Layer 2 Chests |
 |  | 
 
 Finisher's Ring
@@ -1745,7 +1732,7 @@ Extra PEN on your attacks that flourish opponents.
 
 **Requires Power 40**
 
- | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests, Pure Ore Chests |
+ | Aelita Chests, Arena Chests, Duke Erisia Chests, Deep Widow Chests, Pure Ore Chests, Layer 2 Chests |
 |  | 
 
 Poser's Ring

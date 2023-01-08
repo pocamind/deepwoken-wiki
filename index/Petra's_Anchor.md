@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 46791
+revid: 46917
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -12,7 +12,7 @@ categories: [Weapons, Greathammers]
 |---|---|
 | type | Heavy Greathammer |
 | requirements | 75 HVY 10 STR 10 LVL |
-| damage | 26.5 |
+| damage | 26 |
 | scaling | 8 |
 | range | 8.5 |
 | swing speed | 0.6x |

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46879
+revid: 46925
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -53,16 +53,11 @@ categories: [Oaths, Character, Talents, Mechanics]
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
-| Oath: Fadetrimmer | |
-|---|---|
-| oath_req | unknown, probably intelligence |
-| effects | unknown (debuffs ?) |
-
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 
-There are currently 10 Obtainable Oaths in _Deepwoken_. Oaths are considered meta in PVP and PVE.
+There are currently 9 Obtainable Oaths in _Deepwoken_. Oaths are considered meta in PVP and PVE.
 
 ## Pathfinder
 
@@ -510,23 +505,9 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.
--   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor.
+-   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
         
-
-**Fadetrimmer:**
-
-# **Oath: Fadetrimmer**
-
-“ yo fade me up ”
-
-― agamatsu
-
-### Obtainment
-
-talk to barber, ask about oath, give various NPCs around the map new cuts, heres agamatsu's guide: (he's actually trolling) [https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s](https://www.youtube.com/watch?v=5mYwcdPYpGY&t=216s)
-
-Note : This Oath is canonically real but it is unobtainable as a player.
 
 ## Lore Oaths:
 
@@ -574,12 +555,21 @@ Note : This Oath is canonically real but it is unobtainable as a player.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
 
+**Fadetrimmer:**
+
+## Fadetrimmer
+
+**Lore Sources:** _Barbers (Mentioned)_
+
+-   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
+-   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
+    
+
 ## Trivia
 
+-   The "Synapse X Oath" is not real and is based off exploiters using a hacking client by the same name \[Hackers take great risks of viruses and getting tracked and ultimatley get banned in the end so do not look for this\], although the other, thought to be, fake oath, Fadetrimmer, is real in lore although it is unobtainable as it is only mentioned for laughs.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture below\]
--   Synapse X oath is a joke based on the exploit "Synapse X".
--   When talking with a [Barber](Barber.md), they mention the "Fadetrimmer" oath. Unfortunately, Arch Mage confirmed it was a joke.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.

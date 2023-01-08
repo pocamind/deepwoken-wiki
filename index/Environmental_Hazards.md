@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 46796
+revid: 46884
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -53,7 +53,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 <tr>
   <td>Parasites</td>
   <td><a href="Second_Layer.md">Second Layer</a></td>
-  <td>N/A</td>
+  <td>Stick onto player and after 5 of them stick the player will instantly die unless removed using lanterns located in various layer 2 locations.</td>
 </tr>
 <tr>
   <td>Heavy Wind</td>

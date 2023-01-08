@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46833
+revid: 46923
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -187,8 +187,11 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
 -   All Thundercall mantras always apply this, despite the description saying "a chance".
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
+    -   Prerequisites: Power 15, 65 Thundercall
 -   Second Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+    -   Prerequisites: Power 15, 65 Thundercall
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
+    -   Prerequisites: Power 15, 65 Thundercall
 
 ### Bastion
 
@@ -1693,7 +1696,7 @@ File:Thresherquest1.png
 
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives insanity instantly.
-    -   90 willpower and talk to Kasen, located in the layer 2 floor 1.
+    -   85 willpower and talk to Kasen, located in the layer 2 floor 1.
 
 ## Outfit Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 45382
+revid: 46914
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -23,7 +23,7 @@ Greathive Aratel is a small island with a massive tree flooded on top of it. Ins
 
 To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above power 10 (No Need Oath). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
 
-It is also possible to just [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
+Alternatively, you can [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
 
 ## Contents
 
@@ -87,6 +87,7 @@ The doors to enter the Lordsgrove.
 #### Inn
 
 -   Players can spend to set their spawn point here.
+-   There is a glitch where you can get spawned there automatically without reseting by rejoining servers consistently.
 
 #### Observatory
 

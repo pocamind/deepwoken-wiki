@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 46876
+revid: 46888
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Overview
 
-The Bone Keeper is a monster of the [Eternal Gale](Second_Layer.md).
+The Bone Keeper also known as _The Boner_ is a monster of the [Eternal Gale](Second_Layer.md).
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having extremely short legs and large arms. It has clearly clawed feet, with bone claws for hands. They sport a red & gold loincloth of sorts on their lower body and seemingly not having any clothes on their upper half. Their head also appears to be made out of bones or a bone-like material.
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 46524
+revid: 46920
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -13,8 +13,7 @@ notices:
 ## Locations
 
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
--   **Original Meteor Isle -** Even though [Meteor Isle](Meteor_Isle.md) was re-added, it is in a much more muffled capacity than it used to be. It originally was a medium sized island, which featured a good stream of monsters, being very useful to gain EXP, with many monsters like [Enforcers](Enforcer.md), [Megalodaunts](Megalodaunt.md), and even [Primadon](Primadon,_Titan_of_the_East.md). It also presumably had more NPCs and quests.
--   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md).
+-   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and [Primadon](Primadon,_Titan_of_the_East.md).[\[1\]](https://deepwoken.fandom.com/wiki/Primadon?so=search)
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 
