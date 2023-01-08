@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 46689
+revid: 46825
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, World, Voidzones]
@@ -47,6 +47,8 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   Ministry Operative Cloak
 -   Winter Corps Parka
 -   Winter Corps Boots
+-   Royal Duelist
+-   Mercenary Boots
 
  | 
 
@@ -65,6 +67,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
  | 
 
 -   Amethyst
+-   Emerald
 
  |
 

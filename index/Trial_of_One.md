@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 46467
+revid: 46831
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -47,7 +47,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   [Weakened Enforcer](Enforcer.md)
     -   Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. (16 sword hits)
 -   [Weakened Sand Knight](Stone_Knight.md)
-    -   Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto.
+    -   Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (Took me arpund 45 - 50 hits with sword)
 -   Parry Checks
     -   See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
 -   [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks

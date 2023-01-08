@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46724
+revid: 46813
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -464,6 +464,9 @@ File:Khan Helmet.png
 
 Grants a random buff and +2 Posture.
 
+  
+_\+ 10 Health_
+
  | Hive Chests (Work in Progress) | N/A |
 | 
 
@@ -478,6 +481,9 @@ File:KnightHelm.png
 Grants a random buff.
 
 **Requires Fortitude 15**
+
+  
+_\+ 10 Health_
 
  | Hive Chests | N/A |
 |  | 

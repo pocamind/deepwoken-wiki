@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 46699
+revid: 46818
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -68,6 +68,7 @@ notices:
 
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
     -   The overall appearance of the suit however, looks extremely similar to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from _Made in Abyss_.
+-   **Dawnwalker's** _Radiant Kick_ is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
 
 ## Enemies/Bosses
@@ -144,12 +145,14 @@ notices:
 
 ### **The Etrean Luminant**
 
+Arch's tweet
+
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
--   The Celestial underneath the Delerict Highchurch could be a reference to Lilith from Neon Genesis Evangelion. The white body, red cross, and pool of blood are all traits shared with Lilith.
+-   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
     -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
-    -   The locations he are encountered in were the prime pvp and ganking spots where these were seen.
-    -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wound created by a character's attacks are only registered once they sheath their weapon.
+    -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
+    -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
 
 ### **The Eastern Luminant**
 
@@ -193,3 +196,4 @@ notices:
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
     -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
 -   Although this was likely unintentional, **Tiran**'s Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
+    -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.

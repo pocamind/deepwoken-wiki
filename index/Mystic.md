@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 46649
+revid: 46830
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -58,7 +58,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### Intelligence
 
--   _I think before I fight. **(Adept Caster)**_
+-   _I think before I fight. **(Tactician)**_
+-   _I fight from afar. **(Adept Caster)**_
 -   _I enjoy mixing potions. **(Alchemist)**_
 -   _I am an expert on ether. **(Ether Adept)**_
 -   _I am all knowing. **(Omniscient; All knowing, Successive Prediction)**_

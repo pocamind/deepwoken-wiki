@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46761
+revid: 46826
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -28,27 +28,25 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The [Lord Regent](The_Lord_Regent.md) is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. His true name is Zi'eer, the Fourth Prophet of the Ministry.
+The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md). Nobody in Etris is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions **appear** to be in the best interests of Etris.
 
-  
-
--   Lord Regent has his power increased by an incredible amount by sitting on his throne. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
--   Lord Regent is the 4th Prophet out of 9 Ministry Prophets that are ranked based of strength.
--   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
+-   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; this ranking system is based off strength.
+-   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
+-   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace, yet he remains the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
-    -   The Lord Regent is not in any way a Krulian, he is something far stranger and more terrible.
-    -   After shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ Breaking the veil also caused the guard's eyes to explode.
--   Based on Jericho's Journal, the Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
--   The Lord Regent's power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
+    -   The Lord Regent is not a Krulian.
+    -   In [book](<https://deepwoken.fandom.com/wiki/Books#Operation_'Puppet_Master'_Report>) "_Operation 'Puppet\_Master' Report_", we learn that after shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ and breaking this veil also caused the guard's eyes to explode.
+    -   Lord Regent has his power increased by an incredible amount by sitting on his throne. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
+    -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
+-   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
+-   The Lord Regent's power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power. Some of this power can be gained from the "[Contractor](Oaths.md)" oath.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are doing the "[Contractor](Oaths.md)" oath.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
-    -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
-    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
--   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely an immortal.
--   His goal is to manipulate Etris' prospects in order to seize the island for the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
-    -   As it is unknown how long ago this event was, they may be the same person.
--   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious Shadowcaster, who may well be linked to the Ministry, orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent's ascension.
+    -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
+-   His goal is seemingly to manipulate Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
+    -   As it is unknown how long ago this event was, they may be the same person. \[Speculation\]
+-   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious [Shadowcaster](Shadowcast.md), who may well be linked to the [Ministry](The_Ministry.md), orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
 
 ### **Drallis Ehr**
 

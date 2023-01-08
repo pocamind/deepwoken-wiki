@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 46233
+revid: 46817
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -39,6 +39,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 #### Etrean Luminant
 
 -   At the far right side of [Etris Docks](Etris.md).
+-   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
 
 #### Eastern Luminant
 

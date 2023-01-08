@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46768
+revid: 46833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1527,7 +1527,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Strength Combat
 
--   Strong Left (1 Star Mantra) - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+-   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
     -   Prerequisite: 20 strength
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
     -   Prerequisite: 20 Strength

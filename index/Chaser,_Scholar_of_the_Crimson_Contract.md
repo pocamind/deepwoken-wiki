@@ -1,18 +1,16 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 46755
+revid: 46799
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Enemies, NPCs, Bosses]
-notices:
-  - This page is currently being worked on. Please check back later.
+categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 ---
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Hahahaha.. MWAHAHAHAHA.... ”
+“ How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it? ”
 
-― Chaser, readying another attack.
+― Chaser
 
 Template:EnemyInfobox1.0
 
@@ -64,6 +62,11 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
  | ✗ | ✗ | ◯ | (☆☆☆) |
 | **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. | ◯ | ◯ | ◯ | (★★★) |
+| **Bounder Spawn** | At lower HP, he summons Bounders
+
+-   **Note: He only spawns them if you hit him too many times, so it is recommended to not attack him and only break the jars.**
+
+ | N/A | N/A | N/A | (★★★) |
 
 \*While these moves can be parried and blocked, they still fling you.
 
