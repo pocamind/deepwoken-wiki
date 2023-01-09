@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47034
+revid: 47059
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -240,7 +240,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. (+3 Health)
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 -   Rending Impact \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown. (+3 Health)
-    -   Prerequisite: Use a Greataxe, 50 Heavy Weapons Mastery
+    -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
 -   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them (+3 Health)
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 
@@ -600,9 +600,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frozen Legs \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: 50 Frostdraw
 
-### pussy meatpissu mea mea \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
+### Gale Kata
 
--   -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
+-   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
+    -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
     -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
 
 ### Galebreather

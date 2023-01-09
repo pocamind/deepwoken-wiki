@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 46818
+revid: 47048
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -118,7 +118,7 @@ notices:
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
--   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch and/or the Kingsguard](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
+-   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
 -   **Chime of Conflict**'s talent group's name is Sovereign of Slaughter, which might be a small nod to _Made in Abyss_, where white whistles had titles starting with Sovereign, such as "Sovereign of Annihilation."
 
 ## Weapons

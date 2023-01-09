@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 46974
+revid: 47042
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -20,7 +20,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Upon reaching 0% health, the player gets knocked out and is at mercy to anyone around them.
+  <td>A visual representation of the player's health. Upon reaching 0% health, the player gets knocked out and is at mercy to anyone around them. Players starts with 150 Health.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
@@ -42,7 +42,8 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <th>Cooldown Icons</th>
   <td>Icons that indicate whether or not the player can use certain moves.
   <ul>
-    <li>The first icon shows the cooldown of feints/roll cancels, the second shows the rolling cooldown, and the third shows the potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
+    <li>The first icon shows the cooldown of feints/roll cancels, the second shows the rolling cooldown, and the third shows the potion cooldown.</li>
+    <li>If the player have a <a href="Resonance.md">Resonance</a>, a 4th cooldown indicator will be added, representing Resonance cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
   </ul></td>
 </tr>
 <tr>
@@ -50,20 +51,21 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and without Ether, the player cannot use spells or magic.
   <ul>
     <li>Different spells use a different amount of Ether, and varies often.</li>
-    <li>Ether regenerate passively very slowly, but regenerate faster if the player have Reservoir.</li>
+    <li>Ether regenerate passively very slowly, however, Tempo can greatly increase Ether regeneration.</li>
+    <li>When out of combat, Ether regenerate rapidly.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Tempo</th>
-  <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle.
+  <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle. Maximum tempo starts at 120.
   <ul>
     <li>Tempo decreases over time when not in active combat.</li>
-    <li>When at 50% tempo you can vent to break out of combos. When at max you can vent twice.</li>
+    <li>When at 40 tempo, you can vent to break out of combos. When at max you can vent twice.</li>
   </ul></td>
 </tr>
 <tr>
   <th>Armor Durability</th>
-  <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and the buffs will disappear.
+  <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and its defensive values no longer applies.
   <ul>
     <li>Armor can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
   </ul><figure><figcaption></figcaption></figure></td>
@@ -88,7 +90,7 @@ If every bar reaches zero, the player will start to quickly lose health.
     <li>The player will always be combat tagged.</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
     <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
-  </ul><p>Maximum blood increase with power, gaining roughly 9.99% more blood for each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20 (compared to the default amount)</p></td>
+  </ul><p>Maximum blood increase with power, gaining roughly 10% more blood for each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20 (compared to the default amount)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -122,7 +124,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Critical Attacks</th>
-  <td>A Critical Attack or "Crit" for short can be initiated by pressing <kbd>M3</kbd> (Scroll wheel) or by pressing the <kbd>R</kbd> key.<p>Crits are attacks that deal significantly more damage in general but have a wind-up or delay before use. Critical attacks are high-risk high-reward, they can be punished easily and be canceled but do high damage and posture. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
+  <td>A Critical Attack or "Crit" for short can be initiated by pressing <kbd>M3</kbd> (Scroll wheel) or by pressing the <kbd>R</kbd> key.<p>Crits are attacks are primarly used to deal greater posture damage than a traditional attack with the intent to fill the posture bar of the target. Some weapon have unique crits, usually that deal more damage than a regular attack. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
   <td></td>
 </tr>
 <tr>
@@ -133,6 +135,11 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Parrying</th>
   <td>Pressing <kbd>F</kbd> enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
+  <th></th>
+</tr>
+<tr>
+  <th>Venting</th>
+  <td>When the player have at least 40 tempo (indicated by a small notch on the tempo bar), pressing <kbd>G</kbd> will make the player Vent.<p>Venting pushes others nearby away and grant a brief period of invincibility, which allow the player to get out of tricky situation.</p></td>
   <th></th>
 </tr>
 <tr>

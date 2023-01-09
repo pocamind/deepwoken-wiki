@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 46444
+revid: 47049
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,7 +13,7 @@ categories: [NPCs]
 | name | Klaris Llfiend, Mother of Lights |
 | location | Castle Light |
 
-“ You've done a great deal for us This is the least we can offer in gratitude. ”
+“ You've done a great deal for us. This is the least we can offer in gratitude. ”
 
 ― Klaris, after handing in all Diver Journals
 

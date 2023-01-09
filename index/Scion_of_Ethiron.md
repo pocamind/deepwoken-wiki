@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 47021
+revid: 47047
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -20,7 +20,7 @@ The Scion of Ethiron is a boss encountered at the end of the second floor of the
 
 It can shoot bone like projectiles with an unlimited supply, as well as summon bones from the ground. It can also make use of purple energy to attack, creating swirling spheres of it that can cause blindness or fire it in beams.
 
-Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 [medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions), which can be exchanged for knowledge, enchant stones, random equipment enchants, and the Dawnwalker Oath at Castle Light. Furthermore, defeating the boss allows you to keep any Medallions you had obtained on your Floor 2 run - if you do not defeat this boss, you will not get any loot when you leave layer 2 or die. In addition, a **Boss Chest** containing end-game weapons, rare rings and lots of Deep Gems will spawn in. The Boss Chest also has a chance to contain a Legendary Weapon and/or a Railblade. Finally, the player will receive a significant amount of experience, attribute training, resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **immune** to all enchantment effects.
+Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 [medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions), which can be exchanged for knowledge, enchant stones, random equipment enchants, and the Dawnwalker Oath at Castle Light. Furthermore, defeating the boss allows you to keep any Medallions you had obtained on your Floor 2 run - if you do not defeat this boss, you will not get any loot when you leave layer 2 or die. In addition, a **Boss Chest** containing end-game weapons, rare rings and lots of Deep Gems will spawn in. The Boss Chest also has a chance to contain a Legendary Weapon and/or a Railblade. Finally, the player will receive a significant amount of experience, attribute training, resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **immune** to all enchantment effects. (Needs testing, have had multiple enchants proc on the boss)
 
 ## Defeating the Scion of Ethiron
 

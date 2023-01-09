@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 46873
+revid: 47036
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -194,6 +194,15 @@ Roar
 -   Blocking negates much of but not all the insanity gain.
 
  | ✗ | ◯ | ◯ | (★★☆) |
+| 
+
+Tacet Grab
+
+ | The Alpha Megalodaunt dissapear using Tacet, then reapper behind its target, attempting to grab them and bite them.
+
+-   The megalodaunt teleport behind its target, which allows it to close the gap.
+
+ | ✗ | ✗ | ◯ | (★☆☆) |
 
 **Mechalodaunt:**
 
