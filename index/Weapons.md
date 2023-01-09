@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 46969
+revid: 47025
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -23,6 +23,8 @@ Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). T
 When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example)
 
 Enchanted weapons always have at least one star.
+
+**There are 92 weapons in Deepwoken.** (excluding alloyed variations and offhand weapons)
 
 ## Stances
 
@@ -58,6 +60,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
 -   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
+-   **Legendary:** Weapons that cannot be enchanted and are soulbound on equip.
 
 ## Types of Weapons
 
@@ -1245,7 +1248,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
 </tr>
 <tr>
-  <td><a href="Railblade.md">Railblade</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Railblade"><font>Railblade</font></a></td>
   <td>80 HVY, LVL 10</td>
   <td>22</td>
   <td>25%</td>
@@ -1397,7 +1400,7 @@ Weapons that scale with a certain element
   <td><b>Alloy-able</b></td>
 </tr>
 <tr>
-  <td><a href="Hero_Blades.md">Hero Blade of Flame</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Flame</font></a></td>
   <td>75 FIR, LVL 11</td>
   <td>20</td>
   <td>10%</td>
@@ -1408,7 +1411,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Hero_Blades.md">Hero Blade of Lightning</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
   <td>75 THD, LVL 11</td>
   <td>20</td>
   <td>10%</td>
@@ -1419,7 +1422,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Hero_Blades.md">Hero Blade of Frost</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
   <td>75 ICE, LVL 11</td>
   <td>20</td>
   <td>10%</td>
@@ -1430,7 +1433,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Hero_Blades.md">Hero Blade of Wind</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
   <td>75 WND, LVL 11</td>
   <td>20</td>
   <td>10%</td>
@@ -1441,7 +1444,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
   <td>75 SDW, LVL 11</td>
   <td>20</td>
   <td>10%</td>
@@ -1452,7 +1455,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
   <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
   <td>15%</td>
@@ -1463,7 +1466,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
   <td>75 SDW, 40 HVY, LVL 10</td>
   <td>22</td>
   <td>N/A</td>
@@ -1474,7 +1477,7 @@ Weapons that scale with a certain element
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Gran_Sudaruska.md">Gran Sudaruska</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
   <td>75 ICE, 30 HVY, LVL 10</td>
   <td>23.5</td>
   <td>N/A</td>

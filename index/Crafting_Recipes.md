@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 45318
+revid: 47027
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,22 +59,22 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
 
-Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
+Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both can eat) - **\[N\]** - Neither
 
 ### _Non-Campfire Recipes_
 
 -   **\[V\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
--   **\[V\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
+-   **\[G\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_
 
 -   **\[V\] Mushroom Soup** - _2 different mushrooms, 1 from each kind._ (example: 1 Gobletto, 1 Browncap)
--   **\[C\] Mushroom Bisque** - _Any Mushroom + Crustacean Meat_
--   **\[C\]\[V\] [Bread](Bread.md)** - _3 Gathered Wheat_
--   **\[V\] Omelette/Cooked Egg** - _2 Eggs_
--   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
+-   **\[N\] Mushroom Bisque** - _Any Mushroom + Crustacean Meat_
+-   **\[G\] [Bread](Bread.md)** - _3 Gathered Wheat_
+-   **\[C\] Omelette/Cooked Egg** - _2 Eggs_
+-   **\[N\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Any)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantra damage)
 -   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regeneration)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
@@ -89,7 +89,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **\[C\] [Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **\[C\] [Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **\[C\] Sauteed Scallops** - _2 Scallops_
--   **\[V\] Cake** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
+-   **\[G\] Cake** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
 
 ## Alchemy
 
@@ -127,18 +127,19 @@ _**Negative**_
  |
 | **Invigorating Elixir** | 
 
--   2x Goblettos
+-   2-3x Goblettos
 
- | 
+ | _**Positive**_
 
-#### _**Positive**_
+-   Buffs regeneration.
 
--   Regenerates Health over time.
+_**Negative**_
+
+-   Slight slowing effect.
 
  | 
 
 -   Excellent early-game healing.
--   With Apocracy this potion heals 18%.
 -   Overall best healing potion and easiest to make, recommended for all players.
 
  |
@@ -173,7 +174,7 @@ _**Negative**_
 
  | _**Positive**_
 
--   Grants Healing.
+-   Grants Instant Healing. (When thrown)
 
 _**Negative**_
 
@@ -204,7 +205,7 @@ _**Negative**_
  |
 | **Disgusting Bane** | 
 
--   3x Browncaps
+-   2-3x Browncaps
 
  | _**Negative**_
 

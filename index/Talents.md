@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47020
+revid: 47034
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -234,15 +234,15 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Bruiser
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor (20 second cooldown). (+3 Health)
-    -   Prerequisites: Use a Greataxe, Impairing Blow
+    -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapons Mastery
 -   Heavy Fatigue \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. (+3 Health)
-    -   Prerequisites: Use a Greataxe, Impairing Blow
+    -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapons Mastery
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. (+3 Health)
-    -   Prerequisite: Use a Greataxe
+    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 -   Rending Impact \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown. (+3 Health)
-    -   Prerequisite: Use a Greataxe
+    -   Prerequisite: Use a Greataxe, 50 Heavy Weapons Mastery
 -   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them (+3 Health)
-    -   Prerequisite: Use a Greataxe
+    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 
 ### Butterfly
 
@@ -600,10 +600,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frozen Legs \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: 50 Frostdraw
 
-### Gale Kata
+### pussy meatpissu mea mea \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
 
--   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
-    -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
+-   -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
     -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
 
 ### Galebreather
@@ -1233,7 +1232,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
     -   Prerequisites: 20 Intelligence
 -   Punishing Blow \[Rare Talent\] - Daze opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
-    -   Prerequisite: 20 Heavy Weapons Mastery
+    -   Prerequisite: 50 Heavy Weapons Mastery
 
 ### Tavernkeep
 
