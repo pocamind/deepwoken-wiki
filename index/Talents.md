@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 46923
+revid: 46971
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -124,7 +124,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Mutual Exclusive: Fishman
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
-    -   Prerequisites: 25 Agility, 25 Fortitude
+    -   Prerequisites: 25 Agility
 
 ### Amoran Seeker
 
@@ -294,7 +294,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Colossus
 
--   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] You deal additional posture damage when you parry enemies. (+1 Posture, +2 Carry Load)
+-   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
     -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
     -   Prerequisite: 25 Strength.

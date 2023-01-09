@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 40211
+revid: 46957
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Islands]
@@ -53,6 +53,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
 -   [Thief](Thief.md)
+-   [Terrapod](Terrapod.md)
 
 ## Missions
 

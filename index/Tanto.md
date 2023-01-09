@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 46455
+revid: 46964
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weaponry, Items]
@@ -29,8 +29,7 @@ categories: [Weapons, Daggers, Weaponry, Items]
 
 ## Description
 
-The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticably slower than most of the other daggers, with a swing speed of 0.85. For comparison, The Krulian Knife has a swing speed of 1.05x. To make up for its lack of speed, it outranges every other dagger in the game, being tied with the Central Dirk for the most range, and has the highest base damage out of any dagger aswell. This weapon can also be upgraded with a Pluripotent Alloy, making it even stronger. It is a fairly rare drop at the chests in [Starswept Valley](The_Starswept_Valley.md).  
-The upgraded version of the Tanto. Along with its already high base stats, the Pluripotent Alloy makes the Tanto even more potent, making it the highest damaging dagger in the game, with 16 Damage and 8.5 Scaling.
+The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticably slower than most of the other daggers, with a swing speed of 0.85. For comparison, The Krulian Knife has a swing speed of 1.05x. To make up for its lack of speed, it outranges every other dagger in the game, being tied with the Central Dirk for the most range, and has the highest base damage out of any dagger aswell. This weapon can also be upgraded with a Pluripotent Alloy, making it even stronger. It is a fairly rare drop at the chests in [Starswept Valley](The_Starswept_Valley.md).
 
 ## Notes
 
@@ -39,3 +38,4 @@ The upgraded version of the Tanto. Along with its already high base stats, the P
 -   At max LHT, the non-alloyed damage is (27.9)
 -   Meeting the alloyed requirement, the damage is (26.88)
 -   At max LHT, the alloyed damage is (29.6)
+-   This is currently the only dagger in the game that does not have any endlag.

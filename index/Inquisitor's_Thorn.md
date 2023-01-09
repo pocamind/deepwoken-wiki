@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 37689
+revid: 46961
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -31,3 +31,7 @@ categories: [Weapons, Rapiers]
 ## Description
 
 The Inquisitor's Thorn is a LHT weapon under the Rapier category and ranked second in its family. It bridges the stat gap between the [Apprentice Rapier](Apprentice_Rapier.md) and the [Crucible Rapier](Crucible_Rapier.md) by boasting an extra point of damage and scaling, 10% PEN as well as a minor swing speed increase.
+
+## Trivia
+
+-   This weapon deals 25,2 damage at 100 Light Weapon stat

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 36320
+revid: 46955
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -60,4 +60,12 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 
 **Etrea**
 
-**Miscellaneous**
+  
+
+**The Ministry File:Eylisiconfactoin.png**
+
+  
+
+**Erisia**
+
+**Boatman's Watch**

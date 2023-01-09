@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 46925
+revid: 46991
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Arcwarder | |
 |---|---|
-| oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
+| oath_req | 22 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
 | effects | +1 Wildcard Mantra, +2 Combat Mantra |
 
 | Oath: Dawnwalker | |
@@ -53,13 +53,11 @@ categories: [Oaths, Character, Talents, Mechanics]
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
-**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+There are currently nine Obtainable Oaths in _Deepwoken_. \[See Below\]
 
-There are currently 9 Obtainable Oaths in _Deepwoken_. Oaths are considered meta in PVP and PVE.
-
-## Pathfinder
+## Pathfinder (No Oath)
 
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
@@ -169,7 +167,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 ― Visionshaper Description
 
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and have finished the [Aelita](Aelita.md) quest once, and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
 ### Obtainment
 
@@ -378,6 +376,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Notes
 
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
+-   This oath has a few religious references, the most obvious being the entity on a modified
 
 **Arcwarder:**
 
@@ -391,12 +390,12 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ### Obtainment
 
--   Have 20 Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
     3.  Retrieve injured Epsi **(option 2 when you talk to him)**
     4.  Talk to Alpha again
+-   Have 22 Fortiude, 20 Flamecharm and 20 Thundercall.
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities
@@ -567,9 +566,13 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 ## Trivia
 
+Proof of Time Magic's existance and it being "Oath Magic".
+
+-   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+-   There is no reason to not get an Oath as they all give benefits with no downsides like murmurs and resonance.
 -   The "Synapse X Oath" is not real and is based off exploiters using a hacking client by the same name \[Hackers take great risks of viruses and getting tracked and ultimatley get banned in the end so do not look for this\], although the other, thought to be, fake oath, Fadetrimmer, is real in lore although it is unobtainable as it is only mentioned for laughs.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
--   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture below\]
+-   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
@@ -580,7 +583,4 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
-
--   Innate (race) stat bonuses do not count towards stat requirements for Oaths.
-
-Proof of Time Magic's existance and it being "Oath Magic".
+-   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: I got Starkindred at 50 strength on a Gremor, Gremor has +2 Str. +2 Frt.)

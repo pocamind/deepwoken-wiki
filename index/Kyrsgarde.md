@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 46402
+revid: 46937
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]

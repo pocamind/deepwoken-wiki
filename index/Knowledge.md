@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 46899
+revid: 46975
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -24,7 +24,7 @@ The maximum for said currency is 99.
 
 -   Leveling up gives you one knowledge point.
 -   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) gives you 2 knowledge points. (Only for the first time)
--   Purchasing knowledge from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) using Krysan Medallions.
+-   Purchasing knowledge from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) using Krysan Medallions (1:1 Exchange ratio, with the minimum purchase being 5)
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md) gives you 2 knowledge points.
 
 ## [Shrines](Deep_Shrines.md)

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 46175
+revid: 46967
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -100,19 +100,24 @@ The main factor in obtaining a Resonance is known as Progress (commonly referred
 -   [The Ferryman](The_Ferryman.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
 -   [Nautilodaunt](Nautilodaunt.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
 | **Extra/Important information:** |
 | Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
--   **Primadon** is generally regarded as the best overall, having a high Progress reward, incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
+-   **Primadon** has a high Progress reward, is incredibly reliable and easy to summon, as well as is in the Overworld. His only con is that he has been slowly becoming harder across the updates.
+
+-   **Scion of Ethiron** gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just two runs (needs more testing). However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.
+
 -   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard and tedious to find without a large group of players.
--   **The Duke** gives a good amount of Progress on grip, and is reliable to summon, but has an annoying and somewhat dangerous fight. (Rewards good bell progression regardless of if you participated in the fight) Takes around 6-8 grips to get bell.
--   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
--   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal.
--   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
--   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
--   Deep Widows are unknown to give Progress.
+-   **The Duke** gives a good amount of Progress on grip, and is reliable to summon. This is the preferred way of obtaining resonance for most players. Takes around 6-8 grips to get a bell.
+-   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players.
+-   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Not recommended.
+-   **Blizzard Knights** are, by far, the worst method of getting Progress. They spawn in swarms, only during one season on one Island ([Minityrsa](Minityrsa.md)), and they give almost no Progress.
+-   **Nautilodaunts** are confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
+-   **Chaser**, similarly to depths monsters, grants close to no Progress at all. It is not recommended to obtain a bell using this method.
 
  | Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). Other monsters WILL NOT give progress, unless they are Corrupted.
 
@@ -132,24 +137,29 @@ Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md)
 | For all three natures, an important word is "Fight". You need to FIGHT, not just KILL whatever you are after. Dealing damage is actually where a significant amount of the Progress comes from, and not just killing.
 
   
-Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you.
+
+Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you (slaying bosses is the fastest way to obtain a Resonance, regardless of your soul's nature).
 
  |
 
 ### Obtaining Your Resonance
 
-Talk to Sibex until he tells you this lines:
+Talk to [Sibex](Sibex.md) until he tells you these lines:
 
 -   **Sibex:** "Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. "
 
-**Note: This does not guarantee that you are ready to get your Resonance, it's just a very likely indicator that you're close.**
+**Note: This does not mean that you are guaranteed to obtain your Resonance, for extra safety it is recommended to defeat a boss or two.**
 
-Once you get knocked in The Depths with max progress:
+Also, doing the Sibex "quest" is **not** necessary to obtain a Resonance.
 
--   You'll be revived and healed to 100%.
+You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md).
+
+Once your health goes down to 0% in The Depths with max progress:
+
+-   Instead of getting knocked, you'll be healed to 100%.
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
--   A hand of 3 cards will be dealt, with each card giving the name, rarity, and a brief description of the Resonance, but it does NOT tell you the Variation. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
+-   A hand of 3 cards will be dealt, with each card giving the name, rarity, and a brief description of the Resonance, but it does NOT tell you the Variant. (Red cards indicate a corrupted resonance, while yellowish/gold are legendary)
 
 Once obtained, using C will activate your Resonance.
 
@@ -159,11 +169,13 @@ File:Image of Card Selection.png
 
 Around [The Depths](The_Depths.md) and Overworld, Resonance Doors can be found. Resonance Doors are greyish doors with a white sphere in their center, that require a Resonance to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). _Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you._Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
+A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). _Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU_ (not possible by legitimate methods)_._ Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current bell.
 
-This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. **(Do not do this).**
+This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes.
 
-Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited number of times, as long as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
+Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll as long as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll. (Obtaining a resonance technically grants you an extra wish as well, meaning that you can still reroll once at max power)
+
+Keep in mind this is written according to the old power cap (60), it is currently unknown how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
 
 YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 
@@ -180,8 +192,7 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
     
     Arch Mage confirming both talent cards do not affect resonance progression.
     
-    Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
--   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on Duke Erisia's waist but did not recognise it as a Resonance.
+    Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on Duke Erisia's waist but did not recognise it as a Resonance.
     -   Erisia was supposedly "frozen in time" while in the [Voidsea](Voidsea.md) for some unknown period of time, it may just not have been common knowledge before while it drifted in the Voidsea.
 -   Resonances were once presumed to have level, luck, and time in The Depths requirements, but all these were eventually debunked. With hindsight of the real requirements, these were all TECHNICALLY true, being byproducts of getting Progress.
 -   The most popular, now debunked, method involved staying in The Depths for seven hours straight. While being comically wrong, it set the groundwork for people to discover the truth.

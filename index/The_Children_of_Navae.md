@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 46278
+revid: 46993
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,7 +13,7 @@ notices:
 | The Children of Navae | |
 |---|---|
 | territory | Meteor Isle |
-| goals | Defeat The Ministry |
+| goals | Survival |
 
 “ Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. ”
 

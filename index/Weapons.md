@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 46916
+revid: 46969
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -18,16 +18,18 @@ categories: [Weapons, Character, Mechanics]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it to 100 by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest).
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest)).
 
-When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
+When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example)
+
+Enchanted weapons always have at least one star.
 
 ## Stances
 
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
 -   All **Light Weapons** are locked to One Handed stance.
--   Most **Medium Weapons** can freely switch between One Handed and Two Handed stance.
+-   All **Medium Weapons** can freely switch between One Handed and Two Handed stance. (except for rifles)
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
@@ -47,8 +49,8 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
 -   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore armor.
--   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
--   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
+-   **Chip Damage:** Damage that bypasses blocking.
+-   **Scaling:** Additional damage your weapon will deal based on how many points you invest into the attribute.
 -   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
@@ -221,7 +223,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td><font>0.87x</font></td>
-  <td>0.1s</td>
+  <td>0s</td>
 </tr>
 </tbody>
 </table>

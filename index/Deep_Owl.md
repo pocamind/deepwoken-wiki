@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 46235
+revid: 46930
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -99,7 +99,7 @@ Deep Owls come from an alternate dimension of sorts and get into our world throu
 
 -   Dark and Void feathers are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
--   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 45).
+-   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[\[1\]](#cite-note-1)
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   (Probably) Unintentional, Resemble Owlbears from Dungeons and Dragons
