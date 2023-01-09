@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 46972
+revid: 47006
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -129,7 +129,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>On hit, a red eye marker gets placed on the enemy. Unique critical with katana's critical animation that teleports you to marked enemies, dealing damage.<br>
-  <b>- The Nemesis critical IS UNBLOCKABLE, it will block break guaranteed.</b><br>
+  <b>- If you do not have Ardour, Nemesis critical IS UNBLOCKABLE, it will block break guaranteed.</b><br>
   <b>- The range of this is 65-70 studs</b></p></div></td>
   <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 46760
+revid: 47019
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -84,8 +84,9 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-9 | [Angel](Hollow_Angel.md) (Lesser) |
-| 10-16 | [Megalodaunt](Megalodaunt.md) |
-| 17+ | Chance of [Nautilodaunt](Nautilodaunt.md) or [Enforcer](Enforcer.md) |
+| 10-13 | [Megalodaunt](Megalodaunt.md) |
+| 14-16 | [Nautilodaunt](Nautilodaunt.md) |
+| 17+ | [Enforcer](Enforcer.md) |
 
 (Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 

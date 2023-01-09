@@ -1,16 +1,12 @@
 ---
 title: Guilds
-revid: 46434
+revid: 46999
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
 ---
 
 # Guilds
-
-“ Hey guys and today I'm gonna be ganking Unnamed- ”
-
-― Supaa about to bully Unnamed with some crazy ass modded mantra for the 82983759825982635th time
 
 The Guildhouse in Etris
 

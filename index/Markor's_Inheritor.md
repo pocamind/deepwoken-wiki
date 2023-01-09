@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 45082
+revid: 47000
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -18,6 +18,7 @@ categories: [Weapons, Weaponry]
 | swing speed | 0.64x |
 | endlag | 0.1s |
 | penetration | 10% |
+| special effect | Special Axe Kick Critical |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
