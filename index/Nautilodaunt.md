@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 47115
+revid: 47151
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
+“ Unlimited POWER! ”
 
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
+― The Fury Nautilodaunt stunlocking a Power 20 after they miscalculate a parry.
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Squiboss_
 

@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 46917
+revid: 47160
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -14,7 +14,7 @@ categories: [Weapons, Greathammers]
 | requirements | 75 HVY 10 STR 10 LVL |
 | damage | 26 |
 | scaling | 8 |
-| range | 8.5 |
+| range | 9 |
 | swing speed | 0.6x |
 | endlag | 0.1s |
 | penetration | 15% |
@@ -29,8 +29,8 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a 75 HVY and 10 STR to equip.
+Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a 75 HVY and 10 STR to equip. It has a unique critical, consisting a charge into an overhead strike. It has a unique critical that makes you lunge forward at your enemies and knock them down, if you can land this, your first M1 changes to hitting the weapon on the ground while you get hyperarmor.
 
 ## Trivia
 
--   It's very likely a reference to either May from _Guilty Gear_, or Minamitsu Murasa from _Touhou Project_, as both characters wield an anchor as a weapon.
+-   The _Petra's Anchor_ is a reference to May from _Guilty Gear_, as the critical is taken directly from the aforementioned charactor.

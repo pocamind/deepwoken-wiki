@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 46922
+revid: 47150
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1542,7 +1542,7 @@ Take 1.25x damage and deal 1.2x damage.
  | Pirate Event Chests, Primadon Chests, Depths Chests |
 |  | 
 
-[Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
+Konga's Clutch Ring
 
  | 
 
@@ -1698,7 +1698,7 @@ Gives every weapon 1.2 agility scaling when equipped.
  | Duke Chests, Arena Chests, Rare drop from trading Deep Gems to Jeremiah in The Depths, Layer 2 Chests |
 |  | 
 
-[Dawnfist's Ring](<Dawnfist's_Ring.md>)
+Dawnfist's Ring
 
 (Legendary)
 

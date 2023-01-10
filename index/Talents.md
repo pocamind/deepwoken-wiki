@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47141
+revid: 47161
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -202,8 +202,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
--   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
-    -   Prerequisite: 15 Strength
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load, +1 Posture)
     -   Negate movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
@@ -212,7 +210,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 30 Fortitude, 30 Willpower
 -   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
     -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude & **all** common bastion talents **except** Heavy Haul
+    -   Prerequisites: 90 Fortitude & **all** common bastion talents
 
 ### Beast Slayer
 
@@ -566,6 +564,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
     -   Prerequisites: 40 Willpower, 70 Flamecharm
+-   Undyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
+    -   Prerequisites: Unknown
 
 ### Frostdrawer
 
@@ -981,7 +981,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### [Oath](Oaths.md)
 
 -   Oath: Arcwarder - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
-    -   Prerequisites: 25 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
@@ -1451,6 +1451,8 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
+-   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
+    -   Prerequisite: 15 Fortitude 15 Strength
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)

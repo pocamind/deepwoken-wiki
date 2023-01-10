@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47101
+revid: 47154
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -583,4 +583,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: I got Starkindred at 50 strength on a Gremor, Gremor has +2 Str. +2 Frt.)
+-   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: I got Starkindred at 50 strength on a Adret, Adret has +2 Str. +2 Frt.)

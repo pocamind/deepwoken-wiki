@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47105
+revid: 47167
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -13,7 +13,7 @@ notices:
 | Mystic | |
 |---|---|
 | name | Mystic |
-| location | Etris, Summer Isle |
+| location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing |
 
 “ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 
@@ -67,6 +67,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Strength
 
 -   _I stand far above others, an insurmountable challenge. **(Raging Bull)**_
+-   _My attack is unstoppable. **(Showstopper?)**_
 
 ### Willpower
 
@@ -133,6 +134,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I walk the skies. **(Cloudwalker; Gale Leap) | Gale**_
 -   _I speak to the winds. **(Galebreather) | Gale**_
 -   _I use the winds to enforce my will. **(Galeforce) | Gale**_
+-   _I fight for the Legion. **(Legion Shock Trooper)**_
 -   _I am a master of the winds. **(Silencer) | Gale**_
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale) | Gale**_
 -   _I seek to silence the song. **(World Without Song) | Gale**_
@@ -140,7 +142,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### **Thundercall**
 
 -   _I work for the Authority. **(Authority Interrogator) | Thunder**_
--   _I fight for the Legion. **(Legion Shock Trooper) | Thunder**_
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current) | Thunder**_
 -   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static) | Thunder**_
 -   _I weave webs of lightning. **(Static Weaver) | Thunder**_
@@ -158,5 +159,5 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   [Summer Isle](Summer_Isle.md), just outside the docks
 -   [Castle Light](Castle_Light.md), \[detailed location needed\]
 -   [Voidheart](Voidheart.md), \[detailed location needed\]
--   [Greathive Aratel](Greathive_Aratel.md), \[detailed location needed\]
--   [Miner's Landing](<Miner's_Landing.md>), \[detailed location needed\]
+-   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
+-   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.
