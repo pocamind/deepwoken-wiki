@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 46852
+revid: 47192
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -65,7 +65,7 @@ While inside a Voidzone:
 
 **Dangers:** [Thresher, King Thresher](Thresher.md)
 
-**Rewards:** Eggs, Starswept Valley Loot Pool
+**Rewards:** Eggs, Starswept Valley Loot Pool, Key Point of Interest towards Greathive Aratel
 
 ### **[Saramaed Summit](Saramaed_Summit.md)**
 

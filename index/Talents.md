@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47184
+revid: 47206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -834,7 +834,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
--   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
+-   Safety Dance \[Rare Talent\] - Your base dodge frames are increased by 25%. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
     -   Prerequisites: 15 Agility, Power 14
     -   Mutual Exclusive: Risky Moves

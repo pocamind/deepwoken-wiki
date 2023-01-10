@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 47118
+revid: 47208
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -376,6 +376,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
+</tr>
+<tr>
+  <td><a href="Marcus.md">Marcus</a></td>
+  <td>Unaligned</td>
+  <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
+  <td>None</td>
+  <td>A cool mini Golem.</td>
 </tr>
 </tbody>
 </table>

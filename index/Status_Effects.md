@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 41390
+revid: 47196
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -76,6 +76,10 @@ Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mant
 
 Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw talents and mantras.
 
+### Shocked
+
+Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarly throught [Thundercall](Thundercall.md) mantras
+
 ### Electrified
 
 Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the talent Resolve Crusher. Signifed by a swirling lightning effect in the users torso.
@@ -98,7 +102,7 @@ Unable to move during the duration while active while still being able to block,
 
 ### Angry
 
-Applied through being hit by the mantra [Taunt](Attunement-less.md). Get dealt 10% more damage but do 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
+Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 10% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
 ### Scared
 
@@ -114,7 +118,7 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 
 ### Cauterized
 
-Applied by being hit by the [Sear](Enchantments.md) enchant. Take 5% more PEN every time you get hit until it caps out at +40% PEN. No visual effect.
+Applied by being hit by the [Sear](Enchantments.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
 
 ### Grim
 

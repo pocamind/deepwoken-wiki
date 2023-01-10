@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47104
+revid: 47207
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1631,3 +1631,16 @@ Your attack's speed in seconds is approximately half the inverse of its Swing Sp
 Players can use this formula to figure out their attack speed.
 
 A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack Speed = (\\tfrac{1}{SwingSpeed}) \\div 2} {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}})\\div 2}
+
+## Trivia
+
+-   The weapon with the highest:
+    -   Base Damage: Hivelord Hubris (30)
+    -   Requirement: Shattered Katana (100 MED)
+    -   Dual Requirement: Hivelord Hubris (100 HVY, 60 STR)
+    -   Penetration: Nemit's Sickle, Kyrsedge, Kyrstreza, Shattered Katana (30%)
+    -   Chip damage: Night Axe (60%)
+    -   Scaling: Revolver (15 LHT)
+    -   Weight: Enforcer Hammer (12)
+    -   Range: Revolver, Dragoon (12)
+    -   Swing Speed: Most daggers (1.05x)

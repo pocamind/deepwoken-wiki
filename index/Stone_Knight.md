@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 47074
+revid: 47194
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -46,9 +46,9 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 **Astral Knight:**
 
-“ put quote here ”
+“ JUDGEMENT! ”
 
-― idk omfg guys im gonna diee
+― The Astral Knight the second it sees a level 4 Etrean.
 
 Template:Creature Info Box v2
 
