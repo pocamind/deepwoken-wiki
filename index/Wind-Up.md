@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 46743
+revid: 47126
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -16,8 +16,6 @@ categories: [Resonance]
 “ Wind up your arm, and unleash the shattering power on your foes. ”
 
 ― Wind-Up description
-
-  
 
 ## Description
 

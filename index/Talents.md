@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47059
+revid: 47141
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -200,9 +200,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-    -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
@@ -1474,6 +1471,10 @@ These Talents are designed to make you more effective in water.
     -   Mutual Exclusive: Everchanging Aegis
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
 
+### **Human Architecture**
+
+-   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture) Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll. Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
+
 ## Whispers
 
 Occasionally, instead of receiving a selection of cards, you receive a Whisper - a selection of Mantras.
@@ -1697,7 +1698,7 @@ File:Thresherquest1.png
 
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives insanity instantly.
-    -   85 willpower and talk to Kasen, located in the layer 2 floor 1.
+    -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
 

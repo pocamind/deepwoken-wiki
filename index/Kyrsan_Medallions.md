@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 46978
+revid: 47063
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,6 +26,7 @@ Kyrsan Medallions can be exchanged for lots of services, crucial for the end-gam
 5.  Can you teach me the secret of Radiant magic? \[30 Medallions\] - Grants you the [Oath: Dawnwalker](Oaths.md). Requires additional Medallions in order to unlock talents and mantras.
 6.  \[if you have the Dawnwalker Oath\] Can you enhance my Radiant mastery? \[15 Medallions\] - Gives Dawnwalker users an additional skill. There are four skills in total and the base oath costs 30 medallions to obtain, meaning it costs 90 medallions to max out the oath.
 
-Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
+Medallions can also be spent at [Misérables](Misérables.md) for two unique deals:
 
 1.  I seek power in the upcoming battle \[10 Medallions\] - Grant the player a 33% damage buff (estimated) against [Scion of Ethiron](Scion_of_Ethiron.md). (Highly recommended for low damage output players)
+2.  I seek clarity \[? Medallions\] - ???

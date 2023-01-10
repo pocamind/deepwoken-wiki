@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 45372
+revid: 47128
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,9 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-bullet casing. I can't make the wiki pages right now because 2 am,
-
-  
-this exists at summer isle for 50 notes near that furnace arena
-
-gold gives slowing bullets with lower damage irithine gives poison bullets with lower damage
+Bullet Casings can be used in combination with some ores, like Erisore or Umbrite, to make special bullets. These can be found in Summer Isle, in The Furnace, by talking to an NPC named Mag. You will need 50 notes and an ore to create these special bullets, which have different effects each.

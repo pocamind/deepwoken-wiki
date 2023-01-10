@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 46863
+revid: 47110
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -46,7 +46,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
-| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
+| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a very small amount of hunger when gripping NPCs or other players. | 1 |
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. | 1 |
@@ -79,8 +79,9 @@ Count as 2 flaws, cannot be taken with another flaw.
  | 2 |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You regenerate slightly less at campfires.
 
-  
-Has a small chance of being gained when rerolling an Oath at Yun'Shul.
+Given after rerolling your stats at the Shrine of Order.
+
+\*Used to be obtained from removing [Oathless](Oaths.md) at Yun'Shul.
 
  | N/A |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removal

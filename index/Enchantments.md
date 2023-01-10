@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47006
+revid: 47064
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -77,8 +77,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Differed.png<figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deal 1.1x damage.<br>
-  Weapon deal damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
+  <td><div><p>Weapon deals 1.1x damage.<br>
+  Weapon deals damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -93,22 +93,22 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc, a pink string will appear on your target connecting to your weapon, pulling the target toward you.</p></div></td>
+  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you.</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
   <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p></div></td>
+  Especially effective in PVE, due to the power damage scaling</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:GRIM.png<figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
-  After hitting the target up to 5 times, this will cause Grim to proc, signaled by red bubbles.<br>
-  the target is afflicted with Grim for 4 seconds, which increase all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
+  After hitting the target up to 5 times, Grim will proc, which is signalled by red bubbles.<br>
+  the target is afflicted with Grim for 4 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
@@ -123,23 +123,23 @@ There are two variants that enchantments come in:
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
-  <td><div>Weapon is completely coated in metal.</div></td>
+  <td><div>Weapon takes on a metal-ish texture.</div></td>
 </tr>
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker gets placed on the enemy. Unique critical with katana's critical animation that teleports you to marked enemies, dealing damage.<br>
-  <b>- If you do not have Ardour, Nemesis critical IS UNBLOCKABLE, it will block break guaranteed.</b><br>
-  <b>- The range of this is 65-70 studs</b></p></div></td>
-  <td>Covered in a crimson color and and a crimson aura, also has some eye particles coming out of the aura.</td>
+  <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
+  <b>- If you do not have Ardour, the Nemesis critical is unblockable.<br>
+  </b>- The range of this is 65-70 studs<b></b></p></div></td>
+  <td>Weapon is coated in a crimson-colored aura as well as has eyes floating around it.</td>
 </tr>
 <tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Weapon gain 50% chip damage.<br>
-  Weapon deal less posture damage.<br>
+  <td><div><p>Weapon gains 50% chip damage.<br>
+  Weapon deals less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>
-  <td><div>Most part of the weapons become near transparent and is enveloped in a white mist.</div></td>
+  <td><div>Most of the weapon becomes near transparent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><center><br>
@@ -149,7 +149,7 @@ There are two variants that enchantments come in:
   Deal 0.043% x ()userpower in PVP.<br>
   Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
-  <td><div>Metal parts glow a bright white and give off a slight white particle effect.</div></td>
+  <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
 <tr>
   <td><figure>File:SEAR.png<figcaption></figcaption></figure><center><br>
@@ -182,19 +182,19 @@ There are two variants that enchantments come in:
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
-  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple effects.</div></td>
+  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in a swirly purple effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant, with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns.</p></div></td>
+  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry).</p></div></td>
   <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
   <font>Tears of Edenkite<div></div></font></center></td>
-  <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning. This enchant only works on players and humanoid NPCs, do not work in the depths.</p></div></td>
-  <td><div><p>Weapon is covered with the a sky blue and black aura and Bubbles rise from the player</p></div></td>
+  <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning. This enchant only works on players and humanoid NPCs, does not work in the depths.</p></div></td>
+  <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
@@ -202,14 +202,14 @@ There are two variants that enchantments come in:
   <td><div><p><br>
   On proc (?%), a red slash will follow up after a successful m1 on the target<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
-  <b>[! BUG&nbsp;!] Hitting an entity with superarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
-  <td><div>Weapon is covered in a black and red mist. Metal parts glow blue.</div></td>
+  <b>Hitting an entity with hyperarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
+  <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
 </tr>
 <tr>
   <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon</p></div></td>
-  <td><div>Weapon glows pink and gives off a slight pink and red particle effect.</div></td>
+  <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Scion of Ethiron. Does NOT work on Chaser.</p></div></td>
+  <td><div>Weapon glows pink and gives off a slight rose particle effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Wild.png<figcaption></figcaption></figure><center><br>

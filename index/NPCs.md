@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 46875
+revid: 47118
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -119,7 +119,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Talks about the Celtors being forgotten to time</td>
 </tr>
 <tr>
-  <td>The guy</td>
+  <td>The Guy</td>
   <td><a href="The_Summer_Company.md">Summer Company</a></td>
   <td>Near <a href="Meteor_Isle.md">Meteor Isle</a></td>
   <td>Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character.</td>
@@ -229,22 +229,26 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Bluster_Rift.md">Bluster Rift</a></td>
   <td>Gives chest to those who give carriable loot sacks/bags</td>
   <td></td>
-  <td></td>
 </tr>
 <tr>
   <td><a href="Mime.md">Mime</a></td>
   <td>Unaligned</td>
   <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
   <td>Grants <a href="Attunement-less.md#disguise">Disguise</a> mantra</td>
-  <td>Spawns with mudskippers attacking him, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
-  <td></td>
+  <td>After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough <a href="Attributes.md#charisma">Charisma</a> to get mantra</td>
+</tr>
+<tr>
+  <td><a href="Misérables.md">Misérables</a></td>
+  <td>Unaligned(?)</td>
+  <td>Outskirts of <a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></td>
+  <td>Can grant a DMG boost for the upcoming Boss, <a href="Scion_of_Ethiron.md">Scion of Ethiron</a>, or resets <a href="Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> wish cooldown.</td>
+  <td>These options come with a cost, killing you if paid short, usually ending in a wipe.</td>
 </tr>
 <tr>
   <td>The Nestmind</td>
   <td>Unaligned</td>
   <td></td>
   <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
-  <td></td>
   <td></td>
 </tr>
 <tr>
@@ -260,7 +264,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a>, New Kyrsa, The Sleeping City</td>
   <td>Teaches new players the basics of the game</td>
   <td>Suprisingly found in Second Layer Floor 2.<p>Might give a different dialogue if you have the Castaway origin who has done the tutorial.</p></td>
-  <td></td>
 </tr>
 <tr>
   <td>Pete</td>
@@ -359,7 +362,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Summer_Isle.md">Summer Isle</a>, Inn</td>
   <td>Grants Loansharking quest</td>
   <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two <a href="Summer_Company_Guard.md">Summer Company Guards</a></td>
-  <td></td>
 </tr>
 <tr>
   <td><a href="Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a></td>
@@ -367,7 +369,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
   <td>Grants four wishes</td>
   <td>A Resonance is required to talk to the statue or you are instantly killed and wiped</td>
-  <td></td>
 </tr>
 <tr>
   <td><a href="Zana.md">Zana</a></td>
@@ -375,7 +376,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
-  <td></td>
 </tr>
 </tbody>
 </table>

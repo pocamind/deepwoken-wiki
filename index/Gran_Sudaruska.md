@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 47001
+revid: 47142
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons"]
@@ -13,9 +13,9 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons"]
 | type | Greataxe |
 | requirements | 75 ICE, LVL 10, 30 HVY |
 | damage | 23.5 |
-| scaling | ICE: 10, HVY: 3 |
+| scaling | ICE: 9, HVY: 3 |
 | range | 8 |
-| swing speed | 0.64x |
+| swing speed | 0.62x |
 | special effect | Apply frost on hit, Rain down ice shards after 3 hits, Gain a damage bonus when killing Ministry Scouts, When killing a player or a Ministry Scout, she will talk. (See trivia for the lines) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |
@@ -38,7 +38,7 @@ This weapon has 3 passives abilities:
 
 -   Hitting an enemy 3 times will cause to rain down ice shards that deal damage and leave patches of ice.
 -   When killing [Ministry Scout](Ministry_Scout.md), she gains a damage bonus that can be stacked. This bonus is lost when the weapon is sheathed.
--   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk. (See trivia for the lines)
+-   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk. (See trivia for the lines).
 
 ## Trivia
 

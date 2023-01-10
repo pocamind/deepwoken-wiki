@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47025
+revid: 47104
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -690,7 +690,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>22</td>
   <td>5%</td>
   <td>35%</td>
-  <td>MED: 7.5</td>
+  <td>MED: 6</td>
   <td>6</td>
   <td>7.5</td>
   <td>0.75x</td>
@@ -839,7 +839,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
   <td>90 MED</td>
-  <td>19.4</td>
+  <td>21</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 5</td>
@@ -1342,7 +1342,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>15%</td>
   <td>HVY: 8</td>
   <td>9</td>
-  <td>8.5</td>
+  <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
 </tr>
@@ -1481,10 +1481,10 @@ Weapons that scale with a certain element
   <td>75 ICE, 30 HVY, LVL 10</td>
   <td>23.5</td>
   <td>N/A</td>
-  <td>ICE: 10 HVY: 3</td>
+  <td>ICE: 9 HVY: 3</td>
   <td>6</td>
   <td>8</td>
-  <td>0.64x</td>
+  <td>0.62x</td>
   <td>No</td>
 </tr>
 </tbody>
@@ -1566,7 +1566,7 @@ Miscellaenous offhands are tools that do not fit being a shield or a weapon, and
 
 **Weapons:**
 
-weapon offhands are weapons that can be wielded at the same time along with your mainhand weapon as long as you are one handing them. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. (For example offhand guns have their damage reduced if you are using them with anything else but a gun in your mainhand, and they will match the swingspeed of the main weapon)
+Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. (For example offhand guns have their damage reduced if you are using them with anything else but a gun in your mainhand, and they will match the swingspeed of the main weapon)
 
 <table>
 <tbody>

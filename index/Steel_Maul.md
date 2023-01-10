@@ -1,9 +1,9 @@
 ---
 title: Steel Maul
-revid: 36904
+revid: 47133
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items, Weaponry, Greathammers]
+categories: [Weapons, Greathammers]
 ---
 
 # Steel Maul
@@ -26,10 +26,6 @@ categories: [Weapons, Items, Weaponry, Greathammers]
 | pass down | Yes |
 | obtainment | Lower erisia chests or weapon shop |
 | description | "A sturdy maul perfect for knocking walls and people down alike" |
-
-# Steel Maul
-
-> ### "A sturdy maul perfect for knocking walls and people down alike"
 
 ## Description
 

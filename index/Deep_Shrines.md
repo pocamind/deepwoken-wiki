@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 46763
+revid: 47130
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -107,12 +107,12 @@ _Pros/Cons_
 -   Located in Songseeker Mines, through the passage containing mudskippers. _Benefits/Penalties_
 
 -   **(BENEFIT)** Balances all currently invested attributes to be equal.
--   **(PENALTY)** Balances all currently invested attributes to be equal, for 10 knowledge.
+-   **(PENALTY)** Balances all currently invested attributes to be equal, for 10 knowledge. Also gives you Restless flaw
 -   _Pros/Cons_
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
--   **HAS A POWER REQUIREMENT OF 12**
--   **OATHS AREN'T NEEDED TO USE IT**
--   **IT DOES NOT COUNT YOUR RACES INNATE STAT POINTS AS INVESTED STATS**
+-   Requires Power 12.
+-   You cannot use the Shrine of Order if you have an oath.
+-   Innate (racial) attribute points do not count when redistributing your points.
 
 ## Trivia
 

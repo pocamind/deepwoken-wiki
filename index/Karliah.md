@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 46611
+revid: 47127
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -27,7 +27,7 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and can be found rest
 
   
 
-## Notes & Trivia
+## Trivia
 
 -   Karliah seems to show a romantic interest in your character.
     -   Due to this, she is considered a love interest by many players.

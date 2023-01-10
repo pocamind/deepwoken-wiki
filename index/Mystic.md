@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47054
+revid: 47105
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -156,3 +156,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   [Etris](Etris.md), in between the mantra shop and weapons shop
 -   [Summer Isle](Summer_Isle.md), just outside the docks
+-   [Castle Light](Castle_Light.md), \[detailed location needed\]
+-   [Voidheart](Voidheart.md), \[detailed location needed\]
+-   [Greathive Aratel](Greathive_Aratel.md), \[detailed location needed\]
+-   [Miner's Landing](<Miner's_Landing.md>), \[detailed location needed\]

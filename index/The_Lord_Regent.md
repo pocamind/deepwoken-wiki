@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 45995
+revid: 47125
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -33,6 +33,7 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 
 ## Trivia
 
+-   His throne produces steam.
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n)) The Lord Regent will kill you no matter how much health you have.
     -   You do not have to talk to him after killing [The Duke](Duke_Ishamon_Erisia.md), as he will already uncap your [attunement](Attunements.md) after killing him.
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also uses [Shadowcast](Shadowcast.md) magic, which can only be obtained from The Dpeths and he sends his contractors to kill other in The Depths.

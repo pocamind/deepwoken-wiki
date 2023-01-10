@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 47031
+revid: 47122
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -255,7 +255,7 @@ File:No Attunement Revamp.png
  | _Predict an opponent's attack and reflect it._ | 
 
 -   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
-    -   Spawns a white flooring pattern around the user.
+    -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing' and 'Successive Prediction'.
 
@@ -277,7 +277,8 @@ File:No Attunement Revamp.png
  | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   User summons an invisible projectile, inflicting a considerable amount of insanity on an opponent upon collision.
+    -   User constantly summons invisible projectiles, inflicting a considerable amount of insanity on an opponent upon collision.
+    -   Creates rotating white rings around the user's eyes.
 
  |
 | 

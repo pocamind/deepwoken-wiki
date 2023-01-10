@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 45605
+revid: 47131
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greathammers]
@@ -35,4 +35,3 @@ The Great Maul is a greathammer that can be dropped from the [Rock Golem](Rock_G
 ## Notes & Trivia
 
 -   Rare drop from [Golems](Rock_Golem.md).
--   It is the heavy weapon that has the highest Strength Requirements

@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 46638
+revid: 47084
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords]
@@ -39,6 +39,7 @@ Airborne Critical
 
 ## Notes
 
+-   This weapon deals 40,25 damage at 100 Heavy
 -   Due to the weapon being 'Legendary', no enchantments can be applied to the weapon.
 -   It is the first known weapon to have 2 different critical attacks.
     -   A grounded critical and an aerial critical both apply flame to opponents hit.

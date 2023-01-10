@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47058
+revid: 47101
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -401,7 +401,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Known Abilities
 
 -   **Arc Suit - Support Mantra**
-    -   Encases the user in a temporary durable armor that reduces damage taken by 20% and increases Posture by (unknown). Can be modified with Logstones to increase duration.
+    -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself

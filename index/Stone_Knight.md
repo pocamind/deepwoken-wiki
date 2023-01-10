@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 41984
+revid: 47074
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -43,6 +43,18 @@ Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights 
 They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors.
 
 **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
+
+**Astral Knight:**
+
+“ put quote here ”
+
+― idk omfg guys im gonna diee
+
+Template:Creature Info Box v2
+
+## Description
+
+Recognizable by their ??? body, ??? eyes and astral enchant sword, the Astral Knights are the variant encountered through a developer spawning it in. They are ??? weaker than their Blizzard counterpart, featuring a lot ??? HP.
 
 ## **Attacks**
 

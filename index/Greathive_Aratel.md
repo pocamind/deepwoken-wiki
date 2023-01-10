@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 46914
+revid: 47075
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -87,7 +87,7 @@ The doors to enter the Lordsgrove.
 #### Inn
 
 -   Players can spend to set their spawn point here.
--   There is a glitch where you can get spawned there automatically without reseting by rejoining servers consistently.
+-   There is a glitch where you can get spawned there automatically without reseting by rejoining servers consistently. (It could happend because you rejoin the SAME server but to be honest I dont really know.)
 
 #### Observatory
 

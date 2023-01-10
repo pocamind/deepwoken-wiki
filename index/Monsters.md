@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 46788
+revid: 47129
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -29,7 +29,19 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 -   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
 -   Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.
 
-## Monsters
+## Humanoid Monsters
+
+### Humanoid Monsters
+
+**Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
+
+**Exclusive to Trial of One**
+
+  
+
+  
+
+## Non-Humanoid Monsters
 
 ### 
 

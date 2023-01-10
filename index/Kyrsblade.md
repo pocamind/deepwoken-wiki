@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 45780
+revid: 47107
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -13,7 +13,7 @@ categories: [Weapons, Verse 2]
 | type | Medium Sword |
 | requirements | 75 MED |
 | damage | 22 |
-| scaling | 7.5 MED |
+| scaling | 6 MED |
 | range | 7.5 |
 | swing speed | 0.75x |
 | penetration | 5% |

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 46955
+revid: 47121
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -56,7 +56,7 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 
 **Celtor**
 
-## Bosses
+## Bosses/Unique Enemies
 
 **Etrea**
 
@@ -66,6 +66,4 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 
   
 
-**Erisia**
-
-**Boatman's Watch**
+**Miscellaneous**
