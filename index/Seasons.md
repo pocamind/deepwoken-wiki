@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 41328
+revid: 47188
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,6 +34,7 @@ Examples of Summer.
 -   Rain is less common.
 -   Abundant with fruits and wheat
 -   Grass and Leaves are green.
+-   Sap will unlikely or not appear
 
 ### Autumn
 

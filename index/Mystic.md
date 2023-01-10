@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47167
+revid: 47191
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -111,13 +111,15 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh) | Flame**_
 -   _I dance with the flames. **(Flame Dancer) | Flame**_
 -   _I speak to the flames. **(Flamecharmer) | Flame**_
--   _My flames wrap my fists. **(Flame Warden) | Flame**_
+-   _None will escape my flames. **(Flame Warden) | Flame**_
 -   _I am a master of the flame._ _**(Pyromancer) | Flame**_
 -   _All must burn. **(Inferno) | Flame**_
 -   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames) | Flame**_
 -   _I seek the path of the Serpent. **(Lava Serpent) | Flame**_
 -   _My unholy blade works for no man. **(The Demon Blade) | Flame**_
 -   _My blade burns through my foes._ _**(The Emperor's Blade)**_ _**| Flame**_
+-   I believe in the men who followed Pleeksty before. _**(Falling Star Guard) | Flame**_
+-   My flames wrap my fists. _**(Flame Brawler; Flaming Uppercut) | Flame**_
 
 ### **Frostdraw**
 

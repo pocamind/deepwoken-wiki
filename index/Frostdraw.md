@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 47123
+revid: 47186
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -186,7 +186,7 @@ _Conjure and throw weapons of ice._
 -   Inflicts Chill.
 
  |
-| [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | 
+| File:New Ice Erruption.gif | 
 
 Ice Eruption
 
@@ -201,7 +201,8 @@ _A flurry of ice spikes._
 -   Deals moderate damage.
 -   Inflicts Chill.
 -   Leaves ice where Mantra is casted.
--   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form around the user instead of it erupting forward.
+-   Freezes opponent allowing for a free hit or combo. (Cant vent,block,parry,dodge while frozen in ice eruption)
+-   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 

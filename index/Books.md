@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 46555
+revid: 47187
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community]
@@ -13,6 +13,8 @@ categories: [Community]
 Books are new items that are found in the world of Deepwoken that are a seperate category from Loot, Tools, Weapons, etc. They can be obtained by looting the various bookshelves of the world(10-15% chance), or as a guaranteed item sold at a Traveling Merchant's ship.
 
 So far, all books seem to have the sole purpose of providing additional lore and information regarding Deepwoken's world and history, and as well as levelling **Intelligence.**
+
+Books can also be donated in a Guild Base's library for future reading.
 
 **IF YOU ARE TO ADD BOOKS BELOW, PLEASE DO SO IN ALPHABETICAL ORDER BECAUSE WE KNOW OUR ABCs AND CAN USE THEM EFFECTIVELY. (Note: When ordering alphabetically, the word 'the' doesn't count, for example, The Gideshu March would be placed with books beginning with the letter G)**
 

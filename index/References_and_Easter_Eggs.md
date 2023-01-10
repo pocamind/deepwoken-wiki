@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 47048
+revid: 47183
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -106,7 +106,7 @@ notices:
 
 ## Talents
 
--   **Captain Etrea's** name and ability is a reference to Captain America.
+-   **Captain Etrea's** name is a reference to Captain America.
 -   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line, or possibly [this meme](https://www.youtube.com/watch?v=5_Xdi4T8mgI).
 -   **Fishman** and its description are possible references to two series.
@@ -129,6 +129,7 @@ notices:
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 -   **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to two characters: [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
+    -   It's critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
@@ -145,18 +146,28 @@ notices:
 
 ### **The Etrean Luminant**
 
-Arch's tweet
-
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
--   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
     -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
+        
+        Arch's tweet
+        
 
 ### **The Eastern Luminant**
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
+-   The Shrine of Order might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
+-   The [Derelict Highchurch](Derelict_Highchurch.md)'s hidden library have a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
+-   The Starkindred Oath have many references:
+    -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
+    -   The different characters met for this oath have mythological or religious origins:
+        -   The trainer, **Samael**, is an angel in Judaism
+        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
+        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, which became the judge of the underworld after its death
+        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
 
 ### **The Depths**
 
@@ -174,7 +185,8 @@ Arch's tweet
 #### Layer 2 (The Eternal Gale)
 
 -   After beating the [Scion of Ethiron](Scion_of_Ethiron.md), you are forced to run to the exit with a time limit all the while instant kill orbs spawn around you. This is all ripped from _Risk of Rain 2_, as [you do the same thing](https://riskofrain2.fandom.com/wiki/Mithrix#Arena_Escape_Portals) after beating [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix) on [Commencement](https://riskofrain2.fandom.com/wiki/Commencement).
-    -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) spawning sounds.
+    -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) death implosion sound effect.
+-   Among a hidden cliff, a frozen [Yeti](https://rogue-lineage.fandom.com/wiki/Yeti) from Rogue Lineage can be found.
 
 ### **Factions**
 
