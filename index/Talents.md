@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47210
+revid: 47300
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -457,7 +457,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
-    -   Prerequisites: Flame Blind, 40 Flamecharm and 25 Strength
+    -   Prerequisites: Flame Blind, 30 Flamecharm and 25 Strength
 
 ### Empath
 

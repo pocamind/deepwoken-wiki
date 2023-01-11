@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 45488
+revid: 47296
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -110,6 +110,6 @@ File:Similar Last Names.png
 
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.
-    -   This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)Also noted somewhere in lore (I forget where) that the masks are organic and grow over time.
+    -   This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian race name was changed to Maskskipper.

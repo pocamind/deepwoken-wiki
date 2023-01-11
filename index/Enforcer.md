@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 46466
+revid: 47295
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -44,7 +44,7 @@ Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size di
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, it would have about 890 health. Still large, but nowhere too big. If you have fought a Megalodaunt (popularly known as a Sharko) before, this is less than its base health without PvE scaling. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits, which is a relief.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. If you have fought a Megalodaunt (popularly known as a Sharko) before, this is less than its base health without PvE scaling. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits, which is a relief.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution (pun intended) of them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. It can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
 
@@ -52,10 +52,10 @@ Do not be deceived by these stats, though. The Enforcer's true danger lies not f
 
 -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
 -   The biggest thing about The Enforcer is the feints, when it does this, **dodge.** Unlike what the last version stated, dodging is fairly productive at saving yourself the posture. **Blocking** also suits as a viable method, but the recommendation is to dodge.
--   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 50+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
+-   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 17+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
 -   You shouldn't move away for most of its attacks. The Space Pull can easily catch you off guard, as it is simply black and white lines which propel you towards the Enforcer in a heartbeat. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely. Be wary on your timing though, you won't want to be stuck charging a critical while it is clearly Whirlwinding you.
--   While not recommended, beating The Enforcer on a level 50, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
+-   While not recommended, beating The Enforcer on a level 17, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
 -   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead. If you have a ranged attack, go ahead and use it for some extra damage. If you have predict with the talent that allows you to defend multi-hit moves, use that instead.
 -   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block the attacks.
 -   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking should seem counterintuitive.
@@ -117,6 +117,7 @@ Enforcer Eye (drop)
 -   As of 18/07/2022 cannot use its pull attack when Hell Mode is active, due to too many little gremlin enforcer pulling people into the void
 -   During the weekly update for 21/11/2022, the enforcer could temporarily spawn corrupted. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many.
 -   The Modifier that allow all Depths Trials to be corrupted applies to the Enforcer.
+-   The Whirlwind ability implied that its flexibility and/or bisection of limbs comes from that of it's weapon, as the Enforcer's Axe critical ability allows said wielder to spin aswell.
 
   
 

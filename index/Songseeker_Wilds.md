@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 45841
+revid: 47289
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -21,7 +21,7 @@ LocationL Songseeker Wilds LocationR
 
 Songseeker Wilds
 
-Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md), between [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
+Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is near the [Ancient Rotlands](Ancient_Rotlands.md), [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
 
 It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [ships](Ships_&_Sailing.md).
 
@@ -36,7 +36,8 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 ### Large Island
 
 -   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
--   A mineshaft that is sealed off by debris, using terrain destroying mantras can open it up, containing several nodes of Rock, Coal, Iron and Gold.
+-   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
+-   There are also [Mineskippers](Mudskipper.md) within the mineshaft
 -   There are two structures:
     1.  A Windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
     2.  A small hut. (2 chest spawns inside)
@@ -63,14 +64,9 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
 -   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 -   [Songseeker Galebreather](Songseeker_Galebreather.md)
--   [Megalodaunt](Megalodaunt.md)
-    -   Crimson Megalodaunt
-
+-   [Crimson Megalodaunt](Megalodaunt.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
-
--   [Deep angels](Hollow_Angel.md)
-
--   [Nighmare Thresher](Thresher.md)
+-   Astaroth, Sinner of Wind (Only appears if you take the quest for the Starkindred Oath)
 
 ## Loot Table
 
@@ -121,5 +117,5 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
 ## Trivia/Notes
 
--   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to lower [Minityrsa](Minityrsa.md)'s drops.
--   Songseeker Isles appears to be a rainforest area, judging by the many bird noises, large variety of fruit, and thick woods
+-   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to Lower [Minityrsa](Minityrsa.md)'s drops.
+-   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.

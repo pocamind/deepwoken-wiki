@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 46744
+revid: 47306
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 Template:Creature Info Box v2
 
-_Also known as El Chupacabra, Frogs or Skrillbo._
+_Also known as El Chupacabra, Frogs or Skrillbo, and Frank._
 
 ## Overview
 

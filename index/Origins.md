@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 46981
+revid: 47284
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -70,7 +70,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ― Flavor Text
 
-**Requirements:** Grip 15 players in the Overworld. Chime of Conflict does not count. OR Gain reputation with the Knives of Eylis by aiding them in the fight against the Kingdom of Etrea.
+**Requirements:** Grip 15 players in the Overworld. Chime of Conflict does not count.
 
 **Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47191
+revid: 47299
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -118,8 +118,9 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek the path of the Serpent. **(Lava Serpent) | Flame**_
 -   _My unholy blade works for no man. **(The Demon Blade) | Flame**_
 -   _My blade burns through my foes._ _**(The Emperor's Blade)**_ _**| Flame**_
--   I believe in the men who followed Pleeksty before. _**(Falling Star Guard) | Flame**_
--   My flames wrap my fists. _**(Flame Brawler; Flaming Uppercut) | Flame**_
+-   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard) | Flame**_
+-   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut) | Flame**_
+-   _My flame fights for me._ _**(Duelist Flame) | Flame**_
 
 ### **Frostdraw**
 
@@ -159,7 +160,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   [Etris](Etris.md), in between the mantra shop and weapons shop
 -   [Summer Isle](Summer_Isle.md), just outside the docks
--   [Castle Light](Castle_Light.md), \[detailed location needed\]
+-   [Castle Light](Castle_Light.md), in the library to the left, in the back behind the monster mantra NPC, Dr. Carrion
 -   [Voidheart](Voidheart.md), \[detailed location needed\]
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.

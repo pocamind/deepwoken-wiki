@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 47203
+revid: 47305
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -56,7 +56,12 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
 -   You can use Thresher bait to spawn Threshers in sandy areas (Starswept), just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
-    
+
+## Lore
+
+-   The lore of Threshers is mentioned in the Thresher Spine Tooltip. This description states the following:
+
+"In the Boundary, a strange region between the Surface and the Depths, it's said that creatures that wander too deep are affected by the Song in strange and inscrutable ways, their souls teetering on the very brink of oblivion as the unstoppable pull of the Deep threatens to drag them under. It appears these crocodillians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides."
 
 **King Thresher:**
 
@@ -108,7 +113,7 @@ _Also known as Radioactive Thresher and Poison Thresher_ Template:Creature Info 
 
 ## Description
 
-Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). You're able to fight it solo if you know what you're doing. There is a chest reward after you kill this monster.
+Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, though is has a bit more hp and a few different moves.
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
