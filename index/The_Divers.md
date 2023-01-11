@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 46762
+revid: 47349
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -39,6 +39,14 @@ The player can join The Divers, like a Guild. Finding Akira in the Celtor Wastes
 
 As it stands currently. There is an active, and generally supportive Discord. Ask any current officer for an invite to The Diver Citadel to be officially involved within the guild.
 
+## Reputation
+
+You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free and will cost you ??? notes. (Put notes amount if you know it.)
+
+Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
+
+You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount of reputation with The Divers. (After [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.)
+
 ## NPC
 
 **Karliah:** A young, new recruit of The Diver. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
@@ -51,10 +59,11 @@ As it stands currently. There is an active, and generally supportive Discord. As
 
 **Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing Black Diver uniforms and are both stationed in overworld. Not a lot is known about those 2 as there is no dialogue or a way to ask them about it.
 
+[**Gudrin**](Reputation.md): Removes hostilities with Apprentice Divers and Divers. (Reset your reputation towards The Divers)
+
 ## Trivia
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
 -   The current leader of The Divers in-game is Shirafune
 -   The current officers of The Divers in-game are:
     -   R0bustic

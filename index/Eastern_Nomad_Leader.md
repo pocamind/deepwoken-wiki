@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 43307
+revid: 47350
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -28,7 +28,7 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Throws spear at opponent and then pulling them in with a white chain.
 
-\[[Fists](Fists.md)\] Raises left leg before firmly slamming it down into the ground below.
+\[[Fists](Fists.md)\] Raises right leg before firmly slamming it down into the ground below.
 
  | ◯ | ✗ | (★★☆) |
 | Ice Eruption | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |

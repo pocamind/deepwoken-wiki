@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 47274
+revid: 47323
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -41,6 +41,7 @@ To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel
 -   Imel
 -   [The Lord Regent](The_Lord_Regent.md)
 -   The Stranger
+-   [Nostor (?)](Attunement_Trainers.md)
 
 ## Trivia
 

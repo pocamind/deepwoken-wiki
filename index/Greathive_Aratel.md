@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 47319
+revid: 47322
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -37,9 +37,9 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle one will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The right one will send you to [Upper Erisia](Upper_Erisia.md).
--   Additionally, there are fountains around the luminants that allow you to teleport back to the Greathive Aratel:
-    -   (I noticed this was missing and I am hoping people can fill this out as you happen to run along them)
-    -   There is one in The King's Garden.
+-   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
+    -   Somewhere within the [Hidden Village](The_Hidden_Village.md)
+    -   The King's Garden, in the middle of the "maze"
 
 The doors to enter the Lordsgrove.
 
@@ -88,7 +88,7 @@ The doors to enter the Lordsgrove.
 #### Inn
 
 -   Players can spend to set their spawn point here.
--   There is a glitch where you can get spawned there automatically without reseting by rejoining servers consistently. (It could happend because you rejoin the SAME server but to be honest I dont really know.)
+-   There is a glitch where you can get spawned there automatically without resetting by rejoining servers consistently.
 
 #### Observatory
 

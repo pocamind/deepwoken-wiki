@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 46826
+revid: 47326
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -291,6 +291,12 @@ Yun'shul's Shrine
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
 -   A full power Ferryman can defeat Akira, but not the Lord Regent with his throne.
+
+### Sudaruska (Need more info)
+
+**Lore sources :** Sudaruska Soul, Gran Sudaruska Description
+
+-   In her dying breaths, Sudaruska the Undying infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska.
 
 ## Locations
 

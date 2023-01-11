@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 47049
+revid: 47344
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,6 +21,8 @@ categories: [NPCs]
 
 Klaris is an NPC that provides you with the [Dawnwalker](Oaths.md#oath-dawnwalker) Oath, as well as giving you a Light Hook. She will also provide a Deepshore Fossil, if you manage to find all the Diver Journals hidden throughout Floor 1 of the the [Second Layer](Second_Layer.md).
 
+She is the safest way to go to the [Second layer of the depths](Second_Layer.md) as you will be given a Light hook however you must be power 15+ to have access to the Layer 2 dialogue that she provides.
+
 ## Dialogue
 
 _After handing in all Diver Journals to her:_
@@ -31,4 +33,4 @@ _After handing in all Diver Journals to her:_
 
 -   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from her.
 -   She is the inventor of Radiant Magic, an Oath that gives magic that is very similar to Lightkeeping.
--   Her name, Klaris Llfiend, has a suspicious resemblance to the Drowned God of layer 3's name: Korilfiend.
+-   Her name, Klaris Llfiend, ~has a suspicious resemblance to the Drowned God of layer 3's name: Korilfiend~. Arch\_Mage confirmed she isn't related to Korilfiend.

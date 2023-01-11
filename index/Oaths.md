@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47320
+revid: 47355
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -382,7 +382,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. ”
+“ Wield the armor of the Ignition Union's most notable dwellers. ”
 
 ― Arcwarder Description
 
@@ -536,7 +536,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
         
 
-**Lifeweaver\*:**
+**Lifeweaver:**
 
 ## Lifeweaver
 
@@ -583,4 +583,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: I got Starkindred at 50 strength on a Adret, Adret has +2 Str. +2 Frt.)
+-   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: Able to get Starkindred at 50 strength on a Adret, Adret has +2 Str. +2 Frt.)
