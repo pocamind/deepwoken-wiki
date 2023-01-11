@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 42608
+revid: 47228
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]
@@ -32,7 +32,7 @@ See Escaping The Depths [here](https://deepwoken.fandom.com/wiki/The_Depths#Esca
 
 ## Trivia
 
--   It is very unwise to kill people in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 in a city, and lower than [Power](Power.md) 10 anywhere.
+-   It is very unwise to kill people in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough. ~It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 in a city, and lower than [Power](Power.md) 10 anywhere.~ Luck has been removed.
 -   Dying in the [Voidsea](Voidsea.md) or dying to the [Primadon](Primadon,_Titan_of_the_East.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
     -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
 -   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression

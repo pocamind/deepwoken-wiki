@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 47027
+revid: 47217
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ These are recipes that are not used to produce food or potions.
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
 -   **Monster Bait** - _3 Chum_
--   **Iron Bomb -** _1 Coal, 2 Irons_
+-   **Iron Bomb -** _2 Iron, 1 Coal_
 
 Picture of a Crafting Bench
 

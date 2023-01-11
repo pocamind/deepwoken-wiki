@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47064
+revid: 47216
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -188,7 +188,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry).</p></div></td>
-  <td><div><p>Weapon is covered with the storm enchant, and umbral blue</p></div></td>
+  <td><div><p>Weapon is covered with the storm enchant and umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
@@ -454,23 +454,7 @@ Currently a placeholder.
 Static flaming purple.
 
  |
-| 
-
-File:Providenesstorms.png
-
-  
-Providence of Storms
-
- | 
-
-Able to swing fast as a light weapon, any speed penalties will not be applied, parrying will reflect to damage just like Providence's Thorns.  
-**Removed from the game**
-
- | 
-
-PROVIDENCE OF STORMS ISNT REAL ACCORDING TO FINO (THE LEADER OF HIVE) SOURCE IS THIS CLIP: [https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir)
-
- |
+|  |
 
 ## Trivia
 
@@ -496,5 +480,6 @@ Vampirism enchant on a Khan Shield
     -   Bungee Gum **→** Elastic
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
-    -   (???) - Deffered
+    -   (???) - Deferred
 -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
+-   [Providence of storms was proven to be fake by yayafino aka the leader of hive](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream. (I knew it was fake! i knew it! i knew it!)

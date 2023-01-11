@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 47110
+revid: 47277
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -70,7 +70,7 @@ Reputation can still be gained normally.
 Paying to restore reputation only resets up to the default, low reputation.
 
  | 1 |
-| Manic | "All sanity gained from attacks is heavily amplified." | Incoming insanity from attacks is increased by an unknown amount. | 1 |
+| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity damage is increased. | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 

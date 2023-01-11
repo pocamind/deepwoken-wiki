@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 46678
+revid: 47224
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,8 +13,14 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Uses
 
-\-
+\- Stardust is used by the Linkstrider oath to gate to various places. These gate locations are unlocked via interacting with meteors found around the map.
 
 ## Obtainment
 
-\-
+\- Stardust is obtained by finding it at Startrees located at:
+
+[Starfield Veldt](Starfield_Veldt.md)
+
+[Aratel Island](Aratel_Island.md)
+
+(There are probably more but i forgot them)

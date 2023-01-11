@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 46696
+revid: 47274
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -47,3 +47,4 @@ To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel
 -   Every [Ministry](Ministry_Scout.md) [enemy](Ministry_Necromancer.md) uses a [Krulian Knife](Krulian_Knife.md).
 -   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who posses it are persecuted.
     -   This makes them the only faction to have an exclusive attunement.
+-   After layer 2 update, Ministry Captain appeared as a new Ministry NPC.

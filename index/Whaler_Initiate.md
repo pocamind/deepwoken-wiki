@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 41290
+revid: 47281
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -20,5 +20,5 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +5% Element
 
 ## Trivia/Notes
 
--   This Outfit is granted for free upon starting with the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker).
+-   This Outfit is granted for free upon starting with the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker), however is lost once crafting/equipping another armor.
 -   This Outfit appears near-identical to the [Whaler Coat](Whaler_Coat.md) Outfit.

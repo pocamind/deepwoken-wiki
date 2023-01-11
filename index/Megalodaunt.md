@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47036
+revid: 47275
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -15,7 +15,7 @@ notices:
 
 ― Megalodaunt Roar
 
-_Commonly referred to as Sharko/Big shark_
+_Commonly referred to as **Sharko**_
 
   
 
