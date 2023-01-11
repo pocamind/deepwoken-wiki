@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 46674
+revid: 47309
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
@@ -29,7 +29,7 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 
 ## Description
 
-Light's Final Toll is a blue spirit lantern that floats above the player. The player also wears a string of prayer beads around their arm. It can be obtained from [Layer 2](Second_Layer.md). It is the only current weapon to scale off of Willpower
+Light's Final Toll is a legendary blue spirit lantern that floats beside the player. The player also wears a string of prayer beads around their arm. It can be obtained from [Layer 2](Second_Layer.md). It is the only current weapon to scale off of Willpower.
 
 ## Trivia
 

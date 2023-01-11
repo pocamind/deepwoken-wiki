@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47300
+revid: 47321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -260,6 +260,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, atleast 45 Agility.
 
+### **Adept Caster**
+
+-   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+    -   Prerequisites: 15 Intelligence
+
 ### Caster
 
 -   Overflowing Dam \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
@@ -272,8 +277,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Refunds ??% (scales with INT) of the ether cost of the mantra.
     -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
     -   Prerequisite: 30 Intelligence
--   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
-    -   Prerequisites: 15 Intelligence
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 30 intelligence
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
@@ -1423,7 +1426,7 @@ These Talents are designed to make you more effective in water.
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisite: 40 Heavy Weapon
--   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit. (+2 Health)
+-   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
     -   Prerequisite: ~30 Heavy Weapon.
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
