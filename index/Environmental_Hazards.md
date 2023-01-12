@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 46884
+revid: 47364
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -38,7 +38,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 <tr>
   <td>Acid Rain</td>
   <td>Upper Erisia</td>
-  <td>Slow HP loss, negated with the Survivalist <a href="Boons_and_Flaws.md">Boon</a>.</td>
+  <td>Slow HP loss, negated with the Survivalist <a href="Boons_and_Flaws.md">Boon</a>. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
 </tr>
 <tr>
   <td>Sandstorm</td>
@@ -48,7 +48,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 <tr>
   <td>Day and Night Cycle</td>
   <td>Everywhere (Except Depths)</td>
-  <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is.</td>
+  <td>Only visual difference. Some talents and Flaws may cause various effects due to what time it is. <a href="Deep_Owl.md">Deep Owls</a> which spawn in the overworld will only spawn at night.</td>
 </tr>
 <tr>
   <td>Parasites</td>

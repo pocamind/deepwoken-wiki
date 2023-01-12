@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 47279
+revid: 47385
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -63,9 +63,7 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 
 ## Trivia
 
--   Scion's definition is descendant of royalty, which suggests this "final boss" of Layer 2 may only be apart of a bloodline of these monsters.
-    -   Scion can also refer to wise individuals or worshippers in some media. Take this as you will.
-    -   Scion can also refer to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
+-   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
 -   The white orbs that appear after defeating the boss will **not** wipe you, but instead send you back to Scyphozia, with the caveat being that **you lose all items you gained from both Floor 1 and Floor 2.**
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.

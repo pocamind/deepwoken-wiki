@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 47334
+revid: 47377
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -63,11 +63,5 @@ This weapon has 3 passives abilities:
     -   Probably a reference to Lucy from Don't Starve
 -   Unable to be equipped by people with Oath: Contractor.
     -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it. Its unknown at the moment whether it just refuses to be equippable or if there's a special effect by trying to.
-
-## Trivia
-
--   If you kill any NPC that are part from [The Ministry](The_Ministry.md) or a player that wears a [Prophet's cloak](<Prophet's_Cloak.md>) (Unconfirmed), Sudaruska's Soul will start threatening.
-    -   "Your own depths shall take you."
-    -   "Your cause is a poison to this world, pawn."
 
 -   You cannot enchant Gran Sudaruska.

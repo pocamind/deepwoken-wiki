@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47321
+revid: 47376
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -540,6 +540,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 75 Flamecharm, Dancing Steps
 -   The Final Act \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
     -   Prerequisite: 50 Flamecharm
+-   Flaming Rebound:\[Rare Talent, Flamecharm Exclusive\] - Flamecharm mantras now grant extra tempo upon landing (+3 Elemental Intensity).
 
 ### Flame Warden Prerequisites: 40 Flamecharm, 5 Fortitude
 

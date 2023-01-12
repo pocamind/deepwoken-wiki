@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 47349
+revid: 47386
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -55,7 +55,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **Pleeksty:** Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
 
-**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the second Prophet of the Ministry, to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but soon decided to betray The Divers and with the help of the Kyrsgarde, killed all the Divers who went on him in the original expedition he was apart of as well as the Divers that were involved in expeditions following that one.
+**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the second Prophet of [the Ministry](The_Ministry.md), to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but revealed he had betrayed The Divers and with the help of the Kyrsgarde, killed all the Divers who went on him in the original expedition he was apart of as well as the Divers that were involved in expeditions following that one. Technically Ministry aligned.
 
 **Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing Black Diver uniforms and are both stationed in overworld. Not a lot is known about those 2 as there is no dialogue or a way to ask them about it.
 

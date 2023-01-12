@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47042
+revid: 47381
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -182,7 +182,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>Lose all defensive bonus from the equipped armor. Represented by thorn up clothes.<p>Occurs when armor durability reach 0%.</p></td>
+  <td>Lose all defensive bonus from the equipped armor. Represented by torn up clothes.<p>Occurs when armor durability reach 0%.</p></td>
   <td></td>
 </tr>
 <tr>

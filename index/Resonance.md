@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 46967
+revid: 47365
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -65,6 +65,8 @@ All Tarnished Resonance effects are listed in their corresponding Resonance page
 #### Removing Tarnished
 
 Removing Tarnished from a Resonance is indeed possible, requiring the player to travel to [Yamaketzal](Yamaketzal.md) (NPC that gives the [Chime of Conflict](Chime_of_Conflict.md) in [Songseeker](Songseeker_Wilds.md)), and paying 1000 notes.
+
+-   The Clarity option from [Misérables](Misérables.md) will now remove your Tarnished as well as resetting your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown.
 
 File:Tarnish removal.png
 

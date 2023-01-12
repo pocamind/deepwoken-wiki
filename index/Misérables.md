@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 46670
+revid: 47391
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -64,7 +64,7 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 
 "Do you have the knowledge within you then, my dull friend? Fifteen shards will do. My kin grow hungry..."
 
-1.  Take it. _(**15 Knowledge**, resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown)_
+1.  Take it. _(**15 Knowledge**, resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown and removes the Tarnished flaw if you have it)_
 
 #### _If enough knowledge:_
 
