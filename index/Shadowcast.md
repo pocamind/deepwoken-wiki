@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 47015
+revid: 47444
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -165,7 +165,7 @@ It should be noted that you can combine 2 of these sparks together
 Eclipse Kick  
 (★★★)
 
- | Show your foes your strength. | The user does a downward kick after a short windup, causing nearby opponents to be ragdolled and flung back. Unblockable. This move does extreme damage, being able to take 2 bars away from a player with 400 health. |
+ | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. Deals a massive amount of posture and health damage. |
 
 ### **Support**
 

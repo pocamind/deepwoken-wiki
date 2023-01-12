@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 40482
+revid: 47436
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Arms]
@@ -13,7 +13,7 @@ categories: [Armors, Equipment, Arms]
 | type | Arms |
 | rarity | Legendary |
 | selling price | ?? |
-| requirements | Power 40 |
+| requirements | Power 15 |
 | weight | 2 |
 | innate stats | N/A |
 | innate talent | N/A |

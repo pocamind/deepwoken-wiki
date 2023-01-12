@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 47138
+revid: 47439
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,13 +60,16 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 ## Trivia
 
-Aelita sitting in the fetal position on a rock
-
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not make [oaths](Oaths.md).
+-   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
+    
 -   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
+    
+    Aelita sitting in the fetal position on a rock
+    
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Hereos](The_Valley_of_Heroes.md), even sticking to the walls, it is almost impossible to avoid Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair)

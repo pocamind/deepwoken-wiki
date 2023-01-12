@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47381
+revid: 47467
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful
 This page contains basic information about **combat** and its mechanics/bars to give any voyager a fighting chance.
 
 ## GUI
-
-File:Newguiwithparrycooldowns.jpeg
 
 _There's a lot of aspects to the GUI, each one playing their own part. In order to get a chance at surviving, learning these are essential._
 
@@ -61,7 +59,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <ul>
     <li>Tempo decreases over time when not in active combat.</li>
     <li>When at 40 tempo, you can vent to break out of combos. When at max you can vent twice.</li>
-  </ul></td>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armor Durability</th>
@@ -125,22 +123,22 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Critical Attacks</th>
   <td>A Critical Attack or "Crit" for short can be initiated by pressing <kbd>M3</kbd> (Scroll wheel) or by pressing the <kbd>R</kbd> key.<p>Crits are attacks are primarly used to deal greater posture damage than a traditional attack with the intent to fill the posture bar of the target. Some weapon have unique crits, usually that deal more damage than a regular attack. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Blocking</th>
   <td>Holding the <kbd>F</kbd> key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it. It's important to note that if you are currently in a combo, blocking becomes disabled and your only option would be to parry or otherwise get flourished.</td>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Parrying</th>
   <td>Pressing <kbd>F</kbd> enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
-  <th></th>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Venting</th>
   <td>When the player have at least 40 tempo (indicated by a small notch on the tempo bar), pressing <kbd>G</kbd> will make the player Vent.<p>Venting pushes others nearby away and grant a brief period of invincibility, which allow the player to get out of tricky situation.</p></td>
-  <th></th>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Feinting</th>
@@ -150,7 +148,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Dashing</th>
   <td>Depending on what skills and stats you have you are able to roll a certain amount of distance, this will not consume posture if you are not in combat. note: dashing at the right time will result in a dodge which is also known as a perfect roll.</td>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stance Change</th>

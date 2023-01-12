@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 44687
+revid: 47470
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -28,7 +28,7 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
   <ul>
     <li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i>
   <ul>
-    <li>Receive 1 free point whenever you Power up.</li>
+    <li>Receive 3 free points whenever you Power up.</li>
     <li>Your starting reputation with all factions is higher.</li>
     <li>+1 Health</li>
   </ul></li>
@@ -102,4 +102,4 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
     
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
--   Adret innate talent stacks with Autodidact,so every power up you get 2 points
+-   Adret innate talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.

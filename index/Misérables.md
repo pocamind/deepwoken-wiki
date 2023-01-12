@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 47391
+revid: 47432
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]

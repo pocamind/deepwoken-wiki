@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 47195
+revid: 47443
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -90,7 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 (Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 
--   ~A good strategy for levels 17+ is to learn the attack patterns/get comfortable with either the Nautilodaunt OR Enforcer, and then simply combat-log out of the trial if it is the creature you didn't study for.~ What the fuck this tip sucks just learn both of them idiot.
+-   ~A good strategy for levels 17+ is to learn the attack patterns/get comfortable with either the Nautilodaunt OR Enforcer, and then simply combat-log out of the trial if it is the creature you didn't study for.~ It may be harder for newer players, you probably havent left your house in so long that you’ve memorized every enemies attacks. Maybe shower, touch grass, or both!
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
@@ -235,7 +235,13 @@ Legendary = Gold
   <td><b>Navaen War Chief (uncommon)</b></td>
   <td><b><font>Crypt Blade (extremely rare)</font></b></td>
   <td>Isshin's Ring (common)</td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
   <td><b>Darksteel Greatsword (rare)</b></td>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -260,7 +266,6 @@ Legendary = Gold
 ## **Trivia**
 
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
--   You can gain luck by killing corrupted [Monsters](Monsters.md) in the Depths.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. Permanently unlocks the Shadow Magic for future lives.
 -   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
@@ -268,3 +273,4 @@ Legendary = Gold
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban them at the same time.
+-   Falling into the void will now send you to [Layer 2](Second_Layer.md), however this is highly advised against if you want to go there, as you wont have a Light Hook to save you if anything goes wrong. Falling into the void at power (1)? however will not send you to Layer 2 and instead just kill you.
