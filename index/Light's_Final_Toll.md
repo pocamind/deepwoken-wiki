@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 47309
+revid: 47425
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
@@ -25,7 +25,7 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 2 |
-| description | A reminder that all things must come to an end. |
+| description | A reminder that all songs must come to an end. |
 
 ## Description
 

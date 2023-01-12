@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 47337
+revid: 47415
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,15 +24,15 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Starswept Valley, Bounty Chests |
+| obtainment | The Depths (Chests), Starswept Valley (Chests), Bounty Chests |
 | description | The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description
 
 Markor's Inheritor is a Heavy Greatsword that requires 30 HVY and 10 STR.
 
-The weapon has [Way of Navae](Fists.md) critical animation which make it stand out from the others usual heavy weapons.
+It shares the same critical animation with the fighting stance [Way of Navae](Fists.md) which makes it stand out from the other heavy weapons.
 
-## Notes & Trivia
+## Trivia
 
 -   Trivia to be added
