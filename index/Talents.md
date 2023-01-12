@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47376
+revid: 47400
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1423,7 +1423,7 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 40 Light Weapon
 
 -   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 Light / Medium / Heavy weapon
+    -   Prerequisites: 75 in any weapon type
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisite: 40 Heavy Weapon

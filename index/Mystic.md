@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47299
+revid: 47404
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -137,7 +137,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I walk the skies. **(Cloudwalker; Gale Leap) | Gale**_
 -   _I speak to the winds. **(Galebreather) | Gale**_
 -   _I use the winds to enforce my will. **(Galeforce) | Gale**_
--   _I fight for the Legion. **(Legion Shock Trooper)**_
+-   _I fight for the Legion. **(Legion Shock Trooper) | Gale**_
 -   _I am a master of the winds. **(Silencer) | Gale**_
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale) | Gale**_
 -   _I seek to silence the song. **(World Without Song) | Gale**_
@@ -161,6 +161,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   [Etris](Etris.md), in between the mantra shop and weapons shop
 -   [Summer Isle](Summer_Isle.md), just outside the docks
 -   [Castle Light](Castle_Light.md), in the library to the left, in the back behind the monster mantra NPC, Dr. Carrion
--   [Voidheart](Voidheart.md), \[detailed location needed\]
+-   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.

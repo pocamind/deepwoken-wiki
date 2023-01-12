@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 44815
+revid: 47410
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -40,7 +40,7 @@ Pressing C will activate the **Crazy Slots** Resonance and its unique special sk
 
 When obtained, Crazy Slots will spend its points on the following stats:
 
--   **Weapon roll weight:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance.
+-   **Weapon roll weight:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance, along with it's length.
     -   When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
 
 #### _Tarnished_

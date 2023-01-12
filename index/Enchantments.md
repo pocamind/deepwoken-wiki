@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47293
+revid: 47401
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -21,6 +21,7 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted items appear as light purple in your inventory
+-   The Stormbreaker enchant is a direct reference to Thor’s stormbreaker from Avengers
 -   Face, Ears and Back equipment cannot be enchanted anymore, but:
     -   Enchanted Face, Ears and Back equipment created before 2/18/2022 are still enchanted and still applies their effect.
 -   You cannot have more than 3 equipment enchants at once.

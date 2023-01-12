@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 47371
+revid: 47409
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -31,6 +31,8 @@ _After handing in all Diver Journals to her:_
 
 ## Trivia
 
--   If you have maximum positive reputation with the Authority, you'll get a special line of dialogue from her.
+-   ~If you e maximum positive reputation with the Authority, you'll get a special line of dialogue from her.~
+-   This is fake, I tested it and it gives the same dialogue.
 -   She is the inventor of Radiant Magic, an Oath that gives magic that is very similar to Lightkeeping.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
+-   Many people say that she was probably an adret before she discovered the Radiant tones due to the marks that are near her eyes, altought this needs confirmation.

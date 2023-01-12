@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 47224
+revid: 47397
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-\-
+\- A piece of the very stars, allowing one to cross the world's webs.
 
 ## Uses
 

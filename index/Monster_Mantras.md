@@ -1,8 +1,9 @@
 ---
 title: Monster Mantras
-revid: 47318
+revid: 47396
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mantras]
 ---
 
 # Monster Mantras
@@ -26,7 +27,7 @@ Enforcer Pull
 
 (★★☆)
 
- |  | Conjure strings of the [Enforcer](Enforcer.md), auto-tracking onto enemies and pulling them in. Missing still takes ether and does not put this mantra on cooldown. | Support Mantra |
+ | A powerful gravitational pull. | Conjure strings of the [Enforcer](Enforcer.md), auto-tracking onto enemies and pulling them in. Missing still takes ether and does not put this mantra on cooldown. | Support Mantra |
 |  | 
 
 Beast Burrow
@@ -61,7 +62,7 @@ Mecha Gatling
 
 (★★☆)
 
- |  | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is very similar to the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. | Combat Mantra |
+ | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is very similar to the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. | Combat Mantra |
 
 ## Trivia/Notes
 

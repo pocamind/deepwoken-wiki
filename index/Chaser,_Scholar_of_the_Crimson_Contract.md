@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 47113
+revid: 47411
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -149,6 +149,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Chaser is resistant to Bloodless Gems and the Vampirism enchant.
+-   Whoever this is not confirmed, there is a chance that the blood magic of Chaser can be used as an oath in the future, probably bya Hemokinesis, similar to the Contractor Oath with Lord Regent.
 
 ## Bugs
 

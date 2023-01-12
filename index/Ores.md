@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 47389
+revid: 47405
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -28,7 +28,7 @@ Used for crafting Bullets, and certain armors, comes in a grey-brownish tint. Fo
 
 **Gold:**
 
-Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md).
+Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md).
 
 **Erisore:**
 
@@ -58,6 +58,7 @@ File:Umbrite1.jpg
 -   Rocks can be thrown at people.
     -   This however puts you in combat tag.
 -   Normal and pure ores has the same appearance when held in hand.
+-   Every pure ore can be given to the Blacksmith except for iron and gold. (You can't get pure coal and pure rocks.)
 -   All ores other then rocks can be sold, and most (if not all, haven't tested with Umbrite) pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline
 -   Mining ores mainly gives Strength XP

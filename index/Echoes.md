@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 46881
+revid: 47413
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -44,7 +44,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
--   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding ?? Echoes.
+-   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
 
