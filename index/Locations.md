@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 46617
+revid: 47518
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken, Void Sea]
@@ -88,6 +88,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 -   [Summer Isle](Summer_Isle.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
     
 
 **The Voidsea:**

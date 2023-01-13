@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 47343
+revid: 47523
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -61,7 +61,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 -   +2 Agility
 -   +2 Intelligence
 -   Takes less damage in acid rain.
--   Negative effects won't last that long.
+-   Status Effects won't last as long.
     
 
 **Surnames:**
@@ -87,7 +87,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 
 ## Trivia
 
--   Surprisingly not that racist in Etris, just wary of outsiders.
+-   Surprisingly not that racist in Etris, just wary of outsiders. (Like the Japanese were)
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.

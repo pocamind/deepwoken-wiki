@@ -1,9 +1,9 @@
 ---
 title: "Miner's Landing"
-revid: 46615
+revid: 47522
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Locations]
+categories: [Pages with broken file links, World, Locations]
 ---
 
 # Miner's Landing
@@ -33,6 +33,12 @@ To the right of the Docks, the NPC for the [Oathless](Oaths.md#oath-oathless) qu
 
 Miner's Landing's Docks.
 
+Additionally, there is a [Mystic](Mystic.md) located atop a fallen pillar up and to the right of the docks.
+
+File:Image 2023-01-12 223944902.png
+
+The Mystic in Miner's Landing
+
 ## **Town**
 
 The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town.
@@ -53,6 +59,10 @@ The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md
 
 _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 
+## **Points of Interest**
+
+Miner's Landing contains a variety of locations containing chests. These chests contain loot from the Miner's Landing loot table, which is to be made.
+
   
 
 ## **Quests**
@@ -67,4 +77,7 @@ _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 ## **Notes & Trivia**
 
 -   Miner's Landing has many chests containing loot in various, unexpected areas.
--   More trivia to be added
+-   Miner's Landing has a more industrial focus than the other bases such as Etris and Greathive Aratel.
+-   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.
+-   There are also hooks that can be used to travel between those places quickly.
+-   More trivia to be added.

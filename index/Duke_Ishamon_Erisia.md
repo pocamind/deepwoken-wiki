@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 46746
+revid: 47513
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -106,6 +106,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
 
+Soloing the duke is the more recommended way to get bell, as doing so 4-5 times will guarantee your bell.
+
 ## Dialogue
 
 Normal Dialogue
@@ -119,6 +121,10 @@ Duke: That thing is finally making its move. hm? I'd thought it would come perso
 1: That 'thing'? Agent?
 
 Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
+
+2:What are you doing with the Forge?
+
+Duke: _\*He narrows his eyes, deathly cold\*_ Everything I can do to stop the oncoming catastrophe, you _indolent worm_. With it, I turn _useless fools_ like you into something of use... _You don't know what I do for mankind._
 
 1: What?
 

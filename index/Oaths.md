@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47482
+revid: 47504
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -488,7 +488,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 ### **Known Abilities**
 
 -   **Hidden Tendril - Passive**
-    -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra, such as most Attunementless ones. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
+    -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra(such as most Attunementless ones), or a physical critical attack. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
 
 -   **Judgement - Combat Mantra**
     -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target.

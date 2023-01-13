@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 47314
+revid: 47521
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -43,7 +43,7 @@ Voidheart chessboard
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
 
-  
+-   [Mystic](Mystic.md)
 
 ## Lore
 

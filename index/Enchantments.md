@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47497
+revid: 47505
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -486,4 +486,6 @@ Vampirism enchant on a Khan Shield
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
     -   (???) - Deferred
--   [Providence of storms, an enchant widely believe to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
+-   [Providence of storms, an enchant widely believe to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.  
+    
+    Sears old visual before the update

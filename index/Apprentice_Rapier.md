@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 46962
+revid: 47499
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -34,7 +34,7 @@ The Apprentice rapier is a unique light weapon due to being one of the few rapie
 
 ## Trivia
 
--   This weapon deals 21,45 damage at 100 Light Weapon stat (if you're insane enought to still use it then)
+-   This weapon deals 21.45 damage at 100 Light Weapon stat (if you're insane enough to still use it then)
 -   Despite being a light weapon, it's stats are closer to that of medium weapon, featuring a slightly faster attack speed and the common 8 range of most medium weapon.
 -   When using this weapon your left hand is hidden, so you can equip a [Gun](https://deepwoken.fandom.com/wiki/Guns) on an unsuspecting foe.
 -   In PVE, the crit is very strong and should be used if given the occasion instead of a regular m1, as the critical hits 4 time.

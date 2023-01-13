@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47404
+revid: 47520
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -86,6 +86,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am a master of creating openings. **(Critical Specialist)**_
 -   _I am a master of the spear. **(Lancer)**_
 -   _I am a master of all weapons. **(Weapon Master)**_
+-   _I do not need a weapon. **(Justicar)**_
 
 ### Miscellaneous
 
@@ -95,7 +96,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I often attack others. **(Marauder) | Misc**_
 -   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper) | Misc**_
 -   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales) | Misc**_
--   _I do not need a weapon. **(No weapon talents?) | Misc**_
 -   _I will not fall to the elements. **(Return to the dark ages?) | Misc**_
 -   _I sabotage others. **(Saboteur) | Misc**_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song) | Misc**_

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 47428
+revid: 47498
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ ...It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
+“ Mannn I hate livin' in detroit on goddddd ”
 
-― Thresher Spine description
+― Authority soldier before being shaken apart by a Thresher
 
 **Thresher:**
 
@@ -56,12 +56,7 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
 -   You can use Thresher bait to spawn Threshers in sandy areas (Starswept), just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
-
-## Lore
-
--   The lore of Threshers is mentioned in the Thresher Spine Tooltip. This description states the following:
-
-"In the Boundary, a strange region between the Surface and the Depths, it's said that creatures that wander too deep are affected by the Song in strange and inscrutable ways, their souls teetering on the very brink of oblivion as the unstoppable pull of the Deep threatens to drag them under. It appears these crocodillians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides."
+    
 
 **King Thresher:**
 
@@ -132,6 +127,7 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 -   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the voidzone where this lives you'll be instantly sent to the depths.
 
-## Notes & Trivia
+## Trivia
 
--   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice
+-   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
+-   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice.
