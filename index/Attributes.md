@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 47205
+revid: 47475
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -34,7 +34,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Physical strength. Increases carry load, armor penetration, and the damage scaling of strength mantras.
     -   Increases carry load by 1 per point in strength.
     -   For every 10 Points of strength, gain 1% penetration.
--   Some weapons, such as greatswords, require a Strength requirement to wield.
+-   Some weapons, such as greatswords, have a Strength requirement to wield.
 -   Unlocks strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
 -   Gain strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and breaking the coffin lid.
@@ -54,6 +54,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
     -   Reduces the vision cone of NPCs and Monsters.
 -   Unlocks agility-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
+-   Parry daggers (normal and Kyrs variant) have an agility requirement to wield.
 -   Gain agility EXP via parkour, assassinations, and successful dodges.
 -   Your agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
     -   This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent.

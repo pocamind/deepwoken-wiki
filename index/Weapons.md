@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47207
+revid: 47490
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1398,6 +1398,7 @@ Weapons that scale with a certain element
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Alloy-able</b></td>
+  <td><b>Endlag</b></td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Flame</font></a></td>
@@ -1409,6 +1410,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.75x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
@@ -1420,6 +1422,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.75x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
@@ -1431,6 +1434,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.75x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
@@ -1442,6 +1446,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.75x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
@@ -1453,6 +1458,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.75x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
@@ -1464,6 +1470,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.8x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>
@@ -1475,6 +1482,7 @@ Weapons that scale with a certain element
   <td>9</td>
   <td>0.65x</td>
   <td>No</td>
+  <td>0.25s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
@@ -1486,6 +1494,7 @@ Weapons that scale with a certain element
   <td>8</td>
   <td>0.62x</td>
   <td>No</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>

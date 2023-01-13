@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47401
+revid: 47497
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -116,7 +116,8 @@ There are two variants that enchantments come in:
   <td><figure>File:HEROISM.png<figcaption></figcaption></figure><center><br>
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
-  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)</p></div></td>
+  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
+  Note: Possibly broken or is a proc chance. Needs further testing.</p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
@@ -124,7 +125,7 @@ There are two variants that enchantments come in:
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
-  <td><div>Weapon takes on a metal-ish texture.</div></td>
+  <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
   <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
@@ -132,7 +133,7 @@ There are two variants that enchantments come in:
   <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
   <b>- If you do not have Ardour, the Nemesis critical is unblockable.<br>
   </b>- The range of this is 65-70 studs<b></b></p></div></td>
-  <td><div>The weapon's metal parts become a rose color and emit rose-colored eye particles.</div></td>
+  <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
@@ -140,13 +141,13 @@ There are two variants that enchantments come in:
   <td><div><p>Weapon gains 50% chip damage.<br>
   Weapon deals less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>
-  <td><div>Most of the weapon becomes near transparent and is enveloped in a white mist.</div></td>
+  <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><center><br>
   <font>Providence Thorns<div></div></font></center></td>
-  <td><div><p>PVE: parrying an attack deal damage to the attacker.<br>
-  PVP: parrying 2 attacks within 3 seconds deal damage to the attacker.<br>
+  <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
+  PVP: parrying 2 attacks within 3 seconds deals damage to the attacker.<br>
   Deal 0.043% x ()userpower in PVP.<br>
   Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
@@ -463,10 +464,13 @@ File:Vamparism shield.png
 
 Vampirism enchant on a Khan Shield
 
--   A few enchants are based off of other series and shows. For example, Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the Fate series, and Elastic being a reference to Hisoka's Bungee Gum from Hunter x Hunter, hence why it was called Bungee Gum previously.
-    -   Nemesis' visuals and sound effects are based off the cursed status from Spiral Knights.
+-   A few enchants are based off of other series and shows.
+    -   Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the _Fate_ series.
+    -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
+    -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
+    -   Stormbreaker is based on the axe wielded by Thor from _Marvel Comics_.
+    -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   The idea behind the Providence's Storms enchant was to combine fast attack swing speed while being able to inflict damage to others without directly attacking, which was eventually turned into 2 separate enchants known as **Obfuscation (pre-rework)** and **Providence's Thorns**.
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
 -   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
@@ -482,5 +486,4 @@ Vampirism enchant on a Khan Shield
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
     -   (???) - Deferred
--   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
--   [Providence of storms was proven to be fake by yayafino aka the leader of hive](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream. (I knew it was fake! i knew it! i knew it!)
+-   [Providence of storms, an enchant widely believe to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 46650
+revid: 47479
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -250,7 +250,8 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   2\. Perform a Charisma Check, which requires Charisma 50.
     -   3\. Perform a [Flamecharm](Flamecharm.md) Check, which requires [Flamecharm](Flamecharm.md) 40.
 
--   Reward of doing Ploom's bidding is the Pleeksty's Will Talent, which increases Ether and Reservoir gain from consuming elemental ingredients.
+-   Reward of doing Ploom's bidding is the _Pleeksty's Will Talent_, which increases [Ether](Ether.md) gain from consuming elemental ingredients.
+-   The _Pleeksty's Will Talent_ used to give increased [Reservoir](Reservoir.md) gain along with Ether, but has sinced been removed along with the removal of Reservoir.
 
 ### Frostdrawer Nell Quest
 

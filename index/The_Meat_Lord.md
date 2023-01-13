@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 46288
+revid: 47480
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -34,6 +34,7 @@ The Meat Lord in all his glory.
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   Temple Of The Forgotten Flame
