@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 47495
+revid: 47554
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1308,7 +1308,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Celestials are drawn to the Earth.
 -   The Celtorian Terror moves towards Celtor.
 -   The Military Officals become aware of it, but instead chose to flee the City.
--   Celtor is sunk, becoming the new first Layer of The Depths, many die.
+-   Celtor sinks into the first layer of the Depths, many die.
 -   Ocean levels rise.
 -   Adrets begin their migration.
 -   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die out, with no way back.

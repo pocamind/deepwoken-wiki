@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 47511
+revid: 47538
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -81,14 +81,12 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 Given after rerolling your stats at the Shrine of Order.
 
-\*Used to be obtained from removing [Oathless](Oaths.md) at Yun'Shul.
-
  | N/A |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removal
 
   
 
-Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes or by resetting Yun-shul wish cooldown (Cost 15 Knowledge) with the Misérables (The clarity option)
+Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes or by obtaining Clarity throught [Misérable](Misérables.md) for 15 Knowledge.
 
  | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:

@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 47002
+revid: 47539
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -24,7 +24,9 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 
 -   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
--   Previously, wish rerolls required progressing 10 powers to renew (ex. 50 to 60). With the addition of Verse 2, this has been rounded to 3 power-ups.
+    -   If you do have Tarnished, you can remove it at Yamaketzal for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
+-   Have a wish available (sometime referred to as yun'shul wish CD).
+    -   All players stars with a wish (and can only hold 1 at a time). A wish can be obtained by leveling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
 
   
 If you meet all the criteria, you are able to make one of four wishes:
@@ -33,10 +35,12 @@ If you meet all the criteria, you are able to make one of four wishes:
     -   Instantly sends the player back to The Overworld.
 2.  **"My Flaws weigh me down too much, I wish for relief."**
     -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw. **Warning**: You can only make this wish once, so if you get stuck with something like deficient, you cant get another reroll.
-3.  **"The powers I have been granted displease me, I wish for new."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(1 is a variant of your current resonance). Gives your Resonance the Tarnished flaw.
-4.  **"The Vows I made give me much regret, I wish to break."**
-    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, Removes Oathless, and gives the Restless flaw.
+3.  **"The Vows I made give me much regret, I wish to break."**
+    -   Erase all your active vow of masteries.
+4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path"**
+    -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
+5.  **"The powers I have been granted displease me, I wish for new gifts."**
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled). Gives your Resonance the Tarnished flaw.
 
 ## Trivia
 

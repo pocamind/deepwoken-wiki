@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 47122
+revid: 47537
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -175,8 +175,6 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
 | 
-File:No Attunement Revamp.png
-
  | Revenge
 
 (☆☆☆)

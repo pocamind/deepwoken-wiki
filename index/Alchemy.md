@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 47503
+revid: 47530
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -20,7 +20,7 @@ Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/F
 
 You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain them.
 
-You can also talk to Ciea near the Widow's Den, she will give you quests to make different potions and bring them to her.
+You can also talk to [Ciea](Ciea.md) near the Widow's Den, she will give you quests to make different potions and bring them to her.
 
 ## Basics
 
