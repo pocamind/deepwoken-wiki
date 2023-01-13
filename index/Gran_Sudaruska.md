@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 47377
+revid: 47574
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -25,7 +25,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest) |
+| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Layer 2 |
 | description | "In her dying breaths, Sudaruska the Undying infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
 
 “ Your own Depths shall take you. ”

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 47475
+revid: 47579
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -68,14 +68,14 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Affects potion potency.
 -   Unlocks intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
 -   Gain intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, or discovering new locations for the first time.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by eating a bluecap.
+-   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.
 
 ### Willpower
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases sanity and tempo per willpower.
     -   One point in willpower gives +3 sanity and (Likely) +.5 tempo.
 -   Unlocks willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
--   Gain willpower EXP via foraging, fighting sea monsters, losing sanity, and using prayer beads.
+-   Gain willpower EXP via foraging, fighting sea monsters, throwing up, losing sanity, and using prayer beads.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.
 
 ### Charisma

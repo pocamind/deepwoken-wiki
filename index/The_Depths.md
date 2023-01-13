@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 46817
+revid: 47563
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -40,11 +40,13 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 
 -   At the far right side of [Etris Docks](Etris.md).
 -   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
+-   Going beyond north of [Minityrsa](Minityrsa.md) to the [Voidsea](Voidsea.md) where you can at least see two whirlpools.
 
 #### Eastern Luminant
 
 -   At the right hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
 -   In the middle of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
+-   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
 
 (There are many more than what is noted here)
 
@@ -56,4 +58,4 @@ Please visit their respective pages below by clicking on them for more informati
 
 **\- [First Layer (Scyphozia)](First_Layer.md)**
 
-**\- [Second Layer (The Eternal Gale?)](Second_Layer.md)**
+**\- [Second Layer (The Eternal Gale)](Second_Layer.md)**

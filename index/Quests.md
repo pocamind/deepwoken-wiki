@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 47198
+revid: 47570
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -273,6 +273,14 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to Regek at Greathive Aratel's archives. He will ask you to find every Soulbloom. They can be found in the Greathive.
 
 **Reward/s**: Upgrade Attunementless mantras at Regek.
+
+**Ministry Bounty:**
+
+**Quest Location**: Various
+
+**Guide**: Talk to a ministry NPC found in various places around the map, he will ask you to kill anyone at a certain location.
+
+**Reward/s**: Ministry Reputation
 
 ## Attribute Unbound Quests
 

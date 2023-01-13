@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 47498
+revid: 47571
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ Mannn I hate livin' in detroit on goddddd ”
+“ Mannn I hate livin' in ohio on goddddd ”
 
-― Authority soldier before being shaken apart by a Thresher
+― Authority captain before being ripped apart by a gang of Threshers
 
 **Thresher:**
 
@@ -35,7 +35,7 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 
 ## Passives
 
--   **Serated Claws/Teeths** - Threshers have 100% PEN.
+-   **Serrated Claws/Teeth** - Threshers have 100% PEN.
 
 ## Finishers
 

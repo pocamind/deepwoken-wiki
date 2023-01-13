@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 47411
+revid: 47580
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -144,12 +144,22 @@ Additionally, the player will receive a significant amount of experience, [attri
 ## Trivia
 
 -   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
+-   Chaser's full name is Chaser Erisia, as he is the half brother of Erisor Erisia. This may be why one of his titles is "The Buke," seeing as a lowercase B is just a lowercase D turned around.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding 6 Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Chaser is resistant to Bloodless Gems and the Vampirism enchant.
 -   Whoever this is not confirmed, there is a chance that the blood magic of Chaser can be used as an oath in the future, probably bya Hemokinesis, similar to the Contractor Oath with Lord Regent.
+-   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2.
+
+Rag's statement on Chaser's discontinued (actual) Phase 2.
+
+  
+
+  
+
+  
 
 ## Bugs
 

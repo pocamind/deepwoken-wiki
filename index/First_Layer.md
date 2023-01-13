@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 47443
+revid: 47569
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -14,18 +14,23 @@ Template:Location2
 
 ## Overview
 
-Layer 1 also called Scyphozia is the first layer of The Depths. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena, dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [Layer 2.](Second_Layer.md)
+**Layer One** also called **Scyphozia** is the first layer of The Depths. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [**Layer 2**.](Second_Layer.md)
 
 ## **Points of Interest**
 
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [District of Commerce](District_of_Commerce.md)
+    -   The Military District
     -   [Varicosa District](Varicosa_District.md)
+    -   The Cathedral's Interstice
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Fragments of Self](Fragments_of_Self.md)
--   Marauders Entrance
+-   [Castle Light](Castle_Light.md)
+-   The Chariot's Spire
+    -   Ignition Union Deepdriller
+-   Marauders' Entrance
 
-## **Escaping Layer 1**
+## **Escaping Layer One**
 
 Detailed map of the entire Depths First Layer
 
@@ -41,7 +46,7 @@ _Not to be confused with [Resonances](Resonance.md)._
 
 [The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across The Depths, signalling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### **Climbing the Walls**
 
@@ -67,13 +72,13 @@ The method **requires no encounters with Watchers.**
 
 **Disclaimer: There is no guarantee that there will be no hostile players while using this method, so do at your own risk.**
 
-## **Layer 1: The Trial**
+## **Layer One: The Trial**
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-### _Note_
+### _Note:_
 
 **Your Trial Power is calculated by power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer. _The table below accounts only for your power, not how many times you drowned._
 
@@ -90,16 +95,17 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 (Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)
 
--   ~A good strategy for levels 17+ is to learn the attack patterns/get comfortable with either the Nautilodaunt OR Enforcer, and then simply combat-log out of the trial if it is the creature you didn't study for.~ It may be harder for newer players, you probably havent left your house in so long that you’ve memorized every enemies attacks. Maybe shower, touch grass, or both!
+-   A good strategy for levels 17+ is to learn the attack patterns/get comfortable with either the Nautilodaunt OR Enforcer, and then simply combat-log out of the trial if it is the creature you didn't study for. ~It may be harder for newer players, you probably haven't left your house in so long that you’ve memorized every enemies attacks. Maybe shower, touch grass, or both!~
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
-    -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
--   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
--   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
-    -   If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted
+    -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
+-   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.
+    -   This will **always apply** if you have the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
+-   If you log while in the trial and you aren't in combat, you will simply get teleported back to where you spawned in when you first came to the Depths.
+    -   ~If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted.~ No longer works, the moment the monster spawns, you will be automatically be locked on combat. **Fight or wipe**.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
--   If you are deepbound then you will have to fight an Enforcer no matter what your power is
--   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything. (**This note was probably before Verse 2 so just divide the levels by 3)**
+-   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
+-   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything. (**This note was probably before Verse 2 so just divide the levels by 3.**)
 
 ## **Farming in Layer One of The Depths**
 
@@ -119,15 +125,15 @@ Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in Layer One, as sitting near a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
-    -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the depths.
+    -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs," and Graceful Flame, you might want to consider bringing _**healing potions**_.
 -   ~Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.~ Not necessary, as reservoir is no longer a thing since Verse 2.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
--   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
+-   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. ~It is, however, a legendary card, which can be harder to obtain.~
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
--   If you are Deepbound, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
+-   If you are of the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 
 ## **Quests in Layer One**
 
@@ -268,9 +274,9 @@ Legendary = Gold
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. Permanently unlocks the Shadow Magic for future lives.
--   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
+-   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban them at the same time.
--   Falling into the void will now send you to [Layer 2](Second_Layer.md), however this is highly advised against if you want to go there, as you wont have a Light Hook to save you if anything goes wrong. Falling into the void at power (1)? however will not send you to Layer 2 and instead just kill you.
+-   Falling into the void will now send you to [Layer 2](Second_Layer.md), however this is highly advised against if you want to go there, as you wont have a Light Hook to save you if anything goes wrong. Falling into the void at Power 1-3(?) however will not send you to Layer 2 and instead just kill you.

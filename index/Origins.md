@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 47284
+revid: 47566
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -60,7 +60,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
--   **\[CON\]** You cannot do the Trial of One.
+-   **\[CON\]** You cannot do the Trial of One. **\[CAUTION\]** VERY UNRECOMMENDED to play deepbound untill it gets buffed/reworked, you WILL very likely get gripped everytime you encounter a brainless person progressing through depths, or wipe to 3 corrupted monsters spawning on you!! with only 1 life and depths being a ganking zone as of right now (1/13/2023), you should pick other origins instead. (source: community's opinion + played deepbound for 3 minutes and got wiped 2 times, once by a max lvl and the other by a power 10 duo, not worth the risk at all because you cant get good exp by any safe means unless you go to layer 2 which once again is filled with high lvl mobs.)
 
   
 
