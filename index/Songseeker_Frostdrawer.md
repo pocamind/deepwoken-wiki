@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 46979
+revid: 47637
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -68,4 +68,5 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 
 ## Trivia
 
--   ~They're relatively easy to fight, even at low Power.~ They are one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
+-   They are considered one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
+-   If they knock you while you are in water and you have scuba drowner, their ice eruption can keep you trapped underwater while their other moves continually knock you after you recover with know way to escape.

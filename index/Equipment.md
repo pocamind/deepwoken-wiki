@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 47553
+revid: 47641
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -605,7 +605,7 @@ Bloodfeather Mask
 
 Grants a random buff.
 
- | Placeholder | N/A |
+ | Layer 1 chests | N/A |
 | File:DemonMask.png | 
 
 Demon Mask
@@ -1263,7 +1263,7 @@ _\+ 6 Health_
 _\+ 4% Stealth_  
 _\+ 8% Fire Armor_
 
- | Placeholder | N/A |
+ | Miner's Landing Chests | N/A |
 | File:Smithgloves.png | 
 
 Smith's Gloves
@@ -1662,7 +1662,7 @@ Ring of Casters
 
 Mantra damage increased by 10% but reduces melee damage by 10%
 
- | Duke Chests, Primadon Chests & Layer 1 Chests |
+ | Duke Chests, Primadon Chests, Miner's Landing Chests & Layer 1 Chests |
 |  | 
 
 Ring of Pestilence
@@ -1693,9 +1693,9 @@ Dazed Band
 
 Flourishing an opponent has a 50% chance to stun them.
 
-**Requires Power 10**
+**Requires Power 3**
 
- | Pirate Event Chests, Duke Erisia Chests, Deep Widow Chests, Primadon Chests & Layer 1 Chests |
+ | Pirate Event Chests, Miner's Landing Chests, Duke Erisia Chests, Deep Widow Chests, Primadon Chests & Layer 1 Chests |
 | File:MoonDazed.png | 
 
 Moon Ring

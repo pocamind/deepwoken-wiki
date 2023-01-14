@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47556
+revid: 47638
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -395,7 +395,7 @@ This Oath grants two Combat Mantra slots and eight Health.
     2.  Talk to Alpha
     3.  Retrieve injured Epsi **(option 2 when you talk to him)**
     4.  Talk to Alpha again
--   (Depends on race starter fort) 20 or 22 Fortiude, 20 Flamecharm and 20 Thundercall.
+-   20 Fortitude, 20 Flamecharm and 20 Thundercall. (Note that racial Fortitude bonus does not count; if your race starts with +2 Fortitude the requirement becomes 22.)
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
 
 ### Known Abilities

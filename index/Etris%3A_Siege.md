@@ -1,9 +1,9 @@
 ---
 title: "Etris: Siege"
-revid: 45343
+revid: 47635
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World]
+categories: [Pages with broken file links, World]
 ---
 
 # Etris: Siege
@@ -51,3 +51,7 @@ One of the only places that will never burn in the Etris Raid Event is [Lord Reg
 [https://www.youtube.com/watch?v=3j9TjkgGF\_g&t=0s](https://www.youtube.com/watch?v=3j9TjkgGF_g&t=0s) - \[Deleted User\]
 
 [https://www.youtube.com/watch?v=HvamSW-KlB0](https://www.youtube.com/watch?v=HvamSW-KlB0) - SpeedyNK
+
+File:Image 2023-01-14 110752417.png
+
+ETRIS:SIEGE The clash of blades ring throughout the city, decaying to havoc

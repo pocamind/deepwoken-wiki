@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 47555
+revid: 47643
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -63,6 +63,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I enjoy mixing potions. **(Alchemist)**_
 -   _I am an expert on ether. **(Ether Adept)**_
 -   _I am all knowing. **(Omniscient; All knowing, Successive Prediction)**_
+-   _I sabotage others. **(Saboteur)**_
 
 ### Strength
 
@@ -90,71 +91,70 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### Miscellaneous
 
--   _My hunt is inescapable. **(Apex Predator; Carnivore, Grand Feast) | Misc**_
--   _I am athletic. **(Athlete; Triathlete, Pitcher) | Misc**_
--   _I wish to escape. **(Escape Artist; Robber Baron) | Misc**_
--   _I often attack others. **(Marauder) | Misc**_
--   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper) | Misc**_
--   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales) | Misc**_
--   _I will not fall to the elements. **(Return to the dark ages?) | Misc**_
--   _I sabotage others. **(Saboteur) | Misc**_
--   _I search for the Song. **(Seeker of Sound; Dragon's Song) | Misc**_
--   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit) | Misc**_
--   _I repair ships. **(Shipwright; Spare Nails, Emergency Repairs) | Misc**_
--   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner) | Misc**_
--   _I dominate the minds of others._ _**(could be Shared Misery?) | Misc**_
+-   _My hunt is inescapable. **(Apex Predator; Carnivore, Grand Feast)**_
+-   _I am athletic. **(Athlete; Triathlete, Pitcher)**_
+-   _I wish to escape. **(Escape Artist; Robber Baron)**_
+-   _I often attack others. **(Marauder)**_
+-   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper)**_
+-   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
+-   _I will not fall to the elements. **(Return to the dark ages?)**_
+-   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
+-   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
+-   _I repair ships. **(Shipwright; Spare Nails, Emergency Repairs)**_
+-   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
+-   _I dominate the minds of others._ _**(could be Shared Misery?)**_
 
 # **Attunements**
 
 ### **Flamecharm**
 
--   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh) | Flame**_
--   _I dance with the flames. **(Flame Dancer) | Flame**_
--   _I speak to the flames. **(Flamecharmer) | Flame**_
--   _None will escape my flames. **(Flame Warden) | Flame**_
--   _I am a master of the flame._ _**(Pyromancer) | Flame**_
--   _All must burn. **(Inferno) | Flame**_
--   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames) | Flame**_
--   _I seek the path of the Serpent. **(Lava Serpent) | Flame**_
--   _My unholy blade works for no man. **(The Demon Blade) | Flame**_
--   _My blade burns through my foes._ _**(The Emperor's Blade)**_ _**| Flame**_
--   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard) | Flame**_
--   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut) | Flame**_
--   _My flame fights for me._ _**(Duelist Flame) | Flame**_
+-   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh)**_
+-   _I dance with the flames. **(Flame Dancer)**_
+-   _I speak to the flames. **(Flamecharmer)**_
+-   _None will escape my flames. **(Flame Warden)**_
+-   _I am a master of the flame._ _**(Pyromancer)**_
+-   _All must burn. **(Inferno)**_
+-   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
+-   _I seek the path of the Serpent. **(Lava Serpent)**_
+-   _My unholy blade works for no man. **(The Demon Blade)**_
+-   _My blade burns through my foes._ _**(The Emperor's Blade)**_
+-   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
+-   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
+-   _My flame fights for me._ _**(Duelist Flame)**_
 
 ### **Frostdraw**
 
--   _I command the cold. **(Cryomancer) | Frost**_
--   _My ice protects like a flower growing thorns. **(Cryoni) | Frost**_
--   _I speak to the frost. **(Frostdrawer) | Frost**_
--   _Those that step on my ice know they have made a grave error. **(Frozen Warrior; Frozen Legs) | Frost**_
--   _I would see this world freeze. **(Ice Age) | Frost**_
--   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer) | Frost**_
+-   _I command the cold. **(Cryomancer)**_
+-   _My ice protects like a flower growing thorns. **(Cryoni)**_
+-   _I speak to the frost. **(Frostdrawer)**_
+-   _Those that step on my ice know they have made a grave error. **(Frozen Warrior; Frozen Legs)**_
+-   _I would see this world freeze. **(Ice Age)**_
+-   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
 
 ### **Galebreath**
 
--   _I survive from the teachings of Master Stratos. **(Aeromancer) | Gale**_
--   _I walk the skies. **(Cloudwalker; Gale Leap) | Gale**_
--   _I speak to the winds. **(Galebreather) | Gale**_
--   _I use the winds to enforce my will. **(Galeforce) | Gale**_
--   _I fight for the Legion. **(Legion Shock Trooper) | Gale**_
--   _I am a master of the winds. **(Silencer) | Gale**_
--   _I hear a whisper in the dark. **(Whisper; Haunted Gale) | Gale**_
--   _I seek to silence the song. **(World Without Song) | Gale**_
+-   _I survive from the teachings of Master Stratos. **(Aeromancer)**_
+-   _I walk the skies. **(Cloudwalker; Gale Leap)**_
+-   _I speak to the winds. **(Galebreather)**_
+-   _I use the winds to enforce my will. **(Galeforce)**_
+-   _I fight for the Legion. **(Legion Shock Trooper)**_
+-   _I am a master of the winds. **(Silencer)**_
+-   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
+-   _I seek to silence the song. **(World Without Song)**_
 
 ### **Thundercall**
 
--   _I work for the Authority. **(Authority Interrogator) | Thunder**_
--   _My static is uncontrollable. **(Rampant Static; Jolting Current) | Thunder**_
--   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static) | Thunder**_
--   _I weave webs of lightning. **(Static Weaver) | Thunder**_
--   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash) | Thunder**_
--   _I speak to lightning. **(Thundercaller) | Thunder**_
--   _I electrocute my foes from afar. **(Thunder Caster) | Thunder**_
+-   _I work for the Authority. **(Authority Interrogator)**_
+-   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
+-   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
+-   _I weave webs of lightning. **(Static Weaver)**_
+-   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash)**_
+-   _I speak to lightning. **(Thundercaller)**_
+-   _I electrocute my foes from afar. **(Thunder Caster)**_
 
 ### **Shadowcast**
 
--   _I speak to the shadows. **(Shadowcaster) | Shadow**_
+-   _I speak to the shadows. **(Shadowcaster)**_
 
 ## Locations
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47584
+revid: 47604
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -30,7 +30,8 @@ Enchanted weapons always have at least one star.
 
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
--   All **Light Weapons** are locked to One Handed stance.
+-   **Light Weapons** are locked to One Handed stance.
+    -   **Fists** are able to switch between Way of Navae and Legion Kata.
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance. (except for rifles)
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
 

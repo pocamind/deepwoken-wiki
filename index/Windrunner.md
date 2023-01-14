@@ -1,14 +1,18 @@
 ---
 title: Windrunner
-revid: 46037
+revid: 47632
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Windrunner
 
-Template:Quote
+“ If you value your life, you will run. I can tell that you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror. ”
+
+― Windrunner
+
+  
 
 ## Overview
 

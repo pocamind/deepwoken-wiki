@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 47183
+revid: 47611
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -130,6 +130,7 @@ notices:
 -   **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to two characters: [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   It's critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
+-   **Railblade** could be seen as [Nagoriyuki](https://guiltygear.fandom.com/wiki/Nagoriyuki)'s sword from Guilty Gear.
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._

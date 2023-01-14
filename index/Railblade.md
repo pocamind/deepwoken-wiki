@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 47379
+revid: 47642
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
@@ -47,3 +47,4 @@ Airborne Critical
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by oNoodlez
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
+-   This weapon can only be used one-handed

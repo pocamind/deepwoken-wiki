@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47593
+revid: 47606
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -999,7 +999,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
     -   Prerequisites: 50 agility, beat Alirian in race and collect White Orbs around the map.
 -   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Church (Ancient Rotlands) and kill Iblis, The Fallen Angel.
+    -   Prerequisites: 50 strength, talk to Samael in Church (Ancient Rotlands) and kill Iblis, The Fallen Angel.
 -   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
 
 ### Omniscient

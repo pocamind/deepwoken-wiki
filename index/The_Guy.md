@@ -1,9 +1,9 @@
 ---
 title: The Guy
-revid: 47290
+revid: 47650
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, NPCs]
 notices:
   - This page is currently being worked on. Please check back later.
 ---

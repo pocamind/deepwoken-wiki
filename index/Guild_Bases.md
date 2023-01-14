@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 47190
+revid: 47608
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Guilds, Locations]
@@ -34,6 +34,7 @@ The Chime of Dwelling does not work under the following:
 -   Dungeons or Missions.
 -   Occupied Locations by Factions that see you as a Hostile.
 -   Being In-Combat
+-   Boatman's Watch
 
 ## Nodes
 

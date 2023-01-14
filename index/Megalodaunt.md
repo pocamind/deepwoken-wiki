@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47372
+revid: 47630
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -210,7 +210,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
+The Mechalodaunt (also known as Kevin) is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
 
 ## **Trivia**
 

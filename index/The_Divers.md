@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 47386
+revid: 47647
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
+categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -53,7 +53,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
 
-**Pleeksty:** Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
+**Pleeksty:** Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant. In fact he is the first Flamecharmer
 
 **[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the second Prophet of [the Ministry](The_Ministry.md), to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but revealed he had betrayed The Divers and with the help of the Kyrsgarde, killed all the Divers who went on him in the original expedition he was apart of as well as the Divers that were involved in expeditions following that one. Technically Ministry aligned.
 

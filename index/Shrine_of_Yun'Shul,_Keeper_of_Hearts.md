@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 47602
+revid: 47625
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -12,7 +12,7 @@ categories: [Drowned Gods, NPCs]
 
 ― Yun'Shul to the none worthy
 
-Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within [The Depths](The_Depths.md).
+Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
 ## Overview
 
@@ -25,8 +25,9 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 -   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
     -   If you do have Tarnished, you can remove it at Yamaketzal for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
--   Have a wish available (sometime referred to as yun'shul wish CD).
+-   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players stars with a wish (and can only hold 1 at a time). A wish can be obtained by leveling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
+    -   Moreover, wish CD is reset sometimes in weekly patches, keep an eye out for 'em.
 
   
 If you meet all the criteria, you are able to make one of five wishes:
@@ -47,5 +48,5 @@ If you meet all the criteria, you are able to make one of five wishes:
 -   Yun'Shul is referred to by the developers by "they" and "them".
     -   This trait is also shared with Ya'Alda from Rogue Lineage.
 -   It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.
--   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire. [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of the Eternal Gale.
--   Talking to Yun-Shul without any wishes does not kill you as long as you have a bell.
+-   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of the Eternal Gale.
+-   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 47538
+revid: 47615
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -68,6 +68,8 @@ Default reputation is set to low.
 Reputation can still be gained normally.
 
 Paying to restore reputation only resets up to the default, low reputation.
+
+To get this flaw added to the flaw selection screen, grip a reputable member from any factions eg. Etrean guard.
 
  | 1 |
 | Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity damage is increased. | 1 |
