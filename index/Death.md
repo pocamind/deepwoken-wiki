@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 47228
+revid: 47598
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]
@@ -20,9 +20,9 @@ _If you want to know more about where you go after dying twice, see [The Depths]
 
 Death is a core aspect of Deepwoken. You have three lives in Deepwoken, the first two lives on the Etrean Luminant (The Overworld), and the third in [The Depths](The_Depths.md). When you die, you drop some notes and some items, but the losses can be decreased through certain [Talents](Talents.md). When you're on your second life, your health bar will be stained. Leveling up will revert the health bar back to normal essentially giving your third life back. Dying with a stained health bar drowns you and sends you to the Depths.
 
-[The Depths](The_Depths.md) is essentially the underworld, where you have to redeem yourself and prove your worth. Your goal in The Depths is to enter the sunken Celtorian city and sneak past enemy entities called Watchers. If spotted by the Watchers, you will have to fend off against two [Angels](Hollow_Angel.md). While you are sneaking around, you have to go to certain parts of the city and ring four bells to open a gate to the center of the city. Once you make it to the elevator, you will be sentenced by the Voices of the Depths to a [Trial](https://deepwoken.fandom.com/wiki/The_Depths#The_Trial) that takes you back up to the Etrean Luminant if successful, restoring all of your lives.
+[The Depths](The_Depths.md) is essentially the underworld, where you have to redeem yourself and prove your worth. Your goal in The Depths is to enter the sunken Celtorian city and sneak past enemy entities called Watchers. If spotted by the Watchers, you will have to fend off against two [Angels](Hollow_Angel.md). While you are sneaking around, you have to go to certain parts of the city and ring four bells to open a gate to the center of the city. Once you make it to the elevator, you will be sentenced by the [Voices of the Depths](Voices_of_the_Depths.md) to a [Trial](https://deepwoken.fandom.com/wiki/The_Depths#The_Trial) that takes you back up to the Etrean/Eastern Luminant (depending where you died before getting sent to the Depths in the first place) if successful, restoring all of your lives.
 
-Failing to survive in The Depths and perishing will result in you being sent to the [Fragments of Self.](Fragments_of_Self.md) This is basically the afterlife. There is not much you can do here. You'll have to wipe or character or you can pay Robux (1000) to return to the Etrean Luminant commonly referred as using Last Wind (You can only use this once per character). There is also a [pool](Hippocampal_Pool.md) where you can give up to two items to pass on to your future character.
+Failing to survive in The Depths and perishing will result in you being sent to the [Fragments of Self.](Fragments_of_Self.md) This is basically the afterlife. There is not much you can do here. You'll have to wipe or character or you can pay Robux (1000) to return to the Etrean Luminant commonly referred as using Last Wind (You can only use this once per character). There is also a [pool](Hippocampal_Pool.md) where you can give up to two items (or four depending on your [Echoes](Echoes.md) upgrade) to pass on to your future character.
 
 _If you want to know more about the ways you can die, see [Death Compendium](Death_Compendium.md)._
 
@@ -35,4 +35,4 @@ See Escaping The Depths [here](https://deepwoken.fandom.com/wiki/The_Depths#Esca
 -   It is very unwise to kill people in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough. ~It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 in a city, and lower than [Power](Power.md) 10 anywhere.~ Luck has been removed.
 -   Dying in the [Voidsea](Voidsea.md) or dying to the [Primadon](Primadon,_Titan_of_the_East.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
     -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
--   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression
+-   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression.

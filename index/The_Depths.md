@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 47563
+revid: 47597
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -16,7 +16,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
   
 
-**The Depths**, is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena, dying with [Hollow](Echoes.md), dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md). [Death](Death_Compendium.md)
+**The Depths**, is a location in _Deepwoken_. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with [Hollow](Echoes.md), dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
 
@@ -32,7 +32,7 @@ The Depths is a highly challenging location that should be avoided if possible. 
 
 ## Whirlpools
 
-Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md). Finding Whirlpools can be found across the Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
+Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md). Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
 
 ### Whirlpool Locations
 

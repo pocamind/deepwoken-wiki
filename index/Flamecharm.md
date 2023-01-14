@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 46595
+revid: 47583
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -214,6 +214,7 @@ _A rising tornado of flames._
 -   Deals moderate-high damage.
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
 -   Initial slashes are Blockable, and the final hit is Parryable.
+-   Does not send the user vertically into the air if no targets are hit.
 
  |
 | 
@@ -273,6 +274,7 @@ Leap up leaving behind a burst of flames.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
 -   Is able to proc _Meteor Impact,_ as long as the initial leap hits and the opponent(s) are sent upwards with you.
 -   Shares similar traits to the Strong Leap mantra.
+-   The Mantra will not summon flames nor do damage if used in [bodies of water](https://deepwoken.fandom.com/wiki/The_Depths).
 
  |
 
@@ -332,7 +334,7 @@ _Undying flame._
 
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
--   Prevents the user from being knocked for 60 seconds if damage isn't substantial.
+-   Prevents the user from being knocked for 30 seconds if damage isn't substantial.
     -   Regenerates ~15% of user's health upon receiving lethal damage.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.

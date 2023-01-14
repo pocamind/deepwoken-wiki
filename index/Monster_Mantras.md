@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 47396
+revid: 47592
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -34,35 +34,35 @@ Beast Burrow
 
 (★★☆)
 
- |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Reminiscent of the [Thresher's](Thresher.md) _Dig._ | Mobility (?) Mantra |
+ |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) _Dig._ | Mobility (?) Mantra |
 |  | 
 
 Coral Spear
 
 (★★☆)
 
- |  | The user grows coral on their back and sprays coral in every direction, similar to the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. | Combat Mantra |
+ |  | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. | Combat Mantra |
 |  | 
 
 Dread Breath
 
 (★★☆)
 
- |  | The user shoots out a devastating beam of compressed ice, similar to the [Dread Serpent's](Dread_Serpent.md) _Ice Beam._ This move stuns and procs ice, slowing enemies. Alternatively, it will proc crystal if the user has _[Glass Path: Crystallization](https://deepwoken.fandom.com/wiki/Talents#Glassdancer)._ | Combat Mantra |
+ |  | The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) _Ice Beam._ This move stuns and procs ice, slowing enemies. Alternatively, it will proc crystal if the user has _[Glass Path: Crystallization](https://deepwoken.fandom.com/wiki/Talents#Glassdancer)._ | Combat Mantra |
 |  | 
 
 Brachial Spear
 
 (★★☆)
 
- | A javelin of jagged bone. | The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is similar to the [Bone Keeper's](Bone_Keeper.md) _Bone Throw_ ability. Grants hyperarmor during startup. | Combat Mantra |
+ | A javelin of jagged bone. | The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) _Bone Throw_ ability. Grants hyperarmor during startup. | Combat Mantra |
 |  | 
 
 Mecha Gatling
 
 (★★☆)
 
- | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is very similar to the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. | Combat Mantra |
+ | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the[Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. | Combat Mantra |
 
 ## Trivia/Notes
 

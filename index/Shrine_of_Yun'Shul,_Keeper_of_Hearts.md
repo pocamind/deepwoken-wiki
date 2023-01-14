@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 47539
+revid: 47602
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -29,7 +29,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   All players stars with a wish (and can only hold 1 at a time). A wish can be obtained by leveling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
 
   
-If you meet all the criteria, you are able to make one of four wishes:
+If you meet all the criteria, you are able to make one of five wishes:
 
 1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
     -   Instantly sends the player back to The Overworld.

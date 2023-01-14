@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47487
+revid: 47593
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -568,7 +568,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
     -   Prerequisites: 40 Willpower, 70 Flamecharm
--   Undyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
+-   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
     -   Prerequisites: Unknown
 
 ### Frostdrawer
@@ -1272,7 +1272,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
 -   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
-    -   Prerequisites: 35 Charisma?, 10 Agility?, Master Thief?
+    -   Prerequisites: 40 Charisma?, 10 Agility?, Master Thief?
 
 ### Thunder Brawler
 

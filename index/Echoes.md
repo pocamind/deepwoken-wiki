@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 47413
+revid: 47599
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -197,7 +197,7 @@ Example of an Echo Talent unlocked
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 
-Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after.
+Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you attempt to complete the quest again in another slot or another life, you will gain an extra talent hand (maximum of 3 or 4, may be more as updates keep rolling).
 
 ### Echo Quests
 
@@ -212,4 +212,4 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 ## Trivia
 
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
-    -   Also notably, a rogue lineage challange video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within rogue lineage (deepwoken's predecessor). This may have been the root of the dev team's inclusion of this feature within the game.
+    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). This may have been the root of the developer team's inclusion of this feature within the game.
