@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 46882
+revid: 47675
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -281,9 +281,9 @@ _A servant of wind._
 
 ## Talents
 
-**Aeromancy:**
+**Aeromancer:**
 
-These talents are found in the _Aeromancy_ category.
+These talents are found in the _Aeromancer_ category.
 
 | Media | Talent | Card Description | Bonus Stats |
 | --- | --- | --- | --- |
@@ -375,7 +375,7 @@ When falling from a high place, hold spacebar to generate wind currents until yo
 
  |
 
-**Aeromancer:**
+**Aeromancy:**
 
 These talents are found in the _Aeromancy_ category.
 

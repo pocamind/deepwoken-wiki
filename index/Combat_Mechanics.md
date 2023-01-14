@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47467
+revid: 47685
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -158,7 +158,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance increase posture damage dealt to the target when parrying but reduce posture damage dealt when hitting their block.</b></p>
   <p><br>
   <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance increase posture damage dealt to the target when hitting their block but reduce posture damage dealt when parrying.</b></p></td>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th><a href="Stealth.md">Stealth</a></th>

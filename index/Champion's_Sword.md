@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 41032
+revid: 47681
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Swords]
@@ -13,7 +13,7 @@ categories: [Weapons, Items, Weaponry, Swords]
 | type | Medium Sword |
 | requirements | 40 MED |
 | damage | 19 |
-| scaling | 6 |
+| scaling | 6.5 |
 | range | 8 |
 | swing speed | 0.77x |
 | endlag | ? |

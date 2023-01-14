@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47630
+revid: 47676
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -48,9 +48,9 @@ Slash
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
--   Heavy posture damage.
--   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+-   Heavy posture damage. Will commonly block break after two hits.
+-   If the Megalodaunt uses it twice in a row, it will not do anything for a short period of time. It is usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon during the time frame.
+    -   if the Megalodaunt only slashes once, it will do another attack extremely shortly after. It is usually enough to only hand 1 hit.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -61,7 +61,8 @@ Kick
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it can send you into unwanted situations.
--   This Ability is blockable, you need alot of posture to block this attack.
+-   This ability is blockable, although you need alot of posture to block it.
+-   Commonly avoided by walking sideways, as the hitbox has little width.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
@@ -73,7 +74,11 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
+
+-   Easily parryable.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar
@@ -233,7 +238,7 @@ Slash
 
 Kick
 
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Unlike the other variants, Mechalodaunts sometimes hold this kick for an extra half~ a second making it harder to dodge.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.

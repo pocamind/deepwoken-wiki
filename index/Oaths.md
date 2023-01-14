@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47665
+revid: 47671
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -468,7 +468,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
-1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.)
+1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.) (You also **NEED** at least 1 assassination)
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”

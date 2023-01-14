@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 47208
+revid: 47687
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -58,8 +58,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>Arthur</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
-  <td></td>
-  <td></td>
+  <td><a href="The_Garden_Reservoir.md">The Garden Reservoir</a>, entrance in the <a href="Towerstruck_Lands.md">Towerstruck Lands</a></td>
+  <td>Gives quest to kill a <a href="Megalodaunt.md">Megalodaunt</a></td>
   <td></td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Lord_Regent.md">The Lord Regent</a></td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a>, <a href="The_Ministry.md">The Ministry</a></td>
   <td><a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a></td>
-  <td>Lord Regent questline</td>
+  <td>Lord Regent questline, Contractor Oath obtainment</td>
   <td>Kills the player instantly if they are not permitted to enter</td>
 </tr>
 <tr>
@@ -215,6 +215,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Depths.md">The Depths</a>, The City of The Drowned</td>
   <td>None</td>
   <td></td>
+</tr>
+<tr>
+  <td><a href="Marcus.md">Marcus</a></td>
+  <td>Unaligned</td>
+  <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
+  <td>None</td>
+  <td>Marcus.</td>
 </tr>
 <tr>
   <td><a href="The_Meat_Lord.md">The Meat Lord</a></td>
@@ -261,7 +268,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>Cap'n Orlandeau</td>
   <td>Unaligned</td>
-  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a>, New Kyrsa, The Sleeping City</td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a>, <a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></td>
   <td>Teaches new players the basics of the game</td>
   <td>Suprisingly found in Second Layer Floor 2.<p>Might give a different dialogue if you have the Castaway origin who has done the tutorial.</p></td>
 </tr>
@@ -291,7 +298,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td>Etris</td>
   <td>Gives a free Gold Ring and teaches Jus Karita</td>
-  <td></td>
+  <td>40 LHT is required to learn Jus Karita</td>
 </tr>
 <tr>
   <td>Mr. Quarters, Halfmaster</td>
@@ -346,7 +353,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Surge</td>
   <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a></td>
-  <td>Teleports you to the Nestmind if give Void Feathers</td>
+  <td>Teleports you to the Nestmind if given Dark Feathers</td>
   <td>Will take your Void Feathers to unlock more Visionshaper mantras</td>
 </tr>
 <tr>
@@ -364,6 +371,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two <a href="Summer_Company_Guard.md">Summer Company Guards</a></td>
 </tr>
 <tr>
+  <td><a href="Windrunner.md">Windrunner</a></td>
+  <td>Unaligned</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a></td>
   <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
@@ -372,17 +386,10 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 </tr>
 <tr>
   <td><a href="Zana.md">Zana</a></td>
-  <td>Pathfinder</td>
+  <td>Unaligned</td>
   <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
-</tr>
-<tr>
-  <td><a href="Marcus.md">Marcus</a></td>
-  <td>Unaligned</td>
-  <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
-  <td>None</td>
-  <td>A cool mini Golem.</td>
 </tr>
 </tbody>
 </table>
