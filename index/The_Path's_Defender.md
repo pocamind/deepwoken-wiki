@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 46539
+revid: 47658
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer,Deep Widow, Duke Chests,The Depths, Fishing Chests |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Fishing, Layer 1, Layer 2 |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description

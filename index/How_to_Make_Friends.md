@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 46621
+revid: 47660
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Items]
@@ -64,7 +64,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   Many of the phrases in How To Make Friends are really corny and often reference a race.
     -   For example, Hivekin refers to the [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md) races (as they live in the hive)
 
--   You may get **Charisma** faster when reciting phrases next to an NPC, not a player. This is false, it was tested in [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) by Birbingish
+-   ~You may get **Charisma** faster when reciting phrases next to an NPC, not a player.~ This is false, it was tested in [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) by Birbingish
 -   It is not usually recommended to type out the phrases yourself, you may simply open up Notepad and put the phrases in, then CTRL + C CTRL + V them when needed.
 -   Farming **Charisma** is a lot faster than levelling up with the Instructor or at [Lower Erisia](Lower_Erisia.md).
 -   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.

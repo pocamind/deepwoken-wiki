@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 47580
+revid: 47662
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -135,7 +135,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 **(2)** - I won't be fooled again.
 
--   **(C)** - Again? It hasn't happend yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did we? \[ATTACKS\]
+-   **(C)** - Again? It hasn't happend yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- \[ATTACKS\]
 
 ### If you attack him mid-dialogue
 

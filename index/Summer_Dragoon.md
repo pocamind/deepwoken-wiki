@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 47369
+revid: 47664
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,4 +27,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Sunset Ricochet,_ which m
 
 This Outfit's Schematic can be found in:
 
--   Miner's Landing
+-   [Saramaed Summit](Saramaed_Summit.md) ([Mechaalodaunt](Megalodaunt.md) chest)
+
+## Trivia/Notes
+
+-   Richocheted bullets do not proc enchants.

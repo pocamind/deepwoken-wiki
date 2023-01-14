@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 47307
+revid: 47654
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -26,21 +26,57 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 ## Mentioned Only/Potential future Attunements
 
+_These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
+
+### **Lifeweave**
+
+_**Lore Sources:** Regek (Mentioned), Arch\_Mage (Discord)_
+
+(Arch\_Mage) Lifeweave itself, just like Ironsing, is an Attunement. Lifeweave has healing capabilities; though it's not shown in-game.
+
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
+
+The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+
+-   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
+
+-   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
+-   The book _The Lament of Ciryyn_ expands up on it
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
+    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
+
+### **Ironsing**
+
+_**Lore Sources:** Hive Tactician Armor and Pluripotent Alloy (Description), Arch\_Mage (Discord)_
+
+Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
+
+-   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md) and Pluripotent Alloy. It's most likely that Ironsing was developed by The Hive or their progenitors, much like lifeweave.
+-   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
+
+### **Others**
+
 -   Lightkeeper/Lightkeeping
--   Earth (Mentioned by Arch\_Mage saying he would like to add earth)
+-   Earth (Mentioned by Arch\_Mage saying he would like to add an earth attunement)
 
 ## Trivia
 
--   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
--   File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
+Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
+
+File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
+
+You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
+
+-   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements.
     
-    You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
-    -   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements.
-        
-        File:Three attunements.png
-        
--   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
-    -   You can unlock all Attunements to be select-able from the menu.
+    File:Three attunements.png
+    
+
+When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
+
+-   You can unlock all Attunements to be select-able from the menu.
 
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you unlock more of them from their respective [trainers](Attunement_Trainers.md).
 
@@ -48,6 +84,8 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
 
--   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
--   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
-    -   As an extension, he mentions that those who wield water magic have already lost their humanity.
+Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
+
+Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
+
+-   As an extension, he mentions that those who wield water magic have already lost their humanity.

@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 47179
+revid: 47659
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -18,13 +18,13 @@ categories: [Weapons, Daggers]
 | swing speed | 1.05 |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. This critical benefits from Knife's Journey greatly. |
 | stances | 1 Handed |
-| selling price | 50 notes |
+| selling price | 50 Notes |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Duke, Knives of Eylis events, Primadon, Deep Widow |
+| obtainment | Chest from:, Knives of Eylis Events, Duke Erisia, Deep Widow, Primadon, Layer 1 |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
 | Alloyed Whaling Knife | |
@@ -38,13 +38,13 @@ categories: [Weapons, Daggers]
 | penetration | 10% |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. This critical benefits from Knife's Journey greatly. |
 | stances | 1 Handed |
-| selling price | ? notes |
+| selling price | ? Notes |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using Pluripotent Alloy on the base weapon, Rare drop from Primadon chests |
+| obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, Primadon (Rare Chance) |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
 **Base:**

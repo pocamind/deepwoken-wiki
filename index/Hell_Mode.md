@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 45839
+revid: 47666
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -18,9 +18,9 @@ Template:Areainfobox
 
 ## Description
 
-Hell Mode is a player summoned event that takes place within The Depths.
+Hell Mode is a player summoned event that takes place within [Layer 1 of The Depths.](The_Depths.md)
 
-A group of powerful adventurers must join forces in this hellish variant of The Depths to obtain great rewards.
+A group of powerful adventurers must join forces in this hellish variant to obtain great rewards.
 
 ## Activation Method and Effects
 
@@ -30,12 +30,12 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
 
 -   Monster spawn rates are increased by 10x.
 -   Every mob that can spawn corrupted, _will_ be corrupted, with the exception of King Threshers.
--   The Enforcer and the Nautilodaunt are added to the regular spawn pool for the duration of the event.
-    -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into a void zone.
+-   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
+    -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void.
     -   King Thresher's burrowing attack is disabled.
--   Megalodaunts will always spawn as their Alpha version.
+-   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
     -   Alpha vs. 2 Divers event is able to spawn as well.
--   King Gigamed is removed from the spawn pool.
+-   [King Gigamed](Gigamed.md) is removed from the spawn pool.
 
 These conditions (beside the 10x spawn rate) affects everybody currently in the server, not just the people who interacted with the bell.
 
@@ -69,7 +69,6 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 
 ## Trivia
 
--   This isn't perfect so feel free to add anything.
 -   If you get trapped in [Castle Light](Castle_Light.md) during the activation of Hell Mode, you won't be granted any reward.
 -   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness. (This is likely due to the natural blue tint of the Depths clashing with the dark red tint of Hell Mode)
 -   Always have someone with you who has Undying Flame as you **will** need to heal.
