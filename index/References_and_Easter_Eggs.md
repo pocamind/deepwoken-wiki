@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 47611
+revid: 47820
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -68,6 +68,17 @@ notices:
 
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
     -   The overall appearance of the suit however, looks extremely similar to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from _Made in Abyss_.
+-   Starkindred has many references:
+    -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
+        
+        Arch's tweet
+        
+    -   The different characters met for this oath have mythological or religious origins:
+        -   The trainer, **Samael**, is an angel in Judaism
+        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
+        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, which became the judge of the underworld after its death
+        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
 -   **Dawnwalker's** _Radiant Kick_ is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
 
@@ -152,23 +163,12 @@ notices:
     -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
-        
-        Arch's tweet
-        
 
 ### **The Eastern Luminant**
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 -   The Shrine of Order might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
--   The [Derelict Highchurch](Derelict_Highchurch.md)'s hidden library have a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
--   The Starkindred Oath have many references:
-    -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
-    -   The different characters met for this oath have mythological or religious origins:
-        -   The trainer, **Samael**, is an angel in Judaism
-        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
-        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, which became the judge of the underworld after its death
-        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
+-   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
 
 ### **The Depths**
 

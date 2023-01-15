@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47815
+revid: 47838
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -481,7 +481,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Upgrading
 
-Killing people in Layer 1 of The Depths who have an Oath will progress Contractor. (Note: These must be solo grips, attacking and killing the player by oneself.)
+Killing people without any help in Layer 1 of The Depths who have an **OATH** will progress Contractor. (Note: These must be solo grips on players with an **OATH**, attacking and killing the player by oneself.)
 
 -   1 Grip - Hidden Tendril/Lords Slice
 -   2 Grips - Equalizer
@@ -527,6 +527,35 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 
 -   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
     
+
+**Ironsing:**
+
+## Ironsing
+
+**Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
+
+-   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
+    -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
+        
+
+**Lifeweaver:**
+
+## Lifeweaver
+
+**Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
+
+-   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
+-   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
+-   The book _The Lament of Ciryyn_ expands up on it
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
+    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
+        
 
 **Fadetrimmer:**
 

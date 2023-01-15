@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47727
+revid: 47836
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1193,7 +1193,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: Silencer's Edge and Silencer's Blade
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
-    -   Prerequisites: Silencer's Edge and 75 Galebreathe
+    -   Prerequisites: Silencer's Edge and 65 Galebreathe
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   Prerequisite: 60 Galebreathe
 
@@ -1688,10 +1688,11 @@ File:Thresherquest1.png
 ### Harvester
 
 -   Talk to Ciea which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
-    -   Speed potion requires 1-3 Pomar
-    -   Harm potion requires 1-3 Browncap
-    -   Life potion requires 1-3 Redd
-    -   Ether potion requires 1-3 Dentifilo
+    -   Speed potion requires 1-3 Pomars
+    -   Harm potion requires 1-3 Browncaps
+    -   Life potion requires 1-3 Redds
+    -   Ether potion requires 1-3 Dentifilos
+    -   Insanity potion requires 1-3 Urchins
 -   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
 
 ### Excavator
