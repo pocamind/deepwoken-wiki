@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 47800
+revid: 47867
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -20,7 +20,7 @@ categories: [Echoes, Character, Mechanics]
 
 **Echoes** can be spent on **Upgrades;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
 
-**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.6x modifier to **Echo** gain.
+**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.8x modifier to **Echo** gain.
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
@@ -28,7 +28,7 @@ categories: [Echoes, Character, Mechanics]
 
 Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of echoes, and with a small number of exceptions, each Triumph can only be achieved once.
 
--   Gaining [Power](Power.md), awarding 1 Echo per Power level.
+-   Gaining [Power](Power.md), awarding 0.75 Echoes (rounded) per Power level.
 -   Crafting a [Food](Food.md) item at a campfire, awarding 1 Echo.
 -   Catching a [Fish](Fishing.md), awarding 1 Echo.
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo.

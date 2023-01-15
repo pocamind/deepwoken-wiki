@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47505
+revid: 47855
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -48,6 +48,7 @@ There are two variants that enchantments come in:
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
+-   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
 
 ## List of Enchantments
 

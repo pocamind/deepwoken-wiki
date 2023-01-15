@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 47793
+revid: 47865
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -27,21 +27,29 @@ He does not leave his throne under any circumstances. It is unclear whether this
 
 He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace.
 
-If given reason to, The Lord Regent can suspend his target in the air, using strings made of what seems to be [Shadowcast](Shadowcast.md) magic before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
+If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the Contractor oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
 
 Despite his mystique and power, he is still very much a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging.
 
 ## Trivia
 
 -   His throne produces steam.
+-   He appears to be based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, as both are blindfolded with long blonde hair and use shadow powers.
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n)) The Lord Regent will kill you no matter how much health you have.
     -   You do not have to talk to him after killing [The Duke](Duke_Ishamon_Erisia.md), as he will already uncap your [attunement](Attunements.md) after killing him.
--   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also uses [Shadowcast](Shadowcast.md) magic, which can only be obtained from The Dpeths and he sends his contractors to kill other in The Depths.
+-   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also sends his contractors to kill other in The Depths.
+    -   Upon introduction of the "Contractor" Oath in Verse 2, as well as [confirmation from Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not infact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
+    -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) also suggests that the throne boosts the power of any who sit on it.
+        -   ("with Throne buff" suggests the Throne directly influences his power and another could sit and take it.)
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change the interaction with Lord Regent.
 -   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
     -   This may be because of the Knives of Eylis current alignment with the Authority.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: “What a foolish tradition." "You'll find that I'm being very merciful right now." "How cute. Care for me to show you true horror?" "Take that stupid thing off."
-    -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
-        -   Initially he would kill you for attempting it, but that feature was removed.
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:
+    -   “What a foolish tradition."
+    -   "You'll find that I'm being very merciful right now."
+    -   "How cute. Care for me to show you true horror?"
+    -   "Take that stupid thing off."
+        -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
+            -   Initially he would kill you for attempting it, but that feature was removed.

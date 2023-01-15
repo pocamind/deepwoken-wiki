@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 45345
+revid: 47872
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Greataxes]
 ---
 
 # Skyreap Blade
@@ -34,8 +34,5 @@ The Skyreap Blade is a HVY weapon in the Greataxe category. It is obtained by ge
 ## Trivia
 
 -   Mentions the "Edenkite" in the description, which is a species referenced in a lorebook that existed in the cold, desolate, Northern Luminant.
-
-## Notes
-
 -   This weapon, alongside the other two Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md).
 -   Skyreap Blade is the only weapon that have new running attack animation.

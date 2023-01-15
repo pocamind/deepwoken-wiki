@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 45900
+revid: 47841
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,34 +24,11 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Moves
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Name</b></th>
-  <th><b>Description</b></th>
-  <th><b>Parry-able?</b></th>
-  <th><b>Danger</b></th>
-</tr>
-<tr>
-  <td><b>Bite</b></td>
-  <td>The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing <i><b>25 damage</b></i>. (Roughly 40+ damage if corrupted)</td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td><b>Dive</b></td>
-  <td>The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. (<b>Etrean Luminant Exclusive</b>)</td>
-  <td><b>N/A</b></td>
-  <td>(☆☆☆)</td>
-</tr>
-<tr>
-  <td><b>Cero</b></td>
-  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>55 damage</b></i>. (Corrupted Lionfish deal <i><b>165 damage</b></i> with this move.) If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. (<b>Depths Exclusive</b>)</td>
-  <td><font>✗</font></td>
-  <td>(★★☆)</td>
-</tr>
-</tbody>
-</table>
+| **Name** | **Description** | **Parry-able?** | **Danger** |
+| --- | --- | --- | --- |
+| **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) | ◯ | (★☆☆) |
+| **Dive** | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. (**Etrean Luminant Exclusive**) | **N/A** | (☆☆☆) |
+| **Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing _**55 damage**_. (Corrupted Lionfish deal _**165 damage**_ with this move.) If the opponent is low enough, It will **AUTO-GRIP** the player. (**Depths Exclusive**) | ✗ | (★★☆) |
 
 **Glacial Lionfish:**
 
@@ -65,28 +42,13 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 
 ## Moves
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Name</b></th>
-  <th><b>Description</b></th>
-  <th><b>Parry-able?</b></th>
-  <th><b>Danger</b></th>
-</tr>
-<tr>
-  <td><b>Bite</b></td>
-  <td>The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, dealing <i><b>25 damage</b></i>. (Roughly 40+ damage if corrupted)</td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td><b><font>Chilling Cero</font></b></td>
-  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged,it'll come back down, firing a massive laser beam at its opponent, dealing <i><b>??? Damage</b></i>, and <font>chilling</font> whoever gets hit by it. This also leaves <font>ice</font> where it lands.<p><font>This will auto-grip you if hit by it at low health</font></p><font></font></td>
-  <td><font>✗</font></td>
-  <td>(<font>★★</font>☆)</td>
-</tr>
-</tbody>
-</table>
+| **Name** | **Description** | **Parry-able?** | **Danger** |
+| --- | --- | --- | --- |
+| **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) | ◯ | (★☆☆) |
+| **Chilling Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged,it'll come back down, firing a massive laser beam at its opponent, dealing _**??? Damage**_, and chilling whoever gets hit by it. This also leaves ice where it lands.
+This will auto-grip you if hit by it at low health
+
+ | ✗ | (★★☆) |
 
 ## Located
 

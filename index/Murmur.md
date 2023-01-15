@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 47804
+revid: 47852
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -58,7 +58,7 @@ This ability does not scale on Power, therefore, it will always cost ether.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
+**Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
 
 Tacet potentially has a multiple modes, since when the user presses G while crouching Tacet is quickly activated and deactivated, indicated by its rings quickly going in and out, as if sending out a signal or radar. It is unknown what this does. Pressing G while Tacet is already activated will deactivate it. (This is not about the normal CTRL + G)
 
@@ -79,11 +79,21 @@ Murmur: Tacet can be obtained by doing bounties for [Cestis](Cestis.md), who is 
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
-Note: The Stranger NPC exists, but he no longer gives Tacet to players.Template:ImageCaption Infobox
+Note: The Stranger NPC exists, but he no longer gives Tacet to players.
 
-_"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
+  
 
-Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
+  
+
+  
+
+  
+
+## Murmur: Rhythm
+
+Template:ImageCaption Infobox _"An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched."_
+
+**Murmur: Rhythm** is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
 
 ### Obtainment
 

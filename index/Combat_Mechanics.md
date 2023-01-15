@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47839
+revid: 47842
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -21,44 +21,40 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's health. Upon reaching 0% health, the player gets knocked out and is at mercy to anyone around them. Players starts with 150 Health.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
-    <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
-    <li>At 35% and below, you become mortally injured- Reducing movement speed.</li>
+    <li>Players cannot regenerate health if their hunger bar is below ~12.5%</li>
+    <li>The lower your health is, the slower you get. In short terms, health directly affects your agility.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
-  <td>A visual representation of the player's posture and stamina. It shows the stamina that the player has left to block.
+  <td>A visual representation of the player's posture. When filled up to maximum or overshooting, be it from getting parried or blocking attacks, the next blocked hit would instead guard break, dealing increased damage.
   <ul>
-    <li>When the bar is full, getting hit will stun the player, and their stamina will decrease.
-  <ul>
-    <li>Stuns when hit become longer the less Posture a player has.</li>
-  </ul></li>
-    <li>Stamina also decreases if the player lands parries or stops blocking.</li>
+    <li>Posture decreases if the player lands parries and/or stops blocking.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not the player can use certain moves.
+  <td>Icons that indicate whether or not the player can do certain actions.
   <ul>
-    <li>The first icon shows the cooldown of feints/roll cancels, the second shows the rolling cooldown, and the third shows the potion cooldown.</li>
-    <li>If the player have a <a href="Resonance.md">Resonance</a>, a 4th cooldown indicator will be added, representing Resonance cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
+    <li>The first icon represents roll/dodge cooldown, the second represents parrying cooldown, the third representing cancels and feints and the fourth representing potion cooldowns.</li>
+    <li>If the player has a <a href="Resonance.md">Resonance</a>, a 5th cooldown indicator will appear, representing Resonance cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
   </ul></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
-  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and without Ether, the player cannot use spells or magic.
+  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and mantras cannot be used without sufficient Ether. (Talents
   <ul>
-    <li>Different spells use a different amount of Ether, and varies often.</li>
-    <li>Ether regenerate passively very slowly, however, Tempo can greatly increase Ether regeneration.</li>
-    <li>When out of combat, Ether regenerate rapidly.</li>
+    <li>Different mantras use varying amounts of Ether.</li>
+    <li>Ether passively regenerates, and regeneration is buffed with high Tempo.</li>
+    <li>Ether also regenerates faster when out of combat.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Tempo</th>
   <td>A visual representation of the player's tempo. Tempo is gained by hitting or being hit, tempo increases ether regen during battle. Maximum tempo starts at 120.
   <ul>
-    <li>Tempo decreases over time when not in active combat.</li>
-    <li>When at 40 tempo, you can vent to break out of combos. When at max you can vent twice.</li>
+    <li>Tempo decreases over time, and is "stored" when out of combat</li>
+    <li>With at least 40 Tempo, press G to Vent. This pushes away anyone near you but can be parried/blocked.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47835
+revid: 47848
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -291,7 +291,7 @@ A Megalodaunt swimming.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
     -   Moves such as **Thousand Needles** and **Spit** are, however, really hard to avoid, as it covers a good Area of Effect.
--   It is possible to parry **Kick** if the player has the [Hunter's Brace](Outfits.md#arms) or [Ignition Deepdelver](Ignition_Deepdelver.md) equipped.
+-   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) or [Ignition Deepdelver](Ignition_Deepdelver.md) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree and let the sharko stand on top, which will make the Sharko miss all it's attacks. It's very risky but it is profitable.
 -   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting roblox matchmaking do its thing.

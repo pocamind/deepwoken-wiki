@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 47803
+revid: 47847
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -76,7 +76,7 @@ The method **requires no encounters with Watchers.**
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
-Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
+Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air. boosting ether regeneration. Escaping will also award both of your character's lives back.
 
 ### _Note:_
 

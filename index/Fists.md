@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 47402
+revid: 47840
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -22,7 +22,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae) , -> Navaen Nomad Hostage , --> Eastern Camp Master , or , --> Eastern Tribal Leader , (Legion Kata) , -> Help Legion Captains , --> Get their recommendation , ---> Amara , (Jus Karita) , -> 40 LHT, Power 6 , --> Polis |
+| obtainment | (Way of Navae) , Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata) , Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Jus Karita) , Step 1: Have 40 LHT and be Power 6. , Step 2: Talk to Polis in Etris. |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita |
 
 “ MAKING THE MOTHER OF ALL OMELETTES HERE JACK! CANT FRET OVER EVERY EGG! ”
