@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 47574
+revid: 47724
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -57,6 +57,7 @@ This weapon has 3 passives abilities:
         -   "Foolish pawns playing god."
         -   "False strength."
         -   "Your cause is a poison to this world, pawn."
+        -   "Death cannot contain me."
     -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of _[Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix#Dialogue)_, the final boss of [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2).
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.

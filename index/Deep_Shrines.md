@@ -1,12 +1,17 @@
 ---
 title: Deep Shrines
-revid: 47172
+revid: 47701
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Deep Shrines
+
+| Example | |
+|---|---|
+| row1 | If your power 12 then you would have 180 points and if you have willpower, strength, intelligence, fortitude, which is 4 different stats, it would divide 180 by 4 which would be 45 and so you would have 45 investment points in the different aspects even if you have 1 strength. |
+| row2 | However if your inability from race has 2 charisma then it would not divide by 5 and just ignores it without adding stats. |
 
 ## Overview
 

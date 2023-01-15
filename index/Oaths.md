@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47671
+revid: 47791
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -317,7 +317,7 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and ask
 -   **Decisive Winds - Passive**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 -   **Rush of Ancients - Passive**
-    -   Dodging at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+    -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
         -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
 
 ### Effects
@@ -402,6 +402,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
+    -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
@@ -468,7 +469,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
-1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.) (You also **NEED** at least 1 assassination)
+1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.) <- (slightly more, just died to him with exact neutral rep)
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
@@ -505,6 +506,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
+-   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
         
 

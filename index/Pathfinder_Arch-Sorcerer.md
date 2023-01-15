@@ -1,16 +1,12 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 45500
+revid: 47780
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
 ---
 
 # Pathfinder Arch-Sorcerer
-
-“ Spider Cloak in Deepwoken??!!!?? ”
-
-― An SC DSage that started to play Deepwoken
 
 Template:ArmorInfobox
 

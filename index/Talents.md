@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47606
+revid: 47727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -146,7 +146,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 ### Apex Predator
 
--   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
+-   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Prerequisite: 5 Strength & 5 Willpower
     -   Mutual Exclusive: [Vegetarian](Boons_and_Flaws.md), Herbivore
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
@@ -166,7 +166,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   Also apply to sheathing.
     -   Prerequisite: 15 Agility
--   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +3 Health)
+-   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
@@ -182,7 +182,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: Power 10, 65 Thundercall
--   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, butt will deal 10% less damage to you.
+-   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, but will deal 10% less damage to you.
     -   Prerequisites: Power 15, 65 Thundercall
 -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
 -   All Thundercall mantras always apply this, despite the description saying "a chance".
@@ -200,7 +200,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
+-   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Negate movement speed penalty of blocking.
@@ -864,7 +864,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Liberator
 
--   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+3 Health, +1 Sanity)
+-   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
     -   "Saved" being interrupting a grip attempt.
 
 ### Limitbreaker
@@ -872,16 +872,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility, +2 Health)
     -   5 Second Cooldown.
     -   Prerequisites: 25 Agility, Fists
--   Uproar \[Common Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
+-   Uproar \[Common Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)
     -   Prerequisite: 35 Fortitude
 -   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 1.2x faster (+4 Health, +5 Sanity)
     -   Grant up 1.25x damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
     -   The radical function, y =sqrt{1.125x}, is able to get 50% insanity to exactly 75% of the buff. Because we don't know what Archmage did, whether that be round up the number, or make it so that anything beyond 0.8889 is automatically set to be the 1.25x buff is uncertain.
     -   Prerequisite: 30 Strength and 30 Fortitude
--   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
+-   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
--   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
+-   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+10 Sanity)
 -   Piercing Will \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
@@ -1204,7 +1204,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Sturdy Resolve
 
--   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced. (+2 Health)
+-   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
 -   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
     -   Negate tier 1 insanity: Shivering.
@@ -1214,7 +1214,7 @@ These Talent are meant to make maintaining your ship easier.
 
 These Talents are designed to let you survive longer against starvation and thirst by making living off of Mother Nature easier.
 
--   Herbivore \[Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
+-   Herbivore \[Common Talent\] - You gain more nutrition from eating plants.
     -   Mutually Exclusive: Carnivore
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: Herbivore
@@ -1250,13 +1250,13 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
     -   Prerequisite: 40 Flamecharm
--   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (2 Elemental Intensity, +2 Health)
+-   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (+2 Elemental Intensity, +2 Health)
     -   Prerequisite: 30 Flamecharm
 
 ### The Negotiator
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
-    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which as a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
+    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
     -   Prerequisites: 75 Charisma, all Silver Tongue talents
 
@@ -1454,22 +1454,22 @@ These Talents are designed to make you more effective in water.
     -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Flame Blind mantra.
--   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
+-   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Fortitude 15 Strength
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
--   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
+-   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.
+-   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
--   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
+-   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+5 Ether)
     -   Prerequisite: 30 Fortitude
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain.
 -   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
--   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage. (+3 Health, +7 Ether)
--   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them. (+3 Health)
+-   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.
+-   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
     -   Knocking enemies will replenish more of your health and posture.
 -   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisite: Power 10
@@ -1738,7 +1738,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
 -   Conditioned Runner \[Advanced Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)
 -   Everchanging Aegis \[Legendary Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
--   Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+10 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)

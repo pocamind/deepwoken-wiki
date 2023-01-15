@@ -1,9 +1,9 @@
 ---
 title: Trial of One
-revid: 46831
+revid: 47723
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Locations]
 ---
 
 # Trial of One
@@ -55,10 +55,6 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 ## Rewards
 
-File:Reward for finishing.png
-
-Mark of the Lone Warrior's talent description
-
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
 -   The [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) when creating a character for reaching past the half-way point (Thresher)
@@ -66,7 +62,7 @@ Mark of the Lone Warrior's talent description
 ## Tips and Tricks
 
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes and giving a boost to further progression.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes ~and giving a boost to further progression.~ This has been removed since layer 2 update.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 
 ## Trivia

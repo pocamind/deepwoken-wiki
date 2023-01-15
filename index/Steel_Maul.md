@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 47177
+revid: 47775
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -24,7 +24,7 @@ categories: [Weapons, Greathammers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weapon shop in Etris, Lower Erisia (Chests) |
-| description | "A sturdy maul perfect for knocking walls and people down alike" |
+| description | "A sturdy maul perfect for knocking walls and people down alike." |
 
 | Steel Maul | |
 |---|---|
@@ -43,13 +43,13 @@ categories: [Weapons, Greathammers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chime of Conflict (Chests) |
-| description | "A sturdy maul perfect for knocking walls and people down alike" |
+| description | "A sturdy maul perfect for knocking walls and people down alike." |
 
 **Base:**
 
 ## Description
 
-The steel maul is a heavy weapons hammer that deals a base damage of 22 with 7 scaling and 9 range. The steel maul can be purchased in the weapons shop of [Etris](Etris.md) or found through chests in [Lower Erisia](Lower_Erisia.md). This weapon **can** be alloyed, this raises the stats to match late game tier weaponry.
+The Steel Maul is a Heavy Greathammer that deals a Base Damage of 22 with 7 Scaling and 9 Range. The Steel Maul can be purchased in the weapons shop of [Etris](Etris.md) or found through chests in [Lower Erisia](Lower_Erisia.md). This weapon **can** be alloyed, raising the stats to match late game tier weaponry.
 
 **Alloyed:**
 
@@ -60,4 +60,4 @@ The upgraded version of the Steel Maul. Just a normal Steel Maul but with increa
 ## Trivia
 
 -   Generally regarded as a bad weapon when not alloyed.
--   Basically a starter great hammer.
+-   Basically a starter Greathammer.

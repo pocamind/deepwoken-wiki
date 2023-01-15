@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 38260
+revid: 47726
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -24,7 +24,7 @@ categories: [Weapons, Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bought at Summer Isle for 200 Notes, The Depths (Chests) |
+| obtainment | Bought at Summer Isle for 200 Notes, The Depths (Chests), Chime of Conflict (Chests) |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
 
 ## Description

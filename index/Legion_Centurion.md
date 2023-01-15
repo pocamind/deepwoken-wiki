@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 45763
+revid: 47752
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 40850
+revid: 47786
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs]
@@ -8,14 +8,14 @@ categories: [Pages with broken file links, World, NPCs]
 
 # Nanji
 
+| Nanji | |
+|---|---|
+| name | Nanji |
+| location | Etris |
+
 Located in Etris (Starting Island), near Corrupt Officer (Nerin).
 
   
-
-File:Image 2022-04-18 225005764.png
-
-Nanji in Etris in their usual spot
-
 Nanji is an Etrean NPC with unknown origins and has a brother who died due to unknown circumstances, their only known purpose is The Chipped Sword quest which requires you to find their brother's katana in the [Isle of Vigils](Isle_of_Vigils.md)
 
   
@@ -23,6 +23,7 @@ Nanji is an Etrean NPC with unknown origins and has a brother who died due to un
   
 
   
+
 **Chipped Sword Quest**
 
 When talking to Nanji they will ask you to find their brother, their brother is dead due to unknown causes but you can still find his chipped rusted sword in the [Isle of Vigils](Isle_of_Vigils.md).

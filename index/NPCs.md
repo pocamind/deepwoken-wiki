@@ -1,9 +1,11 @@
 ---
 title: NPCs
-revid: 47687
+revid: 47790
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [In progress without reason, InProgressPages, NPCs]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # NPCs
@@ -161,6 +163,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
+  <td>Korin</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Retrieve 6 woods quest.</td>
+  <td>He's a great way to get reputation, everytime you sell a chunk of wood from him, it will give you Etrea Reputation. This quest doesn't have any cooldown and is indefinitely repeatable.</td>
+</tr>
+<tr>
   <td><a href="Karliah.md">Karliah</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="Etris.md">Etris</a></td>
@@ -259,11 +268,32 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
+  <td><a href="Nanji.md">Nanji</a></td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Find his brother's katana</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="Attunement_Trainers.md">Nell</a></td>
+  <td>Unaligned</td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Grants <a href="Frostdraw.md">Frostdraw</a> attunement</td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Nyanna.md">Nyanna</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="The_Depths.md">The Depths</a>, <a href="Castle_Light.md">Castle Light</a></td>
   <td>Equipment Vendor</td>
   <td>Stock changes, weapons and armor can be bought enchanted</td>
+</tr>
+<tr>
+  <td><a href="Chef_Odiolavoro.md">Odiolavoro</a></td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Become his "sous-chef" by helping him making meals.</td>
+  <td>Meals change.</td>
 </tr>
 <tr>
   <td>Cap'n Orlandeau</td>

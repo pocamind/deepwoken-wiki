@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 46874
+revid: 47722
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
@@ -41,3 +41,5 @@ Applying Sparks to the mantra will alter what you disguise as, variations are li
 ## Trivia
 
 -   The statue you transform into is the statue of the King of Etrea seen in Etris Palace.
+
+-   Using the Campfire disguise while having the talent ''Azure Flames'' will make your Campfire have blue flames instead of red.
