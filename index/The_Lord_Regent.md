@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 47783
+revid: 47793
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -40,7 +40,8 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change the interaction with Lord Regent.
--   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "filthy, void-touched assassin" .[https://gyazo.com/173cf3a58e189e2227f38050aa348e14](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)
+-   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
+    -   This may be because of the Knives of Eylis current alignment with the Authority.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: “What a foolish tradition." "You'll find that I'm being very merciful right now." "How cute. Care for me to show you true horror?" "Take that stupid thing off."
     -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
         -   Initially he would kill you for attempting it, but that feature was removed.

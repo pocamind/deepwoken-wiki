@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 47554
+revid: 47794
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -411,7 +411,7 @@ _"A place remembered only by the waves"_
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
 
 -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths. Ragoozer has hinted at the possibility of there being five.
--   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleetsky did.
+-   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Many of the layers are created after a great drowning sinks a civilization.
 
 #### **Scyphozia, The First Layer**

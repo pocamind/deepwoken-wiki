@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 46371
+revid: 47813
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,15 +31,15 @@ Carbuncles only has 2 attacks, listed below:
 
 | Name | Description |
 | --- | --- |
-| Feast | Feast upon the Victim, executing them. |
+| Feast | Feasts upon the Victim, executing them. |
 
 ## Tips
 
--   Carbuncles always have Hyperarmor; shrugging off all attacks that apply daze or stun.
+-   Carbuncles will always have Hyperarmor; shrugging off all attacks that apply daze or stun.
 -   Carbuncles alone won't be a problem, but a handful of them grouped together will mince Players into a **stunlock** until they get out of it.
 -   Carbuncles in terms of difficulty are not hard; as they signify what kind of attack they'll use with an initial, distorted growl.
 
 ## Trivia
 
--   Carbuncles originate from The Eternal Gale's Parasites that was brooding in their victims, later in their initial phase of incubation.
--   With further analysis of what the Parasite does to the host's movement, the Parasite uses both its limbs and the host's to maneuver and attack.
+-   Carbuncles originate from The Eternal Gale's Parasites that brooded their victims, later in their initial phase of incubation.
+-   With further analysis of what the Parasite does to the host's movement, the Parasite uses both of its limbs and the host's to maneuver and attack.

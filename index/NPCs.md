@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 47790
+revid: 47807
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -51,6 +51,20 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
+  <td><a href="Alastir.md">Alastir</a></td>
+  <td>Unaligned</td>
+  <td><a href="Upper_Erisia.md">Upper Erisia</a>, <a href="Pathfinder's_Respite.md">Pathfinder's Respite</a></td>
+  <td>Gives Glider schematic, gives a chest to those who give him ragdolled villagers</td>
+  <td>You cannot give him <a href="Forgotten_Villager.md">Forgotten Villagers</a>, you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time</td>
+</tr>
+<tr>
+  <td><a href="Attunement_Trainers.md">Amashi</a></td>
+  <td>Unaligned</td>
+  <td><a href="Songseeker_Wilds.md">The Songseeker Wilds</a>, <a href="Songseeker_Temple.md">Songkeeper Temple</a></td>
+  <td><a href="Flamecharm.md">Flamecharm</a> spelltrainer</td>
+  <td></td>
+</tr>
+<tr>
   <td>Andrea</td>
   <td>Unaligned</td>
   <td><a href="The_Depths.md">The Depths</a>, The Cathedral of Interstice</td>
@@ -62,6 +76,20 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="The_Garden_Reservoir.md">The Garden Reservoir</a>, entrance in the <a href="Towerstruck_Lands.md">Towerstruck Lands</a></td>
   <td>Gives quest to kill a <a href="Megalodaunt.md">Megalodaunt</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Avian</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">Temple of the Blade</a>, Arena</td>
+  <td>Gives quest to bring a Weapon Manual</td>
+  <td>Consumes one usage of the manual upon quest completion</td>
+</tr>
+<tr>
+  <td>Bari</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Docks</td>
+  <td>Gives lumber axe, lumberjack quest, treefelling blow quest</td>
   <td></td>
 </tr>
 <tr>
@@ -86,11 +114,25 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
+  <td>Drefa</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_Approach.md">Temple Approach</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td>Emel</td>
   <td><a href="The_Ministry.md">The Ministry</a></td>
-  <td><a href="Songseeker_Wilds.md">Songseeker Wilds</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, island near the port</td>
   <td>Grants quest to kill an enemy in the <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, gives positive Ministry reputation, gives exp, gives notes</td>
   <td>The quest is repeatable</td>
+</tr>
+<tr>
+  <td><a href="Evengarde_Rest.md">Maestro Evengarde Rest</a></td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">Temple of the Blade</a>, Arena</td>
+  <td>Weapon proficiency unbound</td>
+  <td></td>
 </tr>
 <tr>
   <td>Flabbermaster Filigree, the First Mate</td>
@@ -110,7 +152,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Attunement_Trainers.md">Friid</a></td>
   <td>Unaligned</td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a></td>
-  <td><a href="Galebreathe.md">Galebreathe</a> <a href="Attunement_Trainers.md">Spelltrainer</a></td>
+  <td><a href="Galebreathe.md">Galebreathe</a> spelltrainer</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="Attunement_Trainers.md">Funke</a></td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, Castle, upstairs</td>
+  <td>Thundercall</td>
   <td></td>
 </tr>
 <tr>
@@ -152,7 +201,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Jessamine.md">Jessamine</a></td>
   <td>Unaligned</td>
   <td><a href="The_Starswept_Valley.md">Starswept Valley</a>, <a href="Widow's_Hollow.md">Widow's Hollow</a></td>
-  <td>Gives Thresher Scales quest</td>
+  <td>Thresher Scales quest</td>
   <td></td>
 </tr>
 <tr>
@@ -163,18 +212,18 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Korin</td>
-  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
-  <td><a href="Etris.md">Etris</a></td>
-  <td>Retrieve 6 woods quest.</td>
-  <td>He's a great way to get reputation, everytime you sell a chunk of wood from him, it will give you Etrea Reputation. This quest doesn't have any cooldown and is indefinitely repeatable.</td>
-</tr>
-<tr>
   <td><a href="Karliah.md">Karliah</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="Etris.md">Etris</a></td>
   <td>Charisma unbound quest</td>
   <td>Having 10 Charisma allows you to charge her</td>
+</tr>
+<tr>
+  <td>Kelsius</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">The Temple of the Blade</a>, Library</td>
+  <td>Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost</td>
+  <td>If you completed the tutorial, the Whisper hand is free</td>
 </tr>
 <tr>
   <td>Kennith</td>
@@ -184,11 +233,18 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Requires positive Etrea reputation, is killed during the events of the quest, cannot be interacted with afterwards</td>
 </tr>
 <tr>
-  <td><a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a></td>
+  <td><a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris Llfiend, Mother of Lights</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="Castle_Light.md">Castle Light</a></td>
-  <td><a href="Oaths.md#oath-dawnwalker">Dawnwalker Oath</a> obtainer</td>
-  <td>Also provides a Deepshore Fossil</td>
+  <td>Allows for expdission into Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Korin</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Gives lumber axe, lumberjack quest, treefelling blow quest</td>
+  <td>Quest is repeatable</td>
 </tr>
 <tr>
   <td>Lake</td>
@@ -226,6 +282,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
+  <td>Malte</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">The Temple of the Blade</a>, Library</td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Marcus.md">Marcus</a></td>
   <td>Unaligned</td>
   <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
@@ -258,7 +321,21 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Unaligned(?)</td>
   <td>Outskirts of <a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></td>
   <td>Can grant a DMG boost for the upcoming Boss, <a href="Scion_of_Ethiron.md">Scion of Ethiron</a>, or resets <a href="Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> wish cooldown.</td>
-  <td>These options come with a cost, killing you if paid short, usually ending in a wipe.</td>
+  <td>These options come with a cost, killing you if paid short, usually ending in a wipe</td>
+</tr>
+<tr>
+  <td><a href="Nanji.md">Nanji</a></td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Grants finding Illji quest</td>
+  <td>Illji's katana is found on a cliff near the <a href="Isle_of_Vigils.md">Isle of Vigils</a></td>
+</tr>
+<tr>
+  <td><a href="Attunement_Trainers.md">Nell</a></td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><a href="Etris.md">Etris</a>, Alchemist hut</td>
+  <td><a href="Frostdraw.md">Frostdraw</a> spelltrainer</td>
+  <td></td>
 </tr>
 <tr>
   <td>The Nestmind</td>
@@ -268,17 +345,10 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td><a href="Nanji.md">Nanji</a></td>
-  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
-  <td><a href="Etris.md">Etris</a></td>
-  <td>Find his brother's katana</td>
-  <td></td>
-</tr>
-<tr>
-  <td><a href="Attunement_Trainers.md">Nell</a></td>
-  <td>Unaligned</td>
-  <td><a href="Etris.md">Etris</a></td>
-  <td>Grants <a href="Frostdraw.md">Frostdraw</a> attunement</td>
+  <td>Nostor</td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="The_Depths.md">The Depths</a>, <a href="Varicosa_District.md">Varicosa District</a>, Sewer</td>
+  <td><a href="Shadowcast.md">Shadowcast</a> spelltrainer</td>
   <td></td>
 </tr>
 <tr>
@@ -298,7 +368,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>Cap'n Orlandeau</td>
   <td>Unaligned</td>
-  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a>, <a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></td>
+  <td>Dungeon, <a href="Tutorial.md">Tutorial</a>, <a href="The_Scoundrel's_Bounty.md">The Scoundrel's Bounty</a><p><br>
+  <a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></p></td>
   <td>Teaches new players the basics of the game</td>
   <td>Suprisingly found in Second Layer Floor 2.<p>Might give a different dialogue if you have the Castaway origin who has done the tutorial.</p></td>
 </tr>
@@ -340,7 +411,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td>Raphael</td>
   <td>Unaligned</td>
-  <td><a href="The_Depths.md">The Depths</a>, Varicosa District</td>
+  <td><a href="The_Depths.md">The Depths</a>, <a href="Varicosa_District.md">Varicosa District</a></td>
   <td>Grants Find Morning quest</td>
   <td>The quest is still in development</td>
 </tr>
@@ -387,6 +458,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Will take your Void Feathers to unlock more Visionshaper mantras</td>
 </tr>
 <tr>
+  <td>Suyuan</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">The Temple of the Blade</a>, Library</td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
   <td>Theadre</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a></td>
@@ -399,6 +477,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Summer_Isle.md">Summer Isle</a>, Inn</td>
   <td>Grants Loansharking quest</td>
   <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two <a href="Summer_Company_Guard.md">Summer Company Guards</a></td>
+</tr>
+<tr>
+  <td><a href="Valikor.md">Valikor</a></td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">The Temple of the Blade</a>, Library</td>
+  <td>Gives Spellshout talent</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Windrunner.md">Windrunner</a></td>
@@ -417,7 +502,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 <tr>
   <td><a href="Zana.md">Zana</a></td>
   <td>Unaligned</td>
-  <td><a href="Isle_of_Vigils.md">Isle of Vigils</a>, Vigil Docks</td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Docks</td>
   <td>Questline for 'Poser Ring'</td>
   <td>Challenges you with your Katana equipped in 3 different locations.</td>
 </tr>

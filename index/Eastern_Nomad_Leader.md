@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 47350
+revid: 47809
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0
 
 An Eastern Nomad Leader is an enemy NPC that can be found fighting two [Ministry Scouts](Ministry_Scout.md) on [Summer Isle](Summer_Isle.md), accompanied by a regular [Eastern Tribe Nomad](Eastern_Nomad.md). Unlike the regular Nomad, the Nomad Leader has the ability to use the [Frostdraw](Frostdraw.md) attunement. A passive one can be found in the [Etrean Wilds](Etrean_Wilds.md), sharing stories with other nomads around a campfire.
 
-They wear a Rebel's Bandana, Novice's Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their race being a [Gremor](Gremor.md) and can either appear younger or above 40 years old with their gender varying.
+They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their race being a [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying.
 
 ## Moveset
 
-An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Longspear.md) or [Fists](Fists.md) (**Way of Navae**) and the [Frostdraw](Frostdraw.md) attunement:
+An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Longspear.md) or [Fists](Fists.md) (**Way of Navae**) along with the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 \[[Fists](Fists.md)\] Raises right leg before firmly slamming it down into the ground below.
 
  | ◯ | ✗ | (★★☆) |
-| Ice Eruption | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
+| Glacial Eruption | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
@@ -51,3 +51,4 @@ An Eastern Nomad Leader executes it's opponent after knocking them:
 ## Trivia
 
 -   You can hand them a Navaen Hostage to obtain the [Way of Navae](Fists.md) fighting stance.
+-   The only NPC that is able to use the old "Ice Eruption" mantra since the Layer 2 update.

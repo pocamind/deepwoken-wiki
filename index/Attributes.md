@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 47579
+revid: 47810
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -156,3 +156,4 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 ## Tips
 
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough EXP to increase a stat, but not enough to level up.
+-   Make Sure to be leveling up all of your stats at the same time for faster leveling and better talents.

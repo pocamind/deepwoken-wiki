@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 46704
+revid: 47804
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -75,16 +75,13 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained by looking for [Cestis](Cestis.md) in a isolated tent near [Meteor Isle](Meteor_Isle.md). You need negative reputation with Etris.
+Murmur: Tacet can be obtained by doing bounties for [Cestis](Cestis.md), who is in a isolated tent near [Meteor Isle](Meteor_Isle.md). You need negative reputation with Etris in order to interact with him.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
--   The stranger npc, while being real, No longer gives tacet
--   To obtain tacet, perform bounties for cestis in an isolated tent at meteor isle, you must have negative rep with etris.
+Note: The Stranger NPC exists, but he no longer gives Tacet to players.Template:ImageCaption Infobox
 
-## Murmur: Rhythm
-
-Template:ImageCaption Infobox _"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
+_"An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."_
 
 Murmur: Rhythm is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
 

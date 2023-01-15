@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 46035
+revid: 47808
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -287,6 +287,8 @@ Critical
     -   It's essentially a skill check.
 -   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
     
+
+Template:Areainfobox
 
 ## Trivia
 

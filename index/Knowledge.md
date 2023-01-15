@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 46975
+revid: 47805
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -49,7 +49,7 @@ The maximum for said currency is 99.
 -   The Shrine of Order is located in Songseeker Islands, Miner's Cave
 -   The Shrine of Chance is located in Fort Merit
 -   The Shrine of Temptation is located in Minityrsa, Crypt of the Unbroken
--   The Shrine of Blasphemy is located in Lower Erisia, Hidden Village
+-   The Shrine of Blasphemy is located in Upper Erisia, Hidden Village
 
 ## Effects of Knowledge
 

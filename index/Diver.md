@@ -1,9 +1,9 @@
 ---
 title: Diver
-revid: 43376
+revid: 47798
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, World, NPCs, Factions]
+categories: [In progress with reason, InProgressPages]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -76,3 +76,7 @@ An Apprentice Diver executes it's opponent after knocking them:
 \[[Iron Birch](Iron_Birch.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
 
  |
+
+## Trivia
+
+-   Despite being completely identical to [apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.

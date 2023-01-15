@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47791
+revid: 47815
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -275,6 +275,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
+-   Please don't aim for this because of how hard it is to get I assure you it won't be of help.
 
 **Jetstriker:**
 
@@ -534,7 +535,7 @@ Killing people in Layer 1 of The Depths who have an Oath will progress Contracto
 **Lore Sources:** _Barbers (Mentioned)_
 
 -   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
--   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
+-   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke. But if u can give arch the perfect fade he will bless you with it.
     
 
 ## Trivia
@@ -556,4 +557,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ This is false. (Source: Able to get Starkindred at 50 strength on a Gremor, Gremor has +2 Str. +2 Frt.)
+-   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ Exclusively applies to Arcwarder (Source: Able to get Starkindred at 50 strength on a Gremor, Gremor has +2 Str. +2 Frt.)

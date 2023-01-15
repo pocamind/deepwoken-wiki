@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 46618
+revid: 47811
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -22,18 +22,19 @@ Remnant of the stars themselves rain down upon this rocky spire.
 
 ## Points of Interest
 
--   Ata, the Celtor- Mantra Spark Vendor
+-   Ata, the Celtor - Mantra Spark Vendor
 -   Sekh, Vesperian Hivekin - Meteor Isle Lore
 -   Eres, Etrean Outcast - Etrea Lore
+-   Beiruul, the Gremor - Quest Giver
 
 ## Events
 
--   Meteor Impact- a meteor will fall from the sky and spawn [Meteorskippers](Mudskipper.md)
--   Authority raid- 2 Authority flamecharmers will attack the island.
+-   Falling Meteor - A meteor will fall from the sky, landing on a part of the island and spawn [Meteorskippers](Mudskipper.md).
+-   Authority Raid - 2 [Authority Flamecharmers](Authority_Soldier.md) will attack the island.
 
 ## Trivia
 
 -   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
 -   [Cestis](Cestis.md), who was previously located in [The Hidden Village](The_Hidden_Village.md) was moved here in the Verse 2 update.
 -   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
-    -   Although there _are_ mixed relationships between eachother, they refrain themselves from violence in Meteor Isle.
+    -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
