@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 47678
+revid: 47926
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -366,7 +366,7 @@ File:No Attunement Revamp.png
 
 -   These mantras are based on the amount of weapons points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
--   To increase the damage/level cap, read a "Weapon Manual", parry, block and hit enemies with your weapon. (haha no dodging fuck you)
+-   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual", parry, block and hit enemies with your weapon.
 
 ### _**Light Weapon Mantras**_
 
@@ -458,7 +458,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can increase the duration of Fortitude and Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md), although this does not work for Adrenaline Rush.
 -   You can use Summon Cauldron as a portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
--   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance travelled BUT allows you to use it twice before it goes on cooldown.
+-   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance traveled BUT allows you to use it twice before it goes on cooldown.
 -   You can modify Revenge with a [Reversal Spark](Mantra_Modifiers.md), which makes it do _**absolutely nothing.**_
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
@@ -475,4 +475,3 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.
 -   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
--   Reinforce needs further testing, but seems to give a 10% damage boost as well - (If you test it and find different damage numbers, please send me whatever results you find on Discord: LeDawgCoot#7583)

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47842
+revid: 47919
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -61,7 +61,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <th>Armor Durability</th>
   <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and its defensive values no longer applies.
   <ul>
-    <li>Armor can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
+    <li>Armor can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, The Metal <a href="Enchantments.md">Enchantment</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

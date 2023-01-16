@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 47322
+revid: 47924
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -47,6 +47,7 @@ The doors to enter the Lordsgrove.
 
 -   The player can find a Shipwright who will spawn, craft and recall your [ships](Ships_&_Sailing.md).
     -   If the player is famous with The Hive, the Shipwright will bring up ship modification, or Lifeweaving, which could be a upcoming or undiscovered feature.
+    -   The Shipwright is un-interactable until the player reaches maximum reputation with The Hive.
 
 #### Library
 

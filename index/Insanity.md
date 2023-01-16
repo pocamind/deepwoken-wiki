@@ -1,12 +1,14 @@
 ---
 title: Insanity
-revid: 43739
+revid: 47917
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
 ---
 
 # Insanity
+
+_"P̴L̷U̴C̷K̴ ̴O̶U̶T̴ ̵T̵H̴I̸N̶E̵ ̶E̵Y̶E̶S̵,̷ ̴T̸E̵A̷R̵ ̶O̶U̴T̶ ̶T̷H̸I̵N̴E̸ ̷T̸H̴R̶O̵A̴T̴,̷ ̴L̵A̴Y̶ ̵W̷A̸S̷T̵E̴ ̷T̶O̶ ̷A̷L̶L̴ ̴W̷H̶I̷C̷H̸ ̷I̸S̴ ̵S̸A̷C̷R̸E̵D̶,̷ ̴T̵H̵E̴ ̶M̶O̷O̵N̸S̶E̶Y̶E̵ ̵C̵O̷N̴V̷E̶R̴G̸E̷S̸ ̶W̶I̷T̵H̷ ̵T̷H̸A̶T̵ ̷B̶E̷L̴O̴W̵.̵" -Insanity killsplash_
 
 **Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also in the Etrean Luminant to a lesser extent.
 
@@ -33,6 +35,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depths](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
 -   Being hit by a weapon enchanted with No Life King
+-   Being in the immediate vicinity of the meatball chains in [Ancient Rotlands](Ancient_Rotlands.md) (be careful as those whom have low sanity can be sent to the depths instantly, because it is a voidzone.)
 
 ## Insanity Decreasing Effects
 

@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 47323
+revid: 47913
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -15,9 +15,9 @@ notices:
 | territory | Minityrsa |
 | goals | The sinking of the Overworld into the depths, Clear out the Navaen Nomads in Summer Isle |
 
-“ Celtor will repeat itself here... The world will fall under The Depths... ”
+“ GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. ”
 
-― Dark Mage Cultist
+― Yun'shul on Celtor and the Ministry
 
 ## Description
 
