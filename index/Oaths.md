@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47948
+revid: 47986
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -482,7 +482,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Upgrading
 
-Killing people without any help in Layer 1 of The Depths who have an **OATH** will progress Contractor. (Note: These must be solo grips on players with an **OATH**, attacking and killing the player by oneself.)
+As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. Pack tactics cannot be used: you must obtain these grips alone or they will not count.
 
 -   1 Grip - Hidden Tendril/Lords Slice
 -   2 Grips - Equalizer
@@ -505,13 +505,14 @@ Killing people without any help in Layer 1 of The Depths who have an **OATH** wi
 
 ### Notes
 
--   Your base reputation with The divers is negative.
+-   Upon obtaining the oath, your reputation with The Divers will plummet into the negatives. (Can you eventually restore it? testing needed)
+    -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Black Divers guards.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
--   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
-        
+-   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
+    
 
 ## Lore Oaths:
 

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 47953
+revid: 47985
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -112,7 +112,9 @@ File:Rashet.png
 
 File:AuthoritySymbol.png
 
-[The Authority](The_Central_Authority.md)
+[The Central Authority](The_Central_Authority.md)
+
+  
 
  | **Rashet**: Removes hostilities with the Authority. | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
 | 

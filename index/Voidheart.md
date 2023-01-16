@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 47521
+revid: 47974
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -29,7 +29,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 ## Points of Interest
 
 -   A Bounty Board
-    -   It is always full as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
+    -   It is usually always full (especially on larger servers) as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
 -   Raen, who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 

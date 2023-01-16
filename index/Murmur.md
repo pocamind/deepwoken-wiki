@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 47852
+revid: 47971
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -58,19 +58,15 @@ This ability does not scale on Power, therefore, it will always cost ether.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-**Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
+**Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduce (or even negate in some scenario) the aggro range of enemies. Activation is indicated by an inward ring and a fade out noise, while deactivation with an outward ring and a fade in noise.
 
-Tacet potentially has a multiple modes, since when the user presses G while crouching Tacet is quickly activated and deactivated, indicated by its rings quickly going in and out, as if sending out a signal or radar. It is unknown what this does. Pressing G while Tacet is already activated will deactivate it. (This is not about the normal CTRL + G)
+The only actions a user can perform during Tacet are crouch walking, rolling, falling down ledges and holding items. Uncrounching, atttacking or interacting with the world will deactivate Tacet.
 
-The only actions a user can perform during Tacet are movement, such as sliding and rolling. Activating a mantra or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
-
-You can equip different items while Tacet is activated and it will no longer deactivate.
-
-The detection of Tacet can be reduced the higher Power the player is.
+The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user.
 
 Tacet has two different detection radius, one for PVE and PVP:
 
--   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. **Do keep in mind**, if you activate Tacet while a NPC is chasing you and is extremely close, they will not de-aggro. You must make a bit of distance between you and it.
+-   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, unaggro range is larger than 0 studs, so the user will need to make some distance to evade any fight.
 -   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
 
 ### **Obtainment**

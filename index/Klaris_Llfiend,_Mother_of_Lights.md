@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 47929
+revid: 47976
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -34,4 +34,3 @@ _After handing in all Diver Journals to her:_
 -   She is the inventor of Radiant Magic, an Oath that gives magic that is very similar to Lightkeeping.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
 -   It has been speculated that she is/was an Adret due to the markings on her face, though Arch\_Mage's decision to refer to her race as 'Unknown' rather than Adret is worth considering.
--   Klaris is the only named Black Diver NPC that does not possess a resonance, meaning that she has never died in the Depths.

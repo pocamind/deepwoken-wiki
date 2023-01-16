@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47956
+revid: 47969
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -327,7 +327,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisites: Reinforce, 50 Shadowcast, 50 Fortitude
+    -   Prerequisites: Reinforce, 45 Shadowcast, 50 Fortitude
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce, 50 Fortitude
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)

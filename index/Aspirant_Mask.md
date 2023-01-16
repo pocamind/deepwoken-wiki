@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 40453
+revid: 47968
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face]
@@ -8,9 +8,11 @@ categories: [Face]
 
 # Aspirant Mask
 
+Template:EquipmentStats
+
 ## Description
 
-Template:EquipmentStats The Royal Guard is an Equipment classified under the Face category. It can be dropped from the Songseeker Enemies in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). They can also (allegedly) be found in [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) and [Deep Widow](Deep_Widow.md) Chests.
+The Royal Guard is an Equipment classified under the Face category. It can be dropped from the Songseeker Enemies in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). They can also (allegedly) be found in [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) and [Deep Widow](Deep_Widow.md) Chests.
 
 ## Appearance
 

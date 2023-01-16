@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 47164
+revid: 47984
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races]
@@ -50,7 +50,7 @@ Tirans are an extremely rare race that has a bird motif. They have special circl
 **Lore:**
 
   
-Tiran make their own glider and glide off from the mountains they call home once they become Adults
+When they reach adulthood, a Tiran will forge their own glider and fly off of the mountains they call home.
 
 **Strengths:**
 
@@ -91,6 +91,4 @@ Tiran make their own glider and glide off from the mountains they call home once
 
 -   The eyes of each variant may reference eyes from anime, Canary, ironically not Crow, representing the Sharingan from the _Naruto_ franchise, the rest of the variants representing Makima's eyes from the _Chainsaw Man_ franchise.
 -   The word "tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
--   Similar to [Canor](Canor.md) not having hair on your character will preset you with Bed Hair.
-
--   The Jay Variant looks very similar to Niko from the game _OneShot_.
+-   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.

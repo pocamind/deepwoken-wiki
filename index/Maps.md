@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 46951
+revid: 47964
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -24,7 +24,7 @@ An Updated map of The Depths
 
 ## Overview
 
-Navigation in _Deepwoken_ can be confusing at first. Use these [maps](https://map.deepwoken.net/) if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
+Navigation in _Deepwoken_ can be confusing at first. Use these [maps](https://map.deepwoken.net/) (Outdated) if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
 
 ### Note to Readers:
 

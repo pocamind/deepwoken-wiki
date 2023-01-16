@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 47937
+revid: 47975
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1696,7 +1696,7 @@ Flourishing an opponent has a 50% chance to stun them.
 **Requires Power 3**
 
  | Pirate Event Chests, Miner's Landing Chests, Duke Erisia Chests, Deep Widow Chests, Primadon Chests & Layer 1 Chests |
-| File:MoonDazed.png | 
+|  | 
 
 Moon Ring
 

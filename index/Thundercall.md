@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 47845
+revid: 47967
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -503,9 +503,9 @@ Grand Skewer
 
  | 
 
-Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate)
+Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate) (image outdated)
 
-(Advanced Talent)
+(Rare Talent)
 
  | 
 
