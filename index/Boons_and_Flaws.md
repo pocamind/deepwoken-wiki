@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 47615
+revid: 47895
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -128,7 +128,9 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
     -   Maverick's exp boost is a nice bonus, but is too poor to be viable and is negated by playing with some friends. Also becomes useless once you reach power 20.
     -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long lasting boon like Survivalist, Gourmet or Steadfast.
     -   Steadfast is very niche, especially considering _every_ character can get [Thresher Scales](Talents.md) now.
-    -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you.
+
+-   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. ~In addition, it decreases the rate at which parasites in the Second Layer kill you.~ Needs testing.
+
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can now be obtained as of the 16/08/22, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was change to an unlockable [origin](Origins.md).
     

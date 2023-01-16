@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 47822
+revid: 47883
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,6 +29,7 @@ Each trait can only be increased up to 6 points.
 ### Proficiency
 
 -   Increase [Weapons](Weapons.md) scaling for M1's and Criticals by 5% per point.
+-   **This also applies to EVERY weapon. Hero Blades, Crypt Blades, Light's Final Toll, everything.**
 
 ### Songchant
 

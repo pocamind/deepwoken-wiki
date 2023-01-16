@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 47677
+revid: 47879
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Thresher
 
-“ Mannn I hate livin' in ohio on goddddd ”
+“ Mannn I hate livin' in Detroit on goddddd ”
 
 ― Authority captain before being ripped apart by a gang of Threshers
 
@@ -56,6 +56,8 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
 -   You can use Thresher bait to spawn Threshers in sandy areas (Starswept), just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
+-   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
+-   No Thresher can swim, if they end up in the sea they will sink and despawn.
     
 
 **King Thresher:**
@@ -130,5 +132,4 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 ## Trivia
 
--   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
 -   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47869
+revid: 47909
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -79,7 +79,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
     -   Prerequisites: 30 Galebreathe, 30 Agility
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-    -   Prerequisites: 30 Strength, 50 Galebreathe
+    -   Prerequisites: 30 Strength, 40 Galebreathe
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 40 Galebreathe, Drifting Wind
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
@@ -1705,6 +1705,7 @@ File:Thresherquest1.png
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives insanity instantly.
     -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
+        -   If you have race with 2 starting willpower, you need 82 willpower to get Heretic Sutra.
 
 ## Outfit Talents
 

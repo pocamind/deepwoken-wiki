@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47855
+revid: 47881
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -21,7 +21,6 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
 -   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted items appear as light purple in your inventory
--   The Stormbreaker enchant is a direct reference to Thor’s stormbreaker from Avengers
 -   Face, Ears and Back equipment cannot be enchanted anymore, but:
     -   Enchanted Face, Ears and Back equipment created before 2/18/2022 are still enchanted and still applies their effect.
 -   You cannot have more than 3 equipment enchants at once.
@@ -465,7 +464,7 @@ File:Vamparism shield.png
 
 Vampirism enchant on a Khan Shield
 
--   A few enchants are based off of other series and shows.
+-   A few enchants are based on other series and shows.
     -   Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the _Fate_ series.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
@@ -487,6 +486,6 @@ Vampirism enchant on a Khan Shield
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
     -   (???) - Deferred
--   [Providence of storms, an enchant widely believe to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.  
+-   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.  
     
     Sears old visual before the update

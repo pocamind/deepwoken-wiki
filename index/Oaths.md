@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47838
+revid: 47897
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -114,7 +114,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 4.  Once inside the temple, proceed through a passage on the left.
 5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer. (you do not require a blindfold if you have the blind flaw)_
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM)._
 
 To obtain the Blindseer Mantras, you need to help players with no Oath (AKA Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
 

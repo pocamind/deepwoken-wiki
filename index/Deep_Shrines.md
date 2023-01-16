@@ -1,17 +1,12 @@
 ---
 title: Deep Shrines
-revid: 47701
+revid: 47885
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Deep Shrines
-
-| Example | |
-|---|---|
-| row1 | If your power 12 then you would have 180 points and if you have willpower, strength, intelligence, fortitude, which is 4 different stats, it would divide 180 by 4 which would be 45 and so you would have 45 investment points in the different aspects even if you have 1 strength. |
-| row2 | However if your inability from race has 2 charisma then it would not divide by 5 and just ignores it without adding stats. |
 
 ## Overview
 
@@ -40,7 +35,7 @@ _Pros/Cons_
 
 -   You can still gain mantras after max level.
 -   You lose knowledge points which are very valuable.
--   You have to permanently lose an equipped mantra.
+-   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
 -   If you have multiple attunements, the three you get to chose won't be the same element as the one you lost.
 
 ### **Shrine of Blasphemy**
@@ -110,11 +105,17 @@ _Pros/Cons_
   
 
 -   Located in Songseeker Mines, through the passage containing mudskippers.
+    
 
--   _Benefits/Penalties_
+_Benefits/Penalties_
+
 -   **(BENEFIT)** Balances all currently invested attributes to be equal.
 -   **(PENALTY)** Balances all currently invested attributes to be equal, for 10 knowledge. Also gives you Restless flaw
--   _Pros/Cons_
+
+For example, if you're Power 12 then you would have 180 points. If you have any points in willpower, strength, intelligence, fortitude, which is four different stats, it would divide 180 by four which would be 45 and so it would place 45 investment points in each stat. However, if your race has an innate two Charisma but you never invested in Charisma, this will not be counted as you have not invested in it, so it will not divide by five.
+
+_Pros/Cons_
+
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
 -   Requires Power 12.
 -   Grants the Restless flaw

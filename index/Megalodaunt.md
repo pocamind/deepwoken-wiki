@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47848
+revid: 47890
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -37,7 +37,7 @@ Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Mo
 
 They can also be spawned using [Megalodaunt Bait](Monster_Bait.md).
 
-Megalodaunts come in 4 different versions, with two able to be corrupted, for a total of 6 "versions" of the monster you can encounter.
+Megalodaunts come in four different versions, with two able to be corrupted, for a total of six "versions" of the monster you can encounter.
 
 ## **Attacks**
 
@@ -215,7 +215,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt (also known as Kevin) is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
+The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
 
 ## **Trivia**
 
@@ -285,8 +285,8 @@ Roar
 
 A Megalodaunt swimming.
 
--   According to the 'Archivist Journal: Megalodaunt', Megalodaunts have a strict social hierarchy, although they are not particularly intelligent.
 -   Sharkos have swimming animations, as seen on the right.
+    -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, suchs as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.

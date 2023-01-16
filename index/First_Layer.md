@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 47847
+revid: 47911
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -100,8 +100,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.
     -   This will **always apply** if you have the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
--   If you log while in the trial and you aren't in combat, you will simply get teleported back to where you spawned in when you first came to the Depths.
-    -   ~If you aren’t in combat, you can use this to your advantage by logging if the enemy is corrupted.~ No longer works, the moment the monster spawns, you will be automatically be locked on combat. **Fight or wipe**.
+-   The moment the monster spawns, you will be automatically be locked on combat. **Fight or wipe**.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
 -   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
@@ -129,9 +128,8 @@ Just some information to keep in mind and remember.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs," and Graceful Flame, you might want to consider bringing _**healing potions**_.
--   ~Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.~ Not necessary, as reservoir is no longer a thing since Verse 2.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
--   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. ~It is, however, a legendary card, which can be harder to obtain.~
+-   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
 -   If you are of the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 

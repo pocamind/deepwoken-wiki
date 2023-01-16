@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 43512
+revid: 47910
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -57,11 +57,11 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Sparring Arena
 
--   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md).
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once then he will stop fighting the player until he is flourished or revenge is used on him. (pls check) After using a flourish or revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them 3 times without being hit then the instructor will stall again.
 
 ### Zipline (don't even think about deleting it)
 
--   -   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead you to a unknown place, I have zero agility sadly so idk what is on top of that mountain.
+-   -   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, a chest usually spawns up here.
         
         File:Unknownzipline.png
         

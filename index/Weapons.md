@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47823
+revid: 47908
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -18,7 +18,7 @@ categories: [Weapons, Character, Mechanics]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest)).
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing a [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest)). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
 When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example)
 
@@ -1385,7 +1385,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 
 **Elemental:**
 
-Weapons that scale with a certain element
+Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapons. They scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
 
 <table>
 <tbody>
@@ -1631,7 +1631,8 @@ D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t
 Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.  
 D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u t e L e v e l 1 1000 + B a s e D m g × S c a l i n g 2 × A t t r i b u t e L e v e l 2 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling1 \\times AttributeLevel1}{1000} + \\frac{BaseDmg \\times Scaling2 \\times AttributeLevel2}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling1\\times AttributeLevel1}{1000}}+{\\frac {BaseDmg\\times Scaling2\\times AttributeLevel2}{1000}}}
 
-_[New damage calculator (non-legendary & legendary weapons, scaling rings)](https://www.desmos.com/calculator/bryhjjt6y8)_  
+[_Damage calculator for all weapons with proficiency (Verse 2 compatible)_](https://deepwoken.tools/weapons)
+
 [_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)  
 _[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_  
 _[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/lq0vvmous8?lang=en) (Verse 2 compatible)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en)_

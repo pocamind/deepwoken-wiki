@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 47151
+revid: 47892
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Nautilodaunt
 
-“ Unlimited POWER! ”
+“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
 
-― The Fury Nautilodaunt stunlocking a Power 20 after they miscalculate a parry.
+― Nautilodaunt before showing a Canor what it's like to evolve diagonally
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Squiboss_
 
@@ -108,7 +108,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
--   It respawns after roughly 40 minutes.
+-   It respawns after roughly 5 minutes and 35 seconds.
 -   Has a low chance of dropping the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautilodaunt can be difficult on its own due to the cloaks high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
 -   Always keep a calm composure when you fight him, panicking will lead to a swift death.
 -   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
