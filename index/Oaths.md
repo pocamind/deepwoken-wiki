@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47897
+revid: 47948
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -404,6 +404,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
+    -   the arc suit can also come in different color. Colors known so far are brown and black. Also The colors might come in different rarities or might depend on race.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
@@ -504,6 +505,7 @@ Killing people without any help in Layer 1 of The Depths who have an **OATH** wi
 
 ### Notes
 
+-   Your base reputation with The divers is negative.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.

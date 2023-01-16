@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 46545
+revid: 47953
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -81,7 +81,7 @@ File:EtreaSymbol.png
 
 [The Kingdom of Etrea](Etrea.md)
 
- | **Nerin**: Removes hostilities with Etrean and Vigil guards | Outside a house in the area above the Etris Antiquarian and near Frostdrawer Nell's house. |
+ | **Nerin**: Removes hostilities with Etrea. | Outside a house in the area above the Etris Antiquarian and near Frostdrawer Nell's house. |
 | 
 
 File:Screenshot 2021-12-24 221619.jpg
@@ -103,7 +103,7 @@ File:HiveSymbol.png
 
 [The Hive](The_Hive.md)
 
- | **Zirik**: Removes hostilities with the Greathive Aratel guards. | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
+ | **Zirik**: Removes hostilities with the Hive. | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
 | 
 
 File:Rashet.png
@@ -114,10 +114,10 @@ File:AuthoritySymbol.png
 
 [The Authority](The_Central_Authority.md)
 
- | **Rashet**: Removes hostilities with Fort Merit guards. | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
+ | **Rashet**: Removes hostilities with the Authority. | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
 | 
 
-File:Gudrin, Vindicator of The Divers.png
+File:Gudrin.png
 
  | 
 
@@ -125,7 +125,14 @@ File:DiversSymbol.png
 
 [The Divers](The_Divers.md)
 
- | **Gudrin**: Removes hostilities with Apprentice Divers and Divers. | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
+ | **Gudrin**: Removes hostilities with the Divers. | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
+| 
+
+ | 
+
+[Ignition Union](The_Ignition_Union.md)
+
+ | **Placeholder**: Removes hostilities with the Ignition Union. | Standing outside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 
 ### Player vs. Environment (PVE) Events
 

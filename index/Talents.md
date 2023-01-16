@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47927
+revid: 47956
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -97,18 +97,18 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Alchemist
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
-    -   Prerequisites: 10 Intelligence, Made Potion
+    -   Prerequisites: 10 Intelligence, Brewed a Potion
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
-    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling are more powerful from potions you throw.
-    -   Prerequisites: 15 Intelligence, Made Potion
+    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
+    -   Prerequisites: 15 Intelligence, Brewed a Potion
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
-    -   Prerequisite: 30 Intelligence, Drink Potion
+    -   Prerequisite: 30 Intelligence, Drank Potion
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
-    -   Prerequisites: 25 Intelligence, Made Potion
+    -   Prerequisites: 25 Intelligence, Brewed a Potion
 -   Placebo Effect \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   Prerequisites: 55 Intelligence, Drink Potion
+    -   Prerequisites: 55 Intelligence, Drank Potion
 
 ### Alley Cat
 
@@ -117,10 +117,10 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: 5 Agility
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites:  ? Amount Of Backstabs
+    -   Prerequisites: Unknown amount of Backstabs
 -   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 3x health regen while running.
-    -   Prerequisites: Scaredy Cat & Endurance Runner
+    -   Prerequisites: Scaredy Cat, Endurance Runner
     -   Mutual Exclusive: Fishman
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
@@ -137,9 +137,10 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   Obtained after fishing 10 times successfully.
-    -   Increases the chances of desirable drops from fishing.
+    -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
     -   Obtained after fishing 25 times successfully.
+    -   Increase the rate of hooking something while fishing.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Obtained after fishing 50 times successfully.
     -   Reduces the chance of failure while fishing.
@@ -148,7 +149,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Prerequisite: 5 Strength & 5 Willpower
-    -   Mutual Exclusive: [Vegetarian](Boons_and_Flaws.md), Herbivore
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisite: Carnivore
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
@@ -164,8 +165,8 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Assassin
 
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
-    -   Also apply to sheathing.
     -   Prerequisite: 15 Agility
+    -   Sheathing your weapon is now silent as well.
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
@@ -251,14 +252,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Agility, Evasive Expert, Risky Moves, Swift Rebound
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
-    -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
+    -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
     -   Prerequisite: 25 Agility
     -   Mutual Exclusive: Observation, Safety Dance
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
     -   Prerequisite: 15 Agility
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
-    -   Prerequisite: 15 Strength, atleast 45 Agility.
+    -   Prerequisite: 15 Strength, 45 Agility.
 
 ### **Adept Caster**
 
@@ -268,19 +269,19 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Caster
 
 -   Overflowing Dam \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
-    -   "Max ether" is having more than 95% ether.
+    -   "Max ether" translates to having more than 95% ether.
     -   This talent goes on a 3 second cooldown when a mantra is casted.
     -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 1.25x damage.
     -   Prerequisite: 20 Intelligence
--   Eureka \[Rare Talent, Intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
-    -   Refunds ??% (scales with INT) of the ether cost of the mantra.
-    -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
+-   Eureka \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
+    -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Prerequisite: 30 Intelligence
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
-    -   Prerequisites: 30 intelligence
+    -   Prerequisite: 30 intelligence
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
-    -   When hit by an elemental attack, gain a 20% damage resistance towards its respective element but take 10% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra. Getting hit by said Galebreath mantra will make you take 10% more damage from it but immediatly swap your resistance to Galebreath, reducing damage of other Galebreath mantras.
+    -   The effect procs when hit by a mantra that is not within the Attunementless category.
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Red
         -   Frostdraw: Blue
@@ -293,7 +294,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Colossus
 
 -   Destructive Recovery \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
-    -   Prerequisite: 25 Strength, Harsh Response, Greatsword equipped.
+    -   Prerequisites: 25 Strength, Harsh Response, Use a Greatsword.
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
     -   Prerequisite: 25 Strength.
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
@@ -304,7 +305,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Willpower
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 50 Willpower
-    -   The Etrean race has a similar effect passively (Molt), but is applied to all buffs and debuffs (like potions) instead of status effects.
+    -   The Innate talent of Etreans has a similar effect, but is applied to all buffs and debuffs instead of status effects.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisite: 25 Strength
@@ -354,8 +355,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
     -   Prerequisite: 20 Frostdraw
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
-    -   Reduce thirst drain
-    -   Prerequisite: 20 Intelligence and 15 Frostdraw
+    -   Significantly reduces thirst drain.
+    -   Prerequisites: 20 Intelligence and 15 Frostdraw
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity, +2 Health)
     -   If you were to catch fire while on ice, gain total immunity to the burning status effect.
         -   While the effect is active, the user breathes cold air.
@@ -382,7 +383,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cloudwalker
 
 -   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
-    -   Very tight activation window.
     -   Prerequisite: 25 Galebreathe
 
 ### Darksiphon
@@ -447,12 +447,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
 -   Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
-    -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
+    -   Your Roll does not go on cooldown when cancelled; Does not proc on the subsequent roll cancel.
     -   Prerequisite: 60 Agility
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
     -   Prerequisites: 20 Strength, 25 Fortitude
 -   Spine Cutter \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
-    -   Deals 100% of the original damage
+    -   Deals true damage.
+        -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers.
     -   Can proc from physical mantras
     -   Prerequisites: 20 Strength, 25 Agility
 
@@ -466,7 +467,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Give and Take \[Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates take less damage from you and deal less damage to you.
-    -   Canors passively benefit from a similar effect.
+    -   The Canor race's innate talent has a similar effect.
 
 ### Escape Artist
 
@@ -488,8 +489,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Falling Star Guard
 
 -   Thorns of Fire \[Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
-    -   Prerequisites: Flame Repulsion
-    -   The reflected damage is stored in the repulsion itself.
+    -   Reflected damage is stored in the repulsion itself.
+    -   Prerequisite: Flame Repulsion
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
     -   Prerequisites: Rising Flame
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
@@ -499,9 +500,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Fishman \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
     -   Health regeneration is increased while swimming.
-    -   Hunger drain from swimming is multiplied by ??x (was 1.5x, recently reduced).
-    -   Stacking Fishman with Curse of the No-Life King's passive regeneration has a reduced effect.
-    -   These effects do not activate in [The Depths](The_Depths.md).
+    -   Hunger drain from swimming is multiplied by an unknown amount.
+    -   Reduces the Health Regenerations effects of the [Curse of the No Life King.](Enchantments.md)
+    -   Does not activate in the Depths.
     -   Mutual Exclusive: Conditioned Runner
 
 ### Flame Brawler
@@ -511,8 +512,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Freak Of Nature
 
 -   Exoskeleton \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
-    -   Stacks with Chitin, but is slightly reduced, resulting in 13% instead of the expected 15%.
-    -   Natural Armors can be affected by PEN but 25% as effective against it.
+    -   The Vesperian Race's Innate talent will only provide 3% resistance instead of the usual 5% when stacked with this talent.
+    -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster.
@@ -629,14 +630,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
     -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
     -   Prerequisites: 30 Galebreathe
--   Inhale \[Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +3 Health)
-    -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
+-   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +3 Health)
     -   Prerequisites: 50 Galebreathe, Breathing Impact
 -   Skull Crusher \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
     -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
 -   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
-    -   You can no longer abuse this. **You cannot spell cancel consecutively as there is now a 2 second cooldown.**
-    -   Prerequisites: Inhale
+    -   Has a 2 Second Cooldown.
+    -   Prerequisite: Inhale
 
 ### Gale Duelist
 
@@ -648,7 +648,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Neuroplasticity \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 7% to 5.4%, for tier 2 - from 14% to 11.2%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
-    -   Requirements : 35 Willpower/ 35 Intelligence/ 35 Charisma. (As confirmed by arch\_mage.) Only one of the three is required, not all three
+    -   Requirements : 35 Willpower OR 35 Intelligence OR 35 Charisma. Only one of the three is required, not all three
         
         File:Neuro.png
         
@@ -681,17 +681,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
                 -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
             -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
--   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+-   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health)
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
-    -   Allow the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Dual Guns passively benefit from this and does not require this talent.
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
 
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal. (+3 Health, +7 Sanity)
-    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds.
-        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, Bloodless Gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
+    -   Whenever an M1 touches an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds.
+        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and the [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 40 Intelligence and 65 Willpower
 
@@ -703,24 +702,24 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Mountain Climber
 
 -   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
-    -   Prerequisites: (#?) Agility
+    -   Prerequisite: Unknown amount of Agility
 
 ### Ice Age
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
-    -   Prerequisites: 40 Frostdraw
+    -   Prerequisite: 40 Frostdraw
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
-    -   Prerequisites: 25 Frostdraw
+    -   Prerequisite: 25 Frostdraw
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisites: Ice Forge
+    -   Prerequisite: Ice Forge
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity, +3 Health)
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Prerequisite: Heavy Weapon
 -   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisites: Ice Forge
+    -   Prerequisite: Ice Forge
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers
 -   Saint Jay \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
@@ -730,12 +729,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: Ice Lance
 -   Frozone \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: Ice Skate (3 Star Frostdraw Mantra)
+    -   Prerequisite: Ice Skate
 
 ### Inferno
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by giving him 3 dying embers
+    -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
     -   Prerequisites: Corpse Explosion
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
@@ -748,16 +747,19 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Decisive Winds \[Common Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 -   Prevailing Westerlies \[Common Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Ether, +5 Passive Agility)
 -   Stratos Step \[Common Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
+    -   Consumes Ether per step.
+    -   Stratos Steps will only proc twice before going on a cooldown.
+        -   Said cooldown applies to individual steps.
 
 ### Javelin Lord
 
 -   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
-    -   Prerequisite: Grand Javelin (2 Star Thundercall Mantra), 60 Thundercall
+    -   Prerequisite: Grand Javelin, 60 Thundercall
 
 ### **Justicar**
 
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
-    -   Allows you to use [Jus Karita style](Fists.md), one of the 3 fist styles.
+    -   Allows you to use [Jus Karita style](Fists.md).
     -   Prerequisites: Achieve a Power level of 6 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 -   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
     -   Prerequisites: Jus Karita and Swiftkick Prodigy
@@ -877,7 +879,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 1.2x faster (+4 Health, +5 Sanity)
     -   Grant up 1.25x damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
-    -   The radical function, y =sqrt{1.125x}, is able to get 50% insanity to exactly 75% of the buff. Because we don't know what Archmage did, whether that be round up the number, or make it so that anything beyond 0.8889 is automatically set to be the 1.25x buff is uncertain.
     -   Prerequisite: 30 Strength and 30 Fortitude
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
@@ -914,12 +915,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
     -   Prerequisite: 5 Willpower
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat.
-    -   Prerequisite: 10 Willpower, Breathing Exercise
+    -   Prerequisites: 10 Willpower, Breathing Exercise
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Decreases the amount of time Illusionary servants lasts for.
-    -   Prerequisite: 25 Willpower  
-          
-        When you get all these talents and 40 Willpower you are eligible to get the Oath [Blindseer.](Oaths.md)
+    -   Decreases the amount of time Illusionary servants lasts for you.
+    -   Prerequisite: 25 Willpower
 
 ### Merchant
 
@@ -956,6 +955,9 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: 40 willpower, ~15 strength, Murmur: Ardour
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
+    -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
+-   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
+    -   Prerequisite: Murmur: Rhythm
 
 ### Natural Armor
 
@@ -968,7 +970,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Navaen Nomad
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
-    -   Allows you to use [Way of Navae style](Fists.md), one of the 3 fist styles.
+    -   Allows you to use [Way of Navae style](Fists.md).
     -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
 -   Fists of Fortitude \[Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15%.
     -   Prerequisites: 20 Fortitude, Fists
@@ -1032,13 +1034,14 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health) \[This Talent Card is broken and doesn't work\]
+-   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health)
     -   Prerequisites: 75 Flamecharm & 70 Shadowcast
+    -   This Talent is currently broken.
 
 ### Pyromancer
 
 -   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+3 Health, +5 Elemental Intensity)
-    -   Prerequisites: ?? Flamecharm, 10 or 15 Fortitude (unknown)
+    -   Prerequisites: Unknown amount of Flamecharm, Unknown amount of Fortitude.
 
 ### Raging Bull
 
@@ -1082,7 +1085,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   Increases Boat speed more drastically when your sail is facing in the right direction of the wind.
+    -   Boat Speed is significantly increased when facing in the direction of the wind.
 
 ### Seeker of Sound
 
@@ -1137,7 +1140,7 @@ Prerequisite: Charisma
 
 -   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
-    -   Prerequisite: Lightning Blade (Thundercall Mantra)
+    -   Prerequisite: Lightning Blade
 
 ### Shadowcaster
 
@@ -1173,7 +1176,7 @@ Prerequisite: Charisma
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
-    -   Prerequisites: 30 fortitude, 10 willpower, Have a shield equipped
+        -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
@@ -1182,7 +1185,7 @@ Prerequisite: Charisma
 These Talent are meant to make maintaining your ship easier.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
-    -   Repairing restore ??? HP instead of 250 HP.
+    -   Repairing restore ?? HP instead of 250 HP.
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
     -   Repairing restore ??% more HP to the boat when it's below ??% HP.
         -   Prerequisite for all: Use the Repair Hammer once.
@@ -1423,15 +1426,15 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 40 Light Weapon
 
 -   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly.
-    -   Prerequisites: 75 in any weapon type
+    -   Prerequisites: 75 in any Weapon Mastery stat
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
     -   Prerequisite: 40 Heavy Weapon
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
-    -   Prerequisite: ~30 Heavy Weapon.
+    -   Prerequisite: 30 Heavy Weapon.
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
-    -   Prerequisite: 50 Agility, 40 Light Weapon, Dagger equipped
+    -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
 ### Whisper
 

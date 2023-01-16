@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 47802
+revid: 47937
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -1354,7 +1354,7 @@ Placeholder
 
 _+Talent: Blade Dancer_
 
- | Primadon Chests | Black & White |
+ | Primadon Chests & Miner's Landing Chests | Black & White |
 |  | 
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
