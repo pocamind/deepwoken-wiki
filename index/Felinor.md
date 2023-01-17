@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 47532
+revid: 48116
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -84,4 +84,3 @@ Sero
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.
 -   As of Summer 2022, The Felinor race had an update or glitch where the flaw Fugitive is automatically selected as one of your flaws.
--   How Felinors _could_ socialize with others: [https://www.youtube.com/watch?v=Y0c8ba09OZI](https://www.youtube.com/watch?v=Y0c8ba09OZI)

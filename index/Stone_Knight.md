@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 48033
+revid: 48109
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -10,13 +10,51 @@ categories: [Monsters, Boss]
 
 ## **Synopsis**
 
-Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective var }}
+Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in via a meteor while the Desert Knights can spawn in manually or via a meteor.
+
+**Blizzard Knight:**
+
+“ That thing’s invincible! ”
+
+― A Sword user feeling what it’s like to do imaginary numbers in damage
+
+Template:Creature Info Box v2
+
+## **Description**
+
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
+
+They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
+
+Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
+
+**Desert Knight:**
+
+“ A wild Regirock has appeared ”
+
+― Last thing a player in Starswept Valley hears before death
+
+Template:Creature Info Box v2
+
+## Description
+
+Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights are the variant encountered in [Starswept Valley](The_Starswept_Valley.md). They are much weaker than their Blizzard counterpart, featuring a lot less HP. Unlike their Blizzard variant, they only spawn individually. Killing them will spawn a chest with loot usually more on the rare side. This chest will not drop if the knight came from a meteor, it will only spawn a chest if the knight spawned without a meteor.
+
+They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors.
+
+**Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
+
+**Astral Knight:**
+
+“ JUDGEMENT! ”
+
+― The Astral Knight the second it sees a level 4 Etrean.
+
+Template:Creature Info Box v2
 
 ## Description
 
 Recognizable by their ??? body, ??? eyes and astral enchant sword, the Astral Knights are the variant encountered through a developer spawning it in. They are ??? weaker than their Blizzard counterpart, featuring a lot ??? HP.
-
-</tabber>
 
 ## **Attacks**
 

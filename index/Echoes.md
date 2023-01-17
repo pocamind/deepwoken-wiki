@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 48031
+revid: 48135
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -51,6 +51,8 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 ## Upgrades and Modifiers
 
 There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1250 echoes.
+
+Enchants can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 100 echoes per enchant. This is not renewable.
 
 **Upgrades:**
 
@@ -125,6 +127,13 @@ There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 
   <td><center>50 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>2</center></td>
+</tr>
+<tr>
+  <td><center><b>Advanced Weapons</b></center></td>
+  <td><center>Your amount of available starting weapons when starting a new journey.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>4</center></td>
 </tr>
 </tbody>
 </table>
@@ -211,9 +220,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 (Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
-(Power ??) Tree Feller - Gain Tree feller at level ??. **Obtained by having strong left and completing Korin's quest at Etris.**
-
 ## Trivia
 
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). This may have been the root of the developer team's inclusion of this feature within the game.
+-   The four starter weapons from "Advanced Weapons" are:
+    -   The [Avenger](Avenger.md) Greatsword,
+    -   The [Irontusk](Irontusk.md) Spear,
+    -   The [Silversix](Silversix.md) Gun,
+    -   The [Quickfang](Quickfang.md) Rapier.

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 45933
+revid: 48092
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,9 @@ Template:Races-Main
 
 _"Silver-tongued traders whose  
 pride often gets the better of them.  
-Renowned as ship-builders and seafarers alike."_ _Chance of obtaining race: **17.4%**_
+Renowned as ship-builders and seafarers alike."_
+
+_Chance of obtaining race: **17.8%**_
 
 ## Description
 

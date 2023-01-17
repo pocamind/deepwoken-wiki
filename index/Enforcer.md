@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 48028
+revid: 48127
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -72,6 +72,8 @@ DO NOT PLAY AT HIGH PING. DO NOT PLAY AT HIGH PING. If you do, aka have no choic
 If you ever get pulled, and this happens at high ping, block. It doesn't matter, as you wont have time to react properly to its Whirlwind.
 
 If you're also using a dagger, playing at high ping against it, well… you are kind of dead. Like, you won't get a chance. You're done.
+
+If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial of one. _Do not fucking miss a parry._ Then you're fine.
 
 ### Rewards
 

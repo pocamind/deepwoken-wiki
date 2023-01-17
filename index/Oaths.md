@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48019
+revid: 48075
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -506,6 +506,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Notes
 
+-   DO NOT, UNDER ANY CIRCUMSTANCE, TALK TO THE LORD REGENT WITHOUT POSITIVE MINISTRY REP AFTER YOU'VE SLAIN THE DUKE. IF HE RIPS YOU APART, YOU WILL SOFTLOCK YOURSELF. I REPEAT, DO NOT TALK TO HIM AFTER FIGHTING THE DUKE. GET YOUR REPUTATION.
 -   Upon obtaining the oath, your reputation with The Divers will plummet into the negatives. (Can you eventually restore it? testing needed)
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Black Divers guards.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.

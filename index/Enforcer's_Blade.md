@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 39899
+revid: 48114
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -35,3 +35,4 @@ The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapon and 
 ## Trivia/Notes
 
 -   The drop appears to be much rarer than the Enforcer's Axe. (It took 23 Enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade)
+-   It has the critical attack of an [Enforcer's Axe](<Enforcer's_Axe.md>) however it doesn't guarantee an instant posture break.

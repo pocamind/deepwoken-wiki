@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 48055
+revid: 48080
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -330,6 +330,16 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td><a href="Silversix.md">Silversix</a></td>
+  <td>0 LHT</td>
+  <td>??</td>
+  <td>N/A</td>
+  <td>??</td>
+  <td>1</td>
+  <td>??</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
@@ -738,6 +748,17 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
+  <td><a href="Irontusk.md">Irontusk</a></td>
+  <td>0 MED</td>
+  <td>16.5</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>MED: 3</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
+</tr>
+<tr>
   <td><a href="Iron_Spear.md">Iron Spear</a></td>
   <td>0 MED</td>
   <td>17</td>
@@ -1137,6 +1158,18 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+</tr>
+<tr>
+  <td><a href="Avenger.md">Avenger</a></td>
+  <td>0 HVY</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
+  <td>??</td>
 </tr>
 <tr>
   <td>Zweihänder</td>

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 47609
+revid: 48122
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,7 +78,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantra damage)
 -   **\[V\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regeneration)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
--   **\[V\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - _1 Plumfruit, 1 Gathered Wheat_
+-   **\[G\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - _1 Plumfruit, 1 Gathered Wheat_
 -   **\[V\] [Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **\[V\] [Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **\[V\] [Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_

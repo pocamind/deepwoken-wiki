@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 47878
+revid: 48110
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -14,7 +14,7 @@ Template:Races-Main
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining race: **13.6%**
+Chance of obtaining race: **13.3%**
 
 ## Description
 
@@ -101,3 +101,4 @@ SURNAMES
 -   As a Gremor, you will get boosted reputation with the Navaen Nomads.
 -   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.
+-   Gremor itself looks like Reg from Made in Abyss, this is probably a reference.

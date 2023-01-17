@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 48039
+revid: 48068
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -25,7 +25,7 @@ Authority officers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair
 
 ## Moveset
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) or a [Mace](Mace.md) and the [Thundercall](Thundercall.md) Attunement:
+Their arsenal consists of an [Officer Saber](Officer_Saber.md) or a [Mace](Mace.md) (rare chance to be enchanted) and the [Thundercall](Thundercall.md) Attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

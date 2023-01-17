@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 48036
+revid: 48069
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -18,7 +18,7 @@ A Bandit Leader wears the unobtainable Bounty Hunter armor with their [race](Asp
 
 ## Moveset
 
-A Bandit Leader's arsenal consists of a starter weapon, them being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), [Gilded Knife](Gilded_Knife.md) or an Iron Sword:
+A Bandit Leader's arsenal consists of a starter weapon, them being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), [Gilded Knife](Gilded_Knife.md) (all of which can be enchanted) or an Iron Sword:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

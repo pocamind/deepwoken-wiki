@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 47969
+revid: 48132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -669,18 +669,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   True Ether Bullets \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Prerequisites: 30 Intelligence, Use a Gun
-        -   Rifles (Medium Guns) do function with the talent, but you cannot roll it whilst having 1 equipped.
-            -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
-                -   The 3rd shot apply your attunement's elemental effect:
-                    -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
-                    -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
-                    -   Thundercall: Your bullets electrify
-                    -   Galebreathe Your bullets after cut
-                    -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
-                -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
-                -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-            -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
+    -   Prerequisites: 30 Intelligence, Use a Gun / Rifle
+        -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
+            -   The 3rd shot apply your attunement's elemental effect:
+                -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
+                -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
+                -   Thundercall: Your bullets electrify
+                -   Galebreathe Your bullets after cut
+                -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
+            -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
+            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health)
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
@@ -891,7 +890,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
--   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
+-   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN.
     -   Prerequisites: Power 14
 -   Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
@@ -906,7 +905,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Meditative Trance
 
--   Warrior's Respite \[Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
+-   Warrior's Respite \[Rare Card\] - Standing still for 15 seconds increases your health regeneration.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
     -   Prerequisite: 15 Fortitude
 
@@ -932,7 +931,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load, +3 Health)
+-   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
         
@@ -943,17 +942,17 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Mindbreaker
 
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+3 Health, +5 sanity)
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Prerequisites: 80 Willpower
 
 ### [Murmur](Murmur.md)
 
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture,).
     -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
     -   Prerequisite: 40 willpower, ~15 strength, Murmur: Ardour
--   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
+-   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched.
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
@@ -1024,38 +1023,38 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Public Figure
 
--   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
+-   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid.
     -   Prerequisites: Friends in High Places, 50 Charisma
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
--   Celebrity \[Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
+-   Celebrity \[Common Talent\] - Your reputation caps out higher.
     -   Prerequisite: 40 Charisma
--   Under The Radar \[Rare Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher (+4 Ether, 4+ Health)
+-   Under The Radar \[Rare Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher
     -   Prerequisites For All: Charisma
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy. (1+ Elemental Intensity, +2 Health)
+-   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   Prerequisites: 75 Flamecharm & 70 Shadowcast
     -   This Talent is currently broken.
 
 ### Pyromancer
 
--   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+3 Health, +5 Elemental Intensity)
+-   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+5 Elemental Intensity)
     -   Prerequisites: Unknown amount of Flamecharm, Unknown amount of Fortitude.
 
 ### Raging Bull
 
--   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
+-   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
--   Million Ton Piercer \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether, 3 Health)
+-   Million Ton Piercer \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether)
     -   Prerequisites: 90 Strength, Bulldozer, Shield Breaker, Unwavering Resolve
 -   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
 
 ### Rampant Static
 
--   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity, +3 Health)
+-   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity)
     -   Prerequisite: 30 Thundercall
 
 ### Saboteur
@@ -1093,7 +1092,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Self-Shocker
 
--   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity, +3 Health)
+-   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity)
     -   Prerequisite: Static Withdraw
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisite: Jumpstart
@@ -1102,9 +1101,9 @@ These are just raw stat increases and are beneficial to anyone.
 
 Prerequisite: Charisma
 
--   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
+-   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether)
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether)
     -   Gain 1.4x more notes from selling items.
     -   Prerequisite: 30 Charisma
 -   Golden Tongue \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether, +3 Health)
@@ -1123,7 +1122,7 @@ Prerequisite: Charisma
 
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
     -   Prerequisite: Discovery of Fire
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 -   Quick Link \[Commin Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
     -   Prerequisite: Static Link
@@ -1144,22 +1143,22 @@ Prerequisite: Charisma
 
 ### Shadowcaster
 
--   Black Out \[Common Talent, Shadowcast Exclusive\] - Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity, +3 Health)
+-   Black Out \[Common Talent, Shadowcast Exclusive\] - Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   Prerequisite: 30 Shadowcast
 
--   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets. (+1 Elemental Intensity, +3 Health)
+-   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets. (+1 Elemental Intensity)
     -   Prerequisite: Shadow Roar
--   Fear \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you. (+4 Elemental Intensity, +1 Health)
+-   Fear \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you. (+4 Elemental Intensity)
     -   Prerequisite: 50 Shadowcast
 
 -   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent. (+4 Elemental Intensity)
     -   Prerequisite: 50 Shadowcast
 -   Shadow Travel \[Rare Talent, Shadowcast Exclusive\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
     -   Prerequisite: 65 Shadowcast, Dark God
--   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. (+5 Elemental Intensity, +3 Health)
+-   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. (+5 Elemental Intensity)
     -   Prerequisite: 30 Shadowcast
     -   Mutual Exclusive: Singularity
--   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move. (+1 Elemental Intensity, +3 Health)
+-   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move. (+1 Elemental Intensity)
     -   Prerequisite: 40 Shadowcast
     -   Mutual Exclusive: Sightless Still
 -   Shadowcaster \[Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster.
@@ -1174,25 +1173,25 @@ Prerequisite: Charisma
 
 ### Shieldmaster
 
--   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
+-   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
--   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
+-   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shipwright
 
 These Talent are meant to make maintaining your ship easier.
 
--   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
+-   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
     -   Repairing restore ?? HP instead of 250 HP.
--   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
+-   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
     -   Repairing restore ??% more HP to the boat when it's below ??% HP.
         -   Prerequisite for all: Use the Repair Hammer once.
 
 ### Silencer
 
--   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: Silencer's Edge and Silencer's Blade
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
@@ -1202,14 +1201,14 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Singer
 
--   Encore \[Charisma Exclusive, Rare Talent\] - Your sing will stun opponents who are already charmed. (+4 Health)
+-   Encore \[Charisma Exclusive, Rare Talent\] - Your sing will stun opponents who are already charmed.
     -   Prerequisite: Sing (Charisma Mantra)
 
 ### Sturdy Resolve
 
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
--   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
+-   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
     -   Negate tier 1 insanity: Shivering.
     -   Prerequisites: 50 Willpower, 50 Fortitude, Grasp on Reality
 
@@ -1228,7 +1227,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Survivor
 
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+3 Health, +1 Carry Load)
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
 
 ### Tactician
 
@@ -1253,12 +1252,12 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
     -   Prerequisite: 40 Flamecharm
--   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (+2 Elemental Intensity, +2 Health)
+-   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (+2 Elemental Intensity)
     -   Prerequisite: 30 Flamecharm
 
 ### The Negotiator
 
--   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
+-   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether)
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
     -   Prerequisites: 75 Charisma, all Silver Tongue talents
@@ -1274,12 +1273,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 5 Charisma
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
--   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
+-   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
     -   Prerequisites: 40 Charisma?, 10 Agility?, Master Thief?
 
 ### Thunder Brawler
 
--   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity, +3 Health)
+-   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
 -   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to followup on your opponent with a less potent kick. (+2 Elemental Intensity)
     -   Prerequisite: Thunder Kick
 

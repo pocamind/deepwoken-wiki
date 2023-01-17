@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 47509
+revid: 48129
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -176,6 +176,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 0.02s | [Blood scourage](Blood_Scourge.md) on active |
 |  | 0.01s | Blood scourage after execute |
 |  | 0.8s | Foraging |
+|  | 8.0s | Obtaining a [Bell](Resonance.md) |
 
 ## Trivia/Notes
 

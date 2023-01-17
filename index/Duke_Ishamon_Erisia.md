@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 47581
+revid: 48113
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -202,8 +202,6 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
     -   1st being [Primadon](Primadon,_Titan_of_the_East.md).
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
--   The Duke's full name is "Erisor Erisia."
--   The Duke's is Chaser's half brother, this is likely why one of Chaser's titles is "The Buke" as the letter "B" is the same as a "D" flipped around when lowercase.
 -   The more people that participate in fighting The Duke, the more health he has.
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.

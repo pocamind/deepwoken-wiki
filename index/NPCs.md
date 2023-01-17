@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 47807
+revid: 48067
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -128,6 +128,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>The quest is repeatable</td>
 </tr>
 <tr>
+  <td>Erisae</td>
+  <td>Unaligned</td>
+  <td>Inside <a href="Erisor's_Church.md">Erisor's Church</a></td>
+  <td>In exchange for notes, she will give you something random out of her bag</td>
+  <td>There are multiple NPCs like Erisae that can be found in <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Miner's_Landing.md">Miner's Landing</a>, and <a href="Summer_Isle.md">Summer Isle</a></td>
+</tr>
+<tr>
   <td><a href="Evengarde_Rest.md">Maestro Evengarde Rest</a></td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, <a href="Temple_of_the_Blade.md">Temple of the Blade</a>, Arena</td>
@@ -236,7 +243,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris Llfiend, Mother of Lights</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="Castle_Light.md">Castle Light</a></td>
-  <td>Allows for expdission into Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals</td>
+  <td>Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals</td>
   <td></td>
 </tr>
 <tr>
@@ -245,6 +252,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Etris.md">Etris</a></td>
   <td>Gives lumber axe, lumberjack quest, treefelling blow quest</td>
   <td>Quest is repeatable</td>
+</tr>
+<tr>
+  <td>Kujae</td>
+  <td>Unaligned</td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, outside the inn</td>
+  <td>In exchange for notes, he will give you something random out of her bag</td>
+  <td>There are multiple NPCs like Kujae that can be found in <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Miner's_Landing.md">Miner's Landing</a>, and <a href="Erisor's_Church.md">Erisor's Church</a></td>
 </tr>
 <tr>
   <td>Lake</td>
