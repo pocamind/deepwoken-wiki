@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 48040
+revid: 48148
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -21,6 +21,8 @@ A Knives of Eylis Captain is also always accompanied with 2 [Knives of Eylis](Kn
 A Knives of Eylis Captain's appearance consists of a [Whaler Coat](Whaler_Coat.md) outfit and an assortment of stolen accessories with their [race](Aspects.md) and gender varying.
 
 ## Moveset
+
+Their whaling knifes have a chance to be enchanted.
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

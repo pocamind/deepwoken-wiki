@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 47786
+revid: 48160
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs]
@@ -13,31 +13,31 @@ categories: [Pages with broken file links, World, NPCs]
 | name | Nanji |
 | location | Etris |
 
-Located in Etris (Starting Island), near Corrupt Officer (Nerin).
+## Overview
 
-  
-Nanji is an Etrean NPC with unknown origins and has a brother who died due to unknown circumstances, their only known purpose is The Chipped Sword quest which requires you to find their brother's katana in the [Isle of Vigils](Isle_of_Vigils.md)
+Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for her brother Ilji. Choosing the correct dialogue responses will begin the Chipped Sword sidequest.
 
-  
+## Dialogue
 
-  
+(placeholder)
 
-  
-
-**Chipped Sword Quest**
-
-When talking to Nanji they will ask you to find their brother, their brother is dead due to unknown causes but you can still find his chipped rusted sword in the [Isle of Vigils](Isle_of_Vigils.md).
-
-First, you will want to travel to the [Isle of Vigils](Isle_of_Vigils.md) and go to Vesperian Grave-site or Well Preserved Grave.
-
-Next, use the zipline directly to the left of the grave, this will take you towards the Chipped Sword.
+## Sidequest
 
 File:Image 2022-04-18 224253146.png
 
 An Etrean interacting with the sword
 
-Once on the other side of the zipline go towards the tree, if the tree does not appear walk around the cliff until you find a rusted katana(do not jump off the cliff it is on it.
+Completing her sidequest will reward you with EXP and positive Etris reputation.
 
-Interact with the katana until it only gives you the option to end dialogue. Returning to Nanji will award you with Etris Rep and some EXP.
+1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
+2.  Find the Well Preserved Grave near the attunement training gear shop.
+3.  Use the zipline left of the grave.
+4.  Once on the other side of the zipline, head towards the tree and turn right after passing the cliff corner.
+5.  Interact and inspect the Katana until it only gives you the option to end dialogue.
+6.  Return to Nanji and interact with her.
 
-For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on youtube.
+  
+
+## Notes
+
+-   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on youtube.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 48139
+revid: 48165
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -12,22 +12,19 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
   
 
-## Limitations
+## Mechanics
 
-Enchanted gear is very special. Therefore, they have some limitations placed on them:
+Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
 
--   You do not drop enchanted items on death.
--   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
--   Equipping an enchanted weapon or equipment will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
--   Enchanted equipment can be passed down at the hippocampal pool at a cost of 100 [Echoes](Echoes.md) per item.
+-   Enchanted items are not dropped on death
+-   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
+-   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
 -   Enchanted items appear as light purple in your inventory
--   Face, Ears and Back equipment cannot be enchanted anymore, but:
-    -   Enchanted Face, Ears and Back equipment created before 2/18/2022 are still enchanted and still applies their effect.
--   You cannot have more than 3 equipment enchants at once.
-    -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 2/18/2022.
-        -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
--   **You are capable of selling enchants whether they are soulbound or not.**
--   Trading in 3 Armor/Weapon Enchants grants the player a randomized Weapon Enchant by talking to [Laplace](Laplace.md), a Ganymede in [Greathive Aratel](Greathive_Aratel.md).
+-   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, it is possible to find enchanted face/ears/back equipment through player trading
+    -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
+-   Unenchanted weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
+-   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
 
 ## Variants
 
@@ -48,7 +45,7 @@ There are two variants that enchantments come in:
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
--   **January 16th, 2023** - For some unholy reason, certain enemies and humanoid monsters can now wield Enchants.
+-   **January 16th, 2023** - These enemies and humanoid monsters can now wield Enchants.
 
 ## List of Enchantments
 
@@ -471,6 +468,7 @@ Vampirism enchant on a Khan Shield
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Stormbreaker is based on the axe wielded by Thor from _Marvel Comics_.
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
+    -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48075
+revid: 48173
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -452,7 +452,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Known Abilities
 
 -   **Blinding Dawn ★★★ - Combat Mantra**
-    -   Spin rapidly to unleash powerful rays of light.
+    -   Dance uncontrollably. No one can withstand the shear groove of your spin routine.
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
@@ -472,7 +472,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
-1.  Get positive reputation with [The Ministry](The_Ministry.md). (The Ministry no longer see you as worth fighting.) <- (slightly more, just died to him with exact neutral rep)
+1.  Get positive reputation with [The Ministry](The_Ministry.md). (More than neutrality)
+    1.  Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again.
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
@@ -506,8 +507,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Notes
 
--   DO NOT, UNDER ANY CIRCUMSTANCE, TALK TO THE LORD REGENT WITHOUT POSITIVE MINISTRY REP AFTER YOU'VE SLAIN THE DUKE. IF HE RIPS YOU APART, YOU WILL SOFTLOCK YOURSELF. I REPEAT, DO NOT TALK TO HIM AFTER FIGHTING THE DUKE. GET YOUR REPUTATION.
--   Upon obtaining the oath, your reputation with The Divers will plummet into the negatives. (Can you eventually restore it? testing needed)
+-   Upon obtaining the oath, your reputation with The Divers will plummet into the negatives. You can still gain reputation normally (such as completing Layer 2 expeditions) but not pay your rep back.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Black Divers guards.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.

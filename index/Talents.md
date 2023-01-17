@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48132
+revid: 48166
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1228,6 +1228,8 @@ These Talents are designed to let you survive longer against starvation and thir
 ### Survivor
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+-   Winter's Protection \[Common Talent, Equipment Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
+    -   Obtained by equipping [Winter Corps Parka](Equipment.md).
 
 ### Tactician
 

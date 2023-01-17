@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 47919
+revid: 48152
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -30,6 +30,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's posture. When filled up to maximum or overshooting, be it from getting parried or blocking attacks, the next blocked hit would instead guard break, dealing increased damage.
   <ul>
     <li>Posture decreases if the player lands parries and/or stops blocking.</li>
+    <li>Spitting (T) on NPCs also restores posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt)</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -111,60 +112,64 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Attack</th>
-  <td>When you left click you will swing your weapon, hitting a person will damage them unless they parry or block.<p><br>
-  </p>
-  <p>When you hit somebody <s>3 times in a row</s> (it is different for every weapon type)(3 for heavies,4 for medium and 5 for daggers) without being hit back, blocked, or parried, you'll activate a flourish. This is basically the games anti infinite combo mechanic except it doesn't matter because the level of pressure you'll be under for you to get flourished in the first place will just pick up comparably instantly which is literally just as bad as an infinite combo. You go into a short animation with your target, and kick them back. Talent cards can add different effects to your flourish, including setting your enemy on fire, or stunning them if you push them into a wall.</p></td>
+  <td>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever hit unless they parry, block or perfect dodge your attack.<p>In the case of getting your attack blocked, your attack will still deal damage in the form of "Posture damage", taking account into your weight rather than your base damage</p>
+  <p><br>
+  When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modifies your flourish in different ways, from blurring someone's screen when they get pushed into a wall, to burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Critical Attacks</th>
-  <td>A Critical Attack or "Crit" for short can be initiated by pressing <kbd>M3</kbd> (Scroll wheel) or by pressing the <kbd>R</kbd> key.<p>Crits are attacks are primarly used to deal greater posture damage than a traditional attack with the intent to fill the posture bar of the target. Some weapon have unique crits, usually that deal more damage than a regular attack. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
-  <td><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Blocking</th>
-  <td>Holding the <kbd>F</kbd> key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it. It's important to note that if you are currently in a combo, blocking becomes disabled and your only option would be to parry or otherwise get flourished.</td>
+  <td>Critical Attacks, or "Crit" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel (Yes you can do that)).<p>Crits are primarly used to deal greater posture damage than an <kbd>M1</kbd> with the intent to fill the posture bar of the target. Crits range from lunging to multi-hit, to even giving you hyperarmor (A period where you do not take stun) and launching your opponent away. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Pressing <kbd>F</kbd> enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
+  <td>Pressing <kbd>F</kbd> causes your character to prepare themselves for a short timeframe. Enemies hitting you during this timeframe causes them to be parried, causing them to lose balance and take posture damage, as well as reducing your posture on a successful parry. Parrying has a 1.4 second cooldown, so don't spam it, and instead, hold <kbd>F</kbd> in cases where you are not confident that your parry would parry.</td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Blocking</th>
+  <td>By holding the <kbd>F</kbd> key, your character braces for multiple attacks, using your posture rather than your health if you were hit during the block. If you are hit, your block is disabled and you'll be forced to parry instead (Or Vent by pressing <kbd>G</kbd>).<p>Be careful when blocking, as it doesn't cover your back.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Venting</th>
-  <td>When the player have at least 40 tempo (indicated by a small notch on the tempo bar), pressing <kbd>G</kbd> will make the player Vent.<p>Venting pushes others nearby away and grant a brief period of invincibility, which allow the player to get out of tricky situation.</p></td>
+  <td>When the player have at least 40 tempo (indicated by a small notch on the tempo bar), pressing <kbd>G</kbd> will make the player Vent.<p>Venting pushes others nearby away and grant a brief period of invincibility, which allow the player to get out of tricky situations (such as being combo'd or being overcrowded).</p>
+  <p>If the Vent doesn't push anyone back (Or if it's blocked or parried), you will be stunned in place, unable to do anything. This allows enemy counter attacks (And if your vent is parried, allows them to style on you) or even taunt you to get some HP and posture back)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) during a basic attack animation or hold right click and then attack.</td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits).<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparringly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Dashing</th>
-  <td>Depending on what skills and stats you have you are able to roll a certain amount of distance, this will not consume posture if you are not in combat. note: dashing at the right time will result in a dodge which is also known as a perfect roll.</td>
+  <td>Depending onskills and stats you have, pressing <kbd>Q</kbd> allows you to Dash at your desired direction. Dashing past (Or in) a hitbox before you took damage will result in a perfect roll (Or a dodge).<p>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air. (Direction depends on camera direction)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td>Pressing the <kbd>Y</kbd> button will change your stance from one-handed to two handed. Only available to Medium Weapons (by default) and Heavy Weapons (talent required)<p><br>
-  Stance affects blocks and parries. Also, affects whether you can wield another tool in your off-hand.</p>
+  <td>Pressing the <kbd>Y</kbd> button will change your stance from one handed to two handed. Light weapons have no access to stance changing<p><br>
+  </p>
   <p><br>
-  <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance increase posture damage dealt to the target when parrying but reduce posture damage dealt when hitting their block.</b></p>
+  Stance affects blocks and parries. Affecting whether you can wield another tool in your off-hand as well.</p>
   <p><br>
-  <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance increase posture damage dealt to the target when hitting their block but reduce posture damage dealt when parrying.</b></p></td>
+  <i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapons (And Heavy Weapons with a certain talent). Offhand equipment (such as shields, parry daggers, guns) In your off/left hand. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
+  <p><br>
+  <i><b>Two Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. You also swing faster in this stance. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th><a href="Stealth.md">Stealth</a></th>
-  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and <kbd>M1</kbd> behind them to perform a sneak attack (throat slit). This will deal a large (NPCs)/low (Players) amount of damage and cause the target to ragdoll for 5 (NPCs)/2 (Players) seconds. Execute NPCs if the damage dealt is high enough.<p><br>
+  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and <kbd>M1</kbd> behind them to perform a sneak attack. This will deal a large (NPCs)/low (Players) amount of damage and cause the target to ragdoll for 5 (NPCs)/2 (Players) seconds. Executes NPCs if the damage dealt is high enough.<p><br>
   If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Uppercut</th>
-  <td>Performed by pressing ctrl and m1; more info in the future</td>
+  <td>Performed by pressing <kbd>Ctrl</kbd> and <kbd>M1</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack.<p>Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
+  <p>Certain talents can also affect the potency of uppercuts.</p></td>
   <td></td>
 </tr>
 </tbody>
@@ -202,6 +207,16 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Paralysis</th>
   <td>Stuns for a slight moment, usually enough to land an extra hit. Represented by yellow sparks.<p>Common source is being hit by a Thundercall Mantra.</p></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Winded</th>
+  <td>Attack speed is significantly reduced<p>Common source is being hit by a Galebreathe Mantra</p></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Suffocate</th>
+  <td>Affected entities cannot use mantras for the duration of the effect. Shown as rings spinning around the victim's neck.<p>Common source is being hit by a Galebreathe Mantra</p></td>
   <td></td>
 </tr>
 <tr>
@@ -263,3 +278,4 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 -   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
 -   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high rep
 -   Press G while crouched to **listen**. Your screen will turn a grey color, and you'll be able to hear clearly for the duration you're crouched. While that you cannot have active/activate Murmur Ardour and Tacet (not sure about this one)
+-   Blocking and Parrying shares the same hotkey (F), and will prioritize parrying first then blocking the 2nd.

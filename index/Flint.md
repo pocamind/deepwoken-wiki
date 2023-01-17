@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 44572
+revid: 48162
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -8,19 +8,40 @@ categories: [Items]
 
 # Flint
 
+| Flint | |
+|---|---|
+| value | N/A |
+| weight | 0 |
+| type | Utility |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+
+| Umbral Flint | |
+|---|---|
+| value | N/A |
+| weight | 0 |
+| type | Utility |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+
 “ Let's start a fire, shall we? ”
 
 ― In game description
 
-Normal flint at the [Etris](Etris.md) general store.
-
 ## Description
 
-The purpose of flint is to light up campfires. The amount of uses flint has is 15. Flint is essential for survival if you don't have Discovery of Fire, Graceful Flame, or Produce Spark.
+The purpose of flint is to light up campfires and has 15 uses. Flint is essential for survival in Deepwoken if you don't have Discovery of Fire, Graceful Flame, or Produce Spark.
 
-It can be crafted with one Rock and one piece of Coal. Or, you can buy it for 3 notes at the Etris General Store, Isle Of Vigils Blacksmith, and at Con's Pawn in The Summer Isle.
+Flint can be crafted with one [Rock](https://deepwoken.fandom.com/wiki/Ore#Rock) and one [Coal](https://deepwoken.fandom.com/wiki/Ore#Coal). It's crafting recipe does not require a crafting table.  
+Alternatively, Flint can be bought for three notes at:
 
-There is also an upgraded flint with ten times the uses, the Umbral Flint, which is crafted with one [Umbral Obsidian](Umbral_Obsidian.md) and one Coal.
+-   Etris General Store
+-   Isle of Vigils Blacksmith
+-   Summer Isle, Con's Pawn
+
+Umbral Flint is a higher tier of flint with 150 uses, crafted by substituting Rock for [Umbral Obsidian](Umbral_Obsidian.md) while crafting.
 
 ## Notes
 

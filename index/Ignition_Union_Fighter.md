@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 48023
+revid: 48146
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -22,7 +22,7 @@ They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
 ## Moves
 
-An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md):
+An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md) and have a chance to be enchanted.
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

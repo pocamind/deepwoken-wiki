@@ -1,9 +1,9 @@
 ---
 title: Mantras
-revid: 46986
+revid: 48144
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
+categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -14,44 +14,7 @@ notices:
 
 ― Card selection sample text
 
-|-
-
-|width=32%; rowspan="3"; class="mobile-hidden" id="{{{n"|
-
-**{{{n** me}}}
-
- _{{{desc}}}_
-
-|width=32%; colspan="3"; class="mobileonly" id="{{{n"|
-
-## {{{n me}}}
-
-  
-_{{{desc}}}_
-
-|-style="padding:0px; height:1% !important;"
-
-|
-
-{{{ethercostesc}}}
-
-|
-
-{{{dmgtype}}}
-
-|
-
-{{{reqs}}}
-
-|- |colspan="5"| {{{noeffect}}} |-
-
-  
-
 ## Description
-
-File:Wiped3.png
-
-Damn, who is this guy??
 
 Considered to be the root of Ether's usage, Mantras are the heart of Deepwoken's magic system and take the form of various spells and abilities. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up. (These can be rerolled via one of the Deep Shrines | Upon completing [Kelsius’s quest](Temple_of_the_Blade.md) you are awarded a mantra hand as well)
 

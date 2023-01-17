@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 47608
+revid: 48143
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Guilds, Locations]
@@ -20,7 +20,10 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 -   Once hired, the NPC in question can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Nodes and hire certain NPCs depending on the Node.
 
-To the left and behind of the first NPC, you can find the glowing outline to hire the Barber NPC. You can hire them (after getting 6+ rooms) for Notes.
+Currently, there are **2** NPCs that can join your Guild Base (particularly in the main room) with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
+
+-   The Barber NPC, In which can be hired after getting 6+ rooms for Notes.
+-   The Antiquarian NPC, in which can be hired after getting 9+ rooms for Notes.
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 

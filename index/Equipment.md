@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48058
+revid: 48161
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -141,7 +141,7 @@ _\+ Talent:_
 Iron Gut  
 _\+ Talent: Herbivore_
 
- | Layer 1 Chests Chests and Hive chests | N/A |
+ | Layer 1 Chests and Hive chests | N/A |
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
@@ -168,7 +168,7 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Aratel Island Chests and Layer 1 Chests Chests | N/A |
+ | Aratel Island Chests and Layer 1 Chests | N/A |
 | File:AlchemistHat.png | 
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -181,7 +181,7 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Aratel Island Chests and Layer 1 Chests Chests | N/A |
+ | Aratel Island Chests and Layer 1 Chests | N/A |
 | File:GreyGumshoeHat.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
@@ -192,7 +192,7 @@ _\+ Talent: Pitcher_
 
 Grants a random buff.
 
- | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
+ | Fort Merit Chests | Dark, Grey, Ochre & White |
 | File:Static-assets-upload10220259416551286672.png | 
 
 [Strapped Hat](Strapped_Hat.md)
@@ -205,7 +205,7 @@ Grants a random buff.
 
 _+Talent: The Exterminator_
 
- | Deep Widow Chests and Layer 1 Chests | Black & Double (Work in Progress) |
+ | Deep Widow Chests and Layer 1 Chests | Black & Double |
 | File:Investigator's Hat.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
@@ -248,7 +248,7 @@ Grants a random buff.
 
 _+Talent: Spare Nails, Emergency Repairs_
 
- | Deep Widow Chests, DUke Chests & Layer 1 Chests | N/A |
+ | Deep Widow Chests, Duke Chests & Layer 1 Chests | N/A |
 |  | 
 
 [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
@@ -271,7 +271,7 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Summer Isle Chests, Deep Widow Xhests & Layer 1 Chests | Black & Brown |
+ | Summer Isle Chests, Deep Widow Chests & Layer 1 Chests | Black & Brown |
 | File:Deepwoken hood.jpg | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
@@ -280,7 +280,7 @@ _\+ 4% Stealth_
 
 Grants a random buff.
 
- | Fort Merit Chests & Layer 1 Chests Chests | N/A |
+ | Fort Merit Chests & Layer 1 Chests | N/A |
 | File:VigilHood.png | 
 
 [Assassin's Hood](<Assassin's_Hood.md>)
@@ -423,7 +423,7 @@ Grants a random buff.
 
 **Requires Fortitude 10**
 
- | Artifact Turn-ins, Golden Warrior Event Duke Erisia Chests & Layer 1 Chests | N/A |
+ | Artifact Turn-ins, Golden Warrior Event Chests, Duke Erisia Chests & Layer 1 Chests | N/A |
 | File:Guardian helm.png | 
 
 Guardian Helm
