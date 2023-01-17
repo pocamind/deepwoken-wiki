@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 48174
+revid: 48175
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -19,7 +19,7 @@ categories: [NPCs, Quests]
 
 ## Description
 
-Zi'eer, more commonly known as Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of The Authority, believes that The Lord Regent is a member of the long thought deceased contractors, and may bring about a 'great war' which will cause the second great flood. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
+Zi'eer, more commonly known as Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of The Authority, believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
@@ -27,7 +27,7 @@ He does not leave his throne under any circumstances. It is unclear whether this
 
 He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace.
 
-If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the Contractor oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
+If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oaths.md#oath-contractor) Oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
 
 Despite his mystique and power, he is still very much a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging.
 

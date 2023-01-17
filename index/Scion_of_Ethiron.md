@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 48014
+revid: 48187
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -55,7 +55,7 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 | Swing | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
 | Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | X | X | ◯ | (★☆☆) |
 | Bone Wave | Bones will rise up from the ground like a wave in the ocean, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
-(someone write down the counter for this, some people tell me just jump and I think it might happen only if you are on the first floor of the tower.
+To avoid, you must jump. You can just hold space and you'll be pretty much safe
 
  | X | X | ◯ | (★★★) |
 

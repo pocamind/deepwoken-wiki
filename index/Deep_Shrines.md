@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 48097
+revid: 48215
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -63,7 +63,6 @@ _Pros/Cons_
 -   Since you are levelling up, you gain 3 knowledge points, so the cost is technically 2.
 -   The Penalty of Blasphemy is a double-edged sword. Having any flaw that won't impact your current run (ie. Obvious, Haemophilia, etc.) negatively is a necessary sacrifice; but those with the Blind Flaw unlocked will have a reasonable sense of worry.
     -   Those who are going to get Blindseer (Or already are one) won't be so dreadful by this dire penalty.
--   Possibly cannot be used at Power 17 and above as the shrine will mention you are too broken.
 
 ### **Shrine of Mastery**
 
@@ -122,6 +121,7 @@ _Pros/Cons_
 -   You cannot use the Shrine of Order if you already have an Oath. Using it won't lock you out of getting an Oath.
 
 -   Innate (racial) attribute points do not count when redistributing your points.
+-   The Shrine of Order can be extremely useful to obtain certain advanced talents that require a lot of points, which normally would make a build useless, such as having 100 Fortitude and 100 Willpower (Brick wall). Having that without the Shrine of Order will only leave you 127 points for anything else.
 
 ## Trivia
 

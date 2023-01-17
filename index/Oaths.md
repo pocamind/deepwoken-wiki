@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48173
+revid: 48211
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -365,8 +365,10 @@ You will get a mantra for each kill.
     -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
+
 -   **Celestial Assault - Combat Mantra**
     -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+
 -   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
         -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
@@ -386,7 +388,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 “ You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. ”
 
-― Arcwarder Description
+― Arcwarder Oath Description
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 

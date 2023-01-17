@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 48153
+revid: 48184
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― A player after being grabbed once
 
-_Also known as Boner, and the Bone One_Template:EnemyInfobox1.0
+_Also known as The_ _Boner, and the Bone One_Template:EnemyInfobox1.0
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Eastern Nomad
-revid: 42442
+revid: 48210
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Eastern Nomad

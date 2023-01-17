@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 47890
+revid: 48218
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -132,6 +132,11 @@ Jump
 Thousand Needles
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
+| 
+
+Tacet Hug
+
+ | The Megalodaunt turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and crushes it. Ragdolls afterwards. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar

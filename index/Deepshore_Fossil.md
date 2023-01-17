@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 47717
+revid: 48176
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,5 +20,5 @@ You will be able to tell her this once you meet the following requeriments ( do 
 -   Have found the three diver jornals spread across the map;
 -   Have done the "galewax quest", which gives you entry to an unnamed place that has 3 chests that offer L2-exclusive weapons and enchanted stones;
 -   Have 2 specific talents obtained exclusively on layer 2;
-    -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the cave labyrinth, and talking to The Leader located at Fire-fire;
+    -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the cave labyrinth, and talking to The Leader located at Fir-fire
     -   Union Hook, which is obtained after you have turned on the generator located after the bridge where a bonekeeper blocks it and prevents you from going through unless you kill him, so you can access The Frontier Furnace and talk to Alpha, the NPC who will give you the talent;

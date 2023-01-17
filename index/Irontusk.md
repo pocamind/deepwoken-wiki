@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 48141
+revid: 48177
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,4 +29,4 @@ categories: [Weapons, Weaponry]
 
 The Irontusk is one of the four starter weapons obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon Echoes" Upgrade.
 
-Deals 16.5 Damage with 3 Medium Weapon scaling, totaling to ??? at 100 MED.
+Deals 16.5 Damage with 3 Medium Weapon scaling, totaling to 21.45 Dmg at 100 MED.
