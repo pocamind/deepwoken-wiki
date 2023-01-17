@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 47986
+revid: 48019
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently nine Obtainable Oaths in _Deepwoken_. \[See Below\]
+There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
 
 ## Pathfinder (No Oath)
 
@@ -342,6 +342,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
 3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md),** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+    1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
@@ -404,7 +405,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
-    -   the arc suit can also come in different color. Colors known so far are brown and black. Also The colors might come in different rarities or might depend on race.
+    -   the arc suit can also come in different color. Colors known so far are brown, black, and grey. Also The colors might come in different rarities or might depend on race.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself

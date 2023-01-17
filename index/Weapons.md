@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 47908
+revid: 48055
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -379,6 +379,16 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td><a href="Quickfang.md">Quickfang</a></td>
+  <td>0 LHT</td>
+  <td>12</td>
+  <td>5%</td>
+  <td>LHT: 7</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.81x</td>
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>

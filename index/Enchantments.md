@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 47922
+revid: 48035
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -48,6 +48,7 @@ There are two variants that enchantments come in:
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
+-   **January 16th, 2023** - For some unholy reason, certain enemies and humanoid monsters can now wield Enchants.
 
 ## List of Enchantments
 
@@ -180,8 +181,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
-  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Also boosts damage by 10%.<br>
+  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 10%.</p>
   <p><br>
   </p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in a swirly purple effect.</div></td>

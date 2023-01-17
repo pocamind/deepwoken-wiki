@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 47975
+revid: 48058
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -2026,3 +2026,4 @@ Grants a random buff.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
 -   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.
 -   Legendary Rings can be easily obtained by killing the Ancient Rotlands angels near the 2nd spawn of [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher)
+-   Poser's Ring cannot be dropped as it will be soulbounded to your character.

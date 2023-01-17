@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 43817
+revid: 48011
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -29,12 +29,12 @@ Once a boat has been purchased and isn't destroyed, you can deploy a boat at any
 
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
-You can respawn on any boat, given that you haven't been sent to the depths.
+You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
 
 | Image | Boat | Details |
 | --- | --- | --- |
 |  | Dinghy | Price: 0 Notes (Free)
-250 Health
+300 Health
 
 You can only have 1 Dinghy.
 
@@ -46,27 +46,27 @@ You can only have 1 Dinghy.
  |
 |  | Schooner | Price: 500 Notes
 
-1400 Health
+2000 Health
 
 4 Cannons
 
  |
 |  | Merchant Schooner | Price: 1000 Notes
 
-2000 Health
+3000 Health
 
 4 Cannons
 
-Lantern (Respawn Point)
+Lantern (Rest/Respawn Point)
 
  |
 |  | Frigate | Price: 2000 Notes
 
-3000 Health
+5000 Health
 
 6 Cannons
 
-Lantern (Respawn Point)
+Lantern (Rest/Respawn Point)
 
  |
 |  | Ironclad | Price: 6000 Notes
@@ -75,6 +75,6 @@ Lantern (Respawn Point)
 
 20 Cannons
 
-Lantern (Respawn Point)
+Lantern (Rest/Respawn Point)
 
  |

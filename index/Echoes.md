@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 47867
+revid: 48031
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -194,6 +194,8 @@ There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 
 ## Echo Talents/Items
 
 Example of an Echo Talent unlocked
+
+Quickfang Echo Upgrade
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 

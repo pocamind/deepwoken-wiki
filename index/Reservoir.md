@@ -1,8 +1,9 @@
 ---
 title: Reservoir
-revid: 43353
+revid: 48046
 source: https://deepwoken.fandom.com/wiki/Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Cut Content]
 ---
 
 # Reservoir

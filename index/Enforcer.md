@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 47295
+revid: 48028
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -44,7 +44,7 @@ Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size di
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. If you have fought a Megalodaunt (popularly known as a Sharko) before, this is less than its base health without PvE scaling. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits, which is a relief.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. If you have fought a [Megalodaunt](Megalodaunt.md) before, this is less than its base health without PvE scaling. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits, which is a relief.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution (pun intended) of them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. It can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
 

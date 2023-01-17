@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 47442
+revid: 47996
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -17,7 +17,11 @@ The flames have called the Ferryman!
 
 ― The Ferryman's Theme
 
-Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. In-fact defeating him won't even kill him.
+Template:Creature Infobox V3
+
+## Description
+
+**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. In-fact defeating him won't even kill him.
 
 #### Summoning The Ferryman
 

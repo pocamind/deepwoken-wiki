@@ -1,9 +1,9 @@
 ---
 title: Bandit Leader
-revid: 46216
+revid: 48036
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, Enemies]
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Bandit Leader

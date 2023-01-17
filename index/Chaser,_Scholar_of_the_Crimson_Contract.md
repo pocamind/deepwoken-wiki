@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 47733
+revid: 48015
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -99,6 +99,8 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
 
+Roughly fourteen chasers solo without the Bosses Resonance Progression path will allow you to obtain a Resonance.
+
 ## Dialogue
 
 **Key: (C) = Chaser (1,2,3 etc) = Dialogue option(s) | The bullet point signifies a branch of dialogue that can be followed**
@@ -147,6 +149,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Chaser is resistant to Bloodless Gems and the Vampirism enchant.
+-   Considered one of the easiest bosses, can even be beaten as a freshie.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an oath in the future, probably via the Second Prophet, similar to the Contractor Oath with Lord Regent.
 -   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2.
 
