@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48228
+revid: 48275
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -255,10 +255,10 @@ Does not grant any special cosmetic based on race.
         -   Current known locations are...
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
-            3.  Ceres (Near path to abandoned cabin under Etris)
+            3.  Ceres (Overlooking the path to the abandoned cabin below Etris, on a black rocky outcrop)
             4.  Europa (Near the Valley of Heroes)
-            5.  Pallas (Infront of the Oathless trainer)
-            6.  Fortuna (Above the Broken Church in Erisia)
+            5.  Pallas (On the small bit of land by the miner's landing's gate)
+            6.  Fortuna (Above the church of erisore)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 

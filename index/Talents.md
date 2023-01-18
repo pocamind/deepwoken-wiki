@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48166
+revid: 48277
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1129,11 +1129,11 @@ Prerequisite: Charisma
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-    -   Prerequisite: Static Link
+    -   Prerequisite: Static Link + at least Power 10 + a fortitude req? (more research on this coming, but it isn't just 15 intelligence and 40-45 thundercall)
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
-    -   Prerequisite: Static Link
+    -   Prerequisite: Static Link + at least Power 10
 -   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link. (+4 Ether, +4 Reservoir)
-    -   Prerequisite: Static Link
+    -   Prerequisite: Static Link + at least Power 10
 
 ### Stormblade
 
@@ -1269,7 +1269,7 @@ These Talents are designed to let you survive longer against starvation and thir
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
-    -   Prerequisites: 5 Agility, 5 Charisma
+    -   Prerequisites: 5 Agility, 10 Charisma
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
     -   Prerequisite: 5 Charisma
