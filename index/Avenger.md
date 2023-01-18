@@ -1,9 +1,9 @@
 ---
 title: Avenger
-revid: 48269
+revid: 48326
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Weapons]
+categories: [Stub pages without reason, StubPages, Weapons, Pages with broken file links]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -31,3 +31,5 @@ notices:
 The **Avenger** is a greatsword obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md).
 
 You get it with 25-100 Echoes.
+
+File:Advanced Weapon.png

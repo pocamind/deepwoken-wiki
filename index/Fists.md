@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 47840
+revid: 48311
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 
 “ MAKING THE MOTHER OF ALL OMELETTES HERE JACK! CANT FRET OVER EVERY EGG! ”
 
-― Some funnily unfunny goofball trying to make a funny quote.
+― The Gremor about to shove a Canor six feet under.
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 

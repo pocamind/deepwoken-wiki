@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 47705
+revid: 48315
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]
@@ -30,7 +30,7 @@ _Recommended to block or roll out of._
 
 _If lands will ragdoll_
 
-**Ice Lance Combo** ★★☆ **The Aformentioned Kyrsgarde holds out its arms and forms a ice lance with frostdraw, and swings it in an almost formal and stern way, showing that the Kyrsgarde know how to Lance**
+**Ice Lance Combo** ★★☆ **The Aformentioned Kyrsgarde holds out its arms and forms a ice lance with frostdraw, and swings it in an almost formal and stern way, showing that the Kyrsgarde know how to Lance** (THIS ATTACK iS EXCLUSIVE TO THE KRYSAN FIGHTERS AKA THE ONES WITHOUT GLOWIN HEADS OR SOMETHING)
 
 _Recommended to block or roll out of as well as this attack is deadly_
 

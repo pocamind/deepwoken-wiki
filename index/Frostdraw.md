@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 48209
+revid: 48334
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -163,11 +163,7 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
-
--   Cloudstones would increase the number of chains conjured.
-
- |
+ | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage. |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
 
 Ice Forge
@@ -305,7 +301,6 @@ _Swift bolts of frozen air._
 -   Deals light damage.
 -   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
--   Using Cloudstones/Stratus Stones would increase the number of projectiles fired.
 
  |
 

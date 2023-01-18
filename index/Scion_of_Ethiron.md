@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 48187
+revid: 48327
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -24,7 +24,7 @@ Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fando
 
 ## Defeating the Scion of Ethiron
 
-This boss is can be quite intimidating upon first glance at it's sheer size. As with any boss, however, it can be learned and beaten with enough experience and knowledge.
+This boss can be quite intimidating upon first glance at it's sheer size. As with any boss, however, it can be learned and beaten with enough experience and knowledge.
 
 Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last if possible to minimize the amount of time running to one of it's arms. Efficiently doing this will allow you to defeat the Scion of Ethiron.
 

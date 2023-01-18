@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48161
+revid: 48308
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -20,7 +20,7 @@ An example of an item with rolled stats (in beige) and guaranted stats (in grey)
 
 Armor equipment are items that can be found usually in chests. They can be equipped to grant their listed stat bonuses.
 
-Armor equipment can also be randomly obtained by giving an Artifact to a banker.
+Armor equipment can also be randomly obtained by turning in an Artifact to a banker.
 
 The player can wear 7 type of armor equipment: Head, Face, Ears, Back, Arms, Rings and Boots.
 
@@ -141,7 +141,14 @@ _\+ Talent:_
 Iron Gut  
 _\+ Talent: Herbivore_
 
- | Layer 1 Chests and Hive chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
@@ -155,7 +162,13 @@ _\+ Talent:_
 Iron Gut  
 _\+ Talent: Herbivore_
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
@@ -168,7 +181,14 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Aratel Island Chests and Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:AlchemistHat.png | 
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -181,7 +201,14 @@ Grants a random buff.
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
- | Aratel Island Chests and Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:GreyGumshoeHat.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
@@ -192,7 +219,13 @@ _\+ Talent: Pitcher_
 
 Grants a random buff.
 
- | Fort Merit Chests | Dark, Grey, Ochre & White |
+ | 
+
+Chests from:
+
+-   [Fort Merit](Fort_Merit.md)
+
+ | Dark, Grey, Ochre & White |
 | File:Static-assets-upload10220259416551286672.png | 
 
 [Strapped Hat](Strapped_Hat.md)
@@ -205,7 +238,14 @@ Grants a random buff.
 
 _+Talent: The Exterminator_
 
- | Deep Widow Chests and Layer 1 Chests | Black & Double |
+ | 
+
+Chests from:
+
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | Black & Double |
 | File:Investigator's Hat.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
@@ -216,7 +256,13 @@ Grants a random buff.
 
 _+Talent: Diplomat_
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 [Ten-Gallon Hat](Ten-Gallon_Hat.md)
@@ -228,7 +274,13 @@ Grants a random buff.
   
 _\+ 2 Posture_
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 | File:Tophat.png | 
 
 [Tophat](Tophat.md)
@@ -237,7 +289,31 @@ _\+ 2 Posture_
 
 Cosmetic
 
- | Summer Isle Chests | Beige, Burgundy & Slate |
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+
+ | Beige, Burgundy & Slate |
+|  | 
+
+Dark Owl Chapeau
+
+ | 
+
+Grants a random buff.
+
+_\+ Talent: Giantslayer_  
+_\+ 10% Stealth_
+
+ | 
+
+Chests from:
+
+-   [Layer 2](Second_Layer.md) (Floor 1)
+
+ | N/A |
 | File:Static-assets-upload12843990363310254802.png | 
 
 [Brigand's Bicorn](<Brigand's_Bicorn.md>)
@@ -248,7 +324,15 @@ Grants a random buff.
 
 _+Talent: Spare Nails, Emergency Repairs_
 
- | Deep Widow Chests, Duke Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
@@ -257,7 +341,20 @@ _+Talent: Spare Nails, Emergency Repairs_
 
 Grants a random buff.
 
- | Artifact Turn-ins, Primadon Chests, Duke Chests, Deep Widow Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+Other Sources:
+
+-   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
 | File:Black Hood.png | 
 
 Hood
@@ -271,7 +368,15 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Summer Isle Chests, Deep Widow Chests & Layer 1 Chests | Black & Brown |
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | Black & Brown |
 | File:Deepwoken hood.jpg | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
@@ -280,7 +385,14 @@ _\+ 4% Stealth_
 
 Grants a random buff.
 
- | Fort Merit Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Fort Merit](Fort_Merit.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:VigilHood.png | 
 
 [Assassin's Hood](<Assassin's_Hood.md>)
@@ -291,7 +403,14 @@ Grants a random buff.
 
 _+Talent: Assassin_
 
- | Hive Chests, Gold and Mist rarely from Aelita | Gold, Pale, Mist & Crimson |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [Aelita](Aelita.md)
+
+ | Gold, Pale, Mist & Crimson |
 | 
 
  | 
@@ -302,7 +421,14 @@ _+Talent: Assassin_
 
 Grants a random buff.
 
- | Aratel Island Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:Static-assets-upload321884259233421803.png | 
 
 [Dark Cowl](Dark_Cowl.md)
@@ -314,7 +440,19 @@ Grants a random buff.
   
 _\+ 4% Stealth_
 
- | Artifact Turn-ins, Duke Erisia Chests and Deep Widow Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+Other sources:
+
+-   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
 | File:Authorityhelm.png | 
 
 [Authority Helm](Authority_Helm.md)
@@ -323,14 +461,22 @@ _\+ 4% Stealth_
 
 Grants a random buff.
 
-_+Talent: Strong Hold_
+_+Talent: Strong Hold_  
+_\+ 8 Health_
 
 **Requires Fortitude 10**
 
-  
-_\+ 8 Health_
+ | 
 
- | Drop from Authority Enemies & Aratel Island Chests | N/A |
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+Other sources:
+
+-   Drop from Authority Enemies
+
+ | N/A |
 | File:Barrel Helmet.png | 
 
 [Barrel Helm](Barrel_Helm.md)
@@ -341,7 +487,19 @@ Grants a random buff.
 
 **Requires Fortitude 10**
 
- | Artifact Turn-ins, Arena Chests, Duke Erisia Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+Chests from:
+
+-   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
 | 
 
  | 
@@ -354,7 +512,15 @@ Grants a random buff.
 
 **Requires Fortitude 20**
 
- | Aratel Island Chests, Arena Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md) Chests
+-   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
 | 
 
  | 
@@ -367,8 +533,17 @@ Grants a random buff.
 
 **Requires Fortitude 15**
 
- | Summer Isle Chests, Arena Chests, Duke Erisia Chests & Layer 1 Chests | N/A |
-|  | 
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
+| File:Bulwark Helm.png | 
 
 Bulwark Helm
 
@@ -376,7 +551,13 @@ Bulwark Helm
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 | 
 
 File:Captainskabuto.png
@@ -389,7 +570,13 @@ File:Captainskabuto.png
 
 Grants a random buff.
 
- | Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:Feathertop Helm.png | 
 
 [Feathertop Helm](Feathertop_Helm.md)
@@ -398,7 +585,18 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Artifact Turn-ins, Duke Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+
+Other sources:
+
+-   [Artifact Turn-ins](Artifacts.md)
+
+ | N/A |
 | File:Gladiator Helmet.png | 
 
 Gladiator Helmet
@@ -412,7 +610,16 @@ _\+ 2 Posture_
 
 **Requires Fortitude 15**
 
- | Aratel Island Chests, Duke Erisia Chests, Deep Widow Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Goldleaf Helm](Goldleaf_Helm.md)
@@ -423,7 +630,19 @@ Grants a random buff.
 
 **Requires Fortitude 10**
 
- | Artifact Turn-ins, Golden Warrior Event Chests, Duke Erisia Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Golden Warrior](Golden_Warrior.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+
+Other sources:
+
+-   [Artifact Turn-ins](Artifacts.md)
+
+ | N/A |
 | File:Guardian helm.png | 
 
 Guardian Helm
@@ -432,7 +651,19 @@ Guardian Helm
 
 Grants a random buff.
 
- | Artifact Turn-ins, Primadon Chests, Duke Erisia Chests and Deep Widow Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+Other sources:
+
+-   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
 | File:Guard's Kabuto.png | 
 
 [Guard's Kabuto](<Guard's_Kabuto.md>)
@@ -441,7 +672,13 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | 
 
 File:Khan Helmet.png
@@ -458,7 +695,13 @@ Grants a random buff.
 _\+ 10 Health_  
 _\+ 2 Posture_
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 | 
 
 File:KnightHelm.png
@@ -471,12 +714,17 @@ File:KnightHelm.png
 
 Grants a random buff.
 
-**Requires Fortitude 15**
-
-  
 _\+ 10 Health_
 
- | Aratel Island Chests | N/A |
+**Requires Fortitude 15**
+
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 [Legate Helm](Legate_Helm.md)
@@ -487,7 +735,15 @@ Grants a random buff.
 
 **Requires Fortitude 5**
 
- | Deep Widow Chests, Duke Erisia Chests & Arena Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
 | 
 
 File:Royal Guard's Kabuto.png
@@ -500,7 +756,13 @@ File:Royal Guard's Kabuto.png
 
 Grants a random buff.
 
- | Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:Smith Bandana.png | 
 
 Smith Bandana
@@ -509,7 +771,18 @@ Smith Bandana
 
 Cosmetic
 
- | Artifact Turn-ins, Erisia Chests & Primadon Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+Other sources:
+
+-   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
 
 **Face:**
 
@@ -849,7 +1122,25 @@ _\+ 3% Elemental Armour_
  | Summer Isle Chests & Fishing Chests | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 |  | 
 
+Bloodcurse Pendant
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
 Nomad Pendant
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing Chests | N/A |
+|  | 
+
+Old World Sun Pendant
 
  | 
 
@@ -1038,7 +1329,7 @@ _\+ 3 Health_
 _\+ 1 Posture_
 
  | Fort Merit Chests | N/A |
-|  | 
+| File:Khan Pauldrons.png | 
 
 [Khan Pauldrons](Legion_Pauldrons.md)
 
@@ -1152,7 +1443,7 @@ Grants a random buff.
 
 _+Talent: Lowstride_
 
- | Chili's Traveling Ship | N/A |
+ | Miner's Landing & Chili's Traveling Ship | N/A |
 |  | 
 
 Celtor Commander Plate
@@ -1184,7 +1475,7 @@ Grants a random buff.
  | Layer 2 Chests (Floor 2) | N/A |
 | File:Brigand's Cloak.png | 
 
-Brigand's Cloak
+Brigand Cloak
 
  | 
 
@@ -1876,6 +2167,15 @@ Grants a random buff.
 Grants a random buff.
 
  | Erisia Chests, Songseeker Chests & Minityrsa Chests | Black & White |
+|  | 
+
+Grand Authority Sabatons
+
+ | 
+
+Grants a random buff.
+
+ | Miner's Landing | N/A |
 | File:Grand Boots.png | 
 
 [Grand Boots](Grand_Boots.md)

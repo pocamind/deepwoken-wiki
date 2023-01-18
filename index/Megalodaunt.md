@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 48278
+revid: 48332
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -25,7 +25,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant shark-like [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_ and _[The Depths](The_Depths.md)_. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
+The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_ and _[The Depths](The_Depths.md)_. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
 
 There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 talents, Engage at level 3 and Critical Attack at level 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
 
@@ -220,12 +220,9 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. The Mechalodaunt is found in [Miner's Landing](<Miner's_Landing.md>), and its voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
+The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) and is found in [Miner's Landing](<Miner's_Landing.md>), and its Voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
 
-## **Trivia**
-
--   Mechalodaunt in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as agroing both Mechalodaunts can make them significantly more difficult to kill off.
--   Mechalodaunts are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
+Mechalodaunts in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as agroing both Mechalodaunts can make them significantly more difficult to kill off. They are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -243,10 +240,21 @@ Slash
 
 Kick
 
- | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Unlike the other variants, Mechalodaunts sometimes hold this kick for an extra half~ a second making it harder to dodge.
+ | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+
+ | ✗ | ✗ | ◯ | (★★★) |
+| 
+
+Blazing Kick Kick
+
+ | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. However this kick is held for an extra half~ a second, making it harder to dodge, as well as setting the player on fire.
+
+-   Causes the player to be Dazed if kicked into a wall.
+-   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   Missing it means you'll waste a roll putting out the flames.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
