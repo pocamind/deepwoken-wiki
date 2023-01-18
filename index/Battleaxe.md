@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 42067
+revid: 48292
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -29,8 +29,6 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 The Battleaxe is a greataxe that Heavy weapon users start with when beginning the game. The weapon has a base damage of 20, and a scaling of 5. This weapon can be obtained by choosing Heavy Weapons during [Character Creation](Character_Creation.md), or buying it at [Etris](Etris.md#weaponry).
 
-  
+## Trivia
 
-## Notes & Trivia
-
--   The axe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.
+-   The Battleaxe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.

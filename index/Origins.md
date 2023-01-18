@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 48133
+revid: 48294
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -16,7 +16,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Obtainment:** Entering Deepwoken for the first time and/or completing the [tutorial](Tutorial.md).
+**Obtainment:** Unlocked by default.
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 -   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
@@ -30,9 +30,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Requirements:** Find and enter the [Trial of One](Trial_of_One.md), at [Minityrsa](Minityrsa.md), as a Power 1 character.
-
-**Obtainment:** Successfully defeat the halfway point of the trial, which is the [Thresher](Thresher.md).
+**Obtainment:** Find and enter the [Trial of One](Trial_of_One.md), at [Minityrsa](Minityrsa.md), as a Power 1 character, and successfully defeating the halfway point of the trial, which is the [Thresher](Thresher.md).
 
 -   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
@@ -61,7 +59,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.
--   **\[CAUTION\]** VERY UNRECOMMENDED to play deepbound untill it gets buffed/reworked, you WILL very likely get gripped everytime you encounter a brainless person progressing through depths, or wipe to 3 corrupted monsters spawning on you!! with only 1 life and depths being a ganking zone as of right now (1/13/2023), you should pick other origins instead. (source: community's opinion + played deepbound for 3 minutes and got wiped 2 times, once by a max lvl and the other by a power 10 duo, not worth the risk at all because you cant get good exp by any safe means unless you go to layer 2 which once again is filled with high lvl mobs.)
 
   
 
@@ -106,3 +103,6 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat.
+
+-   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
+    -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
