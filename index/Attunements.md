@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 47654
+revid: 48257
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -28,36 +28,6 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 
-### **Lifeweave**
-
-_**Lore Sources:** Regek (Mentioned), Arch\_Mage (Discord)_
-
-(Arch\_Mage) Lifeweave itself, just like Ironsing, is an Attunement. Lifeweave has healing capabilities; though it's not shown in-game.
-
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
-    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
-
-The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
-
--   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
-
--   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
--   The book _The Lament of Ciryyn_ expands up on it
-    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
-    -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
-    -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
-
-### **Ironsing**
-
-_**Lore Sources:** Hive Tactician Armor and Pluripotent Alloy (Description), Arch\_Mage (Discord)_
-
-Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
-
--   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md) and Pluripotent Alloy. It's most likely that Ironsing was developed by The Hive or their progenitors, much like lifeweave.
--   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
-
-### **Others**
-
 -   Lightkeeper/Lightkeeping
 -   Earth (Mentioned by Arch\_Mage saying he would like to add an earth attunement)
 
@@ -83,6 +53,8 @@ When you unlock an Attunement after drinking a blood potion, the Attunement will
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
+
+-   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots, saving you from having to grind for the blood potions.
 
 Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
 

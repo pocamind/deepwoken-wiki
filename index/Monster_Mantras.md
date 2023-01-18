@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 47592
+revid: 48248
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -34,7 +34,7 @@ Beast Burrow
 
 (★★☆)
 
- |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) _Dig._ | Mobility (?) Mantra |
+ |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) _Dig._ | Mobility Mantra |
 |  | 
 
 Coral Spear

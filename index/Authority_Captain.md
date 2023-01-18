@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 42027
+revid: 48236
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -67,5 +67,4 @@ An Authority Captain executes it's opponent after knocking them:
 
 ## Trivia
 
--   A variant of the Authority Warden is near identical to this enemy.
--   The only Authority Soldier with a completely unobscured face.
+-   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.

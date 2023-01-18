@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 48138
+revid: 48249
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons]
@@ -29,3 +29,5 @@ notices:
 | description | A greatsword passed down by your ancestors. |
 
 The **Avenger** is a heavy weapon obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md).
+
+You get it with 25-100 Echoes.

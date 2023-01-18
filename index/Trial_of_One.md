@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 47723
+revid: 48259
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -47,7 +47,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   [Weakened Enforcer](Enforcer.md)
     -   Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. (16 sword hits)
 -   [Weakened Sand Knight](Stone_Knight.md)
-    -   Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (Took me arpund 45 - 50 hits with sword)
+    -   Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (Took me around 45 - 50 hits with sword)
 -   Parry Checks
     -   See the first parry check. Note that the orbs will start at the same speed as the third "stage" of the first parry check.
 -   [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
@@ -62,7 +62,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 ## Tips and Tricks
 
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes ~and giving a boost to further progression.~ This has been removed since layer 2 update.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 
 ## Trivia
@@ -76,3 +76,4 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
+-   After testing, beating trial with Adret and Autodidact gets you to power 9. (Could be a bug.)

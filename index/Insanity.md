@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 47917
+revid: 48241
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,11 +10,11 @@ categories: [Mechanics]
 
 _"P̴L̷U̴C̷K̴ ̴O̶U̶T̴ ̵T̵H̴I̸N̶E̵ ̶E̵Y̶E̶S̵,̷ ̴T̸E̵A̷R̵ ̶O̶U̴T̶ ̶T̷H̸I̵N̴E̸ ̷T̸H̴R̶O̵A̴T̴,̷ ̴L̵A̴Y̶ ̵W̷A̸S̷T̵E̴ ̷T̶O̶ ̷A̷L̶L̴ ̴W̷H̶I̷C̷H̸ ̷I̸S̴ ̵S̸A̷C̷R̸E̵D̶,̷ ̴T̵H̵E̴ ̶M̶O̷O̵N̸S̶E̶Y̶E̵ ̵C̵O̷N̴V̷E̶R̴G̸E̷S̸ ̶W̶I̷T̵H̷ ̵T̷H̸A̶T̵ ̷B̶E̷L̴O̴W̵.̵" -Insanity killsplash_
 
-**Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also in the Etrean Luminant to a lesser extent.
+**Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also on the Surface to a lesser extent.
 
 Insanity is dictated by an meter that is not directly shown to the player but its progress can be tracked by the blue borders on the screen, and certain things will fill that meter, where at certain thereshold, the player will be affected by certain effects.
 
-Players start with 80 sanity. Being in The Depths passively give insanity, at a rate of 1 point every 30 seconds. It takes about 40 minutes to die in the Depths of insanity (with current base sanity)
+Players start with 80 sanity. Being in The Depths passively gives insanity, at a rate of 1 point every 30 seconds. It takes about 40 minutes to die in the Depths of Insanity (with current base sanity), with 0 Willpower.
 
 Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck or talents that boost sanity, wearing a blindfold, certain equipment or with the [Blindseer Oath](Oaths.md). Those will increase a stat called Sanity.
 

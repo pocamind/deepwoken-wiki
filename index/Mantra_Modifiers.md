@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 47843
+revid: 48233
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -460,6 +460,8 @@ File:Image 2021-12-31 211633.png
 Multiplying Spark
 
  | 
+
+-   Eclipse Kick
 
 -   Wind Gun
 

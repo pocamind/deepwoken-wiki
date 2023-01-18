@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 47718
+revid: 48240
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -26,7 +26,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ## Attacks
 
-| Name | width="125px" | Parryable? | Blockable? | Dodgeable? | Danger |
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | ◯ | **\-** | (★★☆) |

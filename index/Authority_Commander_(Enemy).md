@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 46821
+revid: 48239
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a warden, it is a [Authority Captain](Authority_Captain.md).
+Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Commander is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a Commander, it is an Authority Lieutenant.
+
+  
 
 Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm.
 
@@ -32,18 +34,17 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Mantra Modification - An Authority Warden's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md) or 2 [Stratus Stones](Mantra_Modifiers.md).
+-   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md) or 2 [Stratus Stones](Mantra_Modifiers.md).
 
 ## Tips
 
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
 -   Expect for [Authority Guards](Authority_Peacekeeper.md) to interfere with your fight.
--   You'll frequently get into a parry battle with the Warden, so feint to disrupt it.
+-   You'll frequently get into a parry battle with the Commander, so feint to disrupt it.
 
 ## Trivia
 
--   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so.
+-   You can pickpocket the Authority Commander for the Jail Keys but it requires the Pickpocket Talent to do so.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a Khan Shield or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
--   Authority Wardens and [Authority Captains](Authority_Captain.md) are different ranks

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 48135
+revid: 48244
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -229,3 +229,4 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Gun,
     -   The [Quickfang](Quickfang.md) Rapier.
+-   The Echoes ''Advanced Weapons'' will not grant you a random weapon, in fact, it will rise from Quickfang to Avenger, meaning you would need 100 Echoes to reach Avenger.

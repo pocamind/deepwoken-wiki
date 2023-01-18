@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 47964
+revid: 48254
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -32,11 +32,11 @@ _As of the Verse 2 Update, almost all maps that include Aratel Island and/or the
 
 ## Maps
 
-This second sea map map is what is to be known (as of right now) the map of the 2nd sea and has the fast travel paths as white lines.
+This Eastern Luminant map is what is to be known (as of right now) the map of the Eastern Luminant and has the fast travel paths as white lines.
 
 \[On the right\]
 
-This map is what is to be known (as of right now) the map of the 2nd sea and has the fast travel paths as white lines.
+This map is what is to be known (as of right now) the map of the Eastern Luminant and has the fast travel paths as white lines.
 
 File:Burf9 map.png
 

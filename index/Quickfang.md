@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 48062
+revid: 48253
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -29,8 +29,8 @@ categories: [Weapons, Rapiers]
 
 The Quickfang is a LHT weapon in the rapier category. It is obtained by spending 25 [echoes](Echoes.md) on the "Starting Weapons" upgrade.
 
-Deals 12 dmg with 7 scaling. Totaling to ?? dmg at 100 Light weapon.
+Deals 12 damage with 7 scaling, totaling to 20.4 damage at 100 Light Weapons.
 
 ## Trivia
 
--   The only rapier that actually features a hand guard.
+-   This is the only rapier that features a hand guard.
