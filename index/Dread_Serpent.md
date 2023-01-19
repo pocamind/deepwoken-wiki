@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 47873
+revid: 48409
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -46,7 +46,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe.
+-   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe.
 -   The mantra 'Kaido's Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).

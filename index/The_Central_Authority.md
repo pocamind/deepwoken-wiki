@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 48238
+revid: 48422
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -13,7 +13,7 @@ categories: [Factions]
 | territory | Central Luminant , Etrean Luminant, Fort Merit |
 | goals | Conquest of all Luminants. |
 
-“ You shall not stop our mission ”
+“ You won't stop our mission. ”
 
 ― The last words of many Authority foot-soldiers.
 
@@ -26,18 +26,18 @@ A large military organization, native to the Central Luminant, The Authority is 
 ## Gameplay
 
 -   Everyone aside from Adrets start out with lower reputation with them.
--   Their base of operations in the Etrean Luminant is [Fort Merit](Fort_Merit.md).
+-   Their base of operations in the Eastern Luminant is [Fort Merit](Fort_Merit.md).
 -   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
 
 ## Reputation
 
--   Enemies with [The Hundred Legions](The_Hundred_Legions.md)
--   Enemies with [The Kingdom of Etrea](Etrea.md)
--   Enemies with [The Hive](The_Hive.md)
--   Provides funding for [The Divers](The_Divers.md)
--   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md)
--   Contracts with the [Ignition Union](The_Ignition_Union.md)
--   Occasionally hires the [Knives of Elyis](The_Knives_of_Eylis.md) to raid Etrean ships
+-   Enemies with [The Hundred Legions.](The_Hundred_Legions.md)
+-   Enemies with [The Kingdom of Etrea.](Etrea.md)
+-   Tensions high with [The Hive.](The_Hive.md)
+-   Provides funding for [The Divers.](The_Divers.md)
+-   Trades ammunition and arms with the [Summer Company.](The_Summer_Company.md)
+-   Contracts with the [Ignition Union.](The_Ignition_Union.md)
+-   Occasionally hires the [Knives of Elyis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
 ## NPCs
 
@@ -48,5 +48,5 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 ## Trivia
 
--   The Authority has clear relations with every faction except Celtor, The Children of Navae and the Ministry
--   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update
+-   The Authority has clear relations with every faction except Celtor, The Children of Navae and the Ministry.
+-   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.

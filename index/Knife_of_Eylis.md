@@ -1,9 +1,9 @@
 ---
 title: Knife of Eylis
-revid: 44563
+revid: 48436
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, Factions]
 ---
 
 # Knife of Eylis
@@ -37,5 +37,4 @@ A Knife of Eylis executes it's opponent after knocking them:
 
 ## Trivia
 
--   The player needs to kill all three Knives to obtain the chest for The Aratel Sea event.
 -   When they spawn on boats, they spawn standing on the sails.

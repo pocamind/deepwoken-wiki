@@ -1,9 +1,9 @@
 ---
 title: Diver
-revid: 48094
+revid: 48430
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -68,7 +68,7 @@ Gale Lunge
 
 ## Finisher
 
-An Apprentice Diver executes it's opponent after knocking them:
+A Diver executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

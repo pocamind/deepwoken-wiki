@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 48309
+revid: 48425
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -49,6 +49,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
 -   _I steal from others. **(Thief)**_
 -   _I create my own vows. **(Vow of Mastery)**_
+-   _I feel the pain of those around me. **(Empath; Give and Take)**_
 
 ### Fortitude
 
@@ -67,8 +68,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### Strength
 
--   _I stand far above others, an insurmountable challenge. **(Raging Bull)**_
--   _My attack is unstoppable. **(Showstopper?)**_
+-   _I stand far above others, an insurmountable challenge. **(Colossus)**_
+-   _My attack is unstoppable. **(Raging Bull)**_
 
 ### Willpower
 
@@ -100,7 +101,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I will not fall to the elements. **(Return to the dark ages?)**_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
--   _I repair ships. **(Shipwright; Spare Nails, Emergency Repairs)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
 -   _I dominate the minds of others._ _**(could be Shared Misery?)**_
 

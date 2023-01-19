@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48348
+revid: 48434
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -943,7 +943,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Mindbreaker
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
-    -   Prerequisites: 80 Willpower
+    -   Prerequisites: 85 Willpower
 
 ### [Murmur](Murmur.md)
 
@@ -1187,7 +1187,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Repairing restore ?? HP instead of 250 HP.
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
     -   Repairing restore ??% more HP to the boat when it's below ??% HP.
-        -   Prerequisite for all: Use the Repair Hammer once.
+        -   Prerequisite for all: Automatically gained after using the Repair Hammer ?? and ?? times.
 
 ### Silencer
 

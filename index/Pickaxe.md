@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 39253
+revid: 48402
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -20,6 +20,9 @@ Pickaxes are used for mining ores/minerals such as rock, iron, irithine, etc.
 ## Locations
 
 -   The General Store located in [Etris](Etris.md).
+    -   Costs **3 notes**.
+
+-   Next to the blacksmith in [Greathive Aratel](Greathive_Aratel.md).
     -   Costs **3 notes**.
 
 -   Next to the innkeeper on [Isle Of Vigils](Isle_of_Vigils.md).
