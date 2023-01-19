@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 37004
+revid: 48400
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -23,6 +23,7 @@ There are many ways to obtain the axe.
     -   Etris' General Store
     -   Etris Docks
     -   Isle of Vigils Inn
+    -   Greathive Aratel Blacksmith
 
 -   Buying it for 0 notes at the Bandit Village
 -   Crafting

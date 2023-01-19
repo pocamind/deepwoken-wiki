@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 48131
+revid: 48389
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -31,7 +31,7 @@ The Divers are a group of researchers and scholars funded by the Central Authori
 
 ## Gameplay
 
-The Diver are a faction that the player can interact with. They are seen in [The Depths](The_Depths.md). They have a camp setup within the Celtor Wastes and an FOB, [Castle Light](Castle_Light.md).
+The Divers are a faction that the player can interact with. They are seen in [The Depths](The_Depths.md). They have a camp setup within the Celtor Wastes and an FOB, [Castle Light](Castle_Light.md).
 
 Apprentice Divers can spawn in packs of 1 to 3, usually fighting a nearby monster. Their low HP of 150 and their low damage means they will very commonly lose to said monster.
 
@@ -49,7 +49,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 ## NPC
 
-**Karliah:** A young, new recruit of The Diver. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
+**Karliah:** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
 

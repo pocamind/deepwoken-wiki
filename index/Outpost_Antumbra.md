@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 48381
+revid: 48387
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Outpost Antumbra can be found by taking a small route on the right side of [Mini
 
 ## Quests
 
--   There is a quest for 5 Aces. You must find (??, update with his name). He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get 5 free Aces.
+-   There is a quest for 5 Aces. You must find Elykris. He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get 5 free Aces.
 
 ## Trivia
 
