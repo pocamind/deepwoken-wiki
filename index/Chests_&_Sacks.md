@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 42523
+revid: 48362
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -34,12 +34,18 @@ The color of a chest depends on where you got it from, however, there seem to be
     
 -   Chests obtained from [Starswept Valley](The_Starswept_Valley.md) or anywhere on the general vicinity of the Hive portion of the island will have the metal parts become gold instead.
 
+However, as of post-Verse 2, a shadow update (most likely among the miscellaneous secrets released) includes **chest mimics** (more commonly known as **trick chests**) that can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
+
+-   [Crimson Megalodaunt](Megalodaunt.md)
+-   [Alpha Megalodaunt](Megalodaunt.md)
+-   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
+
 ## Sacks
 
 An image of a sack
 
 Sacks are in-game bags that spawn after a player has died. They contain a stash of items from the deceased player's inventory, but not all as there is a limit for how many items there could be in the sack. ~Enchants or rare items are always guaranteed to appear in the sack, no matter how many a player has.~ Enchants can no longer drop, unless the talent "Another Man's Trash" is used to mug said player.
 
-Similar to chests, loot inside the sack will appear in different colors depending on the rarity of the items. (Ranging from Common to Legendary).
+Similar to chests, loot inside the sack will appear in different colors depending on the rarity of the items sorting from Legendary to Common. It is noted that they despawn after ~15 minutes.
 
-Note: Sacks despawn after ~15 minutes
+Moreover, as of post-Verse 2, sacks that can be carried (like those of Summer Company's gunpowder boxes) will spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these in to a bandit NPC (insert their name here) in [Meteor Isle](Meteor_Isle.md) for Hive-level loot.

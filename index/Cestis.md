@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 44508
+revid: 48347
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPC, Npc]
@@ -107,3 +107,7 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   For those trying to get [Tacet](Murmur.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required amount of assassinations in order to obtain Tacet from Cestis.
