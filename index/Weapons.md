@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 48354
+revid: 48370
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1688,6 +1688,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
 
 ## Trivia
 
+-   You can pass down soulbounding weapons with a good amount echoes, however the weapon will automatically soulbound to the next character.
 -   The weapon with the highest:
     -   Base Damage: Hivelord Hubris (30)
     -   Requirement: Shattered Katana (100 MED)

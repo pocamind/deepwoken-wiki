@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 45256
+revid: 48381
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ A mysterious base of operations for the Ministry, lurking within the snowscape.
 
 ## Overview
 
-Outpost Antumbra can be found by taking a small route on the right side of [Minityrsa](Minityrsa.md). Contains the entrance to [Trial of One](Trial_of_One.md) in the basement along with a _(?, please add the name of the item that's needed for the minityrsa quest here)_.
+Outpost Antumbra can be found by taking a small route on the right side of [Minityrsa](Minityrsa.md). Contains the entrance to [Trial of One](Trial_of_One.md) in the basement along with a Ministry Field Report.
 
 ## Quests
 

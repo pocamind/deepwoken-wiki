@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 47673
+revid: 48366
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Bounder
 
-“ He's been right in front of us all along y'all. Every single time you find mudskippers and fight them bro, right underneath is the elchupercah.... Every single time you power up and get your cards, who flips them? El Chuparkabruh. Every time you can't see beyond a wall, every time, it will be the el chupa the chupa. Be safe out there fellow Deepfolk, you may be in the presence of the El Chupacabra and ya just don't know it. ”
+“ He's been right in front of us all along y'all. Every single time you find mudskippers and fight them bro, right underneath is the elchupercah.... Every single time you power up and get your cards, who flips them? El Chuparkabruh. Every time you can't see beyond a wall, every time, it will be the el chupa the chupa. Be safe out there fellow Deepfolk, you may be in the presence of the El Chupacabra and ya just don't know it. (I took a shit) ”
 
 ― Bean Boi
 

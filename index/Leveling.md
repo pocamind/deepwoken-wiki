@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 48357
+revid: 48368
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -26,13 +26,13 @@ If you have the Autodidact Boon, for every Power Level after Power 1, you gain a
 
 **You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
-  
+It is also noted that you can get free points even without Autodictact by getting white orbs that spawn out of humanoid and monster mobs (has a certain chance to do so). It will not affect anything else after reaching Power 20 and using up all your investment points.
 
 ## Notes/Trivia
 
--   At Power Level 2 and below, if you managed to leave the Depths, you are able to return back to the Overworld without any challenge.
--   At Power Level 3 and above, if you ever get to the part to leave the Depths, you are forced to partake in a Trial (Most likely a boss) in order to return to the Overworld.
+-   At Power Level 3 and below, if you managed to leave the Depths, you are able to return back to the Overworld without any challenge unless you "drowned" a few times.
+-   At Power Level 4 and above, if you ever get to the part to leave the Depths, you are forced to partake in a Trial (Most likely a boss) in order to return to the Overworld. At this point, if you get sent to the Depths' void by any means, you'll be sent to the [Second Layer](Second_Layer.md) and will be forced to escape with the available options at the risk of wiping.
 -   At Power Level 5, your character is eligible to create Guilds.
--   Each Power Level increase stabalizes your Health Bar if its tainted. Does not work while in The Depths.
+-   Each Power Level increase stabilizes your Health Bar if its tainted. Does not work while in The Depths, but can save you from certain death.
 -   The amount of times you have been forcibly sent to the depths increases a counter called Times Drowned in the summary which adds the number of Drowns to your Power Level when calculating which trial you must face.
 -   Autodidact is not that useful at higher levels. However, it will make leveling from 1-20 much easier and quicker.

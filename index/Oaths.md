@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48275
+revid: 48383
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -303,6 +303,8 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant, and ask
 -   In the Isle of Vigils temple, in front of Stratos.
 -   On an ice pillar at the top of Minityrsa's Frozen Pond, overlooking the coast.
 
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=uTOV8DLQd5o)._
+
 ### Abilities
 
 -   **Prevailing Westerlies - Passive**
@@ -337,7 +339,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 Strength and grip any player.
+1.  Have 50 Strength and grip any player (Chime of Conflict does not count).
 2.  Talk to Samael, located in the church above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
@@ -386,7 +388,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. ”
+“ Weld the armor of the Ignition Union's most notable dwellers. ”
 
 ― Arcwarder Oath Description
 
@@ -407,7 +409,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
-    -   the arc suit can also come in different color. Colors known so far are brown, black, and grey. Also The colors might come in different rarities or might depend on race.
+    -   The arc suit can also come in different color. Colors known so far are brown, black, and grey. Also The colors might come in different rarities or might depend on race.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself

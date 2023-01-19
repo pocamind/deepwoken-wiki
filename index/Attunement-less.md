@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 48010
+revid: 48382
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -187,6 +187,7 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
     -   Teleports the user some distance forward upon activation.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
     -   Scales with the user's Power Level and Agility Attribute.
+    -   **THIS MOVE DOESN'T APPLY HITSTUN**
 
  |
 | 

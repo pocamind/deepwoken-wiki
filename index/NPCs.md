@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 48067
+revid: 48378
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -10,9 +10,9 @@ notices:
 
 # NPCs
 
-“ Welcome, friend of Etrea. ”
+“ Alright. Those shoes? The equivalent of an Erisia bandit's life's worth. Those clothes are the most poor quality excuse of an 'outfit' I've ever seen; where'd you get that one, off a corpse? Don't even get me started on all these gaudy knick-knacks you're wearing; this isn't fashion. This is an embarrassment. I bet you regret your words right now. Bet you want to run home to your mother. Look at you, all embarrassed and shaking. What, do words like that hurt? You wouldn't have survived a minute in the Rumbling of 1291. Swine. And what even is that haircut? I've seen mudskippers with a better sense of style then you. No wonder everyone picks fights with you, have you looked in a mirror? And ugh, that stench. Clean yourself up, you smell awful. You really think you matter to The Guy? Give up. Go back home and never leave it. Don't ever look at me again. ”
 
-― Etrean Guard
+― 'The guy'
 
   
 
