@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 48175
+revid: 48466
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -38,10 +38,9 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n)) The Lord Regent will kill you no matter how much health you have.
     -   You do not have to talk to him after killing [The Duke](Duke_Ishamon_Erisia.md), as he will already uncap your [attunement](Attunements.md) after killing him.
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also sends his contractors to kill other in The Depths.
-    -   Upon introduction of the "Contractor" Oath in Verse 2, as well as [confirmation from Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not infact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.
+    -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not in fact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
-    -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) also suggests that the throne boosts the power of any who sit on it.
-        -   ("with Throne buff" suggests the Throne directly influences his power and another could sit and take it.)
+    -   [A comment from Ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) also suggests that the throne boosts his power, however when asked if the previous King of Etrea also received this 'buff' he refused to elaborate.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown.
     -   Being a Canor does not change the interaction with Lord Regent.
 -   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."

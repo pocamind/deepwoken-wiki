@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48428
+revid: 48464
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -53,7 +53,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
-**Oaths** are a. unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
 There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
 

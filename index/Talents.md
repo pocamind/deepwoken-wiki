@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48434
+revid: 48462
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1346,7 +1346,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Automatically summon a fire explosion similar to Fire Repulsion.
     -   Prerequisite: Flame of Denial
 -   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Graceful Flame, 40 Flamecharm
+    -   Prerequisites: Graceful Flame, 40 Flamecharm and 40 willpower
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity.
     -   Prerequisite: Undying Flame
 

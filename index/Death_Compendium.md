@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 47882
+revid: 48481
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -12,7 +12,6 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 
 -   Get gripped (executed) by a player or NPC, typically by pressing B.
 -   Be killed by a [monster](Monsters.md), such as being crushed by a [Megalodaunt](Megalodaunt.md) or being turned into a [Mudskipper](Mudskipper.md) by a [Nautilodaunt.](Nautilodaunt.md)
--   Die to a killbrick, such as the [Depths’](The_Depths.md) void.
 -   Drown.
 -   Bleed to death.
 -   Burn to death.
@@ -21,6 +20,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
+-   Die to [Parasites](Environmental_Hazards.md) in Layer 2
 -   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell.
 -   Die to [Soul Jar](Jar_of_Souls.md) bell.

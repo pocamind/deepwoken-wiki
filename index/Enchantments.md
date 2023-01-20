@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 48358
+revid: 48491
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Weaponry, Mechanics]
 
 # Enchantments
 
-**Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest. NPCs can also spawn with enchantments based on their difficulty.
+**Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
 
   
 
@@ -35,7 +35,6 @@ There are two variants that enchantments come in:
 
 ## Changelogs
 
--   **January 16th, 2023** - Royal Etrean Guards, Adretian Officers/Captains, Hive Guards, Hive Adjudicators/Arbiters, Ignition Union Fighters, Legion Captains, Legion Snipers, Nomads, Bandit Leaders, Divers, Immortal Guardians, Knives Captains, Depths Angels now have chances to spawn with enchants.
 -   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
@@ -46,7 +45,7 @@ There are two variants that enchantments come in:
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
--   **January 16th, 2023** - These enemies and humanoid monsters can now wield Enchants.
+-   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
 
 ## List of Enchantments
 

@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 46998
+revid: 48444
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Mechanics, Guilds]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Chime of Dwelling
+
+> "There's always a road back home."
 
 File:Guild door.png
 

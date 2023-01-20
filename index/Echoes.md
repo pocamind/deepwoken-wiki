@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 48244
+revid: 48475
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -52,7 +52,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1250 echoes.
 
-Enchants can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 100 echoes per enchant. This is not renewable.
+Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 100 echoes per enchant. This is not renewable.
 
 **Upgrades:**
 
@@ -224,9 +224,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). This may have been the root of the developer team's inclusion of this feature within the game.
--   The four starter weapons from "Advanced Weapons" are:
-    -   The [Avenger](Avenger.md) Greatsword,
+-   The four starter weapons from "Advanced Weapons" are obtained in linear order through purchases as so:
+    -   The [Quickfang](Quickfang.md) Rapier,
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Gun,
-    -   The [Quickfang](Quickfang.md) Rapier.
--   The Echoes ''Advanced Weapons'' will not grant you a random weapon, in fact, it will rise from Quickfang to Avenger, meaning you would need 100 Echoes to reach Avenger.
+    -   The [Avenger](Avenger.md) Greatsword.

@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 47876
+revid: 48488
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 Watcher and Angel located in [The Depths](The_Depths.md)
 
-Watchers are monsters with a lamp-like head, while featuring a closely-humanoid body. They typically do not move often, instead opting to just turning their head to scan the area before jumping to any location they see fit to perch. They are always in a position on one knee with their long arms outstretched. They have five fingers on each hand, and four toes on each foot. All phalanges have claws, yet the claws on each hand are almost twice the length of those on their feet. Their head can best be described as a flower. With each 'petal' on their head being layered around each other. Their ribcages poke out, and look to be in a malnourished state at all times.
+Watchers are environmental hazards with a lamp-like head, while featuring a closely-humanoid body. They typically do not move often, instead opting to just turning their head to scan the area before jumping to any location they see fit to perch. They are always in a position on one knee with their long arms outstretched. They have five fingers on each hand, and four toes on each foot. All phalanges have claws, yet the claws on each hand are almost twice the length of those on their feet. Their head can best be described as a flower. With each 'petal' on their head being layered around each other. Their ribcages poke out, and look to be in a malnourished state at all times. Many players consider these monsters, but the are categorized as [Environmental Hazards](Environmental_Hazards.md) due to them not having a hitbox, and not having any mechanics besides moving around and spawning angels.
 
 They can be found both in the Overworld, and the Depths, though it is worth mentioning that only 1 exists in the Overworld, located at the Temple of the Forgotten Flame. In the Depths, a great number of them currently resides within the [City of the Drowned](The_City_of_the_Drowned.md), patrolling each of the districts except for the ones that features an entrance to the City.
 

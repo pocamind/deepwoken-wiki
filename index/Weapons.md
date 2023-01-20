@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 48370
+revid: 48458
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -234,7 +234,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 
 **Fists:**
 
-Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. WHen equipping fists and you had another weapon equipped beforehand, it does an animation, striking your weapon to the ground.
 
 <table>
 <tbody>
@@ -1665,6 +1665,8 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Calculating Damage and Attack Speed
 

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 48164
+revid: 48492
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -28,8 +28,6 @@ Alternatively, you can [sail](Ships_&_Sailing.md) to it, but actually getting to
 ## Contents
 
 Greathive Aratel is split up into 4 floors and will be categorized as such.
-
-1/17/23: Hive guard will now have different variety of weapon enchant
 
 ### Entrance
 

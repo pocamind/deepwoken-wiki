@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 48422
+revid: 48447
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -31,12 +31,12 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 ## Reputation
 
--   Enemies with [The Hundred Legions.](The_Hundred_Legions.md)
--   Enemies with [The Kingdom of Etrea.](Etrea.md)
--   Tensions high with [The Hive.](The_Hive.md)
--   Provides funding for [The Divers.](The_Divers.md)
--   Trades ammunition and arms with the [Summer Company.](The_Summer_Company.md)
--   Contracts with the [Ignition Union.](The_Ignition_Union.md)
+-   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
+-   Enemies with [The Kingdom of Etrea](Etrea.md).
+-   Tensions high with [The Hive](The_Hive.md).
+-   Provides funding for [The Divers](The_Divers.md).
+-   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
+-   Contracts with the [Ignition Union](The_Ignition_Union.md).
 -   Occasionally hires the [Knives of Elyis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
 ## NPCs
@@ -48,5 +48,5 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 ## Trivia
 
--   The Authority has clear relations with every faction except Celtor, The Children of Navae and the Ministry.
+-   The Authority has clear relations with every faction except Celtor.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.

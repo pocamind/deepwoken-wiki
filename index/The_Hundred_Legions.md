@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 43904
+revid: 48483
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -13,9 +13,9 @@ categories: [Factions]
 | territory | Western Luminant , Vipers Jaw Camp, |
 | goals | Destroy the Authority. |
 
-“ ”
+“ I think I can solo all 100 of them, wait what do you mean it's not 100 people? ”
 
-―
+― A cocky freshie
 
 **The Hundred Legions** is a minor faction in Deepwoken.
 

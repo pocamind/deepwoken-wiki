@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 47893
+revid: 48473
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -36,3 +36,4 @@ This Outfit's Schematic can be found in:
     -   It is a reference to Bondrewd's outfit and the Umbra Hands' uniform from the anime Made in Abyss.
 -   Worn by [Akira](Akira.md) and other Black Divers in [Castle Light](Castle_Light.md), also worn by the [Frostdraw](Frostdraw.md) and [Thundercall](Thundercall.md) trainers.
 -   One of the best existing armor in the game. With a exoskeleton you can have 40% dmg reduction though the armor does lacks armor talent but the defense makes up for it
+-   Due to how electrify turns your opponents damage into lightning damage, this is the best coat for Thundercallers due to the 20% lightning armor.

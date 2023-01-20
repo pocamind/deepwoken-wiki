@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 47364
+revid: 48489
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, World]
 
 ## Description
 
-Environmental hazards are location-based events or dangers. While called "hazards," these can be used to your advantage and even directly help players.
+Environmental hazards are time/location-based events or dangers. While called "hazards," these can be used to your advantage and even directly help players.
 
 **Weather:**
 
@@ -28,7 +28,7 @@ Environmental hazards are location-based events or dangers. While called "hazard
 <tr>
   <td>Rain</td>
   <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>)</td>
-  <td>Procs certain Talents, All uncovered lit campfires are snuffed out.</td>
+  <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds.</td>
 </tr>
 <tr>
   <td>Snow</td>
@@ -81,6 +81,23 @@ Environmental hazards are location-based events or dangers. While called "hazard
   <td>Acid Pools</td>
   <td>Erisia</td>
   <td>Slow loss of HP, not negated with Survivalist <a href="Boons_and_Flaws.md">Boon</a>. Additionally, puts you in Danger.</td>
+</tr>
+</tbody>
+</table>
+
+**Other:**
+
+<table><caption>Environmental Hazards that do not fit into any current category.</caption>
+<tbody>
+<tr>
+  <th>Name:</th>
+  <th>Found</th>
+  <th>Effects</th>
+</tr>
+<tr>
+  <td>Watchers</td>
+  <td><a href="The_Depths.md">City of the Drowned</a></td>
+  <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and three <a href="Hollow_Angel.md">Lesser Angels</a> will spawn at your location.</td>
 </tr>
 </tbody>
 </table>

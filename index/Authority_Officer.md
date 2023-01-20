@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 48068
+revid: 48457
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -68,7 +68,7 @@ An Authority officer executes it's opponent after knocking them:
 
 ## Tips
 
--   Run if you're a freshie as it's Jolt Grab is OP
+-   Run if you're inexperienced as its [Thundercall](Thundercall.md) mantras deal a lot of damage.
 
 ## Trivia
 

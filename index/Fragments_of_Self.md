@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 47906
+revid: 48486
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -115,11 +115,12 @@ The Echoes section shows how much echoes you earned and the Rank Based on it
 
 ### Captain
 
-The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and explains why you start with the [Castaway Origin](Origins.md#castaway).
+The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and start with the [Castaway Origin](Origins.md#castaway).
 
 ## Trivia
 
 -   If you fall off the Fragments of Self, you will be teleported back to spawn, falling down from above.
 -   You cannot M1 in the Fragments of Self but you can use your weapon's critical, though it can't interact with the environment.
 -   There is currently no known way to die in Fragments of Self, as fall damage is disabled and so is any form (Potions?) of PVP damage, starving also only drains the player's health down to 50%, it is unclear if bleeding out is possible, boulder does not execute you here, and dying here would most definitely be a bug and would respawn you in Fragments of Self again.
--   Owls can seeming spawn up here, but can't actually damage you.
+-   Owls can seemingly spawn up here, but can't actually damage you.
+-   You can cut down the trees here.

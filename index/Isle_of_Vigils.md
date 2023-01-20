@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 47910
+revid: 48467
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -57,14 +57,13 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Sparring Arena
 
--   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once then he will stop fighting the player until he is flourished or revenge is used on him. (pls check) After using a flourish or revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them 3 times without being hit then the instructor will stall again.
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice or revenge is used on him. After being hit three time or with revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
 
 ### Zipline (don't even think about deleting it)
 
--   -   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, a chest usually spawns up here.
-        
-        File:Unknownzipline.png
-        
+-   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, a chest usually spawns up here.
+
+File:Unknownzipline.png
 
 ## Missions
 
@@ -87,10 +86,10 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 ### Chipped Sword
 
-Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
+-   Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 
 ## Trivia
 
--   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
+-   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
