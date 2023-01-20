@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 47479
+revid: 48546
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -143,6 +143,18 @@ The Etris blacksmith house.
 -   Accepting his quest gives you a Lumber Axe for free.
 -   6 Wood for 5 Notes.
 -   This quest is repeatable.
+
+### Treefelling Blow Talent Quest
+
+**\[This Quest requires the 'Strong Left' Strength Mantra.\]**
+
+“ ...But that's okay. Their muscles just aren't big enough to comprehend it. You now wield the sum knowledge of ALL lumberjacks, after all. ”
+
+― End Quest Dialogue
+
+-   Talk to the same Etrean NPC that gives you the Lumberjack Quest; and tell her that you can't get wood through punching.
+-   Bewildered, the Etrean offers the Player to Strong Left 5 Trees for research.
+-   After 5 Trees has been Strong Left'd, return to the Lumberjack and gain the Talent.
 
 ### Nomad Meeting Mishap Quest
 

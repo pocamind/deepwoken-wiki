@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48462
+revid: 48554
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -327,7 +327,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisites: Reinforce, 45 Shadowcast, 50 Fortitude
+    -   Prerequisites: Reinforce, 40 Shadowcast, 50 Fortitude
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce, 50 Fortitude
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
@@ -1709,7 +1709,7 @@ File:Thresherquest1.png
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives insanity instantly.
     -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
-        -   If you have race with 2 starting willpower, you need 82 willpower to get Heretic Sutra.
+        -   ~If you have race with 2 starting willpower, you need 82 willpower to get Heretic Sutra.~ This is false. I tested this on a Vesperian with 81 willpower and was able to get the talent; So chances are you just need 80 like every other race and or 81 at the most.
 
 ## Outfit Talents
 

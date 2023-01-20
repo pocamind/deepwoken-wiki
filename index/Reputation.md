@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 48229
+revid: 48521
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -129,6 +129,8 @@ File:DiversSymbol.png
 
  | **Gudrin**: Removes hostilities with the Divers. | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
 | 
+
+File:IgnitionUnionRepReset.png
 
  | 
 

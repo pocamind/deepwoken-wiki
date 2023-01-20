@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 48467
+revid: 48545
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -83,6 +83,18 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
 -   Acts similar to Korin in Etris; 10 Wood for, plus Etrea [reputation](Reputation.md).
 -   This quest is repeatable.
+
+### Treefelling Blow Talent Quest
+
+“ ...But that's okay. Their muscles just aren't big enough to comprehend it. You now wield the sum knowledge of ALL lumberjacks, after all. ”
+
+― End Quest Dialogue
+
+**\[This Quest requires the 'Strong Left' Strength Mantra.\]**
+
+-   Talk to the same Etrean NPC that gives you the Lumberjack Quest; and tell her that you can't get wood through punching.
+-   Bewildered, the Etrean offers the Player to Strong Left 5 Trees for research.
+-   After 5 Trees has been Strong Left'd, return to the Lumberjack and gain the Talent.
 
 ### Chipped Sword
 

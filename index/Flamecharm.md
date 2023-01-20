@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 47583
+revid: 48552
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, C
 
 “ The power of the sun, in the palm of my hand. ”
 
-― Amorus Pleetsky
+― Amorus Pleeksty
 
 Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 

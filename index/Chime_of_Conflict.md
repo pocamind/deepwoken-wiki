@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 47471
+revid: 48535
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -43,7 +43,7 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 Being set in an alternative reality, deaths in the arena are less impactful on the soul.
 
 -   Players are granted lives in the form of Skulls. They can hold 3 skulls at once.
--   Dying shatters 1 skull. If the player still have 2 or 1 skull left after this, they are not penalized.
+-   Dying shatters 1 skull. If the player has 3 or 2 skulls when this happens, they are not penalized.
     -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
 -   You can see how many skulls you have by using The Chime Of Conflict but not choosing a game mode. The skull count will appear at the little UI in the middle of your screen.
 -   Players recover one skull in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)

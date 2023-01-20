@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 47805
+revid: 48547
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -38,7 +38,7 @@ The maximum for said currency is 99.
     -   Allows you to exchange one talent card for another random one of equal rarity that you meet the requirements for for 5 knowledge points.
 -   _Shrine of Blasphemy_
     -   Allows you to instantly gain 3 levels of power for 5 knowledge as well as getting a random flaw that you have unlocked.
-    -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine.
+    -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine (?).
     -   Think carefully before using this shrine.
 -   _Shrine of Temptation_
     -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for 5 knowledge points.

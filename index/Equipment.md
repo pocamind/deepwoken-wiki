@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48308
+revid: 48531
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -123,7 +123,7 @@ All armor equipment (with few exceptions), when obtained, will roll for random s
 </tbody>
 </table>
 
-  
+File:Mintrysia Operative Cloak.png
 
 **Head:**
 

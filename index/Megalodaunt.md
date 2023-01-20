@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 48376
+revid: 48526
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -77,6 +77,7 @@ Thousand Needles
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   Easily parryable.
+-   There is a shorter ranged AOE version and an individual version.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -300,6 +301,7 @@ A Megalodaunt swimming.
 
 -   Sharkos have swimming animations, as seen on the right.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, suchs as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
+    -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.

@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 48151
+revid: 48518
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -9,6 +9,12 @@ categories: [Enemies]
 # Bandit
 
 Template:EnemyInfobox1.0
+
+“ Let's get them! ”
+
+― A bandit while attempting an ambush on a Power 20 player in Erisia.
+
+  
 
 ## Description
 

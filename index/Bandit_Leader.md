@@ -1,12 +1,16 @@
 ---
 title: Bandit Leader
-revid: 48069
+revid: 48519
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Bandit Leader
+
+“ Oi mate, you wanna get shanked? ”
+
+― An Etrean dagger bandit captain upon seeing a freshie in their territory.
 
 Template:EnemyInfobox1.0Template:Areainfobox
 
