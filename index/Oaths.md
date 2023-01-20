@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48464
+revid: 48500
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -456,7 +456,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Known Abilities
 
 -   **Blinding Dawn ★★★ - Combat Mantra**
-    -   Dance uncontrollably. No one can withstand the shear groove of your spin routine.
+    -   Dance uncontrollably. No one can withstand the sheer groove of your spin routine.
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.

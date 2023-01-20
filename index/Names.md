@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 42457
+revid: 48516
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -8,11 +8,11 @@ categories: [Character, Creation, Mechanics]
 
 # Names
 
-## Description:
+## Description
 
-You can choose whatever your name could be, but your last name can be limited depending on your race.  
+You can choose your first name from any available, but your choices of last names are limited depending on your race.  
 
-## First Names:
+## First Names
 
 **Masculine:**
 
@@ -558,6 +558,228 @@ You can choose whatever your name could be, but your last name can be limited de
 -   Zafirah
 -   Zemora
 -   Zoe
+    
+
+## Last Names
+
+**Adret:**
+
+  
+
+-   Adaset
+-   Corbet
+-   Isket
+-   Munet
+-   Praadet
+-   Vendet
+-   Ashet
+-   Donnet
+-   Hasset
+-   Mudet
+-   Osset
+-   Sahet
+-   Yuset
+    
+
+**Canor:**
+
+  
+
+-   Bren
+-   Dardren
+-   Helsen
+-   Jaegen
+-   Scarsen
+-   Vondren
+-   Canden
+-   Dusselden
+-   Holden
+-   Nuren
+-   Ven
+-   Vorgen
+    
+
+**Capra:**
+
+  
+
+-   Arad
+-   Emirad
+-   Loritad
+-   Ranaad
+-   Tulad
+-   Eiad
+-   Ferad
+-   Mirad
+-   Truad
+    
+
+**Celtor:**
+
+  
+
+-   Baranof
+-   Golbor
+-   Kalashor
+-   Kavinel
+-   Kotof
+-   Pavel
+-   Sokel
+-   Bykof
+-   Ivanel
+-   Kalinof
+-   Kernel
+-   Olof
+-   Petrof
+-   Sokolof
+    
+
+**Chrysid:**
+
+  
+
+-   Aethuda  
+    
+-   Disali  
+    
+-   Eneka  
+    
+-   Iksatoka  
+    
+-   Kalvika  
+    
+-   Rephika  
+    
+-   Sehika  
+    
+-   Trikali  
+    
+-   Zenekai  
+    
+
+**Etrean:**
+
+  
+
+-   Ashi
+-   Hashi
+-   Ishel
+-   Kereshi
+-   Massi
+-   Ureshi
+-   Vesti
+-   Zeshi
+-   Eshet
+-   Kasteshi
+-   Kanreshi
+-   Leshi
+-   Rashet
+-   Veshi
+-   Ytreshi
+    
+
+**Felinor:**
+
+  
+
+-   Amarico  
+    
+-   Eko  
+    
+-   Rico  
+    
+-   Talo  
+    
+-   Calico  
+    
+-   Palo  
+    
+-   Sero  
+    
+
+**Ganymede:**
+
+  
+
+-   Dise
+-   Etude
+-   Ixatoke
+-   Sekhige
+-   Zeneke
+-   Enege
+-   Galvige
+-   Rethige
+-   Trige
+    
+
+**Gremor:**
+
+  
+
+-   Adra
+-   Cassatra
+-   Era
+-   Hira
+-   Nemira
+-   Niildra
+-   Theodra
+-   Ymara
+-   Atedra
+-   Eldra
+-   Estedra
+-   Mora
+-   Nephidra
+-   Ratra
+-   Vendra
+    
+
+**Khan:**
+
+  
+
+-   Drameus
+-   Dalus
+-   Theus
+-   Nemises
+-   Narsus
+-   Janus
+-   Evus
+-   Tarsus
+-   Juno
+    
+
+**Tiran:**
+
+  
+
+-   Taali
+-   Paadli
+-   Edgli
+-   Leeli
+-   Saali
+-   Emuli
+-   Huuli
+-   Tuuli
+-   Ouli
+-   Atamli
+-   Gatli
+-   Nothli
+-   Kamali
+    
+
+**Vesparian:**
+
+  
+
+-   Disii
+-   Etudi
+-   Ixatoki
+-   Sekhigi
+-   Zeneki
+-   Enegi
+-   Galvigi
+-   Refigi
+-   Trigi
     
 
 ## Trivia

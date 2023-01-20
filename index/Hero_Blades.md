@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 46257
+revid: 48493
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]
@@ -115,6 +115,8 @@ The Hero Blade of Wind is an elemental weapon that is obtained by defeating all 
 **Shadow:**
 
 The Hero Blade of Shadow is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Shadow is unique in that its damage scaling is based on the [Shadowcast](Shadowcast.md) attunement stat and it steals ether when using a running attack.
+
+Each Hero Blade has a unique critical:
 
 ## Trivia
 
