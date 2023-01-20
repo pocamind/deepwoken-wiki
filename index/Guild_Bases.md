@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 48549
+revid: 48573
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Guilds, Locations]
@@ -52,7 +52,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
-    -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored.
+    -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored. Shows the name of each book's donator.
 
 ## Events
 

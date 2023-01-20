@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48531
+revid: 48569
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -123,7 +123,7 @@ All armor equipment (with few exceptions), when obtained, will roll for random s
 </tbody>
 </table>
 
-File:Mintrysia Operative Cloak.png
+  
 
 **Head:**
 
@@ -860,7 +860,7 @@ Aristocrat Glasses
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | Miner's Landing Chests | Red |
 |  | 
 
 [Polarized Eyeglasses](Eyeglasses.md)

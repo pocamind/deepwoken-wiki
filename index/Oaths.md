@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48555
+revid: 48558
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -388,7 +388,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ You vow to be iron man raaaahhh. ”
+“ Weld the armor of the Ignition Union's most notable dwellers. ”
 
 ― Arcwarder Oath Description
 

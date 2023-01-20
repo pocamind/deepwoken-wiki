@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 48431
+revid: 48574
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -101,7 +101,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.
     -   This will **always apply** if you have the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
--   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag WILL NOT expire. **Fight or wipe**.
+-   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, ~the combat tag WILL NOT expire.~ The combat tag in the Depths trial now expires after 10 minutes as of 01/16/2023.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
 -   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.

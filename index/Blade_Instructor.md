@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 48401
+revid: 48565
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -10,7 +10,7 @@ categories: [Enemies]
 
 “ You're good, but not good enough. Again. ”
 
-― An Etrean blade instructor ready to give Freshie #6284568 their 15th beating.
+― An Etrean blade instructor
 
   
 
