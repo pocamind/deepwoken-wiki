@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 48475
+revid: 48635
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -30,7 +30,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 -   Gaining [Power](Power.md), awarding 0.75 Echoes (rounded) per Power level.
 -   Crafting a [Food](Food.md) item at a campfire, awarding 1 Echo.
--   Catching a [Fish](Fishing.md), awarding 1 Echo.
+-   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a Fishing Rod)
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Using a Deep Shrine, awarding 2 Echoes.

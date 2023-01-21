@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48624
+revid: 48638
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1123,7 +1123,7 @@ Prerequisite: Charisma
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 -   Quick Link \[Commin Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   Prerequisite: Static Link
+    -   Prerequisite: ~Static Link~ Surprisingly, you do not need Static Link. Got this without it.
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 48098
+revid: 48652
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -20,7 +20,7 @@ Depending on who they are, they could vary in their skill, equipment, and attune
 
 This page consists of Humanoid NPCs that fight back, or attack you on sight. Includes all Factions.
 
-Humanoid Enemies can now have **enchanted** weapons, however it's only given to certain enemies. (**They cannot have NLK and Yun shul)**
+Humanoid Enemies can now have **enchanted** weapons, however it's only given to certain enemies. (**They cannot have Curse of the No Life King or Curse of Yun'shul)**
 
 ## Enemies
 

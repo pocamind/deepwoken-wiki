@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 48611
+revid: 48640
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -156,7 +156,7 @@ Also, doing the Sibex "quest" is **not** necessary to obtain a Resonance.
 
 You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md).
 
-Once another player begins to execute you, at the end of the animation, the following will happen:
+Once your health goes down to 0% in The Depths with max progress:
 
 -   Instead of getting knocked, you'll be healed to 100%.
 -   Your Blood, Thirst and Hunger are maxed out.
@@ -205,3 +205,4 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 -   Contrary to popular belief, Blessed versions of Resonances DO NOT exist.
 -   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne.
+-   Resonances come in the form of any instrument, but the Bell is the only one seen in game.

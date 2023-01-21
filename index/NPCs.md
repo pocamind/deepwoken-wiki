@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 48405
+revid: 48645
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -131,8 +131,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Erisae</td>
   <td>Unaligned</td>
   <td>Inside <a href="Erisor's_Church.md">Erisor's Church</a></td>
-  <td>In exchange for notes, she will give you something random out of her bag</td>
-  <td>There are multiple NPCs like Erisae that can be found in <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Miner's_Landing.md">Miner's Landing</a>, and <a href="Summer_Isle.md">Summer Isle</a></td>
+  <td>Gacha NPC, in exchange for 350, she will give you something random out of her bag</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Evengarde_Rest.md">Maestro Evengarde Rest</a></td>
@@ -257,8 +257,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Kujae</td>
   <td>Unaligned</td>
   <td><a href="Summer_Isle.md">Summer Isle</a>, outside the inn</td>
-  <td>In exchange for notes, he will give you something random out of her bag</td>
-  <td>There are multiple NPCs like Kujae that can be found in <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Miner's_Landing.md">Miner's Landing</a>, and <a href="Erisor's_Church.md">Erisor's Church</a></td>
+  <td>Gacha NPC, in exchange for 350, he will give you something random out of his bag</td>
+  <td></td>
 </tr>
 <tr>
   <td>Lake</td>
@@ -320,7 +320,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Mercille</td>
   <td><a href="The_Summer_Company.md">Summer Company</a></td>
   <td><a href="Bluster_Rift.md">Bluster Rift</a></td>
-  <td>Gives chest to those who give carriable loot sacks/bags</td>
+  <td>Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags</td>
   <td></td>
 </tr>
 <tr>

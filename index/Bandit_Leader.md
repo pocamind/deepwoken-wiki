@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 48519
+revid: 48646
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,17 +8,13 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Bandit Leader
 
-“ Oi mate, you wanna get shanked? ”
-
-― An Etrean dagger bandit captain upon seeing a freshie in their territory.
-
-Template:EnemyInfobox1.0Template:Areainfobox
+Template:EnemyInfobox1.0
 
 ## Description
 
 Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They're usually in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. There can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards. There is a chance for them to spawn with an Iron Sword, a weapon exclusive to them.
 
-A Bandit Leader wears the unobtainable Bounty Hunter armor with their [race](Aspects.md) and gender varying.
+A Bandit Leader wears the unobtainable Bounty Hunter armor with their [race](Aspects.md) varying.
 
 ## Moveset
 

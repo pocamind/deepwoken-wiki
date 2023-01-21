@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 47971
+revid: 48653
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -71,7 +71,16 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained by doing bounties for [Cestis](Cestis.md), who is in a isolated tent near [Meteor Isle](Meteor_Isle.md). You need negative reputation with Etris in order to interact with him.
+Murmur: Tacet can be obtained in two ways; one of them being that you don't have to get Charisma to obtain it.
+
+#### Method One - Fetch Quest
+
+-   Interacting and picking the Charisma Dialogue option (Requiring atleast ??? Charisma), you are tasked to hunt and kill the Player that Cestis ordered you to find.
+-   Upon assassinating the Player, return back to Cestis and obtain the Murmur.
+
+#### Without having to meet the requirements of Charisma and Negative Etris Reputation, there is an alternative-- Bounty Hunting.
+
+-   By completing ??? Bounty Hunting Contracts, confronting Cestis (Whether or not you met him) will be intimidated by your presence; netting you the Murmur for free.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 

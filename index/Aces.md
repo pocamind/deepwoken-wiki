@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 41801
+revid: 48642
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Character, Skills, Talents]
 
 ## Overview
 
-Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper boon](Boons_and_Flaws.md)). Currently, there are Burns and Freezes.
+Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper boon](Boons_and_Flaws.md)) and by completing the [Elykris](Elykris.md) quest. Currently, there are Burns and Freezes.
 
 ## Burns
 
