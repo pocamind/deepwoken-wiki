@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48638
+revid: 48678
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -750,7 +750,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Javelin Lord
 
--   Grand Skewer \[Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
+-   Grand Skewer \[Thundercall Exclusive, Rare Talent\] - Your Grand Javelin now carries opponents through the air.
     -   Prerequisite: Grand Javelin, 60 Thundercall
 
 ### **Justicar**
@@ -1741,7 +1741,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
 -   Conditioned Runner \[Advanced Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)
--   Everchanging Aegis \[Legendary Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
+-   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
 -   Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)

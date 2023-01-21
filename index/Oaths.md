@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48608
+revid: 48689
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -358,7 +358,7 @@ You will get a mantra for each kill.
 ### Known Abilities
 
 -   **Wings - Innate**
-    -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 30 seconds.
+    -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 60 seconds.
     -   While active, Air Dash goes much further and can go in any direction, most importantly vertically, adding huge mobility.
     -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, red, and yellow.
     -   Some mantras have different properties while the user has their wings out:
@@ -382,7 +382,8 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Notes
 
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
--   This oath has a few religious references, the most obvious being the entity on a modified
+-   This oath has a few religious references, the most obvious being the entity on a modified.
+-   The wings will occassionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, air dash will still behave as if the wings are active until the duration actually ends.
 
 **Arcwarder:**
 

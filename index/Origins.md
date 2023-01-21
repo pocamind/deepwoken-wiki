@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 48639
+revid: 48692
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -58,8 +58,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
--   **\[CON\]** You cannot do the Trial of One.
--   **\[NOTE\]** Worst origin as of 1/21/23  
+-   **\[CON\]** You cannot do the Trial of One.  
     
 
 ## Voidwalker

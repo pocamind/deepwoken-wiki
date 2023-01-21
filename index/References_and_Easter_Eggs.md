@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 47820
+revid: 48693
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -210,3 +210,10 @@ notices:
     -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
 -   Although this was likely unintentional, **Tiran**'s Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
+
+### **Misc**
+
+-   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
+    -   Perceiving them drives you to insanity
+    -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
+    -   Have to be summoned via rituals

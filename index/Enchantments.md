@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 48491
+revid: 48686
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -255,7 +255,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>On hit, a purple portal appears while this is active it drains ether and the person you hit has reduced damage. Your critical is changed to a counter. When the counter procs, you will take no damage and your opponent does less damage to you for an unspecified amount of time.</p></div></td>
-  <td><div></div></td>
+  <td><div>Weapon does not appear when not equipped (May need research). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
   <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><center><br>
@@ -285,7 +285,7 @@ There are two variants that enchantments come in:
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 50% more damage in PVE.<br>
   Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.<br>
-  <b>Obtainable</b></p></div></td>
+  <b>(Currently Un)Obtainable</b></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -418,12 +418,12 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 | 
 
   
-Hero Blade Enchants
+Enchanted Legendary Weapons
 
  | 
 
 **January 2nd, 2022**  
-Enchanted Hero blades were removed from the loot pool.
+All enchanted legendary weapons (e.g Crypt, HB) were removed from lootpools, any equipped lost their enchants and any left un-equipped were voided.
 
  |
 | 

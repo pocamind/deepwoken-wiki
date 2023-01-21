@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 48599
+revid: 48655
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -26,6 +26,21 @@ Currently, there are **2** NPCs that can join your Guild Base (particularly in t
 -   The Antiquarian NPC, in which can be hired after getting 9+ rooms for Notes.
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
+
+The pricing list is as follows:
+
+-   Room 1:
+-   Room 2:
+-   Room 3:
+-   Room 4:
+-   Room 5:
+-   Room 6:
+-   Room 7:
+-   Room 8:
+-   Room 9:
+-   Room 10:
+
+From this, the total cost of all rooms and NPCs would be a whopping.
 
 You can donate notes to other guilds by talking to their treasurer.
 

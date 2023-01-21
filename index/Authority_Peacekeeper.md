@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 42029
+revid: 48658
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Guard is a type of enemy NPC found patrolling in [Fort Merit](Fort_Merit.md). Despite their intimidating look, they are surprisingly weak compared to an [Authority Footsoldier](Authority_Officer.md).
+Authority Peacekeepers are a type of enemy NPC found patrolling in [Fort Merit](Fort_Merit.md). Despite their intimidating look, they are surprisingly weak compared to an [Authority Officer](Authority_Officer.md).
 
 Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet. They are almost identical to the [Authority Flamecharmer](Authority_Soldier.md), but are easily identifiable by their signature [Rifle Spear](Rifle_Spear.md).
 
@@ -32,7 +32,7 @@ Their arsenal is composed of a [Rifle Spear](Weapons.md) along with the [Flamech
 
 ## Finisher
 
-An Authority Guard executes it's opponent after knocking them:
+An Authority Peacekeeper executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -40,5 +40,5 @@ An Authority Guard executes it's opponent after knocking them:
 
 ## Trivia
 
--   They used to be called "Authority Peacekeepers".
+-   Despite their dialogue referring to them as 'Authority Guard,' dying to one reveals they are called 'Authority Peacekeeper.'
 -   They will hit you if you try to nudge them.

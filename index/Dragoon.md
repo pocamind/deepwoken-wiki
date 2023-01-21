@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 48295
+revid: 48696
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -24,7 +24,7 @@ categories: [Weapons, Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bought at Summer Isle for 500 notes |
+| obtainment | Bought at Summer Isle for 500 notesAlso can be found in arena chests |
 | description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mastlepieces of the wealthy. |
 
 ## **Description**
