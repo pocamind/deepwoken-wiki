@@ -1,9 +1,9 @@
 ---
 title: Attunement Trainers
-revid: 47394
+revid: 48617
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, NPC, Npc]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Attunement Trainers

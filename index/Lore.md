@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 48463
+revid: 48614
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -139,7 +139,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
--   Either a Ganymede, Vesperian or Tiran.
+-   Is a Tiran.
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48609
+revid: 48624
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -71,7 +71,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisites: 15 Strength, 25 Medium Weapon, Medium Weapon
     -   Synergizes well with Aerial attack Talents.
 
-### Aeromancy
+### Aeromancer
 
 -   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: 25 Galebreathe
@@ -88,8 +88,6 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: Galetrap
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
-
-### Aeromancer
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
     -   Prerequisite: Wind Step

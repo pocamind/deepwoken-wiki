@@ -1,9 +1,9 @@
 ---
 title: Voices of the Depths
-revid: 39028
+revid: 48620
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPC]
+categories: [NPCs, The Depths]
 ---
 
 # Voices of the Depths
@@ -53,11 +53,11 @@ _"The state or situation of being alone."_
 -   The Voice of Solitude is the voice in charge of operating the Trial of One.
 -   The Voice seems eager to draw out the player's true strength by testing them through the trial.
 -   It mentions that the player could possibly be "what we have been searching for". It is unknown what the voice means by this.
--   This Voice seems at least more benevolent than the others voices who run the depths Trials. The Voice rewards the "lone warriors" who pass his trials with rapid increases of talent, luck, and unlocking their true potential by allowing people to face true adversity.
+-   This Voice seems at least more benevolent than the others voices who run the Trials. The Voice rewards the "lone warrior" who pass his trials with a rapid increase of talents, experience, and unlocking their true potential by allowing the player to face true adversity.
 
 ## Trivia
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
 -   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.
--   [They "Voices of the Depths" got sound now (10/25/2022)](https://www.youtube.com/watch?v=5oQ1i9VRVxM)
+-   [The "Voices of the Depths" have sound now (10/25/2022)](https://www.youtube.com/watch?v=5oQ1i9VRVxM)

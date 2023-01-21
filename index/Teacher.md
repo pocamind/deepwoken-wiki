@@ -1,9 +1,9 @@
 ---
 title: Teacher
-revid: 48605
+revid: 48616
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs]
 ---
 
 # Teacher

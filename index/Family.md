@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 44778
+revid: 48625
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -26,3 +26,4 @@ Having certain traits can make you someone else's relative. The chance to be rel
 
 -   Being a twin may not be age reliant, twins have been found who have different ages.
 -   Uncle and nephew are probably equivalent to brother/sister chance, but with the 20 year age difference (while juvenile and elder are cousins equivalent.)
+-   it is possible that Ganymedes and Vesperians can be cousins, due to Ganymedes being evolved Vesperians in the lore
