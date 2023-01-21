@@ -1,8 +1,9 @@
 ---
 title: Teacher
-revid: 37207
+revid: 48605
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Teacher
@@ -11,7 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― Pathfinder Gang about to fold the Authority Scout event
 
-  
+Template:EnemyInfobox1.0
 
 ## _Overview_
 

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 47808
+revid: 48589
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -253,7 +253,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that are summoned to fight the weak during The Depths (Trial). They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
+Enemies that are summoned to fight the weak during The Depths (Trial). They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
 They can only be encountered in The Depths (Trial) while the character's power is between 3 - 6 (?).
 
@@ -288,8 +288,6 @@ Critical
 -   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
     
 
-Template:Areainfobox
-
 ## Trivia
 
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
@@ -299,3 +297,4 @@ Template:Areainfobox
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
+-   The Meteorskipper comes from meteors, therefore resides in space. Take this as you will.

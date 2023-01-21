@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 48502
+revid: 48611
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Resonance, Mechanics]
 
 # Resonance
 
-**Resonances** are unique abilities the player can obtain in _Deepwoken_. They come with unique objects calls **"Bells"** that are slung around the players waist at all times and allow a player to use their Resonance with the key "C" in game. The gaining of a Resonance also allow the opening of [doors](https://deepwoken.fandom.com/wiki/Resonance#Rerolling_&_Resonance_Doors) around the Depths and Overworld that lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", a figure that many would deem important in most progressions.
+**Resonances** are unique abilities the player can obtain in _Deepwoken_. They come with unique objects called **"Bells"** that are slung around the players waist at all times and allow a player to use their Resonance with the key "C" in game. The gaining of a Resonance also allow the opening of [doors](https://deepwoken.fandom.com/wiki/Resonance#Rerolling_&_Resonance_Doors) around the Depths and Overworld that lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", a figure that many would deem important in most progressions.
 
 ## Overview
 
@@ -156,7 +156,7 @@ Also, doing the Sibex "quest" is **not** necessary to obtain a Resonance.
 
 You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md).
 
-Once your health goes down to 0% in The Depths with max progress:
+Once another player begins to execute you, at the end of the animation, the following will happen:
 
 -   Instead of getting knocked, you'll be healed to 100%.
 -   Your Blood, Thirst and Hunger are maxed out.

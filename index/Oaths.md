@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48558
+revid: 48608
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -573,7 +573,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 **Lore Sources:** _Barbers (Mentioned)_
 
 -   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
--   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke. But if u can give arch the perfect fade he will bless you with it.
+-   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
     
 
 ## Trivia

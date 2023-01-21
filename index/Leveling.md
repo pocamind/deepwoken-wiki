@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 48368
+revid: 48583
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -22,7 +22,7 @@ Power Levels are your character's experience and combat ability. The more power 
 
 Investment Points always start and refresh at 5 (unless you choose no attunement, in which case it will be 15 at first, and then go back to 5), and decreases per attribute increase. Once your number of investment points reaches 0, you level up.
 
-If you have the Autodidact Boon, for every Power Level after Power 1, you gain a 3 Free Points. The same thing applies to [Adret](Adret.md), which gives you the Autodidact Boon for free. If you have both the Autodidact Boon and the Adret Race you will get 6 Free Points. Free Points will allow you to increase all of your attributes of your choice but doesn't allow you to power up, if you don't have enough 'exp'. Free points can be used after Power 20, but will not have any effect to the build, due to the attributes reaching the maxium.
+If you have the Autodidact Boon, for every Power Level after Power 1, you gain a 3 Free Points. The same thing applies to [Adret](Adret.md), which gives you the Autodidact Boon for free. If you have both the Autodidact Boon and the Adret Race you will get 6 Free Points. Free Points will allow you to increase all of your attributes of your choice but doesn't allow you to power up, if you don't have enough exp. Free points cannot be used after Power 20, and considered useless. It's recommended to use your points as much as you can before reaching the cap, of Power 20.
 
 **You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
@@ -35,4 +35,4 @@ It is also noted that you can get free points even without Autodictact by gettin
 -   At Power Level 5, your character is eligible to create Guilds.
 -   Each Power Level increase stabilizes your Health Bar if its tainted. Does not work while in The Depths, but can save you from certain death.
 -   The amount of times you have been forcibly sent to the depths increases a counter called Times Drowned in the summary which adds the number of Drowns to your Power Level when calculating which trial you must face.
--   Autodidact is not that useful at higher levels. However, it will make leveling from 1-20 much easier and quicker.
+-   Autodidact is not that useful at higher levels. However, it will make leveling from 1-12 much easier and quicker.
