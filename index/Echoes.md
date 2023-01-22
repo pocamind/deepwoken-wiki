@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 48635
+revid: 48712
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -47,10 +47,11 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
+-   Obtaining a [legendary resonance](Resonance.md), awarding 35 echoes.
 
 ## Upgrades and Modifiers
 
-There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1250 echoes.
+There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1400 echoes.
 
 Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 100 echoes per enchant. This is not renewable.
 

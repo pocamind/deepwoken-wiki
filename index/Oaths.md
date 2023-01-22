@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48689
+revid: 48715
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -583,7 +583,6 @@ Proof of Time Magic's existance and it being "Oath Magic".
 
 -   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as they all give benefits with no downsides like murmurs and resonance.
--   The "Synapse X Oath" is not real and is based off exploiters using a hacking client by the same name \[Hackers take great risks of viruses and getting tracked and ultimatley get banned in the end so do not look for this\], although the other, thought to be, fake oath, Fadetrimmer, is real in lore although it is unobtainable as it is only mentioned for laughs.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
@@ -596,4 +595,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
--   ~Innate (race) stat bonuses do not count towards stat requirements for Oaths.~ Exclusively applies to Arcwarder (Source: Able to get Starkindred at 50 strength on a Gremor, Gremor has +2 Str. +2 Frt.)
+-   Almost all Oath Mantras can be modified with Vibrant Gems.
