@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 48362
+revid: 48770
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -18,12 +18,12 @@ Chests are in-game boxes that spawn at the end of every event (excluding faction
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
--   General items such as consumables, sellable gems and Attunement-related consumables are listed as a dark-blue.
--   Most Armors and Outfit Schematics are listed as red.
--   Most Weapons are listed as a dull gold.
+-   General items such as consumables, sellable gems and Attunement-related consumables are listed as grey.
+-   Epic Armors, weapons and Outfit Schematics are listed as red.
+-   Rare items are listed as a dull gold.
 -   Armors or Weapons with a Mythical rarity are listed as a bright violet.
-    -   The only Mythical rarity items so far are the [Canor Fang](Canor_Fang.md), [Nemit's Sickle](<Nemit's_Sickle.md>), the [Krulian Knife](Krulian_Knife.md) and [Warden Pauldrons](Warden_Pauldrons.md).
--   Legendary Weapons, Armors or Rings are listed as a bright cyan.
+    -   The only Mythical rarity items so far are Legendary weapons and the Kyrs weapon series.
+-   Legendary Armors or Rings are listed as a bright cyan.
 -   Enchanted items are listed as a white-ish color.
 
 The color of a chest depends on where you got it from, however, there seem to be only two variations as of now.
@@ -38,6 +38,7 @@ However, as of post-Verse 2, a shadow update (most likely among the miscellaneou
 
 -   [Crimson Megalodaunt](Megalodaunt.md)
 -   [Alpha Megalodaunt](Megalodaunt.md)
+-   [Thresher](Thresher.md)
 -   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
 
 ## Sacks

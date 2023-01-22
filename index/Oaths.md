@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48757
+revid: 48769
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -477,7 +477,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 ### Obtainment
 
-1.  Get positive reputation with [The Ministry](The_Ministry.md). (More than neutrality)
+1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
     1.  Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again.
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline.

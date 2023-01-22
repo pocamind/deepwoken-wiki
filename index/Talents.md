@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48678
+revid: 48773
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1371,7 +1371,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Command: Return \[Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +3 Health)
     -   Prerequisites: 60 Charisma, Vow of Mastery
-    -   Effect: Pulls the subject to you and passes through walls
+    -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediatly
 
 -   Command: Live \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
