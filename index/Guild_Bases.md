@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 48655
+revid: 48775
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -39,8 +39,10 @@ The pricing list is as follows:
 -   Room 8:
 -   Room 9:
 -   Room 10:
+-   Room 11: 281500
+-   Room 12: 450400
 
-From this, the total cost of all rooms and NPCs would be a whopping.
+From this, the total cost of all rooms and NPCs would be a whopping 1199400.
 
 You can donate notes to other guilds by talking to their treasurer.
 

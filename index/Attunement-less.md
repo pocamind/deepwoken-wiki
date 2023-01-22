@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 48687
+revid: 48845
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -456,7 +456,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
 -   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
--   You can increase the duration of Fortitude and Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md), although this does not work for Adrenaline Rush.
+-   You can increase the duration of Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work however.
 -   You can use Summon Cauldron as a portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
 -   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance traveled BUT allows you to use it twice before it goes on cooldown.
@@ -469,7 +469,8 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   The majority of mantra modifiers have gotten their functionality removed from attunement-less mantras, due that they made them too damn overpowered.
     -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
     -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase it's range with Drift/Rush shards.
-    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a Fortitude/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.
+    -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a ~Fortitude~/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
+        (Unfortunately it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras, though the cooldown will at least be increased for Reinforce.)
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron was one of the most powerful mantras out there, excluding pre-nerf Strong Left.

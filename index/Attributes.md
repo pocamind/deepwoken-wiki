@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 48260
+revid: 48821
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -16,9 +16,9 @@ _icon credit to Tortaa#9000_
 
 Attributes can be increased with investment points.
 
-You can have a maximum of 327 points on a character at [Power](Power.md) 20:
+You can have a maximum of 312 points on a character at [Power](Power.md) 20:
 
--   300 from levels
+-   285 from levels
 -   10 from attunement (Attunementless characters spawn in with 10 points to distribute)
 -   4 from race
 -   13 from character creation
@@ -27,7 +27,7 @@ All attributes can be improved up to 75 points but may be unbounded to 100 once 
 
 If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
 
-Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build)
+Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build) and [https://deepwoken-builder.vercel.app](https://deepwoken-builder.vercel.app)
 
 ### Strength
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48569
+revid: 48834
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -350,7 +350,7 @@ Chests from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 
-Other Sources:
+Other sources:
 
 -   [Artifact](Artifacts.md) Turn-ins
 
@@ -795,7 +795,13 @@ Other sources:
 
 _\+ Talent: Blinded_
 
- | Erisia Chests | White |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+
+ | White |
 |  | 
 
 [Black Blindfold](Blindfold.md)
@@ -804,7 +810,15 @@ _\+ Talent: Blinded_
 
 _\+ Talent: Blinded_
 
- | Arena Chests, Blacksmith Reward Chests & Fishing Chests | Default |
+ | 
+
+Chests from:
+
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Blacksmith Reward](Blacksmith.md)
+-   [Fishing](Fishing.md)
+
+ | Default |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
@@ -815,16 +829,31 @@ Grants a random buff.
 
 _\+ Talent: Blinded_
 
- | Minityrsa Chests & Songseeker Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
 | File:Hairband.jpg | 
 
-[Headband](Headband.md) (Series)
+[Headband](Headband.md)
+
+(Series)
 
  | 
 
 Cosmetic
 
- | Erisia Chests | Black, Blue, Green, Orange, Red & Yellow |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+
+ | Black, Blue, Green, Orange, Red & Yellow |
 | File:Rabel Bandana.png | 
 
 [Rebel's Bandana](<Rebel's_Bandana.md>)
@@ -833,7 +862,19 @@ Cosmetic
 
 Cosmetic
 
- | Drop from Navae Enemies, Erisia Chests, Songseeker Chests & Minityrsa Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+Other sources:
+
+-   Drop from Navae Enemies
+
+ | N/A |
 | File:Static-assets-upload9013636473975687804.png | 
 
 [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
@@ -842,7 +883,14 @@ Cosmetic
 
 Cosmetic
 
- | Songseeker Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Eyeglasses](Eyeglasses.md)
@@ -851,7 +899,14 @@ Cosmetic
 
 Grants a random buff.
 
- | Minityrsa Chests & Songseeker Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
 |  | 
 
 Aristocrat Glasses
@@ -860,7 +915,13 @@ Aristocrat Glasses
 
 Grants a random buff.
 
- | Miner's Landing Chests | Red |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | Red |
 |  | 
 
 [Polarized Eyeglasses](Eyeglasses.md)
@@ -869,7 +930,14 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Minityrsa Chests Songseeker Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
 |  | 
 
 Bloodfeather Mask
@@ -878,7 +946,13 @@ Bloodfeather Mask
 
 Grants a random buff.
 
- | Layer 1 chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:DemonMask.png | 
 
 Demon Mask
@@ -887,7 +961,13 @@ Demon Mask
 
 Grants a random buff.
 
- | Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 Duelist's Mask
@@ -896,7 +976,13 @@ Duelist's Mask
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 Hivelord Mask
@@ -905,7 +991,17 @@ Hivelord Mask
 
 Cosmetic
 
- | Drop from Hive Constructs & Arena Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+Other sources:
+
+-   Drop from [Hive Constructs](Hive_Construct.md)
+
+ | N/A |
 |  | 
 
 Iron Mask
@@ -914,7 +1010,13 @@ Iron Mask
 
 Cosmetic
 
- | Erisia Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+
+ | N/A |
 | File:Songseekermask.png | 
 
 [Royal Guard](Aspirant_Mask.md)
@@ -923,7 +1025,17 @@ Cosmetic
 
 Cosmetic
 
- | Drop from Songseeker enemies & Duke Erisia Chests | Blue, Green & Red |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+Other sources:
+
+-   Drop from Songseeker enemies
+
+ | Blue, Green & Red |
 | File:Smith Goggles.png | 
 
 [Smith Goggles](<Smith's_Goggles.md>)
@@ -932,7 +1044,14 @@ Cosmetic
 
 Cosmetic
 
- | Erisia Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
@@ -941,7 +1060,13 @@ Cosmetic
 
 Cosmetic
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 
 **Ears:**
 
@@ -954,7 +1079,13 @@ Pendant Earrings
 
 Grants a random buff.
 
- | Primadon Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+ | N/A |
 |  | 
 
 Amethyst Pendant Earrings
@@ -963,7 +1094,14 @@ Amethyst Pendant Earrings
 
 Grants a random buff.
 
- | Ferryman Drop (Summer Season) & Fishing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Ferryman](The_Ferryman.md) (Summer Season)
+-   [Fishing](Fishing.md)
+
+ | N/A |
 |  | 
 
 Crystal Pendant Earrings
@@ -972,7 +1110,13 @@ Crystal Pendant Earrings
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 Ruby Pendant Earrings
@@ -981,7 +1125,13 @@ Ruby Pendant Earrings
 
 Grants a random buff.
 
- | Fishing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Fishing](Fishing.md)
+
+ | N/A |
 |  | 
 
 Dew Drop Earrings
@@ -990,7 +1140,13 @@ Dew Drop Earrings
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 Ruby Drop Earrings
@@ -999,7 +1155,13 @@ Ruby Drop Earrings
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 | File:Emeraldtsk.JPG | 
 
 Emerald Tusk Earrings
@@ -1008,7 +1170,14 @@ Emerald Tusk Earrings
 
 Grants a random buff.
 
- | Primadon Chest & Duke Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+ | N/A |
 | File:MasterThief.png | 
 
 Master Thief Earrings
@@ -1017,7 +1186,13 @@ Master Thief Earrings
 
 Grants a random buff.
 
- | Fort Merit Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Fort Merit](Fort_Merit.md)
+
+ | N/A |
 | File:Prac.JPG | 
 
 Practicioner's Earrings
@@ -1026,7 +1201,13 @@ Practicioner's Earrings
 
 Grants a random buff.
 
- | Summer Isle Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+
+ | N/A |
 
 **Torso:**
 
@@ -1039,7 +1220,13 @@ Brilliant Cape
 
 Grants a random buff.
 
- | Drop from Dread Serpent | N/A |
+ | 
+
+Other sources:
+
+-   Drop from [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
 |  | 
 
 Dark Owl Cape
@@ -1052,7 +1239,13 @@ Grants a random buff.
 _2% Stealth_  
 _\+ 5% Shadow Armor_
 
- | Placeholder | N/A |
+ | 
+
+Chests from:
+
+-   Placeholder
+
+ | N/A |
 | File:Golden Cape.png | 
 
 Cape
@@ -1066,7 +1259,14 @@ Grants a random buff.
   
 _\+ 3% Physical Armour_
 
- | Songseeker Chests & Minityrsa Chests | Black & Golden |
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | Black & Golden |
 | File:Static-assets-upload6078901116095484260.png | 
 
 Shrouded Cape
@@ -1080,30 +1280,14 @@ Grants a random buff.
   
 _\+ 5% Stealth_
 
- | Fishing Chests & Duke Erisia Chests | Red, Black, Midnight & White |
-|  | 
-
-Sandrunner Scarf
-
  | 
 
-Grants a random buff.
+Chests from:
 
- | Miner's Landing Chests | N/A |
-| File:Crimson Scarf.png | 
+-   [Fishing](Fishing.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
-Scarf
-
-(Series)
-
- | 
-
-Grants a random buff.
-
-  
-_\+ 3% Atunement Armour, Depending on color_
-
- | Aratel Island Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
+ | Red, Black, Midnight & White |
 | File:Onepiececape.png | 
 
 [Fleet Warden Cape](Fleet_Warden_Cape.md)
@@ -1119,7 +1303,49 @@ _\+ 3% Elemental Armour_
   
 **Requires Power 13**
 
- | Summer Isle Chests & Fishing Chests | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Fishing](Fishing.md)
+
+ | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+|  | 
+
+Sandrunner Scarf
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
+| File:Crimson Scarf.png | 
+
+Scarf
+
+(Series)
+
+ | 
+
+Grants a random buff.
+
+  
+_\+ 3% Atunement Armour, Depending on color_
+
+ | 
+
+Chests from:
+
+-   Aratel Island Chests
+
+ | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | 
 
 Bloodcurse Pendant
@@ -1128,7 +1354,13 @@ Bloodcurse Pendant
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 Nomad Pendant
@@ -1137,7 +1369,13 @@ Nomad Pendant
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 Old World Sun Pendant
@@ -1146,7 +1384,13 @@ Old World Sun Pendant
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 Red Eye Pendant
@@ -1155,7 +1399,13 @@ Red Eye Pendant
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 Seafarer Pendant
@@ -1164,7 +1414,28 @@ Seafarer Pendant
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
+|  | 
+
+Varicosa Medallion
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   Placeholder
+
+ | N/A |
 
 **Arms:**
 
@@ -1190,7 +1461,7 @@ Novice Brace
 
 Grants a random buff.
 
- | Placeholder | N/A |
+ | Erisia Chests | N/A |
 |  | 
 
 Ranger's Brace
@@ -2276,7 +2547,7 @@ Grants a random buff.
 
 Grants a random buff.
 
-**Requires Power 30**
+**Requires Power 10**
 
  | Primadon Chests, Deep Widow Chests & Layer 1 Chests | N/A |
 |  | 
