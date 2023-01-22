@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48715
+revid: 48757
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -400,7 +400,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
-    3.  Retrieve injured Epsi **(option 2 when you talk to him)**
+    3.  Retrieve injured Epsi **(option 2 when you talk to him; can be done in different runs)**
     4.  Talk to Alpha again
 -   20 Fortitude, 20 Flamecharm and 20 Thundercall. (Note that racial Fortitude bonus does not count; if your race starts with +2 Fortitude the requirement becomes 22.)
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.

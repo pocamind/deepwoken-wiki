@@ -1,9 +1,9 @@
 ---
 title: Immortal Guardian
-revid: 48432
+revid: 48731
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Monsters, Enemies that can wield Enchantments]
 ---
 
 # Immortal Guardian
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
+Immortal Guardians are humanoid monsters that can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
 
 Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. It's unknown what properties this has, aside from raising their healthpool. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
 
@@ -67,4 +67,4 @@ An Immortal Guardian executes the player after knocking them.
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
--   The effect of [Mute](Regalia.md) applies onto all entities here.
+-   The effect of [Mute](Regalia.md) applies onto all entities here, so they can be assumed to be monsters.

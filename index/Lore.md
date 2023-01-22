@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 48614
+revid: 48721
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -112,9 +112,9 @@ The Duke
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
 -   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed.
 
-### **Maestro Evengarde Reste**
+### **Maestro Evengarde Rest**
 
-"Maestro" Evengarde Reste is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
@@ -384,7 +384,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Western Luminant**
 
 -   The home to the Hundred Legions and home of the Khans.
--   Home of Amorous Pleeksty (The Flamecharmer who ate part of korilfiend).
+-   Home of Amorous Pleeksty (The Flamecharmer who ate part of Korilfiend).
 
 ### **Voidsea**
 
@@ -517,11 +517,11 @@ An Etrean Guard, part of the Nation of Etrea
         -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
         -   Assumed to be a Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
--   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
+-   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
--   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
+-   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.
     
     Master of the way of Navae
@@ -665,7 +665,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundred Legions_
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."

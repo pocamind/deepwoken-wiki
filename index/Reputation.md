@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 48521
+revid: 48719
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -161,7 +161,7 @@ Some quests in the game allow you to get reputation with certain factions, some 
 | 
 Lumberjack Quest
 
- | A unique quest as it's shared between two npcs, the quest can be started and completed in two locations, Etris and the Isle of Vigils. At Etris, the quest NPC can be found outside a house next to the Antiquarian. At the Isle of Viglis, the the quest NPC is standing next to a log outside the Banker and Antiquariant. Talking to them and accepting the quest gives you a free Lumber Axe. Collecting 10 pieces of Wood and returning it to either NPC will give 5 Notes and positive Etrean reputation. | 
+ | A unique quest as it's shared between two npcs, the quest can be started and completed in two locations, Etris and the Isle of Vigils. At Etris, the quest NPC can be found outside a house next to the Antiquarian. At the Isle of Viglis, the the quest NPC is standing next to a log outside the Banker and Antiquariant. Talking to them and accepting the quest gives you a free Lumber Axe. Collecting 6 pieces of Wood and returning it to either NPC will give 5 Notes and positive Etrean reputation. | 
 
 **The Kingdom of Etrea**
 

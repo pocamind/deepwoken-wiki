@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 48716
+revid: 48746
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -79,7 +79,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I go beyond my limits. **(Limitbreaker)**_
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
--   _Uh... **(Miscellaneous)**_
 -   _I speak to the Depths. **(Murmur)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
@@ -89,6 +88,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am a master of the spear. **(Lancer)**_
 -   _I am a master of all weapons. **(Weapon Master)**_
 -   _I do not need a weapon. **(Justicar)**_
+-   _I always shoot first. **(Gunslinger)**_
 
 ### Miscellaneous
 
@@ -103,6 +103,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
 -   _I dominate the minds of others._ _**(could be Shared Misery?)**_
+-   _Uh... **(Miscellaneous)**_
 
 # **Attunements**
 

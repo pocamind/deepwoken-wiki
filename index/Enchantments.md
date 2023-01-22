@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 48686
+revid: 48756
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -130,7 +130,8 @@ There are two variants that enchantments come in:
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
   <b>- If you do not have Ardour, the Nemesis critical is unblockable.<br>
-  </b>- The range of this is 65-70 studs<b></b></p></div></td>
+  </b>- Nemesis Critical still trigger critical talents, for example bear trap and others.<br>
+  <b>- The range of this is 65-70 studs</b></p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>

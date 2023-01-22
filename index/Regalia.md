@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 48123
+revid: 48747
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,6 +19,10 @@ Currently there is no remotely functional method to obtain a true Regalias, nor 
 
   
 Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md) and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro the player on sight.
+
+Note that Mute carries over to your next slot upon wiping, BUT there is an unknown time limit until it will not be transferred. It is generally safe to restart if you fail the [Trial of One](Trial_of_One.md) with Animal King, but older/more progressed characters may not inherit the Regalia.
+
+It also may not be a timer, but rather a power limit, which can be roughly estimated as power 1-5.
 
 ## Sub-Regalias/Semi-Regalias
 
