@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48773
+revid: 48866
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -434,7 +434,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 15 Strength
 -   Concussion \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
     -   Prerequisites: 20 Strength, 15 Fortitude
--   Duelist Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
+-   Duelist's Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
     -   Prerequisites: 20 Strength
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
     -   When below 15% HP, gain 10% damage.
@@ -949,7 +949,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture,).
     -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
-    -   Prerequisite: 40 willpower, ~15 strength, Murmur: Ardour
+    -   Prerequisite: 40 willpower, 15 strength, Murmur: Ardour
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched.
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).

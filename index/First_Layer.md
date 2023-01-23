@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 48779
+revid: 48874
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -86,17 +86,13 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (you are sent up without a fight) |
-| 10-19 | [Mudskipper Knight](Mudskipper.md) |
-| 20-29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30-49 | [Megalodaunt](Megalodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
+| 1-3 | Nothing (you are sent up without a fight) |
+| 4-6 | [Mudskipper Knight](Mudskipper.md) |
+| 7-10 | [Angel](Hollow_Angel.md) (Lesser) |
+| 11-16 | [Megalodaunt](Megalodaunt.md) |
+| 17+ | [Enforcer](Enforcer.md) |
 
-<---(Guys please don’t change the trial power, I made a formula for it and it’s \[ power(3)+times drowned \] please don’t change it thanks)--->
-
-(For those that don't understand. (without escaping already) **1-9 is 1-3, 10-19 is 4-6, 20-29 is 7-10, 30-49 is 11-16 and Enforcer is 17+**) —> this is correct, but trial power is different from actual power, I recommend that you make a separate column where you list usual power levels, this should solve our problems.
-
--   **NOTE:In the event that a player in the Trial has a significant amount of drowns (6) the player will fight a [Nautilodaunt](Nautilodaunt.md).**
+-   **NOTE: In the event that a player in the Trial has a significant amount of drowns (6) the player will fight a [Nautilodaunt](Nautilodaunt.md).**
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.

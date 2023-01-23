@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 45700
+revid: 48854
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -25,6 +25,8 @@ The next step to fishing is to cast out your Fishing Rod at an area with a gener
 Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
 
 Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item.
+
+i have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, aswell as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
 
 ## **Loot From Fishing**
 

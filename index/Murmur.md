@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 48653
+revid: 48857
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -48,7 +48,7 @@ This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour).
 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour, 25 Strength and 40 willpower.
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour, 15 Strength and 40 willpower.
 
 Affected targets takes 2x posture damage, take 25% more damage and are forced out of/can't use tacet for 10 seconds.
 
@@ -60,7 +60,7 @@ Template:ImageCaption Infobox _"An application of the song that enables the user
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduce (or even negate in some scenario) the aggro range of enemies. Activation is indicated by an inward ring and a fade out noise, while deactivation with an outward ring and a fade in noise.
 
-The only actions a user can perform during Tacet are crouch walking, rolling, falling down ledges and holding items. Uncrounching, atttacking or interacting with the world will deactivate Tacet.
+The only actions a user can perform during Tacet are crouch walking, rolling, falling down ledges and holding items. Uncrounching, attacking or interacting with the world will deactivate Tacet.
 
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user.
 

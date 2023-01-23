@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 47771
+revid: 48870
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -38,4 +38,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   The description implies that the Blacksmiths have knowledge of/can use Ironsing.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48769
+revid: 48872
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -251,7 +251,7 @@ Does not grant any special cosmetic based on race.
 ### **Known Abilities**
 
 -   **Entropy Link**
-    -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions the same as Azael's Gate from Rogue Lineage. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
+    -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
         -   Current known locations are...
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
@@ -384,6 +384,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references, the most obvious being the entity on a modified.
 -   The wings will occassionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, air dash will still behave as if the wings are active until the duration actually ends.
+-   Stratus Stones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 
 **Arcwarder:**
 
