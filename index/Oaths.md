@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48872
+revid: 48887
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -492,9 +492,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. Pack tactics cannot be used: you must obtain these grips alone or they will not count.
 
--   1 Grip - Hidden Tendril/Lords Slice
--   2 Grips - Equalizer
--   3 Grips - String Trick/Judgment
+-   1 grip - Hidden Tendril/Lords Slice
+-   2 grips - Equalizer
+-   3 grips - String Trick/Judgment
 
 ### **Known Abilities**
 
@@ -583,7 +583,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 Proof of Time Magic's existance and it being "Oath Magic".
 
 -   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
--   There is no reason to not get an Oath as they all give benefits with no downsides like murmurs and resonance.
+-   There is no reason to not get an Oath as they all give benefits with no downsides, unlike murmurs and resonance.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
