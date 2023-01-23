@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 48683
+revid: 48898
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,8 +30,11 @@ The prices of Chili's items may vary from price to price.
     -   [Whaling Knife](Whaling_Knife.md)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
     -   [Vigil Longsword](Vigil_Longsword.md)
+    -   [Iron Birch](Iron_Birch.md)
     -   [Inquisitor Straight Sword](<Inquisitor's_Greatsword.md>)
+    -   [Great Maul](Great_Maul.md)
 -   **Armors:**
+    -   Winter Corps Parka
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**

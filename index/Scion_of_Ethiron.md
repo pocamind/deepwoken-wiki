@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 48576
+revid: 48896
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -16,11 +16,11 @@ Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), in some way and acts as its guardian. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fibre protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
+The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) as it, in some way, and acts as its guardian. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fibre protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
 It can shoot bone like projectiles with an unlimited supply, as well as summon bones from the ground. It can also make use of purple energy to attack, creating swirling spheres of it that can cause blindness or fire it in beams.
 
-Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 [medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions), which can be exchanged for knowledge, enchant stones, random equipment enchants, and the Dawnwalker Oath at Castle Light. Furthermore, defeating the boss allows you to keep any Medallions you had obtained on your Floor 2 run - if you do not defeat this boss, you will not get any loot when you leave layer 2 or die. In addition, a **Boss Chest** containing end-game weapons, rare rings and lots of Deep Gems will spawn in. The Boss Chest also has a chance to contain a Legendary Weapon and/or a Railblade. Finally, the player will receive a significant amount of experience, attribute training, resonance progression(4 with a group gave me a resonance no boss path), as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **immune** to certain enchantment effects. (Needs testing. Deferred and Detonation work.)
+Upon defeat, 5 chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **immune** to Vampirism.
 
 ## Moveset
 
@@ -30,13 +30,13 @@ Upon defeat, all chests containing **[Krysan Medallions](https://deepwoken.fando
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| Blinding Gale | The Scion of Ethiron charges up his left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. | ◯ | X | ◯ | (★☆☆) |
+| Blinding Gale | The Scion of Ethiron charges up his left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | ◯ | X | ◯ | (★☆☆) |
 | Bone Throw | The Scion of Ethiron launches three bones at you. These do avery low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time he uses it unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | ◯ | ◯ | ? | (★☆☆) |
 | Vehemens Ventus | The Scion of Ethiron will hold it's hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the layer you're on. If you're solo you won't have enough time to cancel it. Bypasses [Payback](Payback.md). | ◯ | ◯ | ◯ | (★★★★) |
 | Pressurised Wind | The Scion of Ethiron charges up it's arm and quickly releases a purple laser. This will lock onto you and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | ◯ | ◯ | ◯ | (★★☆) |
-| Swing | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
+| Blunt Force | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
 | Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | X | X | ◯ | (★☆☆) |
-| Bone Wave | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
+| Bone Ocean | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
 To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.
 
  | X | X | ◯ | (★★★) |
@@ -66,5 +66,4 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
 -   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
--   \--Using the Chilling enchant to attack the boss while it's stunned can lead to a bug where it continues to attack you, becoming un-stunned early.-- patched.
 -   Vampirism no longer works on layer 2 bosses, however flame wisp can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.

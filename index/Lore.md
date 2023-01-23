@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 48721
+revid: 48914
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -267,6 +267,7 @@ Yun'shul's Shrine
 -   They are not fighters, so much as natural disasters waiting to happen.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
+    -   Possibly based off H.P Lovecraft's "Azathoth", a sleeping god that would cause the end of the universe if they were to wake.
 -   Becoming one is the ultimate goal of the Ministry.
 -   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
@@ -1111,6 +1112,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 -   The book _The Lament of Cirryn_ expands up on it
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave, the process is initially successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   It also mentions that "Lifeweave is not the act of generating new life, it is the transfer of life".
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
 
@@ -1250,6 +1252,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
+    -   The layers of the depths may be inspired by Dante's Inferno.
         -   There are three known Layers contained within The Depths, but there may well be more.
         -   As the layers get deeper, they appear to get closer to the Drowned Gods.
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.

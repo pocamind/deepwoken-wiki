@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 48114
+revid: 48895
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | Enforcer's Blade | |
 |---|---|
 | type | Heavy Greatsword |
-| requirements | 80 HVY, 25 STR, LVL 20 |
+| requirements | 80 HVY, 25 STR, LVL 6 |
 | damage | 25 |
 | scaling | 9 |
 | range | 8.5 |

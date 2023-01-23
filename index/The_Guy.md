@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 48893
+revid: 48910
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -30,5 +30,3 @@ The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), f
 ## Trivia
 
 -   If you have enough Charisma\[50?\] and you choose the Charisma Option, he gives you his spectacles and access to the Summer Isle Cannon
--   Possibly an Asian father...Possibly
--   [https://www.youtube.com/watch?v=vtNJMAyeP0s](https://www.youtube.com/watch?v=vtNJMAyeP0s)

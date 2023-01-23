@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 48879
+revid: 48912
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -48,4 +48,4 @@ New Kyrsa is a beautiful and huge place with tons of buildings and such, there i
 -   This is because New Kyrsa suffers from time dilation, like whole Second Layer. It's also called Space-time collapse, and the reason why it exists is unkown. That means New Kyrsa exists in infinite amount of realities at the same time, and every human stuck here is doomed to stay here forever and suffer from Space-time collapse.
 -   Looks like you can find some old city ​​dwellers who have lost their minds and gone insane from infinite amount of time resets.
 -   After activating all the Obelisks, time will halt and you may freely explore the floor without being reset.
--   doomed The Krysgarde Artillery may be a reference to the chase scene with Undyne in the game Undertale.
+-   The Krysgarde Artillery may be a reference to the chase scene with Undyne in the game Undertale.

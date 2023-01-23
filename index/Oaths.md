@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48887
+revid: 48897
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -597,3 +597,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
+-   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras (needs further testing)

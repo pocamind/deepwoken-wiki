@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 48868
+revid: 48909
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -12,11 +12,53 @@ notices:
 
 A comprehensive map of the East Luminant by gamzeelmao#2927
 
-### **An interactive map of the Eastern Luminant can be found here: Eastern Luminant**
+### A collection of Interactive Deepwoken Maps (updated frequently):
+
+**Surface:**
+
+**Etrean Luminant:**
+
+**Eastern Luminant:**
+
+**The Depths:**
+
+**Layer 1:**
+
+**Outside:**
+
+**Inside:**
+
+**Layer 2:**
+
+**Floor One:**
+
+**Outside:**
+
+**Inside:**
+
+**Whole Map:**
+
+**Chaser Room:**
+
+**Cave System:**
+
+**L1:**
+
+**Floor Two:**
+
+**Outside:**
+
+**Inside:**
+
+**Metro System:**
+
+**Layer 1:**
+
+**Layer 2:**
 
 Icon by Tako#3245
 
-A gallery of [maps](https://map.deepwoken.net/) for _Deepwoken_ locations.
+An _**offsite**_ gallery of [maps](https://map.deepwoken.net/) for _Deepwoken_ locations.
 
 File:Updated Depths Map.png
 
