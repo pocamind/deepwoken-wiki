@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 48693
+revid: 48925
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -67,7 +67,6 @@ notices:
 ## Oaths
 
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
-    -   The overall appearance of the suit however, looks extremely similar to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from _Made in Abyss_.
 -   Starkindred has many references:
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
@@ -87,10 +86,6 @@ notices:
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half-Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
-    -   **Watchers**, the monsters that summon Angels, also share similarities with both [Sirenhead](https://trevorhenderson.fandom.com/wiki/Siren_Head) from the _Trevor Henderson Mythos_, and the [Demogorgon](https://strangerthings.fandom.com/wiki/The_Demogorgon) from _Stranger Things_.
--   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar to and might be inspired by the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) from A_ttack on Titan._
-    -   The soundtrack that used to play during the boss fight also originated from the aforementioned series.
-    -   It throws rocks, which the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) also does.
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
@@ -130,7 +125,6 @@ notices:
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
--   **Chime of Conflict**'s talent group's name is Sovereign of Slaughter, which might be a small nod to _Made in Abyss_, where white whistles had titles starting with Sovereign, such as "Sovereign of Annihilation."
 
 ## Weapons
 
@@ -139,14 +133,13 @@ notices:
 -   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 -   **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer._ And the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
--   **Petra's Anchor** can be a possible reference to two characters: [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
+-   **Petra's Anchor** can be a possible reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   It's critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
 -   **Railblade** could be seen as [Nagoriyuki](https://guiltygear.fandom.com/wiki/Nagoriyuki)'s sword from Guilty Gear.
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
 -   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _Berserk_.
--   Quite a stretch, but **Railblade's** critical attack may be a reference to [Flame Breathing: First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Flame_Breathing) from _Demon Slayer: Kimetsu no Yaiba._
 
 ## Enchantments
 
@@ -172,8 +165,7 @@ notices:
 
 ### **The Depths**
 
--   **The** **Depths** itself was confirmed to have drawn inspiration from three series, _Made In Abyss_ and _Salt and Sanctuary_.
-    -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
+-   **The** **Depths** itself was confirmed to have drawn inspiration _Salt and Sanctuary_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological features of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle features a large cavern, while the second feature cold and harsh winds.
 

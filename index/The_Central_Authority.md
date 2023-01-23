@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 48447
+revid: 48944
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -21,7 +21,7 @@ categories: [Factions]
 
 ## Description
 
-A large military organization, native to the Central Luminant, The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including the [Ignition Union,](The_Ignition_Union.md) [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority favor [Adrets](Adret.md), and their higher ranks mostly consist of them. Adrets will spawn with increased reputation with them.
+A large military organization, native to the Central Luminant, The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including the [Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority favor [Adrets](Adret.md), and their higher ranks mostly consist of them. Adrets will spawn with increased reputation with them.
 
 ## Gameplay
 
@@ -33,7 +33,8 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
--   Tensions high with [The Hive](The_Hive.md).
+-   Enemies with [The Hive](The_Hive.md).
+-   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
 -   Contracts with the [Ignition Union](The_Ignition_Union.md).
@@ -41,12 +42,15 @@ A large military organization, native to the Central Luminant, The Authority is 
 
 ## NPCs
 
--   Authority Warden
--   [Authority Guard](Authority_Peacekeeper.md)
--   [Authority Footsoldier](Authority_Officer.md)
+-   [Authority Commader](Authority_Commander.md)
+-   [Authority Peacekeeper](Authority_Peacekeeper.md)
+-   [Authority Flamecharmer](Authority_Soldier.md)
+-   [Authority Officer](Authority_Officer.md)
 -   [Authority Captain](Authority_Captain.md)
+-   [Authority Lieutenant](Authority_Lieutenant.md)
 
 ## Trivia
 
 -   The Authority has clear relations with every faction except Celtor.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
+-   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions.

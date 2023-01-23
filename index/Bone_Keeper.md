@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 48184
+revid: 48926
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Bone Keeper
 
-“ Where did my health go ”
+“ Do you want to have a bad time? ”
 
-― A player after being grabbed once
+― Bone 'Sans the Skeleton' Keeper
 
 _Also known as The_ _Boner, and the Bone One_Template:EnemyInfobox1.0
 

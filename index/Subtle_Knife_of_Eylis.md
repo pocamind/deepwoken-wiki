@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 48148
+revid: 48923
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -22,7 +22,7 @@ A Knives of Eylis Captain's appearance consists of a [Whaler Coat](Whaler_Coat.m
 
 ## Moveset
 
-Their whaling knifes have a chance to be enchanted.
+A Knives of Eylis Captain is equipped with a Whaling Knife that has a chance to be enchanted and the Time Magic Oath.
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

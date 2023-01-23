@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 48518
+revid: 48924
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -9,12 +9,6 @@ categories: [Enemies]
 # Bandit
 
 Template:EnemyInfobox1.0
-
-“ Let's get them! ”
-
-― A bandit while attempting an ambush on a Power 20 player in Erisia.
-
-  
 
 ## Description
 
@@ -26,7 +20,7 @@ The outfit was made by Rengi and is called "Sea Adventurer".
 
 ## Moves
 
-A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), Broadsword (Unobtainable), [Mace](Mace.md) or [Stiletto](Stiletto.md): Theyre weapons can be enchanted.
+A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), Broadsword (Unobtainable), [Mace](Mace.md) or [Stiletto](Stiletto.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

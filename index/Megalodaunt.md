@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 48526
+revid: 48962
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -249,13 +249,13 @@ Kick
  | ✗ | ✗ | ◯ | (★★★) |
 | 
 
-Blazing Kick Kick
+Blazing Kick
 
  | The Mechalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. However this kick is held for an extra half~ a second, making it harder to dodge, as well as setting the player on fire.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
--   Missing it means you'll waste a roll putting out the flames.
+-   Missing the dodge means you'll waste a roll putting out the flames.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -272,7 +272,7 @@ Thousand Needles
 
 Bullet Fury
 
- | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent | ◯ | ◯ | ◯ | (★★☆) |
+ | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent, auto-executes. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Laser Explosion

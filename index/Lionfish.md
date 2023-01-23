@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 48706
+revid: 48983
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -45,8 +45,8 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 | **Name** | **Description** | **Parry-able?** | **Danger** |
 | --- | --- | --- | --- |
 | **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) | ◯ | (★☆☆) |
-| **Chilling Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged,it'll come back down, firing a massive laser beam at its opponent, dealing _**??? Damage**_, and chilling whoever gets hit by it. This also leaves ice where it lands.
-This will auto-grip you if hit by it at low health. This isn't exclusive to the depths, and can be used in the overworld.
+| **Chilling Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged,it'll come back down, firing a massive laser beam at its opponent, dealing _**??? Damage**_, and chilling whoever gets hit by it. This also leaves ice where it lands. For the glacial lionfish, this move isn't exclusive to the depths and can be used in the overworld.
+This will auto-grip you if hit by it at low health.
 
  | ✗ | (★★☆) |
 

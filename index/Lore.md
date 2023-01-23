@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 48914
+revid: 48958
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -165,7 +165,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 -   Black Diver of an unknown race. Created light hooks.
 -   In charge of expeditions into the Second Layer.
--   Name bears an eery resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
+-   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
@@ -267,7 +267,6 @@ Yun'shul's Shrine
 -   They are not fighters, so much as natural disasters waiting to happen.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
-    -   Possibly based off H.P Lovecraft's "Azathoth", a sleeping god that would cause the end of the universe if they were to wake.
 -   Becoming one is the ultimate goal of the Ministry.
 -   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
@@ -1252,7 +1251,6 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
-    -   The layers of the depths may be inspired by Dante's Inferno.
         -   There are three known Layers contained within The Depths, but there may well be more.
         -   As the layers get deeper, they appear to get closer to the Drowned Gods.
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.

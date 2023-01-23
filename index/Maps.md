@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 48909
+revid: 48971
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -42,7 +42,15 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 
 **Cave System:**
 
+**L0:**
+
 **L1:**
+
+**L2:**
+
+**L3:**
+
+**L4:**
 
 **Floor Two:**
 
@@ -55,6 +63,8 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 **Layer 1:**
 
 **Layer 2:**
+
+**The Trial of One:**
 
 Icon by Tako#3245
 
