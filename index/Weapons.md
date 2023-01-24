@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 48694
+revid: 49026
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -234,7 +234,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 
 **Fists:**
 
-Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. When equipping fists and you had another weapon equipped beforehand, it does an animation, striking your weapon to the ground.
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. When equipping fists when you had another weapon equipped beforehand, it does an animation, striking your weapon to the ground.
 
 <table>
 <tbody>
@@ -354,7 +354,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
   <td>65 LHT</td>
-  <td>13</td>
+  <td>14</td>
   <td>N/A</td>
   <td>LHT: 15</td>
   <td>1</td>
@@ -364,11 +364,11 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
-  <td>20</td>
+  <td>18</td>
   <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
-  <td>12</td>
+  <td>11</td>
   <td>0.8x</td>
 </tr>
 </tbody>
@@ -871,7 +871,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
   <td>90 MED</td>
-  <td>21</td>
+  <td>20.5</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 5</td>
@@ -1512,7 +1512,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>MED: 5, WND: 4</td>
   <td>5</td>
   <td>8</td>
-  <td>0.8x</td>
+  <td>0.78x</td>
   <td>No</td>
   <td>N/A</td>
 </tr>
@@ -1533,7 +1533,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 ICE, 30 HVY, LVL 10</td>
   <td>23.5</td>
   <td>N/A</td>
-  <td>ICE: 9 HVY: 3</td>
+  <td>ICE: 8 HVY: 4</td>
   <td>6</td>
   <td>8</td>
   <td>0.62x</td>

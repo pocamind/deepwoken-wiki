@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 48971
+revid: 49043
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -14,7 +14,7 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 
 ### A collection of Interactive Deepwoken Maps (updated frequently):
 
-**Surface:**
+**Luminants:**
 
 **Etrean Luminant:**
 
@@ -22,13 +22,13 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 
 **The Depths:**
 
-**Layer 1:**
+**Layer 1 (Scyphozia):**
 
 **Outside:**
 
 **Inside:**
 
-**Layer 2:**
+**Layer 2 (The Eternal Gale):**
 
 **Floor One:**
 
@@ -65,6 +65,8 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 **Layer 2:**
 
 **The Trial of One:**
+
+**Mod Office:**
 
 Icon by Tako#3245
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 48735
+revid: 48993
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -119,7 +119,7 @@ The formulas that you need to calculate how many hits are required to kill a mon
 D a m a g e P e r M 1 \= ( 3 ( P o w e r + 3.33 ) ) × ( W e a p o n D a m a g e × ( D m g V S M o n s t e r s % 100 + 1 ) × 0.089 ) {\\displaystyle DamagePerM1 = (3(Power + 3.33)) \\times (WeaponDamage \\times (\\tfrac{DmgVSMonsters\\%}{100} + 1) \\times 0.089)} {\\displaystyle DamagePerM1=(3(Power+3.33))\\times (WeaponDamage\\times ({\\tfrac {DmgVSMonsters\\%}{100}}+1)\\times 0.089)}  
 H i t s \= M o n s t e r H e a l t h ( 100   −   R e s i s t a n c e % 100 )   ×   D a m a g e {\\displaystyle Hits = \\tfrac{MonsterHealth}{(\\tfrac{100 ~ - ~ Resistance\\%}{100}) ~ \\times ~ Damage}} {\\displaystyle Hits={\\tfrac {MonsterHealth}{({\\tfrac {100~-~Resistance\\%}{100}})~\\times ~Damage}}}
 
-Example: If you were to fight a a Stone Knight with 9000 health and 55% resistance to slashing, using a weapon that does 40 damage per hit, while having 10% Damage VS Monsters and being at level 60, you would do:
+Example: If you were to fight a a Stone Knight with 9000 health and 55% resistance to slashing, using a weapon that does 40 damage per hit, while having 10% Damage VS Monsters and being at level 20, you would do:
 
 D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 ) \= 274.12 {\\displaystyle DamagePerM1 = (3(20 + 3.33)) \\times (40 \\times (\\tfrac{10}{100} + 1) \\times 0.089) = 274.12} {\\displaystyle DamagePerM1=(3(20+3.33))\\times (40\\times ({\\tfrac {10}{100}}+1)\\times 0.089)=274.12} H i t s \= 9000 ( 100   −   55 100 )   ×   274.12 \= 73 ( 72.9607471181 ) {\\displaystyle Hits = \\tfrac{9000}{(\\tfrac{100 ~ - ~ 55}{100}) ~ \\times ~ 274.12} = 73 (72.9607471181)} {\\displaystyle Hits={\\tfrac {9000}{({\\tfrac {100~-~55}{100}})~\\times ~274.12}}=73(72.9607471181)}
 

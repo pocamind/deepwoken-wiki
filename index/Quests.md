@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 47570
+revid: 49044
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -281,6 +281,14 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to a ministry NPC found in various places around the map, he will ask you to kill anyone at a certain location.
 
 **Reward/s**: Ministry Reputation
+
+**The Guy:**
+
+**Quest Location**: Near Meteor Isle
+
+**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+
+**Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
 
 ## Attribute Unbound Quests
 

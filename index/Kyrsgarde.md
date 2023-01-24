@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 48949
+revid: 49031
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters]
@@ -16,7 +16,7 @@ notices:
 
   
 
-Template:EnemyInfobox1.0
+Template:Creature Infobox V3
 
 ## Description
 
@@ -40,7 +40,7 @@ _Possibly throws the lance at the end ?_
 
 ## Finisher
 
-Template:EnemyInfobox1.0
+Template:Creature Infobox V3
 
 ## Description
 

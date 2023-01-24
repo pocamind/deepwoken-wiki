@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 48874
+revid: 49013
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -14,7 +14,7 @@ Template:Location2
 
 ## Overview
 
-**Layer One** also called **Scyphozia** is the first layer of The Depths. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [**Layer 2**.](Second_Layer.md)
+**First Layer**, also known as **Scyphozia** is the one of seven layers of The Depths. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [Second Layer.](Second_Layer.md)
 
 ## **Points of Interest**
 
@@ -30,11 +30,11 @@ Template:Location2
     -   Ignition Union Deepdriller
 -   Marauders' Entrance
 
-## **Escaping Layer One**
+## **Escaping First Layer**
 
 Detailed map of the entire Depths First Layer
 
-There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
+There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
 
 ### **Bells**
 
@@ -46,7 +46,7 @@ _Not to be confused with [Resonances](Resonance.md)._
 
 [The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across Scyphozia, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### **Climbing the Walls**
 
@@ -72,7 +72,7 @@ The method **requires no encounters with Watchers.**
 
 **Disclaimer: There is no guarantee that there will be no hostile players while using this method, so do at your own risk.**
 
-## **Layer One: The Trial**
+## **First Layer: The Trial**
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
@@ -80,7 +80,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note:_
 
-**Your Trial Power is calculated by power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer. _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a Depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
 
 _Trial Power and Power are two different things; See above as well as below table._
 
@@ -103,9 +103,9 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
 -   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything. (**This note was probably before Verse 2 so just divide the levels by 3.**)
 
-## **Farming in Layer One of The Depths**
+## **Farming in First Layer of The Depths**
 
-Layer One, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within Layer 1 for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
+Scyphozia, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within First Layer for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
 ### **Talents & Equipment**
 
@@ -120,7 +120,7 @@ Layer One, being a naturally hostile location, is especially difficult to surviv
 Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
-    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in Layer One, as sitting near a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
+    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in First Layer, as sitting near a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
     -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
@@ -130,7 +130,7 @@ Just some information to keep in mind and remember.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
 -   If you are of the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 
-## **Quests in Layer One**
+## **Quests in First Layer**
 
 ### **Finding Morning**
 
@@ -249,29 +249,24 @@ Legendary = Gold
 
 ## **Tips**
 
--   Adaptation to the Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
+-   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in The Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
 -   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
 -   Above goes the same if there many people of the same guild flooding the server, it's not worth risking your chances with a huge group of players.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
+-   Environmental awareness is vital to survival within The Depths. Falling into the void below will send you to [Layer 2](Second_Layer.md) with no [Light Hook](Klaris_Llfiend,_Mother_of_Lights.md) (which means you're basically dead unless you're very skilled), except for if you are below half health or are Power 1-2 - then you'll wipe. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some of your HP, equivalent to that of knocking an NPC or monster around your power.
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.
--   When getting attacked by a high level player, if you are eligible to enter [Layer 2](Second_Layer.md) through jumping into the void, _do it as soon as possible_. Your chances of escaping Floor 1 is higher than winning against them.
-    -   When jumping into the void, do keep in mind that **if you take enough fall damage to fall to 0%, you will die instead** of entering Layer 2.
-    -   When escaping Layer 2 like this, use the Ignition Union method instead of beating Chaser, as it is less risky.
-        -   The Black Divers are Castle Light are mostly unreliable to help you survive. They only fend off the attacker for a few seconds.
 
 ## **Trivia**
 
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. Permanently unlocks the Shadow Magic for future lives.
--   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
+-   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban them at the same time.
--   Falling into the void will now send you to [Layer 2](Second_Layer.md), however this is highly advised against if you want to go there, as you wont have a Light Hook to save you if anything goes wrong. Falling into the void at Power 1-2(?) however will not send you to Layer 2 and instead just kill you.

@@ -1,9 +1,9 @@
 ---
 title: "Pilgrim's Respite"
-revid: 42959
+revid: 49003
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Layer 2, The Depths]
 ---
 
 # Pilgrim's Respite

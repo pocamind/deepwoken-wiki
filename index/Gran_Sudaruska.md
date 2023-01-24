@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 48213
+revid: 49021
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -15,7 +15,7 @@ notices:
 | type | Greataxe |
 | requirements | 75 ICE, LVL 10, 30 HVY |
 | damage | 23.5 |
-| scaling | ICE: 9, HVY: 3 |
+| scaling | ICE: 8, HVY: 4 |
 | range | 8 |
 | swing speed | 0.62x |
 | special effect | Applies frost on hit, Rain down ice shards after 3 hits, Gain a damage bonus when killing Ministry Scouts, When killing a player or a Ministry Scout, she will talk. (See trivia for the lines) |
