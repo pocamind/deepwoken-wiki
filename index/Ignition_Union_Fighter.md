@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 48595
+revid: 49126
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -20,7 +20,7 @@ An Ignition Union Fighter is a type of enemy NPC that can spawn in the following
 
 They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
-## Moves
+## Moveset
 
 An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md) and have a chance to be enchanted.
 

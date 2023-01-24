@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 47045
+revid: 49181
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Resonance, Skills]
@@ -40,7 +40,7 @@ When used, this ability will transport the user into the Distortion Realm known 
 
 When obtained, Dimensional Travel will spend its points on the following stats:
 
--   **Use in combat:** If this stat is used, this resonance can be used while in combat.
+-   **Use in combat:** If this stat is used, this resonance can be used while in combat, do note this uses a hefty amount of points, leaving the Travel Distance as 2:1 or even 1.5:1.
 -   **Travel Speed:** The more points are spent on this stat, the faster players travels while inside the dimension.
     -   Faster travel means that the Dimension/Etrean Luminant distance ratio is amplified.
 

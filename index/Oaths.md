@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49100
+revid: 49157
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -67,9 +67,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? ”
+“ they don't know I'm the best oath by lore.. ”
 
-― Oathless Description
+― some 55 intelligence oathless etrean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -97,9 +97,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 # **Oath: Blindseer**
 
-“ You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. ”
+“ I'm.. illegally blind ? ”
 
-― Blindseer Description
+― a power 3 blind flaw Gremor getting blindseer for the first time.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -163,9 +163,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands. ”
+“ I may be able to make illusions but I cant make an illusion of you getting bitches. ”
 
-― Visionshaper Description
+― the Visionshaper in question
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -234,9 +234,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ You vow to give up your own life for the sake of others. Stepping out of the fray, you become the foundation of your allies' strength. ”
+“ monster.. how should I feel.. creatures lie here.. looking through the window.. ”
 
-― Linkstrider Description
+― the Tiran in question going through the 5th stages of grief doing linkstrider solo progression.
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -258,7 +258,7 @@ Does not grant any special cosmetic based on race.
             3.  Ceres (Overlooking the path to the abandoned cabin below Etris, on a black rocky outcrop)
             4.  Europa (Near the Valley of Heroes)
             5.  Pallas (On the small bit of land by the miner's landing's gate)
-            6.  Fortuna (Above the church of erisore)
+            6.  Fortuna (Above Erisor's Church)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
@@ -282,9 +282,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. ”
+“ You're too slow! ”
 
-― Jetstriker Description
+― Jetstriker running from a contractor
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
 
@@ -332,9 +332,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. ”
+“ You... INSIGNIFICANT FUCK! THIS IS NOT OVER! ”
 
-― Starkindred Description
+― a starkindred absolutely furious with a blue arcwarder
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
 
@@ -391,9 +391,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Weld the armor of the Ignition Union's most notable dwellers. ”
+“ I'M FUCKIN INVINCIBLE! ”
 
-― Arcwarder Oath Description
+― The Arcwarder with a Paths Defender and all possible ways of more posture.
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 
@@ -444,9 +444,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 # **Oath: Dawnwalker**
 
-“ You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. ”
+“ **JUDGEMENT!** ”
 
-― Dawnwalker Description
+― the dawnwalker about to kick a freshie canor into the next century.
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -473,9 +473,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 # **Oath: Contractor**
 
-“ Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. ”
+“ would you like to sign my petition? ”
 
-― Contractor Description
+― the contractor ganymede _asking_ level 10's if it should get buffed
 
 ### Obtainment
 
@@ -600,4 +600,5 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras (needs further testing)
+-   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras (needs further testing).
+-   Jetstriker makes Chrysid eyes white.

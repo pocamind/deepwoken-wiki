@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 48602
+revid: 49127
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,19 +12,19 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ignition Union Guards are enemy NPCs that can be found around Miner's Landing.
+Ignition Union Guards are enemy NPCs that can be found on [Miner's Landing](<Miner's_Landing.md>).
 
-They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
+They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit with their gender and race varying.
 
-## Moves
+## Moveset
 
-An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Alloyed Darksteel Greatsword](Darksteel_Greatsword.md):
+An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an [Alloyed Darksteel Greatsword](Darksteel_Greatsword.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Falchion](Falchion.md)\] Performs a windup before thrusting sword forward.
-\[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
+\[[Alloyed Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★★☆) |
 
@@ -34,7 +34,7 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 
 ## Finisher
 
-An Ignition Union Fighter executes the player after knocking them:
+An Ignition Union Guard executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 47900
+revid: 49184
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -39,3 +39,4 @@ The Shattered Katana across various updates has been nerfed and is debatably, no
 -   Based on the incredible length of the blade, we can say that this is an Ōdachi, not a Katana.
 -   The talent Paired Soul (Vigil Initiate and Cloak of Winds armor) buffs the swords damage by 5% rather than the Katana's 25% percent
 -   The Shattered Katana can be paired with the Poser's Ring, which makes your M1s deal no damage, stacking all of it until you put away your weapon.
+-   Im told that is has a unique critical (might be false idk)

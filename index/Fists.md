@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 49050
+revid: 49172
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -73,7 +73,7 @@ While Fist of Navae and Legion Kata tie in damage, the critical is faster and de
 
 ### Jus Karita
 
-File:Jus Kartia2.png
+File:Jus Kartia cropped.png
 
 **CRITICAL: Dash forward while performing a kick. Can be upgraded with a talent to remove the cooldown after landing it.**
 

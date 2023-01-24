@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 48215
+revid: 49175
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -87,7 +87,7 @@ _Pros/Cons_
     
       
     _Benefits/Penalties_
--   **(BENEFIT)** _Receive a random Talent that you do not already have_
+-   **(BENEFIT)** _Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here_
 -   **(PENALTY)** _Lose 5 Knowledge & 1 Talent (of your choice)_
 
 _Pros/Cons_

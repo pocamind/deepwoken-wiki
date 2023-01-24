@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 49110
+revid: 49154
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -12,7 +12,7 @@ notices:
 
 A comprehensive map of the East Luminant by gamzeelmao#2927
 
-### A collection of Interactive Deepwoken Maps (updated frequently):
+### A collection of Interactive Deepwoken Maps (_markers are appreciated_ - please keep them consistent on all maps):
 
 **Surface:**
 

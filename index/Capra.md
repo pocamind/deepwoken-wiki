@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 47430
+revid: 49158
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -100,3 +100,4 @@ Need friends. :(
 -   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the race having wider eyes than average because they lack epicanthic folds.
 -   Capra means goat.
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
+-   Capras look similar to a wendigo, a creature from Native American folklore that originates from someone's strongest negative emotions. ￼

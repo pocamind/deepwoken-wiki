@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 48387
+revid: 49139
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,6 +19,10 @@ A mysterious base of operations for the Ministry, lurking within the snowscape.
 
 Outpost Antumbra can be found by taking a small route on the right side of [Minityrsa](Minityrsa.md). Contains the entrance to [Trial of One](Trial_of_One.md) in the basement along with a Ministry Field Report.
 
+## Description
+
+Outpost Antumbra is the small outpost for The Ministry, it has a good amount of Scouts around here, and five chests, four near the Trial of One and the other around the left top. This base was referred to as a "Nest" by Elykris.
+
 ## Quests
 
 -   There is a quest for 5 Aces. You must find Elykris. He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get 5 free Aces.
@@ -27,3 +31,4 @@ Outpost Antumbra can be found by taking a small route on the right side of [Mini
 
 -   This area didn't have a name before the Verse 2 update.
 -   [Trial of One](Trial_of_One.md) is found here.
+-   Antumbra means something related to "The Moon's shadow" which is quite interesting.

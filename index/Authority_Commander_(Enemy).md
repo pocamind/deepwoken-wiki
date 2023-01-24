@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 48931
+revid: 49122
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,9 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Commander is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. The Authority person that spawns near the docks is **NOT** a Commander, it is an Authority Lieutenant.
-
-  
+Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. The one that spawns near the docks is **NOT** a Commander but an [Lieutenant](Authority_Lieutenant.md).
 
 Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm.
 
@@ -29,8 +27,6 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★★) |
 | Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
 
-  
-
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
@@ -40,7 +36,7 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
--   Expect for [Authority Guards](Authority_Peacekeeper.md) to interfere with your fight.
+-   Expect [Authority Guards](Authority_Peacekeeper.md) to interfere with your fight.
 -   You'll frequently get into a parry battle with the Commander, so feint to disrupt it.
 
 ## Trivia

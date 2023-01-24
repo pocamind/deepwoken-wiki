@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 49120
+revid: 49129
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ As a cost for actually teleporting to a meteor, one must have at least 1 stardus
 
 Once you have stardust, you can teleport to a meteor by sitting at an actual campfire and stating its name in text chat. You will be transported exactly to that meteors location, which can sometimes get you stuck in the ground.
 
-The currently known meteor names and locations are as follows:
+The currently known meteor names and locations are as follows (sorted by popularity):
 
 ## Etrean Luminant
 
@@ -41,6 +41,6 @@ Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](The_Valley_of_Hero
 
 Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md), by the sea gate going towards [Summer Isle](Summer_Isle.md))
 
-Eunomia (Above [Sibex](Sibex.md))
-
 Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oaths.md) trainer, next to the sea gate to the Etrean Luminant)
+
+Eunomia (Above [Sibex](Sibex.md))

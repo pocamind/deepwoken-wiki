@@ -1,9 +1,9 @@
 ---
 title: Kyrstreza
-revid: 48438
+revid: 49148
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Rapiers]
 ---
 
 # Kyrstreza
