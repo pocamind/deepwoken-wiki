@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49068
+revid: 49100
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -276,6 +276,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Please don't aim for this because of how hard it is to get I assure you it won't be of help.
+-   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
 
 **Jetstriker:**
 

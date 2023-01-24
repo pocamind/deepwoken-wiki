@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 48890
+revid: 49092
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -37,6 +37,7 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
+-   The outfit helps with specific builds as its "Paired Soul" allows Katana's to deal 30 damage which is 2 points of damage off from Shattered Katana's 32 damage granted by this outfit. The main downside is that Katana's lack the 30% PEN stat that Shattered Katana's have. This outfit allows you to use a downgraded cheaper version of Shattered Katana without it sucking complete ass end-game wise but it depends on what you are focusing your build on.
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
 -   The new outfit sprite sucks. It's bright vibrant colors throw off the more discrete, neutral and sleek tone of Isle of Vigils.

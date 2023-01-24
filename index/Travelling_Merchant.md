@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 48898
+revid: 49083
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,8 @@ Chili is a Crow [Tiran](Tiran.md) that appears in [Merchant Schooners](Ships_&_S
 The prices of Chili's items may vary from price to price.
 
 -   **Food:**
+    -   Egg Omelette
+    -   Fish Omelette
     -   Seafood Boil
     -   Cake
     -   Noodles

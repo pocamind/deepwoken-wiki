@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 49043
+revid: 49110
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -14,13 +14,31 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 
 ### A collection of Interactive Deepwoken Maps (updated frequently):
 
-**Luminants:**
+**Surface:**
 
 **Etrean Luminant:**
 
+**Outside:**
+
+**Inside:**
+
+Map:Etrean Luminant Inside
+
+**Duke Erisia's Manor:**
+
+**The Floating Keep:**
+
 **Eastern Luminant:**
 
+**Outside:**
+
+**Inside:**
+
+**Voidheart:**
+
 **The Depths:**
+
+**Fragments of Self:**
 
 **Layer 1 (Scyphozia):**
 
@@ -60,13 +78,37 @@ A comprehensive map of the East Luminant by gamzeelmao#2927
 
 **Metro System:**
 
-**Layer 1:**
+**L1:**
 
-**Layer 2:**
+**L2:**
 
 **The Trial of One:**
 
-**Mod Office:**
+**Chime of Conflict:**
+
+**1 vs 1:**
+
+**Echoes of Bloodshed:**
+
+**The Profane Cavern:**
+
+Map:The Profane Cavern
+
+**3 vs 3:**
+
+**Forest Arena:**
+
+Map:Forest Arena
+
+**The Falcon's Hold:**
+
+Map:The Falcon's Hold
+
+**The Unearthed Colosseum:**
+
+Map:The Unearthed Colosseum
+
+**The Hall of Shattered Wills:**
 
 Icon by Tako#3245
 

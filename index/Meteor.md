@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 44470
+revid: 49120
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,14 +29,18 @@ Once you have stardust, you can teleport to a meteor by sitting at an actual cam
 
 The currently known meteor names and locations are as follows:
 
+## Etrean Luminant
+
+Ceres (In [Etris](Etris.md), across from the 90° angled bridge, on the edge of a cliff)
+
+Fortuna (On a cliff above the [Church](<Erisor's_Church.md>) in [Erisia](Erisia.md))
+
+Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](The_Valley_of_Heroes.md), if you walk over the bridge and go forward a bit)
+
+## Eastern Luminant
+
 Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md), by the sea gate going towards [Summer Isle](Summer_Isle.md))
 
 Eunomia (Above [Sibex](Sibex.md))
 
-Ceres (In [Etris](Etris.md), across from the 90° angled bridge, on the edge of a cliff)
-
-Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](The_Valley_of_Heroes.md), if you walk over the bridge and go forward a bit)
-
 Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oaths.md) trainer, next to the sea gate to the Etrean Luminant)
-
-Fortuna (On a cliff above the [Church](<Erisor's_Church.md>) in [Erisia](Erisia.md))

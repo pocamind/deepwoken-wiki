@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 48888
+revid: 49115
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -53,8 +53,8 @@ The Chime of Dwelling does not work under the following:
 -   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
 -   Dungeons or Missions.
 -   Occupied Locations by Factions that see you as a Hostile.
--   Being In-Combat
--   Boatman's Watch
+-   Being in-combat or near hostile NPCs.
+-   Boatman's Watch.
 
 ## Nodes
 

@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 49072
+revid: 49079
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,5 +18,5 @@ Template:Creature Info Box v2
 
 ## Trivia
 
--   Iblis was an jinn (basically a spirit) that was ascended to the rank of the a angel, later on cast out of heavens for not following allah.
--   is the islamic equivalent to Satan
+-   Iblis was an jinn (basically a spirit) that was ascended to the rank of the a angel for being good, later on for believing he was superior to adam. and refused to except adam as allah's new creation do to his superiority complex, and was cast out of the heavens, then he vowed to bring all of mankind to hell.
+-   Iblis the islamic equivalent to Satan in Christianity
