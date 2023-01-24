@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 46929
+revid: 49067
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
-Template:Creature Infobox V3 **Also known as Crazy-Crabs, Annoying Scissor Things or Headcrabs.**
+Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
 
 The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly and having very high mobility.
 
@@ -41,3 +41,4 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
 -   You can use Terrapod bait to spawn them whenever you want so you can farm their claws and annoy people with hordes of them. You can also get Red Terrapods to spawn with the bait in-case you want to see one or try and get an [Evanspear](Evanspear_Greataxe.md) from one.
+-   There are two guaranteed spawns. One near the bandit village in Lower Erisia and one near the Legendary Boot.

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 47518
+revid: 49058
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken, Void Sea]
@@ -56,8 +56,12 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 -   [Minityrsa](Minityrsa.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
     -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [The Entropy Catalyst](The_Entropy_Catalyst.md)
--   [Starfield Veldt](Starfield_Veldt.md)
+    -   [Starfield Tundra](Starfield_Tundra.md)
+
+### The Void Sea
+
+-   [Voidheart](Voidheart.md)
+    -   [Dusklit Garden](Dusklit_Garden.md)
 
 ### Inaccessible
 
@@ -65,9 +69,14 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 -   [The Floating Keep](The_Floating_Keep.md)
     
 
-**The Aratel Sea:**
+## The Eastern Luminant
 
+A list of named locations that can be found in the Eastern Luminant experience.
+
+  
 A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
+
+**The Aratel Sea:**
 
 ### [Aratel Island](Aratel_Island.md)
 
@@ -86,6 +95,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
     -   [Ancient Rotlands](Ancient_Rotlands.md)
     -   [Derelict Highchurch](Derelict_Highchurch.md)
 -   [Summer Isle](Summer_Isle.md)
+    -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
@@ -101,6 +111,8 @@ A list of locations that can be found in [The Voidsea](Voidsea.md).
 -   [Voidheart](Voidheart.md)
     -   [Dusklit Garden](Dusklit_Garden.md)
         
+
+  
 
 ## [The Depths](The_Depths.md)
 

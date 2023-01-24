@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 48486
+revid: 49048
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -31,6 +31,8 @@ Players can use this to remove Equipment they want to pass down at the Hippocamp
 ### Hippocampal Pool
 
 Located to the left handside, interacting with this allows you to pass down two items that will transfer to your next character. It will also allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
+
+-   You can pass down a Legendary Weapon or Enchanted Item (or weapon), albeit at a cost of 100 Echoes.
 
 ### Shrine of the Drowned
 

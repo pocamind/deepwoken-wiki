@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 48951
+revid: 49072
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,4 +18,5 @@ Template:Creature Info Box v2
 
 ## Trivia
 
--   The name "Iblis" means "The leader of the devils" in Islamic culture. Iblis was an angel thrown out of heaven, so it's perfectly fitting that he is a red angel.
+-   Iblis was an jinn (basically a spirit) that was ascended to the rank of the a angel, later on cast out of heavens for not following allah.
+-   is the islamic equivalent to Satan

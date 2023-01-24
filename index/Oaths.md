@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 48897
+revid: 49068
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -360,7 +360,7 @@ You will get a mantra for each kill.
 -   **Wings - Innate**
     -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 60 seconds.
     -   While active, Air Dash goes much further and can go in any direction, most importantly vertically, adding huge mobility.
-    -   Can come in a variety of colors depending on your race. Known colors are white, black, orange, light blue, red, and yellow.
+    -   Can come in the color of your races hair color.
     -   Some mantras have different properties while the user has their wings out:
         -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
 -   **Ascension - Combat Mantra**
@@ -520,6 +520,8 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
 -   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
+-   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
+-   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
     
 
 ## Lore Oaths:

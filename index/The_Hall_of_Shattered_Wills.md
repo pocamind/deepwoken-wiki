@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 48566
+revid: 49056
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,7 +16,7 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found in the Etrean Luminant experience.
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant.
 
 ## Overview
 
@@ -28,7 +28,7 @@ It has no known function and is purely there for appearance.
 
 ### Yum-Yum Machine
 
--   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restore 50 hunger and 50 thirst and its food type are Plant / Meat / Yum. It is not droppable however.
+-   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however.
 
 File:Screenshot 2022-12-30 000043.png
 

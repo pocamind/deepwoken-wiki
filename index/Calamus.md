@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 45451
+revid: 49047
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,7 +25,9 @@ If you haven't completed his task and you talk to him, he can give you the optio
 -   [Deep Widow](Deep_Widow.md)
 -   [Stone Knight](https://deepwoken.fandom.com/wiki/Stone_Knight#Desert_Knight)
 -   [Brainsucker](Brainsucker.md)
--   Authority Commander
+-   [Authority Commander](Authority_Commander.md)
 -   [Deep Widow](Deep_Widow.md)
+-   [Brainsucker](Brainsucker.md)
+-   [Thresher/King Thresher](Thresher.md)
 
 (further testing needed as this page is a WIP)

@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 47782
+revid: 49070
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs]
@@ -10,7 +10,7 @@ categories: [Drowned Gods, NPCs]
 
 “ P̵̟̄̈́̈́̃͆Ḽ̸͔͎̙͚̮̝̉͆̃̅Ù̴͎͎̅͑͂C̸̟̏ͅK̴͚̖̽̓͊͘ ̷̫͈̭͍͚̥̖̈̊Ỏ̸̙͔̮͂̓͛̆̔͑Ù̸̞̙̟̪̂̓̓̂͝T̴̨̼͉̫̤͕̙̋ ̷̡̛̞̑͒̐͗͋Ț̴̥̘̔̐̊̈̀̒͝H̸͇͓̲͂Ī̴̻͉̮̫̖̤̇́N̴̨̳̟̺̈́ͅȨ̸̼͎̰̫̗͍̍ ̴͚̠̮̮͎̯̂̄̍̒͂̒͝É̷̛͍̺͉̜̻̂̑̌Y̸̦̻̏͊Ẽ̵̮̞̖͈̲S̴͇̘͈̐̈́͒;̶̢͔̿̏̒͝ ̸̧̛̭̗̭͎̬̏̾̓͠͝Ţ̶̪͂̑̀͘Ȩ̵͎͇͉͕̀̈́͊ͅĄ̵̻͖͉͖͙̆̑̌͊̋͝R̶̛̫͓̹̝̺̦̈̽́̇͂ ̶͖̗̹͚͓̎̄͘͜O̷͎̳̟̍̍Ȕ̶̧͊̒͋̈́͘Ṱ̴͈̒͂̄̅̇͌ ̷̻̟̙̹͛̀̈́̃̿T̵̢̫̮́̐́̂̕͜͠ͅH̵̪́̿̈I̸̡̝̭͕̥̥̓͘Ņ̷͇̺̤̈̽͊̄̆̀͑Ë̶͖̻́̓̉ ̸͕͚̫́̎̚͝ͅT̷̛̼͎̦̳̦̒͒̈́̏͋͝H̵̡̳̝̥̔̀̈́̍̓̑̆R̶̟̱̫̘̐̏͛̀̈́̍Ơ̶̫̟̪̟̹̞͈̔͌A̴̹͚͍̋̃͗̃͝͠T̴͓̰̭̤̘̻̄̍͝;̸͍̲̝̮̖͍̽͋̄ ̵̨̳̄͐͗́͗L̵̹̗̈́͜Ạ̶͌̾͒Y̴̪̏̀͒ͅ ̷̮͚͖͓̼͝W̵̢͓̆̆̇̂̈́Ä̶̼̺͉͈̩̜̪́̌̄̽̓Ŝ̶̻̯̜̮̭͑̉T̴̙̝̟̬̐̈́̀̍̇̕E̸̡̤̞̟̻̅͜ ̷͓͒̍͛̑̂̚͝Ṫ̶̠̳͕̈́̈́̄̉O̷̺̯̦̜̝̓̓̎̅̽͜͠ ̵̭̭͕̖̞̲̫̑̄̋́̈́̚A̶̙͋͛̀͋͐͑L̷̛̛͔͖͂͊̈́͘L̸̡̧̤̼͎̈́͛̿́̊́ ̵̧̟͈̼̭͈̏͒͂͌͠Ẁ̷̜̾̌͊̚H̸̠̹̒̉́I̵̙̲̰̽͛Ç̸̥̪͕̙̣͛͂̈̌̓͜͝H̸̞̎ ̴̢̢̛͍͍̯̙͆̍̆͗͝Ĭ̵̬͈̎̇̅̏̎̔S̷̝͛̐̈́ ̵̩̍̈́̿͊̓͘S̷̬̭͖̭͇̓̒͒̏͛̊A̷̫̫̱̦̐́̎̎͊́C̵͙̮̟̃R̶͈̥͍͉̃͐Ê̴̗͔̣͓̒͗D̶̢̢̺̤̹̼̪̈́͐͝;̶̨̯̥̱̥̬͒̾ ̴̨̫̥̤̥̦͓͑̌̇̈́̚͠T̴͎͖̊̽̈H̴̡̧͈̣̔͐̆̋͠E̶̮̮̝͛̐ ̶̖̲̜̺̈́M̸̨̲̯̮͋͝Ȏ̴͈̝̦̜̭̹̃O̵̧͆͋͘Ņ̸́̓͗S̵̛̗̘̘̐̇̀̀̉͝E̶̺͗̋̆͑̀Y̷̡̼̜͐͂͋̑̿͋̆Ḙ̷̫̫̐͌̊̓͑̋ ̶̧̰͖͇͛͒͑̋̓̇C̴̛̰̠͓̘̚Õ̵̟̮͔̟Ņ̴̫̱̭̯́͝ͅV̷̝͖̪͉͗̊͐͒̓̓͛ͅE̶̡̩̭͔͝Ř̴̥̋̇̂͆̑͘Ģ̷̢̮̯̖̈́̏̇̕E̴̮͆̃̐̌̑̈S̴̡̟͈̲̐̀̐͐̐́̚ ̵̝͍͇̯̞͐͛̎̄̈̍W̵̪̲̟̪͔͒̉̈́̒̈́͒͝I̵̡̫̒̔͝T̶̢̞̍Ḩ̸̮̳̳̫̮̙̌̓̈͠ ̷̧̡̫̥̞̬̜̏̐̽̆̅͐̋T̶̢̖̎̄̑̍Ḩ̸̘̪͉̩̍̚̕͜A̶͖̘͋͒͋̀̊̎͘T̸͈̦̉̓ ̷̛̼͑B̴̨͙̹̞͇̱̖̀̌͗̿̕E̴͕̦̓̎̊̓Ļ̶͔͉̝̥̹̖̅Ǫ̸̨͔̲̮̂̀̀̐̈͒ͅW̸̗͈͋̋͒.̴̯̱̮̰̥̅̅̒̈́̅̿ ”
 
-― Yun'Shul to the none worthy
+― Yun'Shul to the non-worthy
 
 Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
@@ -24,7 +24,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 
 -   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't really apply on your first wish.
-    -   If you do have Tarnished, you can remove it at Yamaketzal for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
+    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players start with a wish (and can only hold 1 at a time). A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
     -   Moreover, wish CD is reset sometimes in weekly patches, keep an eye out for 'em.
@@ -49,4 +49,4 @@ If you meet all the criteria, you are able to make one of five wishes:
     -   This trait is also shared with Ya'Alda from Rogue Lineage.
 -   It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of the Eternal Gale.
--   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
+-   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell. Yun'Shul's "what happened to this place" dialogue can be triggered without a resonance through this method, be quick!

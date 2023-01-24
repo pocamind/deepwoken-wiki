@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 49044
+revid: 49054
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -162,7 +162,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Isle of Vigils
 
-**Guide**: Talk to Stratos at the Blade Temple. You must have Galebreathing. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
+**Guide**: Talk to Stratos at the Blade Temple. You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
 
 **Reward/s**: Windwaker
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 48866
+revid: 49061
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Talents
 
-**You can press "Ctrl + F" (Windows)/"Cmd + F"(Mac) to search for talents!**  
+**You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for talents!**  
 This is a browser function, but all mainstream browsers should have it.
 
 ## Overview
