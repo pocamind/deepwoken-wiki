@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 48834
+revid: 49273
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -744,6 +744,21 @@ Chests from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
+|  | 
+
+Phanax Helm
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 | 
 
 File:Royal Guard's Kabuto.png
@@ -781,6 +796,57 @@ Chests from:
 Other sources:
 
 -   [Artifact](Artifacts.md) Turn-ins
+
+ | N/A |
+|  | 
+
+Familiar Knight's Helm
+
+(Hallowtide)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Sources:
+
+-   [Hallowtide (Event)](Hallowtide.md)
+
+ | N/A |
+|  | 
+
+Familiar Priest's Helm
+
+(Hallowtide)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Sources:
+
+-   [Hallowtide (Event)](Hallowtide.md)
+
+ | N/A |
+|  | 
+
+Familiar Heretic's Helm
+
+(Hallowtide)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Sources:
+
+-   [Hallowtide (Event)](Hallowtide.md)
 
  | N/A |
 

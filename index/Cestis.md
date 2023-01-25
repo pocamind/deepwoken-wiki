@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 48618
+revid: 49276
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -91,13 +91,13 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
   <td colspan="12">Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?</td>
 </tr>
 <tr>
-  <td colspan="12">1-5 Assasinations</td>
+  <td colspan="12">4-5 Assasinations</td>
 </tr>
 <tr>
   <td colspan="12">Ah, good work as always. You know what? You might be of more use to us than I thought initally..</td>
 </tr>
 <tr>
-  <td colspan="12">1-10 Assasinations</td>
+  <td colspan="12">6-10 Assasinations</td>
 </tr>
 <tr>
   <td colspan="12">Ahaha.. A natural born killer.. Although you may want to make use of <font>Tacet</font> to sneak up on your foes more easily...</td>
