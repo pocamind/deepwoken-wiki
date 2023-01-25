@@ -1,12 +1,16 @@
 ---
 title: Diver Husk
-revid: 46339
+revid: 49204
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Layer 2]
 ---
 
 # Diver Husk
+
+“ Watch. Your. TONE. ”
+
+― Diver Husk after punting a freshie into the void with Strong Left
 
 Template:EnemyInfobox1.0
 

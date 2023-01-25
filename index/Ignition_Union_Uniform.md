@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 45496
+revid: 49212
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Ignition Union Uniform** is an Adept [Outfit](Outfits.md)
 
 This Outfit has no cost and requires five (5) Cloth and Fiber, three (3) pieces of Irithine and one (1) Lionfish Scale.
 
-This Outfit requires [Power Level](Power.md) 20.
+This Outfit requires [Power Level](Power.md) 6.
 
 ### _Armor Stats_
 

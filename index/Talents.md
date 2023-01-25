@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49170
+revid: 49224
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -275,8 +275,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Eureka \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
     -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Prerequisite: 30 Intelligence
--   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
-    -   Prerequisite: 30 intelligence
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
@@ -483,6 +481,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
     -   Prerequisites: 20 Intelligence
+
+-   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s
+    -   Prerequisites: 30 Intelligence
 
 ### Falling Star Guard
 
@@ -1242,11 +1243,13 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity, +4 Ether)
     -   Increases food satiation by 15%.
-    -   Known Prerequisite: 25 Intelligence
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+    -   Potential Prerequisites: Cook 10 different Recipes, complete atleast one Odiolavoro Quest
 
 -   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%. (+5 Elemental Intensity, +2 Ether)
     -   Increases food boosts by 20%.
-    -   Known Prerequisite: 25 Intelligence
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+    -   Potential Prerequisites: Cook 10 different Recipes, complete atleast one Odiolavoro Quest
 
 ### The Demon Blade
 

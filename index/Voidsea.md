@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 41048
+revid: 49219
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,7 +18,7 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
   
 
-**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Etrean Luminant](Maps.md).
+**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Etrean Luminant](Maps.md) and the [Eastern Luminant](Maps.md).
 
 ## Overview
 

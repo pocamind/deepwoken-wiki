@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 48718
+revid: 49235
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -32,7 +32,7 @@ categories: [Weapons, Shields]
 
 ## Description
 
-The Old World Greatshield is a shield found in [Mechalodaunt](Megalodaunt.md) chests, and [Miners Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and its requirements are 20 fortitude. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the side's by a bar, both the same color of the trim.
+The Old World Greatshield is a large shield found in [Mechalodaunt](Megalodaunt.md) chests, and [Miners Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and its requirements are 20 fortitude. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the side's by a bar, both the same color of the trim.
 
 ## Trivia
 

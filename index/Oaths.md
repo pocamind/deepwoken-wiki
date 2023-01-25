@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49157
+revid: 49209
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -67,9 +67,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ they don't know I'm the best oath by lore.. ”
+“ They don't know I'm the best oath by lore.. ”
 
-― some 55 intelligence oathless etrean
+― Some 55 intelligence oathless etrean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -99,7 +99,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 “ I'm.. illegally blind ? ”
 
-― a power 3 blind flaw Gremor getting blindseer for the first time.
+― A power 3 blind Gremor getting blindseer for the first time.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -234,9 +234,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ monster.. how should I feel.. creatures lie here.. looking through the window.. ”
+“ Monster.. how should I feel.. creatures lie here.. looking through the window.. ”
 
-― the Tiran in question going through the 5th stages of grief doing linkstrider solo progression.
+― The Tiran in question going through the 5th stages of grief doing linkstrider solo progression.
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -286,7 +286,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 ― Jetstriker running from a contractor
 
-**Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain its skills, you must find 5 orbs around the map.
+**Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
 ### Obtainment
 
@@ -332,11 +332,11 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ You... INSIGNIFICANT FUCK! THIS IS NOT OVER! ”
+“ NIHIL, NIHIL, NIHIL!!! ”
 
-― a starkindred absolutely furious with a blue arcwarder
+― a deformed capra starkindred performing an ancient ritual with the god of blood
 
-**Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain its skills, you must kill 3 Greater Angels around the map.
+**Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
 ### Obtainment
 
@@ -395,7 +395,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ― The Arcwarder with a Paths Defender and all possible ways of more posture.
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all its skills, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 
 ### Obtainment
 
@@ -473,9 +473,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 # **Oath: Contractor**
 
-“ would you like to sign my petition? ”
+“ hey kid do you want cool tentacle powers? ”
 
-― the contractor ganymede _asking_ level 10's if it should get buffed
+― Lord Reagent, offering contractor to underage Etrean
 
 ### Obtainment
 

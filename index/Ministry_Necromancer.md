@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 45975
+revid: 49199
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Necromancers, commonly referred as "Shadow NPCS", are NPC's that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
+Ministry Necromancers, commonly referred as "Shadow NPCS", are NPCs that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
 
 Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white. They have 600 HP, making them tankier **AND** more annoying than [Ministry Scouts](Ministry_Scout.md).
 
@@ -47,7 +47,7 @@ Necro-skippers
 ### Boons
 
 -   Third Eye - User cannot be assassinated under any circumstances.
--   Experienced Fighter - Can parry and block common attacks and mantras.
+-   Experienced Fighter - Can parry and block common attacks and mantras. It can also parry trade.
 
 ## Trivia
 
@@ -55,4 +55,4 @@ Necro-skippers
 -   Auto-grip talents are recommended as they can guarantee a kill on the first 3 hits.
 -   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
 -   They are believed to be brainwashed, because when the [scouts](Ministry_Scout.md) have conversations in-between themselves or with a necromancer, they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
--   They have a rare chance of dropping the Night Axe on death.
+-   They have a rare chance of dropping the [Night Axe](Night_Axe.md) on death.
