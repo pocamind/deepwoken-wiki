@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 48882
+revid: 49303
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -290,8 +290,8 @@ File:No Attunement Revamp.png
 
  | _Opponents facing you are briefly rendered immobile._ | 
 
--   **Requirements:** _**20 Willpower, 25 Charisma,** Support Mantra_
-    -   User summons an invisible AoE projectile upon activating,
+-   **Requirements:** _**5 Willpower, 25 Charisma,** Support Mantra_
+    -   User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.
     -   May still combat tag opponents who are not facing you.
     -   This move causes humanoid NPCs to block less.
 

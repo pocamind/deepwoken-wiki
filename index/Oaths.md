@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49209
+revid: 49305
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -467,7 +467,12 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
-    
+
+### Notes
+
+-   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.
+    -   This fact essentially makes this a direct upgrade from oathless.
+        
 
 **Contractor:**
 

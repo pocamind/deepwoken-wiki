@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 49273
+revid: 49291
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, OutdatedPages, Armors]
@@ -450,7 +450,7 @@ Chests from:
 
 Other sources:
 
--   [Artifact](Artifacts.md) Turn-ins
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 | File:Authorityhelm.png | 
@@ -497,7 +497,7 @@ Chests from:
 
 Chests from:
 
--   [Artifact](Artifacts.md) Turn-ins
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 | 
@@ -661,7 +661,7 @@ Chests from:
 
 Other sources:
 
--   [Artifact](Artifacts.md) Turn-ins
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 | File:Guard's Kabuto.png | 
@@ -795,7 +795,7 @@ Chests from:
 
 Other sources:
 
--   [Artifact](Artifacts.md) Turn-ins
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 |  | 
@@ -1409,7 +1409,7 @@ _\+ 3% Atunement Armour, Depending on color_
 
 Chests from:
 
--   Aratel Island Chests
+-   [Aratel Island](Aratel_Island.md)
 
  | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | 

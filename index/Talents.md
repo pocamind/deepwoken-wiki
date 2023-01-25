@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49265
+revid: 49304
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -122,7 +122,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Mutual Exclusive: Fishman
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
-    -   Prerequisite: 25 Agility
+    -   Prerequisite: 25 Agility, 25 Fortitude
 
 ### Amoran Seeker
 
@@ -204,10 +204,10 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Negate movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
--   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity, +5 Ether)
+-   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+5 Sanity)
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
     -   Prerequisites: 30 Fortitude, 30 Willpower
--   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%. (+10 Ether, +3 Health)
+-   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%.
     -   PEN calculation: incoming PEN \* 0.75 = reduced incoming PEN
     -   Prerequisites: 90 Fortitude & **all** common bastion talents
 
@@ -324,7 +324,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
     -   Prerequisites: Reinforce, 40 Shadowcast, 50 Fortitude
--   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
+-   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly.
     -   Prerequisite: Reinforce, 50 Fortitude
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   Prerequisite: Reinforce, 50 Fortitude
@@ -476,7 +476,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
     -   Prerequisites: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
--   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
+-   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+7 Sanity)
     -   Prerequisites: Battle Tendency, 40 Willpower
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
@@ -517,7 +517,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster.
     -   Prerequisites: Drank potion, 15 Fortitude and 15 Willpower
--   To The Finish \[Rare Talent\] - You take 10% less damage when below 30% health. (+3 Health)
+-   To The Finish \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
 
 ### The Emperor's Blade
@@ -1405,8 +1405,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Warrior
 
 -   Chronostasis \[Rare Talent\] - Landing an M1 puts resonance on cooldown for a short duration.
--   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores your Ether. (+5 Ether, +1 Posture)
--   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
+-   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores your Ether. (+1 Posture)
+-   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
 
 ### **Waterborne**
 

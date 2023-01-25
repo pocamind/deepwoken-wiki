@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 48871
+revid: 49383
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -54,7 +54,9 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[PRO\]** Increased EXP Gain in the Depths...
     -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
--   **\[PRO\]** Castle Light necessities (Deepbound exclusive vendors such as Antiquarians) are available to you.
+-   **\[PRO\]** Castle Light necessities are available to you.
+    -   Can sell items at the Antiquarian at Castle Light
+    -   Can cook at the oven (not a campfire) in Castle Light
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.

@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 35609
+revid: 49284
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -8,10 +8,12 @@ categories: [Helmets]
 
 # Barrel Helm
 
+Template:EquipmentStats
+
 ## Description
 
-The Barrel Helm is a accessory under the _Head_ category.
+The Barrel Helm is an accessory under the "_Head"_ category. It is also worn by [Celtor Guards](Celtorian_Guard.md) in the [First Layer](First_Layer.md).
 
 ## Trivia
 
-This Helmet was first introduced in NanoProdigy's "EXCLUSIVE Deepwoken Gameplay: Combat is Amazing" video by hal disii On November 28th 2021.Template:EquipmentStats
+-   The Helmet was first introduced in NanoProdigy's "**EXCLUSIVE Deepwoken Gameplay: Combat is Amazing**" video by hal disii on November 28th 2021.
