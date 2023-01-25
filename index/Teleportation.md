@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 48373
+revid: 49236
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -16,8 +16,6 @@ categories: [Resonance]
 “ Travel across huge distances. ”
 
 ― Teleportation description
-
-  
 
 ## Description
 
@@ -35,7 +33,7 @@ Pressing "C" will activate the **Teleportation** Resonance.
 
 Using the resonance first places a marker. This marker is only visible to the user, is visible throught walls and at any distance. It will remain here until used, including when changing servers.
 
-Within a recent update, if you place down a marker on a specific place (Etris, etc..) that said marker will now have a name.
+If you place down a marker in a specific place (Etris, etc..) that said marker will now have a name.
 
 Using the resonance while aiming at a marker starts the teleportation sequence, creating a ring around the user. After charging up (charge speed depends on distance (further = longer to charge) and Resonance Points), everyone inside the ring is transported to the location of the mark.
 

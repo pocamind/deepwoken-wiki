@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 41968
+revid: 49261
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -55,7 +55,7 @@ Little is known about their culture and beliefs, but they are known to punish th
 
   
 
-+2 points in every attribute (except Charisma) +5 Points at character creation (untested, needs some proof)
++2 points in every attribute (except Charisma) +5 Points when in character creation and has 333 stats points at level 20
 
 Easier to play the game, because obviously you've played it too much.
 

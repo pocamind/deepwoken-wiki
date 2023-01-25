@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 48408
+revid: 49237
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -35,14 +35,8 @@ This Outfit's Schematic can be found in:
 -   Chests obtained by [fishing](Fishing.md)
 -   Chests from [Rogue Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs#Rogue_Construct_)
 
-## Trivia/Notes
+## Trivia
 
--   Worn by the [Ministry Necromancer](Ministry_Necromancer.md)
-
--   ~Has the highest Ether regen buff in the game currently.~ Outdated highest Ether regen goes to Justicar which has 100% ether regen
-
--   ~The only armour in the game that adds a collar to your head.~ Not true, Verdant Sniper also adds a green collar.
-
+-   Worn by all [Ministry](Ministry_Necromancer.md) [NPCs](Ministry_Scout.md).
 -   Shirt ID: [https://www.roblox.com/catalog/5049282750/Dark-Mage](https://www.roblox.com/catalog/5049282750/Dark-Mage)
-
 -   Pants ID: [https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants](https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants)

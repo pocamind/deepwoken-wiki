@@ -1,18 +1,12 @@
 ---
 title: Blade Instructor
-revid: 48565
+revid: 49250
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Blade Instructor
-
-“ You're good, but not good enough. Again. ”
-
-― An Etrean blade instructor
-
-  
 
 ## Description
 
@@ -48,8 +42,9 @@ If a Instructor is the one that downs the player they will disappear and the pla
 
 ## Tips
 
--   It's an instructor, he's meant for practicing skill.
+-   It's an instructor, he's meant for practicing skill. Very good for low level practice against NPC's (not players).
 -   Same skill level as a non dagger bandit leader.
+-   WILL grip you if you are knocked.
 
 ## Trivia
 

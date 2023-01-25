@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 48704
+revid: 49238
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
@@ -47,4 +47,4 @@ Airborne Critical
 -   This weapon was modelled by oNoodlez
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
 -   This weapon can only be used one-handed
--   The criticals are probably based off of Flame Breathing from Demon Slayer
+-   The criticals are probably based on Flame Breathing from Demon Slayer

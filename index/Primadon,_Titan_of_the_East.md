@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 48240
+revid: 49251
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters]
@@ -72,7 +72,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
     -   Staying still may also avoid confusion from Primadon's walking animation.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
-    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) talent or lived the fall.
+    -   If you were catapulted out into the ocean, there is a chance that a [Lionfish](Lionfish.md) will spawn in to kill you even if you have the [Scuba Drowner](Talents.md#waterborne) talent or survived the fall.
 -   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
     -   Debuffs from Mantras do affect Primadon.
 -   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
@@ -85,6 +85,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
 -   An easy way to cheese the fight is by placing an Undying Flames [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
+-   As Cannons use blunt damage, you can actually broadside the Primadon to death.
 
 #### Move-set
 
@@ -100,5 +101,6 @@ Automatically used after the first posture stun or when dropping below 50% healt
 -   In the game files, it is called "MonkyWorldBoss."
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
+-   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 
 1.  [↑](#cite-ref-1) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage
