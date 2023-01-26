@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 48152
+revid: 49513
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -70,35 +70,42 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
 
 ## Survival Basics
 
-These are stats that are required to maintain, in order to survive in the world of Deepwoken. The most common way for any of these to get depleted is by simply waiting, but the process can be sped up, usually from the environment the player is in, creatures, or other players.
+These are stats that are you required to maintain in order to survive in the world of Deepwoken. These stats will gradually deplete but the depletion can be sped up by varying environments, creatures, or other players.
 
--   For example, in order to survive, the player will need to eat food to replenish their Stomach, and drink Water to replenish thirst.
-
-If every bar reaches zero, the player will start to quickly lose health.
+-   In order to survive, the player will need to eat food to replenish their Stomach and drink water to replenish their Water.
+-   Once every bar reaches zero, the player will begin to quickly lose health.
+-   These stats can be found at the bottom-left of your screen, in the main game.
+    
 
 <table>
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>A visual representation of how much Blood that is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, the following happens:
+  <td>A visual representation of how much Blood is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, the following happens:
   <ul>
     <li>The player will always be combat tagged.</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
     <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
-  </ul><p>Maximum blood increase with power, gaining roughly 10% more blood for each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20 (compared to the default amount)</p></td>
+  </ul><p>Maximum blood increases with power, gaining ~10% more blood each power. Thus, the maximum amount of blood is doubled at power 10 and tripled at power 20 (compared to the starting amount)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>A visual representation of how much Water is currently in the player's body. Water isn't too vital for survival and will deplete over time. If you reach 0 water, your screen gets blurry, and you will start to move slower. Lose 50% of bar upon vomiting.<p>Drains slightly faster when hurt.</p>
-  <p>Drain faster if hurt and sitting at a campfire.</p></td>
+  <td>A visual representation of how much Water is currently in the player's body. Water isn't too vital for survival and will deplete over time. You will lose 50% of bar upon vomiting. Upon reaching zero Water, the following happens:
+  <ul>
+    <li>The player's screen will become blurry.</li>
+    <li>The player will start to move slower.</li>
+  </ul><p>Your Water will drain slightly faster when healing at a campfire.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you will lose blood and your max health will be reduced. Lose 50% of bar upon vomitting.<p>Drains slightly faster when hurt.</p>
-  <p>Drain faster if hurt and sitting at a campfire.</p>
-  <p>If the food bar is empty, you gradually lose health overtime. Attempting to swim while starving and with less than 50% HP will immediatly knock the player, resulting in drowning if not assisted.</p></td>
+  <td>A visual representation of how much food is currently in the player's body; essentially your hunger bar. You will lose 50% of bar upon vomiting. Upon reaching zero Stomach, the following happens:
+  <ul>
+    <li>The player will gradually lose health and blood.</li>
+    <li>The player's max health will be reduced</li>
+    <li>Attempting to swim while starving and with less than 50% HP will immediately knock the player, resulting in drowning if not assisted.</li>
+  </ul><p>Your Stomach will drain slightly faster when healing at a campfire.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

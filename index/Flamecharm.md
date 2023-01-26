@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 48552
+revid: 49544
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -248,7 +248,7 @@ _Strike the ground, turning it to ash._
  | User strikes twice in front of the user, creating a fiery blast each time.
 
 -   Requires 30 Strength and 50 Flamecharm.
--   Deals high posture damage.
+-   Deals moderate damage.
 -   Inflicts Burn.
 
  |
@@ -559,7 +559,7 @@ Last Laugh
 
  | 
 
- ???
+Using Flame Within, set your self on fire after being knocked down. This card is typically paired with Phoenix Flames.
 
  |
 | 

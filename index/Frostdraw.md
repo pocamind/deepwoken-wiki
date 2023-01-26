@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 48345
+revid: 49549
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -101,6 +101,7 @@ _Revolving blades of ice._
 
 -   Deals light damage.
 -   Hits multiple times in a row.
+-   Incredibly good with crystallization.
 
  |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | 
@@ -195,7 +196,7 @@ _A flurry of ice spikes._
 
  | Forms a path of ice spikes in front of user.
 
--   Deals moderate damage.
+-   Deals no damage
 -   Inflicts Chill.
 -   Freezes opponent allowing for a free hit or combo. (Cant vent,block,parry,dodge while frozen in ice eruption)
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
@@ -216,6 +217,7 @@ _A colossal mace of ice._
 -   Deals heavy damage and low knockback.
 -   Inflicts Chill.
 -   Is capable of breaking parts of the map.
+-   Block break
 
  |
 |  | 
@@ -284,6 +286,7 @@ _Impale your foes with a brutal crystal smash._
 
 -   Deals light damage.
 -   Inflicts Chill.
+-   The last hit makes a knockdown.
 
  |
 |  | 
@@ -833,6 +836,8 @@ Shatter Spear
  | 
 
 Your ice spear now lodges into human opponents and explodes.
+
+(rare talant)
 
  | 
 

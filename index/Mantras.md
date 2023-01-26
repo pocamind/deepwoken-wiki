@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 49402
+revid: 49494
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -80,6 +80,7 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 -   Typically used mid/long range.
 -   Great pressure.
 -   A lot of fight control and escape mantras.
+-   Most thundercall mantras work with blast spark
 
 ### [Frostdraw Mantras](Frostdraw.md)
 

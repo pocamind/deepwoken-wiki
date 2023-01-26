@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 49424
+revid: 49472
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,7 +41,9 @@ It can also be used to obtain the [Visionshaper](Oaths.md) oath.
 
 * * *
 
-The Void feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md) and always drops from its corrupted counterpart.
+The Void feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md).
+
+It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 
 ## **Uses**
 

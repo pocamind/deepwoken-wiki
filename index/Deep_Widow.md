@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 47586
+revid: 49481
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -70,3 +70,14 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
 -   The bite's venom will bypass every resistance in the game, even [Run It Back](Run_It_Back.md)'s invincibility.
 -   You can cheese the Widow by going atop a ledge in the cave, she will be unable to damage you and your Light Attacks will connect.
 -   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
+
+## **Item Pool**
+
+The Item Pool goes as follows
+
+-   Light Weapons:
+    -   Legion cestus, Inquisitor's thorn, Apprentice rapier, Gilded knife, Whaling knife, and Flamekeeper cestus.
+-   Medium Weapon:
+    -   Trident spear, Serpent's edge, Rifle spear, Vigil longsword, Falchion, Scimitar, Worshipper longsword, Gremorian longspear, Cavalry saber, Shattered katana, and Katana.
+-   Heavy Weapons:
+    -   Halberd, Pale morning, Forge greathammer, Canorian axe, Adretian axe, and Darkalloy greatsword.

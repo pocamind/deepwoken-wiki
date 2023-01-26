@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 49101
+revid: 49493
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -312,3 +312,4 @@ A Megalodaunt swimming.
 -   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
 -   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
+-   There was a special "Event" of sort with these monsters, Dupped the "Sharko Rumbing, Autumn of 1273." Due to a new item being adding to spawn sharko with a chance, Players spammed it all over the land. Causing sharkos to raid and murder players alike. since then they fixed it, but it was a hell of a way to die.

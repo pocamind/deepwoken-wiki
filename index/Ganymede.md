@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 46845
+revid: 49488
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -61,6 +61,8 @@ This fits with our current understanding of the lore and would explain why they 
 -   Reduced insanity  
     
 -   Free drip on spawn  
+    
+-   You can make more deep deals than other races without having to beat Ethiron for Medallions and Knowledge  
     
 
 **Surnames:**

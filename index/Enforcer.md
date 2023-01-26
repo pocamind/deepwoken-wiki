@@ -1,14 +1,12 @@
 ---
 title: Enforcer
-revid: 49441
+revid: 49502
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Enforcer
-
-> "Can I assassinate it?...AAAAAAAAAAAAA"-Jonathan Talo before dying to an axe enforcer
 
 “ The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 
@@ -79,10 +77,11 @@ If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial 
 
 ### Rewards
 
--   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
+-   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Cost 75 Heavy to use
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy Weapons Training and 25 Strength.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
+-   **Enforcer's Eye:** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the deepwoken equivalent of a jedi force pull.
 -   **Confidence about being able to escape The Depths in the future:** :)
 
 ## Lore
@@ -122,8 +121,7 @@ Enforcer Eye (drop)
 -   During the weekly update for 21/11/2022, the enforcer could temporarily spawn corrupted. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many.
 -   The Modifier that allow all Depths Trials to be corrupted applies to the Enforcer.
 -   The Whirlwind ability implied that its flexibility and/or bisection of limbs comes from that of it's weapon, as the Enforcer's Axe critical ability allows said wielder to spin aswell.
-
-  
+-   With the Enforcer's Eye, You are able to gain the Space Pull and use it in combat. This is a Layer 2 feature however so read up on that.
 
 1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)
