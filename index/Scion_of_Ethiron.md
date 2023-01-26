@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 49060
+revid: 49442
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -32,11 +32,11 @@ Upon defeat, 5 chests containing **[Krysan Medallions](https://deepwoken.fandom.
 | --- | --- | --- | --- | --- | --- |
 | Blinding Gale | The Scion of Ethiron charges up his left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | ◯ | X | ◯ | (★☆☆) |
 | Bone Throw | The Scion of Ethiron launches three bones at you. These do avery low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time he uses it unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | ◯ | ◯ | ? | (★☆☆) |
-| Vehemens Ventus | The Scion of Ethiron will hold it's hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the layer you're on. If you're solo you won't have enough time to cancel it. Bypasses [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. | ◯ | ◯ | ◯ | (★★★★) |
+| Vehemens Ventus | The Scion of Ethiron will hold it's hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | ◯ | ◯ | ◯ | (★★★★) |
 | Pressurised Wind | The Scion of Ethiron charges up it's arm and quickly releases a purple laser. This will lock onto you and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | ◯ | ◯ | ◯ | (★★☆) |
-| Blunt Force | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
-| Bone Grow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | X | X | ◯ | (★☆☆) |
-| Bone Ocean | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
+| Whiplash | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
+| Bonegrow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | X | X | ◯ | (★☆☆) |
+| Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
 To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.
 
  | X | X | ◯ | (★★★) |

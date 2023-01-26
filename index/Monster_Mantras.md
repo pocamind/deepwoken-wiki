@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 48248
+revid: 49436
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -41,7 +41,7 @@ Coral Spear
 
 (★★☆)
 
- |  | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. | Combat Mantra |
+ | ... | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. | Combat Mantra |
 |  | 
 
 Dread Breath

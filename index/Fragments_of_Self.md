@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 49048
+revid: 49443
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death]
@@ -126,3 +126,4 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   There is currently no known way to die in Fragments of Self, as fall damage is disabled and so is any form (Potions?) of PVP damage, starving also only drains the player's health down to 50%, it is unclear if bleeding out is possible, boulder does not execute you here, and dying here would most definitely be a bug and would respawn you in Fragments of Self again.
 -   Owls can seemingly spawn up here, but can't actually damage you.
 -   You can cut down the trees here.
+-   Fragments Of Self is virtually located above The Depths which could potentially but unlikely be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.

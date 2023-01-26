@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 49238
+revid: 49437
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
@@ -27,9 +27,9 @@ categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
 
 ## Description
 
-The Railblade is a heavy weapon obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest, and is a legendary weapon. The Railblade requires 80\* HVY and PWR 10 to equip.
+The Railblade is a heavy weapon obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and it is a legendary weapon. The Railblade requires 80 HVY and PWR 10 to equip.
 
-The Railblade is unique because of its two different critical attacks, along with the critical applying flame. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash infused with flame as well.
+The Railblade is unique because of its two different critical attacks, along with the critical inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
 
 ## Critical Animations
 
@@ -39,9 +39,8 @@ Airborne Critical
 
 ## Notes
 
--   This weapon deals 40,25 damage at 100 Heavy
+-   This weapon deals 40.25 damage at 100 Heavy
 -   It is the first known weapon to have 2 different critical attacks.
-    -   A grounded critical and an aerial critical both apply flame to opponents hit.
 -   The description suggests that equipping the weapon reduces the rate at which snow accumulates on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by oNoodlez
