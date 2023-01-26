@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49304
+revid: 49394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -955,7 +955,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
-    -   Prerequisite: Murmur: Rhythm
+    -   Prerequisite: Murmur: Rhythm, 50 Willpower
 
 ### Natural Armor
 

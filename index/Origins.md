@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 49383
+revid: 49426
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -58,6 +58,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Can sell items at the Antiquarian at Castle Light
     -   Can cook at the oven (not a campfire) in Castle Light
 -   **\[PRO\]** You regain sanity in Castle Light.
+-   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
 -   **\[CON\]** You cannot do the Trial of One.  

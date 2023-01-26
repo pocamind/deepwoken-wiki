@@ -1,11 +1,8 @@
 ---
 title: Outfits
-revid: 47891
+revid: 49407
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Outfits
@@ -16,7 +13,7 @@ Armor can refer to either [Armor](Equipment.md) or Outfits (this page).
 
 ## Overview
 
-Armor can refer to either Outfits (this page) or [Armor](Equipment.md).
+Armor can refer to either Outfits (this page) or [Armor](https://deepwoken.fandom.com/wiki/Armor).
 
 ### **[Outfits](Outfits.md#outfit-list)**
 

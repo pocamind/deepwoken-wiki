@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 48714
+revid: 49402
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -89,6 +89,9 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Effects change be through upgrading Frostdraw for the "Crystalization" Talent. Crystallization comes with a whole new variety of Mantras.
 -   Typically used close/mid range.
 -   Has a best mobility mantra "Ice Skate" because of its legendary modifier.
+-   Works with most Spike Modifiers.
+-   Has small cooldowns.
+-   at Lvl 40 you get Crystalization that is part of Frostdraw mantra.
 
 ### Galebreath Mantras
 

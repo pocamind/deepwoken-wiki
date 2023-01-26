@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 48746
+revid: 49427
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -80,6 +80,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
 -   _I speak to the Depths. **(Murmur)**_
+-   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
 ### Weaponry
@@ -98,11 +99,11 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I often attack others. **(Marauder)**_
 -   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper)**_
 -   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
--   _I will not fall to the elements. **(Uknown, is not RTTDA)**_
+-   _I will not fall to the elements. **(Unknown, is not RTTDA.)**_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
--   _I dominate the minds of others._ _**(could be Shared Misery?)**_
+-   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
 -   _Uh... **(Miscellaneous)**_
 
 # **Attunements**

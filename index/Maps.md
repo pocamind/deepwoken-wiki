@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 49154
+revid: 49408
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -140,7 +140,7 @@ map of eastern luminant
 
 An interactive map of The Eternal Gale's first floor can be found here
 
-An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
+An outdated interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_. By:Maddoxtheduck
 
 ## Trivia/Notes
 

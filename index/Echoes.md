@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 49183
+revid: 49404
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -35,7 +35,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a Fishing Rod)
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
--   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding \[UNKNOWN AMOUNT\] Echoes.
+-   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
 -   Crafting a [Master Armor](Outfits.md), awarding \[UNKNOWN AMOUNT\] Echoes.
 -   Using a Deep Shrine, awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
@@ -48,7 +48,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Completing [Layer 2](Second_Layer.md) without Light Hook, awarding \[UNKNOWN AMOUNT\] Echoes.
+-   Completing [Layer 2](Second_Layer.md) without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
