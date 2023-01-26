@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49435
+revid: 49469
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -277,6 +277,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Please don't aim for this because of how hard it is to get I assure you it won't be of help.
 -   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
+-   You can, for some dumb reason, use one of your OWN OATH SLOTS to be killed for your own linkstriker as it doesnt stop you. For example you can ask a friend to knock and sack your Blindseer slot, and then switch to your Pathfinder slot like nothing happened. (Don't know why you would DO that but go for it)(Also was not tested if the "No 2 of the same account's slot" rules affects this)
 
 **Jetstriker:**
 
@@ -323,6 +324,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Rush of Ancients - Passive**
     -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
         -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
+
+### **Notes**
+
+-   This is one of the easier, if not easiest Oath to get in Deepwoken, Its talents aren't Half-bad either so its best to get this if your not planning on anything else
+-   If you have the talent "Tap-Dancer" You can cancel the Rush of Ancients passive and use it over and over as you would normal dashing
+-   The Knockdown for Vigil's Grace doesn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
 
 ### Effects
 
@@ -471,8 +478,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Notes
 
 -   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
-    -   This fact essentially makes this a direct upgrade from oathless.
-        
+    -   This fact essentially makes this a direct upgrade from Oathless.
+-   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2, you have to be semi-skilled at PvE to unlock it. If you lack said skill please head over to Jetstriker like the rest of us.
+    
 
 **Contractor:**
 

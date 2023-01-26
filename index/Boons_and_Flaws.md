@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 47895
+revid: 49465
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -45,7 +45,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
+| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FRD. | 1 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a very small amount of hunger when gripping NPCs or other players. | 1 |
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
