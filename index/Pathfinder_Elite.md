@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 47436
+revid: 49666
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Arms]
@@ -8,7 +8,7 @@ categories: [Armors, Equipment, Arms]
 
 # Pathfinder Elite
 
-| Elite Pathfinder | |
+| Pathfinder Elite | |
 |---|---|
 | type | Arms |
 | rarity | Legendary |
@@ -21,7 +21,7 @@ categories: [Armors, Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Nautilodaunt drop |
+| obtainment | Drop from Nautilodaunt (Very Rare) |
 | description | '"Lorem ipsum."' |
 
 ## Description

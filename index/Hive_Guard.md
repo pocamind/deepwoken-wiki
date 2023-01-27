@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 48037
+revid: 49637
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Hive Guards are NPCs that can appear in 2 variants. The first being a regular guard that can only be found outside and around the [Greathive Aratel](Greathive_Aratel.md); these ones wear a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) outfit. The second variant can only be found in the following events:
 
--   Hive Guards vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Guards (**Soldiers**) vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
 
 The second variant wears a [Hive Drone](Hive_Drone.md) outfit instead of a **Grandmaster Pathfinder Cloak** outfit along with their lack of any attunement. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
 
@@ -47,7 +47,7 @@ Flame Assault
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 
-### **Soldier Variant-400 HP**
+### **Soldier Variant**
 
 A Hive Guard's (**Soldier**) arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md) or [Silver Dagger](Silver_Dagger.md):
 
@@ -100,4 +100,4 @@ A Hive Guard (**Soldier**) executes it's opponent after knocking them:
 
 ## Trivia
 
--   This NPC should be avoided since it has an extremely high HP Pool, higher than most humanoid NPCs.
+-   The **Guard Variant** should be avoided since it has an extremely high HP Pool, higher than most humanoid NPCs.

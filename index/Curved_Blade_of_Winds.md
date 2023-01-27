@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 49024
+revid: 49651
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -36,12 +36,9 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 
 ## Trivia
 
--   This weapon deals 34.1 damage with 100 MED and 100 WND
-    -   35.805 damage with the After Cut effect included.
-    -   ~46.97~ (this is wrong, probably like 38.7695, it would be around 46.97 with inhale, overflowing dam, and tough love) damage if it's a 3 star 6% damage and after cut effect included.
--   2nd highest damaging medium weapon,(What about Razor Cutlass?) after Divine Longsword from the [Crazy Slots](Crazy_Slots.md) [Resonance](Resonance.md).
+-   This weapon deals 33.25 damage with 100 MED and 100 WND
+    -   34.9125 damage with the After Cut effect included.
 -   The sword is similar to a Chinese Dadao sword.
--   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
-    -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare.
+-   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or Voided.
 -   When using the weapon one-handed it becomes 2 swords.
--   Ironically, it can become one of the worst weapons in game, as the base sword damage is also affected by elemental resistances, making you deal reduced damage to mobs such as [Primadon](Primadon,_Titan_of_the_East.md) as well as people who are using "Return to the Dark Ages" or Galebreathe-resistant armors.
+-   Due to the multitude of nerfs, with a 100/100 build, it only does 34.9125 with it's base aftercut included, while a Forgotten Gladius does 33.66 while being Enchantable, making it a mediocre choice of weapon due to requiring 100 more points to be completely unenchantable, if the Gale user has a 100/80 build, they will do about the same amount as a gladius with only 2% more pen.

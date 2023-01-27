@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 49056
+revid: 49669
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,13 +16,13 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant.
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the Etrean Luminant and [Eastern Luminant](Luminants.md).
 
 ## Overview
 
-The Hall of Shattered Wills is an office workspace filled with cubicles. It is inaccessible to non-moderators.
+The Hall of Shattered Wills is an office workspace filled with cubicles and also posses a large room to fight in. This location is inaccessible to non-moderators.
 
-It has no known function and is purely there for appearance.
+It has no practical functions and merely acts as a safe place for moderators to work undisturbed.
 
 ## Contents
 
@@ -36,4 +36,5 @@ Image of the Yum-Yum Machine.
 
 ## Trivia/Notes
 
--   The room is located at the coordinates X 40000, Y 40000, Z 40000
+-   The room is located at the coordinates X 40000, Y 40000, Z 40000.
+-   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to subtain oneself with just YUM YUM BAR. Mods often accidently starve to death while performing moderation work.

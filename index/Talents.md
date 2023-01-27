@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49612
+revid: 49673
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -17,7 +17,7 @@ This is a browser function, but all mainstream browsers should have it.
 
 **[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two hands containing five to six Talent Cards.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold ~or Legendary Echoes.~ Legendary Echoes have been removed.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as ~Fold~ ~or Legendary Echoes.~ Legendary Echoes have been removed along with Fold.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -1387,8 +1387,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical makes you unable to jump for a duration. Also slows you. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Prerequisites: 20 Strength, 20 Agility
--   Speed Demon \[Rare Talent\] - Your attacks now inflict bleed. (+1 Passive Agility)
-    -   "Bleed" increases blood loss.
+-   Speed Demon \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
+    -   "Bleed" gives a 30% damage bonus that pierces damage cap.
     -   Prerequisite: 25 Agility
 
 ### Visionshaper
