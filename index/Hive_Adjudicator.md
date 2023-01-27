@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 40815
+revid: 49733
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Hive Adjudicator** is a Master [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires five (5) Cloth and Fiber and one (1) Rock.
 
-This Outfit requires [Power Level](Talents.md) 45.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 

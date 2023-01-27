@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 49208
+revid: 49696
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map, The Depths, Layer 2]
@@ -40,7 +40,7 @@ New Kyrsa is a beautiful and huge place with tons of buildings and Canticlysm te
 
 ## Trivia
 
--   Before New Kyrsa sunk deep into The Depths, it was a massive golden age (or Canticlysm) city built by other people, with it's own railways and brand new technologies, such as teleports, mechanic doors, artillery, or even trains. After New Kyrsa sunk, most people died, and city got inahbited by Kyrsgardes. Now it's under control of Scion of Ethiron, due to failed sealing ritual, called "The Ninefold Blessings of Marrow". New Kyrsa became "bedchamber" and "shrine" to Scion of Ethiron, "puppet" of Ethiron, the Eye of Calamity
+-   Contray to popular belief, New Krysa didnt fall into the depths. It was actually made inside the depths by the kyrsgarde, some proof is the fact the things in there do not match our human standards at all, not to mention the fact the Krysan outcast talks about it. Firfire also has the same technology and the fact entering firfire makes you quote "seem familiar but very alien". New Krysa was made over Ethiron's bedchamber funnily enough.
 -   You do not have to escape floor 2 via defeating the Scion of Ethiron in order to keep your quest progress. Talking to Carrion will still make him appear in castle light even if you lighthook up or die within lighthook's time frame. (Confirmed)
 -   The hostile NPCs worshipping the fifth Obelisk are actually Black Divers who have been corrupted by the mist present on floor 2.
 -   The Krysgarde artillery on the outskirts of the city can be avoided by standing under cover. The spears do not go through objects.

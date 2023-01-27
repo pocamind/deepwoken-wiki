@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 49672
+revid: 49692
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -283,6 +283,6 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 ## Notes
 
 -   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
--   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high ~rep~ charisma
+-   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high charisma
 -   Press G while crouched to **listen**. Your screen will turn a grey color, and you'll be able to hear clearly for the duration you're crouched. While that you cannot have active/activate Murmur Ardour and Tacet (not sure about this one)
 -   Blocking and Parrying shares the same hotkey (F), and will prioritize parrying first then blocking the 2nd.

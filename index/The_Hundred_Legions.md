@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 49428
+revid: 49686
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -25,6 +25,7 @@ A superpower native to the Western Luminant, the Hundred Legions are a powerful 
 
 ## Reputation
 
+-   Enemies with [The Hive](The_Hive.md)
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
 

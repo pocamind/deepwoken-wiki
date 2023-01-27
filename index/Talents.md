@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49673
+revid: 49698
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -182,9 +182,9 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: Power 10, 65 Thundercall
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, but will deal 10% less damage to you.
+    -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
+    -   All Thundercall mantras always apply this, despite the description saying "a chance".
     -   Prerequisites: Power 15, 65 Thundercall
--   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
--   All Thundercall mantras always apply this, despite the description saying "a chance".
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
     -   Prerequisites: Power 15, 65 Thundercall
 -   Second Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
@@ -247,6 +247,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
+    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
     -   Prerequisites: 40 Agility, Evasive Expert, Risky Moves, Swift Rebound
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
@@ -339,6 +340,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
     -   Prerequisite: 25 Light Weapon Mastery
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
+    -   While the effect is active, gain a red trail on your weapon.
     -   Prerequisite: Knife's Journey
 -   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
     -   Prerequisite: Knife's Journey
@@ -349,13 +351,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryomancer
 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
+    -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 20 Frostdraw
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
     -   Significantly reduces thirst drain.
     -   Prerequisites: 20 Intelligence and 15 Frostdraw
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity, +2 Health)
     -   If you were to catch fire while on ice, gain total immunity to the burning status effect.
-        -   While the effect is active, the user breathes cold air.
+    -   While the effect is active, the user breathes cold air.
     -   Prerequisite: 30 Frostdraw
 
 ### Cryoni
@@ -371,9 +374,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cutthroat
 
 -   Assassin \[Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
+    -   The damage increase granted from this talent is significantly high, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
 -   Blood Thirsty \[Common Talent, Light\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
 -   Hidden Blade \[Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
 -   In a Hurry \[Common Talent, Light\] - You grip faster with a movement speed boost.
+    -   Speed boost from parkouring do not count. It must be an actual speed boost.
 -   Deep Wound \[Common Talent\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
 
 ### Cloudwalker
@@ -389,13 +394,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 50 Shadowcast, Dark Hours
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
-    -   Shadowcast mantras deal 20% more damage at night.
+    -   Shadowcast mantras deal 20% more damage at night (XX:50-XX:10).
 -   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves. (+3 Elemental Intensity, +3 Health)
+    -   If you steal more ether than you can fit in your ether bar, convert it into tempo.
     -   Prerequisites: 40 Shadowcast, Dark God
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
     -   Prerequisite: Shadow Eruption
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity, +1 Health)
+    -   Deal damage around you whenever you steal ether.
 
 ### Dawnwalker
 
@@ -413,7 +420,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
     -   Prerequisite: Power 2.
--   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air. (Better Ether regeneration)
+-   Depths Connection \[Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
+    -   Increase your ether regen.
     -   Prerequisite: Escape from The Depths once.
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
@@ -441,9 +449,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
     -   Prerequisites: 25 Strength, 15 Agility
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
+    -   Reduce posture damage taken by 10% while two handing.
     -   Prerequisites: 30 Strength, 30 Medium Weapon
 -   Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
-    -   Your Roll does not go on cooldown when cancelled; Does not proc on the subsequent roll cancel.
+    -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
     -   Prerequisite: 60 Agility
 -   Strong Stern \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
     -   Prerequisites: 20 Strength, 25 Fortitude
@@ -462,7 +471,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Empath
 
 -   Give and Take \[Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
-    -   Guildmates take less damage from you and deal less damage to you.
+    -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
 
 ### Escape Artist
@@ -476,6 +485,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
     -   Prerequisites: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
+    -   Gain Ether when you parry mantras.
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+7 Sanity)
     -   Prerequisites: Battle Tendency, 40 Willpower
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
@@ -853,7 +863,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
     -   Prerequisites: 20 Agility, 40 Galebreathe
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
-    -   Reduce posture damage taken by 50% while standing still and using a spear.
+    -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
+    -   Stacks with shield.
     -   Prerequisites: 15 Fortitude, Using a spear
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Prerequisites: 50 Galebreathe, Gale Leap

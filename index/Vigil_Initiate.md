@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 44965
+revid: 49721
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

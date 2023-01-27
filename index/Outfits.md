@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 49446
+revid: 49762
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,7 +44,7 @@ _Deepwoken_ currently has 16 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 9 Expert Outfits that have been discovered.
+_Deepwoken_ currently has 10 Expert Outfits that have been discovered.
 
 ### Master
 
@@ -54,15 +54,9 @@ _Deepwoken_ currently has 8 Master Outfits that have been discovered.
 
 _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
-  
-
-### **Spec/Mod**
-
-_Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
-
 ### **Unconfirmed/Speculated**
 
-_Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen on NPCs throughout the game.
+_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on NPCs throughout the game.
 
   
 
