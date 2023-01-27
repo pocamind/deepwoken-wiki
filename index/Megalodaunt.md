@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 49493
+revid: 49595
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -25,7 +25,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_ and _[The Depths](The_Depths.md)_. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
+The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
 
 There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 talents, Engage at level 3 and Critical Attack at level 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
 
@@ -282,7 +282,7 @@ Laser Explosion
 
 Roar
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
+ | Lets out a **Roar** at nearby targets, (sounds like kaikai getting beat) initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 49472
+revid: 49587
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -50,3 +50,7 @@ It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 * * *
 
 The Void Feather can be given to [Surge](Surge.md) to obtain moves of the [Visionshaper](Oaths.md) oath.
+
+  
+
+It can also be used to change it into Dark Feathers via crafting ( 1 Void Feather in crafting = 3 Dark Feather)

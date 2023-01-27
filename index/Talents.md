@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49520
+revid: 49590
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -17,7 +17,7 @@ This is a browser function, but all mainstream browsers should have it.
 
 **[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two hands containing five to six Talent Cards.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. ~Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold or Legendary Echoes.~ Fold and Legendary Echoes have been removed.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold ~or Legendary Echoes.~ Legendary Echoes have been removed.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 

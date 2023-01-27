@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 48993
+revid: 49573
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -29,6 +29,8 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 -   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
 -   Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.
 
+  
+
 ## Humanoid Monsters
 
 ### Humanoid Monsters
@@ -36,8 +38,6 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
 
 **Exclusive to Trial of One**
-
-  
 
   
 
@@ -89,8 +89,6 @@ While each Monster has unique attacks and patterns, they all share one thing; Yo
 
 **Duke's Manor:**
 
-  
-
 ## Monster Hunting Advice
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
@@ -124,8 +122,6 @@ Example: If you were to fight a a Stone Knight with 9000 health and 55% resistan
 D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 ) \= 274.12 {\\displaystyle DamagePerM1 = (3(20 + 3.33)) \\times (40 \\times (\\tfrac{10}{100} + 1) \\times 0.089) = 274.12} {\\displaystyle DamagePerM1=(3(20+3.33))\\times (40\\times ({\\tfrac {10}{100}}+1)\\times 0.089)=274.12} H i t s \= 9000 ( 100   −   55 100 )   ×   274.12 \= 73 ( 72.9607471181 ) {\\displaystyle Hits = \\tfrac{9000}{(\\tfrac{100 ~ - ~ 55}{100}) ~ \\times ~ 274.12} = 73 (72.9607471181)} {\\displaystyle Hits={\\tfrac {9000}{({\\tfrac {100~-~55}{100}})~\\times ~274.12}}=73(72.9607471181)}
 
 (The PVE scaling calculator is currently unavailable.)
-
-  
 
 ## Trivia
 

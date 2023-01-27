@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 41515
+revid: 49581
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -20,3 +20,4 @@ Evengarde is respectful towards those who save his Vigils and even feels in thei
 -   Presumably a [Galebreather](Galebreathe.md), given that the other Vigils are. There is also a Galebreathe talent named "Maestro's Blade", which allows the user to enhance their weapon by inhaling their mantras.
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel), these are only mentioned during his training and are not shown in-game.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
+-   (Ragoozer) Maestro Evengarde Rest is as strong as Amorous Pleeksty under certain conditions.

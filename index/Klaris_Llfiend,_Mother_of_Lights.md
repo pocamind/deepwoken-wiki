@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 49418
+revid: 49588
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Overview
 
-Klaris is an NPC that provides you with the [Dawnwalker](Oaths.md#oath-dawnwalker) Oath, as well as giving you a Light Hook. She will also provide a [Deepshore Fossil](Deepshore_Fossil.md), if you manage to find all the Diver Journals scattered throughout Floor 1 of the the [Second Layer](Second_Layer.md).
+Klaris is an NPC that provides you with the [Dawnwalker](Oaths.md#oath-dawnwalker) Oath, as well as giving you a Light Hook. She will also provide a [Deepshore Fossil](Deepshore_Fossil.md), if you manage to find all the Diver Journals scattered throughout Floor 1 of the [Second Layer](Second_Layer.md).
 
 She is the safest way to get to the [Second Layer](Second_Layer.md), as you will be given a Light hook. However, you must be at least power 15 for her to give you access this way.
 

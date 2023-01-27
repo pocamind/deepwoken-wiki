@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 49464
+revid: 49605
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Starswept Valley]
 ---
 
 # Calamus
@@ -21,7 +21,7 @@ If you haven't completed his task and you talk to him, he can give you the optio
 
 After completing 30(?) quest from calamus
 
-After completing 30(?) quest he will task you to Set up a device in Bluster rift
+After completing 30(?) quests, he will give you a task to set up a device at Bluster Rift
 
 ## Possible Targets
 
