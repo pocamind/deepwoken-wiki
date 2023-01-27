@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 49121
+revid: 49621
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,9 +14,9 @@ Template:EnemyInfobox1.0
 
 Authority officers are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
--   Authority officers vs Etrean Footsoldiers ([Erisia](Erisia.md))
--   Authority officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
--   Authority officers with [Authority Flamecharmer](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
+-   Authority Officers vs Etrean Footsoldiers ([Erisia](Erisia.md))
+-   Authority Officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
+-   Authority Officers with [Authority Flamecharmers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
     -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).

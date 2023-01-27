@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 48765
+revid: 49631
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -55,7 +55,7 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 1.  Reach 75 Willpower
 2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md)
 3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
-4.  Make sure that you entered The Depths throught a Whirlpool at [Boatman's Watch](<Boatman's_Watch.md>) to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
+4.  Make sure that you entered The Depths throught a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
 5.  Talk to Akira and take the option "How do I brace myself against the monsters of the deep? How do I not succumb to their horror?". You will obtain Willpower Unbound.
 
 ### Charisma Unbound
@@ -77,6 +77,8 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 7.  Return to Apprentice Kj to finish the quest.
 8.  Head on to the Sparring Arena and talk to Maestro, located to the left when entering, opposite to the sparing instructor.
 9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
+
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 
 ## Attunement Unbound
 

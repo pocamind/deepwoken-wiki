@@ -1,9 +1,9 @@
 ---
 title: Servers
-revid: 36495
+revid: 49608
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [In progress with reason, InProgressPages, Mechanics]
 notices:
   - "This page may be out of date At times. This page is hard to complete, as the server names aren't always on the serverlist, meaning we cannot see some names."
 ---
@@ -32,10 +32,12 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Burning
 -   Chilled
 -   Crimson
+-   Conniving
 -   Crying
 -   Drowned
 -   Dumb
 -   Eccentric
+-   Ecstatic
 -   Fashionable
 -   Flaming
 -   Furious

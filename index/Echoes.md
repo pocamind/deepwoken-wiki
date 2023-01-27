@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 49404
+revid: 49630
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -234,5 +234,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   The four starter weapons from "Advanced Weapons" are obtained in linear order through purchases as so:
     -   The [Quickfang](Quickfang.md) Rapier,
     -   The [Irontusk](Irontusk.md) Spear,
-    -   The [Silversix](Silversix.md) Gun,
+    -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.

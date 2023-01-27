@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 48561
+revid: 49622
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Enemies]
@@ -16,7 +16,7 @@ An Authority Flamecharmer is an enemy NPC found in [Upper Erisia](Upper_Erisia.m
 
 They can spawn in the following events:
 
--   2 **Authority Flamecharmers** with 2 [Authority Officer](Authority_Officer.md) patrolling [Upper Erisia](Upper_Erisia.md).
+-   2 **Authority Flamecharmers** with 2 [Authority Officers](Authority_Officer.md) patrolling [Upper Erisia](Upper_Erisia.md).
 -   2 **Authority Flamecharmers** raiding [Meteor Isle](Meteor_Isle.md).
 
 ## Moveset
@@ -28,6 +28,10 @@ An Authority Flamecharmer's arsenal consists of either a [Adretian Axe](Adretian
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Performs a windup before thrusting blade forward. | ◯ | ✗ | (★★☆) |
 | Flare | Conjures a ball of fire before throwing it at an opponent. | ◯ | ◯ | (★★☆) |
+
+## Tips
+
+-   Easier to kill than the [Authority Officer](Authority_Officer.md)
 
 ## Trivia
 

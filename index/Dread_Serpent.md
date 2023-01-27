@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 48409
+revid: 49627
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -58,6 +58,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   It's appearance is supposedly exactly what an Elder Edenkite once look like, only it has no wings.
 -   The model for the Dread Serpent's Tooth is a Dark Feather.
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
+-   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2 however.
 -   Apparently it can fly, though it doesn't use this in battle.
 
 ## Gallery
