@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 49909
+revid: 50179
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -63,6 +63,7 @@ This weapon has 3 passives abilities:
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
     -   Probably a reference to Lucy from Don't Starve
 -   Unable to be equipped by people with Oath: Contractor.
-    -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it. Its unknown at the moment whether it just refuses to be equippable or if there's a special effect by trying to.
+    -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it.
+    -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
 
 -   Like every other legendary (special) weapon in the game, you cannot enchant Gran Sudaruska.

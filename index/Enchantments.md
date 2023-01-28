@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 49657
+revid: 50196
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -203,7 +203,8 @@ There are two variants that enchantments come in:
   <td><div><p><br>
   On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
-  <b>Hitting an entity with hyperarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b></p></div></td>
+  <b>Hitting an entity with hyperarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b><br>
+  Contrary to popular belief, this is seemingly not intentional, even Arch_Mage was unsure when asked if it was meant to occur.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
 </tr>
 <tr>
@@ -401,8 +402,8 @@ There are two variants that enchantments come in:
 
 **Removed:**
 
-| **Name** | **Description** |
-| --- | --- |
+| **Name** | **Description** | **Visual Effect** |
+| --- | --- | --- |
 | 
 File:Auto-repair.png
 
@@ -415,6 +416,10 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 
 -   It is speculated that it passively repaired your equipment's durability over time, though.
 
+ | 
+
+N/A
+
  |
 | 
 
@@ -426,6 +431,10 @@ Enchanted Legendary Weapons
 **January 2nd, 2022**  
 All enchanted legendary weapons (e.g Crypt, HB) were removed from lootpools, any equipped lost their enchants and any left un-equipped were voided.
 
+ | 
+
+N/A
+
  |
 | 
 
@@ -436,6 +445,10 @@ Face, Ears, Back accessories Enchants
 
 **February 18, 2022**  
 Enchanted face, ears, back accessories were removed from the loot pool.
+
+ | 
+
+N/A
 
  |
 | 
@@ -461,7 +474,9 @@ Static flaming purple.
 
 File:Vamparism shield.png
 
-Vampirism enchant on a Khan Shield
+"Vampirism" enchant on a Khan Shield
+
+"Curse of Umbral Knight" enchant on a Hero's Blade of Shadow
 
 -   A few enchants are based on other series and shows.
     -   Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the _Fate_ series.
@@ -480,7 +495,7 @@ Vampirism enchant on a Khan Shield
     
     File:Azure flames blazing.png
     
-    Azure Flames Blazing
+    Azure Flames with the "Blazing" enchant
     
     -   Curse of the Umbral Knight **→** Umbral Knight
     -   Bungee Gum **→** Elastic
@@ -489,4 +504,4 @@ Vampirism enchant on a Khan Shield
     -   (???) - Deferred
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.  
     
-    Sears old visual before the update
+    Old visual of the "Sear" enchant before the update

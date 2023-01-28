@@ -1,6 +1,6 @@
 ---
 title: Wishmaker
-revid: 49953
+revid: 50037
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

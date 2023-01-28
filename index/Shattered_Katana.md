@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 49198
+revid: 50122
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -32,15 +32,17 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons) which is very effective for medium weapon users. It drops from chests in high leveled locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). The Shattered Katana has 20 Base Damage and a scaling of 7 so it deals 34 damage at 100 MED. It also comes with a 30% Penetration, a very good stat to have as only a handful of weapons in the game include this stat on them.
+The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 100 MED to equip. It shares the [Katana's](Katana.md) unique critical. At 100 MED, it deals 34 damage.
 
-The Shattered Katana across various updates has been nerfed and is debatably, no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and in some aspects better weapon than the Shattered Katana when [alloyed](Pluripotent_Alloy.md).
+The Shattered Katana across various updates has been nerfed and is debatably no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and, in some aspects, better weapons than the Shattered Katana.
 
 ## Trivia
 
--   One of two weapons that comes with a sheath, the other being the [Katana](Katana.md).
--   The sword could be referencing the game "[Sekiro: Shadows Die Twice](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro:_Shadows_Die_Twice_Wiki)". The black mortal blade that was used by Genichiro is almost identical to the Shattered Katana.
--   Based on the incredible length of the blade, we can say that this is an Ōdachi, not a Katana.
--   The talent Paired Soul (Vigil Initiate and Cloak of Winds armor) buffs the swords damage by 5% rather than the Katana's 25% percent
--   The Shattered Katana can be paired with the Poser's Ring, which makes your M1s deal no damage, stacking all of it until you put away your weapon.
--   It has a unique critical
+-   It is one of two weapons that comes with a sheathe, the other being the Katana.
+    -   Therefore, it also works with the [Poser's Ring](https://deepwoken.fandom.com/wiki/Armor#Rings) and can be used to start [Zana's](Zana.md) quest.
+-   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
+-   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
+    -   Despite its blade being much longer than the Katana, both weapons have 8 range.
+-   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md) and [Cloak of Winds](Cloak_of_Winds.md) outfits) buffs the Shattered Katana's damage by 5%, instead of the Katana's 25%.
+    -   This causes both weapons to deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
+-   On release, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.

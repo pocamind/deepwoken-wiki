@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 45498
+revid: 50102
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits]
 
 # Authority Peacekeeper Armor
 
-Template:ArmorInfobox**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Authority Peacekeeper Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

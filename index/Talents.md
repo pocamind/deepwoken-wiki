@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50007
+revid: 50204
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -301,7 +301,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
     -   Prerequisite: 50 Willpower
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
-    -   Prerequisite: 50 Willpower
+    -   Prerequisite: 70 Willpower
     -   The Innate talent of Etreans has a similar effect, but is applied to all buffs and debuffs instead of status effects.
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
@@ -368,7 +368,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
     -   Prerequisite: Cryostasis
 -   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
-    -   Prerequisite: Ice Beam
+    -   Prerequisite: Ice Beam, 60 Frostdraw.
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
 
 ### Cutthroat
@@ -602,14 +602,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Frostthorn
 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
-    -   Prerequisites: ?? Agility, ?? Frostdraw, Orbital Ice
+    -   Prerequisites: Orbital Ice.
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a ring of gravitaional ring of ice that absorbs 25% of the physical damage you take. The ring break after substaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
     -   Prerequisites: 20 Agility, 65 Frostdraw
 
 ### Frozen Warrior
 
 -   Frozen Legs \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: 50 Frostdraw
+    -   Prerequisite: 60 Frostdraw
 
 ### Gale Kata
 
@@ -725,19 +725,19 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Ice Forge
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity, +3 Health)
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
-    -   Prerequisite: Heavy Weapon
+    -   Prerequisite: Cryonis, 25 Heavy, 50 Frostdraw.
 -   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Forge
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
-    -   Prerequisite: Ice Daggers
+    -   Prerequisite: Ice Daggers, 60 Frostdraw.
 -   Saint Jay \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
     -   Saint Jay last for double the duration of Chill.
     -   If using Glass Path: Crystallization, Saint Jay is active for 2 seconds when a crystal is applied.
-    -   Prerequisite: Frostbite
+    -   Prerequisite: Frostbite, 25 Frostdraw.
 -   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisites: Ice Lance
+    -   Prerequisites: Ice Lance, 60 Frostdraw.
 -   Frozone \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: Ice Skate
+    -   Prerequisite: Ice Skate, 65 Frostdraw.
 
 ### Inferno
 
@@ -1028,8 +1028,8 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Prospector
 
--   Excavator \[Common Talent\] \[Quest Talent\] -Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
--   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
+-   Excavator \[Common Talent\] \[Quest Talent\] -Chance to receive two sets of ore when mining, mine ores a lot faster.
+-   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 
 ### Public Figure
 
@@ -1286,7 +1286,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
 -   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
-    -   Prerequisites: 40 Charisma?, 10 Agility?, Master Thief?
+    -   Prerequisites: 40 Charisma, 10 Agility, all Thief talents
 
 ### Thunder Brawler
 
@@ -1316,12 +1316,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Thundercall with power 1 or obtain from Thundercall trainer (Funke)
--   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
+-   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity)
     -   Prerequisite: 20 Thundercall
--   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
+-   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity)
     -   Prerequisite: 30 Thundercall
--   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +5 Health)
-    -   Prerequisite: 50 Thundercall
+    -   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity)
+        -   Prerequisite: 50 Thundercall
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
     -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
     -   Prerequisite: 50 Thundercall
@@ -1720,7 +1720,6 @@ File:Thresherquest1.png
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives insanity instantly.
     -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
-        -   ~If you have race with 2 starting willpower, you need 82 willpower to get Heretic Sutra.~ This is false. I tested this on a Vesperian with 81 willpower and was able to get the talent; So chances are you just need 80 like every other race and or 81 at the most.
 
 ## Outfit Talents
 

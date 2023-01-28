@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 47967
+revid: 50195
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -826,6 +826,7 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
+-   Static Fakeout can be used with Spine Cutter.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.

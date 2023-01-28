@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 49083
+revid: 50200
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,9 +39,10 @@ The prices of Chili's items may vary from price to price.
     -   Winter Corps Parka
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
     -   [Woodland Boots](Woodland_Boots.md)
+    -   [Authority Helm](Authority_Helm.md)
 -   **Lore Books:**
     -   Refer this page instead: [Lore Books](Books.md)
 
 ## Trivia
 
--   Similar to the [Mantra Collectors](Mantra_Collector.md), except they sell instead of buy.
+-   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.

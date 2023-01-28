@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 49798
+revid: 50161
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits]
 
 # Navaen War Chief
 
-Template:ArmorInfoboxNavaen War Chief is a Master [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Navaen War Chief** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
