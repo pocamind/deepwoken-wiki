@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 49627
+revid: 49981
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,9 +8,9 @@ categories: [Boss, Monsters]
 
 # Dread Serpent
 
-“ Unless you are referring to how cheese brings men of respect and power together in brotherhood, no, I do not know what cheese does to me! ”
+“ The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. ”
 
-― Kaido before being cheesed again
+― Origin of the Dread Serpent
 
   
 _Also referred to as Kaido, Ardour or Sea Serpent._

@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 39014
+revid: 49985
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Items, Weaponry, Swords]
@@ -48,7 +48,7 @@ notices:
 
 ## Description
 
-The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED, it is obtained from chests in [Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md), and [The Depths](The_Depths.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
+The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED _(30 MED?)_, it is obtained from chests in [Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md), and [The Depths](The_Depths.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
 
 **Alloyed:**
 

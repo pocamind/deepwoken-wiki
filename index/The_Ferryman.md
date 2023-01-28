@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 47996
+revid: 49983
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Enemies]
@@ -186,7 +186,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     _Petris, found traumatised in The Depths._
     
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
--   The Ferryman is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
+-   The Ferryman is stated to be "Probably Bi" by Arch\_Mage, the less owner of Deepwoken. His opinions are usually not valid and dumb so don't take this seriously - Ragoozer Fan
     
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)

@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 49605
+revid: 49935
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Starswept Valley]
@@ -21,7 +21,7 @@ If you haven't completed his task and you talk to him, he can give you the optio
 
 After completing 30(?) quest from calamus
 
-After completing 30(?) quests, he will give you a task to set up a device at Bluster Rift
+After completing a certain amount of quests, he will give you a task to set up a device at Bluster Rift.
 
 ## Possible Targets
 
@@ -33,4 +33,8 @@ After completing 30(?) quests, he will give you a task to set up a device at Blu
 -   [Brainsucker](Brainsucker.md)
 -   [King Thresher](Thresher.md)
 
-(further testing needed as this page is a WIP)
+## Notes (For WIP)
+
+-   I personally have not done near to even 8 quests, although I still need to set up a device.
+    -   ^ Hive rep may reduce the amount of quests needed or it may be over time (in game years?) instead of the quantity of quests^
+-   The location of this device is undocumented, it may be bugged or hard to find

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 49141
+revid: 49965
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -154,6 +154,8 @@ Roughly fourteen chasers solo without the Bosses Resonance Progression path will
 -   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2.
 
 Rag's statement on Chaser's discontinued (actual) Phase 2.
+
+  
 
   
 

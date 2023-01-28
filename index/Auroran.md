@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 45364
+revid: 49968
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -11,3 +11,7 @@ categories: [Character, Races]
 ## Description
 
 Not a lot of information known about this race. This race was previewed by a Moderator, they call themselves. "The first Gremor." This race has long like horns, in a blue type white color. From what we know, this race doesn't have a lot of lore attached with it. "The First"
+
+## Trivia
+
+-   Related to [Auroran Gremor](Auroran_Gremor.md)
