@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 46167
+revid: 49859
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]

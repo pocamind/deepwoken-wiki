@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49698
+revid: 49928
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1254,11 +1254,11 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity, +4 Ether)
     -   Increases food satiation by 15%.
-    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
 -   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%. (+5 Elemental Intensity, +2 Ether)
     -   Increases food boosts by 20%.
-    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
 ### The Demon Blade
 

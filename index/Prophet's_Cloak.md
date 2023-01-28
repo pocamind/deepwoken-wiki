@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 49237
+revid: 49789
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -38,5 +38,6 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   Worn by all [Ministry](Ministry_Necromancer.md) [NPCs](Ministry_Scout.md).
+-   Includes a cosmetic collar (3D model)
 -   Shirt ID: [https://www.roblox.com/catalog/5049282750/Dark-Mage](https://www.roblox.com/catalog/5049282750/Dark-Mage)
 -   Pants ID: [https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants](https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 48719
+revid: 49831
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -36,7 +36,7 @@ Players can talk to the NPC guards posted within villages and islands. Depending
 
 Finally, at max positive reputation, guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
-With a [talent](Talents.md) called "[Friends In High Places](Talents.md#silvertongu)" the guards will not grip you, but instead knock you and insult you, spitting on your ragdoll as they return to their posts.
+With a [talent](Talents.md) called "[Friends In High Places](Talents.md#silvertongue)" the guards will not grip you, but instead knock you and insult you, spitting on your ragdoll as they return to their posts.
 
 #### _Negative Reputation_
 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 48109
+revid: 49830
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -77,11 +77,7 @@ Recognizable by their ??? body, ??? eyes and astral enchant sword, the Astral 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
  | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-**Wind Cutter**
-
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent. | ◯ | ◯ | ◯ | (★★☆) |
+| **Wind Blade** | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Terra Eruption**

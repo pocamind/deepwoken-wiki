@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 49762
+revid: 49921
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,29 +36,27 @@ The Outfit is the only piece of Armor that loses durability, which can be found 
 
 ### Starter
 
-_Deepwoken_ currently has 10 Starter Outfits that have been discovered.
+_Deepwoken_ currently has 12 Starter Outfits that have been discovered.
 
 ### Adept
 
-_Deepwoken_ currently has 16 Adept Outfits that have been discovered.
+_Deepwoken_ currently has 19 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 10 Expert Outfits that have been discovered.
+_Deepwoken_ currently has 11 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 8 Master Outfits that have been discovered.
+_Deepwoken_ currently has 9 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 1 Unique Outfit that has been discovered.
+_Deepwoken_ currently has 8 Unique Outfits that has been discovered.
 
-### **Unconfirmed/Speculated**
+### **Miscellaneous**
 
-_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on NPCs throughout the game.
-
-  
+_Deepwoken_ currently has 18 and more speculated/unconfirmed armors that are seen on NPCs throughout the game.
 
 ## Trivia
 

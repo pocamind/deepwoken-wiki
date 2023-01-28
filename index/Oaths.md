@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49634
+revid: 49814
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -499,7 +499,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
 5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrine of Order.
 6.  Unlock your [Resonance](Resonance.md).
-7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?".
+7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.
 
 ### Upgrading

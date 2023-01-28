@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 49303
+revid: 49884
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -357,8 +357,8 @@ File:No Attunement Revamp.png
 
  | _Take on an unimaginable disguise._ | 
 
--   **Requirements:** _**21 Charisma** ? Mantra_
-    -   Obtained by finding an NPC named [Mime](Mime.md)
+-   **Requirements:** _**25 Charisma** Mantra_
+    -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers
     -   Disguises the user.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 48570
+revid: 49834
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -45,6 +45,8 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
     -   Being a Canor does not change the interaction with Lord Regent.
 -   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
     -   This may be because of the Knives of Eylis current alignment with the Authority.
+-   Going onto the Throne will NOT kill you, but interracting him while on the throne will.
+-   There are free chests that contain Erisia loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:
     -   “What a foolish tradition."
     -   "You'll find that I'm being very merciful right now."
