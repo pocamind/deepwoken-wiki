@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 49427
+revid: 50006
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -104,6 +104,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_
 -   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
+-   _I fight to preserve my way. **(???)**_
 -   _Uh... **(Miscellaneous)**_
 
 # **Attunements**

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 49987
+revid: 49992
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
@@ -25,7 +25,7 @@ categories: [Weapons, Swords, Weaponry, "Attunement-based Weapons"]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths ChestsFloor 1 Layer 2 |
+| obtainment | Chests from:, First Layer, Second Layer (Floor 1) |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
 ## **Description**

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 49928
+revid: 50007
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1476,7 +1476,7 @@ These Talents are designed to make you more effective in water.
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+5 Ether)
-    -   Prerequisite: 30 Fortitude
+    -   Prerequisite: 30 Fortitude (Seem to get it around power 10 i believe also my fav talent\[TSKG WAS HERE\])
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.

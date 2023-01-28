@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 49567
+revid: 50002
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -119,9 +119,16 @@ A mantra's type generally corresponds to its respective stat. Weapon mantras and
 
 ### Monster Mantras
 
-Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare, monster parts that you can turn in for Mantras drop from a (name of the mantras in parenthesis) Megalodaunt (Coral Spear), Dread Serpent (Dread Breath), Thresher (Beast Burrow), Bone Keeper (Brachial Spear), Enforcer (Enforcer Pull), and Mechalodaunt (Mecha Gatling).
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the talent and what is the talent based off of.
 
-Known monster parts that give Mantras: Enforcer Eye from Enforcer, Giant Femur from Bone Keeper, Thresher Talon from Thresher, Dread Serpent Tooth from Dread Serpent, Broken Gatling Gun from Mechalodaunt, and Megladaunt Coral from Megalodaunt.
+-   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
+-   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
+-   Thresher -> Thresher Talons -> Beast Burrow (Thresher's Dig)
+-   Bone Keeper -> Giant Femur -> Brachial Spear (Bone Throw)
+-   Enforcer -> Enforcer's Eye -> Enforcer Pull
+-   Mechalodaunt -> Broken Gatling Gun -> Mecha Gatling (Bullet Fury)
+
+All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as if procs fire and \*MAY\* proc lava path
 
 ### [Oath Mantras](Oaths.md)
 

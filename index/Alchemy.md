@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 47530
+revid: 49999
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -10,7 +10,7 @@ notices:
 
 # Alchemy
 
-Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
+Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used and can be drunk or thrown. It is also known for Personal Salamanca making meth with it (and his family.)
 
 The Crafting Recipes & Alchemy page contains some simple potion recipes, though some of the information is incorrect. At some point we'll update it.
 
