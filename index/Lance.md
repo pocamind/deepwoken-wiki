@@ -1,8 +1,9 @@
 ---
 title: Lance
-revid: 49598
+revid: 50549
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Npcs, Food]
 ---
 
 # Lance

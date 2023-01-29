@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 50476
+revid: 50596
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -277,7 +277,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Please don't aim for this because of how hard it is to get I assure you it won't be of help.
 -   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
--   You can, for some dumb reason, use one of your OWN OATH SLOTS to be killed for your own linkstriker as it doesnt stop you. For example you can ask a friend to knock and sack your Blindseer slot, and then switch to your Pathfinder slot like nothing happened. (Don't know why you would DO that but go for it)(Also was not tested if the "No 2 of the same account's slot" rules affects this)
 
 **Jetstriker:**
 
@@ -613,5 +612,5 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras (needs further testing).
+-   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras such as equalizer and judgement.
 -   Jetstriker makes Chrysid eyes white.

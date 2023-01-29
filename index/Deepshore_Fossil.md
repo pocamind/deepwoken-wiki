@@ -1,8 +1,9 @@
 ---
 title: Deepshore Fossil
-revid: 48384
+revid: 50547
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Floor 1, Layer 2]
 ---
 
 # Deepshore Fossil

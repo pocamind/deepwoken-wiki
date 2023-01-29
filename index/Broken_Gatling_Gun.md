@@ -1,8 +1,9 @@
 ---
 title: Broken Gatling Gun
-revid: 50423
+revid: 50569
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Broken Gatling Gun

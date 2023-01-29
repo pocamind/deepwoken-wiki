@@ -1,8 +1,9 @@
 ---
 title: Megalodaunt Coral
-revid: 47375
+revid: 50567
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Megalodaunt Coral

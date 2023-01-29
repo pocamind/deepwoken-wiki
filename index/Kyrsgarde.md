@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde
-revid: 50526
+revid: 50583
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Monsters]
+categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -16,13 +16,54 @@ notices:
 
   
 
-Template:Creature Infobox V3
-
-## Description
+## **Intoduction**
 
 Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [Humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethirion as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethirion from such threats with pure loyalty.
 
-## Attacks
+**Kyrsgarde Lancer:**
+
+Template:Creature Infobox V3
+
+## **Description**
+
+The Kyrsgarde is singlehandedly the most dangerous of them all as it has both short-range and long-ranged moves. They are told apart by their glowing **Burgundy** head. They can only spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+## **Attacks**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | The Kyrsgarde conjures a spear of ice before performing a slash, lance and throw at it's opponent. A 3-hit combo in total.
+
+-   Recommended to roll back for the first 2-hits and parry the throw.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Glacial Javelin
+
+ | The Kyrsgarde conjures a spear of ice before throwing at it's opponent.
+
+-   Easiest move to parry if fighting one on one.
+
+ | ✗ | ◯ | ◯ | (★★☆) |
+| 
+
+Skyward Spear
+
+ | The Kyrsgarde conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
+
+-   Parry it when the arm of the Kyrsgarde reachest the highest point.
+
+ | ◯ | ◯ | ◯ | (★★☆) |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Devastating Slash | The Kyrsgarde swipes it's spear at it's opponent, dealing a fatal blow and killing them. |
 
 **Ice Lance Throw** ★★★ (★☆☆ if its a minion from SoE boss fight) **The Kyrsgarde holds out its arms and forms a ice lancer with frostdraw and throws it swiftly, aimed very accurately at the player**
 
@@ -41,47 +82,82 @@ _Possibly throws the lance at the end ?_
 ## Finisher
 
 -   Ice Swipe: It will swipe it's Ice Spear at you, insta-gripping you when knocked.
+    
+
+**Kyrsgarde Crawler:**
+
+## **Description**
+
+The Kyrsgarde Crawler is the weakest of them all for it only has 1 attack. They are told apart by their glowing **White** head. They can only spawn in **The Sunken Railways** which is accessed by going into a sewer grate in the ground in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+## **Attacks**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+Cloaking Assault
+
+ | The Kyrsgarde Crawler backs away from it's opponent before approaching forward, going invisible and reappearing to perform a 2-hit combo at it's opponent. | ✗ | ◯ | ◯ | (★★☆) |
+
+**Kyrsgarde Sniper:**
+
+## **Description**
+
+The Kyrsgarde Sniper almost shares every attack with the Kyrsgarde except for assault. They are also told apart by their glowing blue head. They can spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) or by the [Scion of Ethiron](Scion_of_Ethiron.md).
+
+The Kyrsgarde Sniper spawned by the **Scion of Ethiron** will have it's health greatly reduced as it's purpose is to act as a health pack for the player(s).
+
+## **Attacks**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+Glacial Javelin
+
+ | The Kyrsgarde Sniper conjures a spear of ice before throwing at it's opponent.
+
+-   Easiest move to parry if fighting one on one.
+
+ | ✗ | ◯ | ◯ | (★★☆) |
+| 
+
+Skyward Spear
+
+ | The Kyrsgarde Sniper conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
+
+-   Parry it when the arm of the Kyrsgarde reachest the highest point.
+
+ | ◯ | ◯ | ◯ | (★★☆) |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Devastating Slash | The Kyrsgarde swipes it's spear at it's opponent, dealing a fatal blow and killing them. |
+
+**Kyrsgarde Brute:**
 
 Template:Creature Infobox V3
 
-## Description
+## **Description**
 
 These aren't your typical stupid brute guys, they are an oddity when it comes to the Kyrsgarde. Comparing to the Kyrsan Lancers, they are very much buff and are in no way skinny (aside from the legs probably). They have a red color in their "membrane" and everytime they move it actually makes a stomp noise, however are slow and seem.. odd compared to the Lancers.
 
-## Moveset
+## **Attacks**
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Moves</th>
-  <th>Description</th>
-  <th>Parryable?</th>
-  <th>Dodgeable?</th>
-  <th>Blockable?</th>
-</tr>
-<tr>
-  <td>Swipe</td>
-  <td>The Kyrsan Brute will swing at you, make sure to dodge as you will get grabbed and proceed to have it's claws drilled into you before throwing you.</td>
-  <td>No</td>
-  <td>Yes</td>
-  <td>No</td>
-</tr>
-<tr>
-  <td>Crush</td>
-  <td>It raises it's hands before crushing them onto the ground, dealing moderate damage to you. THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.</td>
-  <td>No</td>
-  <td>Yes</td>
-  <td>No</td>
-</tr>
-<tr>
-  <td>Tacet</td>
-  <td>(CRAWLER EXCLUSIVE) The Brute can use tacet to slowly crawl away from you before preparing for it's next attack.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-</tbody>
-</table>
+| Moves | Description | Parryable? | Blockable? | Dodgeable? |
+| --- | --- | --- | --- | --- |
+| Clenching Assault | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. | ✗ | ✗ | ◯ |
+| Slam | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
+-   **THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.**
+
+ | ✗ | ✗ | ◯ |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Placeholder | Placeholder |
 
 ## Trivia
 

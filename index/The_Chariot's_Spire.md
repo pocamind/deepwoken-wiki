@@ -1,8 +1,9 @@
 ---
 title: "The Chariot's Spire"
-revid: 47806
+revid: 50555
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Layer 1, Locations]
 ---
 
 # The Chariot's Spire

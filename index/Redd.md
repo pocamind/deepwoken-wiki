@@ -1,8 +1,9 @@
 ---
 title: Redd
-revid: 50441
+revid: 50572
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Food, Etrean Luminant, Ingredients, Eastern Luminant]
 ---
 
 # Redd

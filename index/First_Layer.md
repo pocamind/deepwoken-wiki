@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 49434
+revid: 50548
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -92,7 +92,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 11-16 | [Megalodaunt](Megalodaunt.md) |
 | 17+ | [Enforcer](Enforcer.md) |
 
--   **NOTE: In the event that a player in the Trial has a significant amount of drowns (6) the player will fight a [Nautilodaunt](Nautilodaunt.md).**
+-   **NOTE: In the event that a player in the Trial has a significant amount of drowns (3 I just died to squibbo with 3 drowns and lvl 16) the player will fight a [Nautilodaunt](Nautilodaunt.md).**
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 49982
+revid: 50570
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Lionfish
 
-“ The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
+“ This is the power of a released Espada... Cero Oscuras ”
 
-― Lionfish Scale Description
+― A Lionfish before instakilling a freshspawn in the depths
 
 **Lionfish:**
 
@@ -78,3 +78,4 @@ This will auto-grip you if hit by it at low health.
 -   Also based on the actual Lionfish, a species of poisonous fish that can extend spines outward that resemble the mane of a lion.
 -   The Cero attack is inspired by the attack [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sfx and with the lionfish's pose before firing it resembling the [Menos Grande](https://bleach.fandom.com/wiki/Hollow#Gillian) that introduced the technique.
 -   The Cero is Galebreathe based.
+-   If you use a sea highway, even a dinghy can outrun them.

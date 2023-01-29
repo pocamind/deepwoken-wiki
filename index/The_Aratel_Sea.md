@@ -1,8 +1,9 @@
 ---
 title: The Aratel Sea
-revid: 50407
+revid: 50556
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Eastern Luminant]
 ---
 
 # The Aratel Sea

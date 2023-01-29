@@ -1,8 +1,9 @@
 ---
 title: Galewax
-revid: 47427
+revid: 50546
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Layer 2, Floor 1]
 ---
 
 # Galewax

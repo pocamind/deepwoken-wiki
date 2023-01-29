@@ -1,8 +1,9 @@
 ---
 title: Firfire Caverns
-revid: 44376
+revid: 50562
 source: https://deepwoken.fandom.com/wiki/Firfire_Caverns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Layer 2, Floor 1, Locations]
 ---
 
 # Firfire Caverns

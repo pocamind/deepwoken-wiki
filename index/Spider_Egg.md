@@ -1,8 +1,9 @@
 ---
 title: Spider Egg
-revid: 47585
+revid: 50560
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Spider Egg

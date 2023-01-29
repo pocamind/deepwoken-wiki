@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 49889
+revid: 50582
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -35,7 +35,7 @@ There are 3 different fist styles and 2 of them share the common ability of bein
 
   
 
-## nermitology (fake)
+## Terminology
 
 -   **WN** - Way of Navae
 -   **LK** - Legion Kata
@@ -45,7 +45,7 @@ Switching to fist stance while usinjkoilm, is purely visual and does not remove 
 
 ## Styles
 
-### Way of griddie (😱)
+### Way of Navae
 
 File:Way Of Navae.png
 

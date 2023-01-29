@@ -1,8 +1,9 @@
 ---
 title: Kyrsan Medallions
-revid: 48889
+revid: 50564
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Layer 2, Floor 2]
 ---
 
 # Kyrsan Medallions
