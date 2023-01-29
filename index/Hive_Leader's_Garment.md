@@ -1,11 +1,9 @@
 ---
 title: "Hive Leader's Garment"
-revid: 50483
+revid: 50598
 source: https://deepwoken.fandom.com/wiki/Hive_Leader's_Garment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Outfits]
-notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"Datamined\""
+categories: [Outfits]
 ---
 
 # Hive Leader's Garment

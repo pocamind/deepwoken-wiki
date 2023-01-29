@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 47469
+revid: 50618
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -44,5 +44,5 @@ Examples:
 
 -   The stars might be inspired by GTA, where in GTA the more stars you have the more wanted you are.
 -   You can hunt more than one person at once.
--   Using Blood Scourge might not work since you actually have to grip the person.
+-   Using Blood Scourge might not work since you actually have to grip the person. \[Unconfirmed, but most likely false.\]
 -   The least amount of stars someone can have is one star.

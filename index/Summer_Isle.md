@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 48842
+revid: 50601
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -50,7 +50,6 @@ Notes:
 -   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
--   One of the safest islands from player activity.
 
 #### _**Thundercall Trainer**_
 
@@ -102,7 +101,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 -   Allows you to set your spawnpoint at Summer Isle for 5 notes.
 -   Won't communicate with you if you have negative reputation AND you will be kicked out if you set your spawnpoint at this inn and then get negative reputation.
 
-#### Kujae
+#### _**Kujae**_
 
 -   Can be found outside the Inn
 -   Will give you something random out of his sack for 350 notes.
@@ -194,7 +193,7 @@ Epic fountain.
 
 Main Faction - [Summer Company](The_Summer_Company.md)
 
--   Ignition Union Footsoldiers
+-   Ignition Union Fighters
 -   Summer Company Guards
 -   Summer Company Thugs
 -   Nomad Tribe Members
@@ -332,4 +331,4 @@ Items and equipment that can be obtained from loot chests.
 
 -   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a talent card related to Reputation.
 -   The only place to buy guns in Eastern Luminant.
--   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon witll shoot after 3-5 seconds
+-   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon will shoot after 3-5 seconds.

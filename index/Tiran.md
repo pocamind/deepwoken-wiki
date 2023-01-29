@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 50472
+revid: 50642
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races]

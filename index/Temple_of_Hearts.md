@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 50463
+revid: 50622
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -28,7 +28,7 @@ Going through will lead into an altar with Yun'shul, a mysterious, eldritch enti
 
 #### [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)
 
--   An NPC who will grant those with a [Resonance](Resonance.md) wishes.
+-   A [Drowned God](https://deepwoken.fandom.com/wiki/Lore?so=search#Drowned_Gods) who will grant those with a [Resonance](Resonance.md) wishes.
 
 ## Notes/Trivia
 

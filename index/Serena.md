@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 50512
+revid: 50607
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Enemies]
@@ -19,6 +19,6 @@ Serena is a lynx [Felinor](Felinor.md) that can randomly spawn around [Starswept
 -   She thanks the player and reward them with a chest.
 -   She attacks the player.
 
-If you don't have a [canteen](Canteen.md) with water, she will say "Ha! Gotcha!" and proceed to attack you.
+If you don't have a [canteen](Canteen.md) with water, she will say "GOTCHA!" and proceed to attack you.
 
 While knocked and being gripped by the player or NPC, she will also _kindly_ ask you if she "is convincing".

@@ -1,9 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 50203
+revid: 50597
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, World, Pages with broken file links]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzone]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -77,11 +77,8 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
 -   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
 -   Good place to farm books, the library has tons of bookshelves
-
-\[\[Category:Voidzone
-
-If you enter with animal king and get knocked by one of the immortal guardians, instead of gripping you they call you inferior or insult you. similar to guards when you have maximum reputation.
+-   Characters with the Mute [Regalia](Regalia.md) would instead be spared and insulted "INFERIOR" when knocked by them, similar to various guards when you have maximum reputation.
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 
-Immortal Guardians And Animal King
+Immortal Guardians And a Mute.

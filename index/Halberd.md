@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 47176
+revid: 50623
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -53,7 +53,7 @@ The Halberd is a Greataxe used by the Central Authority. It has a Base Damage of
 
 ## Description
 
-The upgraded version of the Halberd. Just a normal Halberd with increased stats. It can be obtained through chests in [Chime of Conflict](Chime_of_Conflict.md).
+The upgraded version of the Halberd. Just a normal Halberd with increased stats. It can be obtained through chests in [Chime of Conflict](Chime_of_Conflict.md), or by using a [Pluripotent Alloy](Pluripotent_Alloy.md) on a Halberd.
 
 ## Trivia
 

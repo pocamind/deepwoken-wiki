@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 50583
+revid: 50616
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -10,7 +10,7 @@ notices:
 
 # Kyrsgarde
 
-“ Unhand thy pockets! ”
+“ Empty the compartments of your pantaloons! ”
 
 ― An Ice Lancer about to show a poor Ganymede how it feels to get styled on in the Depths.
 

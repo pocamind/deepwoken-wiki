@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 48995
+revid: 50626
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -16,7 +16,7 @@ Template:NPC name
 
 Carrion, refered to as Father of Evolution is a Black Diver that resides in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-Carrion is a black diver NPC (based off a player) that resides in the second floor of the [Second Layer](Second_Layer.md) of the depths. He can be found in the library puzzle room under the city. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them.
+Carrion is a black diver NPC that resides in the second floor of the [Second Layer](Second_Layer.md) of the depths. He can be found in the library puzzle room under the city. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them.
 
 ## List of Obtainable Monster Mantras
 
@@ -28,3 +28,9 @@ Carrion is a black diver NPC (based off a player) that resides in the second flo
 | Dread Breath |  |  |  |  |  | Dread Serpent Tooth |
 | Brachial Spear |  |  |  |  |  | Giant Femur |
 | Mecha Gatling |  |  |  |  |  | Broken Gatling Gun |
+
+## Trivia
+
+-   Carrion is based on an unknown player, who is an associate of Ragoozer.
+-   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.
+-   He _could_ be a reference to Bondrewd from Made in Abyss, but the connection would be very minor.

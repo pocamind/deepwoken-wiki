@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 48867
+revid: 50639
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -15,7 +15,7 @@ _This page lists the controls that can be used in Deepwoken._
 | **Key**  | **Description** | **Notes** |
 | --- | --- | --- |
 | M1 | Light Attack | Your main attack. |
-| M2 + M1 | Feint | Player cancels event/animation of Weapons and other Actions. (Light Attack, Roll). |
+| M1 + M2 | Feint | Player cancels event/animation of Weapons and other Actions. (Light Attack, Roll). |
 | Mantra + M1 + M2 | Mantra Feint | Player cancels event/animation of Mantras when using them. Costs Ether but resets the cooldown. |
 | M1 during mantra | Perfect Cast | Player perfect casts the Mantra by pressing M1 right before the Mantra animation. Benefits certain Talents such as Eureka. |
 | M3 or R | Critical Attack | Player does a special attack, sometimes exclusive to that weapon, typically to break block or mix up combos and attacks. |
@@ -26,7 +26,7 @@ _This page lists the controls that can be used in Deepwoken._
 | T | Taunt | Player spits. Spitting on an entity will heal ~5% health, and if they are an NPC, make them aggro onto you. |
 | V | Carry KO'd Enemy | Player will pick up a downed entity nearby. |
 | B | Execute KO'd Enemy | Player will kill a downed entity nearby. |
-| B | Cancel Execution | Player will stop their attempt to execute the downed entity, letting them drop onto the ground nearby. |
+| B+B | Cancel Execution | Player will stop their attempt to execute the downed entity, letting them drop onto the ground nearby. |
 | W+W | Sprint | Player moves faster. |
 | Q | Roll | Player rolls. Allows attack dodging. |
 | Ctrl | Crouch | Player enables [Stealth](Stealth.md). |

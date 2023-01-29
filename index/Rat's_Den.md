@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 50345
+revid: 50641
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -13,7 +13,7 @@ LocationL Rat's Den LocationR
   
   
 
-**Rat's Den** or Golden Rat is a location in _Deepwoken._ It is a landmark in [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
+**Rat's Den** is a location in _Deepwoken._ It is a landmark in [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 

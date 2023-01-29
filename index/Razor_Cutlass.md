@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 45911
+revid: 50643
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Swords, Items]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry, Swords, Items]
 |---|---|
 | type | Medium Sword |
 | requirements | 60 MED |
-| damage | 18 + 5.4 |
+| damage | 18 + 5.4 [BLD] |
 | scaling | 7.5 |
 | range | 8 |
 | swing speed | 0.7x |

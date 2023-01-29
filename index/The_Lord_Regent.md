@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 49834
+revid: 50617
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,7 +15,7 @@ categories: [NPCs, Quests]
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me. ”
 
-― Lord Regent
+― The Lord Regent
 
 ## Description
 
