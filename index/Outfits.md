@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 50175
+revid: 50336
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,9 +60,9 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
 _Deepwoken_ currently has 4 Confirmed spec/mod armor that has been discovered.
 
-### **Unconfirmed/Speculated**
+### **Unconfirmed/Speculated/Miscellaneous/Removed**
 
-_Deepwoken_ currently has 27 and more speculated/unconfirmed armors that are sometimes seen on NPCs throughout the game or are generally unobtainable.
+_Deepwoken_ currently has 30 and more speculated/unconfirmed armors that are sometimes seen on NPCs throughout the game or are generally unobtainable or have been removed.
 
   
 
@@ -74,5 +74,5 @@ _Deepwoken_ currently has 27 and more speculated/unconfirmed armors that are som
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
 -   **Pathfinder Journeyman** is also bugged and will give you a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) instead.
--   There is a secret beginner armor called 'RagoozaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
+-   There is a secret beginner armor called 'RagoozaRequest7' and its schematic name is 'Pathfinder Sorcerer.' (Schematic unconfirmed)
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based on the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).

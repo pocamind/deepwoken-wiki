@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 49968
+revid: 50249
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -14,4 +14,6 @@ Not a lot of information known about this race. This race was previewed by a Mod
 
 ## Trivia
 
--   Related to [Auroran Gremor](Auroran_Gremor.md)
+-   Auchura's Armor
+    
+    Related to [Auroran Gremor](Auroran_Gremor.md)

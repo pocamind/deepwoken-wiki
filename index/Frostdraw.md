@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 49549
+revid: 50259
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -97,7 +97,7 @@ Warden's Blades
 
 _Revolving blades of ice._
 
- | User forms 4 ice blades around them, which rapidly rotates shortly after casting.
+ | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
 -   Hits multiple times in a row.
@@ -330,7 +330,7 @@ _An arc of ice._
 -   Inflicts Chill.
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to form more arcs.
--   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs (but applying a lens will have a chance of nullifying the Cloudstones effect, ex: 3 cs + 3 pl = 4 arcs)
+-   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs (but applying a lens will have a chance of nullifying the Cloudstones effect, ex: 3 cloudstones + 3 perfetct lenses = 4 arcs)
 
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
@@ -348,7 +348,7 @@ _Skate freely on paths of ice._
  | While on or above water, create a frozen platform to slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
--   The legendary "Frozone" talent allows the user to cast this mantra anywhere
+-   The rare "Frozone" talent allows the user to cast this mantra anywhere
     -   This includes [The Depths](The_Depths.md).
 
   

@@ -1,9 +1,9 @@
 ---
 title: Dread Serpent
-revid: 50005
+revid: 50253
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Monsters]
+categories: [Pages with broken file links, Boss, Monsters]
 ---
 
 # Dread Serpent
@@ -13,7 +13,7 @@ categories: [Boss, Monsters]
 ― Origin of the Dread Serpent
 
   
-_Also referred to as Kaido, Ardour ,Dragos or Sea Serpent._
+Also known as Dreads Serpent, Kaido, and Valentine Ixatoke because he is a dragon in bed.
 
 Template:Creature Infobox V3
 
@@ -21,7 +21,7 @@ Template:Creature Infobox V3
 
 The **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
-Though their are many, the first Dread Serpent was born when a man, named the Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed Murmur: Ardour, which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown.
+Though their are many, the first Dread Serpent was born when a man, named the Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown.
 
 ## Attacks
 
@@ -46,7 +46,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe.
+-   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be obtained, if player already has another Murmur.
 -   The mantra 'Kaido's Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
@@ -62,5 +62,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   Apparently it can fly, though it doesn't use this in battle.
 
 ## Gallery
+
+File:Coolerkaido.png
 
 Closeup

@@ -1,12 +1,18 @@
 ---
 title: Blade Instructor
-revid: 49250
+revid: 50323
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Blade Instructor
+
+“ Erm… what the scallop ”
+
+― An Etrean freshie after getting infinite comboed by this
+
+  
 
 ## Description
 

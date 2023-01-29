@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 50199
+revid: 50301
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Equipment, Weaponry, Shields]
@@ -19,7 +19,7 @@ categories: [Weapons, Equipment, Weaponry, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Pure Ore Rewards, Layer 2 Chests, Layer 1 Chests, Miner Chests, Fishing Chests |
+| obtainment | Pure Ore Rewards, Layer 2 Chests, Layer 1 Chests, Widow's Chest, Miner Chests, Fishing Chests |
 | description | A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin. |
 
 ## Description

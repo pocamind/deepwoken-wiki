@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 43343
+revid: 50313
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 49814
+revid: 50227
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -398,9 +398,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ I'M FUCKIN INVINCIBLE! ”
+“ I am Iron Man. ”
 
-― The Arcwarder with a Paths Defender and all possible ways of more posture.
+― Player getting Arcwarder for the first time
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 

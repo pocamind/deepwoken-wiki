@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 49999
+revid: 50266
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -200,7 +200,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 <tr>
   <td><b>Strengthening</b></td>
   <td>Salve<br>
-  Tincture</td>
+  Tincture<br>
+  Potion</td>
   <td>Urchin<br>
   Plumfruit<br>
   Browncap</td>
@@ -271,7 +272,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Steadfast</b></td>
   <td>Tincture<br>
   Potion<br>
-  Elixir</td>
+  Elixir<br>
+  Salve</td>
   <td>Calabash<br>
   Bamboo Bundle</td>
   <td>Increases maximum posture for 15 seconds.</td>

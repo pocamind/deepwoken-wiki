@@ -1,60 +1,49 @@
 ---
 title: Knowledge
-revid: 49462
+revid: 50223
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Knowledge
 
-File:Knowledge.png
-
-**Knowledge** is a new feature introduced in the _**[Verse 2](Version_History/2026.md)**_ update, to replace luck clovers.
+| Knowledge | |
+|---|---|
+| usage | Engaging in deals with Deep ShrinesPurchasing Clarity from Misérables |
+| obtainment | Completing milestonesPurchasing from Klaris |
 
 ## Overview
 
-Knowledge is shown at the bottom right of the screen, above your notes.
+**Knowledge** is a new feature introduced in the _**[Verse 2](Version_History/2026.md)**_ update.
 
-It is treated as a currency like notes, but is obtained in a different way.
+**Knowledge** is a special in-game currency that can be used to engage in a deals with Deep Shrines and [Misérables](Misérables.md). It's function is similiar to [Notes](Notes.md), however it poses higher benefits for the player and has much more difficult obtainment.
 
-The maximum for said currency is 99.
+The maximum for said currency is 99. The currency is bound to a slot and is lost upon wiping your character.
 
-## Obtainment
+### Ways of Obtaining Knowledge
 
--   Leveling up gives you one knowledge point.
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) gives you 2 knowledge points. (Only for the first time)
--   Purchasing knowledge from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) using Krysan Medallions (1:1 Exchange ratio, with the minimum purchase being 5)
--   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md) gives you 2 knowledge points.
+There are currently only a few milestones that grant player Knowledge upon first-completion. It is speculated that there are will be more ways added in the future.
 
-## [Shrines](Deep_Shrines.md)
+-   Gaining [Power](Power.md), awarding 1 Knowledge per Power level. (max. 20 Knowledge)
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge.
+-   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge.
+-   Purchasing Starting Knowledge [Echo Upgrade](Echoes.md), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). The currency is granted to every slot upon creation of a new character. This doesn't apply to existing characters.
 
--   _Shrine of Mastery_
-    -   Allows you to exchange one invested trait point for another for 5 knowledge points.
--   _Shrine of Order_
-    -   Allows you to evenly distribute your points across all of your invested attributes for 5 knowledge points.
-    -   Think carefully before using this shrine.
--   _Shrine of Chance_
-    -   Allows you to exchange one talent card for a random hand of 3 cards of equal rarity that you meet the requirements for for 5 knowledge points.
--   _Shrine of Blasphemy_
-    -   Allows you to instantly gain 3 levels of power for 5 knowledge as well as getting a random flaw that you have unlocked.
-    -   You wont gain any EXP or free investment points from this, so you will be left with around 45 more investment points until your next level, and all cards rolled from this will be from your currently invested points, which are now 3 levels behind. You will gain 3 points of knowledge from leveling from this shrine (?).
-    -   Think carefully before using this shrine.
--   _Shrine of Temptation_
-    -   Allows you to exchange one mantra for one out of a set of 3 that you meet the requirements for 5 knowledge points.
+### Purchasing Knowledge
 
-## Locations
+Knowledge can be purchased using [Kyrsan Medallions](Kyrsan_Medallions.md) from [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), located at [Castle Light](Castle_Light.md) in [Depths](The_Depths.md) (Scyphozia). Beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer.md) is required to unlock this option. The transaction consists of the exchanging 5 Medallions for 5 Knowledge (1:1 ratio). This process, unlike normal ways of obtainment can be conducted multiple times, with no discovered maxmium limit of transactions.
 
--   The Shrine of Mastery is located in Starswept Valley, Widow's Hollow
--   The Shrine of Order is located in Songseeker Islands, Miner's Cave
--   The Shrine of Chance is located in Fort Merit
--   The Shrine of Temptation is located in Minityrsa, Crypt of the Unbroken
--   The Shrine of Blasphemy is located in Upper Erisia, Hidden Village
+### Usage of Knowledge
 
-## Effects of Knowledge
+As mentioned previously, Knowledge can be used to bargain with powerful objects and beings. Each transaction is conducted via dialouge option and Knowldege is consumed instantly after without any warning message or notice.
 
--   Currency used in deep deals, such as the Shrines around the world and Misérables in Layer 2.
+-   Engaging in a deal with Deep Shrines (except _Shrine of Order_), uses 5 Knowledge per deal.
+-   Engaging in a deal with _Shrine of Order_, uses 10 Knowledge.
+-   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge.
 
 ## **Trivia**
 
 -   _Knowledge_ functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._
+-   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding.
+-   Knowledge gained from gaining Power is enough to engage in a deal with _Shrine of Order_ at Power 10.

@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 41987
+revid: 50326
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Face]
@@ -8,9 +8,9 @@ categories: [Armors, Face]
 
 # Blindfold
 
-“ I am legally blind ”
+“ Domain expansion!!! ”
 
-― New player who joined 3 days ago and just found a blindfold
+― Freshie discovering blindfolds for the first time
 
   
 Template:EquipmentStats

@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 48586
+revid: 50208
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -14,7 +14,7 @@ categories: [World]
 
 ## Description
 
-Environmental hazards are time/location-based events or dangers. While called "hazards," these can be used to your advantage and even directly help players.
+**Environmental Hazards** are time/location-based events or dangers. While called "hazards," these can be used to your advantage and even directly help players.
 
 **Weather:**
 
@@ -74,7 +74,7 @@ Environmental hazards are time/location-based events or dangers. While called "h
 </tr>
 <tr>
   <td>Void</td>
-  <td>Chime maps</td>
+  <td>Chime of Conflict</td>
   <td>Immediate death.</td>
 </tr>
 <tr>
@@ -98,6 +98,11 @@ Environmental hazards are time/location-based events or dangers. While called "h
   <td>Watchers</td>
   <td><a href="The_Depths.md">City of the Drowned</a></td>
   <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and three <a href="Hollow_Angel.md">Lesser Angels</a> will spawn at your location.</td>
+</tr>
+<tr>
+  <td>Kyrsgrade Artillery</td>
+  <td><a href="Second_Layer.md">Second Layer</a> (New Kyrsa)</td>
+  <td>Randomly spawning around entrance to New Kyrsa. Walking into it's proximity causes projecticles to spawn in series of 3 every few seconds at the location of the player. Lasts for around 10 seconds.</td>
 </tr>
 </tbody>
 </table>

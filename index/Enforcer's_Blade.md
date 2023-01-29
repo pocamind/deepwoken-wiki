@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 49430
+revid: 50337
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greatswords]
@@ -24,15 +24,15 @@ categories: [Weapons, Weaponry, Items, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Enforcer |
-| description | 'Lorem Ipsum.' |
+| description | ''The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation.” |
 
 ## Description
 
-The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapon and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing an [Enforcer](Enforcer.md) that is wielding the greatsword. It is dropped randomly, and is significantly rarer than the Enforcer's Axe. It does 47.5 damage at maximum Heavy Weapons.
+The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapon and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), by killing an [Enforcer](Enforcer.md) that is wielding the greatsword. It does 48.9 damage at max Heavy Weapons.
 
   
 
 ## Trivia/Notes
 
--   The drop appears to be much rarer than the Enforcer's Axe. (It took 23 Enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade)
--   It has the critical attack of an [Enforcer's Axe](<Enforcer's_Axe.md>) however it doesn't guarantee an instant posture break.
+-   This item used to be significantly rarer than the Enforcer’s Axe, but after Enforcer variants were added it became much more common, equal to the Enforcer’s Axe and [Enforcer’s Hammer](<Enforcer's_Hammer.md>)
+-   It has the same critical attack as the [Enforcer's Axe](<Enforcer's_Axe.md>).

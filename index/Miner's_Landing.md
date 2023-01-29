@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 47522
+revid: 50221
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -33,7 +33,7 @@ To the right of the Docks, the NPC for the [Oathless](Oaths.md#oath-oathless) qu
 
 Miner's Landing's Docks.
 
-Additionally, there is a [Mystic](Mystic.md) located atop a fallen pillar up and to the right of the docks.
+Additionally, there [Mystic](Mystic.md) located atop a fallen pillar up and to the right of the docks.
 
 File:Image 2023-01-12 223944902.png
 

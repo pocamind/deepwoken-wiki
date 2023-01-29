@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 50196
+revid: 50210
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -287,7 +287,7 @@ There are two variants that enchantments come in:
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 50% more damage in PVE.<br>
   Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.<br>
-  <b>(Currently Un)Obtainable</b></p></div></td>
+  <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -302,7 +302,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><center><br>
   <font>Tainted Sorrow<div></div></font></center></td>
   <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
-  <b>Currently unobtainable (mods do not have access to this enchant)</b><br>
+  <b>Unobtainable (mods do not have access to this enchant)</b><br>
   <b>Obtainable via dev interaction</b></p></div></td>
   <td><div>Weapon has the effects of the Displacement and Wild enchants, combined with a purple-blue haze.</div></td>
 </tr>

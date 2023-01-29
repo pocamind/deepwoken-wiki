@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 50165
+revid: 50328
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,6 +8,11 @@ categories: [Armors, Items, Outfits]
 
 # Hive Drone
 
+“ Bzzzzzzzzzz beep boop ”
+
+― Hive Drone users or something idk i don’t play deepwoken
+
+  
 Template:ArmorInfobox**Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics

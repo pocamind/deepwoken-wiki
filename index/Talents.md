@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50204
+revid: 50260
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -722,12 +722,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: Ice Forge
+    -   Prerequisite: Ice Forge, 25 Frostdraw.
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity, +3 Health)
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Prerequisite: Cryonis, 25 Heavy, 50 Frostdraw.
 -   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: Ice Forge
+    -   Prerequisite: Ice Forge, 25 Frostdraw.
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
 -   Saint Jay \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)

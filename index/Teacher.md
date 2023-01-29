@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 48616
+revid: 50279
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## _Overview_
 
-The Teacher (listed as " teacher" in-game) is a Pathfinder NPC that effectively grants you a free attribute point by listening to a story. They wear the unobtainable "Veteran Adventurer" outfit.
+The Teacher (listed as " teacher" in-game) is a Pathfinder NPC that effectively grants you a free attribute point by listening to a story. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) & [Pathfinder Cloak](Pathfinder_Cloak.md) outfits.
 
 -   A story of bravery. (Willpower)
 -   A story of cunning. (Intelligence)
