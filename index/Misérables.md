@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 47901
+revid: 50452
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -10,7 +10,7 @@ notices:
 
 # Misérables
 
-Misérables is an NPC in the second floor of the Eternal Gale, found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+Misérables is an NPC in the second floor of the [Eternal Gale](The_Depths.md). He is found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 Template:NPC name
 

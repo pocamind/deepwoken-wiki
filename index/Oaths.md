@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 50227
+revid: 50476
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -99,7 +99,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 “ I'm.. illegally blind ? ”
 
-― A power 3 blind Gremor getting blindseer for the first time.
+― A blind Gremor freshie getting blindseer for the first time.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 

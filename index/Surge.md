@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 49471
+revid: 50466
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

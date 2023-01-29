@@ -1,13 +1,13 @@
 ---
 title: Redd
-revid: 33045
+revid: 50441
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Redd
 
-“ WHY IS IT CALLED A REDD WHEN IT IS CLEARLY ORANGE?? \*Flips Table\* ”
+“ WHY IS IT CALLED A REDD WHEN IT’S CLEARLY ORANGE?! ”
 
 ― A Confused Yet Frustrated Celtor
 

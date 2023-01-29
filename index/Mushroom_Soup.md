@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 44097
+revid: 50401
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Items]
@@ -23,3 +23,5 @@ Mushroom Soup is crafted with any combo of two different mushrooms at a campfire
 File:Mushroom-soup.png
 
 Art by T0LKA
+
+Fanart by T0LKA

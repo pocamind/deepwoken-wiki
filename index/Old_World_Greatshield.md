@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 49822
+revid: 50454
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -27,13 +27,13 @@ categories: [Weapons, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, Chime of Conflict, Bounty Chests, other obtainment unknown |
+| obtainment | Miner's Landing, Chime of Conflict, Bounty Chests, Crypt of the Unbroken |
 | description | A shield designed intricately, most likely from a pre-Canticlyms era. It's intricate design suggests previous use in royalty, although it cannot be said for sure. |
 
 ## Description
 
-The Old World Greatshield is a large shield found in [Miner's Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and the requirements for the shield is 20 FTD. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the sides by a bar, both the same color of the trim.
+The Old World Greatshield is a shield found in [Miner's Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and the requirement for the shield is 20 FTD. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the sides by a bar, both the same color of the trim.
 
 ## Trivia
 
--   The description says that this shield may have been used in royalty.
+\-

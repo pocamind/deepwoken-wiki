@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 47116
+revid: 50392
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -10,6 +10,8 @@ categories: [NPCs]
 
 Template:NPC name
 
-someone pls edit
+Maedhran is an NPC found in [Miner’s Landing](<Miner's_Landing.md>). He will sell you [Mantra Modifiers](Mantra_Modifiers.md) for 100 [notes](Notes.md) apiece.
 
-things i know - he tells a long ass story, i just listened idk what will happen if you keep interrupting him. -he sells mantra modifiers for 100 notes each (not the ones that drops from bosses, but the ones that drop from normal npcs; expensive af) -found near the rep reset npc at miner's landing
+## Dialogue
+
+\-

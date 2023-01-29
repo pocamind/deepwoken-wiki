@@ -1,13 +1,18 @@
 ---
 title: Blade Temple Guard
-revid: 38451
+revid: 50502
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs]
 ---
 
 # Blade Temple Guard
 
+“ Nooooo!!! I am a trained master swordsman who dedicates his life to the blade!! You can’t just be stronger than me!!! ”
+
+― Vigil Guard to Etrean Guard
+
+  
 Template:EnemyInfobox1.0
 
 ## Description

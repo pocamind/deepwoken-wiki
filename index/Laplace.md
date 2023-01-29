@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 45908
+revid: 50346
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -8,9 +8,9 @@ categories: [World, NPCs]
 
 # Laplace
 
-“ Hand what in? There's nothing in your hands. ”
+“ ooooo aaaaahah hic waaaaa ”
 
-― Laplace
+― Enchant traders on 9/19/22
 
   
 Laplace is located in [Greathive Aratel](Greathive_Aratel.md) in the R&D section.
@@ -29,4 +29,4 @@ He lets you trade 3 [enchantments](Enchantments.md) for a randomized enchant on 
 ## Trivia
 
 -   Laplace's method of transmuting 3 Enchants into 1 Weapon enchant is by wrapping all 3 Enchants together in Linen (presumably rope, not cloth).
--   ~Laplace once used to be in the Greathive Aratel's R&D Branch, but was moved as of the new update.~ Laplace is back to the R&D Branch in Greathive Aratel as of the Verse 2 update.
+-   Laplace was moved to an area in [Lordsgrove](The_Lordsgrove.md) when he was given the ability to enchant weapons, but was then moved back to R&D in the Verse 2 update.

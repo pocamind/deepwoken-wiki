@@ -1,14 +1,12 @@
 ---
 title: Mantra Modifiers
-revid: 49819
+revid: 50453
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 ---
 
 # Mantra Modifiers
-
-A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 
 **Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 

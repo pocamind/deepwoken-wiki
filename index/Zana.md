@@ -1,16 +1,16 @@
 ---
 title: Zana
-revid: 49145
+revid: 50511
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Pages with broken file links, Enemies]
 ---
 
 # Zana
 
 ## Overview
 
-Zana is a Quest NPC (Taking the form of a Vesperian Elite Pathfinder) that rewards the Player the 'Poser Ring', a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. He is a joke on Metamancers, using a shattered katana and Royal Pathfinder. Not to mention the fact you fight him at all the ganking spots.
+Zana is a Quest NPC (Taking the form of a Vesperian Elite Pathfinder) that rewards the Player the Poser’s Ring, a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. He is a joke on “metamancers,” using a shattered katana and Royal Pathfinder, not to mention the fact you fight him at all the ganking spots.
 
   
 As long as you have a Katana equipped, you can partake in Zana's quest.

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 50179
+revid: 50385
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -30,11 +30,11 @@ notices:
 
 “ Your own Depths shall take you. ”
 
-― soul of Sudaruska
+― Sudaruska
 
 ## Description
 
-The Gran Sudaruska (Grrahn Soo·daah·roo·shkah) is a Legendary [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
+Gran Sudaruska is a Legendary [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
 
 This weapon has 3 passives abilities:
 

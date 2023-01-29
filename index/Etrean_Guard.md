@@ -1,9 +1,11 @@
 ---
 title: Etrean Guard
-revid: 50284
+revid: 50371
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Candidates for deletion, Armors, Items, Outfits]
+notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"Fake outfit\""
 ---
 
 # Etrean Guard

@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Guard
-revid: 49127
+revid: 50501
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs]
 ---
 
 # Ignition Union Guard

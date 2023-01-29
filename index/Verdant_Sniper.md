@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 50163
+revid: 50484
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,4 +30,4 @@ This Outfit's Schematic can be found at:
 
 ## Trivia
 
--   Includes a cosmetic collar (3D model)
+-   This armor has a 3D collar, a trait shared only with the [Prophet’s Cloak](<Prophet's_Cloak.md>)

@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 42326
+revid: 50413
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher, Glacial Lionfish |
-| description | "" |
+| description | "-" |
 
 ## Description
 
@@ -33,5 +33,5 @@ The True Seraph's Spear is a MED weapon. This spear can be obtained from killing
 
 ## Trivia
 
--   The spear is named after the "Seraph" the highest level of angels in Ancient Judaism.
+-   The spear is named after the "Seraph," the highest level of angels in Ancient Judaism.
 -   The damage is mediocre at best but the chip damage makes up for it. Stacks poorly with [Obfuscation Enchantment](Enchantments.md) due to the chip cap of 50%.

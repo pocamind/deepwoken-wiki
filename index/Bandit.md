@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 48924
+revid: 50481
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

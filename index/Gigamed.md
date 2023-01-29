@@ -1,18 +1,12 @@
 ---
 title: Gigamed
-revid: 49326
+revid: 50474
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Gigamed
-
-“ We give our lives for PAKISTAN! ”
-
-― The 4 Gigameds sent by a single King Gigamed
-
-  
 
 **Gigamed:**
 

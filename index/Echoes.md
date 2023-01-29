@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 50292
+revid: 50351
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics]
@@ -36,7 +36,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
--   Crafting a [Master Armor](Outfits.md), awarding \[UNKNOWN AMOUNT\] Echoes.
+-   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a Deep Shrine, awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.

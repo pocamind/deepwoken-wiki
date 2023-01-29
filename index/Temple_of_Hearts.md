@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 36067
+revid: 50463
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,7 +14,7 @@ An esoteric place even the most pious of men are known to seek out, though all t
 
   
 
-**Temple of Hearts** is a location in _Deepwoken_. It is located in [The Depths](The_Depths.md).
+**Temple of Hearts** is a location in _Deepwoken_. It is found in [The Depths](The_Depths.md).
 
 ## Overview
 

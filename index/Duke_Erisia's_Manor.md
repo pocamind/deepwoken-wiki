@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 46458
+revid: 50354
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -18,7 +18,7 @@ What was stolen from below lies within.
 
 ## Overview
 
-Duke Erisia's Manor is a manor that can be found on [Upper Erisia](Upper_Erisia.md) which its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside.
+Duke Erisia's Manor is a location in [Upper Erisia](Upper_Erisia.md). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside.
 
 This place is usually visited by going to the bottom gate supposedly at the edge of [Towerstruck Lands](Towerstruck_Lands.md) which will lead to you to a place called [The Garden Reservoir](The_Garden_Reservoir.md) and traversing the harmful acidic floor and broken architects until you see the far right side corner gap that leads to a short tunnel followed by a distinct turquoise-colored teleporter that will directly send you to an output teleporter (which is just a little bit above you, you also can't go back and exit safely without negated health unless you parkour out of the map, reset or use [Graceful Landing](https://deepwoken.fandom.com/wiki/Talents#Acrobat)) in Duke Erisia's Manor.
 
@@ -38,5 +38,5 @@ Duke Erisia's Manor exterior
 ## Trivia/Notes
 
 -   Not advised to do with a too big of a group due to health scaling.
--   Recommended to enter if you are level 15+, MAX Attunement (for unbounding purposes), and planning to raid with a group of 2-3 (the larger the group, the more health the Duke will have.)
+-   Recommended to enter only if you are level 15+ and have 75 Attunement (for unbounding purposes).
 -   If the key to the manor is not glowing it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes, either wait that timeframe out or switch servers to progress.

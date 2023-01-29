@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 38729
+revid: 50435
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -10,7 +10,7 @@ categories: [Map]
 
 LocationL Temple Of The Forgotten Flame LocationR
 
-A temple as old as the island itself, robbed of it's heart.
+A temple as old as the island itself, robbed of its heart.
 
   
 
@@ -41,3 +41,7 @@ Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious
 ## NPCs
 
 -   Neero, a Pathfinder who'll give you [insight about his career](Lore.md).
+
+## Trivia/Notes
+
+”The island itself” in the caption refers to [Erisia.](Erisia.md)

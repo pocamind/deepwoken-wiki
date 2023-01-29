@@ -1,17 +1,25 @@
 ---
 title: Grand Authority Plate
-revid: 47736
+revid: 50414
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Stub pages without reason, StubPages, Arms, Article stubs]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Grand Authority Plate
 
-A pretty rare gold and black armor similar to siege cuirlass from Miner's Landing chests which full covers the body.
+“ - ”
 
-Altough i dont have enough knowledge of how to obtain this i suppose its a rare drop from depths chest since thats how i got it from fishing.
+― -
 
-File:GrandAuthorityPlates.png
+Template:EquipmentStats
 
-Ingame Image
+## Description
+
+Grand Authority Plate is an accessory under the "Arms" category.
+
+## Trivia
+
+\-

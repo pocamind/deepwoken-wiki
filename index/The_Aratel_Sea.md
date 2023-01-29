@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 48705
+revid: 50407
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,3 +44,7 @@ The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), wi
 -   Merchant Ship
 -   Damaged Ship w/ [Megalodaunt](Megalodaunt.md)
 -   Thunderstorm
+
+## Trivia/Notes
+
+\-

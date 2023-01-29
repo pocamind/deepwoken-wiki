@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 41787
+revid: 50477
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

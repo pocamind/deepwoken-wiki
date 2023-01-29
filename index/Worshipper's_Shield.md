@@ -1,9 +1,9 @@
 ---
 title: "Worshipper's Shield"
-revid: 48717
+revid: 50515
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields]
+categories: [Weapons, Shields, Items]
 ---
 
 # Worshipper's Shield

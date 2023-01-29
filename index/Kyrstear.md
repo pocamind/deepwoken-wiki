@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 49952
+revid: 50487
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -32,7 +32,7 @@ categories: [Weapons, Verse 2]
 
 ## Description
 
-Kyrstear is an off-hand weapon. Despite the 40 agility requirement, at the moment it's bugged and you can equip it with any amount of agility.
+Kyrstear is an offhand weapon. Despite the 40 agility requirement, at the moment it's bugged and you can equip it with any amount of agility.
 
 Its function is the same as that of the Parrying Dagger (but better):
 

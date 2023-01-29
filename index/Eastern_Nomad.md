@@ -1,13 +1,18 @@
 ---
 title: Eastern Nomad
-revid: 48210
+revid: 50507
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Enemies that can wield Enchantments, NPCs]
 ---
 
 # Eastern Nomad
 
+“ I. HATE. EVERYONE!!! ”
+
+― Nomad after watching his entire tribe get murdered by a level 20 for no reason for the 18th time that day
+
+  
 Template:EnemyInfobox1.0
 
 ## Description

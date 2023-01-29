@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 40576
+revid: 50442
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,5 +33,5 @@ The Sword is the default medium weapon users start with beginning the game with 
 
 ## Trivia
 
--   It is the most popular starter weapon used in the [Chime of Conflict](Chime_of_Conflict.md).
+-   It is the most popular starter weapon used in the [Chime of Conflict](Chime_of_Conflict.md), as supported by official statistics posted on Deepwoken’s Twitter.
 -   It cannot drop from chests.

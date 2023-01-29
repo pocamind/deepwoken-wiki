@@ -1,13 +1,18 @@
 ---
 title: Summer Company Guard
-revid: 48668
+revid: 50499
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs]
 ---
 
 # Summer Company Guard
 
+“ Own a musket for home defense, I say! ”
+
+― Summer Company Guard
+
+  
 Template:EnemyInfobox1.0
 
 ## Description

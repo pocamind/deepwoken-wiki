@@ -1,9 +1,9 @@
 ---
 title: Tanto
-revid: 47134
+revid: 50521
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers]
+categories: [Weapons, Daggers, Weaponry]
 ---
 
 # Tanto

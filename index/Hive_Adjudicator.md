@@ -1,9 +1,11 @@
 ---
 title: Hive Adjudicator
-revid: 50042
+revid: 50376
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Outfits]
+categories: [Candidates for deletion, Character, Armors, Outfits]
+notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"Fake outfit\""
 ---
 
 # Hive Adjudicator
