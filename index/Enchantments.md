@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 50703
+revid: 50963
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -92,7 +92,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you.</p></div></td>
+  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you(Doesn't work on bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>

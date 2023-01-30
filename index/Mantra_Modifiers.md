@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 50453
+revid: 50955
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -668,7 +668,7 @@ File:Wind Gun with Blast Spark.gif
 
  | 
 
--   This modifier turns the "Wind Gun" mantra into a shotgun, firing 3 rounds of short-ranged wind bullets.
+-   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of short-ranged wind bullets.
     -   Do note that this Spark will override the effects of a Multiplying Spark.
 
  |
@@ -1051,8 +1051,8 @@ File:Ice Eruption with Round Spark.gif
 
  | 
 
--   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
-    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) and [Authority Captain's](Authority_Captain.md) Ice Eruption.
+-   This modifier causes the "Ice Eruption" mantra to summon a wall around the user.
+    -   Do note that this modifier causes the mantra to do **NO DAMAGE AT ALL**.
 
  |
 

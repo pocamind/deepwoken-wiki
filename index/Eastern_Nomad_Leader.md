@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 50508
+revid: 50943
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -31,7 +31,7 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 \[[Fists](Fists.md)\] Raises right leg before firmly slamming it down into the ground below.
 
  | ◯ | ✗ | (★★☆) |
-| Glacial Eruption | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
+| Old Ice Eruption | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
@@ -51,4 +51,4 @@ An Eastern Nomad Leader executes it's opponent after knocking them:
 ## Trivia
 
 -   You can hand them a Navaen Hostage to obtain the [Way of Navae](Fists.md) fighting stance.
--   The only NPC that is able to use the old "Ice Eruption" mantra since the Layer 2 update.
+-   One of 3 enemies that utilizes the old "Ice Eruption" mantra.

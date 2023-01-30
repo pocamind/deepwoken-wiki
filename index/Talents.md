@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50902
+revid: 50961
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1218,7 +1218,7 @@ These Talent are meant to make maintaining your ship easier.
 
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
--   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
+-   Unphased \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
     -   Negate tier 1 insanity: Shivering.
     -   Prerequisites: 50 Willpower, 50 Fortitude, Grasp on Reality
 
@@ -1717,7 +1717,7 @@ File:Thresherquest1.png
 ### Heretic Sutra
 
 -   A chant that steers you into the state of insanity for 20 seconds.
--   Gives insanity instantly.
+-   Gives a burst of insanity instantly and enable talents that require to be gaining insanity to activate for 15 seconds.
     -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents

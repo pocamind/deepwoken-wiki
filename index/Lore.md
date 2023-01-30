@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 49916
+revid: 50972
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1493,7 +1493,7 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ### Power Level
 
--   A Power 20 player is slightly mores powerful than Chaser but slightly less powerful than Klaris.
+-   A Power 20 player is slightly more powerful than Chaser but slightly less powerful than Klaris.
 
 ### Character Deaths
 

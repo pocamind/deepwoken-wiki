@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 48937
+revid: 50940
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,22 +37,14 @@ Critical
  | ◯ | ✗ | (★★☆) |
 | 
 
-Ice Eruption
+Old Ice Eruption
 
  | Stomps the ground, causing thick needles of ice to form around the user. | ◯ | ◯ | (★★☆) |
 | 
 
 Glacial Shower
 
- | Rains down shards of ice.
-
--   Exclusive to Authority Commander
-
- | ◯ | ◯ | (★★☆) |
-
-### Boons:
-
--   Mantra Modification - An Authority Captain's "Ice Eruption" mantra is modified with a [Round Spark](Mantra_Modifiers.md).
+ | Rains down shards of ice. | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -68,3 +60,5 @@ An Authority Captain executes it's opponent after knocking them:
 ## Trivia
 
 -   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.
+-   One of 2 enemies that utilizes the unobtainable "Glacial Shower" mantra.
+-   One of 3 enemies that utilizes the old "Ice Eruption" mantra.
