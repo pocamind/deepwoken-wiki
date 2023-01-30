@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 50616
+revid: 50904
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -12,7 +12,7 @@ notices:
 
 “ Empty the compartments of your pantaloons! ”
 
-― An Ice Lancer about to show a poor Ganymede how it feels to get styled on in the Depths.
+― A Kyrsgarde Lancer about to show a poor Ganymede how it feels to get styled on in the Depths.
 
   
 
@@ -39,7 +39,7 @@ Assault
 
 -   Recommended to roll back for the first 2-hits and parry the throw.
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ | ◯ | ✗ | ◯ | (★★☆) |
 | 
 
 Glacial Javelin
@@ -48,7 +48,7 @@ Glacial Javelin
 
 -   Easiest move to parry if fighting one on one.
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Skyward Spear
@@ -57,34 +57,19 @@ Skyward Spear
 
 -   Parry it when the arm of the Kyrsgarde reachest the highest point.
 
- | ◯ | ◯ | ◯ | (★★☆) |
+ | ◯ | ✗ | ◯ | (★★☆) |
 
 ## **Finisher**
+
+A Kyrsgarde executes it's opponent:
 
 | Name | Description |
 | --- | --- |
 | Devastating Slash | The Kyrsgarde swipes it's spear at it's opponent, dealing a fatal blow and killing them. |
 
-**Ice Lance Throw** ★★★ (★☆☆ if its a minion from SoE boss fight) **The Kyrsgarde holds out its arms and forms a ice lancer with frostdraw and throws it swiftly, aimed very accurately at the player**
-
-_Recommended to block or roll out of._
-
-_If lands will ragdoll_
-
-**Ice Lance Combo** ★★☆ **The Aformentioned Kyrsgarde holds out its arms and forms a ice lance with frostdraw, and swings it in an almost formal and stern way, showing that the Kyrsgarde know how to Lance** (THIS ATTACK iS EXCLUSIVE TO THE KYRSAN FIGHTERS AKA THE ONES WITHOUT GLOWIN HEADS OR SOMETHING)
-
-_Recommended to block or roll out of as well as this attack is deadly_
-
-_Used at melee range, this attack auto grips_
-
-_Possibly throws the lance at the end ?_
-
-## Finisher
-
--   Ice Swipe: It will swipe it's Ice Spear at you, insta-gripping you when knocked.
-    
-
 **Kyrsgarde Crawler:**
+
+Template:Creature Infobox V3
 
 ## **Description**
 
@@ -97,9 +82,19 @@ The Kyrsgarde Crawler is the weakest of them all for it only has 1 attack. They 
 | 
 Cloaking Assault
 
- | The Kyrsgarde Crawler backs away from it's opponent before approaching forward, going invisible and reappearing to perform a 2-hit combo at it's opponent. | ✗ | ◯ | ◯ | (★★☆) |
+ | The Kyrsgarde Crawler backs away from it's opponent before approaching forward, going invisible and reappearing to perform a 2-hit combo at it's opponent. | ◯ | ◯ | ◯ | (★★☆) |
+
+## **Finisher**
+
+A Kyrsgarde Crawler executes it's opponent:
+
+| Name | Description |
+| --- | --- |
+| Placeholder | Placeholder |
 
 **Kyrsgarde Sniper:**
+
+Template:Creature Infobox V3
 
 ## **Description**
 
@@ -118,7 +113,7 @@ Glacial Javelin
 
 -   Easiest move to parry if fighting one on one.
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Skyward Spear
@@ -127,9 +122,11 @@ Skyward Spear
 
 -   Parry it when the arm of the Kyrsgarde reachest the highest point.
 
- | ◯ | ◯ | ◯ | (★★☆) |
+ | ◯ | ✗ | ◯ | (★★☆) |
 
 ## **Finisher**
+
+A Kyrsgarde Sniper executes it's opponent:
 
 | Name | Description |
 | --- | --- |
@@ -147,13 +144,23 @@ These aren't your typical stupid brute guys, they are an oddity when it comes to
 
 | Moves | Description | Parryable? | Blockable? | Dodgeable? |
 | --- | --- | --- | --- | --- |
-| Clenching Assault | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. | ✗ | ✗ | ◯ |
-| Slam | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
+| 
+Clenching Assault
+
+ | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. | ✗ | ✗ | ◯ |
+| 
+
+Slam
+
+ | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
+
 -   **THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.**
 
  | ✗ | ✗ | ◯ |
 
 ## **Finisher**
+
+A Kyrsgarde Brute executes it's opponent:
 
 | Name | Description |
 | --- | --- |
@@ -161,6 +168,8 @@ These aren't your typical stupid brute guys, they are an oddity when it comes to
 
 ## Trivia
 
+-   It is highly recommended to watch Raum's video before challenging these mobs.
+    -   [https://www.youtube.com/watch?v=iQe71nCEUpk](https://www.youtube.com/watch?v=iQe71nCEUpk)
 -   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPC's in layer 2 note how when rumbling was heard from the "roof" (Chaser) they started patrolling.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City ontop of Ethirons Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway. Keep in mind this is information was from an Outsider of the Kyrsgarde
 -   The Kyrsgarde in Firfire are not hostile and actually worship Ethiron and also pay the player no harm, they also seemingly only consist of the Kyrsan Lancers guys. They are actually quite funny as when you pick the dialogue option of giving them a dumb name, they will albeit no hard feelings retaliate by when interacting the leader, they will give you a name similiar to themselves except with if I'm correct one of the words consisting of "Twinkletoes".
