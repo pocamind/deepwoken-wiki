@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 46961
+revid: 50861
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers]
+categories: [Weapons, Rapiers, Weaponry]
 ---
 
 # Inquisitor's Thorn

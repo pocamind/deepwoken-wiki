@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 50763
+revid: 50820
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -89,13 +89,11 @@ Map:Etrean Luminant Inside
 
 **L2:**
 
-**Void (Dreamspace):**
+**Voidheart (Dreamspace):**
 
-**Voidheart:**
+**Itself:**
 
-**Void Chamber:**
-
-Map:Void Chamber
+**Chamber:**
 
 **The Trial of One:**
 

@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 39056
+revid: 50888
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items, Spears]
 
 ## Description
 
-The trident spear is a medium weapon and the second best spear in the game. It can be obtained by doing the explosion crate quest at summer island or from chests at many different places.
+The Trident Spear is a medium weapon. It can be obtained by doing the explosion crate quest at summer island or from chests at different places.
 
 The weapon itself is really similar to the iron spear, having the same m1s and criticals, only differing in stats.  
 

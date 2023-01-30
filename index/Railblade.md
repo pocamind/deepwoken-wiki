@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 49437
+revid: 50839
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Items, Weaponry, Greatswords, Legendary Weapons]
 
 The Railblade is a heavy weapon obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and it is a legendary weapon. The Railblade requires 80 HVY and PWR 10 to equip.
 
-The Railblade is unique because of its two different critical attacks, along with the critical inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
+The Railblade is unique because of its two different critical attacks, along with the criticals inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
 
 ## Critical Animations
 
@@ -47,3 +47,4 @@ Airborne Critical
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
 -   This weapon can only be used one-handed
 -   The criticals are probably based on Flame Breathing from Demon Slayer
+-   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the Lightborn race.

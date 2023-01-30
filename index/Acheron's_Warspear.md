@@ -1,9 +1,9 @@
 ---
 title: "Acheron's Warspear"
-revid: 47983
+revid: 50884
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Spears, Weaponry]
 ---
 
 # Acheron's Warspear

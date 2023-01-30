@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50782
+revid: 50902
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1044,7 +1044,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Puppet Master
 
 -   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   Prerequisites: 75 Flamecharm & 70 Shadowcast
+    -   Prerequisites: 60 Flamecharm & 70 Shadowcast
     -   This Talent is currently broken.
 
 ### Pyromancer
@@ -1243,12 +1243,11 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tactician
 
--   Hard Read \[Common Talent\] - Hitting your opponent after a feint will cause them to be dazed. (+4 Ether)
+-   -   Punishing Blow \[Rare Talent\] - Daze opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
+        -   Prerequisite: 20 Heavy Weapons Mastery Hard Read \[Common Talent\] - Hitting your opponent after a feint will cause them to be dazed. (+4 Ether)
     -   Prerequisites: 20 Intelligence
 -   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
     -   Prerequisites: 20 Intelligence
--   Punishing Blow \[Rare Talent\] - Daze opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
-    -   Prerequisite: 50 Heavy Weapons Mastery
 
 ### Tavernkeep
 
@@ -1282,11 +1281,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 5 Agility, 10 Charisma
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
-    -   Prerequisite: 5 Charisma
+    -   Prerequisite: 25 Agility, 5 Charisma
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
 -   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
-    -   Prerequisites: 40 Charisma, 10 Agility, all Thief talents
+    -   Prerequisites: 10 Agility, 40 Charisma, All Thief talents
 
 ### Thunder Brawler
 

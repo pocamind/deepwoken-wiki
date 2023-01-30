@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 50628
+revid: 50834
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Pages with broken file links, Enemies]
@@ -17,8 +17,10 @@ As long as you have a Katana equipped, you can partake in Zana's quest.
 
 Zana will challenge you in 3 different locations; 2 in the Etrean Luminant, 1 in Eastern Luminant-- All in order:
 
-1\. Navaen Nomad Encampment at Etrean Wilds
+1\. Navaen Nomad Encampment at Etrean Wilds {Spawns to the right of facing the Nomad Encampment} The Nomads will attack Zana when he spawns, have someone else knock all the Nomads or find a server where they are killed in order to actually fight him.
 
-2\. Shores of Lower Erisia, near Vigils
+2\. Shores of Lower Erisia, near Vigils {Spawns infront of the gate to enter Erisia, where the beach begins}
 
-3\. Entrance of Monkey's Paw Zana acts as an encounter in the places you're suppose to challenge him; so it'll take time for him to spawn in
+3\. Entrance of Monkey's Paw {Spawns after the narrow channel with the falling leaves}
+
+Zana acts as an encounter in the places you're suppose to challenge him; so it'll take time for him to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, he'll drop a chest after roughly 20 seconds with songseeker loot.

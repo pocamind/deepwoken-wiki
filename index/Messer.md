@@ -1,9 +1,9 @@
 ---
 title: Messer
-revid: 37868
+revid: 50867
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Swords, Weaponry]
 ---
 
 # Messer

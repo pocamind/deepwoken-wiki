@@ -1,9 +1,9 @@
 ---
 title: Cavalry Saber
-revid: 37739
+revid: 50871
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Swords, Weaponry]
 ---
 
 # Cavalry Saber

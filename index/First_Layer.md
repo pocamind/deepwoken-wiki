@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 50548
+revid: 50830
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -128,7 +128,7 @@ Just some information to keep in mind and remember.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
--   If you are of the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
+-   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 
 ## **Quests in First Layer**
 
@@ -264,7 +264,7 @@ Legendary = Gold
 
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
--   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. Permanently unlocks the Shadow Magic for future lives.
+-   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadow Magic](Shadowcast.md) for future lives.
 -   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
