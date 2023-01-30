@@ -1,8 +1,9 @@
 ---
 title: Travelling Merchant
-revid: 50200
+revid: 50709
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Travelling Merchant
@@ -27,6 +28,7 @@ The prices of Chili's items may vary from price to price.
     -   Seafood Boil
     -   Cake
     -   Noodles
+    -   Cooked Fish
 
 -   **Weapons:**
     -   [Whaling Knife](Whaling_Knife.md)
@@ -35,6 +37,7 @@ The prices of Chili's items may vary from price to price.
     -   [Iron Birch](Iron_Birch.md)
     -   [Inquisitor Straight Sword](<Inquisitor's_Greatsword.md>)
     -   [Great Maul](Great_Maul.md)
+    -   [Tanto](Tanto.md)
 -   **Armors:**
     -   Winter Corps Parka
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
@@ -46,3 +49,4 @@ The prices of Chili's items may vary from price to price.
 ## Trivia
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
+-   It is possible for there to not be any Armor.

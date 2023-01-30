@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 50618
+revid: 50685
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -10,7 +10,7 @@ categories: [Luck, Mechanics]
 
 “ This is the way. ”
 
-― Bounty hunters chasing Fugitive Players
+― Bounty Hunter guild
 
 A Bounty Board located in Etris.
 
@@ -21,6 +21,7 @@ A Bounty Board located in Etris.
 The details of the Bounty.
 
 -   When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot, (depending on how many stars the person you hunted has) and some exp. The person who got killed will have their reputation pushed toward their default value (usually neutrallity).
+-   If you are being hunted instead and manage to kill off your hunter. YOU will get a chest filled with loot.
 
 Examples:
 
@@ -42,7 +43,7 @@ Examples:
 
 ## Trivia
 
--   The stars might be inspired by GTA, where in GTA the more stars you have the more wanted you are.
+-   The stars might be inspired by GTA, where in GTA the more stars you have the more wanted you are but stars are commonly used in Deepwoken to measure somethings power/level like an item or mantra.
 -   You can hunt more than one person at once.
 -   Using Blood Scourge might not work since you actually have to grip the person. \[Unconfirmed, but most likely false.\]
 -   The least amount of stars someone can have is one star.

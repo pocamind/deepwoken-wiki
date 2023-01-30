@@ -1,12 +1,16 @@
 ---
 title: Monster Mantras
-revid: 50644
+revid: 50781
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
 ---
 
 # Monster Mantras
+
+“ I am Heavy Weapons Etrean. And this, is my weapon. She weighs 150 kilograms, and fires 200$ custom tool cartridges at ten thousand rounds per minute. It costs four hundred thousand notes to fire this weapon… for 12 seconds. ”
+
+― Heavy Weapons Etrean, showing off his Mecha Gatling
 
 ## Description
 

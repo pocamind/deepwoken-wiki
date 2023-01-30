@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 50471
+revid: 50698
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,7 +30,7 @@ This Outfit's Schematic can be found in:
 
 -   [Fishing](Fishing.md) (Chest)
 -   [Upper Erisia](Upper_Erisia.md), specifically Temple Of The Forgotten Flame
--   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [The Depths](The_Depths.md)
 
 ## Trivia

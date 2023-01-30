@@ -1,8 +1,9 @@
 ---
 title: Wishmaker
-revid: 50037
+revid: 50757
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Outfits, Armors, Items]
 ---
 
 # Wishmaker

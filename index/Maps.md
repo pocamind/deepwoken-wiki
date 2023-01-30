@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 49685
+revid: 50763
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -40,8 +40,6 @@ Map:Etrean Luminant Inside
 **Outside:**
 
 **Inside:**
-
-**Voidheart:**
 
 **The Depths:**
 
@@ -91,6 +89,14 @@ Map:Etrean Luminant Inside
 
 **L2:**
 
+**Void (Dreamspace):**
+
+**Voidheart:**
+
+**Void Chamber:**
+
+Map:Void Chamber
+
 **The Trial of One:**
 
 **Chime of Conflict:**
@@ -116,6 +122,12 @@ Map:The Falcon's Hold
 **The Unearthed Colosseum:**
 
 Map:The Unearthed Colosseum
+
+**The Scoundrel's Bounty (Tutorial):**
+
+Map:The Scoundrel's Bounty
+
+**The Interstice:**
 
 **The Hall of Shattered Wills:**
 

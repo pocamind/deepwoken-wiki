@@ -1,8 +1,9 @@
 ---
 title: The Hidden Grove
-revid: 47920
+revid: 50740
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Map]
 ---
 
 # The Hidden Grove

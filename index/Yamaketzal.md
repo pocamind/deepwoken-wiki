@@ -1,8 +1,9 @@
 ---
 title: Yamaketzal
-revid: 46901
+revid: 50759
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Chime of Conflict]
 ---
 
 # Yamaketzal

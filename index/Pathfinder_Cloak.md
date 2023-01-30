@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 50338
+revid: 50695
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,4 +30,4 @@ This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   In the tent next to Galebreathe trainer at Isle of Vigils.
--   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 50627
+revid: 50703
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Mechanics]
@@ -21,7 +21,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular wea
 -   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
 -   Enchanted items appear as light purple in your inventory
--   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, it is possible to find enchanted face/ears/back equipment through player trading
+-   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these, so they can be obtained via trading.
     -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
 -   Unenchanted weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
 -   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading

@@ -1,8 +1,9 @@
 ---
 title: Movement
-revid: 31941
+revid: 50713
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Movement

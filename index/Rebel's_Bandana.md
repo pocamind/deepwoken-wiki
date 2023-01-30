@@ -1,8 +1,9 @@
 ---
 title: "Rebel's Bandana"
-revid: 35318
+revid: 50717
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Armors]
 ---
 
 # Rebel's Bandana

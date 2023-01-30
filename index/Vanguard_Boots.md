@@ -1,8 +1,9 @@
 ---
 title: Vanguard Boots
-revid: 41751
+revid: 50752
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Boots, Armors, Items]
 ---
 
 # Vanguard Boots

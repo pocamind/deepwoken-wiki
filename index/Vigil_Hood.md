@@ -1,8 +1,9 @@
 ---
 title: Vigil Hood
-revid: 35726
+revid: 50753
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Armors, Helmets, Items]
 ---
 
 # Vigil Hood

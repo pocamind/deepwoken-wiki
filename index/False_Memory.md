@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 48221
+revid: 50666
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -29,7 +29,7 @@ categories: [Weapons, Swords]
 
 “ Fragments of the blade seem to be drifting off to the vast void surrounding you. ”
 
-―
+― Description
 
 ## Description
 

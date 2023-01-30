@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 49631
+revid: 50702
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -69,7 +69,7 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 ## Weapon Proficiency Unbound
 
 1.  Reach 75 Heavy/Medium/Light
-2.  Start the A lost sibling quest by talking to Apprentice Kj.
+2.  Start the [A lost sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj.
 3.  Obtain a [Gale Stone](Gale_Stone.md).
 4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the Acid Garden's.
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))

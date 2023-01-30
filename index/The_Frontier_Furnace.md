@@ -1,9 +1,9 @@
 ---
 title: The Frontier Furnace
-revid: 49007
+revid: 50802
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Locations, Layer 2, The Depths]
+categories: [In progress with reason, InProgressPages, Locations, Layer 2, Floor 1]
 notices:
   - This page is currently being worked on. Please check back later.
 ---

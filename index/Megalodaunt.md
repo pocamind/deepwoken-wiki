@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 50636
+revid: 50806
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,11 +11,10 @@ notices:
 
 # Megalodaunt
 
-“ There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? ”
+“ URAOblOblOOblWAUUGH ”
 
-― Archivist Journal: Megalodaunt
+― Megalodaunt Roar
 
-  
 _Commonly referred to as **Sharko**_
 
   
@@ -313,4 +312,4 @@ A Megalodaunt swimming.
 -   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
 -   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
--   In the Autumn of 1273, an event transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players spamming this item and spawning an unforeseen amount of Megalodaunts killing a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
+-   There was a special "Event" of sort with these monsters, Dupped the "Sharko Rumbing, Autumn of 1273." Due to a new item being adding to spawn sharko with a chance, Players spammed it all over the land. Causing sharkos to raid and murder players alike. since then they fixed it, but it was a hell of a way to die.

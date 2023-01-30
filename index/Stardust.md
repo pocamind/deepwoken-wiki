@@ -1,8 +1,9 @@
 ---
 title: Stardust
-revid: 47629
+revid: 50731
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics, Items, Oaths]
 ---
 
 # Stardust
@@ -19,10 +20,12 @@ An [Adret](Adret.md) [Linkstrider](Oaths.md) holding Stardust.
 
 ## Obtainment
 
-\- Stardust is obtained by finding it at Startrees located at:
+\- Stardust is obtained by finding it at Star Trees located at:
 
-[Starfield Veldt](Starfield_Veldt.md)
+[Starfield Tundra](Starfield_Tundra.md)
 
 [Aratel Island](Aratel_Island.md)
+
+[Starfield Veldt](Starfield_Veldt.md)
 
 (There are probably more but i forgot them)

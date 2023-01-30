@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 50146
+revid: 50694
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,9 +30,9 @@ This Outfit's Schematic can be found in:
 -   [Miner's Landing](<Miner's_Landing.md>) at the bank
 -   [Primadon](Primadon,_Titan_of_the_East.md) Chests
 -   [Depths](The_Depths.md)
--   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 
 -   One of the best early/mid game armors, as it gives fairly high physical and elemental armor, which rivals some expert tier armors while remaining cheap to make.
--   Better than the [Summer Company Uniform](Summer_Company_Uniform.md). (Debatable)
+-   Generally better than the [Summer Company Uniform](Summer_Company_Uniform.md). (Debatable)

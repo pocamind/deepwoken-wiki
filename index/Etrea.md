@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 36184
+revid: 50772
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -15,7 +15,7 @@ notices:
 | territory | EtrisIsle of Vigils |
 | goals | Survival , Collecting artefacts and the Forge of Sin , Defeat The Authority |
 
-“ Welcome, Friend of Etrea. ”
+“ Welcome, traveler. Don’t go causing any trouble, all right? ”
 
 ― Etrean Guard
 

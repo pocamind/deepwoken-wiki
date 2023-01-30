@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50608
+revid: 50782
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -15,9 +15,9 @@ This is a browser function, but all mainstream browsers should have it.
 
 ## Overview
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two hands containing five to six Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive three hands containing five to six Talent Cards.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as ~Fold~ ~or Legendary Echoes.~ Legendary Echoes have been removed along with Fold.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -678,7 +678,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
 -   True Ether Bullets \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Prerequisites: 30 Intelligence, Use a Gun / Rifle
+    -   Prerequisites: 30 Intelligence and 20 light/medium, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)

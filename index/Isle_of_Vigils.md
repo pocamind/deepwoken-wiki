@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 48545
+revid: 50701
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -81,7 +81,7 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   She will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
 -   Accepting her quest gives you a Lumber Axe for free.
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
--   Acts similar to Korin in Etris; 10 Wood for, plus Etrea [reputation](Reputation.md).
+-   Acts similar to Korin in Etris; 6 Wood for, plus Etrea [reputation](Reputation.md).
 -   This quest is repeatable.
 
 ### Treefelling Blow Talent Quest

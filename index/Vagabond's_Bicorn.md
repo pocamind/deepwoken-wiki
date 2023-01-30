@@ -1,8 +1,9 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 39636
+revid: 50751
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Helmets, Items, Armors]
 ---
 
 # Vagabond's Bicorn

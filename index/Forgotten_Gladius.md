@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 49653
+revid: 50681
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -34,3 +34,4 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 -   One of the best alternative weapons to use in the endgame if you don't want to use a [Shattered Katana](Shattered_Katana.md). The Swing Speed is incredibly high, and can mess up a lot of people if they are not prepared. Forget the [Rapiers](https://deepwoken.fandom.com/wiki/Weaponry#Rapiers), if you want to bridge the gap between the Medium and Light playstyles, pick this weapon up right now.
 -   After recent nerfs, the Gladius now has 0.02x slower swing speed than [Falchion](Falchion.md) and the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+-   Can be considered an side/upgrade from the [Curved Blade of Winds](Curved_Blade_of_Winds.md)

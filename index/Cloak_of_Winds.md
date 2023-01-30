@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 50167
+revid: 50691
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -29,7 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 This Outfit's Schematic can be found in:
 
 -   [The Depths](The_Depths.md)
--   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   Fishing at any location
 -   [Minityrsa](Minityrsa.md)

@@ -1,8 +1,9 @@
 ---
 title: Traits
-revid: 48117
+revid: 50748
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Traits

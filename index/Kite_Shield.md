@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 35991
+revid: 50777
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Shields]
@@ -31,7 +31,7 @@ categories: [Weapons, Weaponry, Items, Shields]
 
 ## Description
 
-A Kite Shield is a side weapon under the Shield category and can be obtained through chests in [Erisia](Erisia.md).
+A Kite Shield is a side weapon under the “Shield” category and can be obtained through chests in [Erisia](Erisia.md).
 
 ## Notes
 

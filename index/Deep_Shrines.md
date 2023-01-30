@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines
-revid: 50201
+revid: 50711
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Knowledge]
 ---
 
 # Deep Shrines
@@ -36,7 +36,7 @@ _Pros/Cons_
 -   You can still gain mantras after max level.
 -   You lose knowledge points which are very valuable.
 -   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
--   If you have multiple attunements, the three you get to chose won't be the same element as the one you lost.
+-   If you have multiple attunements, the three you get to choose won't be the same element as the one you lost.
 
 ### **Shrine of Blasphemy**
 

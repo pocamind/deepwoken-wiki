@@ -1,8 +1,9 @@
 ---
 title: The Voidmother
-revid: 47977
+revid: 50754
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # The Voidmother
