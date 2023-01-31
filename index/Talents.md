@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51221
+revid: 51223
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1444,7 +1444,7 @@ These Talents are designed to make you more effective in water.
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon.
 
--   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies with your dagger.
+-   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
 ### Whisper

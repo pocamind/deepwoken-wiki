@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 51191
+revid: 51230
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -53,3 +53,4 @@ The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 15%
     -   ~This is **THE META** now, the [Shattered Katana](Shattered_Katana.md) is already being dropped for the alloyed version or the [Serpent's Edge](<Serpent's_Edge.md>).~
     -   ~As of writing this, the Forgotten Gladius and Alloyed Falchion are **THE META** now. This will probably change **a lot**.~
     -   Please, stop talking about the meta. As long as you have skill, anything can be meta to you. Just, please, don't be a fool.
+-   While way the weapon is held might look confusing, this is in fact how a Shotel is meant to be used. Shotels were designed to allow the user to strike behind shields, thanks to the curve of the word.

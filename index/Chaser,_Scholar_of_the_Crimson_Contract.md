@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 51210
+revid: 51225
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -57,7 +57,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 -   _**The first instance of this does the most damage**_
 
  | ✗ | ✗ | ◯ | (☆☆☆) |
-| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. | ◯ | ◯ | ◯ | (★★★) |
+| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ✗ | (★★★) |
 | **Bounder Spawn** | At lower HP, he summons Bounders
 
 -   **Note: He only spawns them if you hit him too many times, so it is recommended to not attack him and only break the jars.**

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 51121
+revid: 51226
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -210,7 +210,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Scion of Ethiron. Does NOT work on Chaser.</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Scion of Ethiron. Heals WAY less when proc on Chaser.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight rose particle effect.</div></td>
 </tr>
 <tr>

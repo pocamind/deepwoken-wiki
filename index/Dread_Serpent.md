@@ -1,9 +1,9 @@
 ---
 title: Dread Serpent
-revid: 50253
+revid: 51232
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss, Monsters]
+categories: [Boss, Monsters]
 ---
 
 # Dread Serpent
@@ -62,7 +62,5 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   Apparently it can fly, though it doesn't use this in battle.
 
 ## Gallery
-
-File:Coolerkaido.png
 
 Closeup

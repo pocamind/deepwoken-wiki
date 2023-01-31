@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 49544
+revid: 51228
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -338,7 +338,7 @@ _Undying flame._
     -   Regenerates ~15% of user's health upon receiving lethal damage.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
--   Resets some of the user's sanity.
+-   Restoress some of the user's sanity.
 -   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
     -   Potentially Incompatible with Duration modifiers.
 -   Freezes user in place for a brief moment on a successful cast.
@@ -737,7 +737,7 @@ Azure Flames
 
 ## Notes
 
--   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can reset some sanity upon use, while also allowing you to not die.
+-   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can restore some sanity upon use, while also allowing you to not die.
     -   The Graceful Flame can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in Ganks/Guild wars.
 -   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.

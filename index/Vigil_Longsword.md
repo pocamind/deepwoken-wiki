@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 51201
+revid: 51233
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -24,7 +24,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from Songseeker Wilds, Minityrsa, Depths |
+| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Miner's Landing, First Layer |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
 | Alloyed Vigil Longsword | |
@@ -41,14 +41,16 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy use, Arena Chests, Voidwalker Chests |
+| obtainment | Main source:, Using a Pluripotent Alloy on oneChests from:, Chime of Conflict, Voidwalkers |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
 **Base:**
 
 ## Description
 
-The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED _(30 MED?)_, it is obtained from chests in [Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md), and [The Depths](The_Depths.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
+The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED, it is obtained through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Miner's Landing](<Miner's_Landing.md>) and the [First Layer](First_Layer.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
+
+## Trivia
 
 **Alloyed:**
 

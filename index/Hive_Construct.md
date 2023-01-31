@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 50993
+revid: 51227
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -21,7 +21,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive as indicated by the green glowing rings around the arms. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive, which explains its unique abilities to create life with every attack. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. Does insane damage (around ~200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
 
 ## Spawn Locations
 
@@ -102,7 +102,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.\\
--   There are many ledges on Minitrysa that allow you to easily cheese the golem without taking damage.
+-   There are many ledges on Minitrysa that allow you to easily cheese the construct without taking damage.
     
     A hive golem talking.
     
