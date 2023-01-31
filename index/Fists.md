@@ -1,9 +1,9 @@
 ---
 title: Fists
-revid: 50850
+revid: 51097
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Weaponry, Items, Fists]
+categories: [Weapons, Pages with broken file links, Fists]
 ---
 
 # Fists

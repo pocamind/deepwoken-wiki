@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 50899
+revid: 51220
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -63,7 +63,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repercussions to you.
 -   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
--   The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.
+-   ~The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.~ Now outclassed directly by the [Kyrscleave](Kyrscleave.md), or, ideally, [Evanspear Hand Axe](Evanspear_Greataxe.md). Heroism is still viable, but is significantly less consistent and possibly less effective than Chilling paired with the [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) talent.
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 

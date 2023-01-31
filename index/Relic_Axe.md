@@ -1,9 +1,9 @@
 ---
 title: Relic Axe
-revid: 41590
+revid: 51182
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items, Greataxes]
+categories: [Weapons, Greataxes]
 ---
 
 # Relic Axe

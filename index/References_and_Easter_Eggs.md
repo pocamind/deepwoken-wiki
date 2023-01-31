@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 48925
+revid: 51132
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -156,6 +156,7 @@ notices:
     -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
+    -   He has negative Navaen Nomad reputation. He was probably gripping them for Frigid Prisms.
 
 ### **The Eastern Luminant**
 

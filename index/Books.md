@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 51082
+revid: 51184
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -24,7 +24,7 @@ File:Adret reading.png
 
 A lone adret reading Diver Journal 2
 
-**IF YOU ARE TO ADD BOOKS BELOW, PLEASE DO SO IN ALPHABETICAL ORDER BECAUSE WE KNOW OUR ABCs AND CAN USE THEM EFFECTIVELY. (Note: When ordering alphabetically, the word 'the' doesn't count, for example, The Gideshu March would be placed with books beginning with the letter G)**
+**IF YOU ARE TO ADD BOOKS BELOW, PLEASE DO SO IN ALPHABETICAL ORDER BECAUSE WE KNOW OUR ABCs AND CAN USE THEM EFFECTIVELY. (Note: When ordering alphabetically, the word 'the' doesn't count, for example, The Gideshu March would be placed with books beginning with the letter G)**  
 
 ## All Currently Known Books
 
@@ -213,8 +213,10 @@ To the Depths below...
 
 ### The Gideshu March
 
-from Vincent Zeneke's monograph cycle 'Songs of the Sea'
-
+  
+from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
+  
+  
     
    
 We're masters of the oceans wide,  
@@ -531,8 +533,10 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 
 ### Our Fortress (Of Smoke And Steel)
 
-from Vincent Zeneke's monograph cycle 'Songs of the Sea'
-
+  
+from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
+  
+  
     
    
 We're workers of Summer Company,  
@@ -589,9 +593,7 @@ We work for the Summer Company...
 > 
 > Smolkin, whose father initially trained him to become a luthier, drew on his experience with musical instruments, and combined the properties of the zitherin and lutelen instrument families. Smolkin's luthier training also meant that he was taught to play Old World guitarrons in some middling capacity - and thus, by extension, he could play the canjolin, as it relied on many conventional guitarron practices in construction and tuning.
 > 
-> Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B|-N|-B|-B-V is a melody that feels very natural to play on the canjolin - no surprise given the its tuning. And although Smolkin's steel wire designs for small arms firing mechanisms did not catch on, his musical instrument innovation did. The canjolin gained widespread popularity among Summer Company employees over the coming years, likely owing it to its ease of tuning, its portability, versatility, and sharp carefree sound.
-> 
-> And close behind the canjolin, "Our Fortress" followed. Quickly, it became a popular tune for beginners learning to play the instrument, as well as a sort of an identifying anthem of the Company. Future players of the canjolin innovated on its use - some artists prefer to play it horizontally, like a zitherin instrument; and some mantra users incorporate their attunements while playing, with flamecharmers and frostdrawers manipulating tuning mid-play by using heat and frost, and thundercallers spawning a method of play known as 'overdrive' with electrified strings.
+> Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B
 
 ### Stars Above, and the Blade between
 
@@ -630,8 +632,10 @@ We work for the Summer Company...
 
 ### Tale of the Storm
 
-from Vincent Zeneke's monograph cycle 'Songs of the Sea'
-
+  
+from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
+  
+  
    
 Come, gather 'round,  
 Hear, sailors, my tale -  

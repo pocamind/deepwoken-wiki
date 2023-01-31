@@ -1,9 +1,9 @@
 ---
 title: Shattered Katana
-revid: 50846
+revid: 51088
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Weaponry]
+categories: [Weapons, Swords, Katanas]
 ---
 
 # Shattered Katana
@@ -25,10 +25,6 @@ categories: [Weapons, Swords, Katanas, Weaponry]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita, Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Burning Blood |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
-
-“ Heresy, you say? If it is for the sake of preserving Etrea, I will seize any manner of heretical strength, I will endure any burden. ”
-
-― Level 20 Thundercall SK user about to kill 50 freshies for the glory of Etrea
 
 ## Description
 

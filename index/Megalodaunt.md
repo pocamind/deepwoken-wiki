@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 50828
+revid: 51116
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,11 +11,11 @@ notices:
 
 # Megalodaunt
 
-“ "There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose" (Jiba ur not funny we want lore) ”
+“ URAOblOblOOblWAUUGH ”
 
-― Archivist Journal Megalodaunt
+― Megalodaunt Roar
 
-_Commonly referred to as **Sharko, or Big white man**_
+_Commonly referred to as **Sharko**_
 
   
 
@@ -300,7 +300,7 @@ Roar
 A Megalodaunt swimming.
 
 -   Sharkos have swimming animations, as seen on the right.
-    -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, suchs as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
+    -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.

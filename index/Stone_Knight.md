@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 49830
+revid: 51209
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -112,3 +112,5 @@ A Stone Knight executes the player:
 -   Recommended to dodge all attacks and get 1-2 hits in depending on if your HVY, MED, or LHT weapon. Unless it does the double slash in that case you want to dodge the first and quickly parry the second and get 1-2 hits in.
 -   Usually when a **Blizzard Knight** swings once, he'll either use **Kick** or **Terra Eruption**, so be prepared to dodge.
 -   A dev-exclusive and much more powerful variant of the Blizzard Knight is known to exist, known as the Astral Knight. It has the Astral [Enchant](Enchantments.md) on it's sword, and has white eyes instead of red or cyan. See [here](https://www.youtube.com/watch?v=Vl2hSLyUszg) for proof of its existence.
+-   It is highly recommended to ragdoll cancel (right click during ragdoll) Terra Eruption and Kick to make sure you don't get hit by a follow up move.
+-   Terra Eruption and Kick can be blocked with enough posture.

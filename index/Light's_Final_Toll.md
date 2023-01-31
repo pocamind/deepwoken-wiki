@@ -1,9 +1,9 @@
 ---
 title: "Light's Final Toll"
-revid: 50854
+revid: 51215
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Weaponry]
+categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
 ---
 
 # Light's Final Toll
@@ -38,6 +38,8 @@ Light's Final Toll is a mystical spirit lantern that floats beside the player. T
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   The only weapon that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
 -   **Is not compatible with Jus Karita.**
+-   Has misleading animations that extend the weapons visual reach way outside of it's effective hotbox.
+-   Can switch between Way of Navae and Legion Kata critical attacks.
 
 ## Gallery
 

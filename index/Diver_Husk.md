@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 49204
+revid: 51086
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,17 +8,13 @@ categories: [Monsters, Layer 2]
 
 # Diver Husk
 
-“ Watch. Your. TONE. ”
-
-― Diver Husk after punting a freshie into the void with Strong Left
-
 Template:EnemyInfobox1.0
 
 ## Overview
 
 Diver Husks are a enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms.
 
--   Diver Husks can vary in groups; either by solo or 3 denizens.
+-   Diver Husk numbers can vary; either solo or in a group of three.
 
 ## Moveset
 

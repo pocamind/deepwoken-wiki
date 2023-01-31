@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 50701
+revid: 51219
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -42,6 +42,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 #### Mantra Shop
 
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears), [Hemafrost](Training_Gear.md#attunement-training-gears), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears), [Gale Kata](Training_Gear.md#attunement-training-gears) and a [Pure Heart](Training_Gear.md#attunement-training-gears) here for.
+-   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
     -   [Wandering Swordsman](Vigil_Initiate.md) for.
     -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 40.
@@ -59,11 +60,14 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 -   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice or revenge is used on him. After being hit three time or with revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
 
-### Zipline (don't even think about deleting it)
+### Ziplines
 
--   Up in the mountains(climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, a chest usually spawns up here.
+-   A zipline can be found near the Antiquarian, which is used as a shortcut to the docks.
+-   Up in the mountains, (climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, where a chest usually spawns up there.
 
 File:Unknownzipline.png
+
+The zipline to the mountain.
 
 ## Missions
 
@@ -105,3 +109,4 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
+-   Safest place for freshies due to the fact that there are barely any gankers in Vigils

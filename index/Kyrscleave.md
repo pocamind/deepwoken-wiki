@@ -1,9 +1,9 @@
 ---
 title: Kyrscleave
-revid: 49052
+revid: 51153
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Greatswords]
 ---
 
 # Kyrscleave

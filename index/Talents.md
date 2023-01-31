@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51081
+revid: 51221
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -890,6 +890,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
     -   Prerequisite: 30 Strength and 30 Fortitude
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
+    -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME"
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+10 Sanity)
 -   Piercing Will \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
