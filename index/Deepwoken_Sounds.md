@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 51075
+revid: 51317
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -85,7 +85,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Layer 2 Combat](Second_Layer.md) | File:INSOMNIA.mp3 |
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Layer 2](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
-| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | \[[Kyrsa](https://deepwoken.fandom.com/wiki/Second_Layer%7CNew)\] | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
+| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
 
 ### Additional Songs
 

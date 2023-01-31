@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 47192
+revid: 51259
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -119,7 +119,7 @@ While inside a Voidzone:
 
 **Rewards:** TBD
 
-### **Starfield Grove**
+### **[Starfield Grove](Starfield_Grove.md)**
 
 “ The beauty of the Valley, the Star Tree stands tall. ”
 

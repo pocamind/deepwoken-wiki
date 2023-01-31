@@ -1,9 +1,9 @@
 ---
 title: The Nestmind
-revid: 50742
+revid: 51271
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Lore]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # The Nestmind

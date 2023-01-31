@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 50006
+revid: 51294
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -34,7 +34,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I once performed in a circus. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
 -   _I prefer to attack unseen. **(Assassin)**_
--   _Light on my feet, I sting like a bee. **(Butterfly)**_
+-   _I weave around my opponents. **(Butterfly)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_
 -   _I am a competent duelist. **(Duelist)**_
 -   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_

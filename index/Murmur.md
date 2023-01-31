@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 49200
+revid: 51260
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -100,6 +100,22 @@ Note: The Stranger NPC exists, but he no longer gives Tacet to players.
 Template:ImageCaption Infobox _"An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched."_
 
 **Murmur: Rhythm** is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
+
+Pressing G while crouched (same inputs as Eavesdrop), the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing).
+
+The detection range scales with the user level: higher level means the player will be able to point out sound from further away.
+
+Entities who do nothing will not emit a pulse and thus, can "hide" from Rhythm.
+
+### Heartbeat Sensor
+
+_"While using Rhythm, you can hear the subtle heartbeat of all living things nearby"_
+
+Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 50 Willpower and Power 15+.
+
+With this upgrade, entities in range (shorter than the max range for regular white pings) will emit a constant ping, no matter what they are doing.
+
+This allow the user to track down those who stay silent or are trying to hide from them. This even detects players who are using Murmur: Tacet, resulting in a white ping pointing at nothing.
 
 ### Obtainment
 

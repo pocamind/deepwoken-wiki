@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 51055
+revid: 51303
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -58,7 +58,7 @@ Map:Etrean Luminant Inside
 
 **Chaser Room:**
 
-**Cave System:**
+**Firfire Caverns:**
 
 **L0:**
 
@@ -96,6 +96,10 @@ Map:Etrean Luminant Inside
 
 **Echoes of Bloodshed:**
 
+**New Kyrsan Arterial Rail:**
+
+Map:New Kyrsan Arterial Rail
+
 **The Profane Cavern:**
 
 Map:The Profane Cavern
@@ -116,11 +120,19 @@ Map:The Unearthed Colosseum
 
 **The Scoundrel's Bounty (Tutorial):**
 
-Map:The Scoundrel's Bounty
+**Main Deck:**
+
+**Inside:**
+
+**Gun Deck:**
 
 **The Interstice:**
 
 **The Hall of Shattered Wills:**
+
+**Maxed Guild Base:**
+
+Map:Maxed Guild Base
 
 All Interactive maps can be found here.
 

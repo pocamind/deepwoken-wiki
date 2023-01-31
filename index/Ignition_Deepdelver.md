@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 50152
+revid: 51316
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -8,7 +8,11 @@ categories: [Character, Outfits, Armors, Items]
 
 # Ignition Deepdelver
 
-Template:ArmorInfobox **Ignition Deepdelver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox
+
+Force Your Way parrying an Alpha Megalodaunt Kick
+
+**Ignition Deepdelver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

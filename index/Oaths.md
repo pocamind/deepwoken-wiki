@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51207
+revid: 51269
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,6 +62,8 @@ There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
+
+  
 
 **Oathless:**
 
@@ -497,14 +499,16 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Obtainment
 
 1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
-    1.  Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again.
-2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
-3.  Complete the Duke questline.
-4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrine of Order.
-6.  Unlock your [Resonance](Resonance.md).
-7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
-8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.
+    -   Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again.
+    -   You can either get this through Imel, Emel and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
+
+1.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
+2.  Complete the Duke questline.
+3.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
+4.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrine of Order.
+5.  Unlock your [Resonance](Resonance.md).
+6.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
+7.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.
 
 ### Upgrading
 

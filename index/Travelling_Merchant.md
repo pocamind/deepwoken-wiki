@@ -1,9 +1,9 @@
 ---
 title: Travelling Merchant
-revid: 50709
+revid: 51284
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Vendors]
 ---
 
 # Travelling Merchant

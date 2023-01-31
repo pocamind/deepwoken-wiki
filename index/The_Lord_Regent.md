@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 50617
+revid: 51293
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -27,7 +27,7 @@ The throne upon which he sit is an artifact from the [Depths](The_Depths.md), am
 
 He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace.
 
-If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oaths.md#oath-contractor) Oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
+If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oaths.md#oath-contractor) Oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative etrea rep.
 
 Despite his mystique and power, he is still very much a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging.
 
@@ -35,8 +35,8 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 
 -   His throne produces steam.
 -   He appears to be based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, as both are blindfolded with long blonde hair and use shadow powers.
--   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n)) The Lord Regent will kill you no matter how much health you have.
-    -   You do not have to talk to him after killing [The Duke](Duke_Ishamon_Erisia.md), as he will already uncap your [attunement](Attunements.md) after killing him.
+-   If you finish his quest and you defeat The Duke **GO BACK TO HIM.** For some reason, half the XP and bell progress acquired from killing [the duke](Duke_Ishamon_Erisia.md) is only given upon reporting back to him.
+    -   Attunement uncaps will however be given immediately after killing [the duke](Duke_Ishamon_Erisia.md).
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also sends his contractors to kill other in The Depths.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not in fact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.

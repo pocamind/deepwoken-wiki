@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 48441
+revid: 51298
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -99,6 +99,7 @@ nearby opponents until the duration has expired or the orb has made contact with
 do a small amount of damage and steal a large amount of ether.
 
 -   Shares a cooldown with Shadow Meteors.
+-   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
 
  |
 | 
@@ -165,10 +166,9 @@ It should be noted that you can combine 2 of these sparks together
 Eclipse Kick  
 (★★★)
 
- | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
+ | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. Requires 15 Strength and 50 Shadowcast.
 
--   **Requires 20 Strength and 50 Shadowcast.** This mantra is a dual stat requirement like Ash Slam.
--   Deals a massive amount of posture and health damage. Can also break certain tiles and fell trees.
+This mantra is a dual stat requirement like Ash Slam. Deals a massive amount of posture and health damage. Can also break certain tiles and fell trees.
 
  |
 

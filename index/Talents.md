@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51223
+revid: 51307
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -295,6 +295,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks. (+1 Posture)
     -   Prerequisite: 25 Strength.
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
+    -   Prerequisites: 25 Heavy Weapon
 
 ### Champion
 
@@ -460,7 +461,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers.
     -   Can proc from physical mantras
-    -   Prerequisites: 20 Strength, 25 Agility
+    -   Prerequisites: 25 Strength, 20 Agility
 
 ### Duelist Flame
 
@@ -483,7 +484,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Ether Adept
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
-    -   Prerequisites: 15 Strength, 5 Intelligence
+    -   Prerequisites: 15 Strength, 10 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
     -   Gain Ether when you parry mantras.
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+7 Sanity)
@@ -1001,18 +1002,19 @@ These are just raw stat increases and are beneficial to anyone.
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    -   Prerequisites: Read strange writing while wearing a blindfold (Requires 40 Willpower).
+    -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 -   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
     -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring Dark Feather to Surge.
+    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 -   Oath: Linkstrider - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 -   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
-    -   Prerequisites: 50 agility, beat Alirian in race and collect White Orbs around the map.
+    -   Prerequisites: 50 agility and beat Alirian in race.
 -   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 50 strength, talk to Samael in Church (Ancient Rotlands) and kill Iblis, The Fallen Angel.
+    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
 -   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
+    -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
 
 ### Omniscient
 
@@ -1030,6 +1032,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Prospector
 
 -   Excavator \[Common Talent\] \[Quest Talent\] -Chance to receive two sets of ore when mining, mine ores a lot faster.
+    -   Prerequisite: Turn in 5 pure ores at a blacksmith.
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 
 ### Public Figure
@@ -1045,8 +1048,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Puppet Master
 
 -   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   Prerequisites: Corpse Explosion, 60 Flamecharm & 70 Shadowcast
-    -   This Talent is fixed as of 1/30/2023
+    -   Prerequisites: Corpse Explosion, 40 Flamecharm & 70 Shadowcast
 
 ### Pyromancer
 
@@ -1095,7 +1097,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   Boat Speed is significantly increased when facing in the direction of the wind.
+    -   Grant the speed from Wind Gates to the boat you are driving for a short duration.
 
 ### Seeker of Sound
 
@@ -1202,7 +1204,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity)
+-   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: Silencer's Edge and Silencer's Blade
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
@@ -1244,8 +1246,9 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tactician
 
--   -   Punishing Blow \[Rare Talent\] - Daze opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
-        -   Prerequisite: 20 Heavy Weapons Mastery Hard Read \[Common Talent\] - Hitting your opponent after a feint will cause them to be dazed. (+4 Ether)
+-   Punishing Blow \[Rare Talent\] - Daze opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
+    -   Prerequisite: 20 Heavy Weapons Master
+-   Hard Read \[Common Talent\] - Hitting your opponent after a feint will cause them to be dazed. (+4 Ether)
     -   Prerequisites: 20 Intelligence
 -   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
     -   Prerequisites: 20 Intelligence
@@ -1253,7 +1256,7 @@ These Talents are designed to let you survive longer against starvation and thir
 ### Tavernkeep
 
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity, +4 Ether)
-    -   Increases food satiation by 15%.
+    -   Increases food nutritional value by 15%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
 -   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%. (+5 Elemental Intensity, +2 Ether)
@@ -1485,7 +1488,7 @@ These Talents are designed to make you more effective in water.
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
     -   Knocking enemies will replenish more of your health and posture.
--   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+-   Return to the Light Ages \[Rare Talent\] - Your mantra damage is increased by 35%, but your incoming mantra damage is increased by 35% too. (+5 Health)
     -   Prerequisite: Power 10
     -   Mutual Exclusive: Everchanging Aegis
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
@@ -1493,7 +1496,7 @@ These Talents are designed to make you more effective in water.
 ### **Human Architecture**
 
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll. Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
+    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll. Prerequisites: 100 Fortitude, 75 Willpower, Perseverance
 
 ## Whispers
 

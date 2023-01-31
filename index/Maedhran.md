@@ -1,9 +1,9 @@
 ---
 title: Maedhran
-revid: 50392
+revid: 51272
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Vendors]
 ---
 
 # Maedhran

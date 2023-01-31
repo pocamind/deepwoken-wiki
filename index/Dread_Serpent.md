@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 51232
+revid: 51240
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -47,11 +47,9 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 ## Trivia
 
 -   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be obtained, if player already has another Murmur.
--   The mantra 'Kaido's Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.
--   Its general design appears to be a reference to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
 -   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
