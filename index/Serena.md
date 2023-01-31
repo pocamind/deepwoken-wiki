@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 50942
+revid: 51024
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -57,5 +57,5 @@ Serena executes her opponent after knocking them:
 
 ## Trivia
 
--   One of 2 enemies that utilizes the unobtainable "Glacial Shower" mantra.
--   One of 3 enemies that utilizes the old "Ice Eruption" mantra.
+-   One of [two enemies](Authority_Captain.md) that utilizes the unobtainable "Glacial Shower" mantra.
+-   One of [four](Eastern_Nomad_Leader.md) [enem](Songseeker_Frostdrawer.md)[ies](Teacher.md) that utilizes the old "Ice Eruption" mantra.

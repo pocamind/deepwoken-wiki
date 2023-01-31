@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 46468
+revid: 51031
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -17,7 +17,7 @@ Home to the Rotten Lot, a vessel carrying crew members of countless origins hopi
   
 Template:Areainfobox
 
-The Scoundrel's Bounty is a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea, it does not function as a [boat](Ships_&_Sailing.md), and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
+**The Scoundrel's Bounty** is a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea, it does not function as a [boat](Ships_&_Sailing.md), and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
 
 ## Contents
 

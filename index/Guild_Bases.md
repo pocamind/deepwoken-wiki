@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 49115
+revid: 50987
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -46,16 +46,6 @@ From this, the total cost of all rooms and NPCs would be a whopping.
 
 You can donate notes to other guilds by talking to their treasurer.
 
-The Chime of Dwelling does not work under the following:
-
--   Using the Chime inside a Guild Base.
--   Depths and its Layers.
--   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
--   Dungeons or Missions.
--   Occupied Locations by Factions that see you as a Hostile.
--   Being in-combat or near hostile NPCs.
--   Boatman's Watch.
-
 ## Nodes
 
 A guild base can be increased in size through different nodes. Some provide practical uses, while others purely cosmetic.
@@ -75,16 +65,12 @@ Library's Donated Books
 
   
 
-  
-
 ## Events
 
 -   Bandit Raid - Very rarely, bandits will spawn inside your guild base and begin attacking you.
 
 ## Trivia
 
--   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
--   Players cannot go into guild halls while holding a body.
 -   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   You can break the Guild Base open while inside and fall off the map.
 -   Grand skewers is disabled while inside, as it could throw people out the base.

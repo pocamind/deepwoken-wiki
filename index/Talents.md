@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 50961
+revid: 51081
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1044,8 +1044,8 @@ These are just raw stat increases and are beneficial to anyone.
 ### Puppet Master
 
 -   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   Prerequisites: 60 Flamecharm & 70 Shadowcast
-    -   This Talent is currently broken.
+    -   Prerequisites: Corpse Explosion, 60 Flamecharm & 70 Shadowcast
+    -   This Talent is fixed as of 1/30/2023
 
 ### Pyromancer
 

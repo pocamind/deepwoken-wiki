@@ -1,10 +1,23 @@
 ---
 title: "Poser's Ring"
-revid: 50914
+revid: 51020
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ring]
 ---
 
 # Poser's Ring
 
-A Ring obtained from the Zana quest that makes the user deal all their damage upon sheathing their katana
+Template:EquipmentStats
+
+## Description
+
+The Poser's Ring is a special ring that can be obtained by completing [Zana's](Zana.md) quest.
+
+While using a Katana, the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their katana. When this happens, all damage dealt by the katana will be dealt instantly.
+
+## Trivia
+
+-   The Poser's Ring can be used with either the Katana or the Shattered Katana
+-   If the user attempts to use a mantra, the Katana will "Sheathe," dealing its damage.
+-   The Poser Ring sheathe damage cannot be parried or nullified in any way

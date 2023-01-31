@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 50002
+revid: 50982
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -133,6 +133,14 @@ All mantras gained from this are 2 stars and some have special effects, as Dread
 ### [Oath Mantras](Oaths.md)
 
 Mantras you obtained through your Oath. Although it lacks the trainers to help level your Oath's Mantras, its exclusive abilities and uniqueness makes up for it.
+
+## Mantra IDs
+
+Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activated by typing /console in chat or pressing F9.
+
+`Squad`\- Flame/Frost Servants
+
+Add more if you find them.
 
 ## Modifying Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 50913
+revid: 51075
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -170,13 +170,13 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 3.0s | Changing Area |
 |  | 6.0s | Alternative [powering up](Power.md) |
 |  | 0.3s | Zipline loop |
-|  | 0.1s | [Bell](Resonance.md) on active |
-|  | 0.1s | Legendary bell on active |
-|  | 0.2s | Corrupt bell on active |
-|  | 0.02s | [Blood scourage](Blood_Scourge.md) on active |
+|  | 0.1s | [Resonance](Resonance.md) on activation |
+|  | 0.1s | Legendary Resonance on activation |
+|  | 0.2s | Corrupted Resonance on activation |
+|  | 0.02s | [Blood scourage](Blood_Scourge.md) on activation |
 |  | 0.01s | Blood scourage after execute |
 |  | 0.8s | Foraging |
-|  | 8.0s | Obtaining a [Bell](Resonance.md) |
+|  | 8.0s | Obtaining a [Resonance](Resonance.md) |
 
 ## Trivia/Notes
 

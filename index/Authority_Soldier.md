@@ -1,9 +1,9 @@
 ---
 title: Authority Soldier
-revid: 49622
+revid: 51080
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, NPCs, Enemies]
+categories: [Enemies]
 ---
 
 # Authority Soldier

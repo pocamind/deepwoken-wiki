@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 50907
+revid: 51071
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -21,8 +21,6 @@ Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fou
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
 Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them.
-
-He is a unique enemy in that killing him requires breaking his blood jars around the room, rather than fully depleting his HP.
 
 ## Moveset
 
@@ -148,10 +146,9 @@ Roughly fourteen chasers solo without the Bosses Resonance Progression path will
 -   Chaser is seen wielding six Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players, even if they.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
--   Chaser is resistant to Bloodless Gems and the Vampirism enchant.
--   Considered one of the easiest bosses, can even be beaten as a freshie.
+-   Prior to the update as of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an oath in the future, probably via the Second Prophet, similar to the Contractor Oath with Lord Regent.
--   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2.
+-   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.
 
 Rag's statement on Chaser's discontinued (actual) Phase 2.
 

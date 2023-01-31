@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 50323
+revid: 51023
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,15 +8,11 @@ categories: [Enemies]
 
 # Blade Instructor
 
-“ Erm… what the scallop ”
-
-― An Etrean freshie after getting infinite comboed by this
-
-  
+Template:EnemyInfobox1.0
 
 ## Description
 
-Template:EnemyInfobox1.0 The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to Das who is located in the Sparring Arena on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
+The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to Das who is located in the Sparring Arena on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
 
 Instructors wear a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [race](Aspects.md) varying.
 
@@ -48,9 +44,8 @@ If a Instructor is the one that downs the player they will disappear and the pla
 
 ## Tips
 
--   It's an instructor, he's meant for practicing skill. Very good for low level practice against NPC's (not players).
+-   It's an instructor, he's meant for practicing skill.
 -   Same skill level as a non dagger bandit leader.
--   WILL grip you if you are knocked.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 49277
+revid: 51083
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -39,6 +39,7 @@ The Hivelord's Hubris is a Greathammer that resembles the brutally torn off arm 
 -   It has, by far, the slowest swing speed of any weapon in the game. While more predictable than other heavy weapons, it does gargantuan damage when landing a hit.
 -   One of the most damaging heavy weapons in the entire game, being on par with the damage from [Crazy Slots](Crazy_Slots.md)' Divine Weapons.
 -   It was recently nerfed and now weapons like [Kyrscleave](Kyrscleave.md) or [Evanspear Hand Axe](Evanspear_Greataxe.md) have higher DPS.
+-   If you pair this with the Heavy Hands Ring, you can make the swing speed 0.38x, making it **unparryable**.
     
     File:Hivelord Arm.png
     

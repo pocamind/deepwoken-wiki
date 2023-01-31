@@ -1,8 +1,9 @@
 ---
 title: Deepwoken UGC
-revid: 47708
+revid: 51061
 source: https://deepwoken.fandom.com/wiki/Deepwoken_UGC
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Deepwoken UGC

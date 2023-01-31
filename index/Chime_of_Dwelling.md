@@ -1,9 +1,9 @@
 ---
 title: Chime of Dwelling
-revid: 48444
+revid: 50991
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Mechanics, Guilds]
+categories: [Stub pages without reason, StubPages, Mechanics, Guilds]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -12,16 +12,32 @@ notices:
 
 > "There's always a road back home."
 
-File:Guild door.png
-
-Guild Base door carved by the Chime of Dwelling.
+Chime of Dwelling Item.
 
 ## Description
 
-The Chime of Dwelling is an item obtained by being in a [Guild](Guilds.md) and having the Officer Rank or above. It allows you to travel to your [Guild Base](Guild_Bases.md) by carving a doorway into a flat wall.
+The Chime of Dwelling is an obtainable item which is grant for being an Officer/Leader in a Guild. It allows you to set your [Guild Base](Guild_Bases.md) in any flat wall.
 
-Anybody can enter the base through these doors, however, they cannot interact with items inside of the base.
+The item demarcates a rectangular area where it generates (through an animation that lasts approximately 3 seconds) an iron door along with the name of the guild above it. When you go through this door, it will teleport you to the base of the guild.
+
+The Chime of Dwelling does not work under the following:
+
+-   Using the Chime inside a Guild Base.
+-   Depths and its Layers.
+-   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
+-   Dungeons or Missions.
+-   Occupied Locations by Factions that see you as a Hostile.
+-   Being in-combat or near hostile NPCs.
+-   Boatman's Watch.
+-   In Trial of One (including the area you first spawn in)
 
 ## Notes & Trivia
 
--   The base cannot be moved while someone is inside
+-   While someone is inside of the guild base, you are not available to de-spawn the door.
+-   Anybody can enter the base through these doors, however, they cannot interact with items inside of the base.
+-   Can only set one per server, if someones spawns the guild door in other location the other one will despawn.
+-   The guild name sign is a collision object, meaning you can use it as a tiny plataform to climb high walls.
+-   Players cannot go into or out of guild halls while holding a body.
+-   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
+-   Like [Chime of Conflict](Chime_of_Conflict.md) this is an undroppable item and can't be obtained by gripping players, even bypass slot wipe, the only way to lose it is to leave the guild or losing the Officer/Leader rank.
+-   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md).

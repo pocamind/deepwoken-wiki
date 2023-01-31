@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 49142
+revid: 51084
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -49,7 +49,7 @@ The city is patrolled by watchers that summon pairs of [Angels](Hollow_Angel.md)
 ### Shadowcast Spelltrainer Quest
 
 -   If you are unattuned with [Shadowcast](Shadowcast.md), the spelltrainer will give you a quest.
--   She will ask you for five Umbral Obsidian, obtain them and give it to him.
+-   They will ask you for five Umbral Obsidian, obtain them and give it to them.
 -   Doing this will result in a potion that will attune you with Shadowcast.
 
 ## Loot Table

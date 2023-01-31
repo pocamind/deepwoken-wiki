@@ -1,6 +1,6 @@
 ---
 title: Broken Gatling Gun
-revid: 50569
+revid: 51006
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -26,3 +26,4 @@ Can be given to [Carrion](Carrion,_Father_of_Evolution.md) to obtain the Mecha G
 ## Trivia
 
 -   This item is very rare.
+-   Very Gawd zamn rare.

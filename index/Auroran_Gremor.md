@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 50393
+revid: 51042
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Candidates for deletion, Outfits]
@@ -15,3 +15,4 @@ Template:ArmorInfobox**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.
 ## Trivia/Notes
 
 -   Related to [Auroran](Auroran.md)
+-   Known users: Auchura (Moderator)

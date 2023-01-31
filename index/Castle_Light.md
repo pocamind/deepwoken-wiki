@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 48885
+revid: 50990
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -56,6 +56,6 @@ Castle Light is a safe area within the First Layer belonging to [The Divers](The
 
 -   While considered a "safe zone" to some extents, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
--   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning(being gripped at a stained bar).
+-   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning(being gripped at a stained bar). deepbound can enter castle light even if they were sent to depths through being gripped
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
 -   Castle Light is a common spot for ganks, it is advised to be weary of large groups of players. In particular, Valekis, a popular Monad Studios Youtuber has been frequenting the area.

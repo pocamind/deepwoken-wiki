@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 50718
+revid: 51069
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -23,7 +23,7 @@ Mute, or less formally known as 'Animal King' completely neutralizes the hostili
 
 Note that Mute carries over to your next slot upon wiping, BUT there is an unknown time limit until it will not be transferred. It is generally safe to restart if you fail the [Trial of One](Trial_of_One.md) with Animal King, but older/more progressed characters may not inherit the Regalia.
 
-It also may not be a timer, but rather a power limit, which can be roughly estimated as power 1-5. (side note, I wiped as a power 8 with animal king and kept it on the next character, and i've failed trial multiple times before so there's probably no time limit)
+It also may not be a timer, but rather a power limit, which can be roughly estimated as power 1-5. (side note, I wiped as a power 8 with animal king and kept it on the next character, and i've failed trial multiple times before so there's probably no time limit) ((Someone who's wiped at power 19 here, I kept animal king and I had at least 10 hours on that slot))
 
 ## Sub-Regalias/Semi-Regalias
 
