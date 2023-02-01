@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51462
+revid: 51503
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -501,7 +501,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ### Obtainment
 
 1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
-    -   Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again. (WRONG: I did full duke quest before attempting to gain any form of minityrsa rep and I still got the bite your tongue dialogue.)
     -   You can either get this through Imel, Emel and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
 
 1.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51420
+revid: 51516
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1139,7 +1139,7 @@ Prerequisite: Charisma
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 -   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   Prerequisite: ~Static Link~ Surprisingly, you do not need Static Link. Got this without it.
+    -   Prerequisite: 40 Thundercall, 15 Intelligence, ~Static Link~ Surprisingly, you do not need Static Link. Got this without it.
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -1489,7 +1489,7 @@ These Talents are designed to make you more effective in water.
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
     -   Knocking enemies will replenish more of your health and posture.
--   Return to the Light Ages \[Rare Talent\] - Your mantra damage is increased by 35%, but your incoming mantra damage is increased by 35% too. (+5 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisite: Power 10
     -   Mutual Exclusive: Everchanging Aegis
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.

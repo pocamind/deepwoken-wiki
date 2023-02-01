@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 51340
+revid: 51497
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -102,8 +102,9 @@ The Duke
 -   The [Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, who wants the Forge of Sin from his hands.
--   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
+-   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. Its most likely that he knows the intentions of Zi'eer for drowning Etris since before you execute him he sometimes say: "Vermin! you seek to let Celtor repeat?
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
+-   Despite being kind of insane and had committed some atrocities like killing and kidnapping citizens, he seems to do this to save Etris from drowning meaning that he is like "the good guy" of the questline, compared to Lord Regent.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
@@ -128,10 +129,11 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
-    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell.
+    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that your too strong and that he cant use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
+-   Despite being rude most of the time showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
 -   The katana he wields isn't strapped to his black, it's floating.
     -   Yes this is canon.
 
@@ -161,9 +163,21 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   On par with Akira.
 -   Possibly an Arcwarder?
 
+### **Viqh, Lightkeeper of the Eastern Lighthouse**
+
+-   Currently residing in the Eastern Lighthouse, near miners landing.
+-   In charge of connecting the Eastern and Etrean luminant to the rest of the luminants from the Voidsea.
+-   Possible childhood friend of Nimea and possible teacher of Klaris.
+-   Her hobby is apparently to write poetry, as stated by Klaris.
+-   Apparently she is "preocupied" due to the ongoing war of the Authority and Etris.
+-   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisioned due to her "gift".
+-   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Ligthhouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Altought this is just speculation with the little information we have from Nimea and Klaris.
+
 ### **Klaris Llfiend**
 
 -   Black Diver of an unknown race. Created light hooks.
+-   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift".
+-   One of the few people (Alongside Nimea) to actually know the lightkeeper of the eastern luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
 -   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
@@ -1090,16 +1104,18 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Lightkeepers
 
-**Lore Sources:** _Nimea_
+**Lore Sources:** _Nimea and Klaris._
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
+-   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the lightkeeper of the eastern lighthouse.
+-   Apparently Lightkeepers cant leave their light house by any cost, as told by Klaris, showing that they are of great value and cant be put to any risk.
 -   Lightkeepers are possibly important for nautical travel between luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between luminants without any blessing from a Lightkeeper.
--   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
+-   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
--   The current Lightkeeper was kidnapped by Etrea to prevent the Authority entering the Etrean Luminant, stalemating a losing war.
+-   ~There are no records or NPCs that talk about Lightkeepers using their power as a weapon.~ Klaris, the teacher of the Dawnwalker oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "She learned a lot from her gift" meaning that Viqh possibly teached Klaris to create the Dawnwalker Oath, and as we know that Oath can easily be used as a weapon.
+-   The current Lightkeeper (Possibly Viqh) was kidnapped by Etrea to prevent the Authority entering the Etrean Luminant, stalemating a losing war.
 -   The magic that is utilized by the Dawnwalker oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
