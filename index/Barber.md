@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 47982
+revid: 51390
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -52,4 +52,3 @@ To use some of his features, a hair ID from the catalog is needed.
 -   Near the beginning, he also couldn't change the face/mask of a Vesperian, saying "Uh, you kinda got a mask on, bud."
 -   Oddly enough, you can change your gender if you talk to the Barber, which may leave you with some.. questionable thoughts.
 -   Between his introduction and 10/17/22, he took a cosmetic surgery course at the Citadel.
--   All barbers have taken an Oath with the Fadetrimmer. The Fadetrimmer Oath is so powerful it can instakill anyone with the Synapse Oath with all five legendary "Aztup" Talents, and Arch\_Mage would not allow that sort of power to be in the wrong hands.

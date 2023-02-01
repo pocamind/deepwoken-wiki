@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51307
+revid: 51344
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1221,7 +1221,7 @@ These Talent are meant to make maintaining your ship easier.
 
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
--   Unphased \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
+-   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
     -   Negate tier 1 insanity: Shivering.
     -   Prerequisites: 50 Willpower, 50 Fortitude, Grasp on Reality
 

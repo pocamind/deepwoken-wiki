@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51269
+revid: 51397
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -499,7 +499,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 ### Obtainment
 
 1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
-    -   Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again.
+    -   Note: this step is important and **must absolutely be done before talking with Lord Regent again** (step 4), failing to meet this requirement will lock you out of the oath, at which point you must wipe if you want to try again. (WRONG: I did full duke quest before attempting to gain any form of minityrsa rep and I still got the bite your tongue dialogue.)
     -   You can either get this through Imel, Emel and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
 
 1.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
@@ -542,8 +542,10 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
 -   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
+-   Keep in mind that you will dont be sent to layer 2 if you are gripped while progressing against a player with an oath, and instead you will go to fragments, so dont be very confident when progressing this oath.
 -   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
 -   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
+-   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
     
 
 ## Lore Oaths:

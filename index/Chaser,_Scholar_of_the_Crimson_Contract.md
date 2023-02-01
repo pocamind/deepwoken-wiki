@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 51225
+revid: 51327
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -46,27 +46,25 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 **Explosion**
 
  | After a short casting sound, Chaser rapidly forms a moderately large explosion of bloodflame under the player. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ◯ | (★★☆) |
+| **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ◯\*\*\* | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling.
 
 -   _**When only half the blood jar remains, the ceiling will collapse, dropping all stalactites from the ceiling instantly. Chaser no longer uses this attack afterward.**_
 
  | ✗ | ◯\* | ◯\* | (★★☆) |
-| **Sanguine Repulsion** | Chaser launches away all players near him and causes them to ragdoll, happens a few seconds after he is down.
+| **Sanguine Repulsion** | Chaser uses blood to immitate a vent, launching away all players near him and causing them to ragdoll, happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_
 
- | ✗ | ✗ | ◯ | (☆☆☆) |
+ | ◯ | ◯ | ◯ | (☆☆☆) |
 | **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ✗ | (★★★) |
-| **Bounder Spawn** | At lower HP, he summons Bounders
-
--   **Note: He only spawns them if you hit him too many times, so it is recommended to not attack him and only break the jars.**
-
- | N/A | N/A | N/A | (★★★) |
+| Body slam | During his final phase, the blood tendrils that take ahold of his body repeatedly slam Chaser onto the floor, in an attempt to further drown his weakened soul. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ✗ | ◯ | ◯ | (★★★) |
 
 \*While these moves can be parried and blocked, they still fling you.
 
-\*\*While blockable, it still flings you but does less damage
+\*\*While blockable, it still flings you but does less damage.
+
+\*\*\*The only way to avoid this attack is by jumping, rolling is inneffective.
 
 ## Finisher
 
@@ -76,28 +74,35 @@ All of Chaser's moves instantly execute.
 
 ### Phase 1
 
--   Chaser uses all of his regular moves, lasts until half of the blood jars are broken.
+-   Chaser uses all of his regular moves, lasts until half of his health is gone.
 
 ### Phase 2
 
--   Signalled through Chaser's laugh and the immediate collapse of the ceiling, causing a rally of stalactites to fall, the atmosphere to go a light blue and his attacks becoming slightly faster. It begins when about half of the blood jars are broken.
+-   Signalled through Chaser's laugh and the immediate collapse of the ceiling, causing a rally of stalactites to fall, the atmosphere to go a light blue and his attacks becoming slightly faster. It begins when Chaser gets below half HP and also prevents him from using the stalactite attack for the rest of the fight.
+
+### Blood Frenzy
+
+-   Occurs when all of the blood jars have been broken. Chaser goes into a frenzy mode where he throws attacks back to back before finally collapsing, signaled by his kneeling position. In this mode, attacks are much faster, Chaser no longer heals, gets an aura similar to the brace mantra and has more down-time once he gets exhausted.
 
 ### Phase 3
 
--   When all or the majority of the blood jars are broken Chaser will begin to launch approximately 25 attacks on all players alongside all his regular moves, this phase marks its end when he starts throwing his body onto the ground until it breaks and he disappears.
+-   As a last ditch effort, Chaser frantically throws his last attacks as he is dragged deeper unto the depths below. In this phase, Chaser deals constant damage to anyone outside of the ritual circle alongside his usual moveset. Furthermore, if you step into his circle in the center of the arena, you're susceptible to his body slam attacks that, while parryable and dodgeable, will easily throw offguard anyone standing too close to him as he continues to use his normal moves.
 
 ## Rewards
 
 After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium sized [chest](Chests_&_Sacks.md) is dropped which contains:
 
--   A variety of deep gems
--   Multiple Kyrsan bone weapons
--   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md)
+-   A variety of deep gems.
+-   Multiple Kyrsan bone weapons.
+-   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates.
 -   Rarely, enchantment stones.
+-   Guaranteed 1\* equipment.
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
 
 Roughly fourteen chasers solo without the Bosses Resonance Progression path will allow you to obtain a Resonance.
+
+Doing Chaser without light hook will cause you to earn significantly more [Echoes](Echoes.md) and both Depths and Boss Resonance Progression
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 48854
+revid: 51322
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -120,4 +120,5 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
 -   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, and Willpower by default. \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
+-   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 kyrsan medallions from a chest while fishing, being as rare as to fish legendary weapons, altought this has yet to be confirmed.
 -   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

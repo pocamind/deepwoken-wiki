@@ -1,20 +1,22 @@
 ---
 title: Chime of Dwelling
-revid: 50991
+revid: 51321
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Mechanics, Guilds]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pages with broken file links, Mechanics, Guilds]
 ---
 
 # Chime of Dwelling
 
-> "There's always a road back home."
+“ "There's always a road back home." ”
 
-Chime of Dwelling Item.
+― Chime of dwelling flavor text
 
 ## Description
+
+File:GuildDoor.png
+
+The door in question
 
 The Chime of Dwelling is an obtainable item which is grant for being an Officer/Leader in a Guild. It allows you to set your [Guild Base](Guild_Bases.md) in any flat wall.
 
@@ -32,6 +34,8 @@ The Chime of Dwelling does not work under the following:
 -   In Trial of One (including the area you first spawn in)
 
 ## Notes & Trivia
+
+Chime of Dwelling Item.
 
 -   While someone is inside of the guild base, you are not available to de-spawn the door.
 -   Anybody can enter the base through these doors, however, they cannot interact with items inside of the base.

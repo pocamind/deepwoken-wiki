@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 50972
+revid: 51340
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -173,7 +173,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
--   A wandering chef and salesman that dons the [Authority Commander Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A wandering chef and salesman that dons the old [Authority Captain Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
@@ -465,7 +465,12 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 ##### New Kyrsa (Second Floor)
 
--   New Kyrsa is a civilization that sunk to the second layer.
+-   New Kyrsa is a city built by the Kyrsgarde, meaning the city didnt drown like celtor.
+-   New Kyrsa was built above the bed-chamber of the drowned god Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesnt wake up, also explaining why it is necesarry to activate them to fight its Scion.
+-   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosper city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as tram station below the town, and high buildings with signs of industrial advancement towards the surface.
+-   The City felled due to the last ritual (The bone statues in the boss fight) to remain Ethiron asleep to fail and dont be casted correctly due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
+-   Right now the city alongisde its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they dont disturb Ethiron awakening.
+-   Aparrently, after you defeat the Scion of Etiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
 -   Its inhabitants are the Kyrsgarde.
 
 #### **The Vents, The Third Layer**
@@ -602,6 +607,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 -   "A Waltz of Snow and Knights," the theme of Minityrsa, shares the same motif as "A Sarabande of Thunder" and "Dance, if You Can!" Both of these are themes of the Ferryman, which shares the same knife as the Ministry operatives found throughout Minityrsa.
+-   There is a high chance that they are **part** responsible of the events in the second layer, specially the first floor due to Chaser being highly related to the second prophet of the ministry, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 

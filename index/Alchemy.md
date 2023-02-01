@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 50425
+revid: 51333
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -152,7 +152,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Bamboo Bundle</td>
   <td>Unkown</td>
-  <td>Used to affect resevoir.</td>
+  <td>Used to affect resevoir. No idea what it's used for as of the Verse 2 update.</td>
 </tr>
 <tr>
   <td><b>Soothing</b></td>
@@ -162,7 +162,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Dentifilo<br>
   Bluecap(?)</td>
   <td>Unknown</td>
-  <td>Used to affect resevoir.</td>
+  <td>Used to affect resevoir. No idea what it's used for as of the Verse 2 update.</td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>

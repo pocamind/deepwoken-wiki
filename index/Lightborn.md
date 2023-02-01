@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 49261
+revid: 51403
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -12,9 +12,9 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 
 Template:Races-Main
 
-_"The stars call you back..."_
+_The stars call you back..._
 
-**Currently Unobtainable**
+Chance of obtaining race: **0%**
 
 ## Racial Traits
 
@@ -77,8 +77,4 @@ Spellhardt
     1.  Above the head
     2.  Around the neck
     3.  Around the arms (Halos are split in two)
--   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet.
-    
-    File:..png
-    
-    Nuttoons' Lightborn has a halo around his neck
+-   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet).

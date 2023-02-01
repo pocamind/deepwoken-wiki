@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 50198
+revid: 51370
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -10,9 +10,9 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 
 Template:Races-Main
 
-"Rise from the ashes and be born again."
+Rise from the ashes and be born again.
 
-**Currently Unobtainable**
+Chance of obtaining race: **0%**
 
 ## Description
 
@@ -26,7 +26,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 <tbody>
 <tr>
   <td>File:Versatile2.png</td>
-  <td><b>Phoenix Wings</b>
+  <td><b>Heliodar Wings</b>
   <ul>
     <li><i>*description unknown*</i>
   <ul>

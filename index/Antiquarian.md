@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 51273
+revid: 51338
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -12,7 +12,7 @@ notices:
 
 Template:NPC name
 
-**Antiquarians** are NPCs that can be found in settlements that will purchase various items.
+**Antiquarians** are NPCs that will purchase various items and they can be found in settlements.
 
 ## Overview
 
@@ -20,10 +20,11 @@ Antiquarians are NPCs that purchase certain items. They are typically your main 
 
 They can be found on the Surface in:
 
--   [Isle of Vigils](Isle_of_Vigils.md) (right next to the banker),
+-   [Isle of Vigils](Isle_of_Vigils.md) (right next to the anker),
 -   [Etris](Etris.md) (right behind the lumberjack quest),
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md) (just to the right of the gun seller),
+-   Miner's Landing
 -   [Fort Merit](Fort_Merit.md)
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
 

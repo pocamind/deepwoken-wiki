@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 51293
+revid: 51393
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -35,8 +35,8 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 
 -   His throne produces steam.
 -   He appears to be based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, as both are blindfolded with long blonde hair and use shadow powers.
--   If you finish his quest and you defeat The Duke **GO BACK TO HIM.** For some reason, half the XP and bell progress acquired from killing [the duke](Duke_Ishamon_Erisia.md) is only given upon reporting back to him.
-    -   Attunement uncaps will however be given immediately after killing [the duke](Duke_Ishamon_Erisia.md).
+-   If you finish his quest and you defeat The Duke **DO NOT** **GO BACK TO HIM.** He will end up killing you.
+    -   Attunement uncaps will however be given immediately after killing [The Duke](Duke_Ishamon_Erisia.md).
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also sends his contractors to kill other in The Depths.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not in fact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
@@ -46,7 +46,7 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 -   Seemingly has a negative connection with the Voidwalker origin, calling Voidwalker players a "[filthy, void-touched assassin](https://gyazo.com/173cf3a58e189e2227f38050aa348e14)."
     -   This may be because of the Knives of Eylis current alignment with the Authority.
 -   Going onto the Throne will NOT kill you, but interracting him while on the throne will.
--   There are free chests that contain Erisia loot on the Throne.
+-   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:
     -   “What a foolish tradition."
     -   "You'll find that I'm being very merciful right now."

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 49663
+revid: 51352
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1000,9 +1000,10 @@ Grants a random buff.
 
 Chests from:
 
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
- | Red |
+ | Default, Red & White |
 |  | 
 
 [Polarized Eyeglasses](Eyeglasses.md)
