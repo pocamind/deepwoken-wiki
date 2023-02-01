@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 51371
+revid: 51476
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -46,6 +46,15 @@ Apparently, there is a crucified Celestial in a secret room inside the church lo
 -   Alsin
 -   Navae
     
+
+**Surnames:**
+
+-   " " (blank space)
+    
+
+## Users
+
+-   Kyrbas
 
 ## Trivia
 

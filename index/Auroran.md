@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 51379
+revid: 51478
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs]
@@ -37,10 +37,33 @@ Chance of obtaining race: **0%**
 </tbody>
 </table>
 
+## Miscellaneous
+
+**Lore:**
+
   
+_The first of the Gremor..._
+
+**Strengths:**
+
+  
+
+-   Navae's Guidance
+    
+
+**Weaknesses:**
+
+  
+
+**Surnames:**
+
+  
+
+## Users
+
+-   Auchura (Senior Moderator)
 
 ## Trivia
 
 -   Does not have Sclera (Auchura at least)
 -   Related to [Auroran Gremor](Auroran_Gremor.md)
--   Known users: Auchura (Moderator)

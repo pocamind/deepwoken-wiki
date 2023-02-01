@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 51024
+revid: 51463
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -38,7 +38,7 @@ Critical
  | Performs a sideflip while swinging blade. | ◯ | ✗ | (★★☆) |
 | 
 
-Glacial Bloom
+Old Ice Eruption
 
  | Stomps the ground, causing thick needles of ice to form around the user. | ◯ | ◯ | (★★☆) |
 | 

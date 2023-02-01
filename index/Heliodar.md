@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 51370
+revid: 51479
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -45,16 +45,41 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 </tbody>
 </table>
 
+## Miscellaneous
+
+**Lore:**
+
+  
+Unknown
+
+**Strengths:**
+
+  
+
+-   +2 Agility
+-   +2 Willpower
+-   Heliodar Wings
+-   Drip: Earrings, Amulet/Pendant, Glowing Eyes
+    
+
+**Weaknesses:**
+
+  
+
+**Surnames:**
+
+  
+
+-   " " (blank space)
+    
+
 ## Users
 
 -   Zartania
 -   Dexerius
 -   Estheking
 -   Ettheking
-
-## Lore
-
-Unknown
+-   rJeneration
 
 ## Notes
 

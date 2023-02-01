@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 48710
+revid: 51470
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -37,6 +37,8 @@ File:Flintlockbullets.png
 Flintlock user using the Summer Gun technique
 
 _Stats:_
+
+**Silversix: 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes (1).(0 LHT req)
 
 **Flintlock:** **10** damage, **8** range, 10 LHT scaling, **0.8x** attack speed, **100** notes (1).(20 LHT req)
 

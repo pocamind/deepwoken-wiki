@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51397
+revid: 51462
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -468,6 +468,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your e
 
 1.  Speak to Klaris Llfiend, Mother of the Lights in Castle Light, and ask to learn the secret of 'radiant magic'. Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md). This gives you the base oath along with Blinding Dawn.
 2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 60 Medallions in total from base to max. 15 Medallions for Radiant Kick and another 15 Medallions for both talents.
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 
 ### Known Abilities
 

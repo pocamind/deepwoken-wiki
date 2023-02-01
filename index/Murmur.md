@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 51260
+revid: 51460
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -76,7 +76,7 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 #### Method One - Fetch Quest
 
 -   You need negative Etris Rep
--   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find.
+-   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find. ( YOU DO NOT NEED TO TALK TO THIS NPC IF YOU ARE A VOIDWALKER, SIMPLY DO 10 BOUNTY KILLS AND HE WILL GIVE YOU TACET WITHOUT EVEN NEEDING ANY CHARISMA )
 -   Upon assassinating 10 Players, return back to Cestis and obtain the Murmur.
 
 #### **Method Two- Born Assassin**
