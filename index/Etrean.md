@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 51359
+revid: 51412
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -69,20 +69,20 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
   
 
 -   Ashi
--   Hashi
--   Ishel
--   Kereshi
--   Massi
--   Ureshi
--   Vesti
--   Zeshi
 -   Eshet
--   Kasteshi
+-   Hashi
+-   Hasteshi
+-   Ishel
 -   Kanreshi
+-   Kereshi
 -   Leshi
+-   Massi
 -   Rashet
+-   Ureshi
 -   Veshi
+-   Vesti
 -   Ytreshi
+-   Zeshi
     
 
 ## Trivia

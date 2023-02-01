@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 49158
+revid: 51417
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -80,14 +80,14 @@ Need friends. :(
   
 
 -   Arad
--   Emirad
--   Loritad
--   Ranaad
--   Tulad
 -   Eiad
+-   Emirad
 -   Ferad
+-   Loritad
 -   Mirad
+-   Raanad
 -   Truad
+-   Tulad
     
 
 ## Notes

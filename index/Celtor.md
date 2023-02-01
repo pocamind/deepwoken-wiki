@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 50261
+revid: 51410
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -72,18 +72,18 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
   
 
 -   Baranof
--   Golbor
--   Kalashor
--   Kavinel
--   Kotof
--   Pavel
--   Sokel
 -   Bykof
+-   Golbor
 -   Ivanel
+-   Kalashor
 -   Kalinof
+-   Kavinel
 -   Kernel
+-   Kotof
 -   Olof
+-   Pavel
 -   Petrof
+-   Sokel
 -   Sokolof
     
 

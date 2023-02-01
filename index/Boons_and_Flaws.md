@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 51398
+revid: 51427
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -83,12 +83,16 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 Given after rerolling your stats at the Shrine of Order.
 
+(Not an Unlockable Flaw)
+
  | 0 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removal
 
   
 
 Gained from rerolling a bell at Yun-Shul, and can not be selected in the character customization screen. Can be removed by [Yamaketzal](Yamaketzal.md) for 1000 notes or by obtaining Clarity throught [Misérable](Misérables.md) for 15 Knowledge.
+
+(Not an Unlockable Flaw)
 
  | 0 |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
@@ -100,11 +104,15 @@ Gained from making a deal with [Arch\_Mage](Developer_Specs.md#arch-mage-haske-v
 
 Additionally, has a chance of being gained from making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
+(Not an Unlockable Flaw)
+
  | 0 |
 | Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
 
   
 Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.
+
+(Not an Unlockable Flaw)
 
  | 0 |
 

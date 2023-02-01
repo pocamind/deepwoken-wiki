@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 51381
+revid: 51407
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,3 +29,9 @@ Chance of obtaining race: **0%**
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   File:DrakkardHair.png
+    
+    The default hair for Drakkard.

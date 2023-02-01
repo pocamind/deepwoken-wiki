@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 50540
+revid: 51413
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -77,14 +77,14 @@ A layer of protective armor that regenerates at rest.
   
 
 -   Disii
--   Etudi
--   Ixatoki
--   Sekhigi
--   Zeneki
 -   Enegi
+-   Etudi
 -   Galvigi
+-   Ixatoki
 -   Refigi
+-   Sekhigi
 -   Trigi
+-   Zeneki
     
 
 ## Notes

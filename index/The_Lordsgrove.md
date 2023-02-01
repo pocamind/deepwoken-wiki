@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 49886
+revid: 51430
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -40,6 +40,6 @@ Large statues of Vesperians and a Ganymede can be seen to the sides of the Lords
 
 ## Trivia/Notes
 
--   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and have an oath. ([Oathless](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Oathless) counts)
+-   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and be at least Power 10.
 -   The statues lines along the walls of The Lordsgrove depict previous Hivelords, including one with the unique [Oath: Blindseer](Oaths.md) variant for Vesperians.
 -   One of the statues hints at the [Hivelord Mask](https://deepwoken.fandom.com/wiki/Masks#Hivelord_Mask), before it was finally added to the game.

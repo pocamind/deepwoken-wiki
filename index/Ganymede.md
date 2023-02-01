@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 51305
+revid: 51414
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -70,14 +70,14 @@ This fits with our current understanding of the lore and would explain why they 
   
 
 -   Dise
--   Etude
--   Ixatoke
--   Sekhige
--   Zeneke
 -   Enege
+-   Etude
 -   Galvige
+-   Ixatoke
 -   Rethige
+-   Sekhige
 -   Trige
+-   Zeneke
     
 
 ## Trivia

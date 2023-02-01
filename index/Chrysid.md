@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 44354
+revid: 51419
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -76,25 +76,15 @@ free drip
 
 **Surnames:**
 
-  
-
--   Aethuda  
-    
--   Disali  
-    
--   Eneka  
-    
--   Iksatoka  
-    
--   Kalvika  
-    
--   Rephika  
-    
--   Sehika  
-    
--   Trikali  
-    
--   Zenekai  
+-   Aethuda
+-   Disali
+-   Eneka
+-   Iksatoka
+-   Kalvika
+-   Rephika
+-   Sehika
+-   Trikali
+-   Zenekai
     
 
 ## Notes/Trivia

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 50973
+revid: 51426
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -278,6 +278,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
     -   User constantly summons invisible projectiles, inflicting a considerable amount of insanity on an opponent upon collision.
     -   Creates rotating white rings around the user's eyes.
+    -   Can be modified with blast spark to make your character twerk on use
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 50735
+revid: 51440
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -26,6 +26,8 @@ Engage and critical attack come from the same quest, given by an Etrean solider 
 Upon defeating a megalodaunt and returning to the soldier, you will gain the Engage and Critical Attack talents, and automatically gain Engage at Power 3 and Critical Attack at Power 5 on all new characters.
 
 ### Aerial Assault
+
+**Aerial Assault:** You can now dodge mid-air
 
 Aerial Assault can be obtained from a Pathfinder in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the questgiver for the glider blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 43122
+revid: 51415
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -64,15 +64,15 @@ May have increased rep with The 11th Legion
 
   
 
--   Drameus
 -   Dalus
--   Theus
--   Nemises
--   Narsus
--   Janus
+-   Drameus
 -   Evus
--   Tarsus
+-   Janus
 -   Juno
+-   Narsus
+-   Nemises
+-   Tarsus
+-   Theus
     
 
 ## Trivia

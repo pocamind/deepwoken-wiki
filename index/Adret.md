@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 51360
+revid: 51409
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -75,17 +75,18 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
   
 
 -   Adaset
--   Corbet
--   Isket
--   Munet
--   Praadet
--   Vendet
 -   Ashet
+-   Corbet
 -   Donnet
+-   Gremet
 -   Hasset
+-   Isket
 -   Mudet
+-   Munet
 -   Osset
+-   Praadet
 -   Sahet
+-   Vendet
 -   Yuset
     
 

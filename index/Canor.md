@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 41553
+revid: 51411
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -65,17 +65,19 @@ Loyalty makes combat practice and spars with housemates difficult
 
   
 
+  
+
 -   Bren
--   Dardren
--   Helsen
--   Jaegen
--   Scarsen
--   Vondren
 -   Canden
+-   Dardren
 -   Dusselden
+-   Helsen
 -   Holden
+-   Jaegen
 -   Nuren
+-   Scarsen
 -   Ven
+-   Vondren
 -   Vorgen
     
 

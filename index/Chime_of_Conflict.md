@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 51079
+revid: 51444
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -53,7 +53,7 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 ## Rewards
 
 -   [EXP](Attributes.md)
--   One chest (1v1) or three chests (3v3).
+-   One chest (1v1) or three chests (2v2, 3v3).
     -   Chest rewards may get better as you accumulate a win streak, or when you fight a high-level player. (A player has noticed better rewards such as 3-star weapons after a 6+ win streak; anecdotal evidence and needs testing. Another player has attained a high-level weapon after victory against a high-level opponent. It was also said that enchants appear more commonly than normal means. (?))
 -   An extra Skull if the player does not have 3 skulls.
 -   Bell progression (heavily increased by the players current path) (around 25 wins for 1 stage of progression.)
@@ -66,4 +66,20 @@ All accounts start at 800 Ranking, and increases and decreases based on your vic
 
 ### Rank Titles
 
-Initiate **(800-???)**
+Initiate **(800-899)**
+
+Novice **(900-???)**
+
+  
+
+In addition to Rank Titles, the top 250 players in Chime also get a special title:
+
+### Placement Titles
+
+Godseeker **(Top 10)**
+
+Grandmaster **(Top 11-50)**
+
+Master **(Top 51-100)**
+
+Ranked **(Top 101-250)**

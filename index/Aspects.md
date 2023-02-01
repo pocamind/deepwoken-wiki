@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 51378
+revid: 51422
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Races, Character, Mechanics]
@@ -30,6 +30,8 @@ The percent chance of rolling a race changes per roll, the percentages listed be
 
   
 
+  
+
 ## Exclusive "Spec" Races/Unobtainable
 
 These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it. Unless of course you're cool
@@ -37,6 +39,13 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 ## NPC Exclusive Races
 
 These races are currently exclusive to NPCs, and have not been confirmed to be obtainable by players.
+
+## Generic Surnames
+
+-   Fording
+-   Humbell
+-   Huthering
+-   Ruther
 
 ## Notes
 
