@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 51541
+revid: 51612
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -14,7 +14,7 @@ Template:Location2
 
 ## Overview
 
-**First Layer**, also known as **Scyphozia** is the one of nine layers of The Depths. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have a significant amount of drowns**, in which case they get sent straight to [Second Layer.](Second_Layer.md)
+The **First Layer**, also known as **Scyphozia** is the one of the nine layers of The Depths, embodied with the recently sunken civilizaition of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have 15 drowns at Power 20**, in which case they get sent straight to the [Second Layer.](Second_Layer.md)
 
 ## **Points of Interest**
 
@@ -22,7 +22,7 @@ Template:Location2
     -   [District of Commerce](District_of_Commerce.md)
     -   [Varicosa District](Varicosa_District.md)
     -   The Military District
-    -   The Cathedral's Interstice
+    -   The Cathedral of Intersice
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
@@ -95,7 +95,9 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.
-    -   This will **always apply** if you have the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
+    -   This will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
+        -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
+        -   It is also advised to also know the risks of fighting a corrupted monster in the trial, and there is no turning back (unless you glitch out) once they spawn in. **Fight or wipe.**
 -   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, ~the combat tag WILL NOT expire.~ The combat tag in the Depths trial now expires after 10 minutes as of 01/16/2023.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
@@ -123,7 +125,7 @@ Just some information to keep in mind and remember.
     -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
--   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs," and Graceful Flame, you might want to consider bringing _**healing potions**_.
+-   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame, you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
