@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 50076
+revid: 51607
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -35,3 +35,4 @@ This Outfit's Schematic can be found in:
 -   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card with much better stats.
 -   This Outfit can be found on the Helper in the Isle of Vigils.
 -   Relatively good for early to mid-game when used with the Katana.
+-   In order to **BUY** the schematic, your origin must be set in Isle of Vigils.

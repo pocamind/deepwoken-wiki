@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 42562
+revid: 51604
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -56,6 +56,7 @@ When obtained, Resurrection will spend its points on the following stats:
 
 ## Trivia
 
+-   **For those looking to use this with Vow of Mastery**. if you were to sleep an ally and then use the bell. If they are res'd it will bring their hp to 40%. SO the way this bell works is not GIVING 40% its setting your hp to 40%. Tested this personally with a friend. Slept them, gave them the effect and woke them up, they then lost 3 bars and was set to exactly 40%.
 -   For some reason, sometimes the bell may not activate immediately, which gives the enemies the opportunity to grip you.
 -   When someone or something is getting resurrected, they cannot be damaged.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.

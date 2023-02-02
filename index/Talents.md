@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51516
+revid: 51581
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1742,6 +1742,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
     -   Stacks with Finisher's Ring.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your Way of Navae fist style has 25% armor PEN.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
+    -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and extreme knockback moves.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.

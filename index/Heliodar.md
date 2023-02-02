@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 51479
+revid: 51586
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -80,6 +80,7 @@ Unknown
 -   Estheking
 -   Ettheking
 -   rJeneration
+-   yayafino
 
 ## Notes
 

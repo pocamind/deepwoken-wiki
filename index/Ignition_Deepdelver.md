@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 51550
+revid: 51580
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -37,4 +37,8 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Combining this outfit with the Metal enchant (steal/replenish armor durability on hit) allow the player to essentially negate the durability cost of the talent.
--   A few monster and NPC attacks such as Golem beam, Lionfish beam, Duke ground slam cannot be parried.
+-   A few monster and NPC attacks such as Golem beam, Lionfish beam, Duke ground slam cannot be parried. (list down here as you discover more unparryable attacks even with the Armour talent.)
+    -   Gale Stomp (Duke)
+    -   Laser (Golem)
+    -   Overhead Grab (Owl)
+    -   Cursed Flame (King Thresher)

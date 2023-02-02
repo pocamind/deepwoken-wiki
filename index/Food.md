@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 46662
+revid: 51577
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -168,9 +168,10 @@ An individual who has crossed paths with The Meat Lord.
     -   Ongo = Apple
     -   Calabash = Calabash
     -   Plumfruit = Plum
-    -   Pomar = Pineapple (?)
+    -   Pomar = Pineapple or Mango (?)
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
+    -   Pomar may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
 -   Having 0 thirst and 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and then you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
     -   With about 1/8 hunger left, healing from campfires is outright disabled.
     -   With about 1/8 thirst left, your vision becomes blurry and your swing speed is lowered.

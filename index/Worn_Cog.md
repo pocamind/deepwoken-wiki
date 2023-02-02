@@ -1,9 +1,9 @@
 ---
 title: Worn Cog
-revid: 50967
+revid: 51585
 source: https://deepwoken.fandom.com/wiki/Worn_Cog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Ingredients, Drops]
 ---
 
 # Worn Cog

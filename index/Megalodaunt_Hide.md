@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 40607
+revid: 51583
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Uses, Ingredients, Items]
@@ -17,15 +17,9 @@ categories: [Drops, Uses, Ingredients, Items]
 | droppable | Yes |
 | pass down | No |
 
-<table>
-<tbody>
-<tr>
-  <td>Overview</td>
-</tr>
-</tbody>
-</table>
+## Overview
 
-Megalodaunt hide, also called sharko hide, can be obtained by killing [Megalodaunts](Megalodaunt.md), with a pretty high drop rate.
+Megalodaunt Hide, also called Sharko Hide, can be obtained by killing [Megalodaunts](Megalodaunt.md), with a pretty high drop rate.
 
 ## Uses
 
