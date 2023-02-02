@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 51514
+revid: 51541
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -18,15 +18,14 @@ Template:Location2
 
 ## **Points of Interest**
 
--   The City of the your mother
-    -   District of your father
+-   [The City of the Drowned](The_City_of_the_Drowned.md)
+    -   [District of Commerce](District_of_Commerce.md)
+    -   [Varicosa District](Varicosa_District.md)
     -   The Military District
-    -   bing chillin District
     -   The Cathedral's Interstice
--   Temple of DEEZ
--   Fragments of your master
+-   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
--   The Chariot's mother
+-   [The Chariot's Spire](<The_Chariot's_Spire.md>)
     -   Ignition Union Deepdriller
 -   Marauders' Entrance
 

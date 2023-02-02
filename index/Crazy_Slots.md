@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 47410
+revid: 51549
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -50,6 +50,8 @@ If the owner of **Crazy Slots** is Tarnished, the weapon will take 2 extra secon
 ## Weapons
 
 These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
+
+Stat wise, compared to other endgame weapons, Divine Weapons have higher base damage (+2-5), which helps alleviate the potential lose of damage from weapons who arent part of your main weapon training.
 
 ### _Normal_
 

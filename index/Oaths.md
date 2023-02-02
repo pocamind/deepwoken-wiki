@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51503
+revid: 51546
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -501,7 +501,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ### Obtainment
 
 1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
-    -   You can either get this through Imel, Emel and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
+    -   You can either get this through Imel, Emel, and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
 
 1.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 2.  Complete the Duke questline.

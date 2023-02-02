@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 49616
+revid: 51554
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -36,4 +36,4 @@ The Krulian Knife is a dagger weapon is obtained by defeating the [Ferryman](The
 -   It is possible for [The Ferryman](The_Ferryman.md) to give starred and enchanted versions of this weapon.
 -   Meeting the requirement of LHT, the damage is (21.87)
 -   At max LHT, the damage is (25)
--   This is the weapon the [Ministry Scouts](Ministry_Scout.md) Use.
+-   This is the weapon the [Ministry](The_Ministry.md) uses.

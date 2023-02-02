@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 50855
+revid: 51548
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -23,5 +23,9 @@ categories: [Weapons, Guns]
 | pass down | Yes |
 | obtainment | Upgrade Advance Weapons |
 | description | A flintlock passed down by your ancestors. |
+
+“ Don't forget to double-tap! ”
+
+― A proud Canorian father teaching his son.
 
 The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md).

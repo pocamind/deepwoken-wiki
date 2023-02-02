@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 51105
+revid: 51553
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map, Origins]
@@ -83,6 +83,7 @@ Here is what makes the Isle of Vigils unique:
 -   A trainer to fight against with no consequences for losing all your HP.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
+-   A gravestone that has a Vesperian mask.
 
 ### [Lone Warrior](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior)
 

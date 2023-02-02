@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 50555
+revid: 51536
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, Locations]
@@ -25,6 +25,3 @@ The second floor is comprised of one room, presumably where the Ignition Union p
 ## Ignition Deep-Drill
 
 Taking the bridge from the First floor leads to the Ignition's Deep-Drill, their tool for punching into the Eternal Gale. Within the Drill's docking bay are two Ignition Union Guards, an NPC that mentions Epsi in the depths, and another NPC closer to the Drill that declines your request to ride it.
-
-  
-MORE TO BE ADDED. IF YOU HAVE ANYTHING ELSE TO ADD ABOUT THE DEEP DRILL FEEL FREE TO DO SO. GLORY TO KNOWLEDGE

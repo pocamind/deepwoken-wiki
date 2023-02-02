@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 50800
+revid: 51538
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -12,22 +12,22 @@ notices:
 
 Template:NPC name
 
-## Description
+## Overview
 
 Carrion, refered to as Father of Evolution is a Black Diver that resides in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes. He resides in the second floor of the [Second Layer](Second_Layer.md) of The Depths. He can be found in the library puzzle room under the city. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them.
+Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them.
 
 ## List of Obtainable Monster Mantras
 
 | **Name** | **Description** | **Parryable?** | **Blockable?** | **Dodgeable?** | **Danger** | **Required Item** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coral Spear |  | ◯ | ◯ | X |  | Megalodaunt Coral |
-| Beast Burrow |  |  |  |  |  | Thresher Talon |
-| Enforcer Pull |  |  |  |  |  | Enforcer Eye |
+| Beast Burrow | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants i-frames. |  |  |  |  | Thresher Talon |
+| Enforcer Pull | When in proximity, pulls victim towards the user. | X | X | ◯ |  | Enforcer Eye |
 | Dread Breath |  |  |  |  |  | Dread Serpent Tooth |
-| Brachial Spear |  |  |  |  |  | Giant Femur |
-| Mecha Gatling |  |  |  |  |  | Broken Gatling Gun |
+| Brachial Spear | Throws a giant femur towards selected area. Deals high damage, high wind-up time. | ◯ | X | ◯ |  | Giant Femur |
+| Mecha Gatling |  | ◯ | ◯ | ◯ |  | Broken Gatling Gun |
 
 ## Trivia
 

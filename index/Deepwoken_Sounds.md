@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 51317
+revid: 51533
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -39,7 +39,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 8 | In Shade, Hollow | 2:08 | [The Garden Reservoir](The_Garden_Reservoir.md) | File:The Garden Reservoir - Deepwoken OST.mp3 |
 | 9 | Dancing Steps Of War | 2:09 | [Temple of the Blade](Temple_of_the_Blade.md) | File:Temple Of Blades - Deepwoken OST.mp3 |
 | 10 | To Fight, Sanguine | 2:26 | Default Combat Music | File:To Fight, Sanguine.mp3 |
-| 11 | To Shores, Distant | 2:08 | [Boatman's watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
+| 11 | To Shores, Distant | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
 | 12 | The Trappings Of A Lord | 2:30 | [Erisia](Erisia.md) | File:Erisia - Deepwoken OST.mp3 |
 | 13 | Of Labours, Veiled | 2:20 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
 | 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
@@ -78,8 +78,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war?in=naktigonis/sets/deepwoken-ost-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 2:48 | Arena | File:The Games Of War.mp3 |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
-| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) War | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
-| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | Ethironal Shrine Sanctuary | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
+| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md)Authority Raid | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
+| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [Ethironal Shrine Sanctuary](Second_Layer.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | Tutorial | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
 | 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Layer 2 Combat](Second_Layer.md) | File:INSOMNIA.mp3 |
@@ -104,7 +104,10 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | No Time For Paws | 1:26 | Felinor Theme | File:No Time For Paws (Project Deepwoken OST - Felinor Theme).mp3 |
 | 4 | Visions | 2:12 | Deepwoken Direct Theme | File:Visions (Deepwoken Direct Theme).mp3 |
 | 5 | Drownedabout | 0:25 | "Roundabout" by Yes - Cover Sketch | File:Drownedabout (Roundabout by Yes - Cover Sketch).mp3 |
-| 6 | Blood in the Shallows | 1:36 | Kiztatziki Boss Theme | File:Blood in the Shallows (Project Deepwoken - Kiztatziki Boss Theme).mp3 |
+| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[1\]](#cite-note-1)
+Boss Theme
+
+ | File:Blood in the Shallows (Project Deepwoken - Kiztatziki Boss Theme).mp3 |
 
 ### Additional Songs
 
@@ -197,3 +200,5 @@ Miscellaneous sounds found in _Deepwoken_.
 -   Nakitgonis felt "Peregrine" ended up being used way less often than he liked.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
 -   The vocals for "A Light in The Sky" are from a kontakt 6 opera singer library.
+
+1.  [↑](#cite-ref-1) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

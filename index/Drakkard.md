@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 51489
+revid: 51557
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -29,6 +29,10 @@ Chance of obtaining race: **0%**
 </tr>
 </tbody>
 </table>
+
+File:Nuttoons.png
+
+Nuttoons' Drakkard slot
 
 ## Miscellaneous
 

@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 47635
+revid: 51547
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -8,15 +8,19 @@ categories: [Pages with broken file links, World]
 
 # Etris: Siege
 
-# Etris vs Authority Raid Event
+LocationL ETRIS: SIEGE LocationR
 
-Also referred to as, ''[Etris](Etris.md) Burning Event'', ''[Etris](Etris.md) War Event'', ''Etrea VS [Fort Merit](Fort_Merit.md) Event''
+TERRITORY OF Etrea
 
-''Highest amongst the peaks of the mountain, a proud fortress of a city stands against the world itself.''
+The clash of blades rings throughout the city, decaying to havoc.
+
+  
+
+Also referred to as, "[Etris](Etris.md) vs Authority Raid Event," "[Etris](Etris.md) Raid," ''[Etris](Etris.md) Burning Event',' ''[Etris](Etris.md) War Event',' ''Etrea VS [Fort Merit](Fort_Merit.md) Event''
 
 ## Description
 
-The Etris raid event is an event in which [Authority NPC's](The_Central_Authority.md) will invade Etris, signified by a large number of flames spouting from various buildings in the area.
+The Etris siege event is an event in which [Authority NPC's](The_Central_Authority.md) will invade Etris, signified by a large number of flames spouting from various buildings in the area.
 
 At the beginning of the event, various buildings will explode into flames, signified by a very loud explosion, as the flames crawl up towards the center of the city, Authority guards will rise up from the Etris docks, slowly making their way up to the main town of Etris while fighting off Etrean Guards in rapid succession. As the fight rages on, the clouds will make room for ash, smog, and smoke, darkening the sky until the inevitable end of the war.
 

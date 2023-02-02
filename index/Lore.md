@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 51497
+revid: 51529
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1506,12 +1506,23 @@ Though technically a blank slate of varying races and abilities, even the player
     -   In the Castaway Origin, they learned this with the training of their captain.
     -   In the Deepbound Origin, they presumably went through standard diver training.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
+
+-   The Player in deepwoken is a "Drowned", Drowneds are people with more connections in the depths than usual, when the player starts a new journey, they get the talent card of the Sound from Below when the player becames slightly more powerfull (Power 2), that basically says that something in the depths is calling you as if you were tied to the depths since the beggining, thats why when you die, your soul gets dragged forcefully to the Depths, being like a Curse. This Curse apparently also gives the ability to "strength" their legacy once they pass away in the depths, this can be bya passing relics (Items like armor and weapons on fragments) to make their soul more powerfull than their ancestor (Echoes).
+
 -   The description of Erisor's church implies that the Player knew of a figure named "Erisor."
 
 ### Castaway
 
 -   The Player in the Castaway origin was once part of a group of seafarers, but the authority attacked the ship and they ended up being found on the beaches of either Etris or Vigils.
 -   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
+
+### Deepbound
+
+-   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the divers main headquarters in the Central Luminant, after being recruited by a Diver of unkown rank named Roy wich gives you basic Diver apprentice training, after that you are assigned a post in the 1st layer of the depths, in the FOB of the divers, Castle Light, where you meet your superiors: Mark Adaset, Castle Light mantainer and both Black Divers; Klaris and Akira (This last one on the Ignition union vs Akira event). The objective of the player is to prove their worth to the divers by finishing your trials that are to explore and survive the 1st layer of the depths, being able to progress your journey alone in the depths and researching the 1st layer of the Depths for the divers, to possible be able to become a Diver Journeyman (An experienced diver with some recognition) by getting stronger in the depths and be able to help the Divers cause. When the player reaches Power 20 he can already be recognized as a Diver Journeyman. And possible when the Central Luminant is available in future updates, you will be able to interact with in the Diver Headquarters and maybe even be able to become a Black Diver proving your worth, like defeating the Scion of Ethiron and getting acknowledged by the watchers of the Divers.
+
+### Voidwalker
+
+-   The Player (For whatever reason you choose when you first talk with the voidmother) decides to enlist in the Knives of Eylis, a very prestigious and feared mercenary group founded by Eylis, after being recruited by Eylis herself and signed the Voidwalker Contract (Unkown terms for now) you gain the Void powers of the Void mother (Grasp of Eylis and Voideye) and began your hell-like training to become a Mercenary of Eylis. After completing the training you are now considered a Mercenary for Eylis and began to take works for the Knives of Eylis bya murdering persons of interest (Other players). With the objective of show your worth towards Eylis herself, and be able to swore and Oath to herself. (More lore will be known when the Voidwalker Oaths releases.)
 
 ### Power Level
 

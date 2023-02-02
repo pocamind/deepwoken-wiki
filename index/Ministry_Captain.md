@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 51073
+revid: 51551
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,6 +26,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
 | Void Lance | Caster opens a gate allowing a void tentacle to attack at an aimed opponent. | ◯ | ◯ | (★☆☆) |
+| Shadow Roar | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 

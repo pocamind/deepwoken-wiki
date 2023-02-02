@@ -1,9 +1,9 @@
 ---
 title: Fragments of Self
-revid: 49443
+revid: 51543
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Death]
+categories: [Pages with broken file links, Locations, Death, The Depths]
 ---
 
 # Fragments of Self

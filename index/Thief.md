@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 45171
+revid: 51552
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
