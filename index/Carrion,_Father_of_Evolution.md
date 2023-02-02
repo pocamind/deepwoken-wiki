@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 51538
+revid: 51629
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -22,12 +22,12 @@ Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eye
 
 | **Name** | **Description** | **Parryable?** | **Blockable?** | **Dodgeable?** | **Danger** | **Required Item** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coral Spear |  | ◯ | ◯ | X |  | Megalodaunt Coral |
-| Beast Burrow | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants i-frames. |  |  |  |  | Thresher Talon |
-| Enforcer Pull | When in proximity, pulls victim towards the user. | X | X | ◯ |  | Enforcer Eye |
-| Dread Breath |  |  |  |  |  | Dread Serpent Tooth |
-| Brachial Spear | Throws a giant femur towards selected area. Deals high damage, high wind-up time. | ◯ | X | ◯ |  | Giant Femur |
-| Mecha Gatling |  | ◯ | ◯ | ◯ |  | Broken Gatling Gun |
+| Coral Spear |  | ◯ | ◯ | X | (★☆☆) | Megalodaunt Coral |
+| Beast Burrow | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants i-frames. | X | X | ◯ | (★☆☆) | Thresher Talon |
+| Enforcer Pull | When in proximity, pulls victim towards the user. | X | X | ◯ | (★☆☆) | Enforcer Eye |
+| Dread Breath | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | ◯ | ◯ | ◯ | (★★☆) | Dread Serpent Tooth |
+| Brachial Spear | Throws a giant femur towards selected area. Deals high damage, high wind-up time. | ◯ | X | ◯ | (★★★) | Giant Femur |
+| Mecha Gatling |  | ◯ | ◯ | ◯ | (★★☆) | Broken Gatling Gun |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 46992
+revid: 51651
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -34,8 +34,8 @@ notices:
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
     -   Replaced with Advanced Cards in the 12/23/22 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 
--   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 43%.
-    -   Replaced by Knowledge in the 12/23/22 Verse 2 Update.
+-   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
+    -   Was removed on the 12/23/22 Verse 2 Update.
 
 ## Mantras
 
@@ -114,3 +114,4 @@ notices:
 -   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Chaser's Phase 2 -** Chaser was meant to have another phase to his boss fight. This was scrapped.
 -   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
+-   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations on the Roblox Engine.

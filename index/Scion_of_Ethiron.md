@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 50530
+revid: 51628
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Floor 2, Layer 2]
@@ -20,7 +20,7 @@ The Scion of Ethiron is a boss encountered at the end of the second floor of the
 
 It can shoot bone like projectiles with an unlimited supply, as well as summon bones from the ground. It can also make use of purple energy to attack, creating swirling spheres of it that can cause blindness or fire it in beams.
 
-Upon defeat, 5 chests containing **[Krysan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
+Upon defeat, 5 chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilises the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
 
 ## Moveset
 

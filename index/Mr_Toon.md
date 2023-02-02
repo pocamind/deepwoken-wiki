@@ -1,11 +1,15 @@
 ---
 title: Mr Toon
-revid: 50599
+revid: 51637
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Armors, Items]
+categories: [Outfits, Armors, Items, Exclusive Outfits]
 ---
 
 # Mr Toon
 
 Template:ArmorInfobox**Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+
+## Trivia/Notes
+
+-   Worn by Nuttoons
