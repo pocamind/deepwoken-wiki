@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 51135
+revid: 51836
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -17,7 +17,6 @@ categories: [Weapons, Spears]
 | range | 9 |
 | swing speed | 0.68x |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
-| selling price | TBA |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

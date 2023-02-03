@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 50550
+revid: 51844
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -20,7 +20,7 @@ Star Boots are accessories under the "Boots" category. They can be found through
 
 Star Boots are part of the "**Star**" set; with the only other piece being the **Star Duster**.
 
-Star Boots also require a **Power Level of 30** to equip.
+Star Boots also require a **Power Level of 10** to equip.
 
 ## Trivia
 

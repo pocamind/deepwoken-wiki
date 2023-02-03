@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 37905
+revid: 51833
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -32,3 +32,7 @@ This locations has an abundance for Erisore. You can make a Navean Nomad Robe ea
 ## Potential Enemies
 
 -   [Rotskipper](Mudskipper.md)
+
+## Trivia/Notes
+
+-   Most likely a reference to the "Tomb of the Unknown Soldier" in Washington D.C.
