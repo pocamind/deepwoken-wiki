@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 51652
+revid: 51712
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -12,27 +12,40 @@ categories: [Deepwoken]
 
 A spec is custom ability often given to mod and/or developers that is unique to the person for instance, Arch\_Mages has a Soul Stealer ability.
 
-### Sources
-
-Arch-Mage Soul Stealer: [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM)
-
-Melonbread Gate (No official name): [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0)
-
-Hive Leader (yayafino): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8) and [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) (0:36)
-
-Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)
-
 ## Spec's
 
 ### Arch\_Mage (Haske Vantage)
 
-Arch\_Mage has the ability to steal people's soul and take mantras from them. He can upgrade them to whatever level he sees fit. He is also able to spawn horseshoe crabs (like the ones in the Karliah quest) that kill players nearby. Arch\_Mage also seems to posses a teleportation ability which spawns chains around him when he disappears, not much is know about this ability currently.
+Arch\_Mage has the ability to steal people's soul and take [Mantras](Mantras.md) from them. He can upgrade them to whatever level he sees fit.
+
+Arch\_Mage holding a soul
+
+He is also able to spawn horseshoe crabs (like the ones in the [Karliah](Karliah.md) [quest](Quests.md)) that chase players nearby & kill them.
+
+Horseshoe crabs killing [Karliah](Karliah.md).
+
+Arch\_Mage possesses a teleportation ability which spawns chains around him when he disappears, not much else is know about this ability currently.
 
 ### Melonbeard (Zastra, Prince of the Moon)
 
 -   Wears [Moonseye](Moonseye.md)
 
-Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center. He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked and only dodged. he can jump extremely high. He is currently using Zartania's "Skeleton Key" spec as well as his is unfinished.
+Melonbeard has the ability to use an AoE attack that does moderate damage with a symbol of the moon in the center.
+
+Moon Ring (AoE Attack)
+
+He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked and only dodged.
+
+Moons Eye(Projectile Attack)
+
+Melonbeard possesses a teleportation ability which makes a gate rise from the ground that lets him pick a location to teleport to. Others can also teleport through the gate, but not pick the location. Not much else is know about this ability currently.
+
+He is currently using Zartania's "Skeleton Key" spec as his is unfinished.
+
+A barrier created with Skeleton Key.
+
+  
+He can jump extremely high.
 
 ### Iltria (Leafre Spellhardt)
 
@@ -66,3 +79,13 @@ This developer has a spec which allows him to spawn a phoenix that allows others
 ### Melon\_Sensei/Par
 
 Par has the spec to spawn a cat maid that will excite any downed player/npc not much is known about this spec at the moment.
+
+## Sources
+
+Arch\_Mage Soul Stealer: [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM)
+
+Melonbeard Gate (No official name): [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0)
+
+Hive Leader (yayafino): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8) and [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) (0:36)
+
+Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)

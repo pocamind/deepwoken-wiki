@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 51582
+revid: 51727
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -47,3 +47,4 @@ As mentioned previously, Knowledge can be used to bargain with powerful objects 
 -   _Knowledge_ functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding.
 -   Knowledge gained from gaining Power is enough to engage in a deal with _Shrine of Order_ at Power 10.
+-   Ganymedes have a racial bonus that makes Deep Shrines cost -1 knowledge to make a deal with.

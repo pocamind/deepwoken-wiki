@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 51645
+revid: 51660
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -27,6 +27,12 @@ categories: [Weapons, Greathammers]
 | pass down | Yes |
 | obtainment | Dropped directly from the Enforcer |
 | description | TBA |
+
+“ What a nice shield you have. ”
+
+― An Enforcer Hammer User going to bully a path defender user.
+
+  
 
 ## Description
 

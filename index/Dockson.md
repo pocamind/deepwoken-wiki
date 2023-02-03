@@ -1,9 +1,9 @@
 ---
 title: Dockson
-revid: 42449
+revid: 51756
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Vendors]
 ---
 
 # Dockson

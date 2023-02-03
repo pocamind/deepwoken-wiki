@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 51506
+revid: 51724
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -9,43 +9,6 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 # Enchantments
 
 **Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
-
-  
-
-## Mechanics
-
-Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
-
--   Enchanted items are not dropped on death
--   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
--   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
--   Enchanted items appear as light purple in your inventory
--   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these, so they can be obtained via trading.
-    -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
--   Unenchanted weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
--   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
-
-## Variants
-
-There are two variants that enchantments come in:
-
--   **Blessing** - They have an effect and little to no downsides.
--   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
-
-## Changelogs
-
--   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
--   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
--   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
--   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
--   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
--   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
--   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
--   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
--   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
 
 ## List of Enchantments
 
@@ -286,7 +249,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 50% more damage in PVE.<br>
-  Can only be obtained by talking to a Wishmaker, who will then apply it to your current weapon. Comes with the Wishbound flaw.<br>
+  Can only be obtained by talking to a <a href="Wishmaker.md">Wishmaker</a>, who will then apply it to your current weapon. Comes with the Wishbound <a href="Boons_and_Flaws.md">flaw</a>.<br>
   <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -469,6 +432,41 @@ Static flaming purple.
 
  |
 |  |
+
+## Mechanics
+
+Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
+
+-   Enchanted items are not dropped on death
+-   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
+-   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
+-   Enchanted items appear as light purple in your inventory
+-   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these, so they can be obtained via trading.
+    -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
+-   Unenchanted weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
+-   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
+
+## Variants
+
+There are two variants that enchantments come in:
+
+-   **Blessing** - They have an effect and little to no downsides.
+-   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
+
+## Changelogs
+
+-   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
+-   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
+-   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
+-   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
+-   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
+-   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
+-   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
+-   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+-   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
+-   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
+-   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
 
 ## Trivia
 

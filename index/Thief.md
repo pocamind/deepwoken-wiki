@@ -1,13 +1,18 @@
 ---
 title: Thief
-revid: 51552
+revid: 51666
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Thief
 
+“ Just like in Detroit... ”
+
+― Average freshie en Erisia after killing 100 thiefs
+
+  
 **Thieves** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 Template:EnemyInfobox1.0

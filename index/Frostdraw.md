@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 51314
+revid: 51751
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -8,9 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
 
 # Frostdraw
 
-> ## Description
-
-> Insert cringy ice pun here-Mr Freeze
+## Description
 
 Frostdraw icon
 
@@ -30,7 +28,7 @@ Frostdraw can be trained by conventional methods, via using a the [Hemafrost](Tr
 
 Much like every other attunements, users can see their Mantras become stronger with enough training:
 
--   At Power 1 or upon drinking the [Glassblood](Attunement_Potions.md), players receive the _Frostdrawer_ Talent.
+-   At Power 1 or upon drinking the Glassblood, players receive the _Frostdrawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   At Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
@@ -200,7 +198,7 @@ _A flurry of ice spikes._
 
 -   Deals no damage
 -   Inflicts Chill.
--   Freezes opponent allowing for a free hit or combo. (Cant vent,block,parry,dodge while frozen in ice eruption)
+-   Freezes opponent allowing for a free hit or combo. (Can't vent, block, parry, dodge while frozen in ice eruption)
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
 
  |
@@ -868,8 +866,6 @@ Your ice spear now lodges into human opponents and explodes.
     -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The "Glacial Arc mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
--   I̶c̶e̶ ̶E̶r̶u̶p̶t̶i̶o̶n̶'̶s̶ ̶d̶a̶m̶a̶g̶e̶ ̶s̶c̶a̶l̶e̶s̶ ̶w̶i̶t̶h̶ ̶i̶t̶'̶s̶ ̶s̶i̶z̶e̶,̶ ̶d̶e̶a̶l̶i̶n̶g̶ ̶l̶e̶s̶s̶e̶r̶ ̶w̶h̶e̶n̶ ̶b̶e̶c̶o̶m̶i̶n̶g̶ ̶l̶a̶r̶g̶e̶r̶.̶ No longer true, as Ice Eruption has been reworked.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
 -   Frostdraw has the most mantras with 3 stars on them.
 -   Frostdraw has the most mantras out of all attunements.
--   A̶ ̶n̶e̶w̶ ̶F̶r̶o̶s̶t̶d̶r̶a̶w̶ ̶M̶a̶n̶t̶r̶a̶ ̶d̶u̶b̶b̶e̶d̶ ̶"̶I̶c̶e̶ ̶S̶t̶o̶m̶p̶"̶ ̶i̶s̶ ̶p̶l̶a̶n̶n̶e̶d̶ ̶t̶o̶ ̶b̶e̶ ̶a̶d̶d̶e̶d̶ ̶i̶n̶t̶o̶ ̶t̶h̶e̶ ̶g̶a̶m̶e̶,̶ ̶c̶o̶m̶i̶n̶g̶ ̶t̶h̶e̶ ̶L̶a̶y̶e̶r̶ ̶2̶ ̶u̶p̶d̶a̶t̶e̶ ̶a̶s̶ ̶s̶h̶o̶w̶n̶ ̶i̶n̶ ̶t̶h̶e̶ ̶L̶a̶y̶e̶r̶ ̶2̶ ̶C̶o̶m̶b̶a̶t̶ ̶D̶i̶r̶e̶c̶t̶ ̶v̶i̶d̶e̶o̶.̶ It is not a new mantra, it's a rework of the existing Ice Eruption mantra.

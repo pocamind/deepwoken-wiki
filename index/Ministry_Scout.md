@@ -1,12 +1,16 @@
 ---
 title: Ministry Scout
-revid: 51016
+revid: 51663
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Ministry Scout
+
+“ You cant stop history, fool..... ”
+
+― Ministry Scout
 
 Template:EnemyInfobox1.0
 

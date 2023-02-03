@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 51240
+revid: 51722
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,12 +8,12 @@ categories: [Boss, Monsters]
 
 # Dread Serpent
 
-“ The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. ”
+“ Unless you are referring to how cheese brings men of respect and power together in brotherhood, no, I do not know what cheese does to me! ”
 
-― Origin of the Dread Serpent
+― Kaido before being cheesed again
 
   
-Also known as Dreads Serpent, Kaido, and Valentine Ixatoke because he is a dragon in bed.
+_Also referred to as Kaido, Ardour or Sea Serpent._
 
 Template:Creature Infobox V3
 
@@ -21,7 +21,7 @@ Template:Creature Infobox V3
 
 The **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
-Though their are many, the first Dread Serpent was born when a man, named the Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown.
+Though their are many, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown.
 
 ## Attacks
 
@@ -46,10 +46,12 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be obtained, if player already has another Murmur.
+-   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur.
+-   The mantra 'Kaido's Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.
+-   Its general design appears to be a reference to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
 -   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.

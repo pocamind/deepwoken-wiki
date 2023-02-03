@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 51610
+revid: 51687
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -142,9 +142,9 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I speak to the winds. **(Galebreather)**_
 -   _I use the winds to enforce my will. **(Galeforce)**_
 -   _I fight for the Legion. **(Legion Shock Trooper)**_
--   _I am a master of the winds. **(Silencer)**_
+-   _I am a master of the winds. **(Aeromancy)**_
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
--   _The song shall be silenced. **(World Without Song)**_
+-   _The song shall be silenced. **(Silencer)**_
 
 ### **Thundercall**
 

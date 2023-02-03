@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 50480
+revid: 51746
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,11 +8,6 @@ categories: [Enemies]
 
 # Songseeker Frostdrawer
 
-“ I love hockey!!! ”
-
-― Songseeker Frostdrawer after using Ice Eruption on a dead body for the 8th time
-
-  
 Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description

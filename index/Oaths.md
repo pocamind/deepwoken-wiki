@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51602
+revid: 51737
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -99,9 +99,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 # **Oath: Blindseer**
 
-“ I'm.. illegally blind ? ”
+“ YOU FOOL, YOU FOOL! ”
 
-― A blind Gremor freshie getting blindseer for the first time.
+― A blindseer gremor fighting a Flame blind mantra spammer.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -348,7 +348,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 Strength and down any player ( Tested as 28.01.2023, you don't have to grip.)
+1.  Have 50 Strength and down any player (Tested as 28.01.2023, you don't have to grip.) (tested 2/2/23, had to grip)
 
 (Chime of Conflict does not count).
 
@@ -494,9 +494,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 # **Oath: Contractor**
 
-“ would you like to sign my petition? ”
+“ I was joking, I was joking! ”
 
-― the contractor ganymede _asking_ level 10's if it should get buffed
+― Average contractor fighting an entire guild after trying to grip a starkindred.
 
 ### Obtainment
 

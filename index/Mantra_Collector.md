@@ -1,9 +1,9 @@
 ---
 title: Mantra Collector
-revid: 41612
+revid: 51753
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, NPCs, World]
+categories: [In progress with reason, InProgressPages, NPCs, World, Vendors]
 notices:
   - This page is currently being worked on. Prices are still being adjusted.
 ---
@@ -32,7 +32,7 @@ They can be typically found on the Surface in:
 
 ## Prices
 
-Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for cheap prices. These can be improved slightly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md). It is not recommended to sell to these NPCs as [Mantra Modifiers](Mantra_Modifiers.md) do not take up inventory space or slow you down and they will generally give you 2-3 notes for each modifier.
+Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for cheap prices. These can be improved slightly with the _Snake Oil_ [Talent Card](Talents.md). It is not recommended to sell to these NPCs as [Mantra Modifiers](Mantra_Modifiers.md) do not take up inventory space or slow you down and they will generally give you 2-3 notes for each modifier.
 
 **Modifiers:**
 
@@ -68,11 +68,10 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
 
 ## Trivia
 
-Most of the NPCs are named after German meat dishes.
-
--   They are all Canor, which have German roots.
--   Schnitzel is a thin slice of meat, which is usually breaded then fried.
--   Hotdog refers to a sausage in a bun.
--   Cumberland may refer to a type of sausage.
-    -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
--   Croissant is an viennoiserie Austrian pastry, layered with butter and rolled multiple times in succession.
+-   Most of them are named after German meat dishes.
+    -   They are all Canor, which have German roots.
+    -   Schnitzel is a thin slice of meat, which is usually breaded then fried.
+    -   Hotdog refers to a sausage in a bun.
+    -   Cumberland may refer to a type of sausage.
+        -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
+    -   Croissant is a rare exception. Croissants are a viennoiserie Austrian pastry, layered with butter and rolled multiple times in succession. Germany and Austria are close both historically and geographically, so it still follows the theme to an extent.
