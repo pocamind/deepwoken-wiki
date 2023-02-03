@@ -1,9 +1,9 @@
 ---
 title: Thresher Spine
-revid: 50746
+revid: 51881
 source: https://deepwoken.fandom.com/wiki/Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Monsters]
+categories: [Items]
 ---
 
 # Thresher Spine

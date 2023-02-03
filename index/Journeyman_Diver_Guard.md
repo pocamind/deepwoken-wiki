@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 51616
+revid: 51868
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -15,6 +15,8 @@ Template:EnemyInfobox1.0
 ## Description
 
 Journeymen Divers are NPCs that act as the guards of [Castle Light](Castle_Light.md).
+
+They seem to be able to use up to 4 different Attunements at a time.
 
 ## Moveset
 
@@ -31,6 +33,9 @@ A Journeymen Diver's arsenal consists of:
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ? | (★★☆) |
+| Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
+| Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
+| Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
 
 ### Boons:
 
@@ -39,6 +44,7 @@ A Journeymen Diver's arsenal consists of:
 ## Tips
 
 -   Maybe don't try to fight at castle light.
+-   Don't try to fight them. They will jump you, and they have little to no cooldown on mantras.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 51542
+revid: 51861
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -14,111 +14,106 @@ _This page lists links to their respective pages. If you were looking for maps, 
 
 A list of named locations that can be found in _Deepwoken_.
 
-## The Etrean Luminant
+## Lumin's locations
 
-A list of named locations that can be found in the Etrean Luminant experience.
+A list of named locations that can be found in Deepwokens world "Lumin".
 
-**The Etrean Sea:**
+-   Note: words in a bigger font are areas with sublocations of their own/are their own area with importance
 
-A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
+**Etrean Luminant:**
 
-### Etrea
+**Etris:**
 
--   Etris (Starting Island)
+-   [Etris](Etris.md)
     -   [Etrean Wilds](Etrean_Wilds.md)
     -   [Etris Docks](Etris_Docks.md)
--   Isle of Vigils (Starting Island)
-    -   [Temple of the Blade](Temple_of_the_Blade.md)
-        -   [Temple Approach](Temple_Approach.md)
+    -   [The King's Garden](<The_King's_Garden.md>)
+    -   [Etris Palace](Etris_Palace.md)
+        
 
-### **[Erisia](Erisia.md)**
+**Vigils:**
+
+-   [Isle of Vigils](Isle_of_Vigils.md)
+    -   [Temple of the Blade](Temple_of_the_Blade.md)
+    -   [Temple Approach](Temple_Approach.md)
+        
+
+**Erisia:**
+
+**Lower Erisia:**
 
 -   [Lower Erisia](Lower_Erisia.md)
+    -   [Viper's Jaw](<The_Viper's_Jaw.md>)
     -   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
     -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+    -   [Erisor's Church](<Erisor's_Church.md>)
+        
+
+**Upper Erisia:**
 
 -   [Upper Erisia](Upper_Erisia.md)
+    -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
     -   [The Birdcage](The_Birdcage.md)
-    -   [Viper's Jaw](<The_Viper's_Jaw.md>)
-    -   [Erisor's Church](<Erisor's_Church.md>)
     -   [Towerstruck Lands](Towerstruck_Lands.md)
-        -   [The Hidden Village](The_Hidden_Village.md)
+    -   [The Hidden Village](The_Hidden_Village.md)
     -   Temple Of The Forgotten Flame
         -   [Temple Courtyard](Temple_Courtyard.md)
     -   [The Garden Reservoir](The_Garden_Reservoir.md)
-        -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
-        -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
-            -   [Rat's Den](<Rat's_Den.md>)
+    -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
+    -   [Rat's Den](<Rat's_Den.md>)
+        
 
-### Miscellaneous
+**Minityrsa:**
 
--   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
     -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
     -   [Starfield Tundra](Starfield_Tundra.md)
+        
 
-### The Void Sea
+**East Luminant:**
 
--   [Voidheart](Voidheart.md)
-    -   [Dusklit Garden](Dusklit_Garden.md)
+**Aratel:**
 
-### Inaccessible
-
--   [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md)
--   [The Floating Keep](The_Floating_Keep.md)
-    
-
-## The Eastern Luminant
-
-A list of named locations that can be found in the Eastern Luminant experience.
-
-  
-A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
-
-**The Aratel Sea:**
-
-### [Aratel Island](Aratel_Island.md)
+**Aratel Island:**
 
 -   [Starswept Valley](The_Starswept_Valley.md)
     -   [Lightkeeper Temple](Lightkeeper_Temple.md)
     -   [Widow's Hollow](<Widow's_Hollow.md>)
--   [The Lordsgrove](The_Lordsgrove.md)
--   [Bluster Rift](Bluster_Rift.md)
--   [Merit's Reach](<Merit's_Reach.md>)
 -   [Fort Merit](Fort_Merit.md)
+    -   [Merit's Reach](<Merit's_Reach.md>)
+-   [Bluster Rift](Bluster_Rift.md)
+-   [The Lordsgrove](The_Lordsgrove.md)
+-   [Meteor Isle](Meteor_Isle.md)
+    
 
-### Other Islands
+**Greathive Aratel:**
+
+-   [Greathive Aratel](Greathive_Aratel.md)
+    
+
+**Songseeker:**
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
     -   [Songkeeper Temple](Songseeker_Temple.md)
     -   [Ancient Rotlands](Ancient_Rotlands.md)
     -   [Derelict Highchurch](Derelict_Highchurch.md)
--   [Summer Isle](Summer_Isle.md)
-    -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
--   [The Monkey's Paw](<The_Monkey's_Paw.md>)
--   [Greathive Aratel](Greathive_Aratel.md)
--   [Miner's Landing](<Miner's_Landing.md>)
-    
-
-**The Voidsea:**
-
-A list of locations that can be found in [The Voidsea](Voidsea.md).
-
-### The Void Sea
-
--   [Boatman's Watch](<Boatman's_Watch.md>)
--   [Voidheart](Voidheart.md)
-    -   [Dusklit Garden](Dusklit_Garden.md)
         
 
-  
+**Summer Isle:**
 
-## [The Depths](The_Depths.md)
+-   [Summer Isle](Summer_Isle.md)
+    
 
-A list of named locations that can be found in [The Depths](The_Depths.md) experience.
+**Miner's Landing:**
 
-### **[Layer 1](The_Depths.md)**
+-   [Miner's Landing](<Miner's_Landing.md>)
+    -   [Saramaed Summit](Saramaed_Summit.md)
+        
+
+**Depths:**
+
+**Schypozia:**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
@@ -127,39 +122,65 @@ A list of named locations that can be found in [The Depths](The_Depths.md) exper
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-### **[Layer 2](Second_Layer.md)**
+[Fragments of Self](Fragments_of_Self.md)
 
--   Firfire
-    -   Firfire Caverns
+**The Eternal Gale:**
 
-### After Death
+**Floor 1:**
 
--   [Fragments of Self](Fragments_of_Self.md)
+-   [Cathedral of Ethiron](Cathedral_of_Ethiron.md)
+-   [Firfire](Firfire.md)
+    -   [Firfire Caverns](Firfire_Caverns.md)
+-   [Sanctuary Gatehouse](Sanctuary_Gatehouse.md)
+-   Frontier Furance
+-   Maw of Ethiron
+-   [Pilgrim's Respite](<Pilgrim's_Respite.md>)
+    
 
-## Dungeon
+**Floor 2:**
 
-A list of named locations that can be found in the Dungeon experience.
+-   [Kyrsan Wilds](Kyrsan_Wilds.md)
+-   [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
+    -   [The Sunken Railways](The_Sunken_Railways.md)
+        
+
+**Voidsea:**
+
+-   [Boatman's Watch](<Boatman's_Watch.md>)
+-   [Voidheart](Voidheart.md)
+    -   [Dusklit Garden](Dusklit_Garden.md)
+        
+
+**Dungeons:**
+
+**Duke's manor:**
+
+-   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
+    
+
+**Trial of One:**
 
 -   [Trial of One](Trial_of_One.md)
--   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
+    
 
-## Arena/Mission
+**Arena:**
 
-A list of named locations that can be found in the Arena or Mission experience.
-
-### 1v1:
+**1v1:**
 
 -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
 -   [The Profane Cavern](The_Profane_Cavern.md)
+-   [New Kyrsan Arterial Rail](New_Kyrsan_Arterial_Rail.md)
+    
 
-### 3v3:
+**2v2/3v3:**
 
 -   Forest Arena
 -   [The Falcon's Hold](<The_Falcon's_Hold.md>)
 -   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
+    
 
 ## Trivia/Notes
 
--   Do note that most of these locations are only in the [Etrean Luminant](Luminants.md).
--   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place, it is likely located in Minityrsa.
+-   Do note that most of these locations are only in the Eastern Luminant (not to be confused with the East Luminant).
+-   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place.
 -   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](https://deepwoken.fandom.com/wiki/Books#Stars_Above,_and_the_Blade_between),

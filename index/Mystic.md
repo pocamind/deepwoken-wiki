@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 51794
+revid: 51878
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -126,7 +126,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
 -   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
 -   _My flame fights for me._ _**(Duelist Flame)**_
--   _I am the one who speaks to death. **(Twisted Puppets)**_
 
 ### **Frostdraw**
 
@@ -161,7 +160,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### **Shadowcast**
 
 -   _I speak to the shadows. **(Shadowcaster)**_
--   _I am the one who speaks to death. **(Twisted Puppets)**_
+-   _I am the one who speaks to death. **(Deathspeaker)**_
 
 ## Locations
 

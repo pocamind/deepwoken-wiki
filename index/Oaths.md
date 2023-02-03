@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51737
+revid: 51858
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -448,6 +448,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Arc Module: Null - Passive**
     -   When your Arc Suit is active outgoing and incoming enchant effects are nullified. (+10 Ether)
+    -   Can be toggled by pressing N when Arc Suit is active.
 
 ### Effects
 

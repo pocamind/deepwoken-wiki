@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 51352
+revid: 51869
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2689,7 +2689,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  |
-|  | 
+| [Isshin's Ring](<Isshin's_Ring.md>) | 
 
 Isshin's Ring
 
@@ -2697,7 +2697,7 @@ Isshin's Ring
 
 Take 1.25x damage and deal 1.2x damage.
 
-**Requires Power 15**
+**Requires Power 5**
 
  | 
 

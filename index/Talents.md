@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51811
+revid: 51870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -461,7 +461,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers.
     -   Can proc from physical mantras
-    -   Prerequisites: 25 Strength, 20 Agility
+    -   Prerequisites: 20 Strength, 20 Agility
 
 ### Duelist Flame
 
@@ -484,7 +484,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Ether Adept
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact. (+3 Health, +5 Ether)
-    -   Prerequisites: 15 Strength, 10 Intelligence
+    -   Prerequisites: 15 Strength, 5 Intelligence
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
     -   Gain Ether when you parry mantras.
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+7 Sanity)
