@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 50481
+revid: 51799
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils,](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md) and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md).
+Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils,](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md), spawn in a pair in [Etris](Etris.md) and [Vigils](Isle_of_Vigils.md), spawn in [Guild Bases](Guild_Bases.md) sometimes, and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md).
 
 A Bandit wears an [Unknown/Unlisted](Outfits.md) outfit with their [race](Aspects.md) and gender varying.
 

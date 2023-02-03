@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 51692
+revid: 51771
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -386,15 +386,6 @@ File:No Attunement Revamp.png
     -   Teleports the user to the enemy which the cursor is pointed at.
     -   Deals moderate damage.
     -   Damage scales off LHT Weapons Attribute.
-
- |
-|  | Punch
-
-(☆☆☆)
-
- | You punch. | 
-
--   **Requirments: 100 Light Weapon, 75 Charisma, 75 intelligence, 75 Strength, 75 Fortitude.**
 
  |
 

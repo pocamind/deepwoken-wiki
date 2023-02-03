@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 49426
+revid: 51832
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -72,7 +72,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Requirements:** Grip 15 players in the Overworld. Chime of Conflict does not count.
 
-**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
+**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
 -   Your starting location is [The Voidheart](Voidheart.md).
     -   [The Voidheart](Voidheart.md) is an area exclusively for Voidwalkers, accessibly only via the Voideye or failing a Grasp of Eylis hunt.

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 51687
+revid: 51794
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -14,6 +14,8 @@ notices:
 |---|---|
 | name | Mystic |
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing |
+
+**You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for prompts!** This is a browser function, but all mainstream browsers should have it.
 
 “ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 

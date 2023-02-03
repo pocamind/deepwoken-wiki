@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 50000
+revid: 51821
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -12,7 +12,7 @@ categories: [Boss, Monsters]
 
 ― Nautilodaunt before showing a Canor what it's like to evolve diagonally
 
-_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Black Critter (Jay) and Squiboss._
+_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Black Critter (Jay), Squiboss and Nigalodaunt._
 
 **Nautilodaunt:**
 

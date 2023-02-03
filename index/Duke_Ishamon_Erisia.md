@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 50355
+revid: 51814
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -26,8 +26,8 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ✗ | ◯ | (★★☆) |
+| **Assault** | Firmly pummels opponent and gets on top of them~ | ◯ | ◯ | ◯ | (★☆☆) |
+| **Critical** | Grabs his victim and does some devious ahh ahh things to their behind | ◯ | ✗ | ◯ | (★★☆) |
 | **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage.
 -   He laughs afterward when something strikes his counter.
 
@@ -51,7 +51,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
- | ◯ | ✗ | ◯ | (★★★) |
+ | ✗ | ✗ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
@@ -92,7 +92,7 @@ Duke Erisia executes his opponent after knocking them:
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras. To destroy The Duke's Wind Shield, land attacks until it breaks. Focuses on **posture damage**.
--   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants to the player, and all of them when there's <3).
+-   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, allowing the player to inflict damage upon him. May beginning summoning Mindless Servants and Cyclone Bomb.
 
 ### Rewards
 
@@ -106,8 +106,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Deep Gems](Deep_Gems.md)
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
-
-Soloing the duke is the more recommended way to get bell, as doing so 4-5 times will guarantee your bell.
 
 ## Dialogue
 

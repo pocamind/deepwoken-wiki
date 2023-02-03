@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 51097
+revid: 51809
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -54,6 +54,7 @@ File:Way Of Navae.png
 -   To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Erisia](Erisia.md) but it is also possible to find them in [Fort Merit](Fort_Merit.md). Once you've acquired one, you can bring them back to either one of these NPCs:
     -   Eastern Camp Master on [Etris](Etris.md)
     -   [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md)
+    -   **CAN RESULT IN YOU LOSING YOUR WEAPON IF YOUR INVENTORY IS FULL**
 
 After unlocking Way of Navae, you can choose Fists as your starter weapon in the character menu. Once you unlock Way of Navae, it is available on all slots.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 51724
+revid: 51831
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -248,7 +248,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 50% more damage in PVE.<br>
+  <td><div><p>Deal 20% more damage in PVE.<br>
   Can only be obtained by talking to a <a href="Wishmaker.md">Wishmaker</a>, who will then apply it to your current weapon. Comes with the Wishbound <a href="Boons_and_Flaws.md">flaw</a>.<br>
   <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>

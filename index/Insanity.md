@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 48241
+revid: 51781
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,3 +49,4 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 236 sanity, which equals to just below 2 hours (118 minutes) in The Depths before dying.
 -   Each point of sanity equals to 30 extra seconds in the depths before reaching 100% insanity.
+-   Possibly a reference to Insanity from Vehicle Simulator.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51581
+revid: 51811
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1497,7 +1497,7 @@ These Talents are designed to make you more effective in water.
 ### **Human Architecture**
 
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll. Prerequisites: 100 Fortitude, 75 Willpower, Perseverance
+    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll. Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 ## Whispers
 
@@ -1723,7 +1723,7 @@ File:Thresherquest1.png
 
 -   A chant that steers you into the state of insanity for 20 seconds.
 -   Gives a burst of insanity instantly and enable talents that require to be gaining insanity to activate for 15 seconds.
-    -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
+    -   80 willpower, tier 1 insanity (Shivering) (May be wrong?), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
 

@@ -1,9 +1,9 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 50784
+revid: 51820
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Drowned Gods, NPCs]
+categories: [Drowned Gods, NPCs, Layer 1]
 ---
 
 # Shrine of Yun'Shul, Keeper of Hearts
@@ -27,7 +27,6 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players start with a wish (and can only hold 1 at a time). A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
-    -   Moreover, wish CD is reset sometimes in weekly patches, keep an eye out for 'em.
 
   
 If you meet all the criteria, you are able to make one of five wishes:
@@ -35,9 +34,11 @@ If you meet all the criteria, you are able to make one of five wishes:
 1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
     -   Instantly sends the player back to The Overworld.
 2.  **"My Flaws weigh me down too much, I wish for relief."**
-    -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw. **Warning**: You can only make this wish once, so if you get stuck with something like deficient, you cant get another reroll.
+    -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
+        -   **You can only make this wish once**, so if you get stuck with something like deficient, you cant get another reroll.
 3.  **"The Vows I made give me much regret, I wish to break."**
-    -   Erase all your active vow of masteries. This wish is currently broken and does nothing. If you try to choose it in the wish dialogue, nothing will happen. I need this for my build so put it in bug reports.
+    -   Erase all your active vow of masteries.
+        -   This wish is currently broken and does nothing.
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path"**
     -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**

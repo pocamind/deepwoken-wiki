@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 51712
+revid: 51801
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [Pages with broken file links, Deepwoken]
 ---
 
 # Developer Specs
@@ -18,11 +18,9 @@ A spec is custom ability often given to mod and/or developers that is unique to 
 
 Arch\_Mage has the ability to steal people's soul and take [Mantras](Mantras.md) from them. He can upgrade them to whatever level he sees fit.
 
-Arch\_Mage holding a soul
-
 He is also able to spawn horseshoe crabs (like the ones in the [Karliah](Karliah.md) [quest](Quests.md)) that chase players nearby & kill them.
 
-Horseshoe crabs killing [Karliah](Karliah.md).
+Horseshoe crabs killing [Karliah](Karliah.md)
 
 Arch\_Mage possesses a teleportation ability which spawns chains around him when he disappears, not much else is know about this ability currently.
 
@@ -42,8 +40,6 @@ Melonbeard possesses a teleportation ability which makes a gate rise from the gr
 
 He is currently using Zartania's "Skeleton Key" spec as his is unfinished.
 
-A barrier created with Skeleton Key.
-
   
 He can jump extremely high.
 
@@ -51,22 +47,38 @@ He can jump extremely high.
 
 -   Wears [Wishmaker](Wishmaker.md)
 
-Not much is known of Iltria's spec as of now, however we have a general idea. Upon meeting Iltria in game, they may ask you to make a wish, this wish may be one of three things; wealth, power or enhancement. Upon choosing wealth, you will be granted a total of 10,000 notes (needs confirming). Upon choosing power, you will be given enough exp to reach level 60 (needs confirming). Upon choosing enhancement, you will be granted a unique enchant called 'Astral' (see [Enchantments](Enchantments.md)) on your chosen weapon. When your wish is granted you will find that you have a newly acquired flaw known as 'Wishbound'. This flaw causes the player to accumulate insanity when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess insanity should be aware at all times. They also have the ability to spawn in "The Floating Keep" and teleport people there.
+Not much is known of Iltria's spec as of now, however we have a general idea. Upon meeting Iltria in game, they may ask you to make a wish, this wish may be one of three things:
+
+1.  Wealth - 10,000 notes (needs confirming)
+2.  Power - reach max [Power](Power.md) (needs confirming)
+3.  Enhancement - a unique enchant called "Astral" (see [Enchantments](Enchantments.md)) on your chosen weapon
+
+When your wish is granted you will find that you have a newly acquired [flaw](Boons_and_Flaws.md) known as "Wishbound". This [flaw](Boons_and_Flaws.md) causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
+
+Wishmaker granting a wish (3rd option)
+
+Wishmaker granting a wish (3rd option)
+
+They also have the ability to spawn in [The Floating Keep](The_Floating_Keep.md) and teleport people there.
+
+[The Floating Keep](The_Floating_Keep.md) spawning in.
 
 ### Zartania (Stannis Caesar)
 
-Zartania has a spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
+Zartania has a spec called the “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game.
+
+He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 
 #### Family Members:
 
 -   Mar Caesar
+-   Jaq Caesar, The One Who Knocks
+-   Kryphus Caesar
+-   Vortex Caesar
 -   Zeppelli Caesar
 -   Zoltorias Caesar
--   Vortex Caesar
--   Kryphus Caesar
--   Jaq Caesar, The One Who Knocks
 
-### yayafino (Zithori Vhemm Rybak Diri)
+### yayafino (Zithori Vhemm Miziri Diri)
 
 They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the action-RPG _Genshin Imapct,_ they also have the "Cosmic" enchant on their fists and are able to conjure enchants and use the hive construct tree move using lifeweaver.
 

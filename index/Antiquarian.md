@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 51338
+revid: 51758
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -20,7 +20,7 @@ Antiquarians are NPCs that purchase certain items. They are typically your main 
 
 They can be found on the Surface in:
 
--   [Isle of Vigils](Isle_of_Vigils.md) (right next to the anker),
+-   [Isle of Vigils](Isle_of_Vigils.md) (right next to the banker),
 -   [Etris](Etris.md) (right behind the lumberjack quest),
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md) (just to the right of the gun seller),
@@ -30,7 +30,7 @@ They can be found on the Surface in:
 
 ## Prices
 
-Antiquarians can buy weapons, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md).
+Antiquarians can buy weapons, blueprints, equipment, gems, and other items for [Notes](Notes.md). These can be improved greatly with the _Snake Oil_ [Talent Card](Talents.md).
 
 **Gems:**
 
