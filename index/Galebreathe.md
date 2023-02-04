@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 51555
+revid: 52049
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -71,6 +71,7 @@ _Shoots out an air blast._
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
 -   Deals immense posture damage.
+-   Can break objects.
 -   Can be upgraded with cloudstones.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 
@@ -170,6 +171,7 @@ _Form a punch of wind in your fist and release it._
 
  | Conjure a wind AoE punch that deals damage and knocks opponents away.
 
+-   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
  |
@@ -223,7 +225,7 @@ _A powerful wind blast._
 -   Deals heavy damage and flings opponents.
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot 3 rounds of short ranged bullets.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
 
  |
 |  | 

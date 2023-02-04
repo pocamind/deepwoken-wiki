@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 51972
+revid: 52052
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,16 +12,16 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Flamecharmer is an enemy NPC found in [Upper Erisia](Upper_Erisia.md) and on [Meteor Isle](Meteor_Isle.md). They are ranked the lowest, and thus the most incompetent members of The Central Authority's army, frequently accidently incinerating or setting each other on fire. As a result, they have a standard appearance, sporting an Authority Peacekeeper Armor and an [Authority Helm](Outfits.md).
+Authority Soldiers are enemy NPCs found in [Upper Erisia](Upper_Erisia.md) and on [Meteor Isle](Meteor_Isle.md). They are ranked the lowest, and thus the most incompetent members of The Central Authority's army, frequently accidently incinerating or setting each other on fire. As a result, they have a standard appearance, sporting an Authority Peacekeeper Armor and an [Authority Helm](Outfits.md).
 
 They can spawn in the following events:
 
--   2 **Authority Flamecharmers** with 2 [Authority Officers](Authority_Officer.md) patrolling [Upper Erisia](Upper_Erisia.md).
--   2 **Authority Flamecharmers** raiding [Meteor Isle](Meteor_Isle.md).
+-   2 **Authority Soldiers** with 2 [Authority Officers](Authority_Officer.md) patrolling [Upper Erisia](Upper_Erisia.md).
+-   2 **Authority Soldiers** raiding [Meteor Isle](Meteor_Isle.md).
 
 ## Moveset
 
-An Authority Flamecharmer's arsenal consists of either a [Adretian Axe](Adretian_Axe.md) or an [Officer Saber](Officer_Saber.md):
+An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.md) or an [Officer Saber](Officer_Saber.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -35,4 +35,4 @@ An Authority Flamecharmer's arsenal consists of either a [Adretian Axe](Adretian
 
 ## Trivia
 
--   They are all exclusively non-Adrets.
+-   They are one of two Authority mobs that can be non-Adrets, the other being the [Authority Peacekeeper](Authority_Peacekeeper.md).

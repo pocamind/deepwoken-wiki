@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 51869
+revid: 52044
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -211,7 +211,7 @@ Chests from:
 
 [Gumshoe Hat](Gumshoe_Hat.md)
 
-(Series)
+(**Series**)
 
  | 
 
@@ -228,7 +228,7 @@ Chests from:
 
 [Strapped Hat](Strapped_Hat.md)
 
-(Series)
+(**Series**)
 
  | 
 
@@ -282,6 +282,8 @@ Chests from:
 | File:Tophat.png | 
 
 [Tophat](Tophat.md)
+
+(**Series**)
 
  | 
 
@@ -357,7 +359,7 @@ Other sources:
 
 Hood
 
-(Series)
+(**Series**)
 
  | 
 
@@ -922,7 +924,7 @@ Chests from:
 
 [Headband](Headband.md)
 
-(Series)
+(**Series**)
 
  | 
 
@@ -1332,7 +1334,7 @@ Chests from:
 
 Cape
 
-(Series)
+(**Series**)
 
  | 
 
@@ -1353,7 +1355,7 @@ Chests from:
 
 Shrouded Cape
 
-(Series)
+(**Series**)
 
  | 
 
@@ -1374,7 +1376,7 @@ Chests from:
 
 [Fleet Warden Cape](Fleet_Warden_Cape.md)
 
-(Series)
+(**Series**)
 
  | 
 
@@ -1412,7 +1414,7 @@ Chests from:
 
 Scarf
 
-(Series)
+(**Series**)
 
  | 
 
@@ -1515,7 +1517,7 @@ Grants a random buff.
 
 Chests from:
 
--   Placeholder
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 
@@ -1999,6 +2001,23 @@ _+Talent: Berserker_
 Chests from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| 
+
+ | 
+
+Grand Authority Plate
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
 
  | N/A |
 |  | 
@@ -3109,7 +3128,13 @@ Other sources:
 
 Grants a random buff.
 
- | Erisia Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+
+ | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
 
 Azure Royal Guards
@@ -3118,7 +3143,14 @@ Azure Royal Guards
 
 Grants a random buff.
 
- | Duke Erisia Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
@@ -3127,7 +3159,14 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Aratel Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ |
 | File:Brilliant Boots.png | 
 
 [Brilliant Boots](Brilliant_Boots.md)
@@ -3136,7 +3175,30 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Songseeker Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
+| 
+
+ | 
+
+Celtorian Sabatons
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 |  | 
 
 [Enforcer Boots](Enforcer_Boots.md)
@@ -3145,7 +3207,13 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:Etrean Siege Sabatons.png | 
 
 [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
@@ -3154,7 +3222,13 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 | File:Black fur boots 1.png | 
 
 [Fur Boots](Fur_Boots.md)
@@ -3163,7 +3237,15 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests, Songseeker Chests & Minityrsa Chests | Black & White |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | Black & White |
 | File:Grand Authority Sabatons.png | 
 
 Grand Authority Sabatons
@@ -3172,7 +3254,13 @@ Grand Authority Sabatons
 
 Grants a random buff.
 
- | Miner's Landing | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 | File:Grand Boots.png | 
 
 [Grand Boots](Grand_Boots.md)
@@ -3181,7 +3269,45 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Duke Erisia Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Imperial Boots.png | 
+
+[Imperial Boots](Imperial_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+| File:Static-assets-upload12369006146430102616.png | 
+
+[Iron Boots](Iron_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 | File:Leather boots.png | 
 
 [Leather Boots](Leather_Boots.md)
@@ -3192,7 +3318,15 @@ Grants a random buff.
 
 _\+ 2 Health_
 
- | Erisia Chests, Primadon Chests & Fishing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Fishing](Fishing.md)
+-   [Erisia](Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+ | N/A |
 |  | 
 
 [Mercenary's Boots](<Mercenary's_Boots.md>)
@@ -3201,7 +3335,13 @@ _\+ 2 Health_
 
 Grants a random buff.
 
- | Miner's Landing Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 [Novice Boots](Novice_Boots.md)
@@ -3210,25 +3350,31 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Summer Isle Chests & Fort Merit Chest | N/A |
-| File:Imperial Boots.png | 
+ | 
 
-[Imperial Boots](Imperial_Boots.md)
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Fort Merit](Fort_Merit.md)
+
+ | N/A |
+| 
+
+ | 
+
+Phalanx Heavy Boots
 
  | 
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
-| File:Static-assets-upload12369006146430102616.png | 
-
-[Iron Boots](Iron_Boots.md)
-
  | 
 
-Grants a random buff.
+Chests from:
 
- | Duke Erisia Chest & Layer 1 Chests | N/A |
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 | File:Ranger Boots.png | 
 
 [Ranger's Boots](<Ranger's_Boots.md>)
@@ -3237,7 +3383,16 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Aratel Island Chests, Arena Chests, Songseeker Chests & Minityrsa Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
 |  | 
 
 [Redsteel Boots](Redsteel_Boots.md)
@@ -3246,7 +3401,15 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Fort Merit Chests, Arena Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Fort Merit](Fort_Merit.md)
+-   [First Layer](First_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
 | File:Khanboots.png | 
 
 [Khan Boots](Legion_Boots.md)
@@ -3255,7 +3418,15 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests, Aratel Island Chests and Deep Widow Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Deep Widow](Deep_Widow.md)
+
+ | N/A |
 | File:Silver Sabatons.png | 
 
 [Silver Sabatons](Silver_Sabatons.md)
@@ -3264,7 +3435,13 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 [Star Boots](Star_Boots.md)
@@ -3275,7 +3452,15 @@ Grants a random buff.
 
 **Requires Power 10**
 
- | Primadon Chests, Deep Widow Chests & Layer 1 Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Deep Widow](Deep_Widow.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
 |  | 
 
 [Tracker's Boots](<Tracker's_Boots.md>)
@@ -3284,7 +3469,14 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests & Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 [Vanguard Boots](Vanguard_Boots.md)
@@ -3293,7 +3485,14 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Erisia Chests & Hive Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 |  | 
 
 [Winter Corps Boots](Winter_Corps_Boots.md)
@@ -3302,7 +3501,14 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Miner's Landing Chests & Layer 2 Chests (Floor 1) | N/A |
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md) (**Floor 1**)
+
+ | N/A |
 |  | 
 
 [Woodland Boots](Woodland_Boots.md)
@@ -3311,7 +3517,13 @@ Grants a random buff.
 
 Grants a random buff.
 
- | Aratel Island Chests | N/A |
+ | 
+
+Chests from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 
   
 

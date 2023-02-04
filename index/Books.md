@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 51975
+revid: 52060
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -298,37 +298,7 @@ We would give our lives for the cause!
 > 
 > The night soon came to an end. The following day, the remains of the forest layed barren. Burnt, rotted trees weakly stand, most collapsed from the blaze. A sea of ash covered the burnt wasteland, a reminder of what once stood there. A Tiran woman could be seen walking away from the sight, with a letter in hand. Upon the parchment, the following words were written:
 > 
-> “There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
-> 
-> "There was never a fire."
-> 
-> There was a fire.
+> There was a fire. “There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire. "There was never a fire." There was a fire.
 > 
 > "There was never a fire."
 > 

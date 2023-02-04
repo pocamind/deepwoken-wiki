@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52000
+revid: 52056
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -348,7 +348,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 Strength and grip any player (Tested as 28.01.2023, you don't have to grip.) (tested 2/2/23, had to grip)
+1.  Have 50 Strength and grip any player.
 
 (Chime of Conflict does not count).
 

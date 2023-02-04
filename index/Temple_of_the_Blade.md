@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 49249
+revid: 52055
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -97,7 +97,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 ### The Wind Woken Quest
 
--   have gale breath
+-   You need to have Galebreath for this quest.
 -   Speak to Stratos with an unknown positive reputation with Etris.
 -   He will tell you that he is willing to teach you a talent, but you must learn to be one with the wind first.
 -   Go to the docks and get on a boat, and once you begin sailing, turn your sails to match the directions of the wind trails on the sea for ~10 minutes.

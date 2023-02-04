@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 50903
+revid: 52046
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -65,7 +65,7 @@ The doors to enter the Lordsgrove.
 
 -   Physical Mantra Trainer
 
-#### [Antiquarian](Antiquarian.md)
+#### Antiquarian
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 -   Cloth is sold here for each.
