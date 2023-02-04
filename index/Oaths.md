@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52056
+revid: 52093
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There aree currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
+There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
 
 ## Pathfinder (No Oath)
 
@@ -518,7 +518,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   1 grip - Hidden Tendril/Lords Slice
 -   2 grips - Equalizer
--   3 grips - String Trick/Judgment
+-   3 grips - String Trick/Judgement
 
 ### **Known Abilities**
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 51932
+revid: 52096
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -377,7 +377,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
   <font>Ferocity<div></div></font></center></td>
-  <td><div>Gain Damage Resistance and Speed Buff depending on your Tempo.<br>
+  <td><div>On proc, gain Damage Resistance and a Speed Buff, scaling on your Tempo&nbsp;%.<br>
   </div></td>
   <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 49686
+revid: 52077
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -33,6 +33,8 @@ A superpower native to the Western Luminant, the Hundred Legions are a powerful 
 
 -   [Amara](Amara.md)
 -   [Legion Sniper](Legion_Sniper.md)
+-   [Legion Soldier](Legion_Soldier.md)
+-   [Legion Captain](Legion_Captain.md)
 
 ## Trivia
 

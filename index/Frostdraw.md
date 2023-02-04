@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 51751
+revid: 52084
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -42,6 +42,8 @@ The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. She requi
 **Standard:**
 
 These mantras have no prequisites.
+
+.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -166,22 +168,6 @@ Ice Chain
 _Chains of ice._
 
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage. |
-| [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
-
-Ice Forge
-
-(★)
-
- | 
-
-_Conjure and throw weapons of ice._
-
- | Forms a barrage of ice shurikens before propelling them at the cursor's location.
-
--   Rapidly deals light damage.
--   Inflicts Chill.
-
- |
 | 
 
  | 
@@ -202,7 +188,22 @@ _A flurry of ice spikes._
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
 
  |
-| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
+| [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
+
+Ice Forge
+
+(★)
+
+ | 
+
+_Conjure and throw weapons of ice._
+
+ | Forms a barrage of ice shurikens before propelling them at the cursor's location.
+
+-   Rapidly deals light damage.
+-   Inflicts Chill
+
+ | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
 
 Ice Smash
 

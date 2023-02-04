@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 51322
+revid: 52083
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -97,7 +97,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results: 8 Dentiflo: 2 Seaweed, 6 Miss
 
--   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 1 Seabass and 1 Miss
+-   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
 
 -   Urchin Effect: Decent speed of bites. Result: 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 

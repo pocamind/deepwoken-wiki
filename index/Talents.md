@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52038
+revid: 52097
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -692,7 +692,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
--   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health)
+-   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor. (2+ Ether, +8 Reservoir, +3 Health)
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 50950
+revid: 52101
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -14,7 +14,7 @@ _Thundercall icon_
 
 _A Thundercall infused sword_
 
-Thundercall grants the user ability to control thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
+Thundercall grants the user the ability to control thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 
 Thundercall makes use of a highly unpredictable nature with high slow/stun potential.
 
@@ -328,18 +328,21 @@ Modifiers:
  |
 | 
 
+File:Vanishing cloak.webp
+
  | 
 
   
-Lightning Cloak  
+Vanishing Cloak  
 (★★★)
 
- | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A Vanishing Cloak that empowers you. | Your body envelops in a vanishing-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
+-   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
+-   **Vanishing Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
 -   Now requires you to hit an opponent within 3 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 30 seconds.
+-   When you critically hit an enemy, you become invisible and untargetable. Cooldown is 2 minutes and 30 seconds.
 
  | Duration: 3.5-30 secs
 
