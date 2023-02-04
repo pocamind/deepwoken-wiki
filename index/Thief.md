@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 51849
+revid: 51906
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,11 +8,6 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Thief
 
-“ Just like in Detroit... ”
-
-― Average freshie en Erisia after killing 100 thiefs
-
-  
 **Thieves** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 Template:EnemyInfobox1.0
@@ -43,3 +38,4 @@ Their arsenal only consists of a [Silver Dagger:](Silver_Dagger.md)
 ## Trivia
 
 -   Despite stealing your money, they still half grip the player, but backing off before the animation finishes.
+-   They can also mug NPCs like the [Authority Officer](Authority_Officer.md), even though a player mugging the Officers will reveal they are clearly underpaid.

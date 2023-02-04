@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 51801
+revid: 51907
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Deepwoken]
+categories: [Deepwoken]
 ---
 
 # Developer Specs
@@ -57,8 +57,6 @@ When your wish is granted you will find that you have a newly acquired [flaw](Bo
 
 Wishmaker granting a wish (3rd option)
 
-Wishmaker granting a wish (3rd option)
-
 They also have the ability to spawn in [The Floating Keep](The_Floating_Keep.md) and teleport people there.
 
 [The Floating Keep](The_Floating_Keep.md) spawning in.
@@ -78,11 +76,17 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 -   Zeppelli Caesar
 -   Zoltorias Caesar
 
-### yayafino (Zithori Vhemm Miziri Diri)
+### yayafino (Zithori Vhemm Miziri Diri; Zithori Vhemm Rybak Diri - previously)
 
-They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the action-RPG _Genshin Imapct,_ they also have the "Cosmic" enchant on their fists and are able to conjure enchants and use the hive construct tree move using lifeweaver.
+-   Wears [Hive Leader's Garment](<Hive_Leader's_Garment.md>)
 
-They may also be related to Laplace due to them having the same last name Diri.
+They wear custom armor and a custom [outfit](<Hive_Leader's_Garment.md>) that allows them to cosplay as Scaramouche from the action-RPG _Genshin Imapct_, they also have the "\[[Weave](https://deepwoken.fandom.com/wiki/Enchantments#Specs%7CLife)\]" enchant on their weapon and are able to conjure enchants.
+
+yayafino's Costume & a [Railblade](Railblade.md) enchanted with Life Weave
+
+and use the hive construct tree move using lifeweaver.
+
+A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move to the [Hive Mech](Hive_Construct.md)'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader. They may also be related to Laplace due to them having the same last name Diri.
 
 ### Dexerius (Sadreyus)
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 51739
+revid: 51904
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -97,12 +97,6 @@ Fuel for what, exactly? The Enforcer is not a living creature, or even a creatur
 The Enforcers are like an endless cycle, constantly getting Souls to make new Enforcers, and those Enforcers will gather more Souls, so on and so forth. It is quite harrowing to think that this behemoth is only one out of an infinite legion, constantly getting more numerous and stronger from all the Souls they have reaped, and eventually, your soul will be used as well.
 
 The voices appear to have some control and/or power over The Enforcer, as they summon it to fight those who enter the trial, however they seem to have no qualms about letting them be destroyed by those who do defeat it.
-
-## Gallery
-
-File:Image 2022-12-23 151100197.png
-
-Enforcer Eye (drop)
 
 ## Trivia
 

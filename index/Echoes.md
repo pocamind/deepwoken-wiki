@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 51438
+revid: 51915
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51858
+revid: 51929
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
+There aree currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
 
 ## Pathfinder (No Oath)
 
@@ -348,7 +348,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 Strength and down any player (Tested as 28.01.2023, you don't have to grip.) (tested 2/2/23, had to grip)
+1.  Have 50 Strength and grip any player (Tested as 28.01.2023, you don't have to grip.) (tested 2/2/23, had to grip)
 
 (Chime of Conflict does not count).
 
@@ -556,8 +556,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ## Warmaster
 
--   Not much is known about it, and it's currently not known to be in the game. It may be a future Oath to be the opposite of Contractor, as Blindseer is to Visionshaper.
--   Can be assumed by the notebook in the Tomb of the Nameless Warrior to be Warden Jericho's Oath
+-   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future, confirmed by Ragoozer, and is very possible to come or be realted alongside the Authority Origin.
+-   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the Windrunner.
+-   Similar to Blindseer is the counter oath to Visionshaper, there are high chances to this oath be the counter part of the Contractor Oath due to the fact that the windrunner explains that this two oaths are against each other, and in the journal of Jericho explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
     
 
 **Time Magic:**
@@ -604,6 +605,16 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
 -   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
+    
+
+**Penistaker:**
+
+## Penistaker
+
+**Users:** _Adolf Hitler_
+
+-   All Muja#4600 (mic up) have taken this oath to show off their skills in cutting off penises, normally they would love to suck some aswell, but not this time.
+-   All Muja#4600 have a sad past, where they got bullied because of their hobbies, but they decided not to give up and continue on their hobby, eventually they got so skilled, that they took revenge on all of their enemies
     
 
 ## Trivia

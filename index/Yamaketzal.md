@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 50759
+revid: 51930
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -47,9 +47,9 @@ Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" f
 
 _"Hrmm... <number of battles won> tourneys won out of <total number of battles> fought..."_
 
--   _"A cryin' shame..."_ (When W:L ratio is low)
--   _"Respectable... at the very least."_ (When W:L ratio is mid)
--   _"Not bad... Not bad at all."_ (When W:L ratio is high)
+-   _"A cryin' shame..."_ (When W:L ratio is lower than 60%)
+-   _"Respectable... at the very least."_ (When W:L ratio is between 60% and 80%)
+-   _"Not bad... Not bad at all."_ (When W:L ratio is above 80%)
 
 ### Yamaketzal's Dialogue When Approached with Tarnished Flaw
 

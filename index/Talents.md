@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51870
+revid: 51922
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -30,15 +30,14 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 -   A high enough Power.
     -   Thresher Claws requires a Power of 14 as a prerequisite.
 
-On the other hand, obtaining specific Talents may instead **prevent you** from getting Talents that you want. Those being:
+Some talents are **mutually exclusive** with other talents, meaning picking one talent will remove the other talent from your talent pool. However, if you use the Shrine of Chance to remove the talent, the other talent returns to your talent pool. The known mutually exclusive pairs are:
 
--   You cannot roll Everchanging Aegis with Return to the Dark Ages.
--   You cannot roll Risky Moves with Safety Dance and Observation.
--   You cannot roll Conditioned Runner with Fishman.
--   You cannot roll Eruption Path: Lava Serpent with The Final Act.
--   You cannot roll Orbital Ice with Fist of fortitude.
-
-Note: These all apply vice versa.
+-   _Everchanging Aegis_ and _Return to the Dark Ages_.
+-   _Risky Moves_ and _Safety Dance_.
+-   _Risky Moves_ and _Observation_.
+-   _Conditioned Runner_ and _Fishman_.
+-   _Eruption Path: Lava Serpent_ with _The Final Act_.
+-   _Orbital Ice_ with _Fist of Fortitude_.
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
 
@@ -125,6 +124,9 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: 25 Agility, 25 Fortitude
 
 ### Amoran Seeker
+
+-   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
+    -   Prerequisites: Flame Within, 30 Flamecharm
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
@@ -1354,8 +1356,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Undying Ember
 
--   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flame Within, 30 Flamecharm
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
     -   Prerequisite: Flame of Denial
