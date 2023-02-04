@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 51922
+revid: 52038
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -790,7 +790,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity, +2 Elemental Intensity)
-    -   Prerequisite: Agitating Spark and 20 Willpower
+    -   Prerequisite: Agitating Spark
 -   Phoenix Flames \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+2 Elemental Intensity)
     -   If Phoenix Flame is activated by the use of Flame Within, the healing is reduced to 25% instead.
     -   Prerequisites: All Immolator talents
@@ -1408,7 +1408,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Visionshaper
 
--   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit bellow half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. (+10 Ether)
+-   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. (+10 Ether)
 -   Lasting Image \[Common Talent, Visionshaper Exclusive\] - Your illusions last longer.
 -   Mirage From the Deep \[Common Talent, VisionShaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 15% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
     -   Upon pressing X, you will leave Illusionary Realm early, leaving behind 3 creatures: [Megalodaunt](Megalodaunt.md), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
@@ -1417,8 +1417,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Warrior
 
--   Chronostasis \[Rare Talent\] - Landing an M1 puts resonance on cooldown for a short duration.
--   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores your Ether. (+1 Posture)
+-   Chronostasis \[Rare Talent\] - Landing an M1 puts enemy resonance on cooldown for a short duration.
+-   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores some of your Ether. (+1 Posture)
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
 
 ### **Waterborne**
@@ -1440,7 +1440,7 @@ These Talents are designed to make you more effective in water.
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisite: 40 Light Weapon
 
--   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly.
+-   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly. \[This only applies to npcs.\]
     -   Prerequisites: 75 in any Weapon Mastery stat
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. Grants you the ability to equip an offhand while one-handing. (+3 Health)
@@ -1468,14 +1468,14 @@ These Talents are designed to make you more effective in water.
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
-    -   Create a thick blue fog around you (simulating blindness).
-    -   In your attempt to escape visions of horror, having the Blinded talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
+    -   Create a dark blueish fog around you (simulating blindness).
+    -   In your attempt to escape visions of horror, having the Blinded flaw/talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
-    -   Also grants immunity to the Flame Blind mantra.
+    -   The talent grants immunity to the Flame Blind mantra.
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Fortitude 15 Strength
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
--   ~Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)~ Fold has been removed from the game in the Verse 2 update.
+-   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
@@ -1558,7 +1558,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
     -   Prerequisite: 20 strength
--   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
+-   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a dash forwards
     -   Prerequisite: 20 Strength
 -   Tacet Drop Kick - Disguise yourself in tacet and drop kick your enemies.
     -   Prerequisites: 20 Strength, Murmur: Tacet, Jus Karita
@@ -1641,7 +1641,7 @@ _Main Page - [Frostdraw](Frostdraw.md)_
 ### Frost Mobility
 
 -   Glacial Arc \[1 Star Mantra\] - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
--   Ice Skates \[3 Star Mantra\] - After a decent wind-up, start skating only when around water. (Having a specific card makes it so you don't need to be around water.)
+-   Ice Skates \[3 Star Mantra\] - After a short wind-up, start skating only when around water. (Having Frozone makes it so you don't need to be around water in order for it to be used.)
 
 ### Shadowcast Mantras
 
@@ -1669,17 +1669,17 @@ _Main Page - [Shadowcast](Shadowcast.md)_
 
 ## Talent Quests
 
-Introduced in the Verse 2 update, crucial talents have been given their own quests. Some these talents will be permanently unlocked after completing these quests, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is completed.
+Introduced in the Verse 2 update, crucial talents have been given their own quests. Some these talents will be permanently unlocked after completing these quests, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is complete. You can turn off this talents if you wish at the echo screen.
 
 ### Engage + Critical Attack
 
--   Quest giver located at the gate to burning stone gardens. He will request that you kill a sharko.
--   it is common to find a sharko inside of the cave behind him, but if none spawn then you can find them at the sharko cave in lower erisia.
+-   Quest giver located at the gate to the burning stone gardens she will request that you kill a sharko.
+-   it is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in lower erisia.
 -   You will automatically gain Engage at Power 3 and Critical attack at Power 5 on all new slots.
 
 ### Aerial Assault
 
--   Quest giver located in Lower Erisia near the glider blueprints giver.
+-   Quest giver located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave.
 -   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
 -   You will automatically gain this at Power 2 on all new slots.
 
@@ -1722,7 +1722,7 @@ File:Thresherquest1.png
 ### Heretic Sutra
 
 -   A chant that steers you into the state of insanity for 20 seconds.
--   Gives a burst of insanity instantly and enable talents that require to be gaining insanity to activate for 15 seconds.
+-   Gives a burst of insanity instantly while chanting and enable talents that require to be gaining insanity to activate for 15 seconds.
     -   80 willpower, tier 1 insanity (Shivering) (May be wrong?), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
@@ -1742,7 +1742,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
     -   Stacks with Finisher's Ring.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your Way of Navae fist style has 25% armor PEN.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
-    -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and extreme knockback moves.
+    -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
@@ -1763,7 +1763,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself.
+-   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
 -   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)

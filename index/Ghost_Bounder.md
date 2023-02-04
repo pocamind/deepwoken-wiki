@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 50669
+revid: 51974
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -8,13 +8,13 @@ categories: [Random Encounters, Layer 2, Floor 1, Monsters]
 
 # Ghost Bounder
 
-Template:Creature Info Box v2 _Also known as Brandon._
+Template:Creature Info Box v2 AKA Brandon.
 
 ## Overview
 
 The Ghost Bounder is a entity that was added in the Layer Two update and can be found in Firfire Caverns. It spawns behind the player time by time, though sometimes right in front of the player. It seems that it has set spawn locations where it spawns.
 
-It looks just like a normal Bounder except it's missing it's body and it's translucent.
+It looks just like a normal Bounder except it's missing its body and is translucent.
 
 When the Ghost Bounder spawns in it seems to stay there for a while, but if the player looks directly at it it disappears after a short while, it is possible to look at it without it disappearing by looking at it with only the corner of your screen.
 

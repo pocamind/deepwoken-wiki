@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 51929
+revid: 52000
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -402,9 +402,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Literal balls of steel. ”
+“ I'M FUCKIN INVINCIBLE! ”
 
-― Player getting Arcwarder for the first time
+― Player getting Arcwarder to complete their 100% damage resistance build.
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
 
@@ -605,16 +605,6 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
 -   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
-    
-
-**Penistaker:**
-
-## Penistaker
-
-**Users:** _Adolf Hitler_
-
--   All Muja#4600 (mic up) have taken this oath to show off their skills in cutting off penises, normally they would love to suck some aswell, but not this time.
--   All Muja#4600 have a sad past, where they got bullied because of their hobbies, but they decided not to give up and continue on their hobby, eventually they got so skilled, that they took revenge on all of their enemies
     
 
 ## Trivia

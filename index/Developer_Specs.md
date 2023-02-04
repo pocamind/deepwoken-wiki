@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 51907
+revid: 52034
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -10,7 +10,7 @@ categories: [Deepwoken]
 
 ## What is a Spec?
 
-A spec is custom ability often given to mod and/or developers that is unique to the person for instance, Arch\_Mages has a Soul Stealer ability.
+A spec is custom ability often given to mod and/or developers that is unique to the person. For instance, Arch\_Mage has a Soul Stealer ability.
 
 ## Spec's
 
@@ -22,7 +22,7 @@ He is also able to spawn horseshoe crabs (like the ones in the [Karliah](Karliah
 
 Horseshoe crabs killing [Karliah](Karliah.md)
 
-Arch\_Mage possesses a teleportation ability which spawns chains around him when he disappears, not much else is know about this ability currently.
+Arch\_Mage possesses a teleportation ability which spawns chains around him when he disappears. Nothing else is known about this ability currently.
 
 ### Melonbeard (Zastra, Prince of the Moon)
 
@@ -80,23 +80,43 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 
 -   Wears [Hive Leader's Garment](<Hive_Leader's_Garment.md>)
 
-They wear custom armor and a custom [outfit](<Hive_Leader's_Garment.md>) that allows them to cosplay as Scaramouche from the action-RPG _Genshin Imapct_, they also have the "\[[Weave](https://deepwoken.fandom.com/wiki/Enchantments#Specs%7CLife)\]" enchant on their weapon and are able to conjure enchants.
+They wear custom armor and a custom [outfit](<Hive_Leader's_Garment.md>) that allows them to cosplay as Scaramouche from the action-RPG _Genshin Imapct_, they also have the "[Life Weave](https://deepwoken.fandom.com/wiki/Enchantments#Specs)" enchant on their weapon and are able to conjure enchants. He also owns a [Heliodar](Heliodar.md).
 
 yayafino's Costume & a [Railblade](Railblade.md) enchanted with Life Weave
 
-and use the hive construct tree move using lifeweaver.
+A super charged attack similar to [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths#Dawnwalker)'s Radiant Kick (Punch/Kick) but also replenishes the opponent's Hunger by a small amount.
 
-A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move to the [Hive Mech](Hive_Construct.md)'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader. They may also be related to Laplace due to them having the same last name Diri.
+A huge AoE spin/dance attack similar to [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths#Dawnwalker)'s Blinding Dawn.
+
+Supposedly allows for life defense/debuff/swipe (steal/rob) abilities.
+
+He has two moves similar to the [Hive Mech](Hive_Construct.md)'s:
+
+1.  Meteor Punch (Life Swipe/Life Robber) - (needs confirming) Punches the ground with his right fist, creating two circular shock-waves.
+
+Insta-grips/Insta-executes.
+
+1.  Lifeweave Flourish - sprouts temporary trees in the area around user at high rate, which either acts as attack (needs confirmation) or teleport in this case.
+
+Also possesses an unknown [Mantra](Mantras.md) that has similar effects to [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths#Dawnwalker)'s [Mantras](Mantras.md). It allows him to teleport to each living being in the vicinity and take their life away (assassinate):
+
+Exclusive power belonging to the Hive Leader.
+
+They may also be related to Laplace due to them having the same last name Diri.
 
 ### Dexerius (Sadreyus)
 
-This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride with him.
+This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride it with him.
+
+He also has a [Heliodar](Heliodar.md) slot.
 
 ### Melon\_Sensei/Par
 
-Par has the spec to spawn a cat maid that will excite any downed player/npc not much is known about this spec at the moment.
+Par has the spec to spawn a cat maid that will execute any downed players/NPCs. Not much is known about this spec at the moment.
 
 ## Sources
+
+Phoenix Video credit: [https://medal.tv/games/roblox/clips/5Z15d\_nRRaf5r/RztO4fFQdf9Q?invite=cr-MSxnbU4sMTYxNTg4NzM5LA](https://medal.tv/games/roblox/clips/5Z15d_nRRaf5r/RztO4fFQdf9Q?invite=cr-MSxnbU4sMTYxNTg4NzM5LA)
 
 Arch\_Mage Soul Stealer: [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM)
 
@@ -105,3 +125,5 @@ Melonbeard Gate (No official name): [https://www.youtube.com/watch?v=4KLGPkyCff0
 Hive Leader (yayafino): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8) and [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) (0:36)
 
 Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)
+
+Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20g?t=566)

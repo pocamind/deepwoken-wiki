@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 50711
+revid: 52036
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Knowledge]
@@ -28,7 +28,7 @@ The Shrine of Temptation, Up-Front angle
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** _Choose mantras available to your attributes and attunement (I got 3 choices but needs testing)._
+-   **(BENEFIT)** _Choose mantras available to your attributes and attunement. You'll often have only one choice._
 -   **(PENALTY)** _Lose one equipped mantra of your choosing and 5 knowledge points._
 
 _Pros/Cons_
@@ -37,6 +37,7 @@ _Pros/Cons_
 -   You lose knowledge points which are very valuable.
 -   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
 -   If you have multiple attunements, the three you get to choose won't be the same element as the one you lost.
+-   **READ THE MANTRA YOU ARE TRYING TO REPLACE CAREFULLY LEST YOU HAVE TO GAMBLE BACK FOR IT**
 
 ### **Shrine of Blasphemy**
 

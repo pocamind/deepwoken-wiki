@@ -1,9 +1,11 @@
 ---
 title: The Great Sharko Rumbling
-revid: 50732
+revid: 51970
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
+categories: [Candidates for deletion, Lore]
+notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"lore page exists\""
 ---
 
 # The Great Sharko Rumbling

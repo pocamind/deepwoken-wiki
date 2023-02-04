@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 51839
+revid: 51947
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -39,7 +39,7 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
  | ✗ | ✗ | ◯ | (★★☆) |
 | **Meteor Punch** | 
 
- | Punches the ground with it's right fist, creating two circular shockwaves that do roughly 200 damage.
+ | Punches the ground with it's right fist, creating two circular shock-waves that do roughly 200 damage.
 
 -   Insta-grips/insta-executes.
 

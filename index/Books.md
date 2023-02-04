@@ -1,12 +1,18 @@
 ---
 title: Books
-revid: 51339
+revid: 51975
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
 ---
 
 # Books
+
+“ This truly was… a Deepwoken. Take this, my rogue friend… my LINEAGE. ”
+
+― George Ouli when writing 1384
+
+  
 
 ## Description
 
