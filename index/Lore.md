@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 51529
+revid: 52145
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -67,7 +67,7 @@ The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious indiv
 ### **The Second Prophet**
 
 -   The second strongest of the nine Ministry Prophets.
--   Gave Chaser his hemokinetic abilities.
+-   Gave Chaser his hemo-kinetic abilities.
 
 ### **The 5th King of Etrea**
 

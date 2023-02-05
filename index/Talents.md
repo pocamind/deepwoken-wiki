@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52097
+revid: 52129
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -201,7 +201,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
     -   Prerequisites: 15 Willpower, 15 Fortitude
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
+-   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Negate movement speed penalty of blocking.
@@ -740,7 +740,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: Ice Lance, 60 Frostdraw.
 -   Frozone \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisite: Ice Skate, 65 Frostdraw.
+    -   Prerequisite: Ice Skate, 75 Frostdraw.
 
 ### Inferno
 

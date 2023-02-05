@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 36350
+revid: 52142
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,7 +27,7 @@ Towerstruck Lands
 #### [The Hidden Village](The_Hidden_Village.md)
 
 -   Players can find [Erisore](https://deepwoken.fandom.com/wiki/Ore#Erisore) here, a substantial part to building an outfit.
--   Players can find [Cestis](Cestis.md) and Nimea here.
+-   Players can find ~[Cestis](Cestis.md)~ (Cestis moved to Meteor Isle in Eastern Luminant) and Nimea here.
 
 ## Potential Enemies
 

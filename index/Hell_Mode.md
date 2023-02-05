@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 51220
+revid: 52140
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -66,6 +66,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   ~The [Alloyed Crescent Cleaver](Crescent_Cleaver.md) enchanted with Heroism is arguably one of the best weapons for Hell Mode as it deals bleed damage (more damage than advertised), plus the damage buff of Heroism when at high/low health.~ Now outclassed directly by the [Kyrscleave](Kyrscleave.md), or, ideally, [Evanspear Hand Axe](Evanspear_Greataxe.md). Heroism is still viable, but is significantly less consistent and possibly less effective than Chilling paired with the [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) talent.
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
+-   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
 
 ## Trivia
 
@@ -77,3 +78,4 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).
 -   You can obtain a [Resonance](Resonance.md), even in Hell Mode.
+-   Some servers can bug and retain Hell Mode features, even after the original 20 is up. **Death in this is restorable.**

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 52084
+revid: 52150
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement]
@@ -16,9 +16,9 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial, Support, and Defense. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the defensive focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having unparalleled damage, and deadly combos.
+Frostdraw is an Attunement that focuses on Environment Manipulation, Area-Denial, Combo, and Massive Dealing. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the combo focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having unparalleled damage, and deadly combos.
 
-A favorite of both the defensive, and the creative. Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
+Frostdraw is an Attunement to be reckoned with when used by those who understands the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
 However, it should be noted that Frostdraw's more methodical playstyle oftentimes provides opponents who are quick on their feet an edge in combat. Aerial attacking, bursting, and dodge-heavy builds should always be on a Frostdrawer's radar to ensure they do not get displaced and lose their defensive advantage. Thundercallers are particularly prone to this playstyle, due to their mantras favoring hit-and-run tactics and high mixup potential.
 
@@ -203,7 +203,8 @@ _Conjure and throw weapons of ice._
 -   Rapidly deals light damage.
 -   Inflicts Chill
 
- | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
+ |
+| 
 
 Ice Smash
 

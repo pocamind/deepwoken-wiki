@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 50905
+revid: 52130
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Pages with broken file links, Enemies]
@@ -61,3 +61,4 @@ Zana acts as an encounter in the places you're suppose to challenge him; so it'l
 ## Trivia
 
 -   He is a joke on “metamancers,” using a shattered katana and Royal Pathfinder, not to mention the fact you fight him at all the ganking spots.
+-   His hp and damage seems to be about equal to that of a songseeker, recommend power 7+

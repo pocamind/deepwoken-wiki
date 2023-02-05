@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 51770
+revid: 52151
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -84,7 +84,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   One point in charisma gives 1.5 ether.
 -   Charisma can be used in certain dialogue checks that require charisma.
 -   Gain charisma EXP by selling items and using the "How To Make Friends" book.
--   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33
+-   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33 and eagerly at power 66.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.
 
 ## Weapon Attributes
