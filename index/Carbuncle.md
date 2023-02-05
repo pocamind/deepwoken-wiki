@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 50532
+revid: 52158
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -35,6 +35,7 @@ Carbuncles only has 2 attacks, listed below:
 
 ## Tips
 
+-   Carbuncles apply stun unlike most other monsters, potentially making them a formidable threat against powerful yet unprepared players.
 -   Carbuncles will always have Hyperarmor; shrugging off all attacks that apply daze or stun.
 -   Carbuncles alone won't be a problem, but a handful of them grouped together will mince Players into a **stunlock** until they get out of it.
 -   Carbuncles in terms of difficulty are not hard; as they signify what kind of attack they'll use with an initial, distorted growl.

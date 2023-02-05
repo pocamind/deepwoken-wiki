@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52129
+revid: 52153
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1405,6 +1405,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Speed Demon \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus that pierces damage cap.
     -   Prerequisite: 25 Agility
+
+### **Vigil Swordsman**
+
+-   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your next melee attack.
 
 ### Visionshaper
 

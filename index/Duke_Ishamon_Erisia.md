@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 52144
+revid: 52157
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -191,6 +191,10 @@ Duke: So you're the one running about tripping my alarms. Care to explain yourse
 
 Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
 
+1: How the shit are you going to "slay" me with your fists?
+
+Duke: ( ͡° ͜ʖ ͡°)
+
 1: \[End Dialogue\]
 
 This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
@@ -215,6 +219,7 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
     -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's).
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
+-   Extremely easy boss. Gives you health packs in phase 2 in-case he was about to beat you and bends over for you the rest of the way, allowing you to compress him into a wall until he dies.
 
 ## Bugs
 
