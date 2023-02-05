@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 52103
+revid: 52113
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -20,7 +20,7 @@ However, Shadowcast works best with plenty of time to work with, able to fight a
 
 ## Obtainment & Training
 
-Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris and Isle of Vigils.
+Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris, Isle of Vigils or Voidheart also obtained while picking shadowcast as your element at start of the game.
 
 In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
 

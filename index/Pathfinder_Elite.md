@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 49666
+revid: 52114
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Arms]
@@ -26,4 +26,4 @@ categories: [Armors, Equipment, Arms]
 
 ## Description
 
-The Elite Pathfinder Coat is an [Armor](Outfits.md) that's found in the "Arms" category. It's only obtainable as a rare drop from the [Nautilodaunt](Nautilodaunt.md). It has 5 known variants, being Ash, Black, Crimson, Magenta and Sage.
+The Elite Pathfinder Coat is an [Armor](Outfits.md) that's found in the "Arms" category. It's only obtainable as a very rare drop from the [Nautilodaunt](Nautilodaunt.md). It has 5 known variants, being Ash, Black, Crimson, Magenta and Sage.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52093
+revid: 52112
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -628,3 +628,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras such as equalizer and judgement.
 -   Jetstriker makes Chrysid eyes white.
+-   You can sacrifice yourself to get Linkstrider.

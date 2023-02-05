@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 52101
+revid: 52116
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -328,19 +328,17 @@ Modifiers:
  |
 | 
 
-File:Vanishing cloak.webp
-
  | 
 
   
-Vanishing Cloak  
+Lightning Cloak  
 (★★★)
 
- | A Vanishing Cloak that empowers you. | Your body envelops in a vanishing-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A cloak of lightning | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Vanishing Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
+-   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
 -   Now requires you to hit an opponent within 3 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 30 seconds.
 -   When you critically hit an enemy, you become invisible and untargetable. Cooldown is 2 minutes and 30 seconds.
 

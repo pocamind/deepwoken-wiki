@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 52034
+revid: 52107
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -76,7 +76,7 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 -   Zeppelli Caesar
 -   Zoltorias Caesar
 
-### yayafino (Zithori Vhemm Miziri Diri; Zithori Vhemm Rybak Diri - previously)
+### yayafino (Zithori Vhemm Rybak Diri)
 
 -   Wears [Hive Leader's Garment](<Hive_Leader's_Garment.md>)
 

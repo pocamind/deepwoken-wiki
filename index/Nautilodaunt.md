@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 51821
+revid: 52110
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -114,3 +114,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and might get wiped. (Examples being: Players (in a group or solo), Angels, Monsters or even bad ping)
 -   Mortus mentions his wife was killed when they fished up an octopus. Since no octopi are present in Deepwoken, he may have been referring to a Nautilodaunt.
+-   It is based off a Nautilus, not an octopus.
