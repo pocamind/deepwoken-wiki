@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 47648
+revid: 52187
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents, Attributes, Food]
@@ -59,4 +59,4 @@ Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of
 -   Zephyr Lotus - Agility Attribute
 -   Brilliant Lotus - Intelligence Attribute
 -   Skyvalor Lotus - Willpower Attribute
--   Miasmic Lotus - Charisma Attribute
+-   Miasmic Lotus (Pink) - Charisma Attribute

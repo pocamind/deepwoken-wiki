@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 52127
+revid: 52202
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -21,6 +21,8 @@ Template:Creature Infobox V3
 ## Description
 
 Mindless enemies that sprout out of the ground to surprise their prey. The most notable part of them are the features atop their head that resemble rocky shelves and brightly colored orange-and-yellow tube coral that obscures one of their eyes. They lack intellect, as they don't know how to parry and only attack using basic moves. Easy when fighting one or three of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly comboed by them until they can grip you as they do not flourish enemies. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
+
+They are born from [Nautilodaunts](Nautilodaunt.md) shoving parasites into the brains of their prey.
 
 When accompanied by Bloatskippers from an emergence, their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" mantra fired from their mouths instead of their hands.
 
@@ -122,11 +124,7 @@ Headbutt
 
 -   Very good for grinding when first starting, due to their low HP and low damage output.
     -   Stat Check Level: Any.
--   If you aren't fighting a lot of Mudskippers, use M1s to knock them.
--   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use mantras for attunement XP.
--   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
-    -   Be careful about this, as you can get stun-locked if there is a group of them.
--   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
+-   Surprisingly, they have far more HP than regular mudskippers.
     
 
 **Necroskipper:**

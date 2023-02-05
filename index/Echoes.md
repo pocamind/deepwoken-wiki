@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 51915
+revid: 52172
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -24,7 +24,7 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
-The maximum amount of **Echoes** that a character can get(excluding rebargaining with Yun'Shul) is 157.
+The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 157.
 
 ### Ways of Obtaining Echoes
 
@@ -225,10 +225,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 (Power 2) Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
-(Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of an Authority soldier near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
+(Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
 ## Trivia
 
+-   Combining all Modifiers awards a 2.8x increase.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). This may have been the root of the developer team's inclusion of this feature within the game.
 -   The four starter weapons from "Advanced Weapons" are obtained in linear order through purchases as so:

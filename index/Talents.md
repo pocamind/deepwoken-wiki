@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52153
+revid: 52214
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -109,7 +109,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 ### Alley Cat
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
+-   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
     -   Prerequisite: 5 Agility
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
@@ -724,12 +724,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Frostdraw
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
--   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity, +3 Health)
+-   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity)
     -   Prerequisite: Ice Forge, 25 Frostdraw.
--   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity, +3 Health)
+-   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity,
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Prerequisite: Cryonis, 25 Heavy, 50 Frostdraw.
--   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity, +3 Health)
+-   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity)
     -   Prerequisite: Ice Forge, 25 Frostdraw.
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
@@ -739,7 +739,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Frostbite, 25 Frostdraw.
 -   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: Ice Lance, 60 Frostdraw.
--   Frozone \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
+-   Frozone \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 75 Frostdraw.
 
 ### Inferno
@@ -1466,7 +1466,7 @@ These Talents are designed to make you more effective in water.
 
 ### **Miscellaneous**
 
--   Armor Conserver \[Common Talent\] - You lose 5% less armor when hit. (+4 Ether)
+-   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered. (+3 Health)
     -   Prerequisite: Power 10
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
@@ -1484,12 +1484,12 @@ These Talents are designed to make you more effective in water.
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+5 Ether)
-    -   Prerequisite: 30 Fortitude (Seem to get it around power 10 i believe also my fav talent\[TSKG WAS HERE\])
+    -   Prerequisite: 30 Fortitude, Power 10(?)
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased by 25%.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain.
--   Polite Awakening \[Common Talent\] - Recover 25% of your max health after getting up from being knocked. (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
     -   Knocking enemies will replenish more of your health and posture.
@@ -1766,7 +1766,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+2 Health, +5 Ether)
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+3 Health, +5 Ether)
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)

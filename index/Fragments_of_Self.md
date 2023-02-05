@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 51543
+revid: 52173
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death, The Depths]
@@ -111,7 +111,7 @@ The legacy menu upon wiping
 
 The Triumphs section shows the player's achievement across the progression, These will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
 
-The Echoes section shows how much echoes you earned and the Rank Based on it
+The Echoes section shows how much echoes you earned and the Rank Based on it. Rankings range from E-A, there is currently no proof of a Rank S.
 
   
 
