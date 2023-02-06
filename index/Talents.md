@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52222
+revid: 52275
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -182,7 +182,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Authority Interrogator
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
-    -   Prerequisites: Power 10, 65 Thundercall
+    -   Prerequisites: Power 10, 60 Thundercall
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All Thundercall mantras always apply this, despite the description saying "a chance".
@@ -1050,7 +1050,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Puppet Master
 
 -   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   Prerequisites: Corpse Explosion, 40 Flamecharm & 70 Shadowcast
+    -   Prerequisites: Corpse Explosion, 65 Flamecharm & 70 Shadowcast
 
 ### Pyromancer
 

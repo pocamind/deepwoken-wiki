@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 52171
+revid: 52285
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -267,7 +267,7 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 20% more damage in PVE.<br>
   Can only be obtained by talking to a <a href="Wishmaker.md">Wishmaker</a>, who will then apply it to your current weapon. Comes with the Wishbound <a href="Boons_and_Flaws.md">flaw</a>.<br>
@@ -377,7 +377,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
   <font>Ferocity<div></div></font></center></td>
-  <td><div>Procs on vent, gain damage reduction depends on how much tempo you had prior to the vent .<br>
+  <td><div>Procs on vent, gain damage reduction depends on how much tempo you had prior to the vent.<br>
   </div></td>
   <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>

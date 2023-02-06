@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 51888
+revid: 52290
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -22,7 +22,7 @@ categories: [Resonance]
 ## Description
 
   
-**Crazy Slots** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
+**Crazy Slots** is a [Resonance](Resonance.md) or an alternative name, "bell" that players can obtain and is uncommon to roll.
 
 **Crazy Slots** does not have separate versions, but instead pulls out weapons from thin air that are unique to this Resonance.
 
@@ -34,24 +34,24 @@ Once used, the user extends their right arm (and left arm if Divine Flintlock), 
 
 Pressing C will activate the **Crazy Slots** Resonance and its unique special skill.
 
-**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and curses being transferred onto the summoned weapon. Each weapon scales with its respective stat, and has a unique skill that can be used by re-activating the ability.
+**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and curses being transferred onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the ability.
 
 ### _Resonance Point usage_
 
 When obtained, Crazy Slots will spend its points on the following stats:
 
--   **Weapon roll weight:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance, along with it's length.
+-   **Weapon roll weight:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance, along with its length.
     -   When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
 
 #### _Tarnished_
 
-If the owner of **Crazy Slots** is Tarnished, the weapon will take 2 extra seconds to be summoned which can be intterupted. The cooldown is also increased.
+If the owner of **Crazy Slots** is Tarnished, the weapon will take 2 extra seconds to be summoned which can be interrupted. The cooldown is also increased.
 
 ## Weapons
 
 These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
-Stat wise, compared to other endgame weapons, Divine Weapons have higher base damage (+2-5), which helps alleviate the potential lose of damage from weapons who arent part of your main weapon training.
+Stat wise, compared to other endgame weapons, Divine Weapons have higher base damage (+2-5), which helps alleviate the potential loss of damage from weapons who aren't part of your main weapon training.
 
 ### _Normal_
 

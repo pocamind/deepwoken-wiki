@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 52229
+revid: 52273
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ categories: [Enemies, NPCs, Bosses]
 
 “ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
-― Duke
+― Duke before being beaten to death by an enforcers blade heavy hands ring ardour scream build
 
 Template:EnemyInfobox1.0
 
@@ -26,9 +26,13 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ✗ | ◯ | (★★☆) |
-| **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage.
+| **Assault** | Firmly pummels opponent before finishing up the combo by flourishing them. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Critical** | Attempts to grab his victim before slamming them into the ground head-first.
+-   Does not do posture damage but will still grab
+
+ | ◯ | ✗ | ◯ | (★★☆) |
+| **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+
 -   He laughs afterward when something strikes his counter.
 
  | ◯ | N/A | N/A | (★★☆) |

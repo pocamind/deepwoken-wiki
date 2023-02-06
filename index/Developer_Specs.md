@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 52107
+revid: 52289
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [Pages with broken file links, Deepwoken]
 ---
 
 # Developer Specs
@@ -56,6 +56,10 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 When your wish is granted you will find that you have a newly acquired [flaw](Boons_and_Flaws.md) known as "Wishbound". This [flaw](Boons_and_Flaws.md) causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
 
 Wishmaker granting a wish (3rd option)
+
+They can spawn in a variant of [Stone Knight](Stone_Knight.md), called "Astral Knight". It has Sand Violet colors and it's weapon is enchanted with [Astral](Enchantments.md) enchant. It's supposedly called "Michael". The rest is unknown.
+
+File:Astral Knight.png
 
 They also have the ability to spawn in [The Floating Keep](The_Floating_Keep.md) and teleport people there.
 

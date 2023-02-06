@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 52172
+revid: 52282
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -48,7 +48,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Completing [Layer 2](Second_Layer.md) without Light Hook, awarding 10 Echoes.
+-   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
