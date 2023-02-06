@@ -1,12 +1,18 @@
 ---
 title: Aristocrat Coat
-revid: 50335
+revid: 52309
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Equipment, Armors]
 ---
 
 # Aristocrat Coat
+
+“ After all this time, I have the 3 of them... ”
+
+― Duke cosplayers after getting the Celtor race, eyeglasses, and the Aristocrat Coat
+
+  
 
 ## Description
 

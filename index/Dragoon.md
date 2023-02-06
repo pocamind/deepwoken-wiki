@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 51107
+revid: 52303
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -18,7 +18,7 @@ categories: [Weapons, Guns]
 | swing speed | 0.8x |
 | endlag | ? |
 | penetration | None |
-| selling price | ? |
+| selling price | 14 |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |

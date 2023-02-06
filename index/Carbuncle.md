@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 52262
+revid: 52311
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -8,9 +8,9 @@ categories: [Monsters, Layer 2, Floor 1]
 
 # Carbuncle
 
-“ oogoroahaoghaohgahghhhrdr ”
+“ Let me see that tempo! ”
 
-― carbuncle hitting the griddy
+― A group of Carbuncles after making a player waste all their tempo.
 
 Template:Creature Info Box v2
 

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 52299
+revid: 52301
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]

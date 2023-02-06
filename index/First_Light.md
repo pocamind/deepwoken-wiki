@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 47795
+revid: 52308
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -26,6 +26,10 @@ categories: [Weapons, Greatswords]
 | pass down | Yes |
 | obtainment | Crimson Megalodaunt |
 | description | "" |
+
+“ I got it first try! ”
+
+― The First Light user after killing tons of Crimson Sharkos for this weapon
 
 ## Description
 

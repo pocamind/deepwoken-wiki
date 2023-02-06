@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52284
+revid: 52323
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -208,7 +208,7 @@ Visionshaper also has one talents obtained via standard level up.
     -   This mantra can counter fall damage, although the bugginess of this behavior likely means it's not intended. (It's also not good to rely on)
 
 -   **Mirage From the Deep - Passive**
-    -   While in the **Illusionary Realm**, press X to leave early. This will cost 10% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
+    -   While in the **Illusionary Realm**, press X to leave early. This will cost ?? HP(Tested with 478 hp character, it only cost 4% HP when i had full health) and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the monsters that spawn in the Depths
 
 -   **Cheap Trick - Passive**
@@ -491,7 +491,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
     -   This fact essentially makes this a direct upgrade from Oathless.
--   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2, you have to be semi-skilled at PvE to unlock it. If you lack said skill please head over to Jetstriker like the rest of us.
+-   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
     
 
 **Contractor:**
@@ -568,6 +568,8 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 ## Time Magic
 
 -   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
+-   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
+-   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Void sea due to the relation of the Voidwalkers and the Voidsea, meaning, that more like a "Time magic" oath, it can be more like a "Void oath" being time manipulation just a part of the oath.
     
 
 **Ironsing:**
