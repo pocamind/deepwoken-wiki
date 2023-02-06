@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 48017
+revid: 52248
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,7 +29,7 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a 75 HVY and 10 STR to equip. It has a unique critical that makes you lunge forward at your enemies and knock them down. On successful hit, your first M1 changes to hitting the weapon on the ground while you get hyperarmor.
+Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26, and a 75 HVY and 10 STR to equip. It has a unique critical that makes you lunge forward at your enemies and knock them down. On successful hit, your first M1 changes to hitting the weapon on the ground while you get hyperarmor.
 
 ## Trivia
 

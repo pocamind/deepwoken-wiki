@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 50601
+revid: 52252
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -105,6 +105,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 -   Can be found outside the Inn
 -   Will give you something random out of his sack for 350 notes.
+-   The sack can contain random equipment.
 
 #### _**The Guildmaster**_
 
@@ -145,6 +146,7 @@ Jarvis is a unique NPC in the Etrean Luminant. He will allow you to smelt two it
 -   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
 -   You need neutral or positive reputation to interact with him.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Take that stupid thing off." "Give me a break."
+-   Essential NPC so that you may retain good stats from armor pieces and cosmetics without looking like crap.
 
 #### _**Brawling Arena**_
 

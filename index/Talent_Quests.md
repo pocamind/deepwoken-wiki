@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 51440
+revid: 52247
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -29,7 +29,7 @@ Upon defeating a megalodaunt and returning to the soldier, you will gain the Eng
 
 **Aerial Assault:** You can now dodge mid-air
 
-Aerial Assault can be obtained from a Pathfinder in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the questgiver for the glider blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md).
+Aerial Assault can be obtained from a Pathfinder in [Pathfinder's Respite](<Pathfinder's_Respite.md>), next to the questgiver for the glider blueprint. After talking to him, he will ask you to gaze into the purple flame in the Temple Of The Forgotten Flame, which is above the bandit camp in [Lower Erisia](Lower_Erisia.md). The NPC's name is [Ivory](Ivory.md).
 
 Note that you have to go into the building to access the purple flames, as the purple flames outside the building cannot be used. After interacting with the flame, returning awards the talent Aerial Assault, which allows you to perform an advanced dodge mid-air allowing you to travel a bit in the direction of your cursor. All new characters will gain Aerial Assault at Power 2.
 
@@ -37,7 +37,7 @@ Note that you have to go into the building to access the purple flames, as the p
 
 **Thresher Scales:** You regenerate your armor at campfires. (+5 Health)
 
-Thresher scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a King thresher, which can spawn randomly anywhere in [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10.
+Thresher scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a King thresher, which can spawn randomly anywhere in [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10. The NPC's name is [Jessamine](Jessamine.md).
 
 ## Other Quests
 

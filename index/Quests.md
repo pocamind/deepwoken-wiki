@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 50716
+revid: 52240
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -12,13 +12,7 @@ notices:
 
 ‎
 
-<table>
-<tbody>
-<tr>
-  <td>Description</td>
-</tr>
-</tbody>
-</table>
+## Description
 
 **Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, murmurs, oaths and so forth. Quests are categorized into 5 categories for convenience. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC.
 
@@ -194,13 +188,13 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Reward/s**: Small Hive Chest
 
-**Etrean '''Guide''':**
+**Etrean Guide:**
 
 **Quest Location**: Etris / Vigils
 
 **Guide**: Talk to an NPC in Etris / Vigils to get a short introduction to the game.
 
-**Reward/s**: Campfire? & Repair Kit recipe.
+**Reward/s**: Campfire & Repair Kit recipe.
 
 **Just a Librarian:**
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52112
+revid: 52263
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -265,7 +265,7 @@ Does not grant any special cosmetic based on race.
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
 
 -   -   **Symbiotic Sustain**
-        -   If linked to an ally (signified by blue cord), this move will take a percentage of **YOUR** health and then heal your **ally** by that amount.
+        -   If linked to an ally (signified by blue cord), this move will take ~5% of **YOUR** health and then heal your **ally** by that times an undefined amount.
     -   **Symbiotic Leech**
         -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
 
@@ -277,7 +277,10 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
--   Please don't aim for this because of how hard it is to get I assure you it won't be of help.
+-   Please don't aim for this because of how hard it is to get (as a solo player) I assure you it won't be of help.
+-   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
+-   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
+-   Symbiotic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
 -   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
 
 **Jetstriker:**

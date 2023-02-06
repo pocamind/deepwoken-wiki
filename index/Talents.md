@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52214
+revid: 52222
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -913,7 +913,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Master Survivalist
 
 -   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
-    -   Flint have infinite durability.
+    -   Flint now has infinite uses.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
     -   Prerequisites: 20 Intelligence / 20 Willpower / 20 Charisma.
 

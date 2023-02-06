@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 52213
+revid: 52236
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
@@ -14,13 +14,13 @@ categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
 
 Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
-## Description
+## [Description](Gran_Sudaruska.md)
 
 The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
 It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ehitron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 
-Upon defeat, 5 chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
+Upon defeat, 5 chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, Legendary Weapons, and possible Mystic Weapons ([Gran Sudaruska](Gran_Sudaruska.md), [Lights Final Toll](<Light's_Final_Toll.md>), [Railblade](Railblade.md)) Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 42440
+revid: 52246
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,12 +12,12 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Etrean Footsoldier is type of enemy NPC that can be found in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Etrean Footsoldier's clad is colored white, they can be found in the following events:
+An Etrean Footsoldier is type of enemy NPC that can be found in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Etrean Footsoldier's clad is colored white, they can be found in the following [Random Encounters](Random_Encounters.md):
 
 -   Etrean Footsoldiers vs Authority Footsoldiers ([Erisia](Erisia.md))
 -   Etrean Footsoldiers vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 
-Their appearance possibly only consists of a [RagoozaRequest7](Outfits.md) outfit.
+Their appearance possibly only consists of a RaguzaRequest6 outfit.
 
 ## Moveset
 

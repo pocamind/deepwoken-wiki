@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 50352
+revid: 52257
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -10,7 +10,7 @@ categories: [Boots]
 
 “ Really? Why don't we settle this like men, then? Right here, right now. ”
 
-― A Capra replying to a Vesperian
+― A Capra, replying to a Vesperian
 
 Template:EquipmentStats
 

@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 50467
+revid: 52255
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations]
@@ -32,6 +32,7 @@ Minityrsa
 -   [Trial of One](Trial_of_One.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Outpost Antumbra](Outpost_Antumbra.md)
+-   [Starfield Tundra](Starfield_Tundra.md)
     -   A stronghold inhabited and guarded by [Ministry Scouts](Ministry_Scout.md).
     -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 

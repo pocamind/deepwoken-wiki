@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 51116
+revid: 52217
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -109,7 +109,7 @@ Slash
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
 -   Heavy posture damage.
--   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
+-   If the Crimson Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
 -   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
@@ -117,7 +117,7 @@ Slash
 
 Kick
 
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Crimson Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
@@ -132,17 +132,21 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
+ | The Crimson Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
 | 
 
 Tacet Hug
 
- | The Megalodaunt turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and crushes it. Ragdolls afterwards. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Crimson turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
+
+-   **Autogrips**
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous unless you have Manic as it can cause a player to succumb to insanity during combat.
 
 -   Blocking negates much of but not all the insanity gain.
 
@@ -207,11 +211,11 @@ Roar
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
-Tacet Grab
+Tacet Hug
 
- | The Alpha Megalodaunt dissapear using Tacet, then reapper behind its target, attempting to grab them and bite them.
+ | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
 
--   The megalodaunt teleport behind its target, which allows it to close the gap.
+-   **Autogrips**
 
  | ✗ | ✗ | ◯ | (★☆☆) |
 
@@ -221,7 +225,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) and is found in [Miner's Landing](<Miner's_Landing.md>), and its Voidzone [Saramaed Summit](Saramaed_Summit.md). The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
+The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) and is found in [Miner's Landing](<Miner's_Landing.md>), and its Voidzone [Saramaed Summit](Saramaed_Summit.md). They are unfinished and were activated prematurely by the [Summer Company](The_Summer_Company.md), resulting them in attacking both friend and foe. The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the shear damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
 
 Mechalodaunts in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as agroing both Mechalodaunts can make them significantly more difficult to kill off. They are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
 
@@ -272,17 +276,23 @@ Thousand Needles
 
 Bullet Fury
 
- | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent, auto-executes. | ◯ | ◯ | ◯ | (★★☆) |
+ | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent.
+
+-   Very limited range
+-   It can sometimes turn around and miss it altogether.
+-   **Autogrips**
+
+ | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Laser Explosion
 
- | The Mechalodaunt will fire a laser in a circle around it, causing a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
+ | The Mechalodaunt will form a triangle with its claws, firing a laser in a circle around it, causing a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
 | 
 
 Roar
 
- | Lets out a **Roar** at nearby targets, (sounds like kaikai getting beat) initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 

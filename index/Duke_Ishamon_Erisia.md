@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 52157
+revid: 52229
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ categories: [Enemies, NPCs, Bosses]
 
 “ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
-― Duke Ishamon Erisia
+― Duke
 
 Template:EnemyInfobox1.0
 
@@ -26,13 +26,13 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Assault** | Firmly pummels opponent and gets on top of them~ | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Grabs his victim and does some devious ahh ahh things to their behind | ◯ | ✗ | ◯ | (★★☆) |
+| **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Critical** | Attempts to grab his victim before slamming them into the ground head-first. | ◯ | ✗ | ◯ | (★★☆) |
 | **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage.
 -   He laughs afterward when something strikes his counter.
 
  | ◯ | N/A | N/A | (★★☆) |
-| **Feint** | The Duke fakes his attack.
+| **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.
 
@@ -51,7 +51,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | ◯ | ✗ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
@@ -92,7 +92,7 @@ Duke Erisia executes his opponent after knocking them:
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras. To destroy The Duke's Wind Shield, land attacks until it breaks. Focuses on **posture damage**.
--   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, allowing the player to inflict damage upon him. May beginning summoning Mindless Servants and Cyclone Bomb.
+-   **Phase 2 -** **Hand-to-hand combat**: The Duke's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants to the player, and all of them when there's <3).
 
 ### Rewards
 
@@ -106,6 +106,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Deep Gems](Deep_Gems.md)
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
+
+Soloing the duke is the more recommended way to get bell, as doing so 4-5 times will guarantee your bell.
 
 ## Dialogue
 
@@ -191,10 +193,6 @@ Duke: So you're the one running about tripping my alarms. Care to explain yourse
 
 Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
 
-1: How the shit are you going to "slay" me with your fists?
-
-Duke: ( ͡° ͜ʖ ͡°)
-
 1: \[End Dialogue\]
 
 This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
@@ -219,7 +217,6 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
     -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's).
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
--   Extremely easy boss. Gives you health packs in phase 2 in-case he was about to beat you and bends over for you the rest of the way, allowing you to compress him into a wall until he dies.
 
 ## Bugs
 

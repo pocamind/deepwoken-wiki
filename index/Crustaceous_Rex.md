@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 46030
+revid: 52216
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -32,7 +32,7 @@ File:Crabbo.PNG
 </tr>
 <tr>
   <td><b>Bubble Beam</b></td>
-  <td>The Crustaceous Rex lifts its head up, and its body backwards, releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage.</td>
+  <td>The Crustaceous Rex lifts its head up, and its body backwards, releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage and applying chill. This also friendly fires mobs.</td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>

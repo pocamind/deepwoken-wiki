@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 52083
+revid: 52243
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -18,7 +18,7 @@ notices:
 
 ## **How to Fish**
 
-To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can also buy a Fishing Rod at the [Etris Docks](Etris_Docks.md) for.
+To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can also buy a Fishing Rod at the [Etris Docks](Etris_Docks.md) for, or at the house on the island near the beach of Erisia, for the same price.
 
 The next step to fishing is to cast out your Fishing Rod at an area with a general connection to the sea, such as the [Etris Docks](Etris_Docks.md) or the Isle of Vigils Docks. After a while, you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
@@ -26,7 +26,7 @@ Another thing about fishing is bait. To equip bait, hold out your fishing rod an
 
 Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item.
 
-i have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, aswell as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
+I have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, as well as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the Etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
 
 ## **Loot From Fishing**
 
@@ -83,31 +83,31 @@ File:Fishing Talents.png
 
 _**(Note: This section needs more information and rewriting work.)**_
 
-A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
+A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the [Den Maste](Den_Master.md)r is. It rained really often, and it was night a good few times as I had to server hop a lot due to lag.
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
--   Plumfruit Effects: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits/
+-   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
 
 -   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
 
--   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 gobletto. 2 Miss, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
+-   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
 
--   Squid Effect: Seemed to get a lot of squid using squid. Results: 3 squid: 2 Squid, 1 Miss, 1 Sea Bass, 1 Pufferfish
+-   Squid Effect: Seemed to get a lot of squid using squid. Results from 3 Squids: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
 
--   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results: 8 Dentiflo: 2 Seaweed, 6 Miss
+-   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from 8 Dentiflos: 2 Seaweed, 6 Misses
 
 -   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
 
--   Urchin Effect: Decent speed of bites. Result: 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
+-   Urchin Effect: Decent speed of bites. Result from 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 
--   Browncap Effect: Effect Average bite times: Result: 10 browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
+-   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 
--   Chum Effect: Intended bait. Slower bite times Results: 3 Chum gave: 1 Urchin, 2 Red Snapper, 1 Pufferfish
+-   Chum Effect: Intended bait. Slower bite times. Results from 3 Chum gave: 1 Urchin, 2 Red Snapper, 1 Pufferfish
 
 -   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
 
--   Fish Meat: Effects: Average, maybe slightly slower Bites, Result: For this test 15 were used while having 35. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Misses may be a result of human error) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
+-   Fish Meat: Effects: Average, maybe slightly slower Bites. Result: For this test 15 fishes were used while having 35 fishes. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Misses may be a result of human error) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 
 ## **Trivia**
 
@@ -120,5 +120,5 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
 -   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, and Willpower by default. \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
--   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 kyrsan medallions from a chest while fishing, being as rare as to fish legendary weapons, altought this has yet to be confirmed.
+-   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 Kyrsan Medallions from a chest while fishing, being as rare as to fish legendary weapons, although this has yet to be confirmed.
 -   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 51647
+revid: 52226
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -57,14 +57,19 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 -   _**The first instance of this does the most damage**_
 
  | ◯ | ◯ | ◯ | (☆☆☆) |
+| **Transfusion** | Chaser heals from the jars of blood, healing 1600 HP.
+
+-   Obviously, he cannot heal once the jars are destroyed.
+
+ | N/A | N/A | N/A |  |
 | **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ✗ | (★★★) |
-| Body slam | During his final phase, the blood tendrils that take ahold of his body repeatedly slam Chaser onto the floor, in an attempt to further drown his weakened soul. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ✗ | ◯ | ◯ | (★★★) |
+| **Body slam** | During his final phase, the blood tendrils that take ahold of his body repeatedly slam Chaser onto the floor, in an attempt to further drown his weakened soul. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ✗ | ◯ | ◯ | (★★★) |
 
 \*While these moves can be parried and blocked, they still fling you.
 
 \*\*While blockable, it still flings you but does less damage.
 
-\*\*\*The only way to avoid this attack is by jumping, rolling is inneffective.
+\*\*\*The only way to avoid this attack is by jumping, rolling is ineffective.
 
 ## Finisher
 
@@ -82,7 +87,7 @@ All of Chaser's moves instantly execute.
 
 ### Blood Frenzy
 
--   Occurs when all of the blood jars have been broken. Chaser goes into a frenzy mode where he throws attacks back to back before finally collapsing, signaled by his kneeling position. In this mode, attacks are much faster, Chaser no longer heals, gets an aura similar to the brace mantra and has more down-time once he gets exhausted.
+-   Occurs when all of the blood jars have been broken. Chaser goes into a frenzy mode where he throws attacks back to back before finally collapsing, signalled by his kneeling position. In this mode, attacks are much faster, Chaser no longer heals, gets an aura similar to the brace mantra and has more down-time once he gets exhausted.
 
 ### Phase 3
 

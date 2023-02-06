@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 51508
+revid: 52231
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -716,7 +716,7 @@ Azure Flames
 
  | 
 
-+3 Health  
++55 Health  
 +2 Elemental Intensity
 
  |
