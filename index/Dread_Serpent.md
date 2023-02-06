@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 51722
+revid: 52293
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -30,7 +30,7 @@ able?
 
  | Danger |
 | --- | --- | --- | --- |
-| Ice Beam | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boat. | ✗ | (★★★) |
+| Dread Breath | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boat. | ✗ | (★★★) |
 | Claw Swipe | Swipes two times in quick succession
 
 Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
@@ -47,7 +47,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 ## Trivia
 
 -   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur.
--   The mantra 'Kaido's Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
+-   The mantra 'Dread Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 52044
+revid: 52291
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -352,7 +352,7 @@ Chests from:
 
 Other sources:
 
--   [Artifact](Artifacts.md) Turn-ins
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 | File:Black Hood.png | 
@@ -516,7 +516,7 @@ Grants a random buff.
 
 Chests from:
 
--   [Aratel Island](Aratel_Island.md) Chests
+-   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 

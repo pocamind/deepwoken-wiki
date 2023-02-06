@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 51640
+revid: 52295
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -17,6 +17,10 @@ Armor can refer to either [Armor](Equipment.md) or Outfits (this page).
 ### **[Outfits](Outfits.md#outfit-list)**
 
 Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
+
+### **Transmog**
+
+You may also keep the stats of an outfit you are currently wearing while choosing the look of another outfit you already crafted. To do this, you must "Transmog" to a crafted outfit you want to have the appearance of instead of swapping to it. This way you can mis-lead players with the appearance of your outfit and max out your fashion stat.
 
 ## Outfit Stats
 

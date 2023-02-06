@@ -1,9 +1,9 @@
 ---
 title: Celestial
-revid: 51996
+revid: 52299
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races, Exclusive Races]
+categories: [Pages with broken file links, Races, Exclusive Races]
 ---
 
 # Celestial
@@ -59,3 +59,9 @@ Apparently, there is a crucified Celestial in a secret room inside the church lo
 ## Trivia
 
 -   Celestials can be seen referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
+
+## Gallery
+
+The tortured celestial in the area where Samael is.
+
+The tortured celestial in the area where Samael is.

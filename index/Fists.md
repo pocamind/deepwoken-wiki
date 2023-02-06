@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 51809
+revid: 52292
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -41,7 +41,7 @@ There are 3 different fist styles and 2 of them share the common ability of bein
 -   **LK** - Legion Kata
 -   **JK** - Jus Karita
 
-Switching to fist stance while usinjkoilm, is purely visual and does not remove it from the inventory.
+Switching to fist stance while ~usinjkoilm~, having a weapon is purely visual and does not remove it from the inventory.
 
 ## Styles
 

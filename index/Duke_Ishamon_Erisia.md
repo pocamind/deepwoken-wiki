@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 52273
+revid: 52300
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -203,8 +203,9 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 
 ## Trivia
 
--   The Duke gives the second best monster bell progression.
-    -   1st being [Primadon](Primadon,_Titan_of_the_East.md).
+-   The Duke gives the third best monster bell progression.
+    -   1st being [Scion of Ethiron](Scion_of_Ethiron.md).
+    -   2nd being [Primadon](Primadon,_Titan_of_the_East.md).
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
 -   The more people that participate in fighting The Duke, the more health he has.
