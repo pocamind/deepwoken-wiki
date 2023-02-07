@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52607
+revid: 52640
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -69,9 +69,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ They don't know I'm the best oath by lore.. ”
+“ They don't know I'm the best Oath lorewise... ”
 
-― Some 55 intelligence oathless etrean
+― Some 55 intelligence Oathless Etrean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -616,11 +616,10 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 Proof of Time Magic's existance and it being "Oath Magic".
 
 -   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
--   There is no reason to not get an Oath as they all give benefits with no downsides, unlike murmurs and resonance.
+-   There is no reason to not get an Oath as they all give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   Visionshaper and Arcwarder have the same amount of mantras, and both are also the oaths with the most mantras.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are ironically names of demons despite being angels in Deepwoken.
@@ -630,6 +629,5 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   An oath will be added soon to counter contractor, but some say by pressing g to expel your tempo stops certain contractor mantras such as equalizer and judgement.
--   Jetstriker makes Chrysid eyes white.
+-   Jetstriker and Dawnwalker turn your eyes white, regardless of your race or variant.
 -   You can sacrifice yourself to get Linkstrider.

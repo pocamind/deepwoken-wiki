@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52609
+revid: 52641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -329,7 +329,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
-    -   Prerequisites: Reinforce, 40 Shadowcast, 50 Fortitude
+    -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly.
     -   Prerequisite: Reinforce, 40 Fortitude
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
@@ -402,7 +402,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
 -   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
-    -   Prerequisites: 50 Shadowcast, Dark Hours
+    -   Prerequisites: 60 Shadowcast, Dark Hours
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves. (+3 Elemental Intensity)
     -   If you steal more ether than you can fit in your ether bar, convert it into tempo.
@@ -521,13 +521,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Reflected damage is stored in the repulsion itself.
     -   Prerequisite: Flame Repulsion
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam. (+4 Elemental Intensity)
-    -   Prerequisites: Rising Flame, 25 FlameCHARM
+    -   Prerequisites: Rising Flame, 25 Flamecharm
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. (+3 Elemental Intensity)
     -   Prerequisite: Meteor Impact, 40 Flamecharm
 
 ### Fish
 
--   FFishman \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
+-   Fishman \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by an unknown amount.
     -   Reduces the Health Regenerations effects of the [Curse of the No Life King.](Enchantments.md)
@@ -1567,7 +1567,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
     -   Knocking enemies will replenish more of your health and posture.
     -   Prerequisite: [Power](Power.md) 3
--   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is cut in half, but your incoming mantra damage is cut in half too. (+5 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your mantra damage is cut by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.

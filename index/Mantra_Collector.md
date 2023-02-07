@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 51753
+revid: 52628
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, World, Vendors]
@@ -75,3 +75,4 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
     -   Cumberland may refer to a type of sausage.
         -   Cumberland is also the name of a region in England of Anglo-Saxon origin, who came from areas in Germany.
     -   Croissant is a rare exception. Croissants are a viennoiserie Austrian pastry, layered with butter and rolled multiple times in succession. Germany and Austria are close both historically and geographically, so it still follows the theme to an extent.
+-   Sand dollars are a species of sea urchins. It's likely that the term is used here as a pun referring to the real-world currency (minus the sand).

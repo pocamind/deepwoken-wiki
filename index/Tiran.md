@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 52588
+revid: 52631
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races, Character]
@@ -95,3 +95,5 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   The word "tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example Tuuli means Wind in Finnish that would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some them aren't related to the race at all.
+-   Tiran eyes may be inspired from Makimas eyes of the anime "Chainsaw man", having a very similar eye patern.
+-   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on. Matching their hair color with their glider. Also meaning that their gliders are probably crafted with their own hair.

@@ -1,11 +1,9 @@
 ---
 title: Journeyman Diver Guard
-revid: 51885
+revid: 52624
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
-notices:
-  - "This page is still in progress! Please have patience, and aid the creation of this page!"
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Journeyman Diver Guard
@@ -25,10 +23,10 @@ A Journeymen Diver's arsenal consists of:
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | \[Greataxe\] Raises weapon before firmly slamming it down into the ground.
-\[Sword\] Begins a windup before thrusting their blade forward.
+| Critical | \[Greatsword\] User raises their leg before firmly slamming it down, breaking the opponent's guard.
+\[Spear\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands\[Dagger\] Performs a windup before unleashing a flurry of slashes
 
-\[Spear\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands
+\[Crescent Cleaver\] Lunges forwards before impaling their opponent, will throw the opponent to the ground if their first strike hits.
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
