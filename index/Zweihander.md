@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 47132
+revid: 52383
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -45,6 +45,10 @@ categories: [Weapons, Greatswords]
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on a Zweihänder. |
 | description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
+
+“ INITIATE PHASE ONE, POWER UP THE BASS CANNON. ”
+
+― Power 20 Canor about to pwn sum n00bz.
 
 **Base:**
 

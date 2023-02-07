@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 50901
+revid: 52534
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -173,7 +173,7 @@ _Remember when fighting, the game isn't about dealing overall damage but instead
 </tr>
 <tr>
   <th>Uppercut</th>
-  <td>Performed by pressing <kbd>Ctrl</kbd> and <kbd>M1</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack.<p>Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
+  <td>Performed by pressing <kbd>M1</kbd> while pressing <kbd>Ctrl</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack.<p>Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
   <p>Certain talents can also affect the potency of uppercuts.</p></td>
   <td></td>
 </tr>
@@ -186,7 +186,7 @@ _Remember when fighting, the game isn't about dealing overall damage but instead
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>Lose all defensive bonuses from the equipped armor. Represented by torn-up clothes.<p>Occurs when armor durability reaches 0%.</p></td>
+  <td>Lose all defensive bonuses from the equipped outfit. Represented by torn-up clothes.<p>Occurs when armor durability reaches 0%.</p></td>
 </tr>
 <tr>
   <th>Charmed</th>
@@ -233,7 +233,7 @@ _Remember when fighting, the game isn't about dealing overall damage but instead
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time.</p></td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time.</p></td>
 </tr>
 <tr>
   <th>Perfect Casting</th>

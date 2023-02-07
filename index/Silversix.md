@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 51548
+revid: 52363
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -29,3 +29,5 @@ categories: [Weapons, Guns]
 ― A proud Canorian father teaching his son.
 
 The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md).
+
+-   the silversix cannot be dropped by player nor by being killed

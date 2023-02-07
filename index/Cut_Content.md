@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 52086
+revid: 52421
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -81,6 +81,8 @@ notices:
     -   Was removed with Verse 2 update.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
     -   As of 12/13/22 update, Familiar Sight was merged into Tough Love.
+-   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
+    -   As of 02/06/23 update, Finesse was merged into Now You see Me.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
