@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 52602
+revid: 52617
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1295,6 +1295,21 @@ Chests from:
 |  | 
 
 Old Blood Earrings
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
+|  | 
+
+Moonlit Earrings
 
  | 
 

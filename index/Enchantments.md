@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 52515
+revid: 52618
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -148,8 +148,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies a Solar Mark on flourish.<br>
-  Highlights marked enemies, and when you vent, you steal some Tempo from marked opponents.</p></div></td>
+  <td><div><p>Applies a Solar Mark on flourish or (most) critical attacks.<br>
+  Solar Mark last 10s, and reduce tempo gain/ether regeneration.<br>
+  Venting steals a portion of marked enemies tempo.</p></div></td>
   <td><div></div></td>
 </tr>
 <tr>

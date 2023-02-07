@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52598
+revid: 52609
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1245,15 +1245,15 @@ Prerequisite: Charisma
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 -   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   Prerequisite: 40 Thundercall, 15 Intelligence, ~Static Link~ Surprisingly, you do not need Static Link. Got this without it.
+    -   Prerequisite: 40 Thundercall, 15 Intelligence
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
-    -   Prerequisite: Static Link
+    -   Prerequisite: Static Link, 50 Thundercall
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-    -   Prerequisite: Static Link + 20 Fortitude
+    -   Prerequisite: Static Link, 20 Fortitude
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
-    -   Prerequisite: Static Link + at least Power 10
+    -   Prerequisite: Static Link, 65 Thundercall
 -   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link. (+4 Ether, +4 Reservoir)
-    -   Prerequisite: Static Link + at least Power 10
+    -   Prerequisite: Static Link, 70 Thundercall
 
 ### Stormblade
 
