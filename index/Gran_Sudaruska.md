@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 52518
+revid: 52547
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -46,6 +46,7 @@ This weapon has 3 passives abilities:
 
 -   The first and only weapon that currently has the ability to speak.
     -   Some of her voicelines are:
+        -   "Fall beneath our frost, drowned pawn."
         -   "Become memories, pawn."
         -   "The sun will set only for your soul, pawn."
         -   "A repeat of the pain you caused, now for yourself."
@@ -54,6 +55,7 @@ This weapon has 3 passives abilities:
         -   "Break, fragile pawn."
         -   "Broken easily."
         -   "Your own Depths shall take you."
+        -   "Frail."
         -   "Foolish pawns playing god."
         -   "False strength."
         -   "Your cause is a poison to this world, pawn."

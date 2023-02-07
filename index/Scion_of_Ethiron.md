@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 52236
+revid: 52600
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
 
 ― ???
 
-Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
+Template:Creature Infobox V3_This is the boss encountered at the end of Second Floor of Second Layer, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
 ## [Description](Gran_Sudaruska.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 39432
+revid: 52575
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -15,7 +15,7 @@ categories: [Items]
 Ardour Manifestation is a reward granted upon killing any bosses, even the [Dread Serpent](Dread_Serpent.md) themselves. The only time this item is not granted is either:
 
 -   You already own the item in your inventory, or
--   If you already possess a [Murmur](Murmur.md) (Ardour or Tacet).
+-   ~If you already possess a [Murmur](Murmur.md) (Ardour or Tacet).~ You can now obtain Ardour Manifestation even with murmurs as of 02/07/2023.
 
 ## Trivia
 

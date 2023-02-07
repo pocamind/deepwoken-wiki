@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 51911
+revid: 52588
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Races, Character]
@@ -92,8 +92,6 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 ## Notes/Trivia
 
--   The eyes of each variant may reference eyes from anime, Canary, ironically not Crow, representing the Sharingan from the _Naruto_ franchise, the rest of the variants representing Makima's eyes from the _Chainsaw Man_ franchise.
 -   The word "tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
--   The ‘Jay’ variant could be inspired from the character ‘Niko’ in the game OneShot, though it is unlikely.
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example Tuuli means Wind in Finnish that would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some them aren't related to the race at all.

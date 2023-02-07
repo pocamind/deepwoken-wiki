@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 51861
+revid: 52539
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -71,6 +71,10 @@ A list of named locations that can be found in Deepwokens world "Lumin".
     -   [Starfield Tundra](Starfield_Tundra.md)
         
 
+**Misc.:**
+
+Please add miscellaneous islands or named landmarks here
+
 **East Luminant:**
 
 **Aratel:**
@@ -110,6 +114,13 @@ A list of named locations that can be found in Deepwokens world "Lumin".
 -   [Miner's Landing](<Miner's_Landing.md>)
     -   [Saramaed Summit](Saramaed_Summit.md)
         
+
+**Misc.:**
+
+Please add miscellaneous islands or named landmarks here
+
+-   [The Entropy Catalyst](The_Entropy_Catalyst.md)
+    
 
 **Depths:**
 

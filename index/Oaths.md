@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52323
+revid: 52581
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -429,6 +429,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
     -   The arc suit can also come in different color. Colors known so far are brown, black, and grey. Also The colors might come in different rarities or might depend on race.
+
+As of 2/6/2023, you can now change your **Arc Suit** with equipment dye.
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself

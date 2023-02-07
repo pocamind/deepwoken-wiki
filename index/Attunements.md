@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 51257
+revid: 52589
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics]
@@ -14,7 +14,7 @@ File:Attunementicon.png
 
 ## Description
 
-There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective [trainers](Attunement_Trainers.md). To unlock these, you must collect five of their respective Attunement Ingredient, which're dropped by NPCs that use the Attunement, as well as by certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. Alternatively, if you start with an attunement that you do not have throught Random, defeating The Duke will unlock the attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
+There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement (or two) will restrict you from starting with any of the other three Attunements (two if you picked a second one) until you unlock a different one while playing. You can be taught the other Attunements by their respective [trainers](Attunement_Trainers.md). To unlock these, you must collect five of their respective Attunement Ingredient, which're dropped by NPCs that use the Attunement, as well as by certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. Alternatively, if you start with an attunement that you do not have throught Random, defeating The Duke will unlock the attunement. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
 
 While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
 
@@ -28,7 +28,7 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 
--   Lightkeeper/Lightkeeping (Radiant Magic, created by Klaris Llfiend, Mother of Lights and used by the Dawnwalker Oath is a variation of Light)
+-   Lightkeeper/Lightkeeping
 -   Earth (Mentioned by Arch\_Mage saying he would like to add an earth attunement)
 
 ## Trivia

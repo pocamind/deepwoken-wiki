@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 52291
+revid: 52602
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1292,6 +1292,21 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 
  | N/A |
+|  | 
+
+Old Blood Earrings
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 
 **Torso:**
 
@@ -1508,6 +1523,36 @@ Chests from:
 | File:Varicosa Medallion.png | 
 
 Varicosa Medallion
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
+| File:Confessors Charm.png | 
+
+Confessor's Charm
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
+| File:Canticlysm Pendant.png | 
+
+Canticlysm Pendant
 
  | 
 
