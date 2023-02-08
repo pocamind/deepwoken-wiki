@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 52573
+revid: 52687
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Monsters]
@@ -8,20 +8,20 @@ categories: [Boss, Monsters]
 
 # Dread Serpent
 
-“ Wisdom isn’t what it seems. The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. The being was only a shallow imitation of the holy glory of the Edenkite, and flead to the Voidsea. The Mad Steward was no more. ”
+“ Unless you are referring to how cheese brings men of respect and power together in brotherhood, no, I do not know what cheese does to me! ”
 
-― Lumen's Folklore: Volume 'North'
+― Kaido before being cheesed again
 
   
-Typically referred to as 'Kaido'
+_Also referred to as Kaido, Ardour or Sea Serpent._
 
 Template:Creature Infobox V3
 
 ## Description
 
-The **Dread Serpent** is a colossal [boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of the [Ardour Manifestation](Ardour_Manifestation.md), typically dropped from other bosses. It appears as a long, grey sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
+The **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
-Though there are countless today, the first Dread Serpent was born when a man, known only as 'The Mad Steward', ate 'The Drakeheart', a heart of an Elder Edenkite, instantly flooding their mind with every past tragedy that had ever occurred, filling them with an overpowering sensation of dread, transforming him into a grotesque creature we know today as a Dread Serpent. The Mad Steward had used [Ardour](Murmur.md) to accomplish this feat, which is why killing any Dread Serpent rewards you with the Murmur. How the rest of the Dread Serpents came to be, is unknown.
+Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown.
 
 ## Attacks
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52641
+revid: 52742
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -322,10 +322,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
     -   Prerequisites: 25 Heavy Weapons Mastery, 15 Strength
 
-  
-
-  
-
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
@@ -387,8 +383,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   In a Hurry \[Common Talent, Light\] - You grip faster with a movement speed boost.
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
 -   Deep Wound \[Common Talent\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
-
-  
 
 ### Darksiphon
 
@@ -512,8 +506,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Willpower, 15 Strength
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisites: 20 Intelligence
-
-  
 
 ### Falling Star Guard
 
@@ -663,8 +655,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Has a 2 Second Cooldown.
     -   Prerequisite: Inhale
 
-  
-
 ### Genius Intellect
 
 -   Neuroplasticity \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
@@ -769,8 +759,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Reduces the damage taken from your flames done to you by 50%
     -   Prerequisites: Agitating Spark
 
-  
-
 ### Inferno
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
@@ -830,8 +818,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Stratos Steps will only proc twice before going on a cooldown.
         -   Said cooldown applies to individual steps.
 
-  
-
 ### Justicar
 
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
@@ -862,8 +848,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
 
-  
-
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
@@ -875,8 +859,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Callout \[Common Talent\] - you can mark objects or enemies by pressing Z, which will mark them for all nearby allies (+1 Ether +3 Health)
     -   Prerequisites: 20 Charisma
 
-  
-
 ### Leaf in the Wind
 
 -   Observation \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
@@ -887,8 +869,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
     -   Prerequisites: 15 Agility, [Power](Power.md) 13
     -   Mutual Exclusive: Risky Moves
-
-  
 
 ### Legion Shock Trooper
 
@@ -1004,8 +984,6 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 
-  
-
 ### [Murmur](Murmur.md)
 
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
@@ -1046,8 +1024,6 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: 20 Agility
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
-
-  
 
 ### Omniscient
 
@@ -1261,8 +1237,6 @@ Prerequisite: Charisma
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
     -   Prerequisite: Lightning Blade
 
-  
-
 ### Sturdy Resolve
 
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
@@ -1367,8 +1341,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
     -   Requirement: 30 Thundercall, 30 Intelligence
 
-  
-
 ### Thunderblade
 
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+3 Elemental Intensity)
@@ -1412,8 +1384,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Cheap Shot \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
     -   Prerequisite: 65 Agility
-
-  
 
 ### Undying Ember
 
@@ -1478,10 +1448,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant
 
-  
-
-  
-
 ### Warrior
 
 -   Chronostasis \[Rare Talent\] - Landing an M1 puts enemy resonance on cooldown for a short duration. (+1 Posture)
@@ -1518,8 +1484,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 40 Strength
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisite: 35 Light Weapons Mastery
-
-  
 
 ### Whisper
 
@@ -1759,8 +1723,6 @@ _Main Page - [Shadowcast](Shadowcast.md)_
 -   Mystery Mantra - Receive a random mantra in the same category as the other mantras in the whisper.
     -   For Example: Random Flamecharm Combat Mantra, Random Strength Support Mantra
 -   Roll 2 - Receive 2 random Talents that are available to you. [Certain Talents](#blacklisted-talents) are blacklisted, and cannot be obtained through Roll 2.
-
-  
 
 ## Talent Quests
 

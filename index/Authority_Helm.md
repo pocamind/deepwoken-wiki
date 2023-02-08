@@ -1,9 +1,9 @@
 ---
 title: Authority Helm
-revid: 41182
+revid: 52746
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Character, Armors, Helmets]
 ---
 
 # Authority Helm
@@ -12,4 +12,4 @@ categories: [Character, Armors]
 
 Template:EquipmentStats The Authority Helm can be found in [Erisia](Erisia.md) and can be dropped by Authority Wardens, Authority Foot Soldiers and Authority Guards. It requires 10 Fortitude to wear.
 
-Grants Talent Strong Hold
+Grants the Talent "Strong Hold", which allows you to \[insert talent effect\]

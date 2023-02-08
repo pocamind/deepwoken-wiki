@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 52145
+revid: 52654
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -494,7 +494,6 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Korilfiend's garden is located near the top.
     -   The meteor flowers located here are considered a part of him.
     -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
--   H e l l.
 
 ## Factions
 
@@ -699,6 +698,7 @@ A Dark Mage, located in Minityrsa.
         -   These also appear to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
+-   Their war against Etrea for the eyes of the public is a attempt for the Authority to mantein control in the Eastern luminant, in reality, the Authority is trying to hunt down Zi'eer (Lord regent) and his contractors to save Etris from another Greatdrowning, but due to Zi'eer having all Etris controled with mental veils, is possible that the Authority has decided to use their last option and try to invade Etris to avoid the drawning of the luminat.
 -   The Hive are _not_ at war with the Authority, though tensions are very high between the two. Despite this, the Hive Constructs will go out of their way to exterminate any Authority member they sea/
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.
     -   The Knives sow chaos anywhere for a price.
@@ -713,7 +713,7 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
--   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to a lack of a Lightkeeper they cannot advance in their war against Etrea.
+-   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to Etris have the lightkeeper of the Eastern Luminant, Viqh, under their posession they cannot advance in their war against Etrea. If not, the war would have already been won by the Authority if it wasn't for the lightkeeper.
 -   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e conquest. Understandably, the majority of ingame factions object to this.
 
 A Peacekeeper Commander, part of The Authority

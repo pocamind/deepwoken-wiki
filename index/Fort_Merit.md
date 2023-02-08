@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 40522
+revid: 52652
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -21,7 +21,7 @@ Template:Areainfobox
 
 ## Overview
 
-Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
+Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 
@@ -30,11 +30,11 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 ### Docks
 
 -   A functional port with a Shipwright to spawn, craft or recall your [boats](Ships_&_Sailing.md).
--   Guarded by a Authority Peacekeeper and a weaker variant of the Authority Warden
+-   Guarded by an Authority Peacekeeper and an [Authority Lieutenant](Authority_Lieutenant.md).
 
 ### Prison
 
--   Players can find Brutus here, a Legion soldier.
+-   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier.
 -   Heavy patrolled by Authority Peacekeepers.
 -   The Authority Warden can be found in an office in the prison.
 -   Potential of five [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and one [Navaen Nomad](Navaen_Hostage.md) hostage.
@@ -52,7 +52,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 -   There is a guy you can see through a window, you can bribe him with an officer note for a key. This will open the door to the forgotten temple.
 
--   Alternatively, if your [reputation](Reputation.md) with the authority is positive, he will give you the key for free.
+-   Alternatively, if your [reputation](Reputation.md) with the Authority is positive, he will give you the key for free.
 
 ### **[Brutus Quest(Fortitude Uncap)](Attributes_Unbound.md)**
 
@@ -165,3 +165,4 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
+-   Right now it doesnt have too much importance apart from grinding exp and items from the etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.

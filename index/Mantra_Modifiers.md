@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 52260
+revid: 52653
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 
 There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifiers back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
-Heavily modified mantras will require Note offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
+Heavily modified mantras will require [Note](Notes.md) offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
 
