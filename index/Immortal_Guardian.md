@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 50809
+revid: 52776
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -55,8 +55,6 @@ An Immortal Guardian executes the player after knocking them.
 | Name | Description |
 | --- | --- |
 | Execute | Bashes the enemy's head with their Divine Weapon. |
-
-  
 
 ## Notes/Tips
 

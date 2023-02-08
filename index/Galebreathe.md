@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 52768
+revid: 52793
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -769,8 +769,8 @@ FROM: Inhale
     -   _"Suffocate"_ prevents the opponent from using mantras; the opponent will also have a resonance-like effect circling their neck when applied.
         -   The duration can be extended with the _"Gale Coil"_ talent.
     -   It is the only Attunement to be able to do this without any evolution paths.
-    -   Allows for the most agile and swift mobility in Deepwoken.
-    -   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by canceling the mantra.
-    -   **Wind Blade** with it's talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
-    -   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
-    -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
+-   Allows for the most agile and swift mobility in Deepwoken.
+-   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by canceling the mantra.
+-   **Wind Blade** with it's talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
+-   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
+-   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 51742
+revid: 52778
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -45,3 +45,7 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 -   The Brainsuckers name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
 -   When the Brainsuckers head is turned upside down, the shape of it resembles a squid.
 -   The Brainsuckers official name appears to be the "Lesser Brainsucker." It is unknown if a Greater Brainsucker will ever be added.
+
+## Bugs
+
+-   Cancelling a Brainsuckers grip causes the person being gripped to desync (Only tested once)

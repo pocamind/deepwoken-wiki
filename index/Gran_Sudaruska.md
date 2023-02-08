@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 52547
+revid: 52774
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -34,7 +34,7 @@ notices:
 
 ## Description
 
-Gran Sudaruska is a Legendary [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
+Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
 
 This weapon has 3 passives abilities:
 
@@ -68,4 +68,4 @@ This weapon has 3 passives abilities:
     -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it.
     -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
 
--   Like every other legendary (special) weapon in the game, you cannot enchant Gran Sudaruska.
+-   Like every other mythical (special) weapon in the game, you cannot enchant Gran Sudaruska.

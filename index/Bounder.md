@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 50001
+revid: 52794
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -20,7 +20,7 @@ _Also known as El Chupacabra, Frogs or Skrillbo, and Frank._
 
 Bounders are a monster found in Layer 2 of The Depths. They have very high health compared to common enemies, but rarely will you have a mandatory fight with one of these creatures.
 
-Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with differences like having much more elongated limbs, a hunched over body, a wider mouth, a huge set of sharpened teeth (looks like wano) which wrap around the entire front of the head, and six black ringed eyes, similar to that of a spider.
+Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with differences like having much more elongated limbs, a hunched over body, a wider mouth, a huge set of sharpened teeth which wrap around the entire front of the head, and six black ringed eyes, similar to that of a spider.
 
 When a Bounder spawns in, it will make a loud almost alien-like sound that seems to come from all directions, this should give you a fair 3-5 second warning before the Bounder will leap or charge to your location.
 
