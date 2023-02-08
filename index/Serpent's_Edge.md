@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 51981
+revid: 52749
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests, Deep Widow chests (Starswept Valley and The Depths) |
+| obtainment | The Depths, Killing Primadon, Scope's Quest, Duke Erisia's chests |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 ## Description
@@ -37,4 +37,4 @@ The Serpent's Edge is a popular endgame [Medium Weapon](https://deepwoken.fandom
 -   Has a unique critical. You do three slashes that move you a good deal forward.
     -   This critical can be used in water as a method of escape, due to the speed boost.
     -   However, do note that the above strategy will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
--   This is a reference to [Obanai Iguro](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro)’s sword from Demon Slayer.
+-   This is a reference to [Obanai Iguro's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from Demon Slayer.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52742
+revid: 52748
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -535,7 +535,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
 -   Graceful Steps \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
-    -   Prerequisites: 75 Flamecharm, Dancing Steps
+    -   Prerequisites: 80 Flamecharm, Dancing Steps
 -   The Final Act \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
     -   Prerequisite: 60 Flamecharm, [Power](Power.md) 13
 -   Flaming Rebound \[Rare Talent, Flamecharm Exclusive\] - Flamecharm mantras now grant extra tempo upon landing (+3 Elemental Intensity).

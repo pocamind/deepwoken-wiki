@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 48400
+revid: 52752
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -26,4 +26,4 @@ There are many ways to obtain the axe.
     -   Greathive Aratel Blacksmith
 
 -   Buying it for 0 notes at the Bandit Village
--   Crafting
+-   Crafting it using 2 Logs and 2 Iron at a crafting table

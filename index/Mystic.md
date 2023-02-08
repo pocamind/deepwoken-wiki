@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 52596
+revid: 52756
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -136,14 +136,13 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I would see this world freeze. **(Ice Age)**_
 -   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
 
-### **Galebreath**
+### **Galebreathe**
 
--   _I survive from the teachings of Master Stratos. **(Aeromancer)**_
 -   _I walk the skies. **(Cloudwalker; Gale Leap)**_
 -   _I speak to the winds. **(Galebreather)**_
 -   _I use the winds to enforce my will. **(Galeforce)**_
 -   _I fight for the Legion. **(Legion Shock Trooper)**_
--   _I am a master of the winds. **(Aeromancy)**_
+-   _I am a master of the winds. **(Aeromancer)**_
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer)**_
 

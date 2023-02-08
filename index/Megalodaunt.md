@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 52217
+revid: 52762
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -63,6 +63,7 @@ Kick
 -   This ability is very dangerous as it can send you into unwanted situations.
 -   This ability is blockable, although you need alot of posture to block it.
 -   Commonly avoided by walking sideways, as the hitbox has little width.
+-   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
@@ -77,7 +78,7 @@ Thousand Needles
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   Easily parryable.
--   There is a shorter ranged AOE version and an individual version.
+-   There is a shorter ranged AOE version and a single target version. Both function the same.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -121,6 +122,7 @@ Kick
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -132,7 +134,11 @@ Jump
 
 Thousand Needles
 
- | The Crimson Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ✗ | (★☆☆) |
+ | The Crimson Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
+
+-   There is a shorter ranged AOE version and a single target version. Both function the same.
+
+ | ◯ | ◯ | ✗ | (★☆☆) |
 | 
 
 Tacet Hug
@@ -188,6 +194,7 @@ Kick
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -199,7 +206,11 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
+
+-   There is a shorter ranged AOE version and a single target version. Both function the same.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar
@@ -215,6 +226,7 @@ Tacet Hug
 
  | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
 
+-   Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale.
 -   **Autogrips**
 
  | ✗ | ✗ | ◯ | (★☆☆) |

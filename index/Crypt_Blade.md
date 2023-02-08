@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 52032
+revid: 52759
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons"]
@@ -26,6 +26,10 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons"]
 | pass down | Yes |
 | obtainment | Chests in The Depths Also Floor 1 Layer 2 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
+
+“ "Please Refer to the Darksteel Greatsword for more information" ”
+
+― Crypt Blade users realizing Darksteel is better
 
 ## Description
 
