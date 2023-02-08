@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52748
+revid: 52772
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -202,8 +202,9 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
-    -   Prerequisites: 15 Willpower, 15 Fortitude
+    -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+    -   Prerequisites: 25 Fortitude
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
@@ -661,6 +662,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 7% to 5.4%, for tier 2 - from 14% to 11.2%).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
     -   Requirements : 35 Charisma OR 35 Intelligence OR 35 Willpower. Only one of the three is required, not all three
+    -   Terribly useless buff but the extra wildcard slat is wild.
         
         File:Neuro.png
         

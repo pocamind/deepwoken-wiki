@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 50982
+revid: 52764
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras, Mechanics]
@@ -137,6 +137,8 @@ Mantras you obtained through your Oath. Although it lacks the trainers to help l
 ## Mantra IDs
 
 Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activated by typing /console in chat or pressing F9.
+
+_**(This may have been patched/removed)**_
 
 `Squad`\- Flame/Frost Servants
 

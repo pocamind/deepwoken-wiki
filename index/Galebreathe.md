@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 52049
+revid: 52768
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -107,6 +107,7 @@ _A rush of piercing wind._
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
+-   Has a relatively long hitbox.
 
  |
 | 
@@ -242,6 +243,7 @@ _A quick swirl of sharp winds._
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size.
+-   Cannot be canceled once the attack initiates.
 
  |
 |  | 
@@ -770,3 +772,5 @@ FROM: Inhale
     -   Allows for the most agile and swift mobility in Deepwoken.
     -   **Heavenly Wind** may also double as a mobility mantra as you can take advantage of its upward boost by canceling the mantra.
     -   **Wind Blade** with it's talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
+    -   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
+    -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.

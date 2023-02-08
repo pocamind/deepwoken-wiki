@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52640
+revid: 52771
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -91,7 +91,8 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 ### Notes
 
--   Pretty bad oath considering that their are 3 Oaths(Contractor, Dawnwalker, and Linkstrider)that have no attribute requirement.
+-   Commonly agreed to be a subpar oath compared to the other non stat locked oath (Linkstrider/Dawnwalker/Contractor).
+    -   However, being the only oath that grant +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
     
 
