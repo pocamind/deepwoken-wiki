@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 52787
+revid: 52872
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
@@ -12,58 +12,71 @@ categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
 
 ― ???
 
-Template:Creature Infobox V3_This is the boss encountered at the end of Second Floor of Second Layer, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
+Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 Floor 2, for its namesake, see [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
-## [Description](Gran_Sudaruska.md)
+## Description
 
 The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
 It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ehitron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 
-Upon defeat, 5 chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, Legendary Weapons, and possible Mystic Weapons ([Gran Sudaruska](Gran_Sudaruska.md), [Lights Final Toll](<Light's_Final_Toll.md>), [Railblade](Railblade.md)) Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
+Upon defeat, 5 chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to Scyphozia via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **heavily resistant** to Vampirism.
 
 ## Moveset
 
 **This boss is very punishing with it's damage.** Exercise extreme caution if you're doing this alone or as a duo as it is very likely the fight would become lethal due to a mistake or two.
 
-## Attacks
+## Attack Patterns
 
-| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| Blinding Gale | The Scion of Ethiron charges up its left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | 
+**Attacks:**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| Blinding Gale | The Scion of Ethiron charges up his left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | ◯ | X | ◯ | (★☆☆) |
+| Bonestaves of Eld | The Scion of Ethiron launches three bones at you. These do avery low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time he uses it unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | ◯ | ◯ | X | (★☆☆) |
+| Vehemens Ventus | The Scion of Ethiron will hold it's hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | ◯ | ◯ | ◯ | (★★★★) |
+| Pressurised Wind | The Scion of Ethiron charges up it's arm and quickly releases a purple laser. This will lock onto you and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | ◯ | ◯ | ◯ | (★★☆) |
+| Whiplash | Scion of Ethiron pulls his arm back and then swings it at the player. This stuns him for 1-2 seconds after doing the attack. Can be punishing if you don't know how to look out for this/parry this. | ◯ | ◯ | ◯ | (★★☆) |
+| Bonegrow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | X | X | ◯ | (★☆☆) |
+| Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
+To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.
+
+ | X | X | ◯ | (★★★) |
+
+**Gifs:**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| Blinding Gale | 
 File:Blinding Gale.gif
 
  | ◯ | X | ◯ | (★☆☆) |
-| Bonestaves of Eld | The Scion of Ethiron launches three bones at you. These do a very low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | 
+| Bonestaves of Eld | 
 
 File:Bone Toss.gif
 
  | ◯ | ◯ | X | (★☆☆) |
-| Vehemens Ventus | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | 
+| Vehemens Ventus | 
 
 File:Ethi ult.gif
 
  | ◯ | ◯ | ◯ | (★★★★) |
-| Pressurised Wind | The Scion of Ethiron charges up its arm and quickly releases a purple laser. This will lock onto you and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | 
+| Pressurised Wind | 
 
 File:Ethi laser.gif
 
  | ◯ | ◯ | ◯ | (★★☆) |
-| Whiplash | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1-2 seconds after doing the attack, allowing for a few hits. Can be punishing if you don't know how to look out for this/parry this. | 
+| Whiplash | 
 
 File:Big fist.gif
 
  | ◯ | ◯ | ◯ | (★★☆) |
-| Bonegrow | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | 
+| Bonegrow | 
 
 File:Bone floor.gif
 
  | X | X | ◯ | (★☆☆) |
-| Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
-
-To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.
-
- | 
+| Bone Stream | 
 
  | X | X | ◯ | (★★★) |
 
@@ -73,7 +86,7 @@ This boss can be quite intimidating upon first glance at it's sheer size. As wit
 
 Immediately after you summon it, attempt to make your way over to the bone pillars located on the left side of the first floor. **AVOID DESTROYING THEM WITH MANTRAS.** You must parry/block the bones thrown by the boss and place them in each pillar. Upon the placement of all 3 bones, stairs to the next floor will be conjured. The process will repeat itself for all 3 floors until placing the last bone on the third floor, in that case the boss will be restrained and subsequently allow you to attack it. If the boss is being beaten alone, this may take 2-3 cycles depending on the build of the player. Since it is unlikely it will be taken down in one cycle, it will most likely break free from the chains, causing it to begin attacking you again. There will be a bone missing from 1 pillar on each floor, thus requiring you to find them and replace them, although much more quickly. It's recommended to do the 2nd floor last if possible to minimize the amount of time running to one of it's arms. Efficiently doing this will allow you to defeat the Scion of Ethiron.
 
-Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and it's movements. Due to it's sheer size, they are also quite slow, allowing more leeway to react. Regardless, it's ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommend that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss.
+Most of the Scion's attacks are very easy to parry/dodge, as they are easily telegraphed by both the sound and it's movements. Due to it's sheer size, their also quite slow, allowing more leeway to react. Regardless, it's ultimate is undoubtedly it's most deadly attack. This attack can end you within seconds. Thus, it is **HIGHLY** recommend that you maintain your distance from it when it's charging it, along with having a mobility mantra at your disposal such as Shoulder Bash, Flame Assault, Dash, Lightning Assault, etc. If not, having the [Portals](Portals.md) resonance or Beast Burrow can also be used to evade it through invincibility frames. It is wise to wait for the for the moment it launches the attack before attempting to evade it, which is signaled by the lack of sound from the attack. If on the third floor, do note that the attack will **NOT** collide with the floor and will still go straight for you. All in all, knowing how to evade this attack will effectively eliminate nearly all risks of dying to this boss.
 
 Both the bone and beam attacks can be parried with relative ease. For the beam, rapidly pressing F is the best option. The parry timing for the bones can be a bit janky as the bones seem to hit you sooner than you think they would. It's recommended you learn to parry them if you don't have a lot of posture to spare. The interval in between each bone is the same though, so once you get the rhythm down it should be smooth sailing from that point. There is also another type of attack it may use where bones sprout from the ground, instantly block-breaking you. They appear 3 times, each time right under you forcing you to either run or dodge. Getting hit will fling you into the air, ragdolling you in the process. It can also use a similar attack, but unlike the previous one, the bones will move in a wave like formation in a circle around the floor. This attack is used much less often though. It also has a blind attack, but pay this little to no mind. Finally, it may attempt to hit you with it's arms of course, but this easily parryable and even allows you to sneak 2-3 hits in.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52813
+revid: 52874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -141,7 +141,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 3x health regen while running.
-    -   Prerequisites: All Alley Cat talents
+    -   Prerequisites: Endurance Runner and Scaredy Cat Talents
     -   Mutual Exclusive: Fishman
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
@@ -389,10 +389,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
 
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly.
-    -   Prerequisite: Reinforce, 40 Fortitude
+    -   Prerequisite: Reinforce, 50 Fortitude
 
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
-    -   Prerequisite: Reinforce, 40 Fortitude
+    -   Prerequisite: Reinforce, 50 Fortitude
 
 ### Critical Specialist
 

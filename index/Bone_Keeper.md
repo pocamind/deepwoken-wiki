@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 49274
+revid: 52870
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,7 +33,7 @@ Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly 
 Slash
 
  | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack. | ◯ | ◯ | ◯ | (★☆☆) |
-| Bone Spikes | The Bone Keeper will stomp the ground, emiting a long carpet of spikes in front of it. (You don't normally dodge this, instead jump over them.) | ✗ | ✗ | ◯ | (★★☆) |
+| Bone Spikes | The Bone Keeper will stomp the ground, emiting a long carpet of spikes in front of it. (You don't normally dodge this, instead jump over them.) | ✗ | ✗ | \- | (★★☆) |
 | Femur Throw | The Bone Keeper will dig into the ground with its right arm before pulling out a femur which it will then throw towards the target at lightning speeds. Its important to know this femur behaves as a projectile and therefore can hit walls and other objects. | ◯ | ✗ | ◯ | (★★☆) |
 
 ## Trivia
