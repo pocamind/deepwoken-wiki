@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 51430
+revid: 52860
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -30,6 +30,8 @@ Large statues of Vesperians and a Ganymede can be seen to the sides of the Lords
 
 ## Contents
 
+The fountain
+
 ### NPCs
 
 -   You can find Zirik, an NPC who will alter your [reputation](Reputation.md) with The Hive in cost of [Notes](Notes.md).
@@ -37,6 +39,12 @@ Large statues of Vesperians and a Ganymede can be seen to the sides of the Lords
 ### Miscellaneous
 
 -   You can find one of The Hive's fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
+
+  
+
+### Owl Spawn
+
+-   In the last update (06-feb-23) added an "static owl spawn", located on the left side of the place, precisely passing the hole that is in that area (see image), be careful, if you do not have the level or do not know how to fight against an owl, avoid going through that area since they **will appear instantly and will be aggressive since the first second of spawn** (doesn't have the owl spawn dialoge and the falling feathers doesnt appear), have a mid spawn radious and they give hive loot and drop void/dark feather.
 
 ## Trivia/Notes
 

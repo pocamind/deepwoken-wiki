@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 52788
+revid: 52836
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -27,6 +27,14 @@ Map:Etrean Luminant Inside
 **Duke Erisia's Manor:**
 
 **The Floating Keep:**
+
+**Outside:**
+
+**Inside:**
+
+**Floor 1:**
+
+**Floor 2:**
 
 **Eastern Luminant:**
 

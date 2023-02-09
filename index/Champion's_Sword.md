@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 51104
+revid: 52846
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -35,4 +35,3 @@ A mid-game weapon dropped from mobs at the [Starswept Valley](The_Starswept_Vall
 
 -   Not to be confused with [Hero Blades](Hero_Blades.md).
 -   The inferior version of the [Forgotten Gladius](Forgotten_Gladius.md).
--   ~Literally a percy jackson refrence :)~ Source: trust me bro

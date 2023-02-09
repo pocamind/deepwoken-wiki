@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 48883
+revid: 52868
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -50,3 +50,4 @@ When obtained, Portals will spend its points on the following stats:
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, hence why it's nicknamed **"Yoru."**
 -   Trying to use this bell while carrying a player, will most likely drop the player.
 -   Very useful if you need to jump of a high cliff without taking damage. To do this, make sure to use BEFORE jumping off. If you don't, it might not activate.
+-   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.

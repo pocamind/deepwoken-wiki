@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 52774
+revid: 52864
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
@@ -34,7 +34,7 @@ notices:
 
 ## Description
 
-Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
+Gran Sudaruska is a Mythical gae [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. It does 23.5 base damage and has a swing speed of 0.62x.
 
 This weapon has 3 passives abilities:
 

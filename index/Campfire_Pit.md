@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 48985
+revid: 52863
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -29,3 +29,4 @@ An alternative to using a campfire is the Graceful Flame support mantra. It is n
 -   Campfires spawned by the [Random\_Encounters#Bandit\_Camp Bandit Camp](Random_Encounters.md#bandit-camp-bandit-camp) event are replaced by a chest with loot when the event ends, however, by killing two of the bandits and carrying the third you can have a chance to heal before it disappears.
 -   Only [Flamecharmers](Flamecharm.md) with the [Undying Flame](https://deepwoken.fandom.com/wiki/Talents#Undying_Ember) Talent can light up campfires in [The Depths](The_Depths.md).
 -   There used to be a glitch where campfire-spawning events in Summer Isle would not despawn the campfire, meaning there would be an endless amount of them around the island and also glitch chests inside of the campfire.
+-   **Building:** Campfires can also be used as a platform for barrel construction. Since campfires are not at all effected by gravity, they can hold barrels up where the barrels would normally fall. You may construct whatever your barrel supply allows with this.

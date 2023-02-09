@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 52151
+revid: 52865
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -16,12 +16,13 @@ _icon credit to Tortaa#9000_
 
 Attributes can be increased with investment points.
 
-You can have a maximum of 327 points on a character at [Power](Power.md) 20:
+You can have a maximum of 328 points on a character at [Power](Power.md) 20:
 
 -   300 from levels
 -   10 from attunement (Attunementless characters spawn in with 10 points to distribute)
 -   4 from race
 -   13 from character creation
+-   1 For second Attunement(not required for all characters, but is set aside)
 
 All attributes can be improved up to 75 points but may be unbounded to 100 once you [complete a quest](Attributes_Unbound.md) to unlock an attribute's full potential.
 
