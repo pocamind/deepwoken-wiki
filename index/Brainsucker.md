@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 52778
+revid: 52889
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -48,4 +48,4 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 
 ## Bugs
 
--   Cancelling a Brainsuckers grip causes the person being gripped to desync (Only tested once)
+-   Cancelling a Brainsuckers gripping animation may cause whoever is being gripped to desync

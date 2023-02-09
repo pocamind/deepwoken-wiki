@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52874
+revid: 52887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -140,7 +140,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Alley Cat
 
 -   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
-    -   After you don't take damage for 3 seconds, gain 3x health regen while running.
+    -   After you don't take damage for 3 seconds, gain 300% health regen while running.
     -   Prerequisites: Endurance Runner and Scaredy Cat Talents
     -   Mutual Exclusive: Fishman
 
@@ -301,7 +301,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Provides I-frames for the duration of the invisibility (3 seconds)
     -   Has a short cooldown
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
-    -   Prerequisites: 40 Agility, Evasive Expert, Risky Moves, Swift Rebound
+    -   Prerequisites: 40 Agility, All Butterfly talents
 
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
@@ -331,12 +331,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   This talent goes on a 3 second cooldown when a mantra is casted.
     -   Prerequisite: 40 Intelligence
 
--   Perfect Flash \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 1.25x damage.
+-   Perfect Flash \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
 
 ### Champion
 
--   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
+-   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 50% extra posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Prerequisite: 25 Strength
 
@@ -400,7 +400,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   While the effect is active, gain a red trail on your weapon.
     -   Prerequisite: Knife's Journey
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health)
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 20% damage with light weapons. (+2 Health)
     -   Crit procs are rolled for each individual target, not per swing.
     -   Crit procs are indicated by a red visual effect.
     -   Only works on daggers.
@@ -408,7 +408,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
     -   Prerequisite: 25 Light Weapon Mastery
 
--   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
+-   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 200% damage to armor.
     -   Prerequisite: Knife's Journey
 
 -   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
@@ -1089,8 +1089,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   5 Second Cooldown.
     -   Prerequisites: Fists, 25 Agility
 
--   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 1.2x faster (+5 Sanity)
-    -   Grant up 1.25x damage when nearing 100% insanity.
+-   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
+    -   Grant up to 25% extra damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
     -   Prerequisite: 30 Strength, 30 Fortitude
 
@@ -1181,7 +1181,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### [Murmur](Murmur.md)
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
-    -   Affected targets takes 2x posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
+    -   Affected targets takes 200% extra posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
@@ -1424,7 +1424,7 @@ Prerequisite: Charisma
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether)
-    -   Gain 1.4x more notes from selling items.
+    -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
 ### Singer
@@ -1461,7 +1461,7 @@ Prerequisite: Charisma
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link, 50 Thundercall
 
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity)
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 ### Stormblade

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 52713
+revid: 52907
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -370,7 +370,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><center><br>
   <font>Viscocity<div></div></font></center></td>
-  <td><div><p>Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
+  <td><div><p>Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
   The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
   <b>Disabled if using Curse of the No Life King.</b> <b>Disabled in Arena</b></p></div></td>
   <td><div>None</div></td>
@@ -378,7 +378,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
   <font>Ferocity<div></div></font></center></td>
-  <td><div>Procs on vent, gain damage reduction depends on how much tempo you had prior to the vent.<br>
+  <td><div>On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.<br>
   </div></td>
   <td><div>Red blood droplets surrounding the equipment.</div></td>
 </tr>

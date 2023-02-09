@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 52617
+revid: 52883
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2529,7 +2529,7 @@ Grants a random buff.
 
 Chests from:
 
--   [Minityrsa](Minityrsa.md)(Valley of Heroes)
+-   [Minityrsa](Minityrsa.md) (Valley of Heroes)
 
  | Onyx, Peach, Scarlet, Rose & Smoke (Work in Progress) |
 | File:Pale.jpg | 

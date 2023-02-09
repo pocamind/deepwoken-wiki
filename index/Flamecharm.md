@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 52862
+revid: 52876
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -24,7 +24,7 @@ The playstyle of this element is a jack of all trades and combat mobility. Flame
 
 However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset, and an adept opponent will be able to out-time a repetitive wielder's attacks. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
 
-## Training!!!
+## Training
 
 Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Mantras.
 

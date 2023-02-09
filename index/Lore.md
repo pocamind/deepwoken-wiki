@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 52654
+revid: 52909
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -119,6 +119,7 @@ The Duke
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
+-   Stronger than Duke Erisia and possibly Klaris.
 
 ### **Akira, The Black Diver**
 
@@ -139,9 +140,15 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
+_"The power of the sun, in the palm of my hands..." -Amorus Pleeksty_
+
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
--   Either a Tiran, Ganymede or Vesperian.
+-   Confirmed to be a Tiran.
+-   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
+-   Many people think he is dead due to be the only known person to go to the third layer. However since he is immortal, he just stays most of his time in the third layer, being almost not seen.
+-   Founder of the covenant of Flame and the Flame worshippers.
+-   Apparently he also writes books, being one and the only known to be "Flame and the failure of man"
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 
@@ -165,6 +172,8 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
+_"Heavy is the burden of the Lightkeepers." -Nimea._
+
 -   Currently residing in the Eastern Lighthouse, near miners landing.
 -   In charge of connecting the Eastern and Etrean luminant to the rest of the luminants from the Voidsea.
 -   Possible childhood friend of Nimea and possible teacher of Klaris.
@@ -174,6 +183,8 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Ligthhouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Altought this is just speculation with the little information we have from Nimea and Klaris.
 
 ### **Klaris Llfiend**
+
+_"Ugh... I dont have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
 -   Black Diver of an unknown race. Created light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift".
@@ -196,7 +207,18 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 The one and only... MEAT LORD!
 
-  
+### **Warden Jericho**
+
+-   High ranking member of the Authority.
+-   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
+-   User of the Warmaster Oath.
+-   One of the few people that is not aligned with the Ministry that knows the true intentions and identity of the Lord Regent.
+-   Very probably that is under the command of Drallis Ehr.
+-   Presumably an Adret.
+-   "Can solo every Centurion of the 11th legion" this was stated by Arch mage, sure to note that he only says the one of the 11th Legion, not the hundred legions.
+-   Currently is hunting and trying to destroy the Ministry and Contractors.
+-   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
+-   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncaps your strength.
 
 ### **Gunsmith Rosen**
 
@@ -238,6 +260,8 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     
 
 ### **Yun'shul**
+
+_"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
@@ -311,6 +335,8 @@ Yun'shul's Shrine
 -   A full power Ferryman can defeat Akira, but not the Lord Regent with his throne.
 
 ### **Sudaruska the Undying**
+
+_"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources :** Sudaruska Soul, Gran Sudaruska Description
 

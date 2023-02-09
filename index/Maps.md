@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 52836
+revid: 52892
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -31,6 +31,8 @@ Map:Etrean Luminant Inside
 **Outside:**
 
 **Inside:**
+
+**Floor 0:**
 
 **Floor 1:**
 
