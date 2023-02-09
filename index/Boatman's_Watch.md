@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 46596
+revid: 52817
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -18,7 +18,7 @@ The arena found in Boatman's Watch
 
 ## Overview
 
-Boatman's Watch is a small island covered in vegetation. An arena can be found in the center.
+Boatman's Watch is a small island located in the [Voidsea](Voidsea.md). The island is covered in vegetation and an arena can be found in the center.
 
 -   Boatman's Watch can be found in the Eastern Luminant; far behind [Miner's Landing](<Miner's_Landing.md>). If you see multiple whirlpools, you will be nearby.
 

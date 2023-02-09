@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 52699
+revid: 52800
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -151,7 +151,7 @@ Doing Chaser without light hook will cause you to earn significantly more [Echoe
 
 ## Trivia
 
--   There was a period of time where rumors claimed that this boss was called Minerva, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players, even if they.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).

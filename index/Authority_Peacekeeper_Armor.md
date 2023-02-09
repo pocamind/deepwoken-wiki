@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 50102
+revid: 52806
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -37,3 +37,4 @@ This Outfit's Schematic can be found in:
 -   This is the standard uniform of The Authority
     -   Authority Thundercallers wear a red coat over
 -   One of the best Adept armors in game because of the low cost, excellent durability, and the material requirements.
+-   Sadly, despite being an Adept armor, the only way of obtaining it is in the depths.

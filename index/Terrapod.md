@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 50303
+revid: 52826
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly 
 
 ## **Description**
 
-Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes.
+Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes. If you are not ready to fight this foe, you can easily escape simply by running and climbing. Terrapods have low walkspeed and are delayed by their attacks.
 
   
 
@@ -33,8 +33,9 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 
 ## **Tips and Notes**
 
--   Despite their speed, Terrapods are fairly easy to kill. (Stat Check Level: 10)
+-   Incredibly easy to kill. (Stat check: Any)
 -   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).
+    -   By landing a few hits and running to avoid its attacks, you can kill one of these without blocking, parrying or dodging.
 -   This monster is hostile towards any others in Upper Erisia.
 -   Strange Claw is used for armors, and can be sold for a decent amount of notes.
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.

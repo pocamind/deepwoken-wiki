@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52791
+revid: 52813
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1489,17 +1489,18 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Mutually Exclusive: Carnivore
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Prerequisites: Herbivore
+    -   Prerequisites: Herbivore, vomit once
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
-    -   Unlock requirement: Wipe with the Iron Gut talent (can be given by armor)
+    -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
     -   Requirements (talent): 20 Fortitude
-    -   Note: Allows user to eat inedible items under the food category, as well as some that aren't.
+    -   Note: Allows user to eat sticks, all ores other than umbrite, rocks, and the one that's from a meteorite, bambo, wax, coral, and spider eggs
 
 ### Survivor
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Prerequisite: 5 Fortitude
+    -   bugged
 
 -   Winter's Protection \[Common Talent, Equipment Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Equipment.md).

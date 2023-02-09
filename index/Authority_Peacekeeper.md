@@ -1,12 +1,18 @@
 ---
 title: Authority Peacekeeper
-revid: 52054
+revid: 52804
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Authority Peacekeeper
+
+“ We're
+
+masters of the Ocean wide! ”
+
+― Authority Guard flexing their national theme to a hostage Etrean.
 
 Template:EnemyInfobox1.0
 
