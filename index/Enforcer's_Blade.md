@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 52801
+revid: 53082
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -25,10 +25,6 @@ categories: [Weapons, Greatswords]
 | pass down | Yes |
 | obtainment | The Enforcer |
 | description | ''The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation.” |
-
-“ The only thing they fear, is you... ”
-
-― Enforcer blade users when they enter the depths.
 
 ## Description
 

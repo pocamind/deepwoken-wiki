@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 52903
+revid: 53091
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons"]
@@ -11,9 +11,9 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 | Light's Final Toll | |
 |---|---|
 | type | Fist |
-| requirements | 65 WLL & Fist Style |
+| requirements | 65 WLP & Fist Style |
 | damage | 12 (27.9 at max) |
-| scaling | 13 (WIL) |
+| scaling | 13 (WLP) |
 | range | 7 |
 | swing speed | 0.87x |
 | penetration | 5% |

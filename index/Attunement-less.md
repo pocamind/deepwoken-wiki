@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 51771
+revid: 53086
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement]
@@ -126,7 +126,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Buff those around you with extra defence._ | 
+ | _Buff those around you with extra defense and damage._ | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
 -   Decreases damage received by allies for the duration of the effect.

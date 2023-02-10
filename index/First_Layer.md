@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 51735
+revid: 53081
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note:_
 
-**Your Trial Power is calculated by power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a Depths trial**; for example, if you are power 17 but have 1 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by Power + (Times Drowned \* 0.33).** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +0.33 level to your power when facing a Depths trial**; for example, if you are power 16 but have 3 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
 
 _Trial Power and Power are two different things; See above as well as below table._
 
@@ -88,8 +88,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-10 | [Angel](Hollow_Angel.md) (Lesser) |
-| 11-15 | [Megalodaunt](Megalodaunt.md) |
-| 16+ | [Enforcer](Enforcer.md) |
+| 11-16 | [Megalodaunt](Megalodaunt.md) |
+| 17+ | [Enforcer](Enforcer.md) |
 
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.

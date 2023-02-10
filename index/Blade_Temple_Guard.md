@@ -1,18 +1,13 @@
 ---
 title: Blade Temple Guard
-revid: 50502
+revid: 53092
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs]
+categories: [Enemies]
 ---
 
 # Blade Temple Guard
 
-“ Nooooo!!! I am a trained master swordsman who dedicates his life to the blade!! You can’t just be stronger than me!!! ”
-
-― Vigil Guard to Etrean Guard
-
-  
 Template:EnemyInfobox1.0
 
 ## Description
@@ -41,3 +36,4 @@ A Blade Temple Guard executes the player after knocking them:
 ## Trivia
 
 -   Despite being affiliated with Etrea, they are highly inclusive, as well as staying away from their war with The Authority.
+-   Easier to kill than Etrean Guards

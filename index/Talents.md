@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53034
+revid: 53087
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -389,10 +389,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
 
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly.
-    -   Prerequisite: Reinforce, 50 Fortitude
+    -   Prerequisite: Reinforce, 40 Fortitude
 
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
-    -   Prerequisite: Reinforce, 50 Fortitude
+    -   Prerequisite: Reinforce, 40 Fortitude
 
 ### Critical Specialist
 

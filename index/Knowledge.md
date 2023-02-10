@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 51727
+revid: 53079
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ The maximum for said currency is 99. The currency is bound to a slot and is lost
 There are currently only a few milestones that grant player Knowledge upon first-completion. It is speculated that there are will be more ways added in the future.
 
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level. (max. 19 Knowledge)
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge.
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge (granted once teleported out of the dungeno).
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge.
 -   Purchasing Starting Knowledge [Echo Upgrade](Echoes.md), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). The currency is granted to every slot upon creation of a new character. This doesn't apply to existing characters.
 
