@@ -1,9 +1,9 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 50553
+revid: 52952
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant]
+categories: [Locations, Etrean Luminant, World]
 ---
 
 # Eastern Interstitial Lighthouse
@@ -23,6 +23,10 @@ Eastern Interstital Lighthouse
 The Eastern Interstitial Lighthouse is a lighthouse with a passage underneath for boats to spawn in.
 
 It can be found past a gate beside [Starfield Veldt](Starfield_Veldt.md).
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

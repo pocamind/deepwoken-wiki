@@ -1,9 +1,9 @@
 ---
 title: Outpost Antumbra
-revid: 50561
+revid: 52966
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant]
+categories: [Locations, Etrean Luminant, World]
 ---
 
 # Outpost Antumbra
@@ -27,6 +27,10 @@ Outpost Antumbra is the small outpost for The Ministry, it has a good amount of 
 ## Quests
 
 -   There is a quest for 5 Aces. You must find Elykris. He tells you to get a book of Ministry records found inside Outpost Antumbra. Once you return the book to him, you get 5 free Aces.
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 

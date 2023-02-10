@@ -1,9 +1,9 @@
 ---
 title: Temple Courtyard
-revid: 50653
+revid: 52976
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Pages with broken file links, Locations, World, Etrean Luminant]
 ---
 
 # Temple Courtyard
@@ -26,6 +26,10 @@ The Temple Courtyard is a small courtyard that leads up to the Temple Of The For
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
 -   [Thief](Thief.md)
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

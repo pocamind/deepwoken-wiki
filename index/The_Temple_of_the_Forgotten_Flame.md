@@ -1,9 +1,9 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 50435
+revid: 52995
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map]
+categories: [Map, World, Etrean Luminant]
 ---
 
 # The Temple of the Forgotten Flame
@@ -41,6 +41,10 @@ Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious
 ## NPCs
 
 -   Neero, a Pathfinder who'll give you [insight about his career](Lore.md).
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

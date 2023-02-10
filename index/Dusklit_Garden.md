@@ -1,9 +1,9 @@
 ---
 title: Dusklit Garden
-revid: 39632
+revid: 52951
 source: https://deepwoken.fandom.com/wiki/Dusklit_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World]
 ---
 
 # Dusklit Garden
@@ -22,6 +22,10 @@ The **Dusklit Gardens** are a sub-location of the [Voidheart](Voidheart.md). It'
 
 Dusklit Garden
 
-## Trivia
+## Maps
+
+A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspace)
+
+## Trivia/Notes
 
 -   Before a certain update, the void below the Dusklit Gardens used to be a kill-plane.

@@ -1,9 +1,9 @@
 ---
 title: "Miner's Landing"
-revid: 50787
+revid: 53022
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World, Locations]
+categories: [Pages with broken file links, World, Locations, Eastern Luminant]
 ---
 
 # Miner's Landing
@@ -73,6 +73,10 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 -   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md#mechalodaunt)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
 -   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
 -   Note: this quest is repeatable
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## **Notes & Trivia**
 

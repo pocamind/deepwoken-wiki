@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 52887
+revid: 53034
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -683,7 +683,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
-    -   Prerequisites: Unknown
+    -   Prerequisites: 35 Flamecharm
 
 -   Wildfire \[Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)

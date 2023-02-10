@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 48774
+revid: 52948
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -280,6 +280,10 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   The reward for this quest is the "[Way of Navae](Fists.md)" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
 -   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [Lionfish](Lionfish.md) spawns, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 

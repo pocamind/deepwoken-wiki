@@ -1,9 +1,9 @@
 ---
 title: Voidheart
-revid: 47974
+revid: 53013
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant]
+categories: [Locations, World, Eastern Luminant, Etrean Luminant]
 ---
 
 # Voidheart
@@ -51,6 +51,10 @@ Voidheart chessboard
 -   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exist. According to it, their is no a singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
 -   Some member of the Knives Of Eylis are here by choice, while other arent. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
     -   While a less universal goal, Eylis herself have her own set of plan and goals which she does not reveal, but hint at the player's inclusion in them, saying that "You're... different, from the rest".
+
+## Maps
+
+A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspace)
 
 ## Trivia
 

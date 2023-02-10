@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 52909
+revid: 53041
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -24,13 +24,13 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-"Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me." _\- Lord Regent, after defeating [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you._
+"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after defeating [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you.
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md). Nobody in Etris is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions **appear** to be in the best interests of Etris.
-
--   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; this ranking system is based off strength.
+-   The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md).
+-   Nobody in Etris is sure of where he originates, but they accept him for his formidable power, and his actions **appearing** to be in the best interests of Etris.
+-   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; this ranking system is based on strength.
 -   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
 -   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace, yet he remains the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
@@ -53,9 +53,9 @@ The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious indiv
 ### **Drallis Ehr**
 
 -   Grand Sovereign of The Central Authority.
--   Presumably an Adret.
+-   Presumably an Adret. \[Speculation\]
 -   Gained this position after withstanding something known as the Godstorm.
--   Possibly the individual referred to in the Teacher's dialogue for a story of fortitude.
+-   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of fortitude. \[Speculation\]
 -   Even more powerful than the Lord Regent.
 
 ### **The First Prophet**
@@ -76,7 +76,7 @@ The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious indiv
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
-    -   The teacher charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
+    -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 -   _Stars Above, and the Blade Between_ sheds some light on the situation, assuming that it's an autobiographical work.
@@ -101,10 +101,9 @@ The Duke
 
 -   The [Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
--   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, who wants the Forge of Sin from his hands.
--   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. Its most likely that he knows the intentions of Zi'eer for drowning Etris since before you execute him he sometimes say: "Vermin! you seek to let Celtor repeat?
+-   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes say: "Vermin! You seek to let Celtor repeat?
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
--   Despite being kind of insane and had committed some atrocities like killing and kidnapping citizens, he seems to do this to save Etris from drowning meaning that he is like "the good guy" of the questline, compared to Lord Regent.
+-   Despite being kind of insane, committing a genocide and carrying out numerous unethical experiments on his citizens, he seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
@@ -115,8 +114,11 @@ The Duke
 
 ### **Maestro Evengarde Rest**
 
-"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
-
+-   "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them.
+-   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
+-   It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon.
+-   He is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+-   His main weapon type is medium.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 -   Stronger than Duke Erisia and possibly Klaris.
@@ -130,7 +132,7 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
-    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that your too strong and that he cant use his bell to kill you.
+    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that your too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
@@ -140,15 +142,13 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
-_"The power of the sun, in the palm of my hands..." -Amorus Pleeksty_
-
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
--   Confirmed to be a Tiran.
+-   Either a Tiran, Vesperian, or Ganymede.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
 -   Many people think he is dead due to be the only known person to go to the third layer. However since he is immortal, he just stays most of his time in the third layer, being almost not seen.
--   Founder of the covenant of Flame and the Flame worshippers.
--   Apparently he also writes books, being one and the only known to be "Flame and the failure of man"
+-   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
+-   Apparently he also writes books, being one and the only known to be "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 
@@ -175,23 +175,24 @@ _"The power of the sun, in the palm of my hands..." -Amorus Pleeksty_
 _"Heavy is the burden of the Lightkeepers." -Nimea._
 
 -   Currently residing in the Eastern Lighthouse, near miners landing.
--   In charge of connecting the Eastern and Etrean luminant to the rest of the luminants from the Voidsea.
+-   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
 -   Possible childhood friend of Nimea and possible teacher of Klaris.
 -   Her hobby is apparently to write poetry, as stated by Klaris.
--   Apparently she is "preocupied" due to the ongoing war of the Authority and Etris.
--   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisioned due to her "gift".
--   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Ligthhouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Altought this is just speculation with the little information we have from Nimea and Klaris.
+-   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
+-   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
+-   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Ligthhouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
 
 ### **Klaris Llfiend**
 
 _"Ugh... I dont have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
 -   Black Diver of an unknown race. Created light hooks.
--   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift".
+-   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the eastern luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
 -   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
+-   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
 ### **The Meat Lord**
@@ -211,14 +212,17 @@ The one and only... MEAT LORD!
 
 -   High ranking member of the Authority.
 -   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
--   User of the Warmaster Oath.
+-   User of an unknown Oath.
+    -   While this Oath is believed by many to be Warmaster, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time.
 -   One of the few people that is not aligned with the Ministry that knows the true intentions and identity of the Lord Regent.
--   Very probably that is under the command of Drallis Ehr.
+-   Very probably is under the direct command of Drallis Ehr.
 -   Presumably an Adret.
--   "Can solo every Centurion of the 11th legion" this was stated by Arch mage, sure to note that he only says the one of the 11th Legion, not the hundred legions.
+-   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in Fort Merit or anywhere else in the Eastern Luminant, yet is directing the war as he gave Sibex orders recently.
+-   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains.
 -   Currently is hunting and trying to destroy the Ministry and Contractors.
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
--   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncaps your strength.
+-   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
+-   Genuinely believes in The Central Authority as a force of peace.
 
 ### **Gunsmith Rosen**
 
@@ -233,10 +237,10 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
-
 -   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
+-   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
 ### **Alsin**
 
@@ -280,7 +284,8 @@ Yun'shul's Shrine
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure.
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
--   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer; the meaning of scion in this context is unclear.
+-   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
+    -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
     -   The Scion acts as a guardian of sorts.
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
@@ -308,7 +313,7 @@ Yun'shul's Shrine
 -   Becoming one is the ultimate goal of the Ministry.
 -   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
-    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
+    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
 -   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
 
@@ -443,8 +448,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 _"A place remembered only by the waves"_
 
--   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library  
-    
+-   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library
 
 ### **The Depths**
 
@@ -1372,6 +1376,10 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Authority breaks their treaty with the Legion, the two go to war.
 -   The Authority goes to war with the Kingdom of Etrea.
 
+### Year 1180
+
+-   August Gideshu pens the Gideshu March.
+
 ## Deepwoken: 1271-1363
 
 This category lists new lore that has been added into Deepwoken through updates during Verse 1 or posthumously during Verse 2. This will cover what lore has been dropped, and the date it has been found or released.
@@ -1530,11 +1538,11 @@ Though technically a blank slate of varying races and abilities, even the player
 
 -   Every Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, learned through various means.
     -   In the Castaway Origin, they learned this with the training of their captain.
-    -   In the Deepbound Origin, they presumably went through standard diver training.
+    -   In the Deepbound Origin, they presumably went through standard Diver training.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
 
--   The Player in deepwoken is a "Drowned", Drowneds are people with more connections in the depths than usual, when the player starts a new journey, they get the talent card of the Sound from Below when the player becames slightly more powerfull (Power 2), that basically says that something in the depths is calling you as if you were tied to the depths since the beggining, thats why when you die, your soul gets dragged forcefully to the Depths, being like a Curse. This Curse apparently also gives the ability to "strength" their legacy once they pass away in the depths, this can be bya passing relics (Items like armor and weapons on fragments) to make their soul more powerfull than their ancestor (Echoes).
-
+-   They are a "Drowned," people with more connections to The Depths than usual.
+-   When they become strong enough, they get the talent card of the Sound from Below that states that something in The Depths is calling you as if they were tied to the depths since the beginning.
 -   The description of Erisor's church implies that the Player knew of a figure named "Erisor."
 
 ### Castaway
@@ -1544,11 +1552,12 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ### Deepbound
 
--   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the divers main headquarters in the Central Luminant, after being recruited by a Diver of unkown rank named Roy wich gives you basic Diver apprentice training, after that you are assigned a post in the 1st layer of the depths, in the FOB of the divers, Castle Light, where you meet your superiors: Mark Adaset, Castle Light mantainer and both Black Divers; Klaris and Akira (This last one on the Ignition union vs Akira event). The objective of the player is to prove their worth to the divers by finishing your trials that are to explore and survive the 1st layer of the depths, being able to progress your journey alone in the depths and researching the 1st layer of the Depths for the divers, to possible be able to become a Diver Journeyman (An experienced diver with some recognition) by getting stronger in the depths and be able to help the Divers cause. When the player reaches Power 20 he can already be recognized as a Diver Journeyman. And possible when the Central Luminant is available in future updates, you will be able to interact with in the Diver Headquarters and maybe even be able to become a Black Diver proving your worth, like defeating the Scion of Ethiron and getting acknowledged by the watchers of the Divers.
+-   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unkown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light.
 
 ### Voidwalker
 
--   The Player (For whatever reason you choose when you first talk with the voidmother) decides to enlist in the Knives of Eylis, a very prestigious and feared mercenary group founded by Eylis, after being recruited by Eylis herself and signed the Voidwalker Contract (Unkown terms for now) you gain the Void powers of the Void mother (Grasp of Eylis and Voideye) and began your hell-like training to become a Mercenary of Eylis. After completing the training you are now considered a Mercenary for Eylis and began to take works for the Knives of Eylis bya murdering persons of interest (Other players). With the objective of show your worth towards Eylis herself, and be able to swore and Oath to herself. (More lore will be known when the Voidwalker Oaths releases.)
+-   They somehow managed to join the Knives of Eylis, presumably from the Central Luminant and gained the Void powers of the Voidmother: Grasp of Eylis and Voideye.
+-   After completing hell-like training to become a Mercenary of Eylis, they were assigned bounties on those the Knives wanted dead.
 
 ### Power Level
 
@@ -1609,19 +1618,24 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Language**
 
--   There are multiple languages in the Deepwoken world,
-    -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
+-   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughout the game is simply called 'Common.'
 -   There is a language used by the Kyrsgarde, similar to common.
 
-### **Consuming things for power**
+### **Motifs**
 
--   A common trend in Deepwoken is being able to consume parts of living things to gain their power.
-    -   With Starkindred, you consume the blood of a Celestial to obtain the oath.
-    -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power
-    -   There are lotuses found in voidzones that give stat attributes when consumed as a potion.
-    -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
-    -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite.
+-   Rings
+    -   Many of the prominent figures in Deepwoken possessed a ring at some point, but discarded it.
+        -   Akira stopped using his believing he no longer needed it.
+        -   Rosen no longer used it after finding new inspiration.
+        -   The Maestros' was lost for some reason.
+-   Consumption
+    -   A common trend in Deepwoken is being able to consume parts of living things to gain their power.
+        -   With Starkindred, you consume the blood of a Celestial to obtain the oath.
+        -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power
+        -   There are lotuses found in voidzones that give stat attributes when consumed as a potion.
+        -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
+        -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite.
 
 ## Music
 
@@ -1636,6 +1650,7 @@ _**Theme of the Central Authority**_
 _"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
 
 -   It plays when the Authority attacks the ship in the [Tutorial](Tutorial.md).
+-   A leitmotif from it can be heard in And Let Slip The Hounds Of War.
 
 #### Masters of the House
 
@@ -1674,8 +1689,9 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## Trivia
 
--   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
+-   The Adretian Authority was renamed to The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
+-   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 -   The change in artstyle seen with the more realistic Roblox resources used in Layer 2 is just experimentation. Sometimes, it's just not that **deep**.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.

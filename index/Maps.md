@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 52892
+revid: 52923
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -142,7 +142,23 @@ Map:The Unearthed Colosseum
 
 **Maxed Guild Base:**
 
-Map:Maxed Guild Base
+**Whole:**
+
+**Armory:**
+
+**Laboratory:**
+
+**Library:**
+
+**Mess Hall:**
+
+**Quarters:**
+
+**Song Room:**
+
+**Training Hall:**
+
+**Trophy Room:**
 
 All Interactive maps can be found here.
 

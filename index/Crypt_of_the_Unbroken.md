@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 52162
+revid: 52933
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzone]
@@ -71,6 +71,10 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   Emerald
 
  |
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Notes & Trivia
 

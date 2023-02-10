@@ -1,9 +1,9 @@
 ---
 title: Etris Docks
-revid: 36041
+revid: 52956
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World]
 ---
 
 # Etris Docks
@@ -44,6 +44,10 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 ## Potential Enemies
 
 -   [Etrean Guardsmen](Etrean_Guardsmen.md)
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

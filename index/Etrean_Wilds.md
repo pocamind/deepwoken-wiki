@@ -1,9 +1,9 @@
 ---
 title: Etrean Wilds
-revid: 36977
+revid: 52953
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Map]
+categories: [Locations, Map, World]
 ---
 
 # Etrean Wilds
@@ -35,6 +35,10 @@ The Etrean Wilds is a small forest found before entering [Etris](Etris.md).
 
 -   [Navaen Nomad](Navaen_Hostage.md)
 -   [Etrean Guardsmen](Etrean_Guardsmen.md)
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

@@ -1,9 +1,9 @@
 ---
 title: The Hall of Shattered Wills
-revid: 49669
+revid: 52989
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Pages with broken file links, Locations, World]
 ---
 
 # The Hall of Shattered Wills
@@ -33,6 +33,10 @@ It has no practical functions and merely acts as a safe place for moderators to 
 File:Screenshot 2022-12-30 000043.png
 
 Image of the Yum-Yum Machine.
+
+## Maps
+
+A map can be found at [Maps#The\_Hall\_of\_Shattered\_Wills](Maps.md#the-hall-of-shattered-wills)
 
 ## Trivia/Notes
 

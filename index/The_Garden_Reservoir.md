@@ -1,9 +1,9 @@
 ---
 title: The Garden Reservoir
-revid: 36359
+revid: 52987
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Pages with broken file links, Locations, World, Etrean Luminant]
 ---
 
 # The Garden Reservoir
@@ -35,6 +35,10 @@ The Garden Reservoir is a location down below [Burning Stone Gardens](Burning_St
 -   [Rock Golem](Rock_Golem.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Golden Warrior](Golden_Warrior.md)
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 50354
+revid: 52932
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -34,6 +34,10 @@ Or you can try to gather enough agility or environmental height to get on top of
 ## Gallery
 
 Duke Erisia's Manor exterior
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

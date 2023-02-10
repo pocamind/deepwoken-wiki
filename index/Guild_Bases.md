@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 50987
+revid: 52928
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -68,6 +68,8 @@ Library's Donated Books
 ## Events
 
 -   Bandit Raid - Very rarely, bandits will spawn inside your guild base and begin attacking you.
+
+Bandits raiding a Guild Base.
 
 ## Trivia
 

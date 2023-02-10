@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 52756
+revid: 52981
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -126,6 +126,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
 -   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
 -   _My flame fights for me._ _**(Duelist Flame)**_
+-   My spirit is forever burning. _**(Warding Radiance)**_
 
 ### **Frostdraw**
 

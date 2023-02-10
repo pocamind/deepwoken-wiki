@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 52185
+revid: 52930
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -871,7 +871,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
   <td>90 MED</td>
-  <td>20.5</td>
+  <td>19.5</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 5</td>
@@ -1695,7 +1695,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
     -   Base Damage: Hivelord Hubris (30)
     -   Requirement: Shattered Katana (100 MED)
     -   Dual Requirement: Hivelord Hubris (100 HVY, 60 STR)
-    -   Penetration: Nemit's Sickle, Kyrsedge, Kyrstreza, Shattered Katana (30%)
+    -   Penetration: Nemit's Sickle, Kyrsedge, Kyrstreza, Shattered Katana, First Light (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver (15 LHT)
     -   Weight: Enforcer Hammer (12)

@@ -1,9 +1,9 @@
 ---
 title: The Hidden Village
-revid: 47600
+revid: 53020
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Locations]
+categories: [Etrean Luminant, Locations, World]
 ---
 
 # The Hidden Village
@@ -48,7 +48,11 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 -   Shrine of Blasphemy, who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
 -   [Marcus](Marcus.md), a chill [Stone Golem](Rock_Golem.md) who loves sipping coffee. Gives good life advice in a few words.
 
-### Miscellaneous
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
+
+### Trivia
 
 -   You can find one of [The Hive](The_Hive.md)'s fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
 -   You can find plenty of [Erisore](https://deepwoken.fandom.com/wiki/Ore?so=search#Erisore) ore here.

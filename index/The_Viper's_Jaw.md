@@ -1,9 +1,9 @@
 ---
 title: "The Viper's Jaw"
-revid: 38470
+revid: 53017
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World, Etrean Luminant]
 ---
 
 # The Viper's Jaw
@@ -36,6 +36,10 @@ The entrance can be found just past the Bandit village or underneath [The Birdca
 -   Knives of Eylis along with a Navaen Hostage
 -   [Hobo](Hobo.md)
 -   Pathfinder Camp
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 

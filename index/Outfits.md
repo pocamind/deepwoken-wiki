@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 52295
+revid: 52916
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -73,11 +73,8 @@ _Deepwoken_ currently has 28 and more speculated/unconfirmed armors that are som
 
 ## Trivia
 
--   The only [Deep Gem](Mantra_Modifiers.md) that is not used in any armor set is the Insignia Gem and Wayward Gem.
+-   The only [Deep Gem](Mantra_Modifiers.md) that is not used in any armor set is the Insignia Gem.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
--   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
--   **Pathfinder Journeyman** is also bugged and will give you a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) instead.
--   There is a secret beginner armor called 'RagoozaRequest7' and its schematic name is 'Pathfinder Sorcerer.' (Schematic unconfirmed).
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based on the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).

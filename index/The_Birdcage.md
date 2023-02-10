@@ -1,9 +1,9 @@
 ---
 title: The Birdcage
-revid: 18175
+revid: 52980
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World, Etrean Luminant]
 ---
 
 # The Birdcage
@@ -25,3 +25,7 @@ Inside the Birdcage, there are four firepits that can only be lit with a Soul He
 -   Failing to light these in a character order will fling your character and drain you of your Ether. The firepits will be reset.
 
 Lighting these firepits will allow you to enter the _Legionaire Cave_, where you can obtain [Intelligence Unbound](Attributes_Unbound.md).
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)

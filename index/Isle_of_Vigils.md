@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 51219
+revid: 52961
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -103,6 +103,10 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 ### Chipped Sword
 
 -   Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 

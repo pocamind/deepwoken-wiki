@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 52737
+revid: 52913
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, Layer 2]
@@ -14,7 +14,9 @@ _This is the Drowned God, for the boss of Layer 2 Floor 2, see [the Scion of Eth
 
 ## Description
 
-Little is known about Ethiron other than that they are a Drowned God. Diver expeditions into uncovering said shrines apparently led to discovering a way to get safely through Eternal Gale to the Third Layer.
+Ethiron is the Drowned God of wind and time. Their mere presence in the Second Layer leads to time being drawn into the layer, leading to many space-time distortions within. This is the reason for [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) being alive in different runs even after you beat him.
+
+Ethiron themselves have the ability to turn their eye onto something and destroy it, hence the title Eye of Calamity. They are the reason that New Kyrsa is in the state that is in. Ethiron simply _looked_ at New Kyrsa, his puppet awoke, and the rest is history.
 
 [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) describes [New Kyrsa](Second_Layer/New_Kyrsa.md) as like a bedchamber to Ethiron.
 

@@ -1,9 +1,9 @@
 ---
 title: The Etrean Sea
-revid: 50554
+revid: 52983
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean Luminant, Locations]
+categories: [Etrean Luminant, Locations, World]
 ---
 
 # The Etrean Sea
@@ -33,3 +33,7 @@ The Etrean Sea is a region that all players who create their character will spaw
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Mudskipper.md)
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)
