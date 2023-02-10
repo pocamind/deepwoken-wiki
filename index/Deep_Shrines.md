@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 52036
+revid: 53074
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Knowledge]
@@ -124,6 +124,26 @@ _Pros/Cons_
 
 -   Innate (racial) attribute points do not count when redistributing your points.
 -   The Shrine of Order can be extremely useful to obtain certain advanced talents that require a lot of points, which normally would make a build useless, such as having 100 Fortitude and 100 Willpower (Brick wall). Having that without the Shrine of Order will only leave you 127 points for anything else.
+
+  
+**Shrine of \[Placeholder\]**
+
+Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the resonance door
+
+Currently you cannot interact with the shrine
+
+Saramaed Deep Shrine
+
+_Benefits/Penalties_
+
+-   **(BENEFIT)** ???
+-   **(PENALTY)** ???
+
+_Pros/Cons_
+
+  
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 50326
+revid: 53055
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Face]
@@ -24,4 +24,4 @@ The Blindfolds are accessories found in [Upper](Upper_Erisia.md) and [Lower](Low
 -   The Blindfold, Crimson Blindfold and Black Blindfold are all the same item, just with different appearances.
 
 -   The [Blinded](Talents.md) talent originally made the screen completely black so the user could not see anything other than chat messages and GUI
-    -   Many players would troll freshies by tricking them to put it on, because it cannot be taken off without a campfire, and it's very difficult to find a campfire when you cant see anything around you
+    -   Many players would troll freshies by tricking them to put it on, because it cannot be taken off without a campfire, and it's very difficult to find a campfire when you can't see anything around you

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 50781
+revid: 53066
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -70,4 +70,4 @@ Mecha Gatling
 
 ## Trivia/Notes
 
--   Monster Mantras has somewhat of a familiarity to Blue Mages in the Final Fantasy Series; although Blue Mages are able to acquire Monster Spells through encounters, Deepwoken's Monster Mantras requires a monster part to be turned in.
+-   Monster Mantras have somewhat of a familiarity to Blue Mages in the Final Fantasy Series; although Blue Mages are able to acquire Monster Spells through encounters, Deepwoken's Monster Mantras requires a monster part to be turned in.

@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 50317
+revid: 53054
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -20,6 +20,4 @@ They have no set appearance, shapeshifting into whatever suits them. In the Ferr
 
 The Ministry seems to worship the Krulians in some form, considering how every member wields a [Krulian Knife](Krulian_Knife.md).
 
-## Known Krulians
-
-The only known Krulian NPC right now is The Ferryman. Many say that [Aelita](Aelita.md) is a Krulian, but she is actually a [Visionshaper](Oaths.md).
+The only known Krulian NPC right now is The Ferryman. Many believed that [Aelita](Aelita.md) is a Krulian, but she is most likely a [Visionshaper](Oaths.md).

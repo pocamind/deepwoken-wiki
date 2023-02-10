@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 48493
+revid: 53047
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons"]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
-| description | N/A |
+| description | “A blade said to be enruned with a passage of the song, it evokes the overwhelming heat of geothermal vents.” |
 
 | Hero Blade of Frost | |
 |---|---|
@@ -38,7 +38,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
-| description | N/A |
+| description | “A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes.” |
 
 | Hero Blade of Lightning | |
 |---|---|
@@ -54,7 +54,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, FIshing |
-| description | N/A |
+| description | “A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm.” |
 
 | Hero Blade of Wind | |
 |---|---|
@@ -70,7 +70,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
-| description | N/A |
+| description | “A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane.” |
 
 | Hero Blade of Shadow | |
 |---|---|
@@ -86,7 +86,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons"]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
-| description | N/A |
+| description | “A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows." |
 
 ## Description
 
