@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 52116
+revid: 53156
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -832,6 +832,7 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
+-   According to a dev the recent thundercall nerf was because there will be a new 3 star mantra and a thundercall rifle, yes you heard right, these will be so broken the entire element had to be nerfed.
 
   
 

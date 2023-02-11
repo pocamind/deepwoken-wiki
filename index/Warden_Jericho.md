@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 50755
+revid: 53229
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Lore]
 ---
 
 # Warden Jericho
@@ -22,5 +22,4 @@ At one point he was positioned in [The Tomb of the Nameless Warrior](Tomb_of_the
 
 ## Trivia
 
--   His position may be related to the Authority Warden, in which case he is likely overseeing a similar prison or stronghold.
-    -   If he had deployed Sibex to [Aratel Island](Aratel_Island.md), said stronghold is probably nearby as well.
+-   If he had deployed Sibex to [Aratel Island](Aratel_Island.md), said stronghold is probably nearby as well.

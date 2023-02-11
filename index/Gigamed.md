@@ -1,12 +1,16 @@
 ---
 title: Gigamed
-revid: 50770
+revid: 53158
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Gigamed
+
+“ Random bullshit, go! ”
+
+― King Gigamed throwing its own kids
 
 **Gigamed:**
 
@@ -29,7 +33,6 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
--   The King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time.
     
 
 **King Gigamed:**
@@ -46,10 +49,16 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 -   **Greater Stun Pulse** - Blue electric, stunning attack, presumably AOE. Can be blocked. Deals _**30 damage**_.
 -   **Static Discharge** - Purple AoE attack that knocks you back and stuns you for a short duration. Can be blocked, still knocks back.
 
-## Trivia
+  
 
--   **Can be Corrupted**
-    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
-        -   This mob is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
+### **Finisher**
+
+-   **Suck** - Floats over you and drives itself into your body, consuming you. This unfortunately is a very fast gripping animation, which is not to be underestimated.
+
+\==Trivia
+
+-   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
+    -   This mob is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack. A rifle also allows this as the ranged projectiles allow you to grip the gigameds safely for health.
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.
--   The corrupted versions are really just tanks, meaning you should have a shield with you when you are fighting one, to block its jellyfish summon
+-   The corrupted versions are really just tanks, meaning you should have a shield with you when you are fighting one, to block its jellyfish summon.
+-   The King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time.

@@ -1,11 +1,9 @@
 ---
 title: Bounty Hunter
-revid: 50379
+revid: 53123
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Armors, Items, Outfits]
-notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"Datamined\""
+categories: [Armors, Items, Outfits]
 ---
 
 # Bounty Hunter

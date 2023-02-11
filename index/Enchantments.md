@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53085
+revid: 53227
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -45,20 +45,20 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Blaze.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales off of your elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Chilled.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
   <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement. If the user has Crystallization, apply an ice crystal. Per-victim cooldown of 7 seconds.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Differed.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.1x damage.<br>
   Weapon deals damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
@@ -74,20 +74,20 @@ There are two variants that enchantments come in:
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:ELASTIC.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
   <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you(Doesn't work on bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GLUTTONY.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
   Especially effective in PVE, due to the power damage scaling</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:GRIM.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to 5 times, Grim will proc, which is signalled by red bubbles.<br>
@@ -95,7 +95,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:HEROISM.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
@@ -110,7 +110,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Nemesis.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
   <b>- If you do not have Ardour, the Nemesis critical is unblockable.<br>
@@ -119,7 +119,7 @@ There are two variants that enchantments come in:
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
-  <td><figure>File:OBFUSCATION.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Weapon gains 50% chip damage.<br>
   Weapon deals less posture damage.<br>
@@ -127,7 +127,7 @@ There are two variants that enchantments come in:
   <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Providence of thorns.png<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
   <font>Providence Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deals damage to the attacker.<br>
@@ -137,7 +137,7 @@ There are two variants that enchantments come in:
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
 <tr>
-  <td><figure>File:SEAR.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
   <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
@@ -164,7 +164,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Also boosts damage by 10%.<br>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Boosts damage by 10% in the rain.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 10%.</p>
   <p><br>
   </p></div></td>
@@ -193,13 +193,13 @@ There are two variants that enchantments come in:
   <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
 </tr>
 <tr>
-  <td><figure>File:VAMPIRISM.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Scion of Ethiron. Heals WAY less when proc on Chaser.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight rose particle effect.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Wild.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
   <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.</p></div></td>
@@ -218,7 +218,7 @@ There are two variants that enchantments come in:
   <td><b>Visual Effect</b></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gain 1.1x damage.<br>
   <br>
@@ -276,7 +276,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Cosmic.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Life Weave<div></div></font></center></td>
   <td><div><p>A super charged attack on proc (Punch) but also replenishes the opponent's Hunger by a small amount. Supposedly allows for life debuff/defense/swipe (steal/rob) abilities. Also has a move to the <a href="Hive_Construct.md">Hive Mech</a>'s Lifeweave Flourish that sprouts trees in the area around user at high rate, which either acts as attack or teleport in this case. Exclusive power belonging to the Hive Leader.<br>
   <b>yayafino Dev Spec</b><br>
@@ -284,7 +284,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon is blown out with shooting out exhausts of the colors red, yellow, and green.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Tainted Sorrow<div></div></font></center></td>
   <td><div><p>On hit, the critical attack is replaced with the ability to pull/fling the victim towards the user with a corresponding small pillar effect. Flourishing makes all subsequent attacks fling the target upward.<br>
   <b>Unobtainable (mods do not have access to this enchant)</b><br>
@@ -292,7 +292,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon has the effects of the Displacement and Wild enchants, combined with a purple-blue haze.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Newunstable.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
   <td><div><p>Variant 1: Each (LHT: 7, MED: 5, HVY: 3) M1 hits will proc a random enchant.<br>
   Variant 2: Same with Variant 1 but your weapon will have a random selected weapon animations. <b>Fist doesn't get affected by this variant</b><br>
@@ -304,96 +304,168 @@ There are two variants that enchantments come in:
 
 **Equipments:**
 
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Description</b></td>
-  <td><b>Visual Effect</b></td>
-</tr>
-<tr>
-  <td><figure>thumb<figcaption>thumb</figcaption></figure><center><br>
-  <font>Adhesive<div></div></font></center></td>
-  <td><div><p>On proc, pull the attacker toward you.</p></div></td>
-  <td><div>Equipment is covered in a purple haze.</div></td>
-</tr>
-<tr>
-  <td><figure>File:AllureEnchant.png<figcaption></figcaption></figure><center><br>
-  <font>Allure<div></div></font></center></td>
-  <td><div><p>On proc, apply Charm on the enemy. All charm related talent that the user have are applied.</p></div></td>
-  <td><div>Equipment releases some hearts, similar to the Charm effect.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Bounce.png<figcaption></figcaption></figure><center><br>
-  <font>Bounce<div></div></font></center></td>
-  <td><div><p>On proc, push the attacker away, making it harder to chain attacks.</p></div></td>
-  <td><div>Equipment is covered in black particle effects.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Displacement.png<figcaption></figcaption></figure><center><br>
-  <font>Displacement<div></div></font></center></td>
-  <td><div><p>On proc, grant a speed boost and hyperarmor.</p></div></td>
-  <td><div>Equipment is covered in a white, unstable looking particle effect.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Drowned.png<figcaption></figcaption></figure><center><br>
-  <font>Drowned<div></div></font></center></td>
-  <td><div><p>Drowned equipments grant, on top of their innate stats and talents:<br>
-  <br>
-  10 Health<br>
-  10 Ether<br>
-  5% Monster Damage<br>
-  5% Monster Armor</p>
-  <p>These stats do not consume stat rolls for equipment.</p></div></td>
-  <td><div>Equipment is covered in a near invisible particle effect.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Screenshot 1.png<figcaption></figcaption></figure><center><br>
-  <font>Entanglement<div></div></font></center></td>
-  <td><div><p>On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.</p></div></td>
-  <td><div>Equipment is covered in small particles that cycle between green, cyan and yellow.</div></td>
-</tr>
-<tr>
-  <td><figure>File:MultiplicityEnchant.png<figcaption></figcaption></figure><center><br>
-  <font>Multiplicity<div></div></font></center></td>
-  <td><div><p>On proc, recover hunger, thirst or blood. Also can negate and heal damage or give damage reduction on proc. (proof <a href="https://www.youtube.com/watch?v=tjP4vsDejH0&amp;ab_channel=Nogo">https://www.youtube.com/watch?v=tjP4vsDejH0&amp;ab_channel=Nogo</a>)<br>
-  </p>
-  <p>Does not proc against NPCs.</p></div></td>
-  <td><div>Equipment is covered in white electricity.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Stench.png<figcaption></figcaption></figure><center><br>
-  <font>Stench<div></div></font></center></td>
-  <td><div>On proc, release a cloud of gas that deals damage to nearby enemies who stand in it.</div></td>
-  <td><div>Equipment is covered in a green mist.</div></td>
-</tr>
-<tr>
-  <td><figure>File:Viscositydoesnthaveavisualeffect.png<figcaption></figcaption></figure><center><br>
-  <font>Viscocity<div></div></font></center></td>
-  <td><div><p>Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.<br>
-  The user cannot be knocked or executed unless they are hit while at 1% HP.<br>
-  <b>Disabled if using Curse of the No Life King.</b> <b>Disabled in Arena</b></p></div></td>
-  <td><div>None</div></td>
-</tr>
-<tr>
-  <td><figure>File:Ferocity.png<figcaption></figcaption></figure><center><br>
-  <font>Ferocity<div></div></font></center></td>
-  <td><div>On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.<br>
-  </div></td>
-  <td><div>Red blood droplets surrounding the equipment.</div></td>
-</tr>
-</tbody>
-</table>
+| **Name** | **Description** | **Visual Effect** |
+| --- | --- | --- |
+| 
+thumb
+
+  
+Adhesive
+
+ | 
+
+On proc, pull the attacker toward you.
+
+ | 
+
+Equipment is covered in a purple haze.
+
+ |
+| 
+
+  
+Allure
+
+ | 
+
+On proc, apply Charm on the enemy. All charm related talent that the user have are applied.
+
+ | 
+
+Equipment releases some hearts, similar to the Charm effect.
+
+ |
+| 
+
+  
+Bounce
+
+ | 
+
+On proc, push the attacker away, making it harder to chain attacks.
+
+ | 
+
+Equipment is covered in black particle effects.
+
+ |
+| 
+
+  
+Displacement
+
+ | 
+
+On proc, grant a speed boost and hyperarmor.
+
+ | 
+
+Equipment is covered in a white, unstable looking particle effect.
+
+ |
+| 
+
+  
+Drowned
+
+ | 
+
+Drowned equipments grant, on top of their innate stats and talents:  
+  
+10 Health  
+10 Ether  
+5% Monster Damage  
+5% Monster Armor
+
+These stats do not consume stat rolls for equipment.
+
+ | 
+
+Equipment is covered in a near invisible particle effect.
+
+ |
+| 
+
+  
+Entanglement
+
+ | 
+
+On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
+
+ | 
+
+Equipment is covered in small particles that cycle between green, cyan and yellow.
+
+ |
+| 
+
+  
+Multiplicity
+
+ | 
+
+On proc, recover hunger, thirst or blood. Also can negate and heal damage or give damage reduction on proc. (proof [https://www.youtube.com/watch?v=tjP4vsDejH0&ab\_channel=Nogo](https://www.youtube.com/watch?v=tjP4vsDejH0&ab_channel=Nogo))  
+
+Does not proc against NPCs.
+
+ | 
+
+Equipment is covered in white electricity.
+
+ |
+| 
+
+  
+Stench
+
+ | 
+
+On proc, release a cloud of gas that deals damage to nearby enemies who stand in it.
+
+ | 
+
+Equipment is covered in a green mist.
+
+ |
+| 
+
+  
+Viscocity
+
+ | 
+
+Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
+The user cannot be knocked or executed unless they are hit while at 1% HP.  
+**Disabled if using Curse of the No Life King.** **Disabled in Arena**
+
+ | 
+
+None
+
+ |
+| 
+
+  
+Ferocity
+
+ | 
+
+On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.  
+
+ | 
+
+Red blood droplets surrounding the equipment.
+
+ |
 
 **Removed:**
 
 | **Name** | **Description** | **Visual Effect** |
 | --- | --- | --- |
 | 
-File:Auto-repair.png
-
   
-Auto Repair
+Auto-Repair
 
  | 
 
@@ -453,7 +525,6 @@ Currently a placeholder.
 Static flaming purple.
 
  |
-|  |
 
 ## Changelogs
 

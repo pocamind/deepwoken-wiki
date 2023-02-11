@@ -1,9 +1,9 @@
 ---
 title: Eastern Nomad Leader
-revid: 51745
+revid: 53173
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs]
+categories: [Enemies]
 ---
 
 # Eastern Nomad Leader

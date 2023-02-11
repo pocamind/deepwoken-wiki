@@ -1,9 +1,9 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 51840
+revid: 53168
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, NPCs]
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Etrean Royal Guard (Enemy)
@@ -36,7 +36,6 @@ An Etrean Royal Guard executes it's opponent:
 ## Tips
 
 -   You can practice by fighting the [Blade Temple Guards](Blade_Temple_Guard.md) on [Isle of Vigils](Isle_of_Vigils.md) since they are almost the exact same NPC but way weaker.
--   dont even try fight them, just knock them off the mountain there is so many of them bruh and they tank bare stuff
 
 ## Trivia
 

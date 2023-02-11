@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 51419
+revid: 53097
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -69,7 +69,7 @@ free drip
 
   
 
-  
+yo eyes can look ugly asf when getting oathes like contrator or jetstriker  
   
 
   

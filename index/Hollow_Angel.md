@@ -1,16 +1,16 @@
 ---
 title: Hollow Angel
-revid: 52760
+revid: 53096
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments, Enemies]
+categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
 ---
 
 # Hollow Angel
 
-“ The Ultimate Tag Team Duo, Attack together! ”
+“ Want to meet God? C'mon!!! Let's go together! ”
 
-― Angels in Trial of One when you try to fight one of them at a time
+― Angels relocating freshies to the afterlife
 
 **Lesser:**
 

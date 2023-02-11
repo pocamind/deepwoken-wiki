@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 53070
+revid: 53106
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -63,7 +63,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
 -   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound on equip.
 
-## Types of Weapons
+### Types of Weapons
 
 **Light Weapons:**
 
@@ -654,7 +654,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="https://deepwoken.fandom.com/wiki/Hallowscleave"><font>Hallowscleave</font></a></td>
   <td>75 MED</td>
   <td>19</td>
-  <td>25%</td>
+  <td>35%</td>
   <td>N/A</td>
   <td>MED: 7</td>
   <td>6</td>

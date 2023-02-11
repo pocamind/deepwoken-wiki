@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 51659
+revid: 53231
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -16,7 +16,7 @@ notices:
 
   
 
-## **Intoduction**
+## **Description**
 
 Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [Humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethirion as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethirion from such threats with pure loyalty.
 
@@ -174,6 +174,6 @@ A Kyrsgarde Brute executes it's opponent:
 -   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPC's in layer 2 note how when rumbling was heard from the "roof" (Chaser) they started patrolling.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City ontop of Ethirons Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway. Keep in mind this is information was from an Outsider of the Kyrsgarde
 -   The Kyrsgarde in Firfire are not hostile and actually worship Ethiron and also pay the player no harm, they also seemingly only consist of the Kyrsan Lancers guys. They are actually quite funny as when you pick the dialogue option of giving them a dumb name, they will albeit no hard feelings retaliate by when interacting the leader, they will give you a name similiar to themselves except with if I'm correct one of the words consisting of "Twinkletoes".
--   Technically when you think about it they arent monsters atleast to them as they are their own species and so are we, we call them monsters, they call us Fringewalkers, or frintwalkers(?).
--   Have quite a strong resemblance to the infamous Bone Keeper, its possible the Bone Keeper is possibly a Kyrsan gone rogue, was affected by the parasites, have lost their mind, most likely changed from a drowned gods influence, a mutation, you get the deal theres alotta theories, its possible they are Kyrsan brutes by how they are built and how they make a noise everytime they walk, albeit seem a bit shorter.
+-   Technically when you think about it they aren't monsters atleast to them as they are their own species and so are we, we call them monsters, they call us Fringewalkers, or frintwalkers(?).
+-   Have quite a strong resemblance to the infamous Bone Keeper, its possible the Bone Keeper is possibly a Kyrsan gone rogue, was affected by the parasites, have lost their mind, most likely changed from a drowned gods influence, a mutation, you get the deal there's alotta theories, its possible they are Kyrsan brutes by how they are built and how they make a noise everytime they walk, albeit seem a bit shorter.
 -   Ironically, despite the fact that the crawlers crawl around the floor, in their idle and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from DOORS.
