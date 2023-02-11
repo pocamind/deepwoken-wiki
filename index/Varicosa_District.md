@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 43567
+revid: 53352
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -21,6 +21,14 @@ It's sometimes mused that the greed, excess and petty politics of those in this 
 ## Overview
 
 Section of The City of the Drowned distinguished by its rocky yellow-topped buildings. Here, you can find the Shadow trainer and common places to barrel-up to enter the Cathedral of Interstice from above.
+
+## Potential Enemies
+
+-   [Crustaceous Rex](Crustaceous_Rex.md)
+-   [Alpha Megalodaunt](Megalodaunt.md)
+-   [King Gigamed](Gigamed.md)
+-   [Lionfish](Lionfish.md)
+-   [Megalodaunt](Megalodaunt.md)
 
 ## Trivia/Notes
 

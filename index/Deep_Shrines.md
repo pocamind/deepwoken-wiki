@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines
-revid: 53074
+revid: 53371
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Knowledge]
+categories: [Pages with broken file links, NPCs, Mechanics]
 ---
 
 # Deep Shrines
@@ -95,7 +95,8 @@ _Pros/Cons_
 
 -   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20.
 -   Advanced talents can be obtained through this if you have all the required cards, and if you trade in a rare card, you will get choices of only rare cards(might be less than 3 if less than 3 available from attributes), and if you trade in a common card, you will only get common card choices.
--   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card
+-   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card.
+-   Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
 
 ### **Shrine of Order**
 

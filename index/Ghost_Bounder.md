@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 51974
+revid: 53360
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -8,7 +8,7 @@ categories: [Random Encounters, Layer 2, Floor 1, Monsters]
 
 # Ghost Bounder
 
-Template:Creature Info Box v2 AKA Brandon.
+Template:Creature Info Box v2 _Also known as Brandon._
 
 ## Overview
 

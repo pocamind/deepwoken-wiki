@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 51793
+revid: 53372
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -20,10 +20,6 @@ Currently there is no remotely functional method to obtain a true Regalias, nor 
 
   
 Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md) and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro the player on sight.
-
-Note that Mute carries over to your next slot upon wiping, BUT there is an unknown time limit until it will not be transferred. It is generally safe to restart if you fail the [Trial of One](Trial_of_One.md) with Animal King, but older/more progressed characters may not inherit the Regalia.
-
-It also may not be a timer, but rather a power limit, which can be roughly estimated as power 1-5. (side note, I wiped as a power 8 with animal king and kept it on the next character, and i've failed trial multiple times before so there's probably no time limit) ((Someone who's wiped at power 19 here, I kept animal king and I had at least 10 hours on that slot)) (((Level 20 here with a PvE brick wall grind build. I had the build for like 4 weeks and then I wiped in the depths, the next life still had animal king. WAY before that on the same slot I had a life that had animal king on it and never used it, I then wiped that slot and still had it, That lifes age was 86. I truly believe it does not go away.)))
 
 ## Sub-Regalias/Semi-Regalias
 

@@ -1,9 +1,8 @@
 ---
 title: Family
-revid: 48625
+revid: 53344
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Races]
 ---
 
 # Family

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53299
+revid: 53341
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -401,6 +401,20 @@ Equipment is covered in small particles that cycle between green, cyan and yello
 | 
 
   
+Ferocity
+
+ | 
+
+On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.  
+
+ | 
+
+Red blood droplets surrounding the equipment.
+
+ |
+| 
+
+  
 Multiplicity
 
  | 
@@ -442,20 +456,6 @@ The user cannot be knocked or executed unless they are hit while at 1% HP.
  | 
 
 None
-
- |
-| 
-
-  
-Ferocity
-
- | 
-
-On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.  
-
- | 
-
-Red blood droplets surrounding the equipment.
 
  |
 
