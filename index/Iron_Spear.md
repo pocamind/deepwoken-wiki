@@ -1,9 +1,9 @@
 ---
 title: Iron Spear
-revid: 52779
+revid: 53303
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Spears, Items]
 ---
 
 # Iron Spear

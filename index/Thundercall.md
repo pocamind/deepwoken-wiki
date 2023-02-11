@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 53156
+revid: 53280
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Magic, Spells, Mantras]
+categories: [Pages with broken file links, Magic, Spells, Mantras, Attunement]
 ---
 
 # Thundercall
@@ -134,6 +134,8 @@ Cooldown:
 Properties:
 
 Modifiers:
+
+Aeon Logstone
 
  |
 |  | 

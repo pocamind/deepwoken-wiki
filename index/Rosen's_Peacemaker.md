@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 52905
+revid: 53310
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -19,14 +19,14 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | endlag | N/A |
 | penetration | N/A |
 | chip damage | N/A |
-| special effect | Shoots a ranged projectile, then swings the |
+| special effect | Shoots a ranged projectile, then swings the rifle |
 | stances | 2 Handed |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Chest, The Depths, Deep Widow Chest, Layer 2, Miners landing. |
+| obtainment | Duke Chest, The Depths, Deep Widow Chest, Layer 2, Miner's Landing. |
 | description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value an the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 “ Just as the founding fathers intended. ”

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 46956
+revid: 53312
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -95,7 +95,7 @@ In [Upper Erisia](Upper_Erisia.md), the player can encounter two villager NPCs i
 
 #### **Raid on Erisor's Church**
 
-A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. As the villagers do not trust Alastir, you cannot turn them in for a chest.
+A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. As the villagers do not trust [Alastir](Alastir.md), you cannot turn them in for a chest.
 
 #### **Brainsucker Swarm**
 
@@ -113,7 +113,7 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 
 #### **Songseeker**
 
-In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
 **Weapons:** Fists along with a random attunement from the four above.
 
@@ -125,7 +125,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Etrean Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Legion Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Summer Company Guards vs Bandits ([Summer Isle](Summer_Isle.md))
--   Summer Company Guards vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md))
+-   Summer Company Guards vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
 -   Etrean Guards vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
 -   Etrean Footsoldiers vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
@@ -138,7 +138,7 @@ a golden warrior bouncer in the neutral position
 
 #### [Golden Warrior](Golden_Warrior.md)
 
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses Galebreath. Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses [Galebreathe](Galebreathe.md). Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
 
 A hobo in the neutral position
 
@@ -150,9 +150,9 @@ The Hobo can be found across Erisia and will spawn three chests around him. If y
 
 If you open one of their chests don't have to take the loot, they will yell at you and start to become hostile. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned.
 
-#### **Pathfinders**
+#### Teachers
 
-Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
+Rarely, the player may find 3 [Pathfinders](Teacher.md) sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
 
 #### **Erisia Merchant**
 
@@ -176,9 +176,9 @@ One near the teleporter to [The Duke's Manor](Duke_Ishamon_Erisia.md), on a ledg
 
 One in the [Hidden Village](The_Hidden_Village.md).
 
-#### **Megalodaunt on a ship**
+#### **Megalodaunt On a Ship**
 
-A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel seas](The_Aratel_Sea.md), feasting on a Etrean naval guard corpse, Upon killing the Monster, A Chest will spawn in the ship with mid tier loot.
+A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an Etrean Naval Guard. Upon killing it, a chest will spawn in the ship with mid tier loot.
 
 #### **Traveling Merchant**
 

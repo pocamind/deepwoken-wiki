@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53227
+revid: 53299
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -103,7 +103,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Metalic.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
   Works on NPCs and Monsters.</p></div></td>
@@ -154,7 +154,7 @@ There are two variants that enchantments come in:
   <td><div></div></td>
 </tr>
 <tr>
-  <td><figure>File:STONE.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
@@ -245,7 +245,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon does not appear when not equipped (May need research). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
-  <td><figure>File:YUNSHUL.png<figcaption></figcaption></figure><center><br>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
   Deal bonus damage in PVE.<br>
@@ -573,6 +573,7 @@ File:Vamparism shield.png
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
     -   (???) - Deferred
--   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.  
+-   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
+-   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.  
     
     Old visual of the "Sear" enchant before the update

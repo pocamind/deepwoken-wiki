@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53087
+revid: 53320
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1691,7 +1691,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Vow of Mastery
 
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
-    -   Prerequisites: 30 Charisma, Vow of Mastery
+    -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
 
 -   Command: Leech \[Common Talent\] - Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
@@ -1707,7 +1707,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediatly
 
 -   Command: Run \[Common Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
-    -   Prerequisites: 25 Charisma, Vow of Mastery
+    -   Prerequisites: 40 Charisma, Vow of Mastery
     -   Effect: Make your subject run very fast, they can't stop running until the duration of effect ends.
 
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 52918
+revid: 53311
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,9 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently nine obtainable Oaths in _Deepwoken_. \[See Below\]
+There are currently nine obtainable Oaths in _Deepwoken._
+
+.
 
 ## Pathfinder (No Oath)
 
@@ -344,9 +346,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ These stars above us more than just constellations. You feel as though you can feel the entire world. All at once. Everywhere. ”
+“ Mugetsu... ”
 
-― The Player as they drink the Holy Ichor
+― Tiran sending a Capra to the shadow realm via ascended fire blade
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 53090
+revid: 53308
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -91,7 +91,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am a master of the spear. **(Lancer)**_
 -   _I am a master of all weapons. **(Weapon Master)**_
 -   _I fight to preserve my way. **(Justicar)**_
--   _I do not need a weapon. **(???)**_
+-   _I do not need a weapon. **(Brawler)**_
 -   _I always shoot first. **(Gunslinger)**_
 
 ### Miscellaneous

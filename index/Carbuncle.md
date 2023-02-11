@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 52311
+revid: 53245
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -8,9 +8,9 @@ categories: [Monsters, Layer 2, Floor 1]
 
 # Carbuncle
 
-“ Let me see that tempo! ”
+“ Oh, look, free armor! ”
 
-― A group of Carbuncles after making a player waste all their tempo.
+― A bloodiron spirit Canor with a Relic Axe about to be sent to The Depths
 
 Template:Creature Info Box v2
 

@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 48481
+revid: 53302
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -65,3 +65,4 @@ Death Causes listed by the game
 -   Your own Foolishness - Talking shit to [Akira](Akira.md) without 100 Charisma.
 -   An insidious parasite sewn by the Gale - Dying to parasites in verse 2
 -   The Eternal Gale - Dying to Ethiron in verse 2
+-   Space-time Collapse - Dying to the white Orbs that spawn at the end of a Floor 2 run.

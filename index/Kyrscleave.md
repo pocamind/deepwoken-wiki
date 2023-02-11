@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 51153
+revid: 53318
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
--   The Kyrscleave is a greatsword made of bones, and has damage to rival the [Evanspear Handaxe](Evanspear_Greataxe.md) for Greatswords. It shares the same critical attack as the [Crescent Cleaver](Crescent_Cleaver.md).
+-   The Kyrscleave is a [Greatsword](Weapons.md) made of bones, and has damage to rival the [Evanspear Handaxe](Evanspear_Greataxe.md) for Greatswords. It shares the same critical attack as the [Crescent Cleaver](Crescent_Cleaver.md).
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: "Attunement-less"
-revid: 53086
+revid: 53297
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Attunement]
+categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
 ---
 
 # Attunement-less
