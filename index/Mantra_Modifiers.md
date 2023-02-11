@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 52820
+revid: 53321
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -16,7 +16,7 @@ Heavily modified mantras will require [Note](Notes.md) offerings to be made. To 
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
 
-Keep in mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible. A spreadsheet for Mantras and their compatible Mantra Modifiers can be found [Here.](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0)
+Keep in mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible. A spreadsheet for Mantras and their compatible Mantra Modifiers can be found [here.](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0)
 
 **Regular:**
 

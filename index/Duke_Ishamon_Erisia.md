@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 52702
+revid: 53322
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -35,7 +35,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 -   He laughs afterward when something strikes his counter.
 
- | ◯ | N/A | N/A | (★★☆) |
+ | ◯ | N/A | N/A | (★★★) |
 | **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.

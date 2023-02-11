@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 52166
+revid: 53328
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Boss]
@@ -52,7 +52,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their ??? body, ??? eyes and astral enchant sword, the Astral Knights are the variant encountered through a developer spawning it in. They are ??? weaker than their Blizzard counterpart, featuring a lot ??? HP.
+Recognizable by their grey body, white eyes and astral enchant sword, the Astral Knights are a variant of the stone knight only encountered through a developer spawning it in. Their HP is unkown but is presumed to be far higher than the other two variants.
 
 ## **Attacks**
 

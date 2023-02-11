@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 36422
+revid: 53329
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -24,19 +24,18 @@ File:Bluster Rift.png
 
 Bluster Rift
 
-Bluster Rift is a location in _Deepwoken_.. It's basically the same as star swept valley but hive guards spawn fighting Etris soldiers. You can also get in through fort merit but I didn't look and see. The rivers that flow in it will pull you downstream, so I wouldn't go falling in any.
+The Bluster Rift is a location in _Deepwoken_. It is almost identical to the Starswept Valley.. The rivers that flow here will pull you downstream, making it quite difficult to traverse.
 
 ## Potential Enemies
 
 -   [King Thresher](Thresher.md#king-thresher)
 -   [Thresher](Thresher.md#king-thresher)
 -   [Hive Construct](Hive_Construct.md)
--   [Deep Widow](Deep_Widow.md)
 -   [Desert Knight](Stone_Knight.md)
 -   Etrean Footsoldier
 -   [Hive Guard](Hive_Guard.md)
 -   [Legion Captain](Legion_Captain.md)
--   [Legion Javelin Captain](Legion_Sniper.md)
+-   [Legion Sniper](Legion_Sniper.md)
 
 ## Missions
 
