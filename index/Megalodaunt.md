@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 53470
+revid: 53509
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -170,7 +170,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), [Aratel Island](Aratel_Island.md) and upper Minityrsa inside of the voidzone. They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
+A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), the [Starswept Valley](The_Starswept_Valley.md), [Aratel Island](Aratel_Island.md) and upper [Minityrsa](Minityrsa.md) inside of the [voidzone](Voidzones.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
 
 ## **Attacks**
 

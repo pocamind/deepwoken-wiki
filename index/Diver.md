@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 51871
+revid: 53510
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -10,7 +10,7 @@ notices:
 
 # Diver
 
-**Diver Apprentices:**
+**Apprentice:**
 
 Template:EnemyInfobox1.0
 
@@ -53,16 +53,12 @@ Critical
 
 Jolt Grab
 
-or  
+ | Teleports to the nearest opponent before sending out a shocking AoE. | ? | ◯ | (★★☆) |
+| 
+
 Gale Lunge
 
-  
-
- | \[[Thundercall](Thundercall.md)\] Teleports to the nearest opponent before sending out a shocking AoE.
-
-\[[Galebreathe](Galebreathe.md)\] User lunges forward with their blade coated in wind.
-
- | ◯ | ◯ | (★★☆) |
+ | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
@@ -84,7 +80,7 @@ A Diver executes it's opponent after knocking them:
 -   Despite being completely identical to [apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.
     
 
-**Diver Journeymen:**
+**Journeymen:**
 
 Template:EnemyInfobox1.0
 
@@ -96,31 +92,81 @@ They seem to be able to use up to 4 different Attunements at a time.
 
 ## Moveset
 
-A Journeymen Diver's arsenal consists of:
+A Journeymen Diver's arsenal consists of either a [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md), [Forgotten Gladius](Forgotten_Gladius.md), [Acheron's Warspear](<Acheron's_Warspear.md>) or [Silver Dagger](Silver_Dagger.md) along with either the [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | \[Greataxe\] Raises weapon before firmly slamming it down into the ground.
-\[Sword\] Begins a windup before thrusting their blade forward.
+| 
+Assault
 
-\[Spear\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands
+ | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
+| 
+
+Critical
+
+ | 
+
+\[[Markor's Inheritor](<Markor's_Inheritor.md>)\] Raises right leg before firmly slamming it down into the ground below.
+
+\[[Crescent Cleaver](Crescent_Cleaver.md)\] Enters a stance before dashing forward, impaling their opponent and slamming them down to the ground.
+
+\[[Forgotten Gladius](Forgotten_Gladius.md)\] Performs a short windup before thrusting their blade forward.
+
+\[[Acheron's Warspear](<Acheron's_Warspear.md>)\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands.
+
+\[[Silver Dagger](Silver_Dagger.md)\] Performs a short windup before unleashing a quick flurry of slashes.
 
  | ◯ | ✗ | (★★☆) |
-| Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ? | (★★☆) |
-| Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
-| Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
-| Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
+| 
+
+Fire Blade
+
+ | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Daggers
+
+ | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★★) |
+| 
+
+Jolt Grab
+
+ | Teleports to the nearest opponent before sending out a shocking AoE. | ◯ | ? | (★★☆) |
+| 
+
+Lightning Stream
+
+ | User grapples onto an opponent and pulls them in. | ◯ | ◯ | (★★☆) |
+| 
+
+Gale Lunge
+
+ | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 
 ### Boons:
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+-   Mantra Modification - A Journeyman Diver's "Jolt Grab" is modified with a Magnet Spark.
+
+## Finisher
+
+A Diver executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | 
+\[[Markor's Inheritor](<Markor's_Inheritor.md>)\] & [Crescent Cleaver](Crescent_Cleaver.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
+
+\[[Forgotten Gladius](Forgotten_Gladius.md)\] & [Silver Dagger](Silver_Dagger.md)\] Pins down opponent before slicing their throat.
+
+\[[Acheron's Warspear](<Acheron's_Warspear.md>)\] Pins down opponent before impaling the opponent's chest with their spear.
+
+ |
 
 ## Tips
 
--   Maybe don't try to fight at castle light.
--   Don't try to fight them. They will jump you, and they have little to no cooldown on mantras.
+-   Don't fight at castle light.
+-   Don't pick a with fight them. They will jump you and have little to no cooldown on mantras.
 
 ## Trivia
 
@@ -144,28 +190,24 @@ Divers are known to be Hybrids of Attunements, even the infamous **Akira** follo
 
 ## Moveset
 
-An Apprentice Diver's arsenal consists of either a [Markor's Inheritor](<Markor's_Inheritor.md>), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Markor's Inheritor](<Markor's_Inheritor.md>) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
+An Apprentice Diver's arsenal consists of either a [Markor's Inheritor](<Markor's_Inheritor.md>) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | 
 Assault
 
- | \[[Markor's Inheritor](<Markor's_Inheritor.md>) & [Markor's Inheritor](<Markor's_Inheritor.md>) Firmly swings blade at opponent before finishing up the combo by kicking them.
-
-\[[Markor's Inheritor](<Markor's_Inheritor.md>) Swiftly swings dagger at opponent before finishing up the combo by kicking them.
-
- | ◯ | ◯ | (★☆☆) |
+ | \[[Markor's Inheritor](<Markor's_Inheritor.md>)\] Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | 
 
 Critical
 
- | \[[Markor's Inheritor](<Markor's_Inheritor.md>) Performs a windup before thrusting blade forward.
+ | \[[Markor's Inheritor](<Markor's_Inheritor.md>)\] Raises right leg before firmly slamming it down into the ground below. | ◯ | ✗ | (★★☆) |
+| 
 
-\[[Markor's Inheritor](<Markor's_Inheritor.md>) Raises axe before slamming it down to the ground.
+Gale Lunge
 
- |
-| Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+ | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 

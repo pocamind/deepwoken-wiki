@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 53433
+revid: 53544
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -22,7 +22,7 @@ He is also able to spawn horseshoe crabs (like the ones in the [Karliah](Karliah
 
 Horseshoe crabs killing [Karliah](Karliah.md)
 
-Arch\_Mage possesses a teleportation ability which spawns chains around him when he disappears. Nothing else is known about this ability currently.
+Arch\_Mage possesses a teleportation ability which spawns chains around him before he disappears. He can also use this to teleport others. Nothing else is known about this ability currently.
 
 ### Melonbeard (Zastra, Prince of the Moon)
 
@@ -131,3 +131,7 @@ Hive Leader (yayafino): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://ww
 Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)
 
 Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20g?t=566)
+
+## Trivia
+
+-   yayafino's spec was the original version of the Dawnwalker Oath.

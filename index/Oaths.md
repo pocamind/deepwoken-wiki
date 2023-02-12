@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53481
+revid: 53540
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -56,8 +56,6 @@ categories: [Oaths, Character, Talents, Mechanics]
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
 There are currently nine obtainable Oaths in _Deepwoken._
-
-.
 
 ## Pathfinder (No Oath)
 
@@ -635,3 +633,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Jetstriker and Dawnwalker turn your eyes white, regardless of your race or variant.
 -   You can sacrifice yourself to get Linkstrider.
+-   Dawnwalker was created by developer yayafino as a [modspec of sorts](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).

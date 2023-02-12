@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 53312
+revid: 53508
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -121,16 +121,16 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 Groups of NPCs from different factions will spawn and attack each other. Helping a side will usually reward you with their respective reputation, though it may be bugged. Some of these events may include but are not limited to:
 
--   Etrean Footsoldiers vs Authority Footsoldiers ([Erisia](Erisia.md))
--   Etrean Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
--   Legion Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
--   Summer Company Guards vs Bandits ([Summer Isle](Summer_Isle.md))
--   Summer Company Guards vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
--   Eastern Tribe Nomad & Eastern Tribal Leader vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   Etrean Guards vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
--   Etrean Footsoldiers vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
--   Legion Captain vs Authority Captain ([Starswept Valley](The_Starswept_Valley.md))
--   Hive Construct vs Authority Captain ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Footsoldiers Etreaiconfaction vs Authority Footsoldiers Authorityiconfaction ([Erisia](Erisia.md))
+-   Etrean Guards Etreaiconfaction vs Authority Footsoldiers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   Legion Soldiers vs Authority Footsoldiers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   Summer Company Guards Summericonfaction vs Bandits ([Summer Isle](Summer_Isle.md))
+-   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
+-   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
+-   Etrean Guards Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Footsoldiers Etreaiconfaction vs Hive Guards Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
 a golden warrior bouncer in the neutral position
 
@@ -165,6 +165,10 @@ A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) o
 #### **Megalodaunt vs Red Megalodaunt**
 
 Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x it's normal HP and being able to rain fire swords.
+
+#### **Alpha Megalodaunt vs Desert Knight**
+
+Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this event spawns an [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt) and a [Desert Knight](Stone_Knight.md#desert-knight), making them fight. If left by themselves, the Desert Knight will almost always win, due to it having almost double the health of an Alpha Megalodaunt.
 
 #### **Feasting Megalodaunt**
 

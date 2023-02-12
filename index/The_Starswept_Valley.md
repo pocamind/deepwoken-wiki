@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 43826
+revid: 53507
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -50,9 +50,9 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Etrea](Etrea.md) vs [The Hive](The_Hive.md)
--   [Legion Captain](Legion_Captain.md) vs [Authority Captain](Authority_Captain.md)
--   [Hive Construct](Hive_Construct.md) vs [Authority Captain](Authority_Captain.md)
+-   Etrean Footsoldiers Etreaiconfaction vs [Hive Guards](Hive_Guard.md) Hiveiconfaction
+-   [Legion Captain](Legion_Captain.md) vs [Authority Captain](Authority_Captain.md) Authorityiconfaction
+-   [Hive Construct](Hive_Construct.md) Hiveiconfaction vs [Authority Captain](Authority_Captain.md) Authorityiconfaction
 -   [Desert Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)/[Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
 -   [Legion Sniper](Legion_Sniper.md)
 
@@ -66,7 +66,7 @@ Events that spawn in Starswept Valley that do not involve combat. For more info,
 
 The weather for Starswept Valley.
 
--   Sandstorm (Vision is obscured majorly while active)
+-   Sandstorm (Vision is obscured majorly while active, puts out campfires)
 
 ## Loot Table
 
@@ -150,4 +150,4 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
 -   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.
--   Be wary of [Stone Knights](Stone_Knight.md) or King [Threshers](Thresher.md) as they can spawn randomly without warning.
+-   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](Thresher.md#king-thresher) as they can spawn randomly without warning.

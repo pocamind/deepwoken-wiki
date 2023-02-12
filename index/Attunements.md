@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 53294
+revid: 53527
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -39,7 +39,7 @@ File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
 
 You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
 
--   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements.
+-   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements. (Still works as of 12/02/2023 tested by Draco)
     
     File:Three attunements.png
     

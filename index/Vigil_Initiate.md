@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 51607
+revid: 53535
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits]
 
 # Vigil Initiate
 
-Template:ArmorInfobox**Vigil Initiate** or Wandering Swordsman or Blade Initiate is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

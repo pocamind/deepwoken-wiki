@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53501
+revid: 53524
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -59,6 +59,14 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Rare
 
 -   Advanced
+
+-   Oath
+
+-   Mantra
+
+-   Mystery
+
+-   Trait
 
 ## Talents
 

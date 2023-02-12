@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 40770
+revid: 53538
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Fishing]
@@ -20,3 +20,5 @@ You can also use 3 chum to craft all three types of Monster Bait.
 Recipe - _2 Fish Meat_
 
 Can be bought at the [Etris Docks](Etris_Docks.md) and directly from [Mortus](Mortus.md) near [Lower Erisia](Lower_Erisia.md) for.
+
+Chum is also obtainable from Crustacean meat by killing King Crabs.
