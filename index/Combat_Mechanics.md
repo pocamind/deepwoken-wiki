@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 53424
+revid: 53480
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse, Helpful]
@@ -117,16 +117,52 @@ These are stats that are you required to maintain in order to survive in the wor
 </tbody>
 </table>
 
+## Inventory
+
+_Understanding the essentials of how your characters inventory works can help you make the most out of Deepwoken runs and help you identify what you have a lot easier._
+
+<table>
+<tbody>
+<tr>
+  <th rowspan="2">Item Type</th>
+  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Armors and weapons that aren't equipped also have different color frames based off their (I don't actually know. Rarity? Level? Like the Enforcer Axe has a green/blue frame while the others are more reddish). Purple items signify potions and enchants.</td>
+</tr>
+<tr>
+  <td><u>Tools + Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools or hunters brace.</p>
+  <p>Weight: none</p></td>
+  <td><u>Training Gear</u><p>2nd place in the inventory. Consist of items that train your characters attributes.</p>
+  <p>Weight: none</p></td>
+  <td><u>Weapons</u><p>3rd place in the inventory. Consist of equipable weapons if you meet the req.</p>
+  <p>Weight: 2</p></td>
+  <td><u>Armor</u><p>4th place in the inventory. Consist of equipable armor and clothing pieces if you meet the req.</p>
+  <p>Weight: 2</p></td>
+  <td><u>Schematics</u><p>5th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
+  <p>Weight: 1</p></td>
+  <td><u>Crafting Materials</u><p>6th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy.</p>
+  <p>Weight: Varies</p></td>
+  <td><u>Mantra Modifiers</u><p>7th place in the inventory. Consist of materials you may only use to edit mantra properties.</p>
+  <p>Weight: none</p></td>
+  <td><u>Shiny's</u><p>8th place in the inventory. Consist of smelted ores, gemstones and specific consumables stemmed from an Attunement (like spark glands or gale stones) Often what you'll be selling.</p>
+  <p>Weight: none</p></td>
+</tr>
+<tr>
+  <th>Carrying Capacity</th>
+  <td colspan="7">Carrying Capacity dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. The weight cap however does not stop you from picking up more items but punishes you for holding carrying any weight past the limit and <b>any items picked up past that point will be deleted upon leaving the server</b>. In addition, pushing the weight far enough past the maximum allowed will reach the absolute max carrying capacity which will not let you pick up any more items that will exceed that weight limit.</td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
 ## Combat Basics
 
-_Remember when fighting, the game isn't about dealing overall damage but instead lowering a player's posture level to a point where they are heavily vulnerable; even if they block an attack you are still technically dealing damage to them._
+_Remember when fighting, the game isn't primarily about dealing overall damage to the opponent but also about lowering their posture to the point where they are heavily vulnerable; you are still technically dealing damage to them if you hit their block._
 
 <table>
 <tbody>
 <tr>
   <th>Attack</th>
   <td>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever hits unless they parry, block or perfect dodge your attack.<p>In the case of getting your attack blocked, your attack will still deal damage in the form of "Posture damage", taking account into your weight rather than your base damage</p>
-  <p>When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modify your flourish in different ways, from blurring someone's screen when they get pushed into a wall, burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well.</p></td>
+  <p>When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modify your flourish in different ways, from blurring someone's screen when they get pushed into a wall, burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well. Flourishes cannot be feinted normally and you must use a mantra to feint it.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -152,7 +188,7 @@ _Remember when fighting, the game isn't about dealing overall damage but instead
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits).<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you.</p></td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits). Feinting has end-lag however and briefly disables your ability to make any attack. However, using a mantra during an M1 attack automatically feints the M1 straight into the mantra.<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you.</p></td>
 </tr>
 <tr>
   <th>Dashing</th>

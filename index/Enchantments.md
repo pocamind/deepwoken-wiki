@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53390
+revid: 53474
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -120,7 +120,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
-  <font>Obfuscation<div></div></font></center></td>
+  Obfuscation<div></div></center></td>
   <td><div><p>Weapon gains 50% chip damage.<br>
   Weapon deals less posture damage.<br>
   Landing hits give a speed boost.</p></div></td>

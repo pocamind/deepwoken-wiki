@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 51663
+revid: 53469
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,17 +8,13 @@ categories: [Enemies]
 
 # Ministry Scout
 
-“ You cant stop history, fool..... ”
-
-― Ministry Scout
-
 Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Scouts are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), patrolling Outpost Antumbra. Curiously, they also gather around Summer Isle, whether to murder members of [The Children of Navae](Eastern_Nomad_Leader.md) or massacre [bandits](Bandit.md).
+Ministry Scouts are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), patrolling Outpost Antumbra. There are about nine Ministry Scouts: four patrolling outside, five inside. Curiously, they also gather around Summer Isle, whether to murder members of [The Children of Navae](Eastern_Nomad_Leader.md) or massacre [bandits](Bandit.md).
 
-They wear a Vagabond's Bicorn, either a Blindfold or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
+They wear a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
 
 ## Moveset
 
@@ -47,14 +43,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Almost at any given time they will try to use their mantras while doing an M1 Combo.
 -   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   Rushing the game _especially here_ is very dangerous at a low level, alone, **ESPECIALLY IF YOU HAVE THE OBVIOUS FLAW.** It's best to be avoided unless you know what you are doing.
--   There are about nine Ministry Scouts: four patrolling outside, five inside the fortress on [Minitrysa](Minityrsa.md).
 -   Within the fortress there are two Plumfruit trees and three Wheat spots, a good source of Food/Water.
--   Killing one decreases your reputation with their faction.
 
 ## Trivia
 
--   A really good location to progress at, although it lacks rewarding loot.
 -   They are believed to be brainwashed, since when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. However, when you are gripping them or when they have finished killing the Nomads at Summer Isle they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md) or just voicing their disgust of the Navaen Nomads.
 -   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to the scouts.

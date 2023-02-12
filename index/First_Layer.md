@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 53081
+revid: 53473
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -98,11 +98,11 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   This will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
         -   It is also advised to also know the risks of fighting a corrupted monster in the trial, and there is no turning back (unless you glitch out) once they spawn in. **Fight or wipe.**
--   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, ~the combat tag WILL NOT expire.~ The combat tag in the Depths trial now expires after 10 minutes as of 01/16/2023.
+-   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag in the Depths trial takes 10 minutes to despawn.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
 -   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
--   There is definitely some RNG involved with the trial. Occasionally, players above power 10 (The highest I've heard this go is 17, but the highest I know is true is 13) will still escape without fighting anything. (**This note was probably before Verse 2 so just divide the levels by 3.**)
+-   There is definitely some RNG involved with the trial. Occasionally, players above power 13 will still escape without fighting anything.
 
 ## **Farming in First Layer of The Depths**
 

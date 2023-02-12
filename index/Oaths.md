@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53348
+revid: 53481
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -502,9 +502,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 # **Oath: Contractor**
 
-“ I was joking, I was joking! ”
+“ Oh so you followed a Raum PVE build? Time to die. ”
 
-― Average contractor fighting an entire guild after trying to grip a starkindred.
+― Contractor preparing to bossraid an Hell Mode guild.
 
 ### Obtainment
 

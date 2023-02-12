@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 52810
+revid: 53472
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -46,10 +46,6 @@ categories: [Weapons, Daggers]
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, Primadon (Rare Chance) |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
-
-“ Swing, Swing, Swing, Swing.... ”
-
-― Whaling Knife users as soon as his critical cooldown restarts.
 
 **Base:**
 

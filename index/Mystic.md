@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 53308
+revid: 53479
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -102,7 +102,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I often attack others. **(Marauder)**_
 -   _I want to WIN. **(Metamancer; Health Pack, Ether Kit, Lootskipper)**_
 -   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
--   _I will not fall to the elements. **(Unknown, is not RTTDA.)**_
+-   _I will not fall to the elements. **(Survival Instinct; Herbivore, Iron Gut, Termite)**_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
 -   _I feed on the soul of my enemies. **(Soul Converter; Bloodiron Spirit)**_
 -   _Water is my home. **(Waterborne; Conditioned Swimmer, Fishman, Scuba Drowner)**_

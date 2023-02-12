@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 52241
+revid: 53482
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]

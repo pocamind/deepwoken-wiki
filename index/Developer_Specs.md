@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 53388
+revid: 53433
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Deepwoken]
+categories: [Deepwoken]
 ---
 
 # Developer Specs
@@ -32,9 +32,11 @@ Melonbeard has the ability to use an AoE attack that does moderate damage with a
 
 Moon Ring (AoE Attack)
 
-He also has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked and only dodged.
+He has a second attack which allows him to shoot white projectiles similar to the last two hits of tornado kicks, these have a huge hitbox and cannot be parried or blocked and only dodged.
 
 Moons Eye(Projectile Attack)
+
+He also has a third attack which launches him into the air from where he shoots multiple orbs towards where his cursor is at. Similar to [Thundercall](Thundercall.md)'s Lightning Impact.
 
 Melonbeard possesses a teleportation ability which makes a gate rise from the ground that lets him pick a location to teleport to. Others can also teleport through the gate, but not pick the location. Not much else is know about this ability currently.
 
@@ -58,8 +60,6 @@ When your wish is granted you will find that you have a newly acquired [flaw](Bo
 Wishmaker granting a wish (3rd option)
 
 They can spawn in a variant of [Stone Knight](Stone_Knight.md), called "Astral Knight". It has Sand Violet colors and it's weapon is enchanted with [Astral](Enchantments.md) enchant. It's supposedly called "Michael". The rest is unknown.
-
-File:Astral Knight.png
 
 They also have the ability to spawn in [The Floating Keep](The_Floating_Keep.md) and teleport people there.
 

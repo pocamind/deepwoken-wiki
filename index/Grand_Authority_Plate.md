@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 53387
+revid: 53475
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Arms, Article stubs, Armors]
@@ -16,4 +16,4 @@ Template:EquipmentStats
 
 The Grand Authority Plate is an accessory under the "Arms" category.
 
-It is part of a set together with the Grand Authority Sabatons
+It is part of a set together with the Grand Authority Sabatons.

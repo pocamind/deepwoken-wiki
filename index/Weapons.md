@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 53351
+revid: 53439
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -63,7 +63,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
 -   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound on equip.
 
-### Types of Weapons
+## Types of Weapons
 
 **Light Weapons:**
 
@@ -71,7 +71,7 @@ Light weapons are one-handed weapons. They are fast and agile, with high attack 
 
 **Daggers:**
 
-Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They also have a chance to deal bonus blood damage, signified by a sound effect and large blood splatter. Despite this, they have very low damage and range.
+Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They also have a chance to deal bonus blood damage, signified by a sound effect and large blood splatter. Despite this, they have very low damage and range. Demanding aggression from users to lay down consistent damage.
 
 <table>
 <tbody>
