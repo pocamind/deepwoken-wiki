@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 48670
+revid: 53383
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,7 +37,7 @@ An Authority Lieutenant executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute |  |
+| Execute | Pins down opponent before slicing their throat. |
 
 ## Trivia
 

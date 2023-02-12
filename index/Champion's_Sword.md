@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 53375
+revid: 53376
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -19,7 +19,7 @@ categories: [Weapons, Swords]
 | endlag | ? |
 | penetration | ? |
 | selling price | ? |
-| weight | 2 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 51417
+revid: 53393
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -98,6 +98,6 @@ Need friends. :(
 -   Once you mark another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Marks.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra race name was changed to Skullskipper.
 -   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the race having wider eyes than average because they lack epicanthic folds.
--   Capra means goat.
+-   The latin word "Capra" is representative of Goats
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capras look similar to a wendigo, a creature from Native American folklore that originates from someone's strongest negative emotions. ￼

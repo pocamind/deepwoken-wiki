@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53350
+revid: 53384
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1430,7 +1430,7 @@ Prerequisite: Charisma
 ### Singer
 
 -   Encore \[Charisma Exclusive, Rare Talent\] - Your sing will stun opponents who are already charmed.
-    -   Prerequisite: Sing (Charisma Mantra)
+    -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
 
 ### Soul Converter
 

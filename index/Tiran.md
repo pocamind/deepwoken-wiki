@@ -1,11 +1,11 @@
 ---
 title: Tiran
-revid: 52631
+revid: 53399
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Races, Character]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
 notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Tiran
@@ -60,14 +60,16 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
   
 
 ⋅+2 Agility +2 Willpower  
-⋅Reduced fall damage
+⋅Reduced fall damage  
+⋅Starts with a glider  
+⋅No need to grab the glider schematic or parts  
 
-⋅Starts with a glider
+⋅Reduces impact of [High Velocity](Echoes.md#modifiers)
 
 **Weaknesses:**
 
   
-⋅N/A
+⋅Training Fortitude or bell checking by throwing yourself off a cliff is more difficult.
 
 **Surnames:**
 

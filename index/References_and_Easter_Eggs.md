@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 51983
+revid: 53426
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -152,6 +152,9 @@ notices:
 ## World
 
 ### **The Etrean Luminant**
+
+-   A high probability is that [the Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
+    -   The Knives of Eylis wear Whaler Initiate and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.

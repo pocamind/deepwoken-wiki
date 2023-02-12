@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 52784
+revid: 53403
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -42,7 +42,7 @@ A large military organization, native to the Central Luminant. They are lead by 
 
 ## NPCs
 
--   [Authority Commander](Authority_Commander.md)
+-   [Authority Commander](<Authority_Commander_(Enemy).md>)
 -   [Authority Peacekeeper](Authority_Peacekeeper.md)
 -   [Authority Flamecharmer](Authority_Soldier.md)
 -   [Authority Officer](Authority_Officer.md)

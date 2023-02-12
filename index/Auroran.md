@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 51992
+revid: 53405
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs]
@@ -67,3 +67,4 @@ _The first of the Gremor..._
 
 -   Does not have Sclera (Auchura at least)
 -   Related to [Auroran Gremor](Auroran_Gremor.md)
+-   Based on the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from World of Warcraft (confirmed by Auchura).

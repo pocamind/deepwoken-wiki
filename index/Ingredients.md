@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 52610
+revid: 53407
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents, Attributes, Food]
@@ -55,8 +55,8 @@ Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions,
 Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
 -   Hellfire Lotus (Red) - Strength Attribute
--   Empyrean Lotus - Fortitude Attribute
--   Zephyr Lotus - Agility Attribute
--   Brilliant Lotus (White) - Intelligence Attribute
--   Skyvalor Lotus - Willpower Attribute
+-   Empyrean Lotus (Blue) - Fortitude Attribute
+-   Zephyr Lotus (Green) - Agility Attribute
+-   Brilliant Lotus (Yellow) - Intelligence Attribute
+-   Skyvalor Lotus (White) - Willpower Attribute
 -   Miasmic Lotus (Pink) - Charisma Attribute

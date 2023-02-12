@@ -1,14 +1,12 @@
 ---
 title: Campfire Pit
-revid: 52863
+revid: 53379
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Campfire Pit
-
-File:Screenshot 2022-01-31 1.55.07 PM.png
 
 Crafted by using 3 Sticks **OR** 1 Wood.
 
@@ -26,7 +24,7 @@ An alternative to using a campfire is the Graceful Flame support mantra. It is n
 
 -   If a player with [Azure Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Azure_Flames_.28Blue_Fire.29) lights up a campfire using [Produce Spark](Flamecharm.md#talents) the flame will have a blue color instead of the regular red. However, if you light it with a mantra it will be blue either way.
 -   Campfires will be put out if it's currently [Raining or Snowing](Environmental_Hazards.md).
--   Campfires spawned by the [Random\_Encounters#Bandit\_Camp Bandit Camp](Random_Encounters.md#bandit-camp-bandit-camp) event are replaced by a chest with loot when the event ends, however, by killing two of the bandits and carrying the third you can have a chance to heal before it disappears.
--   Only [Flamecharmers](Flamecharm.md) with the [Undying Flame](https://deepwoken.fandom.com/wiki/Talents#Undying_Ember) Talent can light up campfires in [The Depths](The_Depths.md).
+-   Campfires spawned by the [Bandit Camp](Random_Encounters.md#bandit-camp) event are replaced by a chest with loot when the event ends, however, by killing two of the bandits and carrying the third you can have a chance to heal before it disappears.
+-   Only [Flamecharmers](Flamecharm.md) with the [Undying Flame](Talents.md#undying-ember) Talent can light up campfires in [The Depths](The_Depths.md).
 -   There used to be a glitch where campfire-spawning events in Summer Isle would not despawn the campfire, meaning there would be an endless amount of them around the island and also glitch chests inside of the campfire.
 -   **Building:** Campfires can also be used as a platform for barrel construction. Since campfires are not at all effected by gravity, they can hold barrels up where the barrels would normally fall. You may construct whatever your barrel supply allows with this.

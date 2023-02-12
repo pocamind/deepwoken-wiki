@@ -1,16 +1,12 @@
 ---
 title: Burning Stone Gardens
-revid: 52950
+revid: 53391
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
 ---
 
 # Burning Stone Gardens
-
-“ Average day in Ohio! ”
-
-― Level 16 Canor watching a Sharko and Rock Golem fight
 
 LocationL Burning Stone Gardens LocationR
 
