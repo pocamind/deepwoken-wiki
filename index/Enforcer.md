@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 53333
+revid: 53492
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -114,7 +114,6 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   As of 18/07/2022 cannot use its pull attack when Hell Mode is active, due to too many little gremlin enforcer pulling people into the void
 -   During the weekly update for 21/11/2022, the enforcer could temporarily spawn corrupted. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many.
 -   The Modifier that allow all Depths Trials to be corrupted applies to the Enforcer.
--   The Whirlwind ability implied that its flexibility and/or bisection of limbs comes from that of it's weapon, as the Enforcer's Axe critical ability allows said wielder to spin aswell.
 -   With the Enforcer's Eye, You are able to gain the Space Pull and use it in combat. This is a Layer 2 feature however so read up on that.
 
 1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.

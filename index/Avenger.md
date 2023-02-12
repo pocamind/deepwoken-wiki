@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 51488
+revid: 53499
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]
@@ -33,3 +33,5 @@ The **Avenger** is a greatsword obtained by using 25-100 [Echoes](Echoes.md) on 
 ## Trivia
 
 -   The Greataxe is superior in terms of DPS at Power 1, due to it have no endlag.
+
+-   This weapon looks very similar to [Excalibur Morgan](https://typemoon.fandom.com/wiki/Excalibur) from Fate/Stay Night

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 52243
+revid: 53505
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -40,13 +40,13 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   Urchin
 -   Pufferfish
 -   Seaweed
--   1 Mudskipper (Will spawn a Mudskipper)
--   1 Lionfish (Will spawn a Lionfish)
+-   1 [Mudskipper](Mudskipper.md) (Will spawn a Mudskipper)
+-   1 [Lionfish](Lionfish.md) (Will spawn a Lionfish)
 -   Old Boots (Leather Boots)
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 to minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
 -   Golden/Enchanted Fish
 
-Everything you can get from fishing has its own chat bubble pop-up, as a reaction of your character.
+Everything you can get from fishing has its own chat bubble pop-up, as a reaction of your character, with most of them being puns or word plays.
 
 -   If you fish a Sea Bass: "It's a Sea Bass! Where's its instrument?"
 -   If you fish a Red Snapper: "A Red Snapper! Quite the sailor's mouth on this one..."

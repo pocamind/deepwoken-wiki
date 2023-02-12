@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53476
+revid: 53501
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1310,6 +1310,8 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
     -   Prerequisite: Hot Potato
+-   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
+    -   Prerequisite: Incendiary Formula
 
 ### Saint of Blades
 
@@ -2177,21 +2179,21 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
 
--   Conditioned Runner \[Advanced Talent, Agility\] You run faster than normal when running. (+1 Passive Agility)
+-   Conditioned Runner \[Advanced Talent, Agility\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
 
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
 
--   Return to the Dark Ages \[Rare Talent\] - Your incoming elemental damage is cut in half. (+5 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 35%. (+5 Health)
 
--   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you.
+-   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 
--   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet. (+4 Elemental Intensity)
+-   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks. (+3 Health, +5 Ether)
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 
--   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
+-   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 53231
+revid: 53497
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -10,9 +10,9 @@ notices:
 
 # Kyrsgarde
 
-“ Empty the compartments of your pantaloons! ”
+“ Sniping's a good job mate. ”
 
-― A Kyrsgarde Lancer about to show a poor Ganymede how it feels to get styled on in the Depths.
+― A Kyrsgarde Lancer performing its infinite ragdoll combo
 
   
 
@@ -26,7 +26,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Kyrsgarde is singlehandedly the most dangerous of them all as it has both short-range and long-ranged moves. They are told apart by their glowing **Burgundy** head. They can only spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+The Kyrsgarde Lancer is singlehandedly the most dangerous of them all as it has both short-range and long-ranged moves. They are infamous for their ability to leave someone ragdolled infinitely with their glacial javelins. They are told apart by their glowing **Burgundy** head. They can only spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 ## **Attacks**
 
@@ -61,7 +61,7 @@ Skyward Spear
 
 ## **Finisher**
 
-A Kyrsgarde executes it's opponent:
+A Kyrsgarde Lancer executes it's opponent:
 
 | Name | Description |
 | --- | --- |
@@ -98,7 +98,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Kyrsgarde Sniper almost shares every attack with the Kyrsgarde except for assault. They are also told apart by their glowing blue head. They can spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) or by the [Scion of Ethiron](Scion_of_Ethiron.md).
+The Kyrsgarde Sniper almost shares every attack with the Kyrsgarde Lancer except for assault. They are also told apart by their glowing blue head. They can spawn in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) or by the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 The Kyrsgarde Sniper spawned by the **Scion of Ethiron** will have it's health greatly reduced as it's purpose is to act as a health pack for the player(s).
 

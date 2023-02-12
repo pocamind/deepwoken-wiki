@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 42428
+revid: 53491
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -19,6 +19,8 @@ You may report violators by contacting a [Moderator](Moderators.md) or an [Admin
 You may appeal a punishment (if you deem it is not correct) by contacting an [Administrator](Administrators.md) the same way as cited above.
 
 Staff members are **not bound to only deal with these cases** and **may deal with the violation with their own judgment** based on the circumstances. **Loopsholes are to** **be reported** and **not abused**, abusing loopholes will result in a more **severe consequence**.
+
+A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division of the content on the Wiki _(i.e. Page namespace, File namespace, Discussions namespace, User namespace, etc)_.
 
 ## **Light Offences**
 
@@ -106,6 +108,11 @@ None
 None
 
  | 3 Month Namespace Block (varies with amount) |
+| **Advertising** | Post advertisements of any kind on the Wiki, unless they relate to the Wiki itself. (If they're about Deepwoken, contact a Bureaucrat) | 
+
+None
+
+ | 5 Month Namespace Block (varies with amount) |
 | **Repeated Moderate Offences** | Repeating Moderate Offences. | 
 
 None

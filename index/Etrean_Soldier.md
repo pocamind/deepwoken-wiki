@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 37741
+revid: 53502
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -19,16 +19,23 @@ An Etrean Naval Guard is a enemy NPC that can only be found in the following eve
 -   Invasion of Etris ([Etris](Etris.md))
 -   Etrean Naval Guards vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 
-An Etrean Naval Guard wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They also can appear younger or older than 40 years old.
+An Etrean Naval Guard wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They can also appear younger or older than 40 years old.
 
 ## Moveset
 
-An Etrean Naval Guard's arsenal only consists of a [Battleaxe](Battleaxe.md):
+An Etrean Naval Guard's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Ritual Spear](Ritual_Spear.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings axe at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises axe before slamming it into the ground below. | ◯ | ✗ | (★★☆) |
+| Assault | \[[Battleaxe](Battleaxe.md)\] Firmly swings axe at opponent and finishing up the combo by kicking them.
+\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
+
+ | ◯ | ◯ | (★☆☆) |
+| Critical | \[[Battleaxe](Battleaxe.md)\] Raises axe before slamming it into the ground below.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+ | ◯ | ✗ | (★★☆) |
 
 ## Finisher
 
@@ -36,7 +43,10 @@ An Etrean Naval Guard executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent before slicing their throat with axe. |
+| Execute | \[[Battleaxe](Battleaxe.md)\] Pins down opponent before slicing their throat with their axe.
+\[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
+
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 52429
+revid: 53487
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,11 +16,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to as "Owl", "Wan Shi Tong", or "Big black man") is an exceptionally uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
+The **Deep Owl** (also referred to as "Owl" or simply "Tyrone") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
 
-Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths.
+Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 
-When appearing in _Upper Erisia_, its presence will be signalled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
+When appearing in _Upper Erisia or The Depths_, its presence will be signalled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
 Once the dialogue ends, the owl will not attack unless hit first or **if** **the player turns their back.** _(Owls will also attack if it has already been spawned and you enter its detection range.)_ Just like escaping from dangerous wildlife such as lions or bears in real life, if the player maintains eye contact with the owl and walks backward, it will not attack and will eventually give up once out of detection range.
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 52310
+revid: 53493
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -24,10 +24,6 @@ categories: [Weapons, Fists]
 | pass down | Yes |
 | obtainment | Erisia Chests , Songseeker Chests , Summer Isle Chests |
 | description | [REQUIRES A FIST STYLE] |
-
-“ Do you have a Cestus? ”
-
-― Average freshie fist user asking anyone in Erisia if they have a Cestus instead of farming for their own.
 
 ## Description
 
