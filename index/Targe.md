@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 51198
+revid: 53672
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -12,12 +12,6 @@ categories: [Weapons, Shields]
 |---|---|
 | type | Shield |
 | requirements | 10 Fortitude |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 7 Notes |
@@ -31,8 +25,8 @@ categories: [Weapons, Shields]
 
 ## Description
 
-Can be bought in the weaponry at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md)
+A shield that can be bought in the weaponry shop at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md)
 
 ## Notes
 
--   Worst shield in the game, as it is lower tier compared to the [Kite](Kite_Shield.md), [Worshipper's](<Worshipper's_Shield.md>) and [Khan](Legion_Shield.md) shields.
+-   The worst shield in the game, as it is in a lower tier compared to the [Kite](Kite_Shield.md), [Worshipper's](<Worshipper's_Shield.md>), [Khan](Legion_Shield.md), and [Defender](<The_Path's_Defender.md>) shields.

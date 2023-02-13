@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53669
+revid: 53704
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -376,6 +376,7 @@ You will get a mantra for each kill.
 -   **Wings - Innate**
     -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 60 seconds.
     -   While active, Air Dash goes much further and can go in any direction, most importantly vertically, adding huge mobility.
+    -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   Can come in the color of your races hair color.
     -   Some mantras have different properties while the user has their wings out:
         -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
