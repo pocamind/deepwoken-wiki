@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 48642
+revid: 53546
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -33,3 +33,4 @@ A frozen mantra
 -   Supaa originally suggested the concept of Freezes to Arch\_Mage.
 -   Freezes did not exist until the update on September 5th, 2022; however, Burns have existed since March 11th, 2022.
 -   Freezes work on Whispers too; however, the frozen Mantra will only appear at the next Whisper.
+-   Prior to freezes being added, these were called burns.

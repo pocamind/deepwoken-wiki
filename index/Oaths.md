@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53540
+revid: 53549
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -429,7 +429,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
-    -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times”
+    -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 
 -   **Arc Beam - Combat Mantra**
     -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
@@ -456,7 +456,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ### Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. Changes your eyes to orange. This is wrong.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 **Dawnwalker:**
 
