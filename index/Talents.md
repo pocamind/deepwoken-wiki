@@ -1,22 +1,16 @@
 ---
 title: Talents
-revid: 53524
+revid: 53662
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
 ---
 
 # Talents
 
-**You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for talents!**
-
-This is a browser function, but all mainstream browsers should have it.
-
 ## Overview
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive three hands containing five to six Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two to three hands containing five to six Talent Cards.
 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold.
 
@@ -1196,13 +1190,13 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: Murmur: Rhythm, 50 Willpower, [Power](Power.md) 16
 
 -   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
-    -   Prerequisites: 25 Strength, 25 Willpower, [Power](Power.md) 10, Kill the [Dread Serpent](Dread_Serpent.md).
+    -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched.
-    -   Prerequisite: 10 Agility, 10 Charisma, [Power](Power.md) 10
+    -   Prerequisite: 10 Charisma or 10 Grips as Voidwalker
 
 ### Natural Armor
 

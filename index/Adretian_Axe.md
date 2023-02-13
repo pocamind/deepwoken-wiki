@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 51091
+revid: 53664
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -27,7 +27,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Adretian Axe is a Heavy Weapon of the Greataxe catagory. It can be obtained through the [Fort Merit](Fort_Merit.md) Etrean Rescue quest. It has 24 Base Damage and a scaling of 7.
+The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe catagory. It can be obtained through the [Fort Merit](Fort_Merit.md) Etrean Rescue quest. It has 24 Base Damage and a scaling of 7.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 53492
+revid: 53614
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -51,29 +51,27 @@ Do not be deceived by these stats, though. The Enforcer's true danger lies not f
 ### In General
 
 -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
--   The biggest thing about The Enforcer is the feints, when it does this, **dodge.** Unlike what the last version stated, dodging is fairly productive at saving yourself the posture. **Blocking** also suits as a viable method, but the recommendation is to dodge.
--   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 17+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
--   You shouldn't move away for most of its attacks. The Space Pull can easily catch you off guard, as it is simply black and white lines which propel you towards the Enforcer in a heartbeat. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
--   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely. Be wary on your timing though, you won't want to be stuck charging a critical while it is clearly Whirlwinding you.
--   While not recommended, beating The Enforcer on a level 17, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
+-   The biggest thing about The Enforcer is the feints, when it does this, dodge. Unlike what the last version stated, dodging is fairly productive at saving yourself the posture. Blocking also suits as a viable method, but the recommendation is to dodge.
+-   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch as much as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 17+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
+-   You shouldn't move away for most of its attacks. The Space Pull can easily catch you off guard, as it is simply black and white lines which propel you towards the Enforcer quickly. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
+-   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
+-   While not recommended, beating The Enforcer while level 17, or earlier, is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check.[\[1\]](#cite-note-1)
 -   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead. If you have a ranged attack, go ahead and use it for some extra damage. If you have predict with the talent that allows you to defend multi-hit moves, use that instead.
--   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block the attacks.
--   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking should seem counterintuitive.
--   Avoid getting posture broken at **ALL** costs. A single whirlwind to someone stunned could be lethal to even the strongest of players.
+-   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block or dodge the attacks.
+-   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking is counterintuitive.
+-   Avoid getting posture broken at all costs. A single whirlwind while stunned could be lethal.
 
 File:Khan-enforcer-axe-image.png
 
 [Enforcer's Axe](<Enforcer's_Axe.md>)
 
-All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will EVENTUALLY have to fight it, at least ONCE, so better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, is a huge confidence boost for the future.
+All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so its better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 
-DO NOT PLAY AT HIGH PING. DO NOT PLAY AT HIGH PING. If you do, aka have no choice, matador, Sunken Predator, and heavy weapons will be handy. Matador, simply because the Enforcer has hyper armor. And if you're using a Zweihander, you can use Sunken Predator to outrange it during its Whirlwind.
+It is recommended to not play at high ping. However, if you have no choice about it, matador, Sunken Predator, and heavy weapons will be handy. Matador, simply because the Enforcer has hyper armor. And if you're using a Zweihander, you can use Sunken Predator to outrange it during its Whirlwind.
 
-If you ever get pulled, and this happens at high ping, block. It doesn't matter, as you wont have time to react properly to its Whirlwind.
+If you ever get pulled, you can usually just block, as it doesn't always matter. With high ping as well, you will not be able to react the Whirlwind, saving you a bit of trouble.
 
-If you're also using a dagger, playing at high ping against it, well… you are kind of dead. Like, you won't get a chance. You're done.
-
-If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial of one. _Do not fucking miss a parry._ Then you're fine.
+If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial of one. _Do not miss a parry._
 
 ### Rewards
 
@@ -81,8 +79,7 @@ If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial 
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy Weapons Training and 25 Strength.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **Enforcer's Eye:** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the deepwoken equivalent of a jedi force pull.
--   **Confidence about being able to escape The Depths in the future:** :)
+-   **Enforcer's Eye:** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
 
 ## Lore
 

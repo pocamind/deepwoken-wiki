@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 52873
+revid: 53631
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map, The Depths, Layer 2, Floor 2]

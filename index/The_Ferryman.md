@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 53440
+revid: 53655
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -49,6 +49,7 @@ able?
 | **Lightning Clones** | The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
 
 -   He only uses Lightning Clones in Phase 1.
+-   If you attack lightning clones, your willpower will increase.
 
  | ◯ | (☆☆☆) | **I** |
 | **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
