@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53653
+revid: 53669
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -406,7 +406,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Weld the armour of the Ignition Union's most notable dwellers. ”
+“ Wield the armour of the Ignition Union's most notable delvers. ”
 
 ― Arcwarder Description
 
@@ -502,7 +502,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 “ Oh so you followed a Raum PVE build? Time to die. ”
 
-― Contractor preparing to bossraid an Hell Mode guild.
+― Contractor preparing to bossraid a Hell Mode guild.
 
 ### Obtainment
 
