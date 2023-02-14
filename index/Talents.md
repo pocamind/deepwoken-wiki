@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53832
+revid: 53851
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -215,7 +215,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: 5 Strength, 5 Agility
 
--   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
+-   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
 
 ### Authority Interrogator
 
@@ -1190,7 +1190,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
     -   Prerequisite: Murmur: Rhythm, 50 Willpower, [Power](Power.md) 16
 
--   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
+-   **Murmur: Ardour** \[Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H.
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 
 -   **Murmur: Rhythm** \[Common Talent\] - An application of the song that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.

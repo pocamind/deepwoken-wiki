@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 53505
+revid: 53850
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -24,7 +24,7 @@ The next step to fishing is to cast out your Fishing Rod at an area with a gener
 
 Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
 
-Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item.
+~Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item~. I have tested this I have gotten Charisma Experience without a Golden/Enchanted item. Fishing can level every attribute
 
 I have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, as well as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the Etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
 
@@ -103,11 +103,12 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 
--   Chum Effect: Intended bait. Slower bite times. Results from 3 Chum gave: 1 Urchin, 2 Red Snapper, 1 Pufferfish
+-   Chum Effect: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lion Fish, 17 Chest and 14 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 30 minutes to use all 100 Chum (this was tested with all 3 fishing talents)
 
 -   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
 
--   Fish Meat: Effects: Average, maybe slightly slower Bites. Result: For this test 15 fishes were used while having 35 fishes. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Misses may be a result of human error) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
+-   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lion Fish, 11 Chest and 15 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
+-   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 
 ## **Trivia**
 

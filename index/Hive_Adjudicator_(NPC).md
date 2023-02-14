@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 53824
+revid: 53854
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) after having too low of a reputation with the Hive or Attacking someone that has the [talent](Talents.md) [friends in high places](Talents.md). In addition to that, Hive Constructs will also spawn along with a Hive Adjudicator to eradicate the enemy.
+A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) after having too low of a reputation with the Hive. In addition to that, Hive Constructs will also spawn along with a Hive Adjudicator to eradicate the enemy.
 
 A Hive Adjudicator wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dew Drop Earrings and a Dark Gumshoe Longcoat with their race either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md) with their gender varying.
 

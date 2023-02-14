@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 53836
+revid: 53853
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
