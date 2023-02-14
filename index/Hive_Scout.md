@@ -1,17 +1,28 @@
 ---
 title: Hive Scout
-revid: 53853
+revid: 53879
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments]
 ---
 
 # Hive Scout
 
+## Description
+
 Hive Arbiter
 
-A hive arbiter in [Starswept Valley](The_Starswept_Valley.md)
+Contents
 
-Hive arbiters are a variant of [Hive adjudicators](<Hive_Adjudicator_(NPC).md>) that can spawn in [Etrea vs Hive](Random_Encounters.md) events in [Starswept Valley](The_Starswept_Valley.md)
+A Hive arbiter is a variant of [Hive adjudicators](<Hive_Adjudicator_(NPC).md>) that can spawn in [Etrea vs Hive](Random_Encounters.md) events in [Starswept Valley](The_Starswept_Valley.md)
+
+They wear the [outfit](Outfits.md) [Hive Adjudicator](Hive_Adjudicator.md)
+
+  
+
+  
+
+## Weaponry
 
 Their arsenal consists of [flamecharm](Flamecharm.md) with the following weapons: [katanas](Katana.md), [ritual spears](Ritual_Spear.md) and [iron birch](Iron_Birch.md).
 

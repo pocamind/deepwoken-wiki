@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 53856
+revid: 53867
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras, Attunement]
@@ -1189,6 +1189,7 @@ Your lightning attacks in water strike others near them with lightning
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
+-   The Rising thunder mantra, is a clear reference to the One piece character, Almirant Kizaru, wich performs a nearly identical move to the Rising thunder.
 
   
 

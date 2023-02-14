@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 51321
+revid: 53877
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Guilds]
@@ -32,6 +32,13 @@ The Chime of Dwelling does not work under the following:
 -   Being in-combat or near hostile NPCs.
 -   Boatman's Watch.
 -   In Trial of One (including the area you first spawn in)
+
+  
+In the **13/02/2023 update**, a new mechanic was added to the chime item for **leader only** while is inside of the guild base, now, you can edit the positions of the rooms as your please, you will keep the donated books despite the fact of moving the room (right now is kinda buggy and is removing npcs so watch out for that)
+
+  
+
+\[TBA\]
 
 ## Notes & Trivia
 

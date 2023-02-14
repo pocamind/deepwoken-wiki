@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 53850
+revid: 53880
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -24,7 +24,7 @@ The next step to fishing is to cast out your Fishing Rod at an area with a gener
 
 Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
 
-~Fishing can technically level every attribute with enough time, except Charisma, which can only happen if you catch a Golden/Enchanted item~. I have tested this I have gotten Charisma Experience without a Golden/Enchanted item. Fishing can level every attribute
+Fishing can also level each attribute given enough time.
 
 I have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, as well as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the Etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
 
@@ -83,30 +83,20 @@ File:Fishing Talents.png
 
 _**(Note: This section needs more information and rewriting work.)**_
 
-A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the [Den Maste](Den_Master.md)r is. It rained really often, and it was night a good few times as I had to server hop a lot due to lag.
+A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested at the left of the Etris docks, at the beach where the [Den Master](Den_Master.md) is. It rained really often, and it was night a good few times as I had to server hop a lot due to lag.
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
 -   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
-
 -   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
-
 -   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
-
 -   Squid Effect: Seemed to get a lot of squid using squid. Results from 3 Squids: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
-
 -   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from 8 Dentiflos: 2 Seaweed, 6 Misses
-
 -   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
-
 -   Urchin Effect: Decent speed of bites. Result from 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
-
 -   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
-
 -   Chum Effect: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lion Fish, 17 Chest and 14 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 30 minutes to use all 100 Chum (this was tested with all 3 fishing talents)
-
 -   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
-
 -   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lion Fish, 11 Chest and 15 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
 -   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 
@@ -114,12 +104,12 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Some spots won't let you fish.
 -   There is no height limit, you can fish from the top of cliff faces.
--   ~How good certain locations are for fishing is purely RNG, some people will get lucky, and some will not.~ I've tested in multiple locations and there is definitely a difference in the rate of chests.
+-   Some locations are better for fishing than others.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
 -   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
 -   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
--   Fishing will level your Strength, Fortitude, Intelligence, and Willpower by default. \[**Note:** I sadly cannot confirm the fact that Fishing gives experience to Agility, if anyone is able to confirm this, please update this section and note as needed.\]
+-   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
 -   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 Kyrsan Medallions from a chest while fishing, being as rare as to fish legendary weapons, although this has yet to be confirmed.
 -   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

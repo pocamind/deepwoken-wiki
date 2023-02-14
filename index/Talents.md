@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53851
+revid: 53868
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -149,10 +149,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
-
--   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
-    -   Crouching is now as fast as walking.
-    -   Prerequisites: Unknown amount of Backstabs, 10 Agility
+    
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -203,6 +200,9 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 ### Assassin
 
+-   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
+    -   Crouching is now as fast as walking.
+    -   Prerequisites: Unknown amount of Backstabs, 10 Agility
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility
 
@@ -1725,7 +1725,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Warrior
 
--   Chronostasis \[Rare Talent\] - Landing an M1 puts enemy resonance on cooldown for a short duration. (+1 Posture)
+-   Chronostasis \[Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration. (+1 Posture)
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)

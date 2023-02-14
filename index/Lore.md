@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 53772
+revid: 53870
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -142,6 +142,8 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
+_"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
+
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
 -   Either a Tiran, Vesperian, or Ganymede.
@@ -172,7 +174,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
-_"Heavy is the burden of the Lightkeepers." -Nimea._
+_"My Burden is Light." -Unkown Lightkeeper._
 
 -   Currently residing in the Eastern Lighthouse, near miners landing.
 -   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
@@ -331,7 +333,7 @@ Yun'shul's Shrine
 
 ### **The Ferryman**
 
-**Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned)_
+**Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned), The Ferryman._
 
 -   The [Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
@@ -346,6 +348,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 **Lore sources :** Sudaruska Soul, Gran Sudaruska Description
 
 -   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, continuing to kill followers of the Nine Prophets to this day.
+-   Was a very powerfull Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 
 ## Locations
@@ -728,7 +731,7 @@ A Dark Mage, located in Minityrsa.
         -   These also appear to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   Their war against Etrea for the eyes of the public is a attempt for the Authority to mantein control in the Eastern luminant, in reality, the Authority is trying to hunt down Zi'eer (Lord regent) and his contractors to save Etris from another Greatdrowning, but due to Zi'eer having all Etris controled with mental veils, is possible that the Authority has decided to use their last option and try to invade Etris to avoid the drawning of the luminat.
+-   Their war against Etrea for the eyes of the public is a attempt for the Authority to mantain control in the Eastern luminant, in reality, the Authority is trying to hunt down Zi'eer (Lord regent) and his contractors to save Etris from another Greatdrowning, but due to Zi'eer having all Etris controled with mental veils, is possible that the Authority has decided to use their last option and try to invade Etris to avoid the drowning of the luminat.
 -   The Hive are _not_ at war with the Authority, though tensions are very high between the two. Despite this, the Hive Constructs will go out of their way to exterminate any Authority member they sea/
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.
     -   The Knives sow chaos anywhere for a price.
@@ -744,7 +747,7 @@ A Dark Mage, located in Minityrsa.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 -   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to Etris have the lightkeeper of the Eastern Luminant, Viqh, under their posession they cannot advance in their war against Etrea. If not, the war would have already been won by the Authority if it wasn't for the lightkeeper.
--   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e conquest. Understandably, the majority of ingame factions object to this.
+-   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e conquest. Understandably, the majority of ingame factions object to this. But still is one of the most powerfull factions in all Lumen.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -754,18 +757,22 @@ A Peacekeeper Commander, part of The Authority
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Flamecharm_
--   **Alliances:** _Lightkeepers (???)_
+-   **Alliances:** _Lightkeepers (???), The Children of Navae_ (Neutral/Negotiating.)
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
 
 -   They are lead by a Hivelord.
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid belived in the Hive and decided to stay.
     -   Their previous home was located in Erisia Island, by the name of [The Hidden Village](The_Hidden_Village.md).
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
+-   Currently at war with Etris, this is possibly due to the Etreans trying to steal their lifeweave artifacts for Lord Regents own interests.
+-   Apparently the Hive has great interest into an allience with the Children of Navae, having one of their representative in Meteor Isle, to discuss a possible aliance between the Hive and The Children of Navae.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
+-   There is a High chance that there are Ironsingers in their ranks due to the Hive Tactician armor description.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
@@ -775,17 +782,18 @@ A Peacekeeper Commander, part of The Authority
 -   **Attunements:** _Flamecharm, Frostdraw, Galebreathe and Thundercall._
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** Ignition Union
--   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord)_
+-   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue)._
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs.
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
-    -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
--   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
+    -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
+    -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as prowing your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
+-   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition union has a drill to get to the second layer using it like a elevator.
 
 ## Groups
 

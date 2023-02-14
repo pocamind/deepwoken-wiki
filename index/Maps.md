@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 53586
+revid: 53886
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -54,7 +54,7 @@ Map:Etrean Luminant Inside
 
 **Inside:**
 
-**The Conscious Intersection:**
+**A Conscious Intersection:**
 
 **Layer 2 (The Eternal Gale):**
 
@@ -98,7 +98,7 @@ Map:Etrean Luminant Inside
 
 **Chamber:**
 
-**The Trial of One:**
+**Trial of One:**
 
 **Chime of Conflict:**
 
@@ -114,15 +114,15 @@ Map:New Kyrsan Arterial Rail
 
 Map:The Profane Cavern
 
-**3 vs 3:**
-
-**Forest Arena:**
-
-Map:Forest Arena
+**2 vs 2 / 3 vs 3:**
 
 **The Falcon's Hold:**
 
 Map:The Falcon's Hold
+
+**The Glade of Strife:**
+
+Map:The Glade of Strife
 
 **The Unearthed Colosseum:**
 
