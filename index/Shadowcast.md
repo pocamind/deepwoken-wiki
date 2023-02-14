@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 53552
+revid: 53817
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Magic, Spells, Attunement, Combat Mantras]
@@ -166,9 +166,11 @@ It should be noted that you can combine 2 of these sparks together
 Eclipse Kick  
 (★★★)
 
- | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back. Requires 20 Strength and 50 Shadowcast.
+ | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
 
-This mantra is a dual stat requirement like Ash Slam. Deals a massive amount of posture and health damage. Can also break certain tiles and fell trees.
+-   Requires 20 Strength and 50 Shadowcast.
+-   Deals a massive amount of posture and health damage.
+-   Can also break certain tiles and fell trees.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 53310
+revid: 53823
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -27,11 +27,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Chest, The Depths, Deep Widow Chest, Layer 2, Miner's Landing. |
-| description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value an the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
-
-“ Just as the founding fathers intended. ”
-
-― Rifle users after gripping a freshie.
+| description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value on the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 ## Description
 
@@ -40,8 +36,7 @@ Rosen's Peacemaker is a Medium Weapon for the Verse 2 content update. It is amon
 ## Trivia
 
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
--   The weapon's namesake is based off Gunsmith Rosen, a genius inventor. He is also referenced in the [Rifle Spear](Rifle_Spear.md)'s and Rosen's Ring's descriptions. While some might pass this off as a coincidence, this might also be a slight nod to Eric Rosen, a chess player. Since many of the races in Rogue Lineage were named after chess players, this theory is reasonable.
--   The Rosen's Peacemaker does not require bullets for its m1 or crit.
+-   The Rosen's Peacemaker does not require bullets for its m1 or crit. The crit will not use bullets even if they are present.
 -   This weapon's holstered animation clips into your body.
 
 File:Rosen.PNG

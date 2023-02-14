@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 52802
+revid: 53810
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -31,8 +31,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | can play as title screen music in the depths | File:To Sleep, Dreaming (Contour 3).mp3 |
-| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | plays when past a certain level and having escaped the depths and skips to 0:24) when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
+| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Can play as title screen music in the depths | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when past a certain level and having escaped the depths and skips to 0:24) when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
 | 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) | File:Isle of Vigils - Deepwoken OST.mp3 |

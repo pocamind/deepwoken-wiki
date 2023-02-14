@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 53483
+revid: 53803
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -63,12 +63,6 @@ A guild base can be increased in size through different nodes. Some provide prac
 
 Library's Donated Books
 
-  
-
-## Events
-
--   Bandit Raid - Very rarely, bandits will spawn inside your guild base and begin attacking you.
-
 Bandits raiding a Guild Base.
 
 ## Trivia
@@ -77,3 +71,4 @@ Bandits raiding a Guild Base.
 -   You can break the Guild Base open while inside and fall off the map.
 -   Grand skewers is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of each room can increase exponentially.
+-   Bandits could spawn inside the base. Though this was believe to be intentional, it was revealed in the 2/13/23 update that it was a bug.

@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 51229
+revid: 53816
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -27,12 +27,6 @@ categories: [Weapons, Daggers]
 | pass down | Yes |
 | obtainment | Found in Erisia , Purchased in Summer Isle |
 | description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
-
-“ Come on! What's wrong, can't parry? ”
-
-― A Bandit Leader filleting a freshie like a salmon
-
-  
 
 ## Description
 

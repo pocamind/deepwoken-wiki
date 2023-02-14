@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53780
+revid: 53832
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -301,7 +301,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds)
-    -   Has a short cooldown
+    -   Has a 9 second cooldown
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
     -   Prerequisites: 40 Agility, All Butterfly talents
 
@@ -853,7 +853,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Human Architecture
 
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll, and reduces knockdown duration by 30%.
+    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
+    -   Reduce knockdowns (like heavy weapon crit) duration by 30%.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 ### Hunter
@@ -1196,7 +1197,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 
 -   **Murmur: Tacet** \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched.
-    -   Prerequisite: 10 Charisma or 10 Grips as Voidwalker
+    -   Prerequisite: 10 Charisma or 10 Voidwalker Bounty Grips
 
 ### Natural Armor
 
@@ -1847,7 +1848,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
--   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+-   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 
 -   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 52911
+revid: 53812
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
 
 # Chaser, Scholar of the Crimson Contract
 
-“ You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this. ”
+“ Aha, the first strike? Not one to mince words, are we? ”
 
 ― Chaser
 
@@ -91,7 +91,7 @@ All of Chaser's moves instantly execute.
 
 ### Phase 3
 
--   When Chaser has fewer than 6,000 health points remaining. The third phase begins, As he raises himself up, a ritual circle will emerge. However, unlike before the update, being inside the circle will **still** longer protect you from taking damage from Chaser; instead, You will get the damage from his slamming move instead, and it will just increase your vulnerability to incoming attacks from Chaser. During this stage, he is being dragged farther into the depths, and as this happens, he repeatedly smacks himself to the floor. It is important to emphasize the fact that he is able to continue using his regular attacks even when in this phase.
+-   When Chaser has fewer than 6,000 health points remaining. The third phase begins, As he raises himself up, a ritual circle will emerge. However, unlike before the update, being inside the circle will **still** longer protect you from taking damage from Chaser; instead, You will get the damage from his slamming move instead, and it will just increase your vulnerability to incoming attacks from Chaser. It is important to emphasize the fact that he is able to continue using his regular attacks even when in this phase.
 
 ## Rewards
 

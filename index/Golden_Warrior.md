@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 52048
+revid: 53820
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -29,7 +29,7 @@ His kit consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunemen
 | Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
 | Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ? | (★★☆) |
+| Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
 
 ## Trivia
 

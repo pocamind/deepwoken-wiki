@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 51031
+revid: 53809
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -44,3 +44,5 @@ Template:Areainfobox
 ## Trivia
 
 -   Despite Mr. Quarters' status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
+-   You can drop barrels into the water.
+-   Serendi claims to be short, but she is the same height as everyone else.

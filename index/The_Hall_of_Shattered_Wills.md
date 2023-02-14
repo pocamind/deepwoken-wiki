@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 52989
+revid: 53819
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -21,6 +21,8 @@ Image of The Hall of Shattered Wills.
 ## Overview
 
 The Hall of Shattered Wills is an office workspace filled with cubicles and also posses a large room to fight in. This location is inaccessible to non-moderators.
+
+Used to move exploiter to Hall of shattered wills (happen to Key exploits)
 
 It has no practical functions and merely acts as a safe place for moderators to work undisturbed.
 

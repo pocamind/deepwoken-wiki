@@ -1,16 +1,12 @@
 ---
 title: Authority Captain
-revid: 52807
+revid: 53800
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Authority Captain
-
-“ FIGHT ME! You filthy coward! ”
-
-― An Authority captain going to fight a Construct despite going to be obliterated
 
 Template:EnemyInfobox1.0
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 52876
+revid: 53813
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -247,7 +247,13 @@ Ash Slam (★★★)
 
 _Strike the ground, turning it to ash._
 
- | User strikes twice in front of the user, creating a fiery blast each time. Requires at most 30 Strength and 50 Flamecharm. Deals moderate damage. Inflicts Burn. |
+ | User strikes twice in front of the user, creating a fiery blast each time.
+
+-   Requires at most 30 Strength and 50 Flamecharm.
+-   Deals moderate damage.
+-   Inflicts Burn.
+
+ |
 
 ### **Mobility Mantras**
 

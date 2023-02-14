@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 53509
+revid: 53822
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -98,7 +98,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring. The recommended level is 12-13 when fighting these as they just as strong if not stronger than a corrupted base variant.
+Crimson Megalodaunts are Red Megalodaunts, native to the Songseeker Wilds, the Starswept Valley, and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring. The recommended level is 12-13 when fighting these as they just as strong if not stronger than a corrupted base variant.
 
 ## **Attacks**
 
