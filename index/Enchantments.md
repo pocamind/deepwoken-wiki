@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53521
+revid: 53767
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -487,6 +487,21 @@ Enchanted Legendary Weapons
 
 **January 2nd, 2022**  
 All enchanted legendary weapons (e.g Crypt, HB) were removed from lootpools, any equipped lost their enchants and any left un-equipped were voided.
+
+ | 
+
+N/A
+
+ |
+| 
+
+  
+[Light's Final Toll](<Light's_Final_Toll.md>) Enchants
+
+ | 
+
+**February 13, 2023**  
+Enchanted Light's Final Tolls were removed.
 
  | 
 

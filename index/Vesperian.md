@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 53485
+revid: 53756
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -113,5 +113,4 @@ A Vesperian with Blindseer
 
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md)
 -   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 13% physical damage.
--   For some reason, most players of this race are bigger pussies than most Deepwoken players. Generally bad sports and edge lords for the most part but this doesn't apply to everyone.
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.

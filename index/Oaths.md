@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53704
+revid: 53784
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -439,20 +439,20 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   Release a wave of energy around you, dealing fire and lightning damage.
 
 -   **Arc Module: Leap - Passive**
-    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required) (+10 Ether)
+    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
 
 -   **Arc Module: Guard - Passive**
-    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. (+10 Ether)
+    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.
 
 -   **Arc Module: Eject - Passive**
-    -   When blockbroken with Arc Suit active, eject from the armor. (+10 Ether)
+    -   When blockbroken with Arc Suit active, eject from the armor.
     -   Immediatly end Arc Suit but prevent the guardbreak and reset your posture.
 
 -   **Arc Module: Dash - Passive**
-    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther. (+10 Ether)
+    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther.
 
 -   **Arc Module: Null - Passive**
-    -   When your Arc Suit is active outgoing and incoming enchant effects are nullified. (+10 Ether)
+    -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified. (+10 Health)
     -   Can be toggled by pressing N when Arc Suit is active.
 
 ### Effects
@@ -512,7 +512,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrine of Order.
+5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrines of Order and Conceit. You will not be locked out of it if you use them though.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.

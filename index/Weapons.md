@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 53439
+revid: 53763
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -299,7 +299,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.87x</td>
 </tr>
 <tr>
-  <td><a href="Light's_Final_Toll.md">Light's Final Toll</a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
   <td>65 WLL</td>
   <td>12</td>
   <td>5%</td>
@@ -364,7 +364,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
-  <td>18</td>
+  <td>17</td>
   <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
@@ -602,7 +602,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>N/A</td>
   <td>15%</td>
   <td>MED: 5</td>
-  <td>2</td>
+  <td>4</td>
   <td>8</td>
   <td>0.73x</td>
 </tr>
@@ -647,7 +647,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>N/A</td>
   <td>MED: 6</td>
   <td>6</td>
-  <td>8.5</td>
+  <td>8.2</td>
   <td>0.73x</td>
 </tr>
 <tr>
@@ -701,7 +701,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>10%</font></td>
   <td>15%</td>
   <td><font>MED: 6</font></td>
-  <td>2</td>
+  <td>4</td>
   <td>8</td>
   <td>0.73x</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 53426
+revid: 53778
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -42,6 +42,7 @@ notices:
 -   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_
     -   It also bears striking resemblance to the spell "Shock Assault" from _Wizard Of Legend,_ having a similar name and similar effects.
+-   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
 
 ### **Frostdraw**
 
@@ -77,7 +78,7 @@ notices:
         -   The trainer, **Samael**, is an angel in Judaism
         -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, which became the judge of the underworld after its death
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
 -   **Dawnwalker's** _Radiant Kick_ is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._

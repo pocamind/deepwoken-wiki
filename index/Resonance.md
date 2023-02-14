@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 52811
+revid: 53791
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -50,7 +50,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### Legendary Resonances
 
-**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
+**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md), [Dimensional Travel](Dimensional_Travel.md) and [Time Stop](https://wjnhduA). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
 
 _From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card)._
 

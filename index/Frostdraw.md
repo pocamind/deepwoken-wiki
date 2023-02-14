@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 53728
+revid: 53770
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -375,7 +375,7 @@ _Skate freely on paths of ice._
   <td><center><i>Enter a state of cryostasis.</i></center></td>
   <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit while this is active.
   <ul>
-    <li>Heals 1-3%</li>
+    <li>Heals up to 8%.</li>
     <li>Compatible with Stratus Stones and Eternal Logstones.</li>
     <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
   </ul></td>

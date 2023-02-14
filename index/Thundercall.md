@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 53280
+revid: 53776
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras, Attunement]
@@ -98,6 +98,25 @@ Modifiers:
  |
 |  | 
 
+Lightning Beam  
+(☆☆☆)
+
+ | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
+
+-   Has a talent that makes it cast instantly after flourishing an enemy, pretty much guaranteed hit after flourish.
+-   Appears after a second of casting.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
+ |
+|  | 
+
 Lightning Impact  
 (★☆☆)
 
@@ -136,25 +155,6 @@ Properties:
 Modifiers:
 
 Aeon Logstone
-
- |
-|  | 
-
-Lightning Beam  
-(★☆☆)
-
- | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
-
--   Has a talent that makes it cast instantly after flourishing an enemy, pretty much guaranteed hit after flourish.
--   Appears after a second of casting.
-
- | Damage:
-
-Cooldown:
-
-Properties:
-
-Modifiers:
 
  |
 |  | 
@@ -246,6 +246,23 @@ Bolt Piercer
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Self Damaging
 -   Was formerly a legendary mantra, now either rare or common.
+
+ | Damage:
+
+Cooldown:
+
+Properties:
+
+Modifiers:
+
+ |
+| [https://streamable.com/ab8zuy](https://streamable.com/ab8zuy) | 
+
+Rising Thunder
+
+(★★★)
+
+ | A rising tornado of flames (yes that's the actual description) | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
 
  | Damage:
 
@@ -465,8 +482,8 @@ Self-Shocker
 
 These talents are found in the _Authority Interrogator_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
 Authority Intimidation
 
@@ -476,22 +493,84 @@ All moves that apply electricity slow the opponent more.
 
  | 
 
- ???
+None
+
+ | 
+
+Power 10  
+60 Thundercall
+
+ |
+|  | 
+
+First Interrogation
+
+ | 
+
+Electrified attacks do 50% less posture damage to you.
+
+ | 
+
+None
+
+ | 
+
+Power 15  
+65 Thundercall
+
+ |
+|  | 
+
+Second Interrogation
+
+ | 
+
+Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+
+ | 
+
+None
+
+ | 
+
+Power 15  
+65 Thundercall
+
+ |
+|  | 
+
+Third Interrogation
+
+ | 
+
+Electrified attacks do 50% less damage to you.
+
+ | 
+
+None
+
+ | 
+
+Power 15  
+65 Thundercall
 
  |
 | File:Resolve crusher.png | 
 
-Resolve
-
-Crusher
+Resolve Crusher
 
  | 
 
-Lightning moves now have a chance to apply 'Electrify'.
+Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you.
 
  | 
 
- ???
+None
+
+ | 
+
+Power 15  
+65 Thundercall
 
  |
 
@@ -499,8 +578,8 @@ Lightning moves now have a chance to apply 'Electrify'.
 
 These talents are found in the _Javelin Lord_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
 Grand Skewer
 
@@ -515,27 +594,91 @@ Grand Javelin now carries opponents with it through the skies. (Press F while ca
 +3 Elemental Intensity  
 +1 Health
 
+ | 
+
+Grand Javelin  
+60 Thundercall
+
  |
 
 **Static Weaver:**
 
 These talents are found in the _Static Weaver_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
+Agitating Static
+
+ | 
+
+Using Discovery of Fire will light nearby downed enemies aflame.  
+
+ | 
+
++4 Ether  
++7 Reservoir
+
+ | 
+
+Discovery of Fire
+
+ |
+|  | 
+
 Jumper Cables
 
  | 
 
-Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.  
-(STATIC LINK UPGRADE)
+Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.
 
  | 
 
 +1 Ether  
 +5 Reservoir  
 +2 Health
+
+ | 
+
+Static Link  
+20 Fortitude
+
+ |
+|  | 
+
+Link Conduction
+
+ | 
+
+While you have active tethers your lightning mantras cost less ether.
+
+ | 
+
++6 Reservoir  
++4 Elemental Intensity
+
+ | 
+
+Static Link  
+65 Thundercall
+
+ |
+|  | 
+
+Quick Link
+
+ | 
+
+Landing an uppercut adds a static link to your opponent.
+
+ | 
+
++4 Elemental Intensity
+
+ | 
+
+40 Thundercall  
+15 Intelligence
 
  |
 | File:Static Ace.png | 
@@ -545,12 +688,16 @@ Static Ace
  | 
 
 Using stream core with an active Static Link targets your closest active link.  
-(STATIC LINK UPGRADE)
 
  | 
 
 +4 Ether  
 +7 Reservoir
+
+ | 
+
+Static Link  
+70 Thundercall
 
  |
 | File:Static Allure.png | 
@@ -559,8 +706,7 @@ Static Allure
 
  | 
 
-Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.  
-(STATIC LINK UPGRADE)
+Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.
 
  | 
 
@@ -568,6 +714,10 @@ Having two active Static Link's will cause the previous linked enemy to be pulle
 +1 Ether  
 +5 Resrvoir  
 +2 Health
+
+ | 
+
+Static Link, 50 Thundercall
 
  |
 |  | 
@@ -584,14 +734,19 @@ Flourishing and enemy crates a Static Link between you and your enemy, you light
 +4 Elemental Intensity  
 +1 Health
 
+ | 
+
+40 Thundercall  
+15 Intelligence
+
  |
 
 **Self-Shocker:**
 
 These talents are found in the _Self-Shocker_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
 Jumpstart
 
@@ -601,7 +756,12 @@ When not being carried Static Withdraw now increases movement speed, and wall sc
 
  | 
 
- ???
++4 Ether  
++4 Elemental Intensity
+
+ | 
+
+Static Withdraw
 
  |
 |  | 
@@ -610,26 +770,15 @@ Raging Static
 
  | 
 
-Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
-(STATIC WITHDRAW UPGRADE)  
-(JUMPSTART UPGRADE)
+Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.
 
  | 
 
- ???
-
- |
-|  | 
-
-Static Withdraw
+None
 
  | 
 
-When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them.
-
- | 
-
- ???
+Jumpstart
 
  |
 
@@ -637,8 +786,8 @@ When knocked, if someone tries to carry you for the first time after being knock
 
 These talents are found in the _Stormblade_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 | 
  | 
 
@@ -652,7 +801,11 @@ by pressing F at the end of the mantra Lightning Blade.
 
  | 
 
- ???
+None
+
+ | 
+
+Lightning Blade
 
  |
 
@@ -660,8 +813,8 @@ by pressing F at the end of the mantra Lightning Blade.
 
 These talents are found in the _Thunder Brawler_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
 Discharge
 
@@ -671,7 +824,29 @@ Discharge
 
  | 
 
++2 Elemental Intensity
+
+ | 
+
  ???
+
+ |
+|  | 
+
+Volt Kick
+
+ | 
+
+After landing a lightning kick press F to followup with a less potent kick.
+
+ | 
+
++2 Elemental Intensity
+
+ | 
+
+30 Thundercall  
+Thunder Kick
 
  |
 
@@ -679,8 +854,8 @@ Discharge
 
 These talents are found in the _Thunderblade_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
 Static Blade
 
@@ -690,7 +865,51 @@ Static Blade
 
  | 
 
- ???
++3 Elemental Intensity
+
+ | 
+
+40 Thundercall  
+20 Medium Weapon
+
+ |
+|  | 
+
+Overcharge
+
+ | 
+
+Your next dash after activating Static Blade is enhanced by lightnings.
+
+ | 
+
++2 Elemental Intensity  
++3 Health
+
+ | 
+
+Static Blade
+
+ |
+|  | 
+
+Gathering Electricity
+
+ | 
+
+\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown.
+
+ | 
+
++10 Carry Load  
++1 Passive Agility  
++2 Health
+
+ | 
+
+65 Thundercall  
+25 Strength / 25 Agility  
+Static Blade
 
  |
 
@@ -698,9 +917,78 @@ Static Blade
 
 These talents are found in the _Thundercaller_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
+Thundercaller
+
+ | 
+
+Grants you the ability to command Lightning as a Thundercaller.
+
+ | 
+
++3 Elemental Intensity  
++1 Health
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Adept Thundercaller
+
+ | 
+
+You can now obtain 1-star Thundercaller mantras.
+
+ | 
+
++5 Elemental Intensity  
+
+ | 
+
+20 Thundercall
+
+ |
+|  | 
+
+Expert Thundercaller
+
+ | 
+
+You can now obtain 2-star Thundercaller mantras.
+
+ | 
+
++4 Elemental Intensity  
+
+ | 
+
+30 Thundercall
+
+ |
+|  | 
+
+Master Thundercaller
+
+ | 
+
+You can now obtain 3-star Thundercaller mantras.
+
+ | 
+
++4 Elemental Intensity  
+
+ | 
+
+50 Thundercall
+
+ |
+|  | 
+
 Discovery of Fire
 
  | 
@@ -709,7 +997,11 @@ Light all campfires in a large radius for a little ether.
 
  | 
 
- ???
+None
+
+ | 
+
+50 Thundercall
 
  |
 |  | 
@@ -725,6 +1017,27 @@ Following a flourish up with a lightning beam causes it to be casted instantly.
 +3 Elemental Intensity  
 +2 Health
 
+ | 
+
+Lightning Beam
+
+ |
+|  | 
+
+Kickstart
+
+ | 
+
+Use your lightning to resurrect a knocked player, they wake up with about 15% hp.
+
+ | 
+
+None
+
+ | 
+
+50 Thundercall
+
  |
 |  | 
 
@@ -739,6 +1052,10 @@ When using lightning clones you disappear leaving behind a static clone for a sh
 +3 Elemental Intensity  
 +1 Health
 
+ | 
+
+Lightning Clones
+
  |
 |  | 
 
@@ -752,6 +1069,45 @@ You lightning does more damage in the rain.
 
 +4 Elemental Intensity  
 +3 Health
+
+ | 
+
+35 Thundercall
+
+ |
+|  | 
+
+Static Withdraw
+
+ | 
+
+when you get knocked, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
+
+ | 
+
++4 Elemental Intensity  
++3 Health
+
+ | 
+
+25 Thundercall
+
+ |
+|  | 
+
+Capacitor
+
+ | 
+
+Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
+
+ | 
+
++4 Elemental Intensity  
+
+ | 
+
+20 Thundercall
 
  |
 
@@ -773,52 +1129,51 @@ After successfully casting lightning impact, strike down countless thunder at th
 +7 Carry Load  
 +2 Elemental Intensity
 
- |
-
-**Uncategorised:**
-
-These are talents that we could not place a category. If you do know the category of the following Talents, please help this page by adding the category so that source editors can later, put a category to it.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | 
-Gathering Electricity
-
  | 
 
-\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE)
-
- | 
-
-+10 Carry Load  
-+1 Passive Agility  
-+2 Health
+Lightning Impact
 
  |
 |  | 
 
-Kickstart
+Jolt Cast
 
  | 
 
-Use your lightning to resurrect a knocked player, they wake up with about 15% hp.
+Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
 
  | 
 
- ???
+None
+
+ | 
+
+30 Thundercall  
+30 Intelligence
 
  |
+
+**Rampant Static:**
+
+These talents are found in the _Rampant Static_ category.
+
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 |  | 
-
-Volt Kick
-
- | 
-
-After landing a lightning kick press F to followup with a less potent kick. (MANTRA UPGRADE)
+Jolting Current
 
  | 
 
- ???
+Your lightning attacks in water strike others near them with lightning
+
+ | 
+
++4 Ether  
++4 Elemental Intensity
+
+ | 
+
+35 Thundercall
 
  |
 
@@ -834,7 +1189,6 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
--   According to a dev the recent thundercall nerf was because there will be a new 3 star mantra and a thundercall rifle, yes you heard right, these will be so broken the entire element had to be nerfed.
 
   
 

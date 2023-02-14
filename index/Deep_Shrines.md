@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 53371
+revid: 53773
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -93,7 +93,7 @@ _Pros/Cons_
 
 _Pros/Cons_
 
--   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20.
+-   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20. Also lets you change your build if a once good talent is nerfed. E.g. Finesse used to give +5 Health, but was stripped of it when merged with Now You See Me.
 -   Advanced talents can be obtained through this if you have all the required cards, and if you trade in a rare card, you will get choices of only rare cards(might be less than 3 if less than 3 available from attributes), and if you trade in a common card, you will only get common card choices.
 -   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card.
 -   Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
@@ -111,8 +111,8 @@ _Pros/Cons_
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** Balances all currently invested attributes to be equal.
--   **(PENALTY)** Balances all currently invested attributes to be equal, for 10 knowledge. Also gives you Restless flaw
+-   **(BENEFIT)** _Balances all currently invested attributes to be equal._
+-   **(PENALTY)** _Balances all currently invested attributes to be equal, for 10 knowledge. Also gives you Restless flaw._
 
 For example, if you're Power 12 then you would have 180 points. If you have any points in willpower, strength, intelligence, fortitude, which is four different stats, it would divide 180 by four which would be 45 and so it would place 45 investment points in each stat. However, if your race has an innate two Charisma but you never invested in Charisma, this will not be counted as you have not invested in it, so it will not divide by five.
 
@@ -126,23 +126,25 @@ _Pros/Cons_
 -   Innate (racial) attribute points do not count when redistributing your points.
 -   The Shrine of Order can be extremely useful to obtain certain advanced talents that require a lot of points, which normally would make a build useless, such as having 100 Fortitude and 100 Willpower (Brick wall). Having that without the Shrine of Order will only leave you 127 points for anything else.
 
-  
-**Shrine of \[Placeholder\]**
+### **Shrine of Conceit**
 
-Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the resonance door
+“ DELVE INTO YOUR LONG FORGOTTEN PAST. WHAT POSSIBILITIES HAVE YOU SHED? ”
 
-Currently you cannot interact with the shrine
+― Shrine of Conceit
+
+Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
 
 Saramaed Deep Shrine
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** ???
--   **(PENALTY)** ???
+-   **(BENEFIT)** _Unburn a talent you have burnt in the past._
+-   **(PENALTY)**_Lose 1 Knowledge_
 
 _Pros/Cons_
 
-  
+-   Lets you take a card if you accidently burnt it or if it was buffed into the most meta thing known to man.  
+    
 
   
 

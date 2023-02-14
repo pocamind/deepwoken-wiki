@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 53056
+revid: 53772
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -272,7 +272,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   They are not found within Layer One, their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
--   Shrines similar in appearance to the one in the Temple of Hearts are scattered throughout the Eastern Luminant.
+-   Shrines identical in appearance to the ones lining the corridor in the Temple of Hearts are scattered throughout the Eastern Luminant.
 -   They are not a former Ministry Prophet.
 
 File:Yun'Shul.png
@@ -436,7 +436,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 **Lore Sources:**
 
 -   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
--   It is assumed that the Voidsea is the byproduct or the result of The Tides.
+-   The Voidsea always existed, but with the Canticlysm, it began to increase in size, eventually blocking off the Luminants from each other.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
 -   They have been compared to a fraying edge on a fabric.

@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 51086
+revid: 53753
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -22,6 +22,7 @@ Diver Husks has an arsenal of weapons known across the Lumen to equip from, but 
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
+| Assault | Performs 3 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
 | Strong Left | _A powerful, flinging punch that shatters the air._ | ◯ | ◯ | (★★★) |
 | Critical | Standard Critical of their current weapon. | ◯ | ✗ | (★★☆) |
 

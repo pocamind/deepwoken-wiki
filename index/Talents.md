@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53751
+revid: 53780
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -143,7 +143,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 -   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running.
-    -   Prerequisites: Endurance Runner and Scaredy Cat Talents
+    -   Prerequisites: All Alley Cat talents
     -   Mutual Exclusive: Fishman
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
@@ -853,7 +853,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Human Architecture
 
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
-    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
+    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll, and reduces knockdown duration by 30%.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 ### Hunter
@@ -922,7 +922,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
-    -   Prerequisites: 1 Flamecharm, 15 Willpower, 15 Charisma
+    -   Prerequisites: 15 Charisma, 1 Flamecharm, 15 Willpower
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.

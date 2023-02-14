@@ -1,9 +1,9 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 53551
+revid: 53786
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Drowned Gods, NPCs, Layer 1]
+categories: [Pages with broken file links, Drowned Gods, NPCs, Layer 1]
 ---
 
 # Shrine of Yun'Shul, Keeper of Hearts
@@ -12,7 +12,11 @@ categories: [Drowned Gods, NPCs, Layer 1]
 
 ― Yun'Shul to the non-worthy
 
-Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
+Template:NPC name
+
+File:Screenshot 2023-02-13 175523.png
+
+**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
 ## Description
 
