@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 53298
+revid: 53903
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells, Attunement, Character, Combat Mantras]
@@ -56,6 +56,7 @@ _Slicing blades of wind._
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
+-   Shoots straight if shift lock is enabled.
 
  |
 |  | 
@@ -74,6 +75,7 @@ _Shoots out an air blast._
 -   Can break objects.
 -   Can be upgraded with cloudstones.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
+-   Shoots straight if shift lock is enabled.
 
  |
 | 

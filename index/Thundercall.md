@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 53867
+revid: 53902
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras, Attunement]
@@ -256,13 +256,13 @@ Properties:
 Modifiers:
 
  |
-| [https://streamable.com/ab8zuy](https://streamable.com/ab8zuy) | 
+|  | 
 
 Rising Thunder
 
 (★★★)
 
- | A rising tornado of flames (yes that's the actual description) | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
+ | A rising tornado of flames. | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
 
  | Damage:
 
@@ -375,108 +375,7 @@ Modifiers:
 
 ## Talents
 
-You may gain these through simply powering up (rolling talents), having more points in Thundercall severely increases the chance of you rolling them.
-
-### **Active**
-
-| Media | Talent | Card Description | Effect | Category |
-| --- | --- | --- | --- | --- |
-| 
- | 
-
-Stormcaller Slash
-
- | 
-
-Call forth the fury of the storms by pressing F at the end of the mantra Lightning Blade.
-
- | 
-
-Adds a 3rd hit if you press F at the end of the mantra.
-
- | 
-
-Stormblade
-
- |
-|  | 
-
-Discovery of Fire
-
- | 
-
-Flint and Flamecharm are for simpletons.
-
- | 
-
-Lights all nearby campfires for a bit of ether.
-
- | 
-
-Thundercaller
-
- |
-|  | 
-
-Kickstart
-
- | 
-
-Use your lightning to resurrect a knocked player, they wake up with about 15% hp.
-
- | 
-
-Play an animation and immediately revive knocked players.
-
- | 
-
- ???
-
- |
-| 
-
- | 
-
-Static Fakeout
-
- | 
-
-Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
-
-Requires 30 Agility
-
-(Rare Talent)
-
- | 
-
-+3 Elemental Intensity
-
-+1 Health
-
- | 
-
-Thundercaller
-
- |
-|  | 
-
-Static Withdraw
-
- | 
-
-When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them.
-
- | 
-
-???
-
- | 
-
-Self-Shocker
-
- |
-
-### **Passive**
+Bellow is a list of every single Thundercall exclusive talent.
 
 **Authority Interrogator:**
 
@@ -1189,9 +1088,8 @@ Your lightning attacks in water strike others near them with lightning
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
--   The Rising thunder mantra, is a clear reference to the One piece character, Almirant Kizaru, wich performs a nearly identical move to the Rising thunder.
-
-  
+-   The Rising thunder mantra, is a clear reference to Naruto Shippuden the attack is casted by Kakashi Hatake, which he names " Lightning Blade Twin Lightning Shiver"  
+    
 
 Virudhaka's Sword
 
