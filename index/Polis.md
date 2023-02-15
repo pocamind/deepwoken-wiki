@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 41784
+revid: 53993
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -20,7 +20,7 @@ Polis is an NPC normally found sitting below the white tree in the center of [Et
 
 ## Moveset
 
-Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**Jus Karita**) and the [Galebreathe](Galebreathe.md) Attunement:
+Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**Jus Karita**) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

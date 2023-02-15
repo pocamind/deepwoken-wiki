@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 53157
+revid: 53991
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Celtor Guard is an NPC that can only be found in [The Depths](The_Depths.md). They are found in and around Celtor. Having spent so long in [The Depths](The_Depths.md) has lead to them degrading overtime, referred to only as 'losing their self'. They wear the Duelist Attire and Legate Helmet
+A Celtor Guard is an NPC that can only be found in [The Depths](The_Depths.md). They are found in and around Celtor. Having spent so long in [The Depths](The_Depths.md) has lead to them degrading overtime, referred to only as 'losing their self'.
+
+They wear a [Barrel Helm](Barrel_Helm.md) and don a [Duelist's Attire](<Duelist's_Attire.md>).
 
 ## Moveset
 

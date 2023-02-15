@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53921
+revid: 53997
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -495,7 +495,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   This fact essentially makes this a direct upgrade from Oathless.
 -   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
 -   Radiant kick may be inspired by Minos Prime Judgement kick from Ultra kill, having very similar animations.
-    
+
+### Effect
+
+This oath grants 2 Combat Mantra Slots.
+
+The oath changes the eye color of oath takers to white and creates Moon's Eye symbol above their head with a disk spinning around its axis.
 
 **Contractor:**
 

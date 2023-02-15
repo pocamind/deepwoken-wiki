@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 51023
+revid: 53992
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Instructor is an NPC that can only spawned in via sparring. To spawn him, the player must talk to Das who is located in the Sparring Arena on [Isle of Vigils](Isle_of_Vigils.md), only then will an Instructor spawn.
 
-Instructors wear a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [race](Aspects.md) varying.
+Instructors wear a Gladiator Helm and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their gender and [race](Aspects.md) varying.
 
 ## Moveset
 
