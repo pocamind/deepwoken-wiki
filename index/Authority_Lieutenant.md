@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 53383
+revid: 53935
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -42,3 +42,4 @@ An Authority Lieutenant executes it's opponent after knocking them:
 ## Trivia
 
 -   Along with the [Authority Captain](Authority_Captain.md), they are the only Authority soldiers not to wear helmets.
+-   The Authority Lieutenant's dialogue when they are being executed is usually "you're pretty strong...", "how is this even possible?" or "what is someone of your strength doing here...?" the same as the Authority Captain.

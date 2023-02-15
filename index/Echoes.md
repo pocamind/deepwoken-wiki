@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 53793
+revid: 53989
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -237,4 +237,3 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.
-    -   thomas thomas#0691

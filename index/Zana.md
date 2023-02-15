@@ -1,9 +1,9 @@
 ---
 title: Zana
-revid: 52130
+revid: 53929
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Pages with broken file links, Enemies]
+categories: [NPCs, Enemies]
 ---
 
 # Zana
@@ -60,5 +60,5 @@ Zana acts as an encounter in the places you're suppose to challenge him; so it'l
 
 ## Trivia
 
--   He is a joke on “metamancers,” using a shattered katana and Royal Pathfinder, not to mention the fact you fight him at all the ganking spots.
--   His hp and damage seems to be about equal to that of a songseeker, recommend power 7+
+-   He is a reference to the “metamancer,” playertype, specifically those from near release. He uses a shattered katana and Royal Pathfinder and hints at being a Flamecharmer (probably Azure flames), not to mention the fact you fight him at all the ganking spots. Even the race he is pokes fun at how common these breeds of players are as Vesperians. All that's missing is Blindseer.
+-   His hp and damage seems to be about equal to that of a songseeker, recommend power: (whatever power level you're comfortable with when fighting a Songseeker)

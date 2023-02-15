@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53897
+revid: 53921
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -515,7 +515,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrines of Order and Conceit. You will not be locked out of it if you use them though.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
-8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him.
+8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.
 
 ### Upgrading
 

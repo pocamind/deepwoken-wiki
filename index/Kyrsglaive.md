@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 51161
+revid: 53933
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The Kyrsglaive is a Medium Weapon obtained from Layer 2. It is a spear, and has 20% PEN alongside a BLEED effect.
+The Kyrsglaive is a [Medium Weapon](Weapons.md) obtained from Layer 2. It is a spear, and has 20% PEN alongside a BLEED effect.
 
 The Kyrsglaive does 30.75 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 38.25 damage.
 

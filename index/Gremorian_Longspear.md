@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 53305
+revid: 53930
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Items]
@@ -36,3 +36,4 @@ This weapon can be upgraded into an endgame weapon, called the **Alloyed Longspe
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
+-   You can use mantras during it's critical (aka move stacking which is fucking gay. (nothing against homosexuals it's just that no one likes move-stacking))

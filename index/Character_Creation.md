@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 51880
+revid: 53968
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -32,9 +32,13 @@ To obtain the [Shadowcast](Shadowcast.md) [attunement](Attunements.md), you need
 
 Each character may have a maximum of two [attunements](Attunements.md), one selected from the customization menu and one learned from a [Spelltrainer](Attunement_Trainers.md).
 
+### Starting Attunements
+
+Template:NavBox Template:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+
 ### Unlockable Attunements
 
-_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
+Template:NavBox_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes
 
@@ -92,7 +96,7 @@ The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon reaching the
 Here is what makes the Lone Warrior [Origin](Origins.md) unique:
 
 -   Upon spawning in with this [Origin](Origins.md), you immediately teleport into the [Trial of One](Trial_of_One.md), cutting off the time required to sail there.
--   The [Trial of One](Trial_of_One.md) greatly speeds up progression, allowing players to reach [Power](Power.md) 18 in ~20 minutes or less.
+-   The [Trial of One](Trial_of_One.md) greatly speeds up progression, allowing players to reach [Power](Power.md) 6 in ~20 minutes or less.
 -   For more information, visit the [Trial of One](Trial_of_One.md) page.
 
 ### [Deepbound](https://deepwoken.fandom.com/wiki/Origins#Deepbound)

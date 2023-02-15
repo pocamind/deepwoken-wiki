@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 53504
+revid: 53932
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -30,7 +30,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Kyrsblade is an endgame Medium Weapon obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It requires 75 MED to use, and has 35% Chip Damage and 5% Penetration.
+The Kyrsblade is an endgame [Medium Weapon](Weapons.md) obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It requires 75 MED to use, and has 35% Chip Damage and 5% Penetration.
 
 ## Notes & Trivia
 
