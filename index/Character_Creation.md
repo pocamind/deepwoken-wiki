@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 53968
+revid: 54004
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -73,9 +73,11 @@ Etris is a large set of islands and land formations and is very simply layout. T
 Here is what makes Etris unique:
 
 -   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Greatsword](https://deepwoken.fandom.com/wiki/Darksteel_Greatsword) with a rag, who gives you a [Gold Ring](https://deepwoken.fandom.com/wiki/Armors?so=search#Rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
--   In front of the Antiquarian's building, there is a boulder that you can purchase to train fortitude. This means you can level fortitude at will.
+-   The NPC who greats you grants, unlike the NPC in Vigils who only gives.
 -   You can do the [Lord Regent Quest](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Lord_Regent_Quest>) in order to get the [Manor Key](<Duke_Erisia's_Manor.md>) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
 -   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the [Etris](Etris.md) blacksmith.
+-   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.
+-   [Calabash](Calabash.md).
 
 ### [Isle of Vigils](Isle_of_Vigils.md)
 
@@ -83,11 +85,10 @@ The Isle of Vigils is a small island with a fortress guarded by [Vigils](Blade_T
 
 Here is what makes the Isle of Vigils unique:
 
--   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who will request you to bring a crate of food up to Stratos at the [Temple of The Blade](Temple_of_the_Blade.md). This will reward you 25 notes, **allowing you to start off with 50 notes.**
--   A trainer to fight against with no consequences for losing all your HP.
+-   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who will request you to bring a crate of food up to Stratos at the [Temple of The Blade](Temple_of_the_Blade.md). This will reward you 25 notes, **allowing you to start off with 45 notes.**
+-   A trainer to fight against with no consequences for losing all your HP, allowing you to train Weapon Mastery, Fortitude and learn how to parry different weapon types.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
--   A gravestone that has a Vesperian mask.
 
 ### [Lone Warrior](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior)
 
@@ -144,9 +145,7 @@ Age may affect your Character's entire appearance, such as wrinkles and a change
 
 You do not die of old age, as the system is purely cosmetic.
 
-The Developers of Deepwoken say that there is a way (possibly an item) to halt your aging, but no one found it as of 3/18/2022.
-
--   The [Moon Ring](Outfits.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
+The [Moon Ring](Outfits.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
 
 There may be some changes to dialogue with NPCs depending on what 'Tier' of age your character is, listed below:
 

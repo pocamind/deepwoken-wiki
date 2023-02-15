@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 51551
+revid: 54003
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,7 +30,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 ### Boons
 
--   Third Eye - A Ministry Scout cannot be assassinated under any circumstances.
+-   Third Eye - A Ministry Captain cannot be assassinated under any circumstances.
 -   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Finisher
@@ -42,3 +42,5 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 ## Trivia
 
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to them and the scouts.
+-   Ministry Captains are identical an appearance to [Ministry Scouts](Ministry_Scout.md), yet hold a higher rank.
+    -   This trend can also be seen with [Apprentice Divers](Apprentice_Diver.md) and regular [Divers](Diver.md).

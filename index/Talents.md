@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 53909
+revid: 53999
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1618,8 +1618,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity)
     -   Prerequisite: 30 Thundercall
-    -   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity)
-        -   Prerequisite: 50 Thundercall
+-   Master Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity)
+    -   Prerequisite: 50 Thundercall
 
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
@@ -1687,8 +1687,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Lasting Image \[Common Talent, Visionshaper Exclusive\] - Your illusions last longer.
 
--   Mirage From the Deep \[Common Talent, VisionShaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 15% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
-    -   Upon pressing X, you will leave Illusionary Realm early, leaving behind 3 creatures: [Megalodaunt](Megalodaunt.md), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
+-   Mirage From the Deep \[Common Talent, Visionshaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 10% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
+    -   Upon pressing X, you will leave Illusionary Realm early, leaving behind 3 creatures: [King Thresher](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
 
 -   Vanishing Closure \[Rare talent, Visionshaper Exclusive\] - Briefly disappear after knocking an enemy.
     -   Become invisible for 5 seconds whenever you knock an enemy.

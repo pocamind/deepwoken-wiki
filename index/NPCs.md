@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 51598
+revid: 54010
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -26,10 +26,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) |  |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
-| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | 
-> [Lower Erisia](Lower_Erisia.md), Viper's Jaw
-
- | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in Upper Erisia |
+| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in [Aratel Island](Aratel_Island.md) |
 | [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer |  |
 | Andrea | Unaligned | [The Depths](The_Depths.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | Arthur | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) |  |
@@ -48,7 +45,6 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | Thundercall |  |
 | Gild | Unaligned | The Depths, Varicosa District | None | Talks about the Celtors being forgotten to time |
 | The Guy | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character. | If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
-
 check the rest out for yourself.
 
  |

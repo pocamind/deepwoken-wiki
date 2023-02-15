@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 52325
+revid: 54001
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -17,12 +17,9 @@ categories: [Resonance]
 
 ― Crazy Slots description
 
-  
-
 ## Description
 
-  
-**Crazy Slots** is a [Resonance](Resonance.md) or an alternative name, "bell" that players can obtain and is uncommon to roll.
+**Crazy Slots** is a [Resonance](Resonance.md) that players can obtain and is uncommon to roll.
 
 **Crazy Slots** does not have separate versions, but instead pulls out weapons from thin air that are unique to this Resonance.
 

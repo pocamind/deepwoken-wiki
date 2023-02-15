@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 52759
+revid: 54006
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Attunement-based Weapons"]
+categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
 ---
 
 # Crypt Blade

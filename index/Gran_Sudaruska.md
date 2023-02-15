@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 53052
+revid: 54008
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons"]
+categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

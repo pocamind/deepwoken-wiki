@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53997
+revid: 53998
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -288,9 +288,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ Im fast as f\*ck boyyyy ”
+“ Wanna see me do it again? ”
 
-― Jetstriker escaping from a Contractor in the Depths.
+― Jetstriker after circling the entirety of etris 17 times in 3 seconds in the middle of a guild war
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
