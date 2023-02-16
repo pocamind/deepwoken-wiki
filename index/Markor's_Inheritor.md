@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 54047
+revid: 54053
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Items]
@@ -31,7 +31,7 @@ categories: [Weapons, Greatswords, Items]
 
 Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 10 STR.
 
-It shares the same critical animation with the [Way of Navae](Fists.md) fists which makes it stand out from the other heavy weapons. the fighting style of the critical cannot be changed.
+It shares the same critical animation with the [Way of Navae](Fists.md) fists, standing out from the other heavy weapons. The fighting style of the critical cannot be changed.
 
 ## Trivia
 

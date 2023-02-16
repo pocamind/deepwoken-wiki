@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 52878
+revid: 54061
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -22,11 +22,11 @@ You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) yo
 -   10 from attunement (Attunementless characters spawn in with 10 points to distribute)
 -   4 from race
 -   13 from character creation
--   1 For second Attunement(not required for all characters, but is set aside)
+-   1 from second Attunement (not required for all characters, but is set aside)
 
 All attributes can be improved up to 75 points but may be unbounded to 100 once you [complete a quest](Attributes_Unbound.md) to unlock an attribute's full potential.
 
-If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
+If your race happens to start with +2 in a given stat, the respective limits are 77 and 102 instead.
 
 Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build) and [https://deepwoken-builder.vercel.app](https://deepwoken-builder.vercel.app)
 
@@ -85,7 +85,7 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
     -   One point in charisma gives 1.5 ether.
 -   Charisma can be used in certain dialogue checks that require charisma.
 -   Gain charisma EXP by selling items and using the "How To Make Friends" book.
--   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33 and eagerly at power 66.
+-   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33 and eagerly at charisma level 66.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.
 
 ## Weapon Attributes
