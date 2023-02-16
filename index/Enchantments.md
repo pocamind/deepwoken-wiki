@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 53990
+revid: 54043
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -405,7 +405,7 @@ Ferocity
 
  | 
 
-On proc, deals a little bit of damage to your opponent. Procs after being hit after an unknown amount of hits and keeps proccing for every consecutive hit.  
+On proc, gain a speed boost and damage reduction based on how much tempo you have.  
 
  | 
 
@@ -554,6 +554,7 @@ Static flaming purple.
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
 -   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
+-   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 
 ## Trivia
 

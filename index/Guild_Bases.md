@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 53803
+revid: 54015
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -41,6 +41,7 @@ The pricing list is as follows:
 -   Room 10:
 -   Room 11:
 -   Room 12:
+-   Room 13: Not yet released
 
 From this, the total cost of all rooms and NPCs would be a whopping.
 
@@ -58,6 +59,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
+-   Fishing Room (N/A) - A soon to be released room for fishing.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
 
@@ -69,6 +71,6 @@ Bandits raiding a Guild Base.
 
 -   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   You can break the Guild Base open while inside and fall off the map.
--   Grand skewers is disabled while inside, as it could throw people out the base.
+-   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of each room can increase exponentially.
--   Bandits could spawn inside the base. Though this was believe to be intentional, it was revealed in the 2/13/23 update that it was a bug.
+-   Bandits could spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it was a bug.

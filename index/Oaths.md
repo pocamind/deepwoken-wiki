@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 53998
+revid: 54038
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently nine obtainable Oaths in _Deepwoken._
+There are currently nine obtainable Oaths in _Deepwoken.._
 
 ## Pathfinder (No Oath)
 
@@ -237,9 +237,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ The world is broken, linked by fragile webs. ”
+“ It was just 1% of my true power... ”
 
-― Entropy Link Description
+― Canor 600 hp on an ultimate support build using his oath.
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -506,9 +506,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ Oh so you followed a Raum PVE build? Time to die. ”
+“ ITS CONTRACTIN' TIME! ”
 
-― Contractor preparing to bossraid a Hell Mode guild.
+― Adret going to the etris palace after talking to yun'shul.
 
 ### Obtainment
 

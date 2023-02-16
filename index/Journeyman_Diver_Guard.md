@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 53373
+revid: 54017
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -30,7 +30,7 @@ A Journeymen Diver's arsenal consists of:
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ? | (★★☆) |
+| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
 | Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
 | Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
 | Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
@@ -38,6 +38,14 @@ A Journeymen Diver's arsenal consists of:
 ### Boons:
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+## Finisher
+
+A Journeyman Diver executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute |  |
 
 ## Tips
 

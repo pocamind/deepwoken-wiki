@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 54005
+revid: 54024
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -44,7 +44,7 @@ Light's Final Toll is a Legendary spirit lantern that floats beside the player. 
 -   **Is not compatible with Jus Karita.**
 -   Has misleading animations that extend the weapons visual reach way outside of it's effective hotbox.
 -   Can switch between Way of Navae and Legion Kata critical attacks.
--   As this weapon is Legendary, it is completely unenchantable.
+-   As this weapon is Legendary, it is completely unenchantable, though it was able to be enchanted for a bit.
 
 ## Gallery
 

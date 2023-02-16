@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 53435
+revid: 54039
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They're usually in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. There can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards. There is a chance for them to spawn with an Iron Sword, a weapon exclusive to them.
+Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They're usually in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. There can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards. There is a chance for them to spawn with an Iron Sword, a weapon exclusive to them. They can also spawn in three waves each consisting of four Bandit Leaders attacking the [Forgotten Villagers](Forgotten_Villager.md) in [Erisor's Church](<Erisor's_Church.md>).
 
 A Bandit Leader wears the unobtainable Bounty Hunter armor with their [race](Aspects.md) varying.
 
@@ -53,5 +53,5 @@ A Bandit Leader executes their opponent after knocking them:
 
 ## Trivia
 
--   The Bandit Captains, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with he speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
+-   The Bandit Captains, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
 -   Their "Iron Sword" is not seen anywhere else in the game, and cannot be obtained by players.
