@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 48617
+revid: 54072
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -13,6 +13,16 @@ categories: [Pages with broken file links, NPCs]
 Spelltrainers are NPCs that are hidden around the map that level up spells for money. Each trainer will increase a mantra level by one depending on which element they train. (Ex: Ice trainer will level up ice [mantras](Mantras.md), etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled up mantra's damage is increased obviously.
 
 A spell trainer **WILL NOT** train you if you do not have the element learned. A trainer needs intervals of 20 points in your attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
+
+Ex:
+
+20 Level 2 mantra
+
+40 level 3 mantra
+
+60 level 4 mantra
+
+80 level 5 mantra
 
 However you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) Unlocking an attunement permanently allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
 

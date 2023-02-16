@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 53297
+revid: 54075
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -32,6 +32,7 @@ In spite of it's shortcomings, the potential of Attunementless is nothing to sco
 
 -   These mantras are based on your attributes, not your attunements.
 -   Their damage/efficiency scales with the attribute's level.
+-   _(Side note, when i say "unknown if upgrading does \[x\]", i mean upgrading at the trainer, not modifiers.)_
 
 ### _**Strength Mantras**_
 
@@ -84,6 +85,7 @@ File:No Attunement Revamp.png
 -   A vertical jump that sends the user into the air.
 -   Altitude travelled decreases significantly as the user loses health.
 -   Drops carried players/NPCs when used.
+-   **UNKNOWN IF UPGRADING MAKES YOU LEAP FURTHER, NEEDS TESTING**
 
  |
 | 
@@ -133,6 +135,7 @@ File:No Attunement Revamp.png
     -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
 -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people outside your guild.
+-   **UNKNOWN IF UPGRADING MAKES YOUR HEAL AND/OR BUFFS STRONGER, NEEDS TESTING**
 
  |
 | 
@@ -148,6 +151,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
 -   User gains hyperarmor, negating hitstun for the duration of the effect.
 -   Last 5 Seconds by default.
+-   **UNKNOWN IF UPGRADING MAKES IT LAST LONGER, NEEDS TESTING**
 
  |
 | 
@@ -183,11 +187,11 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 
 -   **Requirements:** _**5 Agility,**_ _Combat Mantra_
     -   A quick dash signified by a red-line effect.
-    -   The move is only activated upon hitting an opponent.
+    -   The move only teleports you forwards upon hitting an opponent.
     -   Teleports the user some distance forward upon activation.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
     -   Scales with the user's Power Level and Agility Attribute.
-    -   **THIS MOVE DOESN'T APPLY HITSTUN**
+    -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
 
  |
 | 
@@ -203,6 +207,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**40 Agility,**_ _Mobility Mantra_
     -   Sends the user a considerable distance forward.
     -   Range significantly decreases as the user loses health.
+    -   **UNKNOWN IF UPGRADING MAKES YOU DASH FURTHER, NEEDS TESTING**
 
  |
 | 
@@ -219,6 +224,7 @@ File:No Attunement Revamp.png
     -   Restores a decent amount of ether periodically.
     -   Increases movement speed and parkour abilities by ~25%.
     -   Procs the "Speed Demon" talent. _**(TESTED!)**_
+    -   **UNKNOWN IF UPGRADING MAKES THE SPEED BUFF STRONGER/LAST LONGER, NEEDS TESTING**
 
  |
 
@@ -257,6 +263,7 @@ File:No Attunement Revamp.png
     -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing' and 'Successive Prediction'.
+    -   **UNKNOWN IF UPGRADING DOES ANYTHING TO IT, NEEDS TESTING**
 
  |
 

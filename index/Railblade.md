@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 54068
+revid: 54070
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -31,9 +31,9 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 
 ## Description
 
-The Railblade is a [Heavy weapon](Weapons.md) obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and it is a legendary weapon. The Railblade requires 80 HVY and Power 10 to equip.
+The Railblade is a [Heavy Greatsword](Weapons.md) obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and is a legendary weapon. The Railblade requires 80 HVY and Power 10 to equip.
 
-The Railblade is unique because of its two different critical attacks, along with the criticals inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
+The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
 
 ## Critical Animations
 
