@@ -1,9 +1,9 @@
 ---
 title: "Markor's Inheritor"
-revid: 54053
+revid: 54092
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Items]
+categories: [Weapons, Greatswords]
 ---
 
 # Markor's Inheritor

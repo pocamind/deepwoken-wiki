@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 54012
+revid: 54084
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -214,8 +214,8 @@ The one and only... MEAT LORD!
 
 -   High ranking member of the Authority.
 -   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
--   User of an unknown Oath.
-    -   While this Oath is believed by many to be Warmaster, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time.
+-   User of the Warmaster Oath. (Confirmed by Ragoozer)
+    -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that atleast something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
 -   One of the few people that is not aligned with the Ministry that knows the true intentions and identity of the Lord Regent.
 -   Very probably is under the direct command of Drallis Ehr.
 -   Presumably an Adret.
