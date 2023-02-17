@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 53902
+revid: 54111
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Magic, Spells, Mantras, Attunement]
+categories: [Pages with broken file links, Mantras, Attunement]
 ---
 
 # Thundercall
@@ -1088,7 +1088,7 @@ Your lightning attacks in water strike others near them with lightning
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
--   The Rising thunder mantra, is a clear reference to Naruto Shippuden the attack is casted by Kakashi Hatake, which he names " Lightning Blade Twin Lightning Shiver"  
+-   The Rising thunder mantra, is a clear reference to One Piece, the attack is casted by Almirant Kizaru which he names "Yata no Kagami", meaning "Eight-Span Mirror".  
     
 
 Virudhaka's Sword

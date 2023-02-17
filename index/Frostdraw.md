@@ -1,9 +1,9 @@
 ---
 title: Frostdraw
-revid: 53770
+revid: 54110
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
+categories: [Pages with broken file links, Mantras, Attunement]
 ---
 
 # Frostdraw
@@ -42,8 +42,6 @@ The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. She requi
 **Standard:**
 
 These mantras have no prequisites.
-
-.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -138,7 +136,7 @@ _Form and toss daggers of ice at your aimed opponent._
 
 -   Homing attack.
 -   Can be upgraded with the "Frozen Pin-Cushion" talent.
--   Consumes ether even if desired target is out of range. However it doesnt go on cooldown
+-   Consumes ether even if desired target is out of range. However it doesn't go on cooldown.
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 

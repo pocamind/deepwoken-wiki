@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 54083
+revid: 54114
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,7 +27,7 @@ Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | Triple Slash into Leap | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. Leap can be dodged by walking in the opposite direction usually. | ✗ | ✗ | ✗ | (★★☆) |
-| Crushing Grab | The Bone Keeper will make an indication of an unparryable attack, before swinging its right arm sideways. If this attack lands, the player hit will be grabbed similar to a Crustaceous Rexs grab attack and will take **devastating damage**. This attack is to be avoided at all costs. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. Be warned as this attack Auto grips. | ✗ | ◯ | ◯ | (★★★) |
+| Crushing Grab | The Bone Keeper will make an indication of an unparryable attack, before swinging its right arm sideways. If this attack lands, the player hit will be grabbed similar to a Crustaceous Rexs grab attack and will take **devastating damage**. This attack is to be avoided at all costs. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. Be warned as this attack Auto grips. | ✗ | ◯\* | ◯ | (★★★) |
 | Charge | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and blockbreaking. | ◯ | ✗ | ◯ | (★★☆) |
 | Triple
 Slash

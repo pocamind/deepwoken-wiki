@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 54017
+revid: 54096
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Journeymen Divers are NPCs that act as the guards of [Castle Light](Castle_Light.md).
 
-They seem to be able to use up to 4 different Attunements at a time.
+They are able to use all four Attunements at a time, the only NPCs in the game capable of doing so.
 
 ## Moveset
 
@@ -56,3 +56,4 @@ A Journeyman Diver executes it's opponent after knocking them:
 
 -   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeymen Divers due to their presence contradicting the established low number and high power level of actual Black Divers.
 -   They use the Magnet Spark variant of Jolts Grab.
+-   When they were added to the game, players were limited to two Attunements at a time, making them the only ones in the entire game capable of using all four.

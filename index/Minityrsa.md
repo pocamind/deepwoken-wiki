@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 54094
+revid: 54098
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -70,7 +70,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Khan Boots
 -   Ranger's Boots
 
- | [Vigil Longsword](Vigil_Longsword.md)
+ | • [Vigil Longsword](Vigil_Longsword.md) (Rare)
 
 -   [Canorian Axe](Canorian_Axe.md) (Rare)
 -   [Crescent Cleaver](Crescent_Cleaver.md) (Rare)

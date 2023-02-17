@@ -1,9 +1,9 @@
 ---
 title: Shadowcast
-revid: 53817
+revid: 54119
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, Magic, Spells, Attunement, Combat Mantras]
+categories: [Pages with broken file links, Mantras, Attunement]
 ---
 
 # Shadowcast

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54038
+revid: 54113
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -8,7 +8,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 # Oaths
 
-| Oath: Oathless | |
+| Steve | |
 |---|---|
 | oath_req | None |
 | effects | +2 Wildcard Mantra Slots |

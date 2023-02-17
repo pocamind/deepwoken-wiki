@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 53890
+revid: 54100
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -151,9 +151,6 @@ _Pros/Cons_
 ## Trivia
 
 -   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
-
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit
-
 -   The Shrines are most notably references to another Roguelike, the Risk Of Rain series. Such as the Shrine of Order and Shrine of Chance preform similar to said shrines in Risk of Rain 2.
-
--   You do not need to deal with the Shrine of Conceit for the contractor quest.
+-   You do not need to deal with the Shrines of Conceit or Order for the contractor quest.

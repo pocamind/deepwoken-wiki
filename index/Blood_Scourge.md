@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 52001
+revid: 54105
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -16,8 +16,6 @@ categories: [Resonance]
 “ Conjure a swirling mass of chaotic energy that will drain the life out of your foes. ”
 
 ― Blood Scourge description
-
-  
 
 ## Description
 
