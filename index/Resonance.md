@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 53796
+revid: 54138
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -34,7 +34,7 @@ _From data of 100 rerolls, the calculated chance of getting a normal Resonance w
 
 Corrupted Resonances give more points for the "pointbuy" system of Resonance, allowing them to grant more benefits.
 
-_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card)._
+_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card). (Side note: I refuse to believe that corrupted resonances have anywhere near the same chance as legendary ones so take this with a grain of salt.)_
 
 However, similarly to [Cursed Enchants](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 

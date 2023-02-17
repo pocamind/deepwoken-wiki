@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 53763
+revid: 54142
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -37,13 +37,13 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 ### One-Handed
 
--   Deal increased posture damage with parries
+-   Recover increased posture from parrying
 -   Deal reduced posture damage with hits
 -   Can use offhand weapons, like shields or guns
 
 ### Two-Handed
 
--   Deal reduced posture damage with parries
+-   Recover reduced posture from parrying
 -   Deal increased posture damage with hits
 -   Slightly faster swing speed
 
@@ -1530,7 +1530,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
-  <td>75 ICE, 30 HVY, LVL 10</td>
+  <td>75 ICE, 30 HVY, LVL 3</td>
   <td>23.5</td>
   <td>N/A</td>
   <td>ICE: 8 HVY: 4</td>
@@ -1690,7 +1690,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
 
 ## Trivia
 
--   You can pass down soulbounding weapons with a good amount echoes, however the weapon will automatically soulbound to the next character.
+-   You can pass down soulbound weapons for 100 echoes each, however the weapon will be automatically soulbound to the next character.
 -   The weapon with the highest:
     -   Base Damage: Hivelord Hubris (30)
     -   Requirement: Shattered Katana (100 MED)

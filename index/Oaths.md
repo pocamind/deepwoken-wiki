@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54127
+revid: 54132
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -135,6 +135,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
         -   This affects everybody, including the caster and their allies.
     -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
+    -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing.
     -   About the size of a medium Sacred field roll.
     -   Cannot be augmented by Spark Ingredients.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
@@ -151,7 +152,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player one Support Mantra slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
-This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
+This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to gaze, glare and flame blind.
 
 Having all the talents, the blindfold, and the oath, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
