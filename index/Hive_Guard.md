@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 53169
+revid: 54160
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,17 +8,15 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Hive Guard
 
+**Guard:**
+
 Template:EnemyInfobox1.0
 
 ## Description
 
-Hive Guards are NPCs that can appear in 2 variants. The first being a regular guard that can only be found outside and around the [Greathive Aratel](Greathive_Aratel.md); these ones wear a [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) outfit. The second variant can only be found in the following events:
+Hive Guards are NPCs that only spawns in [Greathive Aratel](Greathive_Aratel.md). They wear a pair of Woodland Pauldrons and Woodland Boots and don the [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) outfit. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
 
--   Hive Guards (**Soldiers**) vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
-
-The second variant wears a [Hive Drone](Hive_Drone.md) outfit instead of a **Grandmaster Pathfinder Cloak** outfit along with their lack of any attunement. Similar to any other guard, killing one will give the player negative reputation with [The Hive](Reputation.md).
-
-Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md). They also wear a pair of Woodland Pauldrons and Woodland Boots.
+Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md).
 
 ## Moveset
 
@@ -47,9 +45,38 @@ Flame Assault
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 
-### **Soldier Variant**
+## Finisher
 
-A Hive Guard's (**Soldier**) arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md) or [Silver Dagger](Silver_Dagger.md):
+### **Guard Variant**
+
+A Hive Guard executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before impaling them through the chest with their spear. |
+
+## Trivia
+
+-   Hive Guards should be avoided since it has an extremely high HP Pool, higher than most humanoid NPCs.
+    
+
+**Soldier:**
+
+Template:EnemyInfobox1.0
+
+## Description
+
+Hive Soldiers are the weaker counterpart to Hive Guards. They can only be found in the following events:
+
+-   Hive Soldiers vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
+
+They wear a pair of Woodland Pauldrons and Woodland Boots and don a [Hive Drone](Hive_Drone.md) outfit. Killing one will also give the player negative reputation with [The Hive](Reputation.md).
+
+Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md).
+
+## Moveset
+
+A Hive Soldier's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md) or [Silver Dagger](Silver_Dagger.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -79,17 +106,7 @@ Critical
 
 ## Finisher
 
-### **Guard Variant**
-
-A Hive Guard executes it's opponent after knocking them:
-
-| Name | Description |
-| --- | --- |
-| Execute | Pins down opponent before impaling them through the chest with their spear. |
-
-### **Soldier Variant**
-
-A Hive Guard (**Soldier**) executes it's opponent after knocking them:
+A Hive Soldier executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -100,4 +117,4 @@ A Hive Guard (**Soldier**) executes it's opponent after knocking them:
 
 ## Trivia
 
--   The **Guard Variant** should be avoided since it has an extremely high HP Pool, higher than most humanoid NPCs.
+-   Hive Soldiers are most likely to lose to Etrean Footsoldiers in a fight due to them having no mantras.

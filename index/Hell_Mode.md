@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 52140
+revid: 54153
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -58,7 +58,7 @@ Upon reaching 100 or more kills, a chest will spawn under the players that rung 
 Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 
 -   **Use height to your advantage to get to a safe place.** Although most monsters can jump somewhat high, they will have trouble hitting you depending on how high you are. Finding high ground to heal, looking around for monsters and taking a breather is important as you do not want to get jumped by enemies you're not ready for. Be wary though, as the Nautilodaunt and Deep Owls can scale even the greatest of walls. The Enforcer doesn't have its usual pull ability so do not worry about it.
--   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful.
+-   **Most players in Hell Mode servers will be neutral or peaceful.** This isn't guaranteed of course but due to how difficult Hell Mode can be, working together is almost a necessity to survive. Whether it's boosting each other up on a high platform, providing healing and beating up mobs, being in a group can be incredibly helpful. **Please be aware that** people can be peacefull only when hell mode is active, but with the contractor oath implemented, there is a **VERY HIGH CHANCE** that you will get raided as soon as the hell mode ends, this can be due to contractors, people trying to steal your loot, or only people who want to wipe people. To have a high chance of not facing these people, once there are 10 or less monsters to kill to end hell mode, go to a place where there is no one, get all the loot when hell mode ends and change servers as quick as possible.
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repercussions to you.

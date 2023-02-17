@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 54136
+revid: 54150
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -55,7 +55,6 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   (legendary resonance was believed to give 35 echoes but after I tested it, I found out it gave 0)
 
 ## Upgrades and Modifiers
 
