@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 50609
+revid: 54126
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -30,31 +30,44 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Blessed
 -   Bloodless
 -   Burning
+-   Cheery
 -   Chilled
+-   Clever
 -   Crimson
 -   Conniving
+-   Cool
 -   Crying
 -   Drowned
 -   Dumb
+-   Foolhardy
+-   Foolish
 -   Eccentric
 -   Ecstatic
+-   Elegant
 -   Fashionable
 -   Flaming
 -   Furious
 -   Golden
+-   Impudent
 -   Incompetent
+-   Joyous
 -   Kind
+-   Laughing
 -   Mischievous
 -   Platinum
 -   Prudent
+-   Quick
 -   Running
 -   Screaming
 -   Shocking
+-   Slothful
 -   Snarky
 -   Spritely
 -   Steadfast
+-   Stupid
 -   Terrific
 -   Vainglorious
+-   Warm
 -   Wayward
     
 

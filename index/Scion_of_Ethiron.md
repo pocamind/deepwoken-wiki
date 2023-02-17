@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 54019
+revid: 54128
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Bosses, Floor 2, Layer 2]
 
 # Scion of Ethiron
 
-“ Wake. ”
+“ The only match for me is the Aztup Murmur and Synapse Oath, otherwise, you're a noob. ”
 
 ― ???
 
