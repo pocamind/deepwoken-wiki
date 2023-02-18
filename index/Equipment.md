@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 53541
+revid: 54281
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1755,6 +1755,7 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Flameguard.png | 

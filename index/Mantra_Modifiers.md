@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 53321
+revid: 54217
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -232,7 +232,7 @@ Gem
 
 +2 Intensity  
 
-+?? Ether Cost
++18% Ether Cost
 
  | 
 

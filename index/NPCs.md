@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 54010
+revid: 54289
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -105,3 +105,4 @@ Might give a different dialogue if you have the Castaway origin who has done the
 | [Windrunner](Windrunner.md) | Unaligned |  |  |  |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](The_Depths.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations. |
+| Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. I cannot stress this enough; he throws you into the nest pit, and forces you to fight 8-9 bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS PATCHES IN DEEPWOKEN |

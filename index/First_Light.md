@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 54146
+revid: 54275
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -39,6 +39,6 @@ The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in
 
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
--   One of two greatswords (Other being enforcer blade), that has no endlag on m1s.
+-   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.
 -   Also possibly a reference to one of Elesis' claymores of her Empire Sword class from the MMORPG game Elsword.
 -   It deals 37 Damage at 75 Heavy.

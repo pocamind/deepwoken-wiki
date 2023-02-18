@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 54123
+revid: 54223
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -263,6 +263,10 @@ Rising Thunder
 (★★★)
 
  | Rise up with your opponent and crash down as a bolt of lightning | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
+
+-   Hyper Armor
+-   Short windup and completely safeguards user when landed
+-   Applies heavy knock back
 
  | Damage:
 
@@ -1014,8 +1018,8 @@ Bodies of knocked enemies will be charged with electricity which will stun peopl
 
 These talents are found in the _Thunder Caster_ category.
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect | Prerequisite |
+| --- | --- | --- | --- | --- |
 | File:Static-assets-upload2268134233810269473.png | 
 Rain of Static
 
