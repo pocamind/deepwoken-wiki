@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 53022
+revid: 54210
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -45,6 +45,8 @@ The town is one of the main parts of Miner's Landing. Buildings throughout the t
 
 Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder Oath](Oaths.md#oatharcwarder). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
+You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy cloth and fiber.
+
 ## **Upper Landing**
 
 High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one [Mechalodaunt](Megalodaunt.md#mechalodaunt).
@@ -73,6 +75,12 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 -   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md#mechalodaunt)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
 -   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
 -   Note: this quest is repeatable
+
+#### Alpha's Quest
+
+_Main Page: [Arcwarder Oath](Oaths.md#arcwarder)_
+
+-   After finishing Alpha's questline, talk to Delta to receive the Arcwarder Oath.
 
 ## Maps
 

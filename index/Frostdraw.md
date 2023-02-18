@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 54110
+revid: 54163
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -181,7 +181,7 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage
--   Inflicts Chill.
+-   Does not inflicts Chill.
 -   Freezes opponent allowing for a free hit or combo. (Can't vent, block, parry, dodge while frozen in ice eruption)
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
 
@@ -233,7 +233,7 @@ _Form an ice spear and lunges forward._
  | User forms an ice spear and lunges forward towards the opponent.
 
 -   Deals moderate damage.
--   Inflicts Chill.
+-   Does not inflicts Chill.
 -   User gains considerable forward momentum on use.
 
  |

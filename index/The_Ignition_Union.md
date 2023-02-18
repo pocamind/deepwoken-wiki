@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 49859
+revid: 54184
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -26,6 +26,7 @@ They became far more prominent in Verse 2, getting an island for themselves call
 ## NPCs
 
 -   [Ignition Union Fighter](Ignition_Union_Fighter.md)
+-   [Ignition Union Guard](Ignition_Union_Guard.md)
 
 ## Trivia
 

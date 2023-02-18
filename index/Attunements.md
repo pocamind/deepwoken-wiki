@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 53818
+revid: 54215
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -24,12 +24,21 @@ It is noteworthy that Mantras can have rarities individual of their stars, and A
 
 Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
 
-## Mentioned Only/Potential future Attunements
+## Intra-Canticlysm Attunements
 
-_These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
+Template:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
 
--   Lightkeeper/Lightkeeping
--   Earth (Mentioned by Arch\_Mage saying he would like to add an earth attunement)
+## Post-Canticlysm Attunements
+
+Template:NavBox
+
+## Mentioned Only/Potential Future Attunements
+
+_These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_Template:NavBox_(Non-Canon Recreation)_
+
+Divinity & Oil/Poison Magic
+
+_(Non-Canon Recreation)_
 
 ## Trivia
 

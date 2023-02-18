@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 51328
+revid: 54165
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -47,7 +47,6 @@ _This page lists the controls that can be used in Deepwoken._
 | E | Throw | Player chucks throwable objects from their hand. |
 | N (crouching) | Pickpocket | Requires Pickpocket. Steals [Notes](Notes.md) from entity knocked players. |
 | R (crouching) | Fake Dead | Requires Cap Artist. Ragdolls player until input pressed again or attacked. |
-| G (crouching) | Eavesdrop | Hushes environmental ambience and sound. Emphasizes entity activity. (Only Works With Murmur: Rhythm) |
 | B (near Campfire) | Extinguish | Player destroys a campfire by kicking it. |
 | Space (near small obstacle) | Vault | Parkour. Player quickly slides over obstacle, grants speed boost. |
 | W+Space (airborne near a wall) | Wall Jump | Parkour. Player performs two small hops on a wall, automatically hops up and over ledges if holding W. |

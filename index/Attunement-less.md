@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 54075
+revid: 54164
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -475,7 +475,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
     -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
     -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase it's range with Drift/Rush shards.
     -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a ~Fortitude~/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
-        (Unfortunately it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras, though the cooldown will at least be increased for Reinforce.)
+        (Unfortunately it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron was one of the most powerful mantras out there, excluding pre-nerf Strong Left.

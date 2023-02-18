@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 54004
+revid: 54189
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -32,11 +32,15 @@ To obtain the [Shadowcast](Shadowcast.md) [attunement](Attunements.md), you need
 
 Each character may have a maximum of two [attunements](Attunements.md), one selected from the customization menu and one learned from a [Spelltrainer](Attunement_Trainers.md).
 
-### Starting Attunements
+### Pre-Canticlysm Abilities
 
-Template:NavBox Template:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+Template:NavBox
 
-### Unlockable Attunements
+### Intra-Canticlysm Attunements
+
+Template:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+
+### Post-Canticlysm Attunements
 
 Template:NavBox_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 

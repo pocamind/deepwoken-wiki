@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 51271
+revid: 54166
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -14,7 +14,7 @@ File:TheNestMind.png
 
 ## Description
 
-The Nestmind is an NPC in the Conscious Intersection, the place you are teleported to after giving (Owl)Surge a Void Feather for the Visionshaper Oath. The Conscious Intersection is an area with a small parkour section, covered in white light.
+The Nestmind is an NPC in the Conscious Intersection, the place you are teleported to after giving (Owl)Surge a Dark Feather for the Visionshaper Oath. The Conscious Intersection is an area with a small parkour section, covered in white light.
 
 ## Dialogue
 

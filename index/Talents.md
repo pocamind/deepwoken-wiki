@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54035
+revid: 54197
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -908,7 +908,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Agitating Spark
 
 -   Phoenix Flames \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+2 Elemental Intensity)
-    -   If Phoenix Flame is activated by the use of Flame Within, the healing is reduced to 25% instead.
     -   Prerequisites: All Immolator talents
 
 -   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
@@ -1083,10 +1082,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Limitbreaker
 
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)
+    -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damage but wont be knocked even at 0%.
     -   Prerequisites: [Power](Power.md) 8
 
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
-    -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME"
+    -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Prerequisite: 20 Willpower
 
 -   Dirty Boxing \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
@@ -1141,9 +1141,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Mental Fortress
 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
+    -   When outside of the depths, passive sanity recovery is increased.
     -   Prerequisite: 5 Willpower
 
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+3 Sanity)
+    -   Recover sanity when killing monsters in The Depths.
     -   Prerequisites: 10 Willpower, Breathing Exercise
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
@@ -1161,9 +1163,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 These are just raw stat increases and are beneficial to anyone.
 
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
-
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
-
 -   Lootskipper \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
@@ -1653,8 +1653,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Undying Ember
 
--   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames. (+1 Elemental Intensity, +1 Health)
-    -   Automatically summon a fire explosion similar to Fire Repulsion.
+-   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
+    -   When Flame of Denial activates, release an explosion around you..
     -   Prerequisite: Flame of Denial
 
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)

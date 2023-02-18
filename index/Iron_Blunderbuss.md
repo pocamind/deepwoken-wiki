@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 53465
+revid: 54185
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -17,7 +17,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | range | 7 |
 | swing speed | 0.73x |
 | endlag | N/A |
-| penetration | N/A |
+| penetration | 25% |
 | chip damage | N/A |
 | special effect | Behaves like a typical gun, then swings the weapon for a blunt attack. |
 | stances | 2 Handed |

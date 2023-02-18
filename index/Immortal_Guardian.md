@@ -1,9 +1,8 @@
 ---
 title: Immortal Guardian
-revid: 53619
+revid: 54168
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies that can wield Enchantments]
 ---
 
 # Immortal Guardian
@@ -65,12 +64,14 @@ An Immortal Guardian executes the player after knocking them.
 -   Immortal Guardians are rather tanky.
 -   They have a high posture pool like angels.
 -   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful.
--   Best way to kill them is either Parry-Trading or using weapons with high PEN, as they do have a habit of blocking attacks rather than parrying
--   Nightmares can take way more PEN then their lil brothers, so some mantra's that Guard break them will most-likely just be blocked normally by them
+-   Best way to kill them is either Parry-Trading or using weapons with high PEN, as they do have a habit of blocking attacks rather than parrying.
+-   Nightmares can take way more PEN then their lil brothers, so some mantra's that Guard break them will most-likely just be blocked normally by them.
 
 ## Trivia
 
--   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
--   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
--   The effect of [Mute](Regalia.md) applies onto all entities here, so they can be assumed to be monsters.
+-   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Czovwu-ae%2CMkFjMInvjnU))
+-   Their helmet _could_ be a reference to that of [Bondrewd’s](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Cnagfimbbzps-eamgon-cln%2Ftjkj%2CBlmdqfwg).
+-   ~The effect of [Mute](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Cgefswlhem-fbmdln.%60lm%2Ctihj%2FQfgboibp) applies onto all entities here, so they can be assumed to be monsters.~ While the effects of Mute does indeed apply here, it does not automatically make them monsters.
 -   They speak in all capital letters.
+
+\[[\[1\]](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9/,gefswlhem-fbmdln.`lm,tihj/@btfdoqz:Nlnpweqp)\] \[[\[2\]](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9/,gefswlhem-fbmdln.`lm,tihj/@btfdoqz:Fmenjep\tkbt\`am\wjflg\Em`hbmtnfnwp)\]
