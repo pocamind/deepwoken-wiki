@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 54163
+revid: 54294
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -55,6 +55,7 @@ _Piercing spikes of ice._
  | Conjure a spike of ice from the ground at the cursor's location.
 
 -   Deals moderate damage and sends target into the air.
+-   Does not inflicts Chill.
 -   Leaves ice where the Mantra is casted.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 
@@ -70,6 +71,7 @@ _Fire a beam of ice._
  | Fires a penetrating beam of ice.
 
 -   Deals light damage.
+-   Inflicts Chill.
 -   Hits multiple times in a row.
 
  |
@@ -100,6 +102,7 @@ _Revolving blades of ice._
  | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
+-   Rotation does not inflicts Chill, but a sword shot does.
 -   Hits multiple times in a row.
 -   Incredibly good with crystallization.
 
@@ -135,6 +138,7 @@ _Form and toss daggers of ice at your aimed opponent._
  | User forms three daggers of ice before throwing them towards the nearest person.
 
 -   Homing attack.
+-   Does not inflicts Chill.
 -   Can be upgraded with the "Frozen Pin-Cushion" talent.
 -   Consumes ether even if desired target is out of range. However it doesn't go on cooldown.
 
@@ -152,6 +156,7 @@ _A barrage of freezing blades._
  | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
+-   Inflicts Chill.
 -   1st and 2nd hit are parryable.
 
  |
@@ -165,7 +170,11 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage. |
+ | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
+
+-   Inflicts Chill.
+
+ |
 | 
 
  | 

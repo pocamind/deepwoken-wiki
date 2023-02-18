@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54199
+revid: 54301
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -191,7 +191,7 @@ Visionshaper also has one talents obtained via standard level up.
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   The clone deals fake damage, half of which is recovered when the duration expires (think of it doing 50% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
+    -   The clone deals fake damage, 3/4 of which is recovered when the duration expires (think of it doing 25% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   It is important to note that summoned clones do cause hitstun, which with the recent parry changes can lead to difficult parry exchanges.
     -   This mantra is similar to lightning clones, although it works slightly different in execution.
 -   **Illusionary Realm - Support Mantra**

@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 54160
+revid: 54302
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -66,7 +66,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Hive Soldiers are the weaker counterpart to Hive Guards. They can only be found in the following events:
+Hive Soldiers are the weaker counterparts to Hive Guards. They can only be found in the following events:
 
 -   Hive Soldiers vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
 
