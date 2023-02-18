@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 50606
+revid: 54330
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -8,7 +8,7 @@ categories: [Items, Layer 2, Floor 2]
 
 # Kyrsan Medallions
 
-Kyrsan Medallions are an end-game currency that can be found in the Second Floor of the [Second Layer](Second_Layer.md) of the Depths. In order to keep any Kyrsan Medallions that you find on floor 2, you must successfully defeat the [Scion of Ethiron](Scion_of_Ethiron.md) and escape. They can be exchanged at Castle Light (specifically, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)) for knowledge, equipment dye, enchant stones, random armor enchants, and the Dawnwalker [Oath](Oaths.md). You can also, VERY RARELY, get them from fishing.
+Kyrsan Medallions are an end-game currency that can be found in the Second Floor of the [Second Layer](Second_Layer.md) of the Depths. In order to keep any Kyrsan Medallions that you find on floor 2, you must successfully defeat the [Scion of Ethiron](Scion_of_Ethiron.md) and escape. They can be exchanged at Castle Light (specifically, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)) for knowledge, equipment dye, enchant stones, random armor enchants, and the Dawnwalker [Oath](Oaths.md). You can also, VERY RARELY, get them from fishing <- THIS IS A LIE. PLEASE GIVE PROOF
 
 ## Obtainment
 

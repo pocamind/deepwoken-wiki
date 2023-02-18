@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 54280
+revid: 54337
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -10,15 +10,15 @@ notices:
 
 # Character Creation
 
-The game provides many options to customize your character. There is a variety of [attunements](Attunements.md), [races](Aspects.md), [weapons](Weapons.md) and more for you to choose from.
+In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Races](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
 
-## [Races](Aspects.md)
+## Races
 
-The world of Deepwoken presents many [races](Aspects.md), with each one of them having its own [lore](Lore.md) and [origin](Origins.md). As a player, you start on each character slots with a random [race](Aspects.md) assigned to you by the game automatically. If you want to change your [race](Aspects.md), you may re-roll it by buying an in-game service for 150 Robux (R$).
+The world of Deepwoken presents many [Races](Aspects.md), with each one of them having its own [lore](Lore.md) and origin. As a player, you start on each character slots with a random Race assigned to you by the game automatically. If you want to change your Race, you may re-roll it by buying an in-game service for 150 Robux (R$).
 
-Unlike in other games, [races](Aspects.md) do not give a player major advantage over other players. However, some [races](Aspects.md) do have special abilities related to the [lore](Lore.md) of the specific [race](Aspects.md). For instance, [ships](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) race gain +10% health, +20% turning speed, and a 20% discount at the shipwright.
+Unlike in other games, Races do not give a player major advantage over other players. However, some Races do have special abilities related to the lore of the specific Race. For instance, [ships](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) race gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 
-Currently the game contains a total of **ten** obtainable [races](Aspects.md), with their own special abilities, cosmetics, appearance and accessories that can change depending on the [race](Aspects.md). Scars, eyes and face design is mostly the same for each [race](Aspects.md), with some exceptions.
+Currently the game contains a total of **twelve** obtainable Races, with their own special abilities, cosmetics, appearance and accessories that can change depending on the Race. Scars, eyes and face design is mostly the same for each Race, with some exceptions.
 
 ### Obtainable Races
 
@@ -26,45 +26,49 @@ _\[More information about [races](Aspects.md) can be found on their correspondin
 
 ## Attunements
 
-Upon your first character customization, you can either choose an [attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without without it. Choosing the option "Random" will casually select an [attunement](Attunements.md) for you out of the four already present ones (this option will not save the selected [attunement](Attunements.md) on your character slot for your next character).
+Upon your first character customization, you can either choose an [Attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras. Choosing the option "Random" will randomely select an Attunement for you out of the four already present ones (this option will not save the selected Attunement on your character slot for your next character).
 
-To obtain the [Shadowcast](Shadowcast.md) [attunement](Attunements.md), you need to unlock it with a specific [quest](Shadowcast.md#obtainment--training). Once unlocked, it will save on your slot as a permanent progression among all your characters in that specific slot (the same way any other [attunement](Attunements.md) unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
+To obtain the [Shadowcast](Shadowcast.md) Attunement, you need to unlock it with a specific [quest](Shadowcast.md#obtainment--training). Once unlocked, it will save on your slot as a permanent progression among all your characters in that specific slot (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
 
-Each character may have a maximum of two [attunements](Attunements.md), one selected from the customization menu and one learned from a [Spelltrainer](Attunement_Trainers.md).
+### Pre-Canticlysm Abilties
 
-### Pre-Canticlysm Abilities
-
-⠀⠀⠀⠀NoneTemplate:NavBox
+⠀⠀⠀⠀⠀None Template:NavBox
 
 ### Intra-Canticlysm Attunements
 
-⠀⠀⠀Random⠀⠀⠀⠀⠀⠀⠀Flamecharm⠀⠀⠀⠀⠀Frostdraw⠀⠀⠀⠀⠀⠀Thundercall⠀⠀⠀⠀⠀GalebreatheTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+⠀ ⠀⠀Random⠀⠀⠀⠀⠀⠀Flamecharm⠀⠀⠀ ⠀⠀Frostdraw⠀⠀⠀ ⠀⠀Thundercall⠀ ⠀ ⠀⠀⠀GalebreatheTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
 
-### Post-Canticlysm Attunements
+### Obtainable Attunements
 
-⠀⠀ShadowcastTemplate:NavBox_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
+  ⠀⠀ShadowcastTemplate:NavBox_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes
 
-When customizing your character, there is a total of three [weapon classes](Weapons.md) you can choose from: [Heavy Weapons](Weapons.md#heavy-weapons), _([Battleaxe](Battleaxe.md))_ [Medium](Weapons.md#medium-weapons), _([Sword](<Sword_(weapon).md>))_ and [Light](Weapons.md#light-weapons), _([Stiletto](Stiletto.md), + [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) if formerly unlocked)_.
+When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from: [Heavy Weapons](Weapons.md#heavy-weapons), _([Battleaxe](Battleaxe.md), [Avenger](Avenger.md))_ [Medium](Weapons.md#medium-weapons), _([Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md))_ and [Light](Weapons.md#light-weapons), _([Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md) + [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) if formerly unlocked)_.
 
-_([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a new [weapon classes](Weapons.md), but they allow you to train the type of style of the [weapon](Weapons.md) you are currently using. To change your [weapon classes](Weapons.md) you need to equip the specific [weapon](Weapons.md) corresponding to your desired style)_
+_([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
+
+### Starting Weapon Classes
+
+⠀⠀⠀⠀Sword⠀⠀⠀⠀⠀⠀⠀⠀Battleaxe⠀⠀⠀⠀⠀⠀⠀StilettoTemplate:NavBox Template:NavBox Template:NavBox
 
 ### Unlockable Starter Weapon
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
+⠀⠀Way Of Navae⠀⠀⠀⠀⠀Quickfang⠀⠀⠀⠀⠀⠀⠀Irontusk⠀⠀⠀⠀⠀⠀⠀⠀Silversix⠀⠀⠀⠀⠀⠀⠀⠀AvengerTemplate:NavBox Template:NavBox Template:NavBox Template:NavBox Template:NavBox
+
 -   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
 
-## [Boons and Flaws](Boons_and_Flaws.md)
+## Boons and Flaws
 
-[Boons and Flaws](Boons_and_Flaws.md) are character modifiers that you pick upon character customization which can't be changed during your progression unlike some other features (you may select new [boons](Boons_and_Flaws.md) and new [flaws](Boons_and_Flaws.md) each time you make a new character). These modifiers give you benefits and detriments, commonly known as disbenefits, that affect your gameplay and your quality of life.
+[Boons and Flaws](Boons_and_Flaws.md) are character modifiers that you pick upon character customization which can't be changed during your progression unlike some other features (you may select new Boons and new Flaws each time you make a new character). These modifiers give you benefits and detriments that will affect your gameplay and your quality of life.
 
-You are required to have at least one [boon](Boons_and_Flaws.md) and one [flaw](Boons_and_Flaws.md) to create your character. Each [flaw](Boons_and_Flaws.md) gives you one point that you can invest in a [boon](Boons_and_Flaws.md), with some exceptions (the [flaw](Boons_and_Flaws.md) named "Simple" gives two points).
+You are required to have at least one Boon and one Flaw to create your character. Each Flaw gives you one point that you can invest in a Boon, with some exceptions (the Flaw "Simple" gives two Boon points).
 
-## [Origins](Origins.md)
+## Origins
 
-There are four total [Origins](Origins.md) you can decide between. **This can be very important.**
+There are four total [Origins](Origins.md) you can decide between. **These can be very important.**
 
 ### [Castaway](https://deepwoken.fandom.com/wiki/Origins#Castaway)
 

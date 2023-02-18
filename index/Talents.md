@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54197
+revid: 54306
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1658,6 +1658,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
+    -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
 
 -   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)

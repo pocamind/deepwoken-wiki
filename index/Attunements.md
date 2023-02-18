@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 54288
+revid: 54314
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -26,15 +26,15 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 ## Intra-Canticlysm Attunements
 
-⠀⠀Random⠀⠀⠀⠀⠀Flamecharm⠀⠀⠀⠀Frostdraw⠀⠀⠀⠀Thundercall⠀⠀⠀GalebreatheTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+⠀ ⠀⠀Random⠀⠀⠀⠀⠀⠀Flamecharm⠀⠀⠀ ⠀⠀Frostdraw⠀⠀⠀ ⠀⠀Thundercall⠀ ⠀ ⠀⠀⠀GalebreatheTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
 
 ## Post-Canticlysm Attunements
 
-⠀ShadowcastTemplate:NavBox
+⠀⠀ShadowcastTemplate:NavBox
 
 ## Mentioned Only/Potential Future Attunements
 
-⠀⠀LightkeepTemplate:NavBox_(Non-Canon Recreation)_
+⠀⠀ ⠀LightkeepTemplate:NavBox_(Non-Canon Recreation)_
 
 Divinity & Oil/Poison Magic
 
