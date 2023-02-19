@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 54091
+revid: 54449
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -36,4 +36,5 @@ This weapon can be upgraded into an endgame weapon, called the **Alloyed Longspe
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
--   You can use mantras during it's critical (aka move stacking which is fucking gay. (nothing against homosexuals it's just that no one likes move-stacking))
+-   You can use mantras during it's critical (aka move stacking which is fucking gay. (nothing against homosexuals it's just that no one likes move-stacking)) Stuns opponent long enough to limit them to parrying only. However if it is a dagger user, their attack speed may allow them to hit you through this M1.
+-   **For those who played Rogue Lineage and witnessed the power of chain pull on Church/Deep Knights. This weapons critical has the same bullshit capability as Chain Pull did. It is not rollable, lets you move stack and is even more effective with good aim. If you don't want this to be nerfed, try not to spread info about it and delete this text.**

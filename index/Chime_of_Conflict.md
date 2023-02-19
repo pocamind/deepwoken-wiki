@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 51946
+revid: 54452
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -72,7 +72,9 @@ Novice **(900-999)**
 
 Apprentice **(1000-1099)**
 
-Journeyman **(1100-???)**
+Journeyman **(1100-1200)**
+
+Pathfinder **(1200-????)**
 
 In addition to Rank Titles, the top 250 players in Chime also get a special title:
 
