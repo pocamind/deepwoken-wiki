@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 53761
+revid: 54404
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -100,4 +100,4 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Tiran eyes may be inspired from Makimas eyes of the anime "Chainsaw man", having a very similar eye patern.
 -   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why its a Tiran variant and not a Felinor variant.
 -   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on. Matching their hair color with their glider. Also meaning that their gliders are probably crafted with their own hair
--   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito are… birds, although this could be unlikely.
+-   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the tiran not possessing a beak, they could unintentionally inspired from the Rito.

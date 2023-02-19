@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54306
+revid: 54444
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -90,13 +90,14 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
+    -   Synergizes well with Aerial Stab or mantras that send the user and target in the air.
     -   Prerequisites: 15 Strength, 25 Medium Weapon, Medium Weapon
-    -   Synergizes well with Aerial attack Talents.
 
 ### Aeromancer
 
 -   Aerogliding \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
+    -   Automatically ends after 5 seconds.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
@@ -112,7 +113,6 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: Wind Step
 
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
 
@@ -163,6 +163,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: 20 Flamecharm
 
 -   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
+    -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
     -   Prerequisites: Flame Within, 30 Flamecharm
 
 ### Angler
@@ -182,6 +183,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### Apex Predator
 
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
+    -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
     -   Prerequisite: 5 Strength & 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 
@@ -244,7 +246,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
@@ -270,6 +271,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Brawler
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. (+3 Health)
+    -   If you have both Way of Navae of Legion Kata, you can press Y to easily swap between them instead of having to use the tool.
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
@@ -340,11 +342,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 50% extra posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
+    -   Does not work on non humanoid monsters.
     -   Prerequisite: 25 Strength
 
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
-    -   The Innate talent of [Etrean](Etrean.md)\]\]s has a similar effect, but is applied to all buffs and debuffs instead of status effects.
+    -   The Innate talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs instead of status effects.
 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
     -   Prerequisite: 50 Willpower
@@ -352,7 +355,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Charm Caster
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
-
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
     -   Prerequisite: 25 Charisma
 
@@ -449,12 +451,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cutthroat
 
 -   Assassin \[Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
-    -   The damage increase granted from this talent is significantly high, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
+    -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
 
 -   Blood Thirsty \[Common Talent, Light\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
-
 -   Deep Wound \[Common Talent\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
-
 -   Hidden Blade \[Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
     -   Prerequisite: 30 Agility
 
@@ -513,8 +513,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
-    -   Renamed mantras will use the new name. Casting Agility renamed to Speed Boost will say "Speed Boost!".
-    -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used.
+    -   Renamed mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
+    -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a mantra named "64 palms" will say "Palms!".
     -   If a mantra name gets moderated by the chat (####), the shout will default to the original name of the mantra.
     -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
@@ -640,7 +640,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Flame Dancer
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
-
 -   Flaming Rebound \[Rare Talent, Flamecharm Exclusive\] - Flamecharm mantras now grant extra tempo upon landing (+3 Elemental Intensity).
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 10
 
@@ -806,7 +805,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 70 Frostdraw, Glass Path: Crystallization
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 7 ice crystal make them explode.
+    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode.
     -   Prerequisite: 40 Frostdraw
 
 ### Great Wall
@@ -820,9 +819,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
-
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
-
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
+    -   Prerequisites: 55 Light Weapon, Using a Gun
 -   True Ether Bullets \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Prerequisites: 30 Intelligence and 20 light/medium, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
@@ -835,8 +834,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
-    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Gun
 
 ### Heretic
 
@@ -908,6 +905,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Agitating Spark
 
 -   Phoenix Flames \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+2 Elemental Intensity)
+    -   If you burn to death throught the use of Last Laugh, the healing is reduced to 25%.
     -   Prerequisites: All Immolator talents
 
 -   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
@@ -983,13 +981,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Jetstriker
 
 -   Decisive Winds \[Common Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
-
 -   Prevailing Westerlies \[Common Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Ether, +5 Passive Agility)
-
+-   Rush of ancients \[Common Talent, Jetstriker Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
 -   Stratos Step \[Common Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
     -   Consumes Ether per step.
     -   Stratos Steps will only proc twice before going on a cooldown.
         -   Said cooldown applies to individual steps.
+-   Vigil's Grace \[Common Talent, Jetstriker Exclusive\] - Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)
 
 ### Justicar
 
@@ -1022,7 +1020,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 50 Medium, Using a spear
 
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
-    -   Can be identified by purple aura surrounding the character, goes on ?? second cooldown
     -   Prerequisites: 30 Medium, Using a spear
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
@@ -1071,6 +1068,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
+    -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
+    -   While in combat, this ability cost Ether to use.
     -   Prerequisites: 50 Galebreathe, Gale Leap
 
 ### Liberator
@@ -1257,7 +1256,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Public Figure
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid.
-    -   Prerequisites: Friends in High Places, 50 Charisma
+    -   Prerequisites: Friends in High Places, 45 Charisma (I checked)
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 
 -   Celebrity \[Common Talent\] - Your reputation caps out higher.

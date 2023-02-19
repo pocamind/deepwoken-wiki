@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 54337
+revid: 54376
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -32,15 +32,21 @@ To obtain the [Shadowcast](Shadowcast.md) Attunement, you need to unlock it with
 
 ### Pre-Canticlysm Abilties
 
-⠀⠀⠀⠀⠀None Template:NavBox
+Template:Testing
+
+ㅤ
 
 ### Intra-Canticlysm Attunements
 
-⠀ ⠀⠀Random⠀⠀⠀⠀⠀⠀Flamecharm⠀⠀⠀ ⠀⠀Frostdraw⠀⠀⠀ ⠀⠀Thundercall⠀ ⠀ ⠀⠀⠀GalebreatheTemplate:NavBoxTemplate:NavBoxTemplate:NavBoxTemplate:NavBox
+Template:TestingTemplate:Testing Template:Testing Template:Testing Template:Testingㅤ
 
 ### Obtainable Attunements
 
-  ⠀⠀ShadowcastTemplate:NavBox_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
+Template:Testing
+
+ㅤ
+
+_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes
 

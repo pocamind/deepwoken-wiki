@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 54289
+revid: 54438
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -91,6 +91,7 @@ Might give a different dialogue if you have the Castaway origin who has done the
 | Ploom | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | Polis | [The Kingdom of Etrea](Etrea.md) | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
+| Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. I cannot stress this enough; he throws you into the nest pit, and forces you to fight 8-9 bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS PATCHES IN DEEPWOKEN |
 | Raphael | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
@@ -105,4 +106,3 @@ Might give a different dialogue if you have the Castaway origin who has done the
 | [Windrunner](Windrunner.md) | Unaligned |  |  |  |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](The_Depths.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations. |
-| Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. I cannot stress this enough; he throws you into the nest pit, and forces you to fight 8-9 bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS PATCHES IN DEEPWOKEN |

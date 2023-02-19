@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 54032
+revid: 54341
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells, Attunement, Character, Combat Mantras]
@@ -79,8 +79,6 @@ _Shoots out an air blast._
 
  |
 | 
-
-TBA
 
  | 
 

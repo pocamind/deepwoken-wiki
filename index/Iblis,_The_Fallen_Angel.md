@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 50780
+revid: 54435
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
 Template:Creature Info Box v2
 
-[Iblis](Iblis,_The_Fallen_Angel.md) is a powerful angel located in Starfield Grove [Voidzone](Voidzones.md). It is used to get [Starkindred](Oaths.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is an elemental angel of fire.
+Iblis, The Fallen Angel, is a powerful angel located in Starfield Grove [Voidzone](Voidzones.md). It is used to get [Starkindred](Oaths.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is an elemental angel of fire.
 
 ## Trivia
 
