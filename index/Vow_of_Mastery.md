@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 54112
+revid: 54458
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -47,7 +47,7 @@ File:Leech Talent.png
 Conjure the ether of your vow into essence and transfer it to yourself. | Untested |
 | Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
- | Untested |
+ | 1 Minute |
 | Fight | Yes, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense. | 3 minutes |
 | Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
 

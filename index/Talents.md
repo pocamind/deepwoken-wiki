@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54444
+revid: 54462
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -113,6 +113,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Prerequisite: Wind Step
 
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+    -   Prerequisite: Suffocating Impact
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
 
