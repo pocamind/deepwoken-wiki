@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 54459
+revid: 54469
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -26,7 +26,7 @@ The temple is located behind [Widow's Hollow](<Widow's_Hollow.md>). You may choo
 
 ## Notes
 
--   Washing your face will cause the Hive Gate to be opened for your character. Having access to [Lordsgrove](The_Lordsgrove.md), and use the fast travel point to [Greathive Aratel](Greathive_Aratel.md), ~if you have an oath~ False. You can wash your face, open the hive door, and use shrines without an oath. There are rumors that you can stop aging as a 1/3 chance, but it is most likely false.
+-   Washing your face will cause the Hive Gate to be opened for your character. Having access to [Lordsgrove](The_Lordsgrove.md), and use the fast travel point to [Greathive Aratel](Greathive_Aratel.md), ~if you have an oath~ False. You can wash your face, open the hive door, and use shrines without an oath(Tested by me obtaining visionshaper). There are rumors that you can stop aging as a 1/3 chance, but it is most likely false.
 -   In the dungeon section of the temple, there is an extra jail cell on the right side covered by an indestructible false wall.
 -   Before the stairs leading up to the fountain used to wash your face there is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md), and one that glows blue can be found underneath the coffin inside the Tomb of the Nameless Warrior (both have no apparent use).
 -   Falling into the fog in the room where you wash your face will kill you.

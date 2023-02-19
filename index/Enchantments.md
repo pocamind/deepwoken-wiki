@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 54460
+revid: 54472
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -151,7 +151,7 @@ There are two variants that enchantments come in:
   <td><div><p>Applies a Solar Mark on flourish or (most) critical attacks.<br>
   Solar Mark last 8s, and reduce tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies tempo.</p></div></td>
-  <td><div></div></td>
+  <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -360,7 +360,7 @@ On proc, grant a speed boost and hyperarmor.
 
  | 
 
-Equipment is covered in a white, unstable looking particle effect.
+Equipment is covered in a white, horizontally-stretched particle effect.
 
  |
 | 
@@ -475,7 +475,7 @@ An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken
 
  | 
 
-N/A
+Equipment is covered in a white, vertically-stretched particle effect.
 
  |
 | 

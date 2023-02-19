@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 52516
+revid: 54468
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
