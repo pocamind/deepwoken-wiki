@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54301
+revid: 54633
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -412,7 +412,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 ― Arcwarder Description
 
-**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 7 complete runs to get every skill, one skill per completion.
+**Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 7 but was changed.
 
 ### Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 53879
+revid: 54619
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,60 +8,47 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Hive Scout
 
+Template:EnemyInfobox1.0
+
 ## Description
 
-Hive Arbiter
+A Hive Arbiter is a variant of a [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) that only spawns in the following events:
 
-Contents
+-   Hive Soldiers vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
 
-A Hive arbiter is a variant of [Hive adjudicators](<Hive_Adjudicator_(NPC).md>) that can spawn in [Etrea vs Hive](Random_Encounters.md) events in [Starswept Valley](The_Starswept_Valley.md)
+They wear pair of Woodland Pauldrons and Woodland Boots along with a pair of Dew Drop Earrings. In addition, they also don a [Hive Adjudicator](Hive_Adjudicator.md) outift.
 
-They wear the [outfit](Outfits.md) [Hive Adjudicator](Hive_Adjudicator.md)
+## Moveset
 
-  
+A Hive Arbiter's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Katana](Katana.md) or [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
-  
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
 
-## Weaponry
+ | \[[Iron Birch](Iron_Birch.md) & [Katana](Katana.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
 
-Their arsenal consists of [flamecharm](Flamecharm.md) with the following weapons: [katanas](Katana.md), [ritual spears](Ritual_Spear.md) and [iron birch](Iron_Birch.md).
+\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent before finishing up the combo by kicking them.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Danger</th>
-</tr>
-<tr>
-  <td>Assault</td>
-  <td>Firmly swings blade at opponent and finishing up the combo by kicking them.</td>
-  <td>◯</td>
-  <td>◯</td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Critical</td>
-  <td>Uses their weapon's respective critical</td>
-  <td>◯</td>
-  <td>-</td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Fire Blade</td>
-  <td>Caster slams down with their blade coated in flames.</td>
-  <td>◯</td>
-  <td>✗</td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Flame Assault</td>
-  <td>Caster dashes forward covered in flames; knocking down whoever is in its path.</td>
-  <td>◯</td>
-  <td>◯</td>
-  <td>(★☆☆)</td>
-</tr>
-</tbody>
-</table>
+ | ◯ | ◯ | (★☆☆) |
+| 
+
+Critical
+
+ | \[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
+
+\[[Katana](Katana.md)\] Sheathes blade before dashing forward and unleashing a quick slash.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+ | ◯ | ✗ | (★★☆) |
+| 
+
+Fire Blade
+
+ | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
+
+#### Boons
+
+-   Experienced Fighter - Can block and parry common attacks and mantras.

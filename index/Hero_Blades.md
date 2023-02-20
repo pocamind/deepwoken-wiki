@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 54590
+revid: 54612
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -100,23 +100,29 @@ Each Heroblade has its own unique critical attack.
 
 The Hero Blade of Flame is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Flame is unique in that its damage scaling is based on the [Flamecharm](Flamecharm.md) attunement stat.
 
+## Unique Critical Attack
+
 **Frost:**
 
 The Hero Blade of Frost is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Frost is unique in that its damage scaling is based on the [Frostdraw](Frostdraw.md) attunement stat.
+
+## Unique Critical Attack
 
 **Lightning:**
 
 The Hero Blade of Lightning is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Lightning is unique in that its damage scaling is based on the [Thundercall](Thundercall.md) attunement stat.
 
+## Unique Critical Attack
+
 **Wind:**
 
 The Hero Blade of Wind is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Wind is unique in that its damage scaling is based on the [Galebreathe](Galebreathe.md) attunement stat.
 
+## Unique Critical Attack
+
 **Shadow:**
 
 The Hero Blade of Shadow is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Shadow is unique in that its damage scaling is based on the [Shadowcast](Shadowcast.md) attunement stat and it steals ether when using a running attack.
-
-Each Hero Blade has a unique critical:
 
 ## Trivia
 
