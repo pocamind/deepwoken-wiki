@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 54100
+revid: 54593
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -37,7 +37,7 @@ _Pros/Cons_
 -   You lose knowledge points which are very valuable.
 -   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
 -   If you have multiple attunements, the three you get to choose won't be the same element as the one you lost.
--   **READ THE MANTRA YOU ARE TRYING TO REPLACE CAREFULLY LEST YOU HAVE TO GAMBLE BACK FOR IT**
+-   **READ THE MANTRA YOU ARE TRYING TO REPLACE CAREFULLY OR YOU WILL YOU HAVE TO GAMBLE BACK FOR IT**
 
 ### **Shrine of Blasphemy**
 

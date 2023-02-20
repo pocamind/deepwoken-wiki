@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 54314
+revid: 54601
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -36,9 +36,7 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 ⠀⠀ ⠀LightkeepTemplate:NavBox_(Non-Canon Recreation)_
 
-Divinity & Oil/Poison Magic
-
-_(Non-Canon Recreation)_
+Earth (Oil/Poison Magic)Template:NavBox_(Non-Canon Recreation)_
 
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 

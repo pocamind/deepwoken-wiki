@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 54087
+revid: 54598
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -14,12 +14,12 @@ Currently there is no remotely functional method to obtain a true Regalias, nor 
 
 ## Mute
 
-“ Animals will not attack one of their friends, unless the animal is threatened or attacked first." ”
+“ Become disabled. ”
 
-― Fallout 3 Animal Friend Description
+― RNGesus granting a random freshie Mute
 
   
-Mute, or less formally known as 'Animal King' completely neutralizes the hostility of all monster-type mobs towards you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md) and [The Enforcer](Enforcer.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters will have an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. The only exception to this rule, likely due to the health to reward ratio, are Nautilodaunt, which will never unaggro. Most humanoid enemies will still aggro the player on sight.
+Mute, or less formally known as 'Animal King' causes all monster-type mobs to not be able to detect you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md) and [The Enforcer](Enforcer.md)) will be unable to see the player and therefore wont attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. The only exception to this rule, likely due to the health to reward ratio, are Nautilodaunt, which will never unaggro. Most humanoid enemies will still aggro the player on sight. If you wipe with a low enough level, the exact level is unknown, you will get to keep Mute for your next life.
 
 ## Sub-Regalias/Semi-Regalias
 

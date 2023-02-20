@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 46464
+revid: 54592
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -27,4 +27,4 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 ## Trivia
 
--   They are one of two factions with an [Oath](Oaths.md) tied to them, the other being the [Ignition Union](The_Ignition_Union.md).
+-   They are one of few factions with an [Oath](Oaths.md) tied to them, there is also the Ministry, and a Speculated To-Be-Released one for the Authority, Finally there is the [Ignition Union](The_Ignition_Union.md).

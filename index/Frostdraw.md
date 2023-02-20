@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 54294
+revid: 54604
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -55,7 +55,7 @@ _Piercing spikes of ice._
  | Conjure a spike of ice from the ground at the cursor's location.
 
 -   Deals moderate damage and sends target into the air.
--   Does not inflicts Chill.
+-   Does not inflict Chill.
 -   Leaves ice where the Mantra is casted.
 -   WIth the Spike Traps Talent, pressing \[F\] during the wind-up makes translucent blue cubes that makes ice spikes on collision.
 
@@ -102,7 +102,7 @@ _Revolving blades of ice._
  | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
--   Rotation does not inflicts Chill, but a sword shot does.
+-   Rotation does not inflict Chill, but a sword shot does.
 -   Hits multiple times in a row.
 -   Incredibly good with crystallization.
 
@@ -138,7 +138,7 @@ _Form and toss daggers of ice at your aimed opponent._
  | User forms three daggers of ice before throwing them towards the nearest person.
 
 -   Homing attack.
--   Does not inflicts Chill.
+-   Does not inflict Chill.
 -   Can be upgraded with the "Frozen Pin-Cushion" talent.
 -   Consumes ether even if desired target is out of range. However it doesn't go on cooldown.
 
@@ -173,6 +173,7 @@ _Chains of ice._
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
 -   Inflicts Chill.
+-   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 
  |
 | 
@@ -190,9 +191,11 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage
--   Does not inflicts Chill.
--   Freezes opponent allowing for a free hit or combo. (Can't vent, block, parry, dodge while frozen in ice eruption)
--   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward which deals no damage.
+-   Does not inflict Chill.
+-   Freezes opponent allowing for a free hit or combo.
+    -   Can't vent, block, parry, dodge while frozen in the eruption.
+-   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
+    -   Warning: this modifier will cause the mantra to do NO DAMAGE.
 
  |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
@@ -208,10 +211,10 @@ _Conjure and throw weapons of ice._
  | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
 -   Rapidly deals light damage.
--   Inflicts Chill
+-   Inflicts Chill.
 
  |
-| 
+| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
 
 Ice Smash
 
@@ -224,9 +227,9 @@ _A colossal mace of ice._
  | User performs a wind-up before slamming an ice club into the ground.
 
 -   Deals heavy damage and low knockback.
+-   Breaks block.
 -   Inflicts Chill.
--   Is capable of breaking parts of the map.
--   Block break
+-   Can break objects.
 
  |
 |  | 
@@ -242,7 +245,7 @@ _Form an ice spear and lunges forward._
  | User forms an ice spear and lunges forward towards the opponent.
 
 -   Deals moderate damage.
--   Does not inflicts Chill.
+-   Does not inflict Chill.
 -   User gains considerable forward momentum on use.
 
  |
@@ -312,7 +315,8 @@ _Swift bolts of frozen air._
 
 -   Inconsistent Hitbox.
 -   Deals light damage.
--   Similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
+-   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
 
  |
@@ -339,7 +343,8 @@ _An arc of ice._
 -   Inflicts Chill.
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to form more arcs.
--   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs (but applying a lens will have a chance of nullifying the Cloudstones effect, ex: 3 cloudstones + 3 perfetct lenses = 4 arcs)
+-   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
+    -   Applying a lens will have a chance of nullifying the Cloudstones effect, ex: **3 cloudstones + 3 perfetct lenses = 4 arcs**
 
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
@@ -358,7 +363,7 @@ _Skate freely on paths of ice._
 
 -   Knocked players cannot be held while this mantra is active.
 -   The rare "Frozone" talent allows the user to cast this mantra anywhere
-    -   This includes [The Depths](The_Depths.md).
+    -   This includes the [First Layer](First_Layer.md).
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 51781
+revid: 54607
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,8 +8,11 @@ categories: [Mechanics]
 
 # Insanity
 
-_"P̴L̷U̴C̷K̴ ̴O̶U̶T̴ ̵T̵H̴I̸N̶E̵ ̶E̵Y̶E̶S̵,̷ ̴T̸E̵A̷R̵ ̶O̶U̴T̶ ̶T̷H̸I̵N̴E̸ ̷T̸H̴R̶O̵A̴T̴,̷ ̴L̵A̴Y̶ ̵W̷A̸S̷T̵E̴ ̷T̶O̶ ̷A̷L̶L̴ ̴W̷H̶I̷C̷H̸ ̷I̸S̴ ̵S̸A̷C̷R̸E̵D̶,̷ ̴T̵H̵E̴ ̶M̶O̷O̵N̸S̶E̶Y̶E̵ ̵C̵O̷N̴V̷E̶R̴G̸E̷S̸ ̶W̶I̷T̵H̷ ̵T̷H̸A̶T̵ ̷B̶E̷L̴O̴W̵.̵" -Insanity killsplash_
+“ P̴L̷U̴C̷K̴ ̴O̶U̶T̴ ̵T̵H̴I̸N̶E̵ ̶E̵Y̶E̶S̵,̷ ̴T̸E̵A̷R̵ ̶O̶U̴T̶ ̶T̷H̸I̵N̴E̸ ̷T̸H̴R̶O̵A̴T̴,̷ ̴L̵A̴Y̶ ̵W̷A̸S̷T̵E̴ ̷T̶O̶ ̷A̷L̶L̴ ̴W̷H̶I̷C̷H̸ ̷I̸S̴ ̵S̸A̷C̷R̸E̵D̶,̷ ̴T̵H̵E̴ ̶M̶O̷O̵N̸S̶E̶Y̶E̵ ̵C̵O̷N̴V̷E̶R̴G̸E̷S̸ ̶W̶I̷T̵H̷ ̵T̷H̸A̶T̵ ̷B̶E̷L̴O̴W̵. ”
 
+― Insanity Killsplash.
+
+  
 **Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also on the Surface to a lesser extent.
 
 Insanity is dictated by an meter that is not directly shown to the player but its progress can be tracked by the blue borders on the screen, and certain things will fill that meter, where at certain thereshold, the player will be affected by certain effects.
@@ -28,6 +31,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 ## Insanity Increasing Effects
 
 -   Being in [The Depths](The_Depths.md) (+1 point every 30 seconds)
+
 -   [Megalodaunt](Megalodaunt.md) screech attack.
 -   Being hit by Gaze
 -   Drinking or being splashed by a Mindbreaking potion.
@@ -36,6 +40,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depths](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
 -   Being hit by a weapon enchanted with No Life King
 -   Being in the immediate vicinity of the meatball chains in [Ancient Rotlands](Ancient_Rotlands.md) (be careful as those whom have low sanity can be sent to the depths instantly, because it is a voidzone.)
+-   [Wishbound](Developer_Specs.md) Flaw.
 
 ## Insanity Decreasing Effects
 
@@ -49,4 +54,3 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 236 sanity, which equals to just below 2 hours (118 minutes) in The Depths before dying.
 -   Each point of sanity equals to 30 extra seconds in the depths before reaching 100% insanity.
--   Possibly a reference to Insanity from Vehicle Simulator.
