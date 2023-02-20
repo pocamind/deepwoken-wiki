@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 54001
+revid: 54519
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -57,7 +57,7 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Divine Axe | Greataxe | 28 | 5% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. |
-| Divine Greatsword | Greatsword | 30 | 10% | HVY: 14 | 8.5 | 9.2 | 0.67x | Boosts speed and propels you into the air, crashing down at your cursor. |
+| Divine Greatsword | Greatsword | 30 | 10% | HVY: 14 | 8.5 | 9.2 | 0.63x | Boosts speed and propels you into the air, crashing down at your cursor. |
 
 **Medium:**
 

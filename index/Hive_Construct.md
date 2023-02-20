@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 52809
+revid: 54520
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -103,7 +103,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 ## Tips
 
--   Can easily kill you even at level 20 if you're solo and inexperienced.
+-   Can easily kill you even at level 20 if you're solo and unexperienced.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.

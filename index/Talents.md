@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54462
+revid: 54518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -31,15 +31,10 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 Some talents are **mutually exclusive** with other talents, meaning picking one talent will remove the other talent from your talent pool. However, if you use the Shrine of Chance to remove the talent, the other talent returns to your talent pool. The known mutually exclusive pairs are:
 
 -   _Everchanging Aegis_ and _Return to the Dark Ages_.
-
 -   _Risky Moves_ and _Safety Dance_.
-
 -   _Risky Moves_ and _Observation_.
-
 -   _Conditioned Runner_ and _Fishman_.
-
 -   _Eruption Path: Lava Serpent_ with _The Final Act_.
-
 -   _Orbital Ice_ with _Fist of Fortitude_.
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
@@ -49,17 +44,11 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 ### **Card Terminology**
 
 -   Common
-
 -   Rare
-
 -   Advanced
-
 -   Oath
-
 -   Mantra
-
 -   Mystery
-
 -   Trait
 
 ## Talents
@@ -1257,7 +1246,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Public Figure
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid.
-    -   Prerequisites: Friends in High Places, 45 Charisma (I checked)
+    -   Prerequisites: Friends in High Places, 45 Charisma
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 
 -   Celebrity \[Common Talent\] - Your reputation caps out higher.
@@ -1414,6 +1403,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Prerequisites: Silencer's Edge and Silencer's Blade
 
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
+    -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
     -   Prerequisites: 60 Galebreath, [Power](Power.md) 10, Silencer's Edge
 
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
@@ -1582,7 +1572,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Thunder Brawler
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
-
 -   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to followup on your opponent with a less potent kick. (+2 Elemental Intensity)
     -   Prerequisite: 30 Thundercall, Thunder Kick
 
@@ -1601,7 +1590,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 65 Thundercall, 25 Strenght / 25 Agility, Static Blade
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
-
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+3 Elemental Intensity)
     -   Prerequisite: 40 Thundercall, 20 Medium Weapon
 
@@ -1686,9 +1674,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Visionshaper
 
 -   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. (+10 Ether)
-
--   Lasting Image \[Common Talent, Visionshaper Exclusive\] - Your illusions last longer.
-
 -   Mirage From the Deep \[Common Talent, Visionshaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 10% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
     -   Upon pressing X, you will leave Illusionary Realm early, leaving behind 3 creatures: [King Thresher](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
 
@@ -1731,7 +1716,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
-
 -   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores some of your Ether. (+1 Posture)
 
 ### Waterborne
@@ -1979,19 +1963,12 @@ _Main Page - [Flamecharm](Flamecharm.md)_
 #### Fire Combat
 
 -   Flame Repulsion - An exertion of flames.
-
 -   Flame Grab - A fiery chokehold.
-
 -   Fire Gun - Upon activation, shoot a rapid bullets made of flame. Continuous use allows automatic dodging when using your movement keys.
-
 -   Flame Blind - Blind anyone within a short radius who caught a glimpse of the projectile. 5 second duration.
-
 -   Fire Blade - Slicing blades of Flame. Perform a cleave made of fire at close range.
-
 -   Fire Forge \[1 Star Mantra\] - Throw a Dagger at small range. Does not ricochet off of Walls or objects.
-
 -   Fire Palm \[1 Star Mantra\] - Fire a short burst of flame from your palm.
-
 -   Flame Assault \[2 Star Mantra\] - Burst forward in flames. Torpedo through enemies and entities with a fiery blow.
 
 ### Fire Mobility
@@ -2001,9 +1978,7 @@ _Main Page - [Flamecharm](Flamecharm.md)_
 #### Fire Support
 
 -   Graceful Flame - Conjure your comrades to rest by.
-
 -   Flames of Denial - Place a kindled flame into your body. Restore 40% HP after taking lethal damage, lasts for 60 seconds until activated.
-
 -   Flame Wisp - Summon a wisp which boosts HP regen and lights campfires when not healing you.
 
 ### Frostdraw Mantras
@@ -2013,29 +1988,19 @@ _Main Page - [Frostdraw](Frostdraw.md)_
 #### Frost Combat
 
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage.
-
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
-
 -   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
-
 -   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. Parryable and blockable.
-
 -   Crystal Impale \[Requires Glass Path\] - Jumps up and then smashes into the ground dealing multiple hits
-
 -   Crystal Kick \[Requires Glass Path\] -Kicks in front of you launching up your opponent into the air.
-
 -   Ice Eruption \[1 Star Mantra\] - Stomp the ground, releasing a barrage of ice spikes that block breaks.
-
 -   Ice Blade \[1 Star Mantra\] - Summon an ice sword that you dual wield with your current weapon for a 4-hit slash combo.
-
 -   Ice Smash \[1 Star Mantra\] - Ready a mace made of ice, and smash it onto the ground in front of you.
-
 -   Ice Lance \[2 Star Mantra\] - Charge in front of you with an ice spear, dealing high damage. Much more range than frost grab.
 
 ### Frost Mobility
 
 -   Glacial Arc \[1 Star Mantra\] - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
-
 -   Ice Skates \[3 Star Mantra\] - After a short wind-up, start skating only when around water. (Having Frozone makes it so you don't need to be around water in order for it to be used.)
 
 ### Shadowcast Mantras
@@ -2045,13 +2010,9 @@ _Main Page - [Shadowcast](Shadowcast.md)_
 #### Shadow Combat
 
 -   Clutching Shadow - You stand still and use a force like move (from Star Wars) and choke your enemy out, then slam them into the ground.
-
 -   Dark Blade - After a short dash forward, you do 3 slashes of Dark energy.
-
 -   Shadow Gun - After a short wind-up, you shoot a short blast of energy from your finger.
-
 -   Shadow Chains \[1 Star Mantra\] - Chains of shadow.
-
 -   Shadow Roar \[2 Star Mantra\] - After a short wind-up, you scream out Dark particles in a large AOE, dealing damage to opponents.
 
 ### Shadow Mobility
@@ -2072,17 +2033,13 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 ### Engage + Critical Attack
 
 -   Quest giver located at the gate to the burning stone gardens she will request that you kill a sharko.
-
 -   it is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in lower erisia.
-
 -   You will automatically gain Engage at Power 3 and Critical attack at Power 5 on all new slots.
 
 ### Aerial Assault
 
 -   Quest giver located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave.
-
 -   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
-
 -   You will automatically gain this at Power 2 on all new slots.
 
 ### Thresher Scales
@@ -2092,19 +2049,14 @@ Quest giver located at The Hive.
 File:Thresherquest1.png
 
 -   Jessamine will ask you to kill a king thresher
-
 -   King threshers spawn around this area. One will also spawn at the lightkeepers temple.
-
 -   Completing the quest will grant the talent or a free talent hand if you already have it.
-
 -   You will automatically gain this at Power 10 on all new slots.
 
 ### Tree-Felling blow
 
 -   Requires Strong left
-
 -   Quest giver located at Etris and The Isle Of Vigils they are the NPC that gives you a free lumber axe. Tell them about your wood.
-
 -   Punch down 5 trees then return
 
 ### Family Recipe
@@ -2130,7 +2082,6 @@ File:Thresherquest1.png
 ### Heretic Sutra
 
 -   A chant that steers you into the state of insanity for 20 seconds.
-
 -   Gives a burst of insanity instantly while chanting and enable talents that require to be gaining insanity to activate for 15 seconds.
     -   80 willpower, tier 1 insanity (Shivering) (May be wrong?), and talk to Kasen located in layer 2 floor 1.
     -   You CAN use Heretic Sutra while having less than 80 willpower with the Shrine of Order after getting the talent.
@@ -2146,36 +2097,24 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
     -   Also available as a common talent.
 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your Legion Kata attacks now do 15 percent more damage.
-
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
-
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Being hit by lightning will briefly make you intangible.
     -   Invincible for about 2 seconds after being hit by lightning
 
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility)
-
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You do 1 less fist M1s before Flourishing.
     -   Stacks with Finisher's Ring.
 
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your Way of Navae fist style has 25% armor PEN.
-
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
-
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
-
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
-
 -   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
-
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
-
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased.
-
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
-
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
-
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 
 ## Blacklisted Talents
@@ -2183,38 +2122,23 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 Certain talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other talents, or could otherwise break certain builds.
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
-
 -   Conditioned Runner \[Advanced Talent, Agility\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
-
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
-
 -   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 35%. (+5 Health)
-
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
-
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
-
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)
-
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
-
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
-
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
-
 -   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
     -   Prerequisite: 35 Thundercall, 30 Agility
 
 ## Notes/Trivia
 
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
-
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
-
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
-
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
-
 -   The Card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
-
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."

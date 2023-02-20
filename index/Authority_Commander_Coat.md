@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 47346
+revid: 54479
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Equipment, Armors]
@@ -12,4 +12,4 @@ Template:EquipmentStats
 
 ## Description
 
-The Authority Commander Coat is an Equipment item that can be obtained from Fort Merit chests. It has a level requirement of power 30, and has 8 variants.
+The Authority Commander Coat is an Equipment item that can be obtained from Fort Merit chests. It has a level requirement of power 10, and has 8 variants.
