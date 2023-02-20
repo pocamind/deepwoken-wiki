@@ -1,8 +1,9 @@
 ---
 title: Immortal Guardian
-revid: 54168
+revid: 54538
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters, Enemies that can wield Enchantments]
 ---
 
 # Immortal Guardian
@@ -71,7 +72,7 @@ An Immortal Guardian executes the player after knocking them.
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Czovwu-ae%2CMkFjMInvjnU))
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Cnagfimbbzps-eamgon-cln%2Ftjkj%2CBlmdqfwg).
--   ~The effect of [Mute](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Cgefswlhem-fbmdln.%60lm%2Ctihj%2FQfgboibp) applies onto all entities here, so they can be assumed to be monsters.~ While the effects of Mute does indeed apply here, it does not automatically make them monsters.
+-   The effect of [Mute](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9%2F%2Cgefswlhem-fbmdln.%60lm%2Ctihj%2FQfgboibp) applies onto all entities here, so they can be assumed to be monsters.
 -   They speak in all capital letters.
 
 \[[\[1\]](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9/,gefswlhem-fbmdln.`lm,tihj/@btfdoqz:Nlnpweqp)\] \[[\[2\]](https://38af6d1a-7dba-4d17-96a6-24eeb9c463b6.id.repl.co/sw/hwwpp9/,gefswlhem-fbmdln.`lm,tihj/@btfdoqz:Fmenjep\tkbt\`am\wjflg\Em`hbmtnfnwp)\]

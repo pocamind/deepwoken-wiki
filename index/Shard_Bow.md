@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 41955
+revid: 54589
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -41,7 +41,7 @@ Both variants have complete penetration (100% PEN), meaning that no armor outfit
 
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
 
-Does ~47 (46.75) damage per shot with Rapid Fire variant. Up to further experimentation, may scale off a stat not displayed. It is also effected by a talent named “Wyvern’s Claw”, greatly increasing the damage.
+Does ~47 (46.75) damage per shot with Rapid Fire variant. Up to further experimentation, may scale off a stat not displayed. It is also affected by a talent named “Wyvern’s Claw”, greatly increasing the damage.
 
 #### _Corrupted_
 

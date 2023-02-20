@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 53164
+revid: 54588
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -181,6 +181,7 @@ Warden's Blades
 
 -   Try to hit all of them at once so one doesn't use a Mantra while you're preoccupied with another.
 -   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
+-   If you parry the red Necroskipper's fire attack, they'll set themselves on fire, and can deal enough damage to down them, in which case the fire will grip them.
     
 
 **Mineskipper:**
