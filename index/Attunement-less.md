@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 54446
+revid: 54701
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -99,6 +99,7 @@ File:No Attunement Revamp.png
 -   **Requirements: 5 Strength,Jus Karita and Murmur: Tacet,** _Combat Mantra_
 -   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
 -   Inflicts knockdown.
+-   Lands 15% faster when casted while wielding Jus Karita.
 
  |
 

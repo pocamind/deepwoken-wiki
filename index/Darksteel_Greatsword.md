@@ -1,9 +1,9 @@
 ---
 title: Darksteel Greatsword
-revid: 53301
+revid: 54735
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Items]
+categories: [Weapons, Greatswords]
 ---
 
 # Darksteel Greatsword
@@ -48,10 +48,6 @@ categories: [Weapons, Greatswords, Items]
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 **Base:**
-
-“ The best Greatsword in the game ”
-
-― Every Greatsword user who knows weapons
 
 ## Description
 

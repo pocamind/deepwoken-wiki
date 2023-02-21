@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 54015
+revid: 54714
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -41,7 +41,7 @@ The pricing list is as follows:
 -   Room 10:
 -   Room 11:
 -   Room 12:
--   Room 13: Not yet released
+-   Room 13: Price TBA
 
 From this, the total cost of all rooms and NPCs would be a whopping.
 
@@ -59,7 +59,7 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
 -   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
--   Fishing Room (N/A) - A soon to be released room for fishing.
+-   Fishing Room (N/A) - A fishing room, more info TBA.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
 

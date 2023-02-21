@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54591
+revid: 54724
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -247,8 +247,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Knock timer is reduced to 7 seconds instead of the usual 10.
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
--   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 25%.
-    -   PEN calculation: incoming PEN \*0.75 = reduced incoming PEN
+-   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
+    -   PEN calculation: incoming PEN \*0.5 = reduced incoming PEN
     -   Prerequisites: 90 Fortitude & **all** common bastion talents
 
 ### Beast Slayer
@@ -414,6 +414,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
+-   Spike Traps \[Rare Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+    -   Prerequisite: Ice Spikes
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
     -   Significantly reduces thirst drain.

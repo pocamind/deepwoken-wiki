@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 53982
+revid: 54720
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -11,7 +11,7 @@ categories: [Weapons, Fists]
 | Jus Karita | |
 |---|---|
 | type | Light Weapon |
-| requirements | 0 LHT |
+| requirements | 40 LHT, PWR 5 |
 | damage | 13 |
 | scaling | 9 |
 | range | 7 |

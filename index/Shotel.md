@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 53095
+revid: 54706
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -16,7 +16,7 @@ categories: [Weapons, Swords]
 | scaling | 5 |
 | range | 8 |
 | swing speed | 0.73x |
-| chip damage | 15% |
+| chip damage | 20% |
 | selling price | 25 notes |
 | weight | 2 |
 | bankable | Yes |
@@ -28,7 +28,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 15% chip damage (max damage is 33).
+The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 20% chip damage (max damage is 33).
 
 ## Alloyed Shotel stats:
 
@@ -36,7 +36,7 @@ The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 15%
 
 -   PEN: 10%
 
--   Chip Damage: 15%
+-   Chip Damage: 20%
 
 -   Scaling 6
 

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 42043
+revid: 54723
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]

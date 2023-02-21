@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54633
+revid: 54716
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -147,6 +147,10 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
+-   **All-Seeing Eye - Passive**
+    -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+    -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur).
+    -   Should highlight players with Ghost, an [Alpha Megalodaunt](https://deepwoken.fandom.com/wiki/Megalodaunt#Alpha_Megalodaunt) teleport, TBA.
 
 ### Effects
 
@@ -431,6 +435,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
     -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
+    -   The suit has iframes on the second half of its windup.
     -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 
 -   **Arc Beam - Combat Mantra**
