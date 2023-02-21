@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 54719
+revid: 54755
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -63,7 +63,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 -   Obviously, he cannot heal once the jars are destroyed.
 
  | N/A | N/A | N/A |  |
-| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ✗ | (★★★) |
+| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ◯ | (★★★) |
 | **Body slam** | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ◯ | ◯ | ◯ | (★★★) |
 | **Blood Frenzy** | Chaser laugh then use up to 4 attacks in quick successions.
 

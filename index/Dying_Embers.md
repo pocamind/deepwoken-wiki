@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 53754
+revid: 54756
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -17,7 +17,7 @@ categories: [World, Items]
 | droppable | Yes |
 | pass down | No |
 
-**Dying Embers** are an item in _Deepwoken_.
+**Dying Embers** is an item in _Deepwoken_.
 
 ## Description
 

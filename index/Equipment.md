@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 54281
+revid: 54737
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -813,6 +813,7 @@ Chests from:
 Other sources:
 
 -   [Artifact Turn-ins](Artifacts.md)
+-   Chime Of Conflict
 
  | N/A |
 |  | 

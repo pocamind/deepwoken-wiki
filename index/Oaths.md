@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54716
+revid: 54748
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -137,7 +137,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   While inside the circle, gain total immunity to mantra damage.
     -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing.
     -   About the size of a medium Sacred field roll.
-    -   Cannot be augmented by Spark Ingredients.
+    -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md) in order to make it follow the user.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
