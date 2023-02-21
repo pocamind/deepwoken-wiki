@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 54762
+revid: 54774
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 
 # The Ferryman
 
-“ Lower my bones to the ocean and let them drift all alone and slow,  
+“ You measured the risk, and you took the chance.  
 
-May the Ferryman gently take my soul -  
-To the Depths below...  
+Now dance puppet! Dance if you can!  
+The flames have called the Ferryman!  
 ”
 
-― 'I Hear The Tides', an Etrean folk song
+― The Ferrymans theme.
 
 Template:Creature Infobox V3
 

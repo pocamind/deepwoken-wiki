@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 53093
+revid: 54775
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races, Character]
@@ -16,7 +16,7 @@ Template:Races-Main
 
 The Aberrant Capra is a subrace of the [Capra](Capra.md). Much like the [Primal Vesperian](Primal_Vesperian.md), it is exclusive to SudoMesh, the winner of the Deepwoken art contest for weapon concepts held in the Discord server.
 
-The Aberrant Capra has many differences from the average Capra, most notably lacking the distinct animal skull that masks their face, having goat-like ears, blue eyes, four dark curved horns and spikes protruding from their face.
+The Aberrant Capra has goat-like ears, blue eyes, four dark curved horns and spikes protruding from their face.
 
 ## Lore
 
@@ -28,6 +28,5 @@ Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Cap
 
 ## Trivia
 
--   The current design of the Aberrant Capra marks a possible redesign for the Capra race as a whole, according to TheRealPunchee's [video on it](https://www.youtube.com/watch?v=6pQsohP3Ois). This rework has since been semi-confirmed as screenshots of the early designs for this rework have been released.
 -   The 'Sir' isn't canon, and is just filler as the system doesn't allow for one of the name slots to be blank.
 -   The original name was Draconian, but was shot down for not making lore sense.

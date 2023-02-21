@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 53813
+revid: 54776
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -735,7 +735,7 @@ Azure Flames
     -   The "Flame of Denial" mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing the player from dying to one-shot moves.
     -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
     -   Although the "Fire Palm" mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead being a single large hit that sets on fire.
-    -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involve throwing an orb flash made of fire.
+    -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
 
 ## Notes
 

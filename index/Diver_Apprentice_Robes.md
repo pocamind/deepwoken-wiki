@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 50698
+revid: 54777
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,7 @@ Alternatively, using the [Deepbound Origin](Origins.md) will grant it for free.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +10% Physical resistance, +15% Elemental resistance and +100% Ether Regen.
+This Outfit has 1000 durability and grants +10% Physical resistance, +15% Elemental resistance and +20% Ether Regen.
 
 ## Location
 

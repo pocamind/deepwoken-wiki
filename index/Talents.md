@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54724
+revid: 54773
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -249,7 +249,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   PEN calculation: incoming PEN \*0.5 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude & **all** common bastion talents
+    -   Prerequisites: 90 Fortitude & **all** common bastion talents.
+
+### Blindseer
+
+-   All-Seeing eye \[Common talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can percieve the imperceptible. Invisible foes are highlighted.
+    -   Prerequisites: saving enough pathfinders from the depths (needs more testing to know the amount)
 
 ### Beast Slayer
 
@@ -429,7 +434,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryoni
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisite: Fragile Freeze, 75 Frostdraw.
+    -   Prerequisite: Fragile Freeze.
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
@@ -1837,6 +1842,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+    
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 
 -   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)

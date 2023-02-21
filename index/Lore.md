@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 54084
+revid: 54771
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, World, Deepwoken]
 
 The lore of Deepwoken is vast and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape, such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Dev's themselves (Arch\_Mage, Naktigonis)
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Dev's themselves (Arch\_Mage, Naktigonis, Ragoozer etc...)
 
 This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
@@ -146,7 +146,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   'Would beat Akira up and down the eastern lum.'
--   Either a Tiran, Vesperian, or Ganymede.
+-   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
 -   Many people think he is dead due to be the only known person to go to the third layer. However since he is immortal, he just stays most of his time in the third layer, being almost not seen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
@@ -313,6 +313,8 @@ Yun'shul's Shrine
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborns, as the lost lightborn in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborns lost when the Celestials fleed.
+-   It is most likely that they have a great relation with Krulians, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
@@ -339,7 +341,10 @@ Yun'shul's Shrine
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
--   A full power Ferryman can defeat Akira, but not the Lord Regent with his throne.
+-   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths.
+-   Its confirmed that the Ferryman becomes a lot more stronger in the depths that in the overworld, as stated by Ragoozer the Ferryman cant defeat the Lord Regent with the throne buff **in the surface**, but if by some way they were in the Depths, the Ferryman will be stronger.
+-   This means that the Ferryman becomes stronger as he is more close to the Depths, but weaker the more far away he is to the Depths, also possibly meaning that every krulian strength is tied to the depths.
+-   Possibly resides in an unkown layer of the Depths, this is because of the great connection he has to the Depths and that when you defeat him and he tells you he is a krulian, he says that he really needs to go as if a place was calling him in the depths, probably where all the Krulians reside.
 
 ### **Sudaruska the Undying**
 
@@ -460,6 +465,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths. Ragoozer has hinted at the possibility of there being five.
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Many of the layers are created after a great drowning sinks a civilization.
+-   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
 
 #### **Scyphozia, The First Layer**
 
@@ -814,16 +820,18 @@ A Peacekeeper Commander, part of The Authority
 
 -   **Territory:** _???_
 -   **Attunements:** _Any_
--   **Alliances:** _None_
--   **Enemies:** _None_
+-   **Alliances:** _None (The Drowned Gods and Depths?)_
+-   **Enemies:** _None (Celestials and Lightborns?)_
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
 -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
 -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
 -   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
 -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
-    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn.
+    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
 -   There are higher Krulians and lesser Krulians.
-    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty.
+    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
+
+-   There is a chance that they are ancient enemies of the lightborns and Celestials, as stated by the lost lightborn in layer 2, the Celestials and Lightborns were in a war agaisnt the Drowned gods and the Depths itself, and as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborns. Also possibly meaning that they have a special relation with the Depths and the Drowned gods.
 
 ### The Golden Rats
 
