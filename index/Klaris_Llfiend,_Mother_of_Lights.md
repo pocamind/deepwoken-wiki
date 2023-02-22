@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 54442
+revid: 54799
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,7 +8,7 @@ categories: [NPCs]
 
 # Klaris Llfiend, Mother of Lights
 
-| Klaris | |
+| Klaris Llfiend, Mother of Lights | |
 |---|---|
 | name | Klaris Llfiend, Mother of Lights |
 | location | Castle Light |
@@ -23,7 +23,7 @@ Klaris Llfiend, Mother of Lights is a [Black Diver](The_Divers.md) who provides 
 
 She is the safest way to get to the [Second Layer](Second_Layer.md), as you will be given a Light hook. However, you must be at least power 15 for her to give you access this way.
 
-Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md).
+Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
 She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.
 
@@ -35,7 +35,6 @@ _After handing in all Diver Journals to her:_
 
 ## Trivia
 
--   She is the inventor of Radiant Magic, an Oath that gives magic that is very similar to Lightkeeping.
+-   She is the inventor of Radiant Magic, an Oath that gives access to some Lightkeeping.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
 -   It has been speculated that she is/was an Adret due to the markings on her face, though Arch\_Mage's decision to refer to her race as 'Unknown' rather than Adret is worth considering.
--   Arch\_Mage said that Klaris has intangibility.

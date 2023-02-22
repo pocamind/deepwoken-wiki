@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 54009
+revid: 54792
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -38,8 +38,6 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 
 -   This weapon deals 33.25 damage with 100 MED and 100 WND
     -   34.9125 damage with the After Cut effect included.
--   At 100M/80W, this does **AROUND** 31.5 damage per hit, and 33.075 with aftercut.
 -   The sword is similar to a Chinese Dadao sword.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or Voided.
 -   When using the weapon one-handed it becomes 2 swords, changing it's animations.
--   Due to the multitude of nerfs, with a 100/100 build, it only does 34.9125 with it's base aftercut included, while a [Forgotten Gladius](Forgotten_Gladius.md) does 33.66 with after cut, while being Enchantable. If the Gale user has a 100/80 build, they will do about the same, if not less than a gladius with only 2% more pen. Thus, this weapon should not be considered for most builds as it requires 20 more points and little-no use of Shrine of Order due to the 100/100 requirement.

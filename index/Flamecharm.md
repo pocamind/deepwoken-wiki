@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 54776
+revid: 54784
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -428,7 +428,7 @@ File:Flame Within.gif
 
 Flame Within
 
- | An Application of Pleetsky's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra strength and speed.
+ | An Application of Pleetsky's concept of the inner flame, also known as the soul of man. Set your balls ablaze to gain extra strength and speed.
 
 -   Active Ability.
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54748
+revid: 54811
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -137,7 +137,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   While inside the circle, gain total immunity to mantra damage.
     -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing.
     -   About the size of a medium Sacred field roll.
-    -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md) in order to make it follow the user.
+    -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -287,7 +287,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
 -   Symbiotic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
--   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
 
 **Jetstriker:**
 
@@ -502,6 +501,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
 -   Radiant kick may be inspired by Minos Prime Judgement kick from Ultra kill, having very similar animations.
 
+IT IS NOT LIFEWEAVE IT IS An OATH THAT LETS YOU ACESS Raident magic WHICH IS A FORM OF LIGHTKEEPING
+
 ### Effect
 
 This oath grants 2 Combat Mantra Slots.
@@ -597,13 +598,14 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
         
 
-**Lifeweaver:**
+**Lifeweaver\*:**
 
 ## Lifeweaver
 
 **Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
 
--   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
+  
+
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
@@ -613,7 +615,8 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
-        
+-   it might be an attument not an oath
+    
 
 **Fadetrimmer:**
 

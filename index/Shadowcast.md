@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 54119
+revid: 54804
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -99,6 +99,7 @@ nearby opponents until the duration has expired or the orb has made contact with
 do a small amount of damage and steal a large amount of ether.
 
 -   Shares a cooldown with Shadow Meteors.
+-   If attacked while casting, the Shadow Seekers will dissipate
 -   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
 
  |

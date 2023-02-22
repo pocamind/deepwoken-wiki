@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54773
+revid: 54812
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1714,8 +1714,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Effect: Takes the hp of a servant until you are full hp
 
 -   Vow of Mastery \[Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (+1 Ether, +1 Health)
-    -   Prerequisite: 20 Charisma
+    -   Players who take the vow are considered allies with their master and others who take the vow.
     -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate"
+    -   Prerequisite: 20 Charisma
 
 ### Warrior
 

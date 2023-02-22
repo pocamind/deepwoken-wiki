@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 54006
+revid: 54801
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -27,13 +27,11 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | obtainment | Chests in The Depths Also Floor 1 Layer 2 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
-“ "Please Refer to the Darksteel Greatsword for more information" ”
-
-― Crypt Blade users realizing Darksteel is better
-
 ## Description
 
 The **Crypt Blade** is a dark gray greatsword with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your heavy weapon stat, making it scale off of two values as if you had a built-in Ring on your weapon.
+
+Crypt Blades are made from the corpses of the last people to die prior to The Great Drowning.
 
 ## Trivia
 

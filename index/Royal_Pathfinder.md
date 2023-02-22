@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 51991
+revid: 54803
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Items]
@@ -13,7 +13,7 @@ categories: [Armors, Arms, Items]
 | type | Arms |
 | rarity | Legendary |
 | selling price | ?? |
-| requirements | Power 30 |
+| requirements | Power 10 |
 | weight | 2 |
 | innate stats | 6 HP |
 | innate talent | Ready or Not |

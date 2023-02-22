@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 51500
+revid: 54796
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -29,7 +29,7 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain, and how quickly you gain Parasites in the Eternal Gale. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
-| Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. |
+| Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. | 1 |
 | Packmule | "You have a much higher max. carry load." | Carry load is increased by 50. | 1 |
 | Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained.
 
