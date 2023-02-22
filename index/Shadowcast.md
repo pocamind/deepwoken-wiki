@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 54804
+revid: 54825
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -172,6 +172,7 @@ Eclipse Kick
 -   Requires 20 Strength and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
 -   Can also break certain tiles and fell trees.
+-   If multiplying spark is added do more of an upper aimed like kick
 
  |
 

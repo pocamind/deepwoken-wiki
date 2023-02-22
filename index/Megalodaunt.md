@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 54121
+revid: 54823
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -230,6 +230,11 @@ Tacet Hug
 -   **Autogrips**
 
  | ✗ | ✗ | ◯ | (★☆☆) |
+| 
+
+Tacet Drop Kick
+
+ | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. | ? | ? | ? | (★☆☆) |
 
 **Mechalodaunt:**
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 54701
+revid: 54821
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -38,82 +38,76 @@ In spite of it's shortcomings, the potential of Attunementless is nothing to sco
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
-| 
-File:No Attunement Revamp.png
-
- | Strong Left
-
-(☆☆☆)
-
- | _Show your foes your strength._ | 
-
--   **Requirements:** _**20 Strength,**_ _Combat Mantra_
--   A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.
--   Strong Left scales with your Strength attribute.
-
--   Can Fell trees. With [Treefelling Blow](Talents.md) talent can gain wood from fallen trees.
-
- |
-| 
-
-File:No Attunement Revamp.png
-
- | Rapid Punches
-
-(★☆☆)
-
- | _Unleash a barrage of blows against your foes._ | 
-
--   **Requirements:** _**20 Strength,**_ _Combat Mantra_
--   A flurry of blows that inflicts light damage on your opponent.
--   The move is cancelled upon getting parried in the initial hit.
-
- |
-| 
-
-File:No Attunement Revamp.png
-
- | Strong Leap
-
-(☆☆☆)
-
- | _Kick off of the ground with your strength, sending you into the air._ | 
-
--   **Requirements:** _**50 Strength,**_ _Mobility Mantra_
--   A vertical jump that sends the user into the air.
--   Altitude travelled decreases significantly as the user loses health.
--   Drops carried players/NPCs when used.
--   **UNKNOWN IF UPGRADING MAKES YOU LEAP FURTHER, NEEDS TESTING**
-
- |
-| 
-
- | Tacet Drop Kick
-
-(☆☆☆)
-
- | _Disguise yourself in tacet and drop kick your enemies._ | 
-
--   **Requirements: 5 Strength,Jus Karita and Murmur: Tacet,** _Combat Mantra_
--   Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.
--   Inflicts knockdown.
--   Lands 15% faster when casted while wielding Jus Karita.
-
- |
+<table><caption>Attunementless Mantras</caption>
+<tbody>
+<tr>
+  <th><b>Media</b></th>
+  <th><b>Name</b></th>
+  <th><b>Card Description</b></th>
+  <th><b>Effect &amp; info</b></th>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Strong Left<p>(☆☆☆)</p></td>
+  <td><i>Show your foes your strength.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li>A powerful left hook that knocks your opponent away, inflicting ragdoll in the process.</li>
+    <li>Strong Left scales with your Strength attribute.</li>
+  </ul>
+  <ul>
+    <li>Can Fell trees. With <a href="Talents.md">Treefelling Blow</a> talent can gain wood from fallen trees.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Rapid Punches<p>(★☆☆)</p></td>
+  <td><i>Unleash a barrage of blows against your foes.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li>A flurry of blows that inflicts light damage on your opponent.</li>
+    <li>The move is cancelled upon getting parried in the initial hit.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Strong Leap<p>(☆☆☆)</p></td>
+  <td><i>Kick off of the ground with your strength, sending you into the air.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i></li>
+    <li>A vertical jump that sends the user into the air.</li>
+    <li>Altitude travelled decreases significantly as the user loses health.</li>
+    <li>Drops carried players/NPCs when used.</li>
+    <li><b>UNKNOWN IF UPGRADING MAKES YOU LEAP FURTHER, NEEDS TESTING</b></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Tacet Drop Kick<p>(☆☆☆)</p></td>
+  <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u> 5 Strength,Jus Karita and Murmur: Tacet,</b> <i>Combat Mantra</i></li>
+    <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
+    <li>Inflicts knockdown.</li>
+    <li>Lands 15% faster when casted while wielding Jus Karita.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### _**Fortitude Mantras**_
 
 Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a Training Vest, or feel the crushing weight of a Boulder.
 
-| **Media** | **Name** | **Card Description** | **Effect & Info** |
-| --- | --- | --- | --- |
-| 
 File:No Attunement Revamp.png
 
- | Rally
-
+| **Media** | **Name** | **Card Description** | **Effect & Info** |
+| --- | --- | --- | --- |
+|  | Rally
 (☆☆☆)
 
  | _Strike your shield a few times to absorb some of the posture received by your allies._ | 

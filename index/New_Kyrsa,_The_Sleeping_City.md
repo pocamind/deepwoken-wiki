@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 53847
+revid: 54826
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -40,13 +40,19 @@ This place is currently one of the most challenging places in-game, since you ca
 
 If you die here, you will wipe, or if you still have the Light Hook you will be sent back to [Castle Light](Castle_Light.md).
 
+### Great Library of New Kyrsa
+
+The Great Library of New Kyrsa is a large library, containing a rotation puzzle and many hostile Kyrsgardes within it. If someone fails the rotation puzzle, everyone in the instance will be teleported back to the start of the library, no matter where they are. The code to the puzzle is as such:
+
+**1 - 2 - 1 - 2 - 2 - 2 - 1 - 2 - 3 - 1 - 4 - 2 - 3 - 1**
+
+  
+
 ## Appearance
 
 New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only one, Naerotiv, is not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
 
 Despite the beautiful outward appearance and the seemingly volatile enemies, New Kyrsa is stuck in a time loop. People stuck in the city are trapped in the time loop forever, unable to escape, or even die.
-
-  
 
 ## Scion of Ethiron
 
