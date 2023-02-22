@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 54451
+revid: 54837
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -14,11 +14,11 @@ Kyrsan Medallions are an end-game currency that can be found in the Second Floor
 
 After entering Floor 2 you can find large pink chests in random locations. These chests are increasingly common in New Kyrsa. There is a faint pink beam that indicates where these chests are (this isn't always visible). Each chest contains 4-7 medallions, and each chest will respawn in the same location after defeating the Floor 2 Boss: [Scion of Ethiron](Scion_of_Ethiron.md). Five chests spawn when you enter the second floor and (in theory) another five respawn after defeating the boss. You must successfully defeat the boss and **escape from the collapsing layer 2 via the Light Hook in the City** in order to keep any of the Medallions you find.
 
-Kyrsan Medallions are soft-capped at 51. If you have more than 51 medallions when leaving Floor 2, you will return to Castle Light with 51. Any of your other medallions will be voided.
+Kyrsan Medallions are soft-capped at 99
 
 ## Usage
 
-Kyrsan Medallions can be exchanged for lots of services, crucial for the end-game as well as the Dawnwalker [Oath](Oaths.md). In order to use your Medallions, talk to **Klaris Llfiend, Mother of the Lights** in Castle Light. She is the same NPC that teleports you to Layer 2. If you have any Medallions in your inventory, she will have an additional dialogue option that states: "What do you have to offer?" - clicking on this option opens the Kyrsan Medallions shop:
+Kyrsan Medallions can be exchanged for lots of services, crucial for the end-game as well as the Dawnwalker [Oath](Oaths.md). In order to use your Medallions, talk to **Klaris Llfiend, Mother of the Lights** in Castle Light. She is the same NPC that teleports you to Layer 2. If you have any Medallions, she will have an additional dialogue option that states: "What do you have to offer?" - clicking on this option opens the Kyrsan Medallions shop:
 
 1.  [Knowledge](Knowledge.md) \[5 Medallions\] - Gives you five knowledge points.
 2.  [Enchant Stone](https://deepwoken.fandom.com/wiki/Enchantment_Stone) \[5 Medallions\] - Gives you an enchant stone engraved with a random enchant that can be used to enchant your current weapon.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 54138
+revid: 54829
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -43,6 +43,7 @@ Known downsides include:
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
 -   On use, player will have exactly 10% taken from their health.
+-   On use, player will be given aids.
 
 These downsides do not appear to be correlated to any Resonances, meaning any Resonance can get any downside, and are very minor in effect. At most, the health one deals like 10%. Ironically, many Resonance effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances.
 
@@ -185,7 +186,8 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 
 -   **Corrupted Skull Popper** (Akira's Resonance)
 -   **Dream Eater** (Haske Vantage's Resonance)
--   **Golem Creation** (Duke Erisia's Resonance)  
+-   **Golem Creation** (Duke Erisia's Resonance)
+-   **Time Skipper** (Godskipper's Resonance)  
     
 
 ## Trivia
@@ -206,3 +208,4 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 -   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne.
 -   Resonances come in the form of any instrument, but the Bell is the only one seen in game.
+-   Rarely enough you might get a Cello instead once you get resonance.
