@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 54058
+revid: 54976
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enem
 
 Songseeker Frostdrawers are enemy NPCs that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
-Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, varying with their [race](Aspects.md) and gender.
+Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, varying with their [Race](Aspects.md) and gender.
 
 ## Moveset
 
-A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (**Fist of Navae**) and the [Frostdraw](Frostdraw.md) attunement:
+A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

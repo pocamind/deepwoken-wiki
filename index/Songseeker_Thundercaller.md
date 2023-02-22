@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 50477
+revid: 54978
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0 **Songseeker Thundercallers** are a [humanoid enemy](En
 
 A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns.
 
-A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit with their [race](Aspects.md) and gender varying.
+A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit with their [Race](Aspects.md) and gender varying.
 
 ## Moveset
 
-A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) (**Fist of Navae**) and the [Thundercall](Thundercall.md) attunement:
+A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -87,5 +87,4 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 -   It is not advised to fight these below [Power](Power.md) 30, as they're extremely difficult to fight without spare health.
 -   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
--   So far the most intelligent Songseeker as they have a fighting style.
 -   Whenever they land Lightning Stream, they are likely to use Thunder Kick right after.

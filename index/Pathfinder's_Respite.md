@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 52968
+revid: 54870
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -18,7 +18,7 @@ A peaceful grotto to escape the horrors of a cursed land lost to time.
 
 ## Overview
 
-Pathfinder's Respite is a small den with a small spot of flowers in the middle. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages and a [Glider](Gliders.md) schematic. [Ivory](Ivory.md), the [Air Dash](Talents.md#air-dash) questgiver also resides here.
+Pathfinder's Respite is a small den with a small spot of flowers in the middle. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages and a [Glider](Gliders.md) schematic. [Ivory](Ivory.md), the [Aerial Assault](Talents.md#air-dash) questgiver also resides here.
 
 ## Potential Enemies
 

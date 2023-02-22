@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54812
+revid: 54840
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -434,7 +434,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryoni
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisite: Fragile Freeze.
+    -   Prerequisite: Fragile Freeze, 20 Fortitude.
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.

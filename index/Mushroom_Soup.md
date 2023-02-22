@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 50401
+revid: 54862
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Items]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Food, Items]
 
 ## Description
 
-Template:Food Template V1Mushroom Soup is a [Food Item](Food.md#campfire-recipes) present in the game, which can be bought from [Lance's Food](Etris.md#lances-food) at [Etris](Etris.md), or crafted at a [Campfire](Campfire_Pit.md). ~You can only hold 10 Mushroom Soups at a time without any talents that boost your food capacity..~ (This applies to most food items except [Sushi](Sushi.md))
+Template:Food Template V1Mushroom Soup is a [Food Item](Food.md#campfire-recipes) present in the game, which can be bought from [Lance's Food](Etris.md#lances-food) at [Etris](Etris.md), or crafted at a [Campfire](Campfire_Pit.md).
 
 ## Recipe
 

@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 51185
+revid: 54953
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -10,7 +10,7 @@ categories: [Weapons, Spears]
 
 | Ritual Spear | |
 |---|---|
-| type | Medium weapon |
+| type | Medium Weapon |
 | requirements | 35 MED |
 | damage | 19 |
 | scaling | 5 MED |
@@ -29,6 +29,10 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The ritual spear is a medium weapon and the third best spear in the game. It can be obtained by buying it at the weapon store located in Etris.
+The Ritual Spear is a Medium weapon and a good spear for the midgame. It can be obtained by buying it at the weapon store located in Etris.
 
-The weapon itself is very similair to the iron spear, having the same m1s and crits, only differing in stats.
+The weapon itself is very similair to the [Iron Spear](Iron_Spear.md), having the same m1s and crits, only differing in stats.
+
+## Notes
+
+-   The [Etrean Guardsmen](Etrean_Guardsmen.md) and occasionally the [Legion Captain](Legion_Captain.md) use this weapon.

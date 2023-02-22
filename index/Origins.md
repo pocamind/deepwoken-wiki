@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 53621
+revid: 54939
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -8,7 +8,7 @@ categories: [Character, Mechanics, Creation]
 
 # Origins
 
-Origins are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which origin is chosen.
+Origins are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen.
 
 ## Castaway
 
@@ -19,10 +19,10 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Obtainment:** Unlocked by default.
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
--   Begin with nothing but tattered armor and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
+-   Begin with nothing but [Stranded](Stranded.md) and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
     -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
 -   No pros or cons; a blank slate for your character.
--   This is the default origin, available to all players when first starting the game.
+-   This is the default Origin, available to all players when first starting the game.
 
 ## Lone Warrior
 

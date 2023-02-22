@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 53809
+revid: 54907
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -39,10 +39,10 @@ Template:Areainfobox
 -   Mr. Quarters
     -   An Adret wearing the [Darksteel Plate](Darksteel_Plate.md) outfit. Halfmaster of the ship.
 -   Serendi
-    -   A short Etrean wearing an unknown/unconfirmed outfit, propped up on two crates. She hints towards the incoming Authority attack by mentioning the ship that she sees on the horizon.
+    -   A 'short' Etrean wearing an unknown/unconfirmed outfit, propped up on two crates. She hints towards the incoming Authority attack by mentioning the ship that she sees on the horizon.
 
 ## Trivia
 
 -   Despite Mr. Quarters' status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   You can drop barrels into the water.
--   Serendi claims to be short, but she is the same height as everyone else.
+-   Although Serendi claims to be short, but she is the same height as everyone else.

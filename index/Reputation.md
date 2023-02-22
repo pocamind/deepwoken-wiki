@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 51977
+revid: 54875
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -226,5 +226,5 @@ Crate Retrieval
 -   There are some factions who for, various reasons, players can only get one kind of rep with.
     -   You cannot get good rep with [Celtor](The_City_of_the_Drowned.md), but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Divers, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
--   Spitting on a guard causes them to become aggressive regardless of reputation.
+-   Spitting on a guard causes them to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
 -   The Ministry and the Knives of Eylis are the only Factions that all players start out with negative reputation on spawn.

@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 42768
+revid: 54880
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -8,31 +8,49 @@ categories: [Mechanics, Character, Creation]
 
 # Power
 
-Power or Level is the levelling mechanic of Deepwoken that enables players to increase their stats as well as unlock new talents, mantras, and select an oath.
+Power or Level is the levelling mechanic of Deepwoken that enables players to increase their stats as well as unlock new [Talents](Talents.md), [Mantras](Mantras.md), and select an [Oath](Oaths.md).
 
 An example of a player's Power and stat allotment
 
-Each level of power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their power upon meeting EXP requirements. Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, an Oath, or rarely a fifth card which is fold. Fold cards will postpone the player's reception of a Card until their next power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one.
+Each level of Power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their Power upon meeting EXP requirements. As players Power up further the EXP required to invest a point will increase as well. The maximum Power is currently 20.
+
+Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, or rarely a fifth card which is fold. Additionally, their health is restored and their life is unstained (if they were previously stained). Hunger and thirst are also brought back to full.
+
+Fold cards will postpone the player's reception of a Card until their next Power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one.
 
 To keep progressing however, you will need regular EXP, obtained by killing things:
 
--   The white sparkling particles means you are getting EXP, the density showing the amount obtained
--   The yellow/golden sparkling particles means you have reached an EXP threshold, meaning that further progress is (sometime) available
+-   The white sparkling particles means you are getting EXP, the density showing the amount obtained.
+-   The yellow/golden sparkling particles means you have reached an EXP threshold, meaning that further progress is (sometime) available.
     -   If you've reached the point where using [Training Gear](Training_Gear.md) says "I've learnt what I can from training right now, I should put it into practice...", those yellow particles usually indicates that you should be able to continue without this message, even if for just 1 point.
--   If you've gotten all 15 investment points and it shows 0 without you powering up it means you require more exp
+-   If you've gotten all 15 investment points and it shows 0 without you powering up it means you require more EXP.
 
-As players power up further the EXP required to invest a point will increase as well. The maximum Power is currently 20.
+## Attributes
 
-If you want to plan your builds properly, consider using a calculator, like this [one](https://docs.google.com/spreadsheets/d/1mqshnTmkl7U2J55Gt9eeXmheiZSRRVvZii5TcY-ojD0/edit?usp=sharing) (courtesy of BLU REMOTE#3420)
+### Base Attributes
 
-There is also a mechanic in which each power level, you deal about 10% of your base damage of any weapon or mantra added to your NPC damage per power. Please keep this in mind when fighting higher level mobs.
+-   Strength
+-   Fortitude
+-   Agility
+-   Intelligence
+-   Willpower
+-   Charisma
 
-  
+### Weapon Attributes
 
-\- **Investable Skills -**
+-   Heavy Weapon
+-   Light Weapon
+-   Medium Weapon
 
-**Base Skills** - Strength, Fortitude, Agility, Intelligence, Willpower, Charisma
+### Attunement Attributes
 
-**Weapon Skills -** Heavy, Medium, Light
+-   Flamecharm
+-   Frostdraw
+-   Galebreathe
+-   Thundercall
+-   Shadowcast
 
-**Attunement Skills -** [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Shadowcast](Shadowcast.md)
+## Trivia
+
+-   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. Presumably, this was added because it was too easy to level up.
+-   There is also a mechanic in which each Power level, you deal about 30% of your base damage of any weapon or mantra added to your NPC damage per Power level. Please keep this in mind when fighting higher level mobs.

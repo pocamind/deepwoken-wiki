@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 53479
+revid: 54856
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -29,7 +29,7 @@ Mystic is a [Chrysid](Chrysid.md) NPC that appears in multiple locations around 
 
 Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare and Advanced talents do not have associated options. Here are but a few of the possible prompts:
 
-# **Attributes**
+## Attributes
 
 ### Agility
 
@@ -109,9 +109,9 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
 -   _Uh... **(Miscellaneous)**_
 
-# **Attunements**
+## Attunements
 
-### **Flamecharm**
+### Flamecharm
 
 -   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh)**_
 -   _I dance with the flames. **(Flame Dancer)**_
@@ -128,7 +128,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My flame fights for me._ _**(Duelist Flame)**_
 -   My spirit is forever burning. _**(Undying Ember)**_
 
-### **Frostdraw**
+### Frostdraw
 
 -   _I command the cold. **(Cryomancer)**_
 -   _My ice protects like a flower growing thorns. **(Cryoni)**_
@@ -137,7 +137,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I would see this world freeze. **(Ice Age)**_
 -   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
 
-### **Galebreathe**
+### Galebreathe
 
 -   _I walk the skies. **(Cloudwalker; Gale Leap)**_
 -   _I speak to the winds. **(Galebreather)**_
@@ -147,7 +147,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer)**_
 
-### **Thundercall**
+### Thundercall
 
 -   _I work for the Authority. **(Authority Interrogator)**_
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
@@ -157,7 +157,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I speak to lightning. **(Thundercaller)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 
-### **Shadowcast**
+### Shadowcast
 
 -   _I speak to the shadows. **(Shadowcaster)**_
 -   _I am the one who speaks to death. **(Deathspeaker)**_

@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 54271
+revid: 54967
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -45,7 +45,7 @@ The town is one of the main parts of Miner's Landing. Buildings throughout the t
 
 Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder Oath](Oaths.md#oatharcwarder). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
-You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy cloth and fiber.
+You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth and Fiber.
 
 ## **Upper Landing**
 
@@ -74,7 +74,7 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 -   Speak to Orion, a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oaths.md#oatharcwarder).
 -   Orion offers you to help handle the conflict (One [Mechalodaunt](Megalodaunt.md#mechalodaunt)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
 -   Neutralize the conflict, and return to Orion for the reward; which is both Ignition Union Reputation and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
--   Note: this quest is repeatable
+-   Note: this quest is repeatable.
 
 #### Alpha's Quest
 

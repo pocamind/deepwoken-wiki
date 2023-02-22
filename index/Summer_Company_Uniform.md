@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 52921
+revid: 54963
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -32,7 +32,7 @@ This Outfit's Schematic can be found in:
 
 -   [Summer Isle](Summer_Isle.md), inside the gun store.
 -   [Summer Isle](Summer_Isle.md) (Chest)
--   [The Depths](The_Depths.md) (Chest)
+-   [First Layer](First_Layer.md) (Chest)
 
 ## Trivia/Notes
 

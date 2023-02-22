@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 54690
+revid: 54874
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -209,13 +209,12 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
     -   2nd being [Primadon](Primadon,_Titan_of_the_East.md).
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
--   The more people that participate in fighting The Duke, the more health he has.
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   The also both laugh manically following a successful counter
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+-   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   It is recommended to fight The Duke with the following:
     -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture. Mantras like "Fire Blade," "Ice Smash," "Exhaustion Strike," "Master's Flourish," and even "Glacial Arc," with the right modifiers work very well against him.
     -   A **[Heavy Hands Ring](Outfits.md)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.

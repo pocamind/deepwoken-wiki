@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 50081
+revid: 54873
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -36,4 +36,4 @@ This outfit can be found in:
 
 ## Trivia/Notes
 
--   It's a Inferior version of [Pathfinder Arch-Sorcerer.](Pathfinder_Arch-Sorcerer.md)
+-   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer.](Pathfinder_Arch-Sorcerer.md)

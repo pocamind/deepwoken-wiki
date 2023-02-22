@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 54165
+revid: 54987
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -22,6 +22,7 @@ _This page lists the controls that can be used in Deepwoken._
 | E | Interact | Player interacts with NPCs, environment, etc. |
 | F | Parry | Player parries attacks if used right before impact. |
 | F (hold) | Block | Player blocks incoming attacks. Increases posture. |
+| G | Vent | Player vents, reducing their Tempo and knocking enemies back. |
 | Y | Switch Stance | Players swap weapon stance if possible. |
 | T | Taunt | Player spits. Spitting on an entity will heal ~5% health, and if they are an NPC, make them aggro onto you. |
 | V | Carry KO'd Enemy | Player will pick up a downed entity nearby. |
@@ -31,7 +32,7 @@ _This page lists the controls that can be used in Deepwoken._
 | Q | Roll | Player rolls. Allows attack dodging. |
 | Ctrl | Crouch | Player enables [Stealth](Stealth.md). |
 | Ctrl (sprinting) | Slide | Player slides on the ground. Jump during the slide for a slight speed boost or slide down slopes for a large burst of speed. |
-| TAB | Journal/Backpack | Opens inventory and [Attributes](Attributes.md) window. |
+|  | Journal/Backpack | Opens inventory and [Attributes](Attributes.md) window. |
 | X (hold) | Gesture | Opens a menu to select gestures. Locks player to boat. |
 | P | Toggle Cosmetic | Player removes Head type equipment visually but keep the effects. Also allows [Ganymede](Ganymede.md) to remove their hat. |
 

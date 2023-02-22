@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 52908
+revid: 55003
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -28,12 +28,6 @@ categories: [Weapons, Greathammers]
 | obtainment | Dropped directly from the Enforcer |
 | description | TBA |
 
-“ What a nice shield you have. ”
-
-― An Enforcer Hammer User going to bully a path defender user.
-
-  
-
 ## Description
 
 The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from the [Enforcer](Enforcer.md). It requires Power 10, 80 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and chip damage.
@@ -44,4 +38,4 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from th
 -   Boasts the highest posture damage out of every weapon so far.
 -   It has the critical attack of an [Enforcer's Axe](<Enforcer's_Axe.md>)
     -   With the addition of [Murmur: Ardour](Murmur.md), Heavy Hitter and if you want to compensate- a Heavy Hands Ring, this does an ungodly amount of posture damage, able to posture break almost all humanoid enemies upon block (Potentially even being able to instantly posture break the [Duke](Duke_Ishamon_Erisia.md) with just Heavy Hitter.)\*
-    -   Despite stacking all ways to deal more posture damage, the devs implemented a posture damage cap. Meaning that once you reached the cap, you cant deal more posture damage, but still the cap can deal atleast half posture bar for path finders shield users, making it possible to one shot the posture of people with no shields.
+    -   Despite stacking all ways to deal more posture damage, the devs implemented a posture damage cap. Meaning that once you reached the cap, you can't deal more posture damage, but still the cap can deal at least half posture bar for [Path's Defender](<The_Path's_Defender.md>) users, so it is possible to one shot the posture of people with no shields.

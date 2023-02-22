@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 50765
+revid: 54989
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -16,7 +16,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
   
 
-**The Depths**, is a location in _Deepwoken_. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with [Hollow](Echoes.md), dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md).
+**The Depths**, is a location in _Deepwoken_. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) modifier, dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
 

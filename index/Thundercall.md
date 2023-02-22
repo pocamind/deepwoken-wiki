@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 54223
+revid: 54895
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -20,7 +20,7 @@ Thundercall makes use of a highly unpredictable nature with high slow/stun poten
 
 The playstyle of this attunement is unpredictability, creativity, and speed. Most overlook it's combat capabilities, but don't be fooled, as this element allows for a lot of switch-up potential. The switch-up potential comes in it's talents that modify mantras, giving you a choice to switch things up. This ranges from having a slash after your lightning blade, all the way to insta-casting mantras after meeting certain requirements. With these talents giving you the option of instant casting to make it difficult to impossible for your opponent to react, you will be given the upper-hand forcing them to predict your next move. This attunement would most likely fit players who rely on their creativity rather than combos and brute force. It also has some talents which make this almost like a beatdown attunement, with some talents creating "stacks" upon doing certain things, or some mantras that apply buffs to the user (Most notably the lightning cloak), making the fight increasingly more difficult for the opponent as it goes on.
 
-It should be noted, however, for all thundercall's speed that the corresponding ether drain is a difficult challenge to overcome. It's recommended to invest in high regen armor or consumable items to help make up the difference. An adept player may attempt to play defensively until the thundercaller's ether runs out, or worse, manage to read the thundercaller's often highly initiative mid-range playstyle and counter with a well timed flamecharm blast or galebreathe combo. Especially dangerous to novices are shadowcasters, who can outlast and outsustain a mantra-reliant thundercaller. It's recommended to use thundercall's mixup potential to counter with good dodges and excellent pace control.
+It should be noted, however, for all Thundercall's speed that the corresponding ether drain is a difficult challenge to overcome. It's recommended to invest in high regen armor or consumable items to help make up the difference. An adept player may attempt to play defensively until the Thundercaller's ether runs out, or worse, manage to read the Thundercaller's often highly initiative mid-range playstyle and counter with a well timed flamecharm blast or galebreathe combo. Especially dangerous to novices are shadowcasters, who can outlast and outsustain a mantra-reliant Thundercaller. It's recommended to use Thundercall's mixup potential to counter with good dodges and excellent pace control.
 
 ## Training
 
@@ -361,7 +361,7 @@ Lightning Cloak
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 thundercall)**
+-   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 Thundercall)**
 -   Now requires you to hit an opponent within 3 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 30 seconds.
 -   When you critically hit an enemy, you become invisible and untargetable. Cooldown is 2 minutes and 30 seconds.
 
@@ -1043,7 +1043,7 @@ Jolt Cast
 
  | 
 
-Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
+Every perfect casted Thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
 
  | 
 

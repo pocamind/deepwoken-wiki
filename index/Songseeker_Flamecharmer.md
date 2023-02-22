@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 53160
+revid: 54947
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0 **Songseeker Flamecharmers** are a [humanoid enemy](Ene
 
 A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns.
 
-A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit with their [race](Aspects.md) and gender varying.
+A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit with their [Race](Aspects.md) and gender varying.
 
 ## Moveset
 
@@ -85,7 +85,7 @@ A Songseeker Flamcharmer executes it's opponent after knocking them:
 
 ## Tips
 
--   Constantly flourishing them/using mantras will prevent them from spamming mantras.
+-   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
 -   If not constantly attacked, they become a real threat as they can sometimes only spam Flame Repulsion, which if you're unlucky enough, will hit _and_ aggro other Songseekers.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   If you're fighting against this and other Monks, make sure it is _never_ a Galebreather or Thundercaller. The constant mantra spam from the Flamecharmer, as well as having to parry trade and fight against the primary Monk will easily begin to overwhelm you, as well as having anti-running mantras to keep you from going too far.

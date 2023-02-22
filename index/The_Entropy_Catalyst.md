@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 44231
+revid: 54860
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,11 +16,11 @@ The machina hisses ominously against the nature surrounding it, standing as a pr
 
 ## **How do I use this?**
 
-It's _**simple**_, take a good look at the four humanoid grave-esque spots adjacent from the center.
+It's simple, just take a good look at the four humanoid grave-esque spots adjacent from the center.
 
-By picking up a **knocked** (ally?) person who **has** an [Oath](Oaths.md) (such as _Blindseer_), and interacting with a hole, it will _brutally_ sacrifice them and a wind will form about the circle, filling with light and prompting the player to sacrifice 3 more.
+By picking up a **knocked** person who has an [Oath](Oaths.md) (such as Blindseer, Dawnwalker, Starkindred etc), and interacting with one of the four holes, it will sacrifice them and a wind will form about the circle, filling with light and prompting the player to sacrifice 3 more.
 
-**Do note that this will send a character to the Depths!** When all four slots are filled, a large glowing orb will emerge from the middle of the pattern. Interacting with this orb will make it explode, knocking back everyone standing nearby. If a player is struck by the explosion, and has met the requirements to become a [Linkstrider](Oaths.md), they will gain the Linkstrider Oath.
+Do note that this will send a character to the Depths! When all four slots are filled, a large glowing orb will emerge from the middle of the pattern. Interacting with this orb will make it explode, knocking back everyone standing nearby. If a player is struck by the explosion, and has met the requirements to become a [Linkstrider](Oaths.md), they will gain the Linkstrider Oath.
 
 Decent guide on how to get to the Entropy Catalyst: [https://www.youtube.com/watch?v=K-TZn1VZIcI](https://www.youtube.com/watch?v=K-TZn1VZIcI)
 

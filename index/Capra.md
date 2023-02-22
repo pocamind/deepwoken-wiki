@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 54785
+revid: 54962
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -101,3 +101,4 @@ Need friends. :(
 -   The latin word "Capra" is representative of Goats.
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capras look similar to some depictions which are not truly accurate of a wendigo, which is a creature formed by committing cannibalism out of hunger.
+-   The Capras had their appearance reworked on 1/22/2023.

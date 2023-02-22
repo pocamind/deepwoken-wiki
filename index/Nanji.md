@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 48160
+revid: 54969
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs]
@@ -40,4 +40,4 @@ Completing her sidequest will reward you with EXP and positive Etris reputation.
 
 ## Notes
 
--   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on youtube.
+-   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on Youtube.

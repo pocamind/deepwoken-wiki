@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 54061
+revid: 54931
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -33,11 +33,11 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 ### Strength
 
 -   Physical strength. Increases carry load, armor penetration, and the damage scaling of strength mantras.
-    -   Increases carry load by 1 per point in strength.
+    -   Increases carry load by 1 per point in Strength.
     -   For every 10 Points of strength, gain 1% penetration.
--   Some weapons, such as greatswords, have a Strength requirement to wield.
--   Unlocks strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
--   Gain strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
+-   Some weapons, such as Greatswords, have a Strength requirement to wield.
+-   Unlocks Strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
+-   Gain Strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking the coffin lid, and reading the journal.
 
 ### Fortitude
@@ -45,8 +45,8 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Resilience. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Defensive equipment, such as shields and helmets, may have a fortitude requirement to wield.
--   Unlocks fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
--   Gain fortitude EXP via taking damage and using the Boulder.
+-   Unlocks Fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
+-   Gain Fortitude EXP via taking damage and using the Boulder.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md) and letting him beat you up.
 
 ### Agility
@@ -54,10 +54,10 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
     -   Reduces the vision cone of NPCs and Monsters.
--   Unlocks agility-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
+-   Unlocks Agility-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
 -   Parry daggers (normal and Kyrs variant) have an agility requirement to wield.
--   Gain agility EXP via parkour, assassinations, and successful dodges.
--   Your agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
+-   Gain Agility EXP via parkour, assassinations, and successful dodges.
+-   Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
     -   This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).
     -   You can watch a guide to get to the Windrunner with [Jetstriker](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Jetstriker) and 75 agility [here](https://youtu.be/RoDUDMDaK_g).
@@ -65,26 +65,26 @@ Some good tools to help plan out your build: [https://deepwoken.tools/build](htt
 ### Intelligence
 
 -   Logic and problem-solving skills. Increases ether slightly per intelligence.
-    -   This stat gives 2 Ether every point.
+    -   One point in Intelligence gives 2 Ether every point.
 -   Affects potion potency.
--   Unlocks intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
--   Gain intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, or discovering new locations for the first time.
+-   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
+-   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, or discovering new locations for the first time.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.
 
 ### Willpower
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases sanity and tempo per willpower.
-    -   One point in willpower gives +3 sanity and (Likely) +.5 tempo.
--   Unlocks willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
--   Gain willpower EXP via foraging, fighting sea monsters, throwing up, losing sanity, and using prayer beads.
+    -   One point in Willpower gives +3 sanity and (Likely) +.5 tempo.
+-   Unlocks Willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
+-   Gain Willpower EXP via foraging, fighting sea monsters, throwing up, losing sanity, and using prayer beads.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.
 
 ### Charisma
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
-    -   One point in charisma gives 1.5 ether.
+    -   One point in Charisma gives 1.5 ether.
 -   Charisma can be used in certain dialogue checks that require charisma.
--   Gain charisma EXP by selling items and using the "How To Make Friends" book.
+-   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
 -   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33 and eagerly at charisma level 66.
 -   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.
 
@@ -157,4 +157,4 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 ## Tips
 
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough EXP to increase a stat, but not enough to level up.
--   Make Sure to be leveling up all of your stats at the same time for faster leveling and better talents.
+-   Make sure to be leveling up all of your stats at the same time for faster leveling and better talents.

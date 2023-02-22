@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 53546
+revid: 54993
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links, Character, Skills, Talents]
 
 ## Overview
 
-Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper boon](Boons_and_Flaws.md)) and by completing the [Elykris](Elykris.md) quest. Currently, there are Burns and Freezes.
+Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper boon](Boons_and_Flaws.md)) and by completing the [Elykris](Elykris.md) quest. Additionally, you can also gain more Aces through [Echoes](Echoes.md). Currently, there are Burns and Freezes.
 
 ## Burns
 
-Used to burn talents. Once a talent is burnt, it cannot reappear ever again. Useful for removing useless talents in order to increase chances of getting talents that you want.
+Used to burn talents. Once a talent is burnt, it cannot reappear ever again. Useful for removing useless talents in order to increase chances of getting talents that you want. If you have accidentally burnt a card, you can restore it through the Shrine of Conceit.
 
 File:Screenshot 2022-09-12 7.26.11 PM.png
 
@@ -33,4 +33,4 @@ A frozen mantra
 -   Supaa originally suggested the concept of Freezes to Arch\_Mage.
 -   Freezes did not exist until the update on September 5th, 2022; however, Burns have existed since March 11th, 2022.
 -   Freezes work on Whispers too; however, the frozen Mantra will only appear at the next Whisper.
--   Prior to freezes being added, these were called burns.
+-   Prior to Freezes being added, these were called Burns.

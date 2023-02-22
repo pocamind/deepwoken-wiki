@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 43560
+revid: 54966
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -8,7 +8,7 @@ categories: [Locations, World, Eastern Luminant]
 
 # Songseeker Temple
 
-LocationL Songkeeper Temple LocationR
+LocationL Songseeker Temple LocationR
 
 There are those who seek to wield the Song as those of the Old World once did, as an artform to be cultivated into something transcendent.
 

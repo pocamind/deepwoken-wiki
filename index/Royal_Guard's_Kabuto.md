@@ -1,6 +1,6 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 53530
+revid: 54867
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -17,4 +17,4 @@ The Royal Guard's Kabuto is an Equipment Armor in the Helmet category_._ Equippi
 ## Trivia
 
 -   The Royal Guard's Kabuto and the Captain's Kabuto are the same Equipment Armor, with only slightly different colors.
--   Most likely a refrence to Genichiro Ashina from Sekiro: Shadows Die Twice
+-   Most likely a refrence to Genichiro Ashina from Sekiro: Shadows Die Twice.

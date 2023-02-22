@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 40483
+revid: 54902
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Armors, Equipment]
@@ -26,9 +26,9 @@ categories: [Arms, Armors, Equipment]
 
 ## Providence Coat
 
-The Providence Coat is a red and indented coat, with buttons and a zipper. It is considered a legendary coat despite it being incredibly common within Depths chests. It has relatively high Pips and is generally a great choice of armor for any build.
+The Providence Coat is a red and indented coat, with buttons and a zipper. Despite it having a Legendary rarity, the Providence Coat is a common drop in the [First Layer](First_Layer.md) of [the Depths](The_Depths.md).
 
-It supplies its wearer with the [Braced Collapse](Talents.md) talent, which can be useful for Depths farming.
+It supplies its wearer with the [Braced Collapse](Talents.md) talent, which can be useful for combat in general.
 
 ## Trivia
 

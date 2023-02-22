@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 46793
+revid: 54861
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -14,7 +14,7 @@ File:Iron bomb.png
 
 Credit to Attking1234#4691
 
-A Ball Shaped Explosive used to damage monsters and players.
+A ball-shaped explosive used to damage monsters and players. It can be thrown with the keybind 'E'.
 
 ## Obtainments
 
@@ -22,7 +22,7 @@ You are able to get this recipe when you interact with an NPC in [Songseeker Wil
 
 ### Recipe
 
-2 Iron + 1 Coal near a crafting table
+2 Iron + 1 Coal in a Crafting Table.
 
 (Iron can be purchase or mined from a cave while Coal is only obtained through mining)
 

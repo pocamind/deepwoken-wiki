@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 53300
+revid: 54899
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -32,17 +32,15 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
     -   It is usually always full (especially on larger servers) as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
 -   Raen, who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
-
-Voidheart chessboard
-
 -   A [Chessboard](Chessboard.md)
-
+    
+    Voidheart chessboard
+    
 -   [The Voidmother](The_Voidmother.md)
     -   Wake the player up from the dream, taking them to where they last used their Void Eye.
 -   Eylis, the Punished Dreamer
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
-
 -   [Mystic](Mystic.md)
 
 ## Lore
@@ -60,7 +58,6 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
 
 -   **Voidheart** is 70k studs away from [Etris](Etris.md). It's coordinates are at -20000, 20000, -20000. [https://gyazo.com/afdd0d2da50f7bae698bac6729e3f1ee](https://gyazo.com/afdd0d2da50f7bae698bac6729e3f1ee)
 -   Originally, The **Voidheart** was a sea of complete nothingness, and was removed for it's uselessness, but now has returned in a form of a base for the Knives of Eylis
-
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.
 -   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here. (The Voidheart now has a lot of Eylis NPC so attacking players may anger the fraction).

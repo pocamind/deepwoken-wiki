@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 52309
+revid: 54898
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Equipment, Armors]
@@ -16,4 +16,4 @@ categories: [Character, Equipment, Armors]
 
 ## Description
 
-Template:EquipmentStatsAristocrat Coats can be found in [Summer Isle](Summer_Isle.md) Chests. They come in 3 different styles, which are Beige, Burgundy, and Slate. This armor piece grants the talent, [Art of the Deal](Talents.md), which decreases the price of an item by around 12%.
+Template:EquipmentStatsAristocrat Coats can be found in [Summer Isle](Summer_Isle.md) Chests. They come in 3 different styles, which are Beige, Burgundy, and Slate. This armor grants the Talent, [Art of the Deal](Talents.md), which decreases the price of an item by around 12%.

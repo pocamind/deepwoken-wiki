@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 50456
+revid: 54884
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -18,4 +18,4 @@ Completing the quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md#r
 
 ## Trivia
 
-This is likely a reference to Hollow Knight, which has a similar quest in which you deliver a flower to a grave and lose it if you take damage.
+-   Likely a reference to Hollow Knight, which has a similar quest in which you deliver a flower to a grave and lose it if you take damage.

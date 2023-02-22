@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 48873
+revid: 54908
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics, Mantras]
@@ -41,3 +41,4 @@ You can also rename Mantras by typing out your desired name into the chat box an
 ## Trivia
 
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
+    -   [Knowledge](Knowledge.md) is now a currency added in the Verse 2 update.

@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 40840
+revid: 54871
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -20,7 +20,7 @@ Wood can be obtained chopping down trees. You can obtain more wood from bigger t
 
 ### Uses
 
-Crafting a Campfire Pit, 3 sticks, a Lumber Axe or a Pickaxe at a crafting station, and selling it to the Lumberjack Quest giver at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
+Crafting a Campfire Pit, 3 sticks, a Lumber Axe or a Pickaxe at a crafting station, and selling it to the Lumberjack Quest giver at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md). Additionally, Pure Ore can be given to the [Blacksmith](Blacksmith.md) for varying loot.
 
 ## Coal
 
