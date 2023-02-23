@@ -1,9 +1,9 @@
 ---
 title: Artifacts
-revid: 52790
+revid: 55070
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Luck, Character, Ingredients, Mechanics]
+categories: [Items, Mechanics]
 ---
 
 # Artifacts

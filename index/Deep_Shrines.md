@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 54593
+revid: 55069
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -20,7 +20,8 @@ Deep Shrines are Objects of Power scattered in the lands of Lumen. Each shrine b
 
 ― Shrine of Temptation
 
--   Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa; In the second floor of crypt.
+  
+Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa; In the second floor of the crypt.
 
 File:Temptation Shrine Screenshot by Nosky-3052.png
 
@@ -45,7 +46,8 @@ _Pros/Cons_
 
 ― Shrine of Blasphemy
 
--   Located at the [Hidden Village](The_Hidden_Village.md) of Erisia; obscured by vines and wood.
+  
+Located at the [Hidden Village](The_Hidden_Village.md) of Erisia; obscured by vines and wood.
 
 The Shrine of Blasphemy, Up-Front angle
 
@@ -65,29 +67,36 @@ _Pros/Cons_
 -   The Penalty of Blasphemy is a double-edged sword. Having any flaw that won't impact your current run (ie. Obvious, Haemophilia, etc.) negatively is a necessary sacrifice; but those with the Blind Flaw unlocked will have a reasonable sense of worry.
     -   Those who are going to get Blindseer (Or already are one) won't be so dreadful by this dire penalty.
 
+  
+
 ### **Shrine of Mastery**
 
--   Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
+“ PUPPET. STATE YOUR PURPOSE. ”
+
+― Shrine of Mastery
 
   
+Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
 
 _Benefits/Penalties_
 
 -   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality.
 -   **(PENALTY)** Lose 5 knowledge.
 
-  
 _Pros/Cons_
 
 -   If you change your mind about your build, you can switch around your traits
 -   You can only add a point to a trait that **isn't maxed**
 
+  
+
 ### **Shrine of Chance**
 
--   Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell)
-    
-      
-    _Benefits/Penalties_
+Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell)
+
+  
+_Benefits/Penalties_
+
 -   **(BENEFIT)** _Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here_
 -   **(PENALTY)** _Lose 5 Knowledge & 1 Talent (of your choice)_
 
@@ -98,6 +107,8 @@ _Pros/Cons_
 -   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card.
 -   Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
 
+  
+
 ### **Shrine of Order**
 
 “ YOU ARE IMBALANCED. LIKE A WALKING CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS. ALL THE SAME. ”
@@ -105,9 +116,7 @@ _Pros/Cons_
 ― Shrine of Order
 
   
-
--   Located in Songseeker Mines, through the passage containing mudskippers.
-    
+Located in Songseeker Mines, through the passage containing mudskippers.
 
 _Benefits/Penalties_
 
@@ -122,9 +131,10 @@ _Pros/Cons_
 -   Requires Power 12.
 -   Grants the Restless flaw
 -   You cannot use the Shrine of Order if you already have an Oath. Using it won't lock you out of getting an Oath.
-
 -   Innate (racial) attribute points do not count when redistributing your points.
 -   The Shrine of Order can be extremely useful to obtain certain advanced talents that require a lot of points, which normally would make a build useless, such as having 100 Fortitude and 100 Willpower (Brick wall). Having that without the Shrine of Order will only leave you 127 points for anything else.
+
+  
 
 ### **Shrine of Conceit**
 
@@ -132,7 +142,8 @@ _Pros/Cons_
 
 ― Shrine of Conceit
 
-Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
+  
+Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's Landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
 
 Saramaed Deep Shrine
 
@@ -143,7 +154,7 @@ _Benefits/Penalties_
 
 _Pros/Cons_
 
--   Lets you take a card if you accidently burnt it or if it was buffed into the most meta thing known to man.  
+-   Lets you take a card if you accidentally burnt it or if it was buffed into the most meta thing known to man.  
     
 
   

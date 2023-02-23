@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 54735
+revid: 55040
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -51,7 +51,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Darksteel Greatsword is one of the many heavy weapons you can obtain in the game. This weapon has a very low drop rate in the overworld in places like [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). It can also drop from [The Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md). It can also be bought from [Miner's Landing](<Miner's_Landing.md>), you can find it resting by a wall near the entrance of The [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. It has a unique crit that has full hyperarmor for the entire duration and knockbacks instead of applying knockdown.
+The Darksteel Greatsword is one of the many heavy weapons you can obtain in the game. This weapon has a very low drop rate in the overworld in places like [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). as well as chests from [The Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md). it can also be bought from [Miner's Landing](<Miner's_Landing.md>), you can find it resting by a wall near the entrance of The [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. It has a unique crit that has full hyperarmor for the entire duration and knockbacks instead of applying knockdown.
 
 **Alloyed:**
 

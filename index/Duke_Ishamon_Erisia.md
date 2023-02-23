@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 54874
+revid: 55078
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -90,6 +90,8 @@ Duke Erisia executes his opponent after knocking them:
 | **Execute** | Pins down opponent before firmly bashing their face. |
 
 ## Combat
+
+**Do not attempt to vent when he has a shield on otherwise it'll be parried.** Only poses a big threat to solo players during the 1st phase. Be sure to focus on parrying his main attacks as he will be far more aggressive in the first phase and once you parry his strong left you may begin parry trading until his shield is off. Once that is off, you may continue to parry his attacks and parry-trade after strong lefts until he enters phase 2. When you see him summon his servants, you pretty much won. Next step is to drive him against a wall or corner where he cannot back out of your effective range and then proceed to do everything in your power to compress the cunt into the wall until he dies.
 
 ### Phases
 
@@ -203,7 +205,6 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 
 ## Trivia
 
--   **Do not attempt to vent when he has a shield on otherwise it'll be parried.** Only poses a big threat to solo players during the 1st phase. Be sure to focus on parrying his main attacks as he will be far more aggressive in the first phase and once you parry his strong left you may begin parry trading until his shield is off. Once that is off, you may continue to parry his attacks and parry-trade after strong lefts until he enters phase 2. When you see him summon his servants, you pretty much won. Next step is to drive him against a wall or corner where he cannot back out of your effective range and then proceed to do everything in your power to compress the cunt into the wall until he dies.
 -   The Duke gives the third best monster bell progression.
     -   1st being [Scion of Ethiron](Scion_of_Ethiron.md).
     -   2nd being [Primadon](Primadon,_Titan_of_the_East.md).

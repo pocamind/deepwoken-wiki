@@ -1,9 +1,9 @@
 ---
 title: Irontusk
-revid: 53304
+revid: 55073
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Items]
+categories: [Weapons, Spears]
 ---
 
 # Irontusk

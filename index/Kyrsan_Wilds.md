@@ -1,9 +1,9 @@
 ---
 title: Kyrsan Wilds
-revid: 54973
+revid: 55005
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Layer 2, The Depths]
+categories: [Locations, Layer 2, The Depths, World]
 ---
 
 # Kyrsan Wilds

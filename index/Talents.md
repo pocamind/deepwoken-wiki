@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 54840
+revid: 55072
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1843,7 +1843,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
 
 -   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)

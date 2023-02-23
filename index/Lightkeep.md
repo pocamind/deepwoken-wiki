@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 54883
+revid: 55038
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -38,6 +38,6 @@ Lightkeep icon (UNOFFICIAL)
 -   Arch\_Mage has said he wants to add **Lightkeep** magic
 -   ****Lightkeep** has no relation to [Lightborn](Lightborn.md).**
     
-    File:8ybwyiwduhw.png
+    File:LightQuote.png
     
     _Arch\_Mage_

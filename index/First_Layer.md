@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 54753
+revid: 55081
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -88,8 +88,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-10 | [Angel](Hollow_Angel.md) (Lesser) |
-| 11-17 | [Megalodaunt](Megalodaunt.md) (corrupted when power 13+) |
-| 17+ | [Enforcer](Enforcer.md) |
+| 11-15 | [Megalodaunt](Megalodaunt.md) (corrupted when power 13+) |
+| 16+ | [Enforcer](Enforcer.md) |
 
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
