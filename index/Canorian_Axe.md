@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 55100
+revid: 55133
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -32,6 +32,7 @@ categories: [Weapons, Greataxes]
 | scaling | 9 |
 | range | 8 |
 | swing speed | 0.62x |
+| penetration | 10% |
 | chip damage | 10% |
 | weight | 8 |
 | bankable | Yes |

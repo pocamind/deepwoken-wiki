@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 53472
+revid: 55116
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -59,7 +59,7 @@ Instead of the normal dagger critical, this dagger has a [unique critical attack
 
 ## Description
 
-The upgraded version of the Whaling Knife. Just the normal Whaling Knife with increased stats. It has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
+The alloyed version of the Whaling Knife. Just the normal Whaling Knife with increased stats. It has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 54811
+revid: 55131
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -149,8 +149,8 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+    -   Invisible players are revealed by a Blindseer Eye icon.
     -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur).
-    -   Should highlight players with Ghost, an [Alpha Megalodaunt](https://deepwoken.fandom.com/wiki/Megalodaunt#Alpha_Megalodaunt) teleport, TBA.
 
 ### Effects
 
@@ -432,8 +432,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ### Known Abilities
 
 -   **Arc Suit - Support Mantra**
-    -   Encases the user in a durable armor for 15 seconds, reduces damage taken by 20% and increased Posture by (unknown). Can be modified with Logstones to increase duration.
-    -   The full duration of Arc Suit using 3 Aeon Longstones and 3 Eternal Longstones is 1 minute.
+    -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrent gems.
+    -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
+    -   To achieve the maximum damage reduction, use 3 Virbrent Gems, which will give the suit a 15% damage reduction.
     -   The suit has iframes on the second half of its windup.
     -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 

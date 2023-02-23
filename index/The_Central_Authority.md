@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 54541
+revid: 55108
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -56,3 +56,4 @@ A large military organization, native to the Central Luminant. They are lead by 
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
+-   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply my opinion the Authority is regarded with its true name being 'The Central Authority' and having strong ties to the central luminant.

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 54939
+revid: 55109
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -64,6 +64,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Nautilodaunt (commonly called Squibbo) can also spawn in the Depths trial.
 -   **\[CON\]** You cannot do the Trial of One.  
     
+-   NOTE: Highly recommended that you do not pick the Vegetarian Flaw if you're going Deepbound. (No vegetarian foods available in the depths, so leveling will be the only way to regen hunger.)
 
 ## Voidwalker
 

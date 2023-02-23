@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 51197
+revid: 55115
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -11,12 +11,12 @@ categories: [Weapons, Daggers]
 | Tanto | |
 |---|---|
 | type | Dagger |
-| requirements | 50 / 80 LHT |
-| damage | 15.5 / 16 |
-| scaling | 8 / 8.5 |
+| requirements | 50 LHT |
+| damage | 15.5 |
+| scaling | 8 |
 | range | 7 |
-| swing speed | 0.85x / 0.87x |
-| penetration | 5% |
+| swing speed | 0.85x |
+| penetration | None |
 | stances | 1 Handed |
 | selling price | 14 |
 | weight | 3 |
@@ -24,8 +24,31 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley Chests , Primadon Chests , Alloying a Tanto |
+| obtainment | Chests from:, Starswept Valley, Primadon, Other sources:, Alloying a Tanto |
 | description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
+
+| Alloyed Tanto | |
+|---|---|
+| type | Dagger |
+| requirements | 80 LHT |
+| damage | 16 |
+| scaling | 8.5 |
+| range | 7 |
+| swing speed | 0.87x |
+| penetration | 5% |
+| stances | 1 Handed |
+| selling price | Unknown |
+| weight | 3 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Chime of Conflict |
+| description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
+
+**Default:**
+
+  
 
 ## Description
 
@@ -34,8 +57,21 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is 
 ## Notes
 
 -   Quite rare compared to the [Nemit's Sickle](<Nemit's_Sickle.md>).
--   Meeting the non-alloyed requirement of LHT, the damage is (21.7)
--   At max LHT, the non-alloyed damage is (27.9)
+-   Meeting the requirement of LHT, the damage is (21.7)
+-   At max LHT, the damage is (27.9)
+-   This is currently the only dagger in the game that does not have any endlag.
+    
+
+**Alloyed:**
+
+  
+
+## Description
+
+The alloyed version of the Tanto. Just a normal Tanto but with increased stats.
+
+## Notes
+
 -   Meeting the alloyed requirement, the damage is (26.88)
 -   At max LHT, the alloyed damage is (29.6)
 -   This is currently the only dagger in the game that does not have any endlag.
