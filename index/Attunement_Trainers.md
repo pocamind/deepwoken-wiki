@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 54133
+revid: 55097
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -26,7 +26,7 @@ Ex:
 
 However you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) Unlocking an attunement permanently allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
 
-The Spelltrainers will no longer refuse to teach you attunements if you already have multiple attunements.
+## List of Trainers
 
 | Representation | Trainer | Name | Island | Location | Description |
 | --- | --- | --- | --- | --- | --- |

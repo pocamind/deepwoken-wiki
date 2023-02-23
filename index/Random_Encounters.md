@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 55071
+revid: 55084
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -51,7 +51,7 @@ A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow
 
 #### **Bandit Attack**
 
-In Etris or Vigils, two [bandits](Bandit.md) can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. The bandits rarely drop lesser mantra modifiers.
+In Etris or Vigils, two [bandits](Bandit.md) can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the respective entrances so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers.
 
 **Weapons:** Basic
 

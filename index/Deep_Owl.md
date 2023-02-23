@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 53487
+revid: 55086
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to as "Owl" or simply "Tyrone") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
+The **Deep Owl** (also referred to as "Owl", "Jamowl", or simply "Big Black Man") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. If you want to find it quickly, higher player populated servers have higher spawn chances.
 
 Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 

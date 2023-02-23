@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 53544
+revid: 55096
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -66,6 +66,8 @@ They also have the ability to spawn in [The Floating Keep](The_Floating_Keep.md)
 [The Floating Keep](The_Floating_Keep.md) spawning in.
 
 ### Zartania (Stannis Caesar)
+
+Skeleton Key's visual manifestation.
 
 Zartania has a spec called the “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game.
 
