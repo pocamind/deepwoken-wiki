@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 53523
+revid: 55146
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -138,6 +138,11 @@ None
 
  | Permanent Extended Block, Discord Ban and any necessary legal actions. |
 | **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for Robux, real money, an account, etc. | 
+
+None
+
+ | Permanent Extended Block |
+| **Discrimination** | Usage of words aimed to discriminate a wiki member(s) or a community(ies). | 
 
 None
 

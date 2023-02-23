@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 54711
+revid: 55154
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -65,8 +65,8 @@ An Immortal Guardian executes the player after knocking them.
 -   Immortal Guardians are rather tanky.
 -   They have a high posture pool like angels.
 -   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful.
--   Best way to kill them is either Parry-Trading or using weapons with high PEN, as they do have a habit of blocking attacks rather than parrying
--   Nightmares can take way more PEN then their lil brothers, so some mantra's that Guard break them will most-likely just be blocked normally by them
+-   Best way to kill them is either Parry-Trading or using weapons with high PEN, as they do have a habit of blocking attacks rather than parrying.
+-   Nightmares can take way more PEN then their little brothers, so some mantras that Guard break them will most-likely just be blocked normally by them.
 
 ## Trivia
 

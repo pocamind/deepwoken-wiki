@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 47775
+revid: 55142
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -26,7 +26,7 @@ categories: [Weapons, Greathammers]
 | obtainment | Weapon shop in Etris, Lower Erisia (Chests) |
 | description | "A sturdy maul perfect for knocking walls and people down alike." |
 
-| Steel Maul | |
+| Alloyed Steel Maul | |
 |---|---|
 | type | Heavy Greathammer |
 | requirements | 75 Heavy, 10 STR |
@@ -37,12 +37,12 @@ categories: [Weapons, Greathammers]
 | endlag | 0.1 sec |
 | penetration | 10% |
 | selling price | 7 Notes |
-| weight | 8 |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict (Chests) |
+| obtainment | Chime of Conflict (Chests), Pluripotent Alloy |
 | description | "A sturdy maul perfect for knocking walls and people down alike." |
 
 **Base:**
@@ -55,7 +55,7 @@ The Steel Maul is a Heavy Greathammer that deals a Base Damage of 22 with 7 Scal
 
 ## Description
 
-The upgraded version of the Steel Maul. Just a normal Steel Maul but with increased stats. It can be obtained through chests in [Chime of Conflict](Chime_of_Conflict.md).
+The alloyed version of the Steel Maul. Obtained by applying a [Pluripotent Alloy](Pluripotent_Alloy.md) on the regular version of the weapon, increasing its stats and giving it a damascus steel-type texture. It can also be obtained through chests in [Chime of Conflict](Chime_of_Conflict.md).
 
 ## Trivia
 

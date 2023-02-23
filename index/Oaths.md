@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55131
+revid: 55166
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -411,9 +411,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Wield the armour of the Ignition Union's most notable delvers. ”
+“ Greetings, my old friend. ”
 
-― Arcwarder Description
+― Arcwarder user fighting chaser for the millionth time.
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 7 but was changed.
 
@@ -514,9 +514,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ ITS CONTRACTIN' TIME! ”
+“ Well time to get ganked by 20 people because of my choices ”
 
-― Adret going to the etris palace after talking to yun'shul.
+― Vesperian going to the depths for the contractor moves.
 
 ### Obtainment
 

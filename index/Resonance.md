@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 54950
+revid: 55153
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -22,7 +22,7 @@ Resonances are physically manifested as instruments; though, in-game, the player
 
 Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page. Resonances use a "pointbuy" system which determines basic things such as variants and effectiveness. Such as a high-healing reaper bell is less likely to have massive AOE unless the pointbuy system is in your favor.
 
-### Normal Resonance
+### Normal Resonances
 
 Normal Resonances are the basic version of each Resonance, and the most common. They do not have any buffs or debuffs compared to sub-category Resonances, but they are still susceptible to being a variant.
 
@@ -50,7 +50,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### Legendary Resonances
 
-**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
+**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances to become a Drowned Resonance, but this is one of the rarest occurrences possible.
 
 _From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card)._
 
@@ -72,6 +72,10 @@ File:Tarnish removal.png
 
 Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
+### Drowned Resonances
+
+These function identically to Corrupted Resonances, with the same chance of being obtained on a card. The only difference is that they can only be obtained on a Legendary resonance. This, of course, makes these extremely rare. Only a few people have **ever** obtained one of these.
+
 ## Obtaining
 
 ### Finding the Nature of your Soul & Progress
@@ -81,7 +85,7 @@ The main factor in obtaining a Resonance is known as Progress (commonly referred
 | **Possible dialogue results:** |
 | --- |
 | 
-**Exhibit A** 
+**Exhibit A**
 
  | 
 
@@ -89,7 +93,7 @@ The main factor in obtaining a Resonance is known as Progress (commonly referred
 
  | 
 
-**Exhibit C** 
+**Exhibit C**
 
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |

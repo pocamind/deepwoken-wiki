@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 54028
+revid: 55165
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -35,7 +35,6 @@ To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel
 
 ## NPCs
 
--   Alirian
 -   [Cestis](Cestis.md)
 -   Emel
 -   Imel
