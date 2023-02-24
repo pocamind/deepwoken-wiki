@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 55132
+revid: 55180
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,4 +27,4 @@ Eylis is the leader of the [Knives of Eylis](The_Knives_of_Eylis.md). Not much i
 
 ## Trivia:
 
--   TBA
+-   Her model is near identical to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).

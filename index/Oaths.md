@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55166
+revid: 55267
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -171,9 +171,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ We owls find man to be capable of.. suitably sophisticated thought, enough to indulge our plate. You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the nest. ”
+“ You are mine! ”
 
-― The Nestmind
+― A adret Visionshaper taking a gremor freshie into the illusionary realm
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 

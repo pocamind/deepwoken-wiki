@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 50638
+revid: 55198
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -11,11 +11,11 @@ categories: [Utilities, Items]
 | Pickaxe | |
 |---|---|
 | usage | To Harvest Ores/Minerals. |
-| recipe | (1) Iron, (1) Wood |
+| recipe | (2) Iron, (2) Wood |
 
 ## Description
 
-Pickaxes are used for mining ores/minerals such as rock, iron, irithine, etc.
+Pickaxes are used for mining [ores/minerals](Ores.md) such as rock, iron, irithine, etc.
 
 ## Locations
 
@@ -33,4 +33,4 @@ Pickaxes are used for mining ores/minerals such as rock, iron, irithine, etc.
 
 ## Trivia
 
--   A pickaxe can also be crafted using (1) Iron and (1) Wood.
+-   A pickaxe can also be crafted at a [Crafting Station](Crafting_Station.md) using (2) Iron and (2) Wood.

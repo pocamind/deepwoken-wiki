@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 55081
+revid: 55271
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -88,7 +88,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-10 | [Angel](Hollow_Angel.md) (Lesser) |
-| 11-15 | [Megalodaunt](Megalodaunt.md) (corrupted when power 13+) |
+| 11-15 | [Megalodaunt](Megalodaunt.md) |
 | 16+ | [Enforcer](Enforcer.md) |
 
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**

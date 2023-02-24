@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 54466
+revid: 55191
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Weapon Shop at Etris (100 notes), or at Erisia (Quite rare droprate). |
-| description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
+| description | "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy." |
 
 | Alloyed Zweihänder | |
 |---|---|
@@ -44,11 +44,11 @@ categories: [Weapons, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using a Pluripotent Alloy on a Zweihänder. |
-| description | "Popularised by the Canor Borderwatchers, the Zweihander is a fearsome as it is heavy." |
+| description | "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy." |
 
 **Base:**
 
-**Zweihänder** is a two-handed Heavy Weapon of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md) and it can also be obtained at [Erisia](Erisia.md).
+**Zweihänder** is a [Heavy Weapon](Weapons.md) of the Greatsword category. It can be obtained by buying it at [Etris](Etris.md) and it can also be obtained at [Erisia](Erisia.md).
 
 Like any other greatsword you get hyper armor if you swing after a parry.
 
@@ -56,7 +56,7 @@ Can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md).
 
 **Alloyed:**
 
-10% penetration + 1 DMG + 0.02x swing speed + 3 scaling
+The alloyed version of the Zweihänder, obtained by using the Pluripotent Alloy on the regular version, Increasing its stats and giving it a pinkish hue.
 
 ## Trivia
 

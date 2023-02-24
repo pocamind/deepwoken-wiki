@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 53880
+revid: 55275
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -112,4 +112,3 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
 -   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 Kyrsan Medallions from a chest while fishing, being as rare as to fish legendary weapons, although this has yet to be confirmed.
--   Fishing document: [https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG\_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CLtYJWcPu1aS8fVYG_Ydi023Uhn-3a9aevQTFUGczfk/edit?usp=sharing)

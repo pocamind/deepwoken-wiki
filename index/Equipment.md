@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 54737
+revid: 55167
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -3103,6 +3103,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
 Chests from:
 

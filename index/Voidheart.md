@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 54899
+revid: 55255
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -60,4 +60,4 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
 -   Originally, The **Voidheart** was a sea of complete nothingness, and was removed for it's uselessness, but now has returned in a form of a base for the Knives of Eylis
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.
--   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here. (The Voidheart now has a lot of Eylis NPC so attacking players may anger the fraction).
+-   Nothing directly prevent players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here. (The Voidheart now has a lot of Eylis NPC so attacking players may anger the faction).

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 54771
+revid: 55274
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -121,7 +121,8 @@ The Duke
 -   His main weapon type is medium.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
--   Stronger than Duke Erisia and possibly Klaris.
+-   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met.
+-   User of Tempest Eye.
 
 ### **Akira, The Black Diver**
 
@@ -145,6 +146,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
+-   He is the only known Deepwoken.
 -   'Would beat Akira up and down the eastern lum.'
 -   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
@@ -341,19 +343,19 @@ Yun'shul's Shrine
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
--   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths.
--   Its confirmed that the Ferryman becomes a lot more stronger in the depths that in the overworld, as stated by Ragoozer the Ferryman cant defeat the Lord Regent with the throne buff **in the surface**, but if by some way they were in the Depths, the Ferryman will be stronger.
--   This means that the Ferryman becomes stronger as he is more close to the Depths, but weaker the more far away he is to the Depths, also possibly meaning that every krulian strength is tied to the depths.
--   Possibly resides in an unkown layer of the Depths, this is because of the great connection he has to the Depths and that when you defeat him and he tells you he is a krulian, he says that he really needs to go as if a place was calling him in the depths, probably where all the Krulians reside.
+-   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths as the Ferryman is inhibited by the surface.
+-   Likely resides in an unknown layer of the Depths.
+    -   Krulians are tide to The Depths and are weakened when on the surface.
+    -   Following his dance, he states he must go, as though he is being called back.
 
 ### **Sudaruska the Undying**
 
 _"Your own depths shall consume you." - Gran Sudaruska._
 
-**Lore sources :** Sudaruska Soul, Gran Sudaruska Description
+**Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
 
 -   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, continuing to kill followers of the Nine Prophets to this day.
--   Was a very powerfull Frostdrawer.
+-   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 
 ## Locations
@@ -822,16 +824,17 @@ A Peacekeeper Commander, part of The Authority
 -   **Attunements:** _Any_
 -   **Alliances:** _None (The Drowned Gods and Depths?)_
 -   **Enemies:** _None (Celestials and Lightborns?)_
--   **Lore Sources:** _Ferryman, Arch\_Mage_
+-   **Lore Sources:** _Ferryman, Arch\_Mage, Ragoozer_
 -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
 -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
 -   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
+-   They are far weaker when on the surface than in The Depths.
 -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
     -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
 
--   There is a chance that they are ancient enemies of the lightborns and Celestials, as stated by the lost lightborn in layer 2, the Celestials and Lightborns were in a war agaisnt the Drowned gods and the Depths itself, and as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborns. Also possibly meaning that they have a special relation with the Depths and the Drowned gods.
+-   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
 
 ### The Golden Rats
 
@@ -918,6 +921,13 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is it gets deadly.
 -   They know how to speak our language, however they have their own "tongue".
 -   Their city of New Kyrsa is the most advanced location seen in game, possessing a tram station.
+
+### **Deepwoken**
+
+-   **Lore Sources:** _Arch\_Mage (Discord)_
+
+-   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'
+-   Only known Deepwoken is Amorus Pleeksty.
 
 ## Race Lore
 
@@ -1019,6 +1029,8 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
 
 ### Chrysid
+
+**Lore Sources:** _Lore Books_
 
 _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book."_
 
@@ -1603,6 +1615,13 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   The King however, could've been a new Celtor King in line; and presumably met the same fate as the Etrean King- who disappeared without any traces of themselves while the Lord took his place during his absence.
     -   The phrase 'Lord and King' can also refer to a single individual, it's possible The Lord Regent or even another Contractor had installed themselves as the city's leader.
 
+### **Tempest Eye**
+
+-   A technique that allows Evengarde Rest to defeat Pleeksty.
+-   Requires conditions to be met for usage.
+-   Also used by Soren.
+-   Exists in the games files.
+
 ### **Animals**
 
 -   The Deepwoken world was once home to many of the animals seen in the real world, but all have disappeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
@@ -1619,7 +1638,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Possibly more
     -   Lionfish have been a major cause for the extinction of many sea predators.
 
-### Guns
+### **Guns**
 
 -   Guns are a lot weaker in the Deepwoken world compared to real life.
 -   They are considered as strong as a sword and cannot simply kill someone with a single bullet.

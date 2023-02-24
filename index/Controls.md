@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 54987
+revid: 55202
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -32,7 +32,7 @@ _This page lists the controls that can be used in Deepwoken._
 | Q | Roll | Player rolls. Allows attack dodging. |
 | Ctrl | Crouch | Player enables [Stealth](Stealth.md). |
 | Ctrl (sprinting) | Slide | Player slides on the ground. Jump during the slide for a slight speed boost or slide down slopes for a large burst of speed. |
-|  | Journal/Backpack | Opens inventory and [Attributes](Attributes.md) window. |
+| Tab | Journal/Backpack | Opens inventory and [Attributes](Attributes.md) window. |
 | X (hold) | Gesture | Opens a menu to select gestures. Locks player to boat. |
 | P | Toggle Cosmetic | Player removes Head type equipment visually but keep the effects. Also allows [Ganymede](Ganymede.md) to remove their hat. |
 
