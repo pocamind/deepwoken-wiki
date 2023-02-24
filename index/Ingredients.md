@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 54783
+revid: 55387
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents, Attributes, Food]
@@ -33,7 +33,7 @@ Raw materials harvested from the environment.
 -   Gathered Wheat - Self-explanatory.
 -   Bamboo Bundle - Bamboo sticks, growing mostly on beaches and shores.
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
--   Redd - Small round, orange (are you kidding me) fruit. They do not grow during summer.
+-   Redd - Small round, orange (are you kidding me) fruit. ~They do not grow during summer.~ **Needs to be confirmed**
 -   Plumfruit - It's a plum, what did you expect?
 -   Ongo - Brown, round fruit.
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
@@ -49,32 +49,32 @@ Raw materials harvested from the environment.
 
 ― Lotus Flavour Text Description
 
-Lotuses are unique ingredients that are only used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Items](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones, but there is an area behind summer isle within a breakable wall where you can grow them for one canteen charge.
+Lotuses are unique ingredients that are only used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Items](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within voidzones, but there is an area behind Summer Isle within a breakable wall where you can grow them for one canteen charge.
 
-Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions, though they have no effect.
+Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions, though they have no effect. Lotuses can be sold for 15 notes each.
 
 Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
 \-Hellfire Lotus (Red) - Strength Attribute
 
-Found in: Crypt of the Unbroken
+Found in: Crypt of the Unbroken, Saramaed Summit
 
 \-Empyrean Lotus (Blue) - Fortitude Attribute
 
-Found in :TBA
+Found in: Deep Thresher Nest
 
 \-Zephyr Lotus (Green) - Agility Attribute
 
-Found in: TBA
+Found in: Ancient Rotlands
 
 \-Brilliant Lotus (Yellow) - Intelligence Attribute
 
-Found in: TBA
+Found in: Saramaed Summit, Deep Thresher Nest
 
 \-Skyvalor Lotus (White) - Willpower Attribute
 
-Found in: Crypt of the Unbroken
+Found in: Crypt of the Unbroken, Starfield Grove
 
 \-Miasmic Lotus (Pink) - Charisma Attribute
 
-Found in: TBA
+Found in: Ancient Rotlands

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55351
+revid: 55377
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -401,13 +401,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   While the effect is active, gain a red trail on your weapon.
     -   Prerequisite: Knife's Journey
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 20% damage with light weapons. (+2 Health)
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers. (+2 Health)
     -   Crit procs are rolled for each individual target, not per swing.
     -   Crit procs are indicated by a red visual effect.
     -   Only works on daggers.
     -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
         -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
-    -   Prerequisite: 25 Light Weapon Mastery
+    -   Prerequisite: 30 Light Weapon Mastery
 
 -   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 200% damage to armor.
     -   Prerequisite: Knife's Journey

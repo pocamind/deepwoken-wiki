@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 55201
+revid: 55358
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -16,9 +16,7 @@ categories: [Weapons, Greataxes]
 | scaling | 8 HVY |
 | range | 8.5 |
 | swing speed | 0.54x |
-| endlag | N/A |
-| penetration | N/A |
-| special effect | 70% Chip Damage |
+| chip damage | 60% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
 | weight | 10 |
@@ -27,11 +25,11 @@ categories: [Weapons, Greataxes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Confirmed drop from Minityrsa shadow npcs, |
-| description | N/A |
+| description | ... |
 
 ## Description
 
-The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Brainsuckers](Brainsucker.md) and [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer). It has **70% CHIP DAMAGE**, making blocking almost completely useless against it.
+The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer). It has **60% CHIP DAMAGE**, making blocking almost completely useless against it.
 
 ## Notes
 
