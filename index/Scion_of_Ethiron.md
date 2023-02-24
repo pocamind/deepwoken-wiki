@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 54905
+revid: 55343
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -89,5 +89,5 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 
 -   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron.
--   The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.
+-   ~The white orbs that appear can be used to signify your pace. If they are behind you, you're ahead. If they're right on you, you're still on pace. If they are ahead, you are behind.~ Not true.
 -   Vampirism no longer works on layer 2 bosses, however flame wisp can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.

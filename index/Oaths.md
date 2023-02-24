@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55267
+revid: 55342
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -147,10 +147,12 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
+
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
     -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur).
+    -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 ### Effects
 

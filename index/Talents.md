@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55340
+revid: 55351
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1551,7 +1551,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Mirage Clone \[Rare Talent\], Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
     -   Uses 15 Ether and does not proc if you don’t have enough Ether
-    -   Prerequisite: 65 Flamecharm
+    -   Prerequisite: 60 Flamecharm
     -   Cooldown: 8 Seconds
 
 ### The Negotiator
