@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 52961
+revid: 55291
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -47,6 +47,10 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
     -   [Wandering Swordsman](Vigil_Initiate.md) for.
     -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 40.
 
+-   Near the Mantra Shop, there is a destructible wall.
+
+The wall
+
 #### Bank & Antiquarian
 
 -   Players can find a Banker who they can turn in [artifacts](Artifacts.md) to.
@@ -54,7 +58,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find Cumberland, a [Canorian](Canor.md) NPC who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
 
 ### Sparring Arena
 
@@ -64,6 +68,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 -   A zipline can be found near the Antiquarian, which is used as a shortcut to the docks.
 -   Up in the mountains, (climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, where a chest usually spawns up there.
+-   The zipline near the Mantra Shop is essential for the [Nanji](Nanji.md) Quest.
 
 File:Unknownzipline.png
 

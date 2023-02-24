@@ -1,12 +1,14 @@
 ---
 title: Lightkeep
-revid: 55038
+revid: 55323
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
 ---
 
 # Lightkeep
+
+# _**Warning: Speculation Ahead**_
 
 “ Light is to Void as Paint is to a Canvas- it draws out substance. ”
 

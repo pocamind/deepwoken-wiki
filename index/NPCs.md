@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 54438
+revid: 55312
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -23,6 +23,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
 | ??? | Unaligned | [The Depths](The_Depths.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
+| Acre | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) |  |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |

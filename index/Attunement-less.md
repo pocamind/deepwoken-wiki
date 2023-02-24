@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 54821
+revid: 55341
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -32,11 +32,11 @@ In spite of it's shortcomings, the potential of Attunementless is nothing to sco
 
 -   These mantras are based on your attributes, not your attunements.
 -   Their damage/efficiency scales with the attribute's level.
--   _(Side note, when i say "unknown if upgrading does \[x\]", i mean upgrading at the trainer, not modifiers.)_
+-   _(Side Note: Do not confuse upgrading mantras with trainers as using modifiers.)_
 
 ### _**Strength Mantras**_
 
-Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
+Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
 <table><caption>Attunementless Mantras</caption>
 <tbody>
@@ -191,7 +191,7 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
  |
 | 
 
-File:No Attunement Revamp.png
+File:Dash Mantra Demonstration.gif
 
  | Dash
 
