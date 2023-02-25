@@ -1,14 +1,12 @@
 ---
 title: Nautilodaunt
-revid: 55450
+revid: 55466
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Nautilodaunt
-
-_\*inhales\* **You're fucked my friend.**_
 
 “ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
 

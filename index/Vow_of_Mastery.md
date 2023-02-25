@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 54458
+revid: 55465
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -44,7 +44,7 @@ As of Verse Two, in the event that the subject's character wipes, and the previo
 
 File:Leech Talent.png
 
-Conjure the ether of your vow into essence and transfer it to yourself. | Untested |
+Conjure the ether of your vow into essence and transfer it to yourself. | None |
 | Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  | 1 Minute |

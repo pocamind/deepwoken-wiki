@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 55354
+revid: 55469
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -80,7 +80,7 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 -   Kryphus Caesar
 -   Vortex Caesar
 -   Zeppelli Caesar
--   Zoltorias Caesar
+-   Zoltorias Caesar, Inferno Fist
 -   Carti Caesar
 -   Ace Caesar, The Final Act
 -   Gunsmith Sevenine Hierka Caesar, The Horseman
