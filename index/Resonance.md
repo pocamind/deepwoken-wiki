@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 55153
+revid: 55431
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -123,7 +123,7 @@ The main factor in obtaining a Resonance is known as Progress (commonly referred
 -   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Not recommended.
 -   **Blizzard Knights** are, by far, the worst method of getting Progress. They spawn in swarms, only during one season on one Island ([Minityrsa](Minityrsa.md)), and they give almost no Progress.
 -   **Nautilodaunts** are confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
--   **Chaser**, similarly to depths monsters, grants close to no Progress at all. It is not recommended to obtain a bell using this method. However can be reliable due to the loot he drops.
+-   **Chaser**, similarly to depths monsters, grants close to no Progress at all. It is not recommended to obtain a bell using this method. However can be reliable due to the loot he drops. (POSSIBLY WRONG, UNCONFIRMED, TAKE WITH GRAIN OF SALT.)
 
  | Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). Other monsters WILL NOT give progress, unless they are Corrupted.
 

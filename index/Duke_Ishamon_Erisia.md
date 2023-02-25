@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 55078
+revid: 55421
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -113,7 +113,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
 
-Soloing the duke is the more recommended way to get bell, as doing so 4-5 times will guarantee your bell.
+Soloing the duke is the more recommended way to get bell, as doing so 7-9 times will guarantee your bell. (Without **Resonance Progress)**
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 52173
+revid: 55418
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death, The Depths]
@@ -127,3 +127,4 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   Owls can seemingly spawn up here, but can't actually damage you.
 -   You can cut down the trees here.
 -   Fragments Of Self is virtually located above The Depths which could potentially but unlikely be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
+-   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of wiping. Encouraging you to try once more. Self is a pussy per-say.

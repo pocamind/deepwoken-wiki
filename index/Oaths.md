@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55342
+revid: 55419
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -436,7 +436,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrent gems.
     -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
-    -   To achieve the maximum damage reduction, use 3 Virbrent Gems, which will give the suit a 15% damage reduction.
+    -   To achieve the maximum damage reduction, use 3 Vibrent Gems, which will give the suit a 15% damage reduction.
     -   The suit has iframes on the second half of its windup.
     -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 

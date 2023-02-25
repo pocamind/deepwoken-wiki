@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 54836
+revid: 55430
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -36,7 +36,7 @@ New Kyrsa contains a lot of pink glowing chests, named Medallion chests. They co
 
 In order to escape New Kyrsa, you must activate all 5 Obelisks and defeat [Scion of Ethiron](Scion_of_Ethiron.md). Along with that, you have 45 minutes to activate all Obelisks. On the first and second 15 minute mark, you will be sent to the start with all Obelisks still activated. When the time is up, you die instantly. This timer is tracked by the Old Diver Watch you gain upon entering. After activating all the Obelisks, time will halt and you may freely explore the floor without dying.
 
-This place is currently one of the most challenging places in-game, since you can meet numerous hostile Kyrsgardes that are extremely difficult to fight. The final enemy, Scion of Ethiron, is a very challenging boss fight, by far the biggest wall of clearing Floor 2.
+This place is currently one of the most challenging places in-game, since you can meet numerous hostile Kyrsgardes that are extremely difficult to fight. The final enemy, Scion of Ethiron, is a very challenging boss fight, by far the biggest wall of clearing Second Floor.
 
 If you die here, you will wipe, or if you still have the Light Hook you will be sent back to [Castle Light](Castle_Light.md).
 
@@ -44,7 +44,7 @@ If you die here, you will wipe, or if you still have the Light Hook you will be 
 
 The Great Library of New Kyrsa is a large library, containing a rotation puzzle and many hostile Kyrsgardes within it. If someone fails the rotation puzzle, everyone in the instance will be teleported back to the start of the library, no matter where they are. The code to the puzzle is as such:
 
-**1 - 4 - 1 - 3 - 4 - 4- 1 - 2 - 2 - 5- 4 - 1 - 4 - 2**
+**1 - 2 - 1 - 2 - 2 - 2 - 1 - 2 - 3 - 1 - 4 - 2 - 3 - 1**
 
   
 
@@ -58,7 +58,7 @@ Despite the beautiful outward appearance and the seemingly volatile enemies, New
 
 _Main Page: [Scion of Ethiron](Scion_of_Ethiron.md)_
 
-Scion of Ethiron is the final boss of Floor 2 of the Eternal Gale. It is an exceedingly large, imposing figure made of bones and other materials. The Scion is powerful in every aspect; it has a massive amount of HP, does large amounts of damage with most attacks, and requires a lengthy process to even land a hit on. More information on the fight is on the main page.
+Scion of Ethiron is the final boss of Second Floor of the Eternal Gale. It is an exceedingly large, imposing figure made of bones and other materials. The Scion is powerful in every aspect; it has a massive amount of HP, does large amounts of damage with most attacks, and requires a lengthy process to even land a hit on. More information on the fight is on the main page.
 
 ## Misérables
 

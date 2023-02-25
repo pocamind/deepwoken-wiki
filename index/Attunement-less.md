@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 55341
+revid: 55427
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
@@ -450,7 +450,7 @@ For example:
 
 In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5, and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
 
-## Tips/Trivia
+## Tips
 
 ### _**Tips**_
 
@@ -464,7 +464,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 
-### _**Trivia**_
+## Trivia
 
 -   The majority of mantra modifiers have gotten their functionality removed from attunement-less mantras, due that they made them too damn overpowered.
     -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
@@ -477,4 +477,5 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.
+-   Next patch (2/27/23) Prediction's frames will be extended, according to Arch\_Mage.
 -   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
