@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 54827
+revid: 55486
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -25,9 +25,9 @@ categories: [Weapons, Pages with broken file links, Fists]
 | obtainment | (Way of Navae) , Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata) , Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Jus Karita) , Step 1: Have 40 LHT and be Power 6. , Step 2: Talk to Polis in Etris. |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita, "Your bare fists. Worth a shot, right?" -"'Starting Weapon Description'" |
 
-“ MAKING THE MOTHER OF ALL OMELETTES HERE JACK! CAN'T FRET OVER EVERY EGG! ”
+“ YOU SEEM TO BE INSISTING ON FISTING! ”
 
-― The Gremor about to shove a Canor six feet under.
+― A powerful Felinor about to pound the Fort Merit guards' faces in.
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 

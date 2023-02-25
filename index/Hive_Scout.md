@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 55247
+revid: 55482
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -21,7 +21,7 @@ They wear pair of Woodland Pauldrons and Woodland Boots along with a pair of Dew
 
 ## Moveset
 
-A Hive Arbiter's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Katana](Katana.md) or [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
+A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Katana](Katana.md) or [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

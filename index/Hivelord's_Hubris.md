@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 54033
+revid: 55484
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -28,8 +28,6 @@ categories: [Weapons, Pages with broken file links, Greathammers]
 “ CHILL, CHILL!!! ”
 
 ― The Duke after seeing somebody pull up into his manor with this weapon
-
-Ready to throw hands?
 
 ## Description
 

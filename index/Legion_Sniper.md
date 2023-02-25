@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 55449
+revid: 55487
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,7 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Legion Sniper
 
-_**"Target neutralized."**_Template:EnemyInfobox1.0
+Template:EnemyInfobox1.0
 
 ## Description
 

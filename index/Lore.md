@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 55274
+revid: 55478
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -63,6 +63,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The strongest Ministry Prophet.
 -   Surpasses all the world leaders, including the Lord Regent and Drallis Ehr.
 -   On par with even the strongest Krulians.
+-   A Deepwoken, along with Pleeksty.
 
 ### **The Second Prophet**
 
@@ -111,6 +112,7 @@ The Duke
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
 -   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed.
+    -   He also maybe canonically dead, since unlike Chaser there is no change in his dialogue after you kill him.
 
 ### **Maestro Evengarde Rest**
 
@@ -146,7 +148,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
--   He is the only known Deepwoken.
+-   He and the First Prophet are the only known Deepwoken.
 -   'Would beat Akira up and down the eastern lum.'
 -   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
@@ -927,7 +929,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'
--   Only known Deepwoken is Amorus Pleeksty.
+-   Only known Deepwoken are Amorus Pleeksty and the First Prophet.
+-   The player may well be one considering the 'Deepwoken' talent category, them being regarded as special, their accelerated aging and their survival during the Castaway origin.
 
 ## Race Lore
 
@@ -1073,12 +1076,15 @@ _"The stars call you back..."_
 -   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World.
     -   Some people misinterpreted "Drawn from the Heavens by the Song", referring this quote to the Canticlysm; but it was actually the Celestials that was being referred to.
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
--   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
+-   Their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
--   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair. Though it should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon. Ragoozer however believes he is.
+-   Some are as powerful as Drowned Gods, but they are for the most part eclipsed by them.
+-   Eating parts of them turns you into a Starkindred.
+-   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair.
+    -   It should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon. Ragoozer however believes he is.
 
 ### Primal Vesperians
 
@@ -1215,6 +1221,12 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
         -   It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
   
+
+## Oath Lore
+
+### Starkindred
+
+-   The counterpart to Deepwoken, those who have consumed a piece of a Celestial.
 
 ## Murmur Lore
 
@@ -1392,7 +1404,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Celtor sinks into the first layer of the Depths, many die.
 -   Ocean levels rise.
 -   Adrets begin their migration.
--   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die out, with no way back.
+-   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die, with no way back.
 -   The Southern Luminant is rendered completely inhospitable.
 -   The Mad Steward kills an Edenkite and becomes the Dread Serpent.
 -   The Edenkite vanish from the world.
@@ -1453,7 +1465,7 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 ### Year Whenever it happened
 
-(Verse 1: Hallowtide, \[???\])
+(Verse 1: Hallowtide, \[11/01/2022\])
 
 ## Deepwoken: 1363
 
@@ -1603,9 +1615,7 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ## Miscellaneous
 
-### **Blindseer Lore**
-
-#### Lightkeeper Temple Glyphs
+### Lightkeeper Temple Glyphs
 
 _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many years before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?"_
 

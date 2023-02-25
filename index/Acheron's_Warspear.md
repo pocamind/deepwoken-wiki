@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 53556
+revid: 55474
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -34,3 +34,4 @@ Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupte
 
 -   Basically a downgraded Kyrsglaive, Still a very good weapon if your build cant reach 90 med to use the Kyrsglaive.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
+-   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md).

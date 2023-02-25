@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 53353
+revid: 55492
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
@@ -40,7 +40,7 @@ Critical
 
 ## Finisher
 
-An Apprentice Diver executes it's opponent after knocking them:
+A Black Diver executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 54910
+revid: 55494
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -36,6 +36,8 @@ Used for crafting certain armors, comes in a glowing blueish color. Found in Upp
 
 Sells for 15 Notes.
 
+Erisore can also be dropped my mechalodaunts at Miner's Landing
+
 **Irithine:**
 
 Used for crafting certain armor, comes in a green color. Found in the Reservoir Cave under the Burning Stone Gardens.
@@ -44,7 +46,7 @@ Sells for 12 Notes.
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in Songseeker Caves or under the Hive. The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in Songseeker Caves or under Starswept Valley. The drop rate for Pure Astruline is around 15%.
 
 **Umbrite:**
 
@@ -57,8 +59,8 @@ File:Umbrite1.jpg
 -   While every ore has its own color, they become black when held as an item, with the only exception being rocks.
 -   Rocks can be thrown at people.
     -   This however puts you in combat tag.
--   Normal and Pure ores has the same appearance when held in hand.
+-   Normal and Pure ores have the same appearance when held in hand.
 -   Every Pure Ore can be given to the Blacksmith except for iron and gold. (You can't get pure coal and pure rocks.)
--   All ores other then rocks can be sold, and most (if not all, haven't tested with Umbrite) pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
+-   All ores other than rocks can be sold, and most (if not all, haven't tested with Umbrite) pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
 -   Mining ores mainly gives Strength XP.

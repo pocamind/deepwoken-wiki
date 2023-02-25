@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 55133
+revid: 55471
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -56,4 +56,4 @@ The Alloyed Canorian Axe is a midgame Heavy Weapon, it can be obtained by applyi
 
 ## Trivia
 
-The alloyed version barely has any visual differences, you would have to practically have your camera inside the weapon to see the alloyed texture.
+-   The alloyed version barely has any visual differences, you would have to practically have your camera inside the weapon to see the alloyed texture.

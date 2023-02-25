@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 53363
+revid: 55477
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | King Thresher drop and Primadon chests |
+| obtainment | Chest from:, Primadon, Other sources:, King Thresher drop |
 | description | Often found at the hip of officers on horseback during the Canticlysm, it sadly remained for many years only as a curio for petty nobles to fawn over in the early days after the Tides. Despite its moniker, it was brought back into the vogue by young naval officers of the Central Authority who saw combat value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description
@@ -32,6 +32,8 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 ## Notes & Trivia
 
--   One of the best alternative weapons to use in the endgame if you don't want to use a [Shattered Katana](Shattered_Katana.md). The Swing Speed is incredibly high, and can mess up a lot of people if they are not prepared. Forget the [Rapiers](https://deepwoken.fandom.com/wiki/Weaponry#Rapiers), if you want to bridge the gap between the Medium and Light playstyles, pick this weapon up right now.
--   After recent nerfs, the Gladius now has 0.02x slower swing speed than [Falchion](Falchion.md) and the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
--   Can be considered a side/upgrade from the [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   One of the best alternative weapons to use in the endgame if you don't want to use a [Shattered Katana](Shattered_Katana.md). The Swing Speed is incredibly high, and can mess up a lot of people if they are not prepared.
+    -   Forget [Rapiers](https://deepwoken.fandom.com/wiki/Weaponry#Rapiers), if you want to bridge the gap between the Medium and Light playstyles, pick this weapon up right now.
+
+-   After some previous nerfs, the Forgotten Gladius now has 0.02x slower swing speed than the [Falchion](Falchion.md) and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+-   Can be considered a side/upgrade from the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
