@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 55304
+revid: 55433
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -65,7 +65,7 @@ The ability to buff allies around them
 
 _**THE FOLLOWING MAY BE FALSE**_
 
-(Ok so upon further testing on my capra they all share all of the passives: Insanity resistance, faster regen and less prone to starvation. Meaning this is, unironically one of the best races for solo and multi progressions alike.)
+(Ok so upon further testing on my capra they all share all of the passives: Insanity resistance, faster regen and less prone to starvation. Meaning this is, unironically one of the best races for multi progression.)
 
 **Weaknesses:**
 

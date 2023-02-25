@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 55347
+revid: 55432
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -18,7 +18,7 @@ notices:
 | scaling | ICE: 8, HVY: 4 |
 | range | 8 |
 | swing speed | 0.62x |
-| special effect | Applies frost on hit, Rain down ice shards after 3 hits, Gain a damage bonus when killing Ministry Scouts, When killing a player or a Ministry Scout, she will talk. (See trivia for the lines) |
+| special effect | Rain down ice shards after 3 hits, Gain a damage bonus when killing Ministry Scouts, Talks when killing Ministry Scouts or Players, Applies a crystal on hit (requires Glass Path: Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |
 | bankable | Yes |
@@ -36,11 +36,12 @@ notices:
 
 Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x.
 
-This weapon has 3 passives abilities:
+This weapon has 3 (or 4 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
 -   When killing a [Ministry Scout](Ministry_Scout.md), she gains a damage bonus that can be stacked. This damage bonus is lost when the weapon is sheathed.
 -   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
+-   If the user have the talent Glass Path: Crystallization, landing a hit will apply a singular crystal. If there's already a crystal present from this ability, then no further crystal will be applied.
 
 ## Trivia
 

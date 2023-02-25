@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 53441
+revid: 55448
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -21,3 +21,5 @@ While weaker on the surface, they become far more powerful in [The Depths](The_D
 The Ministry seems to worship the Krulians in some form, considering how every member wields a [Krulian Knife](Krulian_Knife.md).
 
 The only known Krulian NPC right now is The Ferryman. Many believed that [Aelita](Aelita.md) is a Krulian, but she is most likely a [Visionshaper](Oaths.md).
+
+Krulians were described as "Amalgamations of souls", by Ragoozer.

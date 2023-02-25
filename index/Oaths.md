@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55419
+revid: 55441
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
