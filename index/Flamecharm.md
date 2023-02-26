@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 55305
+revid: 55542
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -119,7 +119,7 @@ Flame Grab
 
  | 
 
-A fiery chokehold.
+_A fiery chokehold._
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
@@ -187,7 +187,7 @@ Fire Forge (★)
 
  | 
 
-Toss a nimble dagger.
+_Toss a nimble dagger._
 
  | User throws 3 quick burning daggers.
 
@@ -264,7 +264,7 @@ Flame Leap
 
  | 
 
-Leap up leaving behind a burst of flames.
+_Leap up leaving behind a burst of flames._
 
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
