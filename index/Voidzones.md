@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 54468
+revid: 55519
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -133,12 +133,24 @@ While inside a Voidzone:
 
 ### **Deep Thresher Nest**
 
-“ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ”
+“ Woah, there's some big lizards right there I wanna pet them ”
 
-― Deep Thresher Nest's Flavour Text
+― Moment before disaster
 
 **Location:** [Lightkeeper Temple](Lightkeeper_Temple.md) (Connected via Jail Room), East Luminant. Alternatively, the opposite side of Lightkeeper Temple's entrance.
 
 **Dangers:** [King Thresher](Thresher.md#king-thresher), [Thresher](Thresher.md)
 
 **Rewards:** Brilliant & Empyrean Lotuses, Eggs
+
+### **The Entropy Catalyst**
+
+“ The machina hisses ominously against the nature surrounding it, standing to protest against life itself. ”
+
+― The Entropy Catalyst Flavor Text
+
+**Location:** Eastern Luminant- To the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
+
+**Dangers: Not Explored**
+
+**Rewards: Not Explored**

@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 55477
+revid: 55525
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,12 +23,12 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest from:, Primadon, Other sources:, King Thresher drop |
+| obtainment | Chest from:, Primadon, Other sources:, King Thresher drop, Fishing |
 | description | Often found at the hip of officers on horseback during the Canticlysm, it sadly remained for many years only as a curio for petty nobles to fawn over in the early days after the Tides. Despite its moniker, it was brought back into the vogue by young naval officers of the Central Authority who saw combat value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description
 
-The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Starswept Valley](The_Starswept_Valley.md). This weapon has a base damage of 18 and has no special effect or passives.
+The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md), [Starswept Valley](The_Starswept_Valley.md) And [Fishing](Fishing.md). This weapon has a base damage of 18 and has no special effect or passives.
 
 ## Notes & Trivia
 

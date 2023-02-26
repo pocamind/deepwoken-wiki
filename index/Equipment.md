@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 55167
+revid: 55512
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2981,6 +2981,7 @@ Chests from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
 |  | 
@@ -3006,6 +3007,7 @@ Chests from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
 Other sources:
 
@@ -3033,6 +3035,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
 |  | 
@@ -3053,6 +3056,7 @@ Chests from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
 Other sources:
 
@@ -3078,6 +3082,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
 Chests from:
 
@@ -3104,6 +3109,7 @@ Chests from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
 Chests from:
 
@@ -3133,6 +3139,7 @@ Chests from:
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
 |  | 
@@ -3599,3 +3606,4 @@ Chests from:
 -   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.
 -   Legendary Rings can be easily obtained by killing the Ancient Rotlands angels near the 2nd spawn of [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher)
 -   Poser's Ring cannot be dropped as it will be soulbounded to your character.
+-   Regarding the rare rings that spawn in the [Ancient Rotlands](Ancient_Rotlands.md), Im not telling you were this is.

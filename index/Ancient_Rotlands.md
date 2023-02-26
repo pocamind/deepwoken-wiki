@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 45694
+revid: 55513
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -26,6 +26,7 @@ The Ancient Rotlands are a **Voidzone**, meaning you will be sent to [The Depths
     -   Looking at the brains causes you to take grave insanity damage. Its recommended to come here with a handful amount of willpower.
     -   Alongside this, it is theorized that the brains "pulse", doing the same insanity damage if you're exposed to it as if you had looked at it for a couple of seconds.
         -   This makes the place extremely dangerous to farm in, as considering the place is a voidzone, you're basically arming yourself with a imploding bomb that may go off at any time. For ease of farming, it is encouraged that you lure whatever's inside out to Songseeker wilds so that you don't take the insanity damage.
+    -   Hidden in this area, is a place where Deep Angels spawn, and after killing all of them, a chest full of rare rings spawn.
 
 ## Potential Enemies
 

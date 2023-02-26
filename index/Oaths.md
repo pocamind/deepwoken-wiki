@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55441
+revid: 55508
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -69,7 +69,7 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ If free will is a lie, why not making it a convincing one? ”
+“ If free will is an illusion, why not make it a convincing one? ”
 
 ― Oathless Description
 
@@ -294,9 +294,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ Wanna see me do it again? ”
+“ It's runnin' time. ”
 
-― Jetstriker after circling the entirety of etris 17 times in 3 seconds in the middle of a guild war
+― Jetstriker after the sight of a Power 6 Voidwalker looking for someone else.
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -465,7 +465,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ### Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. When you have a slot with this oath, your race name will have "arcwarder" title after it.
 
 **Dawnwalker:**
 
