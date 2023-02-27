@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55546
+revid: 55562
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1034,7 +1034,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Leader
 
--   Callout \[Common Talent\] - you can mark objects or enemies by pressing Z, which will mark them for all nearby allies (+1 Ether +3 Health)
+-   Callout \[Common Talent\] - You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.
     -   Prerequisites: 20 Charisma
 
 ### Leaf in the Wind

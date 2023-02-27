@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 53079
+revid: 55604
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,36 +15,40 @@ categories: [Mechanics]
 
 ## Overview
 
-**Knowledge** is a new feature introduced in the _**[Verse 2](Version_History/2026.md)**_ update.
+_**Knowledge is a new feature introduced in the** **[Verse 2](Version_History/2026.md) update.**_
 
-**Knowledge** is a special in-game currency that can be used to engage in a deals with Deep Shrines and [Misérables](Misérables.md). It's function is similiar to [Notes](Notes.md), however it poses higher benefits for the player and has much more difficult obtainment.
-
-The maximum for said currency is 99. The currency is bound to a slot and is lost upon wiping your character.
+Knowledge is a special in-game currency that can be used to engage in a deals with various Deep Shrines and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways. However, Knowledge-related services reap much higher benefits for the player- such as gaining the ability to reroll your bell again, at the cost of a higher degree of involvement for obtainment.
 
 ### Ways of Obtaining Knowledge
 
-There are currently only a few milestones that grant player Knowledge upon first-completion. It is speculated that there are will be more ways added in the future.
+Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with many more ways being hidden for discovery.
 
--   Gaining [Power](Power.md), awarding 1 Knowledge per Power level. (max. 19 Knowledge)
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge (granted once teleported out of the dungeno).
--   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge.
--   Purchasing Starting Knowledge [Echo Upgrade](Echoes.md), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). The currency is granted to every slot upon creation of a new character. This doesn't apply to existing characters.
+-   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). **The currency is granted to every slot upon creation of a new character. This doesn't apply to existing characters.**
+-   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
+-   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge once teleported out of the dungeon.
+-   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). **There is currently no discovered limit of transactions.**
+-   _(More methods exist to be found...)_
 
-### Purchasing Knowledge
-
-Knowledge can be purchased using [Kyrsan Medallions](Kyrsan_Medallions.md) from [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), located at [Castle Light](Castle_Light.md) in [Depths](The_Depths.md) (Scyphozia). Beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer.md) is required to unlock this option. The transaction consists of the exchanging 5 Medallions for 5 Knowledge (1:1 ratio). This process, unlike normal ways of obtainment can be conducted multiple times, with no discovered maxmium limit of transactions.
+The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**
 
 ### Usage of Knowledge
 
-As mentioned previously, Knowledge can be used to bargain with powerful objects and beings. Each transaction is conducted via dialouge option and Knowldege is consumed instantly after without any warning message or notice.
+As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
--   Engaging in a deal with Deep Shrines (except _Shrine of Order_), uses 5 Knowledge per deal.
--   Engaging in a deal with _Shrine of Order_, uses 10 Knowledge.
--   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge.
+Each transaction is conducted via dialogue option, with and Knowledge is consumed instantly after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more.
+
+-   Engaging in a deal with Deep Shrines (EXCLUDING Shrine of Order-- read below), uses 5 Knowledge per deal.
+-   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
+-   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), uses 15 Knowledge. _Read more about [Misérables](Misérables.md) to understand how to make a deal safely with them, as there is a lethal risk involved..._
 
 ## **Trivia**
 
--   _Knowledge_ functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._
--   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding.
+-   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._
+-   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Knowledge gained from gaining Power is enough to engage in a deal with _Shrine of Order_ at Power 10.
--   Ganymedes have a racial bonus that makes Deep Shrines cost -1 knowledge to make a deal with.
+-   Ganymedes have a special racial bonus that make Deep Shrines cost one less Knowledge point to make a deal with.
+    -   Deep Shrines will cost 4 Knowledge.
+    -   Shrine of Order will cost 9 Knowledge.
+    -   A deal with [Misérables](Misérables.md) will cost 14 Knowledge.
+    -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._

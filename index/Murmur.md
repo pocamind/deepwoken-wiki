@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 54082
+revid: 55603
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -19,8 +19,6 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
 Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain Murmurs if your Character is at least [Power](Power.md) 5.
-
-~its a bit hard to obtain _pilot_~
 
 ## Murmurs Strengths
 
@@ -103,7 +101,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables the user
 
 **Murmur: Rhythm** is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
 
-Pressing G while crouched (same inputs as Eavesdrop), the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing). (very buggy)
+Pressing G while crouched (same inputs as Eavesdrop), the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing).
 
 The detection range scales with the user level: higher level means the player will be able to point out sound from further away.
 

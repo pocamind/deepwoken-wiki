@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 41393
+revid: 55602
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -111,7 +111,7 @@ Talking to Zirik
 
 Talking to Guards
 
--   Very Good Reputation - "placeholder" | "placeholder"
+-   Very Good Reputation - "It's great to see you again \[name\], I feel a bit safer with you around."
 -   Good Reputation - "Stay safe out there. It's a harsh Place." | "Until next time, if there is one..."
 -   Neutral Reputation - "Try not to interfere with my duties." | "I'm watching you, so don't try anything stupid."
 -   Unfriendly Reputation- "placeholder" | "placeholder"

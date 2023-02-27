@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 55431
+revid: 55601
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -34,7 +34,7 @@ _From data of 100 rerolls, the calculated chance of getting a normal Resonance w
 
 Corrupted Resonances give more points for the "pointbuy" system of Resonance, allowing them to grant more benefits.
 
-_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card). (Side note: I refuse to believe that corrupted resonances have anywhere near the same chance as legendary ones so take this with a grain of salt.)_
+_From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card)._
 
 However, similarly to [Cursed Enchants](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 
@@ -189,8 +189,7 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 
 -   **Corrupted Skull Popper** (Akira's Resonance)
 -   **Dream Eater** (Haske Vantage's Resonance)
--   **Golem Creation** (Duke Erisia's Resonance)
--   **Time Skipper** (Godskipper's Resonance)  
+-   **Golem Creation** (Duke Erisia's Resonance)  
     
 
 ## Trivia
@@ -211,4 +210,3 @@ YOU MUST NOT HAVE TARNISHED TO REROLL YOUR BELL!
 -   Assumed to be a bug, sometimes if you choose or reroll a Resonance, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from Bloodborne.
 -   Resonances come in the form of any instrument, but the Bell is the only one seen in game.
--   Rarely enough you might get a Cello instead once you get resonance.
