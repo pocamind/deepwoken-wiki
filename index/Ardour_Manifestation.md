@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 54476
+revid: 55649
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,7 +16,7 @@ Ardour Manifestation is a reward granted upon killing any bosses, even the [Drea
 
 ## Trivia
 
--   The Ardour Manifestation has no model, but is still held out like any other item.
+-   ~The Ardour Manifestation has no model, but is still held out like any other item.~ Was given an in-game model same model as the alloy upgrading ore
 -   When using the item it will release the seem effects when using Ardour Scream.
 -   The item will NOT trigger if another Dread Serpent spawned through the Manifestation is already present in the server.
 -   You can get the Manifestation on your first try against the Dread Serpent since there's a few moments before you get the Murmur.
