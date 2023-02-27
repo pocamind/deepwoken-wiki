@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 55542
+revid: 55613
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -19,6 +19,8 @@ Flamecharm grants the user the ability to conjure fire using ether, giving them 
 The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team. This attunment is also the best choice as a noob, as the burn effect will kill knocked npcs, easily allowing you to progress really fast.
 
 However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset, and an adept opponent will be able to out-time a repetitive wielder's attacks. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
+
+Flamecharm excels defensively alike Frostdraw especially with Mirage Clone (which should honestly be a legendary at this point.). Flamecharm applies immense pressure on opponents that attack you, in skilled hands, Flamecharm can be very powerful. Enemies that hit your mirage clone will be set on fire, almost effectively safeguarding you since if the opponent attempts to apply more offense and pressure then they will suffer a lot of burn damage. Then if you manage to punish them upon a successful dodge, then your fire damage will stack on top of your combo, dealing immense damage. Just the fact that you dodging a physical attack obligates your opponent to roll off their flames will let you quickly plan to punish them after rolling or at least their roll will be on cooldown. Flamecharm moves are also quite difficult to parry, some moves come out very quick, there's fire blade which may knock off opponents who are speeding up their thought process to counteract your pressure and there's the arial moves which mechanically make victims limited to parrying in very tight timing. A lot of Flamecharm is also very visually disorientating with eruptions, fires and blasts engulfing your opponents screen and the only one who has to worry about it is your victims. With all of this pressure and visual info being crammed into your opponents head, it's possible to overwhelm your opponents. Then coupled with your ability to slow down the pacing of your assault, you may truly out-play some people. This is unlikely on level-headed users though, even using flame blind could potentially be useless since they won't be confused by visual effects, will still be able to see your name tag and can act according to sound (e.g them attacking you after parrying).
 
 ## Training
 
@@ -147,6 +149,7 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 -   Rare Flamcharm mantra.
     -   Unaffected by [Luck](Luck.md).[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
+-   Not very effective on experienced users because the duration isn't long enough to make a big difference. It may even just serve as a mild inconvenience for them.
 
  |
 |  | 

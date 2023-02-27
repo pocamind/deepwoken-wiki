@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55508
+revid: 55619
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -69,9 +69,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ If free will is an illusion, why not make it a convincing one? ”
+“ NO ARCHY MAGE PLEASE! ”
 
-― Oathless Description
+― Azure flame shattered katana user realizing their 200 year old build is no longer meta.
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -289,14 +289,15 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
 -   Symbiotic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
+-   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
 
 **Jetstriker:**
 
 # **Oath: Jetstriker**
 
-“ It's runnin' time. ”
+“ It's galebreathing time. ”
 
-― Jetstriker after the sight of a Power 6 Voidwalker looking for someone else.
+― Jetstriker after they can't uncap agility with just stratos step.
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -607,8 +608,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 **Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
 
-  
-
+-   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
@@ -618,8 +618,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
--   it might be an attument not an oath
-    
+        
 
 **Fadetrimmer:**
 

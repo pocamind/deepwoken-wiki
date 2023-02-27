@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 55604
+revid: 55610
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -21,14 +21,14 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 ### Ways of Obtaining Knowledge
 
-Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with many more ways being hidden for discovery.
+Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with more ways being hidden for discovery.
 
--   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). **The currency is granted to every slot upon creation of a new character. This doesn't apply to existing characters.**
+-   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
--   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge once teleported out of the dungeon.
--   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). **There is currently no discovered limit of transactions.**
--   _(More methods exist to be found...)_
+-   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge once teleported out of the dungeon. _One time use-- correct if wrong._
+-   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _There is currently no discovered limit of transactions._
+-   _(More advanced methods exist to be found...)_
 
 The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**
 
@@ -46,7 +46,7 @@ Each transaction is conducted via dialogue option, with and Knowledge is consume
 
 -   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage._
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
--   Knowledge gained from gaining Power is enough to engage in a deal with _Shrine of Order_ at Power 10.
+-   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   Ganymedes have a special racial bonus that make Deep Shrines cost one less Knowledge point to make a deal with.
     -   Deep Shrines will cost 4 Knowledge.
     -   Shrine of Order will cost 9 Knowledge.

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 55312
+revid: 55611
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -67,6 +67,7 @@ check the rest out for yourself.
 | Lucy | Unaligned | [The Depths](The_Depths.md), The City of The Drowned | None |  |
 | Malte | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | None | Marcus. |
+| Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | Mercille | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |

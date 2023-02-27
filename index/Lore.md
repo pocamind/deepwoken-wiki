@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 55478
+revid: 55621
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -820,24 +820,6 @@ A Peacekeeper Commander, part of The Authority
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
     -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
 
-### [Krulians](Krulian.md)
-
--   **Territory:** _???_
--   **Attunements:** _Any_
--   **Alliances:** _None (The Drowned Gods and Depths?)_
--   **Enemies:** _None (Celestials and Lightborns?)_
--   **Lore Sources:** _Ferryman, Arch\_Mage, Ragoozer_
--   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
--   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
--   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
--   They are far weaker when on the surface than in The Depths.
--   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
-    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
--   There are higher Krulians and lesser Krulians.
-    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
-
--   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
-
 ### The Golden Rats
 
 -   **Territory:** _The Rat's Den_
@@ -1052,6 +1034,21 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 ### Tiran
 
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
+
+### [Krulians](Krulian.md)
+
+**Lore Sources:** _Ferryman, Arch\_Mage, Ragoozer_
+
+-   Krulians are shapeshifters, created from amalgamations of souls, and are servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
+-   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
+-   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
+-   They are far weaker when on the surface than in The Depths.
+-   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
+    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
+-   There are higher Krulians and lesser Krulians.
+    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
+
+-   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
 
 ### Lightborn
 
