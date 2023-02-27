@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 55603
+revid: 55659
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -77,7 +77,7 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 
 -   You need negative Etris Rep
 -   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find. ( YOU DO NOT NEED TO TALK TO THIS NPC IF YOU ARE A VOIDWALKER, SIMPLY DO 10 BOUNTY KILLS AND HE WILL GIVE YOU TACET WITHOUT EVEN NEEDING ANY CHARISMA )
--   Upon assassinating 10 Players, return back to Cestis and obtain the Murmur.
+-   Upon assassinating 5 Players, return back to Cestis and obtain the Murmur.
 
 #### **Method Two- Born Assassin**
 
@@ -101,7 +101,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables the user
 
 **Murmur: Rhythm** is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
 
-Pressing G while crouched (same inputs as Eavesdrop), the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing).
+Pressing G while crouched, the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing).
 
 The detection range scales with the user level: higher level means the player will be able to point out sound from further away.
 

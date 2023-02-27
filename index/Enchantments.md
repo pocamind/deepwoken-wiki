@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 55630
+revid: 55664
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -342,7 +342,7 @@ Bounce
 
  | 
 
-On proc, push the attacker away, making it harder to chain attacks.
+Chance of 20% to push the attacker away, making it harder to chain attacks.
 
  | 
 

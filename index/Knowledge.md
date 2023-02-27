@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 55610
+revid: 55669
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,20 +10,24 @@ categories: [Mechanics]
 
 | Knowledge | |
 |---|---|
-| usage | Engaging in deals with Deep ShrinesPurchasing Clarity from Misérables |
-| obtainment | Completing milestonesPurchasing from Klaris |
+| usage | Engaging in deals with Deep Shrines, Purchasing Clarity from Misérables |
+| obtainment | Purchasing from Klaris, Completing quests and achieving milestones |
+
+“ Do you have the knowledge within you then, my dull friend? ”
+
+― Misérables
 
 ## Overview
 
 _**Knowledge is a new feature introduced in the** **[Verse 2](Version_History/2026.md) update.**_
 
-Knowledge is a special in-game currency that can be used to engage in a deals with various Deep Shrines and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways. However, Knowledge-related services reap much higher benefits for the player- such as gaining the ability to reroll your bell again, at the cost of a higher degree of involvement for obtainment.
+Knowledge is a special in-game currency that can be used to engage in a deals with various Deep Shrines and the deity known as [Misérables](Misérables.md). Its function serves similar to [Notes](Notes.md) in the sense that you can purchase various things to help benefit your character in specific ways; however, Knowledge-related services reap much higher benefits for the player, such as gaining the ability to reroll your bell again-- at the cost of a higher degree of involvement for obtainment of the currency itself.
 
 ### Ways of Obtaining Knowledge
 
-Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with more ways being hidden for discovery.
+Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with more advanced ways being hidden for discovery.
 
--   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level (max. 5 Knowledge). _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
+-   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
 -   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge once teleported out of the dungeon. _One time use-- correct if wrong._
@@ -36,7 +40,7 @@ The limit of on-hand Knowledge a player can have is 99. **The currency is bound 
 
 As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
-Each transaction is conducted via dialogue option, with and Knowledge is consumed instantly after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more.
+Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more.
 
 -   Engaging in a deal with Deep Shrines (EXCLUDING Shrine of Order-- read below), uses 5 Knowledge per deal.
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 55447
+revid: 55658
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -128,7 +128,7 @@ For example, if you're Power 12 then you would have 180 points. If you have any 
 _Pros/Cons_
 
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
--   Requires Power 12.
+-   Requires Power 8.
 -   Grants the Restless flaw
 -   You cannot use the Shrine of Order if you already have an Oath. Using it won't lock you out of getting an Oath.
 -   Innate (racial) attribute points do not count when redistributing your points.

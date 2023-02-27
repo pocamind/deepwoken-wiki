@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55647
+revid: 55662
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1561,7 +1561,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether)
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
-    -   Prerequisites: 70 Charisma, all Silvertongue talents
+    -   Prerequisites: 5 Charisma, all Silvertongue talents
 
 ### Thief
 
@@ -2094,9 +2094,10 @@ File:Thresherquest1.png
 ### Heretic Sutra
 
 -   A chant that steers you into the state of insanity for 20 seconds.
--   Gives a burst of insanity instantly while chanting and enable talents that require to be gaining insanity to activate for 15 seconds.
+    -   Gives a burst of insanity to yourself, which achieve the following:
+        -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
+        -   Talent that need you to be losing sanity are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
     -   80 willpower, tier 1 insanity (Shivering) (May be wrong?), and talk to Kasen located in layer 2 floor 1.
-    -   You CAN use Heretic Sutra while having less than 80 willpower with the Shrine of Order after getting the talent.
 
 ## Outfit Talents
 
