@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 55791
+revid: 55802
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -29,4 +29,3 @@ Ethiron's Curseshield is a darkly colored shield, decorated with complex tanglin
 ## Notes & Trivia
 
 -   Image taken from iwiK's video ([https://youtu.be/5lg1TroE2EE](https://youtu.be/5lg1TroE2EE))
--   Information on obtainment needs to be added

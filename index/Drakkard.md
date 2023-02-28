@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 55783
+revid: 55804
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -27,7 +27,7 @@ A dragon race of some sort.
   <td><b>Teachings of the Edenkite</b>
   <ul>
     <li><i>Unknown description</i></li>
-    <li>Works similar to the Produce Spark <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a></li>
+    <li>Works similar to the Produce Spark <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a>, except it produces a white flame (cosmetic)</li>
   </ul></td>
 </tr>
 <tr>

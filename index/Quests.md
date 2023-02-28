@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 52240
+revid: 55805
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -272,7 +272,7 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Quest Location**: Various
 
-**Guide**: Talk to a ministry NPC found in various places around the map, he will ask you to kill anyone at a certain location.
+**Guide**: Talk to a Ministry NPC found in various places around the map, they will ask you to kill anyone at a certain location.
 
 **Reward/s**: Ministry Reputation
 
