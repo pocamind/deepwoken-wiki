@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 55621
+revid: 55785
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -176,9 +176,17 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   On par with Akira.
 -   Possibly an Arcwarder?
 
+### **Dr. Carrion, Father of Evolution**
+
+-   One of the founding Divers.
+-   Leader of the Apothecary.
+-   Seeks to transcend people through the use of a potion named the Moonseye Vigour.
+-   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
+-   Can convert the body parts of monsters into a form that lets people use their abilities.
+
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
-_"My Burden is Light." -Unkown Lightkeeper._
+_"My Burden is Light." -Unknown Lightkeeper._
 
 -   Currently residing in the Eastern Lighthouse, near miners landing.
 -   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
@@ -809,8 +817,12 @@ A Peacekeeper Commander, part of The Authority
 
 ### The Vigils of Wind
 
-**Lore Sources:** _Apprentice Kj_
-
+-   **Territory:** _The Isle of Vigils_
+-   **Encountered In:** _The Isle of Vigils_
+-   **Attunements:** _Galebreathe_
+-   **Alliances:** _The Kingdom of Etrea_
+-   **Enemies:** _N/A_
+-   **Lore Sources:** _Apprentice Kj_
 -   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Reste, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Reste, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
@@ -823,7 +835,7 @@ A Peacekeeper Commander, part of The Authority
 ### The Golden Rats
 
 -   **Territory:** _The Rat's Den_
--   **Encountered In:** _Erisia Island_
+-   **Encountered In:** _Erisia_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _N/A_
 -   **Enemies:** _N/A_
@@ -837,6 +849,18 @@ A Peacekeeper Commander, part of The Authority
 Golden Warrior Bouncer, located outside of Rat's Den.
 
   
+
+### The Apothecary
+
+-   **Territory:** _None_
+-   **Attunements:** _All_
+-   **Alliances:** _The Divers_
+-   **Enemies:** N/A
+-   **Lore Sources:** _Carrion (Discord), The Apothecary Discord Server._
+
+-   A group of potion nerds who act as Guinea Pigs for Carrion's experiments and help him find materials.
+-   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms.
+-   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
 
 ### Songseekers
 

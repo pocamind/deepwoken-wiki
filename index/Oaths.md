@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55719
+revid: 55790
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -71,7 +71,7 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 “ NO ARCHY MAGE PLEASE! ”
 
-― Azure flame shattered katana user realizing their 200 year old build is no longer meta.
+― Azure flame shattered katana user realizing their 200-year-old build is no longer meta.
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -91,8 +91,8 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 ### Notes
 
--   Commonly agreed to be a subpar oath compared to the other non stat locked oath (Linkstrider/Dawnwalker/Contractor).
-    -   However, being the only oath that grant +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely.
+-   Commonly agreed to be a subpar oath compared to the other non-stat locked oath (Linkstrider/Dawnwalker/Contractor).
+    -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
     
 
@@ -100,9 +100,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 # **Oath: Blindseer**
 
-“ YOU FOOL, YOU FOOL! ”
+“ They don't know I have Blindseer... ”
 
-― A blindseer gremor fighting a Flame blind mantra spammer.
+― A Blindseer Vesperian strolling through Layer 1 as the Contractors descend into madness.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 

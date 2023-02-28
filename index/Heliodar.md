@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 55767
+revid: 55780
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -25,7 +25,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 <table>
 <tbody>
 <tr>
-  <td>File:Versatile2.png</td>
+  <td>File:Claw Icon.png</td>
   <td><b>Heliodar Wings</b>
   <ul>
     <li><i>Wings of Heliodar</i>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 55664
+revid: 55786
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -82,8 +82,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
-  <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  Especially effective in PVE, due to the power damage scaling</p></div></td>
+  <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
   <td><div>Weapon covered in an orange/brown mist.</div></td>
 </tr>
 <tr>

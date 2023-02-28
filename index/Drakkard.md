@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 55773
+revid: 55783
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -70,7 +70,7 @@ Unknown
     
     A moderator being invited to become the Drakkard race.
     
--   Nuttoons' used to be the only person with this race prior to it's release for the moderators. Back then it had a talent Drakeflame (works similar to Flame Within), only one variant which is now removed and no horns.
+-   Nuttoons' used to be the only person with this race prior to it's release for the moderators. Back then it had a talent Drakeflame, only one variant which is now removed and no horns.
 
 <table>
 <tbody>
@@ -79,7 +79,7 @@ Unknown
   <td><b>Drakeflame</b>
   <ul>
     <li><i>Your Soul Murmur brought forth as a flame. This flame is said to even be capable of burning paths through causality itself.</i></li>
-    <li>Works similar to the Flame Within <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a></li>
+    <li>Works similar to the Produce Spark <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a></li>
   </ul></td>
 </tr>
 </tbody>

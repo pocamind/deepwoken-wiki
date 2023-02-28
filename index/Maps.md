@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 55646
+revid: 55792
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -109,6 +109,10 @@ Map:Etrean Luminant Inside
 **New Kyrsan Arterial Rail:**
 
 Map:New Kyrsan Arterial Rail
+
+**The Condemned Archives:**
+
+Map:The Condemned Archives
 
 **The Profane Cavern:**
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 54931
+revid: 55787
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -10,7 +10,7 @@ categories: [Attributes, Character, Mechanics]
 
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased and unbounded to a max of 100.
+**Attributes** are player stats that can be increased and unbounded to a max of 100. (102 if the race starts with 2 in that stat)
 
 ## Basic Attributes
 
