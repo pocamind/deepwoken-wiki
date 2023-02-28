@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 54856
+revid: 55671
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -165,9 +165,9 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Locations
 
--   [Etris](Etris.md), in between the mantra shop and weapons shop
--   [Summer Isle](Summer_Isle.md), just outside the docks
--   [Castle Light](Castle_Light.md), in the library to the left, in the back behind the monster mantra NPC, Dr. Carrion
+-   [Etris](Etris.md), in between the mantra shop and weapons shop.
+-   [Summer Isle](Summer_Isle.md), just outside the docks.
+-   [Castle Light](Castle_Light.md), in the library, at the back.
 -   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.

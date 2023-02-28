@@ -1,9 +1,9 @@
 ---
 title: Hive Construct
-revid: 55654
+revid: 55703
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Hive Construct
@@ -115,19 +115,9 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 ## Trivia
 
 -   Technically the most powerful and hard-hitting enemy in the entire game when fought directly.
-
 -   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro/fight the [Meteor Knights](Stone_Knight.md), the opposite is also true.
-
 -   Works with Stone Knight, even prioritizes it above an [Authority Captain](Authority_Captain.md).
-
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
-
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
-
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.\]
-
--   File:Idle Construct.png
-    
-    A Vesperian (most certainly not me) resting next to an Idle Hive Construct.
-    
-    The golems have an idle animation similar to the Ninja Animation pack.
+-   The golems have an idle animation similar to the Ninja Animation pack.

@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 51199
+revid: 55724
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -28,10 +28,16 @@ categories: [Weapons, Pages with broken file links, Spears]
 
 ## Description
 
-The Trident Spear is a medium weapon. It can be obtained by doing the explosion crate quest at summer island or from chests at different places.
+The Trident Spear is a midgame medium weapon. It can be obtained by doing the explosion crate quest at summer island or from [Depths](The_Depths.md) chests.
 
 The weapon itself is really similar to the iron spear, having the same m1s and criticals, only differing in stats.  
 
 File:Image 2022-04-27 222048742.png
 
 An image showing the stats of the Trident Spear
+
+  
+
+## Notes
+
+-   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing based economy.

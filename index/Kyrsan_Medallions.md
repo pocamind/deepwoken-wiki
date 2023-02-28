@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 54855
+revid: 55680
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -8,11 +8,11 @@ categories: [Items, Layer 2, Floor 2]
 
 # Kyrsan Medallions
 
-Kyrsan Medallions are an end-game currency that can be found in the Second Floor of the [Second Layer](Second_Layer.md) of the Depths. In order to keep any Kyrsan Medallions that you find on floor 2, you must successfully defeat the [Scion of Ethiron](Scion_of_Ethiron.md) and escape. They can be exchanged at Castle Light (specifically, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)) for [Knowledge](Knowledge.md), Equipment Dye, Enchant Stones, random [Armor Enchants](Enchantments.md), and the Dawnwalker [Oath](Oaths.md).
+Kyrsan Medallions are an end-game currency that can be found in the Second Floor of the [Second Layer](Second_Layer.md) of the Depths. In order to keep any Kyrsan Medallions that you find on Floor 2, you must successfully defeat the [Scion of Ethiron](Scion_of_Ethiron.md) and escape. They can be exchanged at Castle Light (specifically, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)) for [Knowledge](Knowledge.md), Equipment Dye, Enchant Stones, random [Armor Enchants](Enchantments.md), and the Dawnwalker [Oath](Oaths.md).
 
 ## Obtainment
 
-After entering Floor 2 you can find large pink chests in random locations. These chests are increasingly common in New Kyrsa. There is a faint pink beam that indicates where these chests are (this isn't always visible). Each chest contains 4-7 medallions, and each chest will respawn in the same location after defeating the Floor 2 Boss: [Scion of Ethiron](Scion_of_Ethiron.md). Five chests spawn when you enter the second floor and (in theory) another five respawn after defeating the boss. You must successfully defeat the boss and **escape from the collapsing layer 2 via the Light Hook in the City** in order to keep any of the Medallions you find.
+After entering Floor 2 you can find large pink [chests](Chests_&_Sacks.md) in random locations. These chests are increasingly common in New Kyrsa. There is a faint pink beam that indicates where these chests are (this isn't always visible). Each chest contains 4-7 medallions, and each chest will respawn in the same location after defeating the Floor 2 Boss: [Scion of Ethiron](Scion_of_Ethiron.md). Five chests spawn when you enter the second floor and (in theory) another five respawn after defeating the boss. You must successfully defeat the boss and **escape from the collapsing layer 2 via the Light Hook in the City** in order to keep any of the Medallions you find.
 
 Kyrsan Medallions are soft-capped at 99.
 
@@ -30,3 +30,7 @@ Kyrsan Medallions can be exchanged for lots of services, crucial for the end-gam
 Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 
 1.  I seek power in the upcoming battle. \[10 Medallions\] - Grant the player a 33% damage buff (estimated) against [Scion of Ethiron](Scion_of_Ethiron.md). (Highly recommended for low damage output players)
+
+## Trivia
+
+-   There has been proof of obtaining them from Fishing in the past, whether or not this has been shadow patched is unclear.

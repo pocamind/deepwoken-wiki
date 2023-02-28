@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55619
+revid: 55719
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -545,6 +545,8 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   **Hidden Tendril - Passive**
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra(such as most Attunementless ones), or a physical critical attack. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
+-   **String Trick - Passive**
+    -   If a hidden tendril is on multiple opponents, they are to be pulled together.
 
 -   **Judgement - Combat Mantra**
     -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target.
@@ -565,7 +567,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped, they're able to use it until they switch the weapon.
 -   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
--   Keep in mind that you will dont be sent to layer 2 if you are gripped while progressing against a player with an oath, and instead you will go to fragments, so dont be very confident when progressing this oath.
+-   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
 -   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
 -   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
 -   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
@@ -641,7 +643,7 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
--   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are ironically names of demons despite being angels in Deepwoken.
+-   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.

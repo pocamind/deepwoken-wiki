@@ -1,9 +1,9 @@
 ---
 title: "Attunement-less"
-revid: 55427
+revid: 55682
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Attunement, Mantras, Magic, Combat Mantras, Spells]
+categories: [Pages with broken file links, Attunement]
 ---
 
 # Attunement-less
@@ -257,7 +257,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**50 Intelligence,**_ Combat _Mantra_
     -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
-    -   Can be upgraded with Intelligence Talent Cards 'All Knowing' and 'Successive Prediction'.
+    -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
     -   **UNKNOWN IF UPGRADING DOES ANYTHING TO IT, NEEDS TESTING**
 
  |
@@ -477,5 +477,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.
--   Next patch (2/27/23) Prediction's frames will be extended, according to Arch\_Mage.
 -   "Strong Left" may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).

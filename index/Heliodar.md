@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 51995
+revid: 55767
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -28,18 +28,20 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
   <td>File:Versatile2.png</td>
   <td><b>Heliodar Wings</b>
   <ul>
-    <li><i>*description unknown*</i>
+    <li><i>Wings of Heliodar</i>
   <ul>
     <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This race is also not immune to fall damage and can still die from it.<b></b></li>
   </ul></li>
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><center><font>+3</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
+    <li>+3 Strength</li>
+    <li>+3 Fortitude</li>
     <li>+2 Agility</li>
-    <li>+2 Willpower</li>
+    <li>+2 Intelligence</li>
   </ul></td>
 </tr>
 </tbody>
@@ -56,8 +58,10 @@ Unknown
 
   
 
+-   +3 Strength
+-   +3 Fortitude
 -   +2 Agility
--   +2 Willpower
+-   +2 Intelligence
 -   Heliodar Wings
 -   Drip: Earrings, Amulet/Pendant, Glowing Eyes
     

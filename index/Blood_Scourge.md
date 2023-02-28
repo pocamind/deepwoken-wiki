@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 54105
+revid: 55717
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,7 +29,7 @@ When used, a red circle appears around the user or projectile. Any knocked entit
 
 Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the user.**
 
-**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and recovery some HP depending on the level and health over a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation or the target was picked up and moved out of the circle.
+**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation or the target was picked up and moved out of the circle.
 
 ### _**Resonance Point usage**_
 

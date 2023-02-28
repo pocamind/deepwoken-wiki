@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 55658
+revid: 55679
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -120,16 +120,16 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 
 _Benefits/Penalties_
 
--   **(BENEFIT)** _Balances all currently invested attributes to be equal._
--   **(PENALTY)** _Balances all currently invested attributes to be equal, for 10 knowledge. Also gives you Restless flaw._
+-   **(BENEFIT)** _Balances all currently invested attributes to be equal, with a limit of 25 points being taken from a single stat to be equalized_
+-   **(PENALTY)** _Balances all currently invested attributes to be equal, for 10 knowledge and gives you a random flaw._
 
-For example, if you're Power 12 then you would have 180 points. If you have any points in willpower, strength, intelligence, fortitude, which is four different stats, it would divide 180 by four which would be 45 and so it would place 45 investment points in each stat. However, if your race has an innate two Charisma but you never invested in Charisma, this will not be counted as you have not invested in it, so it will not divide by five.
+For example, if you're Power 8 then you would have 120 stat points. If you're Pre-Shrine of Order build consisted of 75 fortitude, 25 willpower, 10 agility, 5 strength and 5 charisma. It would take the sum of every stat point and divide the total by the amount of stats invested which is 5 in this case. If a single stat has over 25 points it would only take 25 points from it to be equalized. So for this build it would be 64 fortitude, 14 willpower, 14 agility, 14 strength and 14 charisma after using the Shrine of Order. (Calculations: 75 - 25 = 50 fortitude | 25 + 25 + 10 + 5 + 5 = 70 total points | 70/5 = 14 fortitude, willpower, agility, strength and charisma | 50 + 14 = 64 fortitude)
 
 _Pros/Cons_
 
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
 -   Requires Power 8.
--   Grants the Restless flaw
+-   Grants a Random Flaw.
 -   You cannot use the Shrine of Order if you already have an Oath. Using it won't lock you out of getting an Oath.
 -   Innate (racial) attribute points do not count when redistributing your points.
 -   The Shrine of Order can be extremely useful to obtain certain advanced talents that require a lot of points, which normally would make a build useless, such as having 100 Fortitude and 100 Willpower (Brick wall). Having that without the Shrine of Order will only leave you 127 points for anything else.

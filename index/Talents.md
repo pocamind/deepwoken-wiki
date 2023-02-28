@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55662
+revid: 55775
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -186,6 +186,9 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
     -   Prerequisite: Power 11
+-   Audacity \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 40s cooldown. (+1 Posture)
+    -   You create an AoE stun and slow around you when you start gripping someone.
+    -   Prerequisites: 100 Charisma, 50 Strength
 
 ### Artisan
 
@@ -203,6 +206,7 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
     -   Prerequisite: 20 Agility
+-   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
 
 ### Athlete
 
@@ -1434,10 +1438,10 @@ Prerequisite: Charisma
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
-### Singer
+### Showboater
 
--   Encore \[Charisma Exclusive, Rare Talent\] - Your sing will stun opponents who are already charmed.
-    -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
+-   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charm you opponents briefly.
+    -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter
 
@@ -1523,6 +1527,11 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
     -   Prerequisites: 20 Intelligence
 
+### Tamed Flame
+
+-   Controlled Combustion \[Common Talent, Flamecharm Exclusive\] - Your Agitating Spark no longer spreads to your allies.
+    -   Prerequisites: Agitating Spark, 40 Charisma
+
 ### Tavernkeep
 
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity, +4 Ether)
@@ -1561,7 +1570,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether)
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
-    -   Prerequisites: 5 Charisma, all Silvertongue talents
+    -   Prerequisites: 55 Charisma, all Silvertongue talents
 
 ### Thief
 
@@ -1690,6 +1699,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Vanishing Closure \[Rare talent, Visionshaper Exclusive\] - Briefly disappear after knocking an enemy.
     -   Become invisible for 5 seconds whenever you knock an enemy.
+
+### Vocalist
+
+-   Encore \[Rare Talent, Charisma Exclusive\] - Your sing will stun opponents who are already charmed.
+    -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
+-   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
+    -   Prerequisites: 75 Charisma, Sing (Charisma Mantra)
 
 ### Vow of Mastery
 
