@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 55792
+revid: 55794
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -22,7 +22,9 @@ A collection of interactive Deepwoken maps (_markers are appreciated_; ensure th
 
 **Inside:**
 
-Map:Etrean Luminant Inside
+**Floor 0:**
+
+**Floor 1:**
 
 **Duke Erisia's Manor:**
 

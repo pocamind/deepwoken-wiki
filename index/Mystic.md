@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 55671
+revid: 55799
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -46,6 +46,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Charisma
 
 -   _I use the song to charm others. **(Charm Caster)**_
+-   I seek the qualities of Showboater. _**(Showboater; Unnecessary Theatrics)**_
 -   _I seek the qualities of Leader. **(Leader; Callout)**_
 -   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
 -   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
