@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 54723
+revid: 55859
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -45,16 +45,12 @@ Critical
 
 Jolt Grab
 
-or  
+ | Teleports to the nearest opponent before sending out a shocking AoE. | ? | ◯ | (★★☆) |
+| 
+
 Gale Lunge
 
-  
-
- | \[[Thundercall](Thundercall.md)\] Teleports to the nearest opponent before sending out a shocking AoE.
-
-\[[Galebreathe](Galebreathe.md)\] User lunges forward with their blade coated in wind.
-
- | ◯ | ◯ | (★★☆) |
+ | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 

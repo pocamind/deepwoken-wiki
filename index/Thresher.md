@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 47879
+revid: 55853
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ Mannn I hate livin' in Detroit on goddddd ”
+“ NOW TELL ME, WHICH ONE OF YOU MOTHERFUCKERS PUT URANIUM-235 IN MY FRAPPUCCINO?! ”
 
-― Authority captain before being ripped apart by a gang of Threshers
+― Nightmare Thresher
 
 **Thresher:**
 

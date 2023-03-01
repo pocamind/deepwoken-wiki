@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 52750
+revid: 55861
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -36,8 +36,10 @@ The color of a chest depends on where you got it from, consisting of four variat
 
 **Chest mimics** (more commonly known as **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
 
+-   [Megalodaunt](Megalodaunt.md)
 -   [Crimson Megalodaunt](Megalodaunt.md)
 -   [Alpha Megalodaunt](Megalodaunt.md)
+-   [Terrapod](Terrapod.md)
 -   [Thresher](Thresher.md)
 -   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
 

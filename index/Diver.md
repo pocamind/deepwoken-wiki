@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 55098
+revid: 55858
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]
@@ -58,7 +58,7 @@ Gale Lunge
 
 ### Boons
 
--   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+-   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 
 ## Finisher
 
@@ -73,4 +73,4 @@ A Diver executes it's opponent after knocking them:
 
 ## Trivia
 
--   Despite being completely identical to [apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.
+-   Despite being completely identical to [Apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.

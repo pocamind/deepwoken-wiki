@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 55355
+revid: 55856
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -47,6 +47,7 @@ _**(Work in progress, add more locations if you know any and remove this text wh
 -   Acting in ways he deems disrespectful will result in him refusing to sell items to you. This includes:
     -   Choosing the "Hey" option when speaking to him.
     -   Trying to buy something from him with not enough money.
+-   This character exist because running joke within the Rogue Lineage community about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) a meat vendor in Sentinel.
 -   Talking to The Meat Lord while possessing the vegetarian flaw will give you the dialogue option to tell him that you are a vegetarian, to which the meat lord will respond with "I don't remember asking."
 -   He sells the meat at very low prices, it is only 2 notes for an item.
 -   Stated by Par that The Meat Lord can no diff any Drowned God.\*

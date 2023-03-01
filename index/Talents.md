@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55775
+revid: 55852
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -186,9 +186,6 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
     -   Prerequisite: Power 11
--   Audacity \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 40s cooldown. (+1 Posture)
-    -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Prerequisites: 100 Charisma, 50 Strength
 
 ### Artisan
 
@@ -1659,6 +1656,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cheap Shot \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
     -   Prerequisite: 65 Agility
 
+### Tyrant
+
+-   Audacity \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 40s cooldown. (+1 Posture)
+    -   You create an AoE stun and slow around you when you start gripping someone.
+    -   Prerequisites: 100 Charisma, 50 Strength
+
 ### Undying Ember
 
 -   Denial Repulse \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
@@ -1770,6 +1773,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 75 in any Weapon Mastery attribute
 
 -   Matador \[Common Talent\] - Deal +20% more damage to enemies with hyperarmor.
+    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisite: 20 Strength, 5 Agility
 
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
