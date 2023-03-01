@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 55146
+revid: 55863
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -34,12 +34,12 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 
 1
 
- | 3 Day Namespace Block |
+ | 3 Days Namespace Block |
 | **Templates Misuse** | Using improperly templates across the Wiki. | 
 
 2
 
- | 3 Day Namespace Block (varies with intent) |
+ | 3 Days Namespace Block (varies with intent) |
 | **Irrelevant Blog Posts** | Creating blog posts that have no relevance to Deepwoken or the Wiki, made as a joke or without any actual scope. | 
 
 1
@@ -68,22 +68,22 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 | **Vandalism** | Editing a page with a clear intent of adding false or irrelevant information. | 
 None
 
- | 3 Week Namespace Block |
-| **Alt. Acc. Bypass** | Using an alternate account, during the time your main account is blocked. | 
+ | 3 Weeks Namespace Block |
+| **Farming** | Farming edits or posts with the sole scope of meeting a requirement, without actually contributing. | 
 
 None
 
- | 2 Weeks Extended Block |
+ | 3 Weeks Extended Block |
 | **Posting leaks** | Posting anything that isn't publicly released by the developers, such as screenshots from the game files. | 
 
 None
 
- | 3 Week Namespace Block |
+ | 3 Weeks Namespace Block |
 | **Repeated Light Offenses** | Repeating Light Offences. | 
 
 None
 
- | 3 Week Namespace Block |
+ | 3 Weeks Namespace Block |
 
 ## **Severe Offences**
 
@@ -92,12 +92,12 @@ None
 | **Multiple Irrelevant Pages** | Creating multiple irrelevant pages. | 
 None
 
- | 3 Month Namespace Block (varies with amount) |
+ | 3 Months Namespace Block (varies with amount) |
 | **Numerous Vandalisms** | Editing multiple pages with a clear intent to degrade the page. | 
 
 None
 
- | 3 Month Namespace Block (varies with amount) |
+ | 3 Months Namespace Block (varies with amount) |
 | **Multiple Irrelevant Images** | Adding multiple irrelevant images. | 
 
 None
@@ -107,23 +107,28 @@ None
 
 None
 
- | 3 Month Namespace Block (varies with amount) |
+ | 3 Months Namespace Block (varies with amount) |
 | **Advertising** | Post advertisements of any kind on the Wiki, unless they relate to the Wiki itself. (If they're about Deepwoken, contact a Bureaucrat) | 
 
 None
 
- | 5 Month Namespace Block (varies with amount) |
+ | 5 Months Namespace Block (varies with amount) |
 | **Repeated Moderate Offences** | Repeating Moderate Offences. | 
 
 None
 
- | 3 Month Namespace Block |
+ | 3 Months Namespace Block |
 
 ## **Extremely Severe Offences**
 
 | Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
+| **Alt. Acc. Bypass** | Using an alternate account, during the time your main account is blocked. | 
+None
+
+ | Permanent Extended Block |
 | **Pornography** | Adding explicit content to this wiki. This includes: images, videos, text, links, etc. | 
+
 None
 
  | Permanent Extended Block |

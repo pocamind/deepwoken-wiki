@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 55862
+revid: 55897
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -14,7 +14,7 @@ Kyrsan Medallions are an end-game currency that can be found in the Second Floor
 
 After entering Floor 2 you can find large pink [chests](Chests_&_Sacks.md) in random locations. These chests are increasingly common in New Kyrsa. There is a faint pink beam that indicates where these chests are (this isn't always visible). Each chest contains 4-7 medallions, and each chest will respawn in the same location after defeating the Floor 2 Boss: [Scion of Ethiron](Scion_of_Ethiron.md). Five chests spawn when you enter the second floor and (in theory) another five respawn after defeating the boss. You must successfully defeat the boss and **escape from the collapsing layer 2 via the Light Hook in the City** in order to keep any of the Medallions you find.
 
-Kyrsan Medallions are soft-capped at 52.
+Kyrsan Medallions are soft-capped at 99.
 
 ## Usage
 

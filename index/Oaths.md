@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55824
+revid: 55908
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -175,7 +175,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 “ Hippity Hoppity into my private property ”
 
-― A adret Visionshaper taking a young gremor freshie into there illusionary realm
+― A adret Visionshaper taking a young gremor freshie into their illusionary realm
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
