@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 54456
+revid: 55810
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Resonance, Skills]
@@ -27,7 +27,7 @@ When used, the user will leave a portal and be transported into the Distortion R
 
 Pressing C will activate the Dimensional Travel Resonance.
 
-When used, this ability will transport the user into the Distortion Realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. This cannot be used while in combat1, unless you have the second variant. Each step taken in the Distortion Realm equals around three steps taken in the Etrean Luminant or [The Depths](The_Depths.md).
+When used, this ability will transport the user into the Distortion Realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. This cannot be used while in combat, unless you have a resonance point rolled into "Used in combat". Each step taken in the Distortion Realm equals around three steps taken in the Etrean Luminant or [The Depths](The_Depths.md) depending on your resonance points rolled.
 
 #### Distortion Realm
 
@@ -40,7 +40,8 @@ When used, this ability will transport the user into the Distortion Realm known 
 
 When obtained, Dimensional Travel will spend its points on the following stats:
 
--   **Use in combat:** If this stat is used, this resonance can be used while in combat, do note this uses a hefty amount of points, leaving the Travel Distance as 2:1 or even 1.5:1.
+-   **Use in combat:** If this stat is used, this resonance can be used while in combat, do note this uses a hefty amount of points, leaving the Travel Distance as 2:1 or even 1.15:1. (Tested and confirmed)
+-   **Captivity:** The max amount of players that can enter the realm before the portal is shut early
 -   **Travel Speed:** The more points are spent on this stat, the faster players travels while inside the dimension.
     -   Faster travel means that the Dimension/Etrean Luminant distance ratio is amplified.
 
@@ -51,7 +52,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Gravity inside the Distortion Realm used to be reduced.
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
--   Recently, buildings have been found in the Distortion Realm.
--   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance
+-   There used to be a bug where buildings were been found in the Distortion Realm.
+-   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in a random direction while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”

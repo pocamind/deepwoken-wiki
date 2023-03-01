@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 55785
+revid: 55818
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1259,6 +1259,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   An application of the Song that allows the user to channel the Murmur into raw strength.
     -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
+    -   Ardour is "the only known Murmur capable of wounding \[an Edenkite\]" - ancient, giant, serpent-like creatures capable of flight. The two creatures' links - from Murmur to appearance - suggest further lore.
 -   Those who wield the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
     -   Focusing on the sounds of Ardour, whispers can be heard.
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
@@ -1271,7 +1272,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur.
--   Megalodaunts and Hive Constructs can somehow use its power.
+-   Alpha Megalodaunts and Hive Constructs can somehow use its power too.
 
 ### Whispers of Rhythm
 

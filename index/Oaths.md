@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55790
+revid: 55824
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -102,7 +102,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 “ They don't know I have Blindseer... ”
 
-― A Blindseer Vesperian strolling through Layer 1 as the Contractors descend into madness.
+― A Blindseer Vesperian with 102 Willpower strolling through Layer 1 as the Contractors descend into madness.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -173,9 +173,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ You are mine! ”
+“ Hippity Hoppity into my private property ”
 
-― A adret Visionshaper taking a gremor freshie into the illusionary realm
+― A adret Visionshaper taking a young gremor freshie into there illusionary realm
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -295,9 +295,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ It's galebreathing time. ”
+“ I'm running circles around you! ”
 
-― Jetstriker after they can't uncap agility with just stratos step.
+― A Tiran Jetstriker running from voidwalkers after getting 100 agility
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -530,7 +530,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
 5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrines of Order and Conceit. You will not be locked out of it if you use them though.
 6.  Unlock your [Resonance](Resonance.md).
-7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialouge doesn't require/use a wish.
+7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.
 
 ### Upgrading
