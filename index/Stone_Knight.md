@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 55544
+revid: 55845
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -78,7 +78,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 | **Wind Blade** | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
-**Terra Eruption**
+**Viribus**
 
  | Punches the ground, causing a pillar to erupt below the player.
 

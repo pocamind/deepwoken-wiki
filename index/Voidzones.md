@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 55519
+revid: 55840
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -26,6 +26,7 @@ While inside a Voidzone:
 -   Dying inside a Voidzone immediately sends the player to The Depths.
 -   Campfires only last up to 6 seconds.
 -   All healing sources have reduced effectiveness.
+-   Staying inside for too long causes the player to gain insanity and eventually have their head popped
 
 ## Voidzones
 

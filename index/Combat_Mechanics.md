@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 55533
+revid: 55843
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -147,7 +147,7 @@ _Understanding the essentials of how your characters inventory works can help yo
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="7">Carrying Capacity dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. The weight cap however does not stop you from picking up more items but punishes you for holding carrying any weight past the limit and <b>any items picked up past that point will be deleted upon leaving the server</b>. In addition, pushing the weight far enough past the maximum allowed will reach the absolute max carrying capacity which will not let you pick up any more items that will exceed that weight limit.</td>
+  <td colspan="7">Carrying Capacity dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. The weight cap however does not stop you from picking up more items but punishes you for holding carrying any weight past the limit by slowing down your movement and <b>any items picked up past that point or higher will be deleted upon leaving the server</b>. In addition, pushing the weight far enough past the maximum allowed will reach the absolute max carrying capacity which will not let you pick up any more items that will exceed that weight limit.</td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
@@ -188,7 +188,7 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits). Feinting has end-lag however and briefly disables your ability to make any attack. However, using a mantra during an M1 attack automatically feints the M1 straight into the mantra.<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you.</p></td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits). Feinting has end-lag however and briefly disables your ability to make any attack. However, using a mantra during an M1 attack automatically feints the M1 straight into the mantra.<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you. More on that, the most effective and basic instinct to a feint will be to roll the following attack.</p></td>
 </tr>
 <tr>
   <th>Dashing</th>
@@ -211,7 +211,10 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
   <th>Uppercut</th>
   <td>Performed by pressing <kbd>M1</kbd> while pressing <kbd>Ctrl</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack.<p>Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
   <p>Certain talents can also affect the potency of uppercuts.</p>
-  <p><b>Victims launched up by this attack will have highly increased trouble blocking and slightly increased trouble parrying.</b></p></td>
+  <p><u>Victims hit by this attack are unable to block and parry timing is seemingly more tight and precise which makes uppercuts play a big role in combos.</u></p>
+  <p>Missing an uppercut completely immobilizes you and leaves you vulnerable but you can usually parry or try an uppercut yet again (meaning you can spam uppercuts like you can spam M1 albeit slower) before full recovery.</p>
+  <p>If you land an uppercut against a dodge or block then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate which wouldn't work if you had done an M1 or any other attack because the game would automatically register your opponents hit over yours.</p>
+  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them against the floor which will proc any wall-bang related de-buffs as normal.</p></td>
   <td></td>
 </tr>
 </tbody>
@@ -251,7 +254,8 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 </tr>
 <tr>
   <th>Suffocate</th>
-  <td>Affected entities cannot use mantras for the duration of the effect. Shown as rings spinning around the victim's neck.<p>A common source is being hit by a Galebreathe Mantra</p></td>
+  <td>Affected entities cannot use mantras for the duration of the effect. Shown as rings spinning around the victim's neck.<p>A common source is being hit by a Galebreathe Mantra</p>
+  <p>Disables your opponents ability to play the game.</p></td>
 </tr>
 <tr>
   <th>Dazed</th>
@@ -270,7 +274,8 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time.</p></td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time. Spell feinting will <b>not</b> refund the ether cost.</p>
+  <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponents parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick mantras which easily overwhelms most unexperienced players thought process.</p></td>
 </tr>
 <tr>
   <th>Perfect Casting</th>

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 55692
+revid: 55836
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -669,7 +669,7 @@ File:Wind Gun with Blast Spark.gif
  | 
 
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of short-ranged wind bullets.
-    -   Do note that this Spark will override the effects of a Multiplying Spark.
+    -   Do note that this Spark will not override the effects of a Multiplying Spark as of 2/12/2023.
 
  |
 | 
@@ -828,7 +828,7 @@ File:Wind Gun with Multiplying Spark.gif
  | 
 
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range bullets instead of 1 long-range bullet.
-    -   Do note that this Spark will override the effects of a Blast Spark.
+    -   Do note that this Spark does not override the effects of a Blast Spark as of 2/12/2023.
 
  |
 | 
