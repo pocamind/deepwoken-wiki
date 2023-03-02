@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 55787
+revid: 55945
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -8,153 +8,182 @@ categories: [Attributes, Character, Mechanics]
 
 # Attributes
 
+“ You feel your ability in Willpower has potential. With the right equipment, you could draw it out... ”
+
+― Self
+
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased and unbounded to a max of 100. (102 if the race starts with 2 in that stat)
+**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +2 in that specific attribute), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 in that specific attribute) via an [unbound quest](Attributes_Unbound.md) for that attribute.
 
 ## Basic Attributes
 
-Attributes can be increased with investment points.
+Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+
+-   Strength -> _use the **Dumbbell**_
+-   Fortitude -> _take damage with the **Training Vest**/carry the **Boulder**_
+-   Agility -> use _the **Ankle Weights**_
+-   Intelligence -> _compete problems in the **Math Textbook**/use the **Encyclopedia**_
+-   Willpower -> _use the **Prayer Beads**_
+-   Charisma -> _recite the_ **How to Make Friends** _book_
 
 You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) you have) points on a character at [Power](Power.md) 20:
 
--   300 from levels
--   10 from attunement (Attunementless characters spawn in with 10 points to distribute)
--   4 from race
--   13 from character creation
--   1 from second Attunement (not required for all characters, but is set aside)
+-   300 from **levels**.
+-   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_
+-   4 from **race**.
+-   13 from **character creation**.
+-   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
-All attributes can be improved up to 75 points but may be unbounded to 100 once you [complete a quest](Attributes_Unbound.md) to unlock an attribute's full potential.
+_**NOTE: Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build) and [https://deepwoken-builder.vercel.app](https://deepwoken-builder.vercel.app). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.**_
 
-If your race happens to start with +2 in a given stat, the respective limits are 77 and 102 instead.
-
-Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build) and [https://deepwoken-builder.vercel.app](https://deepwoken-builder.vercel.app)
+_**NOTE 2: For unexperienced or new players: experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works, and learn from your voyages.**_
 
 ### Strength
 
--   Physical strength. Increases carry load, armor penetration, and the damage scaling of strength mantras.
+-   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
     -   Increases carry load by 1 per point in Strength.
     -   For every 10 Points of strength, gain 1% penetration.
--   Some weapons, such as Greatswords, have a Strength requirement to wield.
+    -   Many heavy weapons require an amount of Strength to be held, such as a _Petra's Anchor_ needing 10 STR, or a _Hivelord's Hubris_ needing 60 STR.
 -   Unlocks Strength-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Strength_Mantras).
--   Gain Strength EXP via cutting down trees, dealing damage, using the Boulder, parrying, or blocking.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking the coffin lid, and reading the journal.
+-   Gain Strength EXP via cutting down trees, using the Boulder (this will train your Fortitude at the same time), parrying, blocking, or dealing damage.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Strength_Unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking the coffin lid, and reading the journal.**_
 
 ### Fortitude
 
--   Resilience. Increases Health slightly.
-    -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
--   Defensive equipment, such as shields and helmets, may have a fortitude requirement to wield.
+-   Resilience against threats. _Increases **Health** slightly per point._
+    -   Adds 0.5 HP to your character for every Fortitude point.
+    -   100 Fortitude will grant you 50 HP.
+    -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
+        -   _These helmets tend to have better stats than those without a fortitude requirement._
 -   Unlocks Fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
--   Gain Fortitude EXP via taking damage and using the Boulder.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md) and letting him beat you up.
+-   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
 ### Agility
 
--   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
+-   Sleight of Hand and Nimbleness. _Increases **Parkour** and **Stealth** slightly per point._
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
+        -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
+            -   _This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent._
     -   Reduces the vision cone of NPCs and Monsters.
+    -   Parrying Daggers and Kyrstears have an agility requirement to wield.
 -   Unlocks Agility-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
--   Parry daggers (normal and Kyrs variant) have an agility requirement to wield.
--   Gain Agility EXP via parkour, assassinations, and successful dodges.
--   Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
-    -   This can be mitigated with the [Endurance Runner](https://deepwoken.fandom.com/wiki/Talents#Alley_Cat) talent.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).
-    -   You can watch a guide to get to the Windrunner with [Jetstriker](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Jetstriker) and 75 agility [here](https://youtu.be/RoDUDMDaK_g).
+-   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the Ankle Weights.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
+    -   _You can watch a guide to get to the Windrunner with [Jetstriker](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Jetstriker) and 75 agility [here](https://youtu.be/RoDUDMDaK_g)._
 
 ### Intelligence
 
--   Logic and problem-solving skills. Increases ether slightly per intelligence.
+-   Logic and problem-solving skills. _Increases **Ether** slightly per intelligence per point._
     -   One point in Intelligence gives 2 Ether every point.
--   Affects potion potency.
+    -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
--   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, or discovering new locations for the first time.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.
+-   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, and using either the Math Textbook or the Encyclopedia.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
 ### Willpower
 
--   Your character's mental integrity and ability to keep a steady mind. Increases sanity and tempo per willpower.
+-   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** per point._
     -   One point in Willpower gives +3 sanity and (Likely) +.5 tempo.
 -   Unlocks Willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
--   Gain Willpower EXP via foraging, fighting sea monsters, throwing up, losing sanity, and using prayer beads.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.
+-   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 
 ### Charisma
 
--   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
+-   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._
     -   One point in Charisma gives 1.5 ether.
--   Charisma can be used in certain dialogue checks that require charisma.
--   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
--   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at charisma level 33 and eagerly at charisma level 66.
--   [Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.
+    -   Charisma can be used in certain dialogue checks that require charisma.
+    -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
+-   Gain Charisma EXP by selling items and using the _How To Make Friends_ book.
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.**_
 
 ## Weapon Attributes
 
-These attributes can be improved up to 75, but completion of the quest [A Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) unbounds these attributes, allowing them to go from 75 up to 100.
+Weapon Attributes dictate proficiency with your given weapon, and can unlock weapon talents based on what weapon you are using. Below is the method of training, followed by specifics provided by each weapon type.
+
+-   Weapons -> _use the **Weapons Manual**_
 
 ### Heavy Weapons
 
 -   Increases your character's proficiency with heavy weapons -- this increases the extra damage dealt by your weapon's scaling.
--   Equipping better weapons of this class will require a higher point investment.
--   Unlocks heavy weapon related [talents](Talents.md) and a [mantra](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras).
-    -   Some weapon talents may require the use of a certain weapon type, being greataxes, greatswords, or greathammers.
+    -   Equipping better weapons of this class will require a higher point investment.
+    -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras).
+        -   Some weapon talents are locked to certain weapon types. For example, Greataxe talents differ from Greatsword talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
+-   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
 
 ### Medium Weapons
 
 -   Increases your character's proficiency with medium weapons -- this increases the extra damage dealt by your weapon's scaling.
--   Equipping better weapons of this class will require a higher point investment.
--   Unlocks medium weapon related [talents](Talents.md) and a [mantra](https://deepwoken.fandom.com/wiki/Attunement-less#Medium_Weapon_Mantras).
-    -   Some weapon talents may require the use of a certain weapon type, being swords, spears, or clubs.
+    -   Equipping better weapons of this class will require a higher point investment.
+    -   Unlocks medium weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Medium_Weapon_Mantras).
+        -   Some weapon talents are locked to certain weapon types. Spears are currently the only Medium in the game with talents-- correct if wrong/outdated.
 -   Gain medium weapons EXP by dealing damage with a medium weapon or parrying attacks.
+-   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
 
 ### Light Weapons
 
 -   Increases your character's proficiency with light weapons -- this increases the extra damage dealt by your weapon's scaling.
--   Equipping better weapons of this class will require a higher point investment.
--   Unlocks light weapon related [talents](Talents.md) and a [mantra](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras).
-    -   Some weapon talents may require the use of a certain weapon type, being daggers, fists, or guns.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
+    -   Equipping better weapons of this class will require a higher point investment.
+    -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras).
+        -   Some weapon talents are locked to certain weapon types. For example, Dagger talents differ from Fist talents, and cannot be used interchangeably.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
+-   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
 
 ## Attunement Attributes
 
 These attributes can be improved up to 75, but completion of Lord Regent's quest allow attributes that reached 75 to go up to 100.
 
+-   Flamecharm -> _use the **Hearthgem**_
+-   Galebreathe -> _use the **Gale Kata**_
+-   Thundercall -> _use the **Self-Conducting Loop**_
+-   Frostdraw -> _use the **Hemafrost**_
+-   Shadowcast -> _use the **Pure Heart**_
+
 ### Flamecharm
 
--   Increases damage scaling of Flamecharm mantras.
--   Unlocks [Flamecharm talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
--   Increases intensity of flames.
+-   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement Trainer](Attunement_Trainers.md).
+    -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
+    -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras or eating [Dying Embers](Dying_Embers.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
 
 ### Frostdraw
 
 -   Increases damage scaling of Frostdraw mantras.
--   Increases slow and freeze times of procced abilities.
--   Unlocks [Frostdraw talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
+    -   Unlocks [Frostdraw Talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
+    -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras or eating [Frigid Prisms](Frigid_Prism.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
 
 ### Thundercall
 
 -   Increases damage scaling of Thundercall mantras.
--   Lengthens the stun caused by attacks.
--   Unlocks [Thundercall talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
+    -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
+    -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras or eating [Spark Glands](Spark_Gland.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
 
 ### Galebreathe
 
 -   Increases damage scaling of Galebreathe Mantras.
--   Unlocks [Galebreathe talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
+    -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
+    -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate- which comes under specific circumstances._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras or eating [Gale Stones](Gale_Stone.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
 
 ### Shadowcast
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
--   Increases duration of blindness afflicting abilities.
--   Unlocks [Shadowcast talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
+    -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
+    -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
 
 ## Tips
 
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough EXP to increase a stat, but not enough to level up.
--   Make sure to be leveling up all of your stats at the same time for faster leveling and better talents.
+-   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better talent~s _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
+-   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above- as well as having quicker access to those cards._

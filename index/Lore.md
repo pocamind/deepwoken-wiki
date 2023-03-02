@@ -1,12 +1,14 @@
 ---
 title: Lore
-revid: 55818
+revid: 55924
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
 ---
 
 # Lore
+
+_This page is a collection of Lore in the game, if you are looking for Books, visit [this page](Books.md)._
 
 “ Who would've thought, that the sea would forget us so easily? ”
 

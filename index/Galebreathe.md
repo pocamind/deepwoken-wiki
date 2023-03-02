@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 55473
+revid: 55936
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -227,6 +227,7 @@ _A powerful wind blast._
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
+-   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
  |
 |  | 

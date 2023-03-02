@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 48011
+revid: 55931
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -30,6 +30,8 @@ Once a boat has been purchased and isn't destroyed, you can deploy a boat at any
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
 You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
+
+Boat :)
 
 | Image | Boat | Details |
 | --- | --- | --- |
