@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55852
+revid: 55991
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -57,6 +57,10 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 
 ### Acrobat
 
+-   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
+    -   The speed boost is represented by a red glow around the player's eyes.
+    -   Prerequisite: 5 Agility
+
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
     -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
     -   Prerequisite: Time To Go
@@ -73,10 +77,6 @@ The Wildcard slot is a slot that any Mantra can be placed in - support, mobility
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
-
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
-    -   The speed boost is represented by a red glow around the player's eyes.
-    -   Prerequisite: 5 Agility
 
 ### Aerial Dancer
 
@@ -298,14 +298,11 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
+-   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+    -   Prerequisite: 15 Agility
+
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
     -   Prerequisites: 15 Agility, Swift Rebound
-
--   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
-    -   Provides I-frames for the duration of the invisibility (3 seconds)
-    -   Has a 9 second cooldown
-    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
-    -   Prerequisites: 40 Agility, All Butterfly talents
 
 -   Risky Moves \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
@@ -313,8 +310,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Agility
     -   Mutual Exclusive: Observation, Safety Dance
 
--   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Prerequisite: 15 Agility
+-   Ghost \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
+    -   Provides I-frames for the duration of the invisibility (3 seconds)
+    -   Has a 9 second cooldown
+    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
+    -   Prerequisites: 40 Agility, All Butterfly talents
 
 ### Caster
 
@@ -340,6 +340,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Champion
 
+-   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
+    -   Prerequisite: 50 Willpower
+
 -   Champion's Regalia \[Rare Talent\] - Flourishing an opponent grants you 50% extra posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
     -   Does not work on non humanoid monsters.
@@ -348,9 +351,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
     -   The Innate talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs instead of status effects.
-
--   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
-    -   Prerequisite: 50 Willpower
 
 ### Charm Caster
 
@@ -400,10 +400,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Critical Specialist
 
--   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
-    -   While the effect is active, gain a red trail on your weapon.
-    -   Prerequisite: Knife's Journey
-
 -   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers. (+2 Health)
     -   Crit procs are rolled for each individual target, not per swing.
     -   Crit procs are indicated by a red visual effect.
@@ -411,6 +407,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
         -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
     -   Prerequisite: 30 Light Weapon Mastery
+
+-   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
+    -   While the effect is active, gain a red trail on your weapon.
+    -   Prerequisite: Knife's Journey
 
 -   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 200% damage to armor.
     -   Prerequisite: Knife's Journey
@@ -840,7 +840,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
-    -   Whenever an M1 touches an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds;
+    -   Whenever an M1 touches an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds
     -   Do not proc/works in people in the same guild as your.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and the [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
@@ -993,9 +993,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Justicar
 
--   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
-    -   Prerequisites: Jus Karita and Swiftkick Prodigy
-
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Jus Karita style](Fists.md).
     -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
@@ -1007,11 +1004,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
     -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.
         -   This effect can only happen every 10 seconds.
-    -   Prerequisite: Jus Karita
+        -   Prerequisite: Jus Karita
 
 -   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff. (+2 Health, +1 Posture)
     -   Hitting your opponent with the M1s 3 times will grant you a speed boost.
     -   Prerequisite: Jus Karita
+
+-   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
+    -   Prerequisites: Jus Karita and Swiftkick Prodigy
 
 ### Lancer
 
@@ -1234,10 +1234,10 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Omniscient
 
+-   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
+
 -   All Knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity)
     -   Prerequisites: 60 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
-
--   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
 
 -   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
@@ -1250,10 +1250,10 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Prospector
 
--   Excavator \[Common Talent\] \[Quest Talent\] -Chance to receive two sets of ore when mining, mine ores a lot faster.
-    -   Prerequisite: Turn in 5 pure ores at a blacksmith.
-
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
+
+-   Excavator \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
+    -   Prerequisite: Turn in 5 pure ores at a blacksmith.
 
 ### Public Figure
 
@@ -1264,7 +1264,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher.
     -   Prerequisite: 40 Charisma
 
--   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher
+-   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher.
     -   Prerequisites For All: Charisma
 
 ### Puppet Master
@@ -1282,15 +1282,15 @@ These are just raw stat increases and are beneficial to anyone.
 -   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
 
--   Million Ton Piercer \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether)
-    -   Prerequisites: 90 Strength, Bulldozer, Shield Breaker, Unwavering Resolve (All Raging Bull Talents)
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
+    -   Prerequisite: 40 Strength
 
 -   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+4 Carry Load, +1 Posture)
     -   Prerequisite: 60 Strength
-    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
+    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield
 
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
-    -   Prerequisite: 40 Strength
+-   Million Ton Piercer \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether)
+    -   Prerequisites: 90 Strength, Bulldozer, Unwavering Resolve, Shield Breaker (All Raging Bull Talents)
 
 ### Rampant Static
 
@@ -1299,35 +1299,35 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Saboteur
 
+-   Family Recipe \[Common Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)
+-   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force.
+    -   Prerequisite: Family Recipe
+
 -   And They'll Be Dust \[Common Talent\] - Bombs will deal increased damage to burning enemies
     -   Prerequisite: Incendiary Formula
 
 -   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intesity)
     -   Prerequisite: Incendiary Formula
 
--   Family Recipe \[Common Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)
+-   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
+    -   Prerequisite: Incendiary Formula
 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intesity, +6 Pasive Agility)
     -   Prerequisite: Family Recipe
 
--   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force.
-    -   Prerequisite: Family Recipe
-
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
     -   Prerequisite: Hot Potato
--   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
-    -   Prerequisite: Incendiary Formula
 
 ### Saint of Blades
-
--   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
-    -   Prerequisite: 75 Heavy Weapons Mastery
 
 -   Light Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
     -   Prerequisite: 75 Light Weapons Mastery
 
 -   Medium Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
     -   Prerequisite: 75 Medium Weapons Mastery
+
+-   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
+    -   Prerequisite: 75 Heavy Weapons Mastery
 
 ### Scholar of the Cloud
 
@@ -1410,16 +1410,16 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
-    -   Suffocation prevent the victim from casting mantras and deal damage overtime.
-    -   Prerequisites: Silencer's Edge and Silencer's Blade
+-   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
+    -   Prerequisite: 60 Galebreathe
 
 -   Silencer's Blade \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
     -   Prerequisites: 60 Galebreath, [Power](Power.md) 10, Silencer's Edge
 
--   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
-    -   Prerequisite: 60 Galebreathe
+-   A World Without Song \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
+    -   Suffocation prevent the victim from casting mantras and deal damage overtime.
+    -   Prerequisites: Silencer's Edge and Silencer's Blade
 
 ### Silvertongue
 
@@ -1447,12 +1447,18 @@ Prerequisite: Charisma
 ### Soverign of Slaughter
 
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
-    -   Prerequisite: Speak to Yamaketzal.
+    -   Prerequisite: Speak to Yamaketzal
 
 ### Static Weaver
 
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
     -   Prerequisite: Discovery of Fire
+
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
+    -   Prerequisites: 40 Thundercall, 15 Intelligence
+
+-   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
+    -   Prerequisite: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Prerequisite: Static Link, 20 Fortitude
@@ -1460,17 +1466,11 @@ Prerequisite: Charisma
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
     -   Prerequisite: Static Link, 65 Thundercall
 
--   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   Prerequisite: 40 Thundercall, 15 Intelligence
-
 -   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link. (+4 Ether, +4 Reservoir)
     -   Prerequisite: Static Link, 70 Thundercall
 
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link, 50 Thundercall
-
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
-    -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 ### Stormblade
 
@@ -1552,15 +1552,15 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
     -   Prerequisite: Agitating Spark, 75 Flamecharm
 
--   Exploding Mirage Clone \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
-    -   Prerequisite: Mirage Clone
-    -   Cooldown: 9 Seconds
-
 -   Mirage Clone \[Rare Talent\], Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
     -   Uses 15 Ether and does not proc if you don’t have enough Ether
     -   Prerequisite: 60 Flamecharm
     -   Cooldown: 8 Seconds
+
+-   Exploding Mirage Clone \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
+    -   Prerequisite: Mirage Clone
+    -   Cooldown: 9 Seconds
 
 ### The Negotiator
 
@@ -1573,9 +1573,6 @@ These Talents are designed to let you survive longer against starvation and thir
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
-    -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
-
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
     -   Prerequisite: 25 Agility, 5 Charisma
@@ -1585,6 +1582,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
     -   Prerequisites: 5 Agility, 10 Charisma
+
+-   Another Man's Trash \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
+    -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
 
 ### Thunder Brawler
 
@@ -1668,12 +1668,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   When Flame of Denial activates, release an explosion around you..
     -   Prerequisite: Flame of Denial
 
+-   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
+    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
+
 -   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
-
--   Undying Flame \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
 ### Vigil Swordsman
 
@@ -1712,6 +1712,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Vow of Mastery
 
+-   Vow of Mastery \[Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
+    -   Players who take the vow are considered allies with their master and others who take the vow.
+    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate"
+    -   Prerequisite: 20 Charisma
+
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
@@ -1735,11 +1740,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Command: Sacrifice \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Takes the hp of a servant until you are full hp
-
--   Vow of Mastery \[Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
-    -   Players who take the vow are considered allies with their master and others who take the vow.
-    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate"
-    -   Prerequisite: 20 Charisma
 
 ### Warrior
 

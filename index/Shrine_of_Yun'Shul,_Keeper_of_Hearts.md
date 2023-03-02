@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 53795
+revid: 55980
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -42,7 +42,7 @@ If you meet all the criteria, you are able to make one of five wishes:
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path"**
     -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled). Gives your Resonance the Tarnished flaw.
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled however the varient of the resonance might change so if you had physical [Sacred Field](Sacred_Field.md) you will get mantra). Gives your Resonance the Tarnished flaw.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 55931
+revid: 55996
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -10,7 +10,7 @@ notices:
 
 # Ships & Sailing
 
-Boats and ships are the main method of transportation in Deepwoken which is used to get to different islands throughout the map. There are three seas, The Etrean, [The Aratel Sea](The_Aratel_Sea.md), and [The Voidsea](Voidsea.md). There are currently 6 ships which are:
+Boats and ships are the main method of transportation in Deepwoken which is used to get to different islands throughout the map. There are three seas, The Etrean Sea, [The Aratel Sea](The_Aratel_Sea.md), and [The Voidsea](Voidsea.md). There are currently 6 ships which are:
 
 -   Dinghy
 -   Sloop
@@ -27,53 +27,57 @@ The Shipwright
 
 Once a boat has been purchased and isn't destroyed, you can deploy a boat at any jettison post. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts can be found on the beaches of islands and appear as a small wooden post.
 
+Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be found in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md). Repair hammers can repair the boat at any time, only if you have wood on you. In repairing a boat a certain amount of times you'll get the talents [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md). Though wearing the [Brigand Bicorn](<Brigand's_Bicorn.md>) also grants you those talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
+
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
 You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
 
-Boat :)
+**Boat :)**
+
+(Parenthesis means Celtor's Buffs)
 
 | Image | Boat | Details |
 | --- | --- | --- |
 |  | Dinghy | Price: 0 Notes (Free)
-300 Health
+300 Health (330 Health)
 
 You can only have 1 Dinghy.
 
  |
-|  | Sloop | Price: 50 Notes
+|  | Sloop | Price: 50 Notes (40 Notes)
 
-600 Health
+600 Health (660 Health)
 
  |
-|  | Schooner | Price: 500 Notes
+|  | Schooner | Price: 500 Notes (400 Notes)
 
-2000 Health
+2000 Health (2200 Health)
 
 4 Cannons
 
  |
-|  | Merchant Schooner | Price: 1000 Notes
+|  | Merchant Schooner | Price: 1000 Notes (800 Notes)
 
-3000 Health
+3000 Health (3300 Health)
 
 4 Cannons
 
 Lantern (Rest/Respawn Point)
 
  |
-|  | Frigate | Price: 2000 Notes
+|  | Frigate | Price: 2000 Notes (1600 Notes)
 
-5000 Health
+5000 Health (5500 Health)
 
 6 Cannons
 
 Lantern (Rest/Respawn Point)
 
  |
-|  | Ironclad | Price: 6000 Notes
+|  | Ironclad | Price: 6000 Notes (4800 Notes)
 
-10000 Health
+10000 Health (11000 Health)
 
 20 Cannons
 

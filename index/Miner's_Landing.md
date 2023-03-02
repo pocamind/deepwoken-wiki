@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 54967
+revid: 55988
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -45,7 +45,7 @@ The town is one of the main parts of Miner's Landing. Buildings throughout the t
 
 Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder Oath](Oaths.md#oatharcwarder). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
-You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth and Fiber.
+You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth, Fiber, an Axe, and Pickaxe.
 
 ## **Upper Landing**
 

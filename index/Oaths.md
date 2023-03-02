@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 55978
+revid: 56004
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -119,7 +119,7 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM)._
 
-To obtain the Blindseer Mantras, you need to help players with no Oath (AKA Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5.
+To obtain the Blindseer Mantras, you need to help players with no Oath (AKA Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. Also get a passive talent after 4 trials.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
@@ -173,7 +173,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ Hippity Hoppity into my private property ”
+“ Domain Expansion.. ”
 
 ― A adret Visionshaper taking a young gremor freshie into their illusionary realm
 
@@ -517,9 +517,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ Well time to get ganked by 20 people because of my choices ”
+“ Ah sh\*t, here we go again ”
 
-― Vesperian going to the depths for the contractor moves.
+― Contractor user entering duke's manor.
 
 ### Obtainment
 
