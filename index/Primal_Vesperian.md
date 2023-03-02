@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 54002
+revid: 55949
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Exclusive Races]
@@ -16,7 +16,7 @@ Template:Races-Main
 
 ## Description
 
-An alternate version of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
+An alternate version (subrace) of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
 
 _This is not an entirely different race in and of itself, more so a racial variant with special properties._
 

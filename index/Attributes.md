@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 55945
+revid: 55951
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -134,7 +134,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 ## Attunement Attributes
 
-These attributes can be improved up to 75, but completion of Lord Regent's quest allow attributes that reached 75 to go up to 100.
+Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
 
 -   Flamecharm -> _use the **Hearthgem**_
 -   Galebreathe -> _use the **Gale Kata**_

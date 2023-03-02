@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 55794
+revid: 55963
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -25,6 +25,14 @@ A collection of interactive Deepwoken maps (_markers are appreciated_; ensure th
 **Floor 0:**
 
 **Floor 1:**
+
+**Floor 2:**
+
+**Tomb of the Nameless Warrior:**
+
+**L0:**
+
+**L1:**
 
 **Duke Erisia's Manor:**
 
