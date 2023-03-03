@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 51284
+revid: 56109
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -23,6 +23,7 @@ Chili is a Crow [Tiran](Tiran.md) that appears in [Merchant Schooners](Ships_&_S
 The prices of Chili's items may vary from price to price.
 
 -   **Food:**
+    -   Mushroom Bisque
     -   Egg Omelette
     -   Fish Omelette
     -   Seafood Boil
@@ -33,16 +34,20 @@ The prices of Chili's items may vary from price to price.
 -   **Weapons:**
     -   [Whaling Knife](Whaling_Knife.md)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
+    -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
+    -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Iron Birch](Iron_Birch.md)
+    -   [Darksteel Greatsword](Darksteel_Greatsword.md)
     -   [Inquisitor Straight Sword](<Inquisitor's_Greatsword.md>)
     -   [Great Maul](Great_Maul.md)
-    -   [Tanto](Tanto.md)
 -   **Armors:**
+    -   [Authority Helm](Authority_Helm.md)
+    -   Imperial Pauldrons
     -   Winter Corps Parka
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
+    -   Hive Siege Cuirass
     -   [Woodland Boots](Woodland_Boots.md)
-    -   [Authority Helm](Authority_Helm.md)
 -   **Lore Books:**
     -   Refer this page instead: [Lore Books](Books.md)
 

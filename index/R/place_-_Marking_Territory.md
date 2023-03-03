@@ -1,6 +1,6 @@
 ---
 title: "R/place - Marking Territory"
-revid: 47649
+revid: 56101
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community Compositions]
@@ -17,6 +17,8 @@ The glory of the deepwoken community.
 # What is r/place?
 
 r/place is a community event that Reddit does near April Fool's Day. r/place is basically a large canvas full of creativity of the four million redditors that participated in this amazing event. A breathtaking amount of hard work, artwork, and recognition was put into this.
+
+r/place
 
 # Timeline:
 

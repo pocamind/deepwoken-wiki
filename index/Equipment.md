@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 55645
+revid: 56102
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -3606,4 +3606,4 @@ Chests from:
 -   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.
 -   Legendary Rings can be easily obtained by killing the Ancient Rotlands angels near the 2nd spawn of [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher)
 -   Poser's Ring cannot be dropped as it will be soulbounded to your character.
--   Regarding the rare rings that spawn in the [Ancient Rotlands](Ancient_Rotlands.md), Im not telling you were this is.
+-   There is a secret location in the [Ancient Rotlands](Ancient_Rotlands.md), where deep [Angels](Hollow_Angel.md) spawn and killing them give you a chest with full legendary rings.

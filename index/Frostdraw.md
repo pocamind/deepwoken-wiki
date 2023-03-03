@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 54941
+revid: 56089
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -363,7 +363,7 @@ _Skate freely on paths of ice._
 
 -   Knocked players cannot be held while this mantra is active.
 -   The rare "Frozone" talent allows the user to cast this mantra anywhere
-    -   This includes the [First Layer](First_Layer.md).
+    -   This includes the [First Layer](First_Layer.md) and the [Second Layer](Second_Layer.md).
 
   
 

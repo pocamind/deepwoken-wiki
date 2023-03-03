@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 56031
+revid: 56093
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,7 +30,7 @@ They are extremely intelligent, capable of tool use and combat ability. The make
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★☆☆) SHUT THE FUCK UP AAHAHAHHAHAHAHAAHAHAHAHAHAHAHAHA |
+| **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★☆☆) |
 | **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
 | **Flip- Kick** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
 | **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |

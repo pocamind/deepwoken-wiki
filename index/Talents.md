@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56076
+revid: 56127
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -846,7 +846,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
-    -   Whenever an M1 touches an enemy (block/dodge/parry/hit), disable every source of healing for 8 seconds
+    -   Whenever you land an M1, disable every source of healing for 8 seconds
     -   Do not proc/works in people in the same guild as your.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and the [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
@@ -860,7 +860,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Brick Wall \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-    -   Reduce knockdowns (like heavy weapon crit) duration by 30%.
+    -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 ### Hunter
