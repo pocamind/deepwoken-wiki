@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 55615
+revid: 56012
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items, Harvestables]
 
 # Ores
 
-## Description
+## tom bDescription
 
 Ores are materials found all around the map, usually in caves. It is used for crafting various armor and traded for chests. They can be harvested with a pickaxe by pressing E on them.
 
@@ -32,7 +32,7 @@ Used for crafting certain armors, comes in glimmering yellow. Found in the [Song
 
 **Erisore:**
 
-Used for crafting certain armors, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md) and the inside of Tomb of the nameless warrior.
+Used for crafting certain armors, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 Sells for 15 Notes.
 

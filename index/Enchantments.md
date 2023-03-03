@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 55812
+revid: 56014
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -8,7 +8,14 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 # Enchantments
 
-**Enchantments** are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
+**Enchantments** are rare and powerful upgrades for your equipment.
+
+## Acquirement
+
+-   You can get an enchanted gear in any chest.
+-   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new one on your desired [weapon](Weapons.md).
+-   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
+-   Using an enchantment stone to get a desired enchantment that you can get for 5 [Krysan Medallions](Kyrsan_Medallions.md).
 
 ## Mechanics
 

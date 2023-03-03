@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 55934
+revid: 56006
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -20,7 +20,7 @@ _It is not your time, yet. **Rise.**_
 
 Obtaining a **Resonance** will also allow the opening of [doors](https://deepwoken.fandom.com/wiki/Resonance#Rerolling_&_Resonance_Doors) around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well as lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", an NPC that many would deem important in most progressions.
 
-_**NOTE: Resonances cannot be used in 1v1's of the [Chime of Conflict.](Chime_of_Conflict.md)**_
+_**NOTE: Resonances cannot be used for 1v1's in [Chime of Conflict.](Chime_of_Conflict.md)**_
 
 ## Overview
 

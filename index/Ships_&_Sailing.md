@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 55996
+revid: 56007
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -27,7 +27,7 @@ The Shipwright
 
 Once a boat has been purchased and isn't destroyed, you can deploy a boat at any jettison post. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts can be found on the beaches of islands and appear as a small wooden post.
 
-Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be found in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md). Repair hammers can repair the boat at any time, only if you have wood on you. In repairing a boat a certain amount of times you'll get the talents [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md). Though wearing the [Brigand Bicorn](<Brigand's_Bicorn.md>) also grants you those talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
+Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair hammers can repair the boat at any time, only if you have wood on you. In repairing a boat a certain amount of times you'll get the talents [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md). Though wearing the [Brigand Bicorn](<Brigand's_Bicorn.md>) also grants you those talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
 
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
