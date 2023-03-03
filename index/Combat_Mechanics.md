@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 55843
+revid: 56058
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -162,22 +162,24 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 <tr>
   <th>Attack</th>
   <td>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever hits unless they parry, block or perfect dodge your attack.<p>In the case of getting your attack blocked, your attack will still deal damage in the form of "Posture damage", taking account into your weight rather than your base damage</p>
-  <p>When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modify your flourish in different ways, from blurring someone's screen when they get pushed into a wall, burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well. Flourishes cannot be feinted normally and you must use a mantra to feint it.</p></td>
+  <p>When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modify your flourish in different ways, from blurring someone's screen when they get pushed into a wall, burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well. Flourishes cannot be feinted normally and you must use a mantra to feint it.</p>
+  <p>Hitting or parrying opponents applies stun which lowers their movement speed, disables their rolling, ability to attack and nullifies the hitbox of any current mantras they are casting despite the continuing animation and visual effects.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Critical Attacks</th>
-  <td>Critical Attacks, or "Crit" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel (Yes you can do that)).<p>Crits are primarily used to deal greater posture damage than an <kbd>M1</kbd> with the intent to fill the posture bar of the target. Crits range from lunging to multi-hit to even giving you hyperarmor (A period where you do not take stun) and launching your opponent away. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
+  <td>Critical Attacks, or "Crit" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel (Yes you can do that)).<p>Crits are primarily used to deal greater posture damage than an <kbd>M1</kbd> with the intent to fill the posture bar of the target. Crits range from lunging to multi-hit to even giving you hyperarmor (A period where you do not take stun) and launching your opponent away. <b>MASS MAJORITY OF CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Pressing <kbd>F</kbd> causes your character to prepare themselves for a short timeframe. Enemies hitting you during this timeframe causes them to be parried, causing them to lose balance and take posture damage, as well as reducing your posture on a successful parry. Parrying has a 1.4 second cooldown, so don't spam it, and instead, hold <kbd>F</kbd> in cases where you are not confident that your parry would parry.</td>
+  <td>Pressing <kbd>F</kbd> causes your character to prepare themselves for a short timeframe. Enemies hitting you during this timeframe causes them to be parried, causing them to lose balance and take posture damage, as well as reducing your posture on a successful parry. Parrying has a 1.4 second cooldown, so don't spam it, and instead, hold <kbd>F</kbd> to block any imminent damage you'd take for missing the parry whether by your reaction or prediction.<p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown. It's also possible to attack during it's auto-parry frames but this is difficult to do safely.</p>
+  <p>Parrying will negate all attacks (except for some monster attacks), even if they come from behind your character.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Blocking</th>
-  <td>By holding the <kbd>F</kbd> key, your character braces for multiple attacks, using your posture rather than your health if you were hit during the block. If you are hit, your block is disabled and you'll be forced to parry instead (Or Vent by pressing <kbd>G</kbd>).<p>Be careful when blocking, as it doesn't cover your back.</p></td>
+  <td>By holding the <kbd>F</kbd> key, your character braces for multiple attacks, using your posture rather than your health if you were hit during the block. If you are hit, your block is disabled and you'll be forced to parry instead (Or Vent by pressing <kbd>G</kbd>).<p>Blocking only shields you from attacks in front of you. You can still get hit from behind or even the sides unless you parry which stops attacks regardless of where you're facing.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -188,7 +190,8 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits). Feinting has end-lag however and briefly disables your ability to make any attack. However, using a mantra during an M1 attack automatically feints the M1 straight into the mantra.<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you. More on that, the most effective and basic instinct to a feint will be to roll the following attack.</p></td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponent's block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) before your <kbd>M1</kbd>'s hitbox appears (AKA the frame where it hits). Feinting has end-lag however and briefly disables your ability to make any attack. However, using a mantra during an M1 attack automatically feints the M1 straight into the mantra.<p>There is a talent where you get stunned instead if you are hit after you feint. Use feints sparingly, and don't overuse them, as people can get a rhythm on your feints and gain an upper hand on you. More on that, the most effective and basic instinct to a feint will be to roll the following attack.</p>
+  <p>Alternatively you can intentionally miss an attack which spares you of the cooldown. This is potentially really viable or very foolish and dangerous. Up to you to find out.</p></td>
 </tr>
 <tr>
   <th>Dashing</th>

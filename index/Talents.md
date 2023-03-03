@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 55991
+revid: 56038
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -8,13 +8,20 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-Press Ctrl + F to search talentsTemplate:DWI Talents
+**Press Ctrl + F to search talents.**
+
+-   Input the talent name to find the specific talent and its requirements.
+    -   _(i.e "Orbital Ice" to find the things you need to obtain it)_
+-   Input an investment number along with its attribute to find talents that require that many points in that attribute.
+    -   _(i.e "40 Agility" to find talents that require 40 investment points placed into Agility)_
+
+Template:DWI Talents
 
 ## Overview
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive two to three hands containing five to six Talent Cards.
+**Talents** are the main aspect of your character's build. When you power up, you'll receive two to three hands containing five to six Talent Cards.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold.
+There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -30,18 +37,17 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 -   A high enough Power.
     -   Thresher Claws requires a [Power](Power.md) 13 as a prerequisite.
 
-Some talents are **mutually exclusive** with other talents, meaning picking one talent will remove the other talent from your talent pool. However, if you use the Shrine of Chance to remove the talent, the other talent returns to your talent pool. The known mutually exclusive pairs are:
+Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
--   _Everchanging Aegis_ and _Return to the Dark Ages_.
--   _Risky Moves_ and _Safety Dance_.
--   _Risky Moves_ and _Observation_.
--   _Conditioned Runner_ and _Fishman_.
--   _Eruption Path: Lava Serpent_ with _The Final Act_.
--   _Orbital Ice_ with _Fist of Fortitude_.
+_When it comes to mutually exclusive talents, you can have either:_
 
-Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements.
+-   _Everchanging Aegis_ **or** _Return to the Dark Ages_.
+-   _Risky Moves_ **or** _Safety Dance/Observation._
+-   _Conditioned Runner_ **or** _Fishman_.
+-   _Eruption Path: Lava Serpent_ _**or** The Final Act_.
+-   _Orbital Ice_ **or** _Fist of Fortitude_.
 
-The Wildcard slot is a slot that any Mantra can be placed in - support, mobility, combat, whatever it may be. Be mindful of it.
+Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
 ### **Card Terminology**
 

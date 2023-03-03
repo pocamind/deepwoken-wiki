@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 55936
+revid: 56040
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mantras, Attunement]
 
 # Galebreathe
 
-“ Your ability to call upon the wind, and control the air around you. ”
+“ Who the hell said wind is green? God? ”
 
 ― Flavor Text
 
@@ -260,7 +260,7 @@ _A rapid delivery of consecutive attacks._
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to make each hit take longer to come out; possibly messing up the opponent's parry timing.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to make each hit take longer to come out; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
 
  |
 
@@ -776,3 +776,5 @@ FROM: Inhale
 -   **Wind Blade** with it's talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
 -   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
+-   The wind phantom from "_Haunted Gale_" mantra appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
+-   "_Tempest Wind_" is deceptively useful in the fact that it allows a ranged mantra to excel at close range. Although it's not a direct upgrade to uppercut due to how difficult it is to use. Though there is one effective method of using it is simply jumping during your slide before casting it which will propel you forward and easily rush down your opponent. There is another useful but difficult technique to pull off. To do this, you must slide jump and immediately M1 which will keep "_Tempest Wind_" active long enough for you to cast it after the M1. Alternatively you can cast it early in order to feint the M1 but due to the low windup of "_Tempest Wind_" it's very difficult to parry or punish unless it's used by itself. Though letting the arial M1 hit and then casting it is very powerful because it leaves no room for counter-attack after blocking or rolling the M1 but this is negated by parries.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 56006
+revid: 56044
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -36,7 +36,7 @@ _**NOTE: Resonances cannot be used for 1v1's in [Chime of Conflict.](Chime_of_Co
 
 ### Normal Resonances
 
-**Normal Resonances**, or just **Resonances**, are the original versions of each **Resonance**, and the most common to find. They do not have any buffs or debuffs compared to sub-category **Resonances**, but they are still susceptible to being a variant.
+**Normal Resonances** are the original versions of each **Resonance**. They do not have any extra buffs or debuffs compared to sub-category **Resonances** such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
 
 _(From data of 100 rerolls, the calculated chance of getting a normal **Resonance** was 92% (276/300, almost guaranteed per reroll))_
 
@@ -46,8 +46,8 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 
 Known side-effects include:
 
--   **SHORT-CIRCUIT:** On use, player will be set on ablaze.
--   **MEGALOMANIA:** Per use, player will fall deeper into insanity.
+-   **SHORT-CIRCUIT:** On use, player will be set ablaze.
+-   **MEGALOMANIA:** On use, player will fall deeper into insanity.
 -   **EROSION:** On use, player will have exactly 10% taken from their health.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
@@ -55,7 +55,9 @@ Downsides do not appear to be correlated to any **Resonances**, meaning any **Re
 -   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Erosion**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
 -   Some talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
 
-In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity. All **Corrupted Resonance effects** are listed in their corresponding **Resonance** page.
+In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
+
+All **Corrupted Resonance effects** are listed in their corresponding **Resonance** page.
 
 _(From data of 100 rerolls, the calculated chance of getting a **Corrupted Resonance** was 4% (1.333% per card))_
 
@@ -83,7 +85,11 @@ All **Tarnished Resonance effects** are listed in their corresponding **Resonanc
 
 ## Obtaining
 
-### Progress & Nature of Your Soul
+Obtaining your **Resonance** is judged by how far your character has come in terms of fighting experience- typically through Bosses (see below), [Mobs](Monsters.md), or Players. Conquering Bosses is the most common way for people to gain Progress (see below) and eventually unlock their **Resonance**, as many of them have a strong connection with the Song in some way, shape, or form.
+
+_If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- and [**please visit his page**](Sibex.md) to understand what you must do with him, as well as how to interpret what he tells you._
+
+### The Path- Progress & Nature of Your Soul
 
 The main factor in obtaining a **Resonance** is _how far you are in the hidden stat known as **Progress**_ (commonly referred to by the community as "bell prog"). There are many ways to obtain Progress, and the most effective ways can vary from character to character- which can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your **Resonance**.
 
@@ -164,15 +170,9 @@ Finally, just because you have one Nature, doesn't mean you cant do the other Na
 
  |
 
-### Obtaining Your Resonance
+### Collision with Fate- Achieving your Resonance
 
-Optionally, talk to [Sibex](Sibex.md) until he tells you these lines:
-
--   **[Sibex](Sibex.md):** "Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. "
-
-**_Note: This does not mean that you are guaranteed to obtain your Resonance, for extra safety it is recommended to defeat a boss or two._ Also, doing the Sibex "quest" is** **not necessary to obtain a Resonance-- it only provides your current position on the roadmap.**
-
-You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate.
+**NOTE: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate.**
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 
