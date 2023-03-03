@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 52421
+revid: 56067
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -14,9 +14,9 @@ notices:
 
 -   **Isle of Crows -** Shown in the Deepwoken Direct, Isle of Crows was an island with good deal of NPCs. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
 -   **Original Meteor Isle -** Even though [Meteor Isle](Meteor_Isle.md) was re-added, it is in a much more muffled capacity than it used to be. It originally was a medium sized island, which featured a good stream of monsters, being very useful to gain EXP, with many monsters like [Enforcers](Enforcer.md), [Megalodaunts](Megalodaunt.md), and even [Primadon](Primadon,_Titan_of_the_East.md). It also presumably had more NPCs and quests.
--   **Iron Fist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
+-   **Ironfist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
--   **Unknown Mountainous Region -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
+-   **Unknown Mountainous Region (The Seranece Mountains?) -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 
 ## Quests
 
@@ -104,6 +104,7 @@ notices:
 
 ## Other
 
+-   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was possibly the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **Sacks** **\-** Craftable a short time after release but then shadow removed, due to it being 'useless'. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.

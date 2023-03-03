@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56038
+revid: 56076
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -97,25 +97,26 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Automatically ends after 5 seconds.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
+-   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
+    -   Prerequisite: Wind Step
+
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: Galetrap
+
+-   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
+    -   Prerequisite: 15 Galebreath, Gale Punch
 
 -   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: 25 Galebreathe
 
--   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 35 Galebreath, Suffocating Impact
-
--   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
-    -   Prerequisite: Wind Step
-
--   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-    -   Prerequisite: Suffocating Impact
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
 
--   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
-    -   Prerequisite: 15 Galebreath, Gale Punch
+-   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisite: 35 Galebreath, Suffocating Impact
+
+-   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+    -   Prerequisite: Suffocating Impact
 
 ### Alchemist
 
@@ -139,19 +140,18 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Alley Cat
 
--   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
-    -   After you don't take damage for 3 seconds, gain 300% health regen while running.
-    -   Prerequisites: All Alley Cat talents
-    -   Mutual Exclusive: Fishman
+-   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
+    -   The enemy must not be in combat to trigger this effect.
+    -   Prerequisite: 5 Agility
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
-    
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
-    -   The enemy must not be in combat to trigger this effect.
-    -   Prerequisite: 5 Agility
+-   Conditioned Runner \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+    -   After you don't take damage for 3 seconds, gain 300% health regen while running.
+    -   Prerequisites: All Alley Cat talents
+    -   Mutual Exclusive: Fishman
 
 ### Amoran Seeker
 
@@ -213,10 +213,10 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Athlete
 
+-   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
+
 -   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: 5 Strength, 5 Agility
-
--   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
 
 ### Authority Interrogator
 
@@ -1582,6 +1582,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Cancelled by pressing \[R\] again.
     -   Prerequisite: 25 Agility, 5 Charisma
+    -   Literally the most entertaining talent in the game. Suggest getting it just for its organic and extremely wacky interactions with mantras. This talent will let you experiment and experience new possibilities or even techniques.
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma

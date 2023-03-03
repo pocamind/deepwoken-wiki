@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56033
+revid: 56073
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -533,6 +533,8 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.
+
+_Upon obtaining this oath, four black puppet-esque strings will embed themselves into your arms. Additionally, your iris' will become a very dark red, making your expression appear almost empty and devoid of empathy._
 
 ### Upgrading
 
