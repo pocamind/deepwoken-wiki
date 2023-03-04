@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 53352
+revid: 56174
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -21,6 +21,8 @@ It's sometimes mused that the greed, excess and petty politics of those in this 
 ## Overview
 
 Section of The City of the Drowned distinguished by its rocky yellow-topped buildings. Here, you can find the Shadow trainer and common places to barrel-up to enter the Cathedral of Interstice from above.
+
+There is an NPC here that will give you a random item for a deepgem.
 
 ## Potential Enemies
 

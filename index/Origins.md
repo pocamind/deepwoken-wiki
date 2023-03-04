@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 55622
+revid: 56172
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -61,10 +61,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
-    -   Nautilodaunt (commonly called Squibbo) can also spawn in the Depths trial.
--   **\[CON\]** You cannot do the Trial of One.  
-    
--   NOTE: Highly recommended that you do not pick the Vegetarian Flaw if you're going Deepbound. (No vegetarian foods available in the depths, so leveling will be the only way to regen hunger.)
+    -   A Nautilodaunt may spawn in the Depths trial.
+-   **\[CON\]** You cannot do the Trial of One.
 
 ## Voidwalker
 
