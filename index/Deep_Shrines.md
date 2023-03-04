@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 55778
+revid: 56133
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -98,14 +98,18 @@ Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus'
 _Benefits/Penalties_
 
 -   **(BENEFIT)** _Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here_
--   **(PENALTY)** _Lose 5 Knowledge & 1 Talent (of your choice)_
+-   **(PENALTY)** _Lose 5 Knowledge if trading Common/lose 10 Knowledge if trading Rare & swap 1 Talent (of your choice)_
 
 _Pros/Cons_
 
 -   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20. Also lets you change your build if a once good talent is nerfed. E.g. Finesse used to give +5 Health, but was stripped of it when merged with Now You See Me.
 -   Advanced talents can be obtained through this if you have all the required cards even by rerolling a common card, and if you trade in a rare card, you will get choices of only rare cards(might be less than 3 if less than 3 available from attributes), and if you trade in a common card, you will only get common card choices.
 -   The cost of 5 Knowledge is hefty, so only go for it if you really want to reroll a talent card.
--   Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
+    
+    File:Legendary Roll.png
+    
+    Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
+-   _**You can get Legendary talents if you have all the needed requirements. Simply trade a common card, and you will get your Legendary in return.**_
 
   
 
