@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 55804
+revid: 56152
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -16,7 +16,7 @@ Chance of obtaining race: **0%**
 
 ## Description
 
-A dragon race of some sort.
+A race of nomadic dragons.
 
 ## Racial Traits
 
@@ -26,16 +26,18 @@ A dragon race of some sort.
   <td>File:Flame Icon.png</td>
   <td><b>Teachings of the Edenkite</b>
   <ul>
-    <li><i>Unknown description</i></li>
-    <li>Works similar to the Produce Spark <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a>, except it produces a white flame (cosmetic)</li>
+    <li><i>"Find your centre."</i>
+  <ul>
+    <li>Functionally identical to the <a href="https://deepwoken.fandom.com/wiki/Talents#Flamecharmer">Produce Spark</a> <a href="Talents.md">talent</a>, except it produces a white flame (cosmetic).</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Fortitude</li>
     <li>+2 Agility</li>
+    <li>+2 Fortitude</li>
   </ul></td>
 </tr>
 </tbody>
@@ -46,7 +48,6 @@ A dragon race of some sort.
 **Lore:**
 
   
-Unknown
 
 **Strengths:**
 
@@ -64,13 +65,17 @@ Unknown
 
   
 
+## Known Users
+
+Punchee
+
 ## Trivia
 
--   Awarded to Moderators for their help.
+-   Awarded to “moderators and VERY active testers” (stated by Punchee)
     
-    A moderator being invited to become the Drakkard race.
+    The Drakkard prompt.
     
--   Nuttoons' used to be the only person with this race prior to it's release for the moderators. Back then it had a talent Drakeflame, only one variant which is now removed and no horns.
+-   Nuttoons' had an early version of the race prior to it's release. Early version had talent named Drakeflame, had no horns and was identical to Tiran's cardinal variant.
 
 <table>
 <tbody>
