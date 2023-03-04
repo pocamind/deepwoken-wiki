@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56127
+revid: 56171
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -745,6 +745,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frozen Legs \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: 60 Frostdraw
+    -   Does not work with Crystallization
 
 ### Gale Duelist
 
@@ -883,6 +884,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
     -   Prerequisite: 25 Frostdraw
+    -   Works with Crystallization
 
 -   Frozen Pin-Cushion \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
@@ -894,9 +896,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 50 Frostdraw, 20 Willpower
 
 -   Saint Jay \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
-    -   Saint Jay last for double the duration of Chill.
-    -   If using Glass Path: Crystallization, Saint Jay is active for 2 seconds when a crystal is applied.
-    -   Prerequisite: Frostbite.
+    -   Saint Jay last for double the duration of Chill
+    -   ̶I̶f̶ ̶u̶s̶i̶n̶g̶ ̶G̶l̶a̶s̶s̶ ̶P̶a̶t̶h̶:̶ ̶C̶r̶y̶s̶t̶a̶l̶l̶i̶z̶a̶t̶i̶o̶n̶,̶ ̶S̶a̶i̶n̶t̶ ̶J̶a̶y̶ ̶i̶s̶ ̶a̶c̶t̶i̶v̶e̶ ̶f̶o̶r̶ ̶2̶ ̶s̶e̶c̶o̶n̶d̶s̶ ̶w̶h̶e̶n̶ ̶a̶ ̶c̶r̶y̶s̶t̶a̶l̶ ̶i̶s̶ ̶a̶p̶p̶l̶i̶e̶d̶ Saint Jay does not work with Crystallization (TESTED)
+    -   Prerequisite: Frostbite
 
 -   Shatter Spear \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   Prerequisites: Ice Lance, 70 Frostdraw.

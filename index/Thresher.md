@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 55977
+revid: 56158
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -133,3 +133,4 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 ## Trivia
 
 -   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice.
+-   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.

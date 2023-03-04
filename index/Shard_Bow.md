@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 55720
+revid: 56165
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -19,33 +19,33 @@ categories: [Pages with broken file links, Resonance]
 
 ## Description
 
-**Shard Bow,** also called Stormtrooper Bell, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Shard Bow,** also called Stormtrooper Bell, is a [Resonance](Resonance.md) that players can obtain, and is **common** to roll.
 
 ### _Appearance_
 
-User is launched backwards and summons a white bow that shoots explosive arrow(s) at the cursor.
+User summons a shimmering-white bow and kicks off of the floor, firing explosive arrow(s) at the cursor from midair.
 
 ## Usage
 
-Pressing C will activate the "Shard Bow" Resonance.
-
-You will summon a white bow before shooting out an arrow(s).
+**Pressing C will activate the "Shard Bow" Resonance.**
 
 Both variants have complete penetration (100% PEN), meaning that no armor outfit would reduce the damage from being shot by Shard Bow.
 
 ### _Versions_
 
+File:Shard bow.gif
+
 #### _Variants_
 
--   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. ~Does 25% flat damage, regardless of their HP.~ This is false, as i tested it on multiple people and it did 50% of a freshie's hp and only did 10% of dmg to a person with 460 hp, which proves that the shard bow doesn't do percent dmg
+-   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. Damage can vary between bow users and their opponents.
 
--   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
+-   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 
-Does ~47 (46.75) damage per shot with Rapid Fire variant. Up to further experimentation, may scale off a stat not displayed. It is also affected by a talent named “Wyvern’s Claw”, greatly increasing the damage.
+_**It is also affected by a talent named “Wyvern’s Claw”, greatly increasing the damage.**_
 
 #### _Corrupted_
 
-Leap backwards and upwards further before firing the arrows. (Not that great, considering the Corrupted downsides)
+Leap much higher and further before firing the arrows. Only really useful in a mobility sense, as you will only be gaining additional vertical play.
 
 #### _Tarnished_
 
@@ -57,7 +57,4 @@ Startup of jumping up into the air when shooting is a bit longer.
 -   It heavily depends on the talents and the other variables, meaning that it’s hard to account how much damage it does.
 -   Reference to _The Stormlight Archive_'s Shardbows
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts"
--   can be dodged or parried
-    
-
-File:Shard bow.gif
+-   Can be dodged/parried.
