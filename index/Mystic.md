@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 55937
+revid: 56177
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -68,6 +68,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am an expert on ether. **(Ether Adept)**_
 -   _I am all knowing. **(Omniscient; All knowing, Successive Prediction)**_
 -   _I sabotage others. **(Saboteur)**_
+-   _I am an artist. **(Artisan)**_
 
 ### Strength
 

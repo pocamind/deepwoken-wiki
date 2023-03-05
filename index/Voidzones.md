@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 55840
+revid: 56187
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -144,7 +144,7 @@ While inside a Voidzone:
 
 **Rewards:** Brilliant & Empyrean Lotuses, Eggs
 
-### **The Entropy Catalyst**
+### **[The Entropy Catalyst](The_Entropy_Catalyst.md)**
 
 “ The machina hisses ominously against the nature surrounding it, standing to protest against life itself. ”
 
@@ -152,6 +152,6 @@ While inside a Voidzone:
 
 **Location:** Eastern Luminant- To the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
 
-**Dangers: Not Explored**
+**Dangers: None**
 
-**Rewards: Not Explored**
+**Rewards: Erisore**

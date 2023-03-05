@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coral
-revid: 50567
+revid: 56179
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,6 +10,6 @@ categories: [Items]
 
 Megalodaunt Coral
 
-Used to obtain Coral Spear \[Monster Mantra\] by talking to Carrion, Father of Evolution in [Castle Light](Castle_Light.md) with a Coral Spear.
+Used to obtain Coral Spear \[Monster Mantra\] by talking to [Carrion](Carrion,_Father_of_Evolution.md), Father of Evolution in Layer 2, with a Coral Spear.
 
 It is obtained by killing [Megalodaunts](Megalodaunt.md) with a low chance. The coral will drop near its body.

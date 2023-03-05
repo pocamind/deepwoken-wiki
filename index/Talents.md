@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56171
+revid: 56188
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -322,7 +322,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
     -   Prerequisites: 40 Agility, All Butterfly talents
 
-### Caster
+### Adept Caster
 
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.

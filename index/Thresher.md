@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 56158
+revid: 56184
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,7 @@ categories: [Monsters]
 
 # Thresher
 
-“ NOW TELL ME, WHICH ONE OF YOU MOTHERFUCKERS PUT URANIUM-235 IN MY FRAPPUCCINO?! ”
-
-― Nightmare Thresher
+whigga
 
 **Thresher:**
 
