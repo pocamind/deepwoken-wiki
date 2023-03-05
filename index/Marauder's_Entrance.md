@@ -1,8 +1,9 @@
 ---
 title: "Marauder's Entrance"
-revid: 56181
+revid: 56219
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Marauder's Entrance

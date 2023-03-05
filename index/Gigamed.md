@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 54909
+revid: 56218
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -49,7 +49,7 @@ Gigantic, Purple versions of normal gigameds, Found in the _**[The Depths](The_D
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dogeable? | Danger |
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | 
 Summon Gigameds

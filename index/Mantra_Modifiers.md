@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 55993
+revid: 56217
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -863,6 +863,22 @@ File:Shade Devour with Multiplying Spark.gif
 
 -   This modifier causes the "Shade Devour" mantra to perform 3 shockwaves instead of 1.
     -   Can be paired with a Blast Spark.
+
+ |
+| 
+
+Eclipse Kick
+
+(★★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier makes Eclipse Kick perform a kick that dazes, even on block or dodge.
+    -   If this lands, Eclipse Kick can be casted again to perform the regular attack.
 
  |
 
