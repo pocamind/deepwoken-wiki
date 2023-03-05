@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56211
+revid: 56212
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -182,7 +182,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Prerequisite: 10 Strength & 5 Willpower
+    -   Prerequisite: 5 Strength & 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)

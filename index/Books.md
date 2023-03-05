@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 55905
+revid: 56213
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -20,7 +20,7 @@ File:Adret reading.png
 
 A lone adret reading Diver Journal 2
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Currently, all books have the sole purpose of providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading.
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Currently, Upon opening a book, player's are given a small sum of experience. Besides that, books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading.
 
 File:Group reading.png
 

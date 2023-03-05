@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 56058
+revid: 56214
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -163,7 +163,9 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
   <th>Attack</th>
   <td>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever hits unless they parry, block or perfect dodge your attack.<p>In the case of getting your attack blocked, your attack will still deal damage in the form of "Posture damage", taking account into your weight rather than your base damage</p>
   <p>When 4 hits are swung consecutively without pauses, your character Flourishes. This causes the target hit to be launched away from you, essentially preventing an infinite combo. Many talents modify your flourish in different ways, from blurring someone's screen when they get pushed into a wall, burning someone and even causing an explosion, to outright instant-killing someone when they have their HP cleared as well. Flourishes cannot be feinted normally and you must use a mantra to feint it.</p>
-  <p>Hitting or parrying opponents applies stun which lowers their movement speed, disables their rolling, ability to attack and nullifies the hitbox of any current mantras they are casting despite the continuing animation and visual effects.</p></td>
+  <p>Hitting or parrying opponents applies stun which lowers their movement speed, disables their rolling, ability to attack and nullifies the hitbox of any current mantras they are casting despite the continuing animation and visual effects.</p>
+  <p>Performing an M1 while running forces your character to run forward and strike with increased range but stops your character in place after and has increased end-lag and slightly increased windup. Spammable. This cannot be feinted by pressing M2 and requires a mantra to be used during it to feint it.</p>
+  <p>You are also able to "Lunge" at people during M1's. To do this you have to begin running during an M1 which will increase your speed for the duration of your M1 as signaled by the wind trails left on your limbs. Suggested to only use this when necessary as attempting to press M1 and then W2x may put extra physical strain which will make it harder to perform other actions unless you are used to the button combo.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -185,7 +187,9 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 <tr>
   <th>Venting</th>
   <td>When the player has at least 40 tempo (indicated by a small notch on the tempo bar), pressing <kbd>G</kbd> will make the player Vent.<p>Venting pushes others nearby away and grants a brief period of invincibility, which allows the player to get out of tricky situations (such as being combo'd or being overcrowded).</p>
-  <p>If the Vent doesn't push anyone back (Or if it's blocked or parried), you will be stunned in place, unable to do anything. This allows enemy counterattacks (And if your vent is parried, allows them to style on you) or even taunt you to get some HP and posture back)</p></td>
+  <p>If the Vent doesn't push anyone back (Or if it's blocked or parried), you will be stunned in place, unable to do anything. This allows enemy counterattacks (And if your vent is parried, allows them to style on you) or even taunt you to get some HP and posture back)</p>
+  <p>You are able to vent while assassinated (knocked over), very important to know so that you aren't easily brutalized by assassin builds with ease.</p>
+  <p>You can NOT vent while block broken.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -212,9 +216,10 @@ _Remember when fighting, the game isn't primarily about dealing overall damage t
 </tr>
 <tr>
   <th>Uppercut</th>
-  <td>Performed by pressing <kbd>M1</kbd> while pressing <kbd>Ctrl</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack.<p>Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
+  <td>Performed by pressing <kbd>M1</kbd> while pressing <kbd>Ctrl</kbd>. Once hitting an entity, both you and the entity will be launched up into the air. Aerial attacks will not work and you will stall in the air when you attack. Cannot be feinted.<p>The hitbox effects a small area around you, not requiring you to face your opponent but to be in the effective range of your victim as the move forces your character forward.</p>
+  <p>Has its own windup regardless of weapon attack speed, useful for Heavy users. Entities do not get launched up if they are too large (Stone Golems, Megalodaunts, Stone Knights etc).</p>
   <p>Certain talents can also affect the potency of uppercuts.</p>
-  <p><u>Victims hit by this attack are unable to block and parry timing is seemingly more tight and precise which makes uppercuts play a big role in combos.</u></p>
+  <p><u>Victims hit by this attack are unable to block and parry timing is seemingly more tight and precise which makes uppercuts play a big role in combos.</u> Although the user also has to act quickly as arial combos keep both users afloat only while the victim is suffering from stun. Merely feinting is enough for you to drop the combo.</p>
   <p>Missing an uppercut completely immobilizes you and leaves you vulnerable but you can usually parry or try an uppercut yet again (meaning you can spam uppercuts like you can spam M1 albeit slower) before full recovery.</p>
   <p>If you land an uppercut against a dodge or block then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate which wouldn't work if you had done an M1 or any other attack because the game would automatically register your opponents hit over yours.</p>
   <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them against the floor which will proc any wall-bang related de-buffs as normal.</p></td>
