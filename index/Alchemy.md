@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 51333
+revid: 56198
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -89,7 +89,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 
 -   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds.
 
--   Bamboo Bundle - Primary effect is **Appalling**; Instantly drains Reservoir. Secondary effect is **Steadfast**; Increases maximum Posture.
+-   Bamboo Bundle - Primary effect is **Appalling**; Instantly drains ether. Secondary effect is **Steadfast**; Increases maximum Posture.
 
 -   Beeswax - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is unknown.
     -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from Plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
@@ -151,8 +151,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Potion<br>
   Blight</td>
   <td>Bamboo Bundle</td>
-  <td>Unkown</td>
-  <td>Used to affect resevoir. No idea what it's used for as of the Verse 2 update.</td>
+  <td>Instantly decrease ether</td>
+  <td></td>
 </tr>
 <tr>
   <td><b>Soothing</b></td>

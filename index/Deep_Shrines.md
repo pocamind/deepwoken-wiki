@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56182
+revid: 56203
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -110,6 +110,7 @@ _Pros/Cons_
     
     Rerolling a talent card you have rerolled using the shrine previously will cause the knowledge cost to be higher (for example, rerolling a card for a second time costs 10 knowledge instead of the usual 5).
 -   _**You can get Legendary talents if you have all the needed requirements. Simply trade a common card, and you will get your Legendary in return.**_
+-   _**You can get [Murmur](Murmur.md) talents. Go to [Mystic](Mystic.md) and select "I speak to the depths/deep".**_
 
   
 

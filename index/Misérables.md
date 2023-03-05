@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 54979
+revid: 56195
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -52,7 +52,7 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 
 1.  I'm interested.
 
-"Very well. Show me your bounty then, friend. **Ten will do.** If you lack the coin, or claim to, I'll simply search for it within your dear spine. Pray, you wouldn't want that, no? Show me your bounty." (He say Ten but its actually 5 Medallions).
+"Very well. Show me your bounty then, friend. **Five will do.** If you lack the coin, or claim to, I'll simply search for it within your dear spine. Pray, you wouldn't want that, no? Show me your bounty."
 
 1.  Nevermind, maybe later.
 2.  Here are the coins. (**5 Kyrsan Medallions**)

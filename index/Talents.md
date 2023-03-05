@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56188
+revid: 56211
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -182,7 +182,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 -   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Prerequisite: 5 Strength & 5 Willpower
+    -   Prerequisite: 10 Strength & 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)
@@ -361,21 +361,22 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Charm Caster
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
--   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
-    -   Prerequisite: 25 Charisma
-
--   Dazing Finisher \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisites: Charismatic Cast, Lasting Charisma, Tough Love, Morale Booster, Chaotic Charm
-
--   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
-    -   Prerequisite: 55 Charisma, Charismatic Cast
 
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
 
+-   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
+    -   Prerequisite: 25 Charisma
+
+-   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
+    -   Prerequisite: 55 Charisma, Charismatic Cast
+
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you.
     -   Prerequisite: 25 Charisma, Charismatic Cast
+
+-   Dazing Finisher \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Prerequisites: Chaotic Charm, Morale Booster, Charismatic Cast, Lasting Charisma, Tough Love
 
 ### Cloudwalker
 
@@ -444,17 +445,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryoni
 
--   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisite: Fragile Freeze, 20 Fortitude.
-
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
 
--   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
-    -   Prerequisite: Ice Beam, 60 Frostdraw.
+-   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
+    -   Prerequisite: Fragile Freeze, 20 Fortitude.
 
 -   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
     -   Prerequisite: Cryostasis
+
+-   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
+    -   Prerequisite: Ice Beam, 60 Frostdraw.
 
 ### Cutthroat
 
