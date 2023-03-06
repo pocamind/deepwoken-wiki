@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 55561
+revid: 56299
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -8,9 +8,16 @@ categories: [Pages with broken file links, Items, Gems]
 
 # Deep Gems
 
-**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but this is much less consistent and rarer than the other two methods. You get Deep Gems more often from the Depths than from Primadon or the Duke, especially from chests spawned from [Enforcers](Enforcer.md) or [Nautilodaunts](Nautilodaunt.md) during [Hell Mode](Hell_Mode.md). They can also be obtained as a reward from the [Halloween](Hallowtide.md) Event for 15 Joy.
+**Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost.
 
-~You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you _do_ kill it quickly~ Needs to be proven.
+Deep Gems can be obtained from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
+-   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)
+-   [Hell Mode](Hell_Mode.md) completion chest (guaranteed)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (guaranteed)
+-   [Scion of Ethiron](Scion_of_Ethiron.md) (guaranteed)
+-   Randomly bought for 15 Joy at the Floating Keep (limited to the Hallowtide seasonal event)
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
@@ -24,14 +31,14 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
   <th>Effect</th>
 </tr>
 <tr>
-  <td></td>
+  <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>
   <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a short timeframe will have a <s>25%</s> <b>50%</b> windup reduction.</td>
+  <td>The next Mantra you cast within a short timeframe will have a 25% windup reduction.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>Heals user by 50% of the damage dealt by the Mantra.<p>Reduces damage of mantra by 20%.</p></td>
+  <td>Heals user by 50% of the damage dealt by the Mantra. Healing is reduced against multiple targets.<p>Reduces damage of mantra by 20%.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -41,7 +48,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
-  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.</td>
+  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provide a tangible effects to mantras that do not hit enemies.</p></td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>

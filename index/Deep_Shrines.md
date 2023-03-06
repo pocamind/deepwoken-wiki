@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56241
+revid: 56297
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -171,5 +171,3 @@ _Pros/Cons_
 -   The Shrines are most notably references to another Roguelike, the Risk Of Rain series. Such as the Shrine of Order and Shrine of Chance preform similar to said shrines in Risk of Rain 2.
 -   You do not need to deal with the Shrines of Conceit or Order for the contractor quest.
 -   Deep shrines most likely have something to do with [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>), due to the deep shrines in the [Temple Of Hearts](Temple_of_Hearts.md), the fact that you can make deals with the deep shrines, Similarly to Yun'shul.
-
-File:RIPOrder.png

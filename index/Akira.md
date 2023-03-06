@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 56230
+revid: 56317
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -77,9 +77,11 @@ After this you are able to talk to Akira, in which he has two different conversa
 > 
 > Talking to him in a separate event after already talking to him:
 > 
-> 1.How often does this sort of stuff happen?
+> Akira: Please don't disturb my reading.
 > 
-> Akira: More often than you'd expect..
+> 1.  Does this kind of thing happen often or something?
+> 
+> Akira: More than you know.. more than you know.
 
 **Castle Light**
 

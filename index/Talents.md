@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56226
+revid: 56316
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -456,6 +456,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Preceding Chill \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam, 60 Frostdraw.
+    -   Does not work with Crystallization.
 
 ### Cutthroat
 

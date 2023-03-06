@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56227
+revid: 56313
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1597,7 +1597,13 @@ Makes usually parry breaking moves parryable.
 
 _Disappears on death or leaving the game._
 
- | Summer Isle | N/A |
+ | 
+
+Other sources:
+
+-   Buying from store on [Summer Isle](Summer_Isle.md)
+
+ | N/A |
 |  | 
 
 Novice Brace
@@ -1694,21 +1700,6 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
-| File:Black Fur Pauldrons.png | 
-
-Black Fur Pauldrons
-
- | 
-
-Grants a random buff.
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
-
- | N/A |
 | File:Blacksteel Pauldron.png | 
 
 Blacksteel Pauldrons
@@ -1774,6 +1765,22 @@ Chests from:
 -   [Erisia](Erisia.md)
 
  | N/A |
+| File:Black Fur Pauldrons.png | 
+
+[Fur Pauldrons](Fur_Pauldrons.md) (**Series**)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | Black & White |
 |  | 
 
 Gladiator Pauldrons
@@ -1958,22 +1965,6 @@ _+2 Posture_
 Chests from:
 
 -   [Fort Merit](Fort_Merit.md)
-
- | N/A |
-| File:Whitefurpauldrons.png | 
-
-White Fur Pauldrons
-
- | 
-
-Grants a random buff.
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
 
  | N/A |
 |  | 
@@ -2770,7 +2761,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  |
-| [Isshin's Ring](<Isshin's_Ring.md>) | 
+|  | 
 
 Isshin's Ring
 

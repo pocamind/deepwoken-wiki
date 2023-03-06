@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56073
+revid: 56314
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -297,7 +297,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 “ I'm not going to sugarcoat it. ”
 
-― A Tiran Jetstriker running from voidwalkers after getting 100 agility
+― A Tiran Jetstriker running from voidwalkers after getting 102 Agility.
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -466,7 +466,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ### Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot. When you have a slot with this oath, your race name will have "arcwarder" title after it.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 **Dawnwalker:**
 
@@ -497,6 +497,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness.
 
 ### Notes
 

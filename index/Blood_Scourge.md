@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 55967
+revid: 56303
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -43,4 +43,3 @@ When obtained, Blood Scourge will spend its points on the following stats:
 
 -   The Blood Scourge Resonance does NOT give you I-frames while doing the animation, you can get cancelled while doing it if other players/NPCS attack you.
 -   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage.
--   This resonance reveals the lude \*BwaamSChlOSChwASChOrSChorSchloorp\* aggressive slurp sound that emits when someone is hollowed out by a chaotic energy.
