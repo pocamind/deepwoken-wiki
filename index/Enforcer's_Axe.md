@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 54040
+revid: 56269
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]

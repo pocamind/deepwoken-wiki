@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 53171
+revid: 56270
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -17,6 +17,8 @@ Although not fully considered an enemy until you provoke them or approach them w
 Etrean Guardsmen wear an Unknown outfit with their race being [Etreans](Etrean.md) along with their gender varying.
 
 ## Moveset
+
+An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [Ritual Spear](Ritual_Spear.md) or [Mace](Mace.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

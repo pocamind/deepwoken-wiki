@@ -1,9 +1,9 @@
 ---
 title: Forgotten Villager
-revid: 50496
+revid: 56288
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs]
+categories: [Pages with broken file links, Enemies, NPCs]
 ---
 
 # Forgotten Villager
@@ -41,5 +41,9 @@ A Forgotten Villager executes their opponent after knocking them:
 | Execute | Pins down opponent before firmly bashing their face in. |
 
 ## Trivia
+
+File:Forgotten Villager Event Chest.png
+
+Location of the chests' spawn after completing the event
 
 -   Taking a knocked one to [Alastir](Alastir.md) will result in no reaction.

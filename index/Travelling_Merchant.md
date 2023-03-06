@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 56109
+revid: 56285
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -52,6 +52,8 @@ The prices of Chili's items may vary from price to price.
     -   Refer this page instead: [Lore Books](Books.md)
 
 ## Trivia
+
+Chili's Ship
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
