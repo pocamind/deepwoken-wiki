@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 56217
+revid: 56244
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -32,8 +32,8 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 **Note**: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts. These numbers would be appreciated.
 
-| Image | Modifier | Effect | Notes |
-| --- | --- | --- | --- |
+| Image | Modifier | Effect | Notes | Drops |
+| --- | --- | --- | --- | --- |
 | File:Cloudstone HD.png | 
 Cloudstone
 
@@ -50,6 +50,13 @@ Cloudstone
 -   Projectiles lose distance.
 -   Compatible with the "Ice Lasers" mantra for a unique effect.
 
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+
  |
 | File:Stratus.png | 
 
@@ -64,6 +71,12 @@ Stratus Stone
  | 
 
 -   Increases mantra/hitbox size.
+
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
 
  |
 |  | 
@@ -82,6 +95,13 @@ Crystal Lens
 -   Increases range of projectiles, and the targeting range of auto-aim moves.
 -   If the mantra is not a projectile, the hitbox/aim assist area size is reduced instead.
 
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+
  |
 |  | 
 
@@ -96,6 +116,12 @@ Perfect Lens
  | 
 
 -   Increases range of Projectiles and targeting range of auto-aim moves.
+
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
 
  |
 |  | 
@@ -115,6 +141,13 @@ Aeon Logstone
 -   Add 1 key to Ritual Casts.
     -   Doesn't increase the duration of Adrenaline Surge.
 
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+
  |
 |  | 
 
@@ -130,6 +163,12 @@ Eternal Logstone
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
+
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
 
  |
 | File:Drift & Rush shard.png | 
@@ -150,6 +189,13 @@ Shard
 -   Projectiles go further
 -   Repeating mantras (ex; Lightning Assault) perform their loops/repeated actions quicker.
 
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+
  |
 | File:Drift & Rush shard.png | 
 
@@ -157,14 +203,20 @@ Rush Shard
 
  | 
 
-+3 Speed  
++3 Speed
 
-+14% Ether Cost
++14% Ether Cost  
 
  | 
 
 -   Projectiles go further
 -   Repeating mantras (ex; Rapid Punches(no longer works)) perform their loops/repeated actions quicker.
+
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
 
  |
 |  | 
@@ -178,6 +230,14 @@ Removes all Modifiers on a Mantra.
  | 
 
 -   Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
+
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+-   All Mudskipper Variants
 
  |
 |  | 
@@ -194,13 +254,16 @@ Stone
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
--   Crafted with Cloudstone and Crystal lens.
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  | 
 
 -   Compatible with the "Glacial Arc" mantra for a unique effect.
     -   Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
+
+ | 
+
+-   Crafted with a Cloudstone and Crystal lens
 
  |
 |  | 
@@ -213,13 +276,15 @@ Magnifying Stone
 +2 Range  
 +14% Ether Cost  
 
--   Crafted with a Stratus Stone and Perfect Lens
-
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
  | 
 
 -   Works well with mantras like "Ice Beam".
+
+ | 
+
+-   Crafted with a Stratus Stone and Perfect Lens
 
  |
 |  | 
@@ -245,6 +310,13 @@ Gem
 -   Increases insanity given by gaze.
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
+ | 
+
+-   All Megalodaunt Variants
+-   Rock Golem
+-   Threshers
+-   Duke Erisia
+
  |
 
   
@@ -253,11 +325,12 @@ Gem
 
 #### Cloudstone
 
--   This modifier causes the projectiles from the "Ice Lasers" mantra to shoot multiple bullets consecutively.
+-   Causes the projectiles from the "Ice Lasers" mantra to shoot multiple bullets consecutively.
+-   Increases the tendrils for "Glacial Arc."
 
 #### Glass Stone
 
--   This modifier adds a massive AoE explosion of ice spikes for "Glacial Arc", and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
+-   Adds a massive AoE explosion of ice spikes for "Glacial Arc", and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
     
 
 **Deep Gems:**

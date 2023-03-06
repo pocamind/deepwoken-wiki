@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 56067
+revid: 56231
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -48,7 +48,7 @@ notices:
 
 -   **Crab -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
 -   **Isopods -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
--   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. He may be trolling, but he insists he isn't.
+-   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. Despite his insistence otherwise, Arch\_Mage revealed he had been lying. The parasol was still under heavy development and was nowhere near release. World Serpent will be released in the future.
 
 ## Talents
 

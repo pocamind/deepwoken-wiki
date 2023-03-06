@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 56088
+revid: 56230
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -73,9 +73,13 @@ After this you are able to talk to Akira, in which he has two different conversa
 > 
 > 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[(100) Charisma\]
 > 
-> Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.)
+> Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) (He's not at Castle Light after this)
 > 
-> (He's not at Castle Light after this)
+> Talking to him in a separate event after already talking to him:
+> 
+> 1.How often does this sort of stuff happen?
+> 
+> Akira: More often than you'd expect..
 
 **Castle Light**
 

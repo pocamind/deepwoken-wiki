@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 56007
+revid: 56245
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -32,8 +32,6 @@ Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be bo
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
 You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
-
-**Boat :)**
 
 (Parenthesis means Celtor's Buffs)
 

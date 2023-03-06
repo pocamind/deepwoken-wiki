@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 56184
+revid: 56233
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-whigga
+“ Mannn I hate livin' in Detroit on goddddd ”
+
+― Authority captain before being ripped apart by a gang of Threshers
 
 **Thresher:**
 

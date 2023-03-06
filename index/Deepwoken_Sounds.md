@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 53810
+revid: 56251
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -180,6 +180,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 0.01s | Blood scourage after execute |
 |  | 0.8s | Foraging |
 |  | 8.0s | Obtaining a [Resonance](Resonance.md) |
+|  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
 
 ## Trivia/Notes
 

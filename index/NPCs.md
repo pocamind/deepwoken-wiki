@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 56092
+revid: 56229
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -25,7 +25,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | ??? | Unaligned | [The Depths](The_Depths.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
 | Acre | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
-| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) |  |
+| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 100 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in [Aratel Island](Aratel_Island.md) |
 | [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer |  |

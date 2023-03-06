@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 54153
+revid: 56235
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -67,6 +67,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
+-   Detonation Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit that procs deto multiple times.
 
 ## Trivia
 

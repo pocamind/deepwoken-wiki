@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 55682
+revid: 56238
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -94,6 +94,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
+    <li>Pairs well with Glare.</li>
   </ul></td>
 </tr>
 </tbody>

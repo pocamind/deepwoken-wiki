@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 53245
+revid: 56243
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]

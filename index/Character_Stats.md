@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 37716
+revid: 56237
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,20 +10,20 @@ categories: [Mechanics]
 
 ## Character Stats
 
-_Each player gets 327 investment points per slot, from Level 1-60._
+_Each player gets 327 investment points per slot, from Level 1-20, including investment points given to them by their character’s race._
 
 ### Health
 
 -   The player's max Health Points. Starting value is 120.
     -   Current HP is tracked on the health bar in %, from 100 to 0. When it reach 0%, caused by taking damage, the player is knocked.
--   How to increase: Power, Equipment, Fortitude, Talents \[Willpower has the highest amount\].
+-   How to increase: Power, Equipment, Fortitude, Talents, Willpower (Willpower has the highest amount).
 
 ### Posture
 
 -   The player's max Posture. Starting value is 20.
     -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reach 100%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
 -   Max Posture can be greatly increased by using a [Shield](Weapons.md).
--   How to increase: Shields, Talents, Equipment, Talents.
+-   How to increase: Shields, Equipment, Talents.
 
 ### Ether
 
