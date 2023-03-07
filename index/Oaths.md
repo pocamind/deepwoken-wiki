@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56451
+revid: 56482
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Weapon Unbound, Complete the ghost quest, Die to an attunement user |
+| oath_req | Weapon Unbound, Complete the ghost quest, Die to an attunement user, 40 STR |
 | effects | +5 Posture, +10 Health |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
@@ -640,8 +640,11 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 ### Trivia
 
--   This oath is the only oath that do not give any mantra slots (due to its design).
--   Silentheart is probably opposite to Jetstriker, as Silent denies use of the song but Jet allows the song to flow through you
+-   This oath is the only oath that do not give any mantra slots.
+
+  
+
+-   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
     
 
 ## Lore Oaths:
@@ -708,7 +711,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 Proof of Time Magic's existance and it being "Oath Magic".
 
 -   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
--   There is no reason to not get an Oath as they all give benefits with no downsides.
+-   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.

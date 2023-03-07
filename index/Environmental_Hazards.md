@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 53334
+revid: 56475
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -48,7 +48,7 @@ categories: [World]
 <tr>
   <td>Thunder Storm</td>
   <td>The Aratel Sea (Only while on a boat during a Rainstorm)</td>
-  <td>Damages and stuns players.</td>
+  <td>Damages and ragdolls players. (Beware that its also able to knock you off your boat.)</td>
 </tr>
 <tr>
   <td>Day and Night Cycle</td>
@@ -80,7 +80,7 @@ categories: [World]
 <tr>
   <td>Void</td>
   <td>Chime of Conflict</td>
-  <td>Immediate death.</td>
+  <td>Rapid loss of HP.</td>
 </tr>
 <tr>
   <td>Acid Pools</td>

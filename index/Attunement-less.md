@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 56389
+revid: 56461
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -147,7 +147,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
 -   User gains hyperarmor, negating hitstun for the duration of the effect.
 -   Last 5 Seconds by default.
--   **UNKNOWN IF UPGRADING MAKES IT LAST LONGER, NEEDS TESTING**
+-   _Upgrades increase duration by 1 second per level (Tested)_
 
  |
 | 
@@ -220,7 +220,7 @@ File:No Attunement Revamp.png
     -   Restores a decent amount of ether periodically.
     -   Increases movement speed and parkour abilities by ~25%.
     -   Procs the "Speed Demon" talent. _**(TESTED!)**_
-    -   **UNKNOWN IF UPGRADING MAKES THE SPEED BUFF STRONGER/LAST LONGER, NEEDS TESTING**
+    -   _Increases duration by ?? per level (Tested)_
 
  |
 

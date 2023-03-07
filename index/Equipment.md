@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56358
+revid: 56459
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1358,7 +1358,7 @@ _\+ 5% Shadow Armor_
 
 Chests from:
 
--   Placeholder
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Golden Cape.png | 
@@ -1382,6 +1382,29 @@ Chests from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | Black & Golden |
+| File:Onepiececape.png | 
+
+Fleet Warden Cape
+
+(**Series**)
+
+ | 
+
+Grants a random buff.
+
+  
+_\+ 3% Elemental Armour_  
+  
+**Requires Power 13**
+
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Fishing](Fishing.md)
+
+ | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 | File:Static-assets-upload6078901116095484260.png | 
 
 Shrouded Cape
@@ -1403,29 +1426,6 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Red, Black, Midnight & White |
-| File:Onepiececape.png | 
-
-[Fleet Warden Cape](Fleet_Warden_Cape.md)
-
-(**Series**)
-
- | 
-
-Grants a random buff.
-
-  
-_\+ 3% Elemental Armour_  
-  
-**Requires Power 13**
-
- | 
-
-Chests from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Fishing](Fishing.md)
-
- | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 |  | 
 
 Sandrunner Scarf

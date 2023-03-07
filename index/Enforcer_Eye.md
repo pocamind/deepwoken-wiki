@@ -1,9 +1,9 @@
 ---
 title: Enforcer Eye
-revid: 56341
+revid: 56468
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

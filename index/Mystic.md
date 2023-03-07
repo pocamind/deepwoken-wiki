@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 56177
+revid: 56479
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -42,6 +42,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_
 -   _I seek the qualities of Nimble Blade. **(Nimble Blade; Fast Blade, Lightspeed Reflexes)**_
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)**_
+-   _I seek the qualities of Swiftshade. **(Swiftshade)**_
 
 ### Charisma
 

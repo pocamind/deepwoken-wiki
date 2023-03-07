@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 47065
+revid: 56478
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -19,12 +19,12 @@ Every opponent on these lists has either a:
 
 ## Official Bosses
 
--   [The Duke](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Dread Serpent](Dread_Serpent.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Unofficial/Mini Bosses
 

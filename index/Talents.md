@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56452
+revid: 56469
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -263,7 +263,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Reinforced Armor \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude & **all** common bastion talents.
+    -   Prerequisites: 90 Fortitude, 30 Willpower & **all** common bastion talents.
 
 ### Blindseer
 

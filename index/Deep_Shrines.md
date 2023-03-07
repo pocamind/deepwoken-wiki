@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56387
+revid: 56481
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -92,13 +92,16 @@ _Pros/Cons_
 
 ### **Shrine of Chance**
 
-Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell)
+Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
+
+_When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 500 Knowledge before you realize it wasn't just bad luck or a missing prerequisite._
 
   
 _Benefits/Penalties_
 
 -   **(BENEFIT)** _Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here_
 -   **(PENALTY)** _Lose 5 Knowledge if trading Common/lose 10 Knowledge if trading Rare & swap 1 Talent (of your choice)_
+-   **(PENALTY)** _Eventually, after some amount of transactions, the shrine will begin to charge you 10 Knowledge regardless if it's a rare, common, or legendary._
 
 _Pros/Cons_
 
