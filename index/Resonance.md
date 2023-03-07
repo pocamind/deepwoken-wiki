@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 56103
+revid: 56334
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -16,7 +16,7 @@ _It is not your time, yet. **Rise.**_
 
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
-Obtaining a **Resonance** will also allow the opening of resonance door around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well as lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", an NPC that many would deem important in most progressions.
+Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well as lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", an NPC that many would deem important in most progressions.
 
 _**NOTE: Resonances cannot be used for 1v1's in [Chime of Conflict.](Chime_of_Conflict.md)**_
 

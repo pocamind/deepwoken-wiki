@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 54024
+revid: 56328
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 | damage | 12 (27.9 at max) |
 | scaling | 13 (WLP) |
 | range | 7 |
-| swing speed | 0.87x |
+| swing speed | 0.85x |
 | penetration | 5% |
 | special effect | Successfully flourishing an opponent rings the lantern, reducing sanity of the affected. (NEEDS TO BE TESTED) |
 | stances | 1 Handed |

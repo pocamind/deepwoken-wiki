@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56316
+revid: 56357
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -200,9 +200,18 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Assassin
 
+-   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
+    -   Prerequisites: Shared Demise, 90 Agility
+-   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
+    -   Prerequisites: Vital Point, 85 Agility
+
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites: Unknown amount of Backstabs, 10 Agility
+-   Shared Demise \[Common Talent, Agility\] - Assassinating an enemy will automatically assassinates other nearby enemies. (+3 Passive Agility)
+    -   Prerequisites: Assassin Talents, 85 Agility
+-   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
+    -   Prerequisite: Shared Demise, 100 Agility
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility
 
@@ -586,6 +595,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Give and Take \[Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
+-   Off Your Game \[common Talent, Charisma Exclusive\] - You now slow Taunted enemies when you hit them.
+    -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
 ### Escape Artist
 
@@ -1259,6 +1270,13 @@ These are just raw stat increases and are beneficial to anyone.
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
     -   Prerequisites: 75 Strength
 
+### Politician
+
+-   Cult of Personality \[common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
+    -   Prerequisites: 90 Charisma
+-   Pardon Me \[common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
+    -   Prerequisites: 85 Charisma
+
 ### Prospector
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
@@ -1524,6 +1542,11 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Winter's Protection \[Common Talent, Equipment Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Equipment.md).
 
+### Swiftshade
+
+-   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
+    -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
+
 ### Tactician
 
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
@@ -1616,7 +1639,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Thunderblade
 
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity, +3 Health)
-    -   Prerequisite: 65 Thundercall, 25 Strenght / 25 Agility, Static Blade
+    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+3 Elemental Intensity)
@@ -1672,6 +1695,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Audacity \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 40s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
+    -   Makes you immune to Defiant Until the End and Last Second Negotiations when it procs.
     -   Prerequisites: 100 Charisma, 50 Strength
 
 ### Undying Ember

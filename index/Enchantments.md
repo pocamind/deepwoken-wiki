@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 56266
+revid: 56330
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -193,9 +193,7 @@ There are two variants that enchantments come in:
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
   On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown.<br>
-  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<br>
-  <b>Hitting an entity with hyperarmor (e.g Brace, Monsters) causes the slash to damage both parties.</b><br>
-  Contrary to popular belief, this is seemingly not intentional, even Arch_Mage was unsure when asked if it was meant to occur.</p></div></td>
+  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
 </tr>
 <tr>

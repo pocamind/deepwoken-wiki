@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 56152
+revid: 56336
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -29,6 +29,12 @@ A race of nomadic dragons.
     <li><i>"Find your centre."</i>
   <ul>
     <li>Functionally identical to the <a href="https://deepwoken.fandom.com/wiki/Talents#Flamecharmer">Produce Spark</a> <a href="Talents.md">talent</a>, except it produces a white flame (cosmetic).</li>
+    <li>Fires lit by this:
+  <ul>
+    <li>Stops your thirst/hunger from depleting</li>
+    <li>Makes you gain passive exp on stats you are actively training</li>
+    <li>But makes you regenerate slower than a normal campfire</li>
+  </ul></li>
   </ul></li>
   </ul></td>
 </tr>
@@ -72,6 +78,7 @@ Punchee
 ## Trivia
 
 -   Awarded to “moderators and VERY active testers” (stated by Punchee)
+-   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
     
     The Drakkard prompt.
     

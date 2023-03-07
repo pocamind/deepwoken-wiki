@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56313
+revid: 56358
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2975,7 +2975,7 @@ Chests from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
-| File:NewAkira.png | 
+|  | 
 
 Akira's Ring
 
@@ -3005,7 +3005,7 @@ Other sources:
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
-| File:NewRosen.png | 
+|  | 
 
 Rosen's Ring
 
@@ -3029,7 +3029,7 @@ Chests from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
-| File:NewProphet.png | 
+|  | 
 
 Prophet's Ring
 
@@ -3054,7 +3054,7 @@ Other sources:
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
-| File:NewMaestro.png | 
+|  | 
 
 Maestro's Ring
 
@@ -3080,7 +3080,7 @@ Chests from:
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
-| File:NewDawnfist.png | 
+|  | 
 
 Dawnfist's Ring
 

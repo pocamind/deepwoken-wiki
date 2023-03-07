@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56297
+revid: 56356
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -162,7 +162,25 @@ _Pros/Cons_
 -   Lets you take a card if you accidentally burnt it or if it was buffed into the most meta thing known to man.  
     
 
-  
+**Shrine of Division**
+
+“ VERY WELL. WHICH WORDS WILL BE FORGOTTEN? ”
+
+― Shrine Of Divison
+
+Shrine Of Division
+
+Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline.
+
+_Benefits/penalties_
+
+1.  **(BENEFIT)** Trade in a mantra for 2 random cards.
+
+**(PENALITY)** Lose 10 Knowledge
+
+_Pros/Cons_
+
+-   Lets you get 2 talents if you decide that you no longer want to use a manta.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 55897
+revid: 56326
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -29,7 +29,7 @@ Kyrsan Medallions can be exchanged for lots of services, crucial for the end-gam
 
 Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 
-1.  I seek power in the upcoming battle. \[10 Medallions\] - Grant the player a 33% damage buff (estimated) against [Scion of Ethiron](Scion_of_Ethiron.md). (Highly recommended for low damage output players)
+1.  I seek power in my upcoming battles. \[5 Medallions\] - Grant the player a 33% damage buff (estimated) against [Scion of Ethiron](Scion_of_Ethiron.md) (Highly recommended for low damage output players).
 
 ## Trivia
 

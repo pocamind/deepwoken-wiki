@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 56299
+revid: 56333
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -53,7 +53,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>
   <td>Wayward Gem</td>
-  <td>You will teleport to the first enemy hit by the mantra.</td>
+  <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you after a second has passed.</td>
 </tr>
 <tr>
   <td><figure>File:Wind gem 1st.png<figcaption></figcaption></figure></td>
