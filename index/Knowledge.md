@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 56268
+revid: 56449
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,6 +38,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
 -   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md), awarding 2 Knowledge once teleported out of the dungeon. _One time use-- correct if wrong._
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _There is currently no discovered limit of transactions._
+-   Finishing Mendacia's quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge tho)
 -   _(More advanced methods exist to be found...)_
 
 The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**

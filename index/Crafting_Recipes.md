@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 48122
+revid: 56448
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,8 +27,8 @@ These are recipes that are not used to produce food or potions.
 -   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **Monster Bait** - 2 _Chum_
--   **Iron Bomb -** _2 Iron, 1 Coal_
+-   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md))2 **OR** 3 _Chum_
+-   **Iron Bomb -** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
 
 Picture of a Crafting Bench
 

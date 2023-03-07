@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 54134
+revid: 56428
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -78,9 +78,14 @@ categories: [Deepwoken]
         -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
         -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
-        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
+        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology
 -   **Dawnwalker's** _Radiant Kick_ is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
+-   **Silentheart** takes inspiration from the _Fire Emblem_ series:
+    -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia_
+    -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance
+    -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates_
+    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the talent, slicing the enemy multiple time.
 
 ## Enemies/Bosses
 

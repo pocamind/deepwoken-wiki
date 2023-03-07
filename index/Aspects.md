@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 56365
+revid: 56443
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Races, Character, Mechanics]
@@ -40,7 +40,7 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 
 These races are currently exclusive to NPCs, and have not been confirmed to be obtainable by players.
 
-## Generic Surnames
+## Generic Last Names
 
 -   Fording
 -   Humbell

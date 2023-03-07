@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 54807
+revid: 56446
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -14,7 +14,7 @@ You can choose your first name from any available, but your choices of last name
 
 ## First Names
 
-**Masculine:**
+**Male:**
 
   
 
@@ -27,91 +27,62 @@ You can choose your first name from any available, but your choices of last name
 -   Adrian
 -   Aemilius
 -   Aesop
--   Agrippa
 -   Ahab
 -   Ahaz
 -   Ahmad
 -   Albion
--   Alex
 -   Alexander
 -   Ali
 -   Alloras
+-   Alm
 -   Alphonse
--   Alto
 -   Amir
 -   Andre
 -   Andrew
--   Anos
--   Antarc
 -   Anthony
 -   Apollon
 -   Argus
 -   Armadeus
 -   Arnald
--   Artemis
 -   Arthur
 -   Artminas
--   Ash
--   Asher
--   Aspen
--   Astra
 -   Atlas
--   August
--   Avery
--   Axon
 -   Azel
 -   Balthasar
--   Banjo
 -   Bartholomew
--   Basil
 -   Benjamin
+-   Berkut
 -   Bernard
--   Blake
--   Blue
 -   Boyd
 -   Brad
 -   Brandon
 -   Brent
 -   Brian
--   Briar
--   Brick
--   Byron
--   Calar
 -   Caliban
--   Cameron
 -   Carlos
--   Cass
 -   Castor
--   Chance
 -   Charles
--   Charlie
 -   Christopher
 -   Cicero
--   Cinnabar
--   Cladius
--   Clay
+-   Claudius
 -   Clement
+-   Clive
 -   Cody
 -   Cole
 -   Colt
 -   Connor
+-   Conrad
 -   Cornelius
 -   Cozen
--   Creon
--   Crona
--   Crow
 -   Cyrus
 -   Dalinar
 -   Damien
--   Dani
 -   Daniel
 -   Danny
 -   Dante
 -   Darnell
 -   David
--   Dawn
 -   Demetrius
--   Devin
 -   Dex
 -   Dimitri
 -   Diomedes
@@ -120,42 +91,30 @@ You can choose your first name from any available, but your choices of last name
 -   Donovan
 -   Dragon
 -   Drake
--   Drew
+-   Duma
 -   Dust
 -   Dylan
 -   Edgar
 -   Edward
--   Eli
 -   Elijah
 -   Elk
 -   Elliot
--   Elliott
--   Emery
 -   Emile
 -   Enrique
--   Envy
+-   Ephraim
 -   Erik
 -   Ethan
--   Evaine
 -   Fabian
 -   Falco
--   Faris
--   Faust
 -   Felix
 -   Ferdinand
 -   Ferguson
--   Finch
--   Finley
--   Fisher
--   Fox
 -   Francis
 -   Francisco
 -   Frank
--   Franky
 -   Fraser
 -   Frederick
 -   Gabriel
--   Gael
 -   Gaius
 -   Gale
 -   Gareth
@@ -163,35 +122,24 @@ You can choose your first name from any available, but your choices of last name
 -   Gawain
 -   Geese
 -   George
--   Gideon
 -   Gino
 -   Gold
 -   Graham
--   Gravel
--   Gray
--   Green
 -   Gregor
--   Griff
--   Grim
 -   Grimhildr
 -   Grit
--   Groose
--   Guadalupe
--   Gunter
+-   Gunther
 -   Hal
 -   Hank
 -   Hans
 -   Harley
 -   Harold
--   Harper
 -   Harvey
 -   Hassan
 -   Hayes
 -   Hector
 -   Henry
--   Hermes
 -   Hiroh
--   Hope
 -   Horace
 -   Horatio
 -   Hutch
@@ -204,47 +152,37 @@ You can choose your first name from any available, but your choices of last name
 -   Isaac
 -   Isaiah
 -   Ishmael
--   Isma
 -   Ivan
 -   Jack
--   Jackdaw
 -   Jacob
 -   Jaleel
 -   Jalen
 -   Jamal
 -   James
 -   Jason
--   Jay
 -   Jean
 -   Jefe
 -   Jerry
--   Jesse
--   Jessie
 -   John
--   Johnathan
+-   Jonathan
 -   Joseph
 -   Joshua
 -   Jova
 -   Jovan
--   Joy
+-   Juan
 -   Judas
 -   Judeau
--   Julian
 -   Julius
--   Jupiter
 -   Justin
 -   Kaido
 -   Kaladin
--   Kamren
--   Kareem
 -   Karl
--   Kay
 -   Kelik
--   Kenin
 -   Kenny
 -   Kent
 -   Kevin
 -   Kirk
+-   Kliff
 -   Kyle
 -   Laertes
 -   Lamech
@@ -254,31 +192,25 @@ You can choose your first name from any available, but your choices of last name
 -   Larry
 -   Law
 -   Layle
+-   Leif
 -   Leo
 -   Leon
 -   Leonardo
 -   Lewis
 -   Liam
--   Link
--   Loam
 -   Logan
 -   Lucas
 -   Lucius
 -   Lugh
 -   Luis
--   Luka
 -   Luke
 -   Luther
+-   Luthier
 -   Lyon
--   Lyric
--   Lysander
--   Macready
--   Magpie
 -   Malachi
 -   Malcolm
 -   Malik
 -   Marcellus
--   March
 -   Marco
 -   Mario
 -   Marius
@@ -288,95 +220,59 @@ You can choose your first name from any available, but your choices of last name
 -   Mason
 -   Matthew
 -   Maurice
--   Maverick
 -   Maxos
--   Melodias
 -   Mercutio
--   Mezux
 -   Michael
 -   Moash
 -   Mordred
--   Murphy
+-   Mycen
 -   Nate
 -   Nathan
 -   Neil
--   Neo
--   Nera
 -   Nicholas
 -   Noah
 -   Noel
 -   Nolan
--   Nova
 -   Ogma
 -   Ogrim
--   Oki
 -   Oliver
--   Ophir
 -   Oscar
 -   Osric
 -   Othniel
 -   Otto
 -   Owen
 -   Parhelion
--   Parker
 -   Pascal
 -   Patrick
 -   Paul
--   Pax
--   Payton
--   Penn
--   Percy
 -   Peter
 -   Philip
--   Phoenix
--   Phos
--   Pike
--   Pollux
 -   Polonius
 -   Prospero
 -   Pyron
+-   Python
 -   Quake
 -   Quan
 -   Quantum
--   Quartz
 -   Quentin
 -   Quirrel
 -   Raigh
--   Rain
 -   Rami
 -   Rasto
--   Raven
 -   Ray
--   Red
--   Reed
--   Rex
--   Rein
 -   Renarin
--   Rex
 -   Rey
 -   Reynaldo
--   Rhys
 -   Richard
 -   Rick
--   RIn
--   River
--   Rivers
 -   Robert
--   Robin
 -   Roby
 -   Roland
 -   Rolf
 -   Romy
--   Rook
--   Roux
--   Rowan
 -   Roy
--   Ryan
--   Saeko
--   Sage
 -   Samuel
 -   Samwise
--   Sand
 -   Santiago
 -   Saul
 -   Scar
@@ -385,377 +281,237 @@ You can choose your first name from any available, but your choices of last name
 -   Selim
 -   Sergei
 -   Seth
--   Shale
--   Shay
 -   Shem
 -   Shinon
 -   Shon
 -   Shu
--   Silt
+-   Sigurd
 -   Silver
 -   Simon
 -   Sinbad
 -   Sirius
--   Skylar
--   Slate
--   Sloan
 -   Socrates
--   Soot
 -   Sophodon
--   Sorin
 -   Sothe
--   Sparrow
 -   Stanley
 -   Stephen
--   Storm
 -   Sven
--   Sydney
 -   Szeth
--   Taylor
 -   Teft
 -   Tharson
 -   Theseus
--   Thistle
 -   Thomas
 -   Tien
+-   Tobin
 -   Tomas
 -   Travis
 -   Tre
 -   Trevor
--   Trsitam
+-   Tristram
 -   Tybalt
 -   Tyler
--   Uriel
+-   Valbar
 -   Valentine
 -   Vergil
 -   Victor
--   Vin
 -   Vincent
 -   Walid
 -   Wallace
 -   Walter
--   Wane
 -   Wax
 -   Wayne
 -   Wesley
 -   Wick
 -   William
--   Wilson
 -   Winston
--   Winter
 -   Woodrow
 -   Xavier
 -   Xavos
--   Yakub
 -   Zach
 -   Zachary
 -   Zeiss
+-   Zeke
 -   Zote
-    
 
-**Feminine:**
+**Female:**
 
   
 
 -   Abigail
 -   Acedia
 -   Ada
--   Agrippa
 -   Alaia
--   Alex
 -   Alexandra
--   Alto
 -   Alvida
 -   Ami
 -   Amy
--   Anos
--   Antarc
 -   Antigone
 -   April
 -   Arden
 -   Arete
 -   Ari
 -   Ariel
--   Artemis
--   Ash
 -   Ashe
--   Asher
--   Aspen
--   Astra
--   Atlas
 -   Audrey
--   August
--   Avery
--   Axon
 -   Ayra
 -   Azula
 -   Azura
--   Banjo
--   Basil
 -   Beatrice
 -   Berta
 -   Beth
--   Blake
--   Blue
--   Briar
--   Brick
--   Byron
 -   Caitlyn
--   Calar
--   Cameron
--   Cass
 -   Catherine
 -   Catria
 -   Celeste
--   Chance
--   Charlie
+-   Celica
 -   Charlotte
--   Cinnabar
 -   Claire
--   Clay
 -   Connie
--   Creon
--   Crona
--   Crow
 -   Daisy
 -   Dana
--   Dani
--   Dawn
 -   Desdemona
--   Devin
 -   Diamond
 -   Dorothy
--   Drew
 -   Echidna
 -   Elaine
--   Eli
--   Elliott
--   Emery
 -   Emma
--   Envy
+-   Erica
 -   Erin
--   Ezrebet
+-   Erzebet
 -   Estelle
 -   Esther
 -   Ethel
 -   Ethlyn
 -   Eva
--   Evaine
 -   Eve
 -   Evi
--   Faris
--   Faust
--   Finch
--   Finley
--   Fisher
--   Fitz
--   Fox
+-   Faye
 -   Francesca
--   Franky
 -   Freya
 -   Frida
 -   Gabriella
--   Gael
 -   Gemma
 -   Gertrude
 -   Giana
--   Gideon
 -   Gillian
 -   Giovanna
 -   Gloria
 -   Grace
--   Gravel
--   Gray
--   Green
 -   Gretchen
 -   Gretel
--   Griff
--   Grim
--   Groose
--   Guadalupe
+-   Gwen
+-   Gwyn
 -   Hannah
--   Harper
 -   Hattie
 -   Heather
 -   Helena
--   Hermes
 -   Hillary
 -   Holly
--   Hope
 -   Iris
 -   Isabella
--   Isma
--   Jackdaw
 -   Jane
 -   Jasnah
--   Jay
 -   Jemima
 -   Jennifer
--   Jesse
--   Jessie
 -   Joanna
--   Joy
 -   Juda
--   Julian
 -   Juliet
 -   July
 -   June
--   Jupiter
--   Kamren
--   Kareem
 -   Katara
 -   Katarina
 -   Kate
 -   Katie
--   Kay
--   Kenin
 -   Kiyoko
 -   Korra
 -   Lachesis
 -   Laura
 -   Lena
--   Link
--   Loam
 -   Lomberta
 -   Lorelai
 -   Lotte
 -   Lucile
--   Luka
 -   Lydia
+-   Lyn
 -   Lyonesse
--   Lyric
--   Lysander
--   Macready
 -   Madeline
--   Magpie
--   March
+-   Mae
 -   Margaret
 -   Maria
 -   Marie
 -   Marina
 -   Maude
--   Maverick
 -   May
--   Melodias
--   Mezux
 -   Mia
+-   Mila
 -   Miranda
 -   Misaka
 -   Molly
 -   Morgan
 -   Morgana
--   Murphy
--   Neo
--   Nera
 -   Nia
 -   Nina
 -   Noelle
 -   Norne
--   Nova
 -   November
 -   Nyme
--   Oki
 -   Olivia
 -   Olympe
 -   Ophelia
--   Ophir
 -   Palla
 -   Pandora
--   Parker
 -   Patricia
--   Pax
--   Payton
--   Penn
 -   Penny
--   Percy
--   Phoenix
--   Phos
--   Pike
--   Pollux
 -   Pyrrha
--   Quartz
 -   Quinevere
 -   Quinn
 -   Rachel
--   Rain
--   Raven
 -   Rebecca
--   Red
--   Reed
--   Rein
--   Rex
--   Rhys
--   Rin
--   River
--   Rivers
--   Robin
--   Rook
+-   Rinea
 -   Rosa
 -   Rosaline
 -   Rose
--   Roux
--   Rowan
 -   Ruby
--   Ryan
 -   Sabrina
--   Saeko
 -   Saffron
--   Sage
 -   Samantha
--   Sand
 -   Sandra
 -   Sapphire
 -   Sarah
 -   Sashenka
 -   Satu
 -   Selene
--   Shale
 -   Shallan
--   Shay
 -   Shiki
 -   Sidura
--   SIlt
 -   Silvia
--   Skylar
--   Slate
--   Sloan
 -   Solara
 -   Solveig
--   Soot
 -   Sophie
--   Sorin
--   Sparrow
--   Storm
 -   Summer
 -   Susanna
 -   Sycorax
--   Sydney
 -   Tabitha
 -   Taliah
 -   Tallulah
 -   Tami
 -   Tanith
 -   Tanya
--   Tatith
--   Tanya
 -   Tatiana
--   Taylor
 -   Teresa
 -   Thalassa
 -   Theodora
 -   Theresa
--   Thistle
 -   Tiresia
 -   Tracey
 -   Ulla
 -   Uma
--   Uriel
 -   Ursa
 -   Ursula
 -   Usha
 -   Valda
 -   Valencia
--   Velentina
+-   Valentina
 -   Valerie
 -   Vanessa
 -   Vega
@@ -763,27 +519,21 @@ You can choose your first name from any available, but your choices of last name
 -   Veronica
 -   Victoria
 -   Vida
--   Vin
 -   Violet
 -   Vivian
--   Wane
 -   Wendelin
 -   White
 -   Whitney
 -   Willa
 -   Willow
--   Wilson
 -   Winnie
--   Winter
 -   Xena
--   Yakub
 -   Yana
 -   Yara
 -   Yvette
 -   Zafirah
 -   Zemora
 -   Zoe
-    
 
 **Neutral:**
 
@@ -815,6 +565,7 @@ You can choose your first name from any available, but your choices of last name
 -   Cass
 -   Chance
 -   Charlie
+-   Chert
 -   Cinnabar
 -   Clay
 -   Creon
@@ -828,14 +579,18 @@ You can choose your first name from any available, but your choices of last name
 -   Elliott
 -   Emery
 -   Envy
+-   Esker
 -   Evaine
 -   Faris
 -   Faust
+-   Feldspar
 -   Finch
 -   Finley
 -   Fisher
+-   Fitz
 -   Fox
 -   Franky
+-   Gabbro
 -   Gael
 -   Gideon
 -   Gravel
@@ -860,6 +615,7 @@ You can choose your first name from any available, but your choices of last name
 -   Kareem
 -   Kay
 -   Kenin
+-   Kronk
 -   Link
 -   Loam
 -   Luka
@@ -902,15 +658,18 @@ You can choose your first name from any available, but your choices of last name
 -   Roux
 -   Rowan
 -   Ryan
+-   Saber
 -   Saeko
 -   Sage
 -   Sand
 -   Shale
 -   Shay
+-   Silque
 -   Silt
 -   Skylar
 -   Slate
 -   Sloan
+-   Solanum
 -   Soot
 -   Sorin
 -   Sparrow
@@ -924,229 +683,239 @@ You can choose your first name from any available, but your choices of last name
 -   Wilson
 -   Winter
 -   Yakub
-    
 
 ## Last Names
+
+### Generic
+
+-   Fording
+-   Humbell
+-   Huthering
+-   Ruther
 
 **Adret:**
 
   
 
 -   Adaset
--   Corbet
--   Isket
--   Munet
--   Praadet
--   Vendet
 -   Ashet
+-   Corbet
 -   Donnet
+-   Gremet
 -   Hasset
+-   Isket
 -   Mudet
+-   Munet
 -   Osset
+-   Praadet
 -   Sahet
+-   Vendet
 -   Yuset
-    
 
 **Canor:**
 
   
 
 -   Bren
--   Dardren
--   Helsen
--   Jaegen
--   Scarsen
--   Vondren
 -   Canden
+-   Dardren
 -   Dusselden
+-   Helsen
 -   Holden
+-   Jaegen
 -   Nuren
+-   Scarsen
 -   Ven
+-   Vondren
 -   Vorgen
-    
 
 **Capra:**
 
   
 
 -   Arad
--   Emirad
--   Loritad
--   Ranaad
--   Tulad
 -   Eiad
+-   Emirad
 -   Ferad
+-   Loritad
 -   Mirad
+-   Raanad
 -   Truad
-    
+-   Tulad
+
+**Celestial:**
+
+  
 
 **Celtor:**
 
   
 
 -   Baranof
--   Golbor
--   Kalashor
--   Kavinel
--   Kotof
--   Pavel
--   Sokel
 -   Bykof
+-   Golbor
 -   Ivanel
+-   Kalashor
 -   Kalinof
+-   Kavinel
 -   Kernel
+-   Kotof
 -   Olof
+-   Pavel
 -   Petrof
+-   Sokel
 -   Sokolof
-    
 
 **Chrysid:**
 
   
 
--   Aethuda  
-    
--   Disali  
-    
--   Eneka  
-    
--   Iksatoka  
-    
--   Kalvika  
-    
--   Rephika  
-    
--   Sehika  
-    
--   Trikali  
-    
--   Zenekai  
-    
+-   Aethuda
+-   Disali
+-   Eneka
+-   Iksatoka
+-   Kalvika
+-   Rephika
+-   Sehika
+-   Trikali
+-   Zenekai
+
+**Drakkard:**
+
+  
+
+-   Drakehardt
 
 **Etrean:**
 
   
 
 -   Ashi
--   Hashi
--   Ishel
--   Kereshi
--   Massi
--   Ureshi
--   Vesti
--   Zeshi
 -   Eshet
--   Kasteshi
+-   Hashi
+-   Hasteshi
+-   Ishel
 -   Kanreshi
+-   Kereshi
 -   Leshi
+-   Massi
 -   Rashet
+-   Ureshi
 -   Veshi
+-   Vesti
 -   Ytreshi
-    
+-   Zeshi
 
 **Felinor:**
 
   
 
--   Amarico  
-    
--   Eko  
-    
--   Rico  
-    
--   Talo  
-    
--   Calico  
-    
--   Palo  
-    
--   Sero  
-    
+-   Amarico
+-   Calico
+-   Eko
+-   Palo
+-   Rico
+-   Sero
+-   Talo
 
 **Ganymede:**
 
   
 
 -   Dise
--   Etude
--   Ixatoke
--   Sekhige
--   Zeneke
 -   Enege
+-   Etude
 -   Galvige
+-   Ixatoke
 -   Rethige
+-   Sekhige
 -   Trige
-    
+-   Zeneke
+
+**Generic:**
+
+  
+
+-   Fording
+-   Humbell
+-   Huthering
+-   Ruther
 
 **Gremor:**
 
   
 
 -   Adra
--   Cassatra
--   Era
--   Hira
--   Nemira
--   Niildra
--   Theodra
--   Ymara
 -   Atedra
+-   Cassatra
 -   Eldra
+-   Era
 -   Estedra
+-   Hira
 -   Mora
+-   Nemira
 -   Nephidra
+-   Niildra
 -   Ratra
+-   Theodra
 -   Vendra
-    
+-   Ymara
+
+**Heliodar:**
+
+  
 
 **Khan:**
 
   
 
--   Drameus
 -   Dalus
--   Theus
--   Nemises
--   Narsus
--   Janus
+-   Drameus
 -   Evus
--   Tarsus
+-   Janus
 -   Juno
-    
+-   Narsus
+-   Nemises
+-   Tarsus
+-   Theus
+
+**Lightborn:**
+
+  
+
+-   Spellhardt
 
 **Tiran:**
 
   
 
--   Taali
--   Paadli
--   Edgli
--   Leeli
--   Saali
--   Emuli
--   Huuli
--   Tuuli
--   Ouli
 -   Atamli
+-   Edgli
+-   Emuli
 -   Gatli
--   Nothli
+-   Huuli
 -   Kamali
-    
+-   Leeli
+-   Nothli
+-   Ouli
+-   Paadli
+-   Saali
+-   Taali
+-   Tuuli
 
-**Vesparian:**
+**Vesperian:**
 
   
 
 -   Disii
--   Etudi
--   Ixatoki
--   Sekhigi
--   Zeneki
 -   Enegi
+-   Etudi
 -   Galvigi
+-   Ixatoki
 -   Refigi
+-   Sekhigi
 -   Trigi
-    
+-   Zeneki
 
 ## Trivia
 

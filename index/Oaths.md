@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56420
+revid: 56451
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Only known requirement is 5 oath grips, do not fully trust full as people do lie. |
+| oath_req | Weapon Unbound, Complete the ghost quest, Die to an attunement user |
 | effects | +5 Posture, +10 Health |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
@@ -592,7 +592,10 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Obtainment
 
-Most likely related to the Dreadstar that was shadow updated this patch.
+1.  Uncap your weapon by speaking to Maestro Evenguarde Rest at [Isle of Vigils](Isle_of_Vigils.md)
+2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts
+3.  Die to an attunement user
+4.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship
 
 ### Effects
 
@@ -603,38 +606,42 @@ Most likely related to the Dreadstar that was shadow updated this patch.
 
 ### Upgrading
 
-Killing the five [Attunement](Attunements.md) [trainers](Attunement_Trainers.md)
+Killing the five [Attunement](Attunements.md) [trainers](Attunement_Trainers.md).  
+This can be done in any order, however, the recommended order is Nell, Friid, Amashi, Funke and Nostor due to their positions.
 
 ### **Oath Abilities**
 
 -   **Merciless Blade - Passive**
     -   You can now execute enemies much faster. Reduces base grip speed to 1.5 seconds.
+        -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
+        -   Kill Nell, the Frostdraw trainer at Etris to obtain this talent.
 -   **Lodestar - Passive**
     -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
+        -   Kill Friid, the Galebreath trainer at Isle of Vigil to obtain this talent.
+        -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
+        -   Kill Amashi, the Flamecharm trainer at the Songseeker Temple to obtain this talent.
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed bost.
+        -   Kill Funke, the Thundercall trainer at Summer Isles to obtain this talent.
         -   Makes your Vents Red. Purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
-        -   While it requires a stack of Dread to be used, it does not COST a stack of Dread, meaning it can be spammed non-stop.
+        -   Kill Nostor, the Shadowcast trainer at City of the Drowned to obtain this talent.
+        -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
+        -   12 seconds cooldown.
 
 ### Notes
 
--   Newest oath added since Verse 2.
--   This oath may or may not affect Resonances obtained with it.
--   This oath was found only recently so expect inaccurate information.
+-   While all mantras are voided and the mantra tab become unavailable, the character still have them. Consult the Shrine of Division to convert them into 2 random talents.
 
 ### Trivia
 
--   This oath takes inspiration from the Fire Emblem series.
--   The ship where you obtain the oath "The Beloved Zofia" is the signature weapon of Celica from FE Echoes: Shadows of Valentia
--   Dread Fighter is the name of a sword class from FE Echoes: Shadows of Valentia. It's main feature is it's high magic resistance.
--   Mani Katti is the name of Lyn's signature weapon, and the animation for the attack is her critical animation from FE: The Blazing Blade
--   Lodestar is an alternate Lord class featured in both FE: Awakening, and FE: Fates
+-   This oath is the only oath that do not give any mantra slots (due to its design).
+-   Silentheart is probably opposite to Jetstriker, as Silent denies use of the song but Jet allows the song to flow through you
     
 
 ## Lore Oaths:

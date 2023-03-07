@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56357
+revid: 56452
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -200,18 +200,12 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Assassin
 
--   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
-    -   Prerequisites: Shared Demise, 90 Agility
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
     -   Prerequisites: Vital Point, 85 Agility
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites: Unknown amount of Backstabs, 10 Agility
--   Shared Demise \[Common Talent, Agility\] - Assassinating an enemy will automatically assassinates other nearby enemies. (+3 Passive Agility)
-    -   Prerequisites: Assassin Talents, 85 Agility
--   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
-    -   Prerequisite: Shared Demise, 100 Agility
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility
 
@@ -1546,6 +1540,12 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
+-   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
+    -   Prerequisites: Shared Demise, 90 Agility
+-   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
+    -   Prerequisite: Shared Demise, 100 Agility
+-   Shared Demise \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinates other nearby enemies. (+3 Passive Agility)
+    -   Prerequisites: Assassin Talents, 85 Agility
 
 ### Tactician
 

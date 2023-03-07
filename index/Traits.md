@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 53244
+revid: 56432
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,7 +23,7 @@ Each trait can only be increased up to 6 points.
 
 ### Erudition
 
--   Increase max [Ether](Ether.md) by 30 and max [Tempo](Combat_Mechanics.md) by 10 per point, also increase Tempo gain by 15% each point.
+-   Increase max [Ether](Ether.md) by 30 and max [Tempo](Combat_Mechanics.md) by 8 per point, also increase Tempo gain by 15% each point.
 -   Maximum of 180 Ether and 60 Tempo.
 -   Increase Tempo gain up to 90% at max.
 
