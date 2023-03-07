@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 55613
+revid: 56382
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,24 +14,24 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 Flamecharm icon
 
-Flamecharm grants the user the ability to conjure fire using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
+Flamecharm grants the user the ability to conjure, control and create fire using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
-The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team. This attunment is also the best choice as a noob, as the burn effect will kill knocked npcs, easily allowing you to progress really fast.
+The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team. This attunment is also the best choice as a starter. The attunement is easy and starter-friendly, most notable of the burn effect. It will knocked npcs, easily allowing you to progress really fast.
 
-However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset, and an adept opponent will be able to out-time a repetitive wielder's attacks. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
+However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset making it parriable and dodgable. And an adept opponent will be able to out-time a repetitive wielder's attacks due to people catching onto Flamecharm's repetitive and spammy moveset. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
 
-Flamecharm excels defensively alike Frostdraw especially with Mirage Clone (which should honestly be a legendary at this point.). Flamecharm applies immense pressure on opponents that attack you, in skilled hands, Flamecharm can be very powerful. Enemies that hit your mirage clone will be set on fire, almost effectively safeguarding you since if the opponent attempts to apply more offense and pressure then they will suffer a lot of burn damage. Then if you manage to punish them upon a successful dodge, then your fire damage will stack on top of your combo, dealing immense damage. Just the fact that you dodging a physical attack obligates your opponent to roll off their flames will let you quickly plan to punish them after rolling or at least their roll will be on cooldown. Flamecharm moves are also quite difficult to parry, some moves come out very quick, there's fire blade which may knock off opponents who are speeding up their thought process to counteract your pressure and there's the arial moves which mechanically make victims limited to parrying in very tight timing. A lot of Flamecharm is also very visually disorientating with eruptions, fires and blasts engulfing your opponents screen and the only one who has to worry about it is your victims. With all of this pressure and visual info being crammed into your opponents head, it's possible to overwhelm your opponents. Then coupled with your ability to slow down the pacing of your assault, you may truly out-play some people. This is unlikely on level-headed users though, even using flame blind could potentially be useless since they won't be confused by visual effects, will still be able to see your name tag and can act according to sound (e.g them attacking you after parrying).
+Flamecharm excels defensively alike Frostdraw especially with Mirage Clone (which should honestly be a legendary at this point.). Flamecharm applies immense pressure on opponents that attack you and leave opponents in pressure constantly, in skilled hands, Flamecharm can be very powerful. Examples of Flamecharm's usage: Enemies that hit your mirage clone will be set on fire, almost effectively safeguarding you since if the opponent attempts to apply more offense and pressure then they will suffer a lot of burn damage. Then if you manage to punish them upon a successful dodge, then your fire damage will stack on top of your combo, dealing immense damage. Just the fact that you dodging a physical attack obligates your opponent to roll off their flames will let you quickly plan to punish them after rolling or at least their roll will be on cooldown. Flamecharm moves are also quite difficult to parry, some moves come out very quick, There's fire blade which may knock off opponents who are speeding up their thought process to counteract your pressure and there's the arial moves which mechanically make victims limited to parrying in very tight timing. A lot of Flamecharm is also very visually disorientating with eruptions, fires and blasts engulfing your opponents screen and the only one who has to worry about it is your victims. With all of this pressure and visual info being crammed into your opponents head, it's possible to overwhelm your opponents. Then coupled with your ability to slow down the pacing of your assault, you may truly out-play some people. This is unlikely on level-headed users though, even using flame blind could potentially be useless since they won't be confused by visual effects, will still be able to see your name tag and can act according to sound (e.g them attacking you after parrying).
 
-## Training
+## Training Flamecharm
 
 Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Power 1, players will receive the _Flamecharmer_ Talent.
--   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent.
--   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
--   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
+-   At Power 1, players will receive the _Flamecharmer_ Talent upon picking the Flamecharm Attunement on spawn.
+-   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 2-star Flamecharm mantras
+-   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras
+-   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras
 
 Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseeker_Wilds.md) in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 Flamecharm, level 3 at 40 Flamecharm, etc.) up to a total of level 5. (level 80 Flamecharm, requires uncap)
 
@@ -48,13 +48,13 @@ Fire Blade
 
 _Slicing blades of flame._
 
- | User slams down with their blade coated in flames.
+ | User forcefully slams down their blade coated in flames.
 
 -   Deals moderate damage.
 -   Inflicts Burn.
 -   At the end of the attack the user's weapon glows yellow and inflicts burn for a short time.
 -   Deals high posture damage.
--   User can walk while casting.
+-   User can walk while casting, giving some sort of mobility
     -   User is slowed while casting.
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
@@ -87,7 +87,7 @@ Burning Servants
 
 _A legion of flames._
 
- | User conjures six burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+ | User summons six blazing warriors armored with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster. Before all striking one final time at the center and dissapearing in flames.
 
 -   Deals moderate damage.
 -   Inflcits Burn.
@@ -103,7 +103,7 @@ Fire Gun
 
 _A bullet of flames shot through each hand._
 
- | Caster readies and propels bullets of flames from their hands towards the cursor's location.
+ | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   No Cooldown.
@@ -142,14 +142,14 @@ Blind
 
 _Snap your fingers, shooting a projectile that blinds those who dare gaze at it._
 
- | User snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
+ | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamcharm mantra.
-    -   Unaffected by [Luck](Luck.md).[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
+    -   Unaffected by ~[Luck](Luck.md)~. (Removed)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
--   Not very effective on experienced users because the duration isn't long enough to make a big difference. It may even just serve as a mild inconvenience for them.
+-   Not very effective on experienced users because the duration isn't long enough to make a big difference for space to attack. It may even just serve as a mild inconvenience for them.
 
  |
 |  | 
@@ -160,7 +160,7 @@ Fire Palm (★)
 
 _A blast of flame._
 
- | User releases a burst of flame in front of them.
+ | User releases a burst of flame from the palm in front of them.
 
 -   Cone shaped hitbox.
 -   Deals moderate damage.
@@ -182,6 +182,7 @@ _A pyroclastic eruption._
 -   NPCs have trouble blocking the second explosion.
 -   The second explosion posture breaks.
 -   Inflicts Burn.
+-   Medium-Heavy endlag
 
  |
 |  | 
@@ -226,7 +227,7 @@ Flame Assault (★★)
 
 _Burst forward in flames._
 
- | User dashes forward covered in flames; hitting anyone in their path.
+ | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire.
@@ -246,11 +247,12 @@ Ash Slam (★★★)
 
 _Strike the ground, turning it to ash._
 
- | User strikes twice in front of the user, creating a fiery blast each time.
+ | User imbues their fist with flames that explode on impact with the ground. strikes twice in front of the user and creates an bursting explosion each time.
 
 -   Requires at most 30 Strength and 50 Flamecharm.
 -   Deals moderate damage.
 -   Inflicts Burn.
+-   Similar to Fire Eruption, but with more mobility and less endlag
 
  |
 
@@ -315,7 +317,7 @@ Graceful Flame
 
 _Conjure an undying flame for the caster and their comrades to rest by._
 
- | Caster holds out their arm while concentrating their flame before conjuring an orb of fire.
+ | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -696,7 +698,7 @@ These are talents found in "_Lava Serpent_" Category.
 
 Eruption Path: Lava Serpent
 
- | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
+ | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. This talent can also be empowered with using Agitated spark, no longer procing burn on the user but procs a second explosion which is VERY useful
 
 -   Requires 40 Flamecharm
 

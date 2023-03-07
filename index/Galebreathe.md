@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 56040
+revid: 56372
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -20,11 +20,11 @@ Galebreathe icon
 
 _A gremor using Gale Lunge_
 
-Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras.
+The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras. This attunement also is excellent for so-called "Trackstar builds" due to the insane mobility talents this Attunement holds.
 
 While Galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivalling attunement-less. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice Galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and Frostdraw builds. It's suggested to use the high manoeuvrability and weakness exploiting playstyle to be patient, and go in when the time is right.
 
@@ -90,7 +90,7 @@ _Slicing blades of wind._
 
  | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AOE projectiles if the mantra lands.
 
--   Deals moderate damage.
+-   Deals moderate-high damage (If the whole move hits).
 -   Projectile is medium-ranged and explodes on impact.
 
  |
@@ -190,6 +190,7 @@ _Grab your opponent and toss them with the power of gale._
 -   Deals good-high damage.
 -   Able to break block if posture is high enough.
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md).
+-   Applies knockback.
     -   Needs more testing.
 
  |
@@ -202,7 +203,7 @@ Rising Wind
 
 _Use wind to uppercut and propel yourself into the air._
 
- | Caster uppercuts their opponent, rapidly damaging them.
+ | Caster ascends and uppercuts their opponent, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to the opponent while rising.
@@ -256,7 +257,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | Several fast, wind-enhanced slashes in a form a star and release winds in all directions in front.
+ | The user casts several fast, wind-enhanced slashes in a form of a star.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
@@ -280,7 +281,7 @@ Gale Wisp
 
 _A servant of wind._
 
- | Spawns a wisp of wind. Must use ritual casting.
+ | Spawns a spherical wisp of wind. Must use ritual casting.
 
 -   Grant 30% fall damage resist.
 -   Haunted Gale requires one less perfect cast to activate (3 to 2)
@@ -759,7 +760,7 @@ FROM: Inhale
 -   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
--   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI.
+-   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.
 -   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
 -   The _"Gale Leap"_ talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
 -   The \[Q\] key activates Gale Dash.

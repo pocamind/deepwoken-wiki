@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56314
+revid: 56420
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -53,9 +53,14 @@ categories: [Oaths, Character, Talents, Mechanics]
 | oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra |
 
+| Oath: Silentheart | |
+|---|---|
+| oath_req | Only known requirement is 5 oath grips, do not fully trust full as people do lie. |
+| effects | +5 Posture, +10 Health |
+
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently nine obtainable Oaths in _Deepwoken.._
+There are currently ten obtainable Oaths in _Deepwoken.._
 
 ## Pathfinder (No Oath)
 
@@ -575,6 +580,61 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
 -   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
 -   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
+    
+
+**Silentheart:**
+
+# **Oath: Silentheart**
+
+“ Get good, ez, dog, wipe now ”
+
+― random ganymede who can't parry mantras or perfect-cast solving his skill issue with this oath.
+
+### Obtainment
+
+Most likely related to the Dreadstar that was shadow updated this patch.
+
+### Effects
+
+-   You are unable to obtain, modify or use any Mantras. Upon obtaining the oath, your mantra tab is removed.
+-   Attunements are unable to be used or obtained.
+-   You gain red veins coursing over your arm and torso.
+-   Your vent turns red.
+
+### Upgrading
+
+Killing the five [Attunement](Attunements.md) [trainers](Attunement_Trainers.md)
+
+### **Oath Abilities**
+
+-   **Merciless Blade - Passive**
+    -   You can now execute enemies much faster. Reduces base grip speed to 1.5 seconds.
+-   **Dread Fighter - Passive**
+    -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
+-   **Lodestar - Passive**
+    -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
+-   **Ankle Cutter - Passive**
+    -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
+-   **True Vantage - Passive**
+    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed bost.
+        -   Makes your Vents Red. Purely cosmetic.
+-   **Mani Katti - Passive**
+    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
+        -   While it requires a stack of Dread to be used, it does not COST a stack of Dread, meaning it can be spammed non-stop.
+
+### Notes
+
+-   Newest oath added since Verse 2.
+-   This oath may or may not affect Resonances obtained with it.
+-   This oath was found only recently so expect inaccurate information.
+
+### Trivia
+
+-   This oath takes inspiration from the Fire Emblem series.
+-   The ship where you obtain the oath "The Beloved Zofia" is the signature weapon of Celica from FE Echoes: Shadows of Valentia
+-   Dread Fighter is the name of a sword class from FE Echoes: Shadows of Valentia. It's main feature is it's high magic resistance.
+-   Mani Katti is the name of Lyn's signature weapon, and the animation for the attack is her critical animation from FE: The Blazing Blade
+-   Lodestar is an alternate Lord class featured in both FE: Awakening, and FE: Fates
     
 
 ## Lore Oaths:

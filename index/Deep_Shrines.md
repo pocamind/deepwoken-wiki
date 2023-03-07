@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56356
+revid: 56387
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -162,7 +162,7 @@ _Pros/Cons_
 -   Lets you take a card if you accidentally burnt it or if it was buffed into the most meta thing known to man.  
     
 
-**Shrine of Division**
+### **Shrine of Division**
 
 “ VERY WELL. WHICH WORDS WILL BE FORGOTTEN? ”
 

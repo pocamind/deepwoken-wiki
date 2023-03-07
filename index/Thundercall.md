@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 56302
+revid: 56370
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -14,9 +14,9 @@ _Thundercall icon_
 
 _A Thundercall infused sword_
 
-Thundercall grants the user the ability to control thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
+Thundercall grants the user the ability to control, conjure and create thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 
-Thundercall makes use of a highly unpredictable nature with high slow/stun potential.
+Thundercall makes use of a highly unpredictable nature due to it's speed and high slow/stun potential.
 
 The playstyle of this attunement is unpredictability, creativity, and speed. Most overlook it's combat capabilities, but don't be fooled, as this element allows for a lot of switch-up potential. The switch-up potential comes in it's talents that modify mantras, giving you a choice to switch things up. This ranges from having a slash after your lightning blade, all the way to insta-casting mantras after meeting certain requirements. With these talents giving you the option of instant casting to make it difficult to impossible for your opponent to react, you will be given the upper-hand forcing them to predict your next move. This attunement would most likely fit players who rely on their creativity rather than combos and brute force. It also has some talents which make this almost like a beatdown attunement, with some talents creating "stacks" upon doing certain things, or some mantras that apply buffs to the user (Most notably the lightning cloak), making the fight increasingly more difficult for the opponent as it goes on.
 
@@ -67,7 +67,7 @@ Jolt Grab
 
  | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
 
--   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown framees.
+-   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown frames.
 
  | Damage:
 
@@ -122,7 +122,7 @@ Lightning Impact
 
  | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
--   Can be upgraded with the Talent, Rains of Static.
+-   Can be upgraded with the Talent, Rains of Static, which makes the user rain down bolts of thunder from the air with the follow-up impact
 -   Can light opponents and the player on fire.
 -   Applies knockup.
 
@@ -221,7 +221,7 @@ Modifiers:
 Grand Javelin  
 (★★☆)
 
- | A javelin of lightning. | User throws a spear of lightning in front of them.
+ | A javelin made out of lightning. | User throws a spear of lightning in front of them.
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
@@ -289,7 +289,7 @@ Lightning Stream
 
  | A stream of lightning. | Grapples onto an enemy and pulls them in.
 
--   Stuns the opponent, allowing a chance to begin a combo.
+-   Stuns the opponent, allowing a small chance to begin a combo.
 -   Can be upgraded with a Blast Spark to deal extra damage and stop enemies but no longer pull them towards you.
 
  | Damage:
@@ -336,7 +336,7 @@ Modifiers:
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
+ | A rush of lightning. | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be upgraded with Cloudstones.
