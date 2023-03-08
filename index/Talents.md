@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56489
+revid: 56584
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1699,6 +1699,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 100 Charisma, 50 Strength
 
 -   No Survivors \[Common Talent, Charisma\] - Your allies and yourself execute faster when affected by Overcharm.
+    -   Prerequisites: 80 Charisma, 45 Strength
+-   Rule Through Fear \[Rare Talent, Charisma\] - Executing an enemy applies Overcharm to nearby allies and yourself.
+    -   Prerequisites: 85 Charisma, 50 Strength
 
 ### Undying Ember
 

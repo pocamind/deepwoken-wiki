@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 54176
+revid: 56564
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,7 +37,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent and slices their throat with dagger. |
+| Execute | Pins down opponent and slices their throat with the Krulian Dagger. |
 
 ## Trivia
 

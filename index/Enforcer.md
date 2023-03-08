@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 56005
+revid: 56571
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -79,7 +79,7 @@ If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial 
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy Weapons Training and 25 Strength.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **Enforcer's Eye:** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
+-   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
 
 ## Lore
 

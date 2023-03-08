@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56546
+revid: 56587
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Complete the ghost quest, Die to an attunement user, 75 Weapon Mastery, 40 Strength, 40 Charisma/Agility |
+| oath_req | Take the ghost quest, Die to an attunement user, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
 | effects | +5 Posture, +10 Health |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
@@ -590,10 +590,12 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ― Character's inner thoughts upon obtaining Silentheart
 
+NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY LIKELY TO BE SPREAD
+
 ### Obtainment
 
-1.  Have 75 Weapon (Uncap is not needed), 40 Strength, 40 Charisma/Agility.
-2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts.
+1.  Have at least 75 Weapon (uncap not needed), and 40 Strength. You also need 40 Charisma **OR** 40 Agility.
+2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
 3.  Die to an attunement user.
 4.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
@@ -631,15 +633,11 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 ### Notes
 
--   While all mantras are voided and the mantra tab become unavailable, the character still have them. Consult the Shrine of Division to convert them into 2 random talents.
+-   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them. Consult the Shrine of Division to convert them into 2 random talents.
 
 ### Trivia
 
 -   This oath is the only oath that do not give any mantra slots.
-
-  
-
--   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
     
 
 ## Lore Oaths:
@@ -710,7 +708,6 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
--   The [Windrunner](Windrunner.md) and [Eylis](The_Knives_of_Eylis.md) have the potential to be related to a new oath. However, the Windrunner does not mention an oath in his dialogue, so him being connected with an oath is still unknown. This oath could be a reference to Jetstriker and its relation with song and wind.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
@@ -719,7 +716,10 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   Jetstriker and Dawnwalker turn your eyes white, regardless of your race or variant.
+-   Some oaths change your character's eye color.
+    -   Visionshaper gives the user purple eyes.
+    -   Dawnwalker gives the user white eyes.
+    -   Contractor gives the user black eyes.
+    -   Jetstriker gives the user light blue eyes.
 -   You can sacrifice yourself to get Linkstrider.
--   Dawnwalker was created by developer yayafino as a [modspec of sorts](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).
--   "It's supposed to be useless" - The words of the utterly deranged.
+-   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)

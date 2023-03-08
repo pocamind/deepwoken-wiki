@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 56332
+revid: 56557
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -247,7 +247,8 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p><br>
   Many talents exist to add properties to your Dashes. For example, if a Galebreather obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
   <p><br>
-  <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p></td>
+  <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p>
+  <p>Another possible button combo you can perform allows you to perform a running attack but with directional control. To do this, you have to initiate the running attack and roll in any direction immediately after. This will negate the speed of the running and cancel the roll immediately but let you roll while performing an attack that has extra range as well as let you move freely. So you can easily poke at an opponent from the side easier with a smaller chance of missing due to range. This may also allow you to roll an attack with the benefit of the counter-attack. (very difficult to roll left with your left hand due to the button placement on your keyboard)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

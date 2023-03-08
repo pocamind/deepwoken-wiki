@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 55958
+revid: 56585
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Resonance, Skills]
@@ -56,3 +56,4 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in a random direction while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
+-   Combat Dimensional Travel and Normal Dimensional Travel create separate realms. If a Combat owner used their portal next to a Normal owner, upon entering the portal- neither one of them would be next to the other.

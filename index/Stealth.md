@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 50736
+revid: 56552
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,7 +41,7 @@ When crouching:
 -   Players can activate [Murmur: Tacet](Murmur.md#murmur-tacet), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
 -   Parkour is restricted.
 
-Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds. During this ragdoll, you are still able to deal damage to the enemy.
+Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds (can be extended with the talent _Hidden Blade_). During this ragdoll, you are still able to deal damage to the enemy.
 
 Some enemies such as the Monks at [Songseeker Wilds](Songseeker_Wilds.md) or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
 

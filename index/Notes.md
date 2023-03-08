@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 36930
+revid: 56549
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,7 @@ categories: [Mechanics]
 
 the Notes symbol
 
-Notes have various ways in which they can be used.
+Notes can be used in various ways, listed below.
 
 ### Dropping
 

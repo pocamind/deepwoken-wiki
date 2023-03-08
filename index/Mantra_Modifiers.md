@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 56300
+revid: 56563
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -162,7 +162,7 @@ Eternal Logstone
  | 
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
--   Add 3 keys to Ritual Casts
+-   Add 2 keys to Ritual Casts
 
  | 
 
@@ -306,6 +306,7 @@ Gem
 -   Thunder - Stuns more
 -   Shadow - Steals more ether
 -   Wind - Suffocate deals more damage and slows more.
+-   Add 2 keys to Ritual Casts
 -   Graceful Flame increases Healing Speed.
 -   Increases insanity given by gaze.
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
