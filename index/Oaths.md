@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56587
+revid: 56588
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -638,6 +638,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 ### Trivia
 
 -   This oath is the only oath that do not give any mantra slots.
+-   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
     
 
 ## Lore Oaths:

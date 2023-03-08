@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 56557
+revid: 56589
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -185,7 +185,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
     <li>In continuation of the ending point, if someone uses Ice Lance but you manage to score a hit as they drive it towards you, you will take no damage from the Ice Lance- it won't even stick into you, even if you were meant to be hit by it.</li>
   </ul><p><br>
   Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a mantra.</p>
-  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p></td>
+  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p>
+  <p><br>
+  Performing a running M1 after your opponent rolls one of your attack will cause your character to lock onto your opponent with a 100% chance of hitting them unless they somehow outrun your hitbox. This is essential for catching players attempting to run away from you.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
