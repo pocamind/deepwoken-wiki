@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 56448
+revid: 56622
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,7 +40,7 @@ Picture of a Crafting Bench
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber
--   **[Repair Kit](Repair_Kit.md)** - 3 Wood, 5 Iron
+-   **[Repair Kit](Repair_Kit.md)** - 3 Wood, 3 Iron
 -   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal
 
 ## Food Recipes

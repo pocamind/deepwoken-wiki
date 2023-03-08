@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 56165
+revid: 56620
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -10,8 +10,8 @@ categories: [Pages with broken file links, Resonance]
 
 | Shard Bow | |
 |---|---|
-| effect | Jumps up, back, and fires arrows. |
-| appearance | White bow that appears in front of the user. |
+| effect | Leaps backwards to fire 1-3 arrows at the opponent. |
+| appearance | A silvery bow, seemingly made of pure light. |
 
 “ Conjure a mythical bow that hails down crystallized arrows. ”
 
@@ -55,6 +55,6 @@ Startup of jumping up into the air when shooting is a bit longer.
 
 -   Does a little less damage than a Strong Left (presumably without 100 str scaling) according to Agamatsu
 -   It heavily depends on the talents and the other variables, meaning that it’s hard to account how much damage it does.
--   Reference to _The Stormlight Archive_'s Shardbows
+-   Reference to _The Stormlight Archive_'s Grandbows.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts"
 -   Can be dodged/parried.

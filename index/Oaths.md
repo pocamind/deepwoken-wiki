@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56588
+revid: 56625
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -594,9 +594,9 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 
 ### Obtainment
 
-1.  Have at least 75 Weapon (uncap not needed), and 40 Strength. You also need 40 Charisma **OR** 40 Agility.
+1.  Have at least 75 Weapon (uncap is not needed), and 40 Strength. It's suspected that you need 40 in at least one other core attribute. Agility is both the easiest and the best confirmed way.
 2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
-3.  Die to an attunement user.
+3.  Die to an attunement user (can be either Player or NPC).
 4.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
@@ -605,6 +605,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
 -   Your vent turns red.
+-   You still be able to obtain Murmur and Bell
 
 ### Upgrading
 
@@ -618,11 +619,15 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
+        -   Stacks of dread are represented as an halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
+        -   Each stack of dread grant ?% mantra resistance and can be stacked up to ? times.
 -   **Lodestar - Passive**
     -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
+        -   This move has no cooldown and can be used at any time while sliding. On a regular slide, it can fit 2, maybe 3 usage. Over ice, this can be repeated multiple time with ease.
+        -   Can be used while sliding down slopes at no cost to your speed.
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   Makes your Vents Red. Purely cosmetic.

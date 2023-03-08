@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 54978
+revid: 56615
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -84,7 +84,7 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 
 ## Tips
 
--   It is not advised to fight these below [Power](Power.md) 30, as they're extremely difficult to fight without spare health.
+-   It is not advised to fight these below [Power](Power.md) 10, as they're extremely difficult to fight without spare health.
 -   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
 -   Whenever they land Lightning Stream, they are likely to use Thunder Kick right after.

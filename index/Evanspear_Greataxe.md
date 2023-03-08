@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 55502
+revid: 56612
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -33,5 +33,6 @@ It can be obtained from multiple sources, most commonly [Crimson Terrapods](Terr
 ## Trivia
 
 -   Deals Bleed Damage. The true damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG.
--   Due to it's main source being Crimson Terrapods, it's widely considered quite difficult to obtain.
--   A good way for getting the weapon is using the Terrapod Bait, which have a small chance of spawning a Crimson version of Terrapod, instead of normal one. Chests located in Eternal Gale are also considered a good farming option.
+-   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests.
+-   A good way for getting the weapon is farming Eternal Gale, as crimson terrapods are no longer recommended.
+-   This weapon is heavily advised to be used in PvE due to it's bleed and high damage

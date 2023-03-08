@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 54988
+revid: 56613
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -50,4 +50,4 @@ A Hive Adjudicator executes it's opponent after knocking them:
 
 ## Trivia
 
--   Very rarer to come across as they only spawn to hunt player with low Hive reputation, as well as the fact that they are not guaranteed to spawn because sometimes only Constructs spawn.
+-   Very rare to come across as they only spawn to hunt player with low Hive reputation, as well as the fact that they are not guaranteed to spawn because sometimes only Constructs spawn.
