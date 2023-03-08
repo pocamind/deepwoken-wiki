@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 51410
+revid: 56518
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,7 +18,7 @@ _Chance of obtaining race: **17.8%**_
 
 ## Description
 
-Celtors are a common race with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into The Depths.
+Celtors are a common race with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy, and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into The Depths.
 
 ## Racial Traits
 

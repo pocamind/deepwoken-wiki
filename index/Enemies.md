@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 56278
+revid: 56488
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -66,6 +66,6 @@ Humanoid Enemies can have **enchanted** weapons, however it's only given to cert
 
 **The Ministry File:Eylisiconfactoin.png**
 
-  
+**Attunement Trainers**
 
 **Miscellaneous**

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 56443
+revid: 56547
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Races, Character, Mechanics]
@@ -34,13 +34,13 @@ The percent chance of rolling a race changes per roll, the percentages listed be
 
 ## Exclusive "Spec" Races/Unobtainable
 
-These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it.
+These races are not obtainable via ordinary means, rather, they are handed out by devs (dont ask you wont get it lol)
 
 ## NPC Exclusive Races
 
 These races are currently exclusive to NPCs, and have not been confirmed to be obtainable by players.
 
-## Generic Last Names
+## Generic Surnames
 
 -   Fording
 -   Humbell
@@ -50,8 +50,8 @@ These races are currently exclusive to NPCs, and have not been confirmed to be o
 ## Notes
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Many of the factions in Deepwoken are inherently xenophobic/racist.
--   Players may also treat the player differently depending on their race.
--   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
+-   Players may also treat the player differently depending on their race, Ex: Felinors.
+-   All races are balanced, and the player does not need a rare race to be considered **good** at the game. Races provide only small buffs.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
 -   Khan, Gremor, Adret, Etrean, Canor, Celtor and Krulian are the only races to have an in-game item named after them.

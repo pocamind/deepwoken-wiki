@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt Coral
-revid: 56466
+revid: 56500
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Monster Mantra Ingredients]
 ---
 
 # Megalodaunt Coral

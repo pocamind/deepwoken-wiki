@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56481
+revid: 56514
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -179,16 +179,17 @@ _Benefits/penalties_
 
 1.  **(BENEFIT)** Trade in a mantra for 2 random cards.
 
-**(PENALITY)** Lose 10 Knowledge
+**(PENALTY)** Lose 10 Knowledge
 
 _Pros/Cons_
 
--   Lets you get 2 talents if you decide that you no longer want to use a manta.
+-   Lets you get 2 talents if you decide that you no longer want to use a mantra.
 
 ## Trivia
 
 -   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit
--   The Shrines are most notably references to another Roguelike, the Risk Of Rain series. Such as the Shrine of Order and Shrine of Chance preform similar to said shrines in Risk of Rain 2.
+-   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
+    -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
 -   You do not need to deal with the Shrines of Conceit or Order for the contractor quest.
 -   Deep shrines most likely have something to do with [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>), due to the deep shrines in the [Temple Of Hearts](Temple_of_Hearts.md), the fact that you can make deals with the deep shrines, Similarly to Yun'shul.

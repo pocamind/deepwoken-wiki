@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56482
+revid: 56546
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Weapon Unbound, Complete the ghost quest, Die to an attunement user, 40 STR |
+| oath_req | Complete the ghost quest, Die to an attunement user, 75 Weapon Mastery, 40 Strength, 40 Charisma/Agility |
 | effects | +5 Posture, +10 Health |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
@@ -586,16 +586,16 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ Get good, ez, dog, wipe now ”
+“ This heart beats differently, it drums to the beat of the world, not the Song, ever silent. Your eyes open. ”
 
-― random ganymede who can't parry mantras or perfect-cast solving his skill issue with this oath.
+― Character's inner thoughts upon obtaining Silentheart
 
 ### Obtainment
 
-1.  Uncap your weapon by speaking to Maestro Evenguarde Rest at [Isle of Vigils](Isle_of_Vigils.md)
-2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts
-3.  Die to an attunement user
-4.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship
+1.  Have 75 Weapon (Uncap is not needed), 40 Strength, 40 Charisma/Agility.
+2.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts.
+3.  Die to an attunement user.
+4.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
 
@@ -616,21 +616,16 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
-        -   Kill Nell, the Frostdraw trainer at Etris to obtain this talent.
 -   **Lodestar - Passive**
     -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
-        -   Kill Friid, the Galebreath trainer at Isle of Vigil to obtain this talent.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
-        -   Kill Amashi, the Flamecharm trainer at the Songseeker Temple to obtain this talent.
 -   **True Vantage - Passive**
-    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed bost.
-        -   Kill Funke, the Thundercall trainer at Summer Isles to obtain this talent.
+    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   Makes your Vents Red. Purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
-        -   Kill Nostor, the Shadowcast trainer at City of the Drowned to obtain this talent.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
         -   12 seconds cooldown.
 
@@ -727,3 +722,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Jetstriker and Dawnwalker turn your eyes white, regardless of your race or variant.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker was created by developer yayafino as a [modspec of sorts](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).
+-   "It's supposed to be useless" - The words of the utterly deranged.

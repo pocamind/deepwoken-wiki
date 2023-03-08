@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 56444
+revid: 56539
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Uses, Locations]
@@ -13,3 +13,5 @@ categories: [Uses, Locations]
 **Beloved Zofia** is an island added in **Deepwoken** on 6/03/2023, located in the **Voidsea.**
 
 The island contains a shrine named **"Dreadstar"**, required for the **Ghost quest**, located at the **Isle of Vigils**, and the **Silentheart** oath obtainment quest.
+
+This is likely the same ship as the one in the [Castaway](Origins.md) tutorial, as the inside and top seem to be the same.

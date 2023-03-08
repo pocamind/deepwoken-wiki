@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 56431
+revid: 56508
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -28,8 +28,7 @@ A race of nomadic dragons.
   <ul>
     <li><i>"Find your centre."</i>
   <ul>
-    <li>Functionally identical to the <a href="https://deepwoken.fandom.com/wiki/Talents#Flamecharmer">Produce Spark</a> <a href="Talents.md">talent</a>, except it produces a white flame (cosmetic).</li>
-    <li>Fires lit by this:
+    <li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head, entering a campfire like state that:
   <ul>
     <li>Stops your thirst/hunger from depleting</li>
     <li>Makes you gain passive exp on stats you are actively training</li>
@@ -61,12 +60,16 @@ A race of nomadic dragons.
 
 -   +2 Fortitude
 -   +2 Agility
+-   Portable source of healing
+-   Passive EXP gain
     
 
 **Weaknesses:**
 
   
-  
+
+-   Lose Race upon leaving the mod team
+    
 
 **Surnames:**
 
