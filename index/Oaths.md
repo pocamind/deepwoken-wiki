@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56687
+revid: 56693
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -726,11 +726,11 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Speaking to an attunement trainer as a Silentheart will trigger the dialogue: "Your ether... just what have you done?"
 -   Some oaths change your character's eye color.
-    -   Visionshaper gives the user purple eyes.
+    -   Visionshaper gives the user magenta eyes.
     -   Jetstriker gives the user light blue eyes.
     -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
-    -   Contractor gives the user black eyes.
+    -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives the user dull eyes.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)

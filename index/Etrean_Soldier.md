@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 54727
+revid: 56691
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -17,7 +17,7 @@ An Etrean Naval Guard is a enemy NPC that can only be found in the following eve
 -   Etrean Naval Guards vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
 -   Etrean Naval Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
--   Etrean Naval Guards vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Naval Guards vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
 
 An Etrean Naval Guard wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They can also appear younger or older than 40 years old.
 

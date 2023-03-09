@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56617
+revid: 56690
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -2161,7 +2161,7 @@ File:Thresherquest1.png
     -   Gives a burst of insanity to yourself, which achieve the following:
         -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
         -   Talent that need you to be losing sanity are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   80 willpower, tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
+    -   80 willpower, have HAD tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
 
