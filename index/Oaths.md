@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56693
+revid: 56695
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -182,7 +182,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 “ Domain Expansion.. ”
 
-― A adret Visionshaper taking a young gremor freshie into their illusionary realm
+― An adret Visionshaper taking a young gremor freshie into their illusionary realm
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -599,7 +599,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), and 40 Strength. You also need 40 Charisma **OR** 40 Agility.
 3.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
-4.  Die to an attunement user (can be either Player or NPC).
+4.  Die to an attunement user (can be either Player or NPC. You need to knocked by mantra).
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects

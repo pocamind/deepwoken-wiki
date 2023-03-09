@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 53394
+revid: 56697
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -91,3 +91,4 @@ N/A
 
 -   Mothwing Dust does not proc if you instigate the fight.
 -   Mothwing Dust lasts 10 seconds _**with a cooldown of ?**_
+-   The Hallowtide variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection was worshipped by the Moth Tribe.

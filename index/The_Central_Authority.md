@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 55108
+revid: 56704
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -13,9 +13,9 @@ categories: [Factions]
 | territory | Central Luminant , Eastern Luminant, Fort Merit |
 | goals | Conquest of all Luminants. |
 
-“ You won't stop our mission. ”
+“ God, another one of the locals... Why did I get a post here on the east? ”
 
-― The last words of many Authority foot-soldiers.
+― Authority Peacekeeper
 
 **The Authority** is one of the major and most influential factions in Deepwoken, with their presence seen almost everywhere in the game either directly or indirectly.
 

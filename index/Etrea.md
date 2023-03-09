@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 53043
+revid: 56702
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -41,7 +41,7 @@ Enemy status with Etrea
 
 ## NPCs
 
--   The Lord Regent
+-   [The Lord Regent](The_Lord_Regent.md)
 -   Kennith
 -   Nerin (Resets reputation to your default rep when you spawn in, unlocks the Sly boon.)
 -   Captain Etrean

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56683
+revid: 56696
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -184,7 +184,7 @@ _Benefits/penalties_
 _Pros/Cons_
 
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
--   **YOU CAN NOT USE THIS IF YOU HAVE SILENTHEART**
+-   **~YOU CAN NOT USE THIS IF YOU HAVE SILENTHEART~** Not true, Mantra will still remain in your character but you cannot acess it in anyway. (I just used the shrine not long ago.)
 
 ## Trivia
 

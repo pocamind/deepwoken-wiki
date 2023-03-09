@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 56537
+revid: 56701
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -418,7 +418,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | ? | 
+ | _Close the distance and deliver a fast slash._ | 
 
 -   **Requirements:** **Around 65 Medium Weapon.** _Combat Mantra_
 -   Dash forward and do a large AOE slice with your sword.
