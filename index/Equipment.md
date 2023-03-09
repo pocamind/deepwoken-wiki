@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56459
+revid: 56664
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2079,7 +2079,8 @@ Ironsinger Heavy Plate
 
  | 
 
-Grants a random buff.
+Grants a random buff.  
+**Requires Power 3, Fortitude 10**
 
  | 
 
@@ -3143,7 +3144,7 @@ Finisher's Ring
 
 Extra PEN on your attacks that flourish opponents.
 
-**Requires Power 40**
+**Requires Power 15 (?)**
 
  | 
 

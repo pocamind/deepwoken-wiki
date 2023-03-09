@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 56517
+revid: 56662
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -30,6 +30,7 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Voidheart](Voidheart.md)
+-   [Beloved Zofia](Beloved_Zofia.md)
 
 ## Potential Enemies
 
