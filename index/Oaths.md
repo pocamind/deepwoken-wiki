@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56667
+revid: 56687
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -633,7 +633,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   Can be used while sliding down slopes at no cost to your speed.
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
-        -   Makes your Vents Red. Purely cosmetic.
+        -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
@@ -731,5 +731,6 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user black eyes.
+    -   Silentheart gives the user dull eyes.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)

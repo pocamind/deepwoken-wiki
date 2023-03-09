@@ -1,9 +1,9 @@
 ---
 title: The Dreadstar
-revid: 56531
+revid: 56681
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Pages with broken file links, NPCs, Oaths]
 ---
 
 # The Dreadstar
@@ -20,9 +20,7 @@ He has an appearance similar to [Yun'Shul, The Keeper Of Hearts's](<Yun'Shul,_Ke
 
 It's unknown wether or not this could be the Avatar of a Drowned God that seeks revenge for something or just an unrelated entity, but his hatred for the song could be linked to the wrath of the Drowned Gods during to the canticlism, extra [lore](Lore.md) piece right there
 
-## Dialogue
-
-### Oath requirement met
+## Oath requirement met
 
 <table>
 <tbody>

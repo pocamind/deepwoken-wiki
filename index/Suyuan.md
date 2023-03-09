@@ -1,10 +1,18 @@
 ---
 title: Suyuan
-revid: 56545
+revid: 56682
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, Oaths]
 ---
 
 # Suyuan
 
-ghost dude in vigil library between a hall of books
+| Suyuan | |
+|---|---|
+| name | Suyuan |
+| location | Isle of Vigils library |
+
+## Description
+
+Suyuan is an Etrean NPC inside the [Isle of Vigils](Isle_of_Vigils.md) library which is in the [temple](Temple_of_the_Blade.md). He is currently related to the [Silentheart](Oaths.md) oath. Talking to Suyuan starts a short dialogue line about seeing ghosts, and tells the player to seek out a [Ghost Ship](Beloved_Zofia.md).
