@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56747
+revid: 56810
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -135,6 +135,7 @@ For example, if you're Power 8 then you would have 120 stat points. If your Pre-
 
 _Pros/Cons_
 
+-   **YOU CAN ONLY USE SHRINE OF ORDER ONCE.**
 -   Very hard to make use of if, as stats that you want to keep high like weapon and attunement will be balanced down to your other attributes.
 -   Requires Power 8.
 -   Grants a Random Flaw.

@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 56802
+revid: 56838
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
+categories: [OutdatedPages, Pages with broken file links, Oaths, Character, Talents, Mechanics]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -70,15 +70,17 @@ Initially, all players start as a **Pathfinder**, which does not provide any ben
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
 
+File:Nofr.png
+
   
 
 **Oathless:**
 
 # **Oath: Oathless**
 
-“ NO ARCHY MAGE PLEASE! ”
+“ Oathless is supposed to be useless ”
 
-― Azure flame shattered katana user realizing their 200-year-old build is no longer meta.
+― The words of the utterly deranged.
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -636,16 +638,17 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
+        -   Does not target allies.
         -   12 seconds cooldown.
 
 ### Notes
 
-\- Getting an attunement potion locks you out of the oath – cant get interaction with shrine of order after bargained with shrine for oath
-
--   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them. Consult the Shrine of Division to convert them into 2 random talents.
+-   Getting an attunement potion locks you out of the oath
+-   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   Having a weapon equipped makes it emit a slight noise accompanied by unknown whispering. (Needs to be confirmed)
+-   A very strong and easy to play Oath, however, its limited options makes it very predictable. It also completely falls appart in water, with no ability to chase unless a weapon with a lunge crit is used.
     
 
 ## Lore Oaths:
@@ -734,3 +737,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
+-   "Oathless is supposed to be useless" then why is it in the game you crazy asshole? **Just make it progress-able and not useless, goofy. What the fuck?** Stop smoking that crazy shit. It's gonna kill ya'll. Seriously, this ain't Pathfinder. It's an Oath but without any requisites. Just treat it as such.

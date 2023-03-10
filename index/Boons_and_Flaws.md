@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 54796
+revid: 56813
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -53,7 +53,6 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 -   Gremor's who are blind see better then others, being blessed by Navae.
 
-  
 Gained from obtaining the Blindseer Oath.
 
  | 1 |
@@ -81,7 +80,7 @@ Count as 2 flaws, cannot be taken with another flaw.
  | 2 |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You regenerate slightly less at campfires.
 
-Given after rerolling your stats at the Shrine of Order.
+Given after removing Oath: Oathless at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 (Not an Unlockable Flaw)
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 56528
+revid: 56814
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1697,7 +1697,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
     -   Dual Requirement: Hivelord Hubris (100 HVY, 60 STR)
     -   Penetration: Nemit's Sickle, Kyrsedge, Kyrstreza, Shattered Katana, First Light (30%)
     -   Chip damage: Night Axe (60%)
-    -   Scaling: Revolver, Divine Greatsword (15 LHT)
+    -   Scaling: Revolver, Divine Greatsword (15)
     -   Weight: Enforcer Hammer (12)
     -   Range: Revolver, Dragoon (12)
     -   Swing Speed: Divine Dagger (1.15x)

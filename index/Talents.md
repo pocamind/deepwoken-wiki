@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56734
+revid: 56815
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -358,9 +358,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Does not work on non humanoid monsters.
     -   Prerequisite: 25 Strength
 
--   _Defiance_ \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
+-   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
-    -   The Innate talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs instead of status effects.
+    -   The Innate talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs.
 
 ### Charm Caster
 
