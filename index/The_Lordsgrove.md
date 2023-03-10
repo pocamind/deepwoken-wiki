@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 52860
+revid: 56865
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -44,7 +44,7 @@ The fountain
 
 ### Owl Spawn
 
--   In the last update (06-feb-23) added an "static owl spawn", located on the left side of the place, precisely passing the hole that is in that area (see image), be careful, if you do not have the level or do not know how to fight against an owl, avoid going through that area since they **will appear instantly and will be aggressive since the first second of spawn** (doesn't have the owl spawn dialoge and the falling feathers doesnt appear), have a mid spawn radious and they give hive loot and drop void/dark feather.
+-   In the last update (06-feb-23) added a "static owl spawn", located on the left side of the place, precisely passing the hole that is in that area (see image), be careful, if you do not have the level or do not know how to fight against an owl, avoid going through that area since they **will appear instantly and will be aggressive since the first second of spawn** (doesn't have the owl spawn dialoge and the falling feathers doesnt appear), have a mid spawn radious and they give hive loot and drop void/dark feather.
 
 ## Trivia/Notes
 

@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 56838
+revid: 56926
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Oaths, Character, Talents, Mechanics]
+categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -69,8 +69,6 @@ There are currently ten obtainable Oaths in _Deepwoken.._
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
-
-File:Nofr.png
 
   
 
@@ -526,7 +524,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ Ah sh\*t, here we go again ”
+“ The Duke tells you you've killed him once before. You nod sadly. ”
 
 ― Contractor user entering duke's manor.
 
@@ -600,7 +598,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), and 40 Strength. You also need 40 Charisma **OR** 40 Agility.
 3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
-4.  Die to an attunement user, this can be either Player or NPC. You need to be knocked by mantra for it to work.
+4.  Die to a player that uses an attunment.
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects

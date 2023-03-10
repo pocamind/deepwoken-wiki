@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 55924
+revid: 56874
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -257,6 +257,18 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
+
+### **The Dreadstar**
+
+-   Located behind Minityrsa with in the lost ship in the voidsea.
+-   His appereance is similar to the shrine of Yun' Shul, but there is no indication of being related to the drowned god.
+-   It has the power to make oaths with the players that meet certain requirements and that shares a hate towards the song.
+-   The oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
+-   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the oath, but this is just a small contradiction in the game.
+-   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
+-   Has a deep hatred against the song and to the 5 attunment trainers (not counting the Attument-less trainer)
+-   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song bya attunment people or bya other meanings, but this is just a speculation.
+-   Apparently when you complete the Dreadstar revenge on the attunment trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerfull technically, tought this has to be confirmed.
 
 ### **Alsin**
 

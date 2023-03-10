@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 56317
+revid: 56905
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -71,9 +71,13 @@ After this you are able to talk to Akira, in which he has two different conversa
 > 
 > Akira: As I said, I'm really quite busy with reading right now.
 > 
-> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[(100) Charisma\]
+> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[Less than 100 Charisma\]
 > 
-> Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) (He's not at Castle Light after this)
+> Akira: So be it... {He uses his "Top Pop" resonance to kill you, popping your head and giving you the death card: Your own foolishness}
+> 
+> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[With 100 Charisma\]
+> 
+> Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) <- (He's not at Castle Light after this)
 > 
 > Talking to him in a separate event after already talking to him:
 > 
@@ -134,5 +138,5 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
--   Akira's bell is officially called "Top pop"
+-   Akira's bell is officially called "Top pop".
 -   Akira's bell flashes purple when he kills the Ignition Union officers.

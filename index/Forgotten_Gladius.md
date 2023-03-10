@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 55535
+revid: 56882
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -17,7 +17,7 @@ categories: [Weapons, Swords]
 | range | 7.5 |
 | swing speed | 0.78x |
 | penetration | 13% |
-| selling price | N/A |
+| selling price | 25 Notes |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

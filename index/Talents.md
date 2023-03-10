@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56815
+revid: 56875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -44,7 +44,6 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages_.
 -   _Risky Moves_ **or** _Safety Dance/Observation._
 -   _Conditioned Runner_ **or** _Fishman_.
--   Silent Heart's True venting or Ghost
 -   _Eruption Path: Lava Serpent_ _**or** The Final Act_.
 -   _Orbital Ice_ **or** _Fist of Fortitude_.
 
@@ -1545,10 +1544,13 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
 -   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
+    -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   Prerequisites: Shared Demise, 90 Agility
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
+    -   Pressing the V key on a knocked entity whos out of range teleport you to them.
     -   Prerequisite: Shared Demise, 100 Agility
 -   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
+    -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
     -   Prerequisites: Assassin Talents, 85 Agility
 
 ### Tactician
@@ -1929,6 +1931,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
     -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
 
+-   Oath: [Silent Heart](Oaths.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
+    -   Prerequisites: 40 Strength, 40 Agility, 75 Weapon, get knocked by a mantra from any max attunement user and get gripped by them, do the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md) and fight the ghosts, go back to [Suyuan](Suyuan.md), go back to [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 -   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
     -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
 
