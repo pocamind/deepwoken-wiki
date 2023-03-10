@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 56496
+revid: 56751
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -221,3 +221,4 @@ categories: [Deepwoken]
     -   Perceiving them drives you to insanity
     -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
     -   Have to be summoned via rituals
+-   Sudaruska the Undying may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.

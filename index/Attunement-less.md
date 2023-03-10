@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 56701
+revid: 56705
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Attunement]
 
 “ Is that a Jojo reference? ”
 
-― Jojo fan seeing Strong Left for the first time
+― Jojo fan seeing Rapid Punches for the first time
 
 File:No attunement.png
 

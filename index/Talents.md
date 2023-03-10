@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56690
+revid: 56734
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -44,6 +44,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages_.
 -   _Risky Moves_ **or** _Safety Dance/Observation._
 -   _Conditioned Runner_ **or** _Fishman_.
+-   Silent Heart's True venting or Ghost
 -   _Eruption Path: Lava Serpent_ _**or** The Final Act_.
 -   _Orbital Ice_ **or** _Fist of Fortitude_.
 

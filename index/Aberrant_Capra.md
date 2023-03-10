@@ -1,9 +1,9 @@
 ---
 title: Aberrant Capra
-revid: 56361
+revid: 56763
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races, Exclusive Races, Character]
+categories: [Pages with broken file links, Races, Exclusive Races, Character]
 ---
 
 # Aberrant Capra
@@ -18,13 +18,55 @@ The Aberrant Capra is a subrace of the [Capra](Capra.md). Much like the [Primal 
 
 The Aberrant Capra has goat-like ears, blue eyes, four dark curved horns and spikes protruding from their face.
 
-## Lore
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td>File:Seaborne.png</td>
+  <td><b>Mark of Jurik</b> (Moon)
+  <ul>
+    <li>Buffs the sanity of one person they choose around them as long as they are at a campfire or level 5+</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Intelligence</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
+
+**Lore:**
+
+  
 
 "However the conditions that lead are specific:  
 Those who are expecting must be within [The Depths](The_Depths.md), exposed to its negative effects for a prolonged period of time.  
 It begins to alter the development of the child in their fetal stages."
 
 Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Capra, and is a lore character. The reason behind the exclusivity of the race is due to the mutations caused by the depths leading to miscarriages or stillbirths, with only a very slim chance of surviving into adulthood in the rare case they're born alive.
+
+**Strengths:**
+
+  
+
+-   +2 Intelligence
+-   +2 Willpower
+-   The ability to buff allies around them
+    
+
+**Weaknesses:**
+
+  
+
+-   Buffs can only be placed on other players and not yourself.
+    
 
 ## Trivia
 

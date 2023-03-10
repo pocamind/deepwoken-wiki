@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56695
+revid: 56765
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -296,7 +296,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
 -   Symbiotic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
--   What kind of fucked up requirements are these? I just got the Depression flaw from doing this solo. What ex-Creator of Grand Skewer deemed these requirements worth such a mediocre reward?
 
 **Jetstriker:**
 
@@ -731,6 +730,6 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user dark maroon eyes.
-    -   Silentheart gives the user dull eyes.
+    -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)

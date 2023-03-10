@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 47196
+revid: 56749
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -20,13 +20,17 @@ These status effects can be beneficial to the player.
 
 This effect causes the player to regain lost health and blood much faster, but loses hunger and thirst much faster. This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md) or [Graceful Flame](Flamecharm.md).
 
+### Bloodlusted
+
+A speed boost triggered by executing someone while you have [Time to Go](Talents.md#acrobat). Signified by red glowing eyes.
+
 ### Reinforced
 
-Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defence. If you Reinforce others, gain 10% damage and defence increase. Signified by pale yellow particles.
+Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defence. If you Reinforce others, gain 10% damage and defence increase. Signified by pale yellow particles sorrounding the body.
 
 ### Blood Shadow
 
-When Reinforce is applied to an ally with the talent Blood Shadow, steal their HP until your are full HP. Signifed by red and yellow particles.
+When Reinforce is applied to an ally with the talent Blood Shadow, steal their HP until your are full HP. Signified by red and yellow particles sorrounding the body.
 
 ### Hyperarmor
 
@@ -50,11 +54,27 @@ Applied by the mantra [Lightning Cloak.](Thundercall.md) Have your swing speed a
 
 ### Adrenaline Surge
 
-Have your movement and parkour speed increased by 15%. Applied by the [Adrenaline Surge](Attunement-less.md) mantra.
+Have your movement and parkour speed increased by 15%. Applied by the [Adrenaline Surge](Attunement-less.md) mantra. Signified by a white circle in your chest.
 
 ### Gone Berserk
 
 Gain a 20% defence boost to all sources. Applied after knocking someone with the talent Berserk.
+
+### Overcharm
+
+Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signifed by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent.
+
+### Mark of Jurik
+
+Buffs the sanity of one or more people near you. Applied if the person is near a campfire or level 5. Signified by teal particles surrounding the body.
+
+### Mark of Nemit
+
+Buffs the nourishment of food for one or more people near you. Applied if the person is near a campfire or level 5. Signified by light green particles surrounding the body.
+
+### Mark of Ku
+
+Buffs the regen of one or more people near you. Applied if the person is near a campfire or level 5. Signified by light red particles surrounding the body.
 
 ## **Harmful Status Effects**
 
@@ -126,9 +146,11 @@ Take 20% more damage from all sources for 4 seconds. Applied by being hit by the
 
 ### Time Stasis
 
-Applied by standing in the time stasis bubble made by the [Eylis Captains.](Subtle_Knife_of_Eylis.md) Have your screen grayscaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting the Eylis Captain or walking out of the bubble.
+Applied by standing in the time stasis bubble made by the [Eylis Captains.](Subtle_Knife_of_Eylis.md) Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can easily be removed by hitting the Eylis Captain or walking out of the bubble.
 
-  
+### Audacity
+
+Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signifed by White Eyes in the moment of the execution.
 
 ## **Deadly Status Effects**
 
@@ -136,11 +158,15 @@ These status effects cause certain death if nothing is done about them.
 
 ### Bleeding out
 
-This effect happens once your blood bar is **zero**. Once this happens, both your hunger and thirst will rapidly drop down to zero. Your health will start to rapidly drop and to make matters worse, you are also knocked, which gives you no chance to recover. Eventually, you will die once your health gets to zero. Currently, there are no known ways to prevent dying to bleed. To avoid bleeding out, keep check of your blood bar especially if you have the flaw: Hemophilia. If you're low on blood you can regain blood by sitting at a campfire at the cost of a bit of food and thirst. Signifed
+This effect happens once your blood bar is **zero**. Once this happens both hunger and thirst will rapidly drop to replish your blood. You will also become slower and get your screen to blur and darken. Your blood can replenish to a point if you have enough food and water on you, but if you don't you will eventually die of starvation/dehydration as your body cannot live without food and water. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 
 ### Parched
 
-This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If your thirst reaches zero, you get knocked.
+This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If it ever does reach 0, you won't get knocked or take any damage unless your hunger is also gone.
+
+### Starved
+
+This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, and deal less damage. If it ever does reach 0, you won't get knocked or take any damage unless your thirst is also gone.
 
 ### Acid
 

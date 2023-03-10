@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56696
+revid: 56747
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -183,8 +183,10 @@ _Benefits/penalties_
 
 _Pros/Cons_
 
+-   Allows you to remove any mantras if you took Silentheart.
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
--   **~YOU CAN NOT USE THIS IF YOU HAVE SILENTHEART~** Not true, Mantra will still remain in your character but you cannot acess it in anyway. (I just used the shrine not long ago.)
+-   Heavy cost
+-   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
 
 ## Trivia
 
