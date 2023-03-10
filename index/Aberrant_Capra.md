@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 56763
+revid: 56784
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Character]
@@ -66,6 +66,13 @@ Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Cap
   
 
 -   Buffs can only be placed on other players and not yourself.
+    
+
+**Full Names:**
+
+  
+
+-   Sir Phaidros / Phaidros Immergent
     
 
 ## Trivia

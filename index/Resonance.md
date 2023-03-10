@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 56334
+revid: 56793
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -26,7 +26,7 @@ _**NOTE: Resonances cannot be used for 1v1's in [Chime of Conflict.](Chime_of_Co
 
 **Resonances** have a set amount of unseen _**Resonance** points_ when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
 
-**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. They can also be of varying colors influenced by your character's color palette and attunement, ranging from yellow, green, to red, dark blue, black and purple. Rerolling your **Resonance** will alter the appearance of your bell.
+**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. They can also be of varying colors influenced by your character's color palette and attunement, ranging from yellow, green, to red, dark blue, black and purple. Rerolling your **Resonance** will alter the appearance of your bell. As of 07/03/23, you can use a dye packet to color your bell according to your preference.
 
 ## Variants
 
@@ -215,7 +215,7 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.
--   Contrary to popular belief, Blessed versions of **Resonances** DO NOT exist.
+-   Near release, there were rumors of **Blessed Resonances**\- opposite of **Corrupted Resonances**\- existing and being equally as rare. These have been debunked, and **do not exist in the game as of now.**
 -   Assumed to be a bug, sometimes if you choose or reroll a **Resonance**, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56765
+revid: 56802
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -60,7 +60,7 @@ notices:
 | oath_req | Take the ghost quest, Die to an attunement user, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
 | effects | +5 Posture, +10 Health |
 
-**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain and like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
 There are currently ten obtainable Oaths in _Deepwoken.._
 
@@ -281,7 +281,7 @@ Does not grant any special cosmetic based on race.
 
 -   -   **Symbiotic Sustain**
         -   If linked to an ally (signified by blue cord), this move will take ~5% of **YOUR** health and then heal your **ally** by that times an undefined amount.
-    -   **Symbiotic Leech**
+    -   **Parasitic Leech**
         -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
 
 ### Effects
@@ -295,7 +295,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   Please don't aim for this because of how hard it is to get (as a solo player) I assure you it won't be of help.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
--   Symbiotic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
+-   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
 
 **Jetstriker:**
 
@@ -597,8 +597,8 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), and 40 Strength. You also need 40 Charisma **OR** 40 Agility.
-3.  Speak to the [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
-4.  Die to an attunement user (can be either Player or NPC. You need to knocked by mantra).
+3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
+4.  Die to an attunement user, this can be either Player or NPC. You need to be knocked by mantra for it to work.
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
@@ -640,11 +640,12 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 ### Notes
 
-– cant get interaction with shrine of order after bargained with shrine for oath
+\- Getting an attunement potion locks you out of the oath – cant get interaction with shrine of order after bargained with shrine for oath
 
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
+-   Having a weapon equipped makes it emit a slight noise accompanied by unknown whispering. (Needs to be confirmed)
     
 
 ## Lore Oaths:

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 56748
+revid: 56767
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,21 +59,20 @@ They are keepers of ancient secrets who travel the seas sharing knowledge with t
 
   
 
-+2 Intelligence  
-+2 Willpower  
-The ability to buff allies around them
-
-_**THE FOLLOWING MAY BE FALSE**_
-
-(Ok so upon further testing on my capra they all share all of the passives: Insanity resistance, faster regen and less prone to starvation. Meaning this is, unironically one of the best races for multi progression.)
+-   +2 Intelligence  
+    
+-   +2 Willpower  
+    
+-   The ability to buff allies around them
+    
 
 **Weaknesses:**
 
   
 
-Buffs can only be placed on other players and not yourself.
-
-Need friends. :(
+-   Buffs can only be placed on other players and not yourself.
+-   Need friends. :(
+    
 
 **Surnames:**
 

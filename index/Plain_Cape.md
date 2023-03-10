@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 56460
+revid: 56769
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]

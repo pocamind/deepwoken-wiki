@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 54823
+revid: 56786
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -13,7 +13,7 @@ notices:
 
 “ URAOblOblOOblWAUUGH ”
 
-― Megalodaunt Roar
+― Megalodaunts when they see a freshie
 
 _Commonly referred to as **Sharko**_
 
