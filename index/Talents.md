@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56943
+revid: 56954
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1819,7 +1819,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly. \[This only applies to npcs.\]
     -   Prerequisites: 75 in any Weapon Mastery attribute
 
--   Matador \[Common Talent\] - Deal +20% more damage to enemies with hyperarmor.
+-   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisite: 20 Strength, 5 Agility
 
