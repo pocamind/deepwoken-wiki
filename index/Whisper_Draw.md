@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 56950
+revid: 56967
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -82,7 +82,7 @@ Every whisper roll also provides you with an [Ace](Aces.md), allowing you to eit
 </tr>
 <tr>
   <td>16</td>
-  <td></td>
+  <td>✔</td>
 </tr>
 <tr>
   <td>17</td>
@@ -94,11 +94,11 @@ Every whisper roll also provides you with an [Ace](Aces.md), allowing you to eit
 </tr>
 <tr>
   <td>19</td>
-  <td></td>
+  <td>✔</td>
 </tr>
 <tr>
   <td>20</td>
-  <td></td>
+  <td>❌</td>
 </tr>
 </tbody>
 </table>

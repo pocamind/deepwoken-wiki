@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 56589
+revid: 56959
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -185,9 +185,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
     <li>In continuation of the ending point, if someone uses Ice Lance but you manage to score a hit as they drive it towards you, you will take no damage from the Ice Lance- it won't even stick into you, even if you were meant to be hit by it.</li>
   </ul><p><br>
   Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a mantra.</p>
-  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p>
-  <p><br>
-  Performing a running M1 after your opponent rolls one of your attack will cause your character to lock onto your opponent with a 100% chance of hitting them unless they somehow outrun your hitbox. This is essential for catching players attempting to run away from you.</p></td>
+  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -220,12 +218,13 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td>When the player has at least 40 tempo (indicated by a small notch on the tempo bar), pressing the <kbd>G</kbd> key will make the player Vent.<p><br>
   Venting pushes others nearby away and grants a brief period of invincibility and relief, which allows the player to get out of tricky situations such as being comboed or being overcrowded.</p>
   <p><br>
-  Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited...</p>
+  </p>
+  <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited...</p>
   <p><br>
   <i>You are able to vent while assassinated. This is the best way to counteract assassin builds, as failing to Vent after being assassinated will leave you at their mercy.</i></p>
   <ul>
     <li><i><b>While block-broken, you cannot Vent.</b></i></li>
-  </ul></td>
+  </ul><p>Venting is also blockable.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -271,13 +270,15 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Uppercut</th>
   <td>You may hit your adversaries up into the air with an <i>Uppercut</i> by pressing <kbd>M1</kbd> while holding <kbd>Ctrl</kbd>. If your opponent is a monster, they will fail to rise with you and instead remain grounded.<p><br>
-  Uppercuts are advertised as anti-air tools, being able to counter an adversary that attempts to strike you from the air. The hitbox affects a small area around you- not requiring you to face your opponent, but rather to be in the effective range of your victim as the move forces your character forward.</p>
+  </p>
+  <p><br>
+  Uppercuts are advertised as anti-air tools, being able to counter an adversary that attempts to strike you from the air. The hitbox affects a wide area in front of you, covering the sides and front requiring you mostly to face your opponent when the move drives you forward to strike.</p>
   <p>Victims hit by Uppercuts are unable to block, and parry timing is seemingly tighter, which makes Uppercuts play a big role in combos. Comboing will keep you in the air, while feinting and parrying will drop both of you.</p>
   <p>Certain talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some talents add properties to Flourishes.</p>
   <p><br>
   Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using- making Uppercuts especially useful for Heavy users (and furthermore for those Gran Sudaruska users...).</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
-  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them against the floor, which will result in any wall-bang talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
+  <p>Landing a flourish on an opponent suffering from the stun of your arial combo will automatically kick them to the floor, which will result in any wall-bang talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
   <td></td>
 </tr>
