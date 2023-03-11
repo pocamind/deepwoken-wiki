@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 54756
+revid: 57002
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -10,7 +10,7 @@ categories: [World, Items]
 
 | Dying Embers | |
 |---|---|
-| value | ? |
+| value | 2 |
 | weight | 0 |
 | type | Elemental Ingredient |
 | bankable | Yes |

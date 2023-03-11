@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56955
+revid: 56990
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -427,6 +427,23 @@ Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+|  | 
+
+[Bloodfeather Cowl](Bloodfeather_Cowl.md)
+
+ | 
+
+Grants a random buff.
+
+_+Talent: Bloodletter'_
+
+ | 
+
+Chests from:
+
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Static-assets-upload321884259233421803.png | 
@@ -2306,7 +2323,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Black, Brown, Green, White (Work in progress) |
-| File:Aristocrat Coat.png | 
+| File:Beige Aristocrat Coat.png | 
 
 [Aristocrat Coat](Aristocrat_Coat.md)
 
@@ -2485,7 +2502,7 @@ Other sources:
 
 -   Drop from [Corrupted King Threshers](King_Thresher.md)
 
- | Red, Black, Faded, Jet Black, Orange & Purple |
+ | Red, Black, Faded, Black, Orange & Purple |
 | File:Sharko coat.png | 
 
 [Megalodaunt Coat](Megalodaunt_Coat.md)
@@ -2524,9 +2541,26 @@ Grants a random buff.
 
 Chests from:
 
+-   [Aelita](Aelita.md)
 -   [Minityrsa](Minityrsa.md) (Valley of Heroes)
 
- | Onyx, Peach, Scarlet, Rose & Smoke (Work in Progress) |
+ | Onyx, Peach, Scarlet, Rose & Smoke |
+|  | 
+
+[Ministry Operative Cloak](Ministry_Operative_Cloak.md)
+
+ | 
+
+Grants a random buff.
+
+ | 
+
+Chests from:
+
+-   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 | File:Pale.jpg | 
 
 Assassin's Cloak
@@ -2551,7 +2585,7 @@ Chests from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 
- | Crimson, Gold, Mist & Pale (Work in Progress) |
+ | Crimson, Gold, Mist & Pale |
 |  | 
 
 [Providence Coat](Providence_Coat.md)
@@ -3421,11 +3455,9 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 
  | N/A |
-| 
+|  | 
 
- | 
-
-Phalanx Heavy Boots
+[Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 
  | 
 

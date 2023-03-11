@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56942
+revid: 56997
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -634,7 +634,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
-    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invincible and invisible.
+    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
         -   Does not target allies.
         -   12 seconds cooldown.
@@ -646,6 +646,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
+-   The Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
     
 
 ## Lore Oaths:

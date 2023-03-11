@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 56595
+revid: 56996
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -28,14 +28,14 @@ A spell trainer **WILL NOT** train you if you do not have the element learned. H
 | Representation | Trainer | Name | Island | Location | Description |
 | --- | --- | --- | --- | --- | --- |
 | 
- | [Galebreath Trainer](Galebreathe.md) | Friid | [Isle of Vigils](Isle_of_Vigils.md) | She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple. | Friid is a [Celtor](Celtor.md) who uses [Galebreath](Galebreathe.md).
+ | [Galebreath Trainer](Galebreathe.md) | [Friid](Friid,_Master_of_Gale.md) | [Isle of Vigils](Isle_of_Vigils.md) | She is found sitting next to a campfire at a tent in a small area close to the entrance to the temple. | Friid is a [Celtor](Celtor.md) who uses [Galebreath](Galebreathe.md).
 
 When fought, she uses a [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
  |
 | 
 
- | [Frostdraw Trainer](Frostdraw.md) | Nell | [Etris](Etris.md) | 
+ | [Frostdraw Trainer](Frostdraw.md) | [Nell](Nell,_Master_of_Frost.md) | [Etris](Etris.md) | 
 
 Follow the path at the right of the [Guildhouse.](Guilds.md)
 
@@ -51,7 +51,7 @@ When fought, she uses a [Gran Sudaruska](Gran_Sudaruska.md).
 
 File:FireSpelltrainer.png
 
- | [Flamecharm Trainer](Flamecharm.md) | Amashi | [Songseeker](Songseeker_Wilds.md)
+ | [Flamecharm Trainer](Flamecharm.md) | [Amashi](Amashi,_Master_of_Flame.md) | [Songseeker](Songseeker_Wilds.md)
 
 [Wilds](Songseeker_Wilds.md)
 
@@ -71,14 +71,14 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
 
 File:B7624e4fd89708c9b9612665c1835545.png
 
- | [Thundercall Trainer](Thundercall.md) | Funke | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
+ | [Thundercall Trainer](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
 When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
 
  |
 | 
 
- | [Shadowcast Trainer](Shadowcast.md) | Nostor | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has yellow-colored rooftops, making it easy to find. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+ | [Shadowcast Trainer](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has yellow-colored rooftops, making it easy to find. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
 
   
 The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)

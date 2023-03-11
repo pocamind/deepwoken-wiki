@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 56967
+revid: 56969
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Whisper rolls are special hands of cards that provide the player with mantras. Y
 
 ### Info
 
-Whisper rolls only present themselves on powering up to a certain level, by the time the player has reached level 20, they will have been offered ~10 Whisper Rolls.
+Whisper rolls only present themselves on powering up to a certain level, by the time the player has reached level 20, they will have been offered 12 Whisper Rolls.
 
 Every whisper roll also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
 
@@ -98,7 +98,7 @@ Every whisper roll also provides you with an [Ace](Aces.md), allowing you to eit
 </tr>
 <tr>
   <td>20</td>
-  <td>❌</td>
+  <td>✔</td>
 </tr>
 </tbody>
 </table>

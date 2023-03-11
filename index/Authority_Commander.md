@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 56962
+revid: 57000
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor, and +20% Ether Regeneration. Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
 
-The [Riot Breaker](Talents.md#riot-breaker) talent reduces incoming posture damage and increases outgoing posture damage when fighting multiple enemies. ~Interestingly, it is a flat reduction, so with enough enemies attacking the user, attacks will deal negative posture damage, restoring posture instead.~ (This has been now fixed and does not grant negative posture damage.)
+The [Riot Breaker](Talents.md#riot-breaker) talent reduces incoming posture damage and increases outgoing posture damage when fighting multiple enemies.
 
 ## Location
 
