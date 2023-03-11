@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 56708
+revid: 56948
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -16,7 +16,9 @@ Stratos is an NPC found sitting at the fountain in the courtyard of the "[Temple
 
 ## The Quest
 
-To complete the quest, you need to sail for a period of time with your sail getting the full wind boost. (It should have a flashing indicator due to updates.) To do this, you can sail into the Voidsea whilst having the wind boost (risks of the [Dread Serpent](Dread_Serpent.md) murdering you), or you could also go back and forth from the [Isle of Vigils](Isle_of_Vigils.md) to [Minityrsa](Minityrsa.md) without a speedgate, with almost no risk other than players. This quest cannot be progressed using an ironclad, as there are no sails.
+To complete the quest, you need to sail for a period of time with your sail getting the full wind boost. (It should have a flashing indicator due to updates.) To do this, you can sail into the Voidsea whilst having the wind boost (risks of the [Dread Serpent](Dread_Serpent.md)), or you could also go back and forth from the [Isle of Vigils](Isle_of_Vigils.md) to [Minityrsa](Minityrsa.md) without a speedgate, with almost no risk other than players. This quest cannot be progressed using an ironclad, as there are no sails.
+
+**Note: You cannot obtain windwaker without being a [Galebreather](Galebreathe.md). You can complete the quest, just without reward.**
 
 ## The Reward
 

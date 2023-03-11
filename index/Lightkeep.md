@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 55323
+revid: 56944
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -39,6 +39,7 @@ Lightkeep icon (UNOFFICIAL)
 -   Viqh is the currently only known **Lightkeeper** and childhood friend of [Nimea](The_Hidden_Village.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using **Lightkeep** for battle, assuming she has used her time in the [lighthouse](Eastern_Interstitial_Lighthouse.md) to hone her skills for combat.
 -   Arch\_Mage has said he wants to add **Lightkeep** magic
 -   ****Lightkeep** has no relation to [Lightborn](Lightborn.md).**
+-   [Lightkeep Suggestion Doc by 13452hi, the guy who made the page.](https://docs.google.com/document/d/1tKCnmAlG8HQbuWMYxhJi5D3U09lFdODwa_jUtC72s_8/edit#)
     
     File:LightQuote.png
     

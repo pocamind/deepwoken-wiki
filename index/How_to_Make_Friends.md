@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 56656
+revid: 56937
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Items]
@@ -22,7 +22,7 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 
 -   Me-wow, is that the latest Felinor fashion?
 -   So, what's keeping you busy these days?
--   Hey Hivekin, can I bug you for a moment?
+-   Hey hivekin, can I bug you for a moment?
 -   So, how's work?
 -   Wow, this breeze is great, right?
 -   Sometimes I have really deep thoughts about life and stuff.

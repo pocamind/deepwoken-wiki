@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 54052
+revid: 56940
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]
@@ -32,4 +32,4 @@ The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by using 25-
 
 ## Trivia
 
--   The Greataxe is superior in terms of DPS at Power 1, due to it have no endlag.
+-   The Greataxe is superior in terms of DPS at Power 1, due to it having no endlag.

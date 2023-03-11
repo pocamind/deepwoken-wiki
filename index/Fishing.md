@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 56570
+revid: 56945
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -99,6 +99,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
 -   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lion Fish, 11 Chest and 15 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
 -   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
+-   Pufferfish Effect: Higher chance of catching a Mudskipper (Needs further inspection)
 
 ## **Trivia**
 

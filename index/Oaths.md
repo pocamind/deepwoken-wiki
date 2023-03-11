@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56926
+revid: 56942
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Oathless is supposed to be useless ”
+“ WHY ARCHY-MAGE, WHY?! ”
 
-― The words of the utterly deranged.
+― Azure flames shattered katana 100 year old build when they realize their build is now useless.
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -607,7 +607,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
 -   Your vent turns red.
--   Your eye color becomes duller and darker.
+-   Your eye color becomes duller and darker as the song no longer flows through you.
 
 ### Upgrading
 
@@ -645,8 +645,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
--   Having a weapon equipped makes it emit a slight noise accompanied by unknown whispering. (Needs to be confirmed)
--   A very strong and easy to play Oath, however, its limited options makes it very predictable. It also completely falls appart in water, with no ability to chase unless a weapon with a lunge crit is used.
+-   A very strong oath, it alters the playstyle of the game however.
     
 
 ## Lore Oaths:
@@ -735,4 +734,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
--   "Oathless is supposed to be useless" then why is it in the game you crazy asshole? **Just make it progress-able and not useless, goofy. What the fuck?** Stop smoking that crazy shit. It's gonna kill ya'll. Seriously, this ain't Pathfinder. It's an Oath but without any requisites. Just treat it as such.
+-   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, due to this many players who used the same build of azure flames and shattered katana have begone mad.

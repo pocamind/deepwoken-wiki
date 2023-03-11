@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 56048
+revid: 56939
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -47,7 +47,7 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting certain talents.
+It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 30 int/30 wil/30 chr.
 
 ## Combat Usage
 
@@ -70,9 +70,11 @@ A player's mantras are tied to their character's stats - the higher a given stat
 Large and threatening fire based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
+-   Lava serpent can be unlocked at 40 flamecharm, dealing ragdoll after any mantra for the removal of burn.
 -   Can be further upgraded with Azure Flame for even more damage
 -   Decent midrange presence
 -   Good pressure
+-   Great at dealing DOT damage
 
 ### [Thundercall Mantras](Thundercall.md)
 
@@ -89,7 +91,7 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Effects change be through upgrading Frostdraw for the "Crystalization" Talent at level 40. Crystallization comes with a whole new variety of Mantras.
+-   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
 -   Typically used close/mid range.
 -   Has a best mobility mantra "Ice Skate" because of its legendary modifier.
 -   Works with most Spike Modifiers.
@@ -103,6 +105,7 @@ Wind utilizes the best all-rounder kit amongst the elements for movement, defens
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
+-   Applies suffocate; negating mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -111,6 +114,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Excels in keep the opponent locked down and under pressure
 -   Has its niche in keeping the Ether bar up and making sure others can't use Ether.
 -   Goes well when paired with other elements.
+-   Applies obscured; obscuring the vision of the opponent.
 -   Typically used mid range.
 
 ### [Physical Mantras](Attunement-less.md)

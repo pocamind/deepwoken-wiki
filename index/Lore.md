@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 56874
+revid: 56929
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -372,13 +372,13 @@ Yun'shul's Shrine
     -   Krulians are tide to The Depths and are weakened when on the surface.
     -   Following his dance, he states he must go, as though he is being called back.
 
-### **Sudaruska the Undying**
+### **Sudaruska the Unbroken**
 
 _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, continuing to kill followers of the Nine Prophets to this day.
+-   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, continuing to kill followers of the Nine Prophets to this day.
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 

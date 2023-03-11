@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 56875
+revid: 56943
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1932,7 +1932,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
 
 -   Oath: [Silent Heart](Oaths.md) - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
-    -   Prerequisites: 40 Strength, 40 Agility, 75 Weapon, get knocked by a mantra from any max attunement user and get gripped by them, do the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md) and fight the ghosts, go back to [Suyuan](Suyuan.md), go back to [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
+    -   Prerequisites: 40 Strength, 40 Agility, 75 Weapon, be attunement-less get knocked by a mantra from any max attunement user and get gripped by them, do the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md) and fight the ghosts, go back to [Suyuan](Suyuan.md), go back to [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 -   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
     -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
 
