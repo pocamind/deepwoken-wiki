@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 51738
+revid: 57006
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -76,4 +76,4 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
--   After testing, beating trial with Adret and Autodidact gets you to power 9. (Could be a bug.)
+-   After testing, beating trial with Adret and Autodidact gets you to power 9-10. (Could be a bug.)

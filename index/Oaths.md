@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 56997
+revid: 57024
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -581,6 +581,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
 -   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
 -   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
+-   If you for some reason do this quest while you already have an oath, instead of giving you contractor he will say, "Then you are a fool" and kill you instantly
     
 
 **Silentheart:**

@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 56999
+revid: 57020
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -22,7 +22,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Navae Nomads in Etris and Summer Isle & (ANY) Chests |
+| obtainment | Navae Nomads in Etris, Erisia and Summer Isle & (ANY) Chests |
 | description | "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 56704
+revid: 57061
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -33,7 +33,7 @@ A large military organization, native to the Central Luminant. They are lead by 
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
--   Enemies with [The Hive](The_Hive.md). (Although Hive and Authority aren't TECHNICALLY at war)
+-   Enemies with [The Hive](The_Hive.md).
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).

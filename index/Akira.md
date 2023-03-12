@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 56905
+revid: 57021
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -138,5 +138,5 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
--   Akira's bell is officially called "Top pop".
+-   Akira's bell is officially called "Top pop."
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
