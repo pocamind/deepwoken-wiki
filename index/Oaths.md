@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57086
+revid: 57090
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -597,7 +597,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 ### Obtainment
 
 1.  Be [attunement-less](Attunement-less.md).
-2.  Have at least 75 Weapon (uncap is not needed)
+2.  Have at least 75 Weapon (uncap is not needed), 40 Strength, and 40 Charisma **OR** 40 Agility.
 3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
 4.  Die to a player that uses an attunment.
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
@@ -618,7 +618,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 ### **Oath Abilities**
 
 -   **Merciless Blade - Passive**
-    -   You can now execute enemies much faster. Reduces base grip speed to 1.5 seconds.
+    -   You can now execute enemies much faster. Reduces base grip speed to 2 seconds.
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.

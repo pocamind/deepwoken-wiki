@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57079
+revid: 57098
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -201,17 +201,17 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### Assassin
 
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: Vital Point, 85 Agility
+    -   Prerequisites: 85 Agility
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: Unknown amount of Backstabs, 10 Agility
+    -   Prerequisites: Around 15 - 20 assassinations, 10 Agility
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
-    -   Prerequisite: 20 Agility
+    -   Prerequisite: Around 15 - 20 assassinations, 20 Agility
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
 
 ### Athlete
@@ -474,6 +474,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 30 Agility
 
 -   In a Hurry \[Common Talent, Light\] - You grip faster with a movement speed boost.
+    -   Prerequisite: Assassin
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
 
 ### Darksiphon

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 52539
+revid: 57104
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -14,9 +14,9 @@ _This page lists links to their respective pages. If you were looking for maps, 
 
 A list of named locations that can be found in _Deepwoken_.
 
-## Lumin's locations
+## Lumen's locations
 
-A list of named locations that can be found in Deepwokens world "Lumin".
+A list of named locations that can be found in Deepwoken's world "Lumen".
 
 -   Note: words in a bigger font are areas with sublocations of their own/are their own area with importance
 

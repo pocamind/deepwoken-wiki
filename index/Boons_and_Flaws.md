@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 57084
+revid: 57093
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -117,13 +117,13 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 
 ## Tips/Trivia
 
--   **Never get Hemophilia.** Manic is also dangerous but manageable to the point of complete safety. Vegetarian does not allow you to eat meat which is gae. And Glutton is dangerous for swimming and being sent to the Depths with little rations.
+-   **Never get Hemophilia.** Vegetarian does not allow you to eat meat which can be problematic. Glutton is dangerous for swimming and being sent to the Depths with little rations.
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras. Generally not worth taking.
     -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impossible to fix).
     -   Glutton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
-    -   Manic is basically a free point. The increased insanity gain is minimal, comes from few sources, and scratching can be completely avoided if you play properly.
+    -   Manic is basically a free point. The increased insanity gain is minimal, comes from few sources, scratching can be completely avoided if you play properly and can even benefit some builds.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.

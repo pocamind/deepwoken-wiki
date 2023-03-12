@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 56958
+revid: 57097
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -18,6 +18,7 @@ categories: [Deepwoken]
 -   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
+-   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in Avatar: The Last Airbender.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
@@ -119,7 +120,7 @@ categories: [Deepwoken]
 ## Talents
 
 -   **Captain Etrea's** name is a reference to Captain America.
--   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
+-   **Battle Tendency's** name and description is likely a reference to the second part of _Jojo's Bizarre Adventure._
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line, or possibly [this meme](https://www.youtube.com/watch?v=5_Xdi4T8mgI).
 -   **Fishman** and its description are possible references to two series.
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
@@ -163,6 +164,7 @@ categories: [Deepwoken]
     -   The Knives of Eylis wear Whaler Initiate and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
+-   A golem named [Marcus](Marcus.md) can be found in an area hidden under a house in the [Hidden Village](The_Hidden_Village.md).
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
     -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.

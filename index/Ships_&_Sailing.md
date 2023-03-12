@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 56245
+revid: 57099
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]

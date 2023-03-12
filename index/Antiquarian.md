@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 53901
+revid: 57095
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -54,6 +54,8 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | Apprentice Rapier | 14 |
 | Falchion | 14 |
 | Legion Cestus | 14 |
+| Tanto | 14 |
+| Trident Spear | 14 |
 
 **Items:**
 
@@ -62,4 +64,6 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | Megalodaunt Hide | 15 |
 | Thresher Spine | 15 |
 | Lionfish scale | 15 |
+| Dark Feather | 30 |
 | Spark Gland | 10 |
+| Frigid Prism | 2 |
