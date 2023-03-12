@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57078
+revid: 57086
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -536,7 +536,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a **deal** (not just interact) with every Deep Shrine EXCEPT the Shrines of Order and Conceit. You will not be locked out of it if you use them though.
+5.  Go make a **deal** with the following Deep Shrine: Temptation, Blasphemy, Mastery, Chance. This will cost you 20 Knowledge in total.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.
@@ -597,7 +597,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 ### Obtainment
 
 1.  Be [attunement-less](Attunement-less.md).
-2.  Have at least 75 Weapon (uncap is not needed), 40 Strength, and 40 Charisma **OR** 40 Agility.
+2.  Have at least 75 Weapon (uncap is not needed)
 3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
 4.  Die to a player that uses an attunment.
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
