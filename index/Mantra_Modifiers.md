@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 56563
+revid: 57066
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -351,7 +351,7 @@ Insignia
 
 Gem
 
- | The next Mantra you cast within a short timeframe will have a 50% windup reduction. |
+ | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
 | 
 
  | 

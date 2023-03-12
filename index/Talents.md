@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57008
+revid: 57079
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -346,6 +346,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
+-   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
+    -   Prerequisites: 85 Intelligence
 
 ### Champion
 
@@ -1261,6 +1263,9 @@ These are just raw stat increases and are beneficial to anyone.
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
     -   Prerequisite: 50 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
 
+-   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds (+3 Elemental Intensity)
+    -   Prerequisites: 80 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
+
 ### One Eyed King
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
@@ -1563,6 +1568,10 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
     -   Prerequisites: 20 Intelligence
+-   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
+    -   Prerequisites: 50 Intelligence
+-   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
+    -   Prerequisites: 50 Intelligence
 
 ### Tamed Flame
 

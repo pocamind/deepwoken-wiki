@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 56886
+revid: 57074
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -61,7 +61,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Rapid Punches<p>(★☆☆)</p></td>
   <td><i>Unleash a barrage of blows against your foes.</i></td>
   <td>
@@ -118,8 +118,6 @@ File:No Attunement Revamp.png
  |
 | 
 
-File:No Attunement Revamp.png
-
  | Reinforce
 
 (☆☆☆)
@@ -151,8 +149,6 @@ File:No Attunement Revamp.png
 
  |
 | 
-
-File:No Attunement Revamp.png
 
  | Shoulder Bash
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 57029
+revid: 57067
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ Fuck you alligator! ”
+“ Mannn I hate livin' in Detroit on goddddd ”
 
-― Thresher ripping an alligator in half at florida
+― Authority captain before being ripped apart by a gang of Threshers
 
 **Thresher:**
 

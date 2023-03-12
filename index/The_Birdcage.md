@@ -1,6 +1,6 @@
 ---
 title: The Birdcage
-revid: 52980
+revid: 57076
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Locations, World, Etrean Luminant]
 
 LocationL The Birdcage LocationR
 
-Now abandoned, the floors still void of the ashes they so desperately crave.
+Now abandoned, the floors still void of the ashes they so desparately crave.
 
   
 **The Birdcage** is a location found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.

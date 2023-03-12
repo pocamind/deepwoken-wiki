@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 57030
+revid: 57068
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Brainsucker
 
-“ SUICIDE MISSION ”
+“ BANZAI! ”
 
 ― Kamikaze Brainsuckers
 
