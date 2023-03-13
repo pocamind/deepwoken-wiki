@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57098
+revid: 57111
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -256,9 +256,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Amount of time you stay knocked is reduced.
-    -   Default knock timer is 10 seconds.
-    -   Effectiveness of this talent scales on Willpower, ranging from 7 seconds up to 3 seconds.
+    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
@@ -702,6 +700,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. ( +4 Elemental Intensity)
+    -   Negates the dmg decrease Flamecharm receives from rain.
+    -   Prevents fire from going out in rain.
     -   Prerequisites: 35 Flamecharm
 
 -   Wildfire \[Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
@@ -956,8 +956,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   Passive insanity gain from The Depths is reduced.
 
--   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
-    -   Tirans gain Feathered Glider with infinite durability.
+Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+
+-   Tirans gain Feathered Glider with infinite durability.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Guildmates take less damage from you and deal less damage to you.
