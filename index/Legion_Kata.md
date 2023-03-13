@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 53980
+revid: 57123
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-Legion Kata is a martial arts based fighting style obtained by turning in a recommendation, obtained by helping the Legion Centurion fighting the Adret in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). The M1s are exactly the same as the [Way of Navae](Way_of_Navae.md)'s, but the critical attacks differ greatly.
+Legion Kata is a martial arts based fighting style obtained by turning in a recommendation, obtained by helping the Legion Centurion fighting the Adret in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same statistics as [Way of Navae](Way_of_Navae.md), they differ in M1 animations, stances and critical attacks.
 
 While Legion Kata has the same damage as **Way of Navae**, the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 

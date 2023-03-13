@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 55084
+revid: 57130
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -15,7 +15,7 @@ notices:
 
 Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
 
-**Note:** This is not a comprehensive list of every single random encounter: more will be added
+**Note:** This is not a comprehensive list of every single random encounter: more will be added.
 
 ## Overworld Encounters
 
@@ -134,7 +134,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
-a golden warrior bouncer in the neutral position
+A Golden Warrior Bouncer in the neutral position.
 
   
 
@@ -142,7 +142,7 @@ a golden warrior bouncer in the neutral position
 
 A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses [Galebreathe](Galebreathe.md). Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
 
-A hobo in the neutral position
+A Hobo in the neutral position.
 
   
 
@@ -154,7 +154,7 @@ If you open one of their chests don't have to take the loot, they will yell at y
 
 #### Teachers
 
-Rarely, the player may find 3 [Pathfinders](Teacher.md) sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia](Erisia.md)
+Rarely, the player may find 3 [Pathfinders](Teacher.md) sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia.](Erisia.md)
 
 #### **Erisia Merchant**
 
