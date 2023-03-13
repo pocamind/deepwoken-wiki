@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57077
+revid: 57116
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -267,8 +267,8 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the oath, but this is just a small contradiction in the game.
 -   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the 5 attunment trainers (not counting the Attument-less trainer)
--   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song bya attunment people or bya other meanings, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunment trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerfull technically, tought this has to be confirmed.
+-   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
+-   Apparently when you complete the Dreadstar revenge on the attunment trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
 
 ### **Alsin**
 

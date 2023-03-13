@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 57107
+revid: 57117
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -60,7 +60,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
 
- | ◯ | ✗ | ✗ | (★★★) |
+ | ◯ | ✗ | ◯ | (★★★) |
 | **Strong Left** | Duke will charge up a punch, and teleport to his target,
 
 just to hit them.
