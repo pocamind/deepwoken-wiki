@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 56961
+revid: 57150
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -198,7 +198,11 @@ _Toss a nimble dagger._
  | User throws 3 quick burning daggers.
 
 -   Deal light damage.
+
 -   Inflicts Burn.
+
+-   Improved by Talent "Hell's Partisan"
+
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 

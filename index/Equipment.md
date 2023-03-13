@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 56990
+revid: 57149
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2951,7 +2951,7 @@ Bloodiron Ring
 
  | 
 
-Grants the ability to recover Armor durability per kill.
+Grants the ability to recover 2% of Armor durability per kill.
 
 (Stacks with Bloodiron Spirit)
 

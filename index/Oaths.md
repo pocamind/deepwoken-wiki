@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57090
+revid: 57153
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -598,8 +598,8 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), 40 Strength, and 40 Charisma **OR** 40 Agility.
-3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it.
-4.  Die to a player that uses an attunment.
+3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
+4.  Die to a player that uses an attunment. (NPC's dont count. (Tested) )
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
@@ -737,3 +737,5 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, due to this many players who used the same build of azure flames and shattered katana have begone mad.
+-   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
+-   According to lore, if everyone became a Silentheart there will be no more tides and no more drownings due to use of the song being ceased. (editor's note, this is false as corrupted resonances can be abused as they are considered misuse of the song, not to mention it isn't just the song alone used by us the players but quite literally everything, oh and we'd lose things like flame charm and its usefulness for survival and etc.)

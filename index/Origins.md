@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 56172
+revid: 57143
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -101,7 +101,15 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ## Upcoming Origins
 
--   An Authority based origin. Not much is known about it other than you being able to rise the ranks of the Authority with it.
+### **Authority Origin**
+
+-   An Authority based origin. Not much is known about it other than you being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+
+-   Probably similar to how on Deepbound you spawn with the Diver apprentice robes, and with voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
+-   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
+-   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base. (In case the origin becomes before the Central Luminant)
+-   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.
+-   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with npcs, having the adret race (and possibly canor due to being a big part of the authority in the past.) being more liked by Authority NPC's, but this will likely doesnt matter if you rank up to Commander.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57120
+revid: 57147
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -149,7 +149,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Prerequisite: 25 Agility, 25 Fortitude
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
-    -   After you don't take damage for 3 seconds, gain 300% health regen while running.
+    -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
     -   Mutual Exclusive: Fishman
 
@@ -710,7 +710,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Freak Of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
-    -   The Vesperian Race's Innate talent will only provide 3% resistance instead of the usual 5% when stacked with this talent.
+    -   The Vesperian Race's Innate talent will only provide 8% resistance instead of the usual 10% when stacked with this talent.
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
 
@@ -1554,7 +1554,8 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   Prerequisites: Shared Demise, 90 Agility
 -   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
-    -   Pressing the V key on a knocked entity whos out of range teleport you to them.
+    -   Pressing the V key on a knocked entity who's in close/medium range teleport you to them.
+    -   Can be used to go throught walls if you can aim at the knocked entity throught it.
     -   Prerequisite: Shared Demise, 100 Agility
 -   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
@@ -1568,7 +1569,8 @@ These Talents are designed to let you survive longer against starvation and thir
 -   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
     -   Prerequisite: 20 Heavy Weapons Mastery
 
--   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
+-   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether)
+    -   This effect is signaled by a yellow halo.
     -   Prerequisites: 20 Intelligence
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
     -   Prerequisites: 50 Intelligence
@@ -1610,6 +1612,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Cooldown: 8 Seconds
 
 -   _Exploding Mirage Clone_ \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
+    -   Greatly extend the range to burn entities.
     -   Prerequisite: Mirage Clone
     -   Cooldown: 9 Seconds
 
@@ -1625,9 +1628,9 @@ These Talents are designed to let you survive longer against starvation and thir
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
+    -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
     -   Prerequisite: 25 Agility, 5 Charisma
-    -   Literally the most entertaining talent in the game. Suggest getting it just for its organic and extremely wacky interactions with mantras. This talent will let you experiment and experience new possibilities or even techniques.
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
@@ -1723,7 +1726,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Undying Ember
 
 -   _Denial Repulse_ \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
-    -   When Flame of Denial activates, release an explosion around you..
+    -   When Flame of Denial activates, release an explosion around you.
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
@@ -1746,7 +1749,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 60 Galebreath
 
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
-    -   "Bleed" gives a 30% damage bonus that pierces damage cap.
+    -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
     -   Prerequisite: 25 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
