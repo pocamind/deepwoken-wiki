@@ -1,9 +1,9 @@
 ---
 title: Authority Officer
-revid: 49621
+revid: 57182
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
 ---
 
 # Authority Officer

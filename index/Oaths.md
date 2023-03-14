@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57153
+revid: 57216
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ WHY ARCHY-MAGE, WHY?! ”
+“ Oathless is supposed to be useless ”
 
-― Azure flames shattered katana 100 year old build when they realize their build is now useless.
+― The words of the utterly deranged
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -738,4 +738,5 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, due to this many players who used the same build of azure flames and shattered katana have begone mad.
 -   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
--   According to lore, if everyone became a Silentheart there will be no more tides and no more drownings due to use of the song being ceased. (editor's note, this is false as corrupted resonances can be abused as they are considered misuse of the song, not to mention it isn't just the song alone used by us the players but quite literally everything, oh and we'd lose things like flame charm and its usefulness for survival and etc.)
+-   According to lore, if everyone became a Silentheart there will be no more tides and no more drownings due to use of the song being ceased. (Note: Arch-Mage said that the way to stop the rising tides, aka drownings, will be only to stop using the song **Because the song is literally what is making the drowned gods to awake**. And silentheart is the only known way to stop using the song.)
+-   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.

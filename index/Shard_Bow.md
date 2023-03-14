@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 56620
+revid: 57202
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -41,7 +41,7 @@ File:Shard bow.gif
 
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 
-_**It is also affected by a talent named “Wyvern’s Claw”, greatly increasing the damage.**_
+_**It is also affected by a talent named “Wyvern’s Claw which gives 10% damage while airborne”, greatly increasing the damage.**_
 
 #### _Corrupted_
 
@@ -57,4 +57,4 @@ Startup of jumping up into the air when shooting is a bit longer.
 -   It heavily depends on the talents and the other variables, meaning that it’s hard to account how much damage it does.
 -   Reference to _The Stormlight Archive_'s Grandbows.
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts"
--   Can be dodged/parried.
+-   Can be dodged/parried which somewhat makes it un-sufficent against an experienced player.

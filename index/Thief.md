@@ -1,9 +1,9 @@
 ---
 title: Thief
-revid: 51906
+revid: 57186
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Enemies that can wield Enchantments, Bandits]
 ---
 
 # Thief

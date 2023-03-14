@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57147
+revid: 57225
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -474,6 +474,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   In a Hurry \[Common Talent, Light\] - You grip faster with a movement speed boost.
     -   Prerequisite: Assassin
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
+-   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
+    -   Prerequisite: 70 Agility, Hidden Blade
 
 ### Darksiphon
 
@@ -671,13 +673,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
 -   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
-    -   Prerequisites: Warding Radiance
+    -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
 -   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
-    -   Prerequisites: Fire Forge (Flamecharm Mantra)
+    -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra)
 
 -   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
-    -   Prerequisite: 20 Agility, Hell's Partisan
+    -   Prerequisite: 20 Agility, 30 Flamecharm, Hell's Partisan
 
 ### Flamecharmer
 
@@ -1781,10 +1783,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
-
--   Command: Leech \[Common Talent\] - Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
-    -   Prerequisites: 20 Charisma, Vow of Mastery
-    -   Effect: Transfers the ether of your subject to yourself
 
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents

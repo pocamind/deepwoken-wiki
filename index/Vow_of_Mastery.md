@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 55465
+revid: 57217
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -40,7 +40,7 @@ As of Verse Two, in the event that the subject's character wipes, and the previo
  | None |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) | None |
 | Locate | No | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. | None |
-| Leech | Yes, 20 Charisma | _"Leech \[Name\]"_ | 
+| Leech | No | _"Leech \[Name\]"_ | 
 
 File:Leech Talent.png
 

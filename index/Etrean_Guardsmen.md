@@ -1,9 +1,9 @@
 ---
 title: Etrean Guardsmen
-revid: 56270
+revid: 57192
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, Kingdom of Etrea Enemies]
 ---
 
 # Etrean Guardsmen

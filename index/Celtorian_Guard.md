@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 54172
+revid: 57207
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -55,4 +55,4 @@ A Celtor Guard executes it's opponent after knocking them:
 -   Celtor Guards only speak in growls and gurgles, with few exceptions.
 -   They are all Celtor.
 -   They may have unreleased variants of a Celtor.
--   They will fight [angels](Hollow_Angel.md) but not other depths monsters.
+-   They will fight [Angels](Hollow_Angel.md) but not other depths monsters.

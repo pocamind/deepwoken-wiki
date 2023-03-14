@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 55951
+revid: 57197
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -35,7 +35,7 @@ You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) yo
 -   13 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
-_**NOTE: Some good tools to help plan out your build: [https://deepwoken.tools/build](https://deepwoken.tools/build) and [https://deepwoken-builder.vercel.app](https://deepwoken-builder.vercel.app). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.**_
+_**NOTE: A good tool to help plan out your build: [https://deepwoken.co/builder](https://deepwoken.tools/build). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.**_
 
 _**NOTE 2: For unexperienced or new players: experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works, and learn from your voyages.**_
 

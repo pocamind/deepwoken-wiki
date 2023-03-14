@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 56231
+revid: 57201
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -62,44 +62,46 @@ notices:
 -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
 -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   As of 12/20/22 update, Boom, Headshot was merged into Lethal Precision.
+    -   In the 12/20/22 update, Boom, Headshot was merged into Lethal Precision.
 -   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
     -   Boot Wallet was merged into Robber Baron.
+-   **Command: Leech \[Common Talent\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
+    -   In the 03/13/23 update, Command: Leech is now a base Vow of Mastery command.
 -   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
-    -   As of the 12/06/22 update, Command: Locate became a base Vow of Mastery command.
+    -   In the 12/06/22 update, Command: Locate became a base Vow of Mastery command.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
-    -   As of 12/13/22 update, Diplomat was merged into Celebrity.
+    -   In the 12/13/22 update, Diplomat was merged into Celebrity.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
-    -   As of 01/03/23 update, Encouraging Presence was merged into Conquer Your Fears.
+    -   In the 01/03/23 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   As of the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
+    -   In the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-    -   As of 12/20/22 update, Heartbreaker was merged into Lethal Precision.
+    -   In the 12/20/22 update, Heartbreaker was merged into Lethal Precision.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
-    -   As of 12/13/22 update, Familiar Sight was merged into Tough Love.
+    -   In the 12/13/22 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
-    -   As of 02/06/23 update, Finesse was merged into Now You see Me.
+    -   In the 02/06/23 update, Finesse was merged into Now You see Me.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
-    -   As of 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
+    -   In the 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Legendary Echoes -** Receive a random Legendary Talent.
     -   With Verse 2 update most Legendary talents have turned into Advanced talents, while other - decreased in rarity to Rare.
 -   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   As of 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
+    -   In the 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
-    -   As of 12/13/22 update, Quick Recovery was into Kick Off.
+    -   In the 12/13/22 update, Quick Recovery was into Kick Off.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
-    -   As of 12/13/22 update, Salesperson was merged into Snake Oil.
+    -   In the 12/13/22 update, Salesperson was merged into Snake Oil.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
-    -   As of 01/03/23 update, Unyielding Focus was merged into Disbelief.
+    -   In the 01/03/23 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
 
 ## Other
@@ -117,5 +119,6 @@ notices:
 -   **Officer's Note -** An item that had a chance to drop from Bandit Camps in [Erisia](Erisia.md) in the early days of Deepwoken. It allowed for guards to address the player by name, granted access to the King's Palace with sufficient reputation. It was removed a few weeks after the game's release.
 -   **Renewed Ambition -** Possibly a visual indicator of when you powered up or removed the stain on your health bar. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Chaser's Phase 2 -** Chaser was meant to have another phase to his boss fight. This was scrapped.
+    -   Chaser eventually got a Phase 2, but it is unknown if it was the intended one.
 -   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations on the Roblox Engine.

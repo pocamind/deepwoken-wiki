@@ -1,9 +1,9 @@
 ---
 title: Songseeker Flamecharmer
-revid: 54947
+revid: 57187
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, Songseekers]
 ---
 
 # Songseeker Flamecharmer

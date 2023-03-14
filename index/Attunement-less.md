@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 57074
+revid: 57226
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -436,6 +436,22 @@ File:No Attunement Revamp.png
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Dazes opponents on hit.
     -   (cant be upgrade with perfect lenses)
+
+ |
+| 
+
+File:No Attunement Revamp.png
+
+ | Punishment
+
+(☆☆☆)
+
+ | _Absorb damage then return fury upon your foes._ | 
+
+-   **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
+    -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown.
+    -   After the cooldown of punishment, activating it again will proceed to do a big AOE swing that affects everyone nearby.
+    -   Is parryable.
 
  |
 
