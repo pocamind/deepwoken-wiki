@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 56479
+revid: 57235
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -31,6 +31,17 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Attributes
 
+### Strength
+
+-   _I stand far above others, an insurmountable challenge. **(Colossus)**_
+-   _My attack is unstoppable. **(Raging Bull)**_
+
+### Fortitude
+
+-   _I am an everlasting bastion. **(Bastion)**_
+-   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
+-   _In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
+
 ### Agility
 
 -   _I once performed in a circus. **(Acrobat)**_
@@ -44,23 +55,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)**_
 
-### Charisma
-
--   _I use the song to charm others. **(Charm Caster)**_
--   I seek the qualities of Showboater. _**(Showboater; Unnecessary Theatrics)**_
--   _I seek the qualities of Leader. **(Leader; Callout)**_
--   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
--   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
--   _I steal from others. **(Thief)**_
--   _I create my own vows. **(Vow of Mastery)**_
--   _I feel the pain of those around me. **(Empath; Give and Take)**_
-
-### Fortitude
-
--   _I am an everlasting bastion. **(Bastion)**_
--   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
--   _In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
-
 ### Intelligence
 
 -   _I think before I fight. **(Tactician)**_
@@ -70,11 +64,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am all knowing. **(Omniscient; All knowing, Successive Prediction)**_
 -   _I sabotage others. **(Saboteur)**_
 -   _I am an artist. **(Artisan)**_
-
-### Strength
-
--   _I stand far above others, an insurmountable challenge. **(Colossus)**_
--   _My attack is unstoppable. **(Raging Bull)**_
 
 ### Willpower
 
@@ -87,6 +76,17 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I speak to the Depths. **(Murmur)**_
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
+
+### Charisma
+
+-   _I use the song to charm others. **(Charm Caster)**_
+-   I seek the qualities of Showboater. _**(Showboater; Unnecessary Theatrics)**_
+-   _I seek the qualities of Leader. **(Leader; Callout)**_
+-   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
+-   _I get my way. **(Silvertongue; Friends in High Places, Snake Oil, Golden Tongue)**_
+-   _I steal from others. **(Thief)**_
+-   _I create my own vows. **(Vow of Mastery)**_
+-   _I feel the pain of those around me. **(Empath; Give and Take)**_
 
 ### Weaponry
 
@@ -140,16 +140,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I would see this world freeze. **(Ice Age)**_
 -   _I am a Glassdancer from the Eastern Steppes. **(Glass Dancer)**_
 
-### Galebreathe
-
--   _I walk the skies. **(Cloudwalker; Gale Leap)**_
--   _I speak to the winds. **(Galebreather)**_
--   _I use the winds to enforce my will. **(Galeforce)**_
--   _I fight for the Legion. **(Legion Shock Trooper)**_
--   _I am a master of the winds. **(Aeromancer)**_
--   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
--   _The song shall be silenced. **(Silencer)**_
-
 ### Thundercall
 
 -   _I work for the Authority. **(Authority Interrogator)**_
@@ -159,6 +149,16 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash)**_
 -   _I speak to lightning. **(Thundercaller)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
+
+### Galebreathe
+
+-   _I walk the skies. **(Cloudwalker; Gale Leap)**_
+-   _I speak to the winds. **(Galebreather)**_
+-   _I use the winds to enforce my will. **(Galeforce)**_
+-   _I fight for the Legion. **(Legion Shock Trooper)**_
+-   _I am a master of the winds. **(Aeromancer)**_
+-   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
+-   _The song shall be silenced. **(Silencer)**_
 
 ### Shadowcast
 

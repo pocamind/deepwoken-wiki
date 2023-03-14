@@ -1,6 +1,6 @@
 ---
 title: Nightblood
-revid: 39031
+revid: 57240
 source: https://deepwoken.fandom.com/wiki/Nightblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attunement]
@@ -18,7 +18,7 @@ File:Entrance.png
 
 The location of the Shadowtrainer is right behind this grate
 
-The _Nightblood_ potion is an item used to obtain [Shadowcasting](Shadowcast.md) in _Deepwoken_, the fifth [Attunement](Attunements.md) which one cannot start with.  
+The _Nightblood_ potion is an item used to obtain [Shadowcast](Shadowcast.md) attunement in _Deepwoken_, the fifth [Attunement](Attunements.md) which one cannot start with.  
 
 ## Obtaining
 
@@ -28,9 +28,9 @@ Once you've gotten the 5 [Umbral Obsidian](Umbral_Obsidian.md), you must venture
 
 The next step is locating the [Shadowtrainer.](Attunement_Trainers.md) To find her you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has yellow-colored rooftops, making it easy to find. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
 
-The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. (See picture)
+The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainer's](Attunement_Trainers.md) cave. (See picture)
 
-After finding them, simply give them the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask, drink it, and there you have it.
+After finding her, simply give her the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask, drink it, and there you have it.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 52652
+revid: 57243
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -45,8 +45,8 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 -   At the wooden elevator, there is a stairway. Upon following it and going forward you will find the Etrean Guardmaster on a boat. Talk to them to start the quest.
 -   Pick up the Etrean hostages within the prison and talk to the Guardmaster while carrying them.
--   You will be rewarded with a chest containing decent gear and loot.
--   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 10 minutes before being able to rescue more hostages.
+-   You will be rewarded with a chest containing great gear and loot.
+-   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
 
 ### **The Captain (Officer Note Quest)**
 

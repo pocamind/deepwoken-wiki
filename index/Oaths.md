@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57216
+revid: 57238
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -599,7 +599,7 @@ NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), 40 Strength, and 40 Charisma **OR** 40 Agility.
 3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
-4.  Die to a player that uses an attunment. (NPC's dont count. (Tested) )
+4.  Die to a player that uses an attunment. (NPC's dont count.) (Can be done not in order.)
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
@@ -629,14 +629,16 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
-        -   This move has no cooldown and can be used at any time while sliding. On a regular slide, it can fit 2 usage. Over ice, this can be repeated multiple time.
+        -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.
+        -   4 seconds cooldown.
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
+        -   Damage scales on your weapon, however, light weapon deal increased damage and heavy weapon deal reduced damage.
         -   Does not target allies.
         -   12 seconds cooldown.
 

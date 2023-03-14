@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 56608
+revid: 57242
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -192,6 +192,7 @@ _Grab your opponent and toss them with the power of gale._
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md).
 -   Applies knockback.
     -   Needs more testing.
+-   Hyper-armor
 
  |
 |  | 
@@ -245,7 +246,8 @@ _A quick swirl of sharp winds._
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size.
--   Cannot be canceled once the attack initiates.
+-   Pushes opponents hit by the final slash away.
+-   Cannot be canceled once the attack initiates. (so it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent)
 
  |
 |  | 
