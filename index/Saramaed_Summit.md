@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 53381
+revid: 57246
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -26,7 +26,7 @@ Saramaed Summit is an area within the upper area of [Miner's Landing](<Miner's_L
 
 There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance is located in a room with an Ignition Union NPC, and does not have a Resonance door.
 
-Saramaed Summit is a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
+Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
 
 ## Potential Enemies
 
