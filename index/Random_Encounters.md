@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 57130
+revid: 57232
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -19,7 +19,70 @@ Random encounters are randomly spawning events that occur throughout target area
 
 ## Overworld Encounters
 
-### _AI-Driven Encounters_
+### 
+
+**Etrean Luminant**
+
+**Bandit Camp:**
+
+A campfire, circled by three NPCs, consisting of two regular bandits and one Bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
+
+**Bandit Ambush:**
+
+While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat Assassin Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at Erisia.
+
+**Thieves:**
+
+A group of three thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia.
+
+**Knives of Eylis:**
+
+Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Gremor Hostage. Occurs at Upper Erisia and Songseeker Wilds.
+
+Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+
+**Authority Scouts:**
+
+In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
+
+**Lost Villagers:**
+
+In Upper Erisia, the player can encounter two villager NPCs in Stranded clothes. You will need to bring these NPCs to the Royal Pathfinder at the Pathfinder's Respite. After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+
+**Mudskipper Emergence:**
+
+An encounter limited to Erisia, can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special Mudskippers will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
+
+**Raid on Erisor's Church:**
+
+A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest.
+
+To get the event to spawn, you must interact with the villager on the left.
+
+**Golden Warrior:**
+
+A fighter hailing from The Rat's Den, recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses Galebreathe. Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
+
+**Hobo:**
+
+The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
+
+If you open one of their chests don't have to take the loot, they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned.
+
+  
+Etrean Luminant Continued
+
+**Pathfinders:**
+
+Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia.
+
+**X vs X:**
+
+Etrean Footsoldiers vs Authority Footsoldiers (Erisia)
+
+Etrean Guards vs Authority Footsoldiers (Upper Erisia)
+
+Legion Soldiers vs Authority Footsoldiers (Upper Erisia)
 
 #### **Authority's Invasion of Etris**
 
@@ -30,24 +93,6 @@ The raid can be identified by the presence of Authority NPCs, specifically the A
 Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of [Justicar](<Justicar_(Origin).md>) armor schematic.
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's winter.
-
-#### **Bandit Camp**
-
-A campfire, circled by three NPCs, consisting of two [regular bandits](Bandit.md) and one [Bandit Captain](Bandit_Leader.md). Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
-
-**Weapons:** Basic or Semi advanced.
-
-#### **Bandit Ambush**
-
-While in [Erisia](Erisia.md), there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat [Assassin](Talents.md) Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at [Erisia](Erisia.md).
-
-**Weapons:** Basic or Semi advanced.
-
-#### **Thieves**
-
-A group of three [thieves](Thief.md), recognizable by their [black armor](Shadow_Hunter.md) and the lack of [campfire](Campfire_Pit.md). They will always wield a [dagger](Silver_Dagger.md). In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
-
-**Weapons:** Stiletto
 
 #### **Bandit Attack**
 
@@ -69,43 +114,15 @@ Greater bandit raid: Seven or so regular bandits that spawn on the steps.
 
 **Weapons:** Basic.
 
-#### **Knives of Eylis**
-
-Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a [Gremor](Gremor.md) Hostage. Occurs at [Upper Erisia](Upper_Erisia.md) and [Songseeker Wilds](Songseeker_Wilds.md).
-
-Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village. In Songseeker, there is an event where three Knives Of Eylis bandits spawn with no magic and no hostage.
-
-**Weapons:** [Whaling Knife](Whaling_Knife.md) & Time-Slowing Oath Magic.
-
-#### **Authority Scouts**
-
-In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use [Thundercall](Thundercall.md) and the Peacekeepers use an unknown [Flamecharm](Flamecharm.md) mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
-
-**Weapons:** [Semiadvanced](Weapons.md), [Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md)
-
 #### **Ministry Massacre**
 
 A single Ministry scout, sitting around a campfire in Summer Isle, surrounded by the corpses of bandits. Killing them will reward you with EXP and the campfire will turn into a chest.
 
 Weapons: [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md)
 
-#### **Lost Villagers**
-
-In [Upper Erisia](Upper_Erisia.md), the player can encounter two villager NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
-
-#### **Raid on Erisor's Church**
-
-A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust [Alastir](Alastir.md), you cannot turn them in for a chest.
-
-To get the event to spawn, you must interact with the villager on the left.
-
 #### **Brainsucker Swarm**
 
 Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
-
-#### **Mudskipper Emergence**
-
-An encounter limited to [Erisia](Erisia.md), can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 
 #### **Ministry Necromancer**
 
@@ -151,10 +168,6 @@ A Hobo in the neutral position.
 The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
 
 If you open one of their chests don't have to take the loot, they will yell at you and start to become hostile. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned.
-
-#### Teachers
-
-Rarely, the player may find 3 [Pathfinders](Teacher.md) sitting around a campfire. Most people mistake them for [bandits](Bandit.md) and regret it when they see them using [Frostdraw](Frostdraw.md) mantras. Talking to them will grant the player the ability to upgrade one of their main [attributes](Attributes.md) (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in [Erisia.](Erisia.md)
 
 #### **Erisia Merchant**
 

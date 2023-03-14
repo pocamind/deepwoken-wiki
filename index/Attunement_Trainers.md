@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 57224
+revid: 57227
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -102,4 +102,5 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
     -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
+    -   Thundercall trainer Funke wields the [Hero Blade of Lightning](Hero_Blades.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).

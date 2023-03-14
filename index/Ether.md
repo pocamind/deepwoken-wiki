@@ -1,6 +1,6 @@
 ---
 title: Ether
-revid: 44868
+revid: 57228
 source: https://deepwoken.fandom.com/wiki/Ether
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras]
@@ -15,3 +15,4 @@ categories: [Character, Mantras]
 ## Interactions
 
 -   It is raised by [Intelligence & Charisma](Attributes.md).
+-   It is also raised by [Erudition](Traits.md).

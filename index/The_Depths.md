@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 56066
+revid: 57233
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -22,7 +22,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
 
-Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
+Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has it's own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
 
 There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down.
 
