@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 51160
+revid: 57296
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,15 +26,13 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2, other obtainment unknown |
+| obtainment | Layer 2 |
 | description | ... |
 
 ## Description
 
-Kyrsedge is a Light Dagger weapon added in the Layer 2 update. Not much is known at this time.
+Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category, and was added in the [Layer 2](Second_Layer.md) update.
 
-## Trivia
-
--   Apart of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
+-   Apart of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md)).
 -   Seems to be paired with Kyrstear.
 -   At 75 LHT Weapons, it deals 21.78. Deals 24.7 at 100 LHT.

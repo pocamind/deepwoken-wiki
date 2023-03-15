@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 56093
+revid: 57266
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,7 +42,7 @@ They are extremely intelligent, capable of tool use and combat ability. The make
 
 ## Description
 
-Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and by the work of some pitiful Drowned God has the ability to and knows how to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp.
+Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and by the work of some merciless god was given the ability to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp. If you see one (I can not stress this enough) LOG
 
 ## Attack Patterns
 

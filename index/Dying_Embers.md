@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 57002
+revid: 57267
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -17,7 +17,7 @@ categories: [World, Items]
 | droppable | Yes |
 | pass down | No |
 
-**Dying Embers** is an item in _Deepwoken_.
+**Dying Embers** are an item in _Deepwoken_.
 
 ## Description
 
@@ -29,7 +29,7 @@ Dying embers drop from any NPC or player that uses the [Flamecharm](Flamecharm.m
 
 ### NPCs
 
--   [Mudskipper](Mudskipper.md)
-    -   Dark green variant that appear in [Random Encounters](Random_Encounters.md)
+-   [Bloatskippers](Mudskipper.md)
 -   [Golems](Rock_Golem.md)
 -   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
+-   [Stone Knights](Stone_Knight.md)

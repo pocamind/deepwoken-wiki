@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 56959
+revid: 57250
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -220,11 +220,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p><br>
   </p>
   <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited...</p>
-  <p><br>
-  <i>You are able to vent while assassinated. This is the best way to counteract assassin builds, as failing to Vent after being assassinated will leave you at their mercy.</i></p>
   <ul>
-    <li><i><b>While block-broken, you cannot Vent.</b></i></li>
-  </ul><p>Venting is also blockable.</p></td>
+    <li><i><b>While block-broken or assassinated, you cannot Vent.</b></i></li>
+  </ul><p>Venting is also blockable and parryable.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -262,7 +260,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th><a href="Stealth.md">Stealth</a></th>
   <td>When crouched, one can sneak up behind <b>most</b> humanoid enemies- excluding Songseekers for example- and <kbd>M1</kbd> from behind to perform an <i>Assassination</i>.<p><br>
-  This will deal a large amount of damage to NPCs, and inversely a low amount of damage to players, and will cause the victim to ragdoll for 5 (NPCs)/2 (Players) seconds. Executes NPCs if the damage dealt is high enough.</p>
+  </p>
+  <p><br>
+  This will deal a large amount of damage to NPCs, and inversely a low amount of damage to players, and will cause the victim to ragdoll for 5 (NPCs)/2 (Players) seconds and place their venting on cooldown while they are knocked. Executes NPCs if the damage dealt is high enough.</p>
   <p><br>
   <i>If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</i></p></td>
   <td></td>
