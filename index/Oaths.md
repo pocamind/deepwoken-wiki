@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57280
+revid: 57312
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -649,7 +649,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
--   The Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
+-   Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
     
 
 ## Lore Oaths:

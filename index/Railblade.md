@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 56800
+revid: 57313
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -41,7 +41,7 @@ Airborne Critical
 
 -   This weapon deals 40.15 damage at 100 Heavy and deals 41.5 damage with the added 6 proficiency meaning it deals 43.99 with three star damage and with the proficiency not much damage boost
 -   It is the first known weapon to have 2 different critical attacks.
--   The description suggests that equipping the weapon reduces the rate at which snow accumulates on the player.
+-   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by oNoodlez
 -   This weapon's running attack does not deal knockback **(GLITCH)**?

@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 57294
+revid: 57300
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -43,12 +43,15 @@ The prices of Chili's items may vary from price to price.
     -   [Great Maul](Great_Maul.md)
 -   **Armors:**
     -   [Authority Helm](Authority_Helm.md)
+    -   Khan Helmet
     -   Dawn Scarf
     -   Curseblood Pendant
     -   Imperial Pauldrons
+    -   Khan Pauldrons
     -   Winter Corps Parka
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
     -   Hive Siege Cuirass
+    -   Brigand's Cloak
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**
     -   Refer this page instead: [Lore Books](Books.md)

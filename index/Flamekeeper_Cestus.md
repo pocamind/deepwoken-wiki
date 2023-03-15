@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 57155
+revid: 57304
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -17,13 +17,13 @@ categories: [Weapons, Fists]
 | range | 6 |
 | swing speed | 0.88x |
 | penetration | 5% |
-| selling price | TBA |
+| selling price | 14 notes |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon The Depths Fort Merit Starswept Valley |
+| obtainment | Primadon The Depths Fort Merit Starswept Valley Minityrsa |
 | description | N/A |
 
 ## Description
