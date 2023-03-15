@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 56522
+revid: 57340
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -38,11 +38,10 @@ If you meet all the criteria, you are able to make one of five wishes:
         -   **You can only make this wish once**, so if you get stuck with something like deficient, you cant get another reroll.
 3.  **"The Vows I made give me much regret, I wish to break."**
     -   Erase all your active vow of masteries.
-        -   This wish is currently broken and does nothing.
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path"**
     -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled however the varient of the resonance might change so if you had physical [Sacred Field](Sacred_Field.md) you will get mantra). Gives your Resonance the Tarnished flaw.
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled however the varient of the resonance might change so if you had physical [Sacred Field](Sacred_Field.md) you will get mantra version). Gives your Resonance the Tarnished flaw.
 
 ## Trivia
 
@@ -52,3 +51,4 @@ If you meet all the criteria, you are able to make one of five wishes:
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell. Yun'Shul's "what happened to this place" dialogue can be triggered without a resonance through this method, be quick!
 -   There is an Enchantment named after Yun'Shul.
+-   He is the penultimate step of completing the [Contractor Oath](Oaths.md), choosing the "what happened to this place" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.

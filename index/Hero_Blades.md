@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 54612
+revid: 57324
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -127,7 +127,7 @@ The Hero Blade of Shadow is an elemental weapon that is obtained by defeating al
 ## Trivia
 
 -   [Alastir](Alastir.md)’s refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
--   These are suspected by be a reference to _JoJo's Bizarre Adventure,_ with each critical summoning a phantom form in the color of their element similar to a JoJo's [stand](https://jojo.fandom.com/wiki/Stand).
+-   These are suspected by be a reference to _JoJo's Bizarre Adventure,_ with each critical summoning a phantom form in the color of their element similar to a JoJo's [stand](https://jojowiki.com/Stand).
 -   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
     -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
