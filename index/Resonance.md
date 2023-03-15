@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 56998
+revid: 57317
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -76,7 +76,7 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 **Tarnished Resonances** act like a sort of reverse **Corrupted Resonance**, having a general debuff, but also a specific debuff depending on what **Resonance** got tarnished. In general, **Tarnished Resonances** have _longer cooldowns, longer windup, and just weaker effects._
 
-It would be advised to remove tarnished on a **Tarnished Resonance** as soon as possible. Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and paying 1000 notes, or [Misérables](Misérables.md) and choosing Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again.
+It would be advised to remove tarnished on a **Tarnished Resonance** as soon as possible. Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and paying 1000 notes, or [Misérables](Misérables.md) and choosing Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of [second layer](Second_Layer.md).
 
 All **Tarnished Resonance effects** are listed in their corresponding **Resonance** page.
 

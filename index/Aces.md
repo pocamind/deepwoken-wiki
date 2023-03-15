@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 54993
+revid: 57318
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Skills, Talents]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links, Character, Skills, Talents]
 
 ## Overview
 
-Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper boon](Boons_and_Flaws.md)) and by completing the [Elykris](Elykris.md) quest. Additionally, you can also gain more Aces through [Echoes](Echoes.md). Currently, there are Burns and Freezes.
+Aces are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two every other Whisper with the [Scrapper Boon](Boons_and_Flaws.md)) and by completing the [Elykris](Elykris.md) quest. Additionally, you can also gain more Aces through [Echoes](Echoes.md). Currently, there are Burns and Freezes.
 
 ## Burns
 
-Used to burn talents. Once a talent is burnt, it cannot reappear ever again. Useful for removing useless talents in order to increase chances of getting talents that you want. If you have accidentally burnt a card, you can restore it through the Shrine of Conceit.
+Used to burn talents. Once a talent is burnt, it cannot reappear ever again. Useful for removing useless talents in order to increase chances of getting talents that you want. If you have accidentally burnt a card, you can restore it through the Shrine of Conceit for 1 [Knowledge](Knowledge.md).
 
 File:Screenshot 2022-09-12 7.26.11 PM.png
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 57058
+revid: 57322
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The **Deep Widow** is a giant enemy spider [Boss Monster](Bosses.md) that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
 
-This Boss also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. If you break the door using a Mantra or Heavy Critical Attack, it leads you to the Widow. Behind the Deep Widow in the Depths is Surge, an NPC related to the [Visionshaper](Oaths.md#oath-visionshaper) Oath.
+This Boss also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. If you break the door using a [Mantra](Mantras.md) or Heavy Critical Attack, it leads you to the Widow. Behind the Deep Widow in The Depths is Surge, an NPC related to the [Visionshaper](Oaths.md#oath-visionshaper) Oath.
 
 ## Attacks
 

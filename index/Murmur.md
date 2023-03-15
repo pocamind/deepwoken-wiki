@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 56192
+revid: 57316
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -30,11 +30,11 @@ Murmurs scales with player level, reaching their maximum potential at power 20.
 
 Template:ImageCaption Infobox _"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage and reduces incoming posture damage.
+**Murmur: Ardour** is a Murmur that when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
 By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost at power 19 is low enough for your ether Regen to overpower it, but it will be slow. At power 20 it will actually be free and your ether Regen rate won't be affected.
 
-While having the murmur active, you can't crouch and listen until you deactivate it/murmur runs out (if you're not max power.)
+While having the murmur active, you can't crouch and listen until you deactivate it/murmur runs out (if you're not max power).
 
 **Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -109,9 +109,9 @@ Entities who do nothing will not emit a pulse and thus, can "hide" from Rhythm.
 
 ### Heartbeat Sensor
 
-_"While using Rhythm, you can hear the subtle heartbeat of all living things nearby"_
+_"While using Rhythm, you can hear the subtle heartbeat of all living things nearby."_
 
-Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 50 Willpower and Power 15+.
+Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 50 Willpower and Power 15 or more.
 
 With this upgrade, entities in range (shorter than the max range for regular white pings) will emit a constant ping, no matter what they are doing.
 
