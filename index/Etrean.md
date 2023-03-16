@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 56282
+revid: 57359
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -54,7 +54,7 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
 **Lore:**
 
   
-_The **Etreans** of the Eastern Luminant are a race like no other as they themselves are quite xenophobic to others not of their race. This is from their dislike of others possibly altering their way of already existing and how others influence their pre-existing traditions. The people of Etris have been in scrambles ever since their king had left them, with the current reigning lord causing great dismay to his people rather than helping them. The serpent-folk yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods. The Etrean guards take up Galebreathe as their attunement._
+A proud culture hailing from the Eastern Luminant. The people of Etris are said to have been in a sorry state since the departure of their king. The current regent serving in the stead of the king is a suspicious man with dubious intentions. The Etreans yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods. The Etrean guards take up Galebreathe as their attunement.
 
 **Strengths:**
 

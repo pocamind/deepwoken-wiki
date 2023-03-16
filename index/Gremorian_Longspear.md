@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 57020
+revid: 57351
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -40,6 +40,8 @@ This move has a long range and allows you to attack from a safe distance but wha
 As stated above, you are able to move stack with this weapon. If you were to hit someone even as they roll they will be stunned and you will be able to throw in something like an Astral Wind with a VERY high chance of success. The hitbox around your spear during the critical remains similar to your M1's which somewhat makes it easy to aim. However, it's still easy for you to miss it if your opponent is circling around you, often requiring you to aim it to cut them off. The move also relies on camera direction, while the homing mechanic on this critical may allow it to be sent at people above or below you, it's still not a homing move. It's important to look at your opponent when using it as looking down for example may cause it to not even register which you'll easily notice as it collides with the floor or a wall. Pretty much you just need to be looking in the general direction of your opponent, easy to do.
 
 Because you can use a mantra at ANY point during the critical, it's also viable to use it to mask your mantra and fool your opponent, using your critical while very clearly out of range and then using a mantra capable of still hitting your target is an effective technique. You CANNOT parry during the critical as usual, but again you can still use mantras so it's possible to try and strike your opponent before they strike you incase you miss. Using a mantra with short windup during your critical may also sabotage opponents focused on parrying your critical. The hitbox of this move is also too big to be jumped over, meaning enemies performing arial attacks or attempting to rush you down at all can be effectively punished with this critical. Getting hit does not always nullify the hitbox of your critical. The damage will not apply to your opponent but they will still be stunned and pulled toward you which gives you the upper hand if you react to this on time.
+
+The damage of the hitbox IS negated when you are hit but sometimes the stun and pull-in effect is not. Which gives you the upper hand. **This weapon is literally broken mechanically.**
 
 This is busted. It's unfair. In fact, the fact that it stuns opponents who roll it may actually not be intended. May Navae guide you.
 

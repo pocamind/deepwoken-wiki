@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 52978
+revid: 57363
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -51,14 +51,17 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
     -   Gold for.
 -   Players can find a [Crafting Station](Crafting_Station.md) here.
 
-#### Sparring Arena
+#### Training Hal;
 
 -   Players can find Das, a sparring instructor who will allow you to spar with a Vigil.
     -   This NPC will have a pick a random weapon from a pool that includes an Iron Spear, Sword, Battleaxe and Mace.
     -   This NPC cannot knock you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
     -   Players can also use this NPC to farm Fortitude using a Training vest and / or armor from blood iron ring / sprit
 -   Players can also find Avian and Maestro Evengarde Rest here.
--   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each.
+    
+-   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each
+
+-   A shortcut to the Training hall and Blacksmith Area can be found on the stairway leading to the Temple of the Blade.
 
 ## Quests
 

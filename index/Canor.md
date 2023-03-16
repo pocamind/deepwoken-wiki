@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 51411
+revid: 57358
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,7 +16,7 @@ _Chance of obtaining race: **15.2%**_
 
 ## Description
 
-Canors are uncommon races.
+Canors are an uncommon race with canine features. They benefit from a strength and charisma bonus on selection.
 
 ## Racial Traits
 
@@ -45,7 +45,7 @@ Canors are uncommon races.
 **Lore:**
 
   
-The race of canines, little is currently known about their origins. Once guards for the Adretian/Central Authority, unknown why this ended.
+Fiercely loyal and often found as guards and soldiers in the retinue of the powerful.
 
 **Strengths:**
 

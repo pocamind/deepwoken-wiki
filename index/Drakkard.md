@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 56871
+revid: 57357
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -84,21 +84,15 @@ A race of nomadic dragons.
     
     The Drakkard prompt.
     
--   Nuttoons' had an early version of the race prior to it's release. Early version had talent named Drakeflame, had no horns and was identical to Tiran's cardinal variant.
 
 <table>
 <tbody>
 <tr>
   <td>File:Flame Icon.png</td>
-  <td><b>Drakeflame</b>
+  <td><b>Teachings of the Edenkite</b>
   <ul>
-    <li><i>Your Soul Murmur brought forth as a flame. This flame is said to even be capable of burning paths through causality itself.</i></li>
-    <li>Works similar to the Produce Spark <a href="Talents.md">talent</a> of <a href="Flamecharm.md#flamecharmer">Flamecharm</a></li>
+    <li><i>Meditate and regenerate health.</i></li>
   </ul></td>
 </tr>
 </tbody>
 </table>
-
--   File:DrakkardHair.png
-    
-    This used to be the default hair for Drakkard before the race went public for the Moderators.

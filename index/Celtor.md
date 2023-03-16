@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 56518
+revid: 57355
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -52,10 +52,7 @@ Celtors are a common race with a pale-ish green skin, grey hair and a racoon-lik
 **Lore:**
 
   
-
-_A prideful and greedy race, The Celtors had a city of great renown--known for their legendary bankers and overall wealth. The city sported titanic walls that were only paired with a navy that no other could compare to. Though as a result of the dependence of their navy and wall--the city guard were low and what was considered their 'army' was much less prepared than what their navy had been capable of. However, all good things do come to an end as eventually, the entire city and the land it was upon had been undertowed beneath the sea. Dragged all the way to the bottom of the ocean and into the '[Depths](The_Depths.md)' below._
-
-_Legends speak of the few survivors of the city recalling maddening tales of that fateful day. The creature known only as the Celtorian Horror, had been a beast of eldritch connotations, sporting a mass of tentacles and a beak. It has essentially erased the presence of the Celtorian city from our world._
+_Known for their eponymous city of Celtor, the home of legendary shipwrights and the nexus of a sprawling trade network. The city sported titanic walls that were only paired with a navy that no other could compare to. However, all good things do come to an end as eventually, the entire city and the land it was upon were dragged beneath the waters, into the '[Depths](The_Depths.md)' below._
 
 **Strengths:**
 

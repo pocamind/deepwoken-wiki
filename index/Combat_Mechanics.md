@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 57250
+revid: 57367
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -134,7 +134,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 <tbody>
 <tr>
   <th rowspan="2">Item Type</th>
-  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Armors and weapons that aren't equipped also have different color frames based off their (I don't actually know. Rarity? Level? Like the Enforcer Axe has a green/blue frame while the others are more reddish). Purple items signify potions and enchants.</td>
+  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades.</td>
 </tr>
 <tr>
   <td><u>Tools + Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools or hunters brace.</p>
@@ -156,10 +156,10 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="7"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. <i>You may check an item's weight by hovering over the item in your inventory and seeing what number is held in the small blue box in the corner.</i><p><br>
+  <td colspan="7"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. <i>You may check an item's weight by hovering over the item in your inventory and seeing what number is held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
   There exists a soft cap, which is the listed capacity in your inventory. You may carry more items beyond that amount, but you will consequently be slowed down your movement and <i><b>any items picked up past that point or higher will be deleted upon leaving the server.</b></i></p>
   <p><br>
-  There then exists a hard cap, which is is detailed when you try to carry more items than you're currently capable. Eventually, your character will be unable to hold onto anymore items, and one item must be released in order to pick up another.</p></td>
+  There then exists a hard cap, which is is detailed when you try to carry more items than you're currently capable. Eventually, your character will be unable to hold onto anymore items, and enough items must be dropped to make room to pick up another.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
@@ -185,7 +185,9 @@ _When fighting, while dealing damage is important, reducing their posture can al
     <li>In continuation of the ending point, if someone uses Ice Lance but you manage to score a hit as they drive it towards you, you will take no damage from the Ice Lance- it won't even stick into you, even if you were meant to be hit by it.</li>
   </ul><p><br>
   Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a mantra.</p>
-  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p></td>
+  <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p>
+  <p><br>
+  Getting hit will negate your ability to throw in an M1 for a little longer than it takes for you to be able to roll so it's not at all recommended to try to M1 in the middle of your opponents combo.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -202,7 +204,8 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Parrying</th>
   <td>Tapping the <kbd>F</kbd> key causes your character to enter a stance of deflection for a moment. Enemies hitting you during this timeframe causes them to be parried, causing them to lose balance and take posture damage, as well as reducing your posture on a successful parry.<p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown so that you may parry immediately again. <i><b>It's also possible to attack during it's auto-parry frames, but this is difficult to do safely.</b></i> Parrying will cancel all attacks (except for some monster attacks), as well as the damage for that attack, even if they come from behind your character. <i><b>However, this is not the case for Blocking (see below).</b></i></p>
   <p><br>
-  <i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p></td>
+  <i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p>
+  <p>Parrying physical attacks like mantras or M1's will completely interrupt your opponents action, even if the animation continues. So without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all mantras however, especially projectile based ones. You may alternatively attempt to roll their mantra which MAY have an 100% chance of a guaranteed M1 if you throw it out quick enough.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
