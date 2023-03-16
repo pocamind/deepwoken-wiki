@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57312
+revid: 57394
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -107,9 +107,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 # **Oath: Blindseer**
 
-“ They don't know I have Blindseer... ”
+“ Kaaaaaameeeeehaaaaameeeee... ”
 
-― A Blindseer Vesperian with 102 Willpower strolling through Layer 1 as the Contractors descend into madness.
+― A Blindseer Vesperian with 102 Willpower eliminating some poor Felinor with Sightless Beam.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -420,9 +420,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Greetings, my old friend. ”
+“ Chaser tells you you've killed him too many times to count. You nod pitifully. ”
 
-― Arcwarder user fighting chaser for the millionth time.
+― Arcwarder user fighting chaser for the 1,000,000th time.
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -524,9 +524,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ The Duke tells you you've killed him once before. You nod sadly. ”
+“ It's ganking time. ”
 
-― Contractor user entering duke's manor.
+― Contractor progressing in the Depths waiting for the Jetstrikers to make their way to the trial.
 
 ### Obtainment
 
@@ -588,9 +588,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ This heart beats differently, it drums to the beat of the world, not the Song, ever silent. Your eyes open. ”
+“ SHING SHING SHING SHING SHING ”
 
-― Character's inner thoughts upon obtaining Silentheart
+― silentheart voidwalker shredded a Vesperian with mani katti
 
 NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY LIKELY TO BE SPREAD
 

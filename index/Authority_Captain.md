@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 57179
+revid: 57370
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]

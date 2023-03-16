@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 57316
+revid: 57375
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -30,7 +30,7 @@ Murmurs scales with player level, reaching their maximum potential at power 20.
 
 Template:ImageCaption Infobox _"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour** is a Murmur that when active, doubles all outgoing posture damage and reduces incoming posture damage.
+**Murmur: Ardour** Commonly referred to as "Buso Haki" or just "Haki" is a Murmur that when active, doubles all outgoing posture damage and reduces incoming posture damage.
 
 By default, it drains a large amount of [ether](Ether.md) when used, however, this ether cost at power 19 is low enough for your ether Regen to overpower it, but it will be slow. At power 20 it will actually be free and your ether Regen rate won't be affected.
 
@@ -81,7 +81,7 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 
 #### **Method Two- Born Assassin**
 
--   By completing 5 Bounty Hunting Contracts, confronting Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free.
+-   By completing 5 Bounty Hunting Contracts, confronting Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free.(Confirmed 16.03.2023)
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 

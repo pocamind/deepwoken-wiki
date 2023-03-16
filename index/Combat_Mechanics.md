@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 57368
+revid: 57371
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -250,7 +250,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   Many talents exist to add properties to your Dashes. For example, if a Galebreather obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
   <p><br>
   <i>With the <a href="Echoes.md">Echo Talent</a> "Aerial Assault" (Unlocked at Power 2), you can do an Air Dash by <kbd>Q</kbd> in the air, with the direction traveled depending on where your camera is facing.</i></p>
-  <p>Additional tech you can perform with dashing (which may not be intended) is performing an attack along with the dash at the same time. To do this, M1 or use your critical and dash as quickly as possible AFTER one of the two. This will result in your character barely even going through the dash animations and performing the attack almost as normal but with the benefit of greater speed and I-frames. This button combo is also very effective with arial attacks alongside an airdash. You may combine them the same way you do above. It will thrust you far in whatever direction you're facing while performing an arial attack which makes for an extremely swift attack. You may also use this tech with running attacks but there are more details to that which you can easily find out by testing it in-game.</p></td>
+  <p>You can also perform an attack along with the dash at the same time. To do this, M1 or use your critical and dash as quickly as possible AFTER one of the two. This will result in your character barely even going through the dash animations and performing the attack almost as normal but with the benefit of greater speed and I-frames. This button combo is also very effective with arial attacks alongside an airdash. You may combine them the same way you do above. It will thrust you far in whatever direction you're facing while performing an arial attack which makes for an extremely swift attack. You may also use this with running attacks but there are more details to that which you can easily find out by testing it in-game.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 57143
+revid: 57402
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -97,13 +97,15 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
-    -   Every player (beside Voidwalkers) start the game with negative reputation toward the [Knives of Eylis](The_Knives_of_Eylis.md). Since there is only a single way to get [Knives of Eylis](The_Knives_of_Eylis.md) reputation [(The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)), the bounty board will usually be filled as nobody usually care about their reputation with this faction.
+    -   In order to be placed in the Voidwalker bounty board, you must have negative reputation with at least 1 faction other than [The Ministry](The_Ministry.md) and the knives themselves. And since every player starts the game with negative reputation towards [The Hundred Legions](The_Hundred_Legions.md) and the [Authority](The_Central_Authority.md), the bounty board will usually be filled as nobody usually care about their reputation with these factions.
 
 ## Upcoming Origins
 
 ### **Authority Origin**
 
 -   An Authority based origin. Not much is known about it other than you being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+
+The following is speculation:
 
 -   Probably similar to how on Deepbound you spawn with the Diver apprentice robes, and with voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
 -   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.

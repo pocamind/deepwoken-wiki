@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 57357
+revid: 57400
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -26,7 +26,7 @@ A race of nomadic dragons.
   <td>File:Flame Icon.png</td>
   <td><b>Teachings of the Edenkite</b>
   <ul>
-    <li><i>"Find your centre."</i>
+    <li><i>"Meditate and regenerate health."</i>
   <ul>
     <li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
   <ul>
@@ -83,16 +83,3 @@ A race of nomadic dragons.
 -   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
     
     The Drakkard prompt.
-    
-
-<table>
-<tbody>
-<tr>
-  <td>File:Flame Icon.png</td>
-  <td><b>Teachings of the Edenkite</b>
-  <ul>
-    <li><i>Meditate and regenerate health.</i></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
