@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57110
+revid: 57341
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -184,7 +184,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
-  <font>Tears of Edenkite<div></div></font></center></td>
+  <font>Tears of the Edenkite<div></div></font></center></td>
   <td><div><p>On flourish, create bubbles around you that home onto an enemy, dealing damage and stunning.</p></div></td>
   <td><div><p>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</p></div></td>
 </tr>

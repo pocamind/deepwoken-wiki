@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 57340
+revid: 57346
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -17,6 +17,8 @@ Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shr
 ## Description
 
 Yun'Shul is the Drowned God of Wishes. While they do not appear in the game themselves, their shrines do. As well as the Deep Shrines, their is also their main shrine in the Temple of Hearts. Yun'Shul's shrine is a unique NPC found in The Depths. It allows players to make wishes by communicating with Yun'Shul.
+
+They is also act as the penultimate step of completing the [Contractor Oath](Oaths.md), choosing the "what happened to this place" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
 
 ## Wishes
 
@@ -51,4 +53,3 @@ If you meet all the criteria, you are able to make one of five wishes:
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell. Yun'Shul's "what happened to this place" dialogue can be triggered without a resonance through this method, be quick!
 -   There is an Enchantment named after Yun'Shul.
--   He is the penultimate step of completing the [Contractor Oath](Oaths.md), choosing the "what happened to this place" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
