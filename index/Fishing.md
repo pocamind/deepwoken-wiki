@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 57420
+revid: 57428
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -122,6 +122,6 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
 -   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
--   You can get **Enchants**, **Deep Gems**, and L**egendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
+-   You can get **Enchants**, **Deep Gems**, and **Legendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
 -   Technically there is a small, **VERY SMALL**, chance to get a chest with 2 or 3 Kyrsan Medallions from a chest while fishing, being as rare as to fish legendary weapons. It should be noted that loot may change depending on luminant, for example hive chests from fishing in the Etrean Luminant may have Lower Erisia loot but it gives actual hive loot in the Eastern Luminant.

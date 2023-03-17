@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 56795
+revid: 57440
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors, Items, Outfits]
@@ -29,10 +29,5 @@ This Outfit also grants the [Talent Card](Talents.md) _Unbreakable_, which major
 This Outfit's Schematic can be found
 
 -   Above the Lord Regent's throne in [Etris](Etris.md) for 200File:Notesicon.png
--   In bandit chests in [Lower Erisia](Lower_Erisia.md)
--   In [Songseeker](Songseeker_Wilds.md) chests in [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
-
-## Trivia/Notes
-
+-   Chests via [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Summer Isle](Summer_Isle.md)
 -   Arguably one the best Expert-tier armors stat-wise, although it is somewhat expensive to make.

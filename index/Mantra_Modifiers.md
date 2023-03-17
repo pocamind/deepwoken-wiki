@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 57066
+revid: 57427
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -690,7 +690,7 @@ File:Ice Forge with Blast Spark.gif
 
  | 
 
--   (Work in Progress)
+-   The Shurikens Now Explode When They Collide With Something
 
  |
 | 

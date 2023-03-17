@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 57375
+revid: 57429
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -60,14 +60,14 @@ Template:ImageCaption Infobox _"An application of the song that enables the user
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduce (or even negate in some scenario) the aggro range of enemies. Activation is indicated by an inward ring and a fade out noise, while deactivation with an outward ring and a fade in noise.
 
-The only actions a user can perform during Tacet are crouch walking, rolling, falling down ledges and holding items. Uncrounching, attacking or interacting with the world will deactivate Tacet.
+The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges and holding items. Uncrounching, attacking, being hit or interacting with the world will deactivate Tacet.
 
-The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user.
+The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, unaggro range is larger than 0 studs, so the user will need to make some distance to evade any fight.
--   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. This is not obvious to the user, they cannot tell if someone is seeing them or not. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
+-   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
 
 ### **Obtainment**
 
@@ -76,12 +76,12 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 #### Method One - Fetch Quest
 
 -   You need negative Etris Rep
--   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find. ( YOU DO NOT NEED TO TALK TO THIS NPC IF YOU ARE A VOIDWALKER, SIMPLY DO 10 BOUNTY KILLS AND HE WILL GIVE YOU TACET WITHOUT EVEN NEEDING ANY CHARISMA )
--   Upon assassinating 5 Players, return back to Cestis and obtain the Murmur.
+-   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find.
+-   Upon completing 5 of his bounties, return back to Cestis and obtain the Murmur.
 
 #### **Method Two- Born Assassin**
 
--   By completing 5 Bounty Hunting Contracts, confronting Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free.(Confirmed 16.03.2023)
+-   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
