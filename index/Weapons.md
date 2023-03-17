@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 56814
+revid: 57408
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1678,9 +1678,11 @@ D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u
 
 [_Damage calculator for all weapons with proficiency (Verse 2 compatible)_](https://deepwoken.tools/weapons)
 
-[_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)  
-_[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_  
-_[Damage calculator for penetration, armor and natural armor](https://www.desmos.com/calculator/lq0vvmous8?lang=en) (Verse 2 compatible)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en)_
+[_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o) (Outdated)  
+_[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl) (Outdated)_  
+_[Damage calculator for penetration, armor and natural armor (Verse 2 compatible)](https://www.desmos.com/calculator/lq0vvmous8?lang=en)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en) (Outdated)_
+
+(Some calculators are outdated because of the way proficiency works, you do around the same as the pre verse 2 dmg only with 6 proficiency.)
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (the higher the stat, the quicker the attack). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.
 

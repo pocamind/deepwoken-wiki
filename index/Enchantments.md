@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57396
+revid: 57411
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -455,7 +455,7 @@ Viscocity
 
 Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
 The user cannot be knocked or executed unless they are hit while at 1% HP.  
-**Disabled if using Curse of the No Life King.** **Disabled in One on ones in arena.**
+**Disabled if using Curse of the No Life King.** **Disabled in 1v1s in arena.**
 
  | 
 

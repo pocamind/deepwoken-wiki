@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57401
+revid: 57407
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -473,8 +473,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Hidden Blade \[Common Talent, Agility\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
     -   Prerequisite: 30 Agility
 
--   In a Hurry \[Common Talent, Light\] - You grip faster with a movement speed boost.
-    -   Prerequisite: Assassin
+-   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
+    -   Prerequisite: Assassin, 30 Agility
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
     -   Prerequisite: 70 Agility, Hidden Blade
@@ -1224,7 +1224,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: Quest in [Eternal Gale](Second_Layer.md).
 
 -   _**Murmur: Tacet** \[Unlockable Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched._
-    -   Prerequisite: 10 Charisma or 10 Voidwalker Bounty Grips
+    -   Prerequisite: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md)
 
 ### Natural Armor
 
@@ -1563,7 +1563,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: Shared Demise, 100 Agility
 -   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
-    -   Prerequisites: Assassin Talents, 85 Agility
+    -   Prerequisites: All Assassin Talents, 85 Agility
 
 ### Tactician
 
