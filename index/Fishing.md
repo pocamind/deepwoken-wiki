@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 57124
+revid: 57420
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -98,6 +98,7 @@ A lot of raw food can be used as bait, obviously I didn't have them all while te
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
+-   100 No Bait Results for comparison: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lion Fish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) (this was tested with all 3 fishing talents)
 -   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
 -   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
 -   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
