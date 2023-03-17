@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57411
+revid: 57444
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -236,7 +236,7 @@ There are two variants that enchantments come in:
   <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
-  2x blood damage taken in the Etrean Luminant.<br>
+  2x blood damage taken in the Luminants.<br>
   When equipped, -100 sanity. This means you will immediately die upon equipping the curse in the Depths. (unless you have a high amount of willpower)<br>
   <b>Disabled in Arena</b><br>
   <b>Viscosity is disabled</b></p></div></td>
@@ -592,7 +592,8 @@ File:Vamparism shield.png
     -   Bungee Gum **→** Elastic
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
-    -   (???) - Deferred
+    -   (???) - Deferred  
+        Chilling works differently in PvE, every hit of chilling procs nullifying clarity Elemental Damage instead of physical on weapon (NOT TO BE CONFUSED WITH MANTRA DMG)
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.  
     
