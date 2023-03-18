@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 57317
+revid: 57467
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -219,3 +219,4 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.
+-   The Resonance system is sometimes used by players as a last wind in The Depths, choosing only for it to awaken when it'll saves their life due to it maxing out their HP. This is a very useful way to treat your Resonance progression in-case you're more interested in keeping your character alive rather than getting its bell as soon as possible. Otherwise, you'll have your bell but be fully vulnerable to getting wiped. Some players may also choose to only get their bell once it is the very last step to 100% their characters progression in Deepwoken, or they may choose to get the bell extra early for more Yun'shul re-rolls from leveling up (Basically allowing you to almost guarantee you get the Resonance you actually want through re-rolling over and over) as well as the talents from card rolls that only appear if you have your Resonance.
