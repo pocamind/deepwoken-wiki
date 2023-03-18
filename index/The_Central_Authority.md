@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 57061
+revid: 57463
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -25,7 +25,7 @@ A large military organization, native to the Central Luminant. They are lead by 
 
 ## Gameplay
 
--   Everyone aside from Adrets start out with lower reputation with them. But the reputation is almost neutral, meaning that by helping the authority one time in erisia or two, you will already be in neutral reputation with the Authority.
+-   Everyone aside from Adrets start out with lower reputation with them. But the reputation is almost neutral, meaning that by helping the authority one time in Erisia or two, you will already be in neutral reputation with the Authority.
 -   Their base of operations in the Eastern Luminant is [Fort Merit](Fort_Merit.md).
 -   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
 

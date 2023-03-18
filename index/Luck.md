@@ -1,9 +1,9 @@
 ---
 title: Luck
-revid: 44835
+revid: 57460
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Luck, Mechanics, Removed Content]
+categories: [Luck, Mechanics, Removed Content, Cut Content]
 ---
 
 # Luck

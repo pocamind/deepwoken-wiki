@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 56710
+revid: 57458
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -64,4 +64,3 @@ File:Umbrite1.jpg
 -   All ores other than rocks can be sold, and most (if not all, haven't tested with Umbrite) pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
 -   Mining ores mainly gives Strength XP.
--   Rock and Stone!
