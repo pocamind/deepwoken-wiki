@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57394
+revid: 57490
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Oaths, Character, Talents, Mechanics]
@@ -725,7 +725,7 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
+    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death. THY END IS NOW!
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Speaking to an attunement trainer as a Silentheart will trigger the dialogue: "Your ether... just what have you done?"

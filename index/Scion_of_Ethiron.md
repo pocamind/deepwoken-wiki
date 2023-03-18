@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 57342
+revid: 57488
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -20,7 +20,11 @@ The Scion of Ethiron is a boss encountered at the end of the second floor of the
 
 It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ehitron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 
-Upon defeat, five chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to 7 medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **Immune** to the effects of Vampirism. **This boss is very punishing with it's damage.** Exercise extreme caution if you're doing this alone or as a duo as it is very likely the fight would become lethal due to a mistake or two.
+Upon defeat, five chests containing **[Kyrsan Medallions](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and [Dawnwalker](https://deepwoken.fandom.com/wiki/Oaths). Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **Immune** to the effects of Vampirism.
+
+**This boss is very punishing with it's damage.** Exercise extreme caution if you're doing this alone or as a duo as it is very likely the fight would become lethal due to a mistake or two.
+
+**ACTIVATING THE BOSS FIGHT WILL REMOVE ANY REMAINING LIGHT HOOK IMMEDIATELY.**
 
 ## Attacks
 
@@ -29,12 +33,12 @@ Upon defeat, five chests containing **[Kyrsan Medallions](https://deepwoken.fand
 | Blinding Gale | The Scion of Ethiron charges up its left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | 
 File:Blinding Gale.gif
 
- | ◯ | X | ◯ | (★☆☆) |
+ | ◯ | ✗ | ◯ | (★☆☆) |
 | Bonestaves of Eld | The Scion of Ethiron launches three bones at you. These do a very low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | 
 
 File:Bone Toss.gif
 
- | ◯ | ◯ | X | (★☆☆) |
+ | ◯ | ◯ | ✗ | (★☆☆) |
 | Vehemens Ventus | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | 
 
 File:Ethi ult.gif
@@ -54,14 +58,14 @@ File:Big fist.gif
 
 File:Bone floor.gif
 
- | X | X | ◯ | (★☆☆) |
+ | ✗ | ✗ | ◯ | (★☆☆) |
 | Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
 
 To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.
 
  | 
 
- | X | X | ◯ | (★★★) |
+ | ✗ | ✗ | ◯ | (★★★) |
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 57452
+revid: 57478
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -35,7 +35,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I stand far above others, an insurmountable challenge. **(Colossus)**_
 -   _My attack is unstoppable. **(Raging Bull)**_
--   _I am a master with my hands._ **(Deepwoken Player)**
 
 ### Fortitude
 

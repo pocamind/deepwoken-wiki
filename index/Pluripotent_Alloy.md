@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 57457
+revid: 57479
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -35,7 +35,7 @@ The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weap
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   Chaser (i think this is more rare than other bosses but he can drop one)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (Rarely)
 
 ## How to Use
 

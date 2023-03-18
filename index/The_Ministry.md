@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 55165
+revid: 57484
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -29,9 +29,11 @@ They enjoy recruiting people to kill others, sometimes to kill specific individu
 
 ## Reputation
 
-Everyone start with negative reputation towards them, even if you have Adret race.
+Everyone starts with negative reputation towards them, even if you have the [Adret](Adret.md) race.
 
 To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel or you can assist them in [The Summer Company](The_Summer_Company.md) vs The Ministry event that occur at [summer isle](Summer_Isle.md).
+
+Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped.
 
 ## NPCs
 
@@ -40,11 +42,10 @@ To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel
 -   Imel
 -   [The Lord Regent](The_Lord_Regent.md)
 -   The Stranger
--   [Nostor (?)](Attunement_Trainers.md)
+-   [Nostor](Attunement_Trainers.md)
 
 ## Trivia
 
 -   Every [Ministry](Ministry_Scout.md) [enemy](Ministry_Necromancer.md) uses a [Krulian Knife](Krulian_Knife.md).
 -   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who posses it are persecuted.
     -   This makes them the only faction to have an exclusive attunement.
--   After layer 2 update, Ministry Captain appeared as a new Ministry NPC.

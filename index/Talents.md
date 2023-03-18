@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57433
+revid: 57492
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -459,6 +459,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam, 60 Frostdraw.
+    -   Does not work with Crystallization.
 
 ### Cutthroat
 
@@ -912,7 +913,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
     -   Saint Jay last for double the duration of Chill
-    -   If using Glass Path: Crystallization, Saint Jay last 2 seconds everytime a crystal is applied.
+    -   ̶I̶f̶ ̶u̶s̶i̶n̶g̶ ̶G̶l̶a̶s̶s̶ ̶P̶a̶t̶h̶:̶ ̶C̶r̶y̶s̶t̶a̶l̶l̶i̶z̶a̶t̶i̶o̶n̶,̶ ̶S̶a̶i̶n̶t̶ ̶J̶a̶y̶ ̶i̶s̶ ̶a̶c̶t̶i̶v̶e̶ ̶f̶o̶r̶ ̶2̶ ̶s̶e̶c̶o̶n̶d̶s̶ ̶w̶h̶e̶n̶ ̶a̶ ̶c̶r̶y̶s̶t̶a̶l̶ ̶i̶s̶ ̶a̶p̶p̶l̶i̶e̶d̶ Saint Jay does not work with Crystallization (TESTED)
     -   Prerequisite: Frostbite
 
 -   _Shatter Spear_ \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
