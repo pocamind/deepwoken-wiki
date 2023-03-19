@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57501
+revid: 57536
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1573,7 +1573,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
     -   Prerequisite: 20 Heavy Weapons Mastery
 
--   Target Switch \[Common Talent\] - Parrying an Opponent makes your next Mantra free. (+4 Ether)
+-   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free (+4 Ether)
     -   This effect is signaled by a yellow halo.
     -   Prerequisites: 20 Intelligence
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
@@ -1779,7 +1779,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Vow of Mastery \[Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
     -   Players who take the vow are considered allies with their master and others who take the vow.
-    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate"
+    -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate", "Leech"
     -   Prerequisite: 20 Charisma
 
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
@@ -2127,9 +2127,9 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Engage + Critical Attack
 
--   Quest giver located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) she will request that you kill a sharko.
+-   Quest giver located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a sharko.
 -   It is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in Lower Erisia.
--   After killing the sharko and talking to her once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
+-   After killing the sharko and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
 
 ### Aerial Assault
 
@@ -2238,3 +2238,4 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   The Card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
+-   If you cannot find a talent here, either it has been removed, or it has not been found yet. (<-Only for the new talents)

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 56089
+revid: 57531
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -469,25 +469,23 @@ Placeholder
 
 These talents are found in the _Cryomancer_ category.
 
-| Media | Talent | Card Description | Effect |
+| Card Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
 File:Chilling Flourish.png
 
  | 
 
-Chilling Flourish
+Chilling Flourish  
+ICE 30
 
  | 
 
-When flourishing an enemy, send them off with a trail of ice.
-
-(When paired with Dazing Finisher it leaves a small patch on the spot)
+When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
 
  | 
 
-+4 Elemental Intensity  
-+3 Health
++4 Elemental Intensity
 
  |
 | 
@@ -496,16 +494,16 @@ File:Cool Head.png
 
  | 
 
-Cool Head
+Cool Head  
+ICE 30
 
  | 
 
-If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. (Cool Head is bugged and does not proc consistently.)
+If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire.
 
  | 
 
-+2 Elemental Intensity  
-+3 Health
++2 Elemental Intensity
 
  |
 | 
@@ -536,11 +534,12 @@ These talents are found in the _Cryoni_ category.
 | 
  | 
 
-Fragile Freeze
+Fragile Freeze  
+ICE 60
 
  | 
 
-Your ice Mantras will freeze opponents upon blockbreaking them.
+Your Ice mantras will freeze opponents upon blockbreaking them.
 
  | 
 
@@ -702,16 +701,16 @@ File:Cryonis.png
 
  | 
 
-Cryonis
+Cryonis  
+ICE 40
 
  | 
 
-~All~ Some ice spells casted on top of ice cost less Ether.
+All ice spells casted on top of ice cost less Ether.
 
  | 
 
 +5 Elemental Intensity  
-+3 Health
 
  |
 | 
@@ -720,7 +719,8 @@ File:Frostbite.png
 
  | 
 
-Frostbite
+Frostbite  
+ICE 25
 
  | 
 
@@ -728,8 +728,7 @@ Enemies can no longer heal when under the effect of your chill.
 
  | 
 
-+5 Elemental Intensity  
-+3 Health
++5 Elemental Intensity
 
  |
 | 
@@ -750,22 +749,31 @@ Hitting chilled enemies with shurikens while they are on ice freezes them to the
  |
 | 
 
+ | 
+
+Frost Buster  
+HVY 15, ICE 45
+
+ | 
+
+Greatsword Critical and Greathammer Critical now place Ice underneath the path they carve.
+
+ | 
+
++5 Elemental Intensity
+
+ |
+| 
+
 File:Saint Jay.png
 
  | 
 
 Saint Jay
 
- | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (While obtainable with Crystallization, it rarely ever procs)
+ | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | 
 
--   Requires the "Frostbite" Talent.
-
-(Rare Talent)
-
- | 
-
-+5 Elemental Intensity  
-+3 Health
++5 Elemental Intensity
 
  |
 | 

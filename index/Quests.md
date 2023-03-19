@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 55805
+revid: 57527
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -250,7 +250,7 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it.
 
-**Reward/s**: 2 Aces, EXP
+**Reward/s**: 3 Aces, EXP
 
 **Kiley's Promise:**
 

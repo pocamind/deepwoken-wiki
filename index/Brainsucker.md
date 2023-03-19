@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 57068
+revid: 57529
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,7 +36,6 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 -   They can fly quite high when they first spawn on the islands, and as such both the player and the Brainsuckers are unable to hit each other for a short period of time.
 -   Brainsuckers are remarkably fragile; don't waste your time running away unless on low health, as you can likely heal by killing one in three hits as a high level.
 -   Usually, if you are sailing, they don't notice you when they spawn. You can sail past them with no issue, as long as you are lucky and they spawn somewhat far from the ship. If they do detect you, the ship will be fast enough to make sure both of you are unable to make direct contact. (Provided the ship is moving at maximum speed)
--   Ironically, the Brainsucker does not actually suck brains.
 -   If Brainsuckers somehow get stuck on a larger boat, they can cause your boat to somewhat fling, which is practically the only threat these things present to the player.
 -   Using a mantra with a [Wayward Gem](Deep_Gems.md) on a Brainsucker can cause you to teleport to a random one around the map.
 
@@ -45,6 +44,8 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 -   The Brainsuckers name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
 -   When the Brainsuckers head is turned upside down, the shape of it resembles a squid.
 -   The Brainsuckers official name appears to be the "Lesser Brainsucker." It is unknown if a Greater Brainsucker will ever be added.
+-   Ironically, the Brainsucker does not actually suck brains.
+    -   The original concept art depicts them opening their mouths to latch onto human heads, this is likely the derivation of the name. However, this has yet to be implemented.
 
 ## Bugs
 
