@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 57118
+revid: 57504
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -27,4 +27,7 @@ Mute, or less formally known as 'Animal King' causes all monster-type mobs to no
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
+
 -   Mute does not apply to any monsters or humanoids encountered in [Layer 2](Second_Layer.md).
+
+-   If you do not have the "Lone Warrior" Origin. DO NOT GO TO [The Viper's Jaw](<The_Viper's_Jaw.md>) TO CHECK IF YOU HAVE MUTE. THE FIRST [MEGALODAUNT](Megalodaunt.md) DOESNT TRIGGER TILL YOU ATTACK IT.

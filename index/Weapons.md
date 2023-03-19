@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 57408
+revid: 57499
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1671,10 +1671,10 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 ## Calculating Damage and Attack Speed
 
 Players can use this formula to figure out their complete damage. Round to 1 dp.  
-D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t e L e v e l 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling \\times AttributeLevel}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling\\times AttributeLevel}{1000}}}
+D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t e L e v e l 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling \\times AttributeLevel}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling\\times AttributeLevel}{1000}}} (Outdated)
 
 Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.  
-D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u t e L e v e l 1 1000 + B a s e D m g × S c a l i n g 2 × A t t r i b u t e L e v e l 2 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling1 \\times AttributeLevel1}{1000} + \\frac{BaseDmg \\times Scaling2 \\times AttributeLevel2}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling1\\times AttributeLevel1}{1000}}+{\\frac {BaseDmg\\times Scaling2\\times AttributeLevel2}{1000}}}
+D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u t e L e v e l 1 1000 + B a s e D m g × S c a l i n g 2 × A t t r i b u t e L e v e l 2 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling1 \\times AttributeLevel1}{1000} + \\frac{BaseDmg \\times Scaling2 \\times AttributeLevel2}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling1\\times AttributeLevel1}{1000}}+{\\frac {BaseDmg\\times Scaling2\\times AttributeLevel2}{1000}}} (Outdated)
 
 [_Damage calculator for all weapons with proficiency (Verse 2 compatible)_](https://deepwoken.tools/weapons)
 

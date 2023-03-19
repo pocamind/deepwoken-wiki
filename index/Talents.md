@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57492
+revid: 57501
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -930,7 +930,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity, +2 Elemental Intensity)
     -   Prerequisite: Agitating Spark
 
--   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+2 Elemental Intensity)
+-   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
     -   If you burn to death throught the use of Last Laugh, the healing is reduced to 25%.
     -   Prerequisites: All Immolator talents
 
@@ -2127,9 +2127,9 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Engage + Critical Attack
 
--   Quest giver located at the gate to the burning stone gardens she will request that you kill a sharko.
--   it is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in lower erisia.
--   You will automatically gain Engage at Power 3 and Critical attack at Power 5 on all new slots.
+-   Quest giver located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) she will request that you kill a sharko.
+-   It is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in Lower Erisia.
+-   After killing the sharko and talking to her once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
 
 ### Aerial Assault
 
