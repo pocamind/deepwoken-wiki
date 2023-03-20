@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57536
+revid: 57545
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -8,12 +8,14 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-**Press Ctrl + F to search talents.**
+**Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
 
--   Input the talent name to find the specific talent and its requirements.
-    -   _(i.e "Orbital Ice" to find the things you need to obtain it)_
--   Input an investment number along with its attribute to find talents that require that many points in that attribute.
-    -   _(i.e "40 Agility" to find talents that require 40 investment points placed into Agility)_
+-   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
+    -   _(i.e "Orbital Ice" to find the description, requirements, and effect for Orbital Ice)_
+-   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
+    -   _(i.e "40 Agility" to find talents that you will have access to at 40 Agility)_
+-   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
+    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
 
 Template:DWI Talents
 
@@ -628,7 +630,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisites: 20 Intelligence
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effect on them with your basic attacks, but the effect is removed on impact.
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
     -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Falling Star Guard
