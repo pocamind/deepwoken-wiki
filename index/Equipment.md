@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 57339
+revid: 57568
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2676,10 +2676,6 @@ Chests from:
 
 **Rings:**
 
-“ Wt ring u got bithc? ”
-
-― PL99 Flamecharm Canor.
-
 Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver,Gold and Moon Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
 
 | Image | Armor | Effects | Primary Source |
@@ -3014,6 +3010,25 @@ Chests from:
  |
 |  | 
 
+Waning Ring
+
+(Legendary)
+
+ | 
+
+Conceal your youth, appearing as if you were older than 40.
+
+ | 
+
+Chests from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+
+ |
+|  | 
+
 Akira's Ring
 
 (Legendary)
@@ -3206,10 +3221,9 @@ Damage done with a Katana isn't received until the user sheathes their weapon\*.
 
  | 
 
-Other sources:
+Quest from [Zana](Zana.md)
 
--   Quest from [Zana](Zana.md)
-    -   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
+-   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
 
  |
 

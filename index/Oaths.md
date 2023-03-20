@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57547
+revid: 57563
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -713,7 +713,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 Proof of Time Magic's existance and it being "Oath Magic".
 
--   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+-   Currently, the only oaths you can remove are Oathless and Silentheart (as of recent) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]

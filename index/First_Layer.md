@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 57555
+revid: 57570
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note:_
 
-**Your Trial Power is calculated by Power + (Times Drowned \* 0.33).** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +0.33 level to your power when facing a Depths trial**; for example, if you are power 16 but have 3 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by Power + (Times Drowned \* 0.33).** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +0.33 level to your power when facing a Depths trial**; for example, if you are power 16 but have 2 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
 
 _Trial Power and Power are two different things; See above as well as below table._
 
@@ -89,7 +89,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 4-6 | [Mudskipper Knight](Mudskipper.md) |
 | 7-9 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16 | [Megalodaunt](Megalodaunt.md) |
-| 17+ | [Enforcer](Enforcer.md) |
+| 16.66+ | [Enforcer](Enforcer.md) |
 
 -   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
