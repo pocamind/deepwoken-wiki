@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 52798
+revid: 57551
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -31,3 +31,7 @@ This is the only place in the [Depths](The_Depths.md) that spawns scripted event
 Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   Divers vs. Monster
+
+## Trivia/Notes
+
+it seems that the mudskipper npc needs you to get in the depths with a soul or is bugged or was removed as it doesnt spawn (i tried this in 5 servers correct this if this info is wrong)

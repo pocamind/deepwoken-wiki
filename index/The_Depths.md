@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 57249
+revid: 57553
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -52,13 +52,13 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, a lava covered hellscape where Korilfiend resides, but it is not in the game and will likely not be added due to conflicting with the lore.
+The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides, but it is not in the game and will likely not be added due to conflicting with the lore.
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [First Layer (Scyphozia)](First_Layer.md)**
+**\- [First Layer (Scyphozia) for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial](First_Layer.md)**
 
-**\- [Second Layer (The Eternal Gale)](Second_Layer.md)**
+**\- [Second Layer (The Eternal Gale) for information on the layer you are sent to after falling into the void, including info on Chaser and New Kyrsa](Second_Layer.md)**
 
 ## Trivia
 

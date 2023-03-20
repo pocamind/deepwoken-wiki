@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 57494
+revid: 57555
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -91,6 +91,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 10-16 | [Megalodaunt](Megalodaunt.md) |
 | 17+ | [Enforcer](Enforcer.md) |
 
+-   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
 -   If (6?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
@@ -102,7 +103,6 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
 -   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
--   There is definitely some RNG involved with the trial. Occasionally, players above power 13 will still escape without fighting anything.
 
 ## **Farming in First Layer of The Depths**
 
@@ -271,3 +271,4 @@ Legendary = Gold
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   It is essentially guaranteed that you will encounter exploiters in The Depths at one point or another. Make sure your clipping software is running at all times so that if you encounter or get gripped by one, you can get a restore + ban them at the same time.
+-   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).

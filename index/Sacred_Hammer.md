@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 55075
+revid: 57556
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Clubs]
@@ -39,3 +39,4 @@ The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](S
 ## Notes
 
 -   Has a weird parry timing. This can usually be taken advantage of and turn into giant combos or free hits.
+-   Parry animation is almost identical to the windup position of an M1. Meaning that parries actually mask the M1 but this only occurs if both animations are on the same side. Effectively, performing an M1 right after a parry practically doesn't have an animation. Your opponent won't notice the wind-up.
