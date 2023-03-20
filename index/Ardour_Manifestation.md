@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 57245
+revid: 57548
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -21,3 +21,4 @@ Ardour Manifestation is a reward granted upon killing any bosses, even the [Drea
 -   The item will NOT trigger if another Dread Serpent spawned through the Manifestation is already present in the server.
 -   You can get the Manifestation on your first try against the Dread Serpent since there's a few moments before you get the Murmur.
 -   Its likely stated its a 1/4 drop from Bosses.
+-   **You can still obtain an Ardour Manifestation, even if you have a murmur- including Ardour itself.**
