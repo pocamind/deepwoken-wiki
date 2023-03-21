@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 57371
+revid: 57602
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -225,7 +225,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited...</p>
   <ul>
     <li><i><b>While block-broken or assassinated, you cannot Vent.</b></i></li>
-  </ul><p>Venting is also blockable and parryable.</p></td>
+  </ul><p>Vents are parryable, blockable and rollable which all negate the knock back you'd normally receive. Parrying it however does stun the person venting in place as if they missed the vent.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 56202
+revid: 57611
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -187,7 +187,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Dealbreaker</b></center></td>
-  <td><center>All purchasable items cost much more</center></td>
+  <td><center>You sell items for 25% less</center></td>
   <td><center><b>+0.1x</b></center></td>
 </tr>
 <tr>
@@ -207,6 +207,8 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Echo Talents/Items
 

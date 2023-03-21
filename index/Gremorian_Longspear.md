@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 57351
+revid: 57604
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -29,6 +29,8 @@ categories: [Weapons, Pages with broken file links, Spears]
 
 The Gremorian Longspear is a Medium Weapon that is obtainable from killing the Navae Nomads in Etris, with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon has a special gimmick, where one person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked or dodged.
 
+Note: Some of the info below may be incorrect for the move-stacking component of this weapons critical has been removed. Due to this nerf, you can no longer unfairly cast mantras during it.
+
 File:Fwaesrgthf.png
 
 Gremorian Longspear Critical
@@ -45,10 +47,9 @@ The damage of the hitbox IS negated when you are hit but sometimes the stun and 
 
 This is busted. It's unfair. In fact, the fact that it stuns opponents who roll it may actually not be intended. May Navae guide you.
 
-This weapon can be upgraded into an endgame weapon, called the **Alloyed Longspear**.
-
 ## Trivia
 
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
+-   It can be alloyed into the **Alloyed Longspear**

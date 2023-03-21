@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 56548
+revid: 57606
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -30,7 +30,7 @@ A group of adventurers reading lore books
 
 Put all books in _**alphabetical order**_. When ordering alphabetically, the word 'the' does not count. For example, The Gideshu March would be placed with books beginning with the letter G)
 
-It is recommended to use a text-to-image converter (e.g. [https://www.imagetotext.info](https://www.imagetotext.info)) and using a screeshot program such as Gyazo to take the screenshots.
+It is recommended to use a text-to-image converter (e.g. [https://www.imagetotext.info](https://www.imagetotext.info)) and using a screenshot program such as Gyazo to take the screenshots.
 
 ## All Currently Known Books
 
@@ -99,7 +99,7 @@ It is recommended to use a text-to-image converter (e.g. [https://www.imagetotex
 > 
 > Yet, to us, they are simply considered 'monsters.'
 > 
-> You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose?
+> You all fail to see it's social progress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose?
 > 
 > For my own purpose. For your own purpose.
 
