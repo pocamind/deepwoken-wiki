@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 53877
+revid: 57613
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Guilds]
@@ -52,3 +52,4 @@ Chime of Dwelling Item.
 -   Not all surfaces are valid for a guild base to be created on. Only certain types of rock and wood permit it.
 -   Like [Chime of Conflict](Chime_of_Conflict.md) this is an undroppable item and can't be obtained by gripping players, even bypass slot wipe, the only way to lose it is to leave the guild or losing the Officer/Leader rank.
 -   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md).
+-   Guild bases may despawn when no guild members are present in the server along with any items inside the guild base.

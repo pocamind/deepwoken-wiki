@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 57001
+revid: 57615
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -42,7 +42,7 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 -   Drinking or being splashed by a Mindbreaking potion.
 -   Being hit by the [Deep Widow](Deep_Widow.md) web attack
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general
--   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depth](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
+-   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depths](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
 -   Being hit by a weapon enchanted with [Curse of the No Life King.](Enchantments.md)
 -   Being in the immediate vicinity of the meatball chains in [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Wishbound](Developer_Specs.md) Flaw.
