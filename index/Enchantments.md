@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57477
+revid: 57625
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -245,7 +245,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>On hit, a purple portal appears. While active it drains ether and the person you hit has reduced damage. Your critical is changed to a counter. When the counter procs, you will take no damage and your opponent does less damage to you for an unspecified amount of time. Succesfully Countering (?) Times will cause your critical to be changed to a stronger variant that applies knockdown. (Half tested.)</p></div></td>
+  <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
+  Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>
+  Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.</p></div></td>
   <td><div>Weapon does not appear when not equipped (May need research). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>

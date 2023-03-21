@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 57618
+revid: 57620
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -110,7 +110,7 @@ do a small amount of damage and steal a large amount of ether.
 Shadow Roar  
 (★★☆)
 
- | Roar a wave of shadows. | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Can be parried. |
+ | Roar a wave of shadows. | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit. |
 | 
 
 File:Seekers.gif

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57116
+revid: 57636
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -221,6 +221,9 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   He is an Adret.
 -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
 -   Arch\_Mage and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+    -   It can be assumed that if these are true and not just jokes than two things can be assumed:
+    -   1: The meatlord is the most powerful character in all of the deepwoken lore.
+    -   2: He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
 
 The one and only... MEAT LORD!
 
@@ -239,6 +242,7 @@ The one and only... MEAT LORD!
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
 -   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
+-   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation.
 
 ### **Gunsmith Rosen**
 
@@ -358,6 +362,8 @@ Yun'shul's Shrine
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
+    -   This also implies that humans cannot comprehend what the entirety of deepwoken's world really is and would die of insanity due to the anomalous effects of deepwoken's universe, meaning that most of our knowledge might be completely wrong and is a made up story for us to comprehend the horrors that are actually in front of us as we descend into the unknown. This adds a layer of mystery to the depths and implies that how we see it may be almost completely wrong.
+    -   This means that humans are possibly one of the weakest forms of life in deepwoken, being seen as "filth" and weak by the deep voices and the nestmind, with our potential of strength needing to be unlocked through the song. This implies that physical strength may mean absolutely nothing in deepwoken's universe though this is all speculation.
 
 ### **The Ferryman**
 
@@ -411,6 +417,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
+-   Possibly had little affect on it's inhabitants, and most of them being gone is explained by Duke Erisia's manic outburst where he commited mass genocide and killed almost everyone on the island with his golems. One possible explanation is that the Voidsea had some sort of toll on his sanity and mental health, having some odd effect on him where it made him go insane for an unknown reason, although he could just have some sort of serious mental issue that also caused this (maybe caused by the depths since it is not confirmed he is dead in the lore and he always forgets that the player sent him there. This could be caused by some serious mental case we do not know of though you can interpret that how you will.)
 
 #### Songseeker Wilds (Eastern Luminant)
 
@@ -422,6 +429,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   Was once a home to a fallen Celestial.
     -   The tortured Celestial within the Derelict Church is likely this Celestial.
+    -   The treatment of this Celestial is likely what caused the corruption of the land and creatures that inhabit the place, though songseekers may not be affected by this for some odd reason given that they spawn here extremely often. Reason for this is unknown and will likely forever be unknown due to possibly just being a quirk of the game.
 
 #### Starswept Valley (Eastern Luminant)
 

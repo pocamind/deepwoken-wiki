@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57580
+revid: 57624
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -616,7 +616,8 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 ### **Oath Abilities**
 
 -   **Merciless Blade - Passive**
-    -   You can now execute enemies much faster. Reduces base grip speed to 2 seconds.
+    -   You can now execute enemies much faster.
+        -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.

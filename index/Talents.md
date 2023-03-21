@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57592
+revid: 57623
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -27,19 +27,20 @@ There are certain Talents that you receive automatically upon meeting their requ
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
-    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
+-   A high enough [attribute investment](Attributes.md), whether it be in Strength, Fortitude, Intelligence, Willpower, Charisma, Weapon or Attunement.
+    -   For example: 40 INT (Intelligence) is a prerequisite for Overflowing Dam.
 
--   A certain Talent in a certain category.
-    -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
+-   A certain Talent or Class in a certain category.
+    -   For example: Time to Go is a prerequisite for Blood Frenzy.
+    -   For example: Every talent under the Butterfly class is a prerequisite for Ghost.
 
--   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
+-   Doing certain actions that may influence your rolls.
+    -   For example: Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
--   A high enough Power.
-    -   Thresher Claws requires a [Power](Power.md) 13 as a prerequisite.
+-   A high enough [Power](Power.md) level.
+    -   For example: Power 13 is a prerequisite for Thresher Claws.
 
-Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
+Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool**. However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
 _When it comes to mutually exclusive talents, you can have either:_
 
@@ -65,106 +66,99 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Acrobat
 
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
+-   Time To Go \[Common Talent\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
-    -   Prerequisite: 5 Agility
+    -   Prerequisite: 5 AGL
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
     -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
     -   Prerequisite: Time To Go
 
--   Graceful Landing \[Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
+-   Graceful Landing \[Common Talent\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum threshold to take fall damage is increased.
     -   Stacks with other means of fall damage reduction.
-    -   Prerequisite: 25 Agility
+    -   Prerequisite: 25 AGL
 
--   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
+-   Kick Off \[Common Talent\] - Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
-    -   Prerequisite: 15 Agility
+    -   Prerequisite: 15 AGL
 
--   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
+-   Steady Footing \[Common Talent\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
-    -   Prerequisites: 10 Agility, 10 Strength
+    -   Prerequisites: 10 STR, 10 AGL
 
 ### Aerial Dancer
 
--   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
-    -   Synergizes well with Aerial Stab or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 Medium Weapon, Medium Weapon
+-   Wyvern's Claw \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
+    -   Synergizes well with aerial attacks, uppercuts and mantras that send the user and target in the air.
+    -   Prerequisites: 15 STR, 25 MED
 
 ### Aeromancer
 
--   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+-   Aerogliding \[Rare Talent\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
     -   Automatically ends after 5 seconds.
-    -   Prerequisites: 35 Galebreathe, 30 Agility
-
--   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
-    -   Prerequisite: Wind Step
-
--   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisites: 35 WND, 30 AGL
+-   Aeronade \[Common Talent\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: Galetrap
+-   Drifting Winds \[Common Talent\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisite: 25 WND
+-   Gale Coil \[Common Talent\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisite: 35 WND, Suffocating Impact
 
--   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
-    -   Prerequisite: 15 Galebreath, Gale Punch
-
--   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 25 Galebreathe
-
--   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
-
--   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 35 Galebreath, Suffocating Impact
-
--   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Gale Trap \[Common Talent\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
+    -   Prerequisite: Wind Step
+-   Stifled Jump \[Rare Talent\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
     -   Prerequisite: Suffocating Impact
+-   Suffocating Impact \[Common Talent\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisites: 30 STR, 35 WND, Drifting Winds
+
+-   Vacuum Punch \[Common Talent\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
+    -   Prerequisite: 15 WND, Gale Punch
 
 ### Alchemist
 
--   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
-    -   Prerequisites: 10 Intelligence, Brewed a Potion
+-   Apothecary \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+    -   Prerequisites: 10 INT, Make a Potion
 
--   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Exterminator \[Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
-    -   Prerequisites: 15 Intelligence, Brewed a Potion
+    -   Prerequisites: 25 INT, Make a Potion
 
--   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   Prerequisites: 60 Intelligence, Drank Potion
+-   Placebo Effect \[Rare Talent\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
+    -   Prerequisites: 55 INT, Make a Potion
 
--   _Subsistence_ \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
+-   Subsistence \[Rare Talent\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
     -   Improved version of Apothecary.
-    -   Prerequisite: 10 Fortitude/10 Willpower, 30 Intelligence, Drank Potion
+    -   Prerequisite: 10 FTD/WLP, 30 INT, Make a Potion
 
--   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+-   Wild Alchemy \[Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
-    -   Prerequisites: 25 Intelligence, Brewed a Potion
+    -   Prerequisites: 25 INT, Make a Potion
 
 ### Alley Cat
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
-    -   The enemy must not be in combat to trigger this effect.
-    -   Prerequisite: 5 Agility
-
--   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
-    -   Negate the speed penalty of critical health (<30% HP)
-    -   Prerequisite: 25 Agility, 25 Fortitude
-
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+-   Conditioned Runner \[Advanced Talent\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
-    -   Prerequisites: All Alley Cat talents
+    -   Prerequisites: CLASS: Alley Cat
     -   Mutual Exclusive: Fishman
+-   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
+    -   Negate the speed penalty of critical health (<30% HP)
+    -   Prerequisite: 25 FTD, 25 AGL
+-   Scaredy Cat \[Common Talent\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
+    -   The enemy must not be in combat to trigger this effect.
+    -   Prerequisite: 5 AGL
 
 ### Amoran Seeker
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-    -   Gain +20% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
+    -   Gain +20% damage and increased movement speed while this talent is active. Cancelled by dodging or being in water.
     -   Generally dangerous to use without Pyromaniac.
-    -   Prerequisite: 20 Flamecharm
+    -   Prerequisite: 20 FIR
 
--   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
-    -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
-    -   Prerequisites: Flame Within, 30 Flamecharm
+-   Last Laugh \[Common Card\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
+    -   Enables the usage of Flame Within while knocked. This is meant to synergize with the Advanced Talent, Phoenix Flames.
+    -   Prerequisites: Flame Within, 30 FIR
 
 ### Angler
 
@@ -182,39 +176,40 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Apex Predator
 
--   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
+-   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Prerequisite: 5 Strength & 5 Willpower
+    -   Prerequisite: 5 STR, 5 WLP
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 
--   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)
+-   Grand Feast \[Common Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisite: Carnivore
 
--   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
+-   Sunken Predator \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
-    -   Prerequisite: Power 11
+    -   Prerequisite: PWR 11
 
 ### Artisan
 
--   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
-    -   Prerequisite: 45 Intelligence
+-   Master Craftsman \[Common Talent\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
+    -   Prerequisite: 45 INT
 
 ### Assassin
 
--   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 85 Agility
+-   Lights Out \[Common Talent\] - Those you carry are blindfolded. (+1 Passive Agility)
+    -   Prerequisites: 55 AGL
+-   Low Blow \[Common Talent Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
+    -   Prerequisites: 85 AGL
 
--   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
+-   Lowstride \[Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: Around 15 - 20 assassinations, 10 Agility
+    -   Prerequisites: 15-20 Assassinations, 10 AGL
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
-    -   Prerequisite: 20 Agility
+    -   Prerequisite: 20 AGL
 
--   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+-   Vital Point \[Common Talent\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
-    -   Prerequisite: Around 15 - 20 assassinations, 20 Agility
--   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
+    -   Prerequisite: 15-20 Assassinations, 20 AGL
 
 ### Athlete
 
@@ -307,13 +302,13 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
--   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+-   Swift Rebound \[Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
     -   Prerequisite: 15 Agility
 
 -   _Evasive Expert_ \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
     -   Prerequisites: 15 Agility, Swift Rebound
 
--   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+-   _Risky Moves_ \[Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
     -   Prerequisite: 25 Agility, Power 10
@@ -327,27 +322,28 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Adept Caster
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
+-   Everchanging Aegis \[Rare Talent\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having WND resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Red
         -   Frostdraw: Blue
         -   Thundercall: Yellow
-        -   Galebreath: Green
+        -   Galebreathe: Green
         -   Shadowcast: Purple
-    -   Prerequisite: 25 Intelligence
+    -   Prerequisite: 25 INT
     -   Mutual Exclusive: Return to the Dark Ages
+-   Neural Overload \[Advanced Talent\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
+    -   You can now input a maximum of 4 Mantra modifier of each type into a Mantra (4x Cloudstones, 4x Crystal Lens etc.).
+    -   Prerequisites: 85 INT
 
--   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
+-   Overflowing Dam \[Rare Talent\] - Having max ether makes your attacks do more damage. (15% dmg buff).
     -   "Max ether" translates to having more than 95% ether.
     -   This talent goes on a 3 second cooldown when a mantra is casted.
-    -   Prerequisite: 40 Intelligence
+    -   Prerequisite: 40 INT
 
--   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
-    -   Prerequisite: 25 Intelligence
--   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   Prerequisites: 85 Intelligence
+-   Perfect Flash \[Rare Talent\] - Having full health causes your mantras to do 25% extra damage.
+    -   Prerequisite: 25 INT
 
 ### Champion
 
@@ -385,8 +381,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cloudwalker
 
--   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
-    -   Prerequisite: 25 Galebreathe
+-   Gale Leap \[Common Talent\] - Jumping off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
+    -   Prerequisite: 25 WND
 
 ### Colossus
 
@@ -465,17 +461,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cutthroat
 
--   Assassin \[Common Talent, Agility\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
+-   Assassin \[Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   Prerequisite: 30 Agility
 
--   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
+-   Blood Thirsty \[Common Talent\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
     -   Prerequisite: 45 Agility
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
--   Hidden Blade \[Common Talent, Agility\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
+-   Hidden Blade \[Common Talent\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
     -   Prerequisite: 30 Agility
 
--   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
+-   In a Hurry \[Common Talent\] - You grip faster with a movement speed boost.
     -   Prerequisite: Assassin, 30 Agility
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
@@ -570,7 +566,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Can proc from physical mantras
     -   Prerequisites: 20 Strength, 25 Agility
 
--   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
+-   Steady Nerves \[Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, 45 Agility.
 
@@ -610,27 +606,27 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
 
--   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Absorption \[Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
 
--   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
+-   Ether Blade \[Common Talent\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
     -   Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
--   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s
+-   Ether Conduit \[Common Talent\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s
     -   Prerequisites: 30 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
+-   _Eureka_ \[Rare Talent\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
     -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Prerequisite: 30 Intelligence
 
 -   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. (+7 Sanity)
     -   Prerequisites: 40 Willpower, Battle Tendency
 
--   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
+-   Mantra Permanence \[Common Talent\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisites: 20 Intelligence
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Nullifying Clarity \[Common Talent\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
     -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Falling Star Guard
@@ -765,8 +761,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Gale Duelist
 
--   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
-    -   Prerequisites: Wind Blade, 20 Galebreathe.
+-   Tempest Wind \[WND Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+    -   Prerequisites: Wind Blade, 20 WND.
 
 ### Gale Kata
 
@@ -774,42 +770,42 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
     -   Prerequisites: 25 Light Weapons Mastery, Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
 
-### Galebreather
+### WNDr
 
--   Adept Galebreather \[Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisites: 20 Galebreathe
+-   Adept WNDr \[WND Exclusive\] - You can now obtain 1-Star Leveled WND mantras. (+3 Elemental Intensity, +1 Health)
+    -   Prerequisites: 20 WND
 
--   Expert Galebreather \[Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
-    -   Prerequisites: 30 Galebreathe
+-   Expert WNDr \[WND Exclusive\] - You can now obtain 2-Star Leveled WND mantras. (+5 Elemental Intensity)
+    -   Prerequisites: 30 WND
 
--   Galebreather \[Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
-    -   Prerequisites: Galebreathe at power 1 or obtain from Galebreathe trainer (Friid)
+-   WNDr \[WND Exclusive\] - Grants you the ability to command wind as a WNDr. (+3 Elemental Intensity, +3 Health)
+    -   Prerequisites: WND at power 1 or obtain from WND trainer (Friid)
 
--   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +5 Health)
-    -   Prerequisites: 50 Galebreathe
+-   Master WNDr \[WND Exclusive\] - You can now obtain 3-Star Leveled WND mantras. (+3 Elemental Intensity, +5 Health)
+    -   Prerequisites: 50 WND
 
--   Reverse Gale Kick \[Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
-    -   Prerequisites: Rising Wind (Galebreathe Mantra)
+-   Reverse Gale Kick \[WND Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
+    -   Prerequisites: Rising Wind (WND Mantra)
 
--   The Old Wind \[Galebreathe Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity, +1 Health}
+-   The Old Wind \[WND Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity, +1 Health}
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce
 
--   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity, +3 Health)
-    -   Prerequisites: 40 Galebreathe, Breathing Impact
+-   After Cut \[WND Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity, +3 Health)
+    -   Prerequisites: 40 WND, Breathing Impact
 
--   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
-    -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
-    -   Prerequisites: 30 Galebreathe
+-   Breathing Impact \[WND Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
+    -   The following WND Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
+    -   Prerequisites: 30 WND
 
--   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +3 Health)
-    -   Prerequisites: 50 Galebreathe, Breathing Impact
+-   Inhale \[WND Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +3 Health)
+    -   Prerequisites: 50 WND, Breathing Impact
 
--   _Skull Crusher_ \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
-    -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
+-   _Skull Crusher_ \[Rare Talent\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
+    -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 WND
 
--   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
+-   Tailwind \[WND Exclusive\] - Gain a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
     -   Has a 2 Second Cooldown.
     -   Prerequisite: Inhale
 
@@ -854,10 +850,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
                 -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
                 -   Thundercall: Your bullets electrify
-                -   Galebreathe Your bullets after cut
+                -   WND Your bullets after cut
                 -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
-            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+            -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > WND > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
 ### Heretic
@@ -1067,7 +1063,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Leaf in the Wind
 
--   _Observation_ \[Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+-   _Observation_ \[Rare Talent\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
     -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll.
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
@@ -1080,13 +1076,13 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Legion Shock Trooper
 
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
-    -   Prerequisites: 20 Agility, 50 Galebreathe
+    -   Prerequisites: 20 Agility, 50 WND
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
-    -   Prerequisites: 30 Agility, 55 Galebreath
+    -   Prerequisites: 30 Agility, 55 WND
 
 -   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
-    -   Prerequisites: 25 Agility, 40 Galebreathe
+    -   Prerequisites: 25 Agility, 40 WND
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
     -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
@@ -1094,12 +1090,12 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: 15 Fortitude, Using a spear
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility, +2 Health)
-    -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath
+    -   20 Medium, 30 Strength / 30 Agility, 65 WND
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
-    -   Prerequisites: 50 Galebreathe, Gale Leap
+    -   Prerequisites: 50 WND, Gale Leap
 
 ### Liberator
 
@@ -1257,7 +1253,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+-   _Lightspeed Reflexes_ \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
 
 ### Omniscient
@@ -1448,14 +1444,14 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
-    -   Prerequisite: 60 Galebreathe
+-   Silencer's Edge \[Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
+    -   Prerequisite: 60 WND
 
--   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
+-   _Silencer's Blade_ \[Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
-    -   Prerequisites: 60 Galebreath, [Power](Power.md) 10, Silencer's Edge
+    -   Prerequisites: 60 WND, [Power](Power.md) 10, Silencer's Edge
 
--   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
+-   _**A World Without Song**_ \[Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Prerequisites: Silencer's Edge and Silencer's Blade
 
@@ -1554,16 +1550,16 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Swiftshade
 
--   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
+-   Pursuit \[Common Talent Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
--   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
+-   Dustlunge \[Common Talent Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   Prerequisites: Shared Demise, 90 Agility
--   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
+-   None Left Behind \[ Common Talent\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
     -   Pressing the V key on a knocked entity who's in close/medium range teleport you to them.
     -   Can be used to go throught walls if you can aim at the knocked entity throught it.
     -   Prerequisite: Shared Demise, 100 Agility
--   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
+-   _**Shared Demise**_ \[Advanced Talent\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
     -   Prerequisites: All Assassin Talents, 85 Agility
 
@@ -1633,15 +1629,15 @@ These Talents are designed to let you survive longer against starvation and thir
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
+-   Cap Artist \[Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
     -   Prerequisite: 25 Agility, 5 Charisma
 
--   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
+-   Master Thief \[Common Talent, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
     -   Prerequisites: Pickpocket, 25 Charisma
 
--   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
+-   Pickpocket \[Common Talent, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
@@ -1714,7 +1710,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Trickster
 
--   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
+-   _Cheap Shot_ \[Rare Talent\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
     -   Prerequisite: 65 Agility
 
 ### Tyrant
@@ -1752,7 +1748,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 25 Agility
 
 -   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your next melee attack.
-    -   Prerequisites: 60 Galebreath
+    -   Prerequisites: 60 WND
 
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
@@ -1854,8 +1850,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Whisper
 
--   Haunted Gale \[Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
-    -   Prerequisite: 40 Galebreathe, [Power](Power.md) 8
+-   Haunted Gale \[Common Talent\] - Every 5 hits landed by perfectly casted WND mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+    -   Prerequisite: 40 WND, [Power](Power.md) 8
 
 ### Windrunner
 
@@ -2220,12 +2216,12 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 Certain talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other talents, or could otherwise break certain builds.
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
--   Conditioned Runner \[Advanced Talent, Agility\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
--   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
+-   Conditioned Runner \[Advanced Talent\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
+-   Everchanging Aegis \[Rare Talent\] - Take more damage from any element. (+4 Elemental Intensity)
 -   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 35%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)
+-   Nullifying Clarity \[Common Talent\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 -   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
