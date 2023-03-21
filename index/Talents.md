@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57545
+revid: 57592
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -169,11 +169,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### Angler
 
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
-    -   Obtained after fishing 25 times successfully.
+    -   Obtained after fishing 50 times successfully.
     -   Increase the rate of hooking something while fishing.
 
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Obtained after fishing 50 times successfully.
+    -   Obtained after fishing 25 times successfully.
     -   Reduces the chance of failure while fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
@@ -316,7 +316,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
-    -   Prerequisite: 25 Agility
+    -   Prerequisite: 25 Agility, Power 10
     -   Mutual Exclusive: Observation, Safety Dance
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
@@ -1122,7 +1122,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: Fists, 25 Agility
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
-    -   Grant up to 25% extra damage when nearing 100% insanity.
+    -   Grant up to 15% extra damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
     -   Prerequisite: 30 Strength, 30 Fortitude
 
@@ -1614,7 +1614,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   _Mirage Clone_ \[Rare Talent\], Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
     -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
     -   Uses 15 Ether and does not proc if you don’t have enough Ether
-    -   Prerequisite: 60 Flamecharm
+    -   Prerequisite: 65 Flamecharm
     -   Cooldown: 8 Seconds
 
 -   _Exploding Mirage Clone_ \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)

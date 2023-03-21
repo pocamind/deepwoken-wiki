@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 46407
+revid: 57579
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -12,7 +12,7 @@ categories: [Armors, Arms, Equipment]
 |---|---|
 | type | Arms |
 | rarity | Legendary |
-| selling price | ?? |
+| selling price | 50 |
 | requirements | N/A |
 | weight | 2 |
 | innate stats | +Grants Random placeholder stats |

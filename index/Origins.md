@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 57402
+revid: 57586
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -84,7 +84,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[PRO\]** ...but start with positive reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
 -   Grants the innate talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
-    -   **\[CON\]** ...but is only available if a few conditions are met.
+    -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.
     -   **\[CON\]** If your target runs too far away and is no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
     -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.

@@ -1,9 +1,9 @@
 ---
 title: "Diver's Light Plate"
-revid: 57573
+revid: 57588
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Character, Items]
 ---
 
 # Diver's Light Plate

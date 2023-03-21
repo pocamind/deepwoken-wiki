@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 56571
+revid: 57591
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -67,17 +67,15 @@ File:Khan-enforcer-axe-image.png
 
 All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so its better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 
-It is recommended to not play at high ping. However, if you have no choice about it, matador, Sunken Predator, and heavy weapons will be handy. Matador, simply because the Enforcer has hyper armor. And if you're using a Zweihander, you can use Sunken Predator to outrange it during its Whirlwind.
+Using talents such as Sunken Predator, Underdog, and Giantslayer will prove handy as they provide a damage boost against The Enforcer, as well as other monsters.
 
 If you ever get pulled, you can usually just block, as it doesn't always matter. With high ping as well, you will not be able to react the Whirlwind, saving you a bit of trouble.
 
-If you're using a [Rapier](Kyrstreza.md), play enforcer like you would in Trial of one. _Do not miss a parry._
-
 ### Rewards
 
--   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Cost 75 Heavy to use
--   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
--   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Requires 85 Heavy Weapons Training and 25 Strength.
+-   **[Enforcer's Axe:](<Enforcer's_Axe.md>)** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game. Cost 75 HVY to use, and boasts higher damage than its sisters.
+-   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A blade that is not considered too good, as it does not break the enemy's posture instantly.
+-   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Boasts high posture damage, and requires 80 HVY and 25 STR to use.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
 -   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
 
@@ -113,4 +111,3 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   With the Enforcer's Eye, You are able to gain the Space Pull and use it in combat.
 
 1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.
-2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)
