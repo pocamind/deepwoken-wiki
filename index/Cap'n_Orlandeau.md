@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 53205
+revid: 57711
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,7 +13,7 @@ categories: [NPCs]
 | name | Cap'n Orlandeau, The Captain (In the Fragments of Self) |
 | location | The Scroundel's Bounty, New Kyrsa |
 
-“ And to the ones above who think of us as sinners... the god's will not be watching. ”
+“ And to the ones above who think of us as sinners... the gods will not be watching. ”
 
 ― Cap'n Orlandeau
 
@@ -24,6 +24,16 @@ categories: [NPCs]
 As of the Post-Verse 2 update, he is confirmed to have survived the scuttling, sank into the oceans, and found his way to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer, leaving him as the sole survivor among the Scoundrel's Bounty crew. Believing this may be his final plunder, he explores the sleeping city in search of treasures, fame, and glory.
 
 The player can run into him atop of one of the balconies in the city. His dialogue changes depending on if you did the tutorial or not.
+
+He wears
+
+[Flame Worshipper Armor](Flame_Worshipper_Armor.md)
+
+[Brigand's](<Brigand's_Bicorn.md>) [Bicorn](<Brigand's_Bicorn.md>)
+
+Celtor Commander Plate
+
+He is a Panther felinor
 
 ## Dialogues in the City of New Kyrsa
 
@@ -63,7 +73,7 @@ The player can run into him atop of one of the balconies in the city. His dialog
 > 
 > 1.  I'll pocket any I come across, and keep that in mind.
 > 
-> Cap'n Orlandeau: Aye! \*The captain stretches his arm forth, waving across the cityspace.\* Go forth, **\[PLAYER\]**! Seek the treasures your heart desires. Seek out what belonds to you, seek your legacy. And to the ones above who think of us as sinners... _the gods will not be watching_.
+> Cap'n Orlandeau: Aye! \*The captain stretches his arm forth, waving across the cityspace.\* Go forth, **\[PLAYER\]**! Seek the treasures your heart desires. Seek out what belongs to you, seek your legacy. And to the ones above who think of us as sinners... _the gods will not be watching_.
 
   
 

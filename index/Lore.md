@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57696
+revid: 57710
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -18,7 +18,7 @@ _This page is a collection of Lore in the game, if you are looking for Books, vi
 
 The lore of Deepwoken is vast and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape, such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Dev's themselves (Arch\_Mage, Naktigonis, Ragoozer etc...)
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Devs themselves (Arch\_Mage, Naktigonis, Ragoozer etc...)
 
 This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
@@ -223,7 +223,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
 -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
--   Arch\_Mage and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+-   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meatlord is the most powerful character in all of Deepwoken Lore.
         2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
@@ -259,7 +259,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
--   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
+-   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md).
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
@@ -338,16 +338,16 @@ Yun'shul's Shrine
 
 ### **Drowned Gods**
 
-**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+**Lore Sources:** _Lightborn King, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
 
 -   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They are not fighters, so much as natural disasters waiting to happen.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
--   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the lost lightborn in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulians, similar to how Celestials are to Lightborns.
--   There is not a Drowned God for each attunement, though some have originated through the worship of them.
+-   There is not a Drowned God for each attunement.
 -   Two theories to what they are have been remarked as 'close:'
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
@@ -369,7 +369,7 @@ Yun'shul's Shrine
 
 ### **The Ferryman**
 
-**Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned), The Ferryman._
+**Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned), The Ferryman_
 
 -   The [Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
@@ -382,11 +382,14 @@ Yun'shul's Shrine
 
 ### **Haske Vantage**
 
--   A budget Primal Vesperian.
--   Has a Resonance that allows him to steal and eat souls.
--   Can empower Mantras to a higher tier.
--   Committed sins so heinous 'the world will never forgive \[him\].'
--   Was sealed by the four heroes, resulting in the chains that adorn his body.
+**Lore Sources:** _Arch\_Mage_
+
+-   A Primal Vesperian, and Arch\_Mage's lore character ingame.
+-   Has a Resonance that allows him to make the 'immaterial' material.
+    -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.
+-   Can fuse Mantras using his Resonance to a higher tier.
+-   Is said to have committed sins so heinous 'the world will never forgive \[him\].'
+-   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes have been confirmed to not be the wielders of the hero blades.
 
 ### **Sudaruska the Undying**
 
@@ -438,7 +441,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 #### Starswept Valley (Eastern Luminant)
 
-**Lore Sources:** _[Arch\_Mage](Wiki_Staff.md) (Discord)_
+**Lore Sources:**
 
 _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavour Text_
 
@@ -446,12 +449,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
-    -   ([Arch\_Mage](Wiki_Staff.md)) Thanks to [Arch\_Mage](Wiki_Staff.md), its confirmed that the blue particles that rain down the Valley are fragments of Stars.
     -   Along with blue fragmented stars; Blue Meteorites, containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
-
--   It was once thought that the Blue stars that rain down the Valley is coming from the Celestial City, however this is not the case.
-    -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading.
-        -   Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.
 
 ### **Central Luminant**
 
@@ -507,7 +505,7 @@ _"A place remembered only by the waves"_
 
 ### **The Depths**
 
-The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
+The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wake up in the First Layer.
 
 -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths. Ragoozer has hinted at the possibility of there being five.
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
@@ -516,7 +514,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 
 #### **Scyphozia, The First Layer**
 
-**Lore Sources:**
+**Lore Sources:** _Area descriptions_
 
 _"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavour Text_
 
@@ -526,7 +524,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 ##### The City of the Drowned (The Depths, First Layer)
 
-**Lore Sources:** _Arch\_Mage (Discord)_
+**Lore Sources:** _Area descriptions, Gild, Andrea, Arch\_Mage (Discord)_
 
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
 
@@ -539,7 +537,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
 -   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky.
-    -   (Arch\_Mage) Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Great Drowning.
+    -   Arch\_Mage himself stated that The City of Celtor was just one of the many victims of the Tides.
     -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the Great Drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
@@ -690,7 +688,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
 -   **Alliances:** _[The Contractors](Oaths.md) (Neutral)_
 -   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children of Navae, [The Summer Company](The_Summer_Company.md)_
--   **Lore Sources:** _Arch\_Mage (Discord)_
+-   **Lore Sources:**
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
@@ -700,8 +698,6 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'
--   (Arch\_Mage) The Ministry Necromancers are affected by the Mute ability, which normally only affects monsters.
-    -   Said ability once affected the Ministry Scouts, but this was declared a bug; whether or not the same is true for the Necromancers remains to be seen.
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
@@ -734,13 +730,13 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _None_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae_
--   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord), Eylis, The Punished Dreamer (NPC)._
+-   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Eylis, The Punished Dreamer (NPC)._
 
 -   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
 -   They live in the sewers of the Central Luminant.
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
 -   They possess a special Oath that lets them slow time around them.
--   (Arch\_Mage) The Knives of Eylis are mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
+-   The Knives of Eylis are mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname  
@@ -753,9 +749,9 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:** _Arch\_Mage (Discord)_
+-   **Lore Sources:**
 
--   (Arch\_Mage) The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
+-   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 -   The Darksteel Greatsword's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
@@ -905,7 +901,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Territory:** _None_
 -   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
--   **Lore Sources:** _Arch\_Mage (Discord), Songseeker Wilds_
+-   **Lore Sources:** _Songseeker Wilds_
 
 -   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
@@ -959,19 +955,19 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A race of people that live within the Eternal Gale.
 -   They worship Ethiron, and have built a shrine on the first floor of the Eternal Gale.
 -   Over the course of their lives they add more words to their name.
--   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
+-   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers, or Frinwalter in their own tongue.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
-    -   Despite hostile in the New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This is because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
+    -   Despite being hostile in New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This may be because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
 -   Their heads can be eaten, but seemingly contain little nutritional value due to the poor amount of hunger and thirst a Kyrsdog replenishes.
--   The Kyrsgarde have a lot of prosperity and such, but something called "The mist" has changed something in them, an outsider Kyrsgarde tells us this place is not good for us, and that the foolishness is of the Kyrsgarde is what brought this tragedy, because turns out building a huge city over a drowned god wasn't really a good idea.
--   Kyrsgarde brutes were probably the ones who carried the iron bars and created some of the bigger heavy structures, while the ice lancers used their Frostdraw to create some other buildings, presumably.
--   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is it gets deadly.
+-   The Kyrsgarde have a lot of prosperity and such, but something called "the mist" has changed something in them. An outsider Kyrsgarde tells us this place is not good for us, and that the foolishness of the Kyrsgarde is what brought this tragedy (turns out building a huge city over a drowned god wasn't really a good idea).
+-   Visually, Kyrsgarde brutes seem to have filled the role of labourers or guards in New Kyrsa.
+-   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is when it gets deadly.
 -   They know how to speak our language, however they have their own "tongue".
--   Their city of New Kyrsa is the most advanced location seen in game, possessing a tram station.
+-   Their city of New Kyrsa is perhaps the most technologically advanced location seen in game, even possessing a train station.
 
 ### **Deepwoken**
 
--   **Lore Sources:** _Arch\_Mage (Discord)_
+-   **Lore Sources:** Ragoozer (Discord)
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'
 -   Only known Deepwoken are Amorus Pleeksty and the First Prophet.
@@ -1108,27 +1104,26 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
     -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
 -   There are higher Krulians and lesser Krulians.
-    -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
+    -   Higher Krulians are more powerful than even Zi'eer or Pleeksty
 -   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
 
 ### Lightborn
 
 "_The stars call you back..."_
 
-**Lore Sources:** _Arch\_Mage (Discord)_
+**Lore Sources:** _Kaide_
 
 -   Children of Celestials, the Lightborn are considered fragments of these once great beings who lived above in the sky.
 -   In recent times, a family of Lightborn known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
--   Some of the Lghtborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
--   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
+-   Some of the surviving Lightborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
--   They posses Halos around either their heads, necks or wrists.
+-   Visually, they done halo-like circlets around either their heads, necks or wrists.
 
 ### Celestials
 
 _"The stars call you back..."_
 
-**Lore Sources:** _Celestial Telescope (Greathive Aratel), Arch\_Mage (Discord)_
+**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
 -   Celestials came to the Luminants from the stars when the Canticlysm descended upon the land of the Old World.
@@ -1138,20 +1133,14 @@ _"The stars call you back..."_
 -   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
--   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
 -   Some are as powerful as Drowned Gods, but they are for the most part eclipsed by them.
 -   Eating parts of them turns you into a Starkindred.
 -   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair.
-    -   It should be noted that Arch\_Mage is unsure on whether Nilsa is still considered canon. Ragoozer however believes he is.
 
 ### Primal Vesperians
 
 -   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
 -   "Ancient Vesperians lost to time."
-
-  
-
-  
 
 ## Attunement Lore
 
@@ -1193,8 +1182,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Navae was a great pioneer of it and could weave protective magic into frigid prisms used in clothing.
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
     -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.
-    -   He did not invent it, neither did Navae.  
-        
+    -   He did not invent it, neither did Navae.
 
 ### Thundercall
 
@@ -1211,8 +1199,6 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
     -   (Curved Blade of Winds) Galebreathe was created during the events of the Canticlysm; thanks to the description of the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
-  
-
 ### Shadowcast
 
 **Lore Sources:**
@@ -1221,8 +1207,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
 -   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
--   Considered taboo, as it exists to drain life.  
-    
+-   Considered taboo, as it exists to drain life.
 
 ### Lightkeepers
 
@@ -1236,8 +1221,8 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Lightkeepers are possibly important for nautical travel between luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between luminants without any blessing from a Lightkeeper.
 -   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   ~There are no records or NPCs that talk about Lightkeepers using their power as a weapon.~ Klaris, the teacher of the Dawnwalker oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "She learned a lot from her gift" meaning that Viqh possibly teached Klaris to create the Dawnwalker Oath, and as we know that Oath can easily be used as a weapon.
--   The current Lightkeeper (Possibly Viqh) was kidnapped by Etrea to prevent the Authority entering the Etrean Luminant, stalemating a losing war.
+-   Klaris, the teacher of the Dawnwalker oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
+-   The current Lightkeeper of the Etreean Luminant (Possibly Viqh) was kidnapped by Etrea to prevent the Authority entering the Etrean Luminant, stalemating a losing war.
 -   The magic that is utilized by the Dawnwalker oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
@@ -1245,10 +1230,9 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Lifeweavers
 
-**Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
+**Lore Sources:** _Regek (Mentioned), The Lament of Cirryn_
 
--   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Attunement. Lifeweave has healing capabilities; though it's not shown in-game.
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
@@ -1259,16 +1243,13 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
 
-  
-
 ### Ironsing
 
 **Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
-    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
-        
+    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
 
 ### Water Magic
 
@@ -1276,9 +1257,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.
     -   Water Magic is the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.
-        -   It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
-
-  
+        -   It's the complete inverse of the Flames that keep Humanity alive - the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
 ## Oath Lore
 
@@ -1293,8 +1272,7 @@ People who make an oath to seek the truth of the deepwoken world. Their blindfol
 ## Murmur Lore
 
 -   Murmurs are whispers of the Song that allows the user to do a variety of special abilities.
--   Everyone has Murmur, but only those who obtain special applications of the Song can make full use of its abilities.  
-    
+-   Everyone has Murmur, but only those who obtain special applications of the Song can make full use of its abilities.
 
 ### Whispers of Ardour
 
@@ -1323,7 +1301,7 @@ People who make an oath to seek the truth of the deepwoken world. Their blindfol
 
 ### City of Celtor
 
-**Lore Sources:** _Arch\_Mage (Discord)_
+**Lore Sources:** _Area descriptions_
 
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the great Nation of Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
 -   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
@@ -1344,13 +1322,12 @@ People who make an oath to seek the truth of the deepwoken world. Their blindfol
 
 ### The Origin of Adrets
 
-**Lore Sources:** _Ishan, Weapon Descriptions, Arch\_Mage._
+**Lore Sources:** _Ishan, Weapon Descriptions._
 
--   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien.
+-   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien. Contrary to popular belief, this means that the Adret aren't fish, either.
 -   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
--   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
 
 ### Currency
 
@@ -1365,12 +1342,12 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Song
 
-**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope, Arch\_Mage_
+**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope_
 
+-   The Song is to be the formula - the assimilation of all things; such as Mantras, Ritual Casting and other things.
+    -   The Song also draw upon the resonance of the living - the creation of [Resonance Bells](Resonance.md).
+-   The Song is the entity that drives the world - it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimately it is only a mere murmur for a reason - a small whisper into the great loom that is The Song.
 -   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
--   The Song is to be the formula- the assimilation of all things; such as Mantras, Ritual Casting and other things.
-    -   The Song also draw upon the resonance of the living- the creation of [Resonance Bells](Resonance.md).
--   The Song is the entity that drives the world- it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimate it is only a mere murmur for a reason- a small whisper into the great loom that is The Song.
 
 ### The Canticlysm
 
@@ -1399,7 +1376,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Depths
 
-**Lore Sources:** _What Mends Shall Fray (Song), Gild, Lucy_
+**Lore Sources:** _What Mends Shall Fray (Song), Gild_
 
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
@@ -1409,13 +1386,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
             -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
             -   The third Layer is where the physical body of Korilfiend is found.
--   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
-    -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
+-   It seems that the effects of ageing are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
+    -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
 -   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
 
 ### Ancestors of Ganymedes & Vesperians
 
-**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+**Lore Sources:** _Arch\_Mage (Discord)_
 
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present, they still work together as The Hive.
@@ -1440,7 +1417,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Resonance Bells
 
-**Lore Sources:** _The Depths, Arch\_Mage (One of his posts in Discord), Yamaketzal (Tarnished Removal), Sibex (Resonance Check)_
+**Lore Sources:** _The Depths, Arch\_Mage (Discord), Yamaketzal (Tarnished Removal), Sibex (Resonance Check)_
 
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
@@ -1450,7 +1427,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   (Yamaketzal) Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
-    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
+    -   Corrupted resonance downsides are a misuse of the song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
 
 ### **Voidfog**
 
@@ -1460,7 +1437,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Timeline
 
-**Lore Sources:** _Trenti, Arch\_Mage, Lore Books_
+**Lore Sources:** _Trenti, Studies on Canticlysm Vol. IV_
 
 ### Unknown Timeframe (Ordered Roughly)
 
@@ -1823,13 +1800,9 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## Trivia
 
--   The Adretian Authority was renamed to The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
+-   The Central Authority was sometimes referred to as the Adretian Authority ingame at release, though this has since been corrected by the devs.
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
--   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
--   The change in artstyle seen with the more realistic Roblox resources used in Layer 2 is just experimentation. Sometimes, it's just not that **deep**.
--   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.
--   It was also confirmed by Archmage that Stormcall/Plasmacast (Purple Lightning) is old lore that they've forgotten to remove. No leancall, everyone.
 -   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
 -   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
 

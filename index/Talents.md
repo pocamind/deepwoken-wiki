@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57669
+revid: 57716
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -960,11 +960,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
-    -   Passive insanity gain from The Depths is reduced.
+    -   Passive insanity gain from The Depths is reduced. You require 1 less knowledge when making deals with deep shrines.
 
 Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
 
--   Tirans gain Feathered Glider with infinite durability.
+-   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the race variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Guildmates take less damage from you and deal less damage to you.
@@ -981,21 +981,21 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 
--   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
-    -   Status effects, good or bad, are shorter.
+-   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. You take less damage from acid rain.
+    -   Status effects, good or bad, are shorter. Acid rain damage is reduced.
 
 -   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
 
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger.
+    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other races with the blind flaw.
 
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Natural increase in Stealth. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
 -   Seaborne \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
-    -   Ship cost is lowered, they turn 20% faster and have more health.
+    -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
--   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+-   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (Power level doenst count)
 
 ### Iron Will
 

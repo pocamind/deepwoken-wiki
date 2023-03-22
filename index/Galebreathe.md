@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 57242
+revid: 57702
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -12,13 +12,13 @@ categories: [Pages with broken file links, Mantras, Attunement]
 
 ― Flavor Text
 
-  
+Galebreathe icon
 
 ## Description
 
-Galebreathe icon
-
 _A gremor using Gale Lunge_
+
+.
 
 Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE.
 

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 56718
+revid: 57701
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | scaling | SDW: 9, HVY: 4 |
 | range | 9 |
 | swing speed | 0.65x |
-| endlag | 0.25s |
+| endlag | 0.15s |
 | special effect | Some Shadowcast Passives will be applied on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |

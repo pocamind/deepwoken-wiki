@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 56449
+revid: 57713
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,6 +60,6 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   Ganymedes have a special racial bonus that make Deep Shrines cost one less Knowledge point to make a deal with.
     -   Deep Shrines will cost 4 Knowledge.
-    -   Shrine of Order will cost 9 Knowledge.
+    -   Shrine of Order will cost 10 Knowledge.
     -   A deal with [Misérables](Misérables.md) will cost 14 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._
