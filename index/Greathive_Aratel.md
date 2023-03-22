@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 53660
+revid: 57681
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -103,7 +103,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 -   Turning it clockwise will show these images:
 
--   Turning it counterclockwise will show these images:
+-   Turning it counterclockwise will show these images and give you a good chunk of experience (with a side effect of making you incredibly sad):
 
 ## Quests
 

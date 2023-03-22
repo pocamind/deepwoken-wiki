@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57667
+revid: 57680
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -266,15 +266,15 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### **The Dreadstar**
 
--   Located behind Minityrsa with in the lost ship in the voidsea.
--   His appereance is similar to the shrine of Yun' Shul, but there is no indication of being related to the drowned god.
+-   Located behind Minityrsa with in the lost ship in the Voidsea.
+-   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make oaths with the players that meet certain requirements and that shares a hate towards the song.
 -   The oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
 -   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the oath, but this is just a small contradiction in the game.
 -   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the song and to the 5 attunment trainers (not counting the Attument-less trainer)
+-   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunment trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
+-   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
 
 ### **Alsin**
 
@@ -345,7 +345,7 @@ Yun'shul's Shrine
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
--   Most likely they were "ancient" enemies of the Celestials and the Lightborns, as the lost lightborn in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborns lost when the Celestials fleed.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the lost lightborn in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulians, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement, though some have originated through the worship of them.
 -   Two theories to what they are have been remarked as 'close:'
@@ -414,12 +414,15 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   As of Deepwoken's Release, the [Lighthouse](Eastern_Interstitial_Lighthouse.md) cannot be accessed into its interior, nor does it allow anyone to go to [The Central Luminant](Luminants.md). Due to the fact that only Lightkeepers can operate them.
+-   Viqh is likely still inside.
 
-#### Erisia Island (Etrean Luminant)
+#### Erisia (Etrean Luminant)
 
--   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
+-   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
--   Possibly had little affect on it's inhabitants, and most of them being gone is explained by Duke Erisia's manic outburst where he commited mass genocide and killed almost everyone on the island with his golems. One possible explanation is that the Voidsea had some sort of toll on his sanity and mental health, having some odd effect on him where it made him go insane for an unknown reason, although he could just have some sort of serious mental issue that also caused this (maybe caused by the depths since it is not confirmed he is dead in the lore and he always forgets that the player sent him there. This could be caused by some serious mental case we do not know of though you can interpret that how you will.)
+-   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
+-   The Hive at one point settled here, but left.
+-   Currently one of the main warzones in the East, along with Aratel Island.
 
 #### Songseeker Wilds (Eastern Luminant)
 
@@ -457,7 +460,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 #### Markor
 
 -   A savannah nation conquered by The Central Authority.
--   The origin of Scimitars and similar blades.
+-   The origin of Scimitars and similar blades, as well as Felinor.
 -   The Felinor Fieldfolk once lived here.
 
 #### Markor Citadel
@@ -1128,7 +1131,7 @@ _"The stars call you back..."_
 **Lore Sources:** _Celestial Telescope (Greathive Aratel), Arch\_Mage (Discord)_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
--   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World.
+-   Celestials came to the Luminants from the stars when the Canticlysm descended upon the land of the Old World.
     -   Some people misinterpreted "Drawn from the Heavens by the Song", referring this quote to the Canticlysm; but it was actually the Celestials that was being referred to.
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   Their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
@@ -1154,11 +1157,11 @@ _"The stars call you back..."_
 
 ### The Four Attunements of the Canticlysm
 
-**Lore Sources:** _Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord), Curved Blade of Winds (Description)_
+**Lore Sources:** _Naktigonis (The Sun, Gleaming), Curved Blade of Winds (Description)_
 
 -   The Four Basic Attunements, Flamecharm, Frostdraw, Galebreathe and Thundercall were discovered and developed during the Canticlysm; the peak of understanding The Song, and also the eventual downfall of the Old World.
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
-    -   (Arch\_Mage) Like the first bulletin, the 4 Attunements were discovered and developed during the Canticlysm.
+    -   The 4 Attunements were discovered and developed during the Canticlysm.
     -   (Curved Blade of Winds) The first Galebreathers of the Canticlysm wield the Curved Blade of Winds; dual scimitars attuned to the Winds.
 
 ### Flamecharm
@@ -1356,7 +1359,7 @@ People who make an oath to seek the truth of the deepwoken world. Their blindfol
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-## Deepwoken: 0000-1271 (New World)
+## Deepwoken: [0000-1271](tel:0000-1271) (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 
@@ -1367,34 +1370,31 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
 -   The Song is to be the formula- the assimilation of all things; such as Mantras, Ritual Casting and other things.
     -   The Song also draw upon the resonance of the living- the creation of [Resonance Bells](Resonance.md).
-
 -   The Song is the entity that drives the world- it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimate it is only a mere murmur for a reason- a small whisper into the great loom that is The Song.
 
 ### The Canticlysm
 
-**Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
+**Lore Sources:** _Studies on Canticlysm, Vol. IV,_ _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming)_
 
 -   An era where the people of the Old World has utilized the Song into making Attunements and magicks; and eventually the downfall of their own.
-    -   (Arch\_Mage) Thanks to Arch\_Mage's posts, the Nation of Celtor was not the prime reason the Canticlysm occured, but rather a victim of its' consequences.
-    -   (Arch\_Mage) Explained by Arch\_Mage, The Canticlysm occured way before the Great Drowning of Celtor.
--   (Arch\_Mage) The Canticlysm lead to the creation of the 4 Basic Attunements- Thundercall, Flamecharm, Frostdraw and Galebreathe.
--   The Canticlysm lead to a Golden Age in Deepwoken's world, but also made said world highly volatile, most of the inventions that ran on the power of the Song being liable to turn to lethal if not used properly.
--   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangered all life- awakening the Drowned Gods from their slumber.
+-   The Canticlysm led to the creation of the 4 Basic Attunements - Thundercall, Flamecharm, Frostdraw and Galebreathe.
+-   The Canticlysm led to a Golden Age in Deepwoken's world, but also made said world highly volatile, most of the inventions that ran on the power of the Song being liable to turn to lethal if not used properly.
+-   The people of the Canticlysm used the Song, unknowingly endangered all life - stirring the Drowned Gods from their slumber.
 
 ### The Tides
 
-**Lore Sources:** _What Mends Shall Fray (Song), Arch\_Mage (Discord)_
+**Lore Sources:** _Studies on Canticlysm, Vol. IV,_ _What Mends Shall Fray (Song)_
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
--   (Arch\_Mage) The Tides were caused by the Drowned Gods; who were nearly awaken from their slumber by the people of the Canticlysm via the sound of the Song.
+-   The Tides were caused by the Drowned Gods; who were nearly awaken from their slumber by the people of the Canticlysm via the sound of the Song.
 -   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, it is a gateway to both worlds between the surface and [The Depths](The_Depths.md).
 
-### The Great Drowning
+### The Great Drowning of Celtor
 
-**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Discord)_
+**Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
--   A major event that were caused by The Tides- whereas all living things and lands are consumed by it. The Nation of Celtor is one of the many victims of The Great Drowning.
-    -   (Arch\_Mage) The Nation of Celtor was the first nation to befell to The Tides; thus is why the City of Celtor is located in the First Layer, and the recent talks of the Nation from certain NPCs (Such as The Ministry, Warden Jericho's Journal, etc.).
+-   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster - dragged the city beneath the waves.
+-   The city of Celtor is now located in Scyphozia, the first layer of The Depths.
 
 ### The Depths
 
@@ -1451,20 +1451,33 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the song, according to Arch\_mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the tides are created by the further misuse of the song. These resonances have a heavy toll not only on the user, but on the song. Therefore creating the corrupted effect.
 
+### **Voidfog**
+
+-   Brought on by the Tides.
+-   A layer of fixed cloud that rotates around the world in a cycle.
+-   Bends and distorts light.
+
 ### Timeline
 
-**Lore Sources:** _Trenti, Arch\_Mage_
+**Lore Sources:** _Trenti, Arch\_Mage, Lore Books_
 
 ### Unknown Timeframe (Ordered Roughly)
 
--   Humanity discovers how to utilise the Song, a period of great enlightenment and development occurs.
+-   Bizarre creatures begin to appear on the surface, bringing relics of lost civilizations with them. These creatures die soon after appearing, unhealthy and seemingly poorly adapted to the ascension.
+-   Interest in them results in the discovery of the Song.
+-   A generation later, humanity discovers how to utilise the Song, a period of great enlightenment and development occurs. This is known as the Canticlysm.
+-   Songwork becomes a profession.
+-   Songworkers talk of rising up due to poor work conditions, a prominent labour activist is executed.
+-   Songworker rebellions take place across the globe, some old governments fall, new ones rise and some of those new ones fall soon after.
+-   Vow magic is used by remaining powers to subdue the Songworkers.
+-   The creatures emerging on the surface become more and more healthy compared to the predecessors, as well as dangerous.
 -   Celestials are drawn to the Earth.
--   The Celtorian Terror moves towards Celtor.
--   The Military Officals become aware of it, but instead chose to flee the City.
--   Celtor sinks into the first layer of the Depths, many die.
 -   Ocean levels rise.
 -   Adrets begin their migration.
--   The Voidsea grows closer as The Depths begins to encroach on the world. The world begins to die, with no way back.
+-   The Voidsea grows closer as The Depths begins to encroach on the world. Nations are cut off from each other by The Voidsea. The world begins to die, with no way back. End of the Canticlysm.
+-   The Celtorian Horror moves towards Celtor.
+-   The Military Officials become aware of its approach, but instead choose to flee the City.
+-   Celtor sinks into the first layer of the Depths, many die.
 -   The Southern Luminant is rendered completely inhospitable.
 -   The Mad Steward kills an Edenkite and becomes the Dread Serpent.
 -   The Edenkite vanish from the world.
