@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 52948
+revid: 57685
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -128,7 +128,7 @@ The Etris blacksmith house.
 -   Located at the backside of the Blacksmith, talk to the Etrean there.
 -   The Etrean begs you not to not rat him out to the Blacksmith, as he will be revoked of his apprenticeship.
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
--   Ratting him out does nothing, but at least your ego increased!
+-   Ratting him out does nothing, but at least your ego increased! (Even if you ratted him out, you can repeat the dialogue and get a discount after.)
 
 ### Slim Jim Quest
 

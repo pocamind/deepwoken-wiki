@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 57568
+revid: 57688
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1233,6 +1233,7 @@ Grants a random buff.
 Chests from:
 
 -   [Fishing](Fishing.md)
+-   [Layer 1](First_Layer.md)
 
  | N/A |
 |  | 
@@ -2744,7 +2745,7 @@ Ring of Wisps
 
  | 
 
-Increases effectiveness of wisps.
+Double the amount of charges of wisps.
 
  | 
 

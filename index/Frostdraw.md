@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 57531
+revid: 57695
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -13,6 +13,10 @@ categories: [Pages with broken file links, Attunement]
 Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
+
+**“**Winter is coming, and no living being will survive.**”**
+
+—An old and immensely powerful frostdraw user who once lived on Minityrsa in a bygone age.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 

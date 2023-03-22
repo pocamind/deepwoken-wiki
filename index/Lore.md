@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57680
+revid: 57696
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1359,7 +1359,7 @@ People who make an oath to seek the truth of the deepwoken world. Their blindfol
 -   A currency predating Notes that used coins existed before the Tides came. A measurement of these was quarters.  
     
 
-## Deepwoken: [0000-1271](tel:0000-1271) (New World)
+## Deepwoken: 0000-1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 
@@ -1387,7 +1387,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
 -   The Tides were caused by the Drowned Gods; who were nearly awaken from their slumber by the people of the Canticlysm via the sound of the Song.
--   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, it is a gateway to both worlds between the surface and [The Depths](The_Depths.md).
+-   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, making it a gateway to both worlds between the surface and [The Depths](The_Depths.md), as well as drawing the Voidfog in.
 
 ### The Great Drowning of Celtor
 
@@ -1395,6 +1395,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster - dragged the city beneath the waves.
 -   The city of Celtor is now located in Scyphozia, the first layer of The Depths.
+-   Drowning took place well after the Canticlysm ended.
 
 ### The Depths
 
@@ -1521,6 +1522,7 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 -   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
     -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
+    -   The tragedy would forever be remembered by the people.
 
 ### Year 1293
 
@@ -1553,6 +1555,12 @@ This category lists new lore that has been added into Deepwoken through updates 
 -   Aratel sea is blocked off from the Etrean sea.
 -   Zi'eer begins to rebuild the contractors.
 -   Tirans and Chrysids are drawn out and become more common in the world.
+
+### Year 1383
+
+(Verse 2 \[3/12/2023\])
+
+-   A shrine is erected in memorial of those who lost their lives in the Sharko Rumbling.
 
 ## Monsters
 

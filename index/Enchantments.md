@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57679
+revid: 57684
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -527,6 +527,28 @@ Enchanted face, ears, back accessories were removed from the loot pool.
  | 
 
 N/A
+
+ |
+| 
+
+  
+Curse of the Umbral Knight
+
+ | 
+
+Removed on (DATE), On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage **Supposedly** The curse would make the weapon absorb you if you didnt grip someone once every real life day.  
+**Unobtainable**
+
+ |
+| 
+
+  
+(OLD) Sear
+
+ | 
+
+Removed on (DATE), On hit: Would steal thirst, essentially a worse version of Gluttony  
+**Unobtainable**
 
  |
 | 

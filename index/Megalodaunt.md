@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 57550
+revid: 57693
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -49,8 +49,8 @@ Slash
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
 -   Heavy posture damage. Will commonly block break after two hits.
--   If the Megalodaunt uses it twice in a row, it will not do anything for a short period of time. It is usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon during the time frame.
-    -   if the Megalodaunt only slashes once, it will do another attack extremely shortly after. It is usually enough to only hand 1 hit.
+-   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
+    -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -62,8 +62,9 @@ Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it can send you into unwanted situations.
 -   This ability is blockable, although you need alot of posture to block it.
--   Commonly avoided by walking sideways, as the hitbox has little width.
+-   Commonly avoided by walking or running sideways, as the hitbox has little width.
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
+-   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
@@ -78,7 +79,7 @@ Thousand Needles
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   Easily parryable.
--   There is a shorter ranged AOE version and a single target version. Both function the same.
+-   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -111,7 +112,7 @@ Slash
 
 -   Heavy posture damage.
 -   If the Crimson Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+-   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -123,6 +124,7 @@ Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
+-   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -183,7 +185,7 @@ Slash
 
 -   Heavy posture damage.
 -   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+-   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -195,6 +197,7 @@ Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
+-   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -277,6 +280,7 @@ Blazing Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   Missing the dodge means you'll waste a roll putting out the flames.
+-   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Sharko will still miss the kick.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -326,9 +330,10 @@ Roar
 
 A Megalodaunt swimming.
 
--   Sharkos have swimming animations, as seen on the right.
+-   Megalodaunts have swimming animations, as seen on the right.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
+-   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mobs attacks.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
