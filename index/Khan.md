@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 56257
+revid: 57663
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -77,7 +77,7 @@ May have increased rep with The 11th Legion
 
 ## Trivia
 
--   "JUST BECAUSE YOU LOOK LIKE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE!" -Reaconteur who is more of a chimp than anyone here.
+-   "JUST BECAUSE YOU LOOK LIKE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE!" -Reaconteur.
 -   The race is based on Sun Wukong and monkeys.
 -   Khan means "King" in Mongolian and Hindi.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.

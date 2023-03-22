@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 57117
+revid: 57657
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -208,7 +208,7 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 -   The Duke gives the third best monster bell progression.
     -   1st being [Scion of Ethiron](Scion_of_Ethiron.md).
     -   2nd being [Primadon](Primadon,_Titan_of_the_East.md).
--   He is escaping The Depths each time he is refought. As such, Arch\_Mage has considered making unique dialogue for his rematches.
+-   He is escaping The Depths each time he is refought. As such, Arch\_Mage has considered making unique dialogue for his rematches. His lack of rematch dialogue is due to the lack of polishing in some of the earlier introduced fights in the game.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
@@ -225,7 +225,8 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
 -   His first name is unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was Duke Fancypants.
+    -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
+    -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
 
 ## Bugs
 

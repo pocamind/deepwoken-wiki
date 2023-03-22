@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 52073
+revid: 57660
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,7 +16,7 @@ The Golden Rat Bouncer is a Golden Warrior found outside of the [Rat's Den](<Rat
 
 As he doesn't grip you, he can act as a much tankier but also more risky, due to the location, version of the [Blade Instructor](Blade_Instructor.md).
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, an \[Unknown\] outfit and a pair of Flameguard Boots.
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etrean Guard outfit and a pair of Flameguard Boots.
 
 ## Moveset
 

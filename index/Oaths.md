@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57624
+revid: 57651
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -590,7 +590,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ― silentheart voidwalker shredded a Vesperian with mani katti
 
-NOTE: OATH IS VERY NEW AND NOT EVERYTHING IS FULLY KNOWN, MISINFORMATION IS VERY LIKELY TO BE SPREAD
+  
 
 ### Obtainment
 
@@ -649,6 +649,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
 -   Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
+-   There is an unknown damage buff source from using Silentheart.
     
 
 ## Lore Oaths:
@@ -724,7 +725,7 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
     -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
     -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death. THY END IS NOW!
+    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Speaking to an attunement trainer as a Silentheart will trigger the dialogue: "Your ether... just what have you done?"
@@ -737,6 +738,6 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
--   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, due to this many players who used the same build of azure flames and shattered katana have begone mad.
+-   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths.
 -   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.

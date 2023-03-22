@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57636
+revid: 57667
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -112,9 +112,9 @@ The Duke
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the Soul Jar resonance, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
-    -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
--   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed.
-    -   He also maybe canonically dead, since unlike Chaser there is no change in his dialogue after you kill him.
+    -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
+-   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed. This has been tentatively confirmed by Arch\_Mage.
+-   Nobody knows his real name.
 
 ### **Maestro Evengarde Rest**
 
@@ -122,7 +122,7 @@ The Duke
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
 -   It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon.
 -   He is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
--   His main weapon type is medium.
+-   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met.
@@ -162,15 +162,17 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 
 ### **Chaser, Scholar of the Burning Blood**
 
--   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down.
+-   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry.
+-   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Second Layer he slaughtered his team.
 -   He killed two more expeditions after this, and may have killed even more.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
--   Though he is an Adret, he has a never seen before skin color and facial markings for the race.
+-   Though he is an Adret, he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet.
 -   Slightly less powerful than a Power 20 player.
 -   Currently trapped in Floor One of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
+-   One of his victims was an Ignition Union Deepdelver.
 
 ### **Colonel Hoffa**
 
@@ -184,6 +186,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   Leader of the Apothecary.
 -   Seeks to transcend people through the use of a potion named the Moonseye Vigour.
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
+-   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
@@ -196,15 +199,15 @@ _"My Burden is Light." -Unknown Lightkeeper._
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
 -   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
--   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Ligthhouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
+-   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
 
 ### **Klaris Llfiend**
 
-_"Ugh... I dont have time to train you apprentices... SCRAM!" -Klaris Llfiend._
+_"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
 -   Black Diver of an unknown race. Created light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
--   One of the few people (Alongside Nimea) to actually know the lightkeeper of the eastern luminant, being able to know even her hobbies and interest.
+-   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
 -   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
@@ -221,9 +224,9 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   He is an Adret.
 -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
 -   Arch\_Mage and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
-    -   It can be assumed that if these are true and not just jokes than two things can be assumed:
-    -   1: The meatlord is the most powerful character in all of the deepwoken lore.
-    -   2: He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
+    -   If these are true and not just jokes then two things can be assumed:
+        1.  The Meatlord is the most powerful character in all of Deepwoken Lore.
+        2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
 
 The one and only... MEAT LORD!
 
@@ -254,7 +257,6 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
-
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 -   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md)
@@ -557,6 +559,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
+    -   This means that even though the divers are well funded and have way more control over layer 1 compared to the ignition union, the ignition union is much more equipped to handle layer 2. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while the divers are more research based and only go to layer 2 for more information that the ignition union is ordered not to do. This could be why they are both funded by the authority for maximum efficiency.
 
 ##### New Kyrsa (Second Floor)
 
@@ -619,9 +622,10 @@ An Etrean Guard, part of the Nation of Etrea
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
     -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
--   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
+-   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.
+-   They are the only people with a dedicated religion and hold a few qualities relating them to other religions in the real world.
     
     Master of the way of Navae
     
@@ -662,8 +666,8 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
-    -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
--   As of 1271, [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
+    -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
+-   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
     -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [Authority](The_Central_Authority.md) they are still in business with them.
         -   Explained by Arch\_Mage, [Summer Company](The_Summer_Company.md) overlooked the [Authority](The_Central_Authority.md)'s actions under their noses and ignored them; presumably to avoid ruining their business relationship with them.
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
@@ -687,7 +691,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
--   It has been hinted at that they were successful in causing a Great Drowning. Given what the Blindseer glyphs in Lightkeeper temple read, they likely caused the sinking of Celtor.
+-   They were responsible for the sinking of Celtor, using it as an offering to Yun'Shul. The Blindseer Glyphs hint at them having used a Contractor, likely Zi'eer, to do it.
 -   They are lead by prophets. There is no limit to how many there can be, but as of Year 1363 there are nine. They are ranked by strength.
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
@@ -701,7 +705,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 -   "A Waltz of Snow and Knights," the theme of Minityrsa, shares the same motif as "A Sarabande of Thunder" and "Dance, if You Can!" Both of these are themes of the Ferryman, which shares the same knife as the Ministry operatives found throughout Minityrsa.
--   There is a high chance that they are **part** responsible of the events in the second layer, specially the first floor due to Chaser being highly related to the second prophet of the ministry, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
+-   There is a high chance that they are **part** responsible for the events in the second layer, specially the first floor due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 
@@ -753,7 +757,7 @@ A Dark Mage, located in Minityrsa.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 -   The Darksteel Greatsword's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
--   The Ignition Union bases in the first and second layers of the depths.
+-   The Ignition Union hase bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
 -   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others.
 
@@ -770,17 +774,18 @@ A Dark Mage, located in Minityrsa.
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
 -   They are led by their Grand Sovereign, Drallis Ehr. A Warmaster covers the military, while several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the east. These Wardens then have Inquisitors that work under them.
+    -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The only faction aware of The Lord Regent of Etris' true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part.
-    -   The footsoldiers that use Flamecharm are comprised solely of other races.
+    -   The soldiers that use Flamecharm are comprised of other races.
         -   These also appear to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   Their war against Etrea for the eyes of the public is a attempt for the Authority to mantain control in the Eastern luminant, in reality, the Authority is trying to hunt down Zi'eer (Lord regent) and his contractors to save Etris from another Greatdrowning, but due to Zi'eer having all Etris controled with mental veils, is possible that the Authority has decided to use their last option and try to invade Etris to avoid the drowning of the luminat.
--   The Hive are _not_ at war with the Authority, though tensions are very high between the two. Despite this, the Hive Constructs will go out of their way to exterminate any Authority member they sea/
+-   Their war against Etrea for the eyes of the public is a attempt for the Authority to maintain control in the Eastern Luminant, in reality, the Authority is trying to hunt down Zi'eer (Lord regent) and his contractors to save Etris from another Great Drowning, but due to Zi'eer having all Etris controlled with mental veils, is possible that the Authority has decided to use their last option and try to invade Etris to avoid the drowning of the Luminant.
+-   The Hive are _not_ at war with the Authority, though tensions are very high between the two. Despite this, the Hive Constructs will go out of their way to exterminate any Authority member they see.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.
     -   The Knives sow chaos anywhere for a price.
     -   They purchase firearms from The Summer Company.
@@ -789,15 +794,15 @@ A Dark Mage, located in Minityrsa.
     -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
 -   The Central Authority (as of we know now) use three attunements, and has their own role.
-    -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
+    -   The Central Authority's Flamecharmers are used by soldiers, guards, lieutenants and commanders alike.
     -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
     -   The Central Authority's Frostdrawers are high ranking commanding officers.
--   Their Inquisitors use a mental veil to protect them from attacks against the mind.
+-   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
--   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to Etris have the lightkeeper of the Eastern Luminant, Viqh, under their posession they cannot advance in their war against Etrea. If not, the war would have already been won by the Authority if it wasn't for the lightkeeper.
--   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e conquest. Understandably, the majority of ingame factions object to this. But still is one of the most powerfull factions in all Lumen.
+-   The Authority we see at Fort Merit is a very small fraction of the full fighting force of the Authority, but due to the Lightkeeper of the Eastern Luminant, Viqh, refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
+-   Their goal is to survive the rising tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this.
 
-A Peacekeeper Commander, part of The Authority
+An Authority Captain
 
   
 
@@ -811,11 +816,11 @@ A Peacekeeper Commander, part of The Authority
 
 -   They are lead by a Hivelord.
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
-    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid belived in the Hive and decided to stay.
-    -   Their previous home was located in Erisia Island, by the name of [The Hidden Village](The_Hidden_Village.md).
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid believed in the Hive and decided to stay.
+    -   Their previous home was located in Erisia Island, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
--   Currently at war with Etris, this is possibly due to the Etreans trying to steal their lifeweave artifacts for Lord Regents own interests.
--   Apparently the Hive has great interest into an allience with the Children of Navae, having one of their representative in Meteor Isle, to discuss a possible aliance between the Hive and The Children of Navae.
+-   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
+-   Apparently the Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
@@ -840,8 +845,8 @@ A Peacekeeper Commander, part of The Authority
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
-    -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as prowing your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
--   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition union has a drill to get to the second layer using it like a elevator.
+    -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
+-   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition union has a drill to get to the Second Layer, using it like a elevator.
 
 ## Groups
 
@@ -954,8 +959,9 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
     -   Despite hostile in the New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This is because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
+-   Their heads can be eaten, but seemingly contain little nutritional value due to the poor amount of hunger and thirst a Kyrsdog replenishes.
 -   The Kyrsgarde have a lot of prosperity and such, but something called "The mist" has changed something in them, an outsider Kyrsgarde tells us this place is not good for us, and that the foolishness is of the Kyrsgarde is what brought this tragedy, because turns out building a huge city over a drowned god wasn't really a good idea.
--   Kyrsgarde brutes were probably the ones who carried the iron bars and created some of the bigger heavy structures, while the ice lancers used their frostdraw to create some other buildings, presumably.
+-   Kyrsgarde brutes were probably the ones who carried the iron bars and created some of the bigger heavy structures, while the ice lancers used their Frostdraw to create some other buildings, presumably.
 -   Kyrsgarde brutes look restless, almost strange. Mindlessly swinging at the air and slowly walking to you, only really when they land that swing is it gets deadly.
 -   They know how to speak our language, however they have their own "tongue".
 -   Their city of New Kyrsa is the most advanced location seen in game, possessing a tram station.
@@ -1010,8 +1016,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 "_With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people."_
 
 -   A race that shares traits with canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
--   Once heavily employed as soldiers of the Authority
--   Little is known about their origins...
+-   Once heavily employed as soldiers of the Authority, this isn't reflected as much by the forces in the East but may still hold true in the rest of the world.
 -   Seem to be German-like in terms of name and history:
     -   They popularized the Zweihander, a real life German weapon.
     -   The Thundercaller trainer is a Canor named Funke, German for spark.
@@ -1032,14 +1037,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A prideful race that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
 -   They are a big part of the Hundred Legions.
--   Little is known about the race in general and their origins...
+-   Generally found in the Western Luminant.
 
 ### Felinor
 
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
 -   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
--   They had a kingdom in Markor, what's become of it is unknown.
+-   They had a kingdom in Markor, what's become of it is unknown, though they are still prevalent in the Central Luminant.
 
 ### Vesperian
 
@@ -1047,7 +1052,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
--   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that indentified as a Vesperian.
+-   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that identified as a Vesperian.
 -   Their natural armor comes from the fact that most beetles have exoskeletons to protect them, which Vesperians are based on.
     -   According to Arch\_Mage, Vesperians grow their masks.
         -   This would imply they are organic in some way, thus the masks are most likely chitin.
@@ -1101,7 +1106,6 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
     -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are even more powerful than Zi'eer or Pleeksty
-
 -   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
 
 ### Lightborn
@@ -1274,6 +1278,10 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
   
 
 ## Oath Lore
+
+### Blindseer
+
+People who make an oath to seek the truth of the deepwoken world. Their blindfold grants them immunity to insanity as a way to help them unravel the truth. Though mere humans, their oath allows them to see things that others cannot see, as their mind is stronger and they vow to see the truth rather than what their brain makes things out to be. This oath is directly associated with the fact that humans are weak and so is their minds, being the only life form known to go insane but have massive potential as a drawback and lets them make oaths and choose their own path in the world of deepwoken, being that those who take this oath seek to become more than this and seek the truth, feeling as though their human mind is capable of more than they realize and they just need the willpower to comprehend it. The will to do something is ultimately the source of why willpower grants sanity, it is simply the will to unravel the truth of the world that grants you the immunity to its effects, yet humans are the only creatures without this knowledge granted to them and seek knowledge to explain everything.
 
 ### Starkindred
 

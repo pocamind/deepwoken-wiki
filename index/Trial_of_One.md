@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 57614
+revid: 57664
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -29,7 +29,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 ## Trial Rules
 
 -   The Voice of Solitude declares that you _"**discard your possessions**"_ in which you are forced to do before continuing.
-    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained, and any equipped armors will be stripped right off you- erased including any consumables in your inventory such as potions or foods.
+    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfit](Outfits.md) you are wearing will have its durability completely drained, and any equipped armors will be stripped right off you- erased including any consumables in your inventory such as potions or food.
 -   You must use all of the free points given to you to power up and get a hand of cards. Once you pick a card, the next challenge will begin.
 
 ## Challenges

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 55272
+revid: 57662
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,9 +26,9 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 | **Name** | **Description** | **Parry-able?** | **Danger** |
 | --- | --- | --- | --- |
-| **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) | ◯ | (★☆☆) |
+| **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) Uses this move to grip players in the Overworld. | ◯ | (★☆☆) |
 | **Dive** | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. (**Etrean Luminant Exclusive**) | **N/A** | (☆☆☆) |
-| **Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing _**55 damage**_. (Corrupted Lionfish deal _**165 damage**_ with this move.) If the opponent is low enough, It will **AUTO-GRIP** the player. (**Depths Exclusive**) | ✗ | (★★☆) |
+| **Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing _**55 damage**_. (Corrupted Lionfish deal _**165 damage**_ with this move.) Lionfishes also use Cero specifically to grip knocked players with an extremely reduced windup. This also has an auditory difference as the sound of the charge up will be a sped up higher pitched version. If the opponent is low enough, It will **AUTO-GRIP** the player. (**Depths Exclusive**) | ✗ | (★★☆) |
 
 **Glacial Lionfish:**
 
@@ -65,6 +65,8 @@ This will auto-grip you if hit by it at low health.
 
 ## Notes
 
+-   Because the laser beam windup being reduced so much if the mob is using it to grip a player, you'll have to be ready to roll very quickly if you try to save that person.
+-   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 -   It is recommended to be roughly power 6 (preferably higher) to take on a lionfish.
 -   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
