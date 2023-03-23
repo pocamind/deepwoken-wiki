@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 57693
+revid: 57785
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -237,7 +237,7 @@ Tacet Hug
 
 Tacet Drop Kick
 
- | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. | ? | ? | ? | (★☆☆) |
+ | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
 
 **Mechalodaunt:**
 

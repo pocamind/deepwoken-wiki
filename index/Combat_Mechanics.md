@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 57602
+revid: 57764
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -134,14 +134,14 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 <tbody>
 <tr>
   <th rowspan="2">Item Type</th>
-  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades.</td>
+  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)</td>
 </tr>
 <tr>
-  <td><u>Tools + Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools or hunters brace.</p>
+  <td><u>Tools + Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p>
   <p>Weight: none</p></td>
   <td><u>Training Gear</u><p>2nd place in the inventory. Consist of items that train your characters attributes.</p>
   <p>Weight: none</p></td>
-  <td><u>Weapons</u><p>3rd place in the inventory. Consist of equipable weapons if you meet the req.</p>
+  <td><u>Weapons</u><p>3rd place in the inventory. Consist of equipable weapons and off-hand items if you meet the req.</p>
   <p>Weight: 2</p></td>
   <td><u>Armor</u><p>4th place in the inventory. Consist of equipable armor and clothing pieces if you meet the req.</p>
   <p>Weight: 2</p></td>

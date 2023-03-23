@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 57467
+revid: 57782
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Resonance, Mechanics]
 “ Your very soul resonates with the Song... ”
 
 ― Card selection sample text
+
+Obtainment of one's **Resonance**...
 
   
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.

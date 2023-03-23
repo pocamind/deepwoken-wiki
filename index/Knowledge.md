@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 57713
+revid: 57781
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,7 +17,9 @@ categories: [Mechanics]
 
 ― Misérables
 
-_Your Knowledge **grows...**_
+Your Knowledge **grows**...
+
+  
 
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build-- aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 

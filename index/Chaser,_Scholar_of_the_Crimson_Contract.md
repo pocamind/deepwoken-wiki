@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 55285
+revid: 57787
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -46,7 +46,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 **Explosion**
 
  | After a short casting sound, Chaser rapidly forms a moderately large explosion of bloodflame under the player. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ◯\*\*\* | (★★☆) |
+| **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. | ✗ | ✗ | ✗ | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling.
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the reminder of the fight.
@@ -162,6 +162,7 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
+-   Chaser is voiced by YouTuber, Demstormz.
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players, even if they.
