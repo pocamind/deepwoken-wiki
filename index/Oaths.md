@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57747
+revid: 57802
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -643,7 +643,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 ### Notes
 
--   Getting an attunement potion locks you out of the oath
+-   Drinking an Attunement potion while in the Dreadstar's dialogue no longer gives you the Attunement
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.

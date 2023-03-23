@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 57115
+revid: 57806
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -128,7 +128,7 @@ categories: [Deepwoken]
 -   The **One Eyed King** is possibly a reference to [The One Eyed King](https://tokyoghoul.fandom.com/wiki/One-Eyed_King?so=search) in _Tokyo Ghoul._
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
--   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._
+-   **Murmur: Ardour** can be a reference to Conquers haki/Haoshoku haki from _One Piece._
 -   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similiar use. Abyssal Scream itself used to be called [Ardor Scream](https://cdn.discordapp.com/attachments/927738116175986728/1083995144258338846/image.png), Referring to one of the Gods in Rogue Lineage.
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).

@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 57571
+revid: 57811
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -69,8 +69,18 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
     -   H26O
     -   colddeathmaker
     -   ResoIv3 (bonnerliam12)
-    -   numnumnumlegand21cat
     -   RickyM1227
     -   superlightningfire1
     -   Ordoxite
     -   Seliphe
+    -   Dolphie
+    -   MageFrl
+    -   DefinetlyNotCapp
+    -   NotAnDinakeri
+    -   TehFlori
+    -   stqsis
+    -   RTFalleN
+    -   bluesword08
+    -   pintaced
+    -   cloudents
+    -   koalasensei4love
