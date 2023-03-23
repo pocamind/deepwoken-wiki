@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 57731
+revid: 57750
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -124,7 +124,8 @@ Lightning Impact
 
 -   Can be upgraded with the Talent, Rains of Static, which makes the user rain down bolts of thunder from the air with the follow-up impact
 -   Can light opponents and the player on fire.
--   Applies knockup.
+-   Applies knockup. (Floats victims hit by the move into the air in front of you for a brief duration or until you hit them once.
+-   Can destroy surfaces and light flammable terrain on fire like a patch of grass.
 
  | Damage:
 

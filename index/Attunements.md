@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 57638
+revid: 57760
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -42,7 +42,7 @@ Template:Testing
 
   
 
-_These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
+_These attunements are not currently in the game, but are likely to be added and may be obtainable in future updates_
 
 ## Trivia
 
@@ -65,6 +65,5 @@ You can have a maximum of two Attunements, the one you start with and the one yo
 -   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots, saving you from having to grind for the blood potions.
 -   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
     -   As an extension, he mentions that those who wield water magic have already lost their humanity.
--   Arch\_Mage has said he wants to add both [Lightkeep](Lightkeep.md) abilities, although it is unsure whether this will stay as an attunement
-    
-    File:LightQuote.png
+-   Arch\_mage has hinted at how light is not an attunement, so unfortunately Lightkeeping will most likely not become an attunement.
+-   Arch\_mage has stated how he believes an earth attunement would be a lot of sense to be added in game.
