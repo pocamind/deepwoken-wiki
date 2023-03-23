@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57716
+revid: 57741
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1962,13 +1962,13 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Fortitude Support
 
--   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture **will not break**
+-   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you.
     -   Prerequisite: 10 Fortitude, Using a Shield
 
--   Reinforce - Up defense for you and allies around you
+-   Reinforce - Slightly increase defense and damage of yourself and any neaby allies.
     -   Prerequisite: 50 Fortitude
 
--   Brace - Gain hyperarmor on your attacks for a short duration
+-   Brace - Give yourself full hyperarmor temporarily
     -   Prerequisite: 75 Fortitude
 
 #### Fortitude Mobility
@@ -1978,17 +1978,17 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Agility Combat
 
--   Revenge - A short dash dealing damage to opponents it hits.
+-   Revenge - Slash in a straight line, teleporting you past an enemy if you hit them. Damage slightly increases as health decreases.
     -   Prerequisite: 5 Agility
 
 #### Agility Support
 
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost.
+-   Adrenaline Surge - Grant yourself a small, temporary speed boost.
     -   Prerequisite: 20 Agility
 
 #### Agility Mobility
 
--   Dash - Just a dash, nothing special.
+-   Dash - Propel yourself forward with a quick dash.
     -   Prerequisite: 40 Agility
 
 #### Charisma Support
@@ -2011,13 +2011,13 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Strength Combat
 
--   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+-   Strong Left - Perform a strong punch that ragdolls enemies and deals high posture damage.
     -   Prerequisite: 20 strength
 
--   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a dash forwards
+-   Rapid Punches (1 Star Mantra) - Perform a short dash forward before barraging the enemy with punches.
     -   Prerequisite: 20 Strength
 
--   Tacet Drop Kick - Disguise yourself in tacet and drop kick your enemies.
+-   Tacet Drop Kick - Turn invisible before appearing above the target, knocking the enemy down if hit.
     -   Prerequisites: 20 Strength, Murmur: Tacet, Jus Karita
 
 #### Strength Mobility
@@ -2027,15 +2027,15 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Willpower Combat
 
--   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
+-   Exhaustion Strike - Execute a quick strike, transfering any built up posture to your enemy.
     -   Prerequisites: 40 Willpower
 
 #### Willpower Support
 
--   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
+-   Gaze - Peer into your enemies souls, causing them to shiver at random.
     -   Prerequisite: 30 Willpower
 
--   Glare - Opponents facing you are briefly stunned.
+-   Glare - Glare at your enemies, stunning them shortly after if they were looking at you.
     -   Prerequisite: 5 Willpower + 25 Charisma
 
 #### Light Weapon Combat
@@ -2046,7 +2046,8 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Medium Weapon Combat
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
-    -   Prerequisite: 30 Medium Weapon
+
+-   Prerequisite: 30 Medium Weapon
 
 #### Heavy Weapon Combat
 
@@ -2064,9 +2065,9 @@ _Main Page - [Flamecharm](Flamecharm.md)_
 -   Fire Gun - Upon activation, shoot a rapid bullets made of flame. Continuous use allows automatic dodging when using your movement keys.
 -   Flame Blind - Blind anyone within a short radius who caught a glimpse of the projectile. 5 second duration.
 -   Fire Blade - Slicing blades of Flame. Perform a cleave made of fire at close range.
--   Fire Forge \[1 Star Mantra\] - Throw a Dagger at small range. Does not ricochet off of Walls or objects.
+-   Fire Forge \[1 Star Mantra\] - Toss 3 daggers in a fan.
 -   Fire Palm \[1 Star Mantra\] - Fire a short burst of flame from your palm.
--   Flame Assault \[2 Star Mantra\] - Burst forward in flames. Torpedo through enemies and entities with a fiery blow.
+-   Flame Assault \[2 Star Mantra\] - Burst forward in flames.
 
 ### Fire Mobility
 
@@ -2074,8 +2075,8 @@ _Main Page - [Flamecharm](Flamecharm.md)_
 
 #### Fire Support
 
--   Graceful Flame - Conjure your comrades to rest by.
--   Flames of Denial - Place a kindled flame into your body. Restore 40% HP after taking lethal damage, lasts for 60 seconds until activated.
+-   Graceful Flame - Conjure a campfire for you and your comrades to rest by.
+-   Flames of Denial - Place a kindled flame into your body restoring 10% HP if you took lethal damage. Lasts 30s.
 -   Flame Wisp - Summon a wisp which boosts HP regen and lights campfires when not healing you.
 
 ### Frostdraw Mantras
@@ -2085,9 +2086,9 @@ _Main Page - [Frostdraw](Frostdraw.md)_
 #### Frost Combat
 
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage.
--   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
--   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
--   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. Parryable and blockable.
+-   Ice Beam - Release a ray of ice that freezes what it hits.
+-   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them.
+-   Warden's Blades - Creates 4 spinning blades that revolve around you very fast.
 -   Crystal Impale \[Requires Glass Path\] - Jumps up and then smashes into the ground dealing multiple hits
 -   Crystal Kick \[Requires Glass Path\] -Kicks in front of you launching up your opponent into the air.
 -   Ice Eruption \[1 Star Mantra\] - Stomp the ground, releasing a barrage of ice spikes that block breaks.

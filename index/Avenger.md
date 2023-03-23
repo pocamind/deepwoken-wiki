@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 56940
+revid: 57738
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]
@@ -28,7 +28,7 @@ categories: [Weapons, Greatswords, Echoes]
 
 ## Description
 
-The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by using 25-100 [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md). Once you've bought it with echoes, you may choose it in the character creation screen.
+The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by buying the fourth tier of Advanced Weapons in [Character Creation](Character_Creation.md). This will cost a total of 100 echoes to reach. Once you've bought it with echoes, you may choose it in the character creation screen.
 
 ## Trivia
 

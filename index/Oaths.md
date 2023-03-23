@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57651
+revid: 57747
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -55,7 +55,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Take the ghost quest, Die to an attunement user, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
+| oath_req | Take the ghost quest, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
 | effects | +5 Posture, +10 Health |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.

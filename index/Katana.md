@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 57674
+revid: 57735
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -42,4 +42,3 @@ This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the
 -   The Katana, along with the [Shattered Katana](Shattered_Katana.md), are the only weapons in the game with a sheath/scabbard.
 -   [Akira](Akira.md) carries this weapon on his back when sheathed, while all other characters carry it on their hip.
 -   The Katana can be paired with the Poser's Ring, which makes your M1s deal no damage, stacking all of it until you put away your weapon.
--   Most humanoid guards are equipped with this weapon.

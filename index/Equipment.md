@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 57688
+revid: 57745
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2078,6 +2078,8 @@ Chests from:
  | N/A |
 | 
 
+File:Gauthority.png
+
  | 
 
 Grand Authority Plate
@@ -2091,6 +2093,7 @@ Grants a random buff.
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  | N/A |
 |  | 

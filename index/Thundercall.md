@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 57704
+revid: 57731
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -13,10 +13,6 @@ _Thundercall icon_
 ## Description
 
 _A Thundercall infused sword_
-
-**“**Some people think they can outsmart me. Maybe... maybe... I have yet to find one who can outsmart Grand Javelin.**”**
-
-—A powerful thundercaller, explaining his woefully low intelligence stat.
 
 Thundercall grants the user the ability to control, conjure and create thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 

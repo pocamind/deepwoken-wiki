@@ -1,16 +1,12 @@
 ---
 title: Galebreathe
-revid: 57702
+revid: 57732
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
 ---
 
 # Galebreathe
-
-“ Who the hell said wind is green? God? ”
-
-― Flavor Text
 
 Galebreathe icon
 

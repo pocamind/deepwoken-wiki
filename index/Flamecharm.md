@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 57694
+revid: 57728
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -13,10 +13,6 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 ## Description
 
 Flamecharm icon
-
-**“**If this is to end in fire, then we will all burn together**”**
-
-—unknown group of flamecharmers, since unheard of except from this final communication before a battle with a red megalodaunt.
 
 Flamecharm grants the user the ability to conjure, control and create fire using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 

@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 53804
+revid: 57730
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,17 +23,18 @@ Optionally is a starting location for those using the [Deepbound](Origins.md) or
 
 ## Overview
 
-Castle Light is a safe area within the First Layer belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw or is using the [Deepbound Origin](Origins.md). It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md).
+Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw or is using the [Deepbound Origin](Origins.md). It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md).
 
 ## Points of Interest
 
-### Vendors and Notable NPC
+### Vendors and Notable NPCs
 
 -   [Antiquarian](Antiquarian.md)
 -   [Blacksmith](Blacksmith.md)
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in a random encounter)
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of puzzle in [Layer 2](Second_Layer.md) Floor 2)
 
 ### Items
 
@@ -51,6 +52,7 @@ Castle Light is a safe area within the First Layer belonging to [The Divers](The
 -   Ankle Weights
 -   Cloth
 -   Fiber
+-   Boulder (located next to the tree near the door)
 
 ## Notes
 
@@ -59,3 +61,4 @@ Castle Light is a safe area within the First Layer belonging to [The Divers](The
 -   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning(being gripped at a stained bar). Deepbound players can enter castle light even if they were sent to depths through being gripped
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
 -   Castle Light is a common spot for ganks, it is advised to be weary of large groups of players. In particular, Valekis, a popular Monad Studios Youtuber has been frequenting the area.
+-   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.

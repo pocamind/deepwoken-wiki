@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 57586
+revid: 57736
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -62,7 +62,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
 -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
     -   A Nautilodaunt may spawn in the Depths trial.
--   **\[CON\]** You cannot do the Trial of One.
+-   **\[CON\]** You _can_ do Trial of One. However, you must defeat [The Enforcer](Enforcer.md) at level one.
 
 ## Voidwalker
 
