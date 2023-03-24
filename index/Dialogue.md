@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 55602
+revid: 57845
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -48,7 +48,7 @@ Talking to Guards
 Talking to Nerin
 
 -   Good Reputation - _\*The guard gives you a crooked smile.\*_ "Have a nice day friend. If you ever get into trouble, you know who to look for..."
--   Hostile Reputation - "Placeholder"
+-   Hostile Reputation - "Ah, it seems you've made quite a name for yourself around these parts, friend."
 
 ## Children of Navae
 
