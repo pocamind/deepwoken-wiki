@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 57226
+revid: 57813
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -156,7 +156,7 @@ File:No Attunement Revamp.png
 
  | _Rush at your enemies with your full physical force._ | 
 
--   **Requirements:** _**35~40 Fortitude**_, _Mobility Mantra_
+-   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
 -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
 -   Deals light damage.
 -   The charge is cancelled upon getting parried.

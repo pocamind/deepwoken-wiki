@@ -1,12 +1,16 @@
 ---
 title: Diver Husk
-revid: 53753
+revid: 57831
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
 ---
 
 # Diver Husk
+
+“ Help... ”
+
+― The Diver Husk as their head turns into highly processed ketchup by a L2 farm build.
 
 Template:EnemyInfobox1.0
 

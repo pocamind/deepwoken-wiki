@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 56810
+revid: 57834
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -130,8 +130,6 @@ _Benefits/Penalties_
 
 -   **(BENEFIT)** _Balances all currently invested attributes to be equal, with a limit of 25 points being taken from a single stat to be equalized_
 -   **(PENALTY)** _Balances all currently invested attributes to be equal, for 10 knowledge and gives you a random flaw._
-
-For example, if you're Power 8 then you would have 120 stat points. If your Pre-Shrine of Order build consists of 75 fortitude, 25 willpower, 10 agility, 5 strength and 5 charisma. It would take the sum of every stat point and divide the total by the amount of stats invested which is 5 in this case. If a single stat has over 25 points, it would only take 25 points from it to be equalized. So for this build it would be 64 fortitude, 14 willpower, 14 agility, 14 strength and 14 charisma after using the Shrine of Order. (Calculations: 75 - 25 = 50 fortitude | 25 + 25 + 10 + 5 + 5 = 70 total points | 70/5 = 14 fortitude, willpower, agility, strength and charisma | 50 + 14 = 64 fortitude)
 
 _Pros/Cons_
 

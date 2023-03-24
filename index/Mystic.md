@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 57803
+revid: 57825
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -44,7 +44,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### Agility
 
--   _I once performed in a circus. **(Acrobat)**_
+-   _I once performed in a Circus. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
 -   _I prefer to attack unseen. **(Assassin)**_
 -   _Light on my feet, I sting like a bee. **(Butterfly)**_

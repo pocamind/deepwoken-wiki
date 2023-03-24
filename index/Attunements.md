@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 57760
+revid: 57830
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -41,7 +41,6 @@ Template:Testing
 Template:Testing
 
   
-
 _These attunements are not currently in the game, but are likely to be added and may be obtainable in future updates_
 
 ## Trivia

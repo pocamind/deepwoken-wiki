@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 57804
+revid: 57819
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
