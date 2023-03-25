@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 57782
+revid: 57849
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -48,6 +48,7 @@ Known side-effects include:
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
 -   **EROSION:** On use, player will have exactly 10% taken from their health.
+-   **CHIPPED:** On use, the player loses 10% of their armor's durability
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
@@ -200,7 +201,8 @@ In accordance with the old pre-Verse 2 rule of wishes, it is _currently unknown_
 
 -   **Corrupted Skull Popper** (Akira's Resonance)
 -   **Dream Eater** (Haske Vantage's Resonance)
--   **Golem Creation** (Duke Erisia's Resonance)  
+-   **Golem Creation** (Duke Erisia's Resonance)
+-   **Stone/Spikes control?** (Needs confirmation) (Chaser Resonance.)  
     
 
 ## Trivia
@@ -220,5 +222,6 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   Assumed to be a bug, sometimes if you choose or reroll a **Resonance**, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
--   Ragoozer has confirmed that he is interested in **Evolved Bells**.
+-   Ragoozer has confirmed that he is interested in **Evolved Bells**. This will most likely take one of two scenarios: The first one is that you evolve your bell after you get it, meaning it will be like an upgrade to your resonance. The Second scenario will be something that many players want, being Layer 2 bells, in other words if you get knocked in the second layer with max progression for bell, you will get new bells of the Second layer.
 -   The Resonance system is sometimes used by players as a last wind in The Depths, choosing only for it to awaken when it'll saves their life due to it maxing out their HP. This is a very useful way to treat your Resonance progression in-case you're more interested in keeping your character alive rather than getting its bell as soon as possible. Otherwise, you'll have your bell but be fully vulnerable to getting wiped. Some players may also choose to only get their bell once it is the very last step to 100% their characters progression in Deepwoken, or they may choose to get the bell extra early for more Yun'shul re-rolls from leveling up (Basically allowing you to almost guarantee you get the Resonance you actually want through re-rolling over and over) as well as the talents from card rolls that only appear if you have your Resonance.
+-   Despite Chaser showing that he has multiple resonances stolen from fellow divers, this doesnt work, meaning that resonances can only be used by the user even if you killed him or steal them.

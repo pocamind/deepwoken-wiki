@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 57021
+revid: 57850
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -27,7 +27,7 @@ The Bell in question allows Akira to instantaneously grip any entity Akira wishe
 
 A player with an extremely high amount of Charisma \[100\] can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
 
-Despite him lacking in the experience department due to his young age, he's actually one of the strongest Black Divers.
+Despite him lacking in the experience department due to his young age, he's actually one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.
 
 ## Location
 
