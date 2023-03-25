@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 57851
+revid: 57863
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Lower Erisia]
@@ -28,6 +28,10 @@ Erisor's Church is a small ruined church. It can be found by the entrance to the
 -   [Bandit Captain](Bandit_Leader.md)
 -   [Rock Golem](Rock_Golem.md)
 
+## Potential Enemies
+
+-   [Forgotten Villager](Forgotten_Villager.md)
+
 ## Events
 
 File:Erisor's Church 2.png
@@ -39,8 +43,11 @@ Forgotten Villagers inside the Church
 -   Talking to the [Villagers](Forgotten_Villager.md) for a bit will result in waves of [Bandits](Bandit.md) spawning.
 -   These [Bandits](Bandit.md) will progress in difficulty until a [Rock Golem](Rock_Golem.md) spawns.
 -   This event will end as soon as the [Rock Golem](Rock_Golem.md) is eliminated.
--   If all of the [Villagers](Forgotten_Villager.md) survive, a chest will be spawned at the end of the event with typical [Erisian](Erisia.md) loot.
--   The Forgotten Villagers typically take ~20-30 minutes to respawn every time you beat/lose the event. If left alone without any help, they will lose as they are severely outnumbered. There are always more Bandit Leaders than them so always aggro a Bandit Leader to fight you instead of fighting one that the Villagers are already fighting. You will hit the villagers and aggro them on you.
+-   If all of the [Villagers](Forgotten_Villager.md) survive, a large chest will be spawned at the end of the event with typical [Erisian](Erisia.md) loot.
+-   The Forgotten Villagers typically take ~20-30 minutes to respawn every time you beat/lose the event.
+-   If left alone without any help, they will lose as they are severely outnumbered.
+-   There are always more Bandit Leaders than them so always aggro a Bandit Leader to fight you instead of fighting one that the Villagers are already fighting. You will hit the villagers and aggro them on you.
+-   If all the villagers die, you cannot claim your reward as you need to talk to one of them.
 
 ## Maps
 

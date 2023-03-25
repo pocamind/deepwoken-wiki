@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 38250
+revid: 57864
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
