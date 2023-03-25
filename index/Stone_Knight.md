@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 57682
+revid: 57871
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -74,7 +74,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
- | ✗ | ◯ | ◯ | (★★★) |
+ | ✗ | ◯\* | ◯ | (★★★) |
 | **Wind Blade** | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
@@ -84,7 +84,9 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 
 -   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ | ✗ | ◯\* | ◯ | (★★☆) |
+
+\* Note that the posture damage is very high on those moves, so dodge them unless your confident in your posturea
 
 ### **Boons**
 

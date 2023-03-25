@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57741
+revid: 57872
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -904,7 +904,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
-    -   With Crystallization, greatly increases the number of crystals on the enemy on impact, so much so that they explode immediately.
+    -   Does not work with Crystalization (TESTED)
 
 -   _Frozone_ \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 70 Frostdraw.
