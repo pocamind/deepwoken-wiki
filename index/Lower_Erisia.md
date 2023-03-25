@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 57868
+revid: 57881
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -35,20 +35,21 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   **Bandit Settlement**
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
     -   Has a free Pickaxe (it's not theft if you're stealing from thieves).
+    -   Has a Lumber Axe that costs.
     -   Has a permanent campfire in the middle.
-    -   A spider egg can spawn on the house nearest the campfire.
-    -   There are 9 bandit leaders within the bandit settlement. (1 on the guard tower, 1 inside the house, 2 facing the path, 1 facing the campfire, 2 on the bottom and upper layer of the rooms carved into the mountains, and another 2 on the opposite side.) Killing all of them will reward you a chest.
+    -   Two spider eggs, with set spawns inside the houses.
+    -   Nine Bandit Leaders within the Bandit Settlement: one on the guard tower, one inside the house, two facing the path, one facing the campfire, two on the bottom and upper layer of the rooms carved into the mountains, and another two on the opposite side. Killing all of them will reward you a chest.
     -   Very good place to grind EXP, especially as a low level.
     -   Recommended level: 1-6
 -   **Ruins Camp**
-    -   A small, ruined Blackstone tower between the entrance and the Bandit village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
-    -   Has a permanent campfire
-    -   2 bandits and 1 bandit leader are guaranteed to spawn there.
-    -   Killing all 3 will grant you a chest.
+    -   A small, ruined Blackstone tower between the entrance and the Bandit Village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
+    -   Has a permanent campfire.
+    -   Two Bandits and one Bandit Leader are guaranteed to spawn there.
+    -   Killing all three will grant you a chest.
 
 ## Potential Enemies
 
--   [Authority Footsoldier](Authority_Officer.md)
+-   [Authority Officer](Authority_Officer.md)
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
 -   Etrean Footsoldier
@@ -56,6 +57,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Legion Captain](Legion_Captain.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
+-   [Bloatskipper](Mudskipper.md)
 -   [Thief](Thief.md)
 
 ## Missions
@@ -66,6 +68,7 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 -   Bandit Ambush
 -   Bandit Attack
 -   Mudskipper Emergence
+-   Erisia Merchant
 -   Etrean Footsoldiers vs The Central Authority
 -   Etrean Sailors vs The Central Authority (Limited to Pathfinder's Respite)
 -   The Hundredth Legion vs The Central Authority (Limited to Pathfinder's Respite)
@@ -150,3 +153,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia/Notes
 
 -   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.
+-   The helpers at Isle and Etris say that Erisia is "crawling with opportunists."

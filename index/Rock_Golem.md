@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 57145
+revid: 57895
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -101,8 +101,7 @@ In combat, Golem Primes are very hardy having moderately high health, and high s
 
 | Name | Description |
 | --- | --- |
-| Crushing Stomp | A Golem Prime ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. |
-
+| Crushing Stomp | }
 ## Tips for fighting
 
 Whenever it completes a move, you have enough time to hit it twice, afterwards there is a consistent and safe strat for each move.
@@ -122,3 +121,5 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
+
+ |

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 57528
+revid: 57878
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Arms]
@@ -15,8 +15,8 @@ categories: [Armors, Equipment, Arms]
 | selling price | ?? |
 | requirements | Power 15 |
 | weight | 2 |
-| innate stats | N/A |
-| innate talent | N/A |
+| innate stats | 5% Damage to monsters1-20 health/ether |
+| innate talent | NaN |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

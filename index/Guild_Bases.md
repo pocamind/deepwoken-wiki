@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 57564
+revid: 57877
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -54,11 +54,11 @@ A guild base can be increased in size through different nodes. Some provide prac
 -   Mess Hall (2000) \[XL\] - Requires 2 Nodes worth of Rooms; a large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
 -   Training Hall (1000) \[XL\] - An arena meant for dueling your guild members, serves no actual purpose and is purely cosmetic.
 -   Trophy Room (5000) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
-    -   Artisan - An upgrade to the Trophy Room that costs Notes for hire. For Notes, allows the Player to merge attributes and appearance of an Item.
--   Quarters (1000) - A room with a campfire, crafting table, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can spawn in the room (You cannot cook at the campfire).
--   Laboratory (1500) - A room that features an alchemy pot where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
--   Song Room (2000) - A room that features a mantra crafting table where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
--   Armory (2500) - A room that features a blacksmith (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
+    -   Artisan - An upgrade to the Trophy Room that costs Notes for hire. For Notes, allows the Player to merge attributes and appearance of an Item through **smelting**.
+-   Quarters (1000) - A room with a campfire, **crafting table**, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can **spawn** in the room (You cannot cook at the campfire).
+-   Laboratory (1500) - A room that features an **alchemy pot** where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
+-   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
+-   Armory (2500) - A room that features a **blacksmith** (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 -   Fishing Room (1000) - A room consisting of a small pond in the center which you can fish from. If you drink this water you will throw up.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
