@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 57684
+revid: 57898
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -237,7 +237,7 @@ There are two variants that enchantments come in:
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Luminants.<br>
-  When equipped, -100 sanity. This means you will immediately die upon equipping the curse in the Depths. (unless you have a high amount of willpower)<br>
+  When equipped, -100 sanity. You will immediately die upon equipping the curse in the Depths. High willpower and sanity do not factor in. (checked, wiped by head bubble with 100 wlp lft)<br>
   <b>Disabled in Arena</b><br>
   <b>Viscosity is disabled</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
