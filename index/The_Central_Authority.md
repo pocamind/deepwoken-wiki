@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 57463
+revid: 57926
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -11,7 +11,7 @@ categories: [Factions]
 | The Central Authority | |
 |---|---|
 | territory | Central Luminant , Eastern Luminant, Fort Merit |
-| goals | Conquest of all Luminants. |
+| goals | Conquest of all Luminants, Destruction of the Ministry and its agents. |
 
 “ God, another one of the locals... Why did I get a post here on the east? ”
 
@@ -44,7 +44,7 @@ A large military organization, native to the Central Luminant. They are lead by 
 
 -   [Authority Commander](<Authority_Commander_(Enemy).md>)
 -   [Authority Peacekeeper](Authority_Peacekeeper.md)
--   [Authority Flamecharmer](Authority_Soldier.md)
+-   [Authority Soldier](Authority_Soldier.md)
 -   [Authority Officer](Authority_Officer.md)
 -   [Authority Captain](Authority_Captain.md)
 -   [Authority Lieutenant](Authority_Lieutenant.md)
@@ -57,3 +57,4 @@ A large military organization, native to the Central Luminant. They are lead by 
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply my opinion the Authority is regarded with its true name being 'The Central Authority' and having strong ties to the central luminant.
+-   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.

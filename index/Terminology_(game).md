@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 44218
+revid: 57914
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -21,7 +21,7 @@ The following article contains a glossary for general game terms related to _Dee
 
 _adjective_
 
-1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura
+1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura.
     1.  E.g. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
 
 Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
@@ -65,13 +65,13 @@ _verb_
 
 _verb_
 
-1.  To kill a player or humanoid [enemy](Enemies.md) using a Finisher.
+1.  To kill a player or humanoid [enemy](Enemies.md) using a Finisher (Or by pressing B on their knocked body)
 
 ### Knock
 
 _verb_
 
-1.  To reduce a player or humanoid [enemy](Enemies.md)'s health to 0%, ragdolling them. When a player is **knocked**, they can be gripped or executed.
+1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped or executed. When a player is knocked, they are unable to do anything for the most part.
 
 ### Pdodge
 
@@ -97,8 +97,31 @@ _verb_
 
 _verb_
 
-1.  To get gripped/executed in The Depths; erasing the current character slot.
-2.  Getting gripped on stained health bar/dying in void zone; getting sent to depths.
+1.  To die permanently and truly, getting killed in The Depths.
+
+### Knock-up
+
+1.  An effect that hovers people above the ground with the person that caused this effect. The actions of the victim are limited. The most common source is "Uppercut".
+
+### Knock-down
+
+1.  A type of stun that's almost identical to being guard broken but with its duration varying based off the source. Results in the victim getting knocked flat on the ground against their back.
+
+### Parry
+
+_verb_
+
+1.  To perfectly block a mantra / attack. This means hitting "F" key when you see the opponent swing at you. You will see a large, yellow spark appear at the clash of the weapons, and stun the opponent for an extremely short duration. Parrying will reduce your posture faster, and you won't take damage.
+
+1.  Ex. You cannot parry the [Megalodaunt's](Megalodaunt.md) kick without a [Hunter's Brace](<Hunter's_Brace.md>), you can only dodge it.
+
+### Block
+
+_verb_
+
+1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed out and take heavy damage as well as being stunned.
+
+1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
 
 ## Acronyms
 

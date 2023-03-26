@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 55856
+revid: 57911
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -37,6 +37,7 @@ The Meat Lord in all his glory.
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
+-   [Towerstruck Lands](Towerstruck_Lands.md)
 -   Temple Of The Forgotten Flame
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_

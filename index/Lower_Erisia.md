@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 57881
+revid: 57915
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -19,7 +19,7 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 Lower Erisia
 
-Lower Erisia is a portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents.
+Lower Erisia is a portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents. Typically, this island is for beginners from power 1-7 and referred by many as "bandit island."
 
 This island is recommended for those [Power Level](Power.md) 1 through 20.
 
@@ -59,6 +59,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Mudskipper](Mudskipper.md)
 -   [Bloatskipper](Mudskipper.md)
 -   [Thief](Thief.md)
+-   [Terrapods](Terrapod.md) (They could have fallen off [Upper Erisia](Upper_Erisia.md) to **Lower Erisia.**)
 
 ## Missions
 
@@ -72,6 +73,7 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 -   Etrean Footsoldiers vs The Central Authority
 -   Etrean Sailors vs The Central Authority (Limited to Pathfinder's Respite)
 -   The Hundredth Legion vs The Central Authority (Limited to Pathfinder's Respite)
+-   Thief Ambush
 
 ## Events
 
@@ -153,4 +155,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia/Notes
 
 -   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.
--   The helpers at Isle and Etris say that Erisia is "crawling with opportunists."
+-   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which is suggesting that the "opportunists" are players.

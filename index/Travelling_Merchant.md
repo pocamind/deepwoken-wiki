@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 57903
+revid: 57913
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -66,3 +66,4 @@ Chili's Ship
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
+-   Chill always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone (considering Deepwoken being Deepwoken)

@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 56246
+revid: 57916
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rogue Construct, Primadon |
+| obtainment | Rogue Construct, Primadon, Crypt of the Unbroken |
 | description | ... |
 
 ## Description

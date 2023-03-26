@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 51547
+revid: 57917
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -28,11 +28,9 @@ At the beginning of the event, various buildings will explode into flames, signi
 
 If you or other players decide to help [Etris](Etris.md), and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large chests will spawn at the city center at The Tree, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), and Rare Rings.
 
-[Polis](Polis.md), The [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) Trainer will aid in the Event, usually found fighting off the Authority Warden. He can be found using the [Rapid Punches](Attunement-less.md) mantra. Speaking to him will provide unique dialogue.
+[Polis](Polis.md), The [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) Trainer will aid in the Event, usually found fighting off the Authority Warden. He can be found using the [Rapid Punches](Attunement-less.md) mantra. Speaking to him will provide unique dialogue: ''Ah, if it isn't the hero of Etrea. How goes your wary travels?
 
-This is one of the only chances you get to prove your better than Polis. Choose your moment and stab him in the back, don't worry he'll ace The Trial 100% of the time but don't be surprised if he ever kicks your balls in next time, you see him.
-
-''Ah, if it isn't the hero of Etrea. How goes your wary travels?
+During the Etris Raid, Lord Regent's [royal guards](<Etrean_Royal_Guard_(Enemy).md>) will assist Etris to fight off the Central Authority.
 
 ## Trivia
 
@@ -47,6 +45,8 @@ This is one of the only chances you get to prove your better than Polis. Choose 
 -   ''ONE FINAL PUSH! TO THE CENTER, ROUT THEM!''
 
 One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
+
+-   The lore behind this event is the Central Authority trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 
 ## Images & Videos
 
