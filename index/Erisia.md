@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 55442
+revid: 57936
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Islands]
@@ -28,6 +28,8 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 -   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, second to [Aratel Island](Aratel_Island.md).
--   It's better to do [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP.
-    -   However Upper Erisia is perfect for weapon exp farm as it has [Rock golems](Rock_Golem.md).
-    -   It also has progression required things such as guaranteed [Megalodaunt](Megalodaunt.md) and [Terrapod](Terrapod.md) spawns.
+-   Common ganking spot due to contractor bounties/boosting.
+-   It's better to do [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
+    -   However, Upper Erisia is perfect for Strength/Weapon EXP as it has [Rock golems](Rock_Golem.md).
+    -   Trial of One gets you up to lvl 8 with no autodidact faster than farming golems up to lvl 8
+    -   It also has guaranteed [Megalodaunt](Megalodaunt.md) and [Terrapod](Terrapod.md) spawns.

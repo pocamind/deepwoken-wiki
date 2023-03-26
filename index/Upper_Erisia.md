@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 57879
+revid: 57931
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -20,7 +20,7 @@ A land lost to time, now made a battlefield for warriors who know not why they f
 
 Upper Erisia
 
-Upper Erisia is home to many sub-locations and is home to a variety of NPCs and [Monsters](Monsters.md). Like it's name suggests, it is the upper reigion of Erisia.
+Upper Erisia is home to many sub-locations and is home to a variety of NPCs and [Monsters](Monsters.md). Like it's name suggests, it is the upper reigion of Erisia. Unlike it's [lower](Lower_Erisia.md) counterpart, Upper Erisia is not suggested for beginners. (Level recommendation: 3-10)
 
 ## Points of Interest
 

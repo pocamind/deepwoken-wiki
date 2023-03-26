@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 57914
+revid: 57929
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -60,6 +60,10 @@ _noun_
 _verb_
 
 1.  To kill a player, [enemy](Enemies.md) or [monster](Monsters.md) by means other than a Finisher.
+
+### Guard Break
+
+1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with an exhaustion strike.
 
 ### Grip
 
