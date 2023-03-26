@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 57726
+revid: 57947
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death, The Depths]
@@ -36,7 +36,7 @@ Located to the left handside, interacting with this allows you to pass down two 
 
 ### Shrine of the Drowned
 
-Located before Self, a statue that allows you to pay 1.000 to return to the Surface. This can only be used once per character and requires [Power](Power.md) 10.
+Located before Self, a statue that allows you to pay 1.000 to return to the Surface. This can only be used once per character and requires [Power](Power.md) 2.
 
 ### Self
 

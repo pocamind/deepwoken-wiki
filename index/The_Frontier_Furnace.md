@@ -1,9 +1,9 @@
 ---
 title: The Frontier Furnace
-revid: 57933
+revid: 57942
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Locations, Layer 2, Floor 1]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Layer 2, Floor 1]
 notices:
   - This page is currently being worked on. Please check back later.
 ---
@@ -15,6 +15,8 @@ LocationL The Frontier Furnace LocationR
 The hiss of steam and roar of engines grant a strange comfort amidst the wind-swept land.
 
   
+
+File:The Frontier Furnace.jpeg
 
 ## Overview
 

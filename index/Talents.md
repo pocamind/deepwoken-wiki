@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57928
+revid: 57939
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -317,7 +317,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   User is covered in a blue highlight when the effect is active.
     -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
     -   Prerequisite: 25 Agility
-    -   Mutual Exclusive: Observation, Safety Dance
+    -   Mutual Exclusive: _Leaf in the Wind_ Talents
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds)
