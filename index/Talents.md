@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57939
+revid: 57965
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -268,7 +268,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Blindseer
 
 -   _All-Seeing eye \[Unlockable talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
-    -   Prerequisites: Saving enough Pathfinders from the depths. Amount currently unknown.
+    -   Prerequisites: Save 4 Pathfinders from the depths.
 
 ### Beast Slayer
 
@@ -930,7 +930,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity, +2 Elemental Intensity)
-    -   Prerequisite: Agitating Spark
+    -   Prerequisite: 20 Willpower, Agitating Spark
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
     -   If you burn to death throught the use of Last Laugh, the healing is reduced to 25%.

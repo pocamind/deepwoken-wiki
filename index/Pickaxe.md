@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 55198
+revid: 57955
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -19,6 +19,8 @@ Pickaxes are used for mining [ores/minerals](Ores.md) such as rock, iron, irithi
 
 ## Locations
 
+-   The Nautilodaunt spawn in [The First Layer](First_Layer.md).
+    -   Costs **5 notes**.
 -   The General Store located in [Etris](Etris.md).
     -   Costs **3 notes**.
 

@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 57870
+revid: 57961
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,7 +23,7 @@ Optionally is a starting location for those using the [Deepbound](Origins.md) or
 
 ## Overview
 
-Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw or is using the [Deepbound Origin](Origins.md). It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md). It also also the only place in the layer 1 of the depths in which you can regenerate sanity / not go insane naturally.
+Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw or is using the [Deepbound Origin](Origins.md), Athough for unknown reasons you can still enter if you died in [Trial of One](Trial_of_One.md) as [Lone Warrior](https://deepwoken.fandom.com/wiki/Origins?so=search#Lone_Warrior). It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md). It also also the only place in the layer 1 of the depths in which you can regenerate sanity / not go insane naturally.
 
 ## Points of Interest
 
