@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 57859
+revid: 57972
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -90,7 +90,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
     -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
     -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
-    -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you attack your target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
+    -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by someone, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
 -   **\[PRO\]** Obtain the Void Eye, which bring you backs to the [Voidheart](Voidheart.md).
     -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Void Eye to return to the Voidheart.
