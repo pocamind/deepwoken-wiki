@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 57660
+revid: 57969
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -31,3 +31,4 @@ His kit consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunemen
 ## Trivia
 
 -   The Golden Rat Bouncer is the the much tankier counterpart of the Golden Warrior.
+-   Bouncer does not grip / execute you, so if you are semi-experienced in the game, you can fight him to get levels.
