@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 57925
+revid: 57994
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -168,6 +168,8 @@ Miscellaneous sounds found in _Deepwoken_.
 
 ### Miscellaneous
 
+  
+
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 3.0s | Changing Area |
@@ -181,6 +183,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 0.8s | Foraging |
 |  | 8.0s | Obtaining a [Resonance](Resonance.md) |
 |  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
+|  | 5.0s | Dying in the [The Depths](The_Depths.md) |
 
 ## Trivia/Notes
 

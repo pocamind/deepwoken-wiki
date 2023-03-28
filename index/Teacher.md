@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 57975
+revid: 57990
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -29,3 +29,4 @@ The Teacher spawns along with 2 more NPCs sitting next to a campfire with set ra
 
 -   The "great leadership" story makes the player wonder if the Teacher is talking about the past King of Etrea.
 -   The "survival" story may refer to Drallis Ehr.
+-   If you decide to kill him and his camp, they will not drop anything.

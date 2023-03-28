@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 54092
+revid: 58011
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords]
 |---|---|
 | type | Heavy Greatsword |
 | requirements | 30 HVY, 10 STR |
-| damage | 23 |
+| damage | 24 |
 | scaling | 7 |
 | range | 8.5 |
 | swing speed | 0.64x |

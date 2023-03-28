@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 57981
+revid: 58017
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -94,8 +94,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 3</td>
   <td>2</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -105,8 +105,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.03x</td>
-  <td>0.1s</td>
+  <td>0.96x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -116,8 +116,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 6</td>
   <td>2</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -127,8 +127,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 10</td>
   <td>5</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -138,8 +138,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 5</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -149,8 +149,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
-  <td>1.03x</td>
-  <td>0.1s</td>
+  <td>0.96x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -160,8 +160,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 7</td>
   <td>4</td>
   <td>7</td>
-  <td>1.03x</td>
-  <td>0.1s</td>
+  <td>0.96x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -182,8 +182,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 14</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -193,8 +193,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 10</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="Kyrsedge.md">Kyrsedge</a></td>
@@ -204,8 +204,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: 9</td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
@@ -215,8 +215,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>LHT: <font>8</font></td>
   <td>4</td>
   <td>6.5</td>
-  <td>1.05x</td>
-  <td>0.1s</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
@@ -954,7 +954,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>25%</td>
   <td>MED: 6</td>
   <td>5</td>
-  <td>7</td>
+  <td>8</td>
   <td>0.73x</td>
 </tr>
 </tbody>
@@ -1118,7 +1118,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="https://deepwoken.fandom.com/wiki/Canorian_Axe#Alloyed"><font>Alloyed Canorian Axe</font></a></td>
   <td><font>75 HVY</font></td>
   <td><font>24</font></td>
-  <td><font>10%</font></td>
+  <td><font>20%</font></td>
   <td><font>10%</font></td>
   <td><font>HVY: 9</font></td>
   <td><font>7</font></td>
@@ -1186,8 +1186,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><a href="Markor's_Inheritor.md">Markor's Inheritor</a></td>
   <td>30 HVY, 10 STR</td>
-  <td>23</td>
-  <td>10%</td>
+  <td>24</td>
+  <td>20%</td>
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>8</td>

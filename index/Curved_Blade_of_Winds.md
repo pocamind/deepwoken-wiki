@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 57753
+revid: 58033
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -41,3 +41,4 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   The sword is similar to a Chinese Dadao sword.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or Voided.
 -   When using the weapon one-handed it becomes 2 swords, changing it's animations.
+-   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.

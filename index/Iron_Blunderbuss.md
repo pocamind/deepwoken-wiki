@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 54185
+revid: 58010
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -14,7 +14,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | requirements | 75 MED |
 | damage | 19.5 |
 | scaling | 6 |
-| range | 7 |
+| range | 8 |
 | swing speed | 0.73x |
 | endlag | N/A |
 | penetration | 25% |

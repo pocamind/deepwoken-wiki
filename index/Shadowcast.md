@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 57733
+revid: 58040
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -87,20 +87,18 @@ Shadow Eruption
 -   Unaffected by Glass & Magnifying Stones.
 
  |
-|  | 
+| File:1679957620-medaltvroblox20230327185049-tr-edit AdobeExpress (1).gif | 
 
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
-
-nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
-
-do a small amount of damage and steal a large amount of ether.
+ | Call forth the void to track your opponents. | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase nearby opponents until the duration expires or the orb hits the target. Singular orb does small amount of damage.
 
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate
 -   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
+-   If managed to hit, Shadow Seekers with replenish equal or more ether cost.
+-   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 57836
+revid: 58024
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -34,4 +34,5 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the N
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
--   It can be alloyed into the **Alloyed Longspear**
+-   It can be alloyed into the **Alloyed Longspear.**
+-   • Gremorian Longspear crit now deals +15% chip damage.

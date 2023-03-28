@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 57965
+revid: 58048
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -125,6 +125,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
     -   Prerequisites: 10 Intelligence, Brewed a Potion
 
+-   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
+    -   Prerequisite: 80 Intelligence
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
     -   Prerequisites: 15 Intelligence, Brewed a Potion
@@ -648,7 +650,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Fish
 
 -   _Fishman_ \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
-    -   Health regeneration is increased while swimming.
+    -   Health regeneration is increased while swimming bellow 66% Health.
     -   Hunger drain from swimming is multiplied by an unknown amount.
     -   Reduces the Health Regenerations effects of the [Curse of the No Life King.](Enchantments.md)
     -   Does not activate in the Depths.
@@ -692,6 +694,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
     -   Prerequisites: 40 Willpower, 70 Flamecharm
+        -   Azure Flames burn deals 9 damage per second.
 
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Prerequisites: 30 Flamecharm
@@ -871,7 +874,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Slowly drain Sanity for 20 Seconds.
     -   Upon activation, the character yells out in a distorted voice; along with chanting in a distorted text.
-        -   Heretic's Sutra can only be obtained through a quest in Floor 1 of [The Eternal Gale](Second_Layer.md).
+        -   Heretic's Sutra can only be obtained through a quest in Floor 1 of [The Eternal Gale](Second_Layer.md) (requires 80 Willpower).
 
 ### Human Architecture
 
@@ -1441,7 +1444,7 @@ These Talent are meant to make maintaining your ship easier.
 
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
     -   Repairing restores ??% more HP to the boat when it's below ??% HP.
-        -   Prerequisite for all: Automatically gained after using the Repair Hammer ?? and ?? times.
+        -   Prerequisite for all: Automatically gained after using the Repair Hammer 51 times.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
     -   Repairing restores ?? HP instead of 250 HP.
@@ -1917,7 +1920,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Knocking enemies will replenish more of your health and posture.
     -   Prerequisite: [Power](Power.md) 3
 
--   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
+-   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
 

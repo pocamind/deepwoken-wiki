@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 50053
+revid: 58041
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,13 +16,13 @@ Template:ArmorInfobox **Ferryman's Coat** is a Unique [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires five (5) Cloth and Fiber and ten (10) Vibrant Gems.
 
-This Outfit requires [Power Level](Talents.md) 10.
+This Outfit requires [Power Level](Talents.md) 12.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance and +20% Lightning resistance.
+This Outfit has 2500 durability and grants +20% Physical resistance, +35% Elemental resistance, +25% Lightning resistance, +5% Wind resistance, +5% Blunt Resistance and+50% Ether Regen.
 
-This Outfit also grants the [Talent Card](Talents.md) _Ferryman's Curse_, which gives the player displacement if damaged by [Thundercall](Thundercall.md) mantras.
+This Outfit also grants the [Talent Card](Talents.md) _Ferryman's Curse_, which has a 20% chance to convert incoming elemental damage into Lightning damage.
 
 ## Location
 

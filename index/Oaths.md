@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 57967
+revid: 58016
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -11,7 +11,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Oathless | |
 |---|---|
 | oath_req | None |
-| effects | +2 Wildcard Mantra Slots |
+| effects | +10 Health, +15% Oath Resistance, +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
 |---|---|
@@ -56,7 +56,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Silentheart | |
 |---|---|
 | oath_req | Take the ghost quest, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
-| effects | +5 Posture, +10 Health |
+| effects | +5 Posture, +10 Health, +15% Mantra Resistance |
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
@@ -92,7 +92,7 @@ After talking to all three of their disciples, return to the person in the cave 
 
 ### Effects
 
-This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
+This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 15% Oath Resistance.
 
 ### Notes
 
@@ -587,9 +587,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ SHING SHING SHING SHING SHING ”
+“ I'VE MADE THE BEST BUILD EVER! ”
 
-― silentheart voidwalker shredded a Vesperian with mani katti
+― Every single silentheart posers ring ever
 
   
 

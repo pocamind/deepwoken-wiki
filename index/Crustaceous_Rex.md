@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 57003
+revid: 58014
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Crustaceous Rex when asked what inspired them to build a second Krusty Krab right next to the original.
 
-Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
+Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss, Crabulon,** or **Crabbo.**_
 
 ## Description
 
