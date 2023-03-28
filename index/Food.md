@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 57647
+revid: 58049
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Food, Mechanics]
 
 # Food
 
-“ WHERE'S THE POMAR SAUCE?!!!!!!!?!?!?!!?!?!? ”
+“ WHERE'S THE POMAR SAUCE?! ”
 
 ― Celtorian Master Chef to the poor Artisan Chef
 
@@ -16,38 +16,38 @@ categories: [Pages with broken file links, Food, Mechanics]
 
 File:Reinforced Food Bar.png
 
-An example of a differently colored bar
+An example of a Reinforced Hunger bar
 
 Food is a necessary need for your Character's survival.
 
-_**To get food, one must collect various ingredients found around the world or buy the food.**_
+_To get food, one must collect ingredients from various Lumen or buy the food from vendors in certain places._
 
--   Mushrooms and Fruits are very easy to get, they are plentiful and various on both starter islands.
+-   Mushrooms, Fruits and Wheat are all very easy to get, they are plentiful and various on both starter islands.
 -   On every [season](Seasons.md) (except Winter), the player can find fruits on smaller trees and some bushes, an easy and safe source of nutrition.
 -   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
 -   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
 
-_**To cook food, one must rest at a campfire.**_
+_To cook food, one must rest at a campfire._
 
 -   By combining ingredients together, the player can make various types of foods/drinks.
--   2-3 types of ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different types)
+-   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different types)
 
 ## Food Boosts
 
 File:SlowedStomach.png
 
-Some foods fill a portion of your Hunger/Thirst bar with a different color, known as Reinforced Hunger/Thirst.
+Some foods fill a portion of your Hunger bar with a different color, known as Reinforced Hunger.
 
--   Reinforced Hunger grants buffs certain buffs signified by a specially-colored secondary bar on top of the normal Hunger bar until it's depleted.
+-   Reinforced Hunger grants certain buffs, signified by a specially-colored secondary bar on top of the normal Hunger bar until it's depleted.
 -   The type of boost can be identified by hovering over the differently-colored bar.
 
 ### Boosts
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
 -   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed.
--   _"Your magic feels stronger..."_ This buff increases the user's mantra damage.
+-   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (It possibly increases the effects of Enchants as seen in the Candied Fruit buff description)
 -   _"Your weapons feel stronger..."_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
 -   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.

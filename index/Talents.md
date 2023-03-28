@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58048
+revid: 58062
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -2205,9 +2205,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your Legion Kata attacks now do 15 percent more damage.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
--   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Being hit by lightning will briefly make you intangible.
-    -   Invincible for about 2 seconds after being hit by lightning
-
+-   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility)
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You do 1 less fist M1s before Flourishing.
     -   Stacks with Finisher's Ring.

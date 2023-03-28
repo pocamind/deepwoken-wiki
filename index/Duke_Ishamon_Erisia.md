@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 57857
+revid: 58061
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -224,8 +224,12 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
 -   His first name is unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
-    -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
+
+-   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
+
+-   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
+
+-   In the update of 3/27/2023 Monday Update, Duke Erisia can vent now.
 
 ## Bugs
 

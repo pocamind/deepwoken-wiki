@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58016
+revid: 58050
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -64,7 +64,7 @@ There are currently ten obtainable Oaths in _Deepwoken.._
 
 ## Pathfinder (No Oath)
 
-Initially, all players start as a **Pathfinder**, which does not provide any benefit.
+Initially, all players start as a **Pathfinder**, which does not provide any benefit. ( Except for not being mercilessly hunted by every contractor within a 100 feet radius. )
 
 Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
 

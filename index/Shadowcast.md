@@ -1,32 +1,12 @@
 ---
 title: Shadowcast
-revid: 58040
+revid: 58057
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
 ---
 
 # Shadowcast
-
-## Description
-
-Shadowcast icon
-
-Shadowcast is an attunement that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras, and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
-
-The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential. Arguably the best attunement to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
-
-However, Shadowcast works best with plenty of time to work with, able to fight at top-shape for long periods of time. Its delayed action attacks, and reliance on ramping up pressure over time makes Shadowcasters vulnerable to bursting and prediction. An adept opponent will typically try to end a Shadowcast fight aggressively while countering any stray attacks with high precision. Dagger and Galebreathe builds are particularly able to make this happen with relatively low mantra reliance and high combo potential respectively. It's recommended to drag out your fights, and use your mantras consistently to ensure your opponent's disadvantage grows over time.
-
-## Obtainment & Training
-
-Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris, Isle of Vigils or Voidheart also obtained while picking shadowcast as your element at start of the game.
-
-In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer, [Nostor](Attunement_Trainers.md), found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
-
-_See [Nightblood](Attunement_Potions.md) for more info._
-
-## Mantras
 
 ### **Combat**
 
