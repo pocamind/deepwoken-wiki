@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58050
+revid: 58069
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -92,12 +92,12 @@ After talking to all three of their disciples, return to the person in the cave 
 
 ### Effects
 
-This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 15% Oath Resistance.
+This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 15% Oath Mantra Resistance.
 
 ### Notes
 
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked oath (Linkstrider/Dawnwalker/Contractor).
-    -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely.
+    -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
     
 
@@ -603,6 +603,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Effects
 
+-   You gain 15% mantra resistance.
 -   You are unable to obtain, modify or use any Mantras. Upon obtaining the oath, your mantra tab is removed.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
@@ -743,3 +744,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths.
 -   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
+-   Though Oathless is meant to suggest what it's named. It is completely contradicted by the fact that it involves taking it as an Oath. The only true occurrence of being Oathless is by being a Pathfinder. So try not to fall for the braindead arguments stating that it's supposed to be useless. Even if they are backed up by the developers themselves, even they are completely contradicted by what they argue against.
