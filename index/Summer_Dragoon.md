@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 57976
+revid: 58073
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Richocheted bullets do not proc enchants. (Broken atm and they proc enchants)
+-   Richocheted bullets do not proc enchants. (Broken atm and doesen't proc)

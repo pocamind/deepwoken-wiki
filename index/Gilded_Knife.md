@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 51138
+revid: 58072
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -15,7 +15,7 @@ categories: [Weapons, Daggers]
 | damage | 13.5 |
 | scaling | 8 |
 | range | 6.5 |
-| swing speed | 1.03x |
+| swing speed | 0.96x |
 | endlag | none |
 | penetration | N/A |
 | chip damage | N/A |

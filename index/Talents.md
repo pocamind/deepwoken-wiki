@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58062
+revid: 58095
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -403,7 +403,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   _Blood Shadow_ \[Rare Talent\] - Allies you Reinforce are drained of their HP until you are fully healed.
+-   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hitted. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff heals them slightly.
@@ -668,7 +668,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 10
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
-    -   Prerequisites: 80 Flamecharm, Dancing Steps
+    -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
     -   Prerequisite: 60 Flamecharm, [Power](Power.md) 13
@@ -764,7 +764,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: 60 Frostdraw
-    -   Does not work with Crystallization
+    -   Works with Crystallization
 
 ### Gale Duelist
 
@@ -907,7 +907,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
-    -   Does not work with Crystalization.
+    -   Instantly procs Crystallization upon landing on the target, knocking them backwards.
 
 -   _Frozone_ \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 70 Frostdraw.

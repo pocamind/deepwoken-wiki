@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 58049
+revid: 58083
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -22,8 +22,8 @@ Food is a necessary need for your Character's survival.
 
 _To get food, one must collect ingredients from various Lumen or buy the food from vendors in certain places._
 
--   Mushrooms, Fruits and Wheat are all very easy to get, they are plentiful and various on both starter islands.
--   On every [season](Seasons.md) (except Winter), the player can find fruits on smaller trees and some bushes, an easy and safe source of nutrition.
+-   Mushrooms, fruit and Wheat are all very easy to get, they are plentiful and various on both starter islands.
+-   On every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, an easy and safe source of nutrition.
 -   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
 -   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58069
+revid: 58094
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -74,9 +74,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Oathless is supposed to be useless ”
+“ Oathless is now meta again! ”
 
-― The words of the utterly deranged
+― Oathless users after getting a very small buff and still being worse than dawnwalker
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -530,8 +530,8 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 ### Obtainment
 
 1.  Get positive reputation with [The Ministry](The_Ministry.md). (Only need "the ministry no longer see you as worth fighting" dialogue which is neutral)
-    -   You can either get this through Imel, Emel, and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them.
-    -   You must help the ministry 5-6 times at summer island for them to not see worth fighting you anymore
+    -   You can either get this through Imel, Emel, and Fimel's bounties, but if you still have a functioning moral compass, you can help the Ministry out in Summer Isle. A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them. This is also arguably far more efficient as you do not have to keep running back to NPCs, which at times can be really far away from the kill.
+    -   You must help the ministry 5-6 times at summer island for them to not see worth fighting you anymore.
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
@@ -739,6 +739,7 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
+    -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
 -   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths.

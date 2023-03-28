@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 57243
+revid: 58090
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -34,10 +34,10 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 ### Prison
 
--   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier.
--   Heavy patrolled by Authority Peacekeepers.
+-   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier, as well as the [Shrine of Temptation](Deep_Shrines.md).
+-   Heavily patrolled by Authority Peacekeepers.
 -   The Authority Warden can be found in an office in the prison.
--   Potential of five [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and one [Navaen Nomad](Navaen_Hostage.md) hostage.
+-   Potential to find [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and [Navaen Nomad](Navaen_Hostage.md) hostages.
 
 ## Quests
 

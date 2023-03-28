@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 58059
+revid: 58086
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -54,13 +54,21 @@ An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md)
 
 ### Finisher
 
+An Immortal Guardian executes the player after knocking them.
+
 | Name | Description |
 | --- | --- |
 | Execute | Bashes the enemy's head with their Divine Weapon. |
 
 ## Notes/Tips
 
--   put back in from vandalize
+-   Immortal Guardians are rather tanky.
+-   They have a high posture pool like angels.
+-   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful.
+-   Best way to kill them is either Parry-Trading or using weapons with high chip damage, as they do have a habit of blocking attacks rather than parrying.
+-   Nightmares can take way more posture then their little brothers, so some mantras that Guard break them will most-likely just be blocked normally by them.
+-   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against.
+-   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
 
 ## Trivia
 

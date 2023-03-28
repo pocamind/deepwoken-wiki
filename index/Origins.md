@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 57972
+revid: 58078
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -98,6 +98,13 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
     -   In order to be placed in the Voidwalker bounty board, you must have negative reputation with at least 1 faction other than [The Ministry](The_Ministry.md) and the knives themselves. And since every player starts the game with negative reputation towards [The Hundred Legions](The_Hundred_Legions.md) and the [Authority](The_Central_Authority.md), the bounty board will usually be filled as nobody usually care about their reputation with these factions.
+        
+
+“ the amount of meatriding these boosted Knives of Eylis idiots have on me, holy sh- ”
+
+― a Celtor angering the faction by massacring waves of voidwalkers
+
+  
 
 ## Upcoming Origins
 
