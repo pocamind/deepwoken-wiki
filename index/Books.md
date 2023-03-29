@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 57699
+revid: 58108
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -39,7 +39,7 @@ It is recommended to use a text-to-image converter (e.g. [https://www.imagetotex
 > by Archivist Caliban Sr.
 > 
 >   
-> Winter, 521.
+> Winter, 521 CE.
 > 
 > Subject C hasn't moved within his enclosure all day. He's resting on the ground, staring intently at the glass surrounding him, for no discernable reason to us.
 > 
@@ -1063,3 +1063,32 @@ I weep for them still, my tears bitter as salt...
 > While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
 > 
 > Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
+
+### Vows by the Sea: Inheritance
+
+> by Steward Bridges
+> 
+>   
+> The contemporary understanding of the origins of the Races of Lumen can be said to stem primarily from the ‘Gremor Hypothesis’ posed by Steward Heidegard in his 877 CE study. In this essay, Heidegard delves into the spoken histories and folklore of the Gremor nomads, and proposes that the poorly understood mechanisms of Vows might be behind the internal ‘compass’ spoken of by the nomads.
+> 
+> Gremor folklore speaks of the descent of Navae to this world, the nursing of the falling goddess back to life by a wandering nomad, and a Vow made between this nomad and the celestial Navae. While there are naturally accounts of the deer-horned Gremor during the Old World, it is only in post-tide sources that we find any mention of the innate compass the nomads use to navigate the seas.
+> 
+> Heidegard suggests that the Vow made in the stories was a ‘Hereditary Vow’, one that would be passed on to future descendants as part of the terms of the Vow. It is said that through this Vow, the children of the nomad were blessed with ‘Navae’s guidance’, though not the nomad herself. The mechanics of such a Vow have not yet been replicated to such an extent through modern experimentation, but the question is posed - if a supernatural gift such as the blessing of Navae could be conveyed through a Hereditary Vow, what else could be a result of such an effect that we have taken for granted?
+> 
+> It is well known that while there are hybrids in nature, there are not hybrids between the races of Man - we are of the same species, but bear only one distinct race each.
+> 
+> The traits we inherit are not a mixture of the different races we hold as our heritage - the child of a Gremor and a Celtor will take after the traits of only one of the parents. The mechanics of which parent takes priority in this assignment of traits are poorly understood and have widely been concluded to be down to a variety of disparate factors, such as the ‘liveliness of one’s spirit’ \[sic\], one’s aptitude with the Song, or the intensity of one’s Soul Murmur.
+> 
+> There is naturally a taboo surrounding the use of Vows to enforce religious tenets. The origins of this taboo are unclear, but there exist some records of the religious institutions present in the days between the Tides and the establishment of the Citadel. Recovered holy texts speak of sacraments made and promises broken on pain of death, and of the mandatory persecution of non-adherents. Of the faiths that survive from those days, such as the Covenant of Flame, none extant today enforce Vows upon their members.
+> 
+> Many isolated and less integrated cultures often adhere to the worship of animal deities, of spirits that embody nature. Without the taboo brought by history - or perhaps ancestral memory - it is believed that some of these pagan faiths may utilise Vows on some level. These cultures may resemble the early days of our own cultures, and this can perhaps be seen in the continued reverence of our ‘patron’ animal counterparts. The wild deer hunted by the Gremor nomads are afforded the same burial rites as their own kind, after all.
+> 
+> It is a somewhat poorly understood but apparent property of Vows that the number of those sworn to one magnifies the resultant effects of the Vow. This can be seen in the strength granted by Oaths to their adherents. It can therefore be theorised that this may lead to potent and dramatic effects if extended to the size of a religion thousands - or even millions - strong.
+> 
+> So, having stated the relevant background information, I posit that the races of Lumen are the result of a Hereditary Vow. Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the races of Lumen exhibit today.
+> 
+> Free of the taboo of Religious Vows, the animal worship of our ancestors gave way to an attribution of the traits of the animals worshipped as tenets of the Vow. In the urging of the Vow’s adherents to emulate the traits of sacred animals in their actions (e.g. in the case of Canor, the loyalty of a wolf), they were physically granted the traits of said animals as the Vow was brought into fruition.
+> 
+> This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
+> 
+> If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.

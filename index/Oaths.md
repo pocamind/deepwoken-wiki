@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58094
+revid: 58104
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -604,6 +604,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 ### Effects
 
 -   You gain 15% mantra resistance.
+-   You gain 15% more damage on your M1s.
 -   You are unable to obtain, modify or use any Mantras. Upon obtaining the oath, your mantra tab is removed.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.

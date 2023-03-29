@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 56662
+revid: 58102
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,7 +10,7 @@ categories: [Locations]
 
 > “ Is erisia in voidsea? ”
 > 
-> ― A Stranded Felinor
+> ― Stranded Felinor Jonathan Talo
 
 LocationL Voidsea LocationR
 

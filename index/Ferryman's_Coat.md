@@ -1,9 +1,9 @@
 ---
 title: "Ferryman's Coat"
-revid: 58075
+revid: 58107
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Items, Outfits]
 ---
 
 # Ferryman's Coat
@@ -31,11 +31,12 @@ This Outfit's Schematic can be found in:
 -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   A drop when defeating [The Ferryman](The_Ferryman.md) during [Autumn](Seasons.md).
 
-## Trivia/Notes
+## Trivia
 
 -   Like the name suggests, it's the signature outfit of The Ferryman.
 -   Does not give you any abilities used by The Ferryman, nor does it affect your [thundercall](Thundercall.md) mantras.
 -   The shirt can be found [here](https://www.roblox.com/catalog/5825770743/Night-Walker)
 -   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
--   The only known outfit in the game with the "Unique" tier as of now.
+-   The only known obtainable outfit in the game with the "Unique" tier as of now.
 -   Effectively a better [Hive Drone](Hive_Drone.md) in almost every way possible besides cost. As with Hive Drone, [Thresher Scales](Talents.md#marauder) pairs very well with this.
+-   If you have thundercall with resolve crusher talent, when you electrify opponents (hit them with a mantra) all their attacks will be converted into lighting damage, meaning that the high lightning resistance will proc and basically make you a great resistance pretty easily.
