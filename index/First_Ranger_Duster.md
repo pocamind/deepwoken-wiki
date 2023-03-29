@@ -1,15 +1,19 @@
 ---
 title: First Ranger Duster
-revid: 40804
+revid: 58133
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Armors]
+categories: [Character, Armors]
 ---
 
 # First Ranger Duster
 
-File:Umber first ranger duster.png
+Template:EquipmentStats
 
-Umber First Ranger Duster equipped
+## Description
 
-The First Ranger Duster has a small chance to be obtained from killing a King Thresher. Having 5 types, the Umber, Jade, Cloud, Azure and Lavender.
+**First Ranger Dusters** are animated equipment under the "Arms" category. They have a small chance to be obtained from a [King Thresher](Thresher.md) as a drop.
+
+## Trivia
+
+-   The chances of getting this via [King Threshers](Thresher.md) is between **1 out of 30** to **1 out of 35**.

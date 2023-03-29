@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 57400
+revid: 58136
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -81,5 +81,6 @@ A race of nomadic dragons.
 
 -   Awarded to “moderators and VERY active testers” (stated by Punchee)
 -   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
+-   Moderators can obtain the race through the Mod Shop for 750 moderation points.
     
     The Drakkard prompt.

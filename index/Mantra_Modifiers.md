@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 58110
+revid: 58132
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -761,7 +761,7 @@ File:Shade Devour with Blast Spark.gif
  | 
 
 -   This modifier cause the "Shade Devour" mantra to perform a bigger shockwave.
-    -   Can be paired with a Multiplying Spark to make 2 big shockwaves.
+    -   Can be paired with a Multiplying Spark to make 3 big shockwaves.
 
  |
 | 
@@ -936,7 +936,7 @@ File:Shade Devour with Multiplying Spark.gif
  | 
 
 -   This modifier causes the "Shade Devour" mantra to perform 3 shockwaves instead of 1.
-    -   Can be paired with a Blast Spark to make 2 bigger shockwaves.
+    -   Can be paired with a Blast Spark to make 3 big shockwaves.
 
  |
 | 
