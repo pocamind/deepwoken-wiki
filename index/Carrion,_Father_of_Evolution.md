@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 55784
+revid: 58125
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]

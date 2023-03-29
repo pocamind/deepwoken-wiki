@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 57940
+revid: 58121
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Arms, Article stubs, Armors]
@@ -17,3 +17,5 @@ Template:EquipmentStats
 The Grand Authority Plate is an accessory under the "Arms" category.
 
 It is part of a set together with the Grand Authority Sabatons.
+
+This is theorized to be the Armour of "Authority Inquisitors" only spoken of in the [Inquisitors Thorn](<Inquisitor's_Thorn.md>) as "Ill-fated"
