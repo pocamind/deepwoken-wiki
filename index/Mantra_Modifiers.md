@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 58132
+revid: 58197
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -690,7 +690,7 @@ File:Ice Forge with Blast Spark.gif
 
  | 
 
--   The Shurikens Now Explode When They Collide With Something
+-   This modifier causes the projectiles in the "Ice Forge" mantra to explode on impact.
 
  |
 | 

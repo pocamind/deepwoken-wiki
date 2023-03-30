@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 50075
+revid: 58198
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -31,3 +31,4 @@ Template:ArmorInfobox**Diver Journeyman Robes** is an Expert [Outfit](Outfits.md
 ## Trivia/Notes
 
 -   Essentially a red reskin of [Diver Apprentice](Diver_Apprentice_Robes.md).
+-   A good replacement for the hive drone as the only difference is the blunt resistance and the talent

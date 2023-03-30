@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 58163
+revid: 58208
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -172,7 +172,7 @@ Finally, just because you have one Nature, doesn't mean you cant do the other Na
 
 ### Collision with Fate- Achieving your Resonance
 
-**NOTE: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate.**
+**NOTE: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate. Jumping in the void of the First layer with less than half HP will also wipe you even if you have maximum resonance and it doesnt send you to layer 2 either.**
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 
@@ -180,7 +180,7 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **An air-splitting bell choir will play throughout the entirety of The Depths as you rise once again.**
 -   **You will be healed to 100%.**
 -   **Your Blood, Thirst and Hunger will be replenished.**
--   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Red cards indicate a **Corrupted Resonance**, while yellowish/gold are **Legendary**. The variant will be left for you to discover.
+-   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Red cards indicate a **Corrupted Resonance**, while yellowish/gold are **Legendary**, also to note that light purple cards indicate the resonance being **Drowned**, but only a lucky few have encountered this. The variant will be left for you to discover.
 
 Once you select your card, using C will activate your **Resonance**.
 

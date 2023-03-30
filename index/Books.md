@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 58108
+revid: 58207
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1092,3 +1092,7 @@ I weep for them still, my tears bitter as salt...
 > This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
 > 
 > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
+
+## Trivia
+
+-   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
