@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 57668
+revid: 58194
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,7 +42,7 @@ They are extremely intelligent, capable of tool use and combat ability. The make
 
 ## Description
 
-Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and by the work of some merciless god was given the ability to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp. If you see one (I can not stress this enough) LOG
+Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone; By the work of a developer having a really, really bad day, it was given the ability to wield Thundercall. Is by far the scariest monster in the game, inflicting true stun on _every single hit_ it makes on you as well as bypassing all forms of hyperarmor, having almost double the health of a normal Nautilodaunt and having a more powerful modified Grand Stomp. If you see one, i cannot stress this enough, LOG. Engaging this in combat is almost guaranteed death, basically impossible to run from, and should only be fought by the _most_ skilled of players.
 
 ## Attack Patterns
 
@@ -55,7 +55,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and 
 | **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
 | **Electro Stomp** | Squibbo stomps the ground aggressively with his feet, sending pillars of spear-like thunder and rubble hurtling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
-| **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. After Venting, he usually follows up with a Kick. | N/A | (★☆☆) |
+| **Vent** | Squibbo may also Vent your attacks. After Venting, he usually follows up with a Kick. This makes it impossible to get one into a combo. | N/A | (★★★) |
 
 ### Finisher
 

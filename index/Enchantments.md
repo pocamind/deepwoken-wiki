@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 58080
+revid: 58192
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -242,7 +242,9 @@ There are two variants that enchantments come in:
   2x blood damage taken in the Luminants.<br>
   When unsheathed in The Depths, -100 sanity. You will immediately die upon using the curse in the Depths if you dont have the sanity to use it.<br>
   <b>Disabled in Arena</b><br>
-  <b>Viscosity is disabled</b></p></div></td>
+  <b>Viscosity is disabled</b><br>
+  <b>Conditioned Runner is disabled</b><br>
+  <b>Fishman gives reduced healing</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
