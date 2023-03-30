@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 58143
+revid: 58175
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -137,21 +137,21 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
   <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)</td>
 </tr>
 <tr>
-  <td><u>Tools + Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p>
+  <td><u>Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p>
   <p>Weight: none</p></td>
   <td><u>Training Gear</u><p>2nd place in the inventory. Consist of items that train your characters attributes.</p>
   <p>Weight: none</p></td>
   <td><u>Weapons</u><p>3rd place in the inventory. Consist of equipable weapons and off-hand items if you meet the req.</p>
   <p>Weight: 2</p></td>
-  <td><u>Armor</u><p>4th place in the inventory. Consist of equipable armor and clothing pieces if you meet the req.</p>
+  <td><u>Equipment</u><p>4th place in the inventory. Consist of equipable armor and clothing pieces if you meet the req.</p>
   <p>Weight: 2</p></td>
   <td><u>Schematics</u><p>5th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
   <p>Weight: 1</p></td>
-  <td><u>Crafting Materials</u><p>6th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy.</p>
+  <td><u>Ingredients</u><p>6th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy.</p>
   <p>Weight: Varies</p></td>
-  <td><u>Mantra Modifiers</u><p>7th place in the inventory. Consist of materials you may only use to edit mantra properties.</p>
+  <td><u>Mantra Ingredients</u><p>7th place in the inventory. Consist of materials you may only use to edit mantra properties.</p>
   <p>Weight: none</p></td>
-  <td><u>Shiny's</u><p>8th place in the inventory. Consist of smelted ores, gemstones and specific consumables stemmed from an Attunement (like spark glands or gale stones) Often what you'll be selling.</p>
+  <td><u>Treasures</u><p>8th place in the inventory. Consist of smelted ores, gemstones and specific consumables stemmed from an Attunement (like spark glands or gale stones) Often what you'll be selling.</p>
   <p>Weight: none</p></td>
 </tr>
 <tr>

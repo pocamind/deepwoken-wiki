@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58135
+revid: 58187
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -28,7 +28,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
 -   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
-    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
+    -   For example: Overflowing Dam requires 41 INT as a prerequisite.
 
 -   A certain Talent in a certain category.
     -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
@@ -37,7 +37,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.
-    -   Thresher Claws requires a [Power](Power.md) 13 as a prerequisite.
+    -   Thresher Claws requires a [Power](Power.md) 14 as a prerequisite.
 
 Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
@@ -67,7 +67,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
-    -   Prerequisite: 5 Agility
+    -   Prerequisite: 6 Agility
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
     -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
