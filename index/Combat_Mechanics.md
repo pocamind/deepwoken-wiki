@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 57764
+revid: 58143
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -45,7 +45,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
     <li>The first icon represents roll/dodge cooldown.</li>
     <li>The second icon represents parrying cooldown.</li>
     <li>The third icon represents cancels and feints cooldowns.</li>
-    <li>The fourth icon represents potion cooldown.</li>
+    <li>The fourth icon represents potion sickness cooldown.</li>
     <li>The fifth icon represents <a href="Resonance.md">Resonance</a> cooldown.</li>
   </ul><figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
 </tr>

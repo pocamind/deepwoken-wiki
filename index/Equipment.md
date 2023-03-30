@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 57892
+revid: 58164
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -3220,7 +3220,7 @@ Poser's Ring
 
  | 
 
-Damage done with a Katana isn't received until the user sheathes their weapon\*. Applies damage falloff to your M1s, meaning they deal less damage with each hit until the katana is sheathed.
+Damage done with a Katana isn't received until the user sheathes their weapon\*.
 
 (\*Makes your M1s with a Katana deal direct no damage, instead stacking all of it until you put away your weapon.)
 
