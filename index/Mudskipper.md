@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 58213
+revid: 58287
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -252,7 +252,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Enemies that are summoned to fight the weak during The Depths (Trial). They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
+Enemies that are summoned to fight the weak during The Depths (Trial)or in the graves at upper erisia. They wield a [Falchion](Falchion.md) and wear armor, along with [Black Fur Boots](Fur_Boots.md).
 
 They can only be encountered in The Depths (Trial) while the character's power is between 3 - 6 (?).
 
