@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 57750
+revid: 58268
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -143,7 +143,8 @@ Lightning Clones
 
  | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
 
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply an electric shockwave that affects all near it.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to make a second clone.
 -   Modifying the Mantra with a Cloudstone does not produce more clones.
 -   Can be upgraded with the Talent, Static Flash Clones. When used with a Blast Spark, the clone summons a Lightning Strike when it disappears.
 
