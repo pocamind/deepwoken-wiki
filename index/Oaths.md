@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58180
+revid: 58277
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -558,7 +558,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   If a hidden tendril is on multiple opponents, they are to be pulled together.
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target.
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target. If victim is low enough the move will insta execute
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
