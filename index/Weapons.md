@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 58070
+revid: 58235
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1070,8 +1070,8 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>Master Hawk's HandAxe</td>
   <td>75 HVY</td>
   <td>24.5</td>
-  <td>N/A</td>
-  <td>30%</td>
+  <td>5%</td>
+  <td>25%</td>
   <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>

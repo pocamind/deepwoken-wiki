@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 53469
+revid: 58227
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,6 +26,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
 | Void Lance | Caster opens a gate allowing a void tentacle to attack at an aimed opponent. | ◯ | ◯ | (★☆☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Boons
 
@@ -43,7 +44,6 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Almost at any given time they will try to use their mantras while doing an M1 Combo.
 -   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   Within the fortress there are two Plumfruit trees and three Wheat spots, a good source of Food/Water.
 
 ## Trivia
 

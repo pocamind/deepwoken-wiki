@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 57188
+revid: 58241
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -41,6 +41,7 @@ Ice Daggers
 Ice Eruption
 
  | Forms a path of ice spikes in front of user. | ✗ | ◯ | (★★☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### **Boons:**
 
@@ -70,3 +71,4 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 
 -   They are considered one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
 -   If they knock you while you are in water and you have Scuba Drowner, their ice eruption can keep you trapped underwater while their other moves continually knock you after you recover with no way to escape.
+-   One of the 4 enemies that use the old ice eruption.

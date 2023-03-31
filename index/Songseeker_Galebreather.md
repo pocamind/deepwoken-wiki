@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 57189
+revid: 58232
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -41,6 +41,7 @@ Heavenly Wind
 Rising Wind
 
  | Caster uppercuts their opponent, rapidly damaging them. | ✗ | ◯ | (★★☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### **Boons:**
 

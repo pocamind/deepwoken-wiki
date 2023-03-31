@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 57190
+revid: 58231
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -66,6 +66,7 @@ Lightning Stream
 A stream of lightning that hooks onto an opponent before shocking them multiple times.
 
  | ◯ | ◯ | (★★☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### **Boons:**
 

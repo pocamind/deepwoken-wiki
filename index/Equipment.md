@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 58164
+revid: 58252
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1108,7 +1108,7 @@ Other sources:
  | N/A |
 |  | 
 
-Iron Mask
+[Iron Mask](Iron_Mask.md)
 
  | 
 
@@ -2358,7 +2358,8 @@ Chests from:
 
  | 
 
-Grants a random buff.
+Grants a random buff.  
+_\+ 10 Health_
 
 **Requires Power 13**
 

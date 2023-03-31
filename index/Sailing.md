@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 51997
+revid: 58248
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -45,11 +45,11 @@ Detailed info of individual boats [here](Ships_&_Sailing.md).
 
 ### Dinghy
 
-Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Fits 1.
+Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Meant for one, but it can fit about three.
 
 ### Sloop
 
-Cheapest boat not including the Dinghy. Size suitable for groups of 2-3.
+Cheapest boat not including the Dinghy. Suitable for groups of 2-3.
 
 ### Schooner
 
@@ -57,17 +57,17 @@ Mid game boat with cannons. A good boat for casual outings despite the weird sai
 
 ### Merchant Schooner
 
-The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it. For groups of 3-5)
+The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it. (For groups of 3-5) Most commonly seen boat, due to its campfire and the low price and speed.
 
 ### Frigate
 
 The overpriced ironclad in its natural habitat
 
-Another mid game boat with way more space. Best for sizes 4-6)
+Another mid game boat with way more space. Best for sizes 6-8)
 
 ### Ironclad
 
-Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend) Enough for an entire guild.
+Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend) Enough for an entire guild. Has 20 cannons, 10000 health.
 
 ## Notes/Trivia
 
@@ -77,4 +77,4 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
     -   (Assumption) The Ironclad is the only boat to ignore this rule (Since it's steam powered)
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is a Ironclad, the side lining would change instead.
--   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats.
+-   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats. Also, they have extra boat health, around 20%.

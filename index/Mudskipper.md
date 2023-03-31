@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 57345
+revid: 58213
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Mudskippers during Mudwoken
 
-> _Also known as Shriekers, Zombies, Mudkips, Dripskippers and Abominations._
+> _Also known as Shriekers, Zombies, Mudkips and Abominations._
 
 **Mudskipper:**
 
@@ -24,7 +24,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 
 They are born from [Nautilodaunts](Nautilodaunt.md) shoving parasites into the brains of their prey.
 
-When accompanied by Bloatskippers from an emergence, their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" mantra fired from their mouths instead of their hands.
+When accompanied by Bloatskippers from an [emergence](Random_Encounters.md), their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" mantra fired from their mouths instead of their hands.
 
 ## Moveset
 

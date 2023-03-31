@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 55487
+revid: 58242
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -41,6 +41,7 @@ Grand Javelin
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 
  | ◯ | ✗ | (★★★) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Boons
 
@@ -55,11 +56,11 @@ Grand Javelin
 -   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
 -   Grand Javelin can be blocked with high enough posture.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**
--   They will parry all of your attacks, so expect to get in a very very long party trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
+-   They will parry all of your attacks, so expect to get in a very very long parry trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
 
 ## Trivia
 
 -   They're friendly to normal Legion NPCs and won't attack them.
--   Even if it doesn't change much, they can have different weapons, them being either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
+-   Even if it doesn't change much, they can have different weapons, wielding either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
--   Despite being a Thundercall user, they can drop [Gale Stones](Gale_Stone.md).
+-   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).

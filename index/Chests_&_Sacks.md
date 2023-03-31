@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 55861
+revid: 58234
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -14,7 +14,7 @@ notices:
 
 An image of an opened chest
 
-Chests are in-game boxes that spawn at the end of every event (excluding faction fights) or after finishing off a monster/NPC in the Etrean Luminant or Depths. They contain loots ranging from general items, [armor pieces](Outfits.md), Outfit schematics, and very rarely, Enchanted variations of Weapons or Armors. The chest's contents depends solely on the location of the chest, and [luck](Luck.md) does not have any influence over what actual loot is in the chest. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as Katanas, Canor Fangs or Glassdancer Wraps, but chests that have dropped over in Erisia would contain items such as Legion Cestus or Pathfinder Arch-Sorcerer schematics.
+Chests are in-game boxes that spawn at the end of every event (excluding faction fights) or after finishing off a monster/NPC in the Etrean Luminant or Depths. They contain loot ranging from general items, [armor pieces](Outfits.md), outfit schematics, and very rarely, enchanted weapons or armors. The chests contents depends solely on the location of the chest (from what we know there is no way of increasing the chances of rare items to occur in chests). For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in Erisia would contain items such as the Legion Cestus or the Pathfinder Arch-Sorcerer schematic.
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
@@ -30,7 +30,7 @@ The color of a chest depends on where you got it from, consisting of four variat
 
 -   A brown chest with silver metal parts, found commonly in the Etrean Luminant.
 -   A gold chest with gold metal parts, found commonly in the East or from turning in pure ores.
--   A cyan chest with green-white metal parts, found commonly in the Depths.
+-   A cyan chest with green-white metal parts, found commonly in the Depths/Boss Fights.
     -   This chest, along with the gold chest, can also be found through fishing.
 -   A neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 

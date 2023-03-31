@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 58211
+revid: 58223
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Nautilodaunt before showing a Canor what it's like to evolve diagonally
 
-_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Squiboss_
+_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Nautilus_
 
 **Nautilodaunt:**
 
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the [Depths](The_Depths.md). It spawns in City of the Drowned and drops Odd Tentacles or [Elite Pathfinder Cloaks](Pathfinder_Elite.md) (Very rarely).
+The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the [Depths](The_Depths.md). It spawns in City of the Drowned near a point resembling a marketplace. It has a chance to drop Odd Tentacles or [Elite Pathfinder Cloaks](Pathfinder_Elite.md) (Very rarely).
 
 It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds.
 
@@ -65,7 +65,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and 
 
 Nautilodaunts have been described by the best of players, testers, mods, and even developers as the _most dangerous_ [monster](Monsters.md) in the entire game.
 
-Statwise, theirs are actually very low, nowhere near as close to [Primadon](Primadon,_Titan_of_the_East.md), [Dread Serpent](Dread_Serpent.md), or even [The Enforcer](Enforcer.md). It has a mere 1000 health, identical to a Megalodaunt, and at higher levels, PVE scaling can easily make this in the 400-500~. Additionally, its damage is quite low as compared to something like Primadon's stomps. However, what Nautilodaunt lacks in health, it makes up for it with a horrifying amount of intelligence, the largest array of abilities and attacks in the entire game, mix-up potential that would throw off even the best players, and the ability to **block, parry and dodge.**
+Statwise, theirs are actually very low, nowhere near as close to [Primadon](Primadon,_Titan_of_the_East.md), [Dread Serpent](Dread_Serpent.md), or even [The Enforcer](Enforcer.md). It has a mere 1000 health, identical to a Megalodaunt, and at higher levels, PVE scaling can easily make this in the 400-500~. Additionally, its damage is quite low as compared to something like Primadon's stomps. However, what Nautilodaunt lacks in health, it makes up for it with a horrifying amount of intelligence, the largest array of abilities and attacks in the entire game, mix-up potential that would throw off even the best players, and the ability to **parry, block, vent, and dodge.**
 
 No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 

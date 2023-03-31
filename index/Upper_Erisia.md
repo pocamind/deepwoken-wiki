@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 58128
+revid: 58215
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -58,7 +58,7 @@ Events that spawn in Upper Erisia that typically do not involve combat. For more
 
 ## Natural Hazards
 
-Upper Erisia is home to many diffrent natural hazards. You must be careful while travelling there.
+Upper Erisia is home to many diffrent [natural hazards](Environmental_Hazards.md). You must be careful while travelling there.
 
 -   Many cliffs and ledges that you can easily fall off of if you're not careful of where you step. (It is highly recommended to bring a [glider.](Gliders.md)) **Some trees look like solid, grass ground from the top view.** However, if you step on them and if you are unlucky, you will fall down and take lots of fall damage.
 -   Acid rain will occur once in a while. Be careful as it drains your health bar fairly quickly.

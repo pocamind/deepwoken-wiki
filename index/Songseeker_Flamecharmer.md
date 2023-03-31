@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 57187
+revid: 58230
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -66,6 +66,7 @@ Flame Assault
 User dashes forward covered in flames; hitting anyone in their path.
 
  | ◯ | ◯ | (★★☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### **Boons:**
 
