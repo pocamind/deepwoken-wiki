@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 58024
+revid: 58312
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -35,4 +35,5 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the N
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
 -   It can be alloyed into the **Alloyed Longspear.**
--   • Gremorian Longspear crit now deals +15% chip damage.
+-   Gremorian Longspear crit now deals +15% chip damage.
+-   Critical attack reels players in and stuns them even if they block it.

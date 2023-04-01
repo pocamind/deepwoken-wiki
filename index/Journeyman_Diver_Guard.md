@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 58303
+revid: 58310
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -57,3 +57,4 @@ A Journeyman Diver executes it's opponent after knocking them:
 -   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeymen Divers due to their presence contradicting the established low number and high power level of actual Black Divers.
 -   They use the Magnet Spark variant of Jolts Grab.
 -   When they were added to the game, players were limited to two Attunements at a time, making them the only ones in the entire game capable of using all four.
+-   They can vent now.

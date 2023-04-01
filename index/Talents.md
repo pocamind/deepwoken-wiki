@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58307
+revid: 58327
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -369,6 +369,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Charm Caster
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
+    -   Prerequisite 55 Charisma
 
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma

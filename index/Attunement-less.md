@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 57813
+revid: 58326
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -418,6 +418,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
 -   Dash forward and do a large AOE slice with your sword.
+-   Allows for move stacking an M1 strike which 100% guarantees the stacked M1.
 
  |
 

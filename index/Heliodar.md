@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 56371
+revid: 58332
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 Rise from the ashes and be born again.
 
-Chance of obtaining race: **0%**
+Chance of obtaining race: 0%
 
 ## Description
 

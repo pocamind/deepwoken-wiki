@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58293
+revid: 58329
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -653,6 +653,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   A very strong oath, it alters the playstyle of the game however.
 -   Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
 -   There is an unknown damage buff source from using Silentheart.
+-   You now press Ctrl + M2 instead of the before Ctrl + M1.
     
 
 ## Lore Oaths:

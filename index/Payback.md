@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 42561
+revid: 58308
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -66,4 +66,5 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 -   This resonance was formerly known as "Full Counter".
 -   The best way to counter variant 2 payback resonance is by using variant 1 payback. This usually will mess them up real bad.
 -   Prediction mantra but better with a higher duration.
+-   You can't I-Frame fall damage
 -   "Achieve infinite dmg!" -some lazer ppl in deepwoken dev
