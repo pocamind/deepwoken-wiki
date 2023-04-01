@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58277
+revid: 58293
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -741,9 +741,8 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
--   You can sacrifice yourself to get Linkstrider.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
--   The devs has confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths.
+-   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
 -   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   Though Oathless is meant to suggest what it's named. It is completely contradicted by the fact that it involves taking it as an Oath. The only true occurrence of being Oathless is by being a Pathfinder. So try not to fall for the braindead arguments stating that it's supposed to be useless. Even if they are backed up by the developers themselves, even they are completely contradicted by what they argue against.

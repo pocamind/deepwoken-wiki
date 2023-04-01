@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58191
+revid: 58307
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -48,6 +48,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Conditioned Runner_ **or** _Fishman_.
 -   _Eruption Path: Lava Serpent_ _**or** The Final Act_.
 -   _Orbital Ice_ **or** _Fists of Fortitude_.
+-   Singularity **or** Sightless Still
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -918,7 +919,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
     -   Saint Jay last for double the duration of Chill
-    -   Saint Jay does not work with Crystallization.
+    -   Saint Jay works with Crystallization, applying its effect for 2 seconds on every crystal hit.
     -   Prerequisite: Frostbite
 
 -   _Shatter Spear_ \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)

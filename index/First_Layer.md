@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 57957
+revid: 58302
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -102,7 +102,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag in the Depths trial takes 10 minutes to despawn.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
--   If you are of the Deepbound origin, then you will have to fight an Enforcer no matter what your power is.
+-   If you are of the Deepbound origin, then you will have to fight either an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md) no matter what your power is.
 
 ## **Farming in First Layer of The Depths**
 

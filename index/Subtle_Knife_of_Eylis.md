@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 50563
+revid: 58299
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -17,7 +17,7 @@ A Subtle Knife of Eylis is an NPC that can be found anywhere on the map escortin
 -   Knives of Eylis raiding an Etrean ship ([The Aratel Sea](The_Aratel_Sea.md))
 -   Knives of Eylis with a Navaen Nomad hostage ([Upper Erisia](Upper_Erisia.md))
 
-A Subtle Knife of Eylis is also always accompanied with 2 [Knives of Eylis](Knife_of_Eylis.md)'.
+A Subtle Knife of Eylis is also always accompanied with 2 [Knives of Eylis](Knife_of_Eylis.md).
 
 A Subtle Knife of Eylis' appearance consists of a [Whaler Coat](Whaler_Coat.md) outfit and an assortment of stolen accessories with their [race](Aspects.md) and gender varying.
 

@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 58282
+revid: 58297
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -47,11 +47,11 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 ## NPC
 
-**Karliah:** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
+**[Karliah](Karliah.md):** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
 
-**Pleeksty:** Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is currently residing in the third layer of the depths, he consumed a part of the Drowned god of fire Korilfiend in the form of a flower, giving him inmortality, and also being able to become the first Flamecharmer. He created the group "The covenant of Flame" a group of passionate flamecharmers who wish to follow the same path as Amorus Pleeksty studying his books and practicing his teachings such as the Flame Within, but Pleeksty only sees them as a fan club. Despite his tremendous power and age, he is described as a "chill" guy, meaning that if anyone meets with him, Pleeksty will most likely be very pacific.
+**Pleeksty:** As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is currently residing in the third layer of the depths, he consumed a part of the Drowned god of fire Korilfiend in the form of a flower, giving him inmortality, and also being able to become the first Flamecharmer. He created the group "The covenant of Flame" a group of passionate flamecharmers who wish to follow the same path as Amorus Pleeksty studying his books and practicing his teachings such as the Flame Within, but Pleeksty only sees them as a fan club. Despite his tremendous power and age, he is described as a "chill" guy, meaning that if anyone meets with him, Pleeksty will most likely be very amicable.
 
 **[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the second Prophet of [the Ministry](The_Ministry.md), to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but revealed he had betrayed The Divers and with the help of the Kyrsgarde, killed all the Divers who went on him in the original expedition he was apart of as well as the Divers that were involved in expeditions following that one. Technically Ministry aligned.
 
@@ -59,7 +59,9 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 [**Gudrin**](Reputation.md): Removes hostilities with Apprentice Divers and Divers. (Reset your reputation towards The Divers)
 
-**Carrion, Father of Evolution (Dr. Diver):** Carrion, or also known as Dr. Diver, is a Ganymede Black Diver who is very skilled in terms of Alchemy and of Science, being able to give people the abilities of certain monsters at the cost of their certain parts, despite being a Black Diver, he is the leader of the Apothecary, a group based on the creation and reserch of potions and some other scientific topics,. His combat skills are unkown for now, but his objective is to create the Moonseye vigor, and be able to "Trascend" everyone by drinking this potion, Carrion already drank a prototype of the moonseye vigor, that lead him to madness and to give him green eyes. He is currently residing in Castle light, also seen in the great library of New Kyrsa, probably researching to create a new Moonseye vigor. Apparently he doesnt care much for the events of Layer, being able to prioritize his research of the moonseye vigor, that preventing the awaken of a drowned god that could drown the whole Lumen. This event, alongside Klaris dialogue, tells us that Carrion prioritize his research towards anything, giving little to no care about any major events in the game that doesnt influence his research.
+**[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion, or also known as Dr. Diver, is a Ganymede Black Diver who is very skilled in terms of Alchemy and science, being able to give people the abilities of certain monsters at the cost of their certain parts. Despite being a Black Diver, he is the leader of the Apothecary, a group based on the creation and research of potions and some other scientific topics, that was removed from the Divers due to the actions of undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor, and be able to "Transcend" everyone by drinking this potion, Carrion already drank a prototype of the Moonseye Vigor, that lead him to madness and gave him green eyes. He is currently residing in Castle light, also seen in the great library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently he doesn't care much for the events of Layer, instead choosing to prioritize his research of the Vigor, rather than preventing the awakening of a drowned god that could destroy Lumen. This event, alongside Klaris dialogue, tells us that Carrion prioritize his research towards anything, giving little to no care about any major events in the game that doesn't influence his research.
+
+**Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's manager.
 
 ## Trivia
 

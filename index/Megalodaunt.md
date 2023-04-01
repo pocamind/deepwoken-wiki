@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 57984
+revid: 58296
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -345,3 +345,4 @@ A Megalodaunt swimming.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
 -   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
+-   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.

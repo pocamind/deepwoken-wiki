@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 58090
+revid: 58289
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -30,12 +30,12 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 ### Docks
 
 -   A functional port with a Shipwright to spawn, craft or recall your [boats](Ships_&_Sailing.md).
--   Guarded by an Authority Peacekeeper and an [Authority Lieutenant](Authority_Lieutenant.md).
+-   Guarded by an [Authority Peacekeeper](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
 
 ### Prison
 
 -   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier, as well as the [Shrine of Temptation](Deep_Shrines.md).
--   Heavily patrolled by Authority Peacekeepers.
+-   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   The Authority Warden can be found in an office in the prison.
 -   Potential to find [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and [Navaen Nomad](Navaen_Hostage.md) hostages.
 
@@ -72,11 +72,10 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 Bellow is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
--   Gartoth
 -   [Brutus](Brutus.md) (Fortitude Uncap)
 -   Innkeeper (Sets spawn)
 -   [Guild Clerk](Guilds.md) (Guild stuff)
--   [Kana](Kana.md)
+-   Kana
 -   [Banker](Artifacts.md) (Artifact returns)
 -   Kiternon
 -   [Antiquarian](Antiquarian.md) (Selling)
