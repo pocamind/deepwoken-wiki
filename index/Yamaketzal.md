@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 51930
+revid: 58359
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -61,3 +61,7 @@ _"Hrmm... <number of battles won> tourneys won out of <total number of battles> 
     -   **1\. \[Alright, here you go.\]**
     -   2\. \[Nope.\]
 -   _Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... **\*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.\***_
+
+## Trivia
+
+-   His favorite drink is grape juice

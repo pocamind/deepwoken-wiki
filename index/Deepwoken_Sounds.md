@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 57994
+revid: 58374
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -114,6 +114,7 @@ Boss Theme
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | N/A | Ash For The Altar | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
+| N/A | To Sleep, Layer 2 Bell | 1:45 | Main Menu Theme for 2023 April Fools | File:To Sleep, Layer 2 Bell.mp3 |
 
 ## Sound Effects
 

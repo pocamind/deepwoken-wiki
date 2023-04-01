@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 58345
+revid: 58352
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics]
@@ -26,6 +26,33 @@ To use the Crafting Table, you must click E within a certain proximity of it, ca
 You can avoid using the crafting station with the talent "Master Craftsman", making it easier for you to craft without having to go to Etris or Isle of Vigils
 
 A few items you build here must be learned with a Schematic.
+
+## Locations
+
+### [Etris](Etris.md)
+
+-   Next to the fishmonger's settlement @ [Etris Docks](Etris_Docks.md)
+-   Within the General store @ [Etris](Etris.md)
+
+### [Isle of Vigils](Isle_of_Vigils.md)
+
+-   Inside the inn
+-   At the cottage hosting attunement training items
+-   Nearby the blacksmith @ [Temple of the Blade](Temple_of_the_Blade.md)
+
+### [Guild base](Guild_Bases.md)
+
+-   Appears in the Quarry
+
+### [Summer Isle](Summer_Isle.md)
+
+-   At Con's Pawn
+-   One's in the inn
+
+### [Greathive Aratel](Greathive_Aratel.md)
+
+-   Next to the Blacksmith @ Heart Plaza
+-   (I think) Nearby the shipwright
 
 ## Trivia
 

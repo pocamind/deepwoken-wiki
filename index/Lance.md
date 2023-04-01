@@ -1,12 +1,16 @@
 ---
 title: Lance
-revid: 51754
+revid: 58367
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Food, Vendors]
 ---
 
 # Lance
+
+| Lance Leshi | |
+|---|---|
+| location | Etris |
 
 “ LANCE LESHI. ”
 

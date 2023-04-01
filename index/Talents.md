@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58327
+revid: 58351
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1912,7 +1912,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Enemies who knock you restore only half of the posture and health they would normally obtain.
     -   Prerequisites: [Power](Power.md) 3
 
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when bellow 20% HP) (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1
 
 -   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.

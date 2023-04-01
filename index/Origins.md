@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 58078
+revid: 58356
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -8,7 +8,7 @@ categories: [Character, Mechanics, Creation]
 
 # Origins
 
-Origins are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen.
+Origins are a feature in _Deepwoken_ which provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These affect how you play the game in different ways.
 
 ## Castaway
 
@@ -17,6 +17,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > ― Flavor Text
 
 **Obtainment:** Unlocked by default.
+
+**Castaway** is the default, intended way to play the game. It got no restrictions and no benefits.
 
 -   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 -   Begin with nothing but [Stranded](Stranded.md) and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
@@ -31,6 +33,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > ― Flavor Text
 
 **Obtainment:** Find and enter the [Trial of One](Trial_of_One.md), at [Minityrsa](Minityrsa.md), as a Power 1 character, and successfully defeating the halfway point of the trial, which is the [Thresher](Thresher.md).
+
+**Lone Warrior** give players a convenient way to access Trial of One from the get go, allowing them to kickstart their progression.
 
 -   You spawn at [Minityrsa](Minityrsa.md).
 -   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
@@ -48,20 +52,22 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 
+**Deepbound** grant the player a convenient way to progress primarly in The Depths, with many benefits to make it much easier. However, they are not forced to stay in The Depth, but Deepbound Contract will attempt to stop players from leaving The Depths too early.
+
 -   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
--   You can receive unique dialogue from [Lord Regent](The_Lord_Regent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Akira](Akira.md).
+-   **\[PRO\]** Increased EXP Gain while below power 15.
 -   Grants innate Talent "Deepbound Contract".
-    -   **\[PRO\]** Increased EXP Gain in the Depths...
+    -   **\[PRO\]** Increased EXP Gain in the Depths (Layer 1 and 2)...
     -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
+    -   **\[PRO\]** You regain sanity in Castle Light.
+    -   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md).
+        -   A Nautilodaunt may spawn in the Depths trial.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light
     -   Can cook at the oven (not a campfire) in Castle Light
--   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
--   **\[PRO\]** You gain more bell progress from killing monsters in the depths.
--   **\[CON\]** Depths Trial will always be [The Enforcer](Enforcer.md). Killing one at Power 1 will take 10 or so minutes.
-    -   A Nautilodaunt may spawn in the Depths trial.
+-   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths depending on their health
 -   **\[CON\]** You cannot do Trial of One.
 
 ## Voidwalker
@@ -74,37 +80,30 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
--   Your starting location is [The Voidheart](Voidheart.md).
-    -   [The Voidheart](Voidheart.md) is an area exclusively for Voidwalkers, accessibly only via the Voideye or failing a Grasp of Eylis hunt.
-    -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Void eye after.
+**Voidwalker** grant player a convenient, PVP focused style of progression, greatly favoring killing bounty targets for EXP. However, they are not prevent from partaking in PVE. Events however, will provide less EXP
+
 -   Grants the innate talent "Voidwalker Contract"
+    -   Your starting location is [The Voidheart](Voidheart.md).
+        -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Void eye after.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
-    -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md)...
-    -   **\[PRO\]** ...but start with positive reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
--   Grants the innate talent "Grasp of Eylis"
+    -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
+    -   **\[PRO\]** ...but start with negative reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
+-   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.
     -   **\[CON\]** If your target runs too far away and is no longer in combat, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
-    -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
-    -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
-    -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
-    -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by someone, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
--   **\[PRO\]** Obtain the Void Eye, which bring you backs to the [Voidheart](Voidheart.md).
-    -   This item as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
+        -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
+        -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
+        -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
+        -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by yout target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
+-   Grants the Knives of Eylis talent "Voideye"
+    -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
+    -   This ability as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Void Eye to return to the Voidheart.
-
--   **\[PRO\]** You always spawn wearing Whaler Initiate armor.
+-   **\[PRO\]** You spawn with Whaler Initiate Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md).
-    -   In order to be placed in the Voidwalker bounty board, you must have negative reputation with at least 1 faction other than [The Ministry](The_Ministry.md) and the knives themselves. And since every player starts the game with negative reputation towards [The Hundred Legions](The_Hundred_Legions.md) and the [Authority](The_Central_Authority.md), the bounty board will usually be filled as nobody usually care about their reputation with these factions.
-        
-
-“ the amount of meatriding these boosted Knives of Eylis idiots have on me, holy sh- ”
-
-― a Celtor angering the faction by massacring waves of voidwalkers
-
-  
 
 ## Upcoming Origins
 

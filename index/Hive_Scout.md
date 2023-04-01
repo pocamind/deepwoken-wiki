@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 56283
+revid: 58361
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -49,7 +49,11 @@ Critical
 Fire Blade
 
  | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
-| Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★★☆) |
+| 
+
+Flame Assault
+
+ | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★★☆) |
 
 #### Boons
 

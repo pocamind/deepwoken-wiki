@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 57710
+revid: 58386
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1644,6 +1644,7 @@ Though technically a blank slate of varying races and abilities, even the player
 -   They are a "Drowned," people with more connections to The Depths than usual.
 -   When they become strong enough, they get the talent card of the Sound from Below that states that something in The Depths is calling you as if they were tied to the depths since the beginning.
 -   The description of Erisor's church implies that the Player knew of a figure named "Erisor."
+-   Destroyman III claims to be the player's twin brother.
 
 ### Castaway
 

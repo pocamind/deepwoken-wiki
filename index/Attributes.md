@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 57197
+revid: 58350
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -54,6 +54,7 @@ _**NOTE 2: For unexperienced or new players: experimentation is the best way to 
 -   Resilience against threats. _Increases **Health** slightly per point._
     -   Adds 0.5 HP to your character for every Fortitude point.
     -   100 Fortitude will grant you 50 HP.
+    -   Does **not** add damage resistance.
     -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
         -   _These helmets tend to have better stats than those without a fortitude requirement._
 -   Unlocks Fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
