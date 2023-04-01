@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 57429
+revid: 58340
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -53,6 +53,8 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 Affected targets takes 2x posture damage, take 25% more damage and are forced out of/can't use tacet for 10 seconds.
 
 This ability does not scale on Power, therefore, it will always cost ether.
+
+basicly conqueres haki
 
 ## Murmur: Tacet
 
