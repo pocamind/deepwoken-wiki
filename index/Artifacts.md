@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 55070
+revid: 58504
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -45,7 +45,7 @@ A Celtor finding the pulsating rings.
 -   They despawn after 1 hour.
 -   Be careful when bringing this to the bank. Most of the time when players see you with this, they will try to kill you so they can get their hands on the Artifact since it gives very good rewards. Stay out of sight and stay safe.
 -   If found, it's recommended to take the Artifact to the [Isle of Vigils](Isle_of_Vigils.md) rather than [Etris](Etris.md), As the [Isle of Vigils](Isle_of_Vigils.md) is closer to [Erisia](Erisia.md), its Bank is closer to the Docks, and it's less traveled by in comparison to [Etris](Etris.md).
--   Before the loot was buffed, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed and [luck](Luck.md) now being granted, it's highly sought after again.
+-   Before the loot was buffed, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed ~and [luck](Luck.md) now being granted~ (luck has been removed from the game), it's highly sought after again.
 -   Anyone standing near your whilst you turn in the Artifact will also receive exp.
 -   Dropping it in the ocean causes them to sink and be lost.
 -   The Banker refers to an artifact as "A Piece of the forge". This may be related to the "Forge of Sin" Lord Regent refers to.

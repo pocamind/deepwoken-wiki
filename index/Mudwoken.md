@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 58428
+revid: 58506
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, April Fools]
@@ -20,7 +20,7 @@ Mudwoken was an update pushed on April 1st, 2022. This was an update made as a j
 
 **Mudskippe Guard**
 
-You are able to use any weapon just like a mudskipper. You can also wear armor and do anything a normal player can, just as a mudskipper.
+You are able to use any weapon just like a normal player. You can also wear armor and do anything a normal player can, just as a mudskipper.
 
   
 

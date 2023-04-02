@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 58457
+revid: 58496
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -52,7 +52,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 
-**Deepbound** grant the player a convenient way to progress primarly in The Depths, with many benefits to make it much easier. However, they are not forced to stay in The Depth, but Deepbound Contract will attempt to stop players from leaving The Depths too early.
+**Deepbound** grants players a convenient way to progress primarly in The Depths, with many benefits to make it much easier. However, they are not forced to stay in The Depth, but Deepbound Contract will attempt to stop players from leaving The Depths too early.
 
 -   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
 -   **\[PRO\]** Increased EXP Gain while below power 15.
@@ -80,7 +80,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
-**Voidwalker** grants players a convenient, PVP focused style of progression, greatly favoring killing bounty targets for EXP. However, they are not prevent from partaking in PVE. Events however, will provide less EXP
+**Voidwalker** grants players a convenient, PVP focused style of progression, greatly favoring killing bounty targets for EXP. However, they are not prevented from partaking in PVE. Events however, will provide less EXP. It is not uncommon however for players to take this origin just for its utilities and the inability to get invaded by Voidwalkers.
 
 -   Grants the innate talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
@@ -88,7 +88,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
     -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
-    -   **\[PRO\]** ...but start with negative reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
+    -   **\[PRO\]** ...but start with neutral reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.
@@ -126,6 +126,5 @@ The following is speculation:
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat.
-
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)

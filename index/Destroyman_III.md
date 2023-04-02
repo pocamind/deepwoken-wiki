@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58487
+revid: 58520
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Destroyman III appears to be a ~miniature [Megalodaunt](Megalodaunt.md)~ Drowned God that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen time to time, alternating from left to right.
+Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen time to time, alternating from left to right.
 
   
 
@@ -114,7 +114,7 @@ Destroyman III appears to be a ~miniature [Megalodaunt](Megalodaunt.md)~ Drowned
 
 \- TIP: Why are you still playing this game? Go outside.
 
-\-TIP: Yamaketzal's favorite drink is grape juice
+\- TIP: Yamaketzal's favorite drink is grape juice
 
 \- AD BREAK: Corporations have no soul.
 
@@ -156,13 +156,13 @@ Destroyman III appears to be a ~miniature [Megalodaunt](Megalodaunt.md)~ Drowned
 
 \- Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
 
-\-Condiments are calories... never forget that.
+\- Condiments are calories... never forget that.
 
 \- ...I should buy a boat.
 
-\-TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
+\- TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
 
-\-Erm...
+\- Erm...
 
 \- Never go to after-parties. Just go home.
 
@@ -171,6 +171,28 @@ Destroyman III appears to be a ~miniature [Megalodaunt](Megalodaunt.md)~ Drowned
 \- TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
 
 \- Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
+
+\- Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
+
+\- You, uh.. you doin' good? I'm not asking because i care, I'm asking because i was coded to.
+
+\- They were just minding their own business! Come on!
+
+\- Issues, Much?
+
+\- Could've talked it out. Jeez.
+
+\- This is normal for you? Cool.
+
+\- HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
+
+\- TIP: I hate you with all my hate.
+
+\- This is what sucks about videogames nowadays. It takes way too long to get to the fun part.
+
+\- If you were hoping you could uninstall me, I have bad news.
+
+\- Yawn... Can you do something like, interesting?
 
 ## Trivia:
 

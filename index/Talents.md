@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58351
+revid: 58505
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -405,7 +405,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hitted. If they are blocking while you are draining their hp, the drain will be cut in half.)
+-   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff heals them slightly.
