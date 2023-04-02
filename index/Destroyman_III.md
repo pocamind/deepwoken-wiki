@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58539
+revid: 58559
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -196,6 +196,12 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- Yawn... Can you do something like, interesting?
 
+\- Ok, that one was deserved.
+
+\- TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
+
+\- ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
+
 ## Trivia:
 
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
@@ -211,6 +217,8 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, and is currently unemployed.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
+-   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQ-tR2w](https://youtu.be/nVm0QQ-tR2w))
+-   The sound played when Destroyman III first appears comes straight from No More Heroes
 
 ## Gallery
 

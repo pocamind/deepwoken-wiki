@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 51536
+revid: 58550
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1, Locations]
@@ -12,7 +12,7 @@ Template:AreainfoboxThe Chariot's Spire is an [Ignition Union](The_Ignition_Unio
 
 ## Entrance Path
 
-The entrance to The Chariot's Spire contains a large gate, with a barrier similar in appearance to the one in Castle Light within it. Unlike Castle Light, this barrier does not reflect you if you did not enter the Depths via whirlpool. What this barrier does reflect is currently unknown. To enter The Chariot's Spire from here, you must find a broken ladder after passing through the gate and jump onto it.
+The entrance to The Chariot's Spire contains a large gate, with a barrier similar in appearance to the one in Castle Light within it. ~Unlike Castle Light, this barrier does not reflect you if you did not enter the Depths via whirlpool.~ This barrier WILL reflect you if you die to get into the depths. To enter The Chariot's Spire from here, you must find a broken ladder after passing through the gate and jump onto it.
 
 ## First Floor
 
