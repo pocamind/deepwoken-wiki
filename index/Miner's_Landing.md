@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 55988
+revid: 58545
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]

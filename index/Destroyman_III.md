@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58520
+revid: 58539
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,6 +41,8 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 \- I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
 
 \- Ok, back to the dog race.
+
+\- Every good thing that happens to you in this game is pre-planned like a show. There's an audience waiting for your downfall.
 
 \- I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 
@@ -208,6 +210,7 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, and is currently unemployed.
+-   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 
 ## Gallery
 

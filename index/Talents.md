@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58505
+revid: 58547
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1490,7 +1490,7 @@ Prerequisite: Charisma
 ### Soverign of Slaughter
 
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
-    -   Prerequisite: Speak to Yamaketzal
+    -   Prerequisite: Speak to Yamaketzal, lvl 5
 
 ### Static Weaver
 

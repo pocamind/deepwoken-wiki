@@ -1,6 +1,6 @@
 ---
 title: Broken Gatling Gun
-revid: 58137
+revid: 58531
 source: https://deepwoken.fandom.com/wiki/Broken_Gatling_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ categories: [Items]
 |---|---|
 | value | 75 |
 | weight | Placeholder |
-| type | Placeholder |
+| type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

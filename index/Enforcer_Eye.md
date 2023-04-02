@@ -1,22 +1,27 @@
 ---
 title: Enforcer Eye
-revid: 56523
+revid: 58529
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Monster Mantra Ingredients]
+categories: [In progress without reason, InProgressPages, Monster Mantra Ingredients]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Enforcer Eye
 
+| Enforcer Eye | |
+|---|---|
+| value | Placeholder |
+| weight | Placeholder |
+| type | Monster Material |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+
 “ An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item... ”
 
 ― Enforcer Eye's Description
-
-File:Image 2022-12-23 152246539.png
-
-Enforcer Eye in inventory.
 
 ## Description
 

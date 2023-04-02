@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 58503
+revid: 58540
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -24,9 +24,9 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunementless sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunementless are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunementless mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way.
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunementless sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunementless are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunementless mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way (Like men and women).
 
-In spite of it's shortcomings, the potential of Attunementless is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunementless Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone.
+In spite of it's shortcomings, the potential of Attunementless is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunementless Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to it's fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
 
 ## Attribute Mantras
 
@@ -69,6 +69,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
     <li>A flurry of punches that inflicts light damage on your opponent.</li>
     <li>The move is cancelled upon getting parried in the initial hit.</li>
+    <li>The user may cancel the barrage at any point during it.</li>
+    <li>The user may "Step" by pressing W2x during the move to restore movement speed.</li>
+    <li>Victims struck by the last punch are pushed away.</li>
   </ul></td>
 </tr>
 <tr>
@@ -159,8 +162,8 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
 -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
 -   Deals light damage.
--   The charge is cancelled upon getting parried.
--   Can break parts of the map.
+-   The charge is cancelled upon getting parried or dodged.
+-   Can collide with and break parts of the map.
 
  |
 
@@ -179,7 +182,7 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 
 -   **Requirements:** _**5 Agility,**_ _Combat Mantra_
     -   A quick dash signified by a red-line effect.
-    -   The move only teleports you forwards upon hitting an opponent.
+    -   The move teleports you forwards only upon hitting an opponent.
     -   Teleports the user some distance forward upon activation.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
     -   Scales with the user's Power Level and Agility Attribute.
@@ -199,6 +202,7 @@ File:Dash Mantra Demonstration.gif
 -   **Requirements:** _**40 Agility,**_ _Mobility Mantra_
     -   Sends the user a considerable distance forward.
     -   Range significantly decreases as the user loses health.
+    -   Canceled by attacking.
     -   **UNKNOWN IF UPGRADING MAKES YOU DASH FURTHER, NEEDS TESTING**
 
  |
@@ -308,6 +312,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
     -   If this fills the opponent posture bar, guard break them instantly (even if they werent blocking)
+    -   Incredibly quick windup
 
  |
 
@@ -404,6 +409,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
     -   A spinning double slice with your sword.
     -   Deals Chip Damage.
+    -   Deals knock back
 
  |
 | 
@@ -418,7 +424,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
 -   Dash forward and do a large AOE slice with your sword.
--   Allows for move stacking an M1 strike which 100% guarantees the stacked M1.
+-   Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.
 
  |
 
@@ -436,7 +442,9 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**30 Heavy Weapon,**_ _Combat Mantra_
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Dazes opponents on hit.
+    -   Ragdolls and lightly flings opponents away
     -   (cant be upgrade with perfect lenses)
+    -   Deals pitiful damage.
 
  |
 | 
