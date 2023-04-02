@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58395
+revid: 58487
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,15 +10,45 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Destroyman III | |
 |---|---|
 
+“ Your Life is as valuable as a summer ant. You're gonna keep killing us till you die. Why? Because you still want that exp. Your purpose in Life is to kill Megalodaunts. You should grip yourself... NOW! ”
+
+― Destroyman III
+
 ## Description
 
-Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever from a Megalodaunt that used Coral Spear on you.
+Destroyman III appears to be a ~miniature [Megalodaunt](Megalodaunt.md)~ Drowned God that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen time to time, alternating from left to right.
+
+  
 
 ## Quotes
 
 \- Thank you for contracting \[ CORAL FEVER \] ! I'm your new personal assistant, Destroyman III. I'll be giving you helpful tips and tricks!
 
+\- HINT: DIE!!
+
 \- Flamecharm? Daring today, aren't we?
+
+\-You know I'm really good friends with The Guy right? I bet you're jealous.
+
+\- AD BREAK: selling cbow 2k
+
+\- Does this game upset you? Me too.
+
+\- HINT: The sorcerer has harmed me once more.
+
+\- HINT: If you shower, there's a higher chance of you finding happiness. Try it out sometime.
+
+\- I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
+
+\- Ok, back to the dog race.
+
+\- I can tell you've never churned butter before. Look at you. Churnless, pathetic.
+
+\- You want some congratulations?
+
+\- If you die in deepwoken, you go to hell.
+
+\- There is more to life than videogames. Developing hobbies can bring happiness.
 
 \- They aren't getting back up, are they?
 
@@ -30,13 +60,47 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- TIP: Birds aren't real.
 
+\- HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
+
 \- HINT: This game is awful. The developers really suck.
 
 \- I had a pet fish once. His name was Rodrigo. I was real hungry though, so...
 
 \- TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
 
+\- I like to relieve my stress by taking a walk. Try that instead of killing.
+
+\- TIP: Every copy of Deepwoken is personalized.
+
+\- HINT: The strength of the Megurger comes from the concept, not the physical object.
+
+\- AD BREAK: Stream Naktigonis. Please. You know you want to.
+
+\- I'm the Mario of this duo. You're the Luigi. You're the secondary. I'm the main star.
+
 \- TIP: When was the last time you picked up a book? No, weapon manuals don't count.
+
+\- TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant.
+
+\- Moe..
+
+\- I'm hungry. Like, I really could go for some rigatoni right now.
+
+\- HINT: I should be rising in the sky...
+
+\- They should add Freddy Fazbear to this game.
+
+\- Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, I was just singing the menu theme.
+
+\- TIP: Deny his Ticket. Do it! It's april 1st! PRANK. HIM. FALSEBAN HIM.
+
+\- Mudwoken? What are you talking about? That's so 91 years ago. Get with the times.
+
+\- When's that Ethiron theme coming along anyway?
+
+\- Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
+
+\- Seriously? You're wearing those boots with that hat? Yikes.
 
 \- TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong - and there's nothing you can do about it.
 
@@ -52,18 +116,79 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \-TIP: Yamaketzal's favorite drink is grape juice
 
-Trivia:
+\- AD BREAK: Corporations have no soul.
 
-The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." is in reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
+\- TIP: Overconfidence is a slow and insidious killer.
 
-The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
+\- Don't you get tired of being nice?
 
-The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
+\- HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
 
-He is based off a sticker in the discord drawn by (Name)
+\-TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
 
-He seems to be a parody of old desktop assistants of the late 1990's particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be Ad-Ware
+\- So... come here often?
 
-Despite being a physical virus he refers to being coded
+\- TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
 
-~Destroyman is NOT allowed to edit this page~ You're not my mom.
+\- TIP: Even when I leave this place, I will continue to live in your memory. I'm not paying rent.
+
+\- Please join my fireteam. We're running a raid and need one more.
+
+\- Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
+
+\- TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play - a cup of coffee costs around 1,000 streams.
+
+\- Y'know I'm real good friends with The Guy. Bet your jealous.
+
+\- HINT: I write down all of your balance complaints to engineer them to be even worse.
+
+\- If you don't feed me, I will die. Can you live with that guilt?
+
+\- The path to becoming a first-rater is long and difficult. You are still just a third rater.
+
+\- TIP: Sesame oil is great in stirfries. Remember that.
+
+\- TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
+
+\- I could end you in one hit if I really wanted to. Watch your back.
+
+\- AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !
+
+\- Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
+
+\-Condiments are calories... never forget that.
+
+\- ...I should buy a boat.
+
+\-TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
+
+\-Erm...
+
+\- Never go to after-parties. Just go home.
+
+\- HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
+
+\- TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
+
+\- Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
+
+## Trivia:
+
+-   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
+-   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
+-   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless- POWERLESS- outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside- which you do, no looking at the wiki doesn't count- and yet, he is bound to it, dies without it. Weak.)_
+-   He is based off a sticker in the discord drawn by Sycne.
+-   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.
+-   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
+-   Despite being a physical virus, he refers to being coded.
+-   ~Destroyman is NOT allowed to edit this page~ You're not my mom.
+-   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Mario 64 is personalized" Creepypasta
+-   Destroyman III plays Super Mario Brothers apparently.
+-   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
+-   It is implied by several tooltips that Destroyman III is in debt, and is currently unemployed.
+
+## Gallery
+
+Celtor infected by the Coral Fever
+
+The Game's Thumbnail for April Fool's Day 2023

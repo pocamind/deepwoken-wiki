@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 57095
+revid: 58455
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -48,14 +48,21 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 
 | **Item** | **Price** |
 | --- | --- |
-| Steel Maul | 7 |
+| Mace | 7 |
 | Messer | 7 |
+| Steel Maul | 7 |
 | Sword | 7 |
 | Apprentice Rapier | 14 |
 | Falchion | 14 |
+| Forge Greathammer | 14 |
 | Legion Cestus | 14 |
+| Razor Cutlass | 14 |
+| Scimitar | 14 |
+| Shotel | 14 |
 | Tanto | 14 |
 | Trident Spear | 14 |
+| Pale Morning | 25 |
+| Whaling Knife | 25 |
 
 **Items:**
 
@@ -63,7 +70,8 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 | --- | --- |
 | Megalodaunt Hide | 15 |
 | Thresher Spine | 15 |
+| King Thresher Spine | 30 |
 | Lionfish scale | 15 |
 | Dark Feather | 30 |
-| Spark Gland | 10 |
 | Frigid Prism | 2 |
+| Spark Gland | 10 |

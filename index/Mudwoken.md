@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 58370
+revid: 58428
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, April Fools]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 ## Mudwoken
 
-Mudwoken was an update pushed on April 1st, 2022. This was an update made as a joke, in which every player would be a mudskipper no matter their race.
+Mudwoken was an update pushed on April 1st, 2022. This was an update made as a joke, in which every player would be a mudskipper no matter their race. Canonically Mudwoken was 91 years ago in-game from April 1st, 2023.
 
   
 

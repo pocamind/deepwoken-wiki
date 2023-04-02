@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 57681
+revid: 58463
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -131,3 +131,4 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   Artifacts are able to spawn at hive, however there are no known location of a Banker in the hive itself.
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
+-   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
