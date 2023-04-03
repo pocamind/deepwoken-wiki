@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 57359
+revid: 58587
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -96,3 +96,4 @@ A proud culture hailing from the Eastern Luminant. The people of Etris are said 
 -   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, etc)
 -   A few of the Etrean surnames end in "et," something characteristic of Adret surnames. Perhaps some Etreans and Adrets share ancestry? This could be true given that Arch\_Mage stated in the deepwoken discord that the Adrets were a mountain people.
+-   It's completely justifiable to use ESP with this race equipped as you can tell anyone confused by your insane tracking ability that you easily tasted them and there whereabouts with your slithery tongue. This IS the snake race after all and the ability to taste your victims from afar is just lore accurate. :)

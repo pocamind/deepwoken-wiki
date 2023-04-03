@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 55350
+revid: 58583
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -47,7 +47,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Halberd is a Greataxe used by the Central Authority. It utilizes a unique critical attack, running forwards before performing a 360° slash. The Halberd is also Alloyable, turning it into an endgame weapon.
+The Halberd is a Greataxe used by the Central Authority. It utilizes a unique critical attack, running forwards before performing a 360° slash. The Halberd is also Alloyable, turning it into an endgame weapon. The critical procs Spine Cutter
 
 **Alloyed:**
 

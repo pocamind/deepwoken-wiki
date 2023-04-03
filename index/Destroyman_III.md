@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58573
+revid: 58585
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -210,6 +210,7 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless- POWERLESS- outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside- which you do, no looking at the wiki doesn't count- and yet, he is bound to it, dies without it. Weak.)_
+-   The tooltip “I’m smart, you’re dumb; I’m big, your little; I’m right, your wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda (based on the Roald Dahl book) and is said by the one and only; our lord and saviour Danny Devito
 -   He is based off a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.

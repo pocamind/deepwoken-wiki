@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 58350
+revid: 58577
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -23,7 +23,7 @@ Attributes can be increased by using a respective [attribute training tool](Trai
 -   Strength -> _use the **Dumbbell**_
 -   Fortitude -> _take damage with the **Training Vest**/carry the **Boulder**_
 -   Agility -> use _the **Ankle Weights**_
--   Intelligence -> _compete problems in the **Math Textbook**/use the **Encyclopedia**_
+-   Intelligence -> _complete problems in the **Math Textbook**/use the **Encyclopedia**_
 -   Willpower -> _use the **Prayer Beads**_
 -   Charisma -> _recite the_ **How to Make Friends** _book_
 
@@ -31,7 +31,7 @@ You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) yo
 
 -   300 from **levels**.
 -   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_
--   4 from **race**.
+-   4 from **race** (excluding Lightborns).
 -   13 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
