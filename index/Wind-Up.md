@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 55935
+revid: 58575
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,3 +47,4 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   You cannot charge while you are in Tacet.
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left
 -   Especially devastating on heavy.
+-   ATTENTION! Does not proc on mantras.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58547
+revid: 58576
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -759,7 +759,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
--   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a ring of gravitaional ring of ice that absorbs 25% of the physical damage you take. The ring break after substaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
+-   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a ring of gravitaional ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
     -   Prerequisites: 20 Agility, 65 Frostdraw
 
 ### Frozen Warrior
@@ -1036,6 +1036,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
     -   Whenever you land the critical of Jus Karita, you can immediatly use it again with no delay.
         -   This effect can only happen every 10 seconds.
+        -   Despite the card saying "hitting", you do not need to damage someone to reset the cooldown (if it gets blocked, parried or dodged, it also resets it)
         -   Prerequisite: Jus Karita
 
 -   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff. (+2 Health, +1 Posture)
@@ -1550,7 +1551,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
     -   Requirements (talent): 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks, all ores other than umbrite, rocks, and the one that's from a meteorite, bambo, wax, coral, and spider eggs
+    -   Note: Allows user to eat sticks, all ores other than umbrite, rocks, and the one that's from a meteorite, bamboo, wax, coral, and spider eggs
 
 ### Survivor
 
@@ -1566,12 +1567,12 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
--   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther range, shadestepping to their location if they're too far. (+1 Passive Agility)
+-   Dustlunge \[Common Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range.
     -   Prerequisites: Shared Demise, 90 Agility
--   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids faw away from you. (+1 Passive Agility)
-    -   Pressing the V key on a knocked entity who's in close/medium range teleport you to them.
-    -   Can be used to go throught walls if you can aim at the knocked entity throught it.
+-   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
+    -   Pressing the V key on a knocked entity who's in close/medium range teleports you to them.
+    -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisite: Shared Demise, 100 Agility
 -   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
@@ -1660,7 +1661,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Thunder Brawler
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
--   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to followup on your opponent with a less potent kick. (+2 Elemental Intensity)
+-   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to follow up on your opponent with a less potent kick. (+2 Elemental Intensity)
     -   Prerequisite: 30 Thundercall, Thunder Kick
 
 ### Thunder Caster
@@ -1762,7 +1763,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 25 Agility
 
 -   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your next melee attack.
-    -   Prerequisites: 60 Galebreath
+    -   Prerequisites: 60 Galebreathe
 
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
@@ -1804,7 +1805,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +3 Health)
     -   Prerequisites: 60 Charisma, Vow of Mastery
-    -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediatly
+    -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
 
 -   Command: Run \[Common Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
     -   Prerequisites: 40 Charisma, Vow of Mastery
@@ -1975,7 +1976,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you.
     -   Prerequisite: 10 Fortitude, Using a Shield
 
--   Reinforce - Slightly increase defense and damage of yourself and any neaby allies.
+-   Reinforce - Slightly increase defense and damage of yourself and any nearby allies.
     -   Prerequisite: 50 Fortitude
 
 -   Brace - Give yourself full hyperarmor temporarily
@@ -2037,7 +2038,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Willpower Combat
 
--   Exhaustion Strike - Execute a quick strike, transfering any built up posture to your enemy.
+-   Exhaustion Strike - Execute a quick strike, transferring any built up posture to your enemy.
     -   Prerequisites: 40 Willpower
 
 #### Willpower Support
@@ -2108,7 +2109,7 @@ _Main Page - [Frostdraw](Frostdraw.md)_
 
 ### Frost Mobility
 
--   Glacial Arc \[1 Star Mantra\] - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
+-   Glacial Arc \[1 Star Mantra\] - Summons an arc of ice Infront of you used for traveling methods, deals high damage paired with cloudstones.
 -   Ice Skates \[3 Star Mantra\] - After a short wind-up, start skating only when around water. (Having Frozone makes it so you don't need to be around water in order for it to be used.)
 
 ### Shadowcast Mantras

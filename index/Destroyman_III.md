@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58559
+revid: 58573
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -202,8 +202,11 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
 
+\- HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
+
 ## Trivia:
 
+-   The tooltip "- TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)"
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless- POWERLESS- outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside- which you do, no looking at the wiki doesn't count- and yet, he is bound to it, dies without it. Weak.)_
@@ -212,13 +215,15 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   Despite being a physical virus, he refers to being coded.
 -   ~Destroyman is NOT allowed to edit this page~ You're not my mom.
--   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Mario 64 is personalized" Creepypasta
+-   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Rogue Lineage is personalized" an installation in the "[Rogue Lineage Unsolved](https://www.youtube.com/watch?v=yJJIbjqa4mE&t=13s)" series of videos by [Agamatsu](https://www.youtube.com/@Agamatsu)
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, and is currently unemployed.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQ-tR2w](https://youtu.be/nVm0QQ-tR2w))
--   The sound played when Destroyman III first appears comes straight from No More Heroes
+-   The sound played when Destroyman III first appears comes straight from No More Heroes.
+-   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes.
+-   we LOVE Destroyman III.
 
 ## Gallery
 

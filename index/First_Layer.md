@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 58302
+revid: 58562
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -85,8 +85,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
-| 1-3 | Nothing (you are sent up without a fight) |
-| 4-6.33 | [Mudskipper Knight](Mudskipper.md) |
+| 1-1.33 | Nothing (you are sent up without a fight) |
+| 1.66-6.33 | [Mudskipper Knight](Mudskipper.md) |
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |
