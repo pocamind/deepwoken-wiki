@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 58544
+revid: 58647
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -49,8 +49,10 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 
 | **Item** | **Price** |
 | --- | --- |
+| Kite Shield | 7 |
 | Mace | 7 |
 | Messer | 7 |
+| Silver Dagger | 7 |
 | Steel Maul | 7 |
 | Sword | 7 |
 | Apprentice Rapier | 14 |

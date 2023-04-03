@@ -1,9 +1,8 @@
 ---
 title: Destroyman III
-revid: 58626
+revid: 58656
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Destroyman III
@@ -205,14 +204,14 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 
-## Trivia:
+## Trivia
 
 -   The tooltip "- TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)"
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless- POWERLESS- outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside- which you do, no looking at the wiki doesn't count- and yet, he is bound to it, dies without it. Weak.)_
--   The tooltip “I’m smart, you’re dumb; I’m big, your little; I’m right, your wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda (based on the Roald Dahl book) and is said by the one and only; our lord and saviour Danny Devito
--   He is based off a sticker in the discord drawn by Sycne.
+-   The tooltip “I’m smart, you’re dumb; I’m big, your little; I’m right, your wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
+-   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   Despite being a physical virus, he refers to being coded.
@@ -220,23 +219,19 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Rogue Lineage is personalized" an installation in the "[Rogue Lineage Unsolved](https://www.youtube.com/watch?v=yJJIbjqa4mE&t=13s)" series of videos by [Agamatsu](https://www.youtube.com/@Agamatsu)
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
--   It is implied by several tooltips that Destroyman III is in debt, and is currently unemployed.
+-   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQ-tR2w](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from No More Heroes.
--   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes.
+-   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes. He could just be randomly moaning tho…
 -   we LOVE Destroyman III.
--   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to tictokers telling people to say "Stop, I don't want to be touched." Which wont help them from getting mugged.
+-   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can legally steal from you without consent”
+-   The "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" ~Is a reference from the Deltarune Character "SPAMTON" That talks in the same way substituying some words in the same way.~ While possible it’s much more likely that those are just inactive links that the line in his code calls for, it’s much more likely that this is a joke that nobody buys destroyman’s advertising
+-   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) as of writing this is actually the only official public acknowledgment of the wiki in any capacity.
 
 ## Gallery
 
-the sad tru
-
-File:FUCKYOUdestroyer.png
-
-Very mean
-
-th
+the sad truth
 
 Celtor infected by the Coral Fever
 

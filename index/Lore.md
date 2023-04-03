@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 58386
+revid: 58644
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -1693,24 +1693,30 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Animals**
 
--   The Deepwoken world was once home to many of the animals seen in the real world, but all have disappeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
+-   The Deepwoken World is home to many non-monster animals, though there is little evidence of there existence in many cases.
     -   Many animals share traits with the races seen in the game.
+        -   Steward Heidegard theorized in the 'Gremor Hypothesis' that the reason for this was due to the progenitors of each race creating Vows with other races.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
         -   _The Lament of Cirryn_ features birds heavily.
+    -   Deer are apparently hunted by the Children of Navae for unknown reasons, with it likely not being for food given they bury the bodies.
     -   Fish are the only animals that can be actively seen and interacted with
         -   The known fish species include:
-        -   At least three types of swordfish
+        -   At least four types of swordfish
         -   Sea bass
         -   Red snappers
         -   Tuna
+            -   Tuna are faster than Lionfish, thus survived.
         -   Pufferfish
+            -   Pufferfish survived Lionfish by being too poisonous for consumption.
         -   Possibly more
+    -   Due to the existence of cheese, there must be some animal being milked. The fact that only Lance's brother stocks it implies it is a foreign import of some kind.
     -   Lionfish have been a major cause for the extinction of many sea predators.
 
 ### **Guns**
 
 -   Guns are a lot weaker in the Deepwoken world compared to real life.
 -   They are considered as strong as a sword and cannot simply kill someone with a single bullet.
+-   Existed in the Old World, but lost with the Tides.
 -   Reverse engineered and redistributed by Gunsmith Rosen and the Summer Company.
 
 ### **Mental Veils**
@@ -1738,8 +1744,9 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   Consumption
     -   A common trend in Deepwoken is being able to consume parts of living things to gain their power.
         -   With Starkindred, you consume the blood of a Celestial to obtain the oath.
-        -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power
-        -   There are lotuses found in voidzones that give stat attributes when consumed as a potion.
+        -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power.
+        -   The First Prophet ate a piece of an unnamed Drowned God.
+        -   There are lotuses found in Voidzones that give stat attributes when consumed as a potion.
         -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
         -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite.
 -   Purple
