@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 57734
+revid: 58611
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,13 +8,16 @@ categories: [Pages with broken file links, Races]
 
 # Capra
 
-“ Keepers of old knowledge, they wander the lands offering their experience to those in need of it. ”
+Template:Races-Main
 
-― Race description
+_Keepers of old knowledge,  
+they wander the lands offering their experience to those in need of it._
 
-  
+Chance of obtaining race: **2.0%**
 
-Template:Races-Main  
+## Description
+
+Capras are a descendant from goats, exhibiting various goat-like characteristics such as horns, rectangular pupils and even masks the same shape as a goats skull. Capra NPC's are rarely found in the Lumin of Deepwoken and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire with each buff having more potency dependent on the race variant.
 
 ## Racial Traits
 
@@ -53,7 +56,7 @@ Template:Races-Main
 **Lore:**
 
   
-They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
+Not much has been revealed about the race but it is described to be more aware of the world around them, having old knowledge and experience to offer. They also align with three symbols or entities that are presumably the sources of their racial abilities, the Moonseye, the Mother and the First Beast.
 
 **Strengths:**
 
@@ -63,14 +66,14 @@ They are keepers of ancient secrets who travel the seas sharing knowledge with t
     
 -   +2 Willpower  
     
--   The ability to buff allies around them
+-   The ability to buff allies around them along with themselves
     
 
 **Weaknesses:**
 
   
 
--   Buffs can only be placed on other players and not yourself.
+-   Buffs cannot be applied to oneself alone.
 -   Need friends. :(
     
 

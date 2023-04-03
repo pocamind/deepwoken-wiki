@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 57878
+revid: 58616
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Arms]
@@ -8,22 +8,12 @@ categories: [Armors, Equipment, Arms]
 
 # Pathfinder Elite
 
-| Pathfinder Elite | |
-|---|---|
-| type | Arms |
-| rarity | Legendary |
-| selling price | ?? |
-| requirements | Power 15 |
-| weight | 2 |
-| innate stats | 5% Damage to monsters1-20 health/ether |
-| innate talent | NaN |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Drop from Nautilodaunt (Very Rare) |
-| description | '"..."' |
+Template:EquipmentStats
 
 ## Description
 
-The Elite Pathfinder Coat is an [Armor](Outfits.md) that's found in the "Arms" category. It's only obtainable as a very rare drop from the [Nautilodaunt](Nautilodaunt.md). It has 5 known variants, being Ash, Black, Crimson, Magenta and Sage.
+**Pathfinder Elite** is an [Armor](Outfits.md) equipment under the "Arms" category. It's only obtainable as a very rare drop from the [Nautilodaunt](Nautilodaunt.md).
+
+## Trivia
+
+-   Undoubtedly the hardest animated coat to obtain.

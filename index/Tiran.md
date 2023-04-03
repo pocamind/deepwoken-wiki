@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 57015
+revid: 58604
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -12,11 +12,10 @@ notices:
 
 Template:Races-Main
 
-"_Solitary folk seldom seen below the clouds._
+_Solitary folk seldom seen below the clouds.  
+Sharp and independent, though strongly protective of those who earn their respect._
 
-_Sharp and independent, though strongly protective of those who earn their respect._"
-
-_Chance of obtaining race: 2.1%_
+Chance of obtaining race: **2.1%**
 
 ## Description
 

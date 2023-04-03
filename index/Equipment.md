@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 58528
+revid: 58617
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2350,6 +2350,31 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 
  | Beige, Burgundy & Slate |
+| File:Pale.jpg | 
+
+Assassin's Cloak
+
+(**Series**)
+
+ | 
+
+Grants a random buff.
+
+_+Talent: Now You See Me_
+
+**Requires Power 13**
+
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md) (Rogue Mech)
+-   [Aelita](Aelita.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+ | Crimson, Gold, Mist & Pale |
 | File:Royal Auth Commander.png | 
 
 [Authority Commander Coat](Authority_Commander_Coat.md)
@@ -2426,25 +2451,6 @@ Other sources:
 -   Drop from Monsters in the [First Layer](First_Layer.md) (Hell Mode)
 
  | N/A |
-| File:Elite pathfinder.png | 
-
-[Elite Pathfinder Coat](Pathfinder_Elite.md)
-
-(**Series**)
-
- | 
-
-Grants a random buff.
-
-**Requires Power 13**
-
- | 
-
-Other sources:
-
--   Drop from [Nautilodaunt](Nautilodaunt.md) (**Very Rare**)
-
- | Ash, Black, Crimson & Magenta |
 | File:Cloud First Ranger Duster.png | 
 
 [First Ranger Duster](First_Ranger_Duster.md)
@@ -2487,7 +2493,7 @@ Chests from:
  | Dark, Ochre & White |
 | File:Red justicar defender coat.png | 
 
-[Justicar Defender Coat](Justicar_Defender_Coat.md)
+Justicar Defender
 
 (**Series**)
 
@@ -2568,9 +2574,9 @@ Chests from:
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
-| File:Pale.jpg | 
+| File:Elite pathfinder.png | 
 
-Assassin's Cloak
+[Pathfinder Elite](Pathfinder_Elite.md)
 
 (**Series**)
 
@@ -2578,21 +2584,15 @@ Assassin's Cloak
 
 Grants a random buff.
 
-_+Talent: Now You See Me_
-
 **Requires Power 13**
 
  | 
 
-Chests from:
+Other sources:
 
--   [Minityrsa](Minityrsa.md) (Rogue Mech)
--   [Aelita](Aelita.md)
--   [Aratel Island](Aratel_Island.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
+-   Drop from [Nautilodaunt](Nautilodaunt.md) (**Very Rare**)
 
- | Crimson, Gold, Mist & Pale |
+ | Ash, Black, Crimson & Magenta |
 |  | 
 
 [Providence Coat](Providence_Coat.md)
@@ -3646,7 +3646,7 @@ Chests from:
 ## Trivia/Notes
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   Some Equipment such as Star Duster, the Royal Duelist and the [Megalodaunt Coat](Megalodaunt_Coat.md) require you to be at a certain Power level to use.
+-   Some Equipment such as [Star Dusters](Star_Duster.md), [Royal Duelists](Royal_Duelist.md) and the [Megalodaunt Coats](Megalodaunt_Coat.md) require you to be at a certain Power level to use.
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
 -   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.

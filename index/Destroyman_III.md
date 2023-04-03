@@ -1,8 +1,9 @@
 ---
 title: Destroyman III
-revid: 58585
+revid: 58626
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Destroyman III
@@ -16,7 +17,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen time to time, alternating from left to right.
+Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen roughly once every 2 minutes, alternating from left to right.
 
   
 
@@ -225,8 +226,17 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   The sound played when Destroyman III first appears comes straight from No More Heroes.
 -   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes.
 -   we LOVE Destroyman III.
+-   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to tictokers telling people to say "Stop, I don't want to be touched." Which wont help them from getting mugged.
 
 ## Gallery
+
+the sad tru
+
+File:FUCKYOUdestroyer.png
+
+Very mean
+
+th
 
 Celtor infected by the Coral Fever
 

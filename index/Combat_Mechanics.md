@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 58175
+revid: 58610
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -230,7 +230,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Right-clicking- otherwise using <kbd>M2</kbd>- during the moment your character pulls their weapon/arm back for a swing will allow you to fake-out the opponent with a <i>Feint</i>.
+  <td>Right-clicking- otherwise using <kbd>M2</kbd>- during the moment your character pulls their weapon/arm back for a swing will allow you to fake-out the opponent with a <i>Feint</i>. You can also hold the button down which will feint your M1 as soon as possible and allows you to attack again even sooner more easily.
   <ul>
     <li>You may feint <i>Running Attacks</i> and <i>Uppercuts</i> (see below) by using a Mantra just before you strike.</li>
     <li>You may feint Mantras by doing <kbd>M1</kbd>+ <kbd>M2</kbd> during a cast.</li>
