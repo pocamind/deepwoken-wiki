@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 58703
+revid: 58728
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1370,7 +1370,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Pale_Morning.md">Pale Morning</a></td>
-  <td>75 HVY, 10 STR, LVL 30</td>
+  <td>75 HVY, 10 STR, LVL 10</td>
   <td>24</td>
   <td>N/A</td>
   <td>HVY: 9</td>

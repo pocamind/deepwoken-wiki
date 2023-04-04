@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 58291
+revid: 58708
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -349,7 +349,7 @@ _An arc of ice._
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
 
-Ice Skates
+Ice Skate
 
 (★★★)
 

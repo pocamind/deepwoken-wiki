@@ -1,6 +1,6 @@
 ---
 title: "Korilfiend, the Inferno's Provenance"
-revid: 53442
+revid: 58712
 source: https://deepwoken.fandom.com/wiki/Korilfiend%2C_the_Inferno's_Provenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -17,3 +17,4 @@ Little is known about Korilfiend besides their name, title, and that the apparen
 ## Trivia
 
 -   They are currently the only Drowned God lacking an epithet.
+-   The only mention about Korilfiend in the game is the Deepfire ring description saying: Ring of Korilfiend.

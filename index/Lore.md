@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 58705
+revid: 58714
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -162,6 +162,8 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 
 ### **Chaser, Scholar of the Burning Blood**
 
+_"Oh, a human? Far from home are we?" -Chaser._
+
 -   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry.
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
@@ -238,14 +240,14 @@ The one and only... MEAT LORD!
     -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that atleast something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
 -   One of the few people that is not aligned with the Ministry that knows the true intentions and identity of the Lord Regent.
 -   Very probably is under the direct command of Drallis Ehr.
--   Presumably an Adret.
+-   Presumably an Adret or Canor.
 -   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in Fort Merit or anywhere else in the Eastern Luminant, yet is directing the war as he gave Sibex orders recently.
--   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains.
+-   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, wich uncaps your fortitude.
 -   Currently is hunting and trying to destroy the Ministry and Contractors.
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
 -   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
--   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation.
+-   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the lighthouse being controled by Etris, being also able to capture Fort Merit with his forces.
 
 ### **Gunsmith Rosen**
 

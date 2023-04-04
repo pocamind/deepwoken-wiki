@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 58655
+revid: 58713
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -91,6 +91,21 @@ The orders are as follows:
 <tr>
   <td>Mushroom Omelette</td>
   <td>2x Egg + 1x Gobletto/1x Browncap/1x Dentifilo</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Omelette</td>
+  <td>2x Egg</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Mushroom Bisque</td>
+  <td>1x Crustacean Meat + 1x Gobletto/1x Browncap/1x Dentifilo</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Calamari</td>
+  <td>1x Gathered Wheat + 1x Squid</td>
   <td>Yes</td>
 </tr>
 </tbody>
