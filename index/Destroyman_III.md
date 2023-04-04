@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58676
+revid: 58684
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,7 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Destroyman III | |
 |---|---|
 
-“ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
+“ Your Life is as valuable as a summer ant. You're gonna keep killing us till you die. Why? Because you still want that exp. Your purpose in Life is to kill Megalodaunts. You should grip yourself... NOW! ”
 
 ― Destroyman III
 
@@ -18,11 +18,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. You used to be able to get him on your screen by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player, Although he is now obtainable by emoting at the sharko rumbling statue. The player's face will be changed when infected. He moves around the screen roughly once every 2 minutes, alternating from left to right.
 
-  
+NOTE: You can still get him if you emote in front of The Great Sharko Rumbling monument to the right of Etris Docks.
+
+\-Ark
 
 ## Quotes
 
-\- Thank you for contracting \[ CORAL FEVER \] ! I'm your new personal assistant, Destroyman III. I'll be giving you helpful tips and tricks!
+\- Thank you for contracting \[ CORAL FEVER \]! I'm your new personal assistant, Destroyman III. I'll be giving you helpful tips and tricks!
 
 \- HINT: DIE!!
 
@@ -204,6 +206,8 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 
+\- Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
+
 ## Trivia
 
 -   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your attunement
@@ -225,10 +229,11 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQ-tR2w](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from No More Heroes.
 -   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes. He could just be randomly moaning tho…
--   we LOVE Destroyman III.
+-   We LOVE Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can legally steal from you without consent”
 -   The "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" ~Is a reference from the Deltarune Character "SPAMTON" That talks in the same way substituying some words in the same way.~ While possible it’s much more likely that those are just inactive links that the line in his code calls for, it’s much more likely that this is a joke that nobody buys destroyman’s advertising
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) as of writing this is actually the only official public acknowledgment of the wiki in any capacity.
+-   If you emote at the Rumbling memorial at Etris near docks, you are able to get him on your screen after the April Fools update, however you do not get the Coral Fever face or sneeze effect.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 57611
+revid: 58692
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -142,6 +142,13 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>4</center></td>
+</tr>
+<tr>
+  <td><center><b>Advanced Tools</b></center></td>
+  <td><center>???.</center></td>
+  <td><center>25 Echoes</center></td>
+  <td><center>1</center></td>
+  <td><center>3</center></td>
 </tr>
 </tbody>
 </table>

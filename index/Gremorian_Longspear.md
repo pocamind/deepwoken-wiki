@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 58312
+revid: 58688
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -27,12 +27,12 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The Gremorian Longspear is a Medium Weapon that is obtainable from killing the Navae Nomads in Etris, with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon has a special gimmick, where one person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked or dodged.
+The Gremorian Longspear is a Medium Weapon that is obtainable from killing the Navae Nomads in Etris, with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon has a special gimmick, where one person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked. Opponents pulled in will be pulled the same distance as the critical initially traveled meaning that landing it on an opponent right in front of you will likely place them further behind you while pulling them in from the farthest range will put them right in front of you instead.
 
 ## Trivia
 
 -   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
-    -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry and the fact they are already in combat.
+    -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the Ministry Scouts and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
 -   It can be alloyed into the **Alloyed Longspear.**
 -   Gremorian Longspear crit now deals +15% chip damage.
