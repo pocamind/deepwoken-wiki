@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58632
+revid: 58678
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -105,7 +105,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ Kaaaaaameeeeehaaaaameeeee... ”
+“ KAAAAAAMEEEEEEHAAAAAAMEEEEE.... ”
 
 ― A Blindseer Vesperian with 102 Willpower eliminating some poor Felinor with Sightless Beam.
 

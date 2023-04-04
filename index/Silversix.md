@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 52363
+revid: 58672
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -31,3 +31,4 @@ categories: [Weapons, Guns]
 The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md).
 
 -   the silversix cannot be dropped by player nor by being killed
+-   The critical causes the gun to fire a projectile very far, regardless of the player having a bullet in their inventory or not.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 58644
+revid: 58658
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -892,9 +892,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Enemies:** N/A
 -   **Lore Sources:** _Carrion (Discord), The Apothecary Discord Server._
 
--   A group of potion nerds who act as Guinea Pigs for Carrion's experiments and help him find materials.
--   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms.
+-   A group of potion/alchemy enthusiasts who follow Dr. Carrion (Dr. Diver) and his experiments sharing one same goal.
+-   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, being Dr Carrion even a Black Diver.
 -   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
+-   The Goal of the Apothecary is to create the Moonseye Vigor, said to be able to "transcend" people.
+-   Dr Carrion him self drank a prototype of the Moonseye Vigor, but it lead him to madness and to have a green eye variant of his race, the ganymede.
 
 ### Songseekers
 

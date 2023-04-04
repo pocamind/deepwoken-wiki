@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 54475
+revid: 58669
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -39,6 +39,8 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 -   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.
 
 ## Skulls
+
+The skulls in question
 
 Being set in an alternative reality, deaths in the arena are less impactful on the soul.
 

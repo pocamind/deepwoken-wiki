@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58656
+revid: 58676
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,13 +10,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Destroyman III | |
 |---|---|
 
-“ Your Life is as valuable as a summer ant. You're gonna keep killing us till you die. Why? Because you still want that exp. Your purpose in Life is to kill Megalodaunts. You should grip yourself... NOW! ”
+“ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
 
 ― Destroyman III
 
 ## Description
 
-Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. To get him on your screen, you must contract Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player. The player's face will be changed when infected. He moves around the screen roughly once every 2 minutes, alternating from left to right.
+Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the April Fools update of 2023. His only known purpose is to occasionally say random things to the player. You used to be able to get him on your screen by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear or being sneezed on by an infected player, Although he is now obtainable by emoting at the sharko rumbling statue. The player's face will be changed when infected. He moves around the screen roughly once every 2 minutes, alternating from left to right.
 
   
 
@@ -56,7 +56,7 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 \- Yikes?
 
-\- You wouldn't ever eat poison, right? So why would you eat at my restaurant chain?
+\- You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 
 \- Just wait until I'm freed from the coil of your monitor.
 
@@ -206,7 +206,8 @@ Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was 
 
 ## Trivia
 
--   The tooltip "- TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)"
+-   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your attunement
+-   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)"
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)"
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless- POWERLESS- outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside- which you do, no looking at the wiki doesn't count- and yet, he is bound to it, dies without it. Weak.)_

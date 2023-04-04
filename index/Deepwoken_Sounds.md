@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 58374
+revid: 58665
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -32,7 +32,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
 | 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Can play as title screen music in the depths | File:To Sleep, Dreaming (Contour 3).mp3 |
-| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when past a certain level and having escaped the depths and skips to 0:24) when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
+| 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when past a certain level and having escaped the Depths and skips to 0:24 when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
 | 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) | File:Isle of Vigils - Deepwoken OST.mp3 |
@@ -62,14 +62,14 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 26 | Dance, If You Can! | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) | File:Dance, If You Can!.mp3 |
 | 27 | Pelagic Slumber | 2:08 | [The Depths](The_Depths.md) (Ambience) | File:DepthsAmbience.ogg |
 | 28 | Oscillation | 2:54 | [The Depths](The_Depths.md) | File:Drowned City - 7394909817.ogg |
-| 29 | The Final Seal (Interlude) | 1:36 | N/A | File:The Final Seal (Interlude).mp3 |
+| 29 | The Final Seal (Interlude) | 1:36 | N/A (A sequence depicting an escape from Scyphozia) | File:The Final Seal (Interlude).mp3 |
 | 30 | Lacrimosa Dies Illa | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
 | 33 | On The Shoulder Of Giants | 5:24 | Unknown | File:On The Shoulders Of Giants.mp3 |
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
-| 35 | Masters of the House | 2:06 | N/A | File:Masters of the House.mp3 |
-| 36 | The Gideshu March | 1:57 | N/A (small cut of the soundtrack can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
+| 35 | Masters of the House | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Cut_Content.md)) | File:Masters of the House.mp3 |
+| 36 | The Gideshu March | 1:57 | N/A (a short edit of the track can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
 
 ### Deepwoken: Original Soundtrack (Vol. II)
 
@@ -91,7 +91,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| ? | N/A | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
+| ? | Opulent, Imperial | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
 
 ## Alternative Soundtracks
 
@@ -188,22 +188,22 @@ Miscellaneous sounds found in _Deepwoken_.
 
 ## Trivia/Notes
 
--   Initially there were meant to be day themes and night themes but the idea was scrapped due to the workload and they no longer had peaceful daytime and dangerous night time.
--   Naktigonis created many of the early sound effects, but later on his workline got pushed more towards music and other developers created them.
--   Despite how they are ordered in the playlist, the Greathive themes, which marked the change in artistic direction, came before Summer Isle's music.
--   The earlier OST tracks were made when Naktigonis was still fairly new to FL Studio 20 and before he had a midi keyboard, so he considers them simplistic.
+-   Initially there were meant to be day themes and night themes in the game, but the idea was scrapped due to the workload this would have presented. In addition, due to a change in Deepwoken's gameplay during testing, the mechanic of a peaceful daytime and a dangerous night time was removed from the game.
+-   Naktigonis created many of the early sound effects, but later on his line of work got pushed more towards music.
+-   Despite how they are ordered in the Volume I album, the Greathive themes, which marked the change in artistic direction, were created before Summer Isle's music.
+-   The earlier OST tracks were made when Naktigonis was still fairly new to FL Studio 20 and before he had a MIDI controller/keyboard, so he considers them simplistic.
 -   The music for the [Voidheart](Voidheart.md) was the original music for Corvus Manor on the Isle of Crows.
     -   Additionally, it seems that it used to be the original theme for "Of Labours, Veiled," but was quietly removed and replaced with the current theme for Duke Erisia's Manor.
 -   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
--   "The Games of War" was heavily inspired by Medieval 2 Total War's OST, as Naktigonis is a big fan of Jeff van Dyck's work for the early Total War games.
+-   "The Games of War" was heavily inspired by the soundtrack of Medieval 2: Total War, as Naktigonis is a big fan of Jeff van Dyck's work for the early Total War games.
 -   A small part of "The Gideshu March" is used in "And Let Slip The Hounds of War" at 0:48
--   Naktigonis voices the choir featured in Oscillation, the lyrics in "The Gideshu March," and the vocals in "Sin-Smelted Scoriae."
-    -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals during "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
+-   Naktigonis's voice regularly features in the soundtrack: his voice is featured in the choirs in "Oscillation", "Kyrie", and "The Gideshu March", many of the chants in "And Let Slip The Hounds Of War", most of the scream vocals in "INSOMNIA", and in the singing vocals of "Sin-Smelted Scoriae."
+    -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals for "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
 -   "Picking a card" sound is probably from Fallout Shelter.
--   Ambient noises, such as the wildlife from "Solivagant", were not separate from the soundtrack but rather made part of the music due to Roblox's technical limitations, though it is possible to change it now.
-    -   He stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and our design philosophy changed. OST generally picks up in the second half when area-specific combat themes get introduced.'
--   Nakitgonis felt "Peregrine" ended up being used way less often than he liked.
+-   For earlier tracks in the OST, ambient noises, such as the wildlife from "Solivagant", were not separated from the music, but rather made part of it, due to Roblox's technical limitations.
+    -   Naktigonis has stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and Monad's design philosophy changed. According to him, the OST generally picks up in the second half when area-specific combat themes get introduced.'
+-   Nakitgonis felt "Peregrine" ended up being used way less often than he liked. Most of area it was meant for - the Seranece Mountains, - was cut from the game for its release.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
--   The vocals for "A Light in The Sky" are from a kontakt 6 opera singer library.
+-   The vocals for "A Light in The Sky" are from a [Kontakt 6 opera singer library](https://www.fluffyaudio.com/shop/simple-opera-singer/), which features the voice of opera singer Ji Min Oh.
 
 1.  [↑](#cite-ref-1) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

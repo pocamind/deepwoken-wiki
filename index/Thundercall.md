@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 58268
+revid: 58670
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -743,7 +743,7 @@ Volt Kick
 
  | 
 
-After landing a lightning kick press F to followup with a less potent kick.
+After landing a lightning kick press F to followup with a less potent kick. (Actually works consistently by holding F DURING the Windup)
 
  | 
 

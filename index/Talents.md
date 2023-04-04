@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58576
+revid: 58667
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -865,6 +865,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
+### Heat Column
+
+-   Fan the Flames \[Common Talent, Flamecharm and Galebreathe Exclusive\] - Your stored Wind mantras can now empower your Fire mantras.
+    -   Prerequisites: Inhale, 40 Flamecharm
+
 ### Heretic
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
@@ -1526,6 +1531,10 @@ Prerequisite: Charisma
 -   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
     -   Prerequisite: Lightning Blade
+
+### Stormcaller
+
+-   Storm Link \[Common Talent, Thundercall and Galebreathe Exclusive\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
 
 ### Sturdy Resolve
 
