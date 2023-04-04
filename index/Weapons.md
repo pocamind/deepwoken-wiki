@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 58662
+revid: 58703
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -61,7 +61,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
 -   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
--   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound on equip.
+-   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound on equip (not to be confused with Legendary Rarity weapons).
 
 ## Types of Weapons
 
@@ -1549,7 +1549,7 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 
 **Shields:**
 
-Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Shield divide posture damage taken by their weight. Certain talents and mantras will also require having a shield. Shields will make it much more difficult to perform parries for the inexperienced utilize switching stances to counteract this.
+Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Shield divide posture damage taken by their weight. Certain talents and mantras will also require having a shield.
 
 <table>
 <tbody>

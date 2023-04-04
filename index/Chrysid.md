@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 58687
+revid: 58704
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -16,7 +16,7 @@ Chance of rolling: **4.4%**
 
 ## Description
 
-\[Fill in\]
+someone fill this in I genuinely can’t be bothered
 
 ## Racial Trait
 

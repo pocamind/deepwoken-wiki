@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 57691
+revid: 58702
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -151,6 +151,6 @@ While inside a Voidzone:
 
 **Location:** Eastern Luminant- To the right of the gate that you come out of by Isle of Vigils, Up two waterfalls
 
-**Dangers: None**
+**Dangers: People trying to get linkstrider**
 
 **Rewards:** Erisore, Linkstrider [Oath](Oaths.md)

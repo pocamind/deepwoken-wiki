@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 58692
+revid: 58696
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -58,7 +58,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 ## Upgrades and Modifiers
 
-There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1400 echoes.
+There are 9 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1475 echoes.
 
 Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 100 echoes per enchant. This is not renewable.
 
@@ -145,7 +145,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Advanced Tools</b></center></td>
-  <td><center>???.</center></td>
+  <td><center>Your amount of bonus adventuring tools given when starting a new journey.</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>3</center></td>
@@ -242,8 +242,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Combining all Modifiers awards a 2.8x increase.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). This may have been the root of the developer team's inclusion of this feature within the game.
--   The four starter weapons from "Advanced Weapons" are obtained in linear order through purchases as so:
+-   The four Weapons from "Advanced Weapons" are obtained in linear order through purchases listed below:
     -   The [Quickfang](Quickfang.md) Rapier,
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.
+-   The four Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
+    -   A Lumber Axe and Pickaxe.
+    -   Flint and Canteen.
+    -   Repair Hammer.
