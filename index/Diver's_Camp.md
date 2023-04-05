@@ -1,9 +1,9 @@
 ---
 title: "Diver's Camp"
-revid: 57551
+revid: 58909
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -34,4 +34,4 @@ Events that spawn in Diver's Camp that involve combat. For more info, see [Rando
 
 ## Trivia/Notes
 
-it seems that the mudskipper npc needs you to get in the depths with a soul or is bugged or was removed as it doesnt spawn (i tried this in 5 servers correct this if this info is wrong)
+-   It seems that the Mudskipper NPC needs you to get in the depths with a soul or is bugged or was removed as it doesnt spawn (i tried this in 5 servers correct this if this info is wrong)

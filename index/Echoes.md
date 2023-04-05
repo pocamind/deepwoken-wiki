@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 58758
+revid: 58891
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -39,7 +39,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
--   Using a Deep Shrine, awarding 2 Echoes.
+-   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
@@ -176,32 +176,32 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Crestfallen</b></center></td>
-  <td><center>Armor is permanently broken</center></td>
+  <td><center>Armor is permanently broken.</center></td>
   <td><center><b>+0.1x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Deep Champion</b></center></td>
-  <td><center>Your depths trial is always corrupted</center></td>
+  <td><center>Your Depths trial is always corrupted.</center></td>
   <td><center><b>+0.2x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Dissonant</b></center></td>
-  <td><center>You cannot learn Resonance</center></td>
+  <td><center>You cannot learn Resonance.</center></td>
   <td><center><b>+0.3x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Hollow</b></center></td>
-  <td><center>All overworld deaths send you to the Depths</center></td>
+  <td><center>All overworld deaths send you to the Depths.</center></td>
   <td><center><b>+0.1x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Slowburn</b></center></td>
-  <td><center>All incoming healing is heavily reduced</center></td>
+  <td><center>All incoming healing is heavily reduced.</center></td>
   <td><center><b>+0.1x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Dealbreaker</b></center></td>
-  <td><center>You sell items for 25% less</center></td>
+  <td><center>You sell items for 25% less.</center></td>
   <td><center><b>+0.1x</b></center></td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Ironwoken</b></center></td>
-  <td><center>You cannot receive notes or items from other players</center></td>
+  <td><center>You cannot receive notes or items from other players.</center></td>
   <td><center><b>+0.2x</b></center></td>
 </tr>
 </tbody>

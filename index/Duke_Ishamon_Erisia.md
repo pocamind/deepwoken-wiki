@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 58228
+revid: 58932
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -221,7 +221,7 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
     -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture. Mantras like "Fire Blade," "Ice Smash," "Exhaustion Strike," "Master's Flourish," and even "Glacial Arc," with the right modifiers work very well against him.
     -   A **[Heavy Hands Ring](Outfits.md)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
     -   Using the **Ardour** [murmur](Murmur.md) (obtained by defeating the [Dread Serpent](Dread_Serpent.md) in battle) will help increase your posture damage towards him.
-    -   **[Heavy Weaponry](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's).
+    -   **[Heavy Weapons](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's).
         -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
 -   His first name is unknown, leading to it becoming a meme in the community.

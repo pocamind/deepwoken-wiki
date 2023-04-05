@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 58346
+revid: 58798
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -56,9 +56,9 @@ The Etris blacksmith house.
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND) and a [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD) here for.
 -   Above the Mantra Shop, accessible through Weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
 
-#### [Weaponry](Weapons.md)
+#### Weaponry
 
--   Players can buy a variety of starter weapons from Astra here:
+-   Players can buy a variety of starter [weapons](Weapons.md) from Astra here:
     -   Light Weapon users can purchase:
         -   [Stiletto](Stiletto.md) for.
         -   [Apprentice Rapier](Apprentice_Rapier.md) for.

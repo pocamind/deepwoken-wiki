@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58775
+revid: 58884
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -535,7 +535,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a **deal** with the following Deep Shrine: Temptation, Blasphemy, Mastery, Chance. This will cost you 20 Knowledge in total.
+5.  Go make a **deal** with the following [Deep Shrines](Deep_Shrines.md): Temptation, Blasphemy, Mastery, Chance. This will cost you 20 Knowledge in total.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.

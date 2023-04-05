@@ -1,13 +1,12 @@
 ---
 title: Iron Mask
-revid: 58220
+revid: 58918
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Iron Mask
-
-## Overview
 
 Template:EquipmentStats The **Iron Mask** is an accessory under the "Face" category. It can be found in chests in [Lower Erisia](Lower_Erisia.md).
 
@@ -17,4 +16,4 @@ The Iron Mask is a mask made out of an unknown alloy (supposedly iron) inlaid wi
 
 ## Trivia
 
--   The Iron Mask is seen at the [Antiquarian](Antiquarian.md) at [Etris](Etris.md). However, the player cannot interact or buy it
+-   The Iron Mask is seen at the [Antiquarian](Antiquarian.md) at [Etris](Etris.md). However, the player cannot interact or buy it.

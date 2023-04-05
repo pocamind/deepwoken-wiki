@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 58789
+revid: 58904
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -83,7 +83,7 @@ This fits with our current understanding of the lore and would explain why they 
 
 ## Trivia
 
--   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shamans from the game, _Hollow Knight_.
+-   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the [snail shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from the game, _Hollow Knight_.
 -   In real life, Ganymede is one of the many moons of Jupiter. Also, Titan, Hyperion, and Enceladus (Ganymede's race variants) are some of the moons of Saturn.
 -   One of the most valuable traits for Ganymede's is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.

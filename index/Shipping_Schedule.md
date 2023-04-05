@@ -1,6 +1,6 @@
 ---
 title: Shipping Schedule
-revid: 50723
+revid: 58869
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,11 +10,11 @@ categories: [Items]
 
 “ Agrippa, where's my Shipping Schedule? ”
 
-― Authority Warden to the guard in the next room
+― Authority Commander to the guard in the next room
 
 ## Description
 
-A Shipping Schedule is an item only obtainable from Authority Wardens in [Fort Merit](Fort_Merit.md). It can be turned in to the Etrean Guardmaster to obtain a medium-sized chest containing decent Fort Merit loot.
+A Shipping Schedule is an item only obtainable from [Authority Commander](<Authority_Commander_(Enemy).md>) in [Fort Merit](Fort_Merit.md). It can be turned in to the Etrean Guardmaster to obtain a medium-sized chest containing decent Fort Merit loot.
 
 ## Trivia
 

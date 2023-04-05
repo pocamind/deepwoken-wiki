@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58759
+revid: 58930
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,8 +23,6 @@ Symptoms of Coral Fever includes:
 -   Destroyman III
 -   Destroyman III face decal
 -   Intermittent and contagious sneezing (replaced spitting)
-
-With the original strand of Coral Fever contained, Destroyman III was set to dissapear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only includes Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will remove Destroyman III.
 
 ## Quotes
 
@@ -113,12 +111,13 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   TIP: I hate you with all my hate.
 -   This is what sucks about videogames nowadays. It takes way too long to get to the fun part.
 -   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking
--   Yawn... Can you do something like, interesting?
+-   Yaaawn... Can you like, do something interesting?
 -   Ok, that one was deserved.
 -   TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
 -   ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
 -   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
+-   MISSION: Determine if it's possible to prompt the sun to explode.
 
 ## Remove Quotes
 
@@ -151,11 +150,3 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" ~Is a reference from the Deltarune Character "SPAMTON" That talks in the same way substituying some words in the same way.~ While possible it’s much more likely that those are just inactive links that the line in his code calls for, it’s much more likely that this is a joke that nobody buys destroyman’s advertising
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) as of writing this is actually the only official public acknowledgment of the wiki in any capacity.
 -   If you emote at the Rumbling memorial at Etris near docks, you are able to get him on your screen after the April Fools update, however you do not get the Coral Fever face or sneeze effect.
-
-## Gallery
-
-the sad truth
-
-Celtor infected by the Coral Fever
-
-The Game's Thumbnail for April Fool's Day 2023

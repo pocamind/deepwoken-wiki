@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 53020
+revid: 58885
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -22,7 +22,7 @@ The Hidden Village
 
 The Hidden Village is a small abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a [Mantra](Mantras.md) or a Heavy Weapon Critical. An alternative path is to climb up the mountains that leads you a tunnel to the village.
 
-Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of [Erisore](Ores.md), and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements. It is also home to the Shrine of Blasphemy, where one can make a deal with.
+Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of [Erisore](Ores.md), and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements. It is also home to the [Shrine of Blasphemy](Deep_Shrines.md), where one can make a deal with.
 
 ## Potential Enemies
 
@@ -45,7 +45,7 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 ### NPCs
 
 -   Nimea, an [Etrean](Etrean.md) who gives you insight about Lightkeepers and their place in the world.
--   Shrine of Blasphemy, who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
+-   [Shrine of Blasphemy](Deep_Shrines.md), who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
 -   [Marcus](Marcus.md), a chill [Stone Golem](Rock_Golem.md) who loves sipping coffee. Gives good life advice in a few words.
 
 ## Maps

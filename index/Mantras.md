@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 56939
+revid: 58882
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -18,7 +18,7 @@ notices:
 
 Considered to be the root of Ether's usage- Mantras, sometimes referred to in lore as _images of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these will be the magic abilities that you use in combat to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the Deep Shrines for 5 [Knowledge](Knowledge.md).
+Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the [Deep Shrines](Deep_Shrines.md) for 5 [Knowledge](Knowledge.md).
 
 ## Rarities of Mantras
 

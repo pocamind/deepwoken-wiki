@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 56549
+revid: 58794
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Notes
 
-**Notes** () is the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weaponry](Weapons.md), and tools.
+**Notes** () is the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weapons](Weapons.md), and tools.
 
 “ Show me shiny, show me magic! I give you sand dollar. ”
 

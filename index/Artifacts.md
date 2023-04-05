@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 58543
+revid: 58801
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -16,7 +16,7 @@ An Adret carrying a piece of The Forge.
 
 ## Description
 
-Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Bankers for high rewards such as Rare Armor and [Mantra Ingredients](Mantra_Modifiers.md), [Weapons](Weapons.md), and [Armor Schematics](Outfits.md). However, **Deepwoken Artifacts _are nothing like Rogue Lineage Artifacts.._**
+Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Bankers for high rewards such as rare armor, [mantra ingredients](Mantra_Modifiers.md), [weapons](Weapons.md) and [armor schematics](Outfits.md). However, **Deepwoken Artifacts _are nothing like Rogue Lineage Artifacts.._**
 
 Artifacts are generally found around [Lower](Lower_Erisia.md) and [Upper Erisia](Upper_Erisia.md) but can be found on other islands, as well as being able to spawn on rock formations out at sea such as the ones in the vicinity of [Erisia](Erisia.md). Due to the random nature of where they spawn you may find them guarded by [enemies](Enemies.md) or completely unguarded making it easy to pick up and run off with. You will know an Artifact has spawned near you as a loud pulsating noise can be heard emitting from it and large purple rings can be spotted flying upwards away from the Artifact's vicinity.
 

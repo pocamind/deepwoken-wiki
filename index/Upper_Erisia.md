@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 58215
+revid: 58802
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 57812
+revid: 58887
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -174,7 +174,7 @@ categories: [Deepwoken]
 ### **The Eastern Luminant**
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
--   The Shrine of Order might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
+-   The [Shrine of Order](Deep_Shrines.md) might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
 -   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in Rogue Lineage.
 
 ### **The Depths**
