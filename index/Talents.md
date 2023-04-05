@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58733
+revid: 58958
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -561,7 +561,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Strength
 
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+10 Sanity)
-    -   When below 15% HP, gain 10% damage.
+    -   When below 25% HP, gain +10% damage.
     -   Prerequisite: 35 Willpower
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
@@ -875,9 +875,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Heretic
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
-    -   Whenever you land an M1, disable every source of healing for 8 seconds
-    -   Do not proc/works in people in the same guild as your.
-        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and the [Vampirism](Enchantments.md).
+    -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
+    -   Does not proc/work on people in the same guild as yours.
+        -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and[Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.

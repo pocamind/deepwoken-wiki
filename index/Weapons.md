@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 58728
+revid: 58946
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1381,7 +1381,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>
-  <td>75 HVY, 10 STR</td>
+  <td>75 HVY, 10 STR, LVL 10</td>
   <td>26</td>
   <td>15%</td>
   <td>HVY: 8</td>
@@ -1403,7 +1403,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
-  <td>80 HVY, 25 STR, 10 LVL</td>
+  <td>80 HVY, 25 STR, LVL 10</td>
   <td>25</td>
   <td>10%</td>
   <td>HVY: 9</td>

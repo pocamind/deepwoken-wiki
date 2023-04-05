@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 58714
+revid: 58957
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -152,6 +152,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   He and the First Prophet are the only known Deepwoken.
 -   'Would beat Akira up and down the eastern lum.'
+-   Most likely to be stronger than lord regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwokens.
 -   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
 -   Many people think he is dead due to be the only known person to go to the third layer. However since he is immortal, he just stays most of his time in the third layer, being almost not seen.

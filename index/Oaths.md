@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58884
+revid: 58952
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -546,9 +546,9 @@ _Upon obtaining this oath, four black puppet-esque strings will embed themselves
 
 As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. Pack tactics cannot be used: you must obtain these grips alone or they will not count.
 
--   1 grip - Hidden Tendril/Lords Slice
--   2 grips - Equalizer
--   3 grips - String Trick/Judgement
+-   1st Grip - Hidden Tendril/Lords Slice
+-   2nd Grip - Equalizer
+-   3rd Grip - String Trick/Judgement
 
 ### **Known Abilities**
 

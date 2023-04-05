@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 57324
+revid: 58945
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -132,3 +132,6 @@ The Hero Blade of Shadow is an elemental weapon that is obtained by defeating al
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
     -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
         -   These runes translate to "jfeondkthz", from the tip of the sword to the guard
+
+-   Before Verse 2 (24/12/2022), the critical of the Hero blades were basic sword critical stabs.
+-   Every critical of the hero blade has a different hero with different race, giving the theory that the spirit in the critical attack is the original wielder/hero of the blade.

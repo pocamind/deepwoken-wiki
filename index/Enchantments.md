@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 58222
+revid: 58960
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -10,9 +10,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 **Enchantments** are rare and powerful upgrades for your equipment.
 
-## Acquirement
-
-Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
+## Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
 -   You can get an enchanted gear in any chest.
 -   Turning in an artifact.

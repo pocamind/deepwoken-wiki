@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 54873
+revid: 58944
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -24,7 +24,7 @@ This Outfit requires 10 Intelligence and [Power Level](Talents.md) 15.
 
 This Outfit has 1000 Durability and grants the wearer +10% Physical Armor and +15% Elemental Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) "_Now you see me.._", which grants the player 50% more stealth whilst crouched.
+This Outfit also grants the [Talent Card](Talents.md) "_Now You See Me_ ", which grants the player 50% more stealth whilst crouched.
 
 ## Location
 

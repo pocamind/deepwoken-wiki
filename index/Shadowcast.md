@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 58936
+revid: 58951
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -197,7 +197,7 @@ Eclipse Kick
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Shade Devour.png
+File:ShadowDevour.gif
 
  | 
 
@@ -572,4 +572,4 @@ Rare
     -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
 -   Like [Galebreathe](Galebreathe.md) and [Frostdraw](Frostdraw.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
 
--   Shadow has the least mantras out of all attunements.
+-   ~Shadow has the least mantras out of all attunements.~ Now shadowcast has the same amount of mantras as galebreath as of (03/04/2023)
