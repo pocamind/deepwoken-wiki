@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 58461
+revid: 58734
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -86,7 +86,7 @@ Thousand Needles
 
 Roar
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
 
 -   Blocking negates much of but not all the insanity gain.
 

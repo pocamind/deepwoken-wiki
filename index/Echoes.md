@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 58696
+revid: 58758
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -79,6 +79,13 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
   <td><center>50 Echoes</center></td>
   <td><center>5%</center></td>
   <td><center>20%</center></td>
+</tr>
+<tr>
+  <td><center><b>Resonance Rarity</b></center></td>
+  <td><center>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>.</center></td>
+  <td><center>50 Echoes</center></td>
+  <td><center>2%</center></td>
+  <td><center>10%</center></td>
 </tr>
 <tr>
   <td><center><b>Mob Armor</b></center></td>

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 58540
+revid: 58773
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -279,7 +279,7 @@ File:No Attunement Revamp.png
  | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   User constantly summons invisible projectiles, inflicting a considerable amount of insanity on an opponent upon collision.
+    -   User constantly summons invisible projectiles, inflicting a considerable amount of insanity on an opponent upon collision. **NOTE: the "insanity" inflicted by this move does not count towards the target's actual insanity.(needs testing)**
     -   Creates rotating white rings around the user's eyes.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58731
+revid: 58759
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Symptoms of Coral Fever includes:
 -   Destroyman III face decal
 -   Intermittent and contagious sneezing (replaced spitting)
 
-With the original strand of Coral Fever contained, Destroyman III was set to dissapear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only include Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will remove Destroyman III.
+With the original strand of Coral Fever contained, Destroyman III was set to dissapear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only includes Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will remove Destroyman III.
 
 ## Quotes
 
@@ -138,7 +138,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   Despite being a physical virus, he refers to being coded.
 -   ~Destroyman is NOT allowed to edit this page~ You're not my mom.
--   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Rogue Lineage is personalized" an installation in the "[Rogue Lineage Unsolved](https://www.youtube.com/watch?v=yJJIbjqa4mE&t=13s)" series of videos by [Agamatsu](https://www.youtube.com/@Agamatsu)
+-   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Mario 64 is personalized"
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
