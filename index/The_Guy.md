@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 58777
+revid: 58778
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,8 +12,6 @@ categories: [NPCs]
 |---|---|
 | name | The Guy |
 | location | Near Meteor Isle |
-
-s
 
 “ I'm a bit of a big deal around here. Bit of a big shot. You might've heard of me. They call me 'The Guy'. Why, you may ask? There's nobody else like me, I'm simply The Guy. The pinnacle of confidence and swagger, the pride of the Summer Company. ”
 

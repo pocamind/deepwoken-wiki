@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 58704
+revid: 58781
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -16,7 +16,7 @@ Chance of rolling: **4.4%**
 
 ## Description
 
-someone fill this in I genuinely can’t be bothered
+The Chrysid people are a race related to moths, inheriting their compound eyes and feathery antennae. They are a rare race to see and carry close ties with the other races of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 2 Charisma as well as the ability to track attacking foes through terrain by automatically shedding "Mothering Dust" onto them.
 
 ## Racial Trait
 
@@ -64,8 +64,9 @@ someone fill this in I genuinely can’t be bothered
 
 +2 Agility  
 +2 Charisma  
-
 free drip  
+
+ESP  
 
 **Weaknesses:**
 
@@ -74,7 +75,7 @@ free drip
 N/A  
   
 
-  
+Actually kinda ugly ngl  
 
 **Surnames:**
 
@@ -91,7 +92,7 @@ N/A
 
 ## Notes/Trivia
 
--   Mothwing Dust does not proc if you instigate the fight.
+-   Mothwing Dust only procs against people who initiated combat with you **first**. If you instigated it then you will gain no wall hacks.
 -   Mothwing Dust lasts 10 seconds _**with a cooldown of ?**_
 -   The Hallowtide variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive races having inspiration for their design(s) taken from Hollow Knight.

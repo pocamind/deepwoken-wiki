@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 58598
+revid: 58789
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **2.0%**
 
 ## Description
 
-\[Fill in\]
+Ganymedes are an intelligent snail based race in Deepwoken that appear with black skin, abnormal eye figurations and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken they are very gifted individuals much more capable than other races when interacting with the deep. Ganymedes sport a stat bonus of 2 Intelligence and 2 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
 
 ## Racial Traits
 
