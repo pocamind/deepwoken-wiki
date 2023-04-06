@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 58891
+revid: 58988
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -254,7 +254,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   The [Irontusk](Irontusk.md) Spear,
     -   The [Silversix](Silversix.md) Guns,
     -   The [Avenger](Avenger.md) Greatsword.
--   The four Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
+-   The five Tools from "Advanced Tools" are obtained in linear order through purchases listed below:
     -   A Lumber Axe and Pickaxe.
     -   Flint and Canteen.
     -   Repair Hammer.

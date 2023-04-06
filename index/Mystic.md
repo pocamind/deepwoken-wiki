@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 58677
+revid: 58993
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -100,6 +100,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Miscellaneous
 
 -   _My hunt is inescapable. **(Apex Predator; Carnivore, Grand Feast)**_
+-   I am nature's master. **(Master Survivalist)**
 -   _I am athletic. **(Athlete; Triathlete, Pitcher)**_
 -   _I wish to escape. **(Escape Artist; Robber Baron)**_
 -   _I often attack others. **(Marauder)**_
