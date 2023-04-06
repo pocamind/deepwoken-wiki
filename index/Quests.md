@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 57527
+revid: 59049
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -256,7 +256,7 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Quest Location**: Greathive Aratel
 
-**Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. You must not get ragdolled while the flower is in your inventory or you will have to restart.
+**Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. You must not take any damage while the flower is in your inventory or you will have to restart.
 
 **Reward/s**: Vibrant Gem
 

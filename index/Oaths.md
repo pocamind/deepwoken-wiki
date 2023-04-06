@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58990
+revid: 59053
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -746,4 +746,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
 -   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
 -   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
--   Though Oathless is meant to suggest what it's named. It is completely contradicted by the fact that it involves taking it as an Oath. The only true occurrence of being Oathless is by being a Pathfinder. So try not to fall for the braindead arguments stating that it's supposed to be useless. Even if they are backed up by the developers themselves, even they are completely contradicted by what they argue against.
+-   Though Oathless is meant to suggest what it's named. It is completely contradicted by the fact that it involves taking it as an Oath. The only true occurrence of being Oathless is by being a Pathfinder. This is because when you see the Oathless description, you can read the phrase: "If free will is an illusion, why not making it a convincing one?" meaning that Oathless is not an oath to not to take oaths, just an oath to see an illusion of free will. Showing that the reason why many people believe its useless, its because its a "fake oath" just showing an illusion of free will.
