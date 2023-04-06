@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 58706
+revid: 59007
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -42,6 +42,8 @@ Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" f
     -   Mentions the Drivers, people riding horses in the other Luminants.
 -   _"Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh..."_
     -   Mentions the Wardens of the Authority. Mainly just talking about his drinking habits, though.
+-   _"Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh..."_
+    -   Mentions Songmaster Tz'araan, Songseeker mistress.
 
 ### Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.
 

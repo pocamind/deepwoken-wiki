@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 58603
+revid: 59012
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,7 +15,7 @@ Chance of obtaining race: **15.2%**
 
 ## Description
 
-Canors are an uncommon race with canine features. They benefit from a strength and charisma bonus on selection.
+Canors are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canors appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canors are also heavily favored by the Authority. Canors have 3 distinct facial markings to choose from.
 
 ## Racial Traits
 
@@ -44,7 +44,7 @@ Canors are an uncommon race with canine features. They benefit from a strength a
 **Lore:**
 
   
-Fiercely loyal and often found as guards and soldiers in the retinue of the powerful.
+Canors share a strong bond with the Adret race, staying true to the relationship dogs have with humans. Their race description as guards and soldiers of the powerful most notably refers to their common occupations within the Authority but this isn't very noticeable as of now.
 
 **Strengths:**
 
@@ -89,3 +89,4 @@ Loyalty makes combat practice and spars with housemates difficult
 -   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canors to be based on both Lions and dogs.
+-   It's possible that the Loyalty perk also procs from Vow of Mastery

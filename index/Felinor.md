@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 58600
+revid: 59014
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **8.0%**
 
 ## Description
 
-\[Fill in\]
+One of the most distinct races in the Lumin for their infamous cat ears, Felinors garnered the most attention of all races in Deepwoken. They are a rare race with little social or political influence to their race, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 2 Agility including improved stealth as well as multiplied climbing height.
 
 ## Racial Traits
 
@@ -50,7 +50,7 @@ Chance of obtaining race: **8.0%**
 **Lore:**
 
   
-Known to be prominent in Markor in the Central Luminant.
+Known to be prominent in Markor in the Central Luminant. Previously there used to be a Felinor kingdom in Markor but it's suggested that this kingdom is no more.
 
 **Strengths:**
 
@@ -93,3 +93,4 @@ Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors with
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.
 -   Hatred toward the race is not really heartfelt. Mostly purely satirical meaning you aren't really at risk of any hate-crimes. Though the hatred for this race stems from their nature as Kemonomimis which is a trait no other race exhibits so much as Felinors do.
+-   Oddly enough, one of the most expressed races in Deepwoken as a lot of players attracted to the race show off the characteristics of a Felinor **for better or for worse.**

@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 58991
+revid: 59006
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -24,7 +24,7 @@ Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eye
 | --- | --- | --- | --- | --- | --- | --- |
 | Coral Spear | Similar to Megalodaunt [Thousand Needles](<https://deepwoken.fandom.com/wiki/Megalodaunt#Megalodaunt:~:text=(%E2%98%85%E2%98%85%E2%98%86)-,Thousand%20Needles,-The%20Megalodaunt%20bends>) attack. Grow coral on your back and create a multihit AOE around you. | ◯ | ◯ | X (Without Ghost) | (★☆☆) | Megalodaunt Coral |
 | Beast Burrow | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants i-frames. | X | X | ◯ | (★☆☆) | Thresher Talon |
-| Enforcer Pull | When in proximity, pulls victim towards the user. | ◯ | X | ◯ | (★☆☆) | Enforcer Eye |
+| Enforcer Pull | When in proximity, pulls victim towards the user. | X | X | ◯ | (★☆☆) | Enforcer Eye |
 | Dread Breath | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | ◯ | ◯ | ◯ | (★★☆) | Dread Serpent Tooth |
 | Brachial Spear | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | ◯ | X | ◯ | (★★★) | Giant Femur |
 | Mecha Gatling | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | ◯ | ◯ | ◯ | (★★☆) | Broken Gatling Gun |

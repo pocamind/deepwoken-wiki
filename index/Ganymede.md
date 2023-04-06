@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 58904
+revid: 58995
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -83,6 +83,7 @@ This fits with our current understanding of the lore and would explain why they 
 
 ## Trivia
 
+-   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breath and salivate when they see a sexy corrupted monster in the Depths though you cannot see that.
 -   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the [snail shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from the game, _Hollow Knight_.
 -   In real life, Ganymede is one of the many moons of Jupiter. Also, Titan, Hyperion, and Enceladus (Ganymede's race variants) are some of the moons of Saturn.
 -   One of the most valuable traits for Ganymede's is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer.
@@ -93,3 +94,4 @@ This fits with our current understanding of the lore and would explain why they 
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
     -   They are the only race to have their racial talent updated.
+-   Bares some similar visual traits as the [Dinakeri](https://rogue-lineage.fandom.com/wiki/Dinakeri) from a very Rogue Lineage. Having black skin, white hair and peculiar glowing blue eyes.
