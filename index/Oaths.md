@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 58952
+revid: 58970
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -303,7 +303,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 “ I'm not going to sugarcoat it. ”
 
-― A Tiran Jetstriker running from voidwalkers after getting 102 Agility.
+― Tyler Atedra after outrunning Ethiron.
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -656,7 +656,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   You now press Ctrl + M2 instead of the before Ctrl + M1.
     
 
-## Lore Oaths:
+## dLore Oaths:
 
 **Warmaster:**
 

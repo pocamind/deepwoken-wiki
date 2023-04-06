@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 58958
+revid: 58969
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -761,7 +761,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
--   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a ring of gravitaional ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
+-   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
     -   Prerequisites: 20 Agility, 65 Frostdraw
 
 ### Frozen Warrior
@@ -1668,6 +1668,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
+    -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped equipment.
 
 ### Thunder Brawler
 

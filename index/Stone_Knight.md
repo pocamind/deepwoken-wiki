@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 58281
+revid: 58966
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -86,7 +86,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 
  | ✗ | ◯\* | ◯ | (★★☆) |
 
-\* Note that the posture damage is very high on those moves, so dodge them unless your confident in your posturea
+\* Note that the posture damage is very high on those moves, so dodge them unless your confident in your posture
 
 ### **Boons**
 

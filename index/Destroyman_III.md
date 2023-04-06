@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 58961
+revid: 58973
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,99 +29,192 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 ## Quotes
 
 -   Thank you for contracting \[ CORAL FEVER \]! I'm your new personal assistant, Destroyman III. I'll be giving you helpful tips and tricks!
--   HINT: DIE!!
--   Flamecharm? Daring today, aren't we?
--   You know I'm really good friends with The Guy right? I bet you're jealous.
--   AD BREAK: selling cbow 2k
--   Does this game upset you? Me too.
--   HINT: The sorcerer has harmed me once more.
--   HINT: If you shower, there's a higher chance of you finding happiness. Try it out sometime.
--   I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
--   Ok, back to the dog race.
--   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
--   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
--   You want some congratulations?
--   If you die in deepwoken, you go to hell.
--   There is more to life than videogames. Developing hobbies can bring happiness.
--   They aren't getting back up, are they?
--   Yikes?
--   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
--   Just wait until I'm freed from the coil of your monitor.
--   TIP: Birds aren't real.
--   HINT: This game is awful. The developers really suck.
--   I had a pet fish once. His name was Rodrigo. I was real hungry though, so...
--   HINT: I should be rising in the sky...
--   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
--   I like to relieve my stress by taking a walk. Try that instead of killing.
--   TIP: Every copy of Deepwoken is personalized.
--   HINT: The strength of the Megurger comes from the concept, not the physical object.
--   AD BREAK: Stream Naktigonis. Please. You know you want to.
--   I'm the Mario of this duo. You're the Luigi. You're the secondary. I'm the main star.
--   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
--   TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant.
--   Moe..
--   I'm hungry. Like, I really could go for some rigatoni right now.
--   They should add Freddy Fazbear to this game.
--   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, I was just singing the menu theme.
--   TIP: Deny his Ticket. Do it! It's april 1st! PRANK. HIM. FALSEBAN HIM.
--   Mudwoken? What are you talking about? That's so 91 years ago. Get with the times.
--   When's that Ethiron theme coming along anyway?
--   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
--   Seriously? You're wearing those boots with that hat? Yikes.
--   TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong and there's nothing you can do about it.
--   Why are you looking at me like that? Cut it out. You're creeping me out.
--   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
--   If you thought the rumbling was bad, wait until you hear about taxes.
--   Awkward...
--   TIP: Why are you still playing this game? Go outside.
--   TIP: Yamaketzal's favorite drink is grape juice
--   AD BREAK: Corporations have no soul.
--   TIP: Overconfidence is a slow and insidious killer.
--   Don't you get tired of being nice?
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
--   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
--   So... come here often?
--   TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
--   TIP: Even when I leave this place, I will continue to live in your memory. I'm not paying rent.
--   Please join my fireteam. We're running a raid and need one more.
--   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
--   TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play a cup of coffee costs around 1,000 streams.
--   Y'know I'm real good friends with The Guy. Bet your jealous.
--   HINT: I write down all of your balance complaints to engineer them to be even worse.
--   If you don't feed me, I will die. Can you live with that guilt?
--   The path to becoming a firstrater is long and difficult. You are still just a third rater.
--   TIP: Sesame oil is great in stirfries. Remember that.
--   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
--   I could end you in one hit if I really wanted to. Watch your back.
--   AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !
--   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
--   Condiments are calories... never forget that.
+
 -   ...I should buy a boat.
--   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
--   Erm...
--   Never go to afterparties. Just go home.
--   HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
--   TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
--   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
--   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
--   You, uh.. you doin' good? I'm not asking because i care, I'm asking because i was coded to.
--   They were just minding their own business! Come on!
--   Issues, Much?
--   Could've talked it out. Jeez.
--   This is normal for you? Cool.
--   HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
--   TIP: I hate you with all my hate.
--   This is what sucks about videogames nowadays. It takes way too long to get to the fun part.
--   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking
--   Yaaawn... Can you like, do something interesting?
--   Ok, that one was deserved.
--   TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
+
 -   ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
--   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
+
+-   AD BREAK: Corporations have no soul.
+
+-   AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !
+
+-   AD BREAK: Stream Naktigonis. Please. You know you want to.
+
+-   AD BREAK: selling cbow 2k
+
+-   Awkward...
+
+-   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, I was just singing the menu theme.
+
+-   Condiments are calories... never forget that.
+
+-   Could've talked it out. Jeez.
+
+-   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
+
+-   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
+
+-   Does this game upset you? Me too.
+
+-   Don't you get tired of being nice?
+
+-   Erm...
+
+-   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
+
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
+
+-   Flamecharm? Daring today, aren't we?
+
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
+
+-   HINT: DIE!!
+
+-   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
+
+-   HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
+
+-   HINT: I should be rising in the sky...
+
+-   HINT: I write down all of your balance complaints to engineer them to be even worse.
+
+-   HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
+
+-   HINT: If you shower, there's a higher chance of you finding happiness. Try it out sometime.
+
+-   HINT: The sorcerer has harmed me once more.
+
+-   HINT: The strength of the Megurger comes from the concept, not the physical object.
+
+-   HINT: This game is awful. The developers really suck.
+
+-   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
+
+-   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
+
+-   I could end you in one hit if I really wanted to. Watch your back.
+
+-   I had a pet fish once. His name was Rodrigo. I was real hungry though, so...
+
+-   I like to relieve my stress by taking a walk. Try that instead of killing.
+
+-   I'm hungry. Like, I really could go for some rigatoni right now.
+
+-   I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
+
+-   I'm the Mario of this duo. You're the Luigi. You're the secondary. I'm the main star.
+
+-   If you die in deepwoken, you go to hell.
+
+-   If you don't feed me, I will die. Can you live with that guilt?
+
+-   If you thought the rumbling was bad, wait until you hear about taxes.
+
+-   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking
+
+-   Issues, Much?
+
+-   Just wait until I'm freed from the coil of your monitor.
+
+-   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
+
 -   MISSION: Determine if it's possible to prompt the sun to explode.
 
-## Remove Quotes
+-   Moe..
+
+-   Mudwoken? What are you talking about? That's so 91 years ago. Get with the times.
+
+-   Never go to afterparties. Just go home.
+
+-   Ok, back to the dog race.
+
+-   Ok, that one was deserved.
+
+-   Please join my fireteam. We're running a raid and need one more.
+
+-   Seriously? You're wearing those boots with that hat? Yikes.
+
+-   So... come here often?
+
+-   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
+
+-   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
+
+-   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
+
+-   TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
+
+-   TIP: Birds aren't real.
+
+-   TIP: Deny his Ticket. Do it! It's april 1st! PRANK. HIM. FALSEBAN HIM.
+
+-   TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
+
+-   TIP: Even when I leave this place, I will continue to live in your memory. I'm not paying rent.
+
+-   TIP: Every copy of Deepwoken is personalized.
+
+-   TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant.
+
+-   TIP: I hate you with all my hate.
+
+-   TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong and there's nothing you can do about it.
+
+-   TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
+
+-   TIP: Overconfidence is a slow and insidious killer.
+
+-   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
+
+-   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
+
+-   TIP: Sesame oil is great in stirfries. Remember that.
+
+-   TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play a cup of coffee costs around 1,000 streams.
+
+-   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
+
+-   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
+
+-   TIP: Why are you still playing this game? Go outside.
+
+-   TIP: Yamaketzal's favorite drink is grape juice
+
+-   The path to becoming a firstrater is long and difficult. You are still just a third rater.
+
+-   There is more to life than videogames. Developing hobbies can bring happiness.
+
+-   They aren't getting back up, are they?
+
+-   They should add Freddy Fazbear to this game.
+
+-   They were just minding their own business! Come on!
+
+-   This is normal for you? Cool.
+
+-   This is what sucks about videogames nowadays. It takes way too long to get to the fun part.
+
+-   When's that Ethiron theme coming along anyway?
+
+-   Why are you looking at me like that? Cut it out. You're creeping me out.
+
+-   Y'know I'm real good friends with The Guy. Bet your jealous.
+
+-   Yaaawn... Can you like, do something interesting?
+
+-   Yikes?
+
+-   You know I'm really good friends with The Guy right? I bet you're jealous.
+
+-   You want some congratulations?
+
+-   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
+
+-   You, uh.. you doin' good? I'm not asking because i care, I'm asking because i was coded to.
+
+-   TIP: I am currently banned from Lance Leshi's restauraunt. I have started a petition.
+
+Remove Quotes
 
 -   If you were hoping you could uninstall me, I have bad news.
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.

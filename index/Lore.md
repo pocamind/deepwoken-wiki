@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 58957
+revid: 58962
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Deepwoken]
@@ -577,11 +577,13 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 #### **The Vents, The Third Layer**
 
--   Can be reached straight from the surface.
+-   Can be reached straight from the surface being sent some expeditions to the third layer, but none came back.
 -   Current location of Amorus Pleeksty.
+-   Current location of the body of the Drowned God of Fire Korilfiend.
 -   Korilfiend's garden is located near the top.
     -   The meteor flowers located here are considered a part of him.
     -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
+-   The Third Layer is mainly formed by volcanic and fire/hot envirioment.
 
 ## Factions
 
@@ -697,6 +699,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
 -   They were responsible for the sinking of Celtor, using it as an offering to Yun'Shul. The Blindseer Glyphs hint at them having used a Contractor, likely Zi'eer, to do it.
 -   They are lead by prophets. There is no limit to how many there can be, but as of Year 1363 there are nine. They are ranked by strength.
+-   The leader of the Ministry is the First Prophet, currently his whereabouts are unkown, but he is a Deepwoken and one of the most, if not the, most powerfull mortal being.
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.

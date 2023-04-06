@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 58889
+revid: 58965
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
@@ -83,6 +83,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
 -   Good place to farm books, the library has tons of bookshelves
 -   Characters with the Mute [Regalia](Regalia.md) would instead be spared and insulted "INFERIOR" when knocked by them, similar to various guards when you have maximum reputation.
+-   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Gaurdians out of the dungeon to avoid going to The Depths because it is a Voidzone
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 
