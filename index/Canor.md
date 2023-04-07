@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 59012
+revid: 59055
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,7 +15,7 @@ Chance of obtaining race: **15.2%**
 
 ## Description
 
-Canors are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canors appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canors are also heavily favored by the Authority. Canors have 3 distinct facial markings to choose from.
+Canors are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canors appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canors are also heavily favored by the Authority. Canors have three distinct facial markings to choose from.
 
 ## Racial Traits
 

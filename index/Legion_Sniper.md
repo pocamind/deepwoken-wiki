@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 58242
+revid: 59067
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -52,7 +52,7 @@ Grand Javelin
 ## Tips
 
 -   They are always hostile, no matter your Reputation with the Legion, **you will not lose Reputation from killing this one.**
--   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
+-   He will let you get 1 hit in before parrying the 2nd, so **just hit it once and prepare to parry his attacks.**
 -   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
 -   Grand Javelin can be blocked with high enough posture.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**

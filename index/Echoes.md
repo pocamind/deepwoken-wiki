@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 59016
+revid: 59072
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Echoes, Character, Mechanics, Creatio
 
 File:All Echo Upgrades.png
 
-A picture of all Echo Upgrades fully Unlocked.
+A picture of all Echo Upgrades fully Unlocked. (Outdated)
 
 ## Overview
 

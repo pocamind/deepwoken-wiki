@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 59014
+revid: 59056
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -93,4 +93,3 @@ Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors with
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.
 -   Hatred toward the race is not really heartfelt. Mostly purely satirical meaning you aren't really at risk of any hate-crimes. Though the hatred for this race stems from their nature as Kemonomimis which is a trait no other race exhibits so much as Felinors do.
--   Oddly enough, one of the most expressed races in Deepwoken as a lot of players attracted to the race show off the characteristics of a Felinor **for better or for worse.**
