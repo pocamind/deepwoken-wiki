@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 53369
+revid: 59130
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -8,9 +8,9 @@ categories: [Character, Attributes]
 
 # Attributes Unbound
 
-“ SILLINESS UNBOUND!!! HEHEHE!! ”
+“ whoever made this previous quote must be the biggest nerd ever ”
 
-― Manic Capra after unbounding his SILLINESS
+― -hateful wiki-browser
 
   
 **Attributes Unbound**, also known as _uncapping_ or _limit breaking_, are a set of Talent Cards that the player can obtain to push their training further than that of the common man.

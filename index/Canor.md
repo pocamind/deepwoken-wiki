@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 59055
+revid: 59106
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -25,7 +25,7 @@ Canors are an uncommon race considered to have the characteristics of a canine b
   <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
   <td><b>Loyalty -</b> <i>Your bond with your allies is strong enough to reduce damage between you.</i>
   <ul>
-    <li>Guildmates take less damage from you and deal less damage to you.</li>
+    <li>Allies take less damage from you and deal less damage to you.</li>
   </ul></td>
 </tr>
 <tr>
@@ -89,4 +89,3 @@ Loyalty makes combat practice and spars with housemates difficult
 -   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canors to be based on both Lions and dogs.
--   It's possible that the Loyalty perk also procs from Vow of Mastery
