@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 56446
+revid: 59081
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -684,15 +684,6 @@ You can choose your first name from any available, but your choices of last name
 -   Winter
 -   Yakub
 
-## Last Names
-
-### Generic
-
--   Fording
--   Humbell
--   Huthering
--   Ruther
-
 **Adret:**
 
   
@@ -922,4 +913,5 @@ You can choose your first name from any available, but your choices of last name
 -   Names such as "Kaladin" and "Adolin" are references to the book series, "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Zote" and "Quirrel" are references to the indie game, "Hollow Knight" by Team Cherry.
 -   The name "Link" is a reference to- wait does this one really need explaining?
--   The name "Faust" is likely a reference to [Faust](https://guiltygear.fandom.com/wiki/Faust) from epic video game series "[Guilty Gear](https://guiltygear.fandom.com/wiki/Guilty_Gear_Wiki)"
+-   The name "Faust" is likely a reference to [Faust](https://guiltygear.fandom.com/wiki/Faust) from epic video game series "[Guilty Gear](https://guiltygear.fandom.com/wiki/Guilty_Gear_Wiki)."
+-   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the Lightborn last name.

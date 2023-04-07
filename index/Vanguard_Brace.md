@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 48894
+revid: 59098
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -12,7 +12,7 @@ categories: [Armors, Arms, Equipment]
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | ?? |
+| selling price | 30 |
 | requirements | N/A |
 | weight | 2 |
 | innate stats | Random Placeholder Stats |
@@ -30,4 +30,4 @@ The Vanguard Brace is an equipment piece under the "Arms" category. They can be 
 
 ## Trivia
 
--   They are obtained for free from the tutorial and are commonly found in Erisia, making these very common armor pieces and aren't worth much.
+-   They are obtained for free from the tutorial and are commonly found in Erisia, making these very common armor pieces and they aren't worth much.

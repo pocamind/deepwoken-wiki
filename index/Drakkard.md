@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 59057
+revid: 59102
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -26,7 +26,7 @@ A race of nomadic dragons from the North.
   <td>File:Flame Icon.png</td>
   <td><b>Teachings of the Edenkite</b>
   <ul>
-    <li><i>"Meditate and regenerate health."</i>
+    <li><i>"Find your centre."</i>
   <ul>
     <li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
   <ul>
