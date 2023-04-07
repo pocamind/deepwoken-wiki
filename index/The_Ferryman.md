@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 58870
+revid: 59195
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -8,9 +8,12 @@ categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 
 # The Ferryman
 
-“ You measured the risk, and you took the chance.  
+“ You measured risk, you took the chance,  
 
-Now dance puppet! Dance if you can!  
+Now what awaits, guess, in advance -  
+
+DANCE, puppet, dance! Dance if you can!  
+
 The flames have called the Ferryman!  
 ”
 

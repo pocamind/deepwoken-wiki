@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 58946
+revid: 59217
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1698,10 +1698,10 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
 -   The weapon with the highest:
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Shattered Katana (100 MED)
-    -   Dual Requirement: Hivelord Hubris (100 HVY, 60 STR)
-    -   Penetration: Nemit's Sickle, Kyrsedge, Kyrstreza, Shattered Katana, First Light (30%)
+    -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
+    -   Penetration: Hallowscleave (35%)
     -   Chip damage: Night Axe (60%)
-    -   Scaling: Revolver, Divine Greatsword (15)
+    -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer Hammer (12)
-    -   Range: Revolver, Dragoon (12)
-    -   Swing Speed: Divine Dagger (1.15x)
+    -   Range: Revolver, Divine Flintlock (12)
+    -   Swing Speed: Divine Flintlock (1.3x)

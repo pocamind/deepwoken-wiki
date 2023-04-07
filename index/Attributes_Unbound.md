@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 59130
+revid: 59235
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -8,11 +8,6 @@ categories: [Character, Attributes]
 
 # Attributes Unbound
 
-“ whoever made this previous quote must be the biggest nerd ever ”
-
-― -hateful wiki-browser
-
-  
 **Attributes Unbound**, also known as _uncapping_ or _limit breaking_, are a set of Talent Cards that the player can obtain to push their training further than that of the common man.
 
 [Attributes](Attributes.md) are normally allowed to go up to 75 (77 if a race start with +2 in it). Obtaining these cards allow the player to go up to 100 (102 if a race start with +2 in it). Only a handful of talents require stats past 75, so uncapping is not a necessity for every build.
@@ -35,7 +30,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 2.  Enter Fort Merit and go into the prison cell area.
 3.  Take the second hallway to the right after taking the stairs until you find a hole to slide into. Alternatively, if you do not have a negative reputation with the guards in Fort Merit, take the first hallway to the right and follow it until the end.
 4.  Talk to Brutus, a large Khan sitting alone in a cell.
-5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met. (Note: The guards can grip you while you are downed, bring a friend or block up the entrance to avoid this)
+5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met. (Note: The guards can grip you while you are downed, bring a friend or block up the entrance to avoid this, you can also get good/neutral rep with the Authority so they dont grip, but still be aware of any player nearby.)
 
 ### Agility Unbound
 
@@ -51,7 +46,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
 6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
-    1.  **If you have carnivore:** get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.
+    1.  **If you have carnivore:** ~get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.~ Now you only need to only eat 1 bluecap even if you have carnivore, you will vomit it out losing some hunger and thirst, but still will get the unbounded intelligence talent. (Tested.)
 
 Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
 

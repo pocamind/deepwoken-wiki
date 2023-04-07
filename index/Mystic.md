@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 58993
+revid: 59200
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -40,7 +40,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I am an everlasting bastion. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
--   _In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
+-   _(CURRENTLY DOES NOT APPEAR) In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
 
 ### Agility
 

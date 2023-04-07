@@ -1,18 +1,12 @@
 ---
 title: Books
-revid: 58207
+revid: 59242
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
 ---
 
 # Books
-
-“ I aint reading allat ”
-
-― almost everyone who has picked up a book
-
-  
 
 ## Description
 
@@ -99,7 +93,7 @@ It is recommended to use a text-to-image converter (e.g. [https://www.imagetotex
 > 
 > Yet, to us, they are simply considered 'monsters.'
 > 
-> You all fail to see it's social progress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose?
+> You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose?
 > 
 > For my own purpose. For your own purpose.
 

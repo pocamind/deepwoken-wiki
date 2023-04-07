@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 58734
+revid: 59241
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,9 +11,11 @@ notices:
 
 # Megalodaunt
 
-“ URAOblOblOOblWAUUGH ”
+“ There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother.
 
-― The entire wiki debating whether the quote should be the funny roar or lore
+Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? ”
+
+― Archivist Journal: 'Megalodaunt'
 
 _Commonly referred to as **Sharko**_
 
@@ -25,7 +27,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
+The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_, known for their strong social hierarchy with Alphas leading packs. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
 
 There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 talents, Engage at level 3 and Critical Attack at level 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
 
@@ -172,7 +174,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-A dark blue version of the Megalodaunt. they spawn in The Depths, [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), the [Starswept Valley](The_Starswept_Valley.md), [Aratel Island](Aratel_Island.md) and upper [Minityrsa](Minityrsa.md) inside of the [voidzone](Voidzones.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
+A dark blue version of the Megalodaunt. They can be found in The Depths, the [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), the [Starswept Valley](The_Starswept_Valley.md), [Aratel Island](Aratel_Island.md) and upper [Minityrsa](Minityrsa.md) inside of the [voidzone](Voidzones.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
 
 ## **Attacks**
 

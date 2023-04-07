@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 57010
+revid: 59186
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -14,42 +14,31 @@ categories: [Monsters, Layer 2]
 
 Template:Creature Info Box v2
 
-_Also known as El Chupacabra, Frogs or Skrillbo, and Frank._
+_Also known as 'El Chupacabra'_
 
 ## Overview
 
-Bounders are a monster found in Layer 2 of The Depths. They have very high health compared to common enemies, but rarely will you have a mandatory fight with one of these creatures.
+Bounders are monsters that dwell within the Layer 2 of The Depths. They are infamously known for their lethality, with an equally horrific appearance.
 
-Bounders have a very similar body type to [Megalodaunts](Megalodaunt.md), with differences like having much more elongated limbs, a hunched over body, a wider mouth, a huge set of sharpened teeth which wrap around the entire front of the head, and six black ringed eyes, similar to that of a spider.
+Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, is presented in a much more awful form. They feature a significantly hunched posture, elongated limbs, six ringed eyes and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
-When a Bounder spawns in, it will make a loud almost alien-like sound that seems to come from all directions, this should give you a fair 3-5 second warning before the Bounder will leap or charge to your location.
+Whenever an entity (or in most cases, prey) enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence, though not necessarily their aggression. By default, they will only crawl around in a relatively slow pace, only ever displaying its speed and agility while hunting.
+
+Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken both thanks for their exceptional lethality and their above average health pool. While they have a relatively discernible pattern of behavior, there is still potential for Bounders to have behavior that is more erratic and unpredictable, amplifying its already impressive lethality in the form of hard hitting moves. An absolutely unforgiving terror that can finish off anyone who isn't accustomed to their behavior within seconds.
 
 ## Moveset
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Leap | A move that the Bounder will only use at long range, it is advised to not be anywhere near it
-as you cannot parry or dodge it.
-
- | ✗ | ✗ | (★☆☆) |
-| Slam | A short range version of Leap. | ✗ | ✗ | (★★☆) |
-| Slash | The Bounder slashes with its arms twice with a delay in-between each slash.
-
-There is another variant of this attack where it only slashes once.
-
- | ◯ | ✗ | (★☆☆) |
-| Charge | The Bounder will lower its head and charge on the 3rd time he lowers his head. This move can be dodged.
-
-Be wary as this move has a short windup and can deal a large amount of damage.
-
- | ✗ | ✗ | (★★★) |
+| Leap | Bounder leaps a large distance towards their prey, slamming down to damage and disorientate them. | ✗ | ✗ | (★☆☆) |
+| Slam | Bounder leaps a short distance towards their prey, slamming down to damage and disorientate them. | ✗ | ✗ | (★★☆) |
+| Slash | Bounder slashes their arms at their prey either once or twice, utilizing their claws to tear through them. | ◯ | ✗ | (★☆☆) |
+| Charge | The Bounder will lowers its head and continuously stomps it's foot before charging in the direction of their prey, knocking them down and damaging them in the process. | ✗ | ✗ | (★★★) |
 
 ## Trivia
 
--   Its legs have a high resemblance to that of a frog, shown even more with its ability to leap far and high.
--   Like every other layer 2 monster, [Mute (Animal King)](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders and they will still attack on sight.
--   The Bounder looks while similiar to a megalodaunt, is very similiar to a frog although ironically has spider-like eyes. When preparing a running bash they rev up their feet similiar to a Bull moving one of its legs back and forth before charging full on.
--   Bounders seemingly can reproduce as they have a Nest, they seem to inhabit the lower areas of the Eternal Gale floor 1
--   It was said by Archmage that there was suppose to be a type of Bounder that was infected with Parasites, however, this never appeared in-game
--   For anyone struggling with killing bounders, its attack pattern is extremely similar to that of a Sand Knight. - 1 or 2 Slashes, When 2 Slashes; you can hit after the first slash and then parry the second one. - Sometimes it does a Jump attack if you get too far which can be compared to sand knights pillar attack. - and after the 1 or 2 slashes, it will do a charge attack; which can be compared to the sand knights kick attack.
--   There is an in detail guide on how to fight bounders in this video: [https://www.youtube.com/watch?v=iQe71nCEUpk](https://www.youtube.com/watch?v=iQe71nCEUpk)
+-   Despite it's resemblance to the Megalodaunt, its anatomy more-so reassembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey. Without the whole tongue sticking business.
+-   Like every other Layer 2 monster, [Mute](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders.
+-   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
+-   It was said by Archmage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
+-   There is an in detail guide on how to fight bounders in this video: [https://www.youtube.com/watch?v=iQe71nCEUpk](https://www.youtube.com/watch?v=iQe71nCEUpk).
