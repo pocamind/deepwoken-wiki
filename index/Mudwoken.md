@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 58506
+revid: 59382
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, April Fools]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, April Fools]
 
 # Mudwoken
 
-Template:Races-Main
+| Mudwoken | |
+|---|---|
+| effects | Majority of NPCs and all players become Mudskippers |
+| items | None |
+| type | April Fools Update |
 
 ## Mudwoken
 

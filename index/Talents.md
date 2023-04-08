@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59340
+revid: 59386
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -54,13 +54,13 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### **Card Terminology**
 
--   white
--   Red
--   Legendary
--   blindseer
--   minecraft golden apple
--   goofy ah rarity
--   golden seaweed
+-   Common
+-   Rare
+-   Advanced
+-   Oath
+-   Mantra
+-   Mystery
+-   Trait
 
 ## Talents
 
@@ -89,13 +89,13 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Aerial Dancer
 
--   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. (+3 Health)
+-   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
     -   Synergizes well with Aerial Stab or mantras that send the user and target in the air.
     -   Prerequisites: 15 Strength, 25 Medium Weapon, Medium Weapon
 
 ### Aeromancer
 
--   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+-   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
     -   Automatically ends after 5 seconds.
     -   Prerequisites: 35 Galebreathe, 30 Agility

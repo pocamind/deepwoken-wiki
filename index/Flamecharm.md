@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 58739
+revid: 59387
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -31,7 +31,7 @@ Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Man
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At Power 1, players will receive the _Flamecharmer_ Talent upon picking the Flamecharm Attunement on spawn.
--   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 2-star Flamecharm mantras
+-   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras
 

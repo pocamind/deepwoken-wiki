@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 58882
+revid: 59368
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -206,7 +206,33 @@ Elemental Intensity is the ability to affect the environment around you. If a ma
 [Shadowcast](Shadowcast.md)
 
  |
-| Flame Grab(?) | Glacial Arc | Grand Javelin (?) | Air Force (?) | Strong Left (Strength) | Needs testing... |
+| Flame Grab
+
+Fire Blade
+
+ | Glacial Arc
+
+Ice Smash
+
+ | Thunder Kick
+
+Lightning Beam
+
+Lightning Blade
+
+ | Tornado Kick
+
+(?)
+
+ | Strong Left
+
+Rapid Punches
+
+ | Eclipse Kick
+
+(?)
+
+ |
 
 There are believed to be more mantras that scale from intensity, but they have yet to be identified.
 
