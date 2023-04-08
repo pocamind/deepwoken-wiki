@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 57259
+revid: 59355
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -94,7 +94,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
 -   The name "Funke" (Thundercall master) means "Spark" in German.
 -   Nostor wears a ministry ouftit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the Spelltrainers.
+-   For [Silentheart](Oaths.md) progression, the player must kill all of the Spelltrainers. (Excludes Regek)
     -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 59327
+revid: 59360
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Symptoms of Coral Fever includes:
 -   Destroyman III face decal
 -   Intermittent and contagious sneezing (replaced spitting)
 
-With the original strand of Coral Fever contained, Destroyman III was set to dissapear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only include Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will remove Destroyman III.
+With the original strand of Coral Fever contained, Destroyman III was set to disappear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only include Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will remove Destroyman III.
 
 ## Quotes
 

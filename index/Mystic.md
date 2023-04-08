@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 59200
+revid: 59351
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -27,7 +27,7 @@ Mystic is a [Chrysid](Chrysid.md) NPC that appears in multiple locations around 
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare and Advanced talents do not have associated options. Here are but a few of the possible prompts:
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystic at all. Here are but a few of the possible prompts:
 
 ## Attributes
 
@@ -40,7 +40,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I am an everlasting bastion. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
--   _(CURRENTLY DOES NOT APPEAR) In nature, I am at home. **(Freak of Nature; Exoskeleton, To the Finish, Potion Quaffer)**_
+-   _In nature, I am at home. **(Survivor)**_
+-   **\[will not appear since Mystic does not affect rares\]** _I'm built different. **(Freak of Nature)**_
 
 ### Agility
 

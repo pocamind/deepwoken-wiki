@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 33884
+revid: 59348
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,7 +13,7 @@ notices:
 | The Summer Company | |
 |---|---|
 | territory | Summer Isle |
-| goals | Profit, no matter who's the customer. |
+| goals | Profit, no matter who's the customer.Aggresively compete with the Ignition Union. |
 
 “ If you're not here to buy something, then leave. ”
 
@@ -29,15 +29,15 @@ As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer C
 
 They are one of the three factions employed by [The Authority](The_Central_Authority.md).
 
-They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves.
+They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves. They also rewire the Union's security devices; the Mechalodaunts, making them aggresively attack friend and foe alike.
 
 ## Reputation
 
 As with all other groups in the game, having too low of a reputation with the Summer Company will have multiple adverse effects. The Antiquarian, Blacksmith, Jarvis and all Store NPCs will refuse to trade with you if the Summer Company considers you an enemy. Furthermore, Summer Company Guards will attack you on sight below a certain Reputation. It is worth noting that the Explosives Crate quest/turn-in NPC is not affected by your Reputation.
 
-To restore your reputation with the Summer Company, head to the Bridge behind Fort Summer. At the end of the bridge, leaning against a pillar, is a Summer Company Guard reading a book. Talking to this NPC whilst your Reputation with the Summer Company is favorable will not result in anything, however, if you speak to them whilst you are considered an Enemy of the Summer Company, they inform you that they "Collect the crime tax around here", and will restore your reputation with the Summer Company to being favorable for a price of approximately 150 notes (On average.)
+To restore your reputation with the Summer Company, head to the Bridge behind Fort Summer. At the end of the bridge, leaning against a pillar, is a Summer Company Guard reading a book. Talking to this NPC whilst your Reputation with the Summer Company is favorable will not result in anything, however, if you speak to them whilst you are considered an Enemy of the Summer Company, they inform you that they "Collect the crime tax around here", and will restore your reputation with the Summer Company to being favorable for a price ranging from 30-300 notes.
 
-In addition, completing the Explosives Crate quest will allow you to increase your reputation with the Summer Company.
+In addition, turning in explosive crates and sacks (Starswept Valley and Bluster Rift respectively) allow you to increase your reputation with the Summer Company.
 
 ### **Dialogue**
 
