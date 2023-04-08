@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59386
+revid: 59392
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -106,40 +106,41 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: Galetrap
 
--   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
-    -   Prerequisite: 15 Galebreathe, Gale Punch
+-   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
+    -   Prerequisite: 20 Galebreathe, Gale Punch
 
 -   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 25 Galebreathe
+    -   Prerequisite: 25 Galebreathe, Galebreather
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
 
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 35 Galebreath, Suffocating Impact
+    -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-    -   Prerequisite: Suffocating Impact
+-   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
+    -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
 ### Alchemist
 
--   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+-   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence, Brewed a Potion
 
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
-    -   Prerequisite: 80 Intelligence
--   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+    -   Prerequisite: 80 Intelligence, Brewed a Potion
+
+-   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
-    -   Prerequisites: 15 Intelligence, Brewed a Potion
+    -   Prerequisites: 25 Intelligence, Brewed a Potion
 
--   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them. (+3 Health)
-    -   Prerequisites: 60 Intelligence, Drank Potion
+-   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
+    -   Prerequisites: 55 Intelligence, Brewed a Potion
 
--   _Subsistence_ \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
+-   _Subsistence_ \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion.
     -   Improved version of Apothecary.
-    -   Prerequisite: 10 Fortitude/10 Willpower, 30 Intelligence, Drank Potion
+    -   Prerequisite: 10 Fortitude or 10 Willpower, 30 Intelligence, Brewed a Potion
 
--   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+-   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed.
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
     -   Prerequisites: 25 Intelligence, Brewed a Potion
 
@@ -163,23 +164,23 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
     -   Generally dangerous to use without Pyromaniac.
-    -   Prerequisite: 20 Flamecharm
+    -   Prerequisite: 25 Flamecharm
 
--   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity, +1 Health)
+-   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)
     -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
-    -   Prerequisites: Flame Within, 30 Flamecharm
+    -   Prerequisites: 30 Flamecharm, Flame Within
 
 ### Angler
 
--   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
-    -   Obtained after fishing 50 times successfully.
+-   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
+    -   Obtained after fishing 25 times successfully.
     -   Increase the rate of hooking something while fishing.
 
--   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Obtained after fishing 25 times successfully.
+-   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose.
+    -   Obtained after fishing 50 times successfully.
     -   Reduces the chance of failure while fishing.
 
--   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
+-   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
     -   Obtained after fishing 10 times successfully.
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
 
@@ -193,7 +194,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisite: Carnivore
 
--   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.
+-   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
     -   Prerequisite: Power 11
@@ -210,40 +211,44 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: Around 15 - 20 assassinations, 10 Agility
+    -   Prerequisites: assassinate 10 enemies, 10 Agility
+
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
-    -   Prerequisite: 20 Agility
+    -   Prerequisite: 20 Agility or obtained through outfits
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
-    -   Prerequisite: Around 15 - 20 assassinations, 20 Agility
+    -   Prerequisite: 20 Agility
+
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
+    -   Prerequisite: 55 Agility
 
 ### Athlete
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
+    -   Prerequisite: Power 1
 
--   Pitcher \[Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
-    -   Prerequisites: 5 Strength, 5 Agility
+-   Pitcher \[Common Talent\] - You can throw things further.
+    -   Prerequisites: 5 Strength, 5 Agility, throw an object
 
 ### Authority Interrogator
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
-    -   Prerequisites: Power 10, 60 Thundercall
+    -   Prerequisites: Power 10, 60 Thundercall, Thundercaller
 
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
-    -   Prerequisites: Power 13, 65 Thundercall
+    -   Prerequisites: Power 13, 65 Thundercall, Resolve Crusher
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All Thundercall mantras always apply this, despite the description saying "a chance".
-    -   Prerequisites: Power 13, 65 Thundercall
+    -   Prerequisites: Power 10, 65 Thundercall, Thundercaller
 
 -   Second Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
-    -   Prerequisites: Power 13, 65 Thundercall
+    -   Prerequisites: Power 13, 65 Thundercall, First Interrogation
 
 -   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
-    -   Prerequisites: Power 13, 65 Thundercall
+    -   Prerequisites: Power 13, 65 Thundercall, Second Interrogation
 
 ### Bastion
 
@@ -253,6 +258,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+    -   Prerequisites: 25 Fortitude
+
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
@@ -266,11 +273,11 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude, 30 Willpower & **all** common bastion talents.
+    -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
 
 ### Blindseer
 
--   _All-Seeing eye \[Unlockable talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
+-   _All-Seeing Eye \[Unlockable talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
     -   Prerequisites: Save 4 Pathfinders from the depths.
 
 ### Beast Slayer
@@ -731,6 +738,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
+
 -   _Taste Test_ \[Common Talent\] - When consuming a potion you have a 25% chance of not depleting the potion you consumed.
     -   Prerequisite: 80 Intelligence, Potion Quaffer.
 
@@ -1204,7 +1212,9 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 These are just raw stat increases and are beneficial to anyone.
 
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
+
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
+
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
@@ -1833,6 +1843,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+
 -   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores some of your Ether. (+1 Posture)
 
 ### Waterborne
@@ -1847,7 +1858,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Weapon Master
 
 -   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
-    -   Prerequisite: ? Light Weapons Mastery
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
     -   Prerequisite: 50 Heavy Weapons Mastery, Greathammer equipped
@@ -2174,8 +2184,9 @@ File:Thresherquest1.png
 -   Completing the quest will grant the talent or a free talent hand if you already have it.
 -   You will automatically gain this at Power 10 on all new slots.
 
-### Tree-Felling blow
+### Treefelling Blow
 
+-   You can collect lumber from the trees you fell with your fists. It's only natural. (+1 Posture, +4 Carry Load)
 -   Requires Strong left
 -   Quest giver located at Etris and The Isle Of Vigils they are the NPC that gives you a free lumber axe. Tell them about your wood.
 -   Punch down 5 trees then return
