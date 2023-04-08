@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 57889
+revid: 59330
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -181,8 +181,6 @@ Map:The Unearthed Colosseum
 All Interactive maps can be found here.
 
 _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepwoken.net/) for _Deepwoken_ locations, many thanks to _hlelo\_wolrd_ and _zoebasil_.
-
-Icon by Tako#3245
 
 ## Trivia/Notes
 

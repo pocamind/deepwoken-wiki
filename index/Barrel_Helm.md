@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 49284
+revid: 59311
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]

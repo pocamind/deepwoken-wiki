@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 57763
+revid: 59310
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Lionfish
 
-“ This is the power of a released Espada... Cero Oscuras ”
+“ ..The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
 
-― A Lionfish before instakilling a freshspawn in the depths
+― Lionfish Scale Description
 
 **Lionfish:**
 

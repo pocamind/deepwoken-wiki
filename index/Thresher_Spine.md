@@ -1,6 +1,6 @@
 ---
 title: Thresher Spine
-revid: 56359
+revid: 59306
 source: https://deepwoken.fandom.com/wiki/Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -10,7 +10,7 @@ categories: [Items, Drops]
 
 “ In the Boundary, a strange region between the Surface and the Depths, it's said that creatures that wander too deep are affected by the Song in strange and inscrutable ways, their souls teetering on the very brink of oblivion as the unstoppable pull of the Deep threatens to drag them under. It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
 
-― Thresher Spine?
+― Thresher Spine
 
 (Different from King Thresher Spines)
 

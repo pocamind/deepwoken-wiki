@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 57895
+revid: 59308
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,12 @@ categories: [Monsters]
 
 # Rock Golem
 
-“ I'll try spinning, that's a good trick ”
+“ [He](Duke_Ishamon_Erisia.md) could give life to stone with that thing on his hip, though he never explained how. ”
 
-― Golem Primes before shredding a player's health and posture bar
+― Alastir, Pathfinder of Erisia
+
+  
+_Also referred to as Erisia Golem or Erisian Golem_
 
 **Erisian Golem:**
 
@@ -18,7 +21,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-**Rock Golems** (also referred to as a Golem, or Erisian Golem) are large, bulky stone constructs with a distinct, glowing, white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless.
+**Rock Golems** are large, bulky stone constructs with a distinct, glowing, white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
 
 Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [The Garden Reservoir](The_Garden_Reservoir.md), but they can also be found through the following events:
 

@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 53419
+revid: 59339
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Candidates for deletion, Armors, Outfits, Items]
@@ -11,3 +11,7 @@ notices:
 # Veteran Adventurer
 
 Template:ArmorInfobox**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+
+## Trivia/Notes
+
+-   Worn by the felinor you can find in starswept

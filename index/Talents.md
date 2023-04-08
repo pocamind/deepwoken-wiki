@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59160
+revid: 59340
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -54,13 +54,13 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### **Card Terminology**
 
--   Common
--   Rare
--   Advanced
--   Oath
--   Mantra
--   Mystery
--   Trait
+-   white
+-   Red
+-   Legendary
+-   blindseer
+-   minecraft golden apple
+-   goofy ah rarity
+-   golden seaweed
 
 ## Talents
 
@@ -879,7 +879,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and[Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 60 Willpower, 40 Intelligence
+    -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Slowly drain Sanity for 20 Seconds.
     -   Upon activation, the character yells out in a distorted voice; along with chanting in a distorted text.

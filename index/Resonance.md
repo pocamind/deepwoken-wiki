@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 58208
+revid: 59301
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -137,7 +137,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 
 -   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur.md)** murmur if you do not already have a murmur. _**Do not fight him if you intend to get [Tacet](Murmur.md) or [Rhythm](Murmur.md).**_
 
--   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **Verse 2.** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community.  
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community.  
     
 -   **[The Enforcer](Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wipe from disconnect or being jumped in your trial is still a very real possibility.  
     
@@ -195,7 +195,7 @@ A very specific and unique **Resonance Door** is within a cave in The Depths, an
 -   One can visit [Yamaketzal](Yamaketzal.md) simply so that they can gain functionality of their bell.
 -   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.
 
-In accordance with the old pre-Verse 2 rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
+In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
 
 ## Unobtainable Resonances
 

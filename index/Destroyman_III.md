@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 59104
+revid: 59327
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -121,6 +121,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 -   You, uh.. you doin' good? I'm not asking because i care, I'm asking because i was coded to.
 -   TIP: I am currently banned from Lance Leshi's restauraunt. I have started a petition.
+-   I don't feel so good..
 
 Remove Quotes
 
@@ -144,6 +145,7 @@ Remove Quotes
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
+-   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds. (Yippee!)
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQtR2w](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from No More Heroes.

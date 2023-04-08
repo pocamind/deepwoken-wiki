@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 57954
+revid: 59307
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Thresher
 
-“ Mannn I hate livin' in Detroit on goddddd ”
+“ ..It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
 
-― Authority captain before being ripped apart by a gang of Threshers
+― Thresher Spine Description
 
 **Thresher:**
 
@@ -20,7 +20,7 @@ _Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Liza
 
 ## Description
 
-Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
+Blind and using their amazing sense of smell to find prey, Threshers are hostile crocodilians that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
 
   
 
@@ -35,7 +35,7 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 
 ## Passives
 
--   **Serrated Claws/Teeth** - Threshers have 100% PEN.
+-   **Serrated Claws** - Threshers have 100% PEN.
 
 ## Finishers
 
@@ -55,7 +55,7 @@ Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
 -   The most dangerous and aggressive monster for lower-leveled players in the Depths. Once they enter their burrowing state, they will continue to follow the player they're currently aggro'd onto across all terrain _regardless of height or depth._ (This includes the bottom parts/void of the Depths, which is normally a killzone for you and any other Depths monster)
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
--   You can use Thresher bait to spawn Threshers in sandy areas (Starswept), just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
+-   You can use Thresher bait to spawn Threshers near water, just like Megalodaunt bait. So you could spawn a bunch at Lower Erisia for whatever purposes you have. Just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
 -   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
 -   No Thresher can swim, if they end up in the sea they will sink and despawn.
     
