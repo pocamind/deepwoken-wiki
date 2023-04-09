@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 59438
+revid: 59439
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -20,11 +20,11 @@ Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fou
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
-Appearance wise, he is a young male [Adret](Adret.md) characterised by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them.
+Appearance wise, he is a young male [Adret](Adret.md) characterized by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them.
 
 ## Moveset
 
-Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead he uses long-range blood related [mantras](Mantras.md) which are channelled through the jars of blood located around the cathedral.
+Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead he uses long-range blood related [mantras](Mantras.md) which are channeled through the jars of blood located around the cathedral.
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 
 -   A variety of deep gems.
 -   Multiple Kyrsan bone weapons.
--   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guarented to be at least 1 star quality.
+-   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guaranteed to be at least 1 star quality.
 -   Rarely, enchantment stones.
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
@@ -154,7 +154,7 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 
 **(2)** - I won't be fooled again.
 
--   **(C)** - Again? It hasn't happend yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- \[ATTACKS\]
+-   **(C)** - Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- \[ATTACKS\]
 
 ### If you attack him mid-dialogue
 
