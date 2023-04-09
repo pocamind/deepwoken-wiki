@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 58887
+revid: 59500
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -36,11 +36,12 @@ categories: [Deepwoken]
 
 ### **Thundercall**
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical. The name matches up and works nearly the same as the "Lightning Release Armour" Jutsu, often called "Cloak of Lightning"
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical.
+    -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
 -   **Grand Javelin** is inspired by the Lightning Spear spells ([Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear), [Great Lightning Spear](https://darksouls.wiki.fextralife.com/Great+Lightning+Spear), and [Sunlight Spear](https://darksouls.wiki.fextralife.com/Sunlight+Spear)) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
--   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer_
-    -   It also bears striking resemblance to the spell "Shock Assault" from _Wizard Of Legend,_ having a similar name and similar effects.
+-   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer._
+    -   It also bears striking resemblance to the spell ["Shock Assault"](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
 -   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
 
 ### **Frostdraw**
@@ -49,7 +50,7 @@ categories: [Deepwoken]
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 -   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
--   **Ice Eruption** has a wind-up noise that references Sekiro: Shadows Die Twice's perilous attack noise
+-   **Ice Eruption,** much like **Ascension,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 
 ### **Galebreathe**
 
@@ -80,12 +81,13 @@ categories: [Deepwoken]
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
         -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology
+    -   **Ascension,** much like **Ice Eruption,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 -   **Silentheart** takes inspiration from the _Fire Emblem_ series:
-    -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia_
-    -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance
-    -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates_
-    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the talent, slicing the enemy multiple times
--   **Dawnwalker's** _Radiant Kick_ is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) _"Judgement!"_ from _ULTRAKILL._
+    -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
+    -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.
+    -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
+    -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the talent, slicing the enemy multiple times.
+-   **Dawnwalker's** Radiant Kick is slightly similar to [Minos Prime's](https://ultrakill.fandom.com/wiki/Minos_Prime) dropkick attack where he says _"Judgement!"_ from _ULTRAKILL._
 -   The obtainment for **Contractor** was inspired by finding [Darkstalker Kaathe](https://darksouls.wiki.fextralife.com/Darkstalker+Kaathe) in _Dark Souls._
 
 ## Enemies/Bosses
@@ -114,7 +116,7 @@ categories: [Deepwoken]
 -   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
     -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter X Hunter_ Greed Island Arc.
 -   **Shard Bow** may be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archive._
-    -   It is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
+    -   It's triple-shot variant is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 -   **Jar of Souls** is possibly a reference to _The Binding Of Isaac: Repentance_ item, [Urn of Souls](https://bindingofisaacrebirth.fandom.com/wiki/Urn_of_Souls).
 
 ## Talents
@@ -155,6 +157,13 @@ categories: [Deepwoken]
 -   **Stormbreaker** is a reference to the weapon used by Thor of the same name from _Marvel Comics_.
 -   **Elastic** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter x Hunter_.
 -   **Obfuscation** and **Heroism** are references to [Artoria Pendragon's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Excalibur](https://typemoon.fandom.com/wiki/Excalibur?so=search) from the _Fate_ franchise.
+-   [Multiple enchants are taken directly](https://pixeldungeon.fandom.com/wiki/Enchantment) from _Pixel Dungeon. A list of these are..._
+    -   Blazing.
+    -   Grim.
+    -   Vampirism (Vampiric).
+    -   Chilling.
+    -   Unstable.
+    -   Wild.
 
 ## World
 
@@ -191,9 +200,9 @@ categories: [Deepwoken]
 
 #### Layer 2 (The Eternal Gale)
 
--   After beating the [Scion of Ethiron](Scion_of_Ethiron.md), you are forced to run to the exit with a time limit all the while instant kill orbs spawn around you. This is all ripped from _Risk of Rain 2_, as [you do the same thing](https://riskofrain2.fandom.com/wiki/Mithrix#Arena_Escape_Portals) after beating [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix) on [Commencement](https://riskofrain2.fandom.com/wiki/Commencement).
+-   After beating the [Scion of Ethiron](Scion_of_Ethiron.md), you are forced to run to the exit with a time limit all the while [instant kill orbs](https://riskofrain2.fandom.com/wiki/Void_Reaver?so=search) spawn around you. This is all ripped from _Risk of Rain 2_, as [you do the same thing](https://riskofrain2.fandom.com/wiki/Mithrix#Arena_Escape_Portals) after beating [Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix) on [Commencement](https://riskofrain2.fandom.com/wiki/Commencement).
     -   This is also reinforced by the fact that the spawning sounds for the white orbs are just the [Void Reaver](https://riskofrain2.fandom.com/wiki/Void_Reaver) death implosion sound effect.
--   Among a hidden cliff, a frozen [Yeti](https://rogue-lineage.fandom.com/wiki/Yeti) from Rogue Lineage can be found.
+-   Among a hidden cliff, a frozen [Yeti](https://rogue-lineage.fandom.com/wiki/Yeti) from _Rogue Lineage_ can be found.
 
 ### **Factions**
 
@@ -224,4 +233,4 @@ categories: [Deepwoken]
     -   Perceiving them drives you to insanity
     -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
     -   Have to be summoned via rituals
--   Sudaruska the Undying may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
+-   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.

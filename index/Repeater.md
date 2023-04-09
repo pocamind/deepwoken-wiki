@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 59402
+revid: 59494
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -8,7 +8,7 @@ categories: [Weapons, Guns]
 
 # Repeater
 
-| Repeater | |
+| Revolver | |
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
@@ -31,11 +31,27 @@ categories: [Weapons, Guns]
 
 The [Revolver](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through chests in [The Depths](The_Depths.md) or Chime. It requires 65 points in Light weapons to be utilized.
 
-The Revolver has a base damage of 13 and scales off of 15 light weapon. Much like other guns it has a unique attack pattern and has 12 range. It fires much faster than the [Flintlock](Flintlock.md) and [Dragoon](Dragoon.md). You could see it as a direct upgrade from the Flintlock. As with all the [guns](Guns.md), it has 1.3x attack speed. At 100 LHT, the Revolver does 32.5 damage per hit. At 75 LHT, the Revolver does 27.625 damage per hit.
+Because it is in the flintlock family of weapons, the functionality of the weapon is far different than others (refer to Effective Use).
+
+## Effective Use
+
+In general, each weapon within the flintlock family has its own unique m1 m2 cycle while dual-wielded. The Revolver's specific m1 m2 cycle is much faster than the rest, as a cooldown between shots are much less noticeable than others. Therefore, one must keep in mind their options.
+
+A Revolvers users' cycle can go like this:
+
+A) M1, M2, Critical, M1, M2, Critical, etc.
+
+B) M2, M1, Critical, M2, M1, Critical etc.
+
+C) M1, M2, M1, M2, etc.
+
+It is heavily recommended for a newer gun user to use cycle C at first, as the first 2 cycles are hard to master. Once a user has mastered cycle A and B, it is best to move off to Dragoon for a better damage output. These cycles are useful for Dragoon users because of their slower cooldowns, rewarded with higher damage.
+
+Alternatively, this can be used offhand with any other weapon as long as you meet the requirements, where a user only has to use m2 to shoot.
 
 ## Trivia
 
--   Has a chance to be enchanted from chests (obviously)
+-   Has a chance to be enchanted from chests.
 -   Cannot have stars when being purchased.
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
--   If you put an enchanted one in the offhand, it will instead use the effect of the mainhand. If the main hand is not enchanted, it will not have any effect.
+-   If you put an enchanted one in the offhand, it will instead use the effet of the mainh-and. If the main hand is not enchanted, it will not have any effect.

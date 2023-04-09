@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 59403
+revid: 59501
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -12,7 +12,7 @@ categories: [Weapons, Guns]
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
-| damage | 18 |
+| damage | 17 |
 | scaling | 12 |
 | range | 11 |
 | swing speed | 0.8x |
@@ -29,12 +29,24 @@ categories: [Weapons, Guns]
 
 ## **Description**
 
-The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip.
+The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip. Because it is in the flintlock family of weapons, the functionality of the weapon is far different than others (refer to Effective Use).
 
-The Dragoon has a base damage of 18, has 12 light weapon scaling, and has a range of 11. It fires slower than the revolver and flintlock, but packs more of a punch. It carries the same attack speed and attack pattern as its contemporaries. The Dragoon has a damage of 44 at 100 LHT, and 38 at 75 LHT.
+## Effective Use
+
+In general, each weapon within the flintlock family has its own unique m1 m2 cycle while dual-wielded. The Dragoon's specific m1 m2 cycle is much slower than the rest, as a cooldown between shots are much more noticeable than the other. Therefore, one must keep in mind their options.
+
+A Dragoon users' cycle can go like this:
+
+A) M1, M2, Critical, Cycle B, etc.
+
+B) M2, M1, Critical, M2, M1, Critical etc.
+
+When using a dual-wielded Dragoon, it needs to be known that critical will put an m1 on cooldown, however the vice versa does not occur. Many dual-wielding Dragoon users use this fact to their advantage; however, this can be pretty annoying to remember in a fight. Therefore, the use of [Revolvers](Repeater.md) is recommended for newer players until they can consistently pull off these cycles. These cycles are useful for Dragoon users because of their slower cooldowns, rewarded with higher damage.
+
+Alternatively, this can be used offhand with any other weapon as long as you meet the requirements, where a user only has to use m2 to shoot.
 
 ## Trivia
 
 -   Purchased guns will not come with stars or enchants.
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
--   If you put an enchanted one in the offhand, it will instead use the effect of the mainhand. If the main hand is not enchanted, it will not have any effec
+-   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main hand is not enchanted, it will not have any effect.
