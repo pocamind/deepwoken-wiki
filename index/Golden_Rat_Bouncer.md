@@ -1,12 +1,14 @@
 ---
 title: Golden Rat Bouncer
-revid: 58058
+revid: 59449
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
 ---
 
 # Golden Rat Bouncer
+
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -25,8 +27,6 @@ His kit consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunemen
 | Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
 | Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-
-Template:EnemyInfobox1.0
 
 ## Trivia
 

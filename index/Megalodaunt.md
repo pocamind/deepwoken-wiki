@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 59241
+revid: 59452
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,9 +11,7 @@ notices:
 
 # Megalodaunt
 
-“ There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother.
-
-Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? ”
+“ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
 ― Archivist Journal: 'Megalodaunt'
 

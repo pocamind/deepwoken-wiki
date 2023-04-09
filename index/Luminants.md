@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 41081
+revid: 59483
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -10,7 +10,7 @@ categories: [Map, Attunement, Mantras, Magic, Locations]
 
 ## Description
 
-Luminants are described to be certain regions of the world in Deepwoken. As of 1/20/22, there is only one Luminant in the game, which is the Etrean Luminant, implied to be ruled by people of Etrea. In the future, you will be able to travel to other Luminants through the use of an [Interstitial Lighthouse](Lore.md#eastern-interstitial-lighthouse). Lighthouses are explained in the lore of [Lightkeepers](Lore.md#lightkeepers).
+Luminants are described to be certain regions of the world in Deepwoken. There is only one Luminant in the game, which is the Etrean/Eastern Luminant, ruled by people of Etrea. In the future, you will be able to travel to other Luminants through the use of an [Interstitial Lighthouse](Lore.md#eastern-interstitial-lighthouse). Lighthouses are explained in the lore of [Lightkeepers](Lore.md#lightkeepers).
 
 Once more Luminants are added, you will most likely be able to spawn in a different Luminant when creating a character. However, this is just speculation.
 
@@ -19,8 +19,6 @@ Once more Luminants are added, you will most likely be able to spawn in a differ
 A Luminant that is mostly under the rule of Etrea. It is the only current released Luminant. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. The Luminant is currently in a never-ending state of war, as the Central Authority has been fighting against Etrea for a while.
 
 The Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
-
-In the Legion camp in Lower Erisia there is a NPC named Gaius who implies the Luminant in game is the Eastern Luminant.
 
 This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all seem to use it.
 
@@ -36,10 +34,10 @@ It is home to the Legion and might be ruled over by the Khans. This is hinted at
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. It will not be added to the game due to it mostly being Voidsea.
 
 ## Northern Luminant
 
-The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris.
+The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is home to the Elder Edenkite, Drakkard and a species of thorny plant named Drakethistle.
 
 This Luminant is probably home to [Frostdraw](Frostdraw.md).
