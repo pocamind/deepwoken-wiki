@@ -1,14 +1,19 @@
 ---
 title: The Great Sharko Rumbling
-revid: 51970
+revid: 59429
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Lore]
-notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"lore page exists\""
+categories: [Lore]
 ---
 
 # The Great Sharko Rumbling
+
+| The Great Sharko Rumbling | |
+|---|---|
+| date1 | Winter 1291 |
+| date2 | March 12th 2022 9:21PM EST |
+| effects | Treasure chests doubled for three days |
+| type | Bug Compensation |
 
 _"Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. But, in the strange and inscrutable ways of the Deep, an age of plenty soon followed. So soon after a fall, our people were once again prospering..."_
 

@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 59367
+revid: 59403
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -32,3 +32,9 @@ categories: [Weapons, Guns]
 The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip.
 
 The Dragoon has a base damage of 18, has 12 light weapon scaling, and has a range of 11. It fires slower than the revolver and flintlock, but packs more of a punch. It carries the same attack speed and attack pattern as its contemporaries. The Dragoon has a damage of 44 at 100 LHT, and 38 at 75 LHT.
+
+## Trivia
+
+-   Purchased guns will not come with stars or enchants.
+-   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
+-   If you put an enchanted one in the offhand, it will instead use the effect of the mainhand. If the main hand is not enchanted, it will not have any effec

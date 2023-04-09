@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59392
+revid: 59436
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -357,7 +357,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   Prerequisites: 85 Intelligence
+    -   Prerequisites: 85 Intelligence, all Adept Caster talents
 
 ### Champion
 
@@ -413,13 +413,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Comrade
 
 -   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
-    -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude
+    -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff heals them slightly.
-    -   Prerequisite: Reinforce, 40 Fortitude
+    -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Lord Commander_ \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
-    -   Prerequisite: Reinforce, 40 Fortitude
+    -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Critical Specialist
 
@@ -433,6 +433,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.
+    -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
 -   _Thresher Fangs_ \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 200% damage to armor.
@@ -478,7 +479,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Assassin \[Common Talent, Agility\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
-    -   Prerequisite: 30 Agility
+    -   Prerequisite: 30 Agility, roughly 20 assassinations
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
     -   Prerequisite: 45 Agility
@@ -734,7 +735,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster.
-    -   Prerequisites: Drank potion, 15 Fortitude and 15 Willpower
+    -   Prerequisites: Drank potion, 30 Intelligence, 10 Fortitude **or** Willpower
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
@@ -787,7 +788,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
     -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
-    -   Prerequisites: 25 Light Weapons Mastery, Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
+    -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
 
 ### Galebreather
 
@@ -859,6 +860,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
+    -   Prerequisites: 20 Intelligence
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
@@ -1272,7 +1274,6 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
-    -   Prerequisites: 25 Light Weapon Mastery
     -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
 
 ### Nimble Blade
@@ -1286,6 +1287,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Omniscient
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
+    -   Prerequisites: 75 Intelligence
 
 -   _All Knowing_ \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity)
     -   Prerequisites: 60 Intelligence, Prediction (Intelligence [Mantra](Mantras.md))
@@ -1394,6 +1396,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Grant the speed from Wind Gates to the boat you are driving for a short duration.
+    -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 30 gale(may be lower)
 
 ### Seeker of Sound
 
@@ -1402,7 +1405,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Self-Shocker
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity)
-    -   Prerequisite: Static Withdraw
+    -   Prerequisite: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisite: Jumpstart
@@ -1513,7 +1516,7 @@ Prerequisite: Charisma
 ### Static Weaver
 
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
-    -   Prerequisite: Discovery of Fire
+    -   Prerequisite: Discovery of Fire, 1 Flamecharm
 
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
@@ -1547,6 +1550,7 @@ Prerequisite: Charisma
 ### Stormcaller
 
 -   Storm Link \[Common Talent, Thundercall and Galebreathe Exclusive\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+    -   Prerequisite: Static Link, 60 Thundercall, 50 Galebreathe
 
 ### Sturdy Resolve
 
@@ -1679,10 +1683,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
     -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped equipment.
+    -   Does not take enchanted equipment
 
 ### Thunder Brawler
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
+    -   Prerequisite: 20 Light Weapon, 20 Thundercall
 -   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to follow up on your opponent with a less potent kick. (+2 Elemental Intensity)
     -   Prerequisite: 30 Thundercall, Thunder Kick
 
@@ -1701,6 +1707,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
+    -   Prerequisite: Gathering Electricity
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+3 Elemental Intensity)
     -   Prerequisite: 40 Thundercall, 20 Medium Weapon
 
@@ -1724,7 +1731,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
-    -   Prerequisite: 50 Thundercall
+    -   Prerequisite: 50 Fortitude, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity, +3 Health)
     -   Prerequisite: Lightning Beam
@@ -1733,7 +1740,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 30 Agility, 35 Thundercall
 
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisite: Lightning Clones
+    -   Prerequisite: Lightning Clones, 30 Agility, 35 Thunder
 
 -   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
     -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related talents.
@@ -1843,8 +1850,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+    -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 -   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores some of your Ether. (+1 Posture)
+    -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 ### Waterborne
 
@@ -1858,6 +1867,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Weapon Master
 
 -   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
+    -   Prerequisite: \[name\] quest at the Pathfinders Respite
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
     -   Prerequisite: 50 Heavy Weapons Mastery, Greathammer equipped
@@ -1893,6 +1903,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Windrunner
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest. (+10 Ether, +9 Health)
+    -   Prerequisite: 75 Agility
 
 ### Miscellaneous
 
@@ -1929,7 +1940,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 35 Fortitude
 
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
-    -   When your Armor is at 0%, movement speed increased by 25%.
+    -   When your Armor is at 0%, movement speed is increased by 25%.
 
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain.
@@ -2163,13 +2174,13 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Engage + Critical Attack
 
--   Quest giver located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a sharko.
+-   The quest giver, Athur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a sharko.
 -   It is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in Lower Erisia.
 -   After killing the sharko and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
 
 ### Aerial Assault
 
--   Quest giver located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave.
+-   The quest giver is located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave. Formally known as the Pathfinders Respite.
 -   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
 -   You will automatically gain this at Power 2 on all new slots.
 
@@ -2233,9 +2244,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility)
--   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You do 1 less fist M1s before Flourishing.
-    -   Stacks with Finisher's Ring.
-
+-   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your Way of Navae fist style has 25% armor PEN.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.

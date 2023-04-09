@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 58323
+revid: 59412
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -61,7 +61,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion, or also known as Dr. Diver, is a Ganymede Black Diver who is very skilled in terms of Alchemy and science, being able to give people the abilities of certain monsters at the cost of their certain parts. Despite being a Black Diver, he is the leader of the Apothecary, a group based on the creation and research of potions and some other scientific topics, that was removed from the Divers due to the actions of undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor, and be able to "Transcend" everyone by drinking this potion, Carrion already drank a prototype of the Moonseye Vigor, that lead him to madness and gave him green eyes. He is currently residing in Castle light, also seen in the great library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently he doesn't care much for the events of Layer, instead choosing to prioritize his research of the Vigor, rather than preventing the awakening of a drowned god that could destroy Lumen. This event, alongside Klaris dialogue, tells us that Carrion prioritize his research towards anything, giving little to no care about any major events in the game that doesn't influence his research.
 
-**Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's manager.
+**Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
 ## Trivia
 
@@ -88,3 +88,4 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
     -   pintaced
     -   cloudents
     -   koalasensei4love
+    -   Doctor5 (temporary leave from the Apothecary)

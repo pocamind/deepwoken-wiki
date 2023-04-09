@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 59360
+revid: 59434
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,7 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Destroyman III | |
 |---|---|
 
-“ Your Life is as valuable as a summer ant. You're gonna keep killing us till you die. Why? Because you still want that exp. Your purpose in Life is to kill Megalodaunts. You should grip yourself... NOW! ”
+“ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
 
 ― Destroyman III
 
@@ -134,7 +134,7 @@ Remove Quotes
 -   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)"
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by "Agamatsu" in one of his streams (same goes for the April fools lobby music)
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
--   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(Lies, he seeks only to intimidate you. He is worthless POWERLESS outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside which you do, no looking at the wiki doesn't count and yet, he is bound to it, dies without it. Weak.)_
+-   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running. _(~Lies, he seeks only to intimidate you. He is worthless POWERLESS outside the nurturing comfort of your computer. He cannot live without it. Pathetic. He talks all about how you need to get off the game and go outside which you do, no looking at the wiki doesn't count and yet, he is bound to it, dies without it. Weak.~ The person who wrote that has been \[REDACTED\] by Destroyman III, they are currently in a coma.)_
 -   The tooltip “I’m smart, you’re dumb; I’m big, your little; I’m right, your wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
 -   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.

@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 58134
+revid: 59431
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -28,3 +28,4 @@ Mute, or less formally known as 'Animal King' causes all monster-type mobs to no
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
 -   Mute does not apply to any monsters or humanoids encountered in [Layer 2](Second_Layer.md).
+-   There are other minor regalis ingame, but they're kinda hide.

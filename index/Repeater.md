@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 56193
+revid: 59402
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -36,3 +36,6 @@ The Revolver has a base damage of 13 and scales off of 15 light weapon. Much lik
 ## Trivia
 
 -   Has a chance to be enchanted from chests (obviously)
+-   Cannot have stars when being purchased.
+-   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
+-   If you put an enchanted one in the offhand, it will instead use the effect of the mainhand. If the main hand is not enchanted, it will not have any effect.

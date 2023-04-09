@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 58843
+revid: 59408
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -18,7 +18,7 @@ categories: [Weapons, Greatswords]
 | swing speed | 0.64x |
 | endlag | 0.1s |
 | penetration | 10% |
-| special effect | Way Of Navae Critical |
+| special effect | Way Of Navae Critical, Fist-style aerial attack |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
@@ -35,4 +35,4 @@ It shares the same critical animation with the [Way of Navae](Fists.md) fists, s
 
 ## Trivia
 
--   Trivia to be added
+-   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.

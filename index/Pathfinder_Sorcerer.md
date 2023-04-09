@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 50106
+revid: 59430
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,4 +33,6 @@ This Outfit's schematic can be found in:
 
 ## Trivia/Notes
 
--   Practically the worst armor in the game
+-   Statwise is very lacking compared to others of the same level
+-   The Pathfinder Sorcerer is a recolored version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md)
+-   The Pathfinder Sorcerer is an inferior version of the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md)
