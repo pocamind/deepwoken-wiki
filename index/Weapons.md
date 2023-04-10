@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 59354
+revid: 59567
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1670,21 +1670,43 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 
 ## Calculating Damage and Attack Speed
 
-Players can use this formula to figure out their complete damage. Round to 1 dp.  
-D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g × A t t r i b u t e L e v e l 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling \\times AttributeLevel}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling\\times AttributeLevel}{1000}}} (Outdated)
+This is the formula used to calculate the damaged that is scaled based on one attribute:
 
-Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.  
-D a m a g e \= B a s e D m g + B a s e D m g × S c a l i n g 1 × A t t r i b u t e L e v e l 1 1000 + B a s e D m g × S c a l i n g 2 × A t t r i b u t e L e v e l 2 1000 {\\displaystyle Damage = BaseDmg + \\frac{BaseDmg \\times Scaling1 \\times AttributeLevel1}{1000} + \\frac{BaseDmg \\times Scaling2 \\times AttributeLevel2}{1000}} {\\displaystyle Damage=BaseDmg+{\\frac {BaseDmg\\times Scaling1\\times AttributeLevel1}{1000}}+{\\frac {BaseDmg\\times Scaling2\\times AttributeLevel2}{1000}}} (Outdated)
+-   S c a l i n g D a m a g e \= B a s e D m g × A t t r i b u t e S c a l i n g × A t t r i b u t e L e v e l × \[ 1 + ( P r o f i c i e n c y × 0.05 ) \] {\\displaystyle ScalingDamage = BaseDmg \\times AttributeScaling \\times AttributeLevel \\times \\bigl \\lbrack 1 + \\left ( Proficiency \\times 0.05 \\right ) \\bigr \\rbrack } {\\displaystyle ScalingDamage=BaseDmg\\times AttributeScaling\\times AttributeLevel\\times {\\bigl \\lbrack }1+\\left(Proficiency\\times 0.05\\right){\\bigr \\rbrack }}
 
-[_Damage calculator for all weapons with proficiency (Verse 2 compatible)_](https://deepwoken.tools/weapons)
+  
+This is the formula for calculating the total sum of damages scaled based on N attributes, where N is the number attributes and k is the index that goes from 1 to N:
 
-[_Damage calculator for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o) (Outdated)  
-_[Damage calculator for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl) (Outdated)_  
-_[Damage calculator for penetration, armor and natural armor (Verse 2 compatible)](https://www.desmos.com/calculator/lq0vvmous8?lang=en)[Damage calculator for monsters](https://www.desmos.com/calculator/tbf8yhvtc4?lang=en) (Outdated)_
+-   T o t a l S c a l i n g D a m a g e \= ∑ k \= 1 N S c a l i n g D a m a g e k {\\displaystyle TotalScalingDamage = \\sum\_{k=1}^N ScalingDamage\_k } {\\displaystyle TotalScalingDamage=\\sum \_{k=1}^{N}ScalingDamage\_{k}}
 
-[Calculator Online](https://calculator-online.net/)
+This means that if there are 2 attributes on which the damage scales:
 
-(Some calculators are outdated because of the way proficiency works, you do around the same as the pre verse 2 dmg only with 6 proficiency.)
+-   T o t a l S c a l i n g D a m a g e \= ∑ k \= 1 2 S c a l i n g D a m a g e k \= S c a l i n g D a m a g e A t t r i b u t e 1 + S c a l i n g D a m a g e A t t r i b u t e 2 {\\displaystyle TotalScalingDamage = \\sum\_{k=1}^2 ScalingDamage\_k = ScalingDamage\_{Attribute1} + ScalingDamage\_{Attribute2} } {\\displaystyle TotalScalingDamage=\\sum \_{k=1}^{2}ScalingDamage\_{k}=ScalingDamage\_{Attribute1}+ScalingDamage\_{Attribute2}}
+
+Therefore (the names have been shortened to fit the formula in the page):
+
+-   T S D \= { B D × A 1 S c l × A 1 L v l × \[ 1 + ( P f y × 0.05 ) \] } + { B D × A 2 S c l × A 2 L v l × \[ 1 + ( P f y × 0.05 ) \] } {\\displaystyle TSD = \\Bigl \\lbrace BD \\times A1Scl \\times A1Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace + \\Bigl \\lbrace BD \\times A2Scl \\times A2Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace } {\\displaystyle TSD={\\Bigl \\lbrace }BD\\times A1Scl\\times A1Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }+{\\Bigl \\lbrace }BD\\times A2Scl\\times A2Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }}
+
+Which can be semplified as:
+
+-   T S D \= B D × ( A 1 S c l × A 1 L v l + A 2 S c l × A 2 L v l ) × ( 1 + ( P f y × 0.05 ) ) {\\displaystyle TSD = BD \\times \\left( A1Scl \\times A1Lvl + A2Scl \\times A2Lvl \\right) \\times \\left(1 + \\left(Pfy \\times 0.05\\right)\\right) } {\\displaystyle TSD=BD\\times \\left(A1Scl\\times A1Lvl+A2Scl\\times A2Lvl\\right)\\times \\left(1+\\left(Pfy\\times 0.05\\right)\\right)}
+
+  
+The formula to calculate the total amount of damage, with scaling taken into account is:
+
+-   D a m a g e \= 0.75 × ( T o t a l S c a l i n g D a m a g e 1000 ) + B a s e D m g {\\displaystyle Damage = 0.75 \\times \\left ( \\frac { TotalScalingDamage }{ 1000 } \\right ) + BaseDmg } {\\displaystyle Damage=0.75\\times \\left({\\frac {TotalScalingDamage}{1000}}\\right)+BaseDmg}
+
+  
+The formula to calculate the damage with multipliers taken into account is:
+
+-   M u l t i p l i e d D a m a g e \= D a m a g e ∗ ( 1 + M u l t i p l i e r s S u m % 100 ) {\\displaystyle MultipliedDamage = Damage \* \\left ( 1 + \\frac{MultipliersSum\\%}{100} \\right) } {\\displaystyle MultipliedDamage=Damage\*\\left(1+{\\frac {MultipliersSum\\%}{100}}\\right)}
+
+  
+The formula to calculate the damage with **Bleed** taken into account is:
+
+-   B l e e d D a m a g e \= D a m a g e ∗ 1.3 or B l e e d M u l t i p l i e d D a m a g e \= M u l t i p l i e d D a m a g e ∗ 1.3 {\\displaystyle BleedDamage = Damage \* 1.3 \\qquad \\text{or} \\qquad BleedMultipliedDamage = MultipliedDamage \* 1.3 } {\\displaystyle BleedDamage=Damage\*1.3\\qquad {\\text{or}}\\qquad BleedMultipliedDamage=MultipliedDamage\*1.3}
+
+_[Damage calculator for penetration, armor and natural armor (Verse 2 compatible)](https://www.desmos.com/calculator/lq0vvmous8?lang=en)_
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (the higher the stat, the quicker the attack). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.
 
