@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59523
+revid: 59530
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -37,18 +37,18 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.
-    -   Thresher Claws requires a [Power](Power.md) 13 as a prerequisite.
+    -   Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
 
 Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
 _When it comes to mutually exclusive talents, you can have either:_
 
--   _Everchanging Aegis_ **or** _Return to the Dark Ages_.
--   _Risky Moves_ **or** _Safety Dance/Observation._
--   _Conditioned Runner_ **or** _Fishman_.
--   _Eruption Path: Lava Serpent_ _**or** The Final Act_.
--   _Orbital Ice_ **or** _Fists of Fortitude_.
--   Singularity **or** Sightless Still
+-   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
+-   _Risky Moves_ **or** _Safety Dance/Observation;_
+-   _Conditioned Runner_ **or** _Fishman;_
+-   _Eruption Path: Lava Serpent_ _**or** The Final Act;_
+-   _Orbital Ice_ **or** _Fists of Fortitude;_
+-   Singularity **or** Sightless Still.
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -216,7 +216,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility or obtained through outfits
 
--   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+-   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds. (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
     -   Prerequisite: 20 Agility
 
@@ -272,7 +272,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
-    -   PEN calculation: incoming PEN \*0.6 = reduced incoming PEN
+    -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
     -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
 
 ### Blindseer
@@ -298,7 +298,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Bruiser
 
--   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor (20 second cooldown).
+-   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapons Mastery
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
@@ -310,7 +310,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
 
--   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them (+3 Health)
+-   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)
     -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 
 ### Butterfly
@@ -330,14 +330,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusive: _Leaf in the Wind_ Talents
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
-    -   Provides I-frames for the duration of the invisibility (3 seconds)
-    -   Has a 9 second cooldown
-    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory
+    -   Provides I-frames for the duration of the invisibility (3 seconds).
+    -   Has a 9 second cooldown.
+    -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
     -   Prerequisites: 40 Agility, All Butterfly talents
 
 ### Adept Caster
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element (+7 Carry Load, +2 Elemental Intensity)
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
@@ -365,8 +365,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 50% extra posture damage for 10 seconds. (+1 Carry Load)
-    -   Indicated by a gold cell-shade outline on your character
-    -   Does not work on non humanoid monsters.
+    -   Indicated by a gold cell-shade outline on your character.
+    -   Does not work on non humanoid monsters..
     -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
@@ -396,7 +396,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cloudwalker
 
--   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
+-   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery, +2 Health)
     -   Prerequisite: 25 Galebreathe
 
 ### Colossus

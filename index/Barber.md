@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 59484
+revid: 59532
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,13 +11,13 @@ categories: [NPCs]
 | Barber | |
 |---|---|
 | name | Barber |
-| location | Near Nerin in Etris, Inside the castle on Summer Isle, On the balconies in Greathive Aratel, At the mantra shop in Isle of Vigils |
+| location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base |
 
 “ Hey friend, need a new style? ”
 
 ― Barber
 
-The Barber allows customization to your character; no notes needed!
+The Barber allows customization to your character, no notes needed!
 
 To use some of his features, a hair ID from the catalog is needed.
 
@@ -47,8 +47,8 @@ To use some of his features, a hair ID from the catalog is needed.
 ## Trivia
 
 -   The Barber is the only NPC that can customize your character in any meaningful way.
--   Around the beginning of his addition, there were bugs that allowed certain races (Celtor, Adret and Khan) to have otherwise-inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the [Mudwoken](Mudwoken.md) update.
+-   Around the beginning of their addition, there were bugs that allowed certain races (Celtor, Adret and Khan) to have otherwise inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the [Mudwoken](Mudwoken.md) update.
     -   Even though it was completely cosmetic and lasted only for the time you were in the server (and being generally funny to see an Adret walking around with the Mudskipper face,) it was quickly patched in a shadow-update a day later.
 -   Near the beginning, he also couldn't change the face/mask of a Vesperian, saying "Uh, you kinda got a mask on, bud."
 -   You can change your gender if you talk to the Barber. Nice.
--   Between his introduction and 10/17/22, he took a cosmetic surgery course at the Citadel.
+-   Between his introduction and 10/17/22, they each took a cosmetic surgery course at the Citadel.
