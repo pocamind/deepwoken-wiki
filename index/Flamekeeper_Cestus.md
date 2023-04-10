@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 57304
+revid: 59508
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -23,12 +23,12 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon The Depths Fort Merit Starswept Valley Minityrsa |
+| obtainment | Primadon The Depths Fort Merit Starswept Valley MinityrsaFirst layer |
 | description | N/A |
 
 ## Description
 
-**Flamekeeper Cestus** is a Light Weapon that needs 65 Light Weapon to use. It has 9 scaling, 5% penetration, 5 weight, 6 range, and 0.88x swing speed. It has a base damage of 15.5, being currently the highest damaging fist cestus alongside Legion Cestus. Despite the namesake, [Flamecharm](Flamecharm.md) has no affect or benefits on this weapon. The Flamekeeper Cestus does 29.49 damage at 100 LHT, and 25.9625 damage at 75 LHT.
+**Flamekeeper Cestus** is a Light Weapon that needs 65 Light Weapon to use. Despite its namesake, [Flamecharm](Flamecharm.md) has no affect or benefits on this weapon. This cestus can be found in [Primadon](Primadon,_Titan_of_the_East.md), [The Depths](The_Depths.md), [Fort Merit](Fort_Merit.md), [Starswept Valley](The_Starswept_Valley.md), and [Minityrsa](Minityrsa.md).
 
 ## Notes
 

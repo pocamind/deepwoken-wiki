@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 59494
+revid: 59502
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -39,7 +39,7 @@ In general, each weapon within the flintlock family has its own unique m1 m2 cyc
 
 A Revolvers users' cycle can go like this:
 
-A) M1, M2, Critical, M1, M2, Critical, etc.
+A) M1, M2, Critical, Cycle B, etc.
 
 B) M2, M1, Critical, M2, M1, Critical etc.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59436
+revid: 59523
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -755,12 +755,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Prerequisites: 20 Frostdraw
+-   Cold Front \[Common Talent, Frostdraw Exclusive\] - Your vent is imbued with glacial frost.
+    -   Prerequisites: Cryonis, 25 Frostdraw
 
 -   Expert Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
     -   Prerequisites: 30 Frostdraw
 
 -   Frostdrawer \[Frostdraw Exclusive\] - Grants you the ability to command Ice as a Frostdrawer.
     -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
+-   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
+    -   Prerequisites: 50 Frostdraw, 20 Willpower
+    -   Believed to increase the size of your floor-placed ice and increase environmental damage.
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw
@@ -930,10 +935,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozone_ \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 70 Frostdraw.
-
--   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+3 Health, +6 Sanity)
-    -   Prerequisites: 50 Frostdraw, 20 Willpower
-    -   Believed to increase the size of your floor-placed ice and increase environmental damage.
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
     -   Saint Jay last for double the duration of Chill
@@ -1238,7 +1239,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### [Murmur](Murmur.md)
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
-    -   Affected targets takes 200% extra posture damage, take 25% more damage and are forced out tacet/can't use tacet for 10 seconds.
+    -   Affected targets takes 200% extra posture damage and take 25% more damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)

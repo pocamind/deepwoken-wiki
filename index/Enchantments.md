@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 59058
+revid: 59505
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -604,7 +604,7 @@ File:Vamparism shield.png
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
-    -   Stormbreaker is based on the axe wielded by Thor from _Marvel Comics_.
+    -   Stormbreaker is most likely based on the Hammer wielded by Thor from god of war
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
     -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
     -   Curse of The No Life King is likely a reference to _Alucard_ from _Hellsing. (He has been called multiple times a Miserable No-life King, also, his powers and abilities match alot to this enchant (Strong Regeneration.)_

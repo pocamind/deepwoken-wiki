@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 59243
+revid: 59509
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,7 +21,7 @@ categories: [NPCs]
 
 ## Description
 
-Marcus is inarguably the coolest Golem in the game. He is of a modest size, unlike his braggart cousins who prefer to attack you instead of relaxing over a nice warm beverage. He can be found in the Hidden Village.
+Marcus is inarguably the coolest Golem in the game. He is of a modest size, unlike his braggart cousins who prefer to attack you instead of relaxing over a nice warm beverage. He can be found in the Hidden Village. Marcus canonically solos every Drowned God at once, with relative ease. (Confirmed by Ragoozer)
 
 ALWAYS interact with Marcus whenever you see him, or you aren’t a real one.
 

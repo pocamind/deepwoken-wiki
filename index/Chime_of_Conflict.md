@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 58669
+revid: 59525
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -78,7 +78,9 @@ Journeyman **(1100-1200)**
 
 Pathfinder **(1200-1299)**
 
-Vowbearer **(1300-????)**
+Vowbearer **(1300-1399)**
+
+Oathkeeper **(1400-????)**
 
 In addition to Rank Titles, the top 250 players in Chime also get a special title:
 

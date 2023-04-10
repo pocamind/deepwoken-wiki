@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 54907
+revid: 59524
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -36,6 +36,7 @@ Template:Areainfobox
 -   Frank F'alzone
     -   A Celtor wearing the [Verdant Sniper](Verdant_Sniper.md) outfit. Presumably the cartographer/janitor of the ship.
 -   Pete
+    -   A Vesperian wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit. Appears to have at least some proficiency in combat, given the stat requirement of said attire.
 -   Mr. Quarters
     -   An Adret wearing the [Darksteel Plate](Darksteel_Plate.md) outfit. Halfmaster of the ship.
 -   Serendi
