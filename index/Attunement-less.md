@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 59442
+revid: 59571
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -203,7 +203,7 @@ File:Dash Mantra Demonstration.gif
     -   Sends the user a considerable distance forward.
     -   Range significantly decreases as the user loses health.
     -   Canceled by attacking.
-    -   **UNKNOWN IF UPGRADING MAKES YOU DASH FURTHER, NEEDS TESTING**
+    -   Upgrading wont make the dash longer. (Tested)
 
  |
 | 

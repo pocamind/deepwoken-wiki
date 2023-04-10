@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 59052
+revid: 59581
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | damage | 17.5 |
 | scaling | MED: 5, WND: 4 |
 | range | 8 |
-| swing speed | 0.8x |
+| swing speed | 0.8x, 0.78x (one-handed) |
 | penetration | 15% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 2 Handed, 1 Handed |
@@ -43,3 +43,4 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   While this weapon may be considered as a **downgrade** to the [Forgotten Gladius](Forgotten_Gladius.md), do note that is it still a Medium Weapon, and as such, is one of the better weapons ingame.
 -   When using the weapon one-handed it becomes 2 swords, changing it's animations.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
+-   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.
