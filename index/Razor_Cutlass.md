@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 58811
+revid: 59603
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,8 +15,8 @@ categories: [Weapons, Swords]
 | damage | 18 + 5.4 [BLD] |
 | scaling | 7.5 |
 | range | 8 |
-| swing speed | 0.7x |
-| penetration | 20% |
+| swing speed | 0.71x |
+| penetration | 25% |
 | selling price | 25 notes |
 | weight | 7 |
 | bankable | Yes |

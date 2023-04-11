@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 58086
+revid: 59674
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -76,3 +76,4 @@ An Immortal Guardian executes the player after knocking them.
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
 -   ~The effect of Mute applies onto all entities here, so they can be assumed to be monsters.~ While the effects of Mute does indeed apply here, it does not automatically make them monsters.
 -   They speak in all capital letters.
+-   They use divine weapons, being the divine battleaxe and divine greatsword, which are the two weapons players can roll from crazy slots.

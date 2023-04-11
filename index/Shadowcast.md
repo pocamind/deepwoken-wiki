@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 58951
+revid: 59636
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -188,7 +188,7 @@ Eclipse Kick
 -   Deals a massive amount of posture and health damage.
 -   Can also break certain tiles and fell trees.
 -   Shares cooldown with Strong Left (Attunement-less)
--   If multiplying spark is added do more of an upper kick that dramatically decrease striking power and windup upon casting
+-   If a [Multiplying Spark](Mantra_Modifiers.md) is added do more of an upper kick that dramatically decreases the striking power and windup upon casting, as well as applying daze; Hotkey can be pressed again to preform normal Eclipse Kick
 
  |
 
@@ -204,7 +204,13 @@ File:ShadowDevour.gif
 Shade Devour  
 (★☆☆)
 
- | Gorge on your own health for raw strength | +20% weapon damage, consumes health upon use. |
+ | Gorge on your own health for raw strength | Causes a damaging shockwave, adds a +20% weapon damage buff to the user, consumes health upon use.
+
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
+-   These sparks can be combined.
+
+ |
 
 ### **Mobility**
 

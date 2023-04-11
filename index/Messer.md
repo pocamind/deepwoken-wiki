@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 55389
+revid: 59608
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -31,8 +31,8 @@ categories: [Weapons, Swords]
 | scaling | 6 |
 | range | 7.5 |
 | swing speed | 0.73x |
-| penetration | 10% |
-| chip damage | 10% |
+| penetration | 15% |
+| chip damage | 15% |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

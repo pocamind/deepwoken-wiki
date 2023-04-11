@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 59567
+revid: 59643
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -172,7 +172,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td>0.85x</td>
-  <td>0s</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -180,6 +180,17 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>10</td>
   <td>30%</td>
   <td>LHT: 14</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
+  <td>60 LHT; 45 INT</td>
+  <td>14</td>
+  <td>30%</td>
+  <td>INT: 2 LHT: 8</td>
   <td>4</td>
   <td>6.5</td>
   <td>0.98x</td>
@@ -621,12 +632,12 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="Razor_Cutlass.md">Razor Cutlass</a> (<b>Bleed</b>)</td>
   <td>60 MED</td>
   <td>18</td>
-  <td>20%</td>
+  <td>25%</td>
   <td>N/A</td>
   <td>MED: 7.5</td>
   <td>7</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.71x</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
@@ -665,8 +676,8 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="https://deepwoken.fandom.com/wiki/Messer#Alloyed"><font>Alloyed Messer</font></a></td>
   <td><font>75 MED</font></td>
   <td><font>21</font></td>
-  <td><font>10%</font></td>
-  <td><font>10%</font></td>
+  <td><font>15%</font></td>
+  <td><font>15%</font></td>
   <td><font>MED: 6</font></td>
   <td><font>7</font></td>
   <td>7.5</td>
@@ -1082,12 +1093,12 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
   <td>75 HVY</td>
   <td>25</td>
-  <td>10%</td>
+  <td>20%</td>
   <td>10%</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.58x</td>
+  <td>0.59x</td>
   <td>N/A</td>
 </tr>
 <tr>
@@ -1240,7 +1251,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.6x</td>
+  <td>0.61x</td>
   <td>N/A</td>
 </tr>
 <tr>
@@ -1260,8 +1271,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><font>75 HVY</font>, 10 STR</td>
   <td>22.4</td>
   <td>N/A</td>
-  <td><font>10%</font></td>
-  <td><font>HVY: 9</font></td>
+  <td><font>20%</font></td>
+  <td><font>HVY: 9.5</font></td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>

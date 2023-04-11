@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 58463
+revid: 59589
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -53,6 +53,7 @@ The doors to enter the Lordsgrove.
 
 -   Players can buy basic [training items,](Training_Gear.md)
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
+-   Mystic is here, going left past the training items will take you there.
 
 ### Root Plaza
 

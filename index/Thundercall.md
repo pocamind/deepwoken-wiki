@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 58670
+revid: 59644
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -103,7 +103,7 @@ Lightning Beam
 
  | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
 
--   Has a talent that makes it cast instantly after flourishing an enemy, pretty much guaranteed hit after flourish.
+-   With the Shocking Finish talent, Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteed hit after flourish.
 -   Appears after a second of casting.
 
  | Damage:
@@ -122,7 +122,7 @@ Lightning Impact
 
  | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
--   Can be upgraded with the Talent, Rains of Static, which makes the user rain down bolts of thunder from the air with the follow-up impact
+-   Can be upgraded with the Rains of Static talent, which makes the user rain down bolts of thunder from the air with the follow-up impact.
 -   Can light opponents and the player on fire.
 -   Applies knockup. (Floats victims hit by the move into the air in front of you for a brief duration or until you hit them once.
 -   Can destroy surfaces and light flammable terrain on fire like a patch of grass.
@@ -207,7 +207,7 @@ Storm Blades
 
 -   Deals light damage.
 -   Has a short delay before exploding.
--   With a Tornado Spark, Storm Blades deploys a arena-like circle; shocking those who touch its walls.
+-   Can be upgraded with a Tornado Spark, which causes the mantra to deploy an arena-like circle; shocking those who touch its walls.
 
  | Damage:
 
@@ -365,10 +365,10 @@ Lightning Cloak
 -   Your dashes become teleports, increasing your i-frames.
 -   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
 -   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 Thundercall)**
--   Now requires you to hit an opponent within 3 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 30 seconds.
+-   Now requires you to hit an opponent within 8 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 60 seconds.
 -   When you critically hit an enemy, you become invisible and untargetable. Cooldown is 2 minutes and 30 seconds.
 
- | Duration: 3.5-30 secs
+ | Duration: 3.5-60 secs
 
 Cooldown:
 

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 58829
+revid: 59617
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords]
 | damage | 25.5 |
 | scaling | 8 HVY |
 | range | 8.5 |
-| swing speed | .6x |
+| swing speed | 0.61x |
 | endlag | 0s |
 | penetration | 30% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

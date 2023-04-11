@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 59571
+revid: 59625
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -164,6 +164,7 @@ File:No Attunement Revamp.png
 -   Deals light damage.
 -   The charge is cancelled upon getting parried or dodged.
 -   Can collide with and break parts of the map.
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
 
  |
 
@@ -204,6 +205,7 @@ File:Dash Mantra Demonstration.gif
     -   Range significantly decreases as the user loses health.
     -   Canceled by attacking.
     -   Upgrading wont make the dash longer. (Tested)
+    -   Can be upgraded with a Spring Spark to lower travel distance, but increases amount of uses from 1 to 2.
 
  |
 | 

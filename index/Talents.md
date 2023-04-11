@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59530
+revid: 59657
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1080,9 +1080,15 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Lava Serpent
 
--   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
+-   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown. (+4 Elemental Intensity)
+    -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
+-   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
     -   Instead of setting your target on fire, create an eruption on hit, dealing 10 damage. (0.5s cooldown)
     -   Prerequisites: 40 Flamecharm
+-   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block-breaking an enemy with a fire mantra applies Burning. (+4 Elemental Intensity)
+    -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
+-   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
+    -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 
 ### Leader
 
