@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 54866
+revid: 59721
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -10,7 +10,7 @@ categories: [World, Items]
 
 | Spark Gland | |
 |---|---|
-| value | ? |
+| value | 10 |
 | weight | 0 |
 | type | Elemental Ingredient |
 | bankable | Yes |

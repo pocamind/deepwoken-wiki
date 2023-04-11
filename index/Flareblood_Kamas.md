@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 59697
+revid: 59751
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -42,4 +42,4 @@ It was made by and thus obtained from Chaser.
     -   This makes it easy to miss due to it being at the bottom of the GUI, so check thoroughly.
 -   Has a unique critical that summons a blood explosion to your cursor.
     -   Critical is likely based on Chaser's "Burning Blood Explosion."
--   It's a _very_ rare drop from Chaser.
+-   This weapon is probably a reference to the anime _Demon Slayer_, being very similar to Gyutaro's Blood Sickles.

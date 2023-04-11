@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 59704
+revid: 59736
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -62,6 +62,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
 -   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound on equip (not to be confused with Legendary Rarity weapons).
+-   **Level:** The level requirement to use the weapon
 
 ## Types of Weapons
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 59441
+revid: 59726
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -66,13 +66,15 @@ _The Lord Regent, sitting atop his throne of coral._
 
 -   The strongest Ministry Prophet.
 -   Surpasses all the world leaders, including the Lord Regent and Drallis Ehr.
--   On par with even the strongest Krulians.
+-   On par with even the strongest/higher Krulians.
 -   A Deepwoken, along with Pleeksty.
 
 ### **The Second Prophet**
 
 -   The second strongest of the nine Ministry Prophets.
 -   Gave Chaser his hemo-kinetic abilities.
+-   Master of Chaser and probably other apprentices.
+-   His only known powers are blood control that very probably are way more powerfull than Chaser ones.
 
 ### **The 5th King of Etrea**
 
@@ -178,6 +180,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Slightly less powerful than a Power 20 player.
 -   Currently trapped in Floor One of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
 -   One of his victims was an Ignition Union Deepdelver.
+-   Before joining the divers, he was an apprentice of the Second Prophet of the Ministry, explaining why he graduated in the Markor Citadel with ease.
 
 ### **Colonel Hoffa**
 
@@ -321,19 +324,24 @@ Yun'shul's Shrine
 ### **Ethiron**
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
--   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure.
+-   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is reffered as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
     -   The Scion acts as a guardian of sorts.
+    -   Probably its formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god powers.
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
+-   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion despite being in New Kyrsa for some time, didn't experience the effects of the mist.
+-   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
+-   The current status of Ethiron: Asleep.
 
 ### **Korilfiend**
 
 -   The Drowned God of Fire and creator of the Forge of Sin
 -   The Temple of The Forgotten Flame was dedicated to him and housed the Forge.
+-   There is a legendary ring that has some influence with Korilfiend being the **Deepfire ring**, however it's not known what relation has these rings with the Drowned God.
 -   His physical body is found in the Third Layer.
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'
     -   This garden contains meteor flowers, which are seen as a part of him.
@@ -356,7 +364,7 @@ Yun'shul's Shrine
 -   Two theories to what they are have been remarked as 'close:'
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
--   Perhaps this awakening what the name 'Deepwoken' is in reference to? The game used to be called 'Drowned Gods' after all...
+-   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a drowned god to gain incredible powers, so Deepwoken doesn't mean the awakening of a drowned god, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods" referencing the Drowned Gods.
 
 ### **The Nestmind**
 
@@ -1274,6 +1282,13 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 ### Blindseer
 
 People who make an oath to seek the truth of the deepwoken world. Their blindfold grants them immunity to insanity as a way to help them unravel the truth. Though mere humans, their oath allows them to see things that others cannot see, as their mind is stronger and they vow to see the truth rather than what their brain makes things out to be. This oath is directly associated with the fact that humans are weak and so is their minds, being the only life form known to go insane but have massive potential as a drawback and lets them make oaths and choose their own path in the world of deepwoken, being that those who take this oath seek to become more than this and seek the truth, feeling as though their human mind is capable of more than they realize and they just need the willpower to comprehend it. The will to do something is ultimately the source of why willpower grants sanity, it is simply the will to unravel the truth of the world that grants you the immunity to its effects, yet humans are the only creatures without this knowledge granted to them and seek knowledge to explain everything.
+
+### Visionshaper
+
+-   Counter part to Blindseer, those who vow to create illusions and manipulate reality, creating lies instead of searching for the truth.
+-   Visionshapers made a vow to the Nestmind, the "Mother/father" of all owls.
+-   Despite having great powers of reality bending, all visionshapers are doomed to become food for the Nestmind.
+-   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the oath.
 
 ### Starkindred
 

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 57850
+revid: 59747
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -19,9 +19,9 @@ categories: [NPCs, Random Encounters]
 
 ## Description
 
-Akira is a young Etrean with widely scruffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of Dewdrop Earrings.
+Akira is a young Etrean with widely scuffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of Dewdrop Earrings.
 
-He has a Katana strapped to his back, and a Corrupted Bell resting at his hip.
+He has a Katana floating behind his back and a Corrupted Bell resting at his hip.
 
 The Bell in question allows Akira to instantaneously grip any entity Akira wishes at the cost \[Corrupted Downside\] of his lifespan and power. However, the stronger the target is, the more years of life that he will have to sacrifice to kill them.
 

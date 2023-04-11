@@ -1,6 +1,6 @@
 ---
 title: Cathedral of Ethiron
-revid: 59717
+revid: 59746
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ Template:Areainfobox
 
 ## Overview
 
-The Cathedral of Ethiron is a landmark in the Maw of Ethiron. It is the final destination point in the first floor where the player fights Chaser.
+The Cathedral of Ethiron is a landmark in the Maw of Ethiron. It is the final destination point of layer 2's first floor where the player fights Chaser.
 
 ## Contents
 
@@ -24,4 +24,4 @@ The Cathedral of Ethiron is a landmark in the Maw of Ethiron. It is the final de
 
 ## Trivia
 
-There are numerous corpses belonging to apprentice divers hanging on hooks, presumably killed by Chaser.
+There are numerous corpses belonging to apprentice divers hanging on hooks, presumably killed by Chaser. There is also one ignition deepdiver's corpse here.
