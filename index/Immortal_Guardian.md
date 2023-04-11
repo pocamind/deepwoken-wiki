@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 59674
+revid: 59681
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -20,7 +20,7 @@ Template:EnemyInfobox1.0
 
 Immortal Guardians are humanoid monsters that can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
 
-Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. It's unknown what properties this has, aside from raising their healthpool. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. These versions of the Immortal Guardians have higher health, usually spawn with enchants, and seem to be better at parrying than their normal counterparts. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
 
 ## Moves
 
@@ -69,6 +69,7 @@ An Immortal Guardian executes the player after knocking them.
 -   Nightmares can take way more posture then their little brothers, so some mantras that Guard break them will most-likely just be blocked normally by them.
 -   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against.
 -   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
+-   The Divine Greatsword version's criticals are blockable- you don't really even need too much posture. The Divine Greataxe version might be blockable, but you need much more posture.
 
 ## Trivia
 

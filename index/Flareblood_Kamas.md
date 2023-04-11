@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 59677
+revid: 59697
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,16 +10,17 @@ categories: [Weapons]
 
 | Flareblood Kamas | |
 |---|---|
-| type | Light Dagger |
+| type | Dagger |
 | requirements | 60 Light, 45 Intelligence |
 | damage | 14.2 + 4.2 BLD |
-| scaling | 8 Lht 2 Int |
+| scaling | 8 LHT 2 INT |
 | range | 6.5 |
 | swing speed | 0.98x |
 | endlag | 0.05s |
 | penetration | 30% |
 | chip damage | ??? |
 | special effect | On hit, take away massive amounts of blood from your opponent. |
+| stances | 1 Handed |
 | selling price | ??? |
 | weight | 4 |
 | bankable | Yes |
@@ -31,13 +32,7 @@ categories: [Weapons]
 
 ## Description
 
-Flareblood Kamas is a Mythical Light Weapon that scales with both Light and Intelligence. Has a unique critical that summons a blood explosion to your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x.
-
-Dmg calculations (Bleed is included):
-
-23.6785 + 7.10355 (30.78) DMG at 100 light 45 int 0 prof
-
-26.52205 + 7.956615 (34.47) DMG at 100 light 45 int 6 prof
+Flareblood Kamas is a Mythical [Light Weapon](Weapons.md) that scales with both Light and Intelligence. Has a unique critical that summons a blood explosion to your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x.
 
 It was made by and thus obtained from Chaser.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59657
+revid: 59686
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -725,6 +725,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Wildfire \[Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
+
+### Flashfreeze
+
+-   Temperature Shock \[Common Card, Flamecharm and Frostdraw Exclusive\] - Your fire mantras now detonate any stacked crystals.
+    -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
 
