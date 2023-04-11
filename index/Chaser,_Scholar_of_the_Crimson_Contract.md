@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 59495
+revid: 59718
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -162,10 +162,10 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
--   Chaser is voiced by YouTuber, Demstormz.
+-   Chaser is voiced by YouTuber Demstormz.
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
--   Chaser is seen wielding six Resonances, perhaps hinting at the possibility of players holding more than one or being able to steal them from other players, even if they.
+-   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed.
 -   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Prior to the update as of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.

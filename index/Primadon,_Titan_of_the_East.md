@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 59325
+revid: 59714
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -44,10 +44,9 @@ If you were holding block before getting grabbed and during it's full duration y
 | **Disengage/Fade Away** | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two. | ◯ | ◯ | ◯ | (★★★) |
 | **Enrage** | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 
-Automatically used after the first posture stun or when dropping below 50% health, whichever happens first. Signified by a red mist that surrounds Primadon's body.
+Automatically used when dropping below 50% health. Signified by a red mist that surrounds Primadon's body.
 
  | **?** | **?** | **?** | (★★★) |
-| **Scream** | Screams to inflict significant amounts of insanity to nearby players | ✗ | ◯ | ◯ | (★☆☆) |
 
 ### Passives
 

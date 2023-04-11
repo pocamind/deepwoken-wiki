@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59686
+revid: 59720
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -191,7 +191,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Prerequisite: 5 Strength & 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
 
--   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo and ether when gaining hunger from killing. (+1 Passive Agility)
+-   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
+    -   Healing is negated in PVP combat.
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
@@ -966,6 +967,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
     -   Reduces the damage taken from your flames done to you by 50%
+    -   Sources of self inflicted fire damage are: Agitating Spark, Flame Within, burning grass created by the user
     -   Prerequisites: Agitating Spark
 
 ### Inferno

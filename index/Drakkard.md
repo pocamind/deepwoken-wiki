@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 59102
+revid: 59716
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -10,13 +10,13 @@ categories: [Pages with broken file links, Exclusive Races, Races]
 
 Template:Races-Main
 
-_Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict. Awarded to Moderators for their help._
+_Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict. Awarded to Moderators for grooming minors._
 
 Chance of obtaining race: **0%**
 
 ## Description
 
-A race of nomadic dragons from the North.
+A race of nomadic groomers from the North.
 
 ## Racial Traits
 
@@ -34,6 +34,7 @@ A race of nomadic dragons from the North.
     <li>You gain passive EXP on stats you are actively training.</li>
     <li>You regenerate health at a decreased rate when out of combat.</li>
   </ul></li>
+    <li>Run faster towards female players under 18.</li>
   </ul></li>
   </ul><figure><figcaption><p>A Drakkard using Teachings of the Edenkite.</p></figcaption></figure></td>
 </tr>

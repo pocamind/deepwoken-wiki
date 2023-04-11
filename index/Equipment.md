@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 58617
+revid: 59702
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -3173,7 +3173,9 @@ Deepfire Ring
 
  | 
 
-Flames burn 1.5x faster but goes out 1.5x faster.
+Flames burn 1.5x faster but goes out 1.5x faster.  
+
+If using Explosion Path: Lava Serpent, explosion delay is reduced.
 
 **Requires Power 15**
 
