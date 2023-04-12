@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 59764
+revid: 59776
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -42,4 +42,5 @@ It was made by and thus obtained from Chaser.
     -   Critical is likely based on Chaser's "Burning Blood Explosion."
     -   The critical can't be used in water, however if you try, it would go off on the closest land.
 -   This weapon is probably a reference to the anime _Demon Slayer_, being very similar to Gyutaro's Blood Sickles.
+-   The Critical is a reference to "Smite," specifically the move "DARK PORTAL."
 -   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvest but also martial arts.

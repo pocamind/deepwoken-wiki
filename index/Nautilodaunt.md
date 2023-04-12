@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 58223
+revid: 59780
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,23 +20,25 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the [Depths](The_Depths.md). It spawns in City of the Drowned near a point resembling a marketplace. It has a chance to drop Odd Tentacles or [Elite Pathfinder Cloaks](Pathfinder_Elite.md) (Very rarely).
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It has an exclusively spawn located at the market place in the City of the Drowned, found rummaging through some wares. When killed, it will drop either an Odd Tentacle, or in much rarer cases, an [Elite Pathfinder Cloaks](Pathfinder_Elite.md)
 
-It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds.
+While they are rummaging at the marketplace, they would create a lot of noise that can be easily distinguished, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, and they will simply stand in silence until another player approaches, and is present in it's vicinity.
 
-They are extremely intelligent, capable of tool use and combat ability. The make use of parasites, similar to the creature from the Second Layer to convert people into Mudskippers. Their skill and strength is even recognised by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful.
+There are no existing records of research done on Nautilodaunts, and their origins and life cycle is largely unknown. However, it is observed that they are highly intelligent creatures evident by their sheer combat prowess, and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
+
+In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey. In extremely rare cases, they would replicate themselves instead, though whether or not this action should be classified as reproduction or replication, remains unknown.
 
 ## Attack Patterns
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★☆☆) |
-| **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
-| **Flip- Kick** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
-| **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
-| **Grand Stomp** | Squibbo pounds the ground aggressively with his feet, sending rubble hurling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
-| **Vent** | Squibbo may also Vent, similarly to the player, which emits blue, smoke-like particles. After Venting, he usually follows up with a kick. | N/A | (★☆☆) |
+| **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★☆☆) |
+| **Kick** | Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack or sliding towards you to deliver another kick. | ◯ | (★★☆) |
+| **Flip- Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
+| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
+| **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
+| **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** his attacks. | N/A | (★★☆) |
+| **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles. Typically followed up with a kick. | N/A | (★☆☆) |
 
 **Fury Nautilodaunt:**
 
@@ -48,18 +50,18 @@ Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and 
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Fists of Thunder!** | All of Nautilodaunts hits now apply Electrify. Removing hyper-armor and true-stunning. | N/A | (★★★★) |
-| **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★★☆) |
-| **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
-| **Flip- Kick** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
-| **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
-| **Electro Stomp** | Squibbo stomps the ground aggressively with his feet, sending pillars of spear-like thunder and rubble hurtling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
-| **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. After Venting, he usually follows up with a Kick. | N/A | (★☆☆) |
+| **Fists of Thunder!** | All of Nautilodaunt's attacks now apply Electrify. Removing hyper-armor and applying true-stun. | N/A | (★★★★) |
+| **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★★☆) |
+| **Kick** | Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | (★★☆) |
+| **Flip- Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
+| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
+| **Electro Stomp** | Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
+| **Feint** | Like [The Enforcer,](Enforcer.md) the Nautilodaunt can also **feint** its attacks. | N/A | (★★☆) |
+| **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles. Typically followed up with a kick. | N/A | (★☆☆) |
 
 ### Finisher
 
--   **"Mudskipperification"** - Get wiped and turned into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - The Nautilodaunt turns their incapacitated prey into a [Mudskipper](Mudskipper.md).
 
 ## **Combat**
 

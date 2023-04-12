@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 55854
+revid: 59772
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 
 “ YOU SEEM TO BE INSISTING ON FISTING! ”
 
-― A powerful Felinor about to pound the Fort Merit guards' faces in.
+― Powerful Felinor Jonathan Talo about to pound the Fort Merit guards' faces in.
 
 Fists are another type of scaled LHT weapon attribute in Deepwoken.
 

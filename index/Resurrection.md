@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 57950
+revid: 59779
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -31,7 +31,7 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 Pressing C will cast the **Resurrection** Resonance on a target. Will be activated for 10 seconds(need more testing). Has a 1 minute cooldown.
 
-Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self (hold the C button to forcefully cast on self without fail)
+Activating resonance marks a living being. Can tag NPCs, allies, non-allies and self (hold the C button to forcefully cast on self, must already be activated.)
 
 During active resonance, if the target is knocked, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
 
