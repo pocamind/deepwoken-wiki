@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 59707
+revid: 59754
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs]

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 59585
+revid: 59767
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -383,6 +383,8 @@ To obtain the mantras, you must kill the 3 Sinners spread around the East Lumina
 -   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
 
 You will get a mantra for each kill.
+
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=wdP9-YHXEcs)._
 
 ### Known Abilities
 

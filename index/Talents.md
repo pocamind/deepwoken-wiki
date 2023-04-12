@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59752
+revid: 59755
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -126,6 +126,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence, Brewed a Potion
 
+-   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified.
+    -   Prerequisite: 90 Intelligence, Brewed a Potion
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Prerequisite: 80 Intelligence, Brewed a Potion
 
@@ -158,6 +160,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
     -   Mutual Exclusive: Fishman
+
+### All-Knowing
+
+-   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+    -   Prerequisites: 80 Intelligence
 
 ### Amoran Seeker
 
@@ -746,7 +753,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
 
--   _Taste Test_ \[Common Talent\] - When consuming a potion you have a 25% chance of not depleting the potion you consumed.
+-   Taste Test \[Common Talent\] - When consuming a potion you have a 25% chance of not depleting the potion you consumed.
     -   Prerequisite: 80 Intelligence, Potion Quaffer.
 
 ### Frost Forger
@@ -1532,6 +1539,8 @@ Prerequisite: Charisma
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
     -   Prerequisite: Discovery of Fire, 1 Flamecharm
 
+-   Dark Receiver \[Common Talent, Shadowcast & Thundercall exclusive\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+    -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 

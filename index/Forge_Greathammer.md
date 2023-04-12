@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 51130
+revid: 59766
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,4 +29,4 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-The Forge Greathammer is a Midgame Greathammer that can be found in chests by turning in explosive crates at Summer Isle or in chests within [The Depths,](The_Depths.md) chests from [Primadon](Primadon,_Titan_of_the_East.md) and in the pvp arena. This Greathammer has a base damage of 24 and a Strength requirement of 10, as well as a Heavy Weapon requirement of 55 to equip. This weapon has no special effects or passives.
+The Forge Greathammer is a Midgame Greathammer that can be found in chests by turning in explosive crates at Summer Isle/Summer Isle Chests, chests from [The Depths,](The_Depths.md) chests from [Primadon](Primadon,_Titan_of_the_East.md) and from Chime. This Greathammer has a base damage of 24 and a Strength requirement of 10, as well as a Heavy Weapon requirement of 55 to equip. This weapon has no special effects or passives.

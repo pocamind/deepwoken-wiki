@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 59726
+revid: 59753
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -74,7 +74,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The second strongest of the nine Ministry Prophets.
 -   Gave Chaser his hemo-kinetic abilities.
 -   Master of Chaser and probably other apprentices.
--   His only known powers are blood control that very probably are way more powerfull than Chaser ones.
+-   His only known powers are blood control that is probably much more powerful than Chaser's blood powers.
 
 ### **The 5th King of Etrea**
 

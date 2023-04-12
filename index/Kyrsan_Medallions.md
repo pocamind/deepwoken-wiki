@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 57410
+revid: 59765
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -34,3 +34,4 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 ## Trivia
 
 -   There has been proof of obtaining them from Fishing in the past, whether or not this has been shadow patched is unclear.
+-   The Equipment Dye can also be used to dye your hair, which can be removed by Barbers.
