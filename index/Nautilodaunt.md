@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 59780
+revid: 59781
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,7 +44,11 @@ In addition to their impressive intelligence, it is also observed that they are 
 
 ## Description
 
-Template:Creature Infobox V3 The Fury Nautilodaunt, taking on a darker tone and by the work of some merciless god was given the ability to wield Thundercall, is by far the scariest monster in the game, inflicting true stun on _every_ hit it makes on you as well as bypassing all forms of hyperarmor, having triple the health and having a more powerful modified Grand Stomp. If you see one (I can not stress this enough) LOG
+Template:Creature Infobox V3 The Fury Nautilodaunt is a product of a rare genetic mutation that is the result of an unknown phenomena, causing a variety of monsters to take on various different traits, atypical of their biology. In the Fury Nautilodaunt's case, said mutation caused them to become in-tune with Thundercall.
+
+Their skin is noticeably darker with a yellow tint, while their eyes glow of bright yellow, atypical to it's white-eyed original counterparts. Aside from a notable physical change, the Fury Nautilodaunt also gained the ability to electrify their prey with each of their punches, debilitating the prey in the process. To no one's surprise, this amplifies how dangerous they are, on top of what they are already known for.
+
+In addition, it is also observed that they are much more durable than regular Nautilodaunts. Though aside from these observations, their behavior remains the same.
 
 ## Attack Patterns
 

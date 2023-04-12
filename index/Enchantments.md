@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 59505
+revid: 59786
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -16,7 +16,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 -   You can get an enchanted gear in any chest.
 -   Turning in an artifact.
--   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new one on your desired [weapon](Weapons.md).
+-   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
 -   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
 -   Using an enchantment stone to get a desired enchant that you can get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md)
 -   Using the deepshore fossil from [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) to get a desired enchant.

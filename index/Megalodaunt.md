@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 59568
+revid: 59783
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -25,19 +25,19 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant humanoid shark [monster](Monsters.md) which spawns in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_, known for their strong social hierarchy with Alphas leading packs. The recommended power is 5-10 but it can be defeated at relatively any level with enough practice.
+The Megalodaunt is a giant humanoid shark [monstercommonly](Monsters.md) found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_.
+
+Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws.
 
 There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 talents, Engage at level 3 and Critical Attack at level 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
 
-Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this enemy are mostly likely going to experience a swift death.
+Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this monster are mostly likely going to succumb to it within seconds.
 
-This monster is hostile to every other creature in _The Etrean Luminant_ and will attack them on sight, apart from other Megalodaunts. It will, however, still attack its rarer Crimson variant.
+Megalodaunts are naturally hostile to every other creature in _The Etrean Luminant_, and will attack them on sight for purposes both survival and territorial. They are never observed quarrelling with each other as of yet, though curiously enough, treats the Crimson Variant of Megalodaunt with extreme prejudice.
 
-Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a Megalodaunt Coral or a [Megalodaunt Coat](Megalodaunt_Coat.md).
+Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). On rare occasions, It may drop a Megalodaunt Coral or a [Megalodaunt Coat](Megalodaunt_Coat.md).
 
-They can also be spawned using [Megalodaunt Bait](Monster_Bait.md).
-
-Megalodaunts come in four different versions, with two able to be corrupted, for a total of six "versions" of the monster you can encounter.
+In addition to be found wandering around various places or loitering around in selected caves and locations, they can also be lured with the use of a [Megalodaunt Bait](Monster_Bait.md).
 
 ## **Attacks**
 
@@ -94,12 +94,15 @@ Roar
 
 **Crimson Megalodaunt:**
 
-  
 Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts are Red Megalodaunts, native to the Songseeker Wilds, the Starswept Valley, and the Starfield Veldt, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring. The recommended level is 12-13 when fighting these as they just as strong if not stronger than a corrupted base variant.
+Crimson Megalodaunts area the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Crimson Megalodaunt is one such example, with the mutation causing them to be in-tune with Flamecharm.
+
+Red Megalodaunts only features a different skin tone when compared to it's original counterpart, with it being dyed a color of Crimson Red. In addition, it is observed that Red Megalodaunts may utilize Flamecharm by invoking the Song through it's scream, which causes flaming swords to rain down from the sky. These are the only notable differences that are associated with this unique mutation, and aside from being outcasts of Megalodaunt packs, behave no more different than a regular Megalodaunt.
+
+They are a significantly rarer sight, and are only found in selected locations at the Eastern Luminant, namely Songseeker Wilds and the Starswept Valley. Of which, they can always be found on one of the bridges at Starswept Valley somewhere near Bluster's Rift. They would also appear in the Etrean Luminant with the use of a Megalodaunt Bait, but as expected, they are a much rarer sight. As they are somehow considered as outcasts by Megalodaunt packs, they will attack other Megalodaunts as well.
 
 ## **Attacks**
 
@@ -172,7 +175,13 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-A dark blue version of the Megalodaunt. They can be found in The Depths, the [Trial Of One](Trial_of_One.md), the [Starfield Veldt](Starfield_Veldt.md), the [Starswept Valley](The_Starswept_Valley.md), [Aratel Island](Aratel_Island.md) and upper [Minityrsa](Minityrsa.md) inside of the [voidzone](Voidzones.md). They are at the top of the Megalodaunt social hierarchy, boasting extra strength and health, as well as the ability to seemingly disappear using Tacet allowing them to sneak attack prey usually being players. The recommended level for these is not much higher than a base variant sitting around 8-10 only due to their damage scaling being much higher.
+The Alpha Megalodaunt is a unique type of Megalodaunt naturally found in the Depths and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
+
+As their name might suggest, they are the Alphas within a Megalodaunt Pack, and are considered as the dominant creature inside it's respective pack. However, Alpha Megalodaunts are never observed to be within a pack, and like other Megalodaunts, are usually found either idling alone, or fighting other things alone.
+
+They are much stronger than their regular counterparts with their skin appearing as dark blue rather than pale. Whether or not this is the result of mutations remains unknown, though it is notable that they are capable of using Tacet, a murmur used to suppress one's own song to temporarily become unperceivable by other entities. In this case, it is used for hunting.
+
+Despite all of the above, they behave like regular Megalodaunts.
 
 ## **Attacks**
 
