@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 56784
+revid: 59789
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Character]

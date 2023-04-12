@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 59783
+revid: 59800
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -25,7 +25,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Megalodaunt is a giant humanoid shark [monstercommonly](Monsters.md) found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_.
+The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_.
 
 Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws.
 

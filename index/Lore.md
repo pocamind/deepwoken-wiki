@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 59753
+revid: 59798
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -209,7 +209,7 @@ _"My Burden is Light." -Unknown Lightkeeper._
 -   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
 -   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
 
-### **Klaris Llfiend**
+### **Klaris Llfiend, Mother of Lights**
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
@@ -483,11 +483,13 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Southern Luminant**
 
 -   A location affected by a Great Drowning.
+-   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
 -   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
 
 ### **Northern Luminant**
 
 -   A frozen Tundra.
+-   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
 -   Probably home to [Frostdraw](Frostdraw.md).
 -   Originally inhabited by the Edenkite.
     -   The beheaded corpse of one remains there to this day.
@@ -495,6 +497,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Western Luminant**
 
 -   The home to the Hundred Legions and home of the Khans.
+-   Speculated to have the main Headquarters of the Ministry located.
 -   Home of Amorous Pleeksty (The Flamecharmer who ate part of Korilfiend).
 
 ### **Voidsea**
