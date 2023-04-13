@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 56333
+revid: 59849
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -15,9 +15,10 @@ Deep Gems can be obtained from:
 -   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
 -   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)
 -   [Hell Mode](Hell_Mode.md) completion chest (guaranteed)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (guaranteed)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (very high chance)
 -   [Scion of Ethiron](Scion_of_Ethiron.md) (guaranteed)
 -   Randomly bought for 15 Joy at the Floating Keep (limited to the Hallowtide seasonal event)
+-   [Ferryman](The_Ferryman.md) (Rare/uncommon chance)
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

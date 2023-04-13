@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 58856
+revid: 59855
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -42,10 +42,11 @@ The prices of Chili's items may vary from price to price.
     -   [Darksteel Greatsword](Darksteel_Greatsword.md)
     -   [Inquisitor Straight Sword](<Inquisitor's_Greatsword.md>)
     -   [Great Maul](Great_Maul.md)
+    -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
 -   **Armors:**
     -   [Authority Helm](Authority_Helm.md)
-    -   Khan Helmet
-    -   Big Alchemist Hat
+    -   [Khan Helmet](Legion_Helmet.md)
+    -   [Big Alchemist Hat](<Big_Alchemist's_Hat.md>)
     -   Ruby Drop Earrings
     -   Dawn Scarf
     -   Curseblood Pendant

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 59798
+revid: 59846
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1593,7 +1593,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
     -   Black Megalodaunts are considered the Alphas.
         -   It's unknown if they are born like this or if regular Megalodaunts can obtain this form manually.
     -   Crimson Megalodaunts are much rarer and seem to be drawn to the Songseeker Wilds.
-        -   Crimson Megalodaunts are much more aggressive than regular ones, attacking even their own kin.
+        -   Crimson Megalodaunts are much more aggressive than regular ones, attacking even their own kind.
         -   They may be connected to Flamecharm, as they can rain down swords of fire on their enemies.
 -   Their natural habitat is The Depths.
     -   This is likely what led them to evolve in this way, as the landscape of The Depths would mean they would not need to swim and instead should evolve to become better runners and stronger climbers and jumpers.
@@ -1649,6 +1649,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They are powered by the souls of those who have failed the Depth Trials, and thus, the more people that die in the trials, creates more Enforcers in the future.
 -   They are hostile to every monster.
 -   They turn to ash after being defeated, but plucking their eyes out will preserve them.
+-   Enforcers that have the Enforcer Hammer as a weapon, tend to be bigger, having more health, and to have their eyes and weapon of a more orange tone color, possibly meaning that they are made up from more souls than the normal enforcer with axe/sword.
 
 ### Nautilodaunt
 

@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 59832
+revid: 59851
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -32,7 +32,7 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. Has a unique critical that summons a blood explosion to your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it the best dagger in the game.
+Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. Has a unique critical that summons a blood explosion to your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it the best dagger in the game. The critical will instantly grip opponents.
 
 It was made by and thus obtained from Chaser.
 
