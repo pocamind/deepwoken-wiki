@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 59773
+revid: 59839
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in Cathedral of Ethiron. He is also a Black Diver, by both description and appearance. He was gifted the ability of hemokinesis by the Ministry's Second Prophet.
+Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within The Maw of Ethiron, specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, by both description and appearance. He was gifted the ability of hemokinesis by the Ministry's Second Prophet.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition was arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
@@ -40,7 +40,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   _**There is an indicator before the attack**_
 
- | ✗ | ✗\*\* | ◯ | (★★☆) |
+ | ✗ | ✗ | ◯ | (★★☆) |
 | **Burning Blood**
 
 **Explosion**
@@ -51,7 +51,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the reminder of the fight.
 
- | ✗ | ◯\* | ◯\* | (★★☆) |
+ | ✗ | ◯ | ◯ | (★★☆) |
 | **Sanguine Repulsion** | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll, happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_

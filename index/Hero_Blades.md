@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 59825
+revid: 59830
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -135,3 +135,4 @@ The Hero Blade of Shadow is an elemental weapon that is obtained by defeating al
 
 -   Before Verse 2 (24/12/2022), the critical of the Hero blades were basic sword critical stabs.
 -   Every critical of the hero blade has a different hero with different race, giving the theory that the spirit in the critical attack is the original wielder/hero of the blade.
+-   Using a weapon manual with any of the Hero Blades equipped will put a point into medium weapons
