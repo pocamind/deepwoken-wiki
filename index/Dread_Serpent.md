@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 59244
+revid: 59803
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -60,6 +60,9 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
 -   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2 however.
 -   Apparently it can fly, though it doesn't use this in battle.
+-   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
+    -   This may come as a result of the notorious copyright strikes taken against anime-based Roblox games.
+-   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
 
 ## Gallery
 

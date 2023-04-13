@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59794
+revid: 59809
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1551,7 +1551,7 @@ Prerequisite: Charisma
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Whenever you would get knocked but have a tether active, steal HP from the target to survive the hit.
     -   3-4 seconds cooldown between knock preventions.
-    -   Prerequisite: Static Link, 20 Fortitude
+    -   Prerequisite: Static Link, 40 thundercall, 20 Fortitude
 
 -   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
     -   Each active link reduce mantra ether cost by 30%.
@@ -1967,7 +1967,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   When your Armor is at 0%, movement speed is increased by 25%.
 
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
-    -   Enemies who knock you restore only half of the posture and health they would normally obtain.
+    -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
+    -   If the enemy have the talent Replenishing Knockout, both talents negate each other, resulting in a normal health pack.
     -   Prerequisites: [Power](Power.md) 3
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when bellow 20% HP) (+1 Passive Agility)
@@ -1977,7 +1978,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 1, 20 Fortitude
 
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
-    -   Knocking enemies will replenish more of your health and posture.
+    -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
+    -   If the target have the talent Martyr, both talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)

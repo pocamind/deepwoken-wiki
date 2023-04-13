@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 59736
+revid: 59801
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -20,7 +20,7 @@ _Tools_ _constructed with the intent to harm others, polished to be efficient ki
 
 Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest)). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
-When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example). If you are getting bored then play [2048 game](https://2048gamers.com/).
+When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example).
 
 Enchanted weapons always have at least one star.
 
@@ -33,7 +33,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Light Weapons** are locked to One Handed stance.
     -   **Fists** are able to switch between Way of Navae and Legion Kata.
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance. (except for rifles)
--   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (40 HVY) allow usage of One Handed stance with them.
+-   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed Training (40 HVY Req, Located in the Weapons Master catagory) allow usage of One Handed stance with them.
 
 ### One-Handed
 
@@ -1699,7 +1699,7 @@ Therefore (the names have been shortened to fit the formula in the page):
 
 -   T S D \= { B D × A 1 S c l × A 1 L v l × \[ 1 + ( P f y × 0.05 ) \] } + { B D × A 2 S c l × A 2 L v l × \[ 1 + ( P f y × 0.05 ) \] } {\\displaystyle TSD = \\Bigl \\lbrace BD \\times A1Scl \\times A1Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace + \\Bigl \\lbrace BD \\times A2Scl \\times A2Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace } {\\displaystyle TSD={\\Bigl \\lbrace }BD\\times A1Scl\\times A1Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }+{\\Bigl \\lbrace }BD\\times A2Scl\\times A2Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }}
 
-Which can be semplified as:
+Which can be simplified as:
 
 -   T S D \= B D × ( A 1 S c l × A 1 L v l + A 2 S c l × A 2 L v l ) × ( 1 + ( P f y × 0.05 ) ) {\\displaystyle TSD = BD \\times \\left( A1Scl \\times A1Lvl + A2Scl \\times A2Lvl \\right) \\times \\left(1 + \\left(Pfy \\times 0.05\\right)\\right) } {\\displaystyle TSD=BD\\times \\left(A1Scl\\times A1Lvl+A2Scl\\times A2Lvl\\right)\\times \\left(1+\\left(Pfy\\times 0.05\\right)\\right)}
 

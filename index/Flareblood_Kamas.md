@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 59785
+revid: 59817
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -42,3 +42,4 @@ It was made by and thus obtained from Chaser.
     -   The critical can't be used in water, however if you try, it would go off on the closest land.
 -   This weapon model & Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki)
 -   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvest but also martial arts.
+-   This is currently the only legendary weapon that can be obtained from a single boss.
