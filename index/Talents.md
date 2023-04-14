@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 59809
+revid: 60110
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -603,7 +603,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Tap Dancer_ \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility)
     -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
-    -   Prerequisite: 60 Agility
+    -   Prerequisite: 65 Agility
 
 ### Duelist Flame
 

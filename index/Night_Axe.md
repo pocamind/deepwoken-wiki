@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 58830
+revid: 60098
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Confirmed drop from Minityrsa shadow npcs, |
+| obtainment | Confirmed drop from Minityrsa shadow npcs, rare drop from enemy voidwalker chests |
 | description | ... |
 
 ## Description
