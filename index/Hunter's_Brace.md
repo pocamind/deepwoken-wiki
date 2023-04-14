@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 56059
+revid: 60141
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms]

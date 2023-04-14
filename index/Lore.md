@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 59846
+revid: 60167
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -141,7 +141,7 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
-    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that your too strong and that he can't use his bell to kill you.
+    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
@@ -156,12 +156,12 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   He and the First Prophet are the only known Deepwoken.
 -   'Would beat Akira up and down the eastern lum.'
--   Most likely to be stronger than lord regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwokens.
+-   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwokens.
 -   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
--   Many people think he is dead due to be the only known person to go to the third layer. However since he is immortal, he just stays most of his time in the third layer, being almost not seen.
+-   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just stays most of his time in the third layer, being almost not seen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
--   Apparently he also writes books, being one and the only known to be "Flame and the failure of man."
+-   Apparently, he also writes books, being one and the only known to be "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 
@@ -333,7 +333,7 @@ Yun'shul's Shrine
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
--   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion despite being in New Kyrsa for some time, didn't experience the effects of the mist.
+-   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   The current status of Ethiron: Asleep.
 
@@ -442,9 +442,9 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 #### Songseeker Wilds (Eastern Luminant)
 
--   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
+-   A place which the Songseekers migrate to in order to enhance their mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
--   The trainer for Fire Mantra owns a dojo on the island.
+-   The trainer for [Flamecharm](Flamecharm.md) owns a [temple](Songseeker_Temple.md) on one of the islands.
 
 #### Ancient Rotlands (Eastern Luminant)
 
@@ -597,6 +597,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   The meteor flowers located here are considered a part of him.
     -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
 -   The Third Layer is mainly formed by volcanic and fire/hot envirioment.
+-   Its said that the heat that the Hero blade of Flame emits, is the same as the heat that the vents emit.
 
 ## Factions
 
@@ -964,6 +965,25 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
 -   Pathfinders worship Celestials, namely Alsin.
+
+### **The Covenant of Flame**
+
+-   **Encountered in:** _West luminant, Lance Leshi restaurant (A member), Songseeker Temple (Flamecharm trainer), the Third layer(?)._
+-   **Attunments:** _Flamecharm._
+-   **Alliances:** _Amorus Pleeksty(?)_
+-   **Enemies:** _The Depths(?)_
+-   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, Ragoozer (Discord), Talent cards (Amoran seeker talent cards, falling star guard talent cards), Mystic._
+
+-   A group of Flamecharmers who follow the teachings of the Drowned Diver Amorus Pleeksty.
+-   One of the few faiths from the Cantaclysim that survived the Tides and its still spreading today. (Book Vows by the sea: Inheritance:)
+-   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
+-   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.
+-   The relations between Pleeksty and the Covenant of Flame are unkown, but it is known that Pleeksty teached many people the concepts of flamecharm in the Cantaclysism, making these people to spread his teachings and creating the Covenant of Flame.
+-   Their main goal is to save humanity from the Depths, depicting humanity as the "Eternal flame" and the ultimate enemy as the Depths itself.
+-   Their rank system is unkown, but they are commonly known as "Flamepriest" or "Flameworshippers".
+-   This is speculation, but it is said that some members of the Covenant of Flame are residing in the Third Layers of the Depths, looking for Amorus Pleeksty.
+-   Their relations with the main factions of Lumen is unkown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
+-   When talking to the mystic to have the talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the talents of flamecharm where created by the Covenant of Flame.
 
 ### **Kyrsgarde**
 

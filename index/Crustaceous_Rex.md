@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 58014
+revid: 60164
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Crustaceous Rex
 
-“ I like breaking your ribcage. ”
+“ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
 
-― Crustaceous Rex when asked what inspired them to build a second Krusty Krab right next to the original.
+― Inquisitor's Thorn Description
 
 Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss, Crabulon,** or **Crabbo.**_
 

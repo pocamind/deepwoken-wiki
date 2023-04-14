@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 59816
+revid: 60162
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-“ Welcome to Crusty Celtor, where the evolutionary clock errr broke ”
+“ Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. ”
 
-― Nautilodaunt before showing a Canor what it's like to evolve diagonally
+― Mortus describing his encounter with a Nautliodaunt
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Nautilus_
 

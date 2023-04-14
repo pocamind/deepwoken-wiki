@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 57947
+revid: 60134
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death, The Depths]
@@ -26,21 +26,23 @@ Fragment of Self acts as the purgatory of _Deepwoken_. Players are sent to it wh
 
 ### Campfire
 
-Players can use this to remove Equipment they want to pass down at the Hippocampal Pool.
+Players can use this to remove equipment they want to pass down at the Hippocampal Pool.
 
 ### Hippocampal Pool
 
-Located to the left handside, interacting with this allows you to pass down two items that will transfer to your next character. It will also allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
+Located to the left handside, beyond a small parkour section. Interacting with it allows you to pass down two (three or four, if you have the [Echoes](Echoes.md) upgrades) items that will transfer to your next character. It will also allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
 
 -   You can pass down a Legendary Weapon or Enchanted Item (or weapon), albeit at a cost of 100 Echoes.
 
 ### Shrine of the Drowned
 
-Located before Self, a statue that allows you to pay 1.000 to return to the Surface. This can only be used once per character and requires [Power](Power.md) 2.
+Located before Self, a statue that allows you to pay 1.000
+
+to return to the Surface. This can only be used once per character and requires [Power](Power.md) 2.
 
 ### Self
 
-Located past the stone arch, a pure reflection of yourself that will remove your character from _Deepwoken_. The following is the dialogue present with said reflection:
+Located past the stone archs, a reflection of yourself that will remove your character. The following is the dialogue present with said reflection:
 
 <table>
 <tbody>
@@ -105,13 +107,13 @@ Located past the stone arch, a pure reflection of yourself that will remove your
 
 Clicking\[The End\] will wipe your character and show you the character's legacy menu then transfer you to the character creation screen.
 
-##### **The Legacy menu**
+### **The Legacy menu**
 
 The legacy menu upon wiping
 
 The Triumphs section shows the player's achievement across the progression, These will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
 
-The Echoes section shows how much echoes you earned and the Rank Based on it. Rankings range from E-A, there is currently no proof of a Rank S.
+The Echoes section shows how much echoes you earned and the Rank Based on it. Rankings range from E-S, Rank S being extremely rare.
 
   
 
@@ -121,10 +123,12 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 
 ## Trivia
 
--   If you fall off the Fragments of Self, you will be teleported back to spawn, falling down from above.
--   You cannot M1 in the Fragments of Self but you can use your weapon's critical, though it can't interact with the environment.
--   There is currently no known way to die in Fragments of Self, as fall damage is disabled and so is any form (Potions?) of PVP damage, starving also only drains the player's health down to 50%, it is unclear if bleeding out is possible, boulder does not execute you here, and dying here would most definitely be a bug and would respawn you in Fragments of Self again.
--   Owls can seemingly spawn up here, but can't actually damage you.
+-   If you fall off one of the islands you will be teleported back to spawn, falling down from above.
+-   You cannot M1 or use mantras here, but you can use your weapon's critical, though it can't interact with the environment.
+-   There is currently no known way to die here, as fall damage is disabled and so is any form of PVP damage, starving also only drains the player's health down to 50%. It is unclear if bleeding out is possible, using boulder does not execute you here, and dying here would most definitely be a bug and would send you here again.
+-   Owls can seemingly spawn here, but can't actually damage you.
 -   You can cut down the trees here.
--   Fragments Of Self is virtually located above The Depths which could potentially but unlikely be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
--   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of wiping, encouraging you to try once more.
+-   Fragments Of Self is virtually located above The Depths which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
+-   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of dying, encouraging you to try once more.
+-   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
+-   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.

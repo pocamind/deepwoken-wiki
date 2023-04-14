@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 59098
+revid: 60142
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -13,9 +13,9 @@ categories: [Armors, Arms, Equipment]
 | type | Arms |
 | rarity | Common |
 | selling price | 30 |
-| requirements | N/A |
+| requirements | None. |
 | weight | 2 |
-| innate stats | Random Placeholder Stats |
+| innate stats | Random stats depending on Pips. |
 | innate talent | Replenishing Knockout |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,8 +26,8 @@ categories: [Armors, Arms, Equipment]
 
 ## Description
 
-The Vanguard Brace is an equipment piece under the "Arms" category. They can be found through chests in [Erisia](Erisia.md) and from progressing through the [Tutorial](Tutorial.md).
+The Vanguard Brace is an equipment item in the arms category. Equipping it grants you randomized stats based on the Pips you get. The Vanguard Brace can be found in [Erisia](Erisia.md) or obtained through the [Tutorial](Tutorial.md)
 
 ## Trivia
 
--   They are obtained for free from the tutorial and are commonly found in Erisia, making these very common armor pieces and they aren't worth much.
+-   They are obtained for free from the tutorial and are commonly found in [Erisia](Erisia.md), making these very common armor pieces.

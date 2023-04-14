@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60110
+revid: 60168
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-**Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
+**nePress Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "Orbital Ice" to find the description, requirements, and effect for Orbital Ice)_
@@ -365,7 +365,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   Prerequisites: 85 Intelligence, all Adept Caster talents
+    -   Prerequisites: 85 Intelligence
 
 ### Champion
 

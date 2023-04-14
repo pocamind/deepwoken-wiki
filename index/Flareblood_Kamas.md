@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 60081
+revid: 60169
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Legendary Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Daggers, Legendary Weapons]
 
 ## Description
 
-Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. Has a unique critical that summons a blood explosion to your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it the best dagger in the game. The critical will instantly grip opponents.
+The Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 14.2 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it the best dagger in the game. The critical will instantly grip opponents.
 
 It was made by and thus obtained from Chaser.
 
@@ -41,4 +41,4 @@ It was made by and thus obtained from Chaser.
 -   Has a unique critical that summons a blood explosion to your cursor.
     -   The critical can't be used in water, however if you try, it would go off on the closest land.
 -   This weapon model & Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki)
--   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvest but also martial arts.
+-   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.

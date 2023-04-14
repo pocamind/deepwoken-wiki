@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 58956
+revid: 60158
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,6 @@ _Also known as Hive Mechs, Lifeweaver Golems, Forest Golems, or Obsidian Golems,
 
 ― Hive Construct
 
-  
 Template:Creature Infobox V3
 
 ## Description
@@ -55,11 +54,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 **Rogue Construct:**
 
-“ YOU DARE TO CHALLENGE ME?. ”
-
-― A Rogue Construct going to one shot a power 7 with meteor punch.
-
-  
 Template:Creature Infobox V3
 
 ## Description

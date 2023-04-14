@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 56467
+revid: 60143
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Arms]
@@ -12,6 +12,8 @@ Template:EquipmentStats
 
 ## Description
 
-Fur Pauldrons are accessories under the "Arms" category. They can be found through chests in [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).
+The Fur Pauldrons are an equipment item in the arms category. Equipping them grants you randomized stats based on the Pips you get. The Fur Pauldrons can be found in [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).
 
-Fur Pauldrons are part of the "**Fur**" set; with the only other piece being the [Fur Boots](Fur_Boots.md).
+## Trivia
+
+The Fur Pauldrons are part of the "**Fur**" set; with the only other piece being the [Fur Boots](Fur_Boots.md).
