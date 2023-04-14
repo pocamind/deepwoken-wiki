@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 54803
+revid: 59879
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Items]
@@ -23,6 +23,10 @@ categories: [Armors, Arms, Items]
 | pass down | Yes |
 | obtainment | Starswept Valley |
 | description | '"Lorem ipsum."' |
+
+“ The Notes. Hand it over. ”
+
+― Power 52 Royal Pathfinder Gremor to a freshie at Etris
 
 ## Description
 
