@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 59804
+revid: 60131
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -231,7 +231,7 @@ categories: [Deepwoken]
 
 ### **Misc**
 
--   While some might pass this off as a coincidence, Gunsmith Rosen's name may be a slight nod to Eric Rosen, a chess player, as many of the races in Rogue Lineage were named after chess players.
+-   While some might pass this off as a coincidence, Gunsmith Rosen's name may be a slight nod to Eric Rosen, a chess player, as many of the races in Rogue Lineage were named after chess players. (This is a misconception, some Rogue Lineage races have names similar to chess players but they're also some corruption of a word the race revolves around, such as Castellan with Casting and Morvid with Corvid.)
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
     -   Perceiving them drives you to insanity
     -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
