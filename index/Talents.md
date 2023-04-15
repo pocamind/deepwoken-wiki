@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60192
+revid: 60238
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -46,7 +46,6 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
 -   _Risky Moves_ **or** _Safety Dance/Observation;_
 -   _Conditioned Runner_ **or** _Fishman;_
--   _Eruption Path: Lava Serpent_ _**or** The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
 -   Singularity **or** Sightless Still.
 
@@ -681,7 +680,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Flame Dancer
 
--   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing.
+-   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing. (+3 Elemental Intensity)
+    -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 -   _Flaming Rebound_ \[Rare Talent, Flamecharm Exclusive\] - Flamecharm mantras now grant extra tempo upon landing (+3 Elemental Intensity).
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 10
 
@@ -696,13 +696,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility, +3 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
--   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
+-   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility, +3 Elemental Intensity)
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
--   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
+-   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity)
     -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra)
 
--   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+-   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra bui lds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility, +3 Elemental Intensity)
     -   Prerequisite: 20 Agility, 30 Flamecharm, Hell's Partisan
 
 ### Flamecharmer

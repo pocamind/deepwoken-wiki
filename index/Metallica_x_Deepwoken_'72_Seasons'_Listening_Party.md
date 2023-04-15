@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 60178
+revid: 60219
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -32,11 +32,14 @@ The "Metalhead" badge
 
 ### Description
 
--   You've proven yourself at the 72 Seasons and unlocked the exclusive Head Bang gesture.
+-   You've proven yourself at the 72 Seasons and unlocked the exclusive Headbang gesture.
+    
+    The "Headbang" emote
+    
 
 ### Function
 
--   You are able to use the "Head Bang" emote/gesture in Deepwoken.
+-   You are able to use the "Headbang" emote/gesture in Deepwoken.
 
 ## Miscellaneous
 
@@ -47,5 +50,5 @@ The "Metalhead" badge
 
 ## Trivia
 
--   The Meatlord and Yamaketzal can be found inside (The Meatlord can be found selling drinks and, of course, meat. Yamaketzal can be found at the place where you can buy the Roblox items)
+-   The "Metal Lord" and Yamaketzal can be found inside (The Metal Lord can be found selling drinks and meat). Yamaketzal can be found at the place where you can buy the Roblox items)
 -   The four Metallica members seen ingame are shown as entirely normal humans, possessing none of the characteristics of any of the races seen ingame.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 59800
+revid: 60195
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -356,3 +356,4 @@ A Megalodaunt swimming.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   Some mantras that need to mark a person/object to be able to cast, such as Ice daggers or Shadow seekers, dont work on Megalodaunts for some unkown reason, so dont waste ether if it doesnt cast a mantra against a sharko.
+-   Megalodaunts have eyes on the side of their heads, this could, potentially, be a sign that they are prey animals (high chance that i'm wrong though)
