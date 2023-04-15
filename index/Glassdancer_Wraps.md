@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 60256
+revid: 60304
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -13,7 +13,7 @@ categories: [Armors, Arms, Equipment]
 | type | Arms |
 | rarity | Rare |
 | selling price | Unknown |
-| requirements | None. |
+| requirements | None |
 | weight | 2 |
 | innate stats | 7 Health, 3 Posture |
 | innate talent | Lightweight |
@@ -30,7 +30,7 @@ categories: [Armors, Arms, Equipment]
 
 ## Description
 
-The Glassdancer Wraps are an equipment item in the arms category. Equipping them grants you 7 Health, 3 posture an unknown number of Pips, and the [Talent](Talents.md) Lightweight, Which Increases movement speed when your armor runs out of durability. They are commonly found in chests from [Minityrsa](Minityrsa.md) and the [Songseeker Wilds](Songseeker_Wilds.md)
+The Glassdancer Wraps are an equipment item in the arms category. Equipping them grants you 7 Health, 3 posture, an unknown number of Pips, and the [Talent](Talents.md) Lightweight, which Increases movement speed when your armor runs out of durability. They are commonly found in chests from [Minityrsa](Minityrsa.md) and the [Songseeker Wilds](Songseeker_Wilds.md)
 
 ## Trivia
 

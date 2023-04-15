@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 60257
+revid: 60277
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -13,7 +13,7 @@ categories: [Character, Armors]
 | type | Arms |
 | rarity | Common |
 | selling price | Unknown |
-| requirements | None. |
+| requirements | None |
 | weight | 2 |
 | innate stats | 3 Health, 2 Pips |
 | innate talent | Polite Awakening |

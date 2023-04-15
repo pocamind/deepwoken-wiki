@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 58269
+revid: 60264
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -12,7 +12,7 @@ categories: [Guilds, Mechanics, Character, World, Deepwoken]
 
 ― Poor guy trying to stay alive while getting chased by 10 lancelot members in the depths
 
-The Guildhouse in Etris
+The Guildhouse in Etris is based
 
 ## Description
 

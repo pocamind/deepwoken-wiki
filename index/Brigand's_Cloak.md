@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 60254
+revid: 60282
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -13,10 +13,10 @@ categories: [Character, Armors]
 | type | Arms |
 | rarity | Common |
 | selling price | Unknown |
-| requirements | None. |
+| requirements | None |
 | weight | 2 |
-| innate stats | Unknown. |
-| innate talent | None. |
+| innate stats | Unknown |
+| innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -34,4 +34,4 @@ The Brigand Cloak is an equipment item in the arms category. The stats and Pips 
 
 ## Trivia
 
-Barely used despite looking quite good.
+-   Barely used despite looking quite good.

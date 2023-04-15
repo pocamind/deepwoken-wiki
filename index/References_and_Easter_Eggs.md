@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 60131
+revid: 60284
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -43,7 +43,8 @@ categories: [Deepwoken]
 -   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer._
     -   It also bears striking resemblance to the spell ["Shock Assault"](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
--   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
+-   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.
+-   When [Thundercall Songseekers](Songseeker_Thundercaller.md) use **Jolt Grab**, it heavily resembles the animation for [Dragon Sage'](https://rogue-lineage.fandom.com/wiki/Dragon_Sage)s Lightning Elbow. It may be because they use the old animations instead of the new ones.
 
 ### **Frostdraw**
 

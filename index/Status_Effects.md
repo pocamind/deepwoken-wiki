@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 56749
+revid: 60294
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -46,7 +46,7 @@ Restore your health to maximum and get up if you are unconscious. Applied by the
 
 ### Rallied
 
-All posture damage given to you will instead by sent to the person who used [Rally.](Attunement-less.md)
+All posture damage given to you will instead be sent to the person who used [Rally.](Attunement-less.md) Signified by your character emitting white circles.
 
 ### Engulfed by Lightning
 

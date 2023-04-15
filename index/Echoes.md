@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 59072
+revid: 60262
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -38,23 +38,23 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Modifying a [Mantra](Mantras.md), awarding 1 Echo. The mantra modification does not have to be successful for this to work; incompatible modifiers still award the echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
+-   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
+-   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Heroblade or Railblade, awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
--   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
+-   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
+-   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
--   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
--   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
--   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
 
 ## Upgrades and Modifiers
 

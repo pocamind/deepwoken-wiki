@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 60258
+revid: 60278
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -13,9 +13,9 @@ categories: [Armors, Arms, Equipment]
 | type | Arms |
 | rarity | Common |
 | selling price | 30 |
-| requirements | None. |
+| requirements | None |
 | weight | 2 |
-| innate stats | 3 Health, 1 Posture, 1 Pip by default. |
+| innate stats | 3 Health, 1 Posture, 1 Pip |
 | innate talent | Replenishing Knockout |
 | bankable | Yes |
 | droppable | Yes |

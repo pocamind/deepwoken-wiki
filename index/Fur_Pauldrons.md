@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 60251
+revid: 60281
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Arms]
@@ -13,10 +13,10 @@ categories: [Items, Armors, Arms]
 | type | Arms |
 | rarity | Common |
 | selling price | Unknown |
-| requirements | None. |
+| requirements | None |
 | weight | 2 |
 | innate stats | Unknown |
-| innate talent | None. |
+| innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,4 +30,4 @@ The Fur Pauldrons are an equipment item in the arms category. The stats and pips
 
 ## Trivia
 
-The Fur Pauldrons are part of the "**Fur**" set; with the only other piece being the [Fur Boots](Fur_Boots.md).
+-   The Fur Pauldrons are part of the "**Fur**" set; with the only other piece being the [Fur Boots](Fur_Boots.md).

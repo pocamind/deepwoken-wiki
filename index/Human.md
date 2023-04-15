@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 60253
+revid: 60288
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,17 +8,11 @@ categories: [Pages with broken file links, Races]
 
 # Human
 
-> _Not to be confused with the other races, also sometimes referred to as humans, due to them being a representation of the real-life original 4 Metallica members, It's safe to assume that is their name._
+> _Mysterious figures who suddenly appeared throughout the world of Deepwoken._
 
 ## Description
 
-Template:Races-Main The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Cliff Burton.
-
-This is an unobtainable race, NPC exclusive.
-
-As of now, the human race is known to give no buffs, as they are only human, after all.
-
-Humans first (and only) appeared in The [Ingame Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>)
+Template:Races-MainThe only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Cliff Burton. This is an unobtainable race, which is NPC exclusive. As of now, the human race is known to give no buffs, as they are only human, after all. Humans first (and only) appeared in The [Ingame Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>)
 
 ## Racial Traits
 
@@ -49,8 +43,10 @@ Kind of just appeared, found through entering one of the many Metallica doors.
 ## Trivia
 
 -   Humans are the only known beings in Deepwoken to have access to Instruments.
--   Humans are the only race who have access to a "Snapback" hat.
--   The songs that Humans ingame are able to preform are:72 Seasons - Metallica
+-   Humans are the only race who have ever shown to have a "Snapback" hat.
+-   The songs that Humans ingame are able to preform are:
+
+72 Seasons - Metallica
 
 King Nothing - Metallica
 

@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 60241
+revid: 60298
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -18,7 +18,7 @@ The "Metalhead" badge
 
 ## Obtainment
 
--   Get 100 points in The Pit at the 72 Seasons Inn. (1 Point takes roughly 5 seconds to get)
+-   Get 100 points in The Pit at the 72 Seasons Inn. (1 Point takes roughly 5 seconds to get, You can also hit one time on somebody for around 10 points.)
 
 ## Playlist
 

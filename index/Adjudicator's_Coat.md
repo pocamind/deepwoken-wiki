@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 60114
+revid: 60291
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,12 +8,26 @@ categories: [Armors]
 
 # Adjudicator's Coat
 
-Template:EquipmentStats
+| Adjudicator's Coat | |
+|---|---|
+| type | Arms |
+| rarity | Common |
+| selling price | Unknown |
+| requirements | Power 13 |
+| weight | 2 |
+| innate stats | 2 Pips |
+| innate talent | Hardened Nerves |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Fort Merit |
+| description | ... |
 
 ## Description
 
-The Adjucator's Coat is an armor piece in the Arms catagory. Equipping it grants you the "Hardened Nerves" talent which increases your posture by +2, along with randomized stats based on the Pips you get. The Adjudicator's Coat can only be found in [Fort Merit](Fort_Merit.md) Chests.
+The Adjudicator's Coat is an animated equipment item in the arms category. Equipping it grants you 2 Pips by default, and the [Talent](Talents.md) Hardened Nerves, which slightly increases posture. They can only be found in chests from [Fort Merit](Fort_Merit.md).
 
 ## Trivia
 
-Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable.
+Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.
