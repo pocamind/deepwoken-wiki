@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60168
+revid: 60192
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-**nePress Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
+**Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "Orbital Ice" to find the description, requirements, and effect for Orbital Ice)_
@@ -1200,7 +1200,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Master Survivalist
 
--   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
+-   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
     -   Prerequisites: 20 Intelligence / 20 Willpower / 20 Charisma.

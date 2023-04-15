@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 59525
+revid: 60175
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -74,7 +74,7 @@ Novice **(900-999)**
 
 Apprentice **(1000-1099)**
 
-Journeyman **(1100-1200)**
+Journeyman **(1100-1199)**
 
 Pathfinder **(1200-1299)**
 

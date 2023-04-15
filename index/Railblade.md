@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 58837
+revid: 60176
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -27,9 +27,9 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 
 ## Description
 
-The Railblade is a [Heavy Greatsword](Weapons.md) obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and is a legendary weapon. The Railblade requires 80 HVY and Power 10 to equip.
+The Railblade is a [Heavy Greatsword](Weapons.md) obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and is a legendary weapon. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 40.15 damage at 100 Heavy and deals 41.5 damage with the added 6 proficiency meaning it deals 43.99 with three star damage.
 
-The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dashing attack ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
+The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
 
 ## Critical Animations
 
@@ -39,12 +39,11 @@ Airborne Critical
 
 ## Notes
 
--   This weapon deals 40.15 damage at 100 Heavy and deals 41.5 damage with the added 6 proficiency meaning it deals 43.99 with three star damage and with the proficiency not much damage boost
 -   It is the first known weapon to have 2 different critical attacks.
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
--   This weapon was modelled by oNoodlez
+-   This weapon was modeled by oNoodlez
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
--   This weapon can only be used one-handed
+-   This weapon can only be used one-handed.
 -   The criticals are probably based on Flame Breathing from Demon Slayer
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the Lightborn race.

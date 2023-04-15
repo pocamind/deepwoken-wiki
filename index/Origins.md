@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 58496
+revid: 60180
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -18,13 +18,13 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Obtainment:** Unlocked by default.
 
-**Castaway** is the default, intended way to play the game. It got no restrictions and no benefits.
+**Castaway** is the default, intended way to play the game. It has no restrictions and no benefits.
 
--   Can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
--   Begin with nothing but [Stranded](Stranded.md) and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective Attunement. If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
+-   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
+-   Begin with nothing but [Stranded](Stranded.md) and a starting weapon; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead.
     -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
 -   No pros or cons; a blank slate for your character.
--   This is the default Origin, available to all players when first starting the game.
+-   This is the default Origin, as it is available to all players when first starting the game.
 
 ## Lone Warrior
 
@@ -37,8 +37,8 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 **Lone Warrior** give players a convenient way to access Trial of One from the get go, allowing them to kickstart their progression.
 
 -   You spawn at [Minityrsa](Minityrsa.md).
--   **\[PRO\]** Instantly teleports you into the Trial of One on spawn.
--   **\[PRO/CON\]** Dying in Trial of One with this origin instantly sends you to [The Depths](The_Depths.md).
+-   **\[PRO\]** Spawns you in the Trial of One.
+-   **\[PRO/CON\]** Dying in the Trial of One with this origin instantly sends you to [The Depths](The_Depths.md).
 
 ## Deepbound
 
@@ -46,17 +46,17 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 > 
 > ― Flavor Text
 
-**Requirements:** Ask about signing up in the Divers to Akira during his encounter event between the Ignition Union in Celtor Wastes.
+**Requirements:** Ask about signing up in the Divers to Akira during his encounter event between the Ignition Union in the Celtor Wastes.
 
 -   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
 
 **Obtainment:** Obtained after speaking to [Akira](Akira.md) in Castle Light about "joining" the divers.
 
-**Deepbound** grants players a convenient way to progress primarly in The Depths, with many benefits to make it much easier. However, they are not forced to stay in The Depth, but Deepbound Contract will attempt to stop players from leaving The Depths too early.
+**Deepbound** grants players a convenient way to progress primarly in The Depths, with many benefits to make it much easier. However, they are not forced to stay in The Depth, but the Deepbound Contract will attempt to stop players from leaving The Depths too early.
 
--   Your starting location is [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
+-   Your starting location is in [Castle Light](Castle_Light.md), located in [The Depths](The_Depths.md).
 -   **\[PRO\]** Increased EXP Gain while below power 15.
--   Grants innate Talent "Deepbound Contract".
+-   Grants an innate Talent called "Deepbound Contract".
     -   **\[PRO\]** Increased EXP Gain in the Depths (Layer 1 and 2)...
     -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
     -   **\[PRO\]** You regain sanity in Castle Light.
@@ -76,15 +76,15 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ― Flavor Text
 
-**Requirements:** Grip 15 players in the Overworld(Can be the same user everytime). Chime of Conflict does not count.
+**Requirements:** Grip 15 players in the Overworld (Can be the same user everytime). Chime of Conflict does not count.
 
-**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
+**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md) event located in the [Aratel Sea](The_Aratel_Sea.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
 **Voidwalker** grants players a convenient, PVP focused style of progression, greatly favoring killing bounty targets for EXP. However, they are not prevented from partaking in PVE. Events however, will provide less EXP. It is not uncommon however for players to take this origin just for its utilities and the inability to get invaded by Voidwalkers.
 
--   Grants the innate talent "Voidwalker Contract"
+-   Grants the innate talent, "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
-        -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Void eye after.
+        -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Voideye.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
     -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
@@ -97,7 +97,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
         -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
         -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
-        -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by yout target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
+        -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by your target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
 -   Grants the Knives of Eylis talent "Voideye"
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability as a 10 minute cooldown. The cooldown automatically ends when a bounty is completed.
@@ -113,7 +113,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 The following is speculation:
 
--   Probably similar to how on Deepbound you spawn with the Diver apprentice robes, and with voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
+-   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the initiate whaler coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
 -   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base. (In case the origin becomes before the Central Luminant)
 -   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.

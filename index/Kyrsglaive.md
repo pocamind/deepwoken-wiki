@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 58845
+revid: 60184
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -12,7 +12,7 @@ categories: [Weapons, Spears]
 |---|---|
 | type | Medium Spear |
 | requirements | 90 MED |
-| damage | 20.5 (+ 7.5 BLEED) |
+| damage | 19.5 (+ 7.5 BLEED) |
 | scaling | MED: 5 |
 | range | 9 |
 | swing speed | 0.72x |

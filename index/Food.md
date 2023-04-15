@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 58083
+revid: 60179
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -20,10 +20,10 @@ An example of a Reinforced Hunger bar
 
 Food is a necessary need for your Character's survival.
 
-_To get food, one must collect ingredients from various Lumen or buy the food from vendors in certain places._
+_To get food, one must collect ingredients from various Luminants or buy the food from vendors in certain places._
 
--   Mushrooms, fruit and Wheat are all very easy to get, they are plentiful and various on both starter islands.
--   On every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, an easy and safe source of nutrition.
+-   Mushrooms, fruit and wheat are all very easy to get, as they are plentiful and various on both starter islands.
+-   In every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
 -   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
 -   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 
@@ -31,8 +31,8 @@ Although you can eat the ingredients directly, certain ingredients or eating too
 
 _To cook food, one must rest at a campfire._
 
--   By combining ingredients together, the player can make various types of foods/drinks.
--   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different types)
+-   By combining ingredients together the player can make various types of foods/drinks.
+-   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, requires two mushrooms of different types)
 
 ## Food Boosts
 

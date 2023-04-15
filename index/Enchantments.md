@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 60106
+revid: 60191
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -184,7 +184,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry).</p></div></td>
+  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Hit damage from crit is the same as that of the M1</p></div></td>
   <td><div><p>Weapon is covered with the storm enchant and umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
@@ -307,9 +307,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
-  <td><div><p>Variant 1: Each (LHT: 7, MED: 5, HVY: 3) M1 hits will proc a random enchant.<br>
-  Variant 2: Same with Variant 1 but your weapon will have a random selected weapon animations. <b>Fist doesn't get affected by this variant</b><br>
-  <b>Only obtainable via Developer by reporting serious bugs/exploits or having a big impact in the community</b></p></div></td>
+  <td><div><p>Every hit have a 10% chance to proc any enchantments. Multiple enchantments can proc from a single m1.<br>
+  <b>Only obtainable via Developer by reporting serious bugs/exploits</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>

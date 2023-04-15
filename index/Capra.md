@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 59889
+revid: 60193
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -104,4 +104,3 @@ Not much has been revealed about the race but it is described to be more aware o
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capras look similar to some depictions which are not truly accurate of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
--   Its theorized that Capras masks are from a ritual of sorts, perhaps this is a reference to a Cubone from Pokémon?
