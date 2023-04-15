@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 60143
+revid: 60251
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Arms]
@@ -8,11 +8,25 @@ categories: [Items, Armors, Arms]
 
 # Fur Pauldrons
 
-Template:EquipmentStats
+| Fur Pauldrons | |
+|---|---|
+| type | Arms |
+| rarity | Common |
+| selling price | Unknown |
+| requirements | None. |
+| weight | 2 |
+| innate stats | Unknown |
+| innate talent | None. |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Erisia, Aratel Island |
+| description | ... |
 
 ## Description
 
-The Fur Pauldrons are an equipment item in the arms category. Equipping them grants you randomized stats based on the Pips you get. The Fur Pauldrons can be found in [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).
+The Fur Pauldrons are an equipment item in the arms category. The stats and pips gained from equipping them have not been documented. They are commonly found in chests from [Erisia](Erisia.md) and [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 

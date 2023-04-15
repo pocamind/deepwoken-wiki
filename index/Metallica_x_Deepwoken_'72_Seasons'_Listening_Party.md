@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 60219
+revid: 60241
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -26,7 +26,7 @@ The "Metalhead" badge
 -   _Too Far Gone // 72 Seasons (2023)_
 -   _72 Seasons // 72 Seasons (2023)_
 -   _King Nothing // Load (1997)_
--   _For Whom Bell Tolls // Ride the Lightning (1984)_
+-   _For Whom the Bell Tolls // Ride the Lightning (1984)_
 
 ## Metalhead (Badge)
 
