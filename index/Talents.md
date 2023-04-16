@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60309
+revid: 60343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -364,8 +364,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   Prerequisites: 85 Intelligence, all the Adept Caster talents \*except for Everchanging Aegis\*
-    -   Despite requiring the entire category, you are somehow able to get this without Everchanging Aegis.
+    -   Prerequisites: 85 Intelligence
 
 ### Champion
 

@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 58065
+revid: 60364
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -24,9 +24,9 @@ categories: [Weapons, Fists]
 | obtainment | Step 1: Get 40 LHT Weapons and Power 5.Step 2: Talk to Polis at Etris.or Eastern Tribal Leader. |
 | description | The traditional martial arts style of the Justicars. |
 
-“ Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether. ”
+“ AND NOW... I SUBJECT YOU TO IMMEDIATE GRIPPAGE!!! ”
 
-―
+― trackstar build 4233AZ29F after kidnapping some innocent guild member in their 1v1 for a couple insignia gems and a gobletto
 
 ## Description
 

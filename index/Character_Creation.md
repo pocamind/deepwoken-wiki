@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 58823
+revid: 60373
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -58,13 +58,14 @@ _([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a
 
 ⠀⠀⠀⠀Sword⠀⠀⠀⠀⠀⠀⠀⠀Battleaxe⠀⠀⠀⠀⠀⠀⠀StilettoTemplate:NavBox Template:NavBox Template:NavBox
 
-### Unlockable Starter Weapon
+### Unlockable Starter Weapons
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
 ⠀⠀Way Of Navae⠀⠀⠀⠀⠀Quickfang⠀⠀⠀⠀⠀⠀⠀Irontusk⠀⠀⠀⠀⠀⠀⠀⠀Silversix⠀⠀⠀⠀⠀⠀⠀⠀AvengerTemplate:NavBox Template:NavBox Template:NavBox Template:NavBox Template:NavBox
 
 -   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
+-   _As of the release of Layer 2, you could use 25 [Echoes](Echoes.md)_ (each) _to unlock the four new starting weapons shown above._
 
 ## Boons and Flaws
 

@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 54747
+revid: 60350
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Guns]
@@ -18,6 +18,6 @@ Umbral: Increased damage (But heavily reduced firing speed)
 
 Erisore: Applies anti-heal (But decreases damage)
 
-Gold: ~Slows down (But decreases damage)~ as far as i know it increases fire speed but decreases dmg
+Gold: Speeds up (But decreases damage)
 
 Iritihine: Poisons (But decreases damage)
