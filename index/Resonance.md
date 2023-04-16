@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 60009
+revid: 60404
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -133,11 +133,11 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 
 -   **[The Duke](Duke_Ishamon_Erisia.md)** gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.
 
--   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot from his fight as well, but for most, the Progress is more worth it.
+-   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot from his fight as well, but for most, the Progress is more worth it. **Side: The Ferryman now provides Knowledge. See [more](Knowledge.md)**
 
 -   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur.md)** murmur if you do not already have a murmur. _**Do not fight him if you intend to get [Tacet](Murmur.md) or [Rhythm](Murmur.md).**_
 
--   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community.  
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md)**  
     
 -   **[The Enforcer](Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wipe from disconnect or being jumped in your trial is still a very real possibility.  
     
@@ -172,7 +172,7 @@ Finally, just because you have one Nature, doesn't mean you cant do the other Na
 
 ### Collision with Fate- Achieving your Resonance
 
-**NOTE: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate. Jumping in the void of the First layer with less than half HP will also wipe you even if you have maximum resonance and it doesnt send you to layer 2 either.**
+_**IMPORTANT NOTE 1: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress. Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate.**_
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 
@@ -183,6 +183,10 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Red cards indicate a **Corrupted Resonance**, while yellowish/gold are **Legendary**, also to note that light purple cards indicate the resonance being **Drowned**, but only a lucky few have encountered this. The variant will be left for you to discover.
 
 Once you select your card, using C will activate your **Resonance**.
+
+_**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
+
+-   While many players choose to commit to "bell testing" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell testing", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
 
 File:Image of Card Selection.png
 
@@ -199,11 +203,10 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _curr
 
 ## Unobtainable Resonances
 
--   **Corrupted Skull Popper** (Akira's Resonance)
--   **Dream Eater** (Haske Vantage's Resonance)
--   **Golem Creation** (Duke Erisia's Resonance)
--   **Stone/Spikes control?** (Needs confirmation) (Chaser Resonance.)  
-    
+-   **Corrupted** Skull Popper - [Akira](Akira.md)
+-   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
+-   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   Stone/Spikes control? (needs confirmation) - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Trivia
 
@@ -222,6 +225,8 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   Assumed to be a bug, sometimes if you choose or reroll a **Resonance**, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
--   Ragoozer has confirmed that he is interested in **Evolved Bells**. This will most likely take one of two scenarios: The first one is that you evolve your bell after you get it, meaning it will be like an upgrade to your resonance. The Second scenario will be something that many players want, being Layer 2 bells, in other words if you get knocked in the second layer with max progression for bell, you will get new bells of the Second layer.
--   The Resonance system is sometimes used by players as a last wind in The Depths, choosing only for it to awaken when it'll saves their life due to it maxing out their HP. This is a very useful way to treat your Resonance progression in-case you're more interested in keeping your character alive rather than getting its bell as soon as possible. Otherwise, you'll have your bell but be fully vulnerable to getting wiped. Some players may also choose to only get their bell once it is the very last step to 100% their characters progression in Deepwoken, or they may choose to get the bell extra early for more Yun'shul re-rolls from leveling up (Basically allowing you to almost guarantee you get the Resonance you actually want through re-rolling over and over) as well as the talents from card rolls that only appear if you have your Resonance.
--   Despite Chaser showing that he has multiple resonances stolen from fellow divers, this doesnt work, meaning that resonances can only be used by the user even if you killed him or steal them.
+-   Ragoozer has confirmed that he is interested in **Evolved Bells**.
+    -   This will most likely take one of two scenarios:
+        -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
+        -   The second one will be something that many players want, being Layer 2 bells. In other words if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you will get new bells of the Second layer.
+-   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, meaning that a **Resonance** can only be activated by the original user- even after death.

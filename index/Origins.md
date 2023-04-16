@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 60180
+revid: 60430
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -76,7 +76,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 ― Flavor Text
 
-**Requirements:** Grip 15 players in the Overworld (Can be the same user everytime). Chime of Conflict does not count.
+**Requirements:** Grip 15 Pathfinders (players with no oath) in the Overworld (Can be the same user everytime). Chime of Conflict does not count.
 
 **Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md) event located in the [Aratel Sea](The_Aratel_Sea.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
@@ -96,7 +96,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting.
         -   **\[CON\]** But with Ferocity option you will gain a particle effect that will alert your target of your intentions, alongside a sound effect that sounds when you get teleported to your bounty, also alerting your target.
-        -   **\[CON\]** With the Stealth option you won't gain vision of your target and will spawn more far away from your bounty.
+        -   **\[CON\]** With the Stealth option you won't gain vision of your target and a large range for targets to be "In range of the void"...
         -   **\[PRO\]** But with Stealth option you don't gain the particle effect until you get attacked by your target, and also you don't display the Grasp of Eylis teleportation sound that normally alerts people of your presence.
 -   Grants the Knives of Eylis talent "Voideye"
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60343
+revid: 60431
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -602,7 +602,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Tap Dancer_ \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility)
     -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
-    -   Prerequisite: 65 Agility
+    -   Prerequisite: 60 Agility
 
 ### Duelist Flame
 
@@ -702,7 +702,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity)
     -   Prerequisites: 35 Flamecharm, Fire Forge (Flamecharm Mantra)
 
--   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra bui lds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility, +3 Elemental Intensity)
+-   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility, +3 Elemental Intensity)
     -   Prerequisite: 20 Agility, 30 Flamecharm, Hell's Partisan
 
 ### Flamecharmer
@@ -826,7 +826,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Reverse Gale Kick \[Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
     -   Prerequisites: Rising Wind (Galebreathe Mantra)
 
--   The Old Wind \[Galebreathe Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity, +1 Health}
+-   The Old Wind \[Galebreathe Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity}
+    -   Prerequisites: 55 Galebreathe
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce

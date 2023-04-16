@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60069
+revid: 60424
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -639,6 +639,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
+        -   Is activated by using ctlr + M2.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
         -   Damage scales on your weapon, however, light weapon deal increased damage and heavy weapon deal reduced damage.
         -   Does not target allies.
@@ -651,9 +652,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
--   Mani Katti user can be hit during the move, which makes it quite risky if used during the wrong time.
 -   There is an unknown damage buff source from using Silentheart.
--   You now press Ctrl + M2 instead of the before Ctrl + M1.
     
 
 ## Lore Oaths:

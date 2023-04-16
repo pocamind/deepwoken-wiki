@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 57683
+revid: 60405
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Items]
@@ -8,10 +8,27 @@ categories: [Character, Items]
 
 # Diver's Light Plate
 
-Template:EquipmentStats
+| Diver's Light Plate | |
+|---|---|
+| type | Arms |
+| rarity | Legendary |
+| selling price | Unknown |
+| requirements | Power 10, 5 Fortitude |
+| weight | 2 |
+| innate stats | 10 Health, 1 Posture, 3 Pips (All guaranteed to be legendary) |
+| innate talent | Conquer Your Fears |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Completing a Hell Mode |
+| description | ... |
 
 ## Description
 
-The Diver's Light Plate is an Equipment Item that is obtained if you successfully complete [Hell Mode](Hell_Mode.md), similar to [Ardour Manifestation](Ardour_Manifestation.md). Ringing the Hell Mode bell and successfully completing is guaranteed to grant you it. Not ringing the bell doesn't prevent you from obtaining it, but it is not guaranteed.
+The Diver's Light Plate is an equipment item in the arms category. Equipping it grants you 10 Health, 1 Posture, 3 Pips (All guaranteed to be legendary), and the [Talent](Talents.md) Conquer Your Fears, which recovers your sanity after killing depths-exclusive monsters. It can only be obtained by completing a [Hell Mode](Hell_Mode.md).
 
-It has innate stats of +10 health and +1 posture. You also get the talent Conquer Your Fears when worn. Diver's Light Plate is one of the few equipment pieces to give natural Legendary pips, and has the highest stat total possible with 3 legendary pips (0 star), and 4 + 2 pips as a 3 star. Diver's Light Plate cannot be passed down to other characters, unless smelted as a cosmetic.
+## Trivia
+
+-   Easily the best arms equipment in the game due to all the Pips being legendary.
+-   Cannot be dropped.

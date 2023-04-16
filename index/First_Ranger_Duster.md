@@ -1,6 +1,6 @@
 ---
 title: First Ranger Duster
-revid: 59587
+revid: 60408
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,12 +8,26 @@ categories: [Character, Armors]
 
 # First Ranger Duster
 
-Template:EquipmentStats
+| First Ranger Duster | |
+|---|---|
+| type | Arms |
+| rarity | Rare |
+| selling price | Unknown |
+| requirements | Power 10 |
+| weight | 2 |
+| innate stats | Unknown |
+| innate talent | None |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Roughly a 2.5% chance of being dropped from a King Thresher |
+| description | ... |
 
 ## Description
 
-**First Ranger Dusters** are animated equipment under the "Arms" category. They have a small chance to be obtained from a [King Thresher](Thresher.md) as a drop.
+The First Ranger Duster is an animated equipment item in the arms category. The stats and Pips gained from equipping it have not been documented. It can only be obtained as a rare drop from [King Threshers](Thresher.md).
 
 ## Trivia
 
--   The chances of getting this via [King Threshers](Thresher.md) is between **1 out of 30** to **1 out of 35**.
+-   Used to unanimated.

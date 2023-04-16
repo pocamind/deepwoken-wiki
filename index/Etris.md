@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 58798
+revid: 60414
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -110,7 +110,7 @@ The Etris blacksmith house.
 
 #### The Den
 
--   Den Master can be found here. He sells [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift shard](Mantra_Modifiers.md#regular-modifiers), and [Crystal Lens](Mantra_Modifiers.md#regular-modifiers), each for 10 Notes.
+-   Den Master can be found here. He sells [Cloudstone](Mantra_Modifiers.md), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift Shard](Mantra_Modifiers.md), and [Crystal Lens](Mantra_Modifiers.md), each for 10 Notes.
 
 #### Alchemist's Lodge
 

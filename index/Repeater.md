@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 59502
+revid: 60433
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -54,4 +54,4 @@ Alternatively, this can be used offhand with any other weapon as long as you mee
 -   Has a chance to be enchanted from chests.
 -   Cannot have stars when being purchased.
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
--   If you put an enchanted one in the offhand, it will instead use the effet of the mainh-and. If the main hand is not enchanted, it will not have any effect.
+-   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.

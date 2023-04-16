@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 60339
+revid: 60447
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,9 +10,11 @@ categories: [Pages with broken file links, Races]
 
 > _Mysterious figures who suddenly appeared throughout the world of Deepwoken._
 
+Template:Races-Main
+
 ## Description
 
-Template:Races-MainThe only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Cliff Burton. This is an unobtainable race, which is NPC exclusive. As of now, the human race is known to give no buffs, as they are only human, after all. Humans first (and only) appeared in The [Ingame Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>)
+The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. As of now, the human race is known to give no buffs, as they are only human, after all. Humans first (and only) appeared in The [Ingame Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>)
 
 ## Racial Traits
 
@@ -37,7 +39,7 @@ Kind of just appeared, found through entering one of the many Metallica doors.
 -   Hetfield
 -   Ulrich
 -   Hammet
--   Burton
+-   Trujillo
     
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 57428
+revid: 60432
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -27,17 +27,6 @@ Another thing about fishing is bait. To equip bait, hold out your fishing rod an
 Fishing can also level each attribute given enough time.
 
 I have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, as well as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the Etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
-
-Deepwoken is a blockchain-based multiplayer game that allows players to explore a virtual world and engage in various activities, including fishing. Here are the steps to fish in Deepwoken:
-
-1.  Obtain a Fishing Rod: To fish in Deepwoken, you need a fishing rod. You can purchase one from the in-game store or craft one using resources such as wood and string.
-2.  Find a Fishing Spot: Once you have a fishing rod, you need to find a fishing spot. Look for bodies of water such as lakes, rivers, and oceans in the game. These areas are likely to have fish.
-3.  Cast your Fishing Rod: To cast your fishing rod, stand close to the water's edge and click the right mouse button. This will initiate the casting animation, and your fishing line will land in the water.
-4.  Wait for a Fish to Bite: Once your fishing line is in the water, you need to wait for a fish to bite. This can take a few seconds to a few minutes. Keep an eye on your fishing line. If it moves or tugs, it means a fish has bitten your bait.
-5.  Reel in your Fish: When you feel a tug on your fishing line, click the right mouse button to reel in your fish. Be careful not to reel too quickly, or the fish may escape. Keep reeling until the fish is caught.
-6.  Collect your Fish: After you have caught your fish, it will appear in your inventory. You can either keep it for yourself or sell it to other players for in-game currency.
-
-Remember, fishing in Deepwoken is not always easy, and it can take time and patience to catch a fish. Keep practicing, and you will become an expert angler in no time!
 
 ## **Loot From Fishing**
 

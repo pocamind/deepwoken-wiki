@@ -1,11 +1,9 @@
 ---
 title: Flareblood Kamas
-revid: 60323
+revid: 60427
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Daggers, Legendary Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Daggers, Legendary Weapons]
 ---
 
 # Flareblood Kamas
@@ -31,10 +29,6 @@ notices:
 | pass down | Yes |
 | obtainment | Chaser |
 | description | A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. |
-
-“ A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. ”
-
-― Weapon Description
 
 ## Description
 

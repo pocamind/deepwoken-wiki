@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 50572
+revid: 60412
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Etrean Luminant, Ingredients, Eastern Luminant]
@@ -21,8 +21,8 @@ A small fruit found in many places all across the Etrean Luminant. They grow on 
 
 ## Recipes used in
 
--   [Candied Fruit](Candied_Fruit.md) (Any fruit + Sap)
--   [Redd Juice](Redd_Juice.md) (3 Redd)
+-   [Candied Fruit](Food.md) (Any fruit + Sap)
+-   [Redd Juice](Food.md) (3 Redd)
 
 ## Trivia
 

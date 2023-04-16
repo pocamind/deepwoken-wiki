@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 56243
+revid: 60437
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -45,3 +45,4 @@ Carbuncles only has 2 attacks, listed below:
 -   Carbuncles originate from The Eternal Gale's Parasites that brooded their victims, later in their initial phase of incubation.
 -   With further analysis of what the Parasite does to the host's movement, the Parasite uses both of its limbs and the host's to maneuver and attack.
 -   Carbuncles in real life are pus filled boils that form under the skin due to infections. Don't search those up if you are easily repulsed by pus. Alternatively, it can refer to a gemstone.
+-   The noises Carbuncles produce come from the 'Lunatic Cultist' miniboss from Terraria when it gets hurt.

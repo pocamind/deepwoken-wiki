@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 59384
+revid: 60417
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -12,7 +12,7 @@ Suri is an NPC belonging to the Hive faction, and can be found in the [Greathive
 
 ### Flower Quest
 
-Once the player approaches Suri, they will be prompted to deliver a [flower](Delicate_Flower.md) to a Vesperian grave on the Isle of Vigils. Taking any damage will ruin the flower and require talking to Suri again.
+Once the player approaches Suri, they will be prompted to deliver a Delicate Flower to a Vesperian grave on the Isle of Vigils. Taking any damage will ruin the flower and require talking to Suri again.
 
 Completing the quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) and a free [Talent](Talents.md) hand.
 

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 60366
+revid: 60425
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -46,10 +46,6 @@ categories: [Weapons, Greatswords]
 | pass down | Yes |
 | obtainment | Pluripotent Alloy use, PVP Arena chests |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
-
-“ TAKE THIS!! HAAAAAAAAAAAAAAAAAAAAAAA... COME FORTH, MY CRITICAL! HEH, I BET YOU DIDN'T SEE THAT ONE COMING DID YOU? ”
-
-― a dsgs user about to be parried for the 23rd time in a minute after attempting to use it's critical again
 
 **Base:**
 

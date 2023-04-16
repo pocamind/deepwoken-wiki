@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 60321
+revid: 60406
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -45,3 +45,4 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 -   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to [Voidheart](Voidheart.md))
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md)
 -   There's an extremely low chance to get teleported to a random point inside of the voidsea after a certain amount of time. (Chance & timer currently unknown.)
+-   There is a random chance for the Shoebill Stork to replace the dread serpent’s spawn.
