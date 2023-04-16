@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 60288
+revid: 60339
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -43,8 +43,8 @@ Kind of just appeared, found through entering one of the many Metallica doors.
 ## Trivia
 
 -   Humans are the only known beings in Deepwoken to have access to Instruments.
--   Humans are the only race who have ever shown to have a "Snapback" hat.
--   The songs that Humans ingame are able to preform are:
+-   Humans are the only race who have ever been shown to have a "Snapback" hat.
+-   The songs that Humans in-game are able to preform are:
 
 72 Seasons - Metallica
 
@@ -55,5 +55,3 @@ Lux Æterna - Metallica
 Too Far Gone - Metallica
 
 For Whom the Bell Tolls - Metallica
-
--   The quote for this page was "I'm only human, after all" but was shortly removed, due to it being out of place.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 60191
+revid: 60328
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -142,8 +142,8 @@ There are two variants that enchantments come in:
   <font>Providence Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deals damage to the attacker.<br>
-  Deal 0.043% x ()userpower in PVP.<br>
-  Deal 10% x ()userpower in PVE.<br>
+  Deal 0.043% x ()userpower in PVP. PVP Base damage is 5, cap is 40.<br>
+  Deal 30% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>

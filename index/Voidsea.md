@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 58102
+revid: 60321
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,9 +8,9 @@ categories: [Locations]
 
 # Voidsea
 
-> “ Is erisia in voidsea? ”
+> “ Warning, entering ecological dead zone. Adding report to databank ”
 > 
-> ― Stranded Felinor Jonathan Talo
+> ― PDA
 
 LocationL Voidsea LocationR
 
@@ -37,6 +37,7 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Brainsucker](Brainsucker.md)
 -   [Lionfish](Lionfish.md)
+-   Shoebill stork
 
 ## Trivia
 

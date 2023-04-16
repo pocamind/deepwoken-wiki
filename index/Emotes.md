@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 60305
+revid: 60338
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,18 +18,17 @@ Emote Screen
 
 | Showcase | Emote Name | Obtainment |
 | --- | --- | --- |
-| Showcases
-needed.
-
- | Sheepish | Unlocked by default. |
-|  | Thinking | Unlocked by default. |
+| File:Sleepish.png | Sheepish | Unlocked by default. |
+| File:Thinking.png | Thinking | Unlocked by default. |
 |  | Head Nod | Unlocked by default. |
-|  | Lean Back | Unlocked by default. |
-|  | Resting | Unlocked by default. |
-|  | Pride | Unlocked by default. |
+| File:Leanback.png | Lean Back | Unlocked by default. |
+| File:Resting.png | Resting | Unlocked by default. |
+| File:Pride.png | Pride | Unlocked by default. |
 |  | Head Shake | Unlocked by default. |
 |  | Penguin | Emote Pack 1 |
 |  | Griddy | Emote Pack 1 |
 |  | Loser | Emote Pack 1 |
 |  | Goopie | Emote Pack 1 |
+|  | Crying | Emote Pack 1 |
+|  | Sway | Emote Pack 1 |
 |  | Headbang | [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) |
