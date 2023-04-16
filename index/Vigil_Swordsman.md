@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 57191
+revid: 60381
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -16,8 +16,6 @@ An Etrean Footsoldier is type of enemy NPC that can be found in [Erisia](Erisia.
 
 -   Etrean Footsoldiers vs Authority Footsoldiers ([Erisia](Erisia.md))
 -   Etrean Footsoldiers vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
-
-Their appearance possibly only consists of a RaguzaRequest6 outfit.
 
 ## Moveset
 

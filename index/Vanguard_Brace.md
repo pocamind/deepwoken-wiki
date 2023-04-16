@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 60278
+revid: 60400
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -26,7 +26,7 @@ categories: [Armors, Arms, Equipment]
 
 ## Description
 
-The Vanguard Brace is an equipment item in the arms category. Equipping it grants you 3 Health, 1 posture, as well as 1 Pip by default, and the [Talent](Talents.md) Replenishing Knockout, Which increases the amount of health and posture gained from downing enemies. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained from the [tutorial](Tutorial.md).
+The Vanguard Brace is an equipment item in the arms category. Equipping it grants you 3 Health, 1 posture, 1 Pip, and the [Talent](Talents.md) Replenishing Knockout, Which increases the amount of health and posture gained from downing enemies. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained from the [tutorial](Tutorial.md).
 
 ## Trivia
 

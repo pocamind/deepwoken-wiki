@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 59412
+revid: 60379
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation, Factions]
+categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---

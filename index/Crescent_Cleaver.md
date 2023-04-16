@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 59611
+revid: 60394
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -59,3 +59,4 @@ The Alloyed Crescent Cleaver is a mid-endgame weapon obtained by applying a [Plu
 
 -   At 100 heavy weapon, bleed alone grants an extra 12.2 damage per swing.
 -   All 3 hits of the critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable.
+-   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.
