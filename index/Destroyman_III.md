@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 60428
+revid: 60476
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -127,6 +127,7 @@ Remove Quotes
 
 -   If you were hoping you could uninstall me, I have bad news.
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
+-   That's not very awesomesauce.
 
 ## Trivia
 

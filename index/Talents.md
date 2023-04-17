@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60457
+revid: 60477
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -179,11 +179,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### Angler
 
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
-    -   Obtained after fishing 25 times successfully.
+    -   Obtained after fishing 50 times successfully.
     -   Increase the rate of hooking something while fishing.
 
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose.
-    -   Obtained after fishing 50 times successfully.
+    -   Obtained after fishing 25 times successfully.
     -   Reduces the chance of failure while fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
