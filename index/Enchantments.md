@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 60328
+revid: 60460
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -263,7 +263,7 @@ There are two variants that enchantments come in:
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
-  Rarely, take self damage equal to 10% of own HP.<br>
+  Rarely, proc its normal effect but lose 10% HP.<br>
   <br>
   Has a 10 second cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>

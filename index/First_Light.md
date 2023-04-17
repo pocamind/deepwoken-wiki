@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 60439
+revid: 60465
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -40,3 +40,4 @@ The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in
 -   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.
 -   Also possibly a reference to one of Elesis' claymores of her Empire Sword class from the MMORPG game Elsword.
 -   It deals 37 Damage at 75 Heavy.
+-   The special animations for this sword may be the old railblade animations because when you spawn visionshaper clones with a railblade, they use the first light animations

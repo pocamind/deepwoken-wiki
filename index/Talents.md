@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60431
+revid: 60457
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1129,7 +1129,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
-    -   Prerequisites: 30 Agility, 55 Galebreath
+    -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
 
 -   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
     -   Prerequisites: 25 Agility, 40 Galebreathe
@@ -1140,7 +1140,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: 15 Fortitude, Using a spear
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility, +2 Health)
-    -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath
+    -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath, Air Pressure
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
@@ -1564,7 +1564,7 @@ Prerequisite: Charisma
     -   Prerequisite: Static Link, 70 Thundercall
 
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
-    -   Prerequisite: Static Link, 50 Thundercall
+    -   Prerequisite: Static Link, 50 Thundercall, 15 Intelligence
 
 ### Stormblade
 

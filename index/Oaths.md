@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60424
+revid: 60466
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -103,7 +103,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ KAAAAAAMEEEEEEHAAAAAAMEEEEE.... ”
+“ IM ABOUT TO BLOW! ”
 
 ― A Blindseer Vesperian with 102 Willpower eliminating some poor Felinor with Sightless Beam.
 
@@ -412,7 +412,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Notes
 
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
--   This oath has a few religious references, the most obvious being the entity on a modified.
+-   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occassionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, air dash will still behave as if the wings are active until the duration actually ends.
 -   Stratus Stones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 
@@ -587,9 +587,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ I'VE MADE THE BEST BUILD EVER! ”
+“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
-― Every single silentheart posers ring ever
+― The Dreadstar
 
   
 
@@ -653,6 +653,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
 -   There is an unknown damage buff source from using Silentheart.
+-   Silentheart's vow rejects the words of the Song (Mantra chants). Resonances and Murmurs are not words.
     
 
 ## Lore Oaths:

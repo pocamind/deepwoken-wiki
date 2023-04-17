@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 58727
+revid: 60469
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -177,3 +177,4 @@ A Kyrsgarde Brute executes it's opponent:
 -   Technically when you think about it they aren't monsters atleast to them as they are their own species and so are we, we call them monsters, they call us Fringewalkers, or frintwalkers(?).
 -   Have quite a strong resemblance to the infamous Bone Keeper, its possible the Bone Keeper is possibly a Kyrsan gone rogue, was affected by the parasites, have lost their mind, most likely changed from a drowned gods influence, a mutation, you get the deal there's alotta theories, its possible they are Kyrsan brutes by how they are built and how they make a noise everytime they walk, albeit seem a bit shorter.
 -   Ironically, despite the fact that the crawlers crawl around the floor, in their idle and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from DOORS.
+-   Sneaking behind the Kyrsgarde and attempting to talk with it prompts in special dialogue: "Waheit... Yaere fraeum aboeave!", which can be translated as "Wait... You're from above!". In dialogue box the Kyrsgarde is named as New Kyrsa Guardian.

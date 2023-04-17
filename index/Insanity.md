@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 57687
+revid: 60463
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -15,52 +15,54 @@ categories: [Pages with broken file links, Mechanics]
   
 **Insanity** is a game mechanic mainly present in [The Depths](The_Depths.md), but also on the Surface to a lesser extent.
 
-Insanity is dictated by an meter that is not directly shown to the player but its progress can be tracked by a blue hue on the border of the screen, and certain things will fill that meter, where at certain theresholds, will begin to debilitate the character.
+Insanity is dictated by a meter that is not directly shown to the player, but its progress can be tracked by a blue hue on the border of the screen. Once your sanity has decreased enough, it will begin to debilitate your character, eventually leading to death.
 
 Players start with 80 sanity. Being in The Depths passively gives insanity, at a rate of 1 point every 30 seconds. It takes about 40 minutes to die in the Depths of Insanity with 0 Willpower.
 
-Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck or talents that boost sanity, wearing a blindfold, certain equipment or with the [Blindseer Oath](Oaths.md). Those will increase a stat called Sanity.
+Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck or obtaining talents that boost sanity, wearing a blindfold, certain equipment that boosts sanity or with the [Blindseer Oath](Oaths.md). These methods will all increase a player's sanity stat.
 
 ## Insanity effects
 
 -   **Tier 1 - 66% Sanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. Player's screen borders will be shrouded in a blue hue.
--   **Tier 2 - 33% Ssanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage. The blue border on the screen will begin pulsing at this tier. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a black mess. Player names also cannot be recognised.
+-   **Tier 2 - 33% Sanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage. The blue border on the screen will begin pulsing at this tier. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a black mess. Player names also cannot be recognized.
 -   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked by this damage, they are executed. The blue border will feature new motifs when nearing this tier.
 -   **Tier 3 Alt -** Your head will be covered by an unknown blob-substance (Similar to the ones found at Ancient Rotlands), which subsequently causes your head to explode, resulting in an instant death.
     
     File:InsanityScribbles.png
+    
+    _Tier 2 sanity face shrouds._
     
 
 A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 ## Sanity Decreasing Effects
 
--   Being in [The Depths](The_Depths.md) (+1 point every 30 seconds)
--   [Megalodaunt](Megalodaunt.md) screech attack.
--   Being hit by Gaze
+-   Being in [The Depths](The_Depths.md) (-1 point of sanity every 30 seconds).
+-   [Megalodaunt](Megalodaunt.md)'s screech attack.
+-   Being hit by Gaze.
 -   Drinking or being splashed by a Mindbreaking potion.
--   Being hit by the [Deep Widow](Deep_Widow.md) web attack
--   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general
--   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depths](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
--   Being hit by a weapon enchanted with [Curse of the No Life King.](Enchantments.md)
+-   Being hit by the [Deep Widow](Deep_Widow.md) web attack.
+-   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.
+-   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you -100 sanity when you unsheathe your weapon while in [The Depths](The_Depths.md). Without any Willpower, it instantly kills you, as you start with 80 sanity, however the effects of this can be reduced through increasing Willpower.
+-   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
 -   Being in the immediate vicinity of the meatball chains and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Wishbound](Developer_Specs.md) Flaw during nighttime.
--   Heretic Sutra
+-   Heretic's Sutra
 -   Using Blindseer Mantras
 
 ## Sanity Restoring Effects
 
 -   Passive sanity regeneration. (Disabled in the Depths)
--   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
+-   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md)).
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion.
 -   Being touched by a [Blindseer's](Oaths.md) Mindsoothe mantra.
 -   Conquer Your Fears talent.
--   Castle Light sanity aura (exclusive to Deepbounds)
+-   Castle Light sanity aura, which is exclusive to the Deepbound origin.
 
 ## Trivia
 
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
 -   Each point of sanity equals to 30 extra seconds in the depths before reaching 100% insanity.
 -   The only ways to get the Tier-3 Alt is to wield a weapon with [Curse of the No Life King](Enchantments.md), Staring at the meatballs in the [Ancient Rotlands](Ancient_Rotlands.md), speaking to Yun'Shul without a [Resonance](Resonance.md), or failing the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members.
-    -   I tested this in the Voidsea and in the Rotlands without looking at the meatballs. As soon as I walked over to a meatball, it killed me instantly, leading me to belive that looking at the meatballs or using Curse of the No Life King will whitelist you to be able to be one shot at max insanity. Akira and Yun'Shul are instant, and are not related to insanity gameplay wise.
+    -   I tested this in the Voidsea and in the Rotlands without looking at the meatballs. As soon as I walked over to a meatball, it killed me instantly, leading me to believe that looking at the meatballs or using Curse of the No Life King will whitelist you to be able to be one shot at max insanity. Akira and Yun'Shul are instant, and are not related to insanity gameplay wise.
