@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 58279
+revid: 60480
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -42,3 +42,10 @@ This Outfit's Schematic can be found in:
     -   Beast burrow. (Thresher, King Thresher, and player mantra)
     -   Cursed Flame ([King Thresher](Thresher.md))
     -   Powerful Blood Appendage ([Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
+    -   Bonegrow ([Scion of Ethiron](Scion_of_Ethiron.md))
+    -   Crushing Grab ([Bone Keeper](Bone_Keeper.md))
+    -   Triple Slash Leap([Bone Keeper](Bone_Keeper.md))
+    -   Bone Spikes([Bone Keeper](Bone_Keeper.md))
+    -   Charge([Bounder](Bounder.md))
+    -   Slam([Bounder](Bounder.md))
+    -   Leap([Bounder](Bounder.md))

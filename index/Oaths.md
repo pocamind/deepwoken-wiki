@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60466
+revid: 60483
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Oathless is now meta again! ”
+“ Do you wish to become Oathless, and to walk your own path? ”
 
-― Oathless users after getting a very small buff and still being worse than dawnwalker
+― Cerulean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -103,9 +103,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ IM ABOUT TO BLOW! ”
+“ What many failed to notice was the arrival of a new king who brought prosperity to Celtor in times of despair. How did this go unseen? ”
 
-― A Blindseer Vesperian with 102 Willpower eliminating some poor Felinor with Sightless Beam.
+― Blindseer Ruins at the Lightkeeper Temple.
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -178,9 +178,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ Domain Expansion.. ”
+“ You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest. ”
 
-― An adret Visionshaper taking a young gremor freshie into their illusionary realm
+― The Nestmind
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -249,9 +249,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ It was just 1% of my true power... ”
+“ The world is broken, linked by fragile webs. ”
 
-― Canor 600 hp on an ultimate support build using his oath.
+― Entropy Link Description
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -299,9 +299,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ I'm not going to sugarcoat it. ”
+“ Rival! You've done it! That's... everything! I suppose I can begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done. ”
 
-― A Tiran Jetstriker running from voidwalkers after getting 102 Agility.
+― Alirian after maxing out Jetsriker
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -355,9 +355,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ Mugetsu... ”
+“ These stars above us are more than constellations. You feel as though you can feel the entire world. All at once. Everywhere. ”
 
-― Tiran sending a Capra to the shadow realm via ascended fire blade
+― The Player, Realising the Truth
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -420,9 +420,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Chaser tells you you've killed him too many times to count. You nod pitifully. ”
+“ Weld the armor of the Union's most notable dwellers. ”
 
-― Arcwarder user fighting chaser for the 1,000,000th time.
+― Old Arcwarder Descrpiton
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -478,9 +478,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ **JUDGEMENT!** ”
+“ You shall connect with the light around us, surrounding all of Lumen. ”
 
-― the dawnwalker about to kick a freshie canor into the next century.
+― Klaris Llfiend, Mother of the Lights
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -523,9 +523,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ It's ganking time. ”
+“ So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. What a nuisence. ”
 
-― Contractor progressing in the Depths waiting for the Jetstrikers to make their way to the trial.
+― Zi'eer, the 4th Prophet
 
 ### Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 59589
+revid: 60496
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -15,7 +15,11 @@ TERRITORY OF The Hive
 The stirring of life of all kinds fills the air as you enter the shade of the canopy.
 
   
-Template:Areainfobox**Greathive Aratel** is a location in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
+
+_The Eastern Luminant's only Greathive, the creation of which has completely drained the life of the [nearby valley.](The_Starswept_Valley.md)_
+
+  
+**Greathive Aratel** is a location in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 

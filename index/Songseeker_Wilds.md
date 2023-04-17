@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 58809
+revid: 60505
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -15,11 +15,12 @@ LocationL Songseeker Wilds LocationR
   
   
 
+_Your connection to the Song feels especially strong here, and perhaps [others](Songseeker_Frostdrawer.md) may be here attempting to take advantage of it..._
+
+  
 **Songseeker Wilds** is a location in _Deepwoken._ It is a group of islands that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
-
-Songseeker Wilds
 
 Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is near the [Ancient Rotlands](Ancient_Rotlands.md), [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
 

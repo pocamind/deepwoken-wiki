@@ -1,11 +1,9 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 55430
+revid: 60508
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Locations, Map, The Depths, Layer 2, Floor 2]
-notices:
-  - This page is currently being worked on. Please check back later.
+categories: [Locations, Map, The Depths, Layer 2, Floor 2]
 ---
 
 # New Kyrsa, The Sleeping City
@@ -16,8 +14,7 @@ Far below the Gale, a city of gleaming lights was rekindled by the flames of rel
 
   
 
-Template:Areainfobox
-
+  
 New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located in Second Floor of the [Eternal Gale](Second_Layer.md).
 
 ## Points of Interest
@@ -25,8 +22,6 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 -   Grand Library of New Kyrsa
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miserables](Misérables.md)
-
-  
 
 ## Description
 
@@ -46,8 +41,6 @@ The Great Library of New Kyrsa is a large library, containing a rotation puzzle 
 
 **1 - 2 - 1 - 2 - 2 - 2 - 1 - 2 - 3 - 1 - 4 - 2 - 3 - 1**
 
-  
-
 ## Appearance
 
 New Kyrsa is a beautiful and huge place with many buildings and "alien-like" technology, such as trains or artillery. The architecture is futuristic, with gold and white designs and streamlined structures. You can meet a lot of Kyrsgardes here and only one, Naerotiv, is not hostile. Many buildings are extremely tall, and streets are patrolled by large, bulky Kyrsgardes. There is an underground sewage system, along with an underground subway in New Kyrsa.
@@ -65,8 +58,6 @@ Scion of Ethiron is the final boss of Second Floor of the Eternal Gale. It is an
 _Main Page: [Misérables](Misérables.md)_
 
 Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic figure capable of granting you either a 30% damage boost against Scion of Ethiron for 5 **Kyrsan Medallions**, or resetting your wish cooldown for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) for 15 **Knowledge**.
-
-  
 
 ## Quests
 

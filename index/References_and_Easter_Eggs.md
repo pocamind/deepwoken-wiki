@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 60284
+revid: 60488
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -238,3 +238,5 @@ categories: [Deepwoken]
     -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
     -   Have to be summoned via rituals
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
+-   The name of **Akira** may be inspired/directly taken from the movie "Akira".
+-   The Drowned Diver **Amorus Pleeksty** story (Of how he is the only diver who reached very deep in the Depths) is believed to took inspiration from the White whistle Lyza from the Anime Made in Abyss, specially due to the many similarities that the Divers faction has with the Whistles of Made in abyss.

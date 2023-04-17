@@ -1,9 +1,9 @@
 ---
 title: Etris
-revid: 60414
+revid: 60485
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Etrean Luminant]
+categories: [Pages with broken file links, Locations, World, Etrean Luminant]
 ---
 
 # Etris
@@ -15,9 +15,12 @@ TERRITORY OF Etrea
 Highest amongst the peaks of the mountain, a proud fortress of a city stands against the world itself.
 
   
-Template:Areainfobox
 
-  
+Etris is the capital of the Etrean Kingdom, being on top of a tall mountain with amazing views and dangerous falls. It marks the beginning of the adventures of many.
+
+File:BBig etris. .png
+
+_The capital of Etrea in all its glory._
 
 ## Points of Interest
 
