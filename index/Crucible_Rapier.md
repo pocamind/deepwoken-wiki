@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 59352
+revid: 60473
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -26,7 +26,7 @@ categories: [Weapons, Rapiers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starswept Valley, The Depths [?] , Rogue/Hive Construct, Minityrsa |
-| description | "Your trusty weapon." |
+| description | "It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 58577
+revid: 60475
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -149,7 +149,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras or eating [Dying Embers](Dying_Embers.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ### Frostdraw
 
@@ -157,7 +157,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Frostdraw Talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
     -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras or eating [Frigid Prisms](Frigid_Prism.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ### Thundercall
 
@@ -165,7 +165,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras or eating [Spark Glands](Spark_Gland.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ### Galebreathe
 
@@ -173,7 +173,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate- which comes under specific circumstances._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras or eating [Gale Stones](Gale_Stone.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ### Shadowcast
 
@@ -181,7 +181,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md). You must get the grip to unbound your attunement(s).**_
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ## Tips
 
