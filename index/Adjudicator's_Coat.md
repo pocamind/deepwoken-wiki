@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 60397
+revid: 60567
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,4 +30,4 @@ The Adjudicator's Coat is an animated equipment item in the arms category. Equip
 
 ## Trivia
 
-Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.
+-   Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.

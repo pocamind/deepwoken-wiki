@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 60480
+revid: 60562
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -18,7 +18,7 @@ Force Your Way parrying an Alpha Megalodaunt Kick
 
 ### _Requirements_
 
-This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Blue Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) Bounder Claw, one (1) Frozen Membrane and one (1) Worn Cog.
+This Outfit costs and requires five (5) Cloth and Fiber, one (1) [Blue Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) Bounder Claw, one (1) Frozen Membrane and one (1) [Worn Cog](Worn_Cog.md).
 
 This Outfit requires [Power Level](Talents.md) 15.
 
@@ -39,13 +39,6 @@ This Outfit's Schematic can be found in:
 -   Combining this outfit with the Metal enchant (steal/replenish armor durability on hit) allow the player to essentially negate the durability cost of the talent.
 -   A few monster and NPC attacks such as a [Golem](Rock_Golem.md)'s laser, a [Lionfish](Lionfish.md)'s cero beam, and [The Duke](Duke_Ishamon_Erisia.md)'s gale stomp cannot be parried. (list down here as you discover more unparryable attacks even with the Armour talent.)
     -   Laser (Golem)
-    -   Beast burrow. (Thresher, King Thresher, and player mantra)
+    -   Beast burrow. ([Thresher](Thresher.md), King Thresher, and player mantra)
     -   Cursed Flame ([King Thresher](Thresher.md))
     -   Powerful Blood Appendage ([Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
-    -   Bonegrow ([Scion of Ethiron](Scion_of_Ethiron.md))
-    -   Crushing Grab ([Bone Keeper](Bone_Keeper.md))
-    -   Triple Slash Leap([Bone Keeper](Bone_Keeper.md))
-    -   Bone Spikes([Bone Keeper](Bone_Keeper.md))
-    -   Charge([Bounder](Bounder.md))
-    -   Slam([Bounder](Bounder.md))
-    -   Leap([Bounder](Bounder.md))
