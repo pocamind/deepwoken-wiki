@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 59807
+revid: 60570
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Brainsucker
 
-“ BANZAI! ”
+“ Brainsuckers have been giving us quite the trouble recently, It'd be greatly appreciated if you could get rid of those pests. ”
 
-― Kamikaze Brainsuckers
+― A Hive Scout
 
 Template:Creature Infobox V3
 

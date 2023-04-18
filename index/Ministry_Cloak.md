@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 60459
+revid: 60577
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -12,20 +12,23 @@ categories: [Character, Armors]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | 25 |
+| selling price | Unknown |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | +5 Health +10 Ether |
-| innate talent | [placeholder] |
+| innate stats | 5 Health, 10 Ether |
+| innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Valley of Heroes Blizzard Knights chest |
-| description | '"Lorem ipsum."' |
+| obtainment | Chests from:, Blizzard Knights |
+| description | ... |
 
 ## Description
 
-The Ministry is an equipment piece that is obtained after defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) in the [Valley of Heroes](The_Valley_of_Heroes.md). It is an uncommon drop in the chest alongside the Hero Blades. Alongside a unique coat, it effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
+The Ministry Cloak is an equipment item in the arms category. Equipping it grants you 5 Health, 10 Ether, and an unknown number of Pips. It is rarely found in chests from [Blizzard Knights](Stone_Knight.md). It effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
 
-It comes in many variants, being Rose, Scarlet, Onyx, Smoke, Peach, Yellow, Pink and Verdant. (add more here if you find more variants)
+## Trivia
+
+-   With 8 different colors, it has the most variants of any equipment together with the [Authority Commander Coat](Authority_Commander_Coat.md).
+-   Rose, Onyx, Smoke, Peach, Yellow, Pink and Verdant variants are missing pictures. (Note: Variant displayed in Infobox is Scarlet.)

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 59578
+revid: 60568
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Armors]
@@ -8,12 +8,26 @@ categories: [Equipment, Arms, Armors]
 
 # Megalodaunt Coat
 
-Template:EquipmentStats
+| Megalodaunt Coat | |
+|---|---|
+| type | Arms |
+| rarity | Common |
+| selling price | Unknown |
+| requirements | Power 5 |
+| weight | 2 |
+| innate stats | 5% Damage Vs Monsters, 2 Pips |
+| innate talent | None |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Small chance of being dropped from a Megalodaunt |
 
 ## Description
 
-The Megalodaunt Coat is an _arms_ item. Equipping this item will give you random placeholder stats. While it might have low stats, the recent update has made it a bit better with requiring only 5 levels and is also known for many players to use it for its appearance. It specializes in Monster-related stats. They vary depending on the color of the coat.
+The Megalodaunt Coat is an animated equipment item in the arms category. Equipping it grants you 5% Damage Vs Monsters and 2 Pips. It can only be obtained as a rare drop from [Megalodaunts](Megalodaunt.md).
 
 ## Trivia
 
--   They are one of the few arms equipped with animations.
+-   The power requirement for the coat used to be much higher, but was later reduced as anyone who could meet the power requirement would already have far better options.
+-   How the player can instantly create a coat from the leather of a megalodaunt the second it dies before instantly dying it despite most likely being below power 10 and not even knowing who [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) is and how to get equipment dyes is presumed to be via [Witchcraft](https://en.wikipedia.org/wiki/Witchcraft).

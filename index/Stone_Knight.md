@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 58966
+revid: 60569
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,9 +12,9 @@ Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily i
 
 **Blizzard Knight:**
 
-“ That thing’s invincible! ”
+“ You should come back here during winter. It's plenty of fun! ”
 
-― A Sword user feeling what it’s like to do imaginary numbers in damage
+― Aelita
 
 Template:Creature Info Box v2
 
@@ -28,9 +28,9 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 **Desert Knight:**
 
-“ A wild Regirock has appeared ”
+“ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
 
-― Last thing a player in Starswept Valley hears before death
+― Celestial Telescope
 
 Template:Creature Info Box v2
 
@@ -43,10 +43,6 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
 
 **Astral Knight:**
-
-“ JUDGEMENT! ”
-
-― The Astral Knight the second it sees a level 4 Etrean.
 
 Template:Creature Info Box v2
 

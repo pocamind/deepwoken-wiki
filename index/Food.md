@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 60179
+revid: 60584
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -24,7 +24,7 @@ _To get food, one must collect ingredients from various Luminants or buy the foo
 
 -   Mushrooms, fruit and wheat are all very easy to get, as they are plentiful and various on both starter islands.
 -   In every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
--   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md)
+-   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md).
 -   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
@@ -33,6 +33,12 @@ _To cook food, one must rest at a campfire._
 
 -   By combining ingredients together the player can make various types of foods/drinks.
 -   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, requires two mushrooms of different types)
+
+_One needs food and drink to live, much like you. Without it, one will die a slow and painful death._
+
+-   When both the Thirst and Hunger bar reach zero, the Health bar will slowly drain until it reaches half health. At this point, the Blood bar will be the next to go, and once that is gone, you quickly lose the rest of your health and die.
+    -   With about 1/8 hunger left, healing from campfires is completely disabled.
+    -   With about 1/8 thirst left, your vision becomes blurry and your swing speed is lowered.
 
 ## Food Boosts
 
@@ -47,7 +53,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
 -   _"You feel as though you could go longer without food..."_ This buff significantly decreases the user's starvation speed.
--   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (It possibly increases the effects of Enchants as seen in the Candied Fruit buff description)
+-   _"Your magic feels stronger..."_ This buff increases the user's mantra damage. (It possibly increases the effects of Enchants instead, needs confirmation)
 -   _"Your weapons feel stronger..."_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..."_ This buff increases the user's ether regeneration speed.
 -   _"You feel quicker on your feet..."_ This buff increases your walking/running speed.
@@ -157,13 +163,15 @@ OR
 
 ## Notes
 
--   Alternatively, you can regain your Food and Thirst bars by going up 1 Power Level.
+-   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a Power Level.
 
 ## Trivia
 
+### General Trivia
+
 An individual who has crossed paths with The Meat Lord.
 
--   Every fruit more or less has a real life counterpart.
+-   Every fruit, more or less, has a real life counterpart.
     -   Redd = Orange
     -   Ongo = Apple
     -   Calabash = Calabash
@@ -171,10 +179,15 @@ An individual who has crossed paths with The Meat Lord.
     -   Pomar = Pineapple or Mango (?)
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
-    -   Pomar may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
--   Having 0 thirst and 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and then you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.
-    -   With about 1/8 hunger left, healing from campfires is outright disabled.
-    -   With about 1/8 thirst left, your vision becomes blurry and your swing speed is lowered.
+    -   Alternatively, may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
+
+### Food-based Trivia
+
+-   Before the plates were added for most foods in a (supposed) shadow-update, the Cake model had no underside.
+-   According to [Destroyman III](Destroyman_III.md), the strength buff the Megurger gives you is not from the food itself, but the concept.
+-   Cooked/Glazed Fish has a real-life counterpart, most resembling _sashimi_.
+    -   Additionally, the Glazed Fish model is placed incorrectly on the hand.
+-   Where did the garnish on the Omelettes come from? The world will never know.
 -   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheaper price from the Meat Lord, this makes it one of the best generic food items in the game.
 
 ## Bugs

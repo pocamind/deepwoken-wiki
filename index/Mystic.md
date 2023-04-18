@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 59897
+revid: 60581
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -13,7 +13,7 @@ notices:
 | Mystic | |
 |---|---|
 | name | Mystic |
-| location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing |
+| location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils |
 
 **You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for prompts!** This is a browser function, but all mainstream browsers should have it.
 
@@ -178,3 +178,4 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.
+-   [Guild Bases](Guild_Bases.md), in the Song Room. **(Costs 2000 Notes.)**
