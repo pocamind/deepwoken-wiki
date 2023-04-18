@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 60167
+revid: 60531
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -764,27 +764,28 @@ A Dark Mage, located in Minityrsa.
 
 ### The Ignition Union
 
--   **Territory:** _Miner's Landing, Layer 2 base_
--   **Encountered In:** _Summer Isles, The Depths (Akira's rare event), Depths Layer 2 (Ignition Union Base)_
--   **Attunements:** _Flamecharm_
+-   **Territory:** _Miner's Landing, The Chariot's Spire, The Frontier Furnace._
+-   **Encountered In:** _Summer Isles, The Depths (Akira's rare event), Miner's Landing, The Chariot's Spire, The Frontier Furnace._
+-   **Attunements:** _Flamecharm, Thundercall_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:**
+-   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description),_
 
--   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
+-   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword and Railblade.
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
--   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
+-   They've been spotted attempting to take over Diver territory, falling behind in layer 1 compared to the Divers, but exceeding in layer 2, where they have set up a base before the Divers.
 -   The Darksteel Greatsword's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
--   The Ignition Union hase bases in the first and second layers of the depths.
+-   The Ignition Union has bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
--   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others.
+-   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers.
+-   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote _"_
 
   
 
 ### The Central Authority
 
--   **Territory:** _Fort Merit, Central Luminant, Markor_
+-   **Territory:** _Fort Merit, Central." Luminant, Markor_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_

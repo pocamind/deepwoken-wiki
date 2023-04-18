@@ -1,9 +1,9 @@
 ---
 title: Human
-revid: 60474
+revid: 60530
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Human
@@ -20,7 +20,7 @@ The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet,
 
 |  | Musical Talent |
 | --- | --- |
-| File:Headbang.png | Exclusive Gesture |
+|  | Exclusive Gesture |
 
 ## Miscellaneous
 

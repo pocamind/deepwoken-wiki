@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 57184
+revid: 60546
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -26,8 +26,7 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & Broadsword\] Performs a windup before thrusting blade forward.  
-\[[Stiletto](Stiletto.md)\] Performs a windup before unleashing a flurry of slashes.
+\[[Darksteel Greatsword](Darksteel_Greatsword.md) Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★☆☆) |
 
@@ -37,8 +36,8 @@ A Bandit executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
-\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md), Broadsword & [Stiletto](Stiletto.md)\] Pins down opponent and slices their throat with their blade.
+| Execute | \[[Battleaxe](Battleaxe.md), [Darksteel Greatsword](Darksteel_Greatsword.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+\[[Sword](<Sword_(weapon).md>) Pins down opponent and slices their throat with their blade.
 
  |
 
