@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 60418
+revid: 60519
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents, Attributes, Food]
@@ -22,6 +22,7 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 -   Light Orange Items are Training Equipment.
 -   Light Red Items can be equipped, such as shields or weapons.
 -   Violet Items are Mantra Modifiers and recalled Mantras.
+-   In a shadow update, each of the different colors have symbols behind the name of the item.
 
 ## Ingredients
 

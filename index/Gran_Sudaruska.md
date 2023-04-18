@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 58849
+revid: 60528
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -70,7 +70,7 @@ This weapon has 3 (or 4 with a talent) passives abilities:
     -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it.
     -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
 
--   Like every other mythical (special) weapon in the game, you cannot enchant Gran Sudaruska.
+-   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
 

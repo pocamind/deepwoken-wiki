@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 60499
+revid: 60513
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -17,8 +17,6 @@ TERRITORY OF The Summer Company
 The smell of gunpowder blankets this tropical paradise.
 
   
-
-_The pride of the [Summer Company's](The_Summer_Company.md) engineering and their headquarters._
 
   
 Summer Isle is a populated island in the [Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.

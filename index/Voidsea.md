@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 60406
+revid: 60529
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -37,7 +37,6 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Brainsucker](Brainsucker.md)
 -   [Lionfish](Lionfish.md)
--   Shoebill stork
 
 ## Trivia
 

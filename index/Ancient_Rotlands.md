@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 60507
+revid: 60515
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones]
@@ -13,8 +13,6 @@ notices:
 Template:Location2
 
 File:Ancient rotland,,,, ,.png
-
-_A mindbreaking aura is present in this [Voidzone,](Voidzones.md) with anomalies and horrors alike roaming throughout._
 
 The **Ancient Rotlands** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found in the East Luminant.
 

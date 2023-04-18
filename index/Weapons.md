@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 60185
+revid: 60523
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -189,7 +189,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
   <td>60 LHT; 45 INT</td>
-  <td>14</td>
+  <td>13</td>
   <td>30%</td>
   <td>INT: 2 LHT: 8</td>
   <td>4</td>
@@ -438,7 +438,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>15</td>
   <td>20%</td>
   <td>LHT: 8</td>
-  <td>4</td>
+  <td>5</td>
   <td>8</td>
   <td>0.82x</td>
 </tr>
@@ -964,7 +964,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>75 MED</td>
   <td>20</td>
   <td>25%</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
