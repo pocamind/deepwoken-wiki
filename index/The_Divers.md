@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 60379
+revid: 60608
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -63,29 +63,27 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
-## Trivia
+## Trivia & Guild Information
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   The current leader of The Divers in-game is Shirafune
+-   The official divers server is held at Discord.gg/divers
+-   Upon reaching the title of "Black Diver" within the guild, Players are rewarded with a guild officer.
+-   The current leader of The Divers in-game is R0bustic
 -   The current officers of The Divers in-game are:
     -   R0bustic
     -   ViolaIsSilent
     -   H26O
     -   colddeathmaker
-    -   ResoIv3 (bonnerliam12)
+    -   ResoIv3
     -   RickyM1227
     -   superlightningfire1
-    -   Ordoxite
     -   Seliphe
-    -   Dolphie
-    -   MageFrl
     -   DefinetlyNotCapp
     -   NotAnDinakeri
     -   TehFlori
     -   stqsis
-    -   RTFalleN
     -   bluesword08
     -   pintaced
     -   cloudents
     -   koalasensei4love
-    -   Doctor5 (temporary leave from the Apothecary)
+    -   Doctor5

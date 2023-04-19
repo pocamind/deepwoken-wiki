@@ -1,6 +1,6 @@
 ---
 title: Nightblood
-revid: 57240
+revid: 60618
 source: https://deepwoken.fandom.com/wiki/Nightblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attunement]
@@ -8,17 +8,19 @@ categories: [Pages with broken file links, Items, Attunement]
 
 # Nightblood
 
-## Info
-
 File:Nightblood.png
 
 The _Nightblood_ Potion
+
+File:Shadowcast Trainer Location.png
+
+The buildings where Shadowtrainer is located at. The entrance is found on the side of the right building
 
 File:Entrance.png
 
 The location of the Shadowtrainer is right behind this grate
 
-The _Nightblood_ potion is an item used to obtain [Shadowcast](Shadowcast.md) attunement in _Deepwoken_, the fifth [Attunement](Attunements.md) which one cannot start with.  
+The _Nightblood_ potion is an item used to obtain [Shadowcast](Shadowcast.md) attunement in _Deepwoken_, the fifth [Attunement](Attunements.md) which one cannot start with.
 
 ## Obtaining
 
@@ -26,17 +28,9 @@ To get the _Nightblood_ potion, you will have to gather 5 [Umbral Obsidian](Umbr
 
 Once you've gotten the 5 [Umbral Obsidian](Umbral_Obsidian.md), you must venture down to [The Depths](The_Depths.md). The safest way to do so is by taking a _Whirlpool_, as this ensures that you do not lose anything from your inventory.
 
-The next step is locating the [Shadowtrainer.](Attunement_Trainers.md) To find her you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has yellow-colored rooftops, making it easy to find. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+The next step is locating the [Shadowtrainer](Attunement_Trainers.md). To find her you will have to enter the City of the Drowned, the one located to the right of the front gate/flat entrance. The district is a little more empty than the rest, and has grey-colored roofs. The best tip for finding the Shadowtrainer this is to hug the wall (the one opposite of the elevator) until you find the entrance to the Shadowtrainer's cave.
 
-The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainer's](Attunement_Trainers.md) cave. (See picture)
-
-After finding her, simply give her the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask, drink it, and there you have it.
-
-  
-
-Shadowtrainer
-
-You've officially obtained [Shadowcasting](Shadowcast.md)!  
+After finding her, simply give her the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask and drink it. You've officially obtained Shadowcasting!
 
 ## Notes
 

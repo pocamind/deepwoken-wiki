@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 60596
+revid: 60605
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,13 +11,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in Tower They wear a [Darksteel Plate](Darksteel_Plate.md).
+Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in the watch tower event. They wear a [Darksteel Plate](Darksteel_Plate.md).
 
   
 
 ## Moves
 
-Their arsenal consists of [Darksteel Greatsword](Darksteel_Greatsword.md), [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) and [Mace](Mace.md):
+Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.md), [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) or a [Mace](Mace.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

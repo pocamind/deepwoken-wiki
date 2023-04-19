@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 60196
+revid: 60611
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -210,7 +210,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Blocking</th>
-  <td>By holding the <kbd>F</kbd> key after this stance of deflection has worn off, your character will hold their defensive stance and brace for incoming attacks, increasing your posture rather than lowering your health if you were hit during the block. <i><b>Remember, letting your posture exceed its maximum hold will result in you being block-broken.</b></i><p><br>
+  <td>By holding the <kbd>F</kbd> key after this stance of deflection has worn off, your character will hold their defensive stance and brace for incoming attacks, increasing your posture rather than lowering your health if you were hit during the block. The blocker can act slightly before the attacker, but not as much as if they parried. <i><b>Remember, letting your posture exceed its maximum hold will result in you being block-broken.</b></i><p><br>
   If you are hit, your block will be disabled and you will instead be forced to parry. You may also Vent by pressing <kbd>G</kbd> if you have enough Tempo.</p>
   <p><br>
   <i>Blocking only shields you from attacks in front of you. You can still get hit from behind or even on your sides unless you parry, which stops attacks regardless of where you're facing.</i></p></td>

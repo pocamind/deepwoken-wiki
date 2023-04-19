@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 60425
+revid: 60604
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hive, Summer Isle, Floating Keep Blacksmith (Halloween Event 2022) Depths, bought from Miner's Landing and PVP Arena chests |
+| obtainment | Hive, Summer Isle, Floating Keep Blacksmith (Halloween Event 2022) Depths, Tower Event, bought from Miner's Landing and PVP Arena chests |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 | Darkalloy Greatsword | |

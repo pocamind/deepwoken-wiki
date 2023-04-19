@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 58308
+revid: 60615
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -55,7 +55,7 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 
 -   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will be shot out with less ticks of damage, giving your opponent less of a chance to parry it mid beam (It does not reduce the damage at all). The damage multiplier for this variant will also be slightly increased.
 
--   If this Resonance is found to be corrupted, it also gains a passive ability: whenever an enemy humanoid NPC hits you while you are below ~25% health, the NPC will take damage every hit; this damage _can_ knock the NPC.
+-   ~If this Resonance is found to be corrupted, it also gains a passive ability: whenever an enemy humanoid NPC hits you while you are below ~25% health, the NPC will take damage every hit; this damage _can_ knock the NPC.~ With extensive testing, it has not yet been confirmed whether this is a passive for Corrupted Payback or not. Ancient speculation says that it _could_ just be a charm ability, but this feature only started happening for me when I got Corrupted Payback on my 85 Charisma slot.
 
 ## Trivia/Notes
 
