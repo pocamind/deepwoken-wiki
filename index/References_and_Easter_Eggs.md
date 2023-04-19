@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 60488
+revid: 60636
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -18,8 +18,8 @@ categories: [Deepwoken]
 -   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
--   Master Thief Earrings are very similar to those of Chrollo Lucifer from Hunter X Hunter
--   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in Avatar: The Last Airbender.
+-   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter X Hunter._
+-   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
@@ -56,18 +56,22 @@ categories: [Deepwoken]
 
 ### **Galebreathe**
 
--   The Aerogliding talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
--   Wind blade is a reference to [Moonlight greatsword](https://youtu.be/Gt793qAK2uo?t=103) from one of Souls games.
+-   The **Aerogliding** talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
+-   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://eldenring.wiki.fextralife.com/Moonlight+Greatsword) from the _Souls_ games.
 
 ### **Shadowcast**
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
-    -   It is also possibly a reference to _Duelist Dash_ from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
--   **Shadow Assault** slightly resembles _Demon Step_, and **Eclipse Kick** resembles _Axe Kick_, both from _Rogue Lineage_, moves used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
+    -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist (better known as Uber Spy)](https://rogue-lineage.fandom.com/wiki/Duelist) class.
+-   **Shadow Assault** slightly resembles Demon Step, and **Eclipse Kick** resembles Axe Kick, both from _Rogue Lineage_, moves used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
     -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
 -   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 -   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
+
+### **Attunementless**
+
+-   **Punishment** may be a reference to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) [Royal Guard](https://devilmaycry.fandom.com/wiki/Royalguard_Style) from _Devil May Cry._
 
 ## Oaths
 
@@ -105,7 +109,7 @@ categories: [Deepwoken]
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft
+-   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft.
 
 ## Resonance
 
@@ -234,9 +238,9 @@ categories: [Deepwoken]
 
 -   While some might pass this off as a coincidence, Gunsmith Rosen's name may be a slight nod to Eric Rosen, a chess player, as many of the races in Rogue Lineage were named after chess players. (This is a misconception, some Rogue Lineage races have names similar to chess players but they're also some corruption of a word the race revolves around, such as Castellan with Casting and Morvid with Corvid.)
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
-    -   Perceiving them drives you to insanity
-    -   They are two great to interact with the world normally, and must interact with it via shrines, avatars and vassals
-    -   Have to be summoned via rituals
+    -   Perceiving them drives you to insanity.
+    -   They are too great to interact with the world normally, and must interact with it via shrines, avatars and vessels.
+    -   They have to be summoned via rituals.
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The name of **Akira** may be inspired/directly taken from the movie "Akira".
--   The Drowned Diver **Amorus Pleeksty** story (Of how he is the only diver who reached very deep in the Depths) is believed to took inspiration from the White whistle Lyza from the Anime Made in Abyss, specially due to the many similarities that the Divers faction has with the Whistles of Made in abyss.
+-   **Amorus Pleeksty'**s story is believed to have taken inspiration from [White Whistle Lyza](https://miabyss.fandom.com/wiki/Lyza) from the Anime Made in Abyss, specifically due to the many similarities that the Divers faction has with the Whistles of _Made in Abyss_.

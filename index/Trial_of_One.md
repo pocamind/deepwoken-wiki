@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 60599
+revid: 60637
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -57,7 +57,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
--   The [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) when creating a character for reaching past the half-way point (Thresher)
+-   The [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) when creating a character for getting past the half-way point (Thresher)
 
 ## Tips and Tricks
 

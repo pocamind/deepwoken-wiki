@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 60592
+revid: 60628
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -134,7 +134,31 @@ _verb_
 1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
     1.  ex. The talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
-## Acronyms
+### **Counter**
+
+_verb, noun_
+
+1.  Abilities/moves that allow the user to retaliate and not take damage without the use of blocking, parrying or dodging.
+    1.  Ex. Prediction, an Intelligence Combat mantra, is a counter
+
+### **Proc**
+
+_verb_
+
+1.  Events that happen usually from players to players, either happening randomly as a chance or requiring certain set-ups
+    1.  Ex. Turtle Shell, a shield based talent, negates the proccing of Spine Cutter when the user has their shield on their back.
+
+## Outside Combat
+
+### **Drip**
+
+_verb, noun_
+
+1.  The appearance of one's character. Usually used to describe characters that look particularly good
+    1.  Ex. This man's dripping out!
+    2.  Ex. Your drip doesn't look that good. Maybe you should try this out instead.
+
+## Acronyms/Short Forms
 
 ### HVY
 
@@ -157,6 +181,13 @@ _noun_
 1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
     1.  Ex. The Shattered Katana requires 100 MED to wield.
 
+### **AGL**
+
+_noun_
+
+1.  Agility [attribute](Attributes.md#agility) (skill)
+2.  Some refer to this stat as **AGI** instead.
+
 ### PEN
 
 _noun_
@@ -166,17 +197,54 @@ _noun_
 
 ### Clog
 
-_verb_ A short term for
+_verb (Read as "c-log")_
 
-1.  Leaving or disconnecting while you are in combat, making you automatically "killed" by the player/mob that grant you the combat tag.
+1.  A short term for leaving or disconnecting while you are in combat, making you automatically "killed" by the player/mob that granted you the combat tag.
+    1.  Ex. This guy clogged while we were fighting, probably because of his wifi. He has good loot though.
 
-Not to be confounded with the verb outside of deepwoken _to clog_.
-
-1.  1.  Ex. This guy clogged while we were fighting, probably because of his wifi. He has good loot though.
+Not to be confused with the verb outside of Deepwoken _to clog_.
 
 To assure you are not combat logging, always use the door button on the top left of your screen that also makes your character despawn the moment you click.  
 
-  
+### **Run 1**
+
+_adjective_
+
+1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase= mostly indicates friendly spars
+    1.  Ex. Yo bro can we run a 1?
+
+### **sharko**
+
+_noun_
+
+1.  Refers to [Megalodaunts](Megalodaunt.md)
+
+### **GG**
+
+An acronym that stands for many things, toxic and respectful. Usually has these meanings:
+
+1.  On the respectful side: "Good game" "Good go"
+2.  On the toxic side: "Get good"
+3.  Also has certain variants, such as "GL" for "Good Luck", "WP" for "Well Played" and "GLHF" for "Good Luck Have Fun"
+
+### **DvM**
+
+_noun_
+
+1.  Short form of Damage versus Monsters. An attribute that increases your damage towards PvE by percentage stated.
+    1.  Ex. There is a possibility where a player can reach 60% DvM in a build
+
+### **LFT**
+
+_noun_
+
+1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
+
+**SK**
+
+_noun_
+
+1.  Short form for [Shattered Katana](Shattered_Katana.md), an upgraded version of the Katana that requires 100 MED to be used
 
 ## For Editors
 

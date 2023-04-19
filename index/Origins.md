@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 60586
+revid: 60640
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -69,7 +69,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths depending on their health
 -   **\[CON\]** You cannot do Trial of One.
--   **\[PRO\] You dont need to go via a whirlpool to be able to enter Castle Light, even if you die as a Deepbounder and you go to depths, you got full access to Castle Light**
+-   **\[PRO\] You dont need to go via a whirlpool to be able to enter Castle Light, even if you die as a Deepbounder and you go to depths, you got full access to Castle Light (This information was provided by Ekisxara, a former main Deepbounder)**
 
 ## Voidwalker
 
