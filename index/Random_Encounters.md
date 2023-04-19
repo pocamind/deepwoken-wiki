@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 60532
+revid: 60593
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -201,7 +201,7 @@ A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_
 
 #### **Tower in the Water**
 
-A tower can spawn in the Etrean Sea. Inside the tower are enemies that have the Stranded armor and a starter weapon. Killing all of them will give an Erisia tier chest on top of the tower. Then, you wait for the tower to sink down and another Erisia tier chest will spawn.
+A tower can spawn in the Etrean Sea. Inside the tower are enemies that have the Darksteel Plate armor and a starter weapon. Killing all of them will give an Erisia tier chest on top of the tower. Then, you wait for the tower to sink down and another Erisia tier chest will spawn.
 
 #### **Traveling Merchant**
 

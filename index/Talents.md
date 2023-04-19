@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60477
+revid: 60594
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -275,7 +275,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds
+    -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)

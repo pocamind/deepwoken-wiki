@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 52983
+revid: 60587
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -18,7 +18,7 @@ These waters are tamer than most, but the stillness makes many uneasy.
 
 ## Overview
 
-The Etrean Sea is a region that all players who create their character will spawn in. This location is typically where beginners are found.
+The Etrean Sea is the first sea that beginners will encounter. It is a very large region, encompassing most of the Etrean Luminant except where the Voidsea is. The Etrean Sea is not as violent as the Aratel Sea, but still has some natural encounters.
 
 ## Points of Interest
 
@@ -33,6 +33,13 @@ The Etrean Sea is a region that all players who create their character will spaw
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Mudskipper.md)
+
+## Encounters
+
+-   [Lesser Brainsucker](Brainsucker.md)
+-   Etreans vs [Knives of Eylis](The_Knives_of_Eylis.md)
+-   [Merchant Ship](Travelling_Merchant.md)
+-   Bandit Tower
 
 ## Maps
 

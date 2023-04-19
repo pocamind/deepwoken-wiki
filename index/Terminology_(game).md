@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 57929
+revid: 60592
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -126,6 +126,13 @@ _verb_
 1.  To block a mantra / attack. This is achieved by holding F. You won't take damage, but your posture will increase. Once your posture bar is full, you will bleed out and take heavy damage as well as being stunned.
 
 1.  Light weapons are hard to parry but not hard to block as they deal little posture damage.
+
+### **I-frames**
+
+_verb_
+
+1.  (invincibility frames) When a mantra or passive makes the user invincible to other players
+    1.  ex. The talent Ghost gives you a few seconds of **I-frames** when you successfully dodge an attack.
 
 ## Acronyms
 

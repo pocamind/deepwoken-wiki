@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 59368
+revid: 60595
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -36,7 +36,7 @@ There are different rarities for mantras, similarly to Talents.
 -   Flame Blind (Speculated)
 -   Flame of Denial (Speculated)
 
-The only confirmed mantra to have a different rarity is Lightning Cloak. The rest of these mantras are classified based on general consensus by the community in terms of how unlikely it is to obtain these mantras or encounter someone who possesses them.
+The only confirmed mantra to have a different rarity is Lightning Cloak and Ice Fissure. The rest of these mantras are classified based on general consensus by the community in terms of how unlikely it is to obtain these mantras or encounter someone who possesses them.
 
 ## Classification of Mantras
 
