@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60635
+revid: 60649
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -178,7 +178,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ I might be able to create illusions, but I cant create an illusion of you getting any biches. ”
+“ I might be able to create illusions, but I cant create an illusion of you getting any bitches. ”
 
 ― The visionshaper in question.
 

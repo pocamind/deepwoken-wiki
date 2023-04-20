@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 60176
+revid: 60676
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 | range | 8 |
 | swing speed | 0.68x |
 | penetration | 25% |
+| special effect | Sets enemies you hit with the critical on fire. |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

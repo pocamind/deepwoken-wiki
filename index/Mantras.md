@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 60595
+revid: 60646
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -26,8 +26,8 @@ There are different rarities for mantras, similarly to Talents.
 
 ### Legendary Mantras
 
--   Lightning Cloak (Confirmed)
--   Ice Fissure (Confirmed)
+-   Lightning Cloak
+-   Ice Fissure
 
 ### Rare Mantras
 
