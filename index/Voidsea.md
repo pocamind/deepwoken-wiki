@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 60588
+revid: 60682
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,9 +8,9 @@ categories: [Locations]
 
 # Voidsea
 
-> “ Warning, entering ecological dead zone. Adding report to databank ”
+> “ Is erisia in voidsea? ”
 > 
-> ― PDA
+> ― Stranded Felinor Jonathan Talo
 
 LocationL Voidsea LocationR
 

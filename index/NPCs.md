@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 58786
+revid: 60692
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -60,7 +60,7 @@ check the rest out for yourself.
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, Contractor Oath obtainment | Kills the player instantly if they are not permitted to enter |
 | Lucy | Unaligned | [The Depths](The_Depths.md), The City of The Drowned | None |  |
 | Malte | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
-| [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | None | Marcus. |
+| [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | The best NPC in the game. | Marcus. |
 | Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | Mercille | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |

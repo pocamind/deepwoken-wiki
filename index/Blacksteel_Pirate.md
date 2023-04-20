@@ -1,8 +1,9 @@
 ---
 title: Blacksteel Pirate
-revid: 60605
+revid: 60688
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Blacksteel Pirate
@@ -47,6 +48,6 @@ A Blacksteel pirate executes the player after knocking them:
 
 ## Trivia
 
--   They somehow built a tower in a middle of sea.
--   They may be more difficult than bandits if you don't know how to parry
--   They sometimes drop 2 chests. First, at roof and second can only be obtained when tower sinks. (The second one is blocked by blocks)
+-   They somehow built mulitple towers in the middle of the sea.
+-   They may be more difficult than bandits if you don't know how to parry you will get comboed.
+-   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks. (The second one is blocked by blocks)

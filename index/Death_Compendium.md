@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 60654
+revid: 60677
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -8,6 +8,11 @@ categories: [Community, Death]
 
 # Death Compendium
 
+“ You act as though your actions are of your own volition, but even now you show yourself to be a mere servant. Did you really think any of your actions were of any consequence? Do not worry, little swine, your true masters will soon awake. ”
+
+― Khan, performing his signature "Snap Your Own Neck" rant
+
+  
 Deepwoken's Death Compendium, a list of **every** possible death you can achieve in game.
 
 -   Get gripped (executed) by a player or NPC, typically by pressing B.
