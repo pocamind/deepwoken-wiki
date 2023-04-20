@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 60647
+revid: 60699
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -87,9 +87,11 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) the first time, but taking you to where you last used the Voideye.
     -   **\[PRO\]** Increased EXP Gain from bounties...
-    -   **\[CON\]** ...but reduced EXP Gain from events.
+    -   **\[CON?\]** ...but reduced EXP Gain from events. The EXP loss is almost non-existent however (tested, exp gain from events is roughly 0.95x what it is normally), so getting the Maverick [boon](Boons_and_Flaws.md) cancels this out entirely.
     -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
     -   **\[PRO\]** ...but start with neutral reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
+    -   **\[PRO\]** You cannot be hunted down through bounties by other Voidwalkers...
+    -   **\[CON\]** But you are absolutely despised by the rest of the playerbase, so you may be attacked on sight while wearing the Whaler Initiate armor.
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.

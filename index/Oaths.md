@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60684
+revid: 60696
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Do you wish to become Oathless, and to walk your own path? ”
+“ Man what a good day in a full server ”
 
-― Cerulean
+― oathless about to get ganked by a voidwalker for the 52th time
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 

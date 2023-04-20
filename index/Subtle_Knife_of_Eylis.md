@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 58299
+revid: 60697
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -50,3 +50,4 @@ A Subtle Knife of Eylis executes it's opponent after knocking them:
 ## Trivia
 
 -   It is required to enter their time bubble to obtain Voidwalker.
+-   Their time bubble will still affect players who have the [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) origin on their character.
