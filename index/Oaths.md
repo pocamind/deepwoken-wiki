@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60696
+revid: 60713
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -478,9 +478,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ You shall connect with the light around us, surrounding all of Lumen. ”
+“ No, no more PLEASE ”
 
-― Klaris Llfiend, Mother of the Lights
+― Vesperian after being one medallion short of getting his final dawnwalker move
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.

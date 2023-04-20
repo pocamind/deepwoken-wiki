@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 60531
+revid: 60703
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -527,6 +527,8 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Many of the layers are created after a great drowning sinks a civilization.
 -   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
+-   The First Layer is located below the sea, however the rest of the layers are unkown to where they are located, due to being different worlds they are currently in unkown locations, however many especulate that they are located also below the sea.
+-   Some layers have more influence of a specific drowned god than others, this can be seen through different shrines. For layer 1 we have more influence of Yun'shul, for layer 2 we have more influence of Ethiron, and for the third layer we have more influence of Korilfiend.
 
 #### **Scyphozia, The First Layer**
 
@@ -851,22 +853,27 @@ An Authority Captain
 
 ### The Divers
 
--   **Territory:** _Markor(?), Castle Light._
+-   **Territory:** _Markor Citadel, Castle Light._
 -   **Attunements:** _Flamecharm, Frostdraw, Galebreathe and Thundercall._
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** Ignition Union
--   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue)._
+-   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue). Dr Carrion (Dialogue), Divers Outfit Schematics (Description)._
 
--   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
+-   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light". However this is just a FOB, not the headquarters who are located in the Markor Citadel.
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers.
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
     -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
 -   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition union has a drill to get to the Second Layer, using it like a elevator.
+-   Black Divers consist of the ones who outclassed the most in the Markor Citadel, being examples such as Chaser, Klaris and Akira.
+-   It is said that the most important and experienced Divers and all/almost all Black Divers reside in the Depths and barely exit to the overworld.
+-   They barely use the song, and only use it mainly for "Personal Defense" against monsters in the depths, this is possibly due to their knowledge that the Song slumbers the sleep of the Drowned gods and may make the Depths more dangerous.
+-   Many black divers follow their own interests more than the common divers interest, being to research the depths, with the exception of Akira and Klaris (Who dedicate their time and effort to know more about the Depths), many black divers/experimented divers follow their own goals such as Chaser to enter New Kyrsa for probably power to the ministry, and Dr Carrion to create the Moonseye vigor.
+-   Most of Divers/Diver apprentices learn the harsh reality of the Depths when they get send to the first layer.
 
 ## Groups
 

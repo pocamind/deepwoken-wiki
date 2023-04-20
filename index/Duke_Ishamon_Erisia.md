@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 59844
+revid: 60701
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -73,7 +73,7 @@ After this attack he will use his fists for around 30 seconds.
 -   Essentially health-packs and serve no real threat.
 
  | N/A | N/A | ◯ | (★☆☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | ✗ | (★☆☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ✗ | (★☆☆) |
 
 ### Talents
 

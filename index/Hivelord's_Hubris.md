@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 58844
+revid: 60704
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -36,6 +36,7 @@ The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) that resembles
 ## Notes & Trivia
 
 -   Drops from the [Rogue Construct.](Hive_Construct.md#rogue-construct)
+-   At 100 HVY it deals 52.5 damage and 59.3 with 6 proficiency.
 -   It has, by far, the slowest swing speed of any weapon in the game. While more predictable than other heavy weapons, it does gargantuan damage when landing a hit.
 -   One of the most damaging heavy weapons in the entire game, being on par with the damage from [Crazy Slots](Crazy_Slots.md)' Divine Weapons.
 -   It was recently nerfed and now weapons like [Kyrscleave](Kyrscleave.md) or [Evanspear Hand Axe](Evanspear_Greataxe.md) have higher DPS.

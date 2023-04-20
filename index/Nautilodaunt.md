@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 60162
+revid: 60700
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -108,3 +108,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and might get wiped. (Examples being: Players (in a group or solo), Angels, Monsters or even bad ping)
 -   Mortus mentions his wife was killed when they fished up an octopus. Since no octopi are present in Deepwoken, he may have been referring to a Nautilodaunt.
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
+-   Squibbo is probably inspired by dagon from jujutsu kaisen manga as they are both squids, have ideal model and are very intellectual in hand to hand combat.
