@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 60639
+revid: 60802
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -23,7 +23,7 @@ notices:
 
 The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to obtain Godhood. They are lead by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who gifted Chaser his hemokinetic abilities and the Fourth Prophet being the current Lord Regent of Etris. They have some sort of hostility against the Children of Navae, and desire to clear them out of [Summer Isle](Summer_Isle.md).
 
-Many years ago, they conquered Minityrsa and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its Lord Regent.
+Many years ago, they conquered Ministrya and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its Lord Regent.
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 

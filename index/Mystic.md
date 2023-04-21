@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 60581
+revid: 60783
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -88,6 +88,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I steal from others. **(Thief)**_
 -   _I create my own vows. **(Vow of Mastery) (Note; Cannot give Command: Return, Command: Sacrifice)**_
 -   _I feel the pain of those around me. **(Empath; Give and Take)**_
+-   _I can talk myself out of any situation. **(The Negotiator)**_
 
 ### Weaponry
 

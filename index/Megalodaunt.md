@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 60580
+revid: 60746
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -357,3 +357,4 @@ A Megalodaunt swimming.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   Some mantras that need to mark a person/object to be able to cast, such as Ice daggers or Shadow seekers, dont work on Megalodaunts for some unkown reason, so dont waste ether if it doesnt cast a mantra against a sharko.
 -   Megalodaunts have eyes on the side of their heads, this could, potentially, be a sign that they are prey animals (high chance that i'm wrong though)
+-   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.

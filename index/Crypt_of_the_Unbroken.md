@@ -1,11 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 58965
+revid: 60747
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pages with broken file links, Locations, World, Voidzones]
 ---
 
 # Crypt of the Unbroken
@@ -14,17 +12,18 @@ Template:Location2
 
 Template:Areainfobox
 
-The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found on the top of [Minityrsa](Minityrsa.md)
+The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found on the top of [Ministryia](Minityrsa.md)
 
 ## Overview
 
-The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minityrsa.md). The inside is filled with tall, narrow intersecting halls inhabited by hostile enemies.
+The Crypt of the Unbroken is a building in the highest part of [Ministryia](Minityrsa.md). The inside is filled with tall, narrow intersecting halls inhabited by strong, hostile enemies.
 
 ## Points of Interest
 
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantra for a hand of whispers.
--   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
+-   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This will take awhile but is safer compared to [Layer 2](Second_Layer.md).
 -   HellfIire Lotuses and Skyvalor Lotuses can be found around the Crypt. Using 2 Hellfire's will make a strength attribute flask, and using 2 Skyvalor's will make a willpower attribute flasks.
+-   If you walk into the opposite wall of the entrance of the crypt and use the critical with Gran Sudaruska you can break open the wall and find a chest. It is unknown why only this works, but it is believed that because of the ice theme of the weapon, and the fact you are at the top of an icy mountain, that it has something to do with the lore of it.
 
 ## Enemies
 
@@ -45,6 +44,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   Etrean Siege Cuirass
 -   Etrean Siege Staboons
 -   Hive Scourge Cuirass
+-   Meat King Helmet (low chance)
 -   Ministry Operative Cloak
 -   Winter Corps Parka
 -   Winter Corps Boots
@@ -80,10 +80,10 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   Images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
--   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
+-   Executing an enemy will attract everything in the dungeon, including the Alpha Sharko, so burn the enemies or bring them outside before executing them
 -   Good place to farm books, the library has tons of bookshelves
 -   Characters with the Mute [Regalia](Regalia.md) would instead be spared and insulted "INFERIOR" when knocked by them, similar to various guards when you have maximum reputation.
--   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Gaurdians out of the dungeon to avoid going to The Depths because it is a Voidzone
+-   If you are a loser who sucks at farming this dungeon, you can simply lure the Immortal Guardians out of the dungeon to avoid getting ganked.
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 

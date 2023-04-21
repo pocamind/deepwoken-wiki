@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60731
+revid: 60800
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Man what a good day in a full server ”
+“ Do you wish to become Oathless, and walk your own path? ”
 
-― oathless about to get ganked by a voidwalker for the 52th time
+― Cerulean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -298,9 +298,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ Rival! You've done it! That's... everything! I suppose I can begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done. ”
+“ To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
-― Alirian after maxing out Jetsriker
+― Alirian
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -354,9 +354,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ These stars above us are more than constellations. You feel as though you can feel the entire world. All at once. Everywhere. ”
+“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
 
-― The Player, Realising the Truth
+― Drinking the Holy Ichor
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -419,9 +419,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Weld the armor of the Union's most notable dwellers. ”
+“ I believe **this** is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. ”
 
-― Old Arcwarder Descrpiton
+― Delta
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -477,9 +477,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ No, no more PLEASE ”
+“ You shall connect with the light around us, surrounding all of Lumen. ”
 
-― Vesperian after being one medallion short of getting his final dawnwalker move
+― Klaris Llfiend, Mother of the Lights
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -522,9 +522,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. What a nuisence. ”
+“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
-― Zi'eer, the 4th Prophet
+― Duke Erisia to Contractors
 
 ### Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 60703
+revid: 60810
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -46,7 +46,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the "[Contractor](Oaths.md)" oath.
     -   Though it is not Shadowcast, it is similar in appearance to it and after an individual name Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are doing the "[Contractor](Oaths.md)" oath.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before saying "You will stay on my meat until you wipe. You serve no purpose in life. Your purpose in life is to be in Etrea, sucking on my meat daily. Your purpose in life is to be blowing the freshies meat daily. I mean, what are you here for? To worship me? **WIPE YOURSELF.** I mean that with **100%** with a **1000%.** then maybe you can remove a bit of somebody else's lag, and free up server space that's used up so that we can play this trash game with horrible servers." He will then instantly kill you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are doing the "[Contractor](Oaths.md)" oath.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
     -   Also, three Adrets, who form the main bulk of The Ministry and Etrea's greatest enemy are present in Etris, two of whom are Divers, which is an ally of the Authority. Despite this, they are all allowed in Etris, which we can infer means Schnitzel is kept out for other reasons than his race.
@@ -90,13 +90,8 @@ _The Lord Regent, sitting atop his throne of coral._
     -   The King is said to have been cruel and caused the Etreans to suffer, but he kept such things a secret.
     -   The protagonist is tasked to assassinate the King during a voyage in the Voidsea, the sword used implied to affect him once sent to The Depths.
     -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
--   File:RagsHonestReaction.png
+-   When Ragoozer was asked if he was also strengthened by the throne, his reaction was: "Your life literally is as valuable as a summer ant. I'm just gonna wipe you and you're gonna keep coming back, imma switch servers, you're gonna keep coming back. Why? Cause you smellin the freshies. You worthless mf."  
     
-    Ragoozer after being asked 'was the old king of etris also buffed by the throne?'
-    
-    When Ragoozer was asked if he was also strengthened by the throne, his reaction was:
-
-  
 
 ### **The Duke of Erisia**
 
@@ -110,6 +105,9 @@ The Duke
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes say: "Vermin! You seek to let Celtor repeat?
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
+-   He wants to have revolting expeditious gay oral sex with Lord Regent.
+-   Because of his childhood molestation by his father, he became a master gale breather so he could run away from his father's abuse.
+-   He became known as the Master Baiter because he baits little kids to his dungeon.
 -   Despite being kind of insane, committing a genocide and carrying out numerous unethical experiments on his citizens, he seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
@@ -205,7 +203,7 @@ _"My Burden is Light." -Unknown Lightkeeper._
 -   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
 -   Possible childhood friend of Nimea and possible teacher of Klaris.
 -   Her hobby is apparently to write poetry, as stated by Klaris.
--   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
+-   Apparently she is "preoccupied" due to the King of Etris having an affair with her.
 -   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
 -   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
 
@@ -217,6 +215,7 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
+-   If you antagonize her, or have bad reputation with the Black Divers, when you talk to her she will greet you with "Let's go to the 99-cent store, let's pick out a rope together. I'm gonna give you an assisted wipe. Let's pick out a rope together right, and we're gonna take all the greatest troll clips, put a TV screen right in front of you. I'm gonna hang that rope on top of the garage."
 -   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire, though she herself is not linked to the serpent.
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
@@ -230,6 +229,8 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
+-   He has the most massive velumptious cock in all of deepwoken history (speaking from experience)
+-   If you are a vegetarian, he will say "If you have kids? Oh my god, Imagine if you had kids. Like, imagine. Imagine if somebody like you actually has kids. I would feel so sorry for your children cause you literally serve no purpose."
 -   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
 -   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
@@ -309,10 +310,11 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
--   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
+-   Yun'shul is a Drowned God, known for rerolling one's Resonance, is able to send the drowned to the surface, and hating all of the Felinor and Blacks.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   They are not found within Layer One, their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
+-   You can only pick his secret option if your skin color is not dark, and this option allows you a spiritual whip that you can use. It deals 0 damage to white players/npc but everything else takes 400 damage per M1
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
 -   Shrines identical in appearance to the ones lining the corridor in the Temple of Hearts are scattered throughout the Eastern Luminant.
 -   They are not a former Ministry Prophet.
@@ -325,6 +327,7 @@ Yun'shul's Shrine
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is reffered as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
+-   He got his power from blowing the meat of all of the other drowned gods during highschool, and was passed around like a hot potato
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
@@ -377,6 +380,7 @@ Yun'shul's Shrine
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
+    -   If you meet his diciple, the only thing he will say is "I would just like to announce that I am exactly 6.2 inches. I have measured with numerous objects- monster cans, a samsung galaxy s9, measuring tape. And I would like to say that I am quite satisfied with my dick length. Thank you." Then he will promptly dissapear.
     -   This also implies that humans cannot comprehend what the entirety of deepwoken's world really is and would die of insanity due to the anomalous effects of deepwoken's universe, meaning that most of our knowledge might be completely wrong and is a made up story for us to comprehend the horrors that are actually in front of us as we descend into the unknown. This adds a layer of mystery to the depths and implies that how we see it may be almost completely wrong.
     -   This means that humans are possibly one of the weakest forms of life in deepwoken, being seen as "filth" and weak by the deep voices and the nestmind, with our potential of strength needing to be unlocked through the song. This implies that physical strength may mean absolutely nothing in deepwoken's universe though this is all speculation.
 
@@ -387,11 +391,11 @@ Yun'shul's Shrine
 -   The [Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
--   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
+-   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him. He was exiled because of his words when he was attempting to help his friend. He announced to his crew, "Okay so the only difference between a femboy and a woman is their reproductive organ right? Hope we can all agree on that. Now, when does the reproductive organ becomes relevant? During schmex, of course. Now let's say that an 18 years old guy dates a femboy that is also 18. Things get very spicy and they have schmex on their first date. Say, everything goes well and they have a healthy relationship for the rest of their life. They get married, have stable jobs and are happy. Now, the average age that people stop having schmex is 80. An average couple have schmex once a week and each sessions average 5 minutes. Since they're going to stop having schmex at 80 we can subtract that by 18 and we'll get 62 which is 3,235 weeks. So they'll have schmex 3,235 times in that 62 years. 62 years can be converted into 32,608,823.5 minutes. 3235 times of schmex means 16,175 minutes of sex, assuming schmex averages at 5 minutes. We can calculate this into percentage and we'll get around 0.05%. In that 62 years, only 0.05% of it is sex. Do you see how little the difference is now?" And that was the last we heard of him.
 -   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths as the Ferryman is inhibited by the surface.
 -   Likely resides in an unknown layer of the Depths.
-    -   Krulians are tide to The Depths and are weakened when on the surface.
-    -   Following his dance, he states he must go, as though he is being called back.
+    -   Krulians are tied to The Depths and are weakened when on the surface.
+    -   Following his dance, he states he must go, as though he is being called back by tyrone (he wants schmex).
 
 ### **Haske Vantage**
 
@@ -484,7 +488,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A location affected by a Great Drowning.
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
--   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
+-   The Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
 
 ### **Northern Luminant**
 
@@ -1093,6 +1097,8 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
 -   They had a kingdom in Markor, what's become of it is unknown, though they are still prevalent in the Central Luminant.
+-   Sadly, you can not enslave one to be a cat-girl maid.
+-   Also, this is the only race that will experience actual racism in the Luminants
 
 ### Vesperian
 

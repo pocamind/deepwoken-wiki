@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 46785
+revid: 60749
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -12,8 +12,8 @@ notices:
 
 | The Hive | |
 |---|---|
-| territory | Greathive Aratel |
-| goals | Progress? |
+| territory | Greathive Aratel, The Lordsgrove |
+| goals | Saving themselves from the drownings via construction of greathives |
 
 “ DO NOT STAND IN THE WAY OF PROGRESS. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 60737
+revid: 60754
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -17,3 +17,5 @@ The Blacksteel Helm is a _helmet_. Equipping this item will give you random plac
 ## Trivia
 
 -   Part of the "Blacksteel" set, alongside the [Blacksteel Pauldrons.](Blacksteel_Pauldrons.md)
+-   Rare drop from the [Blacksteel Pirates](Blacksteel_Pirate.md)
+-   End game headpiece
