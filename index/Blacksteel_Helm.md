@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 40755
+revid: 60737
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -12,8 +12,8 @@ Template:EquipmentStats
 
 ## Description
 
-The Blacksteel Helm is a _helmet_. Equipping this item will give you random placeholder stats.
+The Blacksteel Helm is a _helmet_. Equipping this item will give you random placeholder stats. It requires 15 Fortitude to wear.
 
-## Notes
+## Trivia
 
-Requires 15 Fortitude to be equipped
+-   Part of the "Blacksteel" set, alongside the [Blacksteel Pauldrons.](Blacksteel_Pauldrons.md)

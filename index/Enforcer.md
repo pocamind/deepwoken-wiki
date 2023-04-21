@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 60560
+revid: 60718
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -43,7 +43,7 @@ Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size di
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution of them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
 
@@ -96,9 +96,9 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 
 -   All of The Enforcer's damaging attacks are parryable, and blockable.
 -   The Enforcer is one of the only monsters that can be both guard broken and posture stunned (the other being the [Nautilodaunt](Nautilodaunt.md))
--   The Enforcer can also be found in the trial of one.
+-   The Enforcer can also be found in the Trial of One.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
--   You can easily run, or even walk away it's its Whirlwind, easily giving you time to rest or use consumables.
+-   You can easily run, or even walk away from it's Whirlwind, easily giving you time to rest or use consumables.
 -   The Enforcer can pull you during an emote.
 -   The axe has a hitbox for unknown reasoning, allowing for easy hits by outranging The Enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.

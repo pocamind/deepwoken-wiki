@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 59659
+revid: 60741
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -61,6 +61,7 @@ _Slicing blades of flame._
 -   Breaks certain tiles.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Compatible with Size, Duration and Intensity Buffs.
+-   While having [Starkindred](Oaths.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames.
 
  |
 |  | 
@@ -114,7 +115,7 @@ _A bullet of flames shot through each hand._
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
--   Adding a Round Spark makes it fire 4 bullets in a chaotic pattern.
+-   Adding a Round Spark causes the bullets to split in 2 after an unknown duration.
 
  |
 |  | 
@@ -150,7 +151,7 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamcharm mantra.
     -   Unaffected by ~[Luck](Luck.md)~. (Removed)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
+-   Buffed the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
 -   Not very effective on experienced users because the duration isn't long enough to make a big difference for space to attack. It may even just serve as a mild inconvenience for them.
 
  |
@@ -167,6 +168,7 @@ _A blast of flame._
 -   Cone shaped hitbox.
 -   Deals moderate damage.
 -   Inflicts Burn.
+-   Can be upgraded with the [Wildfire](Talents.md) talent.
 
  |
 |  | 

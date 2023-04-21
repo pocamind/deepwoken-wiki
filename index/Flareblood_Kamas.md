@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 60638
+revid: 60740
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Legendary Weapons]
@@ -32,9 +32,11 @@ categories: [Weapons, Daggers, Legendary Weapons]
 
 ## Description
 
-The Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game, only rivaled by the Alloyed Whaling Knife and the Alloyed Tanto.
+The Flareblood Kamas is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor. Wielding it requires 60 Light and 45 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game, it's damage is only rivaled by the Alloyed Whaling Knife and the Alloyed Tanto. For some god forsaken reason this weapon has almost as much range as a High tier medium weapon, and much faster attack speed. The Kamas have the smallest endlag in the game, along with having the fastest attack speed. It is obtained from Chaser.
 
-It was made by and thus obtained from Chaser.
+## Critical Animation
+
+The critical launches the target into the air, and can grip if the target is knocked down.
 
 ## Trivia
 
@@ -43,3 +45,6 @@ It was made by and thus obtained from Chaser.
 -   This weapon model & Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki).
 
 -   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
+-   For some reason, this is the second [Legendary](Weapons.md) [Light Weapon](Weapons.md)[\[1\]](#cite-note-1) that was added, yet medium has no Legendary weapons as of yet.
+
+1.  [↑](#cite-ref-1) I'm about to blow

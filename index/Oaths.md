@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60713
+revid: 60731
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -276,11 +276,10 @@ Does not grant any special cosmetic based on race.
             6.  Fortuna (Above Erisor's Church)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
-
--   -   **Symbiotic Sustain**
-        -   If linked to an ally (signified by blue cord), this move will take ~5% of **YOUR** health and then heal your **ally** by that times an undefined amount.
+    -   **Symbiotic Sustain**
+        -   If linked to an ally (signified by blue cord), lose 5% of your HP to restore 15% of the target's HP.
     -   **Parasitic Leech**
-        -   If linked to an enemy (signified by red cord), this move will start leeching your **OPPONENT'S** health for a few seconds while healing **you.**
+        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move.
 
 ### Effects
 
