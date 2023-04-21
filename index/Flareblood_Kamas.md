@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 60814
+revid: 60815
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Legendary Weapons]
@@ -37,4 +37,3 @@ The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales w
 -   Has a unique critical that summons a blood explosion to your cursor.
 -   This weapon model & Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki).
 -   The weapon itself, _Kama_ is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
--   ~For some reason, this is the second [Legendary](Weapons.md) [Light Weapon](Weapons.md) that was added, yet medium has no Legendary weapons as of yet.~ False, Curved Blades of Winds is a [Legendary](Weapons.md) [Medium Weapon](Weapons.md).

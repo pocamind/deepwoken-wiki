@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60800
+revid: 60820
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -375,9 +375,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
--   **Abaddon, Sinner of Ice,** at Starfield Veldt.
--   **Minos, Sinner of Flame,** right next to the inn at Summer Isle
--   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
+-   **Abaddon, Sinner of Ice,** at Starfield Veldt. (Grants Celestial Assault)
+-   **Minos, Sinner of Flame,** right next to the inn at Summer Isle (Grants Sinister Halo)
+-   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions. (Grants Ascension)
 
 You will get a mantra for each kill.
 
