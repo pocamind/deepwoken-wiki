@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60841
+revid: 60849
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1392,13 +1392,13 @@ These are just raw stat increases and are beneficial to anyone.
 -   And They'll Be Dust \[Common Talent\] - Bombs will deal increased damage to burning enemies
     -   Prerequisite: Incendiary Formula
 
--   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intesity)
+-   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intensity)
     -   Prerequisite: Incendiary Formula
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Prerequisite: Incendiary Formula
 
--   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intesity, +6 Pasive Agility)
+-   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intensity, +6 Passive Agility)
     -   Prerequisite: Family Recipe
 
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
