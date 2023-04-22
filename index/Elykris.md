@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 54983
+revid: 60827
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

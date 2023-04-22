@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 60817
+revid: 60828
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1005,6 +1005,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   They worship Ethiron, and have built a shrine on the first floor of the Eternal Gale.
 -   Over the course of their lives they add more words to their name.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers, or Frinwalter in their own tongue.
+    -   Though not exactly fond, they don't have anything against us either and are happy to talk with us. They are very hospitable and kind, and while not having a fond image of us they still treat us with respect as if they see us as similar enough to their kind as if they have their own form of "humanity" that makes it so that they see us as people because we are sentient beings.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
     -   Despite being hostile in New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This may be because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
 -   Their heads can be eaten, but seemingly contain little nutritional value due to the poor amount of hunger and thirst a Kyrsdog replenishes.
@@ -1043,10 +1044,11 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 "_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
 
--   This race shares traits with racoons.
+-   This race shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
 -   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
 -   The common last names of the Celtor people bear similarities to Russian last names.
 -   Celtor is pronounced like "keltor," rather than "seltor."
+    -   Though most people just pronounce it as "seltor" anyways because let's be honest, it rolls off the tongue a lot better.
 
 ### Adret
 
@@ -1058,6 +1060,8 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   The Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   They are **NOT** fish.
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog race.
+-   Their blue color scheme possibly represents how they seemed to come in with the tide.
+    -   Besides this little thing, there's not really much to explain why there aren't any humans like us in deepwoken, they could be blue because it's the color of the ocean and literally everything in this game has to do with the ocean and their markings being perceived as they want to be by adrets is a sign of how different intelligent minds perceive things. They're the closest thing we have to actual humans and are pretty much so, only difference being that they're blue for some reason (archmage seriously please explain)
 
 ### Canor
 
@@ -1137,6 +1141,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
 -   Though they were once highly reclusive, they began to appear more frequently with the new era that the world was going through with the increase in accessibility to the second layer.
+-   Those who do not follow one specific faith tend to travel the world and tell stories. This can be assumed based of the many NPCs found around the etrean and eastern luminants that are found around the map, telling you stories and are excited to share news about recent events in their life.
 
 ### Tiran
 
@@ -1151,7 +1156,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
 -   They are far weaker when on the surface than in The Depths.
 -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
-    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Maybe she is just a very powerfull Visionshaper as you need to even complete his event to be able to take the oath.
+    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Her very soul resonates with the chaos of her oath and race, possibly allowing her to shape more than the player can as she is able to experience all of the chaos of the world more quickly, opening her mind to more visions to shape and therefore increasing her power. Her personality and fun little games of her endless chaos and fun sparks life into pathfinders, giving them the "spark" needed for them to become a visionshaper. This is speculation but I decided to write this a lot better than the last person (seriously how did you manage to word 1 sentence poorly and make 2 typos as well CMON DEEPWOKEN WIKI WE'RE OFFICIAL NOW stop making mistakes)
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are more powerful than even Zi'eer or Pleeksty
 -   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
@@ -1827,6 +1832,7 @@ _"The Gideshu March is a popular marching song of the Central Authority - the ir
 
 -   It plays when the Authority attacks the ship in the [Tutorial](Tutorial.md).
 -   A leitmotif from it can be heard in And Let Slip The Hounds Of War.
+-   Interestingly, said motif is heard just after another motif which resembles _To Sleep, Dreaming_
 
 #### Masters of the House
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60820
+revid: 60839
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -597,7 +597,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 1.  Be [attunement-less](Attunement-less.md).
 2.  Have at least 75 Weapon (uncap is not needed), 40 in Strength and 40 in Agility OR Charisma.
 3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
-4.  Die to a player that uses an attunment. (NPC's dont count.) (Can be done not in order.)
+4.  Die to a player that uses an attunment. (Chime works.)(NPC's dont count.) (Can be done not in order.)
 5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60655
+revid: 60841
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1223,7 +1223,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: 10 Willpower, Breathing Exercise
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Decreases the amount of time Illusionary servants lasts for you.
+    -   Halves the duration of Charms and Illusionary Servant casted against the character, meaning Charmed will only last 3.75 seconds (previously 7.5 seconds) and 7.5 seconds (previously 15 seconds) against Lasting Charisma; doesn't affect their effects.
     -   Prerequisite: 25 Willpower
 
 ### Merchant
