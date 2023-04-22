@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 57201
+revid: 60869
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -17,6 +17,8 @@ notices:
 -   **Ironfist Island** **\-** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
 -   **Corvus Manor -** A Ministry affiliated area that was removed pre-launch. ["Masters of The House"](Deepwoken_OST.md) was meant to play here.
 -   **Unknown Mountainous Region (The Seranece Mountains?) -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
+-   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
+-   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md) and [Rat’s Den](<Rat's_Den.md>) could be found here.
 
 ## Quests
 
@@ -49,6 +51,13 @@ notices:
 -   **Crab -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
 -   **Isopods -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. Despite his insistence otherwise, Arch\_Mage revealed he had been lying. The parasol was still under heavy development and was nowhere near release. World Serpent will be released in the future.
+-   **Zombie Knights (name unknown) -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were most likely the early prototype for [Mudskippers](Mudskipper.md).
+
+  
+
+  
+
+  
 
 ## Talents
 
@@ -122,3 +131,4 @@ notices:
     -   Chaser eventually got a Phase 2, but it is unknown if it was the intended one.
 -   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations on the Roblox Engine.
+-   **Banker -** You used to be able to turn in large crates/chests to a banker. For an unknown amount of notes, he would open these, presumably giving you several items, similarly to [Artifacts](Artifacts.md).

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 58892
+revid: 60865
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -71,3 +71,4 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
     -   Shrine of Order will cost 10 Knowledge.
     -   A deal with [Misérables](Misérables.md) will cost 14 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._
+-   An icon identical to knowledge was in the game during the early beta. Its purpose was unknown.
