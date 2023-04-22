@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 59876
+revid: 60847
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -45,7 +45,7 @@ He is currently using Zartania's "Skeleton Key" spec as his is unfinished.
   
 He can jump extremely high.
 
-### Iltria (Leafre Spellhardt)
+### Iltria (Leafre Spellhardt) (Retired)
 
 -   Wears [Wishmaker](Wishmaker.md)
 

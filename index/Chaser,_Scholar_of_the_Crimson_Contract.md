@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 60361
+revid: 60842
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -176,6 +176,7 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 -   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
 -   Chaser does not spawn if the bounders at hive corridor does not spawn.
+-   If you deal enough damage you can just grip him.
 
   
 
