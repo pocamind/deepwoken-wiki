@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 60807
+revid: 60913
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -458,7 +458,7 @@ Equipment is covered in a green mist.
 | 
 
   
-Viscocity
+Viscosity
 
  | 
 

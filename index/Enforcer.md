@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 60718
+revid: 60914
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -86,7 +86,7 @@ Item Description for the Enforcer's Axe
 
 Not much is known about The Enforcers specific lore, but its origin is at least somewhat known. The Enforcer has something to do with the Souls of those who have been lost in the trials. According to the flavor text of the [Enforcer Axe](<Enforcer's_Axe.md>), these souls aren't merely lost, but are tortured and warped, and are eventually turned into fuel.
 
-Fuel for what, exactly? The Enforcer is not a living creature, or even a creature at all. It is a construct, and is brought to life by the souls of those who have been lost to The Depth's trial. Additionally, the title of "The Enforcer" is quite misleading. There is no "The" Enforcer, and instead, an army of them.
+Fuel for what, exactly? The Enforcer is not a living creature, or even a creature at all. It is a construct, and is brought to life by the souls of those who have been lost to The Depth's trial. Additionally, the title of "The Enforcer" is quite misleading. There is no "The" Enforcer, and instead, an army of them. (Edit: what idiot wrote this it's not called THE enforcer because that it's actual name but rather addressing it as a whole. the same way "The Special Provision for Kira" is not just stated as "Special Provision for Kira", plz dont edit this page if ur in 6th grade)
 
 The Enforcers are like an endless cycle, constantly getting Souls to make new Enforcers, and those Enforcers will gather more Souls, so on and so forth. It is quite harrowing to think that this behemoth is only one out of an infinite legion, constantly getting more numerous and stronger from all the Souls they have reaped, and eventually, your soul will be used as well.
 

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 60699
+revid: 60917
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -79,7 +79,7 @@ Origins are a feature in _Deepwoken_ which provide the player with certain gear 
 
 **Requirements:** Grip 15 Pathfinders (players with no oath) in the Overworld (Can be the same user everytime). Chime of Conflict does not count.
 
-**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md) event located in the [Aratel Sea](The_Aratel_Sea.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
+**Obtainment:** Talking to Eiris (found under deck in [The Kingdom of Etrea](Etrea.md) VS [Knives of Eylis](The_Knives_of_Eylis.md) event located in the [Aratel Sea](The_Aratel_Sea.md) or [The Etrean Sea](The_Etrean_Sea.md)) using the 2nd dialogue option unlocked, then go through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble. (Does not have to be the one from the ship, can be any Knife Captain.)
 
 **Voidwalker** grants players a convenient, PVP focused style of progression, greatly favoring killing bounty targets for EXP. However, they are not prevented from partaking in PVE. Events however, will provide less EXP. It is not uncommon however for players to take this origin just for its utilities and the inability to get invaded by Voidwalkers.
 

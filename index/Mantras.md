@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 60646
+revid: 60919
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -70,11 +70,11 @@ A player's mantras are tied to their character's stats - the higher a given stat
 Large and threatening fire based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
--   Lava serpent can be unlocked at 40 flamecharm, dealing ragdoll after any mantra for the removal of burn.
+-   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any mantra for the removal of burn.
 -   Can be further upgraded with Azure Flame for even more damage
 -   Decent midrange presence
 -   Good pressure
--   Great at dealing DOT damage
+-   Great at dealing LOT damage
 
 ### [Thundercall Mantras](Thundercall.md)
 
