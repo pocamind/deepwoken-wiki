@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 57104
+revid: 60928
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -12,7 +12,7 @@ notices:
 
 _This page lists links to their respective pages. If you were looking for maps, see [Maps](Maps.md)._
 
-A list of named locations that can be found in _Deepwoken_.
+A list of named locations that can be found in _Deepwoken_. Visiting these for the first time gives EXP.
 
 ## Lumen's locations
 
@@ -127,9 +127,13 @@ Please add miscellaneous islands or named landmarks here
 **Schypozia:**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
-    -   [The City of the Drowned](The_City_of_the_Drowned.md)
-        -   [Varicosa District](Varicosa_District.md)
+    -   [Castle Light](Castle_Light.md)
+    -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
+-   [The City of the Drowned](The_City_of_the_Drowned.md)
+    -   [Varicosa District](Varicosa_District.md)
     -   [District of Commerce](District_of_Commerce.md)
+        -   [The Military District](The_Military_District.md)
+    -   The Cathedral of Interstice
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 

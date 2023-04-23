@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60904
+revid: 60935
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Do you wish to become Oathless, and walk your own path? ”
+“ ffs please stop changing the funni quotes... ”
 
-― Cerulean
+― Oathless begs you, you show no remorse however
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -298,9 +298,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+“ Listen. These quotes made the wiki pages so much more bearable. This wiki generating atleast a simple chuckle is more valuable than whatever you gain from trying to impress someone with these descriptions. Please give life to this wiki again, and restore it to how it once was.. I know you have the ability to, the only thing I can do is ask. ”
 
-― Alirian
+― A person that cares
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
