@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 60806
+revid: 60946
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -58,7 +58,7 @@ File:Big fist.gif
 
 File:Bone floor.gif
 
- | ✗ | ✗ | ◯ | (★☆☆) |
+ | ✗ | ◯ | ◯ | (★☆☆) |
 | Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
 
 To avoid, you must jump. You can just hold space and you'll be pretty much safe, or move to another floor.

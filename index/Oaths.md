@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60935
+revid: 60944
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ ffs please stop changing the funni quotes... ”
+“ Do you wish to become Oathless, and walk your own path? ”
 
-― Oathless begs you, you show no remorse however
+― Cerulean
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -298,16 +298,16 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ Listen. These quotes made the wiki pages so much more bearable. This wiki generating atleast a simple chuckle is more valuable than whatever you gain from trying to impress someone with these descriptions. Please give life to this wiki again, and restore it to how it once was.. I know you have the ability to, the only thing I can do is ask. ”
+“ To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
-― A person that cares
+― Alirian
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
 ### Obtainment
 
 1.  Have at least 50 Agility.
-2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
+2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
