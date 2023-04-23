@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 60688
+revid: 60894
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in the watch tower event. They wear a [Darksteel Plate](Darksteel_Plate.md).
+Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in the watch tower event. They wear a [Darksteel Plate](Darksteel_Plate.md) and a recolored [Knight's Helm](<Silver_Knight's_Helm.md>).
 
   
 
@@ -48,6 +48,7 @@ A Blacksteel pirate executes the player after knocking them:
 
 ## Trivia
 
--   They somehow built mulitple towers in the middle of the sea.
--   They may be more difficult than bandits if you don't know how to parry you will get comboed.
+-   They somehow built multiple towers in the middle of the sea.
+-   They may be more difficult than bandits if you don't know how to parry you will get combo'ed.
 -   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks. (The second one is blocked by blocks)
+-   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".

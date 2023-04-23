@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 60519
+revid: 60887
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World, Locations, Talents, Attributes, Food]
@@ -58,26 +58,15 @@ Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions,
 
 Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
-\-Hellfire Lotus (Red) - Strength Attribute
-
-Found in: Crypt of the Unbroken, Saramaed Summit
-
-\-Empyrean Lotus (Blue) - Fortitude Attribute
-
-Found in: Deep Thresher Nest
-
-\-Zephyr Lotus (Green) - Agility Attribute
-
-Found in: Ancient Rotlands
-
-\-Brilliant Lotus (Yellow) - Intelligence Attribute
-
-Found in: Saramaed Summit, Deep Thresher Nest
-
-\-Skyvalor Lotus (White) - Willpower Attribute
-
-Found in: Crypt of the Unbroken, Starfield Grove
-
-\-Miasmic Lotus (Pink) - Charisma Attribute
-
-Found in: Ancient Rotlands
+-   Hellfire Lotus (Red) - Strength Attribute
+    -   Found in: Crypt of the Unbroken, Saramaed Summit
+-   Empyrean Lotus (Blue) - Fortitude Attribute
+    -   Found in: Deep Thresher Nest
+-   Zephyr Lotus (Green) - Agility Attribute
+    -   Found in: Ancient Rotlands
+-   Brilliant Lotus (Yellow) - Intelligence Attribute
+    -   Found in: Saramaed Summit, Deep Thresher Nest
+-   Skyvalor Lotus (White) - Willpower Attribute
+    -   Found in: Crypt of the Unbroken, Starfield Grove
+-   Miasmic Lotus (Pink) - Charisma Attribute
+    -   Found in: Ancient Rotlands

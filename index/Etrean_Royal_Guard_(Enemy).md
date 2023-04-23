@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 57195
+revid: 60881
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies]
@@ -23,7 +23,7 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
+| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 

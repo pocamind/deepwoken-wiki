@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 59636
+revid: 60898
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -12,11 +12,11 @@ categories: [Pages with broken file links, Mantras, Attunement]
 
 Shadowcast icon
 
-Shadowcast is an attunement that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras, and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
+Shadowcast is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
 
-The playstyle of this attunement revolves around stealing your opponents ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential. Arguably the best attunement to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
+The playstyle of this attunement revolves around stealing your opponent's ability to use mantras in order to switch up, and instead allow you to apply the pressure, evident in its moves that allow you to attack while it is still coming out. It allows the user to also have a lot of switch up potential. Arguably the best attunement to use heavy with, most likely only rivalled by Galebreathe, this is a very powerful attunement especially after it's buffs. This attunement could fit almost any playstyle, as it's main focus is constantly applying pressure to the opponent.
 
-However, Shadowcast works best with plenty of time to work with, able to fight at top-shape for long periods of time. Its delayed action attacks, and reliance on ramping up pressure over time makes Shadowcasters vulnerable to bursting and prediction. An adept opponent will typically try to end a Shadowcast fight aggressively while countering any stray attacks with high precision. Dagger and Galebreathe builds are particularly able to make this happen with relatively low mantra reliance and high combo potential respectively. It's recommended to drag out your fights, and use your mantras consistently to ensure your opponent's disadvantage grows over time.
+However, Shadowcast works best with plenty of time to work with, able to fight at top-shape for long periods of time. Its delayed action attacks, and reliance on ramping up pressure over time makes Shadowcasters vulnerable to bursting and prediction. An adept opponent will typically try to end a Shadowcast fight aggressively while countering any stray attacks with high precision. Dagger and Galebreathe builds are particularly able to make this happen with relatively low mantra reliance and high combo potential respectively. It's recommended to drag out your fights and use your mantras consistently to ensure your opponent's disadvantage grows over time.
 
 ## Obtainment & Training
 
@@ -220,7 +220,7 @@ Shade Devour
 Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable.
+ | A rush of darkness. | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
 
@@ -578,4 +578,4 @@ Rare
     -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
 -   Like [Galebreathe](Galebreathe.md) and [Frostdraw](Frostdraw.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
 
--   ~Shadow has the least mantras out of all attunements.~ Now shadowcast has the same amount of mantras as galebreath as of (03/04/2023)
+-   ~Shadow has the least mantras out of all attunements.~ Now Shadowcast has the same number of mantras as galebreath as of (03/04/2023)

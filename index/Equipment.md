@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 59702
+revid: 60905
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1202,7 +1202,7 @@ Grants a random buff.
 
 Chests from:
 
--   [Ferryman](The_Ferryman.md) (Summer Season)
+-   [Ferryman](The_Ferryman.md)
 -   [Fishing](Fishing.md)
 
  | N/A |

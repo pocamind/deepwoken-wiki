@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 60839
+revid: 60904
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -307,7 +307,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 ### Obtainment
 
 1.  Have at least 50 Agility.
-2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
+2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.

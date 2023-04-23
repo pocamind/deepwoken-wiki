@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 60189
+revid: 60872
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -141,5 +141,6 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can now be obtained as of the 16/08/22, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was change to an unlockable [origin](Origins.md).
+-   There used to be more boons and flaws. The currently known ones are Adept (likely the original version of the talent) and Seasick.
     
     Having the _Blind_ flaw at night. (Yes, this isn't just a black image. Look carefully.)

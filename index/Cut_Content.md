@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 60869
+revid: 60906
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -48,8 +48,8 @@ notices:
 
 ## Monsters
 
--   **Crab -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
--   **Isopods -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
+-   **[Crab](Crab.md) -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
+-   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. Despite his insistence otherwise, Arch\_Mage revealed he had been lying. The parasol was still under heavy development and was nowhere near release. World Serpent will be released in the future.
 -   **Zombie Knights (name unknown) -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were most likely the early prototype for [Mudskippers](Mudskipper.md).
 

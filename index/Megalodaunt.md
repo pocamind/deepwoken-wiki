@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 60746
+revid: 60874
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -339,6 +339,7 @@ Roar
 
 A Megalodaunt swimming.
 
+-   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount, and will likely block break you in one or two hits as a freshie.
 -   Megalodaunts have swimming animations, as seen on the right.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) and [Threshers](Thresher.md), sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.

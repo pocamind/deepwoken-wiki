@@ -1,15 +1,15 @@
 ---
 title: Novice Brace
-revid: 60871
+revid: 60886
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Arms, Armors]
 ---
 
 # Novice Brace
 
-File:Schermafbeelding 2023-04-22 194849.png
+Template:EquipmentStats
 
-+2 health +1 posture +3% elemental armor
+## Description
 
-Novice Brace is a item that falls on arms equipment.
+Novice Brace is an accessory under the "Arms" category.
