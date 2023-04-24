@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 57014
+revid: 60966
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -86,3 +86,8 @@ An Eastern Tribe Nomad executes it's opponent after knocking them:
 ## Trivia
 
 -   One of 3 enemies that utilizes the "Old Ice Eruption" mantra.
+    
+
+-   All of them are [Gremors](Gremor.md) (Although their race variants may vary)
+-   The Navaen Hostages look like Easter Tribe Nomads if they are tied up.
+-   They are one of the few NPCS that belong in the Children of Navae.

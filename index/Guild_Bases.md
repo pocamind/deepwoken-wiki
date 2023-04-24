@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 60900
+revid: 60965
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -27,7 +27,7 @@ Currently, there are **2** NPCs that can join your Guild Base (particularly in t
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 
-The pricing list is as follows:
+The pricing list is as follows: _(Note: may be cheaper if you haven't bought the Treasurer, needs confirmation.)_
 
 -   Room 1:
 -   Room 2:
@@ -57,7 +57,7 @@ A guild base can be increased in size through different nodes. Some provide prac
     -   Artisan - An upgrade to the Trophy Room that costs Notes for hire. For Notes, allows the Player to merge attributes and appearance of an Item through **smelting**.
 -   Quarters (1000) - A room with a campfire, **crafting table**, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can **spawn** in the room (You cannot cook at the campfire).
 -   Laboratory (1500) - A room that features an **alchemy pot** where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
--   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantra's along with a campfire that you can rest & recall mantra's at.
+-   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantras along with a campfire where you can rest & recall mantras, as well as a Mystic NPC that can be purchased for.
 -   Armory (2500) - A room that features a **blacksmith** (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 -   Fishing Room (1000) - A room consisting of a small pond in the center which you can fish from. If you drink this water you will throw up.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
