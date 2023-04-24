@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 60475
+revid: 60950
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -18,7 +18,7 @@ _icon credit to Tortaa#9000_
 
 ## Basic Attributes
 
-Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
 -   Strength -> _use the **Dumbbell**_
 -   Fortitude -> _take damage with the **Training Vest**/carry the **Boulder**_
@@ -185,6 +185,8 @@ Attunement Attributes dictate the potential power and intensity of your current 
 
 ## Tips
 
--   You may sometimes spend all your investment points yet still not power up. This means you got enough EXP to increase a stat, but not enough to level up.
+-   You may sometimes spend all your investment points yet still not power up. This means you got enough regular EXP to increase a stat, but not enough to level up.
+-   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."
+-   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.
 -   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better talent~s _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above- as well as having quicker access to those cards._

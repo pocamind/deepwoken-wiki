@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 60579
+revid: 60953
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Variants, Arms]
@@ -15,7 +15,7 @@ categories: [Armors, Variants, Arms]
 | selling price | Unknown |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | None |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
