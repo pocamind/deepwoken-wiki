@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60849
+revid: 60993
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1538,7 +1538,7 @@ Prerequisite: Charisma
 
 ### Static Weaver
 
--   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
+-   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame.
     -   Prerequisite: Discovery of Fire, 1 Flamecharm
 
 -   Dark Receiver \[Common Talent, Shadowcast & Thundercall exclusive\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.

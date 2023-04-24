@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 60404
+revid: 60994
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -187,6 +187,7 @@ Once you select your card, using C will activate your **Resonance**.
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
 -   While many players choose to commit to "bell testing" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell testing", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
+-   The only time you should logically do bell testing is if your build absolutely requires it, such as striving for the Contractor oath- given that you cannot obtain the oath without having a Resonance.
 
 File:Image of Card Selection.png
 

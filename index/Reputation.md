@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 59978
+revid: 60991
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -134,7 +134,11 @@ File:IgnitionUnionRepReset.png
 
  | 
 
+File:Ignition Union.png
+
 [Ignition Union](The_Ignition_Union.md)
+
+  
 
  | **Maura**: Removes hostilities with the Ignition Union. | Standing outside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 

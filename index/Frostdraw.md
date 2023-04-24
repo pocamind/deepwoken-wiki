@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 60927
+revid: 60985
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -880,9 +880,6 @@ Your ice spear now lodges into human opponents and explodes.
 -   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
-    File:Ice Spice.png
-    
--   The "Ice Spikes" mantra could be a reference to famous songwriter and artist Ice Spice considering how close the names are. This can be seen in the photo on the right
 -   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
 -   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The "Iceberg" talent is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Mei#Overwatch_1) in [Overwatch](https://overwatch.fandom.com/wiki/Overwatch).
