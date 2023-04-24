@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 60158
+revid: 60973
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -74,7 +74,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Flings and ragdolls player.
 
  | ✗ | ✗ | ◯ | (★★☆) |
-| **Roar** | TBA | The Construct roars, purpose is unknown.
+| **Roar** | TBA | The Construct roars, purpose is to reset the 'Meteor Punch'. It uses 1 Meteor Punch and does not use it again until after a Roar.
 
 -   Might cripple sanity.
 
