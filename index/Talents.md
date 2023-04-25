@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 60993
+revid: 61042
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -123,27 +123,27 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### Alchemist
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
-    -   Prerequisites: 10 Intelligence, Brewed a Potion
+    -   Prerequisites: 10 Intelligence
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified.
-    -   Prerequisite: 90 Intelligence, Brewed a Potion
+    -   Prerequisite: 90 Intelligence
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
-    -   Prerequisite: 80 Intelligence, Brewed a Potion
+    -   Prerequisite: 80 Intelligence
 
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
-    -   Prerequisites: 25 Intelligence, Brewed a Potion
+    -   Prerequisites: 25 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
-    -   Prerequisites: 55 Intelligence, Brewed a Potion
+    -   Prerequisites: 55 Intelligence
 
 -   _Subsistence_ \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion.
     -   Improved version of Apothecary.
-    -   Prerequisite: 10 Fortitude or 10 Willpower, 30 Intelligence, Brewed a Potion
+    -   Prerequisite: 10 Fortitude or 10 Willpower, 30 Intelligence
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed.
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
-    -   Prerequisites: 25 Intelligence, Brewed a Potion
+    -   Prerequisites: 25 Intelligence
 
 ### Alley Cat
 
@@ -1596,7 +1596,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Mutually Exclusive: Carnivore
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Prerequisites: Herbivore, vomit once
+    -   Prerequisites: Herbivore, 10 Fortitude, vomit once
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
