@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 60465
+revid: 61014
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -18,6 +18,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | swing speed | 0.61x |
 | endlag | 0s |
 | penetration | 30% |
+| special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 10 |
 | bankable | Yes |
@@ -25,13 +26,13 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Crimson Megalodaunt |
-| description | "" |
+| description | Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend. |
 
 ## Description
 
 File:Image 2023-04-16 125111912.png
 
-The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable by killing a Crimson [Megalodaunt](Megalodaunt.md). Although the drop is very rare, it does have a bit of value. Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However Arch\_Mage did state that the animations were being remade.  
+The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable by killing a Crimson [Megalodaunt](Megalodaunt.md). Although the drop is very rare, it does have a bit of value. It has a unique critical that rains down flaming swords from the sky, identical to the Crimson Megalodaunt's Pyroclastic Roar, as well as it's own set of animations.
 
 ## Trivia
 
@@ -39,5 +40,7 @@ The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.
 -   Also possibly a reference to one of Elesis' claymores of her Empire Sword class from the MMORPG game Elsword.
--   It deals 37 Damage at 75 Heavy.
--   The special animations for this sword may be the old railblade animations because when you spawn visionshaper clones with a railblade, they use the first light animations
+-   Deals 37 damage at 75 HVY, and roughly 45 damage at 100 HVY.
+-   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
+-   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
+-   First Light was given a new critical along with it's reworked animations in an update, with the new critical having the ability to summon blades of fire from the sky.

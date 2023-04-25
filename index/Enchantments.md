@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 60957
+revid: 61019
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -565,7 +565,9 @@ Curse of Zariffs Absorption
 
  | 
 
-Currently a placeholder.  
+Confirmed to temporarily steal the enchant of the enemy on hit, allowing the user to use the enchant of their enemy. Unknown curse effect.
+
+  
 **Unobtainable**  
 **Confirmed by Yayafino**  
 **Not a Dev Spec.....**

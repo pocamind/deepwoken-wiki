@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 60410
+revid: 60997
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,15 +20,16 @@ These are recipes that are not used to produce food or potions.
 
 -   **Wood** - _3 Sticks_
 -   **Sticks (3x)** - _1 Wood_
--   [Campfire](Campfire_Pit.md) - _3 Sticks **OR** 1 Wood_
--   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
+-   [Campfire](Campfire_Pit.md) - _3 Sticks/1 Wood_
+-   **Fiber** - _2 Bamboo Shoots/1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **Flint** - _1 Coal, 1 Rock_
 -   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
 -   **Bullets (5x)** - _1 Iron_
--   **[Chum](Chum.md)** - _2 Fishmeat_
--   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md))2 **OR** 3 _Chum_
+-   **[Chum](Chum.md)** - _2 Fishmeat/2 Crustacean Meat/1 Pufferfish_
+-   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Iron Bomb -** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
+-   **Dark Feather** _\- 1 Void Feather_
 
 Picture of a Crafting Bench
 
@@ -42,6 +43,12 @@ Picture of a Crafting Bench
 -   **Fishing Rod** - 2 Stick, 1 Fiber
 -   **[Repair Kit](Repair_Kit.md)** - 3 Wood, 3 Iron
 -   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal
+-   **Flask of Strength** - _2 Hellfire Louts_
+-   **Flask of Fortitude -** _2 Empyrean Lotus_
+-   **Flask of Agility** - _2 Zephyr Lotus_
+-   **Flask of Intelligence** - _2 Brilliant Lotus_
+-   **Flask of Willpower** - _2 Skyvalor Lotus_
+-   **Flask of Charism**a - _2 Miasmic Lotus_
 
 ## Food Recipes
 
@@ -67,6 +74,9 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[G\] [Redd Juice](Food.md)** - _3 Redd_
 -   **\[V\] [Fruit Salad](Food.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Food.md)** - _1 Fishmeat, 1 Seaweed Bundle_
+-   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
+-   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
+-   **\[?\] [Krysdog](Food.md)** - _1 Bread, 1 Frozen Membrane, 1 Ongo_
 
 ### _Campfire Recipes_
 

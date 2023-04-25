@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 60583
+revid: 61005
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -11,6 +11,17 @@ notices:
 # First Layer
 
 Template:Location2
+
+  
+_"I shook and reeled into the sands,_
+
+_as all drowned into cacophony,_
+
+_yet the Song, with pitch no further-_
+
+_spoke my name at zero hour."_
+
+\- Anonymous Wanderer
 
 ## Overview
 

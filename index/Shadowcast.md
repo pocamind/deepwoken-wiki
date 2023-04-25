@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 60898
+revid: 61020
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -30,15 +30,15 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
 ### **Combat**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 | 
  | 
 
 Dark Blade  
 (☆☆☆)
 
- | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
+ | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
 -   Adding 1 Tornado Spark adds a spinning effect after the cuts.
 
@@ -50,7 +50,7 @@ Dark Blade
 Shadow Gun  
 (☆☆☆)
 
- | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
+ | An awful blast of dark energy. | 20 Ether | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
 -   Adding 1 Blast Spark will make your Shadow Gun a barrage.
 -   Adding Lenses will increase the range forward
@@ -66,7 +66,7 @@ For anyone confused, Lenses make it go farther forward and cloudstones and strat
 Clutching Shadow  
 (☆☆☆)
 
- | A shadowy hand. | Chokes enemies in a radius, and slams them down. Targeted enemies are marked with a red glow, and when landed the mantra replenish ether equal to the cost. Blockable. |
+ | A shadowy hand. | 50 Ether | Chokes enemies in a radius, and slams them down. Targeted enemies are marked with a red glow, and when landed the mantra replenish ether equal to the cost. Blockable. |
 | 
 
  | 
@@ -74,7 +74,7 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | The user makes a swipe with their right hand before conjuring a portal which launches chains towards the cursor's position. The mantra drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
+ | Chains of shadow. | 15 Ether | The user makes a swipe with their right hand before conjuring a portal which launches chains towards the cursor's position. The mantra drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
 | 
 
  | 
@@ -82,7 +82,7 @@ Shadow Chains
 Shadow Eruption  
 (★☆☆)
 
- | Form a shockwave of darkness. | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
+ | Form a shockwave of darkness. | 50 Ether | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
 -   Unaffected by Glass & Magnifying Stones.
 
@@ -92,7 +92,7 @@ Shadow Eruption
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
+ | Call forth the void to track your opponents. | 60 Ether | The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase
 
 nearby opponents until the duration has expired or the orb has made contact with the target. Orbs
 
@@ -112,7 +112,7 @@ do a small amount of damage and steal a large amount of ether.
 Encircle  
 (★☆☆)
 
- | Conjure shadows around your enemy before warp-striking to them. | The user will summon shadows around their target and teleport to them after a short wait.
+ | Conjure shadows around your enemy before warp-striking to them. | 150 Ether | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. This can be combo'ed with an aerial attack just before the teleport.
 
@@ -125,7 +125,7 @@ Shadow Roar
 
 (★★☆)
 
- | Roar a wave of shadows. | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit. |
+ | Roar a wave of shadows. | 50 Ether | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit. |
 | 
 
 File:Seekers.gif
@@ -135,7 +135,7 @@ File:Seekers.gif
 Rising Shadow  
 (★★☆)
 
- | Form a Shockwave of darkness. | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
+ | Form a Shockwave of darkness. | 50 Ether | User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting
 
 with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
@@ -150,7 +150,7 @@ with an enemy, they will be lifted into the air and smashed into the ground, dea
 Shadow Meteors  
 (★★☆)
 
- | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
+ | Hail down meteors of darkness. | 65 Ether | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
 
 -   Shards make the meteors significantly faster.
 -   Shares a cooldown with Shadow Seekers.
@@ -163,7 +163,7 @@ Shadow Meteors
 Shade Bringer  
 (★★★)
 
- | Temporarily summon a shadow greatsword for a large slash. | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+ | Temporarily summon a shadow greatsword for a large slash. | 50 Ether | User creates a large black sword from their hands, using it to slash the enemy in front of them.
 
 -   Adding 1 spring spark will instead lunge you forward and slam down on the enemy.
     
@@ -182,7 +182,7 @@ It should be noted that you can combine 2 of these sparks together
 Eclipse Kick  
 (★★★)
 
- | Show your foes your strength. | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
+ | Show your foes your strength. | 35 Ether | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
 
 -   Requires 20 Strength and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
@@ -191,11 +191,18 @@ Eclipse Kick
 -   If a [Multiplying Spark](Mantra_Modifiers.md) is added do more of an upper kick that dramatically decreases the striking power and windup upon casting, as well as applying daze; Hotkey can be pressed again to preform normal Eclipse Kick
 
  |
+| 
+
+ | Shadow Vortex
+
+(★★★)
+
+ | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The mantra doesn't combat tag and has no vertical range cap. |
 
 ### **Support**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 | 
 File:ShadowDevour.gif
 
@@ -204,7 +211,7 @@ File:ShadowDevour.gif
 Shade Devour  
 (★☆☆)
 
- | Gorge on your own health for raw strength | Causes a damaging shockwave, adds a +20% weapon damage buff to the user, consumes health upon use.
+ | Gorge on your own health for raw strength | 55 Ether | Causes a damaging shockwave, adds a +20% weapon damage buff to the user, consumes health upon use.
 
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
@@ -214,13 +221,13 @@ Shade Devour
 
 ### **Mobility**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
+ | A rush of darkness. | 50 Ether | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
 
