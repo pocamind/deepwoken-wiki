@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 61014
+revid: 61024
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -32,7 +32,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 
 File:Image 2023-04-16 125111912.png
 
-The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable by killing a Crimson [Megalodaunt](Megalodaunt.md). Although the drop is very rare, it does have a bit of value. It has a unique critical that rains down flaming swords from the sky, identical to the Crimson Megalodaunt's Pyroclastic Roar, as well as it's own set of animations.
+The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable by killing a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt). Although the drop is very rare, it does have a bit of value. It has a unique critical that rains down flaming swords from the sky, identical to the Crimson Megalodaunt's Pyroclastic Roar, as well as it's own set of animations.
 
 ## Trivia
 

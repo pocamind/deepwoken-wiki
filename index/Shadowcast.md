@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 61020
+revid: 61025
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -197,7 +197,11 @@ Eclipse Kick
 
 (★★★)
 
- | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The mantra doesn't combat tag and has no vertical range cap. |
+ | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The mantra doesn't combat tag and has no vertical range cap.
+
+Firing shadow gun at this causes it to explode, dealing extra damage
+
+ |
 
 ### **Support**
 
