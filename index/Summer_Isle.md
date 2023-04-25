@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 60513
+revid: 61035
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -139,7 +139,7 @@ You will be given two quest dialogue options after answering why you're meeting 
 
 #### _**Jarvis**_
 
-Jarvis is a unique NPC in the Etrean Luminant. He will allow you to smelt two items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
+Jarvis is a unique NPC in the East Luminant. He will allow you to smelt two items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
 -   It costs 1000 Notes per smelt, regardless of the items being smelted.
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
