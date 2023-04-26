@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 57597
+revid: 61051
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

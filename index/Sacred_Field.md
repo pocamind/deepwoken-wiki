@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 60987
+revid: 61052
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -49,7 +49,6 @@ When obtained, Sacred Field will spend its points on the following stats:
 
 ## Trivia/Notes
 
--   **Sacred Field** looks similar to _"JoJo's Bizarre Adventure"_ character, _Funny's Valentine's_ **"Dirty Deeds Done Dirt Cheap: Love Train"** ability.
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
 -   When in a fight, using this next to a healing station will allow you to out heal damage. This most to only applies to Physical resist fields though.
 -   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party.

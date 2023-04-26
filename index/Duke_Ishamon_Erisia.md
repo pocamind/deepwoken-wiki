@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 60889
+revid: 61055
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -68,7 +68,7 @@ just to hit them.
 After this attack he will use his fists for around 30 seconds.
 
  | ◯ | ✗ | ◯ | (★★★) |
-| **Summon Mindless Servants** | The Duke snaps his fingers, summoning 3 mindless servants from the pods around the boss room.
+| **Summon Mindless Servants** | The Duke snaps his fingers, summoning 2-3 mindless servants from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat.
 
