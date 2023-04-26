@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 61019
+revid: 61065
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -609,7 +609,10 @@ File:Vamparism shield.png
     -   Stormbreaker is most likely based on the Hammer wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
     -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
-    -   Curse of The No Life King is likely a reference to _Alucard_ from _Hellsing. (He has been called multiple times a Miserable No-life King, also, his powers and abilities match alot to this enchant (Strong Regeneration.)_
+    -   Curse of The No Life King is a reference to Enad George "The No Life King" from _Fantasy of Grimgar and Ash_
+        
+        Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
+        
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.

@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 48095
+revid: 61069
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -21,6 +21,6 @@ Enchanted items and Legendary items can be passed down with the cost of 100 [Ech
 There are a few items that the Hippocampal Pool will not accept, meaning they will be lost permanently upon starting your next character. These are:
 
 -   [Ingredients](Ingredients.md)
--   [Mantra modifiers](Mantra_Modifiers.md)
+-   [Mantra modifiers](Mantra_Modifiers.md) (some mantra ingredients _can_ be passed down such as [crystal lense](Mantra_Modifiers.md) or [aeon longstone](Mantra_Modifiers.md) which have been tested)
 -   [Training items](Training_Gear.md)
 -   [Food](Food.md)

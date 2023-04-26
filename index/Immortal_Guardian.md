@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 61056
+revid: 61066
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -8,9 +8,9 @@ categories: [Monsters, Enemies that can wield Enchantments]
 
 # Immortal Guardian
 
-“ Rag is pursuing new research. He claims what Arch is cooking is the missing piece, a weapon to surpass Metal Gear. ”
+“ INFERIOR. ”
 
-― The dev team making Immortal Guardians
+― Immortal Guardian
 
 **Normal:**
 
