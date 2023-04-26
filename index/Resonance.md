@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 60994
+revid: 61079
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -133,11 +133,11 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 
 -   **[The Duke](Duke_Ishamon_Erisia.md)** gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.
 
--   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot from his fight as well, but for most, the Progress is more worth it. **Side: The Ferryman now provides Knowledge. See [more](Knowledge.md)**
+-   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot from his fight as well, but for most, the Progress is more worth it. **Side: The Ferryman now provides Knowledge. See [more](Knowledge.md). MUST READ: HE HAS BEEN KNOW TO NOT GIVE PROGRESS SOMETIMES (Bug)**
 
 -   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur.md)** murmur if you do not already have a murmur. _**Do not fight him if you intend to get [Tacet](Murmur.md) or [Rhythm](Murmur.md).**_
 
--   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md)**  
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md).**  
     
 -   **[The Enforcer](Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wipe from disconnect or being jumped in your trial is still a very real possibility.  
     

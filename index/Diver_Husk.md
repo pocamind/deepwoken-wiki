@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 57831
+revid: 61087
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -19,6 +19,7 @@ Template:EnemyInfobox1.0
 Diver Husks are a enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms.
 
 -   Diver Husk numbers can vary; either solo or in a group of three.
+-   They are refered to as: Zombies, Mudskippers, Carb-Uncles Children and Carbuncle's 2
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 60456
+revid: 61084
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Items]
@@ -12,7 +12,7 @@ categories: [Character, Items]
 |---|---|
 | type | Arms |
 | rarity | Legendary |
-| selling price | Unknown |
+| selling price | 105 |
 | requirements | Power 10, 5 Fortitude |
 | weight | 2 |
 | innate stats | 10 Health, 1 Posture, 3 Pips (All guaranteed to be legendary) |
@@ -32,3 +32,6 @@ The Diver's Light Plate is an equipment item in the arms category. Equipping it 
 
 -   Easily the best arms equipment in the game due to all the Pips being legendary.
 -   Cannot be dropped.
+-   Can drop even without involvement (No Kills) during Hell Mode.
+-   If you have trouble killing mobs, you can just wait till Hell Mode is over. But it isnt guaranteed so server hoping may be required.
+-   Can be passed down for 100 Echos (Not Confirmed but i will if i get wiped)
