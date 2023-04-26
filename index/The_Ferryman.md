@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 60955
+revid: 61060
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -17,7 +17,7 @@ DANCE, puppet, dance! Dance if you can!
 The flames have called the Ferryman!  
 ”
 
-― The Ferrymans theme.
+― The Ferryman's theme.
 
 Template:Creature Infobox V3
 
