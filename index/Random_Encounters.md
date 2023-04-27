@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 60602
+revid: 61114
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -199,17 +199,25 @@ One in the [Hidden Village](The_Hidden_Village.md).
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an Etrean Naval Guard. Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-#### **Tower in the Water**
+#### **Blacksteel Pirate Tower**
 
 A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give an Erisia tier chest on top of the tower. Then, you wait for the tower to sink down and another Erisia tier chest will spawn.
 
 #### **Traveling Merchant**
 
-A light-blue Merchant Schooner can spawn in the seas _(recently discovered in [Aratel](The_Aratel_Sea.md))_, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more.
+A light-blue Merchant Schooner can spawn in the seas _(recently discovered in [Aratel](The_Aratel_Sea.md))_, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more. They can also be found in the [Etrean Sea.](The_Etrean_Sea.md)
 
 #### **Divers vs Monster**
 
 One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
+
+#### Knifes Of Eylis VS Etrean Naval Guards
+
+File:KnifesvsEtreaEvent.png
+
+The 2 ships from a far away view.
+
+There will be 2 large ships, both on fire and a wooden bridge connecting both. 4 [Knifes of Eylis](Knife_of_Eylis.md) will spawn on one ship, and 4 Etrean Naval Guards will spawn on the other. The 2 sides will slowly advance towards each other and fight on the 2 ships. Gripping Etrean Naval Guards will result in you getting good reputation with the [Knifes of Eylis.](Origins.md) Gripping Knifes will grant you good reputation with [Etrea.](Etrea.md) This event randomly (and quite rarely) occurs in the [Etrean Sea](The_Etrean_Sea.md). Because of the unpopularity of this event, there is not alot of known footage. This event drops a chest in the lower deck of one of the ships, containing typical [Erisia](Erisia.md) loot. This is also the **ONLY** event in which you can increase your reputation with the Knifes of Eylis.
 
 ## Unique Events
 

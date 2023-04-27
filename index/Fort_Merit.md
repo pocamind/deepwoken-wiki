@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 58872
+revid: 61121
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -21,7 +21,7 @@ Template:Areainfobox
 
 ## Overview
 
-Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
+Fort Merit is an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Hostages](Etrean_Guardsman_Hostage.md) and Hostage Gremorian Nomads can be found in the cells of Fort Merit.
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 
@@ -34,7 +34,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 ### Prison
 
--   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier, as well as the [Shrine of Temptation](Deep_Shrines.md).
+-   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier, as well as the [Shrine of Chance](Deep_Shrines.md).
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   The [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in an office in the prison.
 -   Potential to find [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and [Navaen Nomad](Navaen_Hostage.md) hostages.
@@ -44,7 +44,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 ### **The Etrean Guardmaster** **(Rescue Quest)**
 
 -   At the wooden elevator, there is a stairway. Upon following it and going forward you will find the Etrean Guardmaster on a boat. Talk to them to start the quest.
--   Pick up the Etrean hostages within the prison and talk to the Guardmaster while carrying them.
+-   Pick up the [Etrean hostages](Etrean_Guardsman_Hostage.md) within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing great gear and loot.
 -   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
 
@@ -61,6 +61,10 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 -   Talk to Brutus, this will result in Brutus damaging you until you are knocked granting you Fortitude Unbound card. (As a result, you can be easily gripped, best to come with a companion)
 
 For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk).
+
+### [Beiruul](Beiruul.md)
+
+-   An NPC
 
 ## Rep Resets
 

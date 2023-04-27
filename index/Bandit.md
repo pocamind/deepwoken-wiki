@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 60547
+revid: 61115
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -43,5 +43,5 @@ A Bandit executes the player after knocking them:
 
 ## Trivia
 
--   They have turned to a life of crime due to the war in the East, causing jobs to become scarce.
--   Check your ping before fighting one of them or you could die easily.
+-   Lore wise, they have turned to a life of crime due to the war in the East, causing jobs to become scarce.
+-   Dagger bandits are notoriously known for killing new, inexperienced players.
