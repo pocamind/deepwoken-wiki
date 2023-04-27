@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61053
+revid: 61126
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -748,8 +748,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 40 Fortitude.
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
-    -   Drink potions faster.
-    -   Prerequisites: Drank potion, 30 Intelligence, 10 Fortitude **or** Willpower
+    -   Drink potions faster. (~0.5 seconds faster)
+    -   Prerequisites: Drank potion, 15 Fortitude, 15 Willpower
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude

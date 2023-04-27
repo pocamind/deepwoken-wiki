@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 61121
+revid: 61129
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -64,7 +64,10 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 ### [Beiruul](Beiruul.md)
 
--   An NPC
+-   A [Gremor](Gremor.md) who hails from the Children of Navae, and hates the Authority.
+-   Talking to her and clicking dialogue "1" the entire conversation, she tells you to meet at the entrance of Fort Merit.
+-   You (With the assistance of her) have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
+-   After you get the small chest, the event is finished. (She will continue on into Fort Merit, killing until she gets knocked)
 
 ## Rep Resets
 
@@ -169,3 +172,4 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
 -   Right now it doesnt have too much importance apart from grinding exp and items from the etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
+-   Fort Merit can be an excellent place to farm early levels if you have good skills.

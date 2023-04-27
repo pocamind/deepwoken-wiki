@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 61114
+revid: 61124
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -209,7 +209,7 @@ A light-blue Merchant Schooner can spawn in the seas _(recently discovered in [A
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (in the ocean, without ships) very rarely, though it was probably a bug that was shadow-patched.
 
 #### Knifes Of Eylis VS Etrean Naval Guards
 
