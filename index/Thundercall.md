@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 60909
+revid: 61137
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -39,13 +39,13 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 
 ### **Combat Mantras**
 
-| Media | Name | Card Description | Effect | Stats |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect | Stats |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Blade  
 (☆☆☆)
 
- | Arcing blades of electricity. | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
+ | Arcing blades of electricity. | 50 Ether | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
 
 -   Can be upgraded with a Magnet Spark, which makes the mantra perform a third teleporting slash. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
@@ -65,7 +65,7 @@ Modifiers:
 Jolt Grab  
 (☆☆☆)
 
- | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
+ | An electrified chokehold. | 60 Ether | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
 
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown frames.
 
@@ -83,13 +83,13 @@ Modifiers:
 Electro Carve  
 (☆☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
+ | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Creates a yellow orb in front of the user.
 
 -   Shocks opponents inside of it while dealing damage.
 
  | Damage:
 
-Cooldown:
+Cooldown: 10 Seconds
 
 Properties:
 
@@ -101,14 +101,14 @@ Modifiers:
 Lightning Beam  
 (☆☆☆)
 
- | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
+ | Fire a beam of lightning. | 50 Ether | Sends out a straight beam of lightning forwards from your chest.
 
 -   With the Shocking Finish talent, Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteed hit after flourish.
 -   Appears after a second of casting.
 
  | Damage:
 
-Cooldown:
+Cooldown: 10 Seconds
 
 Properties:
 
@@ -120,7 +120,7 @@ Modifiers:
 Lightning Impact  
 (★☆☆)
 
- | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
+ | Slam those under you with a lightning empowered kick. | 80 Ether | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
 -   Can be upgraded with the Rains of Static talent, which makes the user rain down bolts of thunder from the air with the follow-up impact.
 -   Can light opponents and the player on fire.
@@ -141,7 +141,7 @@ Modifiers:
 Lightning Clones  
 (★☆☆)
 
- | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
+ | Replicated forms of yourself conjured from electricity. | 60 Ether | Summons one clone besides you and strikes enemies once before disappearing.
 
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply an electric shockwave that affects all near it.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to make a second clone.
@@ -150,7 +150,7 @@ Lightning Clones
 
  | Damage:
 
-Cooldown:
+Cooldown: 15 Seconds
 
 Properties:
 
@@ -164,7 +164,7 @@ Aeon Logstone
 Lightning Strike  
 (★☆☆)
 
- | A strike of thunder at your desired location. | Caster waves their arm, summoning bolts of lightning.
+ | A strike of thunder at your desired location. | 50 Ether | Caster waves their arm, summoning bolts of lightning.
 
 -   Lightning strikes where the user's cursor is pointing.
 -   Deals _possibly light_ damage.
@@ -173,7 +173,7 @@ Lightning Strike
 
  | Damage:
 
-Cooldown:
+Cooldown: 10 Seconds
 
 Properties:
 
@@ -185,13 +185,13 @@ Modifiers:
 Thunder Kick  
 (★☆☆)
 
- | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
+ | An unrelenting kick like a clap of thunder. | 60 Ether | User heavily kicks forward.
 
 -   This can be upgraded with the Talent, Volt Kick, which allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning the talent will not activate if they block, dodge, or parry it.
 
  | Damage:
 
-Cooldown:
+Cooldown: 8 Seconds
 
 Properties:
 
@@ -203,7 +203,7 @@ Modifiers:
 Storm Blades  
 (★☆☆)
 
- | Conjure weapons of thunder with your ether. | User creates blades of lightning that explode in front of them.
+ | Conjure weapons of thunder with your ether. | 45 Ether | User creates blades of lightning that explode in front of them.
 
 -   Deals light damage.
 -   Has a short delay before exploding.
@@ -211,7 +211,7 @@ Storm Blades
 
  | Damage:
 
-Cooldown:
+Cooldown: 12 Seconds
 
 Properties:
 
@@ -223,7 +223,7 @@ Modifiers:
 Grand Javelin  
 (★★☆)
 
- | A javelin made out of lightning. | User throws a spear of lightning in front of them.
+ | A javelin made out of lightning. |  | User throws a spear of lightning in front of them.
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
@@ -243,7 +243,7 @@ Modifiers:
 Bolt Piercer  
 (★★☆)
 
- | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
+ | An arrow of lighting. |  | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Self Damaging
@@ -264,7 +264,7 @@ Rising Thunder
 
 (★★★)
 
- | Rise up with your opponent and crash down as a bolt of lightning | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
+ | Rise up with your opponent and crash down as a bolt of lightning |  | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
 
 -   Hyper Armor
 -   Short windup and completely safeguards user when landed
@@ -283,20 +283,20 @@ Modifiers:
 
 ### **Support Mantras**
 
-| Media | Name | Card Description | Effect | Stats |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect | Stats |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Stream  
 (★☆☆)
 
- | A stream of lightning. | Grapples onto an enemy and pulls them in.
+ | A stream of lightning. | 50 Ether | Grapples onto an enemy and pulls them in.
 
 -   Stuns the opponent, allowing a small chance to begin a combo.
 -   Can be upgraded with a Blast Spark to deal extra damage and stop enemies but no longer pull them towards you.
 
  | Damage:
 
-Cooldown:
+Cooldown: 15 Seconds
 
 Properties:
 
@@ -313,7 +313,7 @@ Spark Swap
   
 (outdated video)
 
- | Swap positions with another humanoid.
+ |  | Swap positions with another humanoid.
 
 -   This can be used on NPCs or players.
 -   Estimated 300 - 350 Stud Range
@@ -332,13 +332,13 @@ Modifiers:
 
 ### **Mobility Mantras**
 
-| Media | Name | Card Description | Effect | Stats |
-| --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect | Stats |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
+ | A rush of lightning. |  | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be upgraded with Cloudstones.
@@ -360,7 +360,7 @@ Modifiers:
 Lightning Cloak  
 (★★★)
 
- | A cloak of lightning | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A cloak of lightning |  | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)

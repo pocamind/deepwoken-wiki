@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 61118
+revid: 61138
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,4 +22,4 @@ Just like Navae Hostages, they can be knocked as usual and carried with the "V" 
 
 ### Use:
 
-Bringing an Etrean guard to the [Etrean Guardmaster](Fort_Merit.md) after talking to him will reward you with a handful of XP and a small, typical [Fort Merit](Fort_Merit.md) loot, with a small chance of enchants. After you submit a second Etrean Hostage, the guard master will tell you that the boat is full, and you have to wait for about 8 minutes for the boat to be empty again, and you can redo the quest. While this may give good rewards, it will lower your reputation with [the Central Authority.](The_Central_Authority.md) So during that 8 minutes, except Authority guards to attack you, and get ready to defend yourself. A high risk, high reward quest.
+Bringing an Etrean guard to the [Etrean Guardmaster](Fort_Merit.md) after talking to him will reward you with a handful of XP and a small, typical [Fort Merit](Fort_Merit.md) loot, with a small chance of enchants. After you submit a second Etrean Hostage, the guard master will tell you that the boat is full, and you have to wait for about 8 minutes for the boat to be empty again, and you can redo the quest. While this may give good rewards, it will lower your reputation with [the Central Authority.](The_Central_Authority.md) So during that 8 minutes, Authority guards to attack you, and get ready to defend yourself. A high risk, high reward quest.

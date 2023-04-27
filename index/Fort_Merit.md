@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 61129
+revid: 61134
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -165,7 +165,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 -   Not a great location to set your spawn point at.
 -   A great location to farm EXP and items.
--   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to the [Etrean Wilds](Etrean_Wilds.md) is possible.
+-   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to the Nomad camp in Meteor Isle is possible
 -   The Isle of Crows was mentioned by an NPC here, possibly a removed island.
     -   The NPC was later removed in shadow updates.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
