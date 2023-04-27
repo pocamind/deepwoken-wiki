@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 60516
+revid: 61090
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, The Depths, Layer 2, Floor 2]
@@ -69,6 +69,10 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 -   [Miserables](Misérables.md)
 -   Cap'n Orlandeau
 
+## Lore
+
+Second Floor is the deepest point of the Eternal Gale. You can find here New Kyrsa, the Sleeping City, an ancient city built by Kyrsgarde race to contain Scion of Ethiron asleep. Kyrsgarde race is different from human race. Kyrsgarde are intelligent creatures, able to talk and consciously think, same as human race. They built New Kyrsa as a "shrine" and "bedroom" to Scion of Ethiron. Long time ago Kyrsgarde experimented with Avatar (Scion of Ethiron), but they didn't know where it would lead. It made Ethiron draw even closer, and then wave of "mist" engulfed the city. "Mist" is actually a hypnosis, created by Ethiron to protect his Avatar. When Ethiron drew even closer to New Kyrsa, he created this mist to get control over every living creature within its scope, and now any creature who got affected by mist obey Ethiron and lost their actual minds. Kyrsgarde inside New Kyrsa and some of Black Divers here are affected by it. Naerotiv and Kyrsgarde in Firfire were too far from this wave, so they didn't got affected by mist presence. Naerotiv tells you about New Kyrsa, how they tried to complete "the Ninth Blessing", and if we won't stop Scion of Ethiron from awakening, Ethiron, the Eye of Calamity will wake up and world will die. Scion of Ethiron, or Avatar acts as a shrine. If one of Avatars wakes up, Ethiron will wake up too. Naerotiv tells us that we should complete this ritual and seal Avatar. New Kyrsa has an artifact with unstable song in it, the big purple sphere. When all 5 obelisks are activated, artifact releases unstable Song and primary collapses stop. The reason why collapses even exist is that Ethiron causes them by his presence near to New Kyrsa. When we defeat one of his Avatars, he releases compressed unstable gale (pure Song) from his body. Second Layer becames too charged with the Song, and it destabilizes. Another Space-time collapse happens. After this collapse, whole Second Layer resets.
+
   
 
   
@@ -78,7 +82,7 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 -   New Kyrsa exists in infinite amount of realities at the same time, and every human stuck here is doomed to stay here forever and suffer from Space-time collapse.
 -   Kyrsgarde in New Kyrsa are affected by some sort of hypnosis. Their minds are under hypnosis from Ethiron, the Eye of Calamity, and they're here to protect Scion of Ethiron and let him grow. Naerotiv and Kyrsgarde in Firfire aren't affected by this hypnosis for some reason, and we can discover from Naerotiv that we must "seal" (kill) [Scion of Ethiron](Scion_of_Ethiron.md) or the world will be under a large threat.
     -   Ironically, this won't happen, because New Kyrsa is stuck in a time cycle, where Scion of Ethiron can't grow enough to create this threat.
-    -   The 45 minute time limit is in place because New Kyrsa suffers under time dilation. It's also called Space-time collapse, and the reason why it exists is unknown.
+    -   The 45 minute time limit is in place because New Kyrsa suffers under time dilation. It's also called Space-time collapse.
     -   It seems like you can find some people who have lost their minds and gone insane from infinite amount of time resets.
 -   Some of Black Divers in New Kyrsa are affected by this "Ethiron's hypnosis", actually named "Mist Presence". Some of them are located near one of five Obelisks. They all wield Markor's Inheritor.
 -   Contrary to popular belief, New Kyrsa didn't sink into the Depths. It was actually made inside the Depths by Kyrsgarde. New Kyrsa does not match human standards at all, not to mention the fact that Spellhardt and Naerotiv talks about it. Firfire also has the same technology and the fact entering Firfire makes you quote "seem familiar but very alien". New Kyrsa was made as shrine and bedchamber to Scion of Ethiron.

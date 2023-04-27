@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 56303
+revid: 61108
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,11 +33,7 @@ Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the
 
 ### _**Resonance Point usage**_
 
-When obtained, Blood Scourge will spend its points on the following stats:
-
--   **Thrown:** If this stat is used, the player will launch a projectile ahead that then summon the AOE to grip entities.
--   **Range:** The more points are spent on this stat, the further the range of the AOE becomes.
--   **Healing:** The more points are spent on this stat, the more health is given per grips.
+When obtained, Ber grips.
 
 ## Trivia/Notes
 

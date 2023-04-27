@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 61084
+revid: 61105
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Items]
@@ -34,4 +34,3 @@ The Diver's Light Plate is an equipment item in the arms category. Equipping it 
 -   Cannot be dropped.
 -   Can drop even without involvement (No Kills) during Hell Mode.
 -   If you have trouble killing mobs, you can just wait till Hell Mode is over. But it isnt guaranteed so server hoping may be required.
--   Can be passed down for 100 Echos (Not Confirmed but i will if i get wiped)

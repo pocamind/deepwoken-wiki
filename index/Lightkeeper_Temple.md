@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 59834
+revid: 61099
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -16,8 +16,7 @@ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoul
 
 File:Изображение 2022-08-25 151516857.png
 
-Lightkeeper Temple shrine
-
+  
 **NOTE:** **IF YOU CAME HERE TO WASH YOUR FACE, GO LEFT WHEN YOU GET HERE. GOING RIGHT WILL LEAD YOU TO A KING THRESHER.**
 
 ## Overview

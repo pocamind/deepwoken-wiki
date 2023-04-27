@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 58248
+revid: 61098
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -14,7 +14,7 @@ notices:
 
 ## Description
 
-Sailing is a crucial part to Deepwoken, ~you cannot cross the sea without a [boat](Ships_&_Sailing.md)~ Not technically true as you can swim (assuming you have enough food) or use some mantra's. The sea has many threats, including Whirlpools, Lionfish, Giant Sea Dragons (commonly referred to as "Kaido's") and the Eternal Void.
+Sailing is a crucial part to Deepwoken, ~you cannot cross the sea without a [boat](Ships_&_Sailing.md)~ Not technically true as you can swim (assuming you have enough food) or use some mantras such as Ice Skate. The sea has many threats, including Whirlpools, Lionfish, Dread Serpents (commonly referred to as "Kaido's") and the Voidsea.
 
 ## Sailing the High Seas
 

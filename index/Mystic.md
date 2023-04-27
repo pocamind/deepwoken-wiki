@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 61037
+revid: 61089
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -98,6 +98,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I fight to preserve my way. **(Justicar)**_
 -   _I do not need a weapon. **(Brawler)**_
 -   _I always shoot first. **(Gunslinger) (Note; Cannot give True Ether Bullets, Armor Piercing)**_
+-   _I am a master with my hands._ _**(Bruiser)**_
 
 ### Miscellaneous
 
