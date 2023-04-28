@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 52301
+revid: 61145
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -59,6 +59,7 @@ Apparently, there is a crucified Celestial in a secret room inside the church lo
 ## Trivia
 
 -   Celestials can be seen referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
+-   Ku is the only Celestial present in the game (as pictured below) She is in the Derelict Highchurch
 
 ## Gallery
 

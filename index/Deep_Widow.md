@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 60166
+revid: 61143
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -78,6 +78,6 @@ The Item Pool goes as follows
 -   Light Weapons:
     -   [Legion Cestus](Legion_Cestus.md), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Apprentice Rapier](Apprentice_Rapier.md), [Gilded Knife](Gilded_Knife.md), [Whaling Knife](Whaling_Knife.md), and [Flamekeeper Cestus](Flamekeeper_Cestus.md).
 -   Medium Weapon:
-    -   [Trident Spear](Trident_Spear.md), [Serpent's Edge](<Serpent's_Edge.md>), [Rifle Spear](Rifle_Spear.md), [Vigil Longsword](Vigil_Longsword.md), [Falchion](Falchion.md), [Scimitar](Scimitar.md), [Worshipper Longsword](Worshipper_Longsword.md), [Gremorian Longspear](Gremorian_Longspear.md), [Cavalry Saber](Cavalry_Saber.md), [Shattered Katana](Shattered_Katana.md), and [Katana](Katana.md).
+    -   [Trident Spear](Trident_Spear.md), [Serpent's Edge](<Serpent's_Edge.md>), [Rifle Spear](Rifle_Spear.md), [Vigil Longsword](Vigil_Longsword.md), [Falchion](Falchion.md), [Scimitar](Scimitar.md), [Worshipper Longsword](Worshipper_Longsword.md), [Gremorian Longspear](Gremorian_Longspear.md), [Cavalry Saber](Cavalry_Saber.md), [Shattered Katana](Shattered_Katana.md), [Katana](Katana.md), and [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   Heavy Weapons:
     -   [Halberd](Halberd.md), [Pale Morning](Pale_Morning.md), [Forge Greathammer](Forge_Greathammer.md), [Canorian Axe](Canorian_Axe.md), [Adretian Axe](Adretian_Axe.md), and [Darkalloy Greatsword](Darksteel_Greatsword.md).

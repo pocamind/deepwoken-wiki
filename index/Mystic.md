@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 61089
+revid: 61146
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -165,6 +165,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am a master of the winds. **(Aeromancer) (Note; Cannot give Aerogliding, Stifled Jump)**_
 -   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
+-   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
 
 ### Shadowcast
 
