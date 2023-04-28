@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 60443
+revid: 61157
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -46,6 +46,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Heroblade or Railblade, awarding 5 Echoes.
+-   Using an Enchantment Stone, awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.

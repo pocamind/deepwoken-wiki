@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 60528
+revid: 61155
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -67,11 +67,9 @@ This weapon has 3 (or 4 with a talent) passives abilities:
     -   Probably a reference to Lucy from Don't Starve
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
 -   Unable to be equipped by people with Oath: Contractor.
-    -   Users of the Contractor oath are unable to use the legendary axe Gran Sudaruska, due to the fact the woman who's soul occupies it hates the Ministry and it would just be... extremely ironic to use it.
+    -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
     -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
 
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
-
--   Sudaruska - is old russian very polite word that mean "woman".
