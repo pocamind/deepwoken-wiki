@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 60903
+revid: 61165
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -14,7 +14,7 @@ categories: [NPCs]
 
 Alirian, kneeling.
 
-**Alirian** is a [Celtor](Celtor.md) that wears a [Vigil Hood](Vigil_Hood.md) and an unconfirmed armor. She is a crucial step into unlocking [Jetstriker](Oath%253A_Jetstriker.md).
+**Alirian** is a [Celtor](Celtor.md) that wears a [Vigil Hood](Vigil_Hood.md) and an unconfirmed armor, appearing very similar to that of the [Windrunner](Windrunner.md). She is a crucial step into unlocking [Jetstriker](Oath%253A_Jetstriker.md).
 
 Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behind the bridge with [Ministry Scouts](Ministry_Scout.md) kneeling on a rock.
 
@@ -24,4 +24,4 @@ Upon reaching 50 [Agility](Attributes.md#agl), Alirian will challenge the player
 
 ## Trivia
 
-She can presumed to be a Vigil, given the Vigil Hood, and general connection to the winds.
+-   (please add trivia here)
