@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 59625
+revid: 61152
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -366,6 +366,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**21 Charisma** Mantra_
     -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers
     -   Disguises the user.
+    -   you can finally play prop hunt with voidwalkers in a way
 
  |
 
