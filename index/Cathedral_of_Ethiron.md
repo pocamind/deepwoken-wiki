@@ -1,6 +1,6 @@
 ---
 title: Cathedral of Ethiron
-revid: 60518
+revid: 61203
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ The once sacred hall reeks of decaying corpses and profane heresy.
 
 ## Overview
 
-The Cathedral of Ethiron is a landmark in the Maw of Ethiron. It is the final destination point of layer 2's first floor, and serves as the arena for Chaser's fight.
+The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiron.md). It is the final destination point of layer 2's first floor, and serves as the arena for Chaser's fight.
 
 ## Contents
 

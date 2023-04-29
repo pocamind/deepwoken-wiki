@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 60928
+revid: 61200
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -148,7 +148,7 @@ Please add miscellaneous islands or named landmarks here
     -   [Firfire Caverns](Firfire_Caverns.md)
 -   [Sanctuary Gatehouse](Sanctuary_Gatehouse.md)
 -   Frontier Furance
--   Maw of Ethiron
+-   [The Maw of Ethiron](The_Maw_of_Ethiron.md)
 -   [Pilgrim's Respite](<Pilgrim's_Respite.md>)
     
 
