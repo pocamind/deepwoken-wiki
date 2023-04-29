@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61179
+revid: 61226
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -82,7 +82,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   3 Second cooldown.
     -   Prerequisite: 15 Agility
 
--   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility)
+-   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affects your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
 
@@ -582,6 +582,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
     -   Prerequisites: 25 Strength, 15 Agility
+    -   Does not require a light weapon for some reason
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals true damage.
@@ -1697,6 +1698,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
+    -   You can still emote
     -   Prerequisite: 25 Agility, 5 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
@@ -1809,7 +1811,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Vigil Swordsman
 
--   Bear Trap \[Common Talent\] - Landing a hit with your critical makes you unable to jump for a duration. Also slows you. (+1 Passive Agility)
+-   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes them unable to jump for a duration and slows them. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Prerequisites: 20 Strength, 20 Agility
 

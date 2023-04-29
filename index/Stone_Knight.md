@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 60569
+revid: 61229
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,13 +8,13 @@ categories: [Monsters]
 
 # Stone Knight
 
+“ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
+
+― Celestial Telescope
+
 Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in via a meteor while the Desert Knights can spawn in manually or via a meteor.
 
 **Blizzard Knight:**
-
-“ You should come back here during winter. It's plenty of fun! ”
-
-― Aelita
 
 Template:Creature Info Box v2
 
@@ -27,10 +27,6 @@ They may only spawn in the area during the Winter [Season](Seasons.md). This wil
 Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
 
 **Desert Knight:**
-
-“ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
-
-― Celestial Telescope
 
 Template:Creature Info Box v2
 

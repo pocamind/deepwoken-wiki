@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 60677
+revid: 61222
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -15,9 +15,9 @@ categories: [Community, Death]
   
 Deepwoken's Death Compendium, a list of **every** possible death you can achieve in game.
 
--   Get gripped (executed) by a player or NPC, typically by pressing B.
+-   Getting gripped (executed) by a player or NPC, typically by pressing B.
 -   Be killed by a [monster](Monsters.md), such as being crushed by a [Megalodaunt](Megalodaunt.md) or being turned into a [Mudskipper](Mudskipper.md) by a [Nautilodaunt.](Nautilodaunt.md)
--   Drown.
+-   Drowning.
 -   Bleed to death.
 -   Burn to death.
 -   Fall from a high enough height that your entire health bar and then some is depleted, killing you instantly on impact with the ground/water.
@@ -25,16 +25,16 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
--   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
+-   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md) (Results in a Insta-grip)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell, turning your body into a shriveled husk.
 -   Die to [Soul Jar](Jar_of_Souls.md) bell, disintegrating your body with white flames.
 -   Enter the Lord Regent's Throne Room without an audience. This includes talking to him after completing - or failing - the quest.
--   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor.
+-   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor in [The Hive](The_Hive.md).
 -   Get skewered by a Grand Skewer-modified [Grand Javelin](Thundercall.md) at low enough health, from a [Legion Sniper](Legion_Sniper.md). Having too many people get hit by this will also auto-execute everyone.
 -   Explode. (Cannons, Detonation enchant, etc)
 -   Fail the parry check in the [Trial of One.](Trial_of_One.md)
 -   Be unable to keep up with [The Ferryman's](The_Ferryman.md) dance.
--   Get automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Galebreathe Mantras.
+-   Get automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many [Galebreathe](Galebreathe.md) Mantras.
 -   Get sucked clean of your blood by the overgrown magic mosquito that is [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Try to threaten [Akira](Akira.md) and fail to meet the Charisma requirement.
@@ -74,3 +74,4 @@ Death Causes listed by the game:
 -   An insidious parasite sewn by the Gale (Dying to parasites in Layer 2)
 -   The Eternal Gale (Death via bone'd by Scion of Ethiron)
 -   Space-time Collapse (Dying to the white orbs that spawn at the end of a Floor 2 run)
+-   The cold embrace of the sea

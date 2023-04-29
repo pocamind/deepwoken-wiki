@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 58122
+revid: 61237
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -41,6 +41,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 -   At the far right side of [Etris Docks](Etris.md).
     -   To specify, the right of someone going to the docks, not from the docks (away from the gate.)
 -   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
+    -   To specify, the left on someone going OUT of erisia.
 -   Going beyond north of [Minityrsa](Minityrsa.md) to the [Voidsea](Voidsea.md) where you can at least see two whirlpools.
 
 #### Eastern Luminant

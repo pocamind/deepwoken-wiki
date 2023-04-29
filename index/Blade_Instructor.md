@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 59361
+revid: 61228
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,7 +36,7 @@ An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](
 
 ## Finisher
 
-If a Instructor is the one that downs the player they will disappear and the player will receive all his/her health back, but still keep the blood loss, however if the person sparing is downed by other means the instructor will grip as normal.
+If the instructor is the one that downs the player they will disappear and the player will receive all of their health back, although they will not regain any blood. However, if the player is downed by any other means, the instructor will grip the player like any other NPC.
 
 | Name | Description |
 | --- | --- |
@@ -45,7 +45,7 @@ If a Instructor is the one that downs the player they will disappear and the pla
 ## Tips
 
 -   It's an instructor, he's meant for practicing skill.
--   Same skill level as a non dagger bandit leader, and does not wield any attaunments.
+-   Same skill level as a non dagger bandit leader, and does not wield any attunements.
 -   You can use the [Training Vest](Training_Gear.md) to train fortitude by letting him hit you. Most effective at early levels.
 -   You can basically train all your stats on him on early levels.
 -   Easily killed if you know how to parry.
