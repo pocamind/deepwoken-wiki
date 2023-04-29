@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 61065
+revid: 61178
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 **Enchantments** are rare and powerful upgrades for your equipment.
 
-## Acquirement
+## Acquirement Methods
 
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
@@ -27,15 +27,15 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
 
--   Enchanted items are not dropped on death
+-   Enchanted items cannot be on death.
 -   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
 -   Enchanted items appear as light purple in your inventory
--   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these, so they can be obtained via trading.
+-   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these making it somewhat obtainable but very rare to find. Although they can be obtained via trading.
     -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
 -   Weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
--   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
+-   Legendary weapons **cannot** be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
 
 ## Variants
 
@@ -585,11 +585,11 @@ Static flaming purple.
 -   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
--   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
+-   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
--   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
--   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
--   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
+-   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
+-   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
+-   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
 -   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 
@@ -606,7 +606,7 @@ File:Vamparism shield.png
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
-    -   Stormbreaker is most likely based on the Hammer wielded by Thor from _Avengers: Infinity War._
+    -   Stormbreaker is most likely based on the mythical Hammer wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
     -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
     -   Curse of The No Life King is a reference to Enad George "The No Life King" from _Fantasy of Grimgar and Ash_
@@ -616,7 +616,7 @@ File:Vamparism shield.png
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
--   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
+-   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shield's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
     

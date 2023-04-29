@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61126
+revid: 61179
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1821,6 +1821,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
+    -   Every other hit will deal bleed damage, and works with critical attacks as well.
     -   Prerequisite: 25 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)

@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 58875
+revid: 61184
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -16,15 +16,11 @@ The winds pick up - and so too do the rapids of this treacherous gorge.
 
   
 
-**Bluster Rift** is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md)
+File:Bluster Rift.png
 
 ## Overview
 
-File:Bluster Rift.png
-
-Bluster Rift
-
-The Bluster Rift is a location in _Deepwoken_. It is almost identical to the Starswept Valley.. The rivers that flow here will pull you downstream, making it quite difficult to traverse.
+The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md). It is almost identical to the Starswept Valley. The rivers that flow here will pull you downstream, making it quite difficult to traverse.
 
 ## Potential Enemies
 
