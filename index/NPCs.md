@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 61151
+revid: 61217
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -40,8 +40,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Friid](Attunement_Trainers.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
 | [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
 | Gild | Unaligned | The Depths, Varicosa District | None | Talks about the Celtors being forgotten to time |
-| [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, and is capable of causing emotional damage to your in-game character. | If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
-check the rest out for yourself.
+| [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
+Check the rest out for yourself
 
  |
 | Imel | [The Ministry](The_Ministry.md) | [Etrean Sea](The_Etrean_Sea.md), Statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
@@ -66,23 +66,19 @@ check the rest out for yourself.
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | Mercille | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |
-| [Misérables](Misérables.md) | Unaligned(?) | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the upcoming Boss, [Scion of Ethiron](Scion_of_Ethiron.md), or resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown. | These options come with a cost, killing you if paid short, usually ending in a wipe |
+| [Misérables](Misérables.md) | Unaligned(?) | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe |
 | [Nanji](Nanji.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Illji quest | Illji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
 | [Nell](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
 | [The Nestmind](The_Nestmind.md) | Unaligned |  | Grants [Oath: Visionshaper](Oaths.md) |  |
 | [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes, weapons and armor can be bought enchanted |
-| [Odiolavoro](Chef_Odiolavoro.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Become his "sous-chef" by helping him making meals. | Meals change. |
+| [Odiolavoro](Chef_Odiolavoro.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
   
 [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 
- | Teaches new players the basics of the game | Suprisingly found in Second Layer Floor 2.
-
-Gives different dialogue if you have the Castaway origin who has done the tutorial.
-
- |
+ | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
 | Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | Petris | Unaligned | [The Depths](The_Depths.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
 | Ploom | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
@@ -102,4 +98,4 @@ Gives different dialogue if you have the Castaway origin who has done the tutori
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |  |
 | [Windrunner](Windrunner.md) | Unaligned |  | Agility unbound |  |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](The_Depths.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
-| [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations. |
+| [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations |
