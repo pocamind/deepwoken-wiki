@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 61229
+revid: 61251
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

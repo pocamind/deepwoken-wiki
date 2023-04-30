@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61226
+revid: 61252
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -297,7 +297,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Brawler
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. (+3 Health)
-    -   If you have both Way of Navae of Legion Kata, you can press Y to easily swap between them instead of having to use the tool.
+    -   If you have both Way of Navae and Legion Kata, you can press Y to easily swap between them instead of having to use the tool.
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.

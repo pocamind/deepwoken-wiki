@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 52408
+revid: 61239
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -14,7 +14,7 @@ LocationL Meteor Isle LocationR
 
 TERRITORY OF The Children of Navae
 
-Remnant of the stars themselves rain down upon this rocky spire.
+Remnants of the stars themselves rain down upon this rocky spire.
 
   
 
