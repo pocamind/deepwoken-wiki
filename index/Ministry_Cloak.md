@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 60577
+revid: 61283
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -26,7 +26,7 @@ categories: [Character, Armors]
 
 ## Description
 
-The Ministry Cloak is an equipment item in the arms category. Equipping it grants you 5 Health, 10 Ether, and an unknown number of Pips. It is rarely found in chests from [Blizzard Knights](Stone_Knight.md). It effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
+The Ministry Cloak is an animated equipment item in the arms category. Equipping it grants you 5 Health, 10 Ether, and an unknown number of Pips. It is rarely found in chests from [Blizzard Knights](Stone_Knight.md). It effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
 
 ## Trivia
 

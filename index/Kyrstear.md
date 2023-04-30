@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 60840
+revid: 61277
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -32,7 +32,7 @@ categories: [Weapons, Verse 2]
 
 ## Description
 
-Kyrstear is an offhand weapon added in the [Verse 2](Verse_2.md) update. Despite the 40 agility requirement, it is used to be bugged to where the agility requirements weren't applying, but has been fixed.
+Kyrstear is an offhand weapon added in the [Verse 2](Verse_2.md) update. 40 agility is required to wield it.
 
 Its function is the same as that of the [Parry Dagger](Parrying_Dagger.md) (but better):
 
@@ -45,3 +45,4 @@ Its function is the same as that of the [Parry Dagger](Parrying_Dagger.md) (but 
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), **Kyrstear**, [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   One of two Parry Dagger type weapons.
 -   Seems to be paired with Kyrsedge.
+-   The weapon used to have a bug where the agility requirement did not apply. This has been fixed.
