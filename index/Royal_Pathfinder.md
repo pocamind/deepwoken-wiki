@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 59879
+revid: 61314
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Items]
@@ -12,28 +12,30 @@ categories: [Armors, Arms, Items]
 |---|---|
 | type | Arms |
 | rarity | Legendary |
-| selling price | ?? |
+| selling price | Unknown |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 6 HP |
+| innate stats | 6 Health, 3 Pips |
 | innate talent | Ready or Not |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley |
-| description | '"Lorem ipsum."' |
+| obtainment | Chests from:, Starswept Valley, Duke Erisia |
+| description | ... |
 
 “ The Notes. Hand it over. ”
 
-― Power 52 Royal Pathfinder Gremor to a freshie at Etris
+― Power 17 Royal Pathfinder Vesperian to a freshie at Etris
 
 ## Description
 
-The Royal Pathfinder is an Arms type of Armor that is found in chests from [Starswept Valley](The_Starswept_Valley.md). This armor requires a **Power Level** of **10** in order to equip. It grants you the innate talent _Ready or Not_, which cuts the damage of the first attack to hit you while out of combat in half.
-
-It's a decent equipment piece with a good innate stat, with one star effectively guaranteeing at least one legendary buff pip, but the [Glassdancer Wraps](Glassdancer_Wraps.md) are usually better for their innate stats, lack of a level requirement and better overall stat gains. (Glassdancer Wraps have 7 HP and 3 Posture for their inner stats)
+The Royal Pathfinder is an equipment item in the arms category. Equipping it grants you 6 Health, 3 Pips, and the [Talent](Talents.md) Ready or Not, which cuts the damage of the first attack that hits you while out of combat in half. It is commonly found in chests from [Starswept Valley](The_Starswept_Valley.md) and [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 
--   It has gained a reputation as one of the most hated equipment items in Deepwoken, due to most people who wear it being freshie gankers with meta builds.
+-   It has gained a reputation as one of the most hated equipment items in the game, due to people who wear it often being Metamancers that attack freshies[\[1\]](#cite-note-1).
+
+### Footnotes
+
+1.  [↑](#cite-ref-1) Term used to describe new players or freshly made characters.

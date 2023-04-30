@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 59797
+revid: 61301
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -78,7 +78,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Legion Cestus](Legion_Cestus.md) (Rare)
 -   [Katana](Katana.md) (Very rare)
 -   [Nemit's Sickle](<Nemit's_Sickle.md>) (Common)
--   [Hero Blades](Hero_Blades.md)
+-   [Hero Blades](Hero_Blades.md) (Guaranteed drop from Blizzard Knights)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (Rare)
 -   [Razor Cutlass](Razor_Cutlass.md) (Uncommon)
 -   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rogue Construct)
@@ -87,7 +87,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
 -   Master Hawk's Handaxe (Rogue Construct chest)
 -   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
--   [Gran Sudaruska](Gran_Sudaruska.md) (Very rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) )
+-   [Gran Sudaruska](Gran_Sudaruska.md) (Extremely rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md))
 
  | 
 

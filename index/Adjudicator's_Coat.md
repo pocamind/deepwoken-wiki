@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 60567
+revid: 61310
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -26,7 +26,7 @@ categories: [Armors]
 
 ## Description
 
-The Adjudicator's Coat is an animated equipment item in the arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Hardened Nerves, which slightly increases posture. They can only be found in chests from [Fort Merit](Fort_Merit.md).
+The Adjudicator's Coat is an animated equipment item in the arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Hardened Nerves, which slightly increases posture. It can only be found in chests from [Fort Merit](Fort_Merit.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 60565
+revid: 61309
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -15,7 +15,7 @@ categories: [Armors, Arms, Equipment]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | 7 Health, 3 Posture |
+| innate stats | 7 Health, 3 Posture, Unknown number of Pips |
 | innate talent | Lightweight |
 | bankable | Yes |
 | droppable | Yes |
@@ -35,4 +35,4 @@ The Glassdancer Wraps are an equipment item in the arms category. Equipping them
 ## Trivia
 
 -   Considered one of the best early and mid-game arms equipment.
--   Used to give 10 Health, but was reduced to 7 as the intended use for it was posture.
+-   Used to give 10 Health, but was reduced to 7 as the intended use was posture.

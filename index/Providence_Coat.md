@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 54902
+revid: 61285
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Armors, Equipment]
@@ -12,25 +12,23 @@ categories: [Arms, Armors, Equipment]
 |---|---|
 | type | Arms |
 | rarity | Legendary |
-| selling price | ?? |
-| requirements | N.A |
+| selling price | Unknown |
+| requirements | None |
 | weight | 2 |
-| innate stats | ?? |
+| innate stats | 5 Health, 2 Pips |
 | innate talent | Braced Collapse |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths Chests |
+| obtainment | Chests from:, The Depths (First Layer) |
 | description | ... |
 
 ## Providence Coat
 
-The Providence Coat is a red and indented coat, with buttons and a zipper. Despite it having a Legendary rarity, the Providence Coat is a common drop in the [First Layer](First_Layer.md) of [the Depths](The_Depths.md).
-
-It supplies its wearer with the [Braced Collapse](Talents.md) talent, which can be useful for combat in general.
+The Providence Coat is an equipment item in the Arms category. Equipping it grants you 5 Health, 2 Pips, and the [Talent](Talents.md) Braced Collapse, which reduces the damage of the next attack that hits you after being block broken. It is commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md))
 
 ## Trivia
 
--   The Providence Coat is the only coat within the game to have zippers on it.
--   The Providence Coat may be a reference to Dante's outfit in Devil May Cry 5.
+-   Despite the rarity of the coat being legendary, It is quite common.
+-   A reference to Dante's outfit in Devil May Cry 5.

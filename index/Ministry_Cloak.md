@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 61283
+revid: 61312
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -15,7 +15,7 @@ categories: [Character, Armors]
 | selling price | Unknown |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 5 Health, 10 Ether |
+| innate stats | 5 Health, 10 Ether, Unknown number of Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
