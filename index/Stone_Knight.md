@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 61251
+revid: 61265
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of four.
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of five.
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
@@ -67,7 +67,11 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
  | ✗ | ◯\* | ◯ | (★★★) |
-| **Wind Blade** | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
+| 
+
+**Energy Wave**
+
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Viribus**

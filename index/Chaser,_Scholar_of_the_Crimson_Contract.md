@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 61199
+revid: 61260
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -99,7 +99,7 @@ All of Chaser's moves instantly execute.
 
 ### Phase 3
 
--   When Chaser has fewer than 6,000 HP, he will use his desperation attack, in an attempt to take the player with him.
+-   When Chaser has fewer than 6,000 HP, he will use his desperation attack, in an attempt to take the player with him. (Note that this is not static. It is not immediately after 6,000HP is reached.)
     -   During this phase, the entire arena becomes a danger zone that deal damage to the player that cannot be avoided in any way. Players must stay below Chaser to not be affected by this.
     -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield), parried or dodge.
     -   Be extremely careful, as Chaser will use his regular attacks in between his ground slams. The blood wave attack becomes threatening in this phase as you are given little reaction time to jump.

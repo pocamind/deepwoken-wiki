@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 58781
+revid: 61264
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -73,9 +73,8 @@ ESP
   
 
 N/A  
-  
 
-Actually kinda ugly ngl  
+  
 
 **Surnames:**
 
