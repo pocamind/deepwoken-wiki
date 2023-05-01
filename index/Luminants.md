@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 59483
+revid: 61427
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -10,34 +10,24 @@ categories: [Map, Attunement, Mantras, Magic, Locations]
 
 ## Description
 
-Luminants are described to be certain regions of the world in Deepwoken. There is only one Luminant in the game, which is the Etrean/Eastern Luminant, ruled by people of Etrea. In the future, you will be able to travel to other Luminants through the use of an [Interstitial Lighthouse](Lore.md#eastern-interstitial-lighthouse). Lighthouses are explained in the lore of [Lightkeepers](Lore.md#lightkeepers).
+Luminants are described to be certain regions of the world of Deepwoken. There are currently two Luminants in the game, which are the Etrean and Eastern Luminants respectively. There are many different sources that lead to the conclusion that all of Lumen was once united into one large continent, though the rising tides have split it into the 6 Luminants known today.
 
-Once more Luminants are added, you will most likely be able to spawn in a different Luminant when creating a character. However, this is just speculation.
+## Etrean and Eastern Luminants
 
-## Etrean/Eastern Luminant
-
-A Luminant that is mostly under the rule of Etrea. It is the only current released Luminant. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. The Luminant is currently in a never-ending state of war, as the Central Authority has been fighting against Etrea for a while.
-
-The Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
-
-This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all seem to use it.
+Though these two Luminants are often referred to as each other by characters (I.E. Ploom indirectly implying that the Etrean Luminant is part of the East), in-game they are both distinct Luminants with large, elaborate gates separating them. As expected, the Etrean luminant is mostly controled by [Etrea](Etrea.md), though the east is far more balanced with many different large and minor factions fighting over its islands. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. Both these luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against Etrea for quite a long while.
 
 ## Central Luminant
 
-A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers, which use an [Oath](Oaths.md) magic that slows down time in a bubble.
-
-This Luminant is probably a link between all [Attunements](Attunements.md), or home to people with [no attunement](Attunement-less.md).
+A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a big city where the Felinor originated is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
 
 ## Western Luminant
 
-It is home to the Legion and might be ruled over by the Khans. This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. It is said to be a lot more advanced than the other Luminants. In the future it may be more Steampunk'y.
+Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. The Covenant of Flame alongside Flamecharm originated in the West Luminant alongisde being the birthplace of Amorus Pleeksty.
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. It will not be added to the game due to it mostly being Voidsea.
+The Southern Luminant Is undoubtably the least referenced Luminant in the game, barely no information is available about it. Though it is known that Navae, a [Celestial](Celestial.md) worshiped by the [Gremors](Gremor.md) originates from this Luminant, thus the Gremor's compass always points towards it. Celtor was located in the Souther luminant, but after it drowns, most of the Southern luminant is composed of the voidsea, but still some islands remain.
 
 ## Northern Luminant
 
-The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is home to the Elder Edenkite, Drakkard and a species of thorny plant named Drakethistle.
-
-This Luminant is probably home to [Frostdraw](Frostdraw.md).
+The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is home to the Elder Edenkite, and the [Drakkard](Drakkard.md). The description of the [Winter Corps](Winter_Corps_Boots.md) armor mentions a species of thorny plant named "Drakethistle" existing in this Luminant, possibly making it out to be a frozen landscape with vegetation somehow spread throughout it.

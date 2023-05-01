@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 60389
+revid: 61425
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -8,9 +8,9 @@ categories: [Outfits, Armors, Items]
 
 # Outfits
 
-**Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
+Outfits serve as a primary means of resisting damage, with many high-grade outfits providing endgame-tier buffs such as making your attacks deal more damage, making fired bullets spread out upon hit, or even allowing you to parry threats that would typically be unparryable.
 
-Armor can refer to either [Armor](Equipment.md) or Outfits (this page).
+Alternatively, armor can refer to [Equipment](Equipment.md).
 
 ## Overview
 

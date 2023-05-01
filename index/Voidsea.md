@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 60682
+revid: 61417
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,9 +8,9 @@ categories: [Locations]
 
 # Voidsea
 
-> “ Is erisia in voidsea? ”
+> “ There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not. ”
 > 
-> ― Stranded Felinor Jonathan Talo
+> ― Nimea
 
 LocationL Voidsea LocationR
 
@@ -18,11 +18,11 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
   
 
-**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Etrean Luminant](Maps.md) and the [Eastern Luminant](Maps.md).
+**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [luminants](Luminants.md).
 
 ## Overview
 
-The **Voidsea** is an extremely dangerous region. It is speculated to be an ecological deadzone, where some vicious sea creatures reside. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Etrean Luminent and will appear when you sail too far off from the surrounding islands.
+The **Voidsea** is an extremely dangerous region. It is speculated to be an ecological deadzone. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
 
 Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed by a player.
 
@@ -42,5 +42,5 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 
 -   Patches of bubbles may appear around the Voidsea. Waiting near one for long enough will cause a [Dread Serpent](Dread_Serpent.md) (bigger bubbles) or a [Lionfish](Lionfish.md) (smaller bubbles) to spawn.
 -   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to [Voidheart](Voidheart.md))
--   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md)
+-   Dying in the [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md)
 -   There's an extremely low chance to get teleported to a random point inside of the voidsea after a certain amount of time. (Chance & timer currently unknown.)
