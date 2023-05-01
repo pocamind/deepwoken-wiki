@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 61137
+revid: 61392
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -223,7 +223,11 @@ Modifiers:
 Grand Javelin  
 (★★☆)
 
- | A javelin made out of lightning. |  | User throws a spear of lightning in front of them.
+ | A javelin made out of lightning. | 60
+
+Ether
+
+ | User throws a spear of lightning in front of them.
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
@@ -264,7 +268,11 @@ Rising Thunder
 
 (★★★)
 
- | Rise up with your opponent and crash down as a bolt of lightning |  | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
+ | Rise up with your opponent and crash down as a bolt of lightning | 70
+
+Ether
+
+ | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
 
 -   Hyper Armor
 -   Short windup and completely safeguards user when landed

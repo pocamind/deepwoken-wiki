@@ -1,8 +1,9 @@
 ---
 title: Dark Owl Chapeau
-revid: 61383
+revid: 61390
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Armors]
 ---
 
 # Dark Owl Chapeau
@@ -18,7 +19,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer, Miner's Landing, Deep Widow |
+| obtainment | Chests from:, Second Layer, Miner's Landing, Deep Widow, Duke Erisia |
 
 ## Description
 

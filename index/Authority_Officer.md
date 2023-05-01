@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 57182
+revid: 61386
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -21,7 +21,7 @@ Authority officers are a type of enemy NPC that is frequently found around [Eris
 
 They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
 
-Authority officers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair of Bluesteel Boots and an [Authority Commander Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
+Authority officers wear an Authority Helm, a pair of Bluesteel Pauldrons, a pair of Bluesteel Boots and an [Authority Captain Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
 
 ## Moveset
 
