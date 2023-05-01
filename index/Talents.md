@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61341
+revid: 61398
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -317,8 +317,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
 
--   Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)
-    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
+-   ~Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)~
+    -   ~Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery~ **MERGED WITH IMPAIRING BLOW**
 
 ### Butterfly
 

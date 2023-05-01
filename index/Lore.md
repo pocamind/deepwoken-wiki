@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 60828
+revid: 61397
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -797,7 +797,7 @@ A Dark Mage, located in Minityrsa.
 -   The Authority is an Empire and a faction of "Peacekeepers."
 -   They are led by their Grand Sovereign, Drallis Ehr. A Warmaster covers the military, while several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the east. These Wardens then have Inquisitors that work under them.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
--   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
+-   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit.
 -   The only faction aware of The Lord Regent of Etris' true nature and what the Ministry is planning.
 -   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
