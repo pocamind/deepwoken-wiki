@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 61189
+revid: 61385
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -8,15 +8,11 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 
 # Celestial
 
-## Description
-
 Template:Races-Main
 
 _The stars call you back..._
 
 Chance of obtaining race: **0%**
-
-**Race confirmed by Kyrbas and exploiters**
 
 ## Miscellaneous
 
@@ -24,11 +20,11 @@ Chance of obtaining race: **0%**
 
   
 
-Celestials are said to be Gods of the Deepwoken world, but as we see through the telescope at Great Hive Areatel, their home has fallen to something called the Ruin. Stone Knights also seem to originate from their city of light. More is to be known and added to this page.
+Celestials are said to be Gods of the Deepwoken world, but as we see through the telescope at Great Hive Aratel, their home has fallen to something called the Ruin. Stone Knights also seem to originate from their city of light. More is to be known and added to this page.
 
 Three living Celestials are known to exist, being Nilsa, Alsin and Navae.
 
-Apparently, there is a crucified Celestial in a secret room inside of the [Derelict Highchurch](Derelict_Highchurch.md).
+There is a crucified Celestial in a secret room inside of the [Derelict Highchurch](Derelict_Highchurch.md). They are heavily implied to be named Ku and revered by the [Capra](Capra.md) in some way.
 
 **Strengths:**
 

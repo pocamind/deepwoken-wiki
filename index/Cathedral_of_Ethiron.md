@@ -1,9 +1,9 @@
 ---
 title: Cathedral of Ethiron
-revid: 61281
+revid: 61332
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links]
+categories: [In progress without reason, InProgressPages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -16,11 +16,9 @@ The once sacred hall reeks of decaying corpses and profane heresy.
 
   
 
-File:Ethironcathedral.png
-
 ## Overview
 
-The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiron.md). It is the final destination point of The Eternal Gale's first floor, where the player will have to fight Chaser in order to progress further.
+The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiron.md). It is the final destination point of The Eternal Gale's first floor, any players who want to progress further will have to fight Chaser.
 
 ## Contents
 

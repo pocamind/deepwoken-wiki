@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 61144
+revid: 61360
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -47,6 +47,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 -   Pick up the [Etrean hostages](Etrean_Guardsman_Hostage.md) within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing great gear and loot.
 -   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
+-   You can bypass the time limit by killing the Commander and receiving the shipping schedule. Note that this is turned in once per character.
 
 ### **The Captain (Officer Note Quest)**
 
@@ -64,16 +65,17 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 ### [Beiruul](Beiruul.md)
 
--   A [Gremor](Gremor.md) who hails from the Children of Navae, and hates the Authority.
--   Talking to her and clicking dialogue "1" the entire conversation, she tells you to meet at the entrance of Fort Merit.
--   You (With the assistance of her) have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
--   After you get the small chest, the event is finished. (She will continue on into Fort Merit, killing until she gets knocked)
+-   A [Gremor](Gremor.md) sitting on a tree near [Meteor Isle](Meteor_Isle.md), right above the shipwright.
+-   Selecting the option "Very well. I can assist in the fight." will start the quest.
+-   With her assistance, you will have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
+-   Gripping at least two signifies that you have completed the quest.
+-   Return to Meteor Isle, and gain 2 [knowledge](Knowledge.md).
 
 ## Rep Resets
 
--   To reset your [reputation](Reputation.md) with the Authority, you can speak to Rashet in the Merit's reach. He is located next to a pillar across from a river and Fort Merit.
-    -   If you walk from [Greathive](Greathive_Aratel.md) to Fort Merit, you can find him easily
-    -   Alternatively, if you arrive from the docks, you have to run through the fort to reach Rashet.
+-   To reset your [reputation](Reputation.md) with the Authority, you can speak to Rashet in Merit's Reach. He is located next to a pillar across from a river and Fort Merit.
+    -   If you travel from [Greathive](Greathive_Aratel.md) to Fort Merit, you can find him easily.
+    -   Alternatively, if you arrive from the docks, you will have to parkour up using the geysers and run besides the fort in order to reach Rashet.
 
 ## NPCs
 

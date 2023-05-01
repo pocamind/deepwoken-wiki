@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 59017
+revid: 61381
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -63,3 +63,6 @@ Castle Light is a safe area within the [First Layer](First_Layer.md) belonging t
 -   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players. In particular, Valekis, a popular Monad Studios Youtuber has been frequenting the area.
 -   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.
 -   Used to have normal divers, Then got replaced by Black divers, Then got replaced with journeyman divers
+-   It is possible to enter despite drowning, but it requires being knocked and dropped into a certain spot that bounces you against the barrier until you glitch through
+    -   Do note that if you defeat chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the depths via a whirlpool
+        -   This may also work by defeating Etheron, but it has not yet been confirmed
