@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 60584
+revid: 61477
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -48,6 +48,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 -   Reinforced Hunger grants certain buffs, signified by a specially-colored secondary bar on top of the normal Hunger bar until it's depleted.
 -   The type of boost can be identified by hovering over the differently-colored bar.
+-   Different types of boosts will replace each other. Same types of boosts will stack in duration.
 
 ### Boosts
 
