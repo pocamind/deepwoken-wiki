@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 61358
+revid: 61445
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -62,7 +62,7 @@ There are two variants that enchantments come in:
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales off of your elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
-  <td><div>Weapon is covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
+  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -171,7 +171,7 @@ There are two variants that enchantments come in:
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
-  <td><div>Metal parts are covered in stone.</div></td>
+  <td><div>Metal parts are covered in a stone texture.</div></td>
 </tr>
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
@@ -180,13 +180,13 @@ There are two variants that enchantments come in:
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 10%.</p>
   <p><br>
   </p></div></td>
-  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in a swirly purple effect.</div></td>
+  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Hit damage from crit is the same as that of the M1</p></div></td>
-  <td><div><p>Weapon is covered with the storm enchant and umbral blue bolts come off of the weapon.</p></div></td>
+  <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
@@ -206,7 +206,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Chaser. Heals WAY less when proc on Ethiron</p></div></td>
-  <td><div>Weapon glows pink and gives off a slight rose particle effect.</div></td>
+  <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61238
+revid: 61465
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -234,7 +234,8 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: The Exterminator_
+_+Talent: The Exterminator_  
+_+3 Health_
 
  | 
 
@@ -401,7 +402,8 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Assassin_
+_+Talent: Assassin_  
+_+5% Stealth_
 
  | 
 
@@ -529,6 +531,10 @@ Grants a random buff.
 
 **Requires Fortitude 20**
 
+  
+_+5 health_  
+_+2 posture_
+
  | 
 
 Chests from:
@@ -549,6 +555,9 @@ Chests from:
 Grants a random buff.
 
 **Requires Fortitude 15**
+
+  
+_+10 Health_
 
  | 
 
@@ -640,7 +649,8 @@ Gladiator Helmet
 Grants a random buff.
 
 _+Talent: Concussive Force_  
-_\+ 2 Posture_
+_\+ 2 Posture_  
+_+10 Health_
 
 **Requires Fortitude 15**
 
@@ -820,6 +830,9 @@ Smith Bandana
  | 
 
 Cosmetic
+
+  
+_+4 Health_
 
  | 
 
@@ -1177,7 +1190,7 @@ Chests from:
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
-Pendant Earrings
+[Pendant Earrings](Pendant_Earrings.md)
 
  | 
 
@@ -1192,7 +1205,7 @@ Chests from:
  | N/A |
 |  | 
 
-Amethyst Pendant Earrings
+[Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
 
  | 
 
@@ -1208,7 +1221,7 @@ Chests from:
  | N/A |
 |  | 
 
-Crystal Pendant Earrings
+[Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
 
  | 
 
@@ -1223,7 +1236,7 @@ Chests from:
  | N/A |
 |  | 
 
-Ruby Pendant Earrings
+[Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
 
  | 
 
@@ -1239,7 +1252,7 @@ Chests from:
  | N/A |
 |  | 
 
-Dew Drop Earrings
+[Dew Drop Earrings](Dew_Drop_Earrings.md)
 
  | 
 
@@ -1254,7 +1267,7 @@ Chests from:
  | N/A |
 |  | 
 
-Ruby Drop Earrings
+[Ruby Drop Earrings](Ruby_Drop_Earrings.md)
 
  | 
 
@@ -1269,7 +1282,7 @@ Chests from:
  | N/A |
 | File:Emeraldtsk.JPG | 
 
-Emerald Tusk Earrings
+[Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
 
  | 
 
@@ -1285,11 +1298,14 @@ Chests from:
  | N/A |
 | File:MasterThief.png | 
 
-Master Thief Earrings
+[Master Thief Earrings](Master_Thief_Earrings.md)
 
  | 
 
 Grants a random buff.
+
+  
+_+3% Stealth_
 
  | 
 
@@ -1300,7 +1316,7 @@ Chests from:
  | N/A |
 | File:Prac.JPG | 
 
-Practicioner's Earrings
+[Practicioner's Earrings](<Practicioner's_Earrings.md>)
 
  | 
 
@@ -1315,7 +1331,7 @@ Chests from:
  | N/A |
 |  | 
 
-Old Blood Earrings
+[Old Blood Earrings](Old_Blood_Earrings.md)
 
  | 
 
@@ -1330,7 +1346,7 @@ Chests from:
  | N/A |
 |  | 
 
-Moonlit Earrings
+[Moonlit Earrings](Crescent_Earrings.md)
 
  | 
 
@@ -1498,7 +1514,7 @@ Chests from:
  | N/A |
 |  | 
 
-Nomad Pendant
+[Nomad Pendant](Nomad_Pendant.md)
 
  | 
 
@@ -1513,7 +1529,7 @@ Chests from:
  | N/A |
 | File:Old World Sun Pendant.png | 
 
-Old World Sun Pendant
+[Old World Sun Pendant](Wheel_Pendant.md)
 
  | 
 
@@ -1528,7 +1544,7 @@ Chests from:
  | N/A |
 |  | 
 
-Red Eye Pendant
+[Red Eye Pendant](Red_Eye_Pendant.md)
 
  | 
 
@@ -1543,7 +1559,7 @@ Chests from:
  | N/A |
 |  | 
 
-Seafarer Pendant
+[Seafarer Pendant](Seafarer_Pendant.md)
 
  | 
 
@@ -1558,7 +1574,7 @@ Chests from:
  | N/A |
 | File:Varicosa Medallion.png | 
 
-Varicosa Medallion
+[Varicosa Medallion](Varicosa_Medallion.md)
 
  | 
 
@@ -1574,7 +1590,7 @@ Chests from:
  | N/A |
 | File:Confessors Charm.png | 
 
-Confessor's Charm
+[Confessor's Charm](<Confessor's_Charm.md>)
 
  | 
 
@@ -1589,7 +1605,7 @@ Chests from:
  | N/A |
 | File:Canticlysm Pendant.png | 
 
-Canticlysm Pendant
+[Canticlysm Pendant](Canticlysm_Pendant.md)
 
  | 
 
@@ -1627,7 +1643,7 @@ Other sources:
  | N/A |
 |  | 
 
-Novice Brace
+[Novice Brace](Novice_Brace.md)
 
  | 
 
@@ -1642,7 +1658,7 @@ Chests from:
  | N/A |
 |  | 
 
-Ranger's Brace
+[Ranger's Brace](<Ranger's_Brace.md>)
 
  | 
 
@@ -1657,11 +1673,14 @@ Chests from:
  | N/A |
 |  | 
 
-Tracker's Brace
+[Tracker's Brace](<Tracker's_Brace.md>)
 
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 
@@ -1693,7 +1712,7 @@ Other sources:
  | N/A |
 | File:Autumn pauldrons.png | 
 
-Autumn Pauldrons
+[Autumn Pauldrons](Autumn_Pauldrons.md)
 
  | 
 
@@ -1708,7 +1727,7 @@ Chests from:
  | N/A |
 | File:Azure Royal Guard.png | 
 
-Azure Royal Guard
+[Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
 
  | 
 
@@ -1723,7 +1742,7 @@ Chests from:
  | N/A |
 | File:Blacksteel Pauldron.png | 
 
-Blacksteel Pauldrons
+[Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
 
  | 
 
@@ -1740,7 +1759,7 @@ Chests from:
 
  | 
 
-Bluesteel Pauldrons
+[Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
 
  | 
 
@@ -1755,7 +1774,7 @@ Chests from:
  | N/A |
 | File:Brilliant Pauldrons.png | 
 
-Brilliant Pauldron
+[brilliant Pauldrons](Brilliant_Pauldrons.md)
 
  | 
 
@@ -1773,7 +1792,7 @@ Chests from:
  | N/A |
 | File:Flameguard.png | 
 
-Flameguard Pauldrons
+[Flameguard Pauldrons](Flameguard_Pauldrons.md)
 
  | 
 
@@ -1804,7 +1823,7 @@ Chests from:
  | Black & White |
 |  | 
 
-Gladiator Pauldrons
+[Gladiator Pauldrons](Gladiator_Pauldrons.md)
 
  | 
 
@@ -1823,7 +1842,7 @@ File:Grand Pauldrons.png
 
  | 
 
-Grand Pauldrons
+[Grand Pauldrons](Grand_Pauldrons.md)
 
  | 
 
@@ -1838,7 +1857,7 @@ Chests from:
  | N/A |
 |  | 
 
-Guardian Pauldrons
+[Guardian Pauldrons](Guardian_Pauldrons.md)
 
  | 
 
@@ -1853,7 +1872,7 @@ Chests from:
  | N/A |
 | File:Imperial Pauldrons.png | 
 
-Imperial Pauldrons
+[Imperial Pauldrons](Imperial_Pauldrons.md)
 
  | 
 
@@ -1879,7 +1898,7 @@ Chests from:
 Grants a random buff.  
 
   
-_\+ 3 Health_  
+_+3 Health_  
 _+Talent: Polite Awakening_
 
  | 
@@ -1891,7 +1910,7 @@ Chests from:
  | N/A |
 |  | 
 
-Leather Pauldrons
+[Leather Pauldrons](Leather_Pauldrons.md)
 
  | 
 
@@ -1908,7 +1927,7 @@ Chests from:
 
  | 
 
-Redsteel Pauldrons
+[Redsteel Pauldrons](Redsteel_Pauldrons.md)
 
  | 
 
@@ -1924,11 +1943,14 @@ Chests from:
  | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
 
-Silver Pauldrons
+[Silver Pauldrons](Silver_Pauldrons.md)
 
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 
@@ -1940,7 +1962,7 @@ Chests from:
  | N/A |
 | File:Simple Pauldrons.png | 
 
-Simple Pauldrons
+[Simple Pauldrons](Simple_Pauldrons.md)
 
  | 
 
@@ -1956,7 +1978,7 @@ Chests from:
  | N/A |
 |  | 
 
-Steel Pauldrons
+[Steel Pauldrons](Steel_Pauldrons.md)
 
  | 
 
@@ -1990,7 +2012,7 @@ Chests from:
  | N/A |
 |  | 
 
-Woodland Pauldrons
+[Woodland Pauldrons](Woodland_Pauldrons.md)
 
  | 
 
@@ -2007,13 +2029,14 @@ Chests from:
  | N/A |
 | File:Etrean Siege Cuirass.png | 
 
-Etrean Siege Cuirass
+[Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 
  | 
 
 Grants a random buff.
 
-_+Talent: Battle Tendency_
+_+Talent: Battle Tendency_  
+_+8 Health_
 
  | 
 
@@ -2024,7 +2047,7 @@ Chests from:
  | N/A |
 |  | 
 
-Hive Scourge Cuirass
+[Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
 
  | 
 
@@ -2045,7 +2068,7 @@ Other sources:
  | N/A |
 |  | 
 
-Celtor Commander Plate
+[Celtor Commander Plate](Celtor_Commander_Plate.md)
 
  | 
 
@@ -2062,7 +2085,7 @@ Chests from:
  | N/A |
 |  | 
 
-Enforcer Plate
+[Enforcer Plate](Enforcer_Plate.md)
 
  | 
 
@@ -2083,7 +2106,7 @@ File:Gauthority.png
 
  | 
 
-Grand Authority Plate
+[Grand Authority Plate](Grand_Authority_Plate.md)
 
  | 
 
@@ -2099,7 +2122,7 @@ Chests from:
  | N/A |
 |  | 
 
-Ironsinger Heavy Plate
+[Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 
  | 
 
@@ -2115,7 +2138,7 @@ Chests from:
  | N/A |
 |  | 
 
-Legion Phalanx Plate
+[Legion Phalanx Plate](Legion_Phalanx_Plate.md)
 
  | 
 
@@ -2152,7 +2175,7 @@ Chests from:
  | N/A |
 |  | 
 
-Mercenary's Garb
+[Mercenary's Garb](<Mercenary's_Garb.md>)
 
  | 
 
@@ -2170,7 +2193,7 @@ Chests from:
  | N/A |
 | File:Brown Overcoat.png | 
 
-Overcoat
+[Overcoat](Trimmed_Overcoat.md)
 
 (**Series**)
 
@@ -2188,7 +2211,7 @@ Chests from:
  | Brown & White |
 | File:White Parka.png | 
 
-Parka
+[Parka](Fur_Parka.md)
 
 (**Series**)
 
@@ -2196,7 +2219,8 @@ Parka
 
 Grants a random buff.
 
-_+Talent: Steady Footing_
+  
+_+2 Health_ _+Talent: Steady Footing_
 
  | 
 
@@ -2214,7 +2238,7 @@ Chests from:
  | Black, Brown & White |
 |  | 
 
-Winter Corps Parka
+[Winter Corps Parka](Winter_Corps_Parka.md)
 
  | 
 
@@ -2252,7 +2276,7 @@ Other sources:
  | N/A |
 |  | 
 
-Sandrunner Wraps
+[Sandrunner Wraps](Sandrunner_Wraps.md)
 
  | 
 
@@ -2272,7 +2296,7 @@ Chests from:
  | N/A |
 | File:Smithgloves.png | 
 
-Smith's Gloves
+[Smith's Gloves](<Smith's_Gloves.md>)
 
  | 
 
@@ -2352,7 +2376,7 @@ Chests from:
  | Beige, Burgundy & Slate |
 | File:Pale.jpg | 
 
-Assassin's Cloak
+[Assassin's Cloak](<Assassin's_Cloak.md>)
 
 (**Series**)
 
@@ -2395,7 +2419,7 @@ _\+ 10 Health_
  | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 |  | 
 
-Dark Owl Cloak
+[Dark Owl Cloak](Dark_Owl_Cloak.md)
 
 (**Series**)
 
@@ -2472,7 +2496,7 @@ Other sources:
  | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | 
 
-Gumshoe Longcoat
+\[Gumshoe Longcoat\]\]
 
 (**Series**)
 
@@ -2641,7 +2665,8 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Ready or Not_
+_+Talent: Ready or Not_  
+_+6 Health_
 
 **Requires Power 13**
 
@@ -2687,7 +2712,7 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | 
-Silver Ring
+[Silver Ring](Silver_Ring.md)
 
  | 
 
@@ -2705,7 +2730,7 @@ Chests from:
  |
 |  | 
 
-Gold Ring
+[Gold Ring](Gold_Ring.md)
 
  | 
 
@@ -2726,7 +2751,7 @@ Other sources:
  |
 |  | 
 
-Windmill Ring
+[Windmill Ring](Windmill_Ring.md)
 
  | 
 
@@ -2746,7 +2771,7 @@ Chests from:
  |
 |  | 
 
-Ring of Wisps
+[Ring of Wisps](Ring_of_Wisps.md)
 
  | 
 
@@ -2764,7 +2789,7 @@ Chests from:
  |
 |  | 
 
-Freestyler's Band
+[Freestyler's Band](<Freestyler's_Band.md>)
 
  | 
 
@@ -2782,7 +2807,7 @@ Chests from:
  |
 |  | 
 
-Heavy Hands Ring
+[Heavy Hands Ring](Heavy_Hands_Ring.md)
 
  | 
 
@@ -2802,7 +2827,7 @@ Chests from:
  |
 |  | 
 
-Isshin's Ring
+[Isshin's Ring](<Isshin's_Ring.md>)
 
  | 
 
@@ -2821,7 +2846,7 @@ Chests from:
  |
 |  | 
 
-Konga's Clutch Ring
+[Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
 
  | 
 
@@ -2841,7 +2866,7 @@ Chests from:
  |
 |  | 
 
-Light Eater Ring
+[Light Eater Ring](Light_Eater_Ring.md)
 
  | 
 
@@ -2863,7 +2888,7 @@ Chests from:
  |
 |  | 
 
-Pariah's Keepsake
+[Pariah's Keepsake](<Pariah's_Keepsake.md>)
 
  | Deal more damage to factions that hate you.
 
@@ -2882,7 +2907,7 @@ Chests from:
  |
 |  | 
 
-Purifying Ring
+[Purifying Ring](Purifying_Ring.md)
 
  | 
 
@@ -2917,7 +2942,7 @@ Chests from:
  |
 |  | 
 
-Ring of Casters
+[Ring of Casters](Ring_of_Casters.md)
 
  | 
 
@@ -2935,7 +2960,7 @@ Chests from:
  |
 |  | 
 
-Ring of Pestilence
+[Ring of Pestilence](Ring_of_Pestilence.md)
 
  | 
 
@@ -2951,7 +2976,7 @@ Chests from:
  |
 |  | 
 
-Bloodiron Ring
+[Bloodiron Ring](Bloodiron_Ring.md)
 
  | 
 
@@ -2972,7 +2997,7 @@ Chests from:
  |
 |  | 
 
-Dazed Band
+[Dazed Band](Dazed_Band.md)
 
  | 
 
@@ -2994,7 +3019,7 @@ Chests from:
  |
 |  | 
 
-Moon Ring
+[Moon Ring](Moon_Ring.md)
 
 (Legendary)
 
@@ -3017,7 +3042,7 @@ Chests from:
  |
 |  | 
 
-Waning Ring
+[Waning Ring](Waning_Ring.md)
 
 (Legendary)
 
@@ -3036,7 +3061,7 @@ Chests from:
  |
 |  | 
 
-Akira's Ring
+[Akira's Ring](<Akira's_Ring.md>)
 
 (Legendary)
 
@@ -3066,7 +3091,7 @@ Other sources:
  |
 |  | 
 
-Rosen's Ring
+[Rosen's Ring](<Rosen's_Ring.md>)
 
 (Legendary)
 
@@ -3090,7 +3115,7 @@ Chests from:
  |
 |  | 
 
-Prophet's Ring
+[Prophet's Ring](<Prophet's_Ring.md>)
 
 (Legendary)
 
@@ -3115,7 +3140,7 @@ Other sources:
  |
 |  | 
 
-Maestro's Ring
+[Maestro's Ring](<Maestro's_Ring.md>)
 
 (Legendary)
 
@@ -3141,7 +3166,7 @@ Chests from:
  |
 |  | 
 
-Dawnfist's Ring
+[Dawnfist's Ring](<Dawnfist's_Ring.md>)
 
 (Legendary)
 
@@ -3168,7 +3193,7 @@ Chests from:
  |
 |  | 
 
-Deepfire Ring
+[Deepfire Ring](Deepfire_Ring.md)
 
 (Legendary)
 
@@ -3196,7 +3221,7 @@ Chests from:
  |
 |  | 
 
-Finisher's Ring
+[Finisher's Ring](<Finisher's_Ring.md>)
 
 (Legendary)
 
@@ -3220,7 +3245,7 @@ Chests from:
  |
 |  | 
 
-Poser's Ring
+[Poser's Ring](<Poser's_Ring.md>)
 
  | 
 
@@ -3280,6 +3305,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+3 Health_
+
  | 
 
 Chests from:
@@ -3307,7 +3335,7 @@ Chests from:
 
  | 
 
-Celtorian Sabatons
+[Celtorian Sabatons](Celtorian_Sabatons.md)
 
  | 
 
@@ -3369,7 +3397,7 @@ Chests from:
  | Black & White |
 | File:Grand Authority Sabatons.png | 
 
-Grand Authority Sabatons
+[Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 
  | 
 
@@ -3520,6 +3548,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+3 Health_
+
  | 
 
 Chests from:
@@ -3554,6 +3585,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+3 Health_
+
  | 
 
 Chests from:
@@ -3569,7 +3603,8 @@ Chests from:
 
 Grants a random buff.
 
-**Requires Power 10**
+  
+_+5 Health_ **Requires Power 10**
 
  | 
 
@@ -3635,6 +3670,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 60350
+revid: 61440
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Guns]
@@ -16,7 +16,7 @@ Bullet effects:
 
 Umbral: Increased damage (But heavily reduced firing speed)
 
-Erisore: Applies anti-heal (But decreases damage)
+Erisore: Applies anti-heal (But decreases damage) it costs 1 ore and 20 notes for 100 bullets
 
 Gold: Speeds up (But decreases damage)
 

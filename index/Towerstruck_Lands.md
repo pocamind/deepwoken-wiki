@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 53015
+revid: 61429
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -37,6 +37,7 @@ Towerstruck Lands
 -   [Rock Golem](Rock_Golem.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
+-   [Megalodaunt VS Rock Golem](Random_Encounters.md)
 
 ## Maps
 

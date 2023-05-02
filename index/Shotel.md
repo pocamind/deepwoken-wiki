@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 57430
+revid: 61436
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -44,4 +44,4 @@ The Shotel is a mid-game Medium Weapon. It has 22 Base Damage, 5 scaling and 20%
 
 -   Has a unique critical attack. You basically do a barrel roll slash.
 -   Can be upgraded using the [Pluripotent Alloy](Pluripotent_Alloy.md) to become the _Alloyed Shotel_.
--   While the way the weapon is held might look confusing, this is in fact how a Shotel is meant to be used. Shotels were designed to allow the user to strike behind shields, thanks to the curve of the word.
+-   While the way the weapon is held might look confusing, this is in fact how a Shotel is meant to be used. Shotels were designed to allow the user to strike behind shields, thanks to the curve of the sword.

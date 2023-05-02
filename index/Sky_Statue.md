@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 49018
+revid: 61430
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, World]
@@ -9,8 +9,6 @@ categories: [NPCs, World]
 # Sky Statue
 
 A collection of statues that are dispersed around the map and are looking at the sky.
-
-These remain after the Hallowtide event, they are assumed to be looking at nothing but you can still inspect the statues. Its thought that there could be an oath but nothing has been confirmed so far.
 
 Sky Statue located next to Lower Erisia
 

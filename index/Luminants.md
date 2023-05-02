@@ -1,9 +1,9 @@
 ---
 title: Luminants
-revid: 61427
+revid: 61459
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Attunement, Mantras, Magic, Locations]
+categories: [Map, Mantras, Magic, Locations]
 ---
 
 # Luminants
@@ -18,15 +18,15 @@ Though these two Luminants are often referred to as each other by characters (I.
 
 ## Central Luminant
 
-A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a big city where the Felinor originated is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
+A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large city where Felinors originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
 
 ## Western Luminant
 
-Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. The Covenant of Flame alongside Flamecharm originated in the West Luminant alongisde being the birthplace of Amorus Pleeksty.
+Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. The Covenant of Flame alongside Flamecharm originated in this Luminant due to it being the birthplace of Amorus Pleeksty.
 
 ## Southern Luminant
 
-The Southern Luminant Is undoubtably the least referenced Luminant in the game, barely no information is available about it. Though it is known that Navae, a [Celestial](Celestial.md) worshiped by the [Gremors](Gremor.md) originates from this Luminant, thus the Gremor's compass always points towards it. Celtor was located in the Souther luminant, but after it drowns, most of the Southern luminant is composed of the voidsea, but still some islands remain.
+The Southern Luminant Is undoubtedly the least referenced Luminant in the game, barely no information is available about it. Though it is known that Navae, a [Celestial](Celestial.md) worshiped by the [Gremors](Gremor.md) originates from this Luminant, thus the Gremor's compass always points towards it. Celtor was located in the Southern luminant, but after the great drowning, most of the Southern Luminant is composed of Voidsea, though some islands still remain.
 
 ## Northern Luminant
 
