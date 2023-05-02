@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61465
+revid: 61474
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1549,6 +1549,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3% Elemental Armor_
 
  | 
 
@@ -3174,6 +3177,8 @@ Chests from:
 
 Gives every weapon 1.2 strength scaling when equipped.
 
+**Requires Power 6**
+
  | 
 
 Chests from:
@@ -3203,7 +3208,7 @@ Flames burn 1.5x faster but goes out 1.5x faster.
 
 If using Explosion Path: Lava Serpent, explosion delay is reduced.
 
-**Requires Power 15**
+**Requires Power 5**
 
  | 
 
@@ -3229,7 +3234,7 @@ Chests from:
 
 Extra PEN on your attacks that flourish opponents.
 
-**Requires Power 15 (?)**
+**Requires Power 13**
 
  | 
 

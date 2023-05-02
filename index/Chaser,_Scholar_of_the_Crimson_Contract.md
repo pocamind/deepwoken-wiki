@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 61359
+revid: 61471
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -177,6 +177,7 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
 -   Chaser does not spawn if the bounders at the nest corridor do not spawn.
 -   If you deal enough damage you can just grip him.
+-   Used to have the title: Scholar of the Crimson Contract,
 
   
 
