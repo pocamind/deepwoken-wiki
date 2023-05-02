@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 61376
+revid: 61497
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -47,12 +47,12 @@ Known side-effects include:
 
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
--   **EROSION:** On use, player will have exactly 10% taken from their health.
+-   **HEMORRHAGE:** On use, player will have exactly 10% taken from their health.
 -   **CHIPPED:** On use, the player loses 10% of their armor's durability
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
--   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Erosion**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
+-   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Hemorrhage**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
 -   Some talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Megalomania.**
 
 In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.

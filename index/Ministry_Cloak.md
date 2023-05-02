@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 61312
+revid: 61490
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -30,5 +30,5 @@ The Ministry Cloak is an animated equipment item in the arms category. Equipping
 
 ## Trivia
 
--   With 8 different colors, it has the most variants of any equipment together with the [Authority Commander Coat](Authority_Commander_Coat.md).
+-   With 8 different colors, it has the most variants of any equipment.
 -   Rose, Onyx, Smoke, Peach, Yellow, Pink and Verdant variants are missing pictures. (Note: Variant displayed in Infobox is Scarlet.)
