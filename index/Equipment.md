@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61529
+revid: 61536
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -367,7 +367,8 @@ Hood
 Grants a random buff.
 
   
-_\+ 4% Stealth_
+_\+ 2% Stealth_  
+_\+ 1 Posture_
 
  | 
 
@@ -505,6 +506,9 @@ Other sources:
 Grants a random buff.
 
 **Requires Fortitude 10**
+
+  
+_+5 Health_
 
  | 
 
@@ -700,6 +704,10 @@ Guardian Helm
 
 Grants a random buff.
 
+  
+_+5 Health_  
+_+1 Posture_
+
  | 
 
 Chests from:
@@ -783,6 +791,10 @@ Chests from:
 Grants a random buff.
 
 **Requires Fortitude 5**
+
+  
+_+5 Health_  
+_+1 Posture_
 
  | 
 
@@ -1656,6 +1668,10 @@ Other sources:
 
 Grants a random buff.
 
+  
+_+2 Health_  
+_+1 Posture_
+
  | 
 
 Chests from:
@@ -1670,6 +1686,10 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_  
+_+1 Posture_
 
  | 
 
@@ -1687,7 +1707,8 @@ Chests from:
 Grants a random buff.
 
   
-_+3 Health_
+_+3 Health_  
+_+1 Posture_
 
  | 
 
@@ -1839,6 +1860,10 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+2 Health_  
+_+1 Posture_
 
  | 
 
@@ -1995,6 +2020,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+2 Health_
+
  | 
 
 Chests from:
@@ -2084,6 +2112,9 @@ Other sources:
  | 
 
 Grants a random buff.
+
+_+Talent: Breathing Exercise_  
+_+8 Health_
 
  | 
 
@@ -3294,6 +3325,9 @@ Quest from [Zana](Zana.md)
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 

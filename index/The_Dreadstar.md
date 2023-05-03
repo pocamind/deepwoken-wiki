@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 56884
+revid: 61533
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -8,17 +8,17 @@ categories: [Pages with broken file links, NPCs, Oaths]
 
 # The Dreadstar
 
-“ Your Very Being Lacks Conviction. There's No Purpose To The Path You Walk. Leave This Place ”
+“ Your very being lacks conviction. There's no purpose to the path you walk. Leave this place. ”
 
 ― The Dreadstar
 
 File:DreadstarAEhfa.png
 
-**The Dreadstar** is a new NPC that appears in [Beloved Zofia](Beloved_Zofia.md). He is one of the main pillars for obtainment of the **[Silentheart Oath](Oaths.md#silentheart),** being the main quest giver for it.
+**The Dreadstar** is a new NPC that appears in the [Beloved Zofia](Beloved_Zofia.md). It is one of the main pillars for obtaining the **[Silentheart Oath](Oaths.md#silentheart),** being the main quest giver for it.
 
-He has an appearance similar to [Yun'Shul, The Keeper Of Hearts's](<Yun'Shul,_Keeper_of_Hearts.md>) Shrine. He could be some sort of entity that displays hatred for the song, Hence why some of the requirements for obtaining Silentheart are having no attunement and dying to an attunement user, While also voiding any mantras you may currently have.
+It has an appearance similar to the shrine of [Yun'Shul, The Keeper Of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>). The Dreadstar displays hatred and disgust for the Song and its usage, being a pivotal part of obtaining Silentheart and inviting others on its path for revenge against Song users.
 
-It's unknown wether or not this could be the Avatar of a Drowned God that seeks revenge for something or just an unrelated entity, but his hatred for the song could be linked to the wrath of the Drowned Gods during to the canticlism, extra [lore](Lore.md) piece right there
+The origin of The Dreadstar and how it came to be in the Beloved Zofia are unknown. It may be a congregation of spirits given its use of the term "we," or it may be a similar entity to Yun'Shul.
 
 ## Oath requirement met
 
