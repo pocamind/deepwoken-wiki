@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 61459
+revid: 61553
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Mantras, Magic, Locations]
@@ -18,7 +18,7 @@ Though these two Luminants are often referred to as each other by characters (I.
 
 ## Central Luminant
 
-A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large city where Felinors originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
+A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large city where [Felinors](Felinor.md) originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
 
 ## Western Luminant
 

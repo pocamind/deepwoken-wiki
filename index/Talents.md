@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61523
+revid: 61585
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1126,8 +1126,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Legion Shock Trooper
 
--   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
-    -   Prerequisites: 20 Agility, 50 Galebreathe
+-   ~Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)~
+    -   ~Prerequisites: 20 Agility, 50 Galebreathe~ **MERGED INTO GALE DASH**
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
@@ -1698,7 +1698,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
-    -   You can still emote
+    -   ~You can still emote~ Patched :(
     -   Prerequisite: 25 Agility, 5 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
@@ -2270,7 +2270,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
 
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your Legion Kata attacks now deal 15% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your Legion Kata attacks now deal 15% more damage. {Conflicting Info; Says 25% on other pages. Can someone confirm?}
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility)

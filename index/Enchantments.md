@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 61445
+revid: 61582
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -584,7 +584,7 @@ Static flaming purple.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
+-   **June 27th, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
 -   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).

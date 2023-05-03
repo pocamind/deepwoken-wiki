@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 56195
+revid: 61563
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -9,10 +9,6 @@ notices:
 ---
 
 # Misérables
-
-“ Thats the spirit my dull, dull, friend. ”
-
-― Misérables
 
 Misérables is an NPC in the second floor of the [Eternal Gale](The_Depths.md). He is found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 

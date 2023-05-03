@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 53820
+revid: 61558
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -33,7 +33,7 @@ His kit consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunemen
 
 ## Trivia
 
--   It will drop a "Gold Plate" upon being killed, which can be sold for 10 Notes.
+-   It will drop a "Gold Plate" upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
 -   It is the less tankier counterpart to the Golden Rat Bouncer.
 -   This is a [random encounter](Random_Encounters.md), not to be mistaken with the Rat Fighters in the [Rat's Den](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
 -   The Divine Axe can only be obtained by the player having the [Crazy Slots Resonance](Crazy_Slots.md).

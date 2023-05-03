@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 61425
+revid: 61556
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -71,4 +71,5 @@ _Deepwoken_ currently has 6 Confirmed spec/mod armor that has been discovered.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
+-   The unobtainable Veteran Adventurer outfit's design was based off of [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy), specifically his design from _Guilty Gear -Strive-_.
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based on the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
