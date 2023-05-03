@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61474
+revid: 61529
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -577,6 +577,9 @@ Chests from:
 
 Grants a random buff.
 
+_+Talent: Strong Hold_  
+_+3 Health_
+
  | 
 
 Chests from:
@@ -611,7 +614,8 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Grasp On Reality_
+_+Talent: Grasp On Reality_  
+_+5 Health_
 
  | 
 
@@ -1751,6 +1755,10 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+3 Health_  
+_+1 Posture_
+
  | 
 
 Chests from:
@@ -2762,7 +2770,11 @@ Taking damage from ice or wind will cause you to regenerate ether.
 
 Grants one random buff.
 
-**Requires Power 10**
+**Requires Power 3**
+
+  
+_+2% Ice Armor_  
+_+2% Wind Armor_
 
  | 
 
@@ -2877,7 +2889,11 @@ Getting hit by a Lightning or Fire mantra recovers ether.
 
 Grants one random buff.
 
-**Requires Power 10**
+**Requires Power 3**
+
+  
+_+2% Fire Armor_  
+_+2% Lightning Armor_
 
  | 
 
@@ -3376,6 +3392,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+4 Health_
+
  | 
 
 Chests from:
@@ -3438,6 +3457,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+5 Health_
 
  | 
 
@@ -3503,6 +3525,10 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+2 Health_  
+_+1 Posture_
 
  | 
 

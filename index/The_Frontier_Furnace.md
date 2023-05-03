@@ -1,6 +1,6 @@
 ---
 title: The Frontier Furnace
-revid: 61262
+revid: 61506
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Layer 2, Floor 1]
@@ -28,4 +28,4 @@ The Frontier Furnace is the [Ignition Union's](The_Ignition_Union.md) main base 
 
 ## Trivia
 
--   In Diver Journal III, some of the divers in Chaser's expedition got fed up and assumably took shelter inside the furnace.
+-   In Diver Journal III, some of the divers in Chaser's expedition got fed up and assembly attempt to take shelter inside the furnace, but are likely killed by him.

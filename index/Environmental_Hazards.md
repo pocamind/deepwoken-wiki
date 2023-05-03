@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 59872
+revid: 61509
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -47,7 +47,7 @@ categories: [World]
 </tr>
 <tr>
   <td>Thunder Storm</td>
-  <td>The Aratel Sea (Only while on a boat during a Rainstorm)</td>
+  <td>The Aratel &amp; Etrean Sea (Only while on a boat during a Rainstorm)</td>
   <td>Damages and ragdolls players. (Beware that its also able to knock you off your boat.)</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ categories: [World]
 <tr>
   <td>Watchers</td>
   <td><a href="The_Depths.md">City of the Drowned</a>, Temple Of The Forgotten Flame</td>
-  <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and three <a href="Hollow_Angel.md">Lesser Angels</a> will spawn at your location.</td>
+  <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and two (depths only) or one (temple of the forgotten flame)<a href="Hollow_Angel.md">Lesser Angels</a> will spawn at your location.</td>
 </tr>
 <tr>
   <td>Kyrsgrade Artillery</td>

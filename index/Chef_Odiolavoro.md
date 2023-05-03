@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 60949
+revid: 61521
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -17,7 +17,7 @@ Chef Odiolavoro is an aspiring chef NPC that gives quests or “orders.”
 
 ## Description
 
-Odiolavoro can be found in Etris across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him upon which he will take it from your inventory in exchange for the quest reward. These quests only give EXP, 10 notes, and random food recipes. After a few orders there is a very short cooldown.
+Odiolavoro can be found in Etris across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him upon which he will take it from your inventory in exchange for the quest reward. These quests only give EXP, 10 notes, and random food recipes. [Artisan](Talents.md#tavernkeep) food rewards 20 notes. After a few orders there is a very short cooldown.
 
 The orders are as follows:
 

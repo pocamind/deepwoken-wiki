@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61398
+revid: 61523
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1930,7 +1930,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Windrunner
 
--   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest. (+10 Ether, +9 Health)
+-   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Prerequisite: 75 Agility
 
 ### Miscellaneous

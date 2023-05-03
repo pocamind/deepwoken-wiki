@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 61123
+revid: 61516
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -18,18 +18,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Immortal Guardians are humanoid monsters that can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
+Immortal Guardians are humanoid mobs that can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the halls.
 
-Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead. These versions of the Immortal Guardians have higher health, usually spawn with enchants, and seem to be better at parrying than their normal counterparts. Immortal Guardians that spawn on the upper floors of the Crypt will always be red.
-
-## Moves
-
-An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md) or a [Divine Battleaxe](Crazy_Slots.md).
-
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★★☆) |
-| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, concealing their [race](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead, turning them into the more powerful Nightmare variant.
 
 **Nightmare:**
 
@@ -37,11 +28,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Immortal Guardians Nightmare can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's hall.
+Nightmare Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's halls.
 
-Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest, when they're nightmare, the symbol turn red instead of the basic white, raising their healthpool and concealing their [race](Aspects.md) and gender. Immortal Guardians that spawn on the upper floors of the Crypt will always be Nightmare
-
-  
+Immortal Guardians seem to wear what resembles [Arcwarder](Oaths.md) armor, with a unique symbol located in their chest. Unlike the normal variant, the symbol and every glowing part turns red, raising their healthpool considerably while also seemingly increasing their tendency to parry attacks and wield [Enchanted](Enchantments.md) weapons.
 
 ## Moves
 
@@ -49,16 +38,21 @@ An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md)
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★★☆) |
+| Assault | Firmly swings weapon at opponent to deal damage and kicks them away after enough hits. | ◯ | ◯ | (★★☆) |
 | Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
 
-### Finisher
+## Boons
+
+-   Experienced Fighter - Can parry common attacks and mantras.
+-   The Great Wall - Has an immense posture pool compared to other humanoid mobs.
+
+## Finisher
 
 An Immortal Guardian executes the player after knocking them.
 
 | Name | Description |
 | --- | --- |
-| Execute | Bashes the enemy's head with their Divine Weapon. |
+| Execute | Splits the enemy's head in two with their Divine Weapon. |
 
 ## Notes/Tips
 
@@ -75,6 +69,6 @@ An Immortal Guardian executes the player after knocking them.
 
 -   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
--   ~The effect of Mute applies onto all entities here, so they can be assumed to be monsters.~ While the effects of Mute does indeed apply here, it does not automatically make them monsters.
--   They speak in all capital letters.
--   They use divine weapons, being the divine battleaxe and divine greatsword, which are the two weapons players can roll from crazy slots.
+-   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).
+-   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oaths.md#arcwarder) Oath, created before the sketches for the current Arc Suit were even a thing.
+    -   The "Crypt Arcwawrder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken.

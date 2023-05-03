@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 61424
+revid: 61503
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -68,6 +68,8 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 ― Flavor Text
 
 **_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eiris- who will reside under the deck of one of the two boats during the Kingdom of Etra VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+
+Also all of the kills need to be made on one single character
 
 -   Pathfinders are those who have yet to swear under an [Oath](Oaths.md). This is different from being Oathless.
 -   Chime of Conflict does not affect the amount of progress towards this Origin.

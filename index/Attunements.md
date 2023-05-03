@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 61496
+revid: 61530
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -38,35 +38,29 @@ Template:Testing
 
 ## Mentioned Only/Potential Future Attunements
 
-Template:Testing Template:Testing
+Template:Testing
 
   
 
   
 
+  
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 
-## Trivia
+## Notes/Trivia
 
-Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
+Though it should not be expected, new Attunements could be added to _Deepwoken_ in the future.
+
+File:Arch wants earth.png
 
 File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
 
-You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
-
--   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements. (Still works as of 12/02/2023 tested by Draco)
-    
-    File:Three attunements.png
-    
-
--   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
--   You can unlock all Attunements to be select-able from the menu.
+-   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently selectable from the starting menu after you unlock it.
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you unlock more of them from their respective [trainers](Attunement_Trainers.md).
--   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
--   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
+-   You can choose up to 2 Attunements that've been unlocked before when creating a new character, with the first being at +6 and the other at +5.
+    -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has 6 points. You can undo your selection by selecting Random or None.)
 -   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots, saving you from having to grind for the blood potions.
--   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
-    -   As an extension, he mentions that those who wield water magic have already lost their humanity.
--   Arch\_Mage has said he wants to add both [Lightkeep](Lightkeep.md) and Divinity magic
-    
-    File:LightQuote.png
+-   Water magic will never become an Attunement available to the public due to specific lore reasons (Only Drowned Gods have the ability to manipulate water in the lore) as is stated by Arch\_Mage.
+    -   As an extension, he mentions that those who wield water magic have already lost their humanity
+        
+        File:LightQuote.png

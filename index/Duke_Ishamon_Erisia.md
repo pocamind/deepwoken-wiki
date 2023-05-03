@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 61375
+revid: 61527
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -41,7 +41,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 -   Essentially an average Legion Kata feint.
 
  | ✗ | ✗ | ◯ | (★☆☆) |
-| **Binding Tempest** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke teleports in front of the first person hit, trapping them in the ball of air before kicking them up and punching them away.
+| **Binding Tempest** | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 **This move will insta-grip you if you are hit by the second hit on low health/knocked**
 
@@ -51,11 +51,11 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 **This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ◯ | (★★☆) |
-| **Gale Stomp** | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his target.
+| **Gale Stomp** | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
- | ◯ | ✗ | ◯ | (★★★) |
+ | ✗ | ✗ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
