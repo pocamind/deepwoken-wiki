@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61659
+revid: 61675
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,9 +72,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ Do you wish to become Oathless, and walk your own path? ”
+“ You don't get it. ”
 
-― Cerulean
+― Oathless users trying to explain how it's actually good.
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -103,9 +103,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ What many failed to notice was the arrival of a new king who brought prosperity to Celtor in times of despair. How did this go unseen? ”
+“ You are being rescued, please do not resist. ”
 
-― Blindseer Ruins at the Lightkeeper Temple.
+― Blindseers knocking freshies in the depths only to carry them through the trial
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -184,9 +184,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest. ”
+“ Welcome to the shadow realm, Jimbo. ”
 
-― The Nestmind
+― A Khan Visionshaper after trapping an entire guild of gankers in the illusionary realm
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -260,9 +260,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ Hey look! A free drink! ”
+“ Can someone with an oath come to summer isle help me with something rq? ”
 
-― the Linkstrider looking at the freshie
+― Unknown Linkstrider aspirer scouting for sacrifices in the discord
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -313,9 +313,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+“ Gotta go fast. ”
 
-― Alirian
+― Felinor Jestriker escaping voidwalkers at 1% hp with their max agility running build
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -370,9 +370,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ BEHOLD! The power OF AN ANGEL! ”
+“ Fire blade goes BRRRRT. ”
 
-― A Starkindred named Gabriel Aethuda the second he uses Fire Blade
+― Every flamecharmer Starkindred ever
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -494,9 +494,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ You shall connect with the light around us, surrounding all of Lumen. ”
+“ F to parry. ”
 
-― Klaris Llfiend, Mother of the Lights
+― Dawnwalker metamancers after radiant kicking freshies to oblivion
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -540,9 +540,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
+“ It's gankin' time. ”
 
-― Duke Erisia to Contractors
+― Contractors sinking into the depths after getting the oath
 
 ### Obtainment
 
@@ -604,9 +604,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ YOU SHOULD KILL THEM ALL NOW! Their LIVES ARE AS VALUABLE AS A MUDSKIPPER! ”
+“ UNLIMITED POWER! ”
 
-― The Dreadstar giving "motivation" to its daily silentheart visitor
+― A Canor Silentheart with 95% mantra resistance fighting a mage build
 
   
 
@@ -738,13 +738,12 @@ Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023
 
 ## Trivia
 
-Proof of Time Magic's existance and it being "Oath Magic".
+Proof of Time Magic's existance and it being an "Oath".
 
 -   Epsi is an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
 -   Currently, the only oaths you can remove are Oathless and Silentheart (as of recent) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
--   Time magic was not actually stated to be an oath itself, but "oath magic." \[Picture Above\]
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
@@ -765,6 +764,4 @@ Proof of Time Magic's existance and it being "Oath Magic".
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
--   In terms of lore, the strongest oaths are technically: Oathless and Silentheart. (Silentheart due to cutting ties with the song creating your own strength instead of relying on the song.)
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
--   Though Oathless is meant to suggest what it's named. It is completely contradicted by the fact that it involves taking it as an Oath. The only true occurrence of being Oathless is by being a Pathfinder. This is because when you see the Oathless description, you can read the phrase: "If free will is an illusion, why not making it a convincing one?" meaning that Oathless is not an oath to not to take oaths, just an oath to see an illusion of free will. Showing that the reason why many people believe its useless, its because its a "fake oath" just showing an illusion of free will.

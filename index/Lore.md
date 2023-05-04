@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 61603
+revid: 61664
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -190,12 +190,17 @@ _"Oh, a human? Far from home are we?" -Chaser._
 
 ### **Dr. Carrion, Father of Evolution**
 
+_"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Carrion_
+
 -   One of the founding Divers.
 -   Leader of the Apothecary.
 -   Seeks to transcend people through the use of a potion named the Moonseye Vigour.
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
+-   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unkown.
+-   Despite his constant insanity he is a genious in terms of knowledge of the Depths and in Alchemy.
+-   His strength is unkown but is suppoused to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
@@ -239,6 +244,8 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 The one and only... MEAT LORD!
 
 ### **Warden Jericho**
+
+_"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Jericho._
 
 -   High ranking member of the Authority.
 -   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
@@ -323,6 +330,8 @@ Yun'shul's Shrine
 
 ### **Ethiron**
 
+_"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
+
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is reffered as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
@@ -394,6 +403,8 @@ Yun'shul's Shrine
     -   Following his dance, he states he must go, as though he is being called back.
 
 ### **Haske Vantage**
+
+_"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance._
 
 **Lore Sources:** _Arch\_Mage_
 
