@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 60664
+revid: 61642
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -23,7 +23,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-On input, souls can be found and absorbed near deceased humanoids.
+On input, souls can be found and absorbed near deceased humanoids. With a soul counter indicating the amount of souls the player has.
 
 On output, the user fires a large, bright beam, similar to Lightning Beam in front of them.
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 61480
+revid: 61644
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -237,13 +237,27 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ### Echo Quests
 
-(Power 3 | 5) Engage | Critical Attack - _Gain Engage first at Power 3 and Critical Attack at Power 5._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
+**(Power 3)** Engage - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
-(Power 2) Glider - _Gain the Glider Recipe at Power 2. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
+-   Landing M1 attacks restores some of your Ether.
 
-(Power 2) Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
+**(Power 5)** Critical Attack - Gain Critical Attack at Power 5. _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
-(Power 10) Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
+-   Landing a hit with your critical restores 30% of your posture.
+
+**(Power 2)** Glider - _Gain the Glider Recipe at Power 2. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
+
+**(Power 2)** Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
+
+-   Allows you to move quickly when you dodge mid-air.
+
+**(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
+
+-   You regenerate your armor at campfires.
+
+**(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
+
+-   If you have already washed your face, you must rewash it on that slot or a new one to unlock it on all slots.
 
 ## Trivia
 

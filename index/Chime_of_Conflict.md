@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 60175
+revid: 61640
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -88,8 +88,16 @@ In addition to Rank Titles, the top 250 players in Chime also get a special titl
 
 Godseeker **(Top 10)**
 
+-   Red & Yellow Usernames
+
 Grandmaster **(Top 11-50)**
+
+-   Gold Usernames
 
 Master **(Top 51-100)**
 
+-   Silver Usernames below 50
+
 Ranked **(Top 101-250)**
+
+-   Silver Usernames

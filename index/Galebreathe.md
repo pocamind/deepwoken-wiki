@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 61495
+revid: 61645
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -184,7 +184,7 @@ _Grab your opponent and toss them with the power of gale._
  | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
 
 -   Deals good-high damage.
--   Able to break block if posture is high enough.
+-   Forcible Block Break
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md).
 -   Applies knockback.
     -   Needs more testing.

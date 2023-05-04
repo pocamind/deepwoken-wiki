@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 61339
+revid: 61641
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -18,7 +18,7 @@ notices:
 
 Considered to be the root of Ether's usage- Mantras, sometimes referred to in lore as _images of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these will be the magic abilities that you use in combat to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the [Deep Shrines](Deep_Shrines.md) for 5 [Knowledge](Knowledge.md).
+Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the [Shrine of Chance](Deep_Shrines.md) for 5 [Knowledge](Knowledge.md).
 
 ## Rarities of Mantras
 
@@ -47,7 +47,7 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 30 int/30 wil/30 chr.
+It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 30 int/30 wil/30 chr to obtain 1 Wildcard Mantra.
 
 ## Combat Usage
 
@@ -161,6 +161,7 @@ To modify a mantra, the mantra must be recalled at a campfire into the player's 
 -   Modifications will fail when you have placed incompatible ingredients on the table. The mantra placed will return to your inventory, however the ingredient(s) will be lost.
 -   Most mantra modifiers increase the ether cost of a mantra. It is possible for a mantra to consume most or all of a player's ether upon one use.
 -   You can also change the name of a mantra by putting it on a mantra table and saying the name you want it to be.
+-   You can identify what modifiers you have on your mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual mantra.
 
 ## Upgrading Mantras
 

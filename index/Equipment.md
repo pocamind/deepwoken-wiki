@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61610
+revid: 61646
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2123,7 +2123,9 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Lowstride_
+_+Talent: Lowstride_  
+_+5 Health_  
+_+2 Posture_
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 57464
+revid: 61635
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors, Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Power.md) 10 and [Fortitude](Attributes.md) 2
 
 This Outfit has 2500 durability and grants +25% Physical resistance and +25% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Unbreakable_, which majorly reduces the time you spend stunned after being block broken.
+This Outfit also grants the [Talent Card](Talents.md) _Unbreakable,_ which has _reduced stun duration when block broken._
 
 ## Location
 

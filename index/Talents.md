@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61585
+revid: 61654
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -840,15 +840,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The following Galebreath Mantras have knockback and can benefit from this talent: Airforce, Champions Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind gun
     -   Prerequisites: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra. (+1 Elemental Intensity, +3 Health)
+-   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra. While also gaining a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
     -   Prerequisites: 50 Galebreathe, Breathing Impact
+    -   Speed boost has a 2 second cooldown.
 
 -   _Skull Crusher_ \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
     -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
-
--   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale. (+1 Elemental Intensity, +3 Health)
-    -   Has a 2 Second Cooldown.
-    -   Prerequisite: Inhale
 
 ### Genius Intellect
 
@@ -1083,13 +1080,13 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Lancer
 
--   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility, +3 Health)
+-   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
 
--   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds. (+3 Health)
+-   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds.
     -   Prerequisites: 50 Medium, Using a spear
 
--   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage. (+3 Health)
+-   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
     -   Prerequisites: 30 Medium, Using a spear
 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
@@ -1126,16 +1123,13 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Legion Shock Trooper
 
--   ~Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)~
-    -   ~Prerequisites: 20 Agility, 50 Galebreathe~ **MERGED INTO GALE DASH**
-
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
 
--   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
+-   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
     -   Prerequisites: 25 Agility, 40 Galebreathe
 
--   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
+-   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility)
     -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
     -   Stacks with shield.
     -   Prerequisites: 15 Fortitude, Using a spear

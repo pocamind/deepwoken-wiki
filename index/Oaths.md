@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61628
+revid: 61659
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -206,7 +206,7 @@ Visionshaper also has one talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy.
-        -   Doesn't work on monsters, constructs, nor people who lost their ego (Crypt Guards, Nightmares, Celtor Guards.)
+        -   Only works on players.
     -   Only they and yourself can see it.
     -   Clones disappear if caster is hit.
     -   Duration scale with your progress of the Visionshaper Oath.
@@ -435,7 +435,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ I'M IRONMAN MOTHER FUCKER! ”
+“ I'm proud to say this is my Mark 42 suit. It cost a lot of notes, you know. ”
 
 ― Vin Calico before putting on the Arc Suit with every modifier known to felinorkind
 
@@ -612,11 +612,14 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Obtainment
 
-1.  Be [attunement-less](Attunement-less.md).
-2.  Have at least 75 Weapon (uncap is not needed), 40 in Strength and 40 in Agility OR Charisma.
-3.  Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
-4.  Die to a player that uses an attunment. (Chime works.)(NPC's dont count.) (Can be done not in order.)
-5.  Speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
+Meet the following requirements:
+
+-   Be [attunement-less](Attunement-less.md).
+-   Have at least 75 Weapon (uncap is not needed), 40 in Strength and 40 in Agility OR Charisma.
+-   Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
+-   Die to a player that uses an attunment. Chime of Conflict do not count.
+
+Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
 ### Effects
 

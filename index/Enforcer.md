@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 60914
+revid: 61634
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -46,6 +46,8 @@ The Enforcer is definitely a shake-up to the game's formula. Up to the point at 
 The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution of them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
+
+A good method of easily defeating it while using heavy weapons without much risk is to just keep running during the fight, and when you see the particles that indicate the pull attack, immediately use your crit. Note: This only works with axes and hammers.
 
 ### In General
 
