@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61536
+revid: 61610
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -458,7 +458,8 @@ Chests from:
 Grants a random buff.
 
   
-_\+ 4% Stealth_
+_\+ 4% Stealth_  
+_+1 Posture_
 
  | 
 
@@ -603,6 +604,9 @@ File:Captainskabuto.png
 
 Grants a random buff.
 
+  
+_+8 Health_
+
  | 
 
 Chests from:
@@ -635,6 +639,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 
@@ -681,6 +688,9 @@ Chests from:
 Grants a random buff.
 
 **Requires Fortitude 10**
+
+  
+_+5 Health_
 
  | 
 
@@ -831,6 +841,9 @@ File:Royal Guard's Kabuto.png
  | 
 
 Grants a random buff.
+
+  
+_+8 Health_
 
  | 
 
@@ -1368,11 +1381,15 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+2 Health_
+
  | 
 
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 
@@ -1386,6 +1403,9 @@ Brilliant Cape
  | 
 
 Grants a random buff.
+
+  
+_\+ 3% Elemental Armor_
 
  | 
 
@@ -1725,7 +1745,9 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Replenishing Knockout_
+_+Talent: Replenishing Knockout_  
+_+3 Health_  
+_+1 Posture_
 
  | 
 
@@ -1812,6 +1834,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+5 Health_
+
  | 
 
 Chests from:
@@ -1844,6 +1869,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 
@@ -1951,6 +1979,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+2 Health_
 
  | 
 
@@ -2242,6 +2273,10 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+2 Health_  
+_+1 Posture_
 
  | 
 
@@ -2979,6 +3014,8 @@ Ring Of Curses
 
 This ring runs the random event check more frequently and partially ignores anti-event stacking.
 
+**Requires Power 10**
+
  | 
 
 Chests from:
@@ -3444,6 +3481,9 @@ Chests from:
 
 Grants a random buff.
 
+  
+_+3 Health_
+
  | 
 
 Chests from:
@@ -3632,6 +3672,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+3 Health_
 
  | 
 

@@ -1,16 +1,12 @@
 ---
 title: Voidsea
-revid: 61479
+revid: 61622
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
 ---
 
 # Voidsea
-
-> “ There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not. ”
-> 
-> ― Nimea
 
 LocationL Voidsea LocationR
 

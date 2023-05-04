@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 61449
+revid: 61619
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -33,7 +33,7 @@ The **Crypt Blade** is a dark gray [Greatsword](Weapons.md) with symbols on it, 
 
 Crypt Blades are made from the corpses of the last people to die prior to The Great Drowning.
 
-## Crit
+## Critical Attack
 
 The user goes in a pride stance with their sword facing down, and releases an aoe circle surrounding the player inflicting shadow and chaining everyone within it.
 

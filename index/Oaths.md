@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61555
+revid: 61628
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -130,8 +130,10 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby Players at the cost of your Sanity.
+        -   Sanity is only lost if it successfully procs.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Restores allies sanity
+    -   Can be used midair and in water.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
@@ -142,11 +144,15 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing.
     -   About the size of a medium Sacred field roll.
     -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
+    -   Can be used within land and water.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
-    -   The entire beam deals around 260 damage.
+    -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam
+    -   Sightless beam can be canceled midway by pressing F
+    -   Steals eyesight proccing the blind effect if enough hits land
+    -   Works midair and within water.
     -   Has a HIGH windup
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
@@ -199,7 +205,10 @@ The mantras and passives are obtained by giving Void Feathers to Surge after the
 Visionshaper also has one talents obtained via standard level up.
 
 -   **Illusory Servants - Combat Mantra**
-    -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
+    -   Spawns an illusion of yourself that targets the closest enemy.
+        -   Doesn't work on monsters, constructs, nor people who lost their ego (Crypt Guards, Nightmares, Celtor Guards.)
+    -   Only they and yourself can see it.
+    -   Clones disappear if caster is hit.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage, 3/4 of which is recovered when the duration expires (think of it doing 25% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
@@ -207,7 +216,9 @@ Visionshaper also has one talents obtained via standard level up.
     -   This mantra is similar to lightning clones, although it works slightly different in execution.
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
-    -   Cooldown is 2 minutes and 40 seconds.
+        -   Cooldown is 2 minutes and 40 seconds.
+    -   Monsters such as crabs, and carbuncles can be stored in the realm.
+    -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm.
@@ -249,9 +260,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ The world is broken, linked by fragile webs. ”
+“ Hey look! A free drink! ”
 
-― Entropy Link Description
+― the Linkstrider looking at the freshie
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -267,6 +278,7 @@ Does not grant any special cosmetic based on race.
 
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
+    -   You can carry objects and people during teleportation.
         -   Current known locations are...
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
@@ -275,11 +287,14 @@ Does not grant any special cosmetic based on race.
             5.  Pallas (On the small bit of land by the miner's landing's gate)
             6.  Fortuna (Above Erisor's Church)
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked.
+        -   Blue Cords (Allies) Gain a speed boost.
+        -   Red Cords (Enemies) Gain a speed debuff.
     -   **Symbiotic Sustain**
         -   If linked to an ally (signified by blue cord), lose 5% of your HP to restore 15% of the target's HP.
     -   **Parasitic Leech**
-        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move.
+        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. Different enemies give you different amounts of HP.
+            -   For example, Duke gives more HP than a mindless minion.
 
 ### Effects
 
@@ -291,7 +306,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Please don't aim for this because of how hard it is to get (as a solo player) I assure you it won't be of help.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
--   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health.
+-   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
 
 **Jetstriker:**
@@ -326,6 +341,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Prevailing Westerlies - Passive**
     -   Allows you to gain momentum much quicker while running. (+5 Ether, +5 Passive Agility)
+        -   A visual indicator representing maximum momentum is represented by a white outline around the character.
 -   **Vigil's Grace - Passive**
     -   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)
         -   When using Vigil's Grace, you become briefly invisible during the start of a running attacks, and they become omnidirectional (you are no longer locked at aiming forward). The resulting running attack will also apply hard knockdown instead of pushing back (like a heavy weapon crit).
@@ -354,9 +370,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
+“ BEHOLD! The power OF AN ANGEL! ”
 
-― Drinking the Holy Ichor
+― A Starkindred named Gabriel Aethuda the second he uses Fire Blade
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -419,9 +435,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ I believe **this** is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. ”
+“ I'M IRONMAN MOTHER FUCKER! ”
 
-― Delta
+― Vin Calico before putting on the Arc Suit with every modifier known to felinorkind
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -430,7 +446,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
-    3.  Retrieve injured Epsi **(option 2 when you talk to him; can be done in different runs. If the wrong option is chosen, you will be LOCKED OUT of this Oath.)**
+    3.  Retrieve injured Epsi (option 2 when you talk to him; can be done in different runs. If the wrong option is chosen, you will be LOCKED OUT of this Oath.)**This is false. He will always respawn if you repeat Layer 2 Floor 1.**
     4.  Talk to Alpha again
 -   20 Fortitude, 20 Flamecharm and 20 Thundercall.
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
@@ -441,6 +457,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrent gems.
+        -   Cooldown is 15 seconds
     -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
     -   To achieve the maximum damage reduction, use 3 Vibrent Gems, which will give the suit a 15% damage reduction.
     -   The suit has iframes on the second half of its windup.
@@ -498,6 +515,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
+        -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
 
@@ -586,9 +604,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
+“ YOU SHOULD KILL THEM ALL NOW! Their LIVES ARE AS VALUABLE AS A MUDSKIPPER! ”
 
-― The Dreadstar
+― The Dreadstar giving "motivation" to its daily silentheart visitor
 
   
 
@@ -603,7 +621,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 ### Effects
 
 -   You gain 15% mantra resistance.
--   You gain 15% more damage on your M1s.
+-   You gain 10% more damage on your M1s.
 -   You are unable to obtain, modify or use any Mantras. Upon obtaining the oath, your mantra tab is removed.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
@@ -684,7 +702,8 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
-        
+
+Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023 (PUBLIC DATE)
 
 **Lifeweaver\*:**
 

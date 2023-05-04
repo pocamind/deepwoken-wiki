@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 61450
+revid: 61620
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -34,7 +34,7 @@ The Curved Blade of Winds is the Legendary [Galebreathe](Galebreathe.md) [Weapon
 
 This weapon is permanently under the effect of the **After Cut** Galebreathe talent. Every hit will proc After Cut, dealing 5% of the original weapon's attack damage compared to the usual 10%. However, inhaling a Mantra will allow you to temporarily reach that 10% cap of After Cut again.
 
-## Crits
+## Critical Attacks
 
 ### One Handed Crit
 

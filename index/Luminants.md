@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 61553
+revid: 61625
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Mantras, Magic, Locations]
@@ -14,11 +14,11 @@ Luminants are described to be certain regions of the world of Deepwoken. There a
 
 ## Etrean and Eastern Luminants
 
-Though these two Luminants are often referred to as each other by characters (I.E. Ploom indirectly implying that the Etrean Luminant is part of the East), in-game they are both distinct Luminants with large, elaborate gates separating them. As expected, the Etrean luminant is mostly controled by [Etrea](Etrea.md), though the east is far more balanced with many different large and minor factions fighting over its islands. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. Both these luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against Etrea for quite a long while.
+Though these two Luminants are often referred to as each other by characters (I.E. Ploom indirectly implying that the Etrean Luminant is part of the East), in-game they are both distinct Luminants with large, elaborate gates separating them. The key distinction between the two is the influence of local factions. As expected, the Etrean Luminant is mostly controlled by [Etrea](Etrea.md), while the Eastern Luminant is far more balanced with many different major and minor factions fighting over its islands. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. Both these Luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against Etrea for quite a long while.
 
 ## Central Luminant
 
-A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large city where [Felinors](Felinor.md) originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers.
+A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large savannah where [Felinors](Felinor.md) originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers as well as the home of what is seemingly a university of sorts.
 
 ## Western Luminant
 
@@ -26,7 +26,7 @@ Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed m
 
 ## Southern Luminant
 
-The Southern Luminant Is undoubtedly the least referenced Luminant in the game, barely no information is available about it. Though it is known that Navae, a [Celestial](Celestial.md) worshiped by the [Gremors](Gremor.md) originates from this Luminant, thus the Gremor's compass always points towards it. Celtor was located in the Southern luminant, but after the great drowning, most of the Southern Luminant is composed of Voidsea, though some islands still remain.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. It will not be added to the game due to it mostly being Voidsea.
 
 ## Northern Luminant
 

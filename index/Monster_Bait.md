@@ -1,6 +1,6 @@
 ---
 title: Monster Bait
-revid: 61549
+revid: 61624
 source: https://deepwoken.fandom.com/wiki/Monster_Bait
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -11,10 +11,6 @@ categories: [Items]
 “ Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. ”
 
 ― "The Dangers of Overfishing," page 42
-
-“ If you thought the rumbling was bad, wait until you hear about taxes. ”
-
-― Destroyman III
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 60997
+revid: 61594
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,6 @@ These are recipes that are not used to produce food or potions.
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat/2 Crustacean Meat/1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
--   **Iron Bomb -** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
 -   **Dark Feather** _\- 1 Void Feather_
 
 Picture of a Crafting Bench
@@ -42,8 +41,8 @@ Picture of a Crafting Bench
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber
 -   **[Repair Kit](Repair_Kit.md)** - 3 Wood, 3 Iron
--   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal
--   **Flask of Strength** - _2 Hellfire Louts_
+-   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal **\-** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
+-   **Flask of Strength** - _2 Hellfire Lotus_
 -   **Flask of Fortitude -** _2 Empyrean Lotus_
 -   **Flask of Agility** - _2 Zephyr Lotus_
 -   **Flask of Intelligence** - _2 Brilliant Lotus_

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 61397
+revid: 61603
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -582,12 +582,12 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 ##### New Kyrsa (Second Floor)
 
--   New Kyrsa is a city built by the Kyrsgarde, meaning the city didnt drown like celtor.
--   New Kyrsa was built above the bed-chamber of the drowned god Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesnt wake up, also explaining why it is necesarry to activate them to fight its Scion.
--   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosper city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as tram station below the town, and high buildings with signs of industrial advancement towards the surface.
--   The City felled due to the last ritual (The bone statues in the boss fight) to remain Ethiron asleep to fail and dont be casted correctly due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
--   Right now the city alongisde its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they dont disturb Ethiron awakening.
--   Aparrently, after you defeat the Scion of Etiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
+-   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as celtor.
+-   New Kyrsa was built above the bed-chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesn't wake up, also explaining why it is necessary to activate them to fight its Scion.
+-   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosper city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the tram station below the town, and high buildings with signs of industrial advancement towards the surface.
+-   The City fell due to the last ritual (The bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
+-   Right now the city alongisde its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
+-   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
 -   Its inhabitants are the Kyrsgarde.
 
 #### **The Vents, The Third Layer**
@@ -596,7 +596,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Current location of Amorus Pleeksty.
 -   Current location of the body of the Drowned God of Fire Korilfiend.
 -   Korilfiend's garden is located near the top.
-    -   The meteor flowers located here are considered a part of him.
+    -   The Meteor Flowers located here are considered a part of him.
     -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
 -   The Third Layer is mainly formed by volcanic and fire/hot envirioment.
 -   Its said that the heat that the Hero blade of Flame emits, is the same as the heat that the vents emit.

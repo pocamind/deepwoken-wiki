@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 61582
+revid: 61623
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -19,7 +19,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
 -   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
 -   Buying a randomized enchant stone for 5 [Krysan Medallions](Kyrsan_Medallions.md).
--   Using an enchantment stone to get a desired enchant
+-   Using an enchantment stone to get a desired enchant.
 -   Using the deepshore fossil from [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) to get a desired enchant.
 -   Opening the Gales Wax chamber from Layer 2, Floor 1.
 
@@ -586,7 +586,7 @@ Static flaming purple.
 -   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
 -   **June 27th, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
 -   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
--   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
+-   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
