@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 58251
+revid: 61662
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -61,6 +61,6 @@ File:Umbrite1.jpg
     -   This however puts you in combat tag.
 -   Normal and Pure ores have the same appearance when held in hand.
 -   Every Pure Ore can be given to the Blacksmith except for iron and gold. (You can't get pure coal and pure rocks.) Additionally, Pure Ore can be converted into 3x of it's normal variant by attempting to craft with it.
--   All ores other than rocks can be sold, and most (if not all, haven't tested with Umbrite) pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
+-   All ores other than rocks can be sold, and most pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
 -   Mining ores mainly gives Strength XP.
