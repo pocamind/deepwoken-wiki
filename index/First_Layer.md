@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 61033
+revid: 61696
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -21,8 +21,6 @@ _as all drowned into cacophony,_
 _yet the Song, through its tea-kettle pitch-_
 
 _spoke my name at the zeroth hour."_
-
-\- Anonymous Wanderer
 
 ## Overview
 

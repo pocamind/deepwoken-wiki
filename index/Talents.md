@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61689
+revid: 61692
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -37,7 +37,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.
-    -   Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
+    -   Thresher Claws requires [Power](Power.md) 10 as a prerequisite.
 
 Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61683
+revid: 61702
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2991,6 +2991,8 @@ Chests from:
 
  | Deal more damage to factions that hate you.
 
+**Requires Power 3**
+
 -   Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority.
 
  | 
@@ -3048,6 +3050,8 @@ Chests from:
  | 
 
 Mantra damage increased by 10% but reduces melee damage by 10%
+
+**Requires Power 13**
 
  | 
 

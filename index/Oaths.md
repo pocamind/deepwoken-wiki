@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61684
+revid: 61701
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -370,9 +370,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ Fire blade goes BRRRRT. ”
+“ Mugetsu.... ”
 
-― Every flamecharmer Starkindred ever
+― Tiran sending Capra to the shadow realm via ascended Fire Blade
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -435,9 +435,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ I'm proud to say this is my Mark 42 suit. It cost a lot of notes, you know. ”
+“ Nanomachines, son! They harden in response to physical trauma. You CAN'T hurt me Jack! ”
 
-― Vin Calico before putting on the Arc Suit with every modifier known to felinorkind
+― 102 fortitude verperian about to show off his new oath on a Felinor Freshie named Jack
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -741,7 +741,7 @@ Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023
 Proof of Time Magic's existance and it being an "Oath".
 
 -   Epsi is an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
--   Currently, the only oaths you can remove are Oathless and Silentheart (as of recent) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+-   Currently, the only oaths you can remove are Oathless ~and Silentheart (as of recent)~ (silentheart can NOT be removed, not sure who said that you can) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
@@ -755,13 +755,13 @@ Proof of Time Magic's existance and it being an "Oath".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Speaking to an attunement trainer as a Silentheart will trigger the dialogue: "Your ether... just what have you done?"
 -   Most oaths change your character's eye color.
+    -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
     -   Visionshaper gives the user magenta eyes.
     -   Jetstriker gives the user light blue eyes.
     -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
-    -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
