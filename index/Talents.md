@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61654
+revid: 61689
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 **Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
-    -   _(i.e "Orbital Ice" to find the description, requirements, and effect for Orbital Ice)_
+    -   _(i.e "OrbitaI Ice" to find the description, requirements, and effect for OrbitaI Ice)_
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
     -   _(i.e "40 Agility" to find talents that you will have access to at 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
@@ -316,9 +316,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
-
--   ~Steel Filter \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)~
-    -   ~Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery~ **MERGED WITH IMPAIRING BLOW**
 
 ### Butterfly
 
@@ -1812,9 +1809,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Blade Dancer \[Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
 
--   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your next melee attack.
-    -   Prerequisites: 60 Galebreathe
-
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
     -   Every other hit will deal bleed damage, and works with critical attacks as well.
@@ -1822,6 +1816,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
+
+### Vigil of Winds
+
+-   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your M1's. (+4 Elemental Intensity)
+    -   Prerequisites: Inhale, 60 Galebreathe
 
 ### Visionshaper
 

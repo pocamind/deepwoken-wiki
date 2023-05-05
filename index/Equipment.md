@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61646
+revid: 61683
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -341,6 +341,9 @@ Chests from:
  | 
 
 Grants a random buff.
+
+  
+_+4 Health_
 
  | 
 
@@ -2277,8 +2280,7 @@ Chests from:
 Grants a random buff.
 
   
-_+2 Health_  
-_+1 Posture_
+_+3 Health_
 
  | 
 
@@ -2323,6 +2325,12 @@ Chests from:
 
 Grants a random buff.
 
+_+Talent: Winter's Protection_  
+_+6 Health_  
+_+2 Posture_  
+_+5% Wind Armor_  
+_+5% Ice Armor_
+
  | 
 
 Chests from:
@@ -2339,7 +2347,9 @@ Chests from:
 
 Grants a random buff.
 
-_+Talent: Lightweight_
+_+Talent: Lightweight_  
+_+7 Health_  
+_+3 Posture_
 
  | 
 
@@ -2651,7 +2661,9 @@ Other sources:
 
 Grants a random buff.
 
-**Requires Power 13**
+**Requires Power 13**  
+_+5 Health_  
+_+10 Ether_
 
  | 
 

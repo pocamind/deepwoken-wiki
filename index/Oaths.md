@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61675
+revid: 61684
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -540,9 +540,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ It's gankin' time. ”
+“ JUDGEMENT! ”
 
-― Contractors sinking into the depths after getting the oath
+― Power 20 100 charisma contractor about to oneshot freshies at Erisia.
 
 ### Obtainment
 
