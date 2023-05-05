@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61701
+revid: 61711
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -435,7 +435,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Nanomachines, son! They harden in response to physical trauma. You CAN'T hurt me Jack! ”
+“ Nanomachines, son! They harden in response to physical trauma. You can't hurt me, Jack. ”
 
 ― 102 fortitude verperian about to show off his new oath on a Felinor Freshie named Jack
 

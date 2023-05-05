@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 61175
+revid: 61715
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -40,7 +40,7 @@ Airborne Critical
 
 ## Notes
 
--   It is the first known weapon to have 2 different critical attacks.
+-   It is one of the two known weapon to have 2 different critical attacks, the second one being [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modeled by oNoodlez

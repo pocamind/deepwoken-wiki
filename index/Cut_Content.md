@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 60906
+revid: 61716
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -36,7 +36,6 @@ notices:
     -   Removed a month after release for allowing easy and unfair movestacks.
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
     -   Replaced with Advanced Cards in the 12/23/22 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
-
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
     -   Was removed on the 12/23/22 Verse 2 Update.
 
@@ -118,7 +117,7 @@ notices:
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was possibly the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
--   **Sacks** **\-** Craftable a short time after release but then shadow removed, due to it being 'useless'. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
+-   **Original Sacks** **\-** Craftable a short time after release but then shadow removed, due to it being 'useless'. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chests dropped from the monsters used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
 -   **Lore Guilds -** Their used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis was later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
