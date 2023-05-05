@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61711
+revid: 61733
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -58,6 +58,10 @@ categories: [Oaths, Character, Talents, Mechanics]
 | oath_req | Take the ghost quest, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
 | effects | +5 Posture, +10 Health, +15% Mantra Resistance |
 
+“ Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it. ”
+
+― Oathsworn badge
+
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
 There are currently ten obtainable Oaths in _Deepwoken.._
@@ -72,9 +76,9 @@ Pathfinder doesn't count as an Oath and is merely an indicator of your lack of O
 
 # **Oath: Oathless**
 
-“ You don't get it. ”
+“ If free will is an illusion, why not make it a convincing one? ”
 
-― Oathless users trying to explain how it's actually good.
+― Oathless description
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -103,9 +107,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ You are being rescued, please do not resist. ”
+“ \*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the duty of your Oath - free the lost souls from their shackles, help them escape into the light.\* ”
 
-― Blindseers knocking freshies in the depths only to carry them through the trial
+― Glyph found in Temple of Forgotten Flames
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -184,9 +188,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ Welcome to the shadow realm, Jimbo. ”
+“ We Owls find man to be capable of... Suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
 
-― A Khan Visionshaper after trapping an entire guild of gankers in the illusionary realm
+― The Nestmind
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -260,9 +264,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ Can someone with an oath come to summer isle help me with something rq? ”
+“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
 
-― Unknown Linkstrider aspirer scouting for sacrifices in the discord
+― The Entropy Catalyst
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -313,9 +317,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ Gotta go fast. ”
+“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
-― Felinor Jestriker escaping voidwalkers at 1% hp with their max agility running build
+― Alirian
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -370,9 +374,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ Mugetsu.... ”
+“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
 
-― Tiran sending Capra to the shadow realm via ascended Fire Blade
+― Drinking the holy Ichor
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -435,9 +439,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Nanomachines, son! They harden in response to physical trauma. You can't hurt me, Jack. ”
+“ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
 
-― 102 fortitude verperian about to show off his new oath on a Felinor Freshie named Jack
+― Delta
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -494,9 +498,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ F to parry. ”
+“ You shall connect with the light around us, surrounding all of Lumen. ”
 
-― Dawnwalker metamancers after radiant kicking freshies to oblivion
+― Klaris Llfiend, Mother of the Lights
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -540,9 +544,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ JUDGEMENT! ”
+“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
-― Power 20 100 charisma contractor about to oneshot freshies at Erisia.
+― Duke Erisia to Contractors
 
 ### Obtainment
 
@@ -604,9 +608,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ UNLIMITED POWER! ”
+“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
-― A Canor Silentheart with 95% mantra resistance fighting a mage build
+― The Dreadstar
 
   
 
@@ -758,10 +762,10 @@ Proof of Time Magic's existance and it being an "Oath".
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
     -   Visionshaper gives the user magenta eyes.
     -   Jetstriker gives the user light blue eyes.
-    -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
+-   In the lore, Oaths are causes people live by, ranging from killing others to cutting hair.

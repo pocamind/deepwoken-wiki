@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 61215
+revid: 61734
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -20,12 +20,12 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Players start with 150 health. Upon reaching 0% health, the player gets knocked out and is at the mercy of anyone around them.
+  <td>A visual representation of the player's health. Players start with 150 Health; stuff like <a href="Attributes.md">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Armors</a>, <a href="Traits.md">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (6 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked out and is at the mercy of anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
-    <li>Players cannot regenerate health if their hunger bar is below ~12.5%</li>
-    <li>The lower your health is, the slower you get. In short, health directly affects your agility.</li>
-  </ul><p>The player's health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
+    <li>Players cannot regenerate Health if their hunger bar is below ~12.5%</li>
+    <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
+  </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
   The player will lose one life on death (excluding <a href="Echoes.md#modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths and <a href="Second_Layer.md">Layer 2</a>.<br>
   The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death</p></figcaption></figure></td>

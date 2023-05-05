@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 60850
+revid: 61723
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -24,7 +24,7 @@ Keep in mind not all mantra modifiers are obvious and may _**not**_ work correct
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
-A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 7% and 14% for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 5.4% and 11.2%.
+A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
 
 After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
 
@@ -42,7 +42,7 @@ Cloudstone
 +2 Size
 
 \-1 Speed  
-+7% Ether Cost
++10 Ether Cost
 
  | 
 
@@ -66,7 +66,7 @@ Stratus Stone
 
 +3 Size  
 
-+14% Ether Cost
++20 Ether Cost
 
  | 
 
@@ -88,7 +88,7 @@ Crystal Lens
 +2 Range
 
 \-1 Size  
-+7% Ether Cost
++10 Ether Cost
 
  | 
 
@@ -111,7 +111,7 @@ Perfect Lens
 
 +3 Range  
 
-+14% Ether Cost
++20 Ether Cost
 
  | 
 
@@ -133,7 +133,7 @@ Aeon Logstone
 +2 Duration
 
 \-1 Range  
-+7% Ether Cost
++10 Ether Cost
 
  | 
 
@@ -157,7 +157,7 @@ Eternal Logstone
 
 +3 Duration  
 
-+14% Ether Cost
++20 Ether Cost
 
  | 
 
@@ -182,7 +182,7 @@ Shard
 +2 Speed
 
 \-1 Duration  
-+7% Ether Cost
++10 Ether Cost
 
  | 
 
@@ -205,7 +205,7 @@ Rush Shard
 
 +3 Speed
 
-+14% Ether Cost  
++20 Ether Cost  
 
  | 
 
@@ -250,7 +250,7 @@ Stone
 
 +1 Size  
 +1 Range  
-+7% Ether Cost  
++10 Ether Cost  
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
@@ -274,7 +274,7 @@ Magnifying Stone
 
 +2 Size  
 +2 Range  
-+14% Ether Cost  
++20 Ether Cost  
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 

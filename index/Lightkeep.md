@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 57070
+revid: 61724
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -36,9 +36,11 @@ Lightkeep icon (UNOFFICIAL)
 -   The current Lightkeeper _(possibly Viqh)_ was kidnapped by [Etrea](Etrea.md) to prevent the [Authority](The_Central_Authority.md) entering the Etrean Luminant, stalemating a losing war.
 -   **Lightkeepers** are possibly important for nautical travel between [luminants](Luminants.md). Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between [luminants](Luminants.md) without any blessing from a **Lightkeeper**.
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), the teacher of the [Dawnwalker oath](Oaths.md#dawnwalker), was possibly able to discover the radiant tones thanks to Viqh, the **lightkeeper** of the [eastern lighthouse](Eastern_Interstitial_Lighthouse.md), as she stated that, "_She learned a lot from her gift_" meaning that Viqh possibly taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to create the [Dawnwalker Oath](Oaths.md#dawnwalker), and as we know that Oath can easily be used as a weapon.
--   Viqh is the currently only known **Lightkeeper** and childhood friend of [Nimea](The_Hidden_Village.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using **Lightkeep** for battle, assuming she has used her time in the [lighthouse](Eastern_Interstitial_Lighthouse.md) to hone her skills for combat.
+-   Viqh is the currently only known **Lightkeeper** and childhood friend of [Nimea](The_Hidden_Village.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using **Lightkeep** to help her develop the radiant tones for Dawnwalker.
 -   Arch\_Mage has said he wants to add **Lightkeep** magic
 -   ****Lightkeep** has no relation to [Lightborn](Lightborn.md).**
+-   Lightkeep is said to have no combat abilities, as it physically cannot harm another (said by Deepwoken lore god).
+-   Lightkeep is a magic one is born with, therefore it cannot be obtained otherwise.
     
     File:LightQuote.png
     

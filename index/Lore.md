@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 61664
+revid: 61737
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -10,11 +10,12 @@ notices:
 
 # Lore
 
-_This page is a collection of Lore in the game, if you are looking for Books, visit [this page](Books.md)._
-
 “ Who would've thought, that the sea would forget us so easily? ”
 
 ― Voice of the Deep
+
+  
+_This page is a collection of Lore in the game, if you are looking for Books, visit [this page](Books.md)._  
 
 ## Description
 
@@ -344,7 +345,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
--   The current status of Ethiron: Asleep.
+-   The current status of Ethiron: Asleep.(he is eepy)
 
 ### **Korilfiend**
 
@@ -1744,6 +1745,7 @@ Though technically a blank slate of varying races and abilities, even the player
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
 -   The Hippocampal Pool allows your current character to pass down two of their items to another soul; your character's legacy, transferred to a different character.
 -   There is a mysterious tent and campfire in the Fragments of Self that allows you to remove gear you wish to pass on.
+-   If your health bar is stained, that means your character is injured lorewise. Drowning (dying with a stained health bar) sends the player's soul to the Depths, whereas your body stays on the surface. This is why you need to enter the Depths through a whirlpool to enter Castle Light, as you bring your body with you there. When a player escapes the Depths, their soul is returned to their body and heals it fully.
 
 ## Miscellaneous
 
