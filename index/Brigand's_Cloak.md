@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 61289
+revid: 61773
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -21,7 +21,7 @@ categories: [Character, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Summer Isle, Primadon, The Depths (First Layer) |
+| obtainment | Chests from:Duke Erisia, Summer Isle, Primadon, The Depths (First Layer) |
 | description | ... |
 
 “ Guys this drip is so underrated! Try it out! Please! Please? Aww… ”

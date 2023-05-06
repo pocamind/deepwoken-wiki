@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 60566
+revid: 61777
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Equipment, Armors]
@@ -21,7 +21,7 @@ categories: [Character, Equipment, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle |
+| obtainment | Chests from:Summer Isle |
 | description | Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure. |
 
 “ After all this time, I have all 3 of them... ”

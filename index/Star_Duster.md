@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 61303
+revid: 61790
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -21,7 +21,7 @@ categories: [Armors, Arms, Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths (First Layer), Primadon, Fishing |
+| obtainment | Chests from:The Depths (First Layer), Primadon, Fishing |
 | description | ... |
 
 ## Description
@@ -30,4 +30,5 @@ The Star Duster is an equipment item in the arms category. Equipping it grants y
 
 ## Trivia
 
--   Most likely the most iconic equipment item in the entire game.
+-   The Star Duster is part of the "Star" set; with the only other piece being the [Star Boots](Star_Boots.md).
+-   Most likely the most iconic equipment item in the game.

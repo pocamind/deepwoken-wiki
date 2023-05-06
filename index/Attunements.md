@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 61766
+revid: 61768
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character, Mantras, Mechanics, Spells]
@@ -44,7 +44,7 @@ Template:TestingTemplate:Testing Template:Testing
 
   
 
-If you use **any** of these, _**clearly credit**_ **yedidyaking12** for _Ironsing_ and **13452hi** for editing _Ironsing_ and creating every other one(_Lightkeep, Earth Magic_). Thank you. You may be copyright striked otherwise.
+If you use the Lightkeep _or_ Divinity Icons_,_ **please _clearly_ credit 13452hi.** Thank you.
 
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 

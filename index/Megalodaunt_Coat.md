@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 60568
+revid: 61785
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Armors]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Small chance of being dropped from a Megalodaunt |
+| obtainment | Rare drop from Megalodaunts |
 
 ## Description
 
@@ -30,4 +30,4 @@ The Megalodaunt Coat is an animated equipment item in the arms category. Equippi
 ## Trivia
 
 -   The power requirement for the coat used to be much higher, but was later reduced as anyone who could meet the power requirement would already have far better options.
--   How the player can instantly create a coat from the leather of a megalodaunt the second it dies before instantly dying it despite most likely being below power 10 and not even knowing who [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) is and how to get equipment dyes is presumed to be via [Witchcraft](https://en.wikipedia.org/wiki/Witchcraft).
+-   How the player can instantly create a coat from the leather of a megalodaunt the second it dies before instantly dying it despite most likely being below power 10 and not even knowing who [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) is and how to get equipment dyes is presumed to be via the use of [Witchcraft](https://en.wikipedia.org/wiki/Witchcraft).

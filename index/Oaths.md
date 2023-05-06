@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61758
+revid: 61792
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -762,6 +762,7 @@ Proof of Time Magic's existance and it being an "Oath".
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
     -   Visionshaper gives the user magenta eyes.
     -   Jetstriker gives the user light blue eyes.
+    -   Arcwarder gives the user orange eyes.
     -   Dawnwalker gives the user white eyes.
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 60401
+revid: 61778
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Equipment, Armors]
@@ -21,7 +21,7 @@ categories: [Character, Equipment, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit |
+| obtainment | Chests from:Fort Merit |
 | description | ... |
 
 ## Description

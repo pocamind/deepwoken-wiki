@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61726
+revid: 61769
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1200,7 +1200,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Meditative Trance
 
--   _Warrior's Respite_ \[Rare Card\] - Standing still for 15 seconds increases your health regeneration.
+-   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds increases your health regeneration.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
     -   Prerequisite: 15 Fortitude
 
