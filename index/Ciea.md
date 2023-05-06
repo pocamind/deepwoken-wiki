@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 47552
+revid: 61813
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs]
@@ -22,4 +22,4 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 
 There may be different options when you talk to Ciea, but for the ones listed you'll have to use those specific ingredients or else she won't take it.
 
-Fulfilling 3 requests gives you the [harvester](Talents.md) talent, it is unknown if she gives anything else at the moment.
+Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [harvester](Talents.md) talent, it is unknown if she gives anything else at the moment.

@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 60463
+revid: 61795
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -37,18 +37,10 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 ## Sanity Decreasing Effects
 
--   Being in [The Depths](The_Depths.md) (-1 point of sanity every 30 seconds).
--   [Megalodaunt](Megalodaunt.md)'s screech attack.
--   Being hit by Gaze.
--   Drinking or being splashed by a Mindbreaking potion.
--   Being hit by the [Deep Widow](Deep_Widow.md) web attack.
--   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.
--   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you -100 sanity when you unsheathe your weapon while in [The Depths](The_Depths.md). Without any Willpower, it instantly kills you, as you start with 80 sanity, however the effects of this can be reduced through increasing Willpower.
--   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
--   Being in the immediate vicinity of the meatball chains and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
--   [Wishbound](Developer_Specs.md) Flaw during nighttime.
--   Heretic's Sutra
--   Using Blindseer Mantras
+-   Being in [The Depths](The_Depths.md)
+-   Sharko
+-   Insanity potions
+-   Scary moments
 
 ## Sanity Restoring Effects
 

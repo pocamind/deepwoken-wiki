@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 61765
+revid: 61806
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,15 +18,15 @@ Attunementless icon
 
 Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
-**NOTE: Attunement-less mantras are rarer if you have an attunement. (Also mostly dependent on how much you have in said stat opposed to your attunement)**
+**NOTE: Attunement-less mantras are rarer if you have an attunement and depend on how much you have in said stat opposed to your attunement.**
 
 ## Description
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunementless sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunementless are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunementless mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way (Like men and women).
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunement-less are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunement-less mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way.
 
-In spite of it's shortcomings, the potential of Attunementless is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunementless Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to it's fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
+In spite of it's shortcomings, the potential of Attunement-less is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunement-less Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to it's fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
 
 ## Attribute Mantras
 
@@ -38,7 +38,7 @@ In spite of it's shortcomings, the potential of Attunementless is nothing to sco
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
-<table><caption>Attunementless Mantras</caption>
+<table><caption></caption>
 <tbody>
 <tr>
   <th><b>Media</b></th>
@@ -55,9 +55,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
     <li>A powerful left hook that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
-  </ul>
-  <ul>
-    <li>Can Fell trees. With <a href="Talents.md">Treefelling Blow</a> talent can gain wood from fallen trees.</li>
+    <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> talent, they can gain wood from fallen trees.</li>
   </ul></td>
 </tr>
 <tr>
@@ -84,7 +82,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>A vertical jump that sends the user into the air.</li>
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
-    <li><b>UNKNOWN IF UPGRADING MAKES YOU LEAP FURTHER, NEEDS TESTING</b></li>
+    <li>At Level 1, the user will take no fall damage upon landing, but at Level 5, they will.</li>
   </ul></td>
 </tr>
 <tr>
@@ -93,7 +91,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u> 5 Strength (confirmed), Jus Karita and Murmur: Tacet,</b> <i>Combat Mantra</i></li>
+    <li><b><u>Requirements:</u> 5 Strength, Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i></li>
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61792
+revid: 61796
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -744,7 +744,7 @@ Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023
 
 Proof of Time Magic's existance and it being an "Oath".
 
--   Epsi is an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
+-   Epsi (one of the npcs you need to talk to if you want to obtain Arcwarder) is an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
 -   Currently, the only oaths you can remove are Oathless ~and Silentheart (as of recent)~ (silentheart can NOT be removed, not sure who said that you can) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.

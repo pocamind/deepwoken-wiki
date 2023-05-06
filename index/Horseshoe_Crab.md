@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 54060
+revid: 61810
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Cut Content]
@@ -29,3 +29,4 @@ Isopods are small, brown creatures with a spike protruding out of its head. They
 -   They were originally going to be in the game, but were removed due to them being buggy and very dangerous if solo encountered.
 -   Only found via a dev spawning them in.
 -   Can easily be killed by hitting them once.
+-   As for now, they only appear in Karliah's quest when choosing the first option. They however, cannot be damaged nor interacted with and will most likely be there to make you fail the quest...NOICE...
