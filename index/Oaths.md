@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61733
+revid: 61758
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -64,13 +64,13 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
 
-There are currently ten obtainable Oaths in _Deepwoken.._
+There are currently ten known obtainable Oaths in _Deepwoken._
 
 ## Pathfinder (No Oath)
 
 Initially, all players start as a **Pathfinder**, which does not provide any benefit.
 
-Pathfinder doesn't count as an Oath and is merely an indicator of your lack of Oath.
+Being a Pathfinder doesn't count as an Oath and is merely an indicator of lacking one.
 
 **Oathless:**
 
@@ -768,4 +768,3 @@ Proof of Time Magic's existance and it being an "Oath".
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
--   In the lore, Oaths are causes people live by, ranging from killing others to cutting hair.

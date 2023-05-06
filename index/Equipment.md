@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61702
+revid: 61755
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -313,8 +313,9 @@ _\+ 10% Stealth_
 Chests from:
 
 -   [Layer 2](Second_Layer.md) (Floor 1)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
- | N/A |
+ |
 | File:Static-assets-upload12843990363310254802.png | 
 
 [Brigand's Bicorn](<Brigand's_Bicorn.md>)
@@ -2280,7 +2281,8 @@ Chests from:
 Grants a random buff.
 
   
-_+3 Health_
+_+2 Health_  
+_+1 Posture_
 
  | 
 
@@ -2718,7 +2720,8 @@ Other sources:
 
 Grants a random buff.
 
-_+Talent: Braced Collapse_
+_+Talent: Braced Collapse_  
+_+5 Health_
 
  | 
 

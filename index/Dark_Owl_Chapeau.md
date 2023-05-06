@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 61390
+revid: 61738
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -23,7 +23,7 @@ categories: [Armors]
 
 ## Description
 
-The Dark Owl Chapeau is a helmet equipment. It is found mainly in The Eternal Gale, but can rarely be obtained through Miner's Landing and the Deep Widow chests.
+The Dark Owl Chapeau is a helmet equipment. It is found mainly in The Eternal Gale, but can rarely be obtained through Miner's Landing, Duke Erisia and the Deep Widow chests.
 
 ## Trivia
 

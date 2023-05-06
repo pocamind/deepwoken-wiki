@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 57574
+revid: 61756
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -34,7 +34,7 @@ categories: [Weapons, Greatswords]
 | damage | 23 |
 | scaling | 10 |
 | range | 9 |
-| swing speed | 0.74x |
+| swing speed | 0.62x |
 | endlag | 0.1s |
 | penetration | 10% |
 | special effect | N/A |

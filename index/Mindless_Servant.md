@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 55860
+revid: 61742
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented so much to the point where their souls has departed from their bodies, leaving only a husk of themselves.
+An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented on so much to the point where their souls has departed from their bodies, leaving only a husk of themselves.
 
 ## Moveset
 
