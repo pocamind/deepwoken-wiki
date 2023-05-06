@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 60348
+revid: 61763
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -110,7 +110,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 -   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 
--   Dentifilo - Primary effect is **Soothing**; Instantly restores reservoir (Unknown what it does in verse 2). Secondary effect is **Disgusting**; Deals a small amount of damage.
+-   Dentifilo - Primary effect is **Soothing**; Instantly restores ether. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
 -   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focus-Enhancing**; Drastically increases the rate that Reservoir is turned into Ether for 15 seconds.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
@@ -168,7 +168,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Dentifilo<br>
   Bluecap(?)</td>
   <td>Unknown</td>
-  <td>Used to affect resevoir. No idea what it's used for as of the Verse 2 update.</td>
+  <td>Opposite effect of <b>Appalling</b>.<p>Used to affect resevoir. Post verse 2, instantly restores ether.</p></td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>
