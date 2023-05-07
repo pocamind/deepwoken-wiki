@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 61556
+revid: 61881
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -8,13 +8,11 @@ categories: [Outfits, Armors, Items]
 
 # Outfits
 
-Outfits serve as a primary means of resisting damage, with many high-grade outfits providing endgame-tier buffs such as making your attacks deal more damage, making fired bullets spread out upon hit, or even allowing you to parry threats that would typically be unparryable.
+Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
 
-Alternatively, armor can refer to [Equipment](Equipment.md).
+Armor can refer to either [Equipment](Equipment.md) or Outfits (this page).
 
-## Overview
-
-### **Outfits**
+## **Outfits**
 
 Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
 

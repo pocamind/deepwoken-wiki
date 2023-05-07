@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 58819
+revid: 61885
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests in:, Lower Erisia |
-| description | "A surpisingly effective weapon, despite its previous use by fisherman." |
+| description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
 
 | Alloyed Falchion | |
 |---|---|
@@ -40,7 +40,7 @@ categories: [Weapons, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Pluripotent Alloy usage, Voidwalker chests, Arena chests |
-| description | "A surprisingly effective weapon, despite its previous use by fishermen." |
+| description | "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production." |
 
 **Base:**
 
@@ -56,6 +56,7 @@ Despite its similarity to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.
 
 It's arguably one of, if not the worst alloyed weapon due to a lack of a unique crit compared to other Alloyed weapons (most notably the [Alloyed Shotel](Shotel.md#alloyed)) and being relatively middling in its stats, again comparable to the Warden Ceremonial Sword, which has a lower weapon requirement compared to it.
 
-## Notes & Trivia
+## Trivia
 
 -   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union during their fights with the Summer Company.
+-   It used to use the [Trident Spear](Trident_Spear.md) description, but this was later updated.

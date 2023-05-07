@@ -1,8 +1,9 @@
 ---
 title: Flameguard Pauldrons
-revid: 61809
+revid: 61870
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pauldrons]
 ---
 
 # Flameguard Pauldrons
@@ -29,4 +30,4 @@ The Flameguard Pauldrons are an equipment item in the arms category. The stats a
 
 ## Trivia
 
--   To be added.
+-   The Flameguard Pauldrons are part of the "Flameguard" set; with the only other piece being the [Flameguard Boots](Flameguard_Boots.md).

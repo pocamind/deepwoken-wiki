@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 61820
+revid: 61867
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -16,7 +16,7 @@ The Guildhouse in Etris
 
 ## Description
 
-The Best Guild of deepwoken is Duke's boyfriends Guilds are associations created by others, allowing players to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_. Guilds are an influential part of Deepwoken and a lot of Talents and Mantras can be enhanced or require a guild member in order to operate. (i.e. [Rally](Attunement-less.md))
+Guilds are associations created by others, allowing players to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_. Guilds are an influential part of Deepwoken and a lot of Talents and Mantras can be enhanced or require a guild member in order to operate. (i.e. [Rally](Attunement-less.md))
 
 Once you are **Power Level 5**, a guild can be founded for free (if you have over a 100 notes) by talking to the Guild Clerk in the Guild House in Etris, east of the compass tree (big white tree) in the center, the one in the Inn at [Summer Isle](Summer_Isle.md), or the one at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window. This window allows you to name your Guild and set it's primary color. The guild color you chose becomes the color of your sails.
 

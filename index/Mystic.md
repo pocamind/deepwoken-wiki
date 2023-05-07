@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 61679
+revid: 61893
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -23,7 +23,7 @@ notices:
 
 ## Overview
 
-Mystic is a [Chrysid](Chrysid.md) NPC that appears in multiple locations around the map. For 20 notes, she will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell her, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose. Mystic also does not affect shrine of chance.
+Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20 notes, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose. Mystic also does not affect shrine of chance. They also cannot give Rare Talent Cards.
 
 ## Dialogue
 
@@ -111,7 +111,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek the qualities of Natural Armor. **(Natural Armor; Padded Armor, Steel Scales)**_
 -   _I will not fall to the elements. **(Survival Instinct; Herbivore, Iron Gut, Termite)**_
 -   _I search for the Song. **(Seeker of Sound; Dragon's Song)**_
--   _I feed on the soul of my enemies. **(NOT Soul Converter, please report if real category found. Likely Dark Siphon)**_
 -   _Water is my home. **(Waterborne) (Note; Cannot give Scuba Drowner)**_
 -   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
 -   _Uh... **(Miscellaneous) (Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
@@ -172,7 +171,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I speak to the shadows. **(Shadowcaster) (Note; Cannot give Shadow Travel)**_
 -   _I am the one who speaks to death. **(Death Speaker) (Note; Cannot give Black Hole)**_
 -   _I control those around me. **(Puppet Master)**_
--   _I feed on the soul of my enemies. **(NOT Soul Converter, please report if real category found. Likely Dark Siphon.)**_
+-   _I feed on the soul of my enemies. **(Dark Siphon.)**_
 
 ## Locations
 
