@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 61500
+revid: 61849
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -28,11 +28,10 @@ categories: [Weapons, Greataxes]
 
 The Evanspear Hand Axe is a [heavy weapon](Weapons.md) (HVY) that requires 70 Heavy Weapon Scaling to use. It's one of the few Heavy Weapons dealing additional Bleed Damage.
 
-It can be obtained from multiple sources, most commonly [Crimson Terrapods](Terrapod.md) (including _Corrupted_), [Legion Captains](Legion_Captain.md) and [Layer 2 (Eternal Gale)](Second_Layer.md) Chests. It's considered a rare drop.
+It can be obtained from multiple sources, most commonly [Crimson Terrapods](Terrapod.md) (including _Corrupted_), [Legion Captains](Legion_Captain.md) and [Layer 2 (Eternal Gale)](Second_Layer.md) Chests. Considered a rare drop.
 
 ## Trivia
 
 -   Deals Bleed Damage. The true damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG.
--   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests.
--   A good way for getting the weapon is farming Eternal Gale, as crimson terrapods are no longer recommended.
--   This weapon is heavily advised to be used in PvE due to it's bleed and high damage
+-   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests. A good way for getting the weapon is farming Eternal Gale, as Crimson Terrapods are fairly rare.
+-   This weapon is very good in PvE thanks to its high damage from bleed.

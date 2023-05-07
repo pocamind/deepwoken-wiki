@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 61805
+revid: 61818
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | 5 Health, Unknown number of Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,7 +25,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Brilliant Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](Erisia.md) ([First Layer](First_Layer.md)).
+The Brilliant Pauldrons are an equipment item in the arms category. Equipping them grants you 5 Health and an unknown number of Pips. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](Erisia.md) ([First Layer](First_Layer.md)).
 
 ## Trivia
 
