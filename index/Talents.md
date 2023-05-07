@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61769
+revid: 61855
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1233,8 +1233,9 @@ These are just raw stat increases and are beneficial to anyone.
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
+    -   Increases the odds of the item with the lowest rate appearing.
     -   This applies to the mob **DROP** and not the chest they spawn.
-    -   If the mob only have a singular drop, increase the odds of dropping said item.
+    -   If the mob only has a singular drop, increase the odds of dropping said item.
 
 ### Mindbreaker
 

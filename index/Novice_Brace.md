@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 61483
+revid: 61863
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Armors]
@@ -15,7 +15,7 @@ categories: [Arms, Armors]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | 2 Health, 1 Posture, Unknown number of Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Arms, Armors]
 
 ## Description
 
-The Novice Brace is an equipment item in the arms category. The stats and Pips gained from equipping it have not been documented. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
+The Novice Brace is an equipment item in the arms category. Equipping it grants you 2 Health, 1 Posture, and an unknown number of Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
 
 ## Trivia
 
