@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 61767
+revid: 61854
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,7 +29,7 @@ ALWAYS interact with Marcus whenever you see him, or you aren’t a real one.
 
 ## How To Find Marcus
 
-When entering the hidden village go to the right side and through a hallway to find an area with a campfire. When reaching the campfire spot, looking to your left there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you the humble cave Marcus lives in.
+When entering the hidden village, go to the right side and through a hallway to find an area with a campfire. When reaching the campfire spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in. Make sure to say hello. What a great guy.
 
 Marcus on a Good Day
 
