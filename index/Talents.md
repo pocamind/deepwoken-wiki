@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61916
+revid: 61926
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -1336,7 +1336,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Public Figure
 
--   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid.
+-   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
     -   Prerequisites: Friends in High Places, 45 Charisma
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 
