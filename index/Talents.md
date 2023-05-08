@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61855
+revid: 61916
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -172,7 +172,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Generally dangerous to use without Pyromaniac.
     -   Prerequisite: 25 Flamecharm
 
--   Last Laugh \[Common Card, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)
+-   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)
     -   Enable the usage of Flame Within while knocked. This is meant to synergize with Phoenix Flames.
     -   Prerequisites: 30 Flamecharm, Flame Within
 
@@ -730,12 +730,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prevents fire from going out in rain.
     -   Prerequisites: 35 Flamecharm
 
--   Wildfire \[Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
+-   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
 
 ### Flashfreeze
 
--   Temperature Shock \[Common Card, Flamecharm and Frostdraw Exclusive\] - Your fire mantras now detonate any stacked crystals.
+-   Temperature Shock \[Common Talent, Flamecharm and Frostdraw Exclusive\] - Your fire mantras now detonate any stacked crystals.
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
@@ -1517,7 +1517,7 @@ Prerequisite: Charisma
 
 ### Showboater
 
--   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charm you opponents briefly.
+-   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Soul Converter
@@ -1790,14 +1790,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Undying Ember
 
--   _Denial Repulse_ \[Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
+-   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
     -   When Flame of Denial activates, release an explosion around you.
     -   Prerequisite: Flame of Denial
 
--   _Undying Flame_ \[Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
+-   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
--   Soundness of Mind \[Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
+-   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
 
@@ -2288,7 +2288,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
 -   Conditioned Runner \[Advanced Talent, Agility\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
 -   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
--   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 35%. (+5 Health)
+-   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)

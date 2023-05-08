@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 61378
+revid: 61912
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -25,6 +25,27 @@ The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [
 Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an ape like creature, standing at roughly 21 meters (68.9 feet), with some features of marine life, featuring webbed feet and fins on its arms at head.
 
 It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) (Most monster drops work, to a varying degree) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 12 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+
+<table><caption>Known Offerings</caption>
+<tbody>
+<tr>
+  <th>Offering</th>
+  <th>Qty</th>
+</tr>
+<tr>
+  <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
+  <td>3</td>
+</tr>
+<tr>
+  <td><a href="Megalodaunt_Hide.md">Megalodaunt Hide</a></td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><a href="Thresher_Spine.md">Thresher Spine</a></td>
+  <td>5</td>
+</tr>
+</tbody>
+</table>
 
 ## Attacks
 

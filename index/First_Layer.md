@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 61696
+revid: 61906
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -153,7 +153,7 @@ Just some information to keep in mind and remember.
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group.
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
 ### **[Visionshaper](Oaths.md)**
 

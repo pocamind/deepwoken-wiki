@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 60636
+revid: 61901
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -244,3 +244,4 @@ categories: [Deepwoken]
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The name of **Akira** may be inspired/directly taken from the movie "Akira".
 -   **Amorus Pleeksty'**s story is believed to have taken inspiration from [White Whistle Lyza](https://miabyss.fandom.com/wiki/Lyza) from the Anime Made in Abyss, specifically due to the many similarities that the Divers faction has with the Whistles of _Made in Abyss_.
+-   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
