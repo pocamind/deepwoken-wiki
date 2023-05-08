@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 61763
+revid: 61900
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -23,6 +23,8 @@ The Crafting Recipes & Alchemy page contains some simple potion recipes, though 
 A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and some of the potion effects. Some of the information is incorrect, though it's mostly accurate, and a useful tool for inferring the exact effects of ingredients.
 
 Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which has slightly different information than what is listed here. You can also check that out.
+
+The most recent guide is [here](https://www.youtube.com/watch?v=3St-KT18F40).
 
 You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain them.
 
@@ -69,7 +71,7 @@ Every ingredient has two effects - sometimes both are obvious, other times one i
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
 Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing Redd's will partially cancel out the _Icky_ effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
-Potions containing only one ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including ones with no effect, like a Stick or a Rock.
+Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
 Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
 
@@ -91,16 +93,18 @@ It's unknown if this is a bug or if there are factors we don't yet understand. M
 
 There are 24 (known) potion ingredients, though only 15 have an effect strong enough to brew named potions by themselves.
 
-Almost all ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient.
+Most ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient. A couple ingredients have one or three effects.
 
--   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds.
+-   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds. Tertiary effect is **Weakening(?)**: Decreases posture damage.
+    -   The Hastening effect, despite being secondary, is the strongest
+    -   The posture damage decrease cannot be the strongest effect, so it's true name is unknown.
 
 -   Bamboo Bundle - Primary effect is **Appalling**; Instantly drains ether. Secondary effect is **Steadfast**; Increases maximum Posture.
 
--   Beeswax - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is unknown.
+-   Beeswax - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Decelerate(?)**; Reduces movement speed.
     -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from Plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
 
--   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though it's not clear if these are part of the Heartening effect.)
+-   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
     -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
 
 -   Browncap - Primary effect is **Disgusting**; Deals a small amount of damage. Secondary effect is **Strengthening**; Slightly increases damage dealt.
@@ -109,6 +113,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 
 -   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
+-   Crustacean Meat - Primary effect is **Dulling**; decreases damage dealt. Also increases duration of effects by a small amount.
 
 -   Dentifilo - Primary effect is **Soothing**; Instantly restores ether. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
@@ -116,7 +121,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
     -   Even after running out of reservoir, the Focus-Enhancing effect will still increase ether regeneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
 
--   Gobletto - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Disgusting**; Deals a small amount of damage.
+-   Gobletto - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Decelerate(?)**; Reduces movement speed.
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three Plumfruit, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the Gobletto secondary effect is. ~The name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.~ i was tired when i wrote this and forgot ingredients dont contain 2 positives, and noticed it was more of a dilluted orange (weak disgusting potion) rather than a hastening yellow
 
 -   Ongo - Primary effect is **Buckling**; Reduces maximum posture. Secondary effect is **Staggering**; Increases posture damage.
@@ -127,10 +132,10 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 
 -   Pomar - Primary effect is **Hastening**; Increases speed for 15 seconds. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
--   Redd - Primary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health.
+-   Redd - Primary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
     -   Like Focus-Enhancing, Rejuvenating can't be brewed using only a single ingredient. The rejuvenating effect is very weak, but it is possible to brew a Rejuvenating potion using exactly three Redd's and one Wheat.
 
--   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. Secondary effect is unconfirmed but appears to be **Strengthening**.
+-   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
     -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
 Eggs, fish meat, scallops, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
@@ -166,15 +171,15 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Potion<br>
   Salve</td>
   <td>Dentifilo<br>
-  Bluecap(?)</td>
-  <td>Unknown</td>
+  Bluecap</td>
+  <td>Instantly increase ether</td>
   <td>Opposite effect of <b>Appalling</b>.<p>Used to affect resevoir. Post verse 2, instantly restores ether.</p></td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>
   <td>Bane<br>
   Blight</td>
-  <td>Bluecap(?)<br>
+  <td>Bluecap<br>
   Browncap<br>
   Dentifilo<br>
   Pomar</td>
@@ -197,8 +202,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Potion<br>
   Bane<br>
   Blight</td>
-  <td>Gathered Wheat<br>
-  Alestrian Coral</td>
+  <td>Crustacean Meat<p>Gathered Wheat<br>
+  Alestrian Coral</p></td>
   <td>Reduces damage dealt.<br>
   Appears to have a reduced effect on low damage attacks (like daggers).</td>
   <td>Opposite effect to <b>Strengthening</b>.</td>
@@ -208,8 +213,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Salve<br>
   Tincture<br>
   Potion</td>
-  <td>Urchin<br>
-  Plumfruit<br>
+  <td>Plumfruit<br>
   Browncap</td>
   <td>Slightly increases damage dealt.</td>
   <td>Opposite effect to <b>Dulling</b>.</td>
@@ -299,16 +303,14 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Elixir<br>
   Salve<br>
   Tincture</td>
-  <td>Pomar<br>
-  Alestrian Coral<br>
-  Sap(?)</td>
+  <td>Alestrian Coral<p>Pomar</p></td>
   <td>Applies a 15 second speed boost.</td>
   <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Decelerate</b>(?), it can be found on Beeswax.</td>
 </tr>
 <tr>
   <td><b><s>Unknown Prefix</s> Decelerate(?)</b></td>
   <td>???</td>
-  <td>Beeswax</td>
+  <td>Beeswax<p>Gobletto</p></td>
   <td>Reduces speed temporarily.</td>
   <td>Opposite effect is <b>Hastening</b>.<br>
   We can see that this effect exists and cancels Hastening, though the real name is unknown (kinda) as there is no known way to brew a potion where it is the strongest effect.</td>
@@ -318,7 +320,14 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Salve</td>
   <td>Ongo</td>
   <td>Increases posture damage dealt.</td>
-  <td>Opposite effect is unknown - there is no known ingredient which seems to weaken Staggering potions.</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Weakening (?)</b></td>
+  <td>???</td>
+  <td>Alestrian Coral</td>
+  <td>Decreases posture damage dealt.</td>
+  <td>True name unknown.</td>
 </tr>
 </tbody>
 </table>

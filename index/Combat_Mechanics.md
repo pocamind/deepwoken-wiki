@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 61734
+revid: 61898
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -369,7 +369,7 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time. Spell feinting will <b>not</b> refund the ether cost.</p>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M2 and then <kbd>M1</kbd>. Spell feinting will <b>not</b> refund the ether cost.</p>
   <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponents parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick mantras which easily overwhelms most unexperienced players thought process.</p></td>
 </tr>
 <tr>
