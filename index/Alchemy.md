@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 61900
+revid: 61984
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -75,7 +75,7 @@ Potions containing only a single ingredient suffer a heavy penalty to the streng
 
 Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
 
-Finally, potions have a greater effect when brewed by a character with high intelligence. This does not change the name of the potion, and the exact scaling is untested.
+Finally, potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. It is not impacted by ingredients, and caps out at 50% with 100 intelligence.
 
 ### Talents
 

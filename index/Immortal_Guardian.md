@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 61928
+revid: 61990
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -56,9 +56,7 @@ An Immortal Guardian executes the player after knocking them.
 
 ## Notes/Tips
 
--   Immortal Guardians are rather tanky.
--   They have one of the highest posture pools in the game, surpassing some bosses in terms of posture too.
--   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful, and make sure to isolate each one.
+-   Immortal Guardians are rather tanky, especially Nightmare ones, and have one of the highest posture pools in the game, surpassing some bosses in terms of posture. It's easy to get overwhelmed by them, considering they spawn in groups, so be careful and make sure to isolate each one.
 -   Best way to kill them is either Parry-Trading or using weapons with high chip damage, as they do have a habit of blocking attacks rather than parrying due to their high posture pool
 -   Nightmares can take way more posture then their little brothers, so some mantras that Guard break them will most-likely just be blocked normally by them.
 -   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against, as some of these enchants, will punish you far harder than you'd expect from an NPC.

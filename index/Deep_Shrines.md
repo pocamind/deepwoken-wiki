@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 61268
+revid: 61991
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -188,4 +188,4 @@ Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline
 -   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
 -   You do not need to deal with the Shrines of Conceit or Order for the contractor quest.
--   Deep shrines most likely have something to do with [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>), due to the deep shrines in the [Temple Of Hearts](Temple_of_Hearts.md), the fact that you can make deals with the deep shrines, Similarly to Yun'shul.
+-   Deep Shrines may have something to do with [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>), due to objects resembling them in the [Temple Of Hearts](Temple_of_Hearts.md). Both engage in deals with you.

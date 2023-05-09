@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61981
+revid: 61996
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -404,13 +404,18 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery, +2 Health)
     -   Prerequisite: 25 Galebreathe
 
+### Cold Phantom
+
+-   Freezing Wight \[Common Talent, Frostdraw and Galebreathe Exclusive\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
+    -   Prerequisites: Haunted Gale, 40 Frostdraw
+
 ### Colossus
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword.
 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks.
-    -   Prerequisite: 25 Strength.
+    -   Prerequisite: 25 Strength
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
     -   Prerequisites: 25 Heavy Weapons Mastery, 15 Strength

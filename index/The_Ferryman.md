@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 61060
+revid: 61998
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -27,7 +27,7 @@ Template:Creature Infobox V3
 
 #### Summoning The Ferryman
 
-1.  Find the ritual grounds at Boatman's Watch.
+1.  Find the ritual grounds at [Boatman's Watch](<Boatman's_Watch.md>).
 2.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
 3.  Light the campfires using flint or any other attunement-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle.
