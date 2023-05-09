@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 54880
+revid: 61970
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -52,5 +52,5 @@ To keep progressing however, you will need regular EXP, obtained by killing thin
 
 ## Trivia
 
--   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. Presumably, this was added because it was too easy to level up.
+-   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the power 60 to 20 compression.
 -   There is also a mechanic in which each Power level, you deal about 30% of your base damage of any weapon or mantra added to your NPC damage per Power level. Please keep this in mind when fighting higher level mobs.

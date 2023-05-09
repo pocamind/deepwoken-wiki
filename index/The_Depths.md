@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 61731
+revid: 61971
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -58,7 +58,7 @@ The Depths contains nine layers, though you can reach only two in game: The Firs
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [First Layer (Schizophrenia) for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial](First_Layer.md)**
+**\- [First Layer (Scyphozia) for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial](First_Layer.md)**
 
 **\- [Second Layer (The Eternal Gale) for information on the layer you are sent to after falling into the void, including info on Chaser and New Kyrsa](Second_Layer.md)**
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 61691
+revid: 61958
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -259,13 +259,34 @@ _A rapid delivery of consecutive attacks._
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to make each hit take longer to come out; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
+-   Can be modified with rush and drift shards to increase the speed of the slashes.
 
  |
 
 ### **Mobility Mantras**
 
-There are no known Mobility Mantras for Galebreathers, though there are many talents that increase a Galebreathers passive mobility.
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td></td>
+  <td><center><p>Wind Passage<br>
+  (★★★)</p></center></td>
+  <td><center><p><i>A rush of wind</i></p></center></td>
+  <td>The user instantly teleports to the position that they are facing, leaving much wind after cuts in the position they left.
+  <ul>
+    <li>Can be modified with glass and perfect lens to increase the distance.</li>
+    <li>Uses the shadow assault sound.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### **Support Mantras**
 

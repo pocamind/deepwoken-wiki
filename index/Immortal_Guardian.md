@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 61923
+revid: 61928
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -61,14 +61,14 @@ An Immortal Guardian executes the player after knocking them.
 -   It's easy to get overwhelmed by them, considering they spawn in groups, so be careful, and make sure to isolate each one.
 -   Best way to kill them is either Parry-Trading or using weapons with high chip damage, as they do have a habit of blocking attacks rather than parrying due to their high posture pool
 -   Nightmares can take way more posture then their little brothers, so some mantras that Guard break them will most-likely just be blocked normally by them.
--   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against, as some of these enchants, will punish you far harder than you'd expect from an npc.
+-   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against, as some of these enchants, will punish you far harder than you'd expect from an NPC.
 -   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
 -   The Divine Greatsword version's criticals are blockable- you don't really even need too much posture. The Divine Greataxe version might be blockable, but you need much more posture.
 
 ## Trivia
 
--   Images and info taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU))
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
 -   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).
+    -   The only exception to this is when they say "Thanks," which is in lowercase.
 -   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oaths.md#arcwarder) Oath, created before the sketches for the current Arc Suit were even a thing.
     -   The "Crypt Arcwawrder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken.

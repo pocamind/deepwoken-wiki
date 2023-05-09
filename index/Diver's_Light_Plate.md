@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 61910
+revid: 61962
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Items]
@@ -33,3 +33,4 @@ The Diver's Light Plate is an equipment item in the arms category. Equipping it 
 -   Easily the best arms equipment in the game due to all the Pips being legendary.
 -   Can drop even without involvement (No Kills) during Hell Mode.
 -   If you have trouble killing mobs, you can just wait until Hell Mode is over. But it isn't guaranteed so server hoping may be required.
+-   This armor looks very similar to the Pre-verse 2 Black Diver outfit and takes clear inspiration from Bondrewd's outfit from the anime and manga series, _Made in Abyss_.

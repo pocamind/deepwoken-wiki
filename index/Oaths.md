@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61796
+revid: 61964
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,7 +62,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 ― Oathsworn badge
 
-**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character.
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Oaths are causes players swear to live by as such you cannot take two Oaths because people cannot live by two causes.
 
 There are currently ten known obtainable Oaths in _Deepwoken._
 
@@ -374,9 +374,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
+“ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
 
-― Drinking the holy Ichor
+― Iblis, The Fallen Angel
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -461,7 +461,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Arc Suit - Support Mantra**
     -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrent gems.
-        -   Cooldown is 15 seconds
+        -   Cooldown scales with the duration of the suit.
     -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
     -   To achieve the maximum damage reduction, use 3 Vibrent Gems, which will give the suit a 15% damage reduction.
     -   The suit has iframes on the second half of its windup.
@@ -521,9 +521,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   Kick your foes at the speed of light.
         -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
 
--   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast. (+5 Health)
+-   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 
--   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)
+-   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness.
 
 ### Notes
@@ -657,7 +657,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
         -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.
-        -   4 seconds cooldown.
+        -   5 seconds cooldown.
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
@@ -744,8 +744,8 @@ Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023
 
 Proof of Time Magic's existance and it being an "Oath".
 
--   Epsi (one of the npcs you need to talk to if you want to obtain Arcwarder) is an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
--   Currently, the only oaths you can remove are Oathless ~and Silentheart (as of recent)~ (silentheart can NOT be removed, not sure who said that you can) by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+-   Epsi (one of the NPCs you need to talk to if you want to obtain Arcwarder) has an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
+-   Currently, the only oaths you can remove are Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
@@ -767,5 +767,7 @@ Proof of Time Magic's existance and it being an "Oath".
     -   Contractor gives the user dark maroon eyes.
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
--   The devs have confirmed that oathless will be a "seatwarmer" since their objective is to make many oaths so oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
+-   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many oaths so Oathless will be basically useless, causing community backlash due to the oath's obtainment method being more tedious than some oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
+    -   It's also said that they had commented that it was canonically the strongest, though the veracity of this statement and it's meaning are unclear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
+-   The Dawnwalker talents used to each give 5 extra health.

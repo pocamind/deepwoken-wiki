@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 61853
+revid: 61938
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -13,6 +13,8 @@ categories: [Character, Attributes]
 [Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of talents require stats past 75, so uncapping is not a necessity for every build. (Note that racial bonuses ignore caps, letting you reach 77 and 102 respectively.)
 
 ## Character Attributes Unbound
+
+Character Attributes will permanently be unbounded if you have done the quest once before, allowing you to unbound your attribute after 75 without the repetition.
 
 ### Strength Unbound
 
@@ -80,6 +82,8 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 
+As an alternative you can also defeat any boss for a weapon uncap.
+
 ## Attunement Unbound
 
 1.  Reach 75 Flamecharm/Frostdraw/Thundercall/Galebreath/Shadowcast
@@ -91,6 +95,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 7.  Head on to Erisia and go all the way throught the Garden Reservoir. You will eventually reach a teleport, which takes you to [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
+
+As an Alternative defeating Chaser or Ferryman can also uncap your attunement.
 
 ## Notes
 

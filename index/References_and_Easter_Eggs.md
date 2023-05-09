@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 61901
+revid: 61943
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -141,6 +141,7 @@ categories: [Deepwoken]
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
+-   **Pocket Sand**'s name is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 
 ## Weapons
 

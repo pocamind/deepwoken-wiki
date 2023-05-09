@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 58575
+revid: 61963
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,7 +29,7 @@ When used, small circles appear around your right arm. Per use, more circles wil
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a level of power that will be inflicted on your next attack. It has a duration of about 1 minute, after which the effects will disappear and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max level of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdoll. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture but will not break it, getting dodged will also cancel the ability. If your attack is parried by an NPC, your posture will be punished as usual and extra posture will not be given.
+**Wind-Up** will store a level of power that will be inflicted on your next attack. It has a duration of about 1 minute, after which the effects will disappear and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max level of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdolls. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture, though will not break it, and knock back enemies who parried it. Getting dodged will also cancel the ability. If your attack is parried by an NPC, your posture will be punished as usual and extra posture will not be given. It can also execute mobs when they are knocked by it and if charged three times or more, it's able to execute enemies that were knocked from other sources of damage.
 
 ### _**Resonance Point usage**_
 
@@ -37,9 +37,8 @@ When obtained, Wind-Up will spend its points on the following stats:
 
 -   **Charge amount:** The more points are spent on this stat, the fewer charges it takes to reach max charges.
 -   **Charge speed:** The more points are spent on this stat, the shorter the charge animation is.
--   ~**Damage boost potency:** The more points are spent on this stat, the higher the damage boost will be.~ There is no such stat, The damage boost potency depends on how much your charge amount is.
 
-## Trivia/Notes
+## Trivia
 
 -   Similar to _Hunter X Hunter_'s Phinks, and their ability "Ripper Cyclotron".
 -   Possibly a reference to the "Impact" fighting style from the Roblox game "Arcane Adventures", which involved charging up and releasing an extremely powerful blow. ("Impact" is a reference to Elizabello II's "King Punch" from One Piece.)

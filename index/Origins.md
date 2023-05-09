@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 61503
+revid: 61965
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -84,7 +84,8 @@ Also all of the kills need to be made on one single character
         -   The EXP loss is almost non-existent, however, so getting the Maverick [boon](Boons_and_Flaws.md) cancels this out entirely. EXP gain from events is roughly 0.95x what it is normally.
     -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
     -   **\[PRO\]** ...but start with neutral reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
-    -   **\[PRO\]** You cannot be hunted down through bounties by other Voidwalkers...
+    -   **\[PRO\]** You cannot initially be hunted down through bounties by other Voidwalkers...
+        -   However you can still gain bad reputation towards the Knives of Eylis mercenaries by killing the squads of 3 Knives of Eylis spawning with a Children Of Navae hostage, thus appearing on the Voidheart's bountyboard. Voidwalkers can also take bounties on other Voidwalkers from nations they have negative reputation with, that being all of them.
     -   **\[CON\]** ...but you will be absolutely despised by the rest of the player base, so you may be attacked on sight while wearing the Whaler Initiate starter armor.
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...

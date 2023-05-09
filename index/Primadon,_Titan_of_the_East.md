@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 61912
+revid: 61949
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -22,9 +22,9 @@ The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [
 
 ## Description
 
-Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an ape like creature, standing at roughly 21 meters (68.9 feet), with some features of marine life, featuring webbed feet and fins on its arms at head.
+Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at roughly 21 meters (68.9 feet), with some features of marine life, featuring webbed feet and fins on its arms and head.
 
-It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) (Most monster drops work, to a varying degree) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 12 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), five [Thresher Spines](Thresher_Spine.md), or three [Umbral Obsidian](Umbral_Obsidian.md) (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 12 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 <table><caption>Known Offerings</caption>
 <tbody>
@@ -78,8 +78,8 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them.
--   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a _very_ low chance of 1-2 Deep Gems or legendary rings (Deepfire, Akira's and maybe others).
--   **Resonance -** Gives the second best resonance progress(7-10 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
+-   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a low chance of 1-2 Deep Gems or legendary rings (including Deepfire and attribute scaling rings.)
+-   **Resonance -** Gives the second best resonance progress (7-10 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
 
 ## Strategies & Tips
 

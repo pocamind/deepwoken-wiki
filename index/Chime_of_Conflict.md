@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 61640
+revid: 61953
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -19,6 +19,8 @@ categories: [Character, Talents]
 The _Chime of Conflict_ is a talent and item obtainable by talking to [Yamaketzal](Yamaketzal.md) at the [Songseeker Temple](Songseeker_Wilds.md) once the player has reached [Power](Power.md) 5. It can be used to enter instanced PvP arenas for players to practice, compete for Experience, Loot and Glory, without risking themself in reality.
 
 The Chime of Conflict is unusable while in [The Depths](The_Depths.md).
+
+The top 15 Chime of Conflict players are stated to be as strong as Ministry Prophets lore wise.
 
 ## PvP Arena
 

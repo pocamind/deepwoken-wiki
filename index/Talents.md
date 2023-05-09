@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61926
+revid: 61959
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -85,6 +85,30 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affects your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
+
+### Adept Caster
+
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
+    -   The effect procs when hit by a mantra that is not within the Attunementless category.
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Red
+        -   Frostdraw: Blue
+        -   Thundercall: Yellow
+        -   Galebreath: Green
+        -   Shadowcast: Purple
+    -   Prerequisite: 25 Intelligence
+    -   Mutual Exclusive: Return to the Dark Ages
+
+-   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
+    -   "Max ether" translates to having more than 95% ether.
+    -   This talent goes on a 3 second cooldown when a mantra is casted.
+    -   Prerequisite: 40 Intelligence
+
+-   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
+    -   Prerequisite: 25 Intelligence
+-   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
+    -   Prerequisites: 85 Intelligence
 
 ### Aerial Dancer
 
@@ -339,30 +363,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
     -   Prerequisites: 40 Agility, All Butterfly talents
 
-### Adept Caster
-
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
-    -   The effect procs when hit by a mantra that is not within the Attunementless category.
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast after being hit and vice versa.
-    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   Flamecharm: Red
-        -   Frostdraw: Blue
-        -   Thundercall: Yellow
-        -   Galebreath: Green
-        -   Shadowcast: Purple
-    -   Prerequisite: 25 Intelligence
-    -   Mutual Exclusive: Return to the Dark Ages
-
--   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
-    -   "Max ether" translates to having more than 95% ether.
-    -   This talent goes on a 3 second cooldown when a mantra is casted.
-    -   Prerequisite: 40 Intelligence
-
--   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
-    -   Prerequisite: 25 Intelligence
--   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   Prerequisites: 85 Intelligence
-
 ### Champion
 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
@@ -529,9 +529,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Dawnwalker
 
--   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. (+5 Health)_
+-   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period._
 
--   _Protagonist Syndrome \[Unlockable Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast. (+5 Health)_
+-   _Protagonist Syndrome \[Unlockable Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast._
 
 ### Death Speaker
 
@@ -1145,6 +1145,11 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   "Saved" being interrupting a grip attempt.
     -   Prerequisite: 15 Willpower
 
+### Lichtenberg
+
+-   Scorched Peak \[Common Talent, Flamecharm and Thundercall Exclusive\] - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+    -   Prerequisites: 50 Thundercall, 25 Flamecharm
+
 ### Limitbreaker
 
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)
@@ -1291,6 +1296,15 @@ These are just raw stat increases and are beneficial to anyone.
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
     -   Prerequisites: Bring a Navaen Nomad Captive to Eastern Camp Master on [Etris](Etris.md), or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) on [Summer Isle](Summer_Isle.md).
+
+### Needle
+
+-   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] running M1's deal increased posture damage. Upon landing your Critical, your next running M1 will have increased range.
+    -   Prerequisites: Using Rapier, 30 Light Weapon
+-   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
+    -   Prerequisites: Using Rapier, 50 Light Weapon
+-   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your M1's to deal additional blood loss until you take damage.
+    -   Prerequisites: Using Rapier, 40 Light Weapon
 
 ### Nimble Blade
 
@@ -1927,6 +1941,37 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Prerequisite: 75 Agility
 
+### **[Oath](Oaths.md)**
+
+-   Oath: Arcwarder - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
+    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
+
+-   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +15% Oath Resistance, +10 HP)
+    -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
+
+-   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+    -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
+
+-   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
+    -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+
+-   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
+    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
+
+-   Oath: Linkstrider - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+    -   Prerequisites: Sacrifice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
+
+-   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
+    -   Prerequisites: 50 agility and beat Alirian in race.
+
+-   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
+    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
+
+-   Oath: Silentheart - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
+    -   Prerequisites: 40 Strength, 40 Agility OR 40 Charisma, 75 Weapon, be attunement-less, get knocked by a mantra from any max attunement user and get gripped by them, start the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md), ~fight the ghosts~ (you dont have to fight the ghosts i got it without fighting them) and talk to [The Dreadstar](The_Dreadstar.md).
+-   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
+    -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
+
 ### Miscellaneous
 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered. (+3 Health)
@@ -1988,37 +2033,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 25 Agility
 
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
-
-### **[Oath](Oaths.md)**
-
--   Oath: Arcwarder - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
-    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
-
--   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +15% Oath Resistance, +10 HP)
-    -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
-
--   Oath: Blindseer - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Willpower, all 3 Mental Fortress talent, Blindfold and read the inscriptions in The Temple of the Forgotten Flame.
-
--   Oath: Dawnwalker - You vow to forever reach towards the brilliant Light. There's no shadow that your radiance cannot expunge. (+2 Combat Mantra Slots)
-    -   Prerequisites: Have 30 Kyrsan Medalions and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
-
--   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
-
--   Oath: Linkstrider - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: Sacrifice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
-
--   Oath: Jetstriker - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
-    -   Prerequisites: 50 agility and beat Alirian in race.
-
--   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
-
--   Oath: Silentheart - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
-    -   Prerequisites: 40 Strength, 40 Agility OR 40 Charisma, 75 Weapon, be attunement-less, get knocked by a mantra from any max attunement user and get gripped by them, start the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md), ~fight the ghosts~ (you dont have to fight the ghosts i got it without fighting them) and talk to [The Dreadstar](The_Dreadstar.md).
--   Oath: Contractor - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.
-    -   Ministry Reputation, learn what happened from Yun'Shul then return to Lord Regent.
 
 ## **Whispers**
 
