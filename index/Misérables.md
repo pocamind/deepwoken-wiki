@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 61563
+revid: 61982
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -11,6 +11,8 @@ notices:
 # Misérables
 
 Misérables is an NPC in the second floor of the [Eternal Gale](The_Depths.md). He is found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+#### DO NOT ASK FOR THE SAME THING MORE THAN ONCE IN THE RUN. He will instantly wipe you.
 
 Template:NPC name
 
@@ -28,9 +30,9 @@ Template:NPC name
 2.  Frolic
 3.  Eat
 
-\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse."
+\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse.
 
-1.  50\. Peace of mind, friend.
+1-50. Peace of mind, friend.
 
 _\*Their expression relaxes, as if the tension has been released.\*_ "That's the spirit, my dull, dull friend. Now, tell me. What do you seek? Surely, my new friend wouldn't have come here just to check in on me? I think we both know just how selfish your kind are. Tell me, what are you here for?"
 
@@ -76,4 +78,3 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 ## Trivia
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched.
--   Do NOT ask for the same thing twice in the same session. Misérables will wipe you instantly.

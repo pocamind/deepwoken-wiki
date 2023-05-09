@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 60409
+revid: 61979
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -33,3 +33,4 @@ Dying embers drop from any NPC or player that uses the [Flamecharm](Flamecharm.m
 -   [Golems](Rock_Golem.md)
 -   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
 -   [Stone Knights](Stone_Knight.md)
+-   [Authority Soldier](Authority_Soldier.md)

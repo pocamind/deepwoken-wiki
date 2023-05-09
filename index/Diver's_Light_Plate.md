@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 61962
+revid: 61972
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Items]
@@ -15,7 +15,7 @@ categories: [Character, Items]
 | selling price | 105 |
 | requirements | Power 10, 5 Fortitude |
 | weight | 2 |
-| innate stats | 10 Health, 1 Posture, 3 Pips (All guaranteed to be legendary) |
+| innate stats | 10 Health, 1 Posture, 3 Legendary Pips |
 | innate talent | Conquer Your Fears |
 | bankable | Yes |
 | droppable | Yes |

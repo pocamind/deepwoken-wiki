@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 61048
+revid: 61983
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -15,7 +15,7 @@ notices:
 
 ― Archivist Journal: 'Megalodaunt'
 
-_Commonly referred to as **Sharko**_
+_Commonly referred to as **Sharko**_ or _**Fatass**_
 
   
 
