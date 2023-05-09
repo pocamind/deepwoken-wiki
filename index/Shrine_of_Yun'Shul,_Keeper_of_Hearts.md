@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 61727
+revid: 62007
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -16,9 +16,9 @@ Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shr
 
 ## Description
 
-Yun'Shul is the Drowned God of Wishes. While they do not appear in the game themselves, their [shrines](Deep_Shrines.md) do. As well as the Deep Shrines, their is also their main shrine in the Temple of Hearts. Yun'Shul's shrine is a unique NPC found in The Depths. It allows players to make wishes by communicating with Yun'Shul.
+Yun'Shul is the Drowned God of Wishes. While they do not appear in the game themselves, their [shrines](Deep_Shrines.md) do. As well as the Deep Shrines scattered throughout the overworld, there is also their main shrine in the [Temple of Hearts](Temple_of_Hearts.md). Yun'Shul's shrine is a unique NPC found in The Depths. It allows players to make wishes by communicating with Yun'Shul.
 
-The shrine at Temple of Hearts also acts as the penultimate step of completing the [Contractor Oath](Oaths.md), choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
+The shrine at Temple of Hearts also acts as the penultimate step of completing the [Contractor Oath](Oaths.md), choosing the "What happened to this place?" dialogue option. This will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
 
 ## Wishes
 
@@ -38,18 +38,19 @@ If you meet all the criteria, you are able to make one of five wishes:
 2.  **"My Flaws weigh me down too much, I wish for relief."**
     -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
         -   **You can only make this wish once**, so if you get stuck with something like deficient, you can't get another reroll, though you can make use of Deep Shrines instead.
+        -   Essentially useless, due to the [Shrine of Blasphemy](Deep_Shrines.md) which does the exact same thing with less risks (You can't be given the Vacant flaw), and for only 5 knowledge.
 3.  **"The Vows I made give me much regret, I wish to break."**
-    -   Erase all your active vow of masteries.
-4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path"**
+    -   Erase all your active vow of masteries, whether they be as a servant or as a master.
+4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."**
     -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled however the variant of the resonance might change so if you had physical [Sacred Field](Sacred_Field.md) you will get mantra version). Gives your Resonance the Tarnished flaw.
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards(the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling [Sacred Field](Sacred_Field.md) you will get the mantra version). Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
 
 ## Trivia
 
 -   Yun'Shul is referred to by the developers by "they" and "them".
-    -   This trait is also shared with Ya'Alda from Rogue Lineage.
--   It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.
+    -   This trait is also shared with [Ya'alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) from Rogue Lineage.
+-   ~It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.~ **Not true**, as you are combat tagged instantly upon talking to them.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
--   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell. Yun'Shul's "what happened to this place" dialogue can be triggered without a resonance through this method, be quick!
--   There is an Enchantment named after Yun'Shul.
+-   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
+-   There is an [Enchantment](Enchantments.md) named after Yun'Shul.

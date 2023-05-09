@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 61963
+revid: 62036
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,7 @@ Pressing C will activate the **Wind-Up** Resonance.
 
 ### _**Resonance Point usage**_
 
-When obtained, Wind-Up will spend its points on the following stats:
+When obtained, Wind-Up will spend its points on the following stats: (keep in mind these changes might be minimal as for me i got windup 3-4 times and they were very similar)
 
 -   **Charge amount:** The more points are spent on this stat, the fewer charges it takes to reach max charges.
 -   **Charge speed:** The more points are spent on this stat, the shorter the charge animation is.

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 61899
+revid: 62025
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -62,16 +62,14 @@ Template:ImageCaption Infobox _"An application of the song that enables the user
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduce (or even negate in some scenario) the aggro range of enemies. Activation is indicated by an inward ring and a fade out noise, while deactivation with an outward ring and a fade in noise.
 
-The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges and holding items. Uncrounching, attacking, being hit or interacting with the world will deactivate Tacet.
-
-(you can no longer use warrior's respite with tacet)
+The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges and holding items. Uncrounching, attacking, being hit or interacting with the world will deactivate Tacet. You cannot use Warrior's Respite with Tacet.
 
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
 Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, unaggro range is larger than 0 studs, so the user will need to make some distance to evade any fight.
--   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using tacet.
+-   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet.
 
 ### **Obtainment**
 

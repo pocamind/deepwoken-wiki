@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 61964
+revid: 62021
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -627,13 +627,12 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 ### Effects
 
--   You gain 15% mantra resistance.
--   You gain 10% more damage on your M1s.
--   You are unable to obtain, modify or use any Mantras. Upon obtaining the oath, your mantra tab is removed.
+-   15% mantra resistance.
+-   10% more M1s and Critical damage.
+-   Entirely lose access to mantras, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
--   Your vent turns red.
--   Your eye color becomes duller and darker as the song no longer flows through you.
+-   Your eye color becomes duller and darker.
 
 ### Upgrading
 
@@ -676,8 +675,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   This oath is the only oath that does not give any mantra slots.
 -   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
--   There is an unknown damage buff source from using Silentheart.
--   Silentheart's vow rejects the words of the Song (Mantra chants). Resonances and Murmurs are not words.
+-   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
     
 
 ## Lore Oaths:

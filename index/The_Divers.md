@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 61997
+revid: 62005
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -39,7 +39,7 @@ As it stands currently. There is an active, and generally supportive Discord. As
 
 ## Reputation
 
-You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free. The cost ranges depending on ur negative reputation starting with low negative reputation (declared as a enemy) 25 notes and so on till 100
+You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free. The cost ranges depending on your negative reputation starting with low negative reputation (declared as a enemy) 25 notes and so on till 100
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
 
@@ -47,7 +47,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 ## NPC
 
-**[Karliah](Karliah.md):** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
+**[Karliah](Karliah.md):** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
 
@@ -63,12 +63,14 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
+**Klaris Llfiend, Mother of Lights:** A Black Diver who resides in Castle Light. She is able to give the player the [Dawnwalker Oath](Oaths.md), and a Light Hook which transports the player to Layer 2. She is one of the strongest of all Divers.
+
 ## Trivia & Guild Information
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   The official divers server is held at Discord.gg/divers
+-   The official Divers server is held at Discord.gg/divers
 -   Upon reaching the title of "Black Diver" within the guild, Players are rewarded with a guild officer.
--   The current leader of The Divers in-game is R0bustic
+-   The current leader of The Divers in-game is R0bustic.
 -   The current officers of The Divers in-game are:
     -   R0bustic
     -   ViolaIsSilent

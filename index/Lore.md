@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 61737
+revid: 62033
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -145,7 +145,7 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
--   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
+-   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 -   Despite being rude most of the time showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
 -   The katana he wields isn't strapped to his black, it's floating.
     -   Yes this is canon.
@@ -165,29 +165,40 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   Apparently, he also writes books, being one and the only known to be "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
+-   Apparently he has disciples and apprentices, what he teach to his disciples is unkown, but probably he teaches them topics about the philosophy about the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unkown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
 
 ### **Chaser, Scholar of the Burning Blood**
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry.
+-   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet..
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
--   He volunteered for the mission himself so he could lead it, but by the time they reached the Second Layer he slaughtered his team.
--   He killed two more expeditions after this, and may have killed even more.
+-   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape.
+-   He killed two more expeditions after this, and may have killed even more, such as ignition union members.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an Adret, he has a never before seen facial markings for the race.
--   He can manipulate blood, a power gifted to him by the Second Prophet.
+-   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.
 -   Slightly less powerful than a Power 20 player.
 -   Currently trapped in Floor One of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
--   One of his victims was an Ignition Union Deepdelver.
+-   One of his victims was an Ignition Union Deepdelver named Beta.
 -   Before joining the divers, he was an apprentice of the Second Prophet of the Ministry, explaining why he graduated in the Markor Citadel with ease.
+-   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his apprenticehood under the Second Prophet.
 
 ### **Colonel Hoffa**
 
 -   (Ragoozer) Powerful Ignition Union Deepdelver.
 -   On par with Akira.
 -   Possibly an Arcwarder?
+
+### **Venn Kaelhand, Disciple of the Flame.**
+
+-   Disciple of Amorus Pleeksty.
+-   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon. (First Light critical)
+-   Original user of the First Light.
+-   Dedicated himself into the study of beasts altered by Korilfiend's influence,
+-   Probably not very strong despite being a disciple of Amorus Pleeksty, due to meeting his end at the hands of a Crimson Megaloudant despite not being a very strong creature.
+-   His status is: Dead.
 
 ### **Dr. Carrion, Father of Evolution**
 
@@ -305,6 +316,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Pioneer of Frostdraw.
 -   Possibly a more eldritch being.
 -   Exists on an island moving through the world, independent of the Voidsea.
+-   One of the few Celestials that didnt fleed during the fight against the Depths.
 
 ### **Nilsa**
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 61817
+revid: 62004
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -47,7 +47,7 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 30 int/30 wil/30 chr to obtain 1 Wildcard Mantra.
+It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra.
 
 ## Combat Usage
 
