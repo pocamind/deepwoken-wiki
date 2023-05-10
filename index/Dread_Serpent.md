@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 60680
+revid: 62086
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -13,7 +13,7 @@ categories: [Monsters, Bosses]
 ― Lumen's Folklore: Volume 'North'
 
   
-_Also referred to as Kaido, Ardour or Sea Serpent._
+_Also referred to as Kaido, Ardour, or Sea Serpent._
 
 Template:Creature Infobox V3
 

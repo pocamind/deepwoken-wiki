@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 61994
+revid: 62090
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -589,5 +589,6 @@ Rare
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
     -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
 -   Like [Galebreathe](Galebreathe.md) and [Frostdraw](Frostdraw.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
+-   Shadow Vortex may reference to Planetary Devestation from _Naruto Shippuden_ from the black spherical shape that is launched and any debris or rocks are pulled into the orb locking the victim inside.
 
 -   ~Shadow has the least mantras out of all attunements.~ Now Shadowcast has the same number of mantras as galebreath as of (03/04/2023)
