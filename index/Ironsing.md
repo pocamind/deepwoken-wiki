@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 62052
+revid: 62059
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -12,7 +12,7 @@ Your ability to harness metal from your surroundings.
 
 ## Description
 
-Ironsing is an attunement based around the ability to harness metal, commonly used by Blacksmiths around Lumen.
+Ironsing is an attunement based around the ability to harness metal, commonly used by Blacksmiths across the Luminants.
 
 ## Trivia
 

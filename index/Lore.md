@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 62047
+revid: 62058
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -504,6 +504,13 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   It's also treated as a great place for scholars and learning. A hub of information.
 -   They taught the [barber](Barber.md) plastic surgery.
 
+#### Lullaby Isles
+
+-   An archipelago with multiple settlements dotted across the region.
+-   Home to most of the Chrysid.
+-   Outside of Markor, surrounded by a dense mountain range.
+-   The Echelon, the city-state at the center of the isles, and where the council of the Moonlit Faith resides.
+
 ### **Southern Luminant**
 
 -   A location affected by a Great Drowning.
@@ -521,7 +528,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### **Western Luminant**
 
 -   The home to the Hundred Legions and home of the Khans.
--   Speculated to have the main Headquarters of the Ministry located.
+-   Speculated to have the main Headquarters of the Ministry.
 -   Home of Amorous Pleeksty (The Flamecharmer who ate part of Korilfiend).
 
 ### **Voidsea**
@@ -541,7 +548,18 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 _"A place remembered only by the waves"_
 
--   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library
+-   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library.
+
+### Constellia
+
+**Lore Sources:** Unnamed Lightborn at New Kyrsa, Greathive Aratel's observatory
+
+Glittering towers of ivory that hang over Lumen's seas.
+
+-   The home of Celestials and Lightborns.
+-   After the tides, the city was forced to evacuate.
+-   Its forebearers, soldiers fighting against the Depths, lost their morale after the Celestials fled.
+-   The Kyrsans, under Ethiron's will, raided the city, which could explain why there are fallen shards surrounding the towers within the maw of Ethiron.
 
 ### **The Depths**
 

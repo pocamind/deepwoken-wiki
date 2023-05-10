@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 60163
+revid: 62062
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 
 ## **Moves**
 
-| Name | width="125px" | Parryable? | Blockable? | Dodgeable? | Danger |
+| Name |  | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | **Quick Strike** | The Terrapod does a singular slice at its opponent and retreats to recover. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
@@ -33,7 +33,7 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 
 ## **Tips and Notes**
 
--   Moderately easy to kill, despite being tankier than a [Megalodaunt](Megalodaunt.md). (Stat Check Level: 5+)
+-   Moderately easy to kill, despite being tankier than a [Megalodaunt](Megalodaunt.md). (Stat Check Level: 8+)
 -   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).
     -   By landing a few hits and running to avoid its attacks, you can kill one of these without blocking, parrying or dodging.
 -   This monster is hostile towards any others in Upper Erisia.
