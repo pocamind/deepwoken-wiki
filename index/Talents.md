@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 61996
+revid: 62042
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -397,7 +397,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Charisma, Charismatic Cast
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisites: Chaotic Charm, Morale Booster, Charismatic Cast, Lasting Charisma, Tough Love
+    -   Prerequisites: All Charm Caster talents
 
 ### Cloudwalker
 

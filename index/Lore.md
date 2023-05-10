@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 62033
+revid: 62047
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -191,14 +191,14 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   On par with Akira.
 -   Possibly an Arcwarder?
 
-### **Venn Kaelhand, Disciple of the Flame.**
+### **Venn Kaelhand**
 
--   Disciple of Amorus Pleeksty.
--   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon. (First Light critical)
+-   Deceased disciple of Amorus Pleeksty.
+-   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon.
 -   Original user of the First Light.
--   Dedicated himself into the study of beasts altered by Korilfiend's influence,
--   Probably not very strong despite being a disciple of Amorus Pleeksty, due to meeting his end at the hands of a Crimson Megaloudant despite not being a very strong creature.
--   His status is: Dead.
+-   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed it lead to his death.
+-   Probably not very strong despite being a disciple of Amorus Pleeksty, due to meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.
+    -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.
 
 ### **Dr. Carrion, Father of Evolution**
 

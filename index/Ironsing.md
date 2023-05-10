@@ -1,14 +1,12 @@
 ---
 title: Ironsing
-revid: 61816
+revid: 62052
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
 ---
 
 # Ironsing
-
-## _**Warning: Speculation Ahead**_
 
 Your ability to harness metal from your surroundings.
 

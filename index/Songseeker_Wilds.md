@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 61061
+revid: 62051
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -20,7 +20,7 @@ LocationL Songseeker Wilds LocationR
 
 ## Overview
 
-Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is near the [Ancient Rotlands](Ancient_Rotlands.md), [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
+Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is north of [Summer Isle](Summer_Isle.md).
 
 It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [ships](Ships_&_Sailing.md).
 
@@ -37,9 +37,12 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 -   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
--   There are also [Mineskippers](Mudskipper.md) within the mineshaft
+    -   There are also [Mineskippers](Mudskipper.md) within the mineshaft.
+    -   Going up the mineshaft will also lead to the Shrine of Order.
+    -   Along with that, you will find some nodes of Astruline.
+-   A gateway that leads to the Ancient Rotlands, a [voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
-    1.  A Windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
+    1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
     2.  A small hut. (2 chest spawns inside)
 
 #### Obelisk
@@ -117,6 +120,6 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
 ## Trivia/Notes
 
--   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to Lower [Minityrsa](Minityrsa.md)'s drops.
+-   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   Farm in [Minityrsa](Minityrsa.md) as there are many gankers in Songseeker.

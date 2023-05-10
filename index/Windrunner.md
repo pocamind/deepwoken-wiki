@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 47632
+revid: 62048
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -41,4 +41,4 @@ _"If you value your life, you will run. I can tell you are fast, run far from th
 
 ## Trivia
 
--   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely the Leader of the Authority). He then says "_Two men attempting to keep an Oath... Which oath is right?_". Since The Contractor is an [oath](Oaths.md), it is possible that the "Warmaster" might also be an oath, just not one obtainable to the player as of right now.
+-   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely the Leader of the Authority). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
