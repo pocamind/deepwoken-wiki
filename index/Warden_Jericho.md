@@ -1,16 +1,12 @@
 ---
 title: Warden Jericho
-revid: 54998
+revid: 62073
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
 ---
 
 # Warden Jericho
-
-“ Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... ”
-
-― Sibex on Jericho
 
 ## Description
 

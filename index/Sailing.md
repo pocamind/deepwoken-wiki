@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 61098
+revid: 62075
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -14,7 +14,7 @@ notices:
 
 ## Description
 
-Sailing is a crucial part to Deepwoken, ~you cannot cross the sea without a [boat](Ships_&_Sailing.md)~ Not technically true as you can swim (assuming you have enough food) or use some mantras such as Ice Skate. The sea has many threats, including Whirlpools, Lionfish, Dread Serpents (commonly referred to as "Kaido's") and the Voidsea.
+Sailing is a crucial part to Deepwoken as it will be your main means of traveling the seas. You can also swim (assuming you have enough food) or use some mantras such as Ice Skate to travel in the water. The sea has many threats, including Whirlpools, Lionfish, Dread Serpents (commonly referred to as "Kaido's") and the Voidsea.
 
 ## Sailing the High Seas
 
@@ -63,7 +63,7 @@ The better version of the Schooner. Although (possibly) having the same speed as
 
 The overpriced ironclad in its natural habitat
 
-Another mid game boat with way more space. Best for sizes 6-8)
+A mid game boat with a decent amount of space, containing cannons. Best for sizes 6-8)
 
 ### Ironclad
 

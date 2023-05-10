@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 62048
+revid: 62072
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -20,7 +20,9 @@ Windrunner is the NPC you talk to to uncap your agility. As of the layer 2 updat
 
 Template:NPC name
 
-File:Windwalker.png
+File:Great-View-With-WindRunner.png
+
+Windrunner having an amazing view of Etris
 
 ## Dialogue
 
@@ -34,6 +36,8 @@ _And so they continue to squabble... Oh, someone actually found their way up her
 _"Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?"_
 
 1.  **\[End Dialogue\]**
+
+-   He also says this after getting your Agilty Unbounded
 
 If you talk to him with 75 agility, he will say:
 
