@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62124
+revid: 62133
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 # **Oath: Oathless**
 
-“ IT'S META NOW! ”
+“ If free will is an illusion, why not make it a convincing one? ”
 
-― A random freshie after oathless gets a minor buff
+― Oathless description
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -109,9 +109,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ KAAAAMEEEEHAAAAMEEEE... ”
+“ \*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the duty of your Oath - free the lost souls from their shackles, help them escape into the light.\* ”
 
-― That Brick Wall PVE build with 102 Willpower eliminating a poor gigamed with Sightless Beam
+― Glyph found in Temple of Forgotten Flames
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -190,9 +190,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ I AM THE SOUL SOCIETY ”
+“ We Owls find man to be capable of... Suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
 
-― An anime weeb who likes visonshaper
+― The Nestmind
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -266,9 +266,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ Sacrifices? THIS OATH IS AMAZING! ”
+“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
 
-― A soon-to-be linkstrider
+― The Entropy Catalyst
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -319,9 +319,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ LOOK! LOOK! I'm your father! ”
+“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
-― A Jetstriker who was never seen again
+― Alirian
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -376,9 +376,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ Mugetsu ”
+“ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
 
-― A starkindred using fire blade against a etrean guard
+― Iblis, The Fallen Angel
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -441,9 +441,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ I AM IRON MAN! ”
+“ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
 
-― A freshie after killing chaser 20 times
+― Delta
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -500,9 +500,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ I'm NOT a Lightkeeper wannabe! ”
+“ You shall connect with the light around us, surrounding all of Lumen. ”
 
-― A lightkeeper wannabe
+― Klaris Llfiend, Mother of the Lights
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -546,9 +546,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ THIS IS... Not worth it... ”
+“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
-― A regretful Contractor who finally achieved their goal
+― Duke Erisia to Contractors
 
 ### Obtainment
 
@@ -610,9 +610,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ Pfft, mantras are overrated, i prefer using MY BARE HANDS ”
+“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
-― A Silentheart user shortly before dying to Nanoprodigy
+― The Dreadstar
 
   
 
@@ -699,14 +699,6 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
 -   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Void sea due to the relation of the Voidwalkers and the Voidsea, meaning, that more like a "Time magic" oath, it can be more like a "Void oath" being time manipulation just a part of the oath.
     
-
-**Ironsing:**
-
-## Ironsing
-
-Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023 (PUBLIC DATE)
-
-If you would like to learn about Ironsing, go to it's own respective page.
 
 **Lifeweaver\*:**
 

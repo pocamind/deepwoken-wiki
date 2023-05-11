@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 61249
+revid: 62143
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -24,12 +24,8 @@ categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 or Layer 1 |
+| obtainment | Layer 2 |
 | description | A reminder that all songs must come to an end. |
-
-“ Do you know the definition of Insanity? ”
-
-― Light's Final Toll users fightning players with low willpower.
 
 ## Description
 

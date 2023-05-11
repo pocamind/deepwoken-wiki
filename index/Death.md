@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 53831
+revid: 62134
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]
@@ -22,7 +22,7 @@ Death is a core aspect of Deepwoken. You have three lives in Deepwoken, the firs
 
 [The Depths](The_Depths.md) is essentially the underworld, where you have to redeem yourself and prove your worth. Your goal in The Depths is to enter the sunken Celtorian city and sneak past enemy entities called Watchers. If spotted by the Watchers, you will have to fend off against two [Angels](Hollow_Angel.md). While you are sneaking around, you have to go to certain parts of the city and ring four bells to open a gate to the center of the city. Once you make it to the elevator, you will be sentenced by the [Voices of the Depths](Voices_of_the_Depths.md) to a [Trial](https://deepwoken.fandom.com/wiki/The_Depths#The_Trial) that, upon completion, takes you back up to the Etrean/Eastern Luminant (depending where you died before getting sent to the Depths in the first place) if successful, restoring all of your lives.
 
-Failing to survive in The Depths and perishing will result in you being sent to the [Fragments of Self](Fragments_of_Self.md). This is basically the afterlife. There is not much you can do here. You'll have to wipe or character or you can pay Robux (1000) to return to the Etrean Luminant commonly referred as using Last Wind (You can only use this once per character). There is also a [pool](Hippocampal_Pool.md) where you can give up to two items (or four depending on your [Echoes](Echoes.md) upgrade) to pass on to your future character of the same slot.
+Failing to survive in The Depths and perishing will result in you being sent to the [Fragments of Self](Fragments_of_Self.md). This is basically the afterlife, the final memories of the character. There is not much you can do here. You'll have to wipe or character or you can pay Robux (1000) to return to the Etrean Luminant commonly referred as using Last Wind (You can only use this once per character). There is also a [pool](Hippocampal_Pool.md) where you can give up to two items (or four depending on your [Echoes](Echoes.md) upgrade) to pass on to your future character of the same slot.
 
 _If you want to know more about the ways you can die, see [Death Compendium](Death_Compendium.md)._
 

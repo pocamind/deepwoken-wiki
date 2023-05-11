@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 56564
+revid: 62138
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -44,3 +44,4 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to them and the scouts.
 -   Ministry Captains are identical an appearance to [Ministry Scouts](Ministry_Scout.md), yet hold a higher rank.
     -   This trend can also be seen with [Apprentice Divers](Apprentice_Diver.md) and regular [Divers](Diver.md).
+    -   They are NOT to be confused with their scout variant, as using a light approach on them will almost always result in death for their higher HP pool and their variety of attacks. Along with them spawning always in packs of 3.

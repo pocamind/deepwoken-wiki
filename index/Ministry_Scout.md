@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 58227
+revid: 62136
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -44,6 +44,9 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Almost at any given time they will try to use their mantras while doing an M1 Combo.
 -   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   It's recommended to farm Ministry scouts as soon as you are done with the trial of one, as they are a valuable and easy source of exp in early-game.
+-   Avoid fighting them in servers with high ping, since they can become quite difficult to parry without proper ms.
+-   Their Shadow Assault is heavy damaging and hard to parry or dodge, it also deals an unholy amount of posture damage when blocked so it's suggested to be parried or dodged as soon as the mantra sound is heard (which is the infamous "click" sound of the Shadow Assault mantra of the Shadowcast attunement).
 
 ## Trivia
 
