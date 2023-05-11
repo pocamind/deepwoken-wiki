@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 56478
+revid: 62107
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -32,3 +32,4 @@ Every opponent on these lists has either a:
 -   [Blizzard Knights](Stone_Knight.md)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
+-   [King Thresher](Thresher.md)

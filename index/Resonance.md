@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 61600
+revid: 62109
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Mechanics]
@@ -17,13 +17,13 @@ Obtainment of one's **Resonance**...
   
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
-Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well as lead to "[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)", an NPC that many would deem important in most progressions.
+Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) in the Depths, a very helpful NPC that many would deem important in most progressions.
 
-_**NOTE: Resonances cannot be used for 1v1's in [Chime of Conflict.](Chime_of_Conflict.md)**_
+_**NOTE: Resonances cannot be used when doing 1v1s in the [Chime of Conflict.](Chime_of_Conflict.md)**_
 
 ## Overview
 
-**Resonances** are one of the many skills that players can obtain, and can be seen as a form of divine blessing. They are quite formidable tools in the right hands, with varying effects including (**but not limited to**) momentary invisibility, map-wide teleportation, and near-instant executions. **Corrupted** **Resonances,** on the other hand, are more akin to curses and [Cursed Enchants](Enchantments.md), where they offer more powerful effects and useful effects of the provided **Resonance** at the cost of ailing the holder in some way, shape, or form.
+**Resonances** are one of the many skills that players can obtain, and can be seen as a sort of divine blessing. They are quite formidable tools in the right hands, with varying effects including (**but not limited to**) momentary invisibility, map-wide teleportation, and near-instant executions. **Corrupted** **Resonances,** on the other hand, are more akin to curses and [Cursed Enchants](Enchantments.md), where they offer more powerful effects and useful effects of the provided **Resonance** at the cost of ailing the holder in some way, shape, or form.
 
 **Resonances** have a set amount of unseen _**Resonance** points_ when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
 
@@ -75,11 +75,11 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 ### Tarnished Resonances...
 
-**Tarnished Resonances** are yet another sub/category of **Resonances**. Unlike the other variants, obtaining, and getting rid of a **Tarnished Resonance** is totally in the player's hands. Upon rerolling a **Resonance** (see the 'Rerolling a **Resonance**' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Upon receival of this flaw, **you will not be able to reroll your bell or make anymore wishes...** but don't be scared, you can fix this!
+**Tarnished Resonances** are yet another sub/category of **Resonances**. Unlike the other variants, obtaining, and getting rid of a **Tarnished Resonance** is totally in the player's hands. Upon rerolling a **Resonance** (see the 'Rerolling a **Resonance**' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Upon receival of this flaw, **you will not be able to reroll your bell or make any more wishes...** but don't be scared, you can fix this!
 
 **Tarnished Resonances** act like a sort of reverse **Corrupted Resonance**, having a general debuff, but also a specific debuff depending on what **Resonance** got tarnished. In general, **Tarnished Resonances** have _longer cooldowns, longer windup, and just weaker effects._
 
-It would be advised to remove tarnished on a **Tarnished Resonance** as soon as possible. Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and paying 1000 notes, or [Misérables](Misérables.md) and choosing Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of [second layer](Second_Layer.md).
+It's highly recommended to remove Tarnished on a **Tarnished Resonance** as soon as possible. Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md).
 
 All **Tarnished Resonance effects** are listed in their corresponding **Resonance** page.
 
@@ -172,7 +172,7 @@ Finally, just because you have one Nature, doesn't mean you cant do the other Na
 
 ### Collision with Fate - Achieving your Resonance
 
-_**IMPORTANT NOTE 1: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress. Attempting to obtain it in Layer 2 will wipe you or otherwise leave you knocked for The Eternal Gale to decide your fate.**_
+_**IMPORTANT NOTE 1: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress. You cannot gain your Resonance in the Second Layer, and attempting will leave you easily killed.**_
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 

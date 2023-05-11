@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 62000
+revid: 62099
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,6 +14,11 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
   
 
+“ Is Erisia in Voidsea? ”
+
+― A really lost Felinor
+
+  
 **The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Luminants](Luminants.md).
 
 ## Overview

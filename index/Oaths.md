@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62089
+revid: 62097
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 # **Oath: Oathless**
 
-“ If free will is an illusion, why not make it a convincing one? ”
+“ IT'S META NOW! ”
 
-― Oathless description
+― A random freshie after oathless gets a minor buff
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -101,15 +101,16 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked oath (Linkstrider/Dawnwalker/Contractor).
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first oath.
     
 
 **Blindseer:**
 
 # **Oath: Blindseer**
 
-“ \*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the duty of your Oath - free the lost souls from their shackles, help them escape into the light.\* ”
+“ \*Haha you're blind now\* ”
 
-― Glyph found in Temple of Forgotten Flames
+― Random Blindseer after landing sightless beam
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -188,9 +189,9 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 # **Oath: Visionshaper**
 
-“ We Owls find man to be capable of... Suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
+“ I AM THE SOUL SOCIETY ”
 
-― The Nestmind
+― An anime weeb who likes visonshaper
 
 **Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), have finished the [Aelita](Aelita.md) quest once and one Dark Feather, dropped by [Deep Owls](Deep_Owl.md). To progress the oath, you need one Void Feather for each skill, a Void Feather is rarely dropped by normal Deep Owls but is guaranteed to be dropped from a corrupted one.
 
@@ -264,9 +265,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
+“ Sacrifices? THIS OATH IS AMAZING! ”
 
-― The Entropy Catalyst
+― A soon-to-be linkstrider
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -317,9 +318,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+“ LOOK! LOOK! I'm your father! ”
 
-― Alirian
+― A Jetstriker who was never seen again
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -374,9 +375,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
+“ Ascension do be kinda funni doe ”
 
-― Iblis, The Fallen Angel
+― A starkindred user
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -439,9 +440,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
+“ I AM IRON MAN! ”
 
-― Delta
+― A freshie after killing chaser 20 times
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -498,9 +499,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ You shall connect with the light around us, surrounding all of Lumen. ”
+“ I'm NOT a Lightkeeper wannabe! ”
 
-― Klaris Llfiend, Mother of the Lights
+― A lightkeeper wannabe
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -544,9 +545,9 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
+“ THIS IS... Not worth it... ”
 
-― Duke Erisia to Contractors
+― A regretful Contractor who finally achieved their goal
 
 ### Obtainment
 
@@ -608,9 +609,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
+“ Pfft, mantras are overrated, i prefer using MY BARE HANDS ”
 
-― The Dreadstar
+― A Silentheart user shortly before dying to Nanoprodigy
 
   
 
@@ -702,13 +703,9 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 
 ## Ironsing
 
-**Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
-
--   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
-    -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
-    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
-
 Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023 (PUBLIC DATE)
+
+If you would like to learn about Ironsing, go to it's own respective page.
 
 **Lifeweaver\*:**
 
@@ -716,7 +713,7 @@ Ironsing is no longer an oath and is confirmed to be an attunment as of 5/1/2023
 
 **Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
 
--   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
+-   (Arch\_Mage) Lifeweave is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.

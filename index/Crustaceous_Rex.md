@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 60164
+revid: 62103
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Crustaceous Rex
 
-“ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
+“ Woah, that's a big crab. It could probably feed an entire family. LET'S FIGHT IT! ”
 
-― Inquisitor's Thorn Description
+― Jonathan Talo shortly before getting his ribcage shattered by Mr. Crabs
 
 Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss, Crabulon,** or **Crabbo.**_
 

@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 57122
+revid: 62100
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -24,9 +24,9 @@ categories: [Weapons, Fists]
 | obtainment | Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in to Eastern Camp Master , or Eastern Tribal Leader. |
 | description | Adopt the fighting stance of the Way of Navae. |
 
-“ Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether. ”
+“ YOU SEEM TO BE INSISTING ON FISTING! ”
 
-―
+― Jonathan Talo
 
 ## Description
 
