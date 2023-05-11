@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 62125
+revid: 62129
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -84,7 +84,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: The Eternal Gale (Layer 2)
 
-**Guide**: Talk to an NPC in layer 2 with 85 Willpower.
+**Guide**: Talk to an NPC in layer 2 with 80 Willpower.
 
 **Reward/s**: Heretic's Sutra.
 
