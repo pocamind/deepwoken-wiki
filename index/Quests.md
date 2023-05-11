@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 59049
+revid: 62125
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -283,6 +283,14 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
 
 **Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
+
+**Lars:**
+
+**Quest Location**: Viper's Jaw (Lower, Legion Camp)
+
+**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+
+**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
 
 ## Attribute Unbound Quests
 

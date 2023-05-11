@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 61984
+revid: 62127
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -192,7 +192,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Salve</td>
   <td>Redd</td>
   <td>Instantly restores a small amount of health.</td>
-  <td>Opposite effect to <b>Disgusting</b>.<br>
+  <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<br>
   The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with Focus Enhancing from Wheat.<br>
   <br>
   Only one recipe for a potion with the Rejuvenating name is known - 3 redds and 1 wheat. Any other ratio causes a different effect to be more powerful.</td>
@@ -305,7 +305,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Tincture</td>
   <td>Alestrian Coral<p>Pomar</p></td>
   <td>Applies a 15 second speed boost.</td>
-  <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Decelerate</b>(?), it can be found on Beeswax.</td>
+  <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Decelerate</b>(?). Signified by yellow particles.</td>
 </tr>
 <tr>
   <td><b><s>Unknown Prefix</s> Decelerate(?)</b></td>

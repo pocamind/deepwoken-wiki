@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62097
+revid: 62124
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -101,6 +101,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked oath (Linkstrider/Dawnwalker/Contractor).
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   Doesn't give the Oathsworn badge, if that's a concern.
 -   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first oath.
     
 
@@ -108,9 +109,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ \*Haha you're blind now\* ”
+“ KAAAAMEEEEHAAAAMEEEE... ”
 
-― Random Blindseer after landing sightless beam
+― That Brick Wall PVE build with 102 Willpower eliminating a poor gigamed with Sightless Beam
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -375,9 +376,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ Ascension do be kinda funni doe ”
+“ Mugetsu ”
 
-― A starkindred user
+― A starkindred using fire blade against a etrean guard
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
