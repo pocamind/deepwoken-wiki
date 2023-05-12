@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 62058
+revid: 62243
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -960,7 +960,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _All_
 -   **Alliances:** _The Divers_
 -   **Enemies:** N/A
--   **Lore Sources:** _Carrion (Discord), The Apothecary Discord Server._
+-   **Lore Sources:** _Carrion (Discord), The Apothecary [Discord Server](https://discord.gg/4nFgupKP)._
 
 -   A group of potion/alchemy enthusiasts who follow Dr. Carrion and his experiments sharing one same goal.
 -   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr Carrion even being a Black Diver.
