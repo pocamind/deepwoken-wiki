@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 62129
+revid: 62241
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -18,7 +18,7 @@ notices:
 
 ## Echo Talent Quests
 
-These quests, when completed, give talents that will be unlocked on every character at a certain power level, hence they are not repeatable and may only be done once per account.
+These quests, when completed, give talents that will be unlocked on every character at a certain power level. If done on later lives, they will only give a bit of EXP.
 
 **Engage + Critical Assault:**
 
@@ -26,7 +26,7 @@ These quests, when completed, give talents that will be unlocked on every charac
 
 **Guide**: Talk to the NPC outside of the entrance of the Burning Stone Gardens cave. They will ask you to avenge their friends by killing a Megalodaunt, kill one and return.
 
-**Reward/s**: Engage + Critical Assault
+**Reward/s**: Engage + Critical Assault. EXP, Bravery.
 
 **Aerial Assault:**
 
@@ -34,7 +34,7 @@ These quests, when completed, give talents that will be unlocked on every charac
 
 **Guide**: Talk to an NPC in the ruins in the Viper Jaw. They will ask you to look at a flame in the Temple of the Forgotten Flame. Interact with the flame in the center as you enter the temple and come back.
 
-**Reward/s**: Aerial Assault
+**Reward/s**: Aerial Assault, EXP
 
 **Thresher Scales:**
 

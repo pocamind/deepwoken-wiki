@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 62127
+revid: 62156
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -74,6 +74,8 @@ Adding multiple ingredients with the same effect will strengthen that effect, an
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
 Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
+
+Potions also create a particle effect when used depending on the type and strength of the effect. Most effects are yellow or purple with more intensity at higher strength.
 
 Finally, potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. It is not impacted by ingredients, and caps out at 50% with 100 intelligence.
 
@@ -305,7 +307,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Tincture</td>
   <td>Alestrian Coral<p>Pomar</p></td>
   <td>Applies a 15 second speed boost.</td>
-  <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Decelerate</b>(?). Signified by yellow particles.</td>
+  <td><s>We currently don't know how to find the name of the opposite effect.</s> Opposite of <b>Decelerate</b>(?).</td>
 </tr>
 <tr>
   <td><b><s>Unknown Prefix</s> Decelerate(?)</b></td>

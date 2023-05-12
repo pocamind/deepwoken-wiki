@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 61715
+revid: 62181
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]

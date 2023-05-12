@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62133
+revid: 62174
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -759,3 +759,5 @@ Proof of Time Magic's existance and it being an "Oath".
     -   It's also said that they had commented that it was canonically the strongest, though the veracity of this statement and it's meaning are unclear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
+
+free key

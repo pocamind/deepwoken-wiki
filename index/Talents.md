@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 62144
+revid: 62199
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
+categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
 ---
 
 # Talents
@@ -21,8 +21,7 @@ Template:DWI Talents
 
 ## Overview
 
-**Talents** are the main aspect of your character's build. When you power up, you'll receive two to three hands containing five to six Talent Cards.
-
+  
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
