@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 62108
+revid: 62149
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -39,6 +39,7 @@ Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy 
 This weapon has 3 (or 4 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
+-   When killing a [Ministry Scout](Ministry_Scout.md), she gains a damage bonus that can be stacked. This damage bonus is lost when the weapon is sheathed.
 -   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
 -   If the user have the talent Glass Path: Crystallization, landing a hit will apply a singular crystal. If there's already a crystal present from this ability, then no further crystal will be applied.
 

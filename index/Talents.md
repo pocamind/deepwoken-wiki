@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62091
+revid: 62144
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken]
@@ -582,9 +582,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 35 Willpower
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
+    -   Whenever you land a crit, your next light attack gain 100% Chip Damage.
     -   Prerequisites: 25 Strength, 15 Agility
-    -   Does not require a light weapon for some reason
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals true damage.

@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 62107
+revid: 62152
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -8,14 +8,17 @@ categories: [World, Bosses]
 
 # Bosses
 
-"**Boss**" is a very loose term in Deepwoken. It ranges from the strongest [Enemies](Enemies.md) and [Monsters](Monsters.md), to those with unique spawns/drops, and even those that simply reward [Progress](Resonance.md) and in Verse 1, [Luck](Luck.md). The absolute definition of a Boss is a mob which has the ability to give Pluripotent Alloy on death.
+"**Boss**" is a very loose term in Deepwoken. It ranges from the strongest [Enemies](Enemies.md) and [Monsters](Monsters.md), with those possessing heavy backstories, and unique abilities. Awarding [Progress](Resonance.md), knowledge, and unique weapons like a [Forgotten Gladius](Forgotten_Gladius.md) or [Krulian Knife](Krulian_Knife.md). A boss can be defined by their strength but also by what they have; every boss will eventually drop a Pluripotent Alloy, and an Ardour Manifestation.
 
 Every opponent on these lists has either a:
 
--   Unique summoning system
--   Unique/guaranteed spawns
--   Unique/good drops
--   High progress drops
+-   Unique Summoning System or Guaranteed Spawns
+-   Unique Drops
+-   End Game Drops
+-   [Resonance](Resonance.md) Progress'
+-   [Knowledge](Knowledge.md)
+-   Pluripotent Alloy
+-   Ardour Manifestation
 
 ## Official Bosses
 
@@ -25,11 +28,3 @@ Every opponent on these lists has either a:
 -   [The Dread Serpent](Dread_Serpent.md)
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
-
-## Unofficial/Mini Bosses
-
--   [Deep Widow](Deep_Widow.md)
--   [Blizzard Knights](Stone_Knight.md)
--   [Nautilodaunt](Nautilodaunt.md)
--   [The Enforcer](Enforcer.md)
--   [King Thresher](Thresher.md)
