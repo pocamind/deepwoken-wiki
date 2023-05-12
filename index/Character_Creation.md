@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 60373
+revid: 62244
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -160,7 +160,7 @@ Age may affect your Character's entire appearance, such as wrinkles and a change
 
 You do not die of old age, as the system is purely cosmetic.
 
-The [Moon Ring](Outfits.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
+The [Moon Ring](Equipment.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
 
 There may be some changes to dialogue with NPCs depending on what 'Tier' of age your character is, listed below:
 

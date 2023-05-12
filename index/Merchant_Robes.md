@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 50700
+revid: 62248
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,9 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1200 durability and grants no resistances.
 
-This Outfit also grants the [Talent Card](Talents.md) _Mates' Rates_, which increases selling prices at Antiquarians and [Mantra Collectors](Mantra_Collector.md).
+This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and Antiquarians will do business with you no matter how poor your reputation is.
+
+-   This talent allows you to use the Antiquarian in the depths, even if your origin is not deepbound.
 
 ## Location
 
