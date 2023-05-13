@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 56865
+revid: 62266
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -50,4 +50,5 @@ The fountain
 
 -   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and be at least Power 10.
 -   The statues lines along the walls of The Lordsgrove depict previous Hivelords, including one with the unique [Oath: Blindseer](Oaths.md) variant for Vesperians.
--   One of the statues hints at the [Hivelord Mask](https://deepwoken.fandom.com/wiki/Masks#Hivelord_Mask), before it was finally added to the game.
+-   One of the statues hinted at the [Hivelord Mask](https://deepwoken.fandom.com/wiki/Masks#Hivelord_Mask) prior to its addition to the game.
+-   Attempting to glide through the open space where the giant door was will knock you off your glider.

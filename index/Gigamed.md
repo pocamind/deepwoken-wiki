@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 61181
+revid: 62250
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 ## Description
 
-Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they rapdily emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Curiously Gigameds can only give passable strength XP. Blue Jellyfishes are commonly refered to as "healthpacks," giving free health to whoever is in need.
+Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Blue Jellyfishes are commonly refered to as "healthpacks," giving free health to whoever is in need due to ease of klling.
 
 ## **Attacks**
 
@@ -54,7 +54,7 @@ Gigantic, Purple versions of normal gigameds, Found in the _**[The Depths](The_D
 | 
 Summon Gigameds
 
- | Summons and launches 3 Gigameds, the summoned Gigameds will die after using a stun pulse. | ✗ | ◯ | ◯ | (★★★) |
+ | Summons and launches 3 Gigameds at your position. The summoned Gigameds will die after using a stun pulse. | ✗ | ◯ | ◯ | (★★★) |
 | 
 
 Greater Stun Pulse

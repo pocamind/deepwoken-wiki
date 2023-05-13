@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 62062
+revid: 62253
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Terrapod
 
-“ Caught on of the freaks the other day. Kept slicin' me line, so I swapped it out for a metal one. \[...\] Worked a treat. Meat isn't good on the purple ones though. ”
+“ YOU THINK I'M A COWARD LIKE YOU?!?! ”
 
-― Mortus describing an encounter with a Terrapod
+― A Terrapod falling down into the depths while chasing a player.
 
 Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
 

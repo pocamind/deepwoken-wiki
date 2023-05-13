@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 61086
+revid: 62269
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -268,7 +268,7 @@ Assault
 
 Critical
 
- | Winds up by pulling their sword back before suddenly thrusting it forwards. | ✗ | ◯ | (★★☆) |
+ | Winds up by pulling their sword back before suddenly thrusting it forwards. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
