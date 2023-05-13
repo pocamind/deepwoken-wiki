@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 62246
+revid: 62286
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -96,6 +96,6 @@ Check the rest out for yourself
 | Theadre | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, race and weapon equipped |
 | Trig | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout talent |  |
-| [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](https://deepwoken.fandom.com/wiki/Etrean_Wilds?so=search) On top of the mountain where the tunnel to Etris Docks is | Agility unbound | May need a Friend or Chime of Dwelling to reach him even with 77 Agility |
+| [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound | May need a friend or Chime of Dwelling to reach him even with 77 Agility |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](The_Depths.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations |

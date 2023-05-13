@@ -1,9 +1,11 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 62142
+revid: 62304
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [In progress without reason, InProgressPages, NPCs]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -17,11 +19,11 @@ categories: [NPCs]
 
 ― Klaris after handing in all Diver Journals
 
-## Overview
+## Description
 
-Klaris Llfiend, Mother of Lights is a [Black Diver](The_Divers.md) who provides you with the [Dawnwalker](Oaths.md#oath-dawnwalker) Oath, as well as giving you a Light Hook. She will also provide a [Deepshore Fossil](Deepshore_Fossil.md), if you manage to find all the Diver Journals scattered throughout Floor 1 of the [Second Layer](Second_Layer.md).
+Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of Castle Light. She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
-She is the safest way to get to the [Second Layer](Second_Layer.md), as you will be given a Light hook. However, you must be at least power 15 for her to give you access this way.
+In appearance, she is a young Canor who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the Moonseye, as a result of being the inventor of Radiant Magic. She wears the [coats of the Black Divers](Black_Diver.md).
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
@@ -37,5 +39,6 @@ _After handing in all Diver Journals to her:_
 
 -   You don't have to beat Chaser after you unlock the galewax shrine for it to count to the quest.
 -   She is the inventor of Radiant Magic, an Oath that gives access to some Lightkeeping.
+-   She sent [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to Layer 2 because of a feud
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
 -   Despite her appearance, she's actually a Canor without eyeliner.

@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 62152
+revid: 62288
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Bosses]
@@ -20,7 +20,7 @@ Every opponent on these lists has either a:
 -   Pluripotent Alloy
 -   Ardour Manifestation
 
-## Official Bosses
+## Bosses
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)

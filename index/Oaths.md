@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62174
+revid: 62306
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -452,7 +452,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   Go to Layer 2 and Complete Alpha's quest
     1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
     2.  Talk to Alpha
-    3.  Retrieve injured Epsi (option 2 when you talk to him; can be done in different runs. If the wrong option is chosen, you will be LOCKED OUT of this Oath.)**This is false. He will always respawn if you repeat Layer 2 Floor 1.**
+    3.  Retrieve injured Epsi (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and Epsi perishes due to the parasites,he will always be outside of Firfire Caverns when you repeat floor 1,so you may choose the right option until the questline is completed.)
     4.  Talk to Alpha again
 -   20 Fortitude, 20 Flamecharm and 20 Thundercall.
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town.
@@ -733,6 +733,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 Proof of Time Magic's existance and it being an "Oath".
 
 -   Epsi (one of the NPCs you need to talk to if you want to obtain Arcwarder) has an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
+-   You cant shrine of order with an oath, the only exception being Oathless
 -   Currently, the only oaths you can remove are Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
@@ -759,5 +760,7 @@ Proof of Time Magic's existance and it being an "Oath".
     -   It's also said that they had commented that it was canonically the strongest, though the veracity of this statement and it's meaning are unclear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
+
+free key
 
 free key
