@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 56750
+revid: 62275
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -29,3 +29,4 @@ An abandoned ship lost to time, now corrupted by the spirits of the Voidsea.
 -   There are no real major damages to the ship.
 -   The area in which an antiquarian resided in the tutorial is replaced by the [The Dreadstar](The_Dreadstar.md).
 -   Has a chance to give deep gems but not confirmed.
+-   May be a reference to the Beloved Zofia sword from Fire Emblem Echoes.
