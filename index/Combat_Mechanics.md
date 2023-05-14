@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 61898
+revid: 62335
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -334,6 +334,10 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
   <b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
   <p><br>
   <i>A common source is being hit by a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
+</tr>
+<tr>
+  <th>Electrified</th>
+  <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with thunder damage reducing equipment/talents to further nullify the victim's damage.</b><i>Common source is being hit by Thundercall Mantras from users with the Thundercall talent Resolve Crusher</i></p></td>
 </tr>
 <tr>
   <th>Winded</th>

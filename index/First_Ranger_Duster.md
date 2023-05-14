@@ -1,6 +1,6 @@
 ---
 title: First Ranger Duster
-revid: 61781
+revid: 62337
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -13,7 +13,7 @@ categories: [Character, Armors]
 | type | Arms |
 | rarity | Rare |
 | selling price | Unknown |
-| requirements | Power 10 |
+| requirements | Power 16 |
 | weight | 2 |
 | innate stats | Unknown |
 | innate talent | None |

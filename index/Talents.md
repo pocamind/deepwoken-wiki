@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62325
+revid: 62336
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -437,7 +437,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Only works on daggers.
     -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
         -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
-    -   Prerequisite: 30 Light Weapon Mastery
+    -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.
@@ -884,7 +884,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Prerequisites: 30 Intelligence and 20 light/medium, Use a Gun / Rifle
+    -   Prerequisites: 30 Intelligence and 20 light/medium weapon, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
@@ -1165,10 +1165,6 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Prerequisite: 20 Willpower
 
--   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
-    -   5 Second Cooldown.
-    -   Prerequisites: Fists, 25 Agility
-
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
     -   Grant up to 15% extra damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
@@ -1419,13 +1415,13 @@ These are just raw stat increases and are beneficial to anyone.
 ### Saint of Blades
 
 -   _Light Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest._
-    -   Prerequisite: 75 Light Weapons Mastery
+    -   Prerequisite: 75 Light Weapon
 
 -   _Medium Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest._
-    -   Prerequisite: 75 Medium Weapons Mastery
+    -   Prerequisite: 75 Medium Weapon
 
 -   _Heavy Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest._
-    -   Prerequisite: 75 Heavy Weapons Mastery
+    -   Prerequisite: 75 Heavy Weapon
 
 ### Scholar of the Cloud
 
@@ -1809,8 +1805,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Scoundrel
 
--   Pocket Sand \[Common Talent, Fist\] - Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
-    -   Prerequisites: 25 Strength, 40 Light Weapons Mastery
+-   _Dirty Boxing_ \[Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
+    -   5 Second Cooldown.
+    -   Prerequisites: Trained Fist, 25 Agility
+-   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
+    -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
 
 ### Undying Ember
 
@@ -1936,7 +1935,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 40 Strength
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
-    -   Prerequisite: 35 Light Weapons Mastery
+    -   Prerequisite: 35 Light Weapon
 
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapons Mastery.
@@ -2132,7 +2131,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Light Weapon Combat
 
--   Rapid Slashes \[30 Light Weapon\] - Rush down your opponent cutting them apart.
+-   Rapid Slashes - Rush down your opponent cutting them apart.
     -   Prerequisite: 30 Light Weapon
 
 #### Medium Weapon Combat
