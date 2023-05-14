@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 59048
+revid: 62326
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ A Lost Diver's appearance only consists of a [Black Diver](Black_Diver.md) outfi
 
 ## Moveset
 
-A Lost Diver's arsenal consists of a [Markor's Inheritor](<Markor's_Inheritor.md>) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
+A Lost Diver's arsenal consists of a [Markor's Inheritor](<Markor's_Inheritor.md>) along with only the [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

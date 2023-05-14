@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 61974
+revid: 62322
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1832,7 +1832,7 @@ Chests from:
  | N/A |
 | File:Brilliant Pauldrons.png | 
 
-[brilliant Pauldrons](Brilliant_Pauldrons.md)
+[Brilliant Pauldrons](Brilliant_Pauldrons.md)
 
  | 
 

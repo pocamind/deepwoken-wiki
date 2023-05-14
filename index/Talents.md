@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62310
+revid: 62325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -945,14 +945,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw Exclusive\] - Ice Daggers now freeze opponents. (+3 Elemental Intensity)
     -   Prerequisite: Ice Daggers, 60 Frostdraw.
-    -   Instantly procs Crystallization upon landing on the target, knocking them backwards.
+    -   Instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.
 
 -   _Frozone_ \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 70 Frostdraw.
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity, +3 Health)
     -   Saint Jay last for double the duration of Chill
-    -   Saint Jay works with Crystallization, applying its effect for 2 seconds on every crystal hit.
+    -   Saint Jay COMPLETELY does not work with crystallization
     -   Prerequisite: Frostbite
 
 -   _Shatter Spear_ \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
