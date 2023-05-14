@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 62077
+revid: 62308
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -221,6 +221,7 @@ File:No Attunement Revamp.png
     -   Increases movement speed and parkour abilities by ~25%.
     -   Procs the "Speed Demon" talent. _**(TESTED!)**_
     -   _Increases duration by ?? per level (Tested)_
+    -   Does 700 damage upon using it when block broken
 
  |
 
