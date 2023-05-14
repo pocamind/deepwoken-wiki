@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 62307
+revid: 62313
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -24,4 +24,3 @@ categories: [Items]
 -   When using the item it will release the seem effects when using Ardour Scream.
 -   You can get the Manifestation on your first try against the Dread Serpent since there's a few moments before you get the Murmur.
 -   Its likely stated its a 1/4 drop from Bosses.
--   If you attempt to leave the Voidsea after using an Ardour Manifestation, the [Dread Serpent](Dread_Serpent.md) will not spawn.

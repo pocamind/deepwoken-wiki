@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 61938
+revid: 62315
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -101,3 +101,4 @@ As an Alternative defeating Chaser or Ferryman can also uncap your attunement.
 ## Notes
 
 -   The Windrunner is yet another reference to _The Stormlight Archive_
+-   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
