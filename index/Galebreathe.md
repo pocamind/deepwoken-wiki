@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 61958
+revid: 62430
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -283,6 +283,7 @@ _A rapid delivery of consecutive attacks._
   <ul>
     <li>Can be modified with glass and perfect lens to increase the distance.</li>
     <li>Uses the shadow assault sound.</li>
+    <li>It's also compatible with logstones, but the effect is unknown. (Needs to be tested)</li>
   </ul></td>
 </tr>
 </tbody>

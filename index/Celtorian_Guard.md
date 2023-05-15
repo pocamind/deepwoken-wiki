@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 61051
+revid: 62428
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -56,3 +56,4 @@ A Celtorian Guard executes it's opponent after knocking them:
 -   They are all Celtor.
 -   They may have unreleased variants of a Celtor.
 -   They will fight [Angels](Hollow_Angel.md) but not other depths monsters.
+-   Celtorian Guards can battle other depths monsters, but they must be triggered by that monster. For example If they are hit by a Megalodaunt Thousand Needles attack by accident, they will target that Megalodaunt.
