@@ -1,8 +1,9 @@
 ---
 title: Autumn Pauldrons
-revid: 61486
+revid: 62362
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Autumn Pauldrons

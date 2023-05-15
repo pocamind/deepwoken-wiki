@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 61991
+revid: 62380
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -173,6 +173,7 @@ Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline
 ## Pros/Cons
 
 -   Allows you to remove any mantras if you took Silentheart.
+    -   However, any mantras obtained after taking Silentheart will not be eligible for trading.
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
 -   Heavy cost
 -   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.

@@ -1,9 +1,9 @@
 ---
 title: The Maw of Ethiron
-revid: 61282
+revid: 62378
 source: https://deepwoken.fandom.com/wiki/The_Maw_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Locations]
 ---
 
 # The Maw of Ethiron

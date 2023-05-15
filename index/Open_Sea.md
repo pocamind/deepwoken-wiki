@@ -1,8 +1,9 @@
 ---
 title: Open Sea
-revid: 61764
+revid: 62373
 source: https://deepwoken.fandom.com/wiki/Open_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Open Sea

@@ -1,8 +1,9 @@
 ---
 title: Daggers
-revid: 36215
+revid: 62351
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons]
 ---
 
 # Daggers

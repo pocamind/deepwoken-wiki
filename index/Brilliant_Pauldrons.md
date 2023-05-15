@@ -1,8 +1,9 @@
 ---
 title: Brilliant Pauldrons
-revid: 61818
+revid: 62365
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Brilliant Pauldrons
