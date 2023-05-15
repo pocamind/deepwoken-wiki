@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 62046
+revid: 62436
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -71,8 +71,8 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 ### Passives
 
--   **Elemental Conqueror** - Primadon has ~95% elemental resistance.
-    -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
+-   **Elemental Conqueror** - Primadon has ~95% mantra resistance.
+-   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severly reduced against Primadon.
 -   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (won't work in certain locations of Monkey's Paw)
 
 ## Rewards
@@ -124,5 +124,3 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
-
-1.  [↑](#cite-ref-1) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage

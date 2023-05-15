@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 62201
+revid: 62443
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -134,6 +134,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My flame fights for me._ _**(Duelist Flame)**_
 -   My spirit is forever burning. _**(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**_
 -   I seek the qualities of Heat Column. **(Heat Column)**
+-   I seek the qualities of Tamed Flame. **(Controlled Combustion)**
 
 ### Frostdraw
 
