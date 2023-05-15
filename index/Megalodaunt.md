@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 62285
+revid: 62417
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -361,3 +361,5 @@ A Megalodaunt swimming.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met his fate being devoured by one of these specimens while studying them.
 -   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him. Making him infamous for killing freshie deepbounds with his tacet bite.
+-   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
+-   Megalodaunts are friendly towards [Deep Owl](Deep_Owl.md), [Thresher](Thresher.md) as it is noticeable as they don't attack each other so therefore they can attack the player together.

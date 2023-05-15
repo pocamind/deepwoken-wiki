@@ -1,9 +1,9 @@
 ---
 title: Blood Scourge
-revid: 61132
+revid: 62397
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance]
+categories: [Resonances]
 ---
 
 # Blood Scourge

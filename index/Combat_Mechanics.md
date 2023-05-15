@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 62335
+revid: 62415
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -156,10 +156,12 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="7"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely hold items. <i>You may check an item's weight by hovering over the item in your inventory and seeing what number is held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
-  There exists a soft cap, which is the listed capacity in your inventory. You may carry more items beyond that amount, but you will consequently be slowed down your movement and <i><b>any items picked up past that point or higher will be deleted upon leaving the server.</b></i></p>
-  <p><br>
-  There then exists a hard cap, which is is detailed when you try to carry more items than you're currently capable. Eventually, your character will be unable to hold onto anymore items, and enough items must be dropped to make room to pick up another.</p></td>
+  <td colspan="7"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
+  There exists a soft cap, which is the listed capacity in digits on the right in your inventory. You may carry more items beyond that amount, reaching the hard cap.</p>
+  <p>There then exists a hard cap, upon reaching the cap; your carrying capacity will be colored red. Detailed when you try to carry more items than you're currently capable of. Eventually, your character will be unable to hold onto any more items, and enough items must be dropped to make room to pick up another. As well as consequently slowing down your movement and <i><b>any items picked up past that point or higher will be voided upon leaving the server or resetting; including enchants and items that haven't been soulbounded.</b></i></p>
+  <ul>
+    <li>For example, if the soft cap would be 240; the hard cap would be anything past that.</li>
+  </ul></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 61265
+revid: 62418
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -110,3 +110,4 @@ A Stone Knight executes the player:
 -   A dev-exclusive and much more powerful variant of the Blizzard Knight is known to exist, known as the Astral Knight. It has the Astral [Enchant](Enchantments.md) on it's sword, and has white eyes instead of red or cyan. See [here](https://www.youtube.com/watch?v=Vl2hSLyUszg) for proof of its existence.
 -   It is highly recommended to ragdoll cancel (right click during ragdoll) Terra Eruption and Kick to make sure you don't get hit by a follow up move.
 -   Terra Eruption and Kick can be blocked with enough posture.
+-   Desert Knights and Blizzard Knights are very hostile towards Megalodaunts and will target them.

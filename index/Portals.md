@@ -1,9 +1,9 @@
 ---
 title: Portals
-revid: 52868
+revid: 62410
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance]
+categories: [Resonances]
 ---
 
 # Portals
@@ -17,11 +17,9 @@ categories: [Resonance]
 
 ― Portals description
 
-  
-
 ## Description
 
-**Portal,** also referred to as **Yoru,** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
+**Portals,** also referred to as **Yoru,** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
 
 ### _Appearance_
 

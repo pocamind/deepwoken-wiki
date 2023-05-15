@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 62109
+revid: 62412
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonance, Mechanics]
+categories: [Pages with broken file links, Resonances, Mechanics]
 ---
 
 # Resonance
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Resonance, Mechanics]
 “ Your very soul resonates with the Song... ”
 
 ― Card selection sample text
-
-Obtainment of one's **Resonance**...
 
   
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
@@ -204,10 +202,9 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _curr
 
 ## Unobtainable Resonances
 
--   **Corrupted** Skull Popper - [Akira](Akira.md)
+-   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
 -   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
--   Stone/Spikes control? (needs confirmation) - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Trivia
 
@@ -230,4 +227,4 @@ Arch Mage confirming both talent cards do not affect resonance progression.
     -   This will most likely take one of two scenarios:
         -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
         -   The second one will be something that many players want, being Layer 2 bells. In other words if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you will get new bells of the Second layer.
--   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, meaning that a **Resonance** can only be activated by the original user- even after death.
+-   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, as a **Resonance** can only be activated by the original user- even after death.

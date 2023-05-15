@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 62053
+revid: 62392
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -14,7 +14,7 @@ categories: [Weapons, Fists]
 | requirements | 30 LHT + Fist Style (NO JUS KARITA) |
 | damage | 15 |
 | scaling | 9 |
-| range | 7 |
+| range | 6 |
 | swing speed | 0.87x |
 | penetration | 5% |
 | selling price | TBA |
