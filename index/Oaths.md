@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62463
+revid: 62485
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -147,7 +147,6 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
         -   This affects everybody, including the caster and their allies.
     -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
-    -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing. \[RECENTLY BUGFIXED, THIS NO LONGER WORKS\]
     -   About the size of a medium Sacred field roll.
     -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
     -   Can be used within land and water.
@@ -760,3 +759,4 @@ Proof of Time Magic's existance and it being an "Oath".
     -   It's also said that they had commented that it was canonically the strongest, though the veracity of this statement and it's meaning are unclear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
+-   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated.However,during May 16th 2023's patch note,it was found out as bug,so Tranquil Circle is no longer able to activate status-related talents.

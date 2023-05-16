@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 58693
+revid: 62477
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are ranged weapons that can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md). There are several different types of **guns**.
+**Guns** are a category of weapons that focus on range. Most guns can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is a advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. There are several different types of **guns** in game.
 
 You can wield 2 **guns** the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
 
@@ -36,16 +36,20 @@ File:Flintlockbullets.png
 
 Flintlock user using the Summer Gun technique
 
-_Stats:_
+_**Stats:**_
 
-**Silversix: 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes (1).(0 LHT req)
+**[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes (1).(0 LHT req)
 
-**Flintlock:** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes (1).(20 LHT req)
+**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes (1).(20 LHT req)
 
-**Revolver:** **13** damage, **12** range, 15 LHT scaling, **0.8x** attack speed, **200** notes (1).(65 LHT req)
+**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **0.8x** attack speed, **200** notes (1).(65 LHT req)
 
-**Dragoon:** **20** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
+**[Dragoon](Dragoon.md):** **20** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
 
-**Rosen's Peacemaker: 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
+**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
-**Iron Blunderbuss: 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
+**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
+
+### Trivia:
+
+-   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun. However, it is the only [spear](Weapons.md) in the game that has a ranged attack.

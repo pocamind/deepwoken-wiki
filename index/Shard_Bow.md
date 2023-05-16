@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 62404
+revid: 62490
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances]
@@ -37,7 +37,7 @@ File:Shard bow.gif
 
 #### _Variants_
 
--   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. Damage can vary between bow users and their opponents.
+-   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. Damage can vary between bow users and their opponents. ~62 dmg (with wyverns) easier to hit
 
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 

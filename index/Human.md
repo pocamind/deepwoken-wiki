@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 62466
+revid: 62489
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -8,7 +8,7 @@ categories: [Races]
 
 # Human
 
-> _Mysterious figures who suddenly appeared throughout the world of Deepwoken._
+> _Mysterious figures who suddenly appeared back into the world of Deepwoken._
 
 Template:Races-Main
 
@@ -16,22 +16,15 @@ Template:Races-Main
 
 The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. As of now, the human race is known to give no buffs, as they are only human, after all. Humans first (and only) appeared in The [Ingame Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>)
 
-## Racial Traits
-
-|  | Musical Talent |
-| --- | --- |
-|  | Exclusive Gesture |
-
 ## Miscellaneous
 
 **Lore:**
 
-Kind of just appeared, found through entering one of the many Metallica doors.
+All races were formerly human before they made their hereditary vows which caused most humans to eventually go extinct.
 
 **Strengths:**
 
--   Playing Music
--   Singing
+-   Nothing
     
 
 **Surnames:**
@@ -45,7 +38,7 @@ Kind of just appeared, found through entering one of the many Metallica doors.
 ## Trivia
 
 -   Humans are the only known beings in Deepwoken to have access to Instruments.
--   Humans are the only race who have ever been shown to have a "Snapback" hat.
+-   Humans are mostly extinct. If not completely, it is unknown if some managed to survive.
 -   The songs that Humans in-game are able to preform are:
     -   72 Seasons - Metallica
     -   King Nothing - Metallica

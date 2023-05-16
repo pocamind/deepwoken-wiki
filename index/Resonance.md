@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 62469
+revid: 62491
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -25,7 +25,7 @@ _**NOTE: Resonances cannot be used when doing 1v1s in the [Chime of Conflict.](C
 
 **Resonances** have a set amount of unseen _**Resonance** points_ when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
 
-**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. They can also be of varying colors influenced by your character's color palette and attunement, ranging from yellow, green, to red, dark blue, black and purple. Rerolling your **Resonance** will alter the appearance of your bell. As of 07/03/23, you can use a dye packet to color your bell according to your preference.
+**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. They can also be of varying colors influenced by your character's color palette and attunement, ranging from yellow, green, to red, dark blue, black and purple. Rerolling your **Resonance** will alter the appearance of your bell. You can use a dye packet to color your bell according to your preference.
 
 ## Variants
 
@@ -181,8 +181,6 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Red cards indicate a **Corrupted Resonance**, while yellowish/gold are **Legendary**, also to note that light purple cards indicate the resonance being **Drowned**, but only a lucky few have encountered this. The variant will be left for you to discover.
 
 Once you select your card, using C will activate your **Resonance**.
-
--   On May 16th 2023's patch note,you are able to obatin your bell in layer 2 now.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
