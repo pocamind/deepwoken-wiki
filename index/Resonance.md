@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 62455
+revid: 62469
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -182,9 +182,11 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 
 Once you select your card, using C will activate your **Resonance**.
 
+-   On May 16th 2023's patch note,you are able to obatin your bell in layer 2 now.
+
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell testing" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell testing", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
+-   While many players choose to commit to "bell testing" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell testing", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
 -   The only time you should logically do bell testing is if your build absolutely requires it, such as striving for the Contractor oath- given that you cannot obtain the oath without having a Resonance.
 
 File:Image of Card Selection.png
@@ -226,5 +228,5 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.
     -   This will most likely take one of two scenarios:
         -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
-        -   ~The second one will be something that many players want, being Layer 2 bells. In other words if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you will get new bells of the Second layer~. No longer a possibility as of May 15 2023 because you can now gain a normal bell in layer 2 and they aren't different bells, they are just normal.
+        -   The second one will be something that many players want, the bells of Layer 2. In other words, if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you may able to get new bells that is exclusive to layer 2 only.
 -   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, as a **Resonance** can only be activated by the original user- even after death.

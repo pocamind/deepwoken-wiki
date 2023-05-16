@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 62315
+revid: 62467
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -38,7 +38,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 1.  Reach 75 Agility.
 2.  Go to the top of the mountain with the Cave Entrance leading between Etris Docks and Etrean Wilds.
-3.  Talk to the Windrunner and obtain unbound.
+3.  Talk to the Windrunner.
 
 ### Intelligence Unbound
 
@@ -58,15 +58,15 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md)
 3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
 4.  Make sure that you entered The Depths throught a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
-5.  Talk to Akira and take the option "How do I brace myself against the monsters of the deep? How do I not succumb to their horror?". You will obtain Willpower Unbound.
+5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join the Divers to unbound Willpower.
 
 ### Charisma Unbound
 
 1.  Reach 75 Charisma.
 2.  Start Karliah's Quest in Etris.
 3.  At Erisia, above the mines, save Karliah from the Mudskipper eating her.
-4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by Horseshoe Crabs or by the hands of the player.
-5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound
+4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by Horseshoe Crabs or by the hands of the player, **thus locking you out of unbounding Charisma.**
+5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
 
 ## Weapon Proficiency Unbound
 
