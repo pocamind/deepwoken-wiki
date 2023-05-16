@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 62459
+revid: 62517
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -63,6 +63,9 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[CON\]** **You cannot do Trial of One.**
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health
+-   Your starting reputations are:
+    -   Friend of The Divers and Lost Celtor
+    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 
 ## Voidwalker
 

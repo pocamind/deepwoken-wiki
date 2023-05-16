@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 58865
+revid: 62495
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -13,8 +13,6 @@ Template:EnemyInfobox1.0
 ## Description
 
 Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. The one that spawns near the docks is **NOT** a Commander but an [Lieutenant](Authority_Lieutenant.md).
-
-Both variants wear an [Authority Commander Uniform](Authority_Captain_Uniform.md) outfit and a Shrouded cape. However the one inside the prison wears an Authority Helm.
 
 ## Moveset
 
