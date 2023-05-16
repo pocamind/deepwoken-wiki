@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 62239
+revid: 62452
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -210,8 +210,9 @@ Ice Forge
 
 _Conjure and throw weapons of ice._
 
- | Forms a barrage of ice shurikens before propelling them at the cursor's location.
+ | Forms a barrage of ice shuriken's before propelling them at the cursor's location.
 
+-   Casting Ice Forge on Ice will summon more ice shuriken's.
 -   Rapidly deals light damage.
 -   Inflicts Chill.
 
@@ -246,6 +247,7 @@ _Form an ice spear and lunges forward._
 
  | User forms an ice spear and lunges forward towards the opponent.
 
+-   During the windup pressing F will; Impale the spear and detonate it in a few seconds.
 -   Deals moderate damage.
 -   Does not inflict Chill.
 -   User gains considerable forward momentum on use.
@@ -669,26 +671,14 @@ Glass Path: Crystallization
 
  | 
 
-Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. \*Requires ~40 Frostdrawer
+Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+
+-   Requires ~40 Frostdrawer
+-   Upon block breaking an opponent with crystals, all crystals will detonate.
 
  | 
 
 +4 Elemental Intensity
-
- |
-| 
-
- | 
-
-Crystal Breaker
-
- | 
-
-When breaking someone's posture detonate any active crystals on their body.
-
- | 
-
-+5 Elemental Intensity +3 Health
 
  |
 
@@ -830,43 +820,6 @@ Frost Buster
  | 
 
 +5 Elemental Intensity +3 Health
-
- |
-| 
-
-File:TheColdForge.png
-
- | 
-
-The Cold Forge
-
- | 
-
-Your forge more shurikens when casting on ice.
-
- | 
-
-+5 Elemental Intensity +3 Health
-
- |
-| 
-
-File:ShatterSpear.png
-
- | 
-
-Shatter Spear
-
- | 
-
-Your ice spear now lodges into human opponents and explodes.
-
-(rare talant)
-
- | 
-
-+5 Elemental Intensity  
-+3 Health
 
  |
 

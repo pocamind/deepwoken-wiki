@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62314
+revid: 62463
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -147,7 +147,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
         -   This affects everybody, including the caster and their allies.
     -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
-    -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing.
+    -   Recently discovered to activate most status effects upon M1, e.g suffocate, piercing will, cheap shot, although the limits need testing. \[RECENTLY BUGFIXED, THIS NO LONGER WORKS\]
     -   About the size of a medium Sacred field roll.
     -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
     -   Can be used within land and water.

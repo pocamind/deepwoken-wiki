@@ -1,9 +1,8 @@
 ---
 title: Destroyman III
-revid: 62367
+revid: 62461
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Events]
 ---
 
 # Destroyman III

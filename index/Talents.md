@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62336
+revid: 62453
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -113,7 +113,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
     -   Synergizes well with Aerial Stab or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 Medium Weapon, Medium Weapon
+    -   Prerequisites: 15 Strength, 25 Medium Weapon/25 Heavy Weapon/25 Light Weapon
 
 ### Aeromancer
 
@@ -131,11 +131,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
     -   Prerequisite: 20 Galebreathe, Gale Punch
 
--   Drifting Winds \[Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 25 Galebreathe, Galebreather
-
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisites: 30 Strength, 35 Galebreathe, Drifting Winds
+    -   Prerequisites: 30 Strength, 35 Galebreathe
 
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
@@ -428,6 +425,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Lord Commander \[Common Talent\]- Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
+
+### Cosmic Wind
+
+-   Pressure Detonation \[Common Talent, Shadowcast and Galebreathe Exclusive\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
 
 ### Critical Specialist
 
@@ -792,7 +793,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity, +3 Health)
-    -   Prerequisites: 20 Agility, 65 Frostdraw
+    -   Prerequisites: 65 Frostdraw
 
 ### Frozen Warrior
 
@@ -859,10 +860,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         
 
 ### Glassdancer
-
--   Crystal Breaker \[Frostdraw Exclusive\] - When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
-    -   Detonate crystals on a player when they are guardbroken.
-    -   Prerequisite: 70 Frostdraw, Glass Path: Crystallization
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
     -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode.
@@ -954,12 +951,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Saint Jay last for double the duration of Chill
     -   Saint Jay COMPLETELY does not work with crystallization
     -   Prerequisite: Frostbite
-
--   _Shatter Spear_ \[Rare Talent, Frostdraw Exclusive\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   Prerequisites: Ice Lance, 70 Frostdraw.
-
--   The Cold Forge \[Common Talent, Frostdraw Exclusive\] - Your forge more shurikens when casting on ice. (+5 Elemental Intensity)
-    -   Prerequisite: Ice Forge, 25 Frostdraw.
 
 ### Immolator
 
@@ -1305,6 +1296,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 -   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your M1's to deal additional blood loss until you take damage.
+    -   While active, also grants +25% cheap damage.
     -   Prerequisites: Using Rapier, 40 Light Weapon
 
 ### Nimble Blade
@@ -1411,6 +1403,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
     -   Prerequisite: Hot Potato
+    -   Drops two bombs from one bomb.
 
 ### Saint of Blades
 

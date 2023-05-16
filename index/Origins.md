@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 61965
+revid: 62459
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -21,6 +21,9 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
 -   You begin with nothing but the [Stranded](Stranded.md) outfit, and a starting weapon of your choice; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). _If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead._
     -   Alternatively, if you complete the Tutorial, you will start with an extra, a Vanguard Brace\*, a Mantra of your choosing, Flint and a Dumbbell, on top of what you already start with.
+-   Your starting reputations are:
+    -   Friend of The Kingdom of Etrea and Lost Celtor
+    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 
 ## Lone Warrior
 
@@ -82,8 +85,9 @@ Also all of the kills need to be made on one single character
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON?...\]** ...but reduced EXP Gain from events.
         -   The EXP loss is almost non-existent, however, so getting the Maverick [boon](Boons_and_Flaws.md) cancels this out entirely. EXP gain from events is roughly 0.95x what it is normally.
-    -   **\[CON\]** Start with negative reputation towards [The Kingdom of Etrea](Etrea.md), [The Hive](The_Hive.md) and The Children of Navae...
-    -   **\[PRO\]** ...but start with neutral reputation toward [The Knives Of Eylis](The_Knives_of_Eylis.md).
+    -   Your starting reputations are:
+        -   Friend of The Knives of Eylis and Lost Celtor
+        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry and The Hundred Legions
     -   **\[PRO\]** You cannot initially be hunted down through bounties by other Voidwalkers...
         -   However you can still gain bad reputation towards the Knives of Eylis mercenaries by killing the squads of 3 Knives of Eylis spawning with a Children Of Navae hostage, thus appearing on the Voidheart's bountyboard. Voidwalkers can also take bounties on other Voidwalkers from nations they have negative reputation with, that being all of them.
     -   **\[CON\]** ...but you will be absolutely despised by the rest of the player base, so you may be attacked on sight while wearing the Whaler Initiate starter armor.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 62415
+revid: 62450
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -268,8 +268,14 @@ _When fighting, while dealing damage is important, reducing their posture can al
   </p>
   <p><br>
   This will deal a large amount of damage to NPCs, and inversely a low amount of damage to players, and will cause the victim to ragdoll for 5 (NPCs)/2 (Players) seconds and place their venting on cooldown while they are knocked. Executes NPCs if the damage dealt is high enough.</p>
-  <p><br>
-  <i>If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</i></p></td>
+  <ul>
+    <li>Equipment such as the Pale Assassin Cloak or the Assassin Talent can make it so that a level 1 player can instantly execute a Crypt Guardian.</li>
+  </ul><p><br>
+  </p>
+  <p><i>If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</i></p>
+  <ul>
+    <li>Though if you deal with more than 40% the target will automatically wake up.</li>
+  </ul></td>
   <td></td>
 </tr>
 <tr>

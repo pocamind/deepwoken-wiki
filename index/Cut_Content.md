@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 61716
+revid: 62454
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -77,9 +77,15 @@ notices:
     -   In the 03/13/23 update, Command: Leech is now a base Vow of Mastery command.
 -   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   In the 12/06/22 update, Command: Locate became a base Vow of Mastery command.
+-   **The Cold Forge \[Common Talent\] -** Your forge more shurikens when casting on ice. (+5 Elemental Intensity)
+    -   The talent was removed from the game with 05/12/23 update, as it became a base behavior for Ice Forge.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
+-   **Crystal Breaker \[Common Talent\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
+    -   The talent was removed from the game with 05/12/23 update, as it became a base behavior for Crystal.
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   In the 12/13/22 update, Diplomat was merged into Celebrity.
+-   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
+    -   The talent was removed from the game with 05/12/23 update, Winded became a base effect of Galebreathe.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the 01/03/23 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
@@ -108,6 +114,8 @@ notices:
     -   In the 12/13/22 update, Quick Recovery was into Kick Off.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the 12/13/22 update, Salesperson was merged into Snake Oil.
+-   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
+    -   The talent was removed from the game with 05/12/23 update, as it became a base behavior for Ice Lance.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
     -   In the 01/03/23 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.

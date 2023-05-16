@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 62412
+revid: 62455
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -170,7 +170,7 @@ Finally, just because you have one Nature, doesn't mean you cant do the other Na
 
 ### Collision with Fate - Achieving your Resonance
 
-_**IMPORTANT NOTE 1: You can only obtain your Resonance in the Depths' First Layer, [Scyphozia](First_Layer.md). Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress. You cannot gain your Resonance in the Second Layer, and attempting will leave you easily killed.**_
+_**IMPORTANT NOTE 1: Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress.**_
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 
@@ -226,5 +226,5 @@ Arch Mage confirming both talent cards do not affect resonance progression.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.
     -   This will most likely take one of two scenarios:
         -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
-        -   The second one will be something that many players want, being Layer 2 bells. In other words if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you will get new bells of the Second layer.
+        -   ~The second one will be something that many players want, being Layer 2 bells. In other words if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you will get new bells of the Second layer~. No longer a possibility as of May 15 2023 because you can now gain a normal bell in layer 2 and they aren't different bells, they are just normal.
 -   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, as a **Resonance** can only be activated by the original user- even after death.

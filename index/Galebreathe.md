@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 62430
+revid: 62449
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -16,7 +16,7 @@ _A gremor using Gale Lunge_
 
 .
 
-Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
@@ -324,20 +324,6 @@ Aeronade
  | 
 
 Your trap automatically detonates on contact with an object
-
- | 
-
-+2 Passive Agility  
-+5 Elemental Intensity
-
- |
-| File:Galebreathe Talent Placeholder.png | 
-
-Drifting Winds
-
- | 
-
-Enemies hit by your wind mantra are winded, having their attack speed lowered for a short duration.
 
  | 
 
