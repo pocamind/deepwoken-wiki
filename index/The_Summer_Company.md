@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 61272
+revid: 62563
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -30,6 +30,8 @@ As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer C
 They are one of the three factions employed by [The Authority](The_Central_Authority.md).
 
 They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves. They also rewire the Union's security devices; the [Mechalodaunts](Megalodaunt.md), making them aggresively attack friend and foe alike.
+
+They also buy and sell guns to the Authority, seen by the rifles and rifle spears that the Authority owns.
 
 ## Reputation
 

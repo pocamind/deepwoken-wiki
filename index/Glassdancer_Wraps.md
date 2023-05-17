@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 61774
+revid: 62564
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Arms, Equipment]
@@ -24,9 +24,9 @@ categories: [Armors, Arms, Equipment]
 | obtainment | Chests from:Songseeker Wilds, Minityrsa |
 | description | ... |
 
-“ WHO IS THE "DANCER" AND WHY IS HE DANCING ON GLASS?? THAT SEEMS LIKE A VERY IMPRACTICAL SURFACE TO DANCE ON. ”
+“ WHO IS THIS "DANCER" AND WHY ARE THEY DANCING ON GLASS?? THAT SEEMS LIKE A VERY IMPRACTICAL SURFACE TO DANCE ON. ”
 
-― Me
+― 2 INT Power 6 Adret
 
 ## Description
 

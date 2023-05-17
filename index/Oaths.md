@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62485
+revid: 62562
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -109,9 +109,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ \*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the duty of your Oath - free the lost souls from their shackles, help them escape into the light.\* ”
+“ With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
 
-― Glyph found in Temple of Forgotten Flames
+― Glyphs found in the Temple of the Forgotten Flame
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
