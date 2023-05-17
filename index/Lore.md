@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 62243
+revid: 62542
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1251,7 +1251,7 @@ _"The stars call you back..."_
 
 ### Flamecharm
 
-**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleeksty (Mentioned), Flame Worshipper Armor (Description), Lumen's Folklore: Volume 'Attunement'(Book)_
+**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleeksty (Mentioned), Flame Worshipper Armor (Description), Lumen's Folklore: Volume 'Attunement'(Book), Ploom (Flameworshiper in Lance Leshi's food shop), Flamecharm talents._
 
 _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 

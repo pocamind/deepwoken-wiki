@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 62408
+revid: 62545
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -62,4 +62,4 @@ When obtained, Resurrection will spend its points on the following stats:
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
 -   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If an ally's health drops below half, players with Resurrection will be able to see their health.
--   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally. Tested
+-   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.

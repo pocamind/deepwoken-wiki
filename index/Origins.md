@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 62517
+revid: 62548
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -86,14 +86,10 @@ Also all of the kills need to be made on one single character
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
     -   **\[PRO\]** Increased EXP Gain from bounties...
-    -   **\[CON?...\]** ...but reduced EXP Gain from events.
-        -   The EXP loss is almost non-existent, however, so getting the Maverick [boon](Boons_and_Flaws.md) cancels this out entirely. EXP gain from events is roughly 0.95x what it is normally.
+    -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
     -   Your starting reputations are:
         -   Friend of The Knives of Eylis and Lost Celtor
         -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry and The Hundred Legions
-    -   **\[PRO\]** You cannot initially be hunted down through bounties by other Voidwalkers...
-        -   However you can still gain bad reputation towards the Knives of Eylis mercenaries by killing the squads of 3 Knives of Eylis spawning with a Children Of Navae hostage, thus appearing on the Voidheart's bountyboard. Voidwalkers can also take bounties on other Voidwalkers from nations they have negative reputation with, that being all of them.
-    -   **\[CON\]** ...but you will be absolutely despised by the rest of the player base, so you may be attacked on sight while wearing the Whaler Initiate starter armor.
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.
@@ -101,8 +97,8 @@ Also all of the kills need to be made on one single character
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting...
         -   **\[CON\]** ...but you will gain a very obvious looking particle effect that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
-        -   **\[CON\]** With the Stealth option, you _won't gain vision of your target_ and a large range for targets to be "In range of the void"...
-        -   **\[PRO\]** ...but you don't gain the particle effect until you get attacked by your target, allowing you to play them into your hand rather than immediately going in loud. The teleportation sound is also absent.
+        -   **\[PRO\]** With the Stealth option, you do not make a sound, do not receive the particle effects until you engage your target and can approach player that are further away from Ferocity's range...
+        -   **\[CON\]** ...but you do not gain vision of your target.
 -   Grants the Knives of Eylis talent "Voideye"
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability as a 10 minute cooldown. _The cooldown automatically ends when a bounty is completed._

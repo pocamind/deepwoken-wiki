@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 62530
+revid: 62539
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -62,7 +62,7 @@ _([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
-⠀⠀Way Of Navae⠀⠀⠀⠀⠀Quickfang⠀⠀⠀⠀⠀⠀⠀Irontusk⠀⠀⠀⠀⠀⠀⠀⠀Silversix⠀⠀⠀⠀⠀⠀⠀⠀AvengerTemplate:NavBox Template:NavBox Template:NavBox Template:NavBox Template:NavBox
+Way Of Navae⠀⠀⠀⠀Quickfang⠀⠀⠀⠀⠀⠀Irontusk⠀⠀⠀⠀⠀⠀⠀Silversix⠀⠀⠀⠀⠀⠀⠀AvengerTemplate:NavBox Template:NavBox Template:NavBox Template:NavBox Template:NavBox
 
 -   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
 -   _As of the release of Verse 2, you could use 25 [Echoes](Echoes.md)_ _(each)_ _to unlock the four new starting weapons shown above._
@@ -127,9 +127,8 @@ Here is what makes the [Deepbound Origin](https://deepwoken.fandom.com/wiki/Orig
 2.  You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
 3.  You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
 4.  You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
-5.  ~Killing a [Monster](Monsters.md) with more than 500 health gives 3% [Luck](Luck.md). (Stacks up with Corrupt monsters luck.)~ No more luck after Layer 2.
-6.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
-7.  You cannot do the [Trial of One](Trial_of_One.md).
+5.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
+6.  You cannot do the [Trial of One](Trial_of_One.md).
 
 ### [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
