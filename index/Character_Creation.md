@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 62524
+revid: 62530
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -121,15 +121,15 @@ The Deepbound [Origin](Origins.md) is unlocked on all slots after talking to [Ak
 
 Here is what makes the [Deepbound Origin](https://deepwoken.fandom.com/wiki/Origins#Deepbound) unique:
 
--   Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
+1.  Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
     -   Said [Talent](Talents.md) gives increased EXP gain [The Depths](The_Depths.md), but heavily reduced in The Etrean Luminant.
     -   You also have a positive sanity aura at Castle Light, allowing one to regenerate their sanity without going to the surface.
--   You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
--   You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
--   You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
--   Killing a [Monster](Monsters.md) with more than 500 health gives 3% [Luck](Luck.md). (Stacks up with Corrupt monsters luck.)
--   The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
--   You cannot do the [Trial of One](Trial_of_One.md).
+2.  You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
+3.  You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
+4.  You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
+5.  ~Killing a [Monster](Monsters.md) with more than 500 health gives 3% [Luck](Luck.md). (Stacks up with Corrupt monsters luck.)~ No more luck after Layer 2.
+6.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
+7.  You cannot do the [Trial of One](Trial_of_One.md).
 
 ### [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 

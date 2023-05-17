@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 61150
+revid: 62529
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -147,7 +147,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
 -   Etrean Guards Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
--   Etrean Footsoldiers Etreaiconfaction vs Hive Guards Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Footsoldiers Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
@@ -187,7 +187,7 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 #### **Feasting Megalodaunt**
 
-A [Megalodaunt](Megalodaunt.md) feasting on the corpse of a [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never despawn and are found in set locations. There are three locations they can be found at:
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never despawn and are found in set locations. There are three locations they can be found at:
 
 One in the [Towerstruck lands](Towerstruck_Lands.md).
 

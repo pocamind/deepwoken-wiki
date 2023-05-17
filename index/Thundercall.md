@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 62523
+revid: 62531
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -968,7 +968,7 @@ When using lightning clones you disappear leaving behind a static clone for a sh
 
  | 
 
-Lightning Clones
+30 Agility + Lightning Clones
 
  |
 |  | 
