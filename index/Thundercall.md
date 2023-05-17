@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 61604
+revid: 62523
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -640,7 +640,7 @@ Static Link
 
  | 
 
-Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long.
+Flourishing an enemy creates a Static Link between you and your enemy, making your lightning stun for 1.5x as long.
 
  | 
 
