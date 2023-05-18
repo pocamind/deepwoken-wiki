@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 62516
+revid: 62588
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Arms, Equipment]

@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 62559
+revid: 62593
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

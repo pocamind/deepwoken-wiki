@@ -1,6 +1,6 @@
 ---
 title: Flameguard Pauldrons
-revid: 61870
+revid: 62586
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons]

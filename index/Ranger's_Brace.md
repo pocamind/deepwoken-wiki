@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 62382
+revid: 62580
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Braces]

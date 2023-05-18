@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 62497
+revid: 62590
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]

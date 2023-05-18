@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 62513
+revid: 62587
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms]

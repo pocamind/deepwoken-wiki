@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 62122
+revid: 62578
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -44,4 +44,4 @@ The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) that resembles
     
     File:Hivelord Arm.png
     
-    **The Weapon only have 5% PEN, this screenshot is the weapon with 1 star +5% PEN.**
+    **The Weapon only has 5% PEN, this screenshot is the weapon with 1 star +5% PEN.**
