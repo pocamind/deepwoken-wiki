@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 62322
+revid: 62642
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -2067,7 +2067,7 @@ Chests from:
  | N/A |
 | File:Warden pauldrons.jpg | 
 
-Warden's Pauldrons
+[Warden Pauldrons](Warden_Pauldrons.md)
 
  | 
 

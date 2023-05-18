@@ -1,16 +1,16 @@
 ---
 title: Wishmaker
-revid: 51673
+revid: 62661
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Armors, Items, Exclusive Outfits]
+categories: [Exclusive Outfits, Outfits]
 ---
 
 # Wishmaker
 
 Template:ArmorInfobox**Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
-## Trivia/Notes
+## Trivia
 
 -   _Wishmakers are [Lightborn](Lightborn.md)s with the special ability to grant an individual a wish, but at the cost of said individual also receiving a new [flaw](Boons_and_Flaws.md) "Wishbound"._
 -   Worn by Deepwoken developer [Iltria](Developer_Specs.md#iltria-leafre-spellhardt)

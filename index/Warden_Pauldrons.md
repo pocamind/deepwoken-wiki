@@ -1,0 +1,33 @@
+---
+title: Warden Pauldrons
+revid: 62645
+source: https://deepwoken.fandom.com/wiki/Warden_Pauldrons
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Arms, Pauldrons]
+---
+
+# Warden Pauldrons
+
+| Warden Pauldrons | |
+|---|---|
+| type | Arms |
+| rarity | Legendary |
+| selling price | Unknown |
+| requirements | None |
+| weight | 2 |
+| innate stats | 10 Health, 2 Posture, 2 Pips (One guaranteed legendary Pip) |
+| innate talent | None |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:Fort Merit |
+| description | Elegant and steadfast, these pauldrons are truly fit for one who protects the seas. |
+
+## Description
+
+The Warden Pauldrons are an equipment item in the arms category. Equipping them grants you 10 Health, 2 Posture, and 2 Pips (One guaranteed legendary Pip). They are rarely found in chests from [Fort Merit](Fort_Merit.md).
+
+## Trivia
+
+-   Trivial indeed.

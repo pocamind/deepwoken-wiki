@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 62417
+revid: 62656
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -246,7 +246,7 @@ Tacet Hug
 
 Tacet Drop Kick
 
- | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
+ | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tacet drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
 
 **Mechalodaunt:**
 
@@ -347,7 +347,7 @@ A Megalodaunt swimming.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
-    -   Moves such as **Thousand Needles** and **Spit** are, however, really hard to avoid, as it covers a good Area of Effect.
+    -   Moves such as **Thousand Needles** are, however, really hard to avoid, as it covers a good Area of Effect.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) or [Ignition Deepdelver](Ignition_Deepdelver.md) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all it's attacks. It's very risky but it is profitable.

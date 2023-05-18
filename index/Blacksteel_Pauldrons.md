@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 62576
+revid: 62649
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | 3 Health, 1 Posture, Unknown number of Pips |
+| innate stats | 3 Health, 1 Posture, 3 Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Blacksteel Pauldrons are an equipment item in the arms category. Equipping them grants you 3 Health, 1 Posture, and an unknown number of Pips. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as a rare drop from [Blacksteel Pirates](Blacksteel_Pirate.md).
+The Blacksteel Pauldrons are an equipment item in the arms category. Equipping them grants you 3 Health, 1 Posture, and 3 Pips. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as a rare drop from [Blacksteel Pirates](Blacksteel_Pirate.md).
 
 ## Trivia
 

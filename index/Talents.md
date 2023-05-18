@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62619
+revid: 62646
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1063,11 +1063,11 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
         -   Despite the card saying "hitting", you do not need to damage someone to reset the cooldown (if it gets blocked, parried or dodged, it also resets it)
         -   Prerequisite: Jus Karita
 
--   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff. (+2 Health, +1 Posture)
+-   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff.
     -   Hitting your opponent with the M1s 3 times will grant you a speed boost.
     -   Prerequisite: Jus Karita
 
--   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost. (+3 Health)
+-   Flying Swiftkick \[Common Talent\] - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost.
     -   Prerequisites: Jus Karita and Swiftkick Prodigy
 
 ### Lancer

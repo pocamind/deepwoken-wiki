@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62562
+revid: 62670
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -591,7 +591,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ### Notes
 
--   Upon obtaining the oath, your reputation with The Divers will plummet into the negatives. You can still gain reputation normally (such as completing Layer 2 expeditions) but not pay your rep back.
+-   Upon obtaining the oath, your reputation with The Divers will be set to Hunted. You can still gain reputation normally (such as completing Layer 2 expeditions) but not pay your rep back.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards. However, if you are on the Diver guild, you will have max rep with the Divers despite being a contractor.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   While farming alts or old slots _is_ time consuming, it poses _less_ risk of wiping than camping castle light or Celtor to kill players.

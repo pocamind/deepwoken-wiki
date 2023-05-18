@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 61277
+revid: 62664
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]
@@ -46,3 +46,4 @@ Its function is the same as that of the [Parry Dagger](Parrying_Dagger.md) (but 
 -   One of two Parry Dagger type weapons.
 -   Seems to be paired with Kyrsedge.
 -   The weapon used to have a bug where the agility requirement did not apply. This has been fixed.
+-   Supposedly increases base damage dealt.

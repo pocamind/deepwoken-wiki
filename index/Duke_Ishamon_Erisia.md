@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 62254
+revid: 62669
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound,” but only if you have 75 Attunement upon executing him.
+Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound,” but only if you have 75 Attunement upon executing him and the talent “Weapon Unbound,” but only if you have 75 Weapon upon executing him.
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over a black tuxedo vest, along with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -82,7 +82,7 @@ After this attack he will use his fists for around 30 seconds.
 ### Talents
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white.
+-   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white which supposedly makes it a little stronger than a normal Strong Left.
 -   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well.
 
 ## Finisher

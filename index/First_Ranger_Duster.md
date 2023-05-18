@@ -1,6 +1,6 @@
 ---
 title: First Ranger Duster
-revid: 62602
+revid: 62641
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -30,4 +30,4 @@ The First Ranger Duster is an animated equipment item in the arms category. The 
 
 ## Trivia
 
--   Used to unanimated.
+-   Used to be unanimated.
