@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 60697
+revid: 62613
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 A Subtle Knife of Eylis is an NPC that can be found anywhere on the map escorting a Navaen Hostage and can be found in the following events:
 
--   Knives of Eylis raiding an Etrean ship ([The Aratel Sea](The_Aratel_Sea.md))
+-   Knives of Eylis raiding an Etrean ship ([The Aratel Sea](The_Aratel_Sea.md) and [The Etrean Sea](The_Etrean_Sea.md))
 -   Knives of Eylis with a Navaen Nomad hostage ([Upper Erisia](Upper_Erisia.md))
 
 A Subtle Knife of Eylis is also always accompanied with 2 [Knives of Eylis](Knife_of_Eylis.md).
