@@ -1,9 +1,9 @@
 ---
 title: "Tracker's Brace"
-revid: 62581
+revid: 62628
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Braces]
+categories: [Equipment, Arms, Braces]
 ---
 
 # Tracker's Brace

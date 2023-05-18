@@ -1,9 +1,9 @@
 ---
 title: Vanguard Brace
-revid: 61860
+revid: 62629
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Arms, Equipment]
+categories: [Equipment, Arms, Braces]
 ---
 
 # Vanguard Brace

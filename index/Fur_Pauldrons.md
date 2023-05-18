@@ -1,9 +1,9 @@
 ---
 title: Fur Pauldrons
-revid: 61871
+revid: 62635
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Armors, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Fur Pauldrons

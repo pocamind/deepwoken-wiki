@@ -1,9 +1,9 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 62583
+revid: 62631
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Equipment, Arms]
 ---
 
 # Azure Sentinel Pauldrons

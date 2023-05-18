@@ -1,6 +1,6 @@
 ---
 title: Simple Pauldrons
-revid: 62594
+revid: 62640
 source: https://deepwoken.fandom.com/wiki/Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -30,4 +30,4 @@ The Simple Pauldrons are an equipment item in the arms category. The stats and P
 
 ## Trivia
 
--   It has simple in the goddamned name! did you expect there to be anything special about it? why? IT LITERALLY HAS SIMPLE IN THE NAME.
+-   Used by higher-ranking [Knives of Eylis](The_Knives_of_Eylis.md) members (I.E. [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md)).
