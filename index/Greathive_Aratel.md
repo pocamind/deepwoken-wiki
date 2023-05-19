@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 60512
+revid: 62754
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -92,6 +92,10 @@ The doors to enter the Lordsgrove.
 #### Inn
 
 -   Players can spend to set their spawn point here.
+
+#### Canopy Peak
+
+-   Currently no use. Only thing of slight note is a [Hive Guard](Hive_Guard.md).
 
 #### Observatory
 
