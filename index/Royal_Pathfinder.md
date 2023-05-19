@@ -1,9 +1,9 @@
 ---
 title: Royal Pathfinder
-revid: 61779
+revid: 62742
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Arms, Items]
+categories: [Equipment, Arms]
 ---
 
 # Royal Pathfinder
@@ -12,7 +12,7 @@ categories: [Armors, Arms, Items]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | Unknown |
+| selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | 6 Health, 3 Pips |
@@ -24,7 +24,7 @@ categories: [Armors, Arms, Items]
 | obtainment | Chests from:Starswept Valley, Duke Erisia |
 | description | ... |
 
-“ The Notes. Hand it over. ”
+“ The Notes. Hand them over. ”
 
 ― Power 17 Royal Pathfinder Vesperian to a freshie at Etris
 

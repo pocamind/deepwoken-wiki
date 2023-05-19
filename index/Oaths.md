@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62672
+revid: 62693
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -109,7 +109,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
+“ The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
 
 ― Glyphs found in the Temple of the Forgotten Flame
 

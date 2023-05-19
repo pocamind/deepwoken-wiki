@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 62650
+revid: 62703
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Pauldrons]
 | Fur Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 3 Health, 2 Pips |

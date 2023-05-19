@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 62677
+revid: 62720
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

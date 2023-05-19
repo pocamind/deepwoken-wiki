@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 62628
+revid: 62713
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Braces]
 | Tracker's Brace | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 3 Health, 1 Posture, Unknown number of Pips |

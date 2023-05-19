@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 62624
+revid: 62712
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Pauldrons]
 | Steel Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 2 Health, 1 Pip |

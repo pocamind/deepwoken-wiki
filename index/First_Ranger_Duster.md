@@ -1,9 +1,9 @@
 ---
 title: First Ranger Duster
-revid: 62641
+revid: 62734
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Equipment, Arms, Dusters]
 ---
 
 # First Ranger Duster

@@ -1,9 +1,9 @@
 ---
 title: Justicar Defender Coat
-revid: 62647
+revid: 62735
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Variants, Arms]
+categories: [Equipment, Arms]
 ---
 
 # Justicar Defender Coat
@@ -11,7 +11,7 @@ categories: [Armors, Variants, Arms]
 | Justicar Defender Coat | |
 |---|---|
 | type | Arms |
-| rarity | Rare |
+| rarity | N/A |
 | selling price | N/A |
 | requirements | Power 13 |
 | weight | 2 |
@@ -30,6 +30,6 @@ The Justicar Defender is an animated equipment item in the arms category. Equipp
 
 ## Trivia
 
--   Cannot be sold to [Antiquarians](Antiquarian.md) for an unknown reason.
+-   Seems to have no rarity in-game, simply being called "Arms" in campfires instead of "Rare Arms" or "Common Arms". This is presumably why it cannot be sold to [Antiquarians](Antiquarian.md), as the rarity of an item decides the selling price.
 -   Ash, Crimson, and Magenta variants are missing pictures.
 -   With 8 different colors, it has the most variants of any equipment together with the [Ministry Cloak](Ministry_Cloak.md).

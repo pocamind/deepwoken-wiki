@@ -1,9 +1,9 @@
 ---
 title: Authority Commander Coat
-revid: 62600
+revid: 62732
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Equipment, Armors, Arms, Coats]
+categories: [Equipment, Arms, Coats]
 ---
 
 # Authority Commander Coat
@@ -11,8 +11,8 @@ categories: [Character, Equipment, Armors, Arms, Coats]
 | Authority Commander Coat | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | 10 Health, 2 pips |

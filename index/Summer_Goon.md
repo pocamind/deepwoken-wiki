@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 56686
+revid: 62722
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,12 +12,12 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Summer Goons are enemy NPC that can only be found in the reactor room of Miner's landing. They can during one of these events:
+Summer Goons are enemy NPC that can only be found in the reactor room of Miner's landing. They can be found during one of the following events:
 
--   Three Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the reactor room.
+-   Five Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the reactor room.
 -   Two Summer Goons fighting two [Ignition Union Fighters](Ignition_Union_Fighter.md) in the ramp next to the reactor room.
 
-A Summer Goon only wears a [Summer Company Uniform](Summer_Company_Uniform.md) outfit with their [race](Aspects.md) varying.
+A Summer Goon only wears a [Summer Dragoon](Summer_Dragoon.md) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 

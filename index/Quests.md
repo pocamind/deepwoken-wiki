@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 62241
+revid: 62695
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -291,6 +291,8 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
 
 **Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
+
+**Clean-up '''Quest Location''': Miner's Landing '''Guide''': Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guard invading the upper reactor room. Kill ~5 then return to him. Repeatable. '''Reward/s''': Reputation, EXP, "Bravery," Door Unlock.:**
 
 ## Attribute Unbound Quests
 

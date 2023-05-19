@@ -1,9 +1,9 @@
 ---
 title: "Adjudicator's Coat"
-revid: 62597
+revid: 62729
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors]
+categories: [Equipment, Arms, Coats]
 ---
 
 # Adjudicator's Coat
@@ -11,8 +11,8 @@ categories: [Armors]
 | Adjudicator's Coat | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | Power 13 |
 | weight | 2 |
 | innate stats | 2 Pips |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62646
+revid: 62721
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -209,6 +209,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
     -   Obtained after fishing 10 times successfully.
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
+
+### **Annihilator**
+
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
+    -   Prerequisite: 100 Strength
 
 ### Apex Predator
 

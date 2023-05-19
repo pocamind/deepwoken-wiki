@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 61466
+revid: 62697
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -69,7 +69,7 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 
 -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 -   [Miserables](Misérables.md)
--   Cap'n Orlandeau
+-   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 
 ## Lore
 

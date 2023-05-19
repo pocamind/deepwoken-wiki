@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 62685
+revid: 62725
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -10,7 +10,7 @@ categories: [Talents]
 
 ## Obtainment
 
-Currently there is no remotely functional method to obtain a true Regalias, nor is there any evidence of there even being one. The most functional method involves wiping until you obtain one.
+Currently there is no remotely functional method to obtain a true Regalias, nor is there any evidence of there even being one. The most functional method involves wiping until you obtain one. (Note: it has been confirmed by Arch\_Mage that repeatedly wiping at power 1 without doing anything will never grant you a Regalia)
 
 ## Mute
 
@@ -20,8 +20,8 @@ It seems as if the Guards at [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) w
 
 ## Trivia
 
--   There may be more Regalias, however only one is known to exist, either because it is the only one in the game, or it is the only one currently found.
--   The definition of a regalia is an emblem or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
+-   There may be more Regalia, however only one is known to exist, either because it is the only one in the game, or the only one currently found.
+-   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
 -   Mute does not apply to any monsters or humanoids encountered in [Layer 2](Second_Layer.md).

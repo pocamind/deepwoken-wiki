@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 62589
+revid: 62715
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Pauldrons]
 | Imperial Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 3 Health, 1 Posture, 2 Pips |

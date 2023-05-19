@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 62286
+revid: 62694
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -73,6 +73,7 @@ Check the rest out for yourself
 | [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
+| Orion | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP, Bravery and a door unlock. |  |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
   
