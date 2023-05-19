@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 62207
+revid: 62682
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -239,7 +239,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
-  <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
+  <td><div><p>While held and in combat, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Luminants.<br>

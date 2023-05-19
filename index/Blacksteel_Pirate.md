@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 60894
+revid: 62683
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -52,3 +52,4 @@ A Blacksteel pirate executes the player after knocking them:
 -   They may be more difficult than bandits if you don't know how to parry you will get combo'ed.
 -   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks. (The second one is blocked by blocks)
 -   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".
+-   The Darksteel Greatsword Blacksteel Pirates pose the biggest threat to rookie players; only engage if you know how to parry the critical.

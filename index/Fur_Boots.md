@@ -1,16 +1,12 @@
 ---
 title: Fur Boots
-revid: 38723
+revid: 62679
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Armors]
 ---
 
 # Fur Boots
-
-“ Apple Bottom Jeans! ”
-
-― Shadow the Capra
 
 Template:EquipmentStats
 

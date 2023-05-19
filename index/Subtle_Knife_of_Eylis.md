@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 62613
+revid: 62684
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -45,7 +45,8 @@ A Subtle Knife of Eylis executes it's opponent after knocking them:
 
 ## Tips
 
--   Use ranged mantras to hit these guys when they have really big time bubbles, hitting them cancels their time bubble completely.
+-   Use ranged mantras to hit these guys when they activate their time bubbles, hitting them cancels their time bubble completely.
+-   If you don't have any ranged mantras, you'll have to get up close to them since a single hit from any attack will cancel their time bubble.
 
 ## Trivia
 

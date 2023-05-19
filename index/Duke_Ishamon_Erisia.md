@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 62669
+revid: 62673
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -82,7 +82,7 @@ After this attack he will use his fists for around 30 seconds.
 ### Talents
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white which supposedly makes it a little stronger than a normal Strong Left.
+-   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra.
 -   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well.
 
 ## Finisher
