@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 62782
+revid: 62789
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -72,6 +72,7 @@ categories: [Deepwoken]
 ### **Attunementless**
 
 -   **Punishment** may be a reference to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) [Royal Guard](https://devilmaycry.fandom.com/wiki/Royalguard_Style) from _Devil May Cry._
+-   Shoulder Bash may be a reference to Warden Shoulder Bash from For Honor.
 
 ## Oaths
 

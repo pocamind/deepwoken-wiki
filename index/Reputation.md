@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 60991
+revid: 62792
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -220,6 +220,7 @@ Crate Retrieval
 ## Notes
 
 -   Attempting to reset your reputation with the [Fugitive](Boons_and_Flaws.md) flaw will not work. Paying to restore reputation only resets up to the default, low reputation.
+-   If your status drops to 'Villain', you will be unable to pay to reset your reputation.
 
 ## Trivia
 

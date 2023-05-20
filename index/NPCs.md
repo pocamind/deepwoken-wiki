@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 62694
+revid: 62796
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -100,3 +100,4 @@ Check the rest out for yourself
 | [Windrunner](Windrunner.md) | Unaligned | [Etrean Wilds](Etrean_Wilds.md) | Agility unbound | May need a friend or Chime of Dwelling to reach him even with 77 Agility |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](The_Depths.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations |
+| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants Starkindred Oath |  |

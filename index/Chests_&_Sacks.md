@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 62785
+revid: 62786
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -22,7 +22,7 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 -   Epic Armors, weapons and Outfit Schematics are listed as red.
 -   Rare items are listed as a dull gold.
 -   Armors or Weapons with a Mythical rarity are listed as a bright violet.
-    -   The only Mythical rarity items so far are Legendary weapons ~and the Kyrs weapon series.~ kyrs weapons are no longer mythical weapons
+    -   The only Mythical rarity items so far are Legendary weapons ~and the Kyrs weapon series.~ Kyrs weapons are no longer legendary weapons.
 -   Legendary Armors, Schematics or Rings are listed as a bright cyan.
 -   Enchanted items are listed as a white-ish color.
 

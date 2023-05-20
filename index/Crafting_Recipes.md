@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 61594
+revid: 62797
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -328,7 +328,8 @@ _**Negative**_
 
  | _**Negative**_
 
--   Removes Reservoir
+-   ~Removes Reservoir~
+-   It removes some ether instantly, about 10-20%. (Reservoir doesn't exist anymore)
 
  | 
 
