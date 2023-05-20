@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 61943
+revid: 62782
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -109,7 +109,7 @@ categories: [Deepwoken]
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft.
+-   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. [**Nautilodaunts**](Nautilodaunt.md) also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
 
 ## Resonance
 
@@ -152,8 +152,11 @@ categories: [Deepwoken]
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 -   **Serpent's Edge** is a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer, a_nd the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
-    -   It's critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
+    -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
+
 -   **Railblade** could be seen as [Nagoriyuki](https://guiltygear.fandom.com/wiki/Nagoriyuki)'s sword from Guilty Gear.
+    -   Its critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
+
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._

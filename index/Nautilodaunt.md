@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 61104
+revid: 62784
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ There are no existing records of research done on Nautilodaunts, and their origi
 
 In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey. In extremely rare cases, they would replicate themselves instead, though whether or not this action should be classified as reproduction or replication, remains unknown.
 
-Their skill and strength is even recognised by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful.
+Their skill and strength is even recognised by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful. They are true menaces, the one at the marketplace even yielding Diver reputation.
 
 ## Attack Patterns
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62721
+revid: 62783
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -103,6 +103,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
     -   "Max ether" means having more than 95% ether.
     -   Prerequisite: 40 Intelligence
+    -   (Mainly for Pve or Silentheart)
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
@@ -140,7 +141,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
-### Alchemist
+### Alchemist (Useless)
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence
