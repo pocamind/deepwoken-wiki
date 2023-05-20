@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 62642
+revid: 62808
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -20,7 +20,7 @@ Equipment are items that can usually be found in chests. They can be equipped to
 
 Equipment can also be randomly obtained by turning in an Artifact to a banker.
 
-The player can wear 7 types of equipment: Head, Face, Ears, Torso, Arms, Rings and Boots.
+The player can wear 7 types of equipment: Arms, Legs, Head, Torso, Rings, Ears, and Face.
 
 Some equipment comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms items can have these). These stats are displayed in grey.
 

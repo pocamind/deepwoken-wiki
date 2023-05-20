@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 62592
+revid: 62803
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Pauldrons]
 | Redsteel Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare(Assumed) |
+| selling price | 25 (Assumed) |
 | requirements | None |
 | weight | 2 |
 | innate stats | Unknown |
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:Aratel Island, Chime of Conflict, Erisia |
+| obtainment | Chests from:Aratel Island, Chime of Conflict, Erisia |
 | description | ... |
 
 ## Description
