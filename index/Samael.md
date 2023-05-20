@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 62795
+revid: 62825
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Samael is an NPC that will grant you the Starkindred oath. He is located in the hidden area in the Derelict Highchurch, go down the trapdoor ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room. He will be found to the left of the Celestial.
+Samael is an NPC that will grant you the [Starkindred](Oaths.md) oath. He is located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room. He will be found to the left of the Celestial.
 
 ## Dialogue
 

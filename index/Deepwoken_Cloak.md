@@ -1,9 +1,9 @@
 ---
 title: Deepwoken Cloak
-revid: 62601
+revid: 62816
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Equipment, Arms, Cloaks]
 ---
 
 # Deepwoken Cloak
@@ -30,5 +30,5 @@ The Deepwoken Cloak is an equipment item in the arms category. Equipping it gran
 
 ## Trivia
 
--   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason; there were only 3 known people that had it after its removal. It was re-added on May 10th, 2022.
 -   The Deepwoken Cloak is part of the "Deepwoken" set; with the only other piece being the [Deepwoken Hood](Deepwoken_Hood.md).
+-   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason; there were only 3 known people that had it after its removal. It was re-added on May 10th, 2022.
