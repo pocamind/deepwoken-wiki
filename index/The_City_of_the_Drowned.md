@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 51084
+revid: 62878
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -12,7 +12,7 @@ notices:
 
 LocationL The City of the Drowned LocationR
 
-TERRITORY OF celtor
+TERRITORY OF lost celtor
 
 The sunken remnants of a lost civilization give little respite to the transitory beings that pass through.
 

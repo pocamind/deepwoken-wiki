@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 62449
+revid: 62885
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -549,23 +549,6 @@ FROM: Galebreather
  |
 | File:Galebreathe Talent Placeholder.png | 
 
-Tailwind
-
- | 
-
-Gain a speed boost after a successful inhale.
-
- | 
-
-+1 Elemental Intensity  
-+2 Health  
-Costs _[Ether](Combat_Mechanics.md)_.
-
-FROM: Inhale
-
- |
-| File:Galebreathe Talent Placeholder.png | 
-
 Inhale
 
  | 
@@ -614,21 +597,6 @@ If you hit an enemy's block, your next dash will be an empowered wind dash.
  | 
 
 +1 Passive Agility +2 Elemental Intensity
-
-FROM: Galebreather
-
- |
-| File:Galebreathe Talent Placeholder.png | 
-
-Gale Dash
-
- | 
-
-After dodging an attack successfully your next dash will be a Gale Dash.
-
- | 
-
-+2 Passive Agility +4 Elemental Intensity +3 Health
 
 FROM: Galebreather
 

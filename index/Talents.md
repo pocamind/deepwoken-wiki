@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62783
+revid: 62886
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1052,6 +1052,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   _Stratos Steps will only proc twice before going on a cooldown._
         -   _Said cooldown applies to individual steps._
 -   _Vigil's Grace \[Unlockable Talent, Jetstriker Exclusive\] - Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)_
+    -   _Vigil's Grace empowered running m1's deals +10% damage._
 
 ### Justicar
 

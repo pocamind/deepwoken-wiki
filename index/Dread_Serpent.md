@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 62551
+revid: 62880
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -13,7 +13,7 @@ categories: [Monsters, Bosses]
 ― Lumen's Folklore: Volume 'North'
 
   
-_Also referred to as Kaido, Ardour, or Sea Serpent._
+_Also referred to as Ardour or Sea Serpent._
 
 Template:Creature Infobox V3
 
@@ -51,7 +51,6 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.
--   Its general design is just a copy of [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
 -   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
@@ -61,7 +60,6 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2 however.
 -   Apparently it can fly, though it doesn't use this in battle.
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
-    -   This may come as a result of the notorious copyright strikes taken against anime-based Roblox games.
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
 

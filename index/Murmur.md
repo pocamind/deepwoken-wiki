@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 62707
+revid: 62889
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -66,7 +66,7 @@ The only actions a user can perform during Tacet are crouch walking, rolling, va
 
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
-Obtaining tacet will also give you either neutral or positive rep with the ministry dependingon your current ministry rep
+Obtaining Tacet will also give you either neutral or positive reputation with the Ministry, but merely depends on what your current reputation is.
 
 Some monsters might still aggro when in tacet if too close in some situations (might be bug needs testing)
 
@@ -128,3 +128,12 @@ This allow the user to track down those who stay silent or are trying to hide fr
 -   In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge). Required to be at least power 6 in order to initiate a conversation.
 -   You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly. Repeat this task 3 times and you will be granted the murmur.
 -   Failed attempts will lead to 2-3 Parasites forming into your body.
+
+## Trivia
+
+-   Some murmurs are named after musical terms.
+    -   Tacet, which is translated into 'silent', whereas the murmur completely silences your actions by making you invisible.
+    -   Rhythm, in which the user listens beats emanating from entities.
+-   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
+-   Murmurs were introduced through the [Mur of Light](Mur_Of_Light.md).
+-   Tacet is the only murmur to have a corresponding mantra.

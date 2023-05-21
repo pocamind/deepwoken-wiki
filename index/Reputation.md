@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 62792
+revid: 62877
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -210,7 +210,7 @@ Crate Retrieval
 -   [The Ministry](The_Ministry.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
--   [Celtor](The_City_of_the_Drowned.md)
+-   [Lost Celtor](The_City_of_the_Drowned.md)
 
 ### Non-Reputable Factions
 
